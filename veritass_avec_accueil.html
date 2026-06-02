@@ -1,0 +1,453 @@
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;font-size:14px;background:var(--color-background-tertiary);color:var(--color-text-primary);line-height:1.6}
+
+nav{display:flex;align-items:center;justify-content:space-between;padding:0.9rem 1.5rem;background:var(--color-background-primary);border-bottom:0.5px solid var(--color-border-tertiary);position:sticky;top:0;z-index:50}
+.logo{font-family:var(--font-serif);font-size:1.5rem;font-weight:500;letter-spacing:2px;color:var(--color-text-primary);cursor:pointer}
+.logo-dot{color:var(--color-text-tertiary)}
+.nav-links{display:flex;gap:2px}
+.nav-btn{background:none;border:none;padding:0.35rem 0.8rem;border-radius:var(--border-radius-md);font-size:13px;color:var(--color-text-secondary);cursor:pointer;font-family:inherit;transition:all 0.15s}
+.nav-btn:hover,.nav-btn.on{color:var(--color-text-primary);background:var(--color-background-secondary)}
+.nav-date{font-size:11px;color:var(--color-text-tertiary);letter-spacing:1px}
+
+.search-zone{padding:0.8rem 1.5rem 0;background:var(--color-background-primary);border-bottom:0.5px solid var(--color-border-tertiary)}
+.search-row{display:flex;gap:8px;max-width:600px}
+.search-row input{flex:1;padding:0.4rem 0.8rem;background:var(--color-background-secondary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-md);font-size:13px;color:var(--color-text-primary);font-family:inherit;outline:none}
+.search-row input:focus{border-color:var(--color-border-primary)}
+.search-row button{padding:0.4rem 0.9rem;background:var(--color-background-secondary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-md);font-size:12px;color:var(--color-text-secondary);cursor:pointer;font-family:inherit}
+.sr-drop{display:none;max-width:600px;border:0.5px solid var(--color-border-tertiary);border-top:none;border-radius:0 0 var(--border-radius-md) var(--border-radius-md);overflow:hidden;background:var(--color-background-primary);margin-bottom:0.5rem}
+.sr-item{padding:0.6rem 0.8rem;cursor:pointer;border-bottom:0.5px solid var(--color-border-tertiary)}
+.sr-item:last-child{border-bottom:none}
+.sr-item:hover{background:var(--color-background-secondary)}
+.sr-title{font-size:13px;color:var(--color-text-primary);margin-bottom:1px}
+.sr-cat{font-size:10px;color:var(--color-text-tertiary);text-transform:uppercase;letter-spacing:1px}
+
+.wrap{padding:1.5rem 1.5rem 4rem;max-width:1100px;margin:0 auto}
+
+/* ===== PAGE D'ACCUEIL ===== */
+.hero{text-align:center;padding:3.5rem 1.5rem 2.5rem;max-width:680px;margin:0 auto}
+.hero-eyebrow{font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:1.2rem}
+.hero-title{font-family:var(--font-serif);font-size:2.8rem;font-weight:500;line-height:1.1;color:var(--color-text-primary);margin-bottom:1rem;letter-spacing:-0.5px}
+.hero-title em{font-style:italic;color:var(--color-text-secondary)}
+.hero-sub{font-size:15px;color:var(--color-text-secondary);max-width:460px;margin:0 auto 2rem;line-height:1.7}
+.hero-search{display:flex;gap:0;background:var(--color-background-primary);border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-lg);padding:0.4rem 0.4rem 0.4rem 1rem;max-width:480px;margin:0 auto 2.5rem}
+.hero-search input{flex:1;background:none;border:none;outline:none;color:var(--color-text-primary);font-size:14px;font-family:inherit}
+.hero-search input::placeholder{color:var(--color-text-tertiary)}
+.hero-search button{background:var(--color-text-primary);color:var(--color-background-primary);border:none;font-family:inherit;font-size:13px;font-weight:500;padding:0.5rem 1.1rem;border-radius:var(--border-radius-md);cursor:pointer}
+.hero-search button:hover{opacity:0.85}
+
+.hero-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;max-width:760px;margin:0 auto}
+.hero-card{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1.2rem;cursor:pointer;transition:border-color 0.15s;text-align:left;position:relative;overflow:hidden}
+.hero-card:hover{border-color:var(--color-border-secondary)}
+.hcard-accent{width:100%;height:2px;position:absolute;top:0;left:0;border-radius:0}
+.hcard-icon{font-size:20px;margin-bottom:0.7rem;color:var(--color-text-secondary)}
+.hcard-title{font-size:14px;font-weight:500;color:var(--color-text-primary);margin-bottom:0.3rem}
+.hcard-desc{font-size:12px;color:var(--color-text-secondary);line-height:1.5}
+.hcard-count{font-size:11px;color:var(--color-text-tertiary);margin-top:0.6rem;display:flex;align-items:center;gap:4px}
+
+.home-divider{border:none;border-top:0.5px solid var(--color-border-tertiary);margin:2.5rem 0}
+
+.home-latest{max-width:760px;margin:0 auto}
+.home-section-title{font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:1rem;display:flex;align-items:center;gap:8px}
+.home-section-line{width:20px;height:1px;background:var(--color-border-secondary)}
+.latest-grid{display:grid;grid-template-columns:1fr 1fr;gap:0.75rem}
+.latest-card{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem;cursor:pointer;transition:background 0.15s;display:flex;gap:10px;align-items:flex-start}
+.latest-card:hover{background:var(--color-background-secondary)}
+.lc-acc{width:2px;min-height:36px;flex-shrink:0;border-radius:0}
+.lc-body{flex:1}
+.lc-cat{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.35rem}
+.lc-title{font-size:13px;line-height:1.4;color:var(--color-text-primary);margin-bottom:0.35rem}
+.lc-foot{display:flex;justify-content:space-between;align-items:center}
+.lc-time{font-size:11px;color:var(--color-text-tertiary)}
+.lc-cta{font-size:11px;color:var(--color-text-secondary);border:0.5px solid var(--color-border-tertiary);padding:0.1rem 0.4rem;border-radius:var(--border-radius-md)}
+
+.home-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;max-width:760px;margin:2rem auto 0}
+.stat-card{background:var(--color-background-secondary);border-radius:var(--border-radius-md);padding:1rem;text-align:center}
+.stat-num{font-size:22px;font-weight:500;color:var(--color-text-primary);margin-bottom:0.2rem}
+.stat-label{font-size:12px;color:var(--color-text-secondary)}
+
+/* ===== SECTIONS INTERNES ===== */
+.sec-head{display:flex;align-items:center;gap:8px;margin-bottom:1rem}
+.sec-acc{width:20px;height:2px;border-radius:0}
+.sec-head h2{font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase}
+
+.ctabs{display:flex;gap:4px;margin-bottom:1rem;flex-wrap:wrap}
+.ctab{background:none;border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-md);padding:0.25rem 0.75rem;font-size:12px;font-family:inherit;color:var(--color-text-secondary);cursor:pointer;transition:all 0.15s}
+.ctab:hover{color:var(--color-text-primary)}
+.ctab.on{background:var(--color-background-secondary);color:var(--color-text-primary);border-color:var(--color-border-secondary)}
+
+.agrid{display:grid;grid-template-columns:1.5fr 1fr;border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);overflow:hidden;margin-bottom:2rem}
+.feat{background:var(--color-background-primary);padding:1.4rem;cursor:pointer;border-right:0.5px solid var(--color-border-tertiary);border-left:3px solid #1B4F8A;transition:background 0.15s}
+.feat:hover{background:var(--color-background-secondary)}
+.minis{display:flex;flex-direction:column;background:var(--color-background-primary)}
+.mini{flex:1;padding:0.9rem 1.1rem;cursor:pointer;border-left:3px solid #1B4F8A;border-top:0.5px solid var(--color-border-tertiary);transition:background 0.15s}
+.mini:first-child{border-top:none}
+.mini:hover{background:var(--color-background-secondary)}
+.clabel{font-size:10px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.4rem}
+.feat-title{font-family:var(--font-serif);font-size:1.1rem;font-weight:500;line-height:1.3;color:var(--color-text-primary);margin-bottom:0.6rem}
+.feat-body{font-size:13px;color:var(--color-text-secondary);line-height:1.6;margin-bottom:0.8rem}
+.badges{display:flex;gap:5px;flex-wrap:wrap}
+.badge{font-size:11px;padding:0.15rem 0.5rem;border-radius:var(--border-radius-md)}
+.bu{background:#e8f5ec;color:#1A5C2E}
+.bd{background:#f7e8eb;color:#7D1C2E}
+.hint{font-size:11px;color:var(--color-text-tertiary);margin-top:0.8rem}
+.mini-title{font-size:13px;line-height:1.4;color:var(--color-text-primary);margin-bottom:0.4rem}
+.mini-foot{display:flex;justify-content:space-between;align-items:center}
+.mini-time{font-size:11px;color:var(--color-text-tertiary)}
+.mini-cta{font-size:11px;color:var(--color-text-secondary);border:0.5px solid var(--color-border-tertiary);padding:0.1rem 0.4rem;border-radius:var(--border-radius-md)}
+
+.two{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+.block{border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);overflow:hidden}
+.bhead{padding:0.8rem 1.1rem;border-bottom:0.5px solid var(--color-border-tertiary);background:var(--color-background-primary);display:flex;align-items:center;gap:8px}
+.bacc{width:3px;height:16px;border-radius:0}
+.btitle{font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase}
+.bcard{padding:0.85rem 1.1rem;border-bottom:0.5px solid var(--color-border-tertiary);cursor:pointer;display:flex;gap:10px;align-items:flex-start;background:var(--color-background-primary);transition:background 0.15s}
+.bcard:last-child{border-bottom:none}
+.bcard:hover{background:var(--color-background-secondary)}
+.bacc2{width:2px;min-height:30px;flex-shrink:0;margin-top:3px;border-radius:0}
+.bc-body{flex:1}
+.bc-title{font-size:13px;line-height:1.4;color:var(--color-text-primary);margin-bottom:0.3rem}
+.bc-foot{display:flex;justify-content:space-between}
+.bc-date{font-size:11px;color:var(--color-text-tertiary)}
+.bc-cta{font-size:11px;color:var(--color-text-secondary);border:0.5px solid var(--color-border-tertiary);padding:0.1rem 0.4rem;border-radius:var(--border-radius-md)}
+
+.htabs{display:flex;gap:4px;margin-bottom:1rem}
+.htab{background:none;border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-md);padding:0.25rem 0.75rem;font-size:12px;font-family:inherit;color:var(--color-text-secondary);cursor:pointer;transition:all 0.15s}
+.htab.on{background:var(--color-background-secondary);color:#1A5C2E;border-color:rgba(26,92,46,0.3)}
+
+.modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:200;overflow-y:auto;padding:2rem 1rem}
+.modal-bg.open{display:block}
+.modal{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);max-width:640px;margin:0 auto;padding:1.8rem;position:relative}
+.modal-x{position:absolute;top:0.8rem;right:0.8rem;background:var(--color-background-secondary);border:0.5px solid var(--color-border-tertiary);color:var(--color-text-secondary);width:26px;height:26px;border-radius:50%;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;font-family:inherit}
+.modal-x:hover{color:var(--color-text-primary)}
+.mtag{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem}
+.mtitle{font-family:var(--font-serif);font-size:1.3rem;font-weight:500;line-height:1.2;color:var(--color-text-primary);margin-bottom:0.4rem;padding-right:2rem}
+.mdate{font-size:12px;color:var(--color-text-tertiary);padding-bottom:0.9rem;border-bottom:0.5px solid var(--color-border-tertiary);margin-bottom:1rem}
+.mbody{font-size:13.5px;color:var(--color-text-secondary);line-height:1.8}
+.mbody p{margin-bottom:0.85rem}
+.mbody h4{font-size:11px;font-weight:500;color:var(--color-text-primary);margin:1.2rem 0 0.4rem;text-transform:uppercase;letter-spacing:1px}
+.mmkt{margin-top:1.3rem;padding-top:1.3rem;border-top:0.5px solid var(--color-border-tertiary)}
+.mmkt-title{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.8rem}
+.mrow{display:flex;justify-content:space-between;padding:0.38rem 0;border-bottom:0.5px solid var(--color-border-tertiary);font-size:13px}
+.mrow:last-child{border-bottom:none}
+.mup{color:#1A5C2E;font-weight:500}
+.mdn{color:#7D1C2E;font-weight:500}
+
+footer{border-top:0.5px solid var(--color-border-tertiary);padding:1.5rem;text-align:center;background:var(--color-background-primary)}
+.flogo{font-family:var(--font-serif);font-size:1.1rem;font-weight:500;color:var(--color-text-secondary);letter-spacing:3px;margin-bottom:0.3rem}
+.fsub{font-size:11px;color:var(--color-text-tertiary);letter-spacing:2px;text-transform:uppercase}
+</style>
+
+<h2 style="position:absolute;left:-9999px">Veritass — actualité, droit et histoire</h2>
+
+<nav>
+  <div class="logo" onclick="showSec('home')">VERITASS<span class="logo-dot">.</span></div>
+  <div class="nav-links">
+    <button class="nav-btn on" id="nb-home" onclick="showSec('home')">Accueil</button>
+    <button class="nav-btn" id="nb-actu" onclick="showSec('actu')">Actualité & marchés</button>
+    <button class="nav-btn" id="nb-jur" onclick="showSec('jur')">Juridique</button>
+    <button class="nav-btn" id="nb-hist" onclick="showSec('hist')">Histoire</button>
+  </div>
+  <span class="nav-date">26 MAI 2026</span>
+</nav>
+
+<div class="search-zone">
+  <div class="search-row">
+    <input type="text" id="si" placeholder="Rechercher un article, une loi, un événement…" oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape')clearS()">
+    <button onclick="clearS()">✕ Effacer</button>
+  </div>
+  <div class="sr-drop" id="srdrop"></div>
+</div>
+
+<!-- ===== ACCUEIL ===== -->
+<div id="s-home">
+  <div class="hero">
+    <div class="hero-eyebrow">Anti-désinformation · Éducation · Analyse</div>
+    <div class="hero-title">L'information <em>vérifiée</em>,<br>analysée pour vous.</div>
+    <div class="hero-sub">Actualité et marchés, droit français et international, histoire — résumés, sourcés, sans bruit médiatique.</div>
+    <div class="hero-search">
+      <input type="text" id="hsi" placeholder="Rechercher une actualité, une loi, un événement historique…" oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape')clearS()">
+      <button onclick="clearS()">Rechercher</button>
+    </div>
+    <div class="hero-cards">
+      <div class="hero-card" onclick="showSec('actu')">
+        <div class="hcard-accent" style="background:#1B4F8A"></div>
+        <i class="ti ti-news hcard-icon" aria-hidden="true"></i>
+        <div class="hcard-title">Actualité & marchés</div>
+        <div class="hcard-desc">Monde, France, USA, Chine, Russie, Iran — avec l'impact sur les marchés boursiers.</div>
+        <div class="hcard-count"><i class="ti ti-circle-dot" style="font-size:12px" aria-hidden="true"></i>Mis à jour aujourd'hui</div>
+      </div>
+      <div class="hero-card" onclick="showSec('jur')">
+        <div class="hcard-accent" style="background:#7D1C2E"></div>
+        <i class="ti ti-scale hcard-icon" aria-hidden="true"></i>
+        <div class="hcard-title">Juridique</div>
+        <div class="hcard-desc">Droit français et international — lois, jurisprudences, réglementations expliquées.</div>
+        <div class="hcard-count"><i class="ti ti-circle-dot" style="font-size:12px" aria-hidden="true"></i>8 articles disponibles</div>
+      </div>
+      <div class="hero-card" onclick="showSec('hist')">
+        <div class="hcard-accent" style="background:#1A5C2E"></div>
+        <i class="ti ti-book hcard-icon" aria-hidden="true"></i>
+        <div class="hcard-title">Histoire</div>
+        <div class="hcard-desc">France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond pour lycéens et étudiants.</div>
+        <div class="hcard-count"><i class="ti ti-circle-dot" style="font-size:12px" aria-hidden="true"></i>8 articles disponibles</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="max-width:760px;margin:0 auto;padding:0 1.5rem">
+    <div class="home-stats">
+      <div class="stat-card">
+        <div class="stat-num">24</div>
+        <div class="stat-label">Articles disponibles</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">6</div>
+        <div class="stat-label">Pays couverts</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num">100%</div>
+        <div class="stat-label">Contenu sourcé</div>
+      </div>
+    </div>
+
+    <div class="home-divider"></div>
+
+    <div class="home-latest">
+      <div class="home-section-title"><div class="home-section-line"></div>À la une ce 26 mai 2026</div>
+      <div class="latest-grid">
+        <div class="latest-card" onclick="openM('m1')">
+          <div class="lc-acc" style="background:#1B4F8A"></div>
+          <div class="lc-body">
+            <div class="lc-cat">Russie · Géopolitique</div>
+            <div class="lc-title">Poutine signe une loi élargissant le déploiement militaire à l'étranger</div>
+            <div class="lc-foot"><span class="lc-time">26 mai 2026</span><span class="lc-cta">Lire</span></div>
+          </div>
+        </div>
+        <div class="latest-card" onclick="openM('f1')">
+          <div class="lc-acc" style="background:#1B4F8A"></div>
+          <div class="lc-body">
+            <div class="lc-cat">France · Canicule</div>
+            <div class="lc-title">Canicule précoce : plan national activé, travailleurs et agriculteurs en première ligne</div>
+            <div class="lc-foot"><span class="lc-time">26 mai 2026</span><span class="lc-cta">Lire</span></div>
+          </div>
+        </div>
+        <div class="latest-card" onclick="openM('u1')">
+          <div class="lc-acc" style="background:#1B4F8A"></div>
+          <div class="lc-body">
+            <div class="lc-cat">États-Unis · Iran</div>
+            <div class="lc-title">Trump pose un ultimatum à l'Iran tout en laissant ouverte la voie diplomatique</div>
+            <div class="lc-foot"><span class="lc-time">26 mai 2026</span><span class="lc-cta">Lire</span></div>
+          </div>
+        </div>
+        <div class="latest-card" onclick="openM('jf1')">
+          <div class="lc-acc" style="background:#7D1C2E"></div>
+          <div class="lc-body">
+            <div class="lc-cat">Juridique · France</div>
+            <div class="lc-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div>
+            <div class="lc-foot"><span class="lc-time">23 mai 2026</span><span class="lc-cta">Lire</span></div>
+          </div>
+        </div>
+        <div class="latest-card" onclick="openM('hf1')">
+          <div class="lc-acc" style="background:#1A5C2E"></div>
+          <div class="lc-body">
+            <div class="lc-cat">Histoire · France</div>
+            <div class="lc-title">La Révolution française (1789–1799) — causes, phases et héritage</div>
+            <div class="lc-foot"><span class="lc-time">Article de fond</span><span class="lc-cta">Lire</span></div>
+          </div>
+        </div>
+        <div class="latest-card" onclick="openM('hu2')">
+          <div class="lc-acc" style="background:#1A5C2E"></div>
+          <div class="lc-body">
+            <div class="lc-cat">Histoire · États-Unis</div>
+            <div class="lc-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div>
+            <div class="lc-foot"><span class="lc-time">Article de fond</span><span class="lc-cta">Lire</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== ACTUALITÉ ===== -->
+<div id="s-actu" style="display:none">
+  <div class="wrap">
+    <div class="sec-head"><div class="sec-acc" style="background:#1B4F8A"></div><h2 style="color:#6FA8DC">Actualité & marchés</h2></div>
+    <div class="ctabs">
+      <button class="ctab on" onclick="switchC(this,'monde')">Monde</button>
+      <button class="ctab" onclick="switchC(this,'france')">France</button>
+      <button class="ctab" onclick="switchC(this,'usa')">États-Unis</button>
+      <button class="ctab" onclick="switchC(this,'chine')">Chine</button>
+      <button class="ctab" onclick="switchC(this,'russie')">Russie</button>
+      <button class="ctab" onclick="switchC(this,'iran')">Iran</button>
+    </div>
+    <div id="agrid"></div>
+  </div>
+</div>
+
+<!-- ===== JURIDIQUE ===== -->
+<div id="s-jur" style="display:none">
+  <div class="wrap">
+    <div class="sec-head"><div class="sec-acc" style="background:#7D1C2E"></div><h2 style="color:#C47A8A">Juridique</h2></div>
+    <div class="two">
+      <div class="block">
+        <div class="bhead"><div class="bacc" style="background:#7D1C2E"></div><span class="btitle" style="color:#C47A8A">France</span></div>
+        <div class="bcard" onclick="openM('jf1')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div><div class="bc-foot"><span class="bc-date">Droit du travail · 23 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('jf2')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">Féminicide : peine plancher de 25 ans adoptée en commission des lois</div><div class="bc-foot"><span class="bc-date">Droit pénal · 19 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('jf3')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">Loi immigration 2024 : bilan un an après l'entrée en vigueur</div><div class="bc-foot"><span class="bc-date">Droit des étrangers · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('jf4')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">Droit à l'avortement inscrit dans la Constitution : un an après</div><div class="bc-foot"><span class="bc-date">Droits fondamentaux · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
+      </div>
+      <div class="block">
+        <div class="bhead"><div class="bacc" style="background:#7D1C2E"></div><span class="btitle" style="color:#C47A8A">International</span></div>
+        <div class="bcard" onclick="openM('ji1')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">DSA européen : en vigueur pour toutes les plateformes — ce qui change</div><div class="bc-foot"><span class="bc-date">Droit numérique · UE · 21 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('ji2')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?</div><div class="bc-foot"><span class="bc-date">Droit international · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('ji3')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">Mer de Chine méridionale : que dit le droit international ?</div><div class="bc-foot"><span class="bc-date">DIH · Asie · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('ji4')"><div class="bacc2" style="background:#7D1C2E"></div><div class="bc-body"><div class="bc-title">AI Act européen : obligations concrètes pour les entreprises</div><div class="bc-foot"><span class="bc-date">Droit technologique · UE</span><span class="bc-cta">Lire</span></div></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== HISTOIRE ===== -->
+<div id="s-hist" style="display:none">
+  <div class="wrap">
+    <div class="sec-head"><div class="sec-acc" style="background:#1A5C2E"></div><h2 style="color:#6AB07A">Histoire</h2></div>
+    <div class="htabs">
+      <button class="htab on" onclick="switchH(this,'fr')">France & Europe · 1789–1914</button>
+      <button class="htab" onclick="switchH(this,'us')">États-Unis · 1776–1917</button>
+    </div>
+    <div id="hfr">
+      <div class="block">
+        <div class="bhead"><div class="bacc" style="background:#1A5C2E"></div><span class="btitle" style="color:#6AB07A">France & Europe · 1789–1914</span></div>
+        <div class="bcard" onclick="openM('hf1')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">La Révolution française (1789–1799) — causes, phases et héritage</div><div class="bc-foot"><span class="bc-date">France · 1789</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hf2')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">Napoléon Bonaparte : de consul à empereur — l'Europe recomposée</div><div class="bc-foot"><span class="bc-date">France · Europe · 1799–1815</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hf3')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">La Commune de Paris (1871) — 72 jours qui ont changé l'histoire</div><div class="bc-foot"><span class="bc-date">France · 1871</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hf4')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État</div><div class="bc-foot"><span class="bc-date">France · 1894–1906</span><span class="bc-cta">Lire</span></div></div></div>
+      </div>
+    </div>
+    <div id="hus" style="display:none">
+      <div class="block">
+        <div class="bhead"><div class="bacc" style="background:#1A5C2E"></div><span class="btitle" style="color:#6AB07A">États-Unis · 1776–1917</span></div>
+        <div class="bcard" onclick="openM('hu1')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">La Déclaration d'Indépendance (1776) — naissance d'une nation</div><div class="bc-foot"><span class="bc-date">États-Unis · 1776</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hu2')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div><div class="bc-foot"><span class="bc-date">États-Unis · 1861–1865</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hu3')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe</div><div class="bc-foot"><span class="bc-date">États-Unis · XIXe siècle</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hu4')"><div class="bacc2" style="background:#1A5C2E"></div><div class="bc-body"><div class="bc-title">L'entrée des États-Unis dans la Première Guerre mondiale (1917)</div><div class="bc-foot"><span class="bc-date">États-Unis · 1917</span><span class="bc-cta">Lire</span></div></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-bg" id="modal" onclick="closeMOut(event)">
+  <div class="modal">
+    <button class="modal-x" onclick="closeM()">✕</button>
+    <div id="mbody"></div>
+  </div>
+</div>
+
+<footer>
+  <div class="flogo">VERITASS.</div>
+  <div class="fsub">Vérité · Rigueur · Clarté</div>
+</footer>
+
+<script>
+const C={monde:{feat:{id:'m1',cat:'À la une · Russie',title:"Poutine signe une loi élargissant le déploiement militaire à l'étranger",body:"Vladimir Poutine a promulgué une loi permettant de déployer les forces armées russes hors des frontières dans davantage de cas. Les pays baltes et la Pologne ont immédiatement demandé une réunion d'urgence à l'OTAN.",badges:[{t:'▼ Marchés Europe Est',u:false},{t:'▲ Défense',u:true}],time:'26 mai 2026'},minis:[{id:'m2',cat:'Sénégal',title:"Sonko élu président de l'Assemblée nationale, 3 jours après son éviction du poste de Premier ministre",time:'26 mai'},{id:'m3',cat:'Canicule',title:"Records de chaleur battus en France, Espagne et Italie dès fin mai — plan canicule activé",time:'26 mai'},{id:'m4',cat:'Belgique',title:"Quatre morts dans une collision entre un minibus scolaire et un train en Belgique",time:'26 mai'}]},france:{feat:{id:'f1',cat:'France · Canicule',title:"Canicule précoce : routes, rails et travailleurs sous tension — plan national activé",body:"Des températures de 37 à 39°C ont été enregistrées en France ce 26 mai. Le gouvernement a activé le plan national canicule. Agriculteurs, ouvriers du BTP et serveurs subissent de plein fouet cette chaleur record pour un mois de mai.",badges:[{t:'▼ Agriculture',u:false},{t:'▲ Électricité',u:true},{t:'▼ BTP',u:false}],time:'26 mai 2026'},minis:[{id:'f2',cat:'Politique',title:"Philippe vs Bardella : la course à la présidentielle 2027 s'accélère, les sondages se resserrent",time:'26 mai'},{id:'f3',cat:'Justice',title:"Ouverture du procès David G. au tribunal correctionnel de Paris",time:'26 mai'},{id:'f4',cat:'Agriculture',title:"\"Cette culture va être une perte sèche\" : éleveurs et maraîchers accusent le coup de la chaleur",time:'26 mai'}]},usa:{feat:{id:'u1',cat:'États-Unis · Iran',title:"Trump pose un ultimatum à l'Iran tout en laissant ouverte la voie diplomatique via l'Oman",body:"Washington a transmis une nouvelle proposition via l'Oman, qualifiée de dernière chance. 61 % des Américains estiment que l'attaque de l'Iran était une erreur. L'Iran a 72 heures pour répondre.",badges:[{t:'▲ Défense US',u:true},{t:'▲ Pétrole',u:true},{t:'▲ Or',u:true}],time:'26 mai 2026'},minis:[{id:'u2',cat:'Monétaire',title:"Fed : la probabilité d'une baisse des taux en septembre tombe à 50 %",time:'26 mai'},{id:'u3',cat:'Tech',title:"Nvidia dépasse les 3 000 milliards de capitalisation — domination totale sur les puces IA",time:'26 mai'},{id:'u4',cat:'Commerce',title:"Accord UE–USA à 15 % de droits de douane : les marchés soulagés",time:'26 mai'}]},chine:{feat:{id:'c1',cat:'Chine · Russie',title:"Visite de Poutine en Chine : 12 accords signés, l'axe Moscou–Pékin se consolide",body:"La visite d'État a débouché sur 12 accords couvrant l'énergie, la technologie et les paiements. Les échanges sino-russes ont doublé en 4 ans, passant de 110 à 245 milliards de dollars.",badges:[{t:'▲ Yuan',u:true},{t:'▼ Sanctions Occident',u:false}],time:'26 mai 2026'},minis:[{id:'c2',cat:'Commerce',title:"200 Boeing achetés par Pékin : geste commercial et diplomatique à la fois",time:'26 mai'},{id:'c3',cat:'Économie',title:"Croissance à +4,8 % au T1 mais objectif 2026 revu à la baisse",time:'26 mai'},{id:'c4',cat:'Industrie',title:"Plan quinquennal 2026–2030 : l'IA, le quantique et l'hydrogène comme piliers",time:'26 mai'}]},russie:{feat:{id:'r1',cat:'Russie · Loi militaire',title:"Poutine élargit le droit de déploiement de l'armée russe à l'étranger",body:"La nouvelle loi permet à Moscou d'intervenir militairement hors de ses frontières dans un plus grand nombre de cas. Kiev a convoqué le représentant russe. Les pays baltes ont alerté l'OTAN.",badges:[{t:'▼ Europe Est',u:false},{t:'▲ Défense OTAN',u:true}],time:'26 mai 2026'},minis:[{id:'r2',cat:'Ukraine',title:"Le Monde révèle que les renseignements surveillent des préparatifs de frappes russes massives",time:'26 mai'},{id:'r3',cat:'Sanctions',title:"20e paquet de sanctions UE — la Pologne convoque l'ambassadeur russe",time:'26 mai'},{id:'r4',cat:'Économie',title:"L'économie de guerre russe en essoufflement : inflation à 9,5 %, fuite des cerveaux",time:'26 mai'}]},iran:{feat:{id:'i1',cat:'Iran · Diplomatie',title:"Iran–USA : Téhéran examine la proposition américaine — dernière chance avant reprise des frappes",body:"L'Iran a reçu une nouvelle proposition diplomatique via l'Oman. Trump la qualifie de dernière phase des négociations. Le Détroit d'Ormuz reste sous haute tension.",badges:[{t:'▲ Pétrole',u:true},{t:'▼ Compagnies aériennes',u:false},{t:'▲ Or',u:true}],time:'26 mai 2026'},minis:[{id:'i2',cat:'Énergie',title:"Détroit d'Ormuz : une pénurie pétrolière mondiale est possible dès juillet–août",time:'26 mai'},{id:'i3',cat:'Diplomatie',title:"La France condamne les frappes de drones iraniens sur la centrale de Barakah",time:'26 mai'},{id:'i4',cat:'Nucléaire',title:"Malgré leur alliance, Moscou refuse à l'Iran l'usage de la centrale de Bouchehr",time:'26 mai'}]}};
+
+const P={
+m1:{tag:'Russie · Loi militaire',title:"Poutine élargit le droit de déploiement militaire à l'étranger",date:'26 mai 2026',body:`<p>Vladimir Poutine a promulgué une loi élargissant les conditions dans lesquelles la Russie peut déployer ses forces armées hors de ses frontières. Jusqu'à présent, un tel déploiement nécessitait un vote du Conseil de la Fédération. La nouvelle loi donne au président un pouvoir discrétionnaire élargi.</p><h4>Ce que ça signifie concrètement</h4><p>Les pays baltes et la Pologne ont immédiatement alerté l'OTAN. Kiev a convoqué le représentant russe. Les États-Unis ont qualifié ce texte de provocation injustifiée. Les juristes internationaux estiment que cette loi ouvre la voie à des interventions dans les anciens pays soviétiques.</p>`,market:[{n:'Valeurs défense européennes',e:'▲ +2,3 %',d:false},{n:'Marchés Europe Est',e:'▼ −1,5 %',d:true},{n:'EUR/USD',e:'▼ −0,3 %',d:true}]},
+m2:{tag:'Sénégal · Politique',title:"Sonko élu président de l'Assemblée nationale sénégalaise",date:'26 mai 2026',body:`<p>Ousmane Sonko a été élu président de l'Assemblée nationale sénégalaise, seulement trois jours après avoir été évincé de son poste de Premier ministre par le président Faye. Cette élection illustre la recomposition spectaculaire du paysage politique sénégalais.</p><h4>Une cohabitation inédite</h4><p>Autrefois alliés au sein du mouvement Pastef, Faye et Sonko ont rompu. Sonko conserve une forte base populaire et la présidence de l'Assemblée lui donne un nouveau levier institutionnel pour s'opposer au chef de l'État. Une situation inédite dans l'histoire récente du Sénégal.</p>`,market:null},
+m3:{tag:'Météo · Canicule · Europe',title:"Records de chaleur battus en Europe dès fin mai",date:'26 mai 2026',body:`<p>Une vague de chaleur exceptionnellement précoce frappe l'Europe. En France, 37 à 39°C dans le Sud-Ouest. Madrid a atteint 41°C — record absolu pour un mois de mai. L'Italie et les Balkans sont également touchés.</p><h4>Les secteurs touchés</h4><p>L'agriculture est la première victime : cultures de printemps menacées par la sécheresse précoce. Les réseaux électriques sont sous pression avec la hausse de la consommation de climatisation. Les transports subissent des ralentissements préventifs.</p>`,market:[{n:'Électricité (prix spot)',e:'▲ +18 %',d:false},{n:'Agriculture',e:'▼ Stress hydrique',d:true}]},
+m4:{tag:'Belgique · Accident',title:"Quatre morts dans une collision train–minibus en Belgique",date:'26 mai 2026',body:`<p>Un minibus transportant des élèves a été percuté par un train à un passage à niveau. Le bilan est de quatre morts et plusieurs blessés graves. Une enquête est ouverte pour déterminer les circonstances exactes.</p><h4>Le débat sur les passages à niveau</h4><p>Cet accident relance le débat sur la sécurité des passages à niveau en Belgique. Le réseau Infrabel en recense encore plusieurs milliers, dont une partie sans barrières automatiques. Les associations réclament un plan d'urgence de modernisation.</p>`,market:null},
+f1:{tag:'France · Canicule · Travail',title:"Canicule précoce : plan national activé, travailleurs et agriculteurs en première ligne",date:'26 mai 2026',body:`<p>Le gouvernement a activé le plan national canicule — première fois depuis 2003 qu'il est activé aussi tôt dans la saison. Des températures de 37 à 39°C ont été enregistrées dans plusieurs régions.</p><h4>Les secteurs les plus touchés</h4><p>Travailleurs en extérieur (BTP, agriculture, restauration), dont les employeurs ont des obligations légales : eau fraîche, aménagement des horaires, droit de retrait. Les cultures de printemps subissent un stress hydrique intense. Plusieurs agriculteurs évoquent des pertes totales sur certaines parcelles.</p><h4>Les transports perturbés</h4><p>La SNCF a réduit la vitesse des trains sur certaines lignes (les rails peuvent se déformer à plus de 50°C). Plusieurs lignes de métro parisien non climatisées ont vu leur fréquentation baisser en milieu de journée.</p>`,market:[{n:'Électricité',e:'▲ +22 % (consommation)',d:false},{n:'Agriculture',e:'▼ Stress hydrique',d:true},{n:'BTP',e:'▼ Productivité −15 %',d:true}]},
+f2:{tag:'France · Politique · 2027',title:"Philippe vs Bardella : la présidentielle 2027 s'accélère",date:'26 mai 2026',body:`<p>À un an de la présidentielle 2027, les sondages placent Jordan Bardella (RN) et Édouard Philippe (Horizons) en tête. Philippe mise sur son bilan de Premier ministre et son image de gestionnaire rigoureux. Bardella capitalise sur les inquiétudes économiques des Français.</p><h4>La fragmentation de la gauche</h4><p>La gauche reste divisée entre LFI, le Parti Socialiste et les Écologistes, sans candidat de rassemblement. Cette fragmentation profite mécaniquement aux candidats de droite et d'extrême droite au premier tour.</p>`,market:null},
+f3:{tag:'Justice · France · Paris',title:"Ouverture du procès David G. — affaire sensible à Paris",date:'26 mai 2026',body:`<p>Ce 26 mai s'ouvre au tribunal correctionnel de Paris un procès qui suscite une forte attention. L'affaire met en lumière des dysfonctionnements présumés au sein d'institutions parisiennes, et interroge la responsabilité des collectivités territoriales face aux dérives de leurs services.</p>`,market:null},
+f4:{tag:'France · Agriculture · Canicule',title:"Éleveurs et maraîchers face aux pertes de la chaleur précoce",date:'26 mai 2026',body:`<p>Les premières estimations des chambres d'agriculture évoquent 15 à 25 % des cultures de légumes de plein champ perdues dans les régions les plus touchées. Le syndicat Jeunes Agriculteurs a demandé l'activation du régime des calamités agricoles.</p><h4>Une tendance de fond</h4><p>Depuis 10 ans, la France connaît en moyenne 2 à 3 semaines de canicule supplémentaires par an. Les agriculteurs réclament un plan d'adaptation structurel et des aides pour les équipements d'irrigation et d'ombrage.</p>`,market:[{n:'Légumes (marchés de gros)',e:'▲ +12 % (prix)',d:false}]},
+u1:{tag:'États-Unis · Iran · Diplomatie',title:"Trump pose un ultimatum à l'Iran : diplomatie de la dernière chance",date:'26 mai 2026',body:`<p>Washington a transmis une nouvelle proposition via l'Oman. Conditions américaines : arrêt de l'enrichissement d'uranium à plus de 20 %, fermeture des sites souterrains, fin du soutien aux proxies armés. En échange : levée progressive des sanctions. L'Iran a 72 heures pour répondre.</p><h4>L'opinion américaine</h4><p>Un sondage Gallup indique que 61 % des Américains pensent que lancer une attaque contre l'Iran était une erreur. Le soutien à une action militaire s'érode depuis la flambée du prix de l'essence aux États-Unis.</p>`,market:[{n:'Pétrole (Brent)',e:'▲ +4,0 %',d:false},{n:'Or',e:'▲ +1,8 %',d:false},{n:'Compagnies aériennes',e:'▼ −2,5 %',d:true}]},
+u2:{tag:'États-Unis · Fed',title:"Fed : la baisse des taux en septembre de moins en moins probable",date:'26 mai 2026',body:`<p>L'économie américaine continue de surprendre par sa vigueur : PMI composite à 54,4, inscriptions au chômage à 215 000. Le marché des futures donne désormais 50 % de probabilité à une baisse en septembre, contre 72 % il y a un mois.</p>`,market:[{n:'Obligations US 10 ans',e:'▼ Rendements en hausse',d:true},{n:'Dollar (DXY)',e:'▲ +0,5 %',d:false},{n:'NASDAQ',e:'▼ −1,2 %',d:true}]},
+u3:{tag:'États-Unis · Nvidia · IA',title:"Nvidia à 3 000 milliards : l'empire des puces IA",date:'26 mai 2026',body:`<p>Nvidia a dépassé les 3 000 milliards de dollars de capitalisation, devenant la 2e entreprise de l'histoire à franchir ce seuil. En cinq ans, l'action a été multipliée par 35. Nvidia détient 85 % du marché des GPU pour l'IA.</p><h4>Les risques à moyen terme</h4><p>Dépendance à TSMC (Taïwan), restrictions d'export vers la Chine, et montée en puissance des puces maison de Google et Amazon sont les principales menaces.</p>`,market:[{n:'Nvidia (NVDA)',e:'▲ +6,5 %',d:false},{n:'Semi-conducteurs (SOX)',e:'▲ +3,2 %',d:false}]},
+u4:{tag:'États-Unis · UE · Commerce',title:"Accord UE–USA à 15 % : soulagement provisoire",date:'26 mai 2026',body:`<p>L'accord du 20 mai entre l'UE et les États-Unis plafonne les droits de douane à 15 %. En échange, l'Europe s'est engagée à augmenter ses achats de GNL américain. Mais Trump a clairement indiqué que les 25 % sur les voitures restent sur la table si l'UE ne ratifie pas l'accord avant le 4 juillet.</p>`,market:[{n:'Automobile européenne',e:'▲ +2,1 %',d:false},{n:'CAC 40',e:'▲ +1,3 %',d:false}]},
+c1:{tag:'Chine · Russie · Géopolitique',title:"12 accords sino-russes : l'axe Moscou–Pékin face à l'Occident",date:'26 mai 2026',body:`<p>La visite de Poutine en Chine a débouché sur 12 accords de coopération. Les échanges sino-russes ont doublé en 4 ans. Énergie : extension du gazoduc Sibérie 2. Technologie : semiconducteurs et systèmes de paiement alternatifs à SWIFT. Transport : corridor arctique.</p>`,market:[{n:'Yuan',e:'→ Stable',d:false},{n:'Gaz naturel européen',e:'▼ Pression LT',d:true}]},
+c2:{tag:'Chine · Commerce · Boeing',title:"200 Boeing achetés par Pékin",date:'26 mai 2026',body:`<p>La Chine a annoncé l'acquisition de 200 appareils Boeing pour environ 37 milliards de dollars. En achetant américain, Pékin montre sa bonne volonté commerciale et obtient une prolongation de la trêve tarifaire. Boeing, en difficulté depuis les accidents du 737 MAX et les grèves de 2024, voit sa capitalisation bondir.</p>`,market:[{n:'Boeing (BA)',e:'▲ +4,2 %',d:false},{n:'Airbus',e:'▼ −0,8 %',d:true}]},
+c3:{tag:'Chine · Économie',title:"Croissance chinoise à +4,8 % mais fragilités persistantes",date:'26 mai 2026',body:`<p>La Chine affiche +4,8 % au T1 2026, mais révise son objectif annuel à 4,5–5 %, le plus bas depuis 1991. Le secteur immobilier reste le talon d'Achille : ventes en baisse de 11 %, promoteurs géants en liquidation. La déflation menace avec un indice des prix à seulement 0,1 %.</p>`,market:[{n:'Shanghai Composite',e:'▲ +1,8 %',d:false},{n:'Immobilier CN',e:'▼ −2,0 %',d:true}]},
+c4:{tag:'Chine · Plan quinquennal',title:"Plan quinquennal 2026–2030 : la Chine parie sur la technologie",date:'26 mai 2026',body:`<p>1 400 milliards de dollars d'investissements sur 5 ans, dont 400 milliards pour l'IA seule. Pékin accélère aussi le développement de ses propres puces (Huawei Ascend) pour réduire sa dépendance face aux restrictions américaines d'export de semiconducteurs.</p>`,market:[{n:'Tech chinoise',e:'▲ +2,5 %',d:false},{n:'Terres rares',e:'▲ +3,0 %',d:false}]},
+r1:{tag:'Russie · Loi militaire',title:"Poutine élargit le droit de déploiement militaire à l'étranger",date:'26 mai 2026',body:`<p>La nouvelle loi permet à Moscou d'intervenir militairement hors de ses frontières dans davantage de cas. Les pays baltes et la Pologne ont demandé une réunion d'urgence à l'OTAN. L'UE a condamné cette loi comme une escalade dangereuse.</p>`,market:[{n:'Défense européenne',e:'▲ +2,3 %',d:false},{n:'Marchés Europe Est',e:'▼ −1,5 %',d:true}]},
+r2:{tag:'Russie · Ukraine · Renseignement',title:"Préparatifs de frappes russes massives : les renseignements en alerte",date:'26 mai 2026',body:`<p>Le Monde révèle que les services de renseignement américains et ukrainiens surveillent des mouvements de missiles balistiques et une concentration inhabituelle de bombardiers russes. Kiev a renforcé ses défenses anti-aériennes et demandé des livraisons accélérées de Patriot et SAMP/T.</p>`,market:[{n:'Défense UE',e:'▲ +3,5 %',d:false},{n:'Gaz naturel européen',e:'▲ +2,0 %',d:false}]},
+r3:{tag:'Russie · UE · Sanctions',title:"20e paquet de sanctions UE : la Pologne convoque l'ambassadeur",date:'26 mai 2026',body:`<p>Les sanctions visent les services financiers, l'énergie, les cryptomonnaies et des intermédiaires en Turquie, Émirats et Kazakhstan qui facilitent le contournement. La privation de technologies occidentales freine la modernisation de l'armée russe sur le long terme.</p>`,market:[{n:'Gaz TTF',e:'▲ +1,5 %',d:false},{n:'Rouble',e:'▼ −0,8 %',d:true}]},
+r4:{tag:'Russie · Économie de guerre',title:"L'économie de guerre russe montre ses limites",date:'26 mai 2026',body:`<p>Croissance officielle de +2,5 % reposant à 30 % sur les dépenses militaires. Inflation à 9,5 %, rouble en baisse de 40 % depuis 2021, 1,2 million de Russes qualifiés partis depuis 2022. Le budget 2026 prévoit une hausse des impôts et une réduction des dépenses non militaires.</p>`,market:[{n:'Pétrole russe (Urals)',e:'▲ +1,8 %',d:false},{n:'Obligations russes',e:'▼ Rendements élevés',d:true}]},
+i1:{tag:'Iran · USA · Diplomatie',title:"Iran–USA : la dernière chance diplomatique via l'Oman",date:'26 mai 2026',body:`<p>Washington exige l'arrêt de l'enrichissement d'uranium à plus de 20 %, la fermeture des sites souterrains, et la fin du soutien aux proxies. L'Iran exige la levée préalable de toutes les sanctions. Les positions se rapprochent sur la question des garanties de sécurité pour le régime.</p>`,market:[{n:'Pétrole (Brent)',e:'▲ +4,0 %',d:false},{n:'Or',e:'▲ +1,8 %',d:false},{n:'Compagnies aériennes',e:'▼ −2,5 %',d:true}]},
+i2:{tag:'Iran · Énergie · Ormuz',title:"Détroit d'Ormuz : la menace d'une pénurie pétrolière mondiale",date:'26 mai 2026',body:`<p>21 millions de barils par jour transitent par le Détroit d'Ormuz, soit 20 % de la consommation mondiale. L'AIE avertit qu'une fermeture provoquerait une crise avec un baril à 180–200 dollars. L'oléoduc de contournement des Émirats ne peut traiter que 1,5 million de barils par jour — très insuffisant.</p>`,market:[{n:'Pétrole (scénario fermeture)',e:'▲ +40–60 % estimé',d:false},{n:'Transport maritime',e:'▼ Primes ×3',d:true}]},
+i3:{tag:'Iran · France · Nucléaire civil',title:"La France condamne les frappes iraniennes sur Barakah",date:'26 mai 2026',body:`<p>Le 17 mai, des drones iraniens ont visé la centrale nucléaire civile de Barakah aux Émirats. Viser une centrale en activité viole le droit humanitaire international et les conventions de l'AIEA. La Russie et la Chine ont mis leur veto à une résolution de condamnation au Conseil de sécurité.</p>`,market:null},
+i4:{tag:'Iran · Russie · Nucléaire',title:"Moscou refuse à l'Iran l'usage de la centrale de Bouchehr",date:'26 mai 2026',body:`<p>Malgré leur partenariat stratégique, la Russie refuse à l'Iran un accès élargi à Bouchehr. Le Kremlin veut rester l'interlocuteur indispensable de Téhéran sur le nucléaire. L'Iran enrichit déjà à 60 %, avec un breakout time estimé à moins de deux semaines.</p>`,market:null},
+jf1:{tag:'Droit du travail · France',title:"Réforme des retraites : le Conseil d'État rejette le recours",date:'23 mai 2026',body:`<p>Le Conseil d'État a rejeté le recours des syndicats (CGT, CFDT, FO, CFE-CGC) contre le décret d'application de la réforme des retraites. Le recours au 49.3 a été jugé régulier, et le droit à la retraite ne dispose pas d'une valeur constitutionnelle absolue permettant d'annuler une loi votée par le Parlement.</p><h4>Ce que ça signifie</h4><p>La réforme s'applique pleinement : départ à 64 ans pour les personnes nées à partir du 1er janvier 1968, durée de cotisation portée à 43 annuités (172 trimestres) d'ici 2027. Les syndicats envisagent un recours devant la Cour européenne des droits de l'homme.</p>`,market:null},
+jf2:{tag:'Droit pénal · France',title:"Féminicide : peine plancher de 25 ans en commission",date:'19 mai 2026',body:`<p>La commission des lois a adopté une proposition transpartisane prévoyant une peine plancher de 25 ans pour féminicide, l'inéligibilité définitive et le retrait automatique de l'autorité parentale. 118 femmes tuées par leur partenaire en 2024 — 80 % des cas commis par des hommes sans casier pour violence conjugale.</p>`,market:null},
+jf3:{tag:'Droit des étrangers · France',title:"Loi immigration 2024 : bilan un an après",date:'Mai 2026',body:`<p>Délai de regroupement familial porté à 24 mois, conditionnement de l'AME, rétablissement du délit de séjour irrégulier, carte pour les métiers en tension. Les OQTF ont augmenté de 18 % mais le taux d'exécution reste inférieur à 10 % faute de laissez-passer consulaires.</p>`,market:null},
+jf4:{tag:'Droits fondamentaux · France',title:"L'IVG dans la Constitution : un an après",date:'Avril 2026',body:`<p>La France, premier pays au monde à inscrire l'IVG dans sa Constitution (4 mars 2024), protège désormais le principe contre toute remise en cause par une loi ordinaire. Mais les modalités (délai à 14 semaines, remboursement) restent dans la loi ordinaire et peuvent être modifiées par une majorité parlementaire.</p>`,market:null},
+ji1:{tag:'Droit numérique · UE · DSA',title:"Le DSA : ce que la loi européenne change",date:'21 mai 2026',body:`<p>Interdictions : publicité ciblée sur données sensibles, ciblage des mineurs, dark patterns. Obligations : transparence algorithmique, signalement des contenus illicites, rapport annuel. Sanctions : jusqu'à 6 % du CA mondial. En cas de récidive grave : interdiction d'opérer dans l'UE.</p>`,market:null},
+ji2:{tag:'Droit international · CPI · Russie',title:"Mandat d'arrêt contre Poutine : trois ans après",date:'Mai 2026',body:`<p>Émis le 17 mars 2023 pour déportation d'enfants ukrainiens, le mandat reste inapplicable directement : la CPI dépend des États membres. Mais Poutine ne peut plus se rendre dans les 124 pays membres sans risque d'arrestation. Son espace diplomatique est durablement réduit.</p>`,market:null},
+ji3:{tag:'Droit international · Mer de Chine',title:"Mer de Chine méridionale : la ligne des neuf traits face au droit",date:'Avril 2026',body:`<p>La Chine revendique 90 % de la mer de Chine via la ligne des neuf traits. En 2016, un tribunal arbitral (CNUDM) a statué que ces revendications n'ont aucune base légale. La Chine refuse de reconnaître cette sentence. 30 % du commerce maritime mondial passe par cette mer.</p>`,market:null},
+ji4:{tag:'Droit technologique · UE · IA',title:"AI Act européen : obligations concrètes",date:'2025–2026',body:`<p>Risque inacceptable (interdit) : notation sociale, manipulation subliminale. Risque élevé (encadré) : IA dans le recrutement, crédit, justice, médecine. Transparence : chatbots doivent se signaler comme IA. Sanctions : jusqu'à 35 M€ ou 7 % du CA mondial.</p>`,market:null},
+hf1:{tag:'Histoire · France · 1789',title:"La Révolution française (1789–1799)",date:'Article de fond',body:`<p>La Révolution abolit l'Ancien Régime, proclame les droits de l'homme et transforme la France et l'Europe.</p><h4>Les causes</h4><p>Économiques : famine 1788–1789, banqueroute royale. Sociales : trois ordres inégaux, le Tiers-État (97 % de la population) supporte l'essentiel des impôts. Intellectuelles : les Lumières diffusent liberté, égalité et souveraineté populaire.</p><h4>Les phases</h4><p>1789–1792 : Monarchie constitutionnelle — Bastille (14 juillet), Déclaration des droits (26 août). 1792–1794 : République et Terreur — Louis XVI guillotiné (21 janvier 1793), 17 000 exécutions. 1795–1799 : Directoire puis Consulat — coup d'État du 18 brumaire, Bonaparte au pouvoir.</p><h4>L'héritage</h4><p>Souveraineté nationale, séparation des pouvoirs, abolition de la féodalité. La devise Liberté, Égalité, Fraternité reste celle de la République. Elle a inspiré les révolutions de 1830 et 1848 en Europe.</p>`,market:null},
+hf2:{tag:'Histoire · France · 1799–1815',title:"Napoléon Bonaparte : de consul à empereur",date:'Article de fond',body:`<p>Né en Corse en 1769, Napoléon révèle son génie à Toulon (1793) et en Italie (1796–1797). Consul en 1799, Empereur en 1804. Il modernise la France : Code civil, Banque de France, Légion d'honneur, lycées, préfets. Victoires : Austerlitz (1805), Iéna (1806). Défaite en Russie (1812), Waterloo (1815).</p><h4>L'héritage</h4><p>Le Code civil, adopté par 30 pays, reste la base du droit français. Le système préfectoral structure encore l'administration. En propageant les idées révolutionnaires, Napoléon a semé les graines du nationalisme européen.</p>`,market:null},
+hf3:{tag:'Histoire · France · 1871',title:"La Commune de Paris (1871) — 72 jours",date:'Article de fond',body:`<p>Après la défaite face à la Prusse, les Parisiens refusent de rendre les canons. La Commune (26 mars) supprime le loyer pendant le siège, instaure l'enseignement laïc gratuit, aligne les élus sur le salaire ouvrier. La Semaine sanglante (21–28 mai 1871) : 10 000 à 30 000 morts, 40 000 arrêtés. Référence fondatrice de la gauche mondiale, analysée par Karl Marx.</p>`,market:null},
+hf4:{tag:'Histoire · France · 1894–1906',title:"L'Affaire Dreyfus — la vérité contre la raison d'État",date:'Article de fond',body:`<p>1894 : Dreyfus, officier juif, est condamné à tort et déporté sur l'Île du Diable. 1898 : Zola publie J'Accuse !, accusant nommément les généraux. Il est condamné pour diffamation et s'exile. 1906 : Dreyfus réhabilité. L'affaire accélère la séparation de l'Église et de l'État (1905) et inspire Theodor Herzl à fonder le mouvement sioniste.</p>`,market:null},
+hu1:{tag:'Histoire · États-Unis · 1776',title:"La Déclaration d'Indépendance (1776)",date:'Article de fond',body:`<p>Le 4 juillet 1776, les 13 colonies déclarent leur indépendance de la Grande-Bretagne. No taxation without representation. La Déclaration affirme que tous les hommes sont créés égaux et dotés de droits à la vie, la liberté et la recherche du bonheur. Note : elle exclut de fait les esclaves et les femmes. La France joue un rôle décisif dans la victoire (Lafayette, Rochambeau, Yorktown 1781). La Constitution (1787) et le Bill of Rights (1791) fondent le système américain.</p>`,market:null},
+hu2:{tag:'Histoire · États-Unis · 1861–1865',title:"La Guerre de Sécession (1861–1865)",date:'Article de fond',body:`<p>620 000 à 750 000 morts. La cause principale est l'esclavage : les États du Sud veulent le préserver. L'élection de Lincoln en 1860 déclenche la sécession. La Proclamation d'émancipation (1863) donne une dimension morale à la guerre. Victoire de Gettysburg, reddition de Lee à Appomattox (9 avril 1865). Lincoln assassiné 5 jours après.</p><h4>Les 3 amendements et leurs limites</h4><p>13e (abolition de l'esclavage), 14e (citoyenneté), 15e (droit de vote sans discrimination). Mais le retrait des troupes en 1877 permet les lois Jim Crow jusqu'aux années 1960.</p>`,market:null},
+hu3:{tag:'Histoire · États-Unis · XIXe siècle',title:"L'expansion vers l'Ouest — conquête, génocide et mythe",date:'Article de fond',body:`<p>Entre 1803 et 1890, les États-Unis multiplient leur superficie par cinq. La Destinée manifeste (1845) légitime l'expansion. Population amérindienne : de 10–15 millions en 1492 à moins de 250 000 fin XIXe. Causes : épidémies, massacres (Sand Creek 1864, Wounded Knee 1890), destruction des bisons (de 30 millions à moins de 1 000), Piste des larmes (1838). En 1890, le Bureau du recensement déclare la Frontière fermée.</p>`,market:null},
+hu4:{tag:'Histoire · États-Unis · 1917',title:"L'entrée des États-Unis dans la 1ère Guerre mondiale",date:'Article de fond',body:`<p>Deux déclencheurs : la guerre sous-marine à outrance (Allemagne coule tout navire vers la Grande-Bretagne, y compris américains) et le télégramme Zimmermann (Allemagne propose au Mexique de reconquérir le Texas et l'Arizona). Le 6 avril 1917, les États-Unis déclarent la guerre. 2 millions de soldats. Victoire du 11 novembre 1918. Les 14 points de Wilson posent les bases de l'après-guerre — mais le Sénat refuse de ratifier Versailles.</p>`,market:null}
+};
+
+const allA=Object.entries(P).map(([id,a])=>({id,title:a.title,tag:a.tag}));
+
+function doSearch(q){
+  const d=document.getElementById('srdrop');
+  if(!q||q.length<2){d.style.display='none';return;}
+  const r=allA.filter(a=>a.title.toLowerCase().includes(q.toLowerCase())||a.tag.toLowerCase().includes(q.toLowerCase())).slice(0,6);
+  if(!r.length){d.style.display='none';return;}
+  d.innerHTML=r.map(a=>`<div class="sr-item" onclick="openM('${a.id}');clearS()"><div class="sr-title">${a.title}</div><div class="sr-cat">${a.tag}</div></div>`).join('');
+  d.style.display='block';
+}
+function clearS(){
+  document.getElementById('si').value='';
+  const h=document.getElementById('hsi');
+  if(h)h.value='';
+  document.getElementById('srdrop').style.display='none';
+}
+function showSec(s){
+  ['home','actu','jur','hist'].forEach(x=>{
+    const el=document.getElementById('s-'+x);
+    if(el)el.style.display=x===s?'block':'none';
+    const nb=document.getElementById('nb-'+x);
+    if(nb)nb.classList.toggle('on',x===s);
+  });
+}
+function renderGrid(c){
+  const d=C[c];
+  document.getElementById('agrid').innerHTML=`
+  <div class="agrid">
+    <div class="feat" onclick="openM('${d.feat.id}')">
+      <div class="clabel">${d.feat.cat}</div>
+      <div class="feat-title">${d.feat.title}</div>
+      <div class="feat-body">${d.feat.body}</div>
+      <div class="badges">${d.feat.badges.map(b=>`<span class="badge ${b.u?'bu':'bd'}">${b.t}</span>`).join('')}</div>
+      <div class="hint">↗ Cliquer pour l'analyse complète</div>
+    </div>
+    <div class="minis">
+      ${d.minis.map(m=>`<div class="mini" onclick="openM('${m.id}')"><div class="clabel">${m.cat}</div><div class="mini-title">${m.title}</div><div class="mini-foot"><span class="mini-time">${m.time}</span><span class="mini-cta">Lire</span></div></div>`).join('')}
+    </div>
+  </div>`;
+}
+function switchC(btn,c){document.querySelectorAll('.ctab').forEach(t=>t.classList.remove('on'));btn.classList.add('on');renderGrid(c);}
+function switchH(btn,w){document.querySelectorAll('.htab').forEach(t=>t.classList.remove('on'));btn.classList.add('on');document.getElementById('hfr').style.display=w==='fr'?'block':'none';document.getElementById('hus').style.display=w==='us'?'block':'none';}
+function openM(id){
+  const a=P[id];if(!a)return;
+  let mkt='';
+  if(a.market&&a.market.length){
+    mkt=`<div class="mmkt"><div class="mmkt-title">Impact sur les marchés</div>${a.market.map(m=>`<div class="mrow"><span>${m.n}</span><span class="${m.d?'mdn':'mup'}">${m.e}</span></div>`).join('')}</div>`;
+  }
+  document.getElementById('mbody').innerHTML=`<div class="mtag">${a.tag}</div><div class="mtitle">${a.title}</div><div class="mdate">${a.date}</div><div class="mbody">${a.body}</div>${mkt}`;
+  document.getElementById('modal').classList.add('open');
+  document.getElementById('modal').scrollTop=0;
+}
+function closeM(){document.getElementById('modal').classList.remove('open');}
+function closeMOut(e){if(e.target===document.getElementById('modal'))closeM();}
+renderGrid('monde');
+</script>
