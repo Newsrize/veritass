@@ -1,9 +1,9 @@
 {
-  "last_updated": "03 June 2026 à 18h41",
+  "last_updated": "03 June 2026 à 22h26",
   "articles": {
     "france": [
       {
-        "id": "france_3349",
+        "id": "france_15",
         "titre": "Choose France ou le retour de l’État stratège. L’édito de Michel Taube",
         "resume": "Depuis plusieurs décennies, le débat économique français oppose artificiellement deux visions que tout devrait pourtant rapprocher : celle de l’État et celle du marché. Comme si l’on devait choisir en",
         "analyse": "",
@@ -17,7 +17,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_6839",
+        "id": "france_798",
         "titre": "Revue de presse du 02/06/2026",
         "resume": "Cette semaine dans la revue, beaucoup de « Réflexion ». Parce que d’habitude, on évite, c’est paraît-il mauvais pour l’audience  . Merci à nos contributeurs et bonne lecture.",
         "analyse": "",
@@ -31,7 +31,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_1735",
+        "id": "france_8030",
         "titre": "Choose France, incidents après la victoire du PSG, mort d'André Santini... Les informés de franceinfo du lundi 1er juin ",
         "resume": "Tous les soirs, les informés de franceinfo débattent de l'actualité autour de Victor Matet.",
         "analyse": "",
@@ -45,7 +45,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_2611",
+        "id": "france_9654",
         "titre": "Liban : Omar Harfouch et Michel El Murr renforcent leur présence médiatique avec le lancement de MFM Radio",
         "resume": "Après le succès du quotidien Nidaa Al Watan, devenu en un an l’un des médias les plus suivis du Liban, Omar Harfouch et Michel El Murr poursuivent leur développement dans le secteur…\nL’article Liban :",
         "analyse": "",
@@ -61,7 +61,7 @@
     ],
     "monde": [
       {
-        "id": "monde_3517",
+        "id": "monde_6450",
         "titre": "Myanmar’s forgotten war: How the world is failing the test of the UN’s Responsibility to Protect",
         "resume": "The war in Myanmar draws far less western attention than Ukraine or the Middle East. Why is such an enduring and intractable conflict being treated with so little urgency?",
         "analyse": "",
@@ -75,7 +75,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_3720",
+        "id": "monde_7699",
         "titre": "Artificial Intelligence (AI) Heralds a Post-human Era of Economic, Social and Moral Upheavals",
         "resume": "A new age of 'Robber Barons' is unfolding under our very eyes, where important private companies make large-scale layoffs and increasingly rely on Artificial Intelligence (AI)\nThe post Artificial Inte",
         "analyse": "",
@@ -89,7 +89,21 @@
         "impact_marches": []
       },
       {
-        "id": "monde_3780",
+        "id": "monde_7332",
+        "titre": "Djibouti’s geographic “resource” is turning into a curse",
+        "resume": "Djibouti has always benefited from its strategic location between the Red Sea and the Indian Ocean. But the war in Iran is creating new pressures for the country, writes Alberto Magnani. Ask a diploma",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Lse.ac.uk",
+        "url": "https://blogs.lse.ac.uk/africaatlse/2026/06/02/djiboutis-geographic-resource-is-turning-into-a-curse/",
+        "date": "2026-06-02",
+        "pays": "monde",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "monde_6366",
         "titre": "Somalia needs a political settlement before it is too late",
         "resume": "Somalia is entering a dangerous moment without a path to elections or a political transition.",
         "analyse": "",
@@ -101,31 +115,17 @@
         "featured": false,
         "badges": [],
         "impact_marches": []
-      },
-      {
-        "id": "monde_8141",
-        "titre": "Nepali politics is not entirely zero-sum",
-        "resume": "By Dev Raj Dahal In today’s world of turmoil and change Nepali politics marvels ahead with a new leadership under Prime Minister Balendra Shah of Rastriya Swotantra Party (RSP). Parliamentary election",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "Peoplesreview.com.np",
-        "url": "https://peoplesreview.com.np/2026/06/01/nepali-politics-is-not-entirely-zero-sum/",
-        "date": "2026-06-01",
-        "pays": "monde",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
       }
     ],
     "usa": [
       {
-        "id": "usa_561",
-        "titre": "Trump pushing for 50% American content rule for autos",
-        "resume": "Canadian-made vehicles already hit the 50% threshold, on average, Canada’s PM Mark Carney told reporters. But many Mexican vehicles do not.",
+        "id": "usa_269",
+        "titre": "Amid War in Iran and Funding Ukraine, Rubio Tells Congress the State Department is ‘America First’",
+        "resume": "Secretary of State Marco Rubio appeared before the Senate Foreign Relations Committee on Tuesday to testify about his 2027 “America First” State Department budget request. While most department budget",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "OCRegister",
-        "url": "https://www.ocregister.com/2026/06/02/us-pushing-for-50-american-content-rule-for-autos-carney-says/",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/06/02/rubio-america-first-state-department/",
         "date": "2026-06-02",
         "pays": "usa",
         "featured": true,
@@ -133,13 +133,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_2736",
-        "titre": "Canada calls for US and Mexico free-trade agreement to be renewed for another 16 years",
-        "resume": "Canada is calling on the United States and Mexico to renew the free trade agreement between the countries for another 16 years just as U.S. President Donald Trump revives talk of making Canada the 51s",
+        "id": "usa_8140",
+        "titre": "As Corporate Profits Surge, America’s Small Businesses Get Left Behind",
+        "resume": "Between Trump tariffs, rising gas prices and labor supply shocks, Main Street businesses are seeing declining profits and slower hiring. Is uncertainty their new normal?",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/International/wireStory/canada-calls-us-mexico-free-trade-agreement-renewed-133524093",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/johnschroyer/2026/06/02/as-corporate-profits-surge-americas-small-businesses-get-left-behind/",
         "date": "2026-06-02",
         "pays": "usa",
         "featured": false,
@@ -147,13 +147,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_7043",
-        "titre": "The Trump-Xi Summit Produced Stability, But It Won’t Last Forever",
-        "resume": "The arc of geopolitics will bend back toward competition.",
+        "id": "usa_907",
+        "titre": "Iranians speak out over possible Trump-regime deal",
+        "resume": "Iranians inside Iran express fear and frustration that a potential U.S.-Iran deal could leave the Islamic Republic intact despite economic devastation.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/06/the-trump-xi-summit-produced-stability-but-it-wont-last-forever/",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/iranians-speak-possible-trump-regime-deal",
         "date": "2026-06-02",
         "pays": "usa",
         "featured": false,
@@ -161,13 +161,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_6728",
-        "titre": "Canada is asking to renew the U.S. and Mexico free-trade agreement for another 16 years",
-        "resume": "Canada's minister for U.S. trade sent a letter to the U.S. trade representative arguing for a renewal of the United States-Mexico-Canada Agreement, or USMCA.",
+        "id": "usa_7479",
+        "titre": "Trump calls Netanyahu crazy, says everybody hates him",
+        "resume": "They went to war together against Iran, but Donald Trump and Benjamin Netanyahu's relationship is under strain after the U.S. president reportedly called the Israeli premier &quot;crazy.&quot; Trump u",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/02/canada-free-trade-renewal-us-mexico-usmca/",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/%27crazy%27-trump-netanyahu-relationship-under-growing-strain",
         "date": "2026-06-02",
         "pays": "usa",
         "featured": false,
@@ -177,7 +177,7 @@
     ],
     "chine": [
       {
-        "id": "chine_3517",
+        "id": "chine_6450",
         "titre": "Myanmar’s forgotten war: How the world is failing the test of the UN’s Responsibility to Protect",
         "resume": "The war in Myanmar draws far less western attention than Ukraine or the Middle East. Why is such an enduring and intractable conflict being treated with so little urgency?",
         "analyse": "",
@@ -191,7 +191,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_7043",
+        "id": "chine_4769",
         "titre": "The Trump-Xi Summit Produced Stability, But It Won’t Last Forever",
         "resume": "The arc of geopolitics will bend back toward competition.",
         "analyse": "",
@@ -205,7 +205,21 @@
         "impact_marches": []
       },
       {
-        "id": "chine_4565",
+        "id": "chine_7332",
+        "titre": "Djibouti’s geographic “resource” is turning into a curse",
+        "resume": "Djibouti has always benefited from its strategic location between the Red Sea and the Indian Ocean. But the war in Iran is creating new pressures for the country, writes Alberto Magnani. Ask a diploma",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Lse.ac.uk",
+        "url": "https://blogs.lse.ac.uk/africaatlse/2026/06/02/djiboutis-geographic-resource-is-turning-into-a-curse/",
+        "date": "2026-06-02",
+        "pays": "chine",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "chine_4258",
         "titre": "Chinese Wall may stem India tech flows for electronics and automobile",
         "resume": "New Chinese regulations on technology transfers may affect India's electronics and automotive component manufacturing plans. Indian companies are seeking clarity from Chinese partners. Executives fear",
         "analyse": "",
@@ -217,31 +231,17 @@
         "featured": false,
         "badges": [],
         "impact_marches": []
-      },
-      {
-        "id": "chine_4016",
-        "titre": "Beyond AI: What BEYOND Expo 2026 Revealed About Asia’s Next Innovation Phase",
-        "resume": "As artificial intelligence moves from software into real-world deployment, BEYOND Expo 2026 highlighted a broader shift toward ecosystem-driven innovation, global commercialization, and cross-border c",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "Besuccess.com",
-        "url": "https://besuccess.com/?p=183451",
-        "date": "2026-06-01",
-        "pays": "chine",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
       }
     ],
     "russie": [
       {
-        "id": "russie_7613",
-        "titre": "Russia's massive hypersonic missile attack on Ukraine leaves at least 22 dead and dozens injured",
-        "resume": "Russia has launched its largest hypersonic missile attack of the war in Ukraine killing 18 people, including children and wounding more than 100.",
+        "id": "russie_4256",
+        "titre": "At least 22 killed in Russian attack; Ukrainian president says new assault possible",
+        "resume": "Russia pounded Ukraine with hundreds of drones and dozens of missiles early on Tuesday, killing 22 people and wounding 130, and President Volodymyr Zelenskyy said Moscow could launch a new assault for",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15867061/Russias-massive-hypersonic-missile-attack-Ukraine-leaves-16-dead-dozens-injured.html",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/at-least-22-killed-in-russian-attack-ukrainian-president-says-new-assault-possible",
         "date": "2026-06-02",
         "pays": "russie",
         "featured": true,
@@ -249,13 +249,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_8132",
-        "titre": "Here is India’s answer to a broken world order",
-        "resume": "Tech rivalry between the US and China and wars in the Middle East are reshaping India’s foreign policy choices Read Full Article at RT.com",
+        "id": "russie_1507",
+        "titre": "MAGA defector caught secretly joining Russian forum tied to spy recruitment",
+        "resume": "Conservative podcaster Candace Owens is scheduled to appear at a panel alongside Russian media figures and politicians under U.S. and European Union sanctions for supporting Russia’s war of aggression",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "RT",
-        "url": "https://www.rt.com/india/640853-indias-answer-world-order-us-china/",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/raw-investigates/a-big-family-candace-owens-shares-the-stage-in-st-petersburg-with-sanctioned-russians/",
         "date": "2026-06-02",
         "pays": "russie",
         "featured": false,
@@ -263,13 +263,27 @@
         "impact_marches": []
       },
       {
-        "id": "russie_4970",
-        "titre": "Russia Ships Most Oil Since 2022 as Drones Strike Refineries",
-        "resume": "Russia is exporting the most crude since its invasion of Ukraine back in 2022 as Kyiv's record attacks on its neighbor's oil refineries force more barrels into the global market.",
+        "id": "russie_5013",
+        "titre": "Russia’s China Energy Lifeline Is Becoming a Noose",
+        "resume": "The recent summit meeting between Chinese President Xi Jinping and his Russian counterpart Vladimir Putin ending on 20 May raised more questions than answers for many observers, probably including Put",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/russia-ships-most-oil-since-2022-as-drones-strike-refineries/",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Russias-China-Energy-Lifeline-Is-Becoming-a-Noose.html",
+        "date": "2026-06-02",
+        "pays": "russie",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "russie_2173",
+        "titre": "Russia's massive hypersonic missile attack on Ukraine leaves at least 22 dead and dozens injured",
+        "resume": "Russia has launched its largest hypersonic missile attack of the war in Ukraine killing 18 people, including children and wounding more than 100.",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15867061/Russias-massive-hypersonic-missile-attack-Ukraine-leaves-16-dead-dozens-injured.html",
         "date": "2026-06-02",
         "pays": "russie",
         "featured": false,
@@ -279,7 +293,7 @@
     ],
     "iran": [
       {
-        "id": "iran_1449",
+        "id": "iran_5761",
         "titre": "Trump’s Iran gamble gets riskier as a new player enters the room",
         "resume": "President Trump intervened personally in the Israel-Hezbollah conflict, halting Israeli strikes on Beirut to preserve Iran nuclear talks. This action elevates Hezbollah from a proxy to a key player in",
         "analyse": "",
@@ -293,7 +307,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_6457",
+        "id": "iran_7999",
         "titre": "Heather Cox Richardson: Trump Is Stuck in a Quagmire, Lashes out at Critics, and Praises Himself",
         "resume": "Heather Cox Richardson sums up the quagmire in which Trump is stuck, unable to bully Iran, and, according to him, “bored” by the stalemate in negotiations. His response, as she shows, is to unleash a ",
         "analyse": "",
@@ -307,7 +321,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_7181",
+        "id": "iran_4090",
         "titre": "Iranian Endgames?",
         "resume": "Iran survives by delay, deception, and deterrence games—but the moment may be coming when airpower, not diplomacy, decides how the nuclear standoff ends. The Trump administration has bent over backwar",
         "analyse": "",
@@ -321,7 +335,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_9310",
+        "id": "iran_4340",
         "titre": "Strategic Stability, Structural Strain | Sinification: May 2026",
         "resume": "US-China | Global Order | East Asia | Europe | Middle East & Pakistan | Chinese Economy | Research and Education | Tech & AI  The clearest fault line in the economics debate is between proponents of i",
         "analyse": "",
