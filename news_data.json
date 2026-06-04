@@ -1,9 +1,23 @@
 {
-  "last_updated": "04 June 2026 à 08h44",
+  "last_updated": "04 June 2026 à 12h42",
   "articles": {
     "france": [
       {
-        "id": "france_5955",
+        "id": "france_3538",
+        "titre": "Interruption majeure en soirée",
+        "resume": "Non : ce ne sera pas le rideau final, plutôt une remise à neuf majeure. Un peu de patience : durée indéterminée !",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Pauljorion.com",
+        "url": "https://www.pauljorion.com/blog/2026/06/03/interruption-majeure-en-soiree/",
+        "date": "2026-06-03",
+        "pays": "france",
+        "featured": true,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "france_530",
         "titre": "Choose France, choose men : l'économie de demain avec les codes d'hier",
         "resume": "Derrière les hourras, les annonces records et les photos de la 9e édition de Choose France à Versailles, la politique économique de l’exécutif reste largement pensée par et pour des hommes. Au détrime",
         "analyse": "",
@@ -12,12 +26,12 @@
         "url": "https://www.lesnouvellesnews.fr/choose-france-choose-men-leconomie-de-demain-avec-les-codes-dhier/",
         "date": "2026-06-03",
         "pays": "france",
-        "featured": true,
+        "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "france_2860",
+        "id": "france_6274",
         "titre": "Le paradoxe Donald Trump: comment le président américain force l'Europe à redevenir une puissance",
         "resume": "L'Union européenne a l'opportunité de créer un nouveau modèle: une alliance de nations unies par un destin et des valeurs communes, prêtes à tout afin de lutter ensemble contre le nouveau chaos du mon",
         "analyse": "",
@@ -31,7 +45,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_694",
+        "id": "france_5758",
         "titre": "Choose France ou le retour de l’État stratège. L’édito de Michel Taube",
         "resume": "Depuis plusieurs décennies, le débat économique français oppose artificiellement deux visions que tout devrait pourtant rapprocher : celle de l’État et celle du marché. Comme si l’on devait choisir en",
         "analyse": "",
@@ -43,25 +57,11 @@
         "featured": false,
         "badges": [],
         "impact_marches": []
-      },
-      {
-        "id": "france_9356",
-        "titre": "Revue de presse du 02/06/2026",
-        "resume": "Cette semaine dans la revue, beaucoup de « Réflexion ». Parce que d’habitude, on évite, c’est paraît-il mauvais pour l’audience  . Merci à nos contributeurs et bonne lecture.",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "Les-crises.fr",
-        "url": "https://www.les-crises.fr/revue-de-presse-du-02-06-2026/",
-        "date": "2026-06-02",
-        "pays": "france",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
       }
     ],
     "monde": [
       {
-        "id": "monde_3810",
+        "id": "monde_6710",
         "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
         "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
         "analyse": "",
@@ -75,7 +75,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_7358",
+        "id": "monde_5294",
         "titre": "Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?",
         "resume": "Far away from Indian mainland, the government is pumping billions of dollars into a controversial development project.",
         "analyse": "",
@@ -89,7 +89,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_5542",
+        "id": "monde_7364",
         "titre": "AI investment boom reshaping global capital flows, leaving India temporarily on the sidelines: Jonathan Garner",
         "resume": "Foreign investors are shifting capital from India to North Asian markets like South Korea and Taiwan, driven by the AI investment boom and extraordinary earnings growth. While India's long-term growth",
         "analyse": "",
@@ -105,13 +105,13 @@
     ],
     "usa": [
       {
-        "id": "usa_3810",
-        "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
-        "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
+        "id": "usa_7750",
+        "titre": "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict",
+        "resume": "Simultaneous wars in Ukraine and Iran have depleted sources of tungsten, a largely obscure metal that is critical to munitions and industrial production.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Resilience",
-        "url": "https://www.resilience.org/stories/2026-06-03/oil-inflation-unrest-the-global-fallout-of-the-us-israeli-war-on-iran/",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/03/china-metals-national-security-defense-weapons-supply-tungsten.html",
         "date": "2026-06-03",
         "pays": "usa",
         "featured": true,
@@ -119,13 +119,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_5107",
-        "titre": "Snatching defeat from the jaws of victory",
-        "resume": "Iran is little more than a depleted skeleton of a state without a functional leadership. And at that moment, Trump obsessively wants to agree to a deal that lifts sanctions on the regime, unfreezes it",
+        "id": "usa_191",
+        "titre": "Gold Slips as Rising Oil Prices and Inflation Concerns Temper Safe-Haven Demand",
+        "resume": "Gold prices moved lower on Wednesday as escalating tensions in the Middle East pushed oil prices higher, reinforcing concerns that inflationary pressures...",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/428047",
+        "source": "Advfn.com",
+        "url": "https://investorshub.advfn.com/market-news/article/29655/gold-slips-as-rising-oil-prices-and-inflation-concerns-temper-safe-haven-demand",
         "date": "2026-06-03",
         "pays": "usa",
         "featured": false,
@@ -133,13 +133,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_612",
-        "titre": "Putin squeezes Armenia as Russia seeks to retain global clout",
-        "resume": "President Vladimir Putin has read long-term ally Armenia the riot act: persist in wanting to join the European Union and you can kiss goodbye to cheap Russian oil and gas. The Russian leader issued th",
+        "id": "usa_4423",
+        "titre": "Iran War: Rubio Testimony Raises Questions as to Why Iran Is Bothering With Talks; Intensified Tit-for-Tat Attacks Conti",
+        "resume": "Today's Iran war update: The kinetic war is heating up as the US keeps demanding things of Iran that Iran has already rejected.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/putin-squeezes-armenia-as-russia-seeks-to-retain-global-clout",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-rubio-testimony-raises-questions-as-to-why-iran-is-bothering-with-talks-intensified-tit-for-tat-attacks-continue-us-muscles-oman.html",
         "date": "2026-06-03",
         "pays": "usa",
         "featured": false,
@@ -147,13 +147,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_2353",
-        "titre": "After America",
-        "resume": "While Washington’s war with Iran drags on, month after month, without any end in sight, the world is witnessing the very real limits of U.S. global power. As President Donald Trump lurches repeatedly ",
+        "id": "usa_5110",
+        "titre": "Trump’s “Christian Nationalism” Is Neither of Those Things",
+        "resume": "I have been reliably informed that the United States is currently governed by Christian nationalists. The term “Christian nationalism” is often used in academic and liberal circles to refer to the mod",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/06/03/after-america/",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/211274/trump-christian-nationalism-corrupt-administration",
         "date": "2026-06-03",
         "pays": "usa",
         "featured": false,
@@ -163,7 +163,21 @@
     ],
     "chine": [
       {
-        "id": "chine_3810",
+        "id": "chine_13",
+        "titre": "Bangladesh’s Twin Challenges: Economic Revival and Great Power Balancing",
+        "resume": "Bangladesh’s security lies not in becoming part of someone else’s strategic rivalry, but in becoming economically strong, diplomatically flexible, and internally legitimate.",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/06/bangladeshs-twin-challenges-economic-revival-and-great-power-balancing/",
+        "date": "2026-06-03",
+        "pays": "chine",
+        "featured": true,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "chine_6710",
         "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
         "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
         "analyse": "",
@@ -172,12 +186,12 @@
         "url": "https://www.resilience.org/stories/2026-06-03/oil-inflation-unrest-the-global-fallout-of-the-us-israeli-war-on-iran/",
         "date": "2026-06-03",
         "pays": "chine",
-        "featured": true,
+        "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "chine_7358",
+        "id": "chine_5294",
         "titre": "Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?",
         "resume": "Far away from Indian mainland, the government is pumping billions of dollars into a controversial development project.",
         "analyse": "",
@@ -191,7 +205,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_8385",
+        "id": "chine_5444",
         "titre": "Iran’s New Grand Strategy",
         "resume": "How a Remade Islamic Republic Will Reshape the Middle East Narges Bajoghli and Vali Nasr July/August 2026 Published on June 3, 2026 Illustration by Michaela Staton; Photo Source: Reuters Subscribe to ",
         "analyse": "",
@@ -203,31 +217,17 @@
         "featured": false,
         "badges": [],
         "impact_marches": []
-      },
-      {
-        "id": "chine_5383",
-        "titre": "Myanmar’s forgotten war: How the world is failing the test of the UN’s Responsibility to Protect",
-        "resume": "The war in Myanmar draws far less western attention than Ukraine or the Middle East. Why is such an enduring and intractable conflict being treated with so little urgency?",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/myanmars-forgotten-war-how-the-world-is-failing-the-test-of-the-uns-responsibility-to-protect-283667",
-        "date": "2026-06-02",
-        "pays": "chine",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
       }
     ],
     "russie": [
       {
-        "id": "russie_9921",
-        "titre": "Ukraine hits St. Petersburg as ‘Putin’s Davos’ gets underway",
-        "resume": "Ukraine launched hundreds of drones at Russian targets early Wednesday, sending black smoke rising above the historic heart of St.",
+        "id": "russie_4272",
+        "titre": "Ukraine Attacks Energy, Military Sites In St. Petersburg Ahead Of Russia's Economic Forum",
+        "resume": "Ukrainian drones attacked energy and military sites in St. Petersburg ahead of a major economic forum in the city and a day after Moscow killed 23 people across Ukraine in devastating air attacks.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/russia/st-petersburg-drone-attack-ukraine-putin-economic-forum-russia-war-rcna348214",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260603-rferl01.htm",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": true,
@@ -235,13 +235,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_5010",
-        "titre": "The Rain in Spain Falls Harder on Ukraine: Rethinking the Spanish Civil War Analogy",
-        "resume": "In 2023, the NATO Baltic Defense College in Tartu, Estonia devoted its entire annual conference to the Interwar Period (1919 to 1939), a theme repeated at subsequent conferences sponsored by national ",
+        "id": "russie_500",
+        "titre": "The President discussed European security, EU budget, and the Lithuanian Presidency of the Council of the EU with the Pr",
+        "resume": "President Gitanas Nausėda met with Slovenian Prime Minister Janez Janša in Ljubljana. The meeting focused on European security and defense, support for Ukraine, Lithuania's preparations for its 2027 P",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/the-rain-in-spain-falls-harder-on-ukraine-rethinking-the-spanish-civil-war-analogy/",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260603-lithuania-pres01.htm",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": false,
@@ -249,13 +249,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_6817",
-        "titre": "Ukraine strikes St Petersburg oil terminal as city prepares to host 'Russian Davos'",
-        "resume": "Some 20,000 guests from 130 countries are set to attend the three-day annual Saint Petersburg International Economic Forum.",
+        "id": "russie_2789",
+        "titre": "US Needs to Maintain Relations with Russia - Rubio",
+        "resume": "US Secretary of State Marco Rubio said on Wednesday that Washington should maintain relations and dialogue with Russia, regardless of the ongoing conflict in Ukraine.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "TheJournal.ie",
-        "url": "https://www.thejournal.ie/ukraine-strikes-st-petersburg-oil-terminal-russia-davos-economic-forum-7059037-Jun2026/",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/06/russia-260603-sputnik01.htm",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": false,
@@ -263,13 +263,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_1657",
-        "titre": "Ukraine drones hit Saint Petersburg as economic forum starts",
-        "resume": "Ukraine has been stepping up long-range strikes as the war grinds on, with Russia's northerly second city now hit. The latest attack on Saint Petersburg takes place as an event long known as \"Russia's",
+        "id": "russie_4341",
+        "titre": "Ranking Member Shaheen Presses Secretary Rubio on Trump Administration's Total Failure to Hold Russia Accountable",
+        "resume": "Today, U.S. Senator Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, pressed Secretary Rubio during a Senate Appropriations Subcommittee on State, Foreign Operations an",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/ukraine-drones-hit-saint-petersburg-as-economic-forum-starts/a-77400574",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/06/russia-260603-sfrc01.htm",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": false,
@@ -279,7 +279,35 @@
     ],
     "iran": [
       {
-        "id": "iran_611",
+        "id": "iran_5122",
+        "titre": "Can Diplomacy Survive? Analyst Dania Arayssi On Iran, Hezbollah, And The Struggle For A Deal",
+        "resume": "Diplomatic efforts to contain the widening Middle East crisis entered a critical phase this week as US officials sought to keep alive negotiations with Iran amid mounting regional tensions.",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260603-rferl02.htm",
+        "date": "2026-06-03",
+        "pays": "iran",
+        "featured": true,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "iran_5122",
+        "titre": "Can Diplomacy Survive? Analyst Dania Arayssi On Iran, Hezbollah, And The Struggle For A Deal",
+        "resume": "Diplomatic efforts to contain the widening Middle East crisis entered a critical phase this week as US officials sought to keep alive negotiations with Iran amid mounting tensions. RFE/RL spoke with D",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/can-diplomacy-survive-analyst-dania-arayssi-on-iran-hezbollah-and-the-struggle-for-a-deal/33771631.html",
+        "date": "2026-06-03",
+        "pays": "iran",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "iran_351",
         "titre": "Gold eases on stronger oil as fresh Mideast hostilities erupt",
         "resume": "Gold prices dipped on Wednesday as escalating Middle East tensions fueled crude oil gains, intensifying inflation and interest rate hike concerns. Renewed Gulf hostilities and stalled diplomacy betwee",
         "analyse": "",
@@ -288,12 +316,12 @@
         "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-on-stronger-oil-as-fresh-mideast-hostilities-erupt/articleshow/131473989.cms",
         "date": "2026-06-03",
         "pays": "iran",
-        "featured": true,
+        "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "iran_8385",
+        "id": "iran_5444",
         "titre": "Iran’s New Grand Strategy",
         "resume": "How a Remade Islamic Republic Will Reshape the Middle East Narges Bajoghli and Vali Nasr July/August 2026 Published on June 3, 2026 Illustration by Michaela Staton; Photo Source: Reuters Subscribe to ",
         "analyse": "",
@@ -301,34 +329,6 @@
         "source": "Foreign Affairs",
         "url": "https://www.foreignaffairs.com/iran/irans-new-grand-strategy",
         "date": "2026-06-03",
-        "pays": "iran",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
-      },
-      {
-        "id": "iran_1473",
-        "titre": "Trump’s Iran gamble gets riskier as a new player enters the room",
-        "resume": "President Trump intervened personally in the Israel-Hezbollah conflict, halting Israeli strikes on Beirut to preserve Iran nuclear talks. This action elevates Hezbollah from a proxy to a key player in",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/trumps-iran-gamble-gets-riskier-as-a-new-player-enters-the-room/articleshow/131467518.cms",
-        "date": "2026-06-02",
-        "pays": "iran",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
-      },
-      {
-        "id": "iran_6699",
-        "titre": "Heather Cox Richardson: Trump Is Stuck in a Quagmire, Lashes out at Critics, and Praises Himself",
-        "resume": "Heather Cox Richardson sums up the quagmire in which Trump is stuck, unable to bully Iran, and, according to him, “bored” by the stalemate in negotiations. His response, as she shows, is to unleash a ",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "Dianeravitch.net",
-        "url": "https://dianeravitch.net/2026/06/02/heather-cox-richardson-trump-is-stuck-in-a-quagmire-lashes-out-at-critics-and-praises-himself/",
-        "date": "2026-06-02",
         "pays": "iran",
         "featured": false,
         "badges": [],
