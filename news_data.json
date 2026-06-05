@@ -1,9 +1,9 @@
 {
-  "last_updated": "05 June 2026 à 12h33",
+  "last_updated": "05 June 2026 à 17h12",
   "articles": {
     "france": [
       {
-        "id": "france_6959",
+        "id": "france_9325",
         "titre": "Moins de 20 000 €, mais impossible d’ouvrir le capot : le pari (très) risqué de la Twingo électrique",
         "resume": "La Renault Twingo E-Tech a été conçue en moins de deux ans pour casser les prix. Mais entre un capot qui ne s’ouvre pas, une batterie sans refroidissement actif et des pannes électriques en série, cer",
         "analyse": "",
@@ -17,7 +17,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_8972",
+        "id": "france_4536",
         "titre": "Des experts déconseillent une baisse de la TVA sur les carburants, jugeant la mesure coûteuse et inefficace",
         "resume": "Saisi sur la question d’une éventuelle baisse de la TVA sur les carburants pour aider les consommateurs, le Conseil des prélèvements obligatoires rend un avis très clair : cette mesure serait coûteuse",
         "analyse": "",
@@ -31,7 +31,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_4024",
+        "id": "france_2269",
         "titre": "Un air de présidentielle: pourquoi Gabriel Attal, Marine Tondelier ou Bruno Retailleau se pressent au congrès des Jeunes",
         "resume": "Plusieurs candidats officiellement rentrés dans le grand bain pour 2027 se rendent ce jeudi à Bourg-en-Bresse pour répondre aux questions des Jeunes agriculteurs. De quoi espérer pour chacun marquer d",
         "analyse": "",
@@ -45,7 +45,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_5679",
+        "id": "france_7108",
         "titre": "Dans la peau des décideurs : en Colombie, un jeu de rôle pour comprendre les arbitrages de la transition énergétique",
         "resume": "Comment anticiper les compromis et les blocages de la transition énergétique ? En Colombie, un jeu de rôle développé par des chercheurs propose une mise en situation immersive.",
         "analyse": "",
@@ -61,7 +61,21 @@
     ],
     "monde": [
       {
-        "id": "monde_2665",
+        "id": "monde_2918",
+        "titre": "Selected Articles: Israel Pressures Trump to Murder Iran’s Supreme Leader Mojtaba Khamenei and Chief Negotiator Bagher G",
+        "resume": "Israel Pressures Trump to Murder Iran’s Supreme Leader Mojtaba Khamenei and Chief Negotiator Bagher Ghalibaf\nBy Kurt Nimmo, June 04, 2026\nNetanyahu is not worried in the least about destroying the wor",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/selected-articles-israel-pressures-trump-murder-iran-supreme-leader-chief-negotiator/5928816",
+        "date": "2026-06-04",
+        "pays": "monde",
+        "featured": true,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "monde_3816",
         "titre": "Indonesia, Malaysia pledge stronger cooperation through JCBC",
         "resume": "Indonesia and Malaysia reaffirmed their commitment to strengthening cooperation across various sectors during the 17th Indonesia-Malaysia Joint Commission on ...",
         "analyse": "",
@@ -70,12 +84,12 @@
         "url": "https://en.antaranews.com/news/417969/indonesia-malaysia-pledge-stronger-cooperation-through-jcbc",
         "date": "2026-06-04",
         "pays": "monde",
-        "featured": true,
+        "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "monde_1475",
+        "id": "monde_1017",
         "titre": "Faultlines in a New Epoch of Crisis",
         "resume": "We have entered a new epoch of global capitalism. It is characterized by crisis, imperial rivalry, authoritarian nationalism, and episodic, explosive resistance from below. The Trump administration’s ",
         "analyse": "",
@@ -87,31 +101,17 @@
         "featured": false,
         "badges": [],
         "impact_marches": []
-      },
-      {
-        "id": "monde_505",
-        "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
-        "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "Resilience",
-        "url": "https://www.resilience.org/stories/2026-06-03/oil-inflation-unrest-the-global-fallout-of-the-us-israeli-war-on-iran/",
-        "date": "2026-06-03",
-        "pays": "monde",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
       }
     ],
     "usa": [
       {
-        "id": "usa_796",
-        "titre": "Putin faces rival visions of war and peace at Russia's 'Davos'",
-        "resume": "Russia's future is debated at a key investment forum amidst the Ukraine war. Some leaders push for continued global confrontation with the West. Others highlight economic gains from ending the conflic",
+        "id": "usa_6081",
+        "titre": "Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf",
+        "resume": "The new import duties are “a solution in search of a problem.”",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/putin-faces-rival-visions-of-war-and-peace-at-russias-davos/articleshow/131507253.cms",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/04/trump-forced-labor-tariffs-ustr-trade-section-301/",
         "date": "2026-06-04",
         "pays": "usa",
         "featured": true,
@@ -119,13 +119,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_8192",
-        "titre": "The US and Europe are diverging on how to deal with Belarus — and that could benefit Putin’s loyal ally",
-        "resume": "Behind the difference looms the specter of Russia, which each side sees in increasingly opposing terms.",
+        "id": "usa_5448",
+        "titre": "Five Moments Proving Scott Bessent Is The Sassiest Trump Official We Need In Washington",
+        "resume": "Treasury Secretary Scott Bessent has, in recent times, developed a reputation for delivering sassy, perfectly-timed comebacks and political attacks.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/the-us-and-europe-are-diverging-on-how-to-deal-with-belarus-and-that-could-benefit-putins-loyal-ally-284127",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/06/04/scott-bessent-sassy-comebacks-bill-pulte-ron-wyden-son-epstein-ties-gavin-newsom-nickname/",
         "date": "2026-06-04",
         "pays": "usa",
         "featured": false,
@@ -133,13 +133,13 @@
         "impact_marches": []
       },
       {
-        "id": "usa_1675",
-        "titre": "Israel Pressures Trump to Murder Iran’s Supreme Leader Mojtaba Khamenei and Chief Negotiator Bagher Ghalibaf",
-        "resume": "The murder of Iran’s Supreme Leader represents a new stage in the erosion of the international norm against assassination.\n\nTo read this article in the following languages, click the Translate Website",
+        "id": "usa_2888",
+        "titre": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
+        "resume": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/israel-murder-iran-mojtaba-khamenei-ghalibaf/5928790",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war",
         "date": "2026-06-04",
         "pays": "usa",
         "featured": false,
@@ -149,7 +149,7 @@
     ],
     "chine": [
       {
-        "id": "chine_1475",
+        "id": "chine_1017",
         "titre": "Faultlines in a New Epoch of Crisis",
         "resume": "We have entered a new epoch of global capitalism. It is characterized by crisis, imperial rivalry, authoritarian nationalism, and episodic, explosive resistance from below. The Trump administration’s ",
         "analyse": "",
@@ -163,7 +163,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_9447",
+        "id": "chine_6076",
         "titre": "Bangladesh’s Twin Challenges: Economic Revival and Great Power Balancing",
         "resume": "Bangladesh’s security lies not in becoming part of someone else’s strategic rivalry, but in becoming economically strong, diplomatically flexible, and internally legitimate.",
         "analyse": "",
@@ -177,7 +177,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_505",
+        "id": "chine_1949",
         "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
         "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
         "analyse": "",
@@ -191,7 +191,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_4906",
+        "id": "chine_6029",
         "titre": "Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?",
         "resume": "Far away from Indian mainland, the government is pumping billions of dollars into a controversial development project.",
         "analyse": "",
@@ -207,13 +207,13 @@
     ],
     "russie": [
       {
-        "id": "russie_796",
-        "titre": "Putin faces rival visions of war and peace at Russia's 'Davos'",
-        "resume": "Russia's future is debated at a key investment forum amidst the Ukraine war. Some leaders push for continued global confrontation with the West. Others highlight economic gains from ending the conflic",
+        "id": "russie_980",
+        "titre": "Britain, France and Germany hatch secret plan to bring Putin to the negotiating table in latest sign of war momentum tur",
+        "resume": "As Russia continues to face mounting losses and peace talks are at a standstill, people familiar with the matter said the nations view it as an opportunity to negotiate.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/putin-faces-rival-visions-of-war-and-peace-at-russias-davos/articleshow/131507253.cms",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15874069/Britain-France-Germany-hatch-secret-plan-bring-Putin-negotiating-table-latest-sign-war-momentum-turning-Ukraines-way.html",
         "date": "2026-06-04",
         "pays": "russie",
         "featured": true,
@@ -221,13 +221,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_9141",
-        "titre": "Tracing Digital Links Between Viory and Ruptly",
-        "resume": "“In the age of misinformation, the line between fact and fiction is blurrier than ever.” “For those of us working in video news, verification isn’t a nice-to-have. It’s a necessity. It is how we prote",
+        "id": "russie_6144",
+        "titre": "U.S. Lawmakers Push New Ukraine Aid and Russia Sanctions",
+        "resume": "The US House of Representatives voted on June 3 to advance legislation providing new military assistance to Ukraine, overcoming opposition from the administration and marking the first major Ukraine s",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Bellingcat.com",
-        "url": "https://www.bellingcat.com/news/2026/06/04/viory-ruptly-rt-russia-uae-propaganda-video-news/",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Europe/US-Lawmakers-Push-New-Ukraine-Aid-and-Russia-Sanctions.html",
         "date": "2026-06-04",
         "pays": "russie",
         "featured": false,
@@ -235,13 +235,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_8192",
-        "titre": "The US and Europe are diverging on how to deal with Belarus — and that could benefit Putin’s loyal ally",
-        "resume": "Behind the difference looms the specter of Russia, which each side sees in increasingly opposing terms.",
+        "id": "russie_6861",
+        "titre": "Putin faces rival visions of war at Russia's 'Davos'",
+        "resume": "President Vladimir Putin faced two rival outlines of Russia's future today as he hosted his premier annual investment conference with the war in Ukraine unabated.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/the-us-and-europe-are-diverging-on-how-to-deal-with-belarus-and-that-could-benefit-putins-loyal-ally-284127",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0604/1576778-russias-davos-conference/",
         "date": "2026-06-04",
         "pays": "russie",
         "featured": false,
@@ -251,7 +251,7 @@
     ],
     "iran": [
       {
-        "id": "iran_8049",
+        "id": "iran_1",
         "titre": "Trump keeps negotiating while Iran plays the long game America keeps missing",
         "resume": "From the 1979 hostage crisis to today's nuclear talks, Iran's clerical regime plays the long game, and Washington keeps misreading Tehran's intentions.",
         "analyse": "",
@@ -265,7 +265,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_8557",
+        "id": "iran_7789",
         "titre": "Iran Is Rumored to Be Close to Demonstrating a Nuclear Weapon",
         "resume": "We May Be Days Away from an Iranian Nuclear Test The rumors are getting louder. Reports from serious journalists, including Pepe Escobar and former CIA analyst Larry Johnson (Sonar21.com), suggest tha",
         "analyse": "",
@@ -279,7 +279,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_5135",
+        "id": "iran_4414",
         "titre": "Hegseth says U.S. will stop subsidizing wealthy NATO members",
         "resume": "U.S. Secretary of War Pete Hegseth told the Shangri-La Dialogue in Singapore on May 30, 2026, that the United States will no longer “subsidize” the defense of “wealthy” allies, reviving the long-runni",
         "analyse": "",
