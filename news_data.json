@@ -1,9 +1,9 @@
 {
-  "last_updated": "04 June 2026 à 21h28",
+  "last_updated": "05 June 2026 à 02h58",
   "articles": {
     "france": [
       {
-        "id": "france_3552",
+        "id": "france_9090",
         "titre": "Dans la peau des décideurs : en Colombie, un jeu de rôle pour comprendre les arbitrages de la transition énergétique",
         "resume": "Comment anticiper les compromis et les blocages de la transition énergétique ? En Colombie, un jeu de rôle développé par des chercheurs propose une mise en situation immersive.",
         "analyse": "",
@@ -17,7 +17,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_8652",
+        "id": "france_9174",
         "titre": "« Vieux » et fiers de l’être : retourner le stigmate pour se faire entendre !",
         "resume": "A priori péjoratifs, les qualificatifs de « vieilles » et « vieux » n’ont jamais autant fait florès. Comment l’expliquer ?",
         "analyse": "",
@@ -31,7 +31,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_4955",
+        "id": "france_1152",
         "titre": "Interruption majeure en soirée",
         "resume": "Non : ce ne sera pas le rideau final, plutôt une remise à neuf majeure. Un peu de patience : durée indéterminée !",
         "analyse": "",
@@ -45,7 +45,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_5211",
+        "id": "france_8327",
         "titre": "Choose France, choose men : l'économie de demain avec les codes d'hier",
         "resume": "Derrière les hourras, les annonces records et les photos de la 9e édition de Choose France à Versailles, la politique économique de l’exécutif reste largement pensée par et pour des hommes. Au détrime",
         "analyse": "",
@@ -61,7 +61,7 @@
     ],
     "monde": [
       {
-        "id": "monde_219",
+        "id": "monde_5823",
         "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
         "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
         "analyse": "",
@@ -75,7 +75,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_8136",
+        "id": "monde_3135",
         "titre": "Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?",
         "resume": "Far away from Indian mainland, the government is pumping billions of dollars into a controversial development project.",
         "analyse": "",
@@ -89,7 +89,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_3326",
+        "id": "monde_2858",
         "titre": "AI investment boom reshaping global capital flows, leaving India temporarily on the sidelines: Jonathan Garner",
         "resume": "Foreign investors are shifting capital from India to North Asian markets like South Korea and Taiwan, driven by the AI investment boom and extraordinary earnings growth. While India's long-term growth",
         "analyse": "",
@@ -105,41 +105,55 @@
     ],
     "usa": [
       {
-        "id": "usa_2953",
-        "titre": "Tariff man rides again as Trump slaps 10% duties on key trading partners — except the ones who get 12.5%",
-        "resume": "Trump just proposed new tariffs on 60 countries — 10% for allies like Canada and Japan, 12.5% for everyone else",
+        "id": "usa_4285",
+        "titre": "Texas braces for 'full-blown disaster' as flesh-eating 'horror' arrives after Trump cuts",
+        "resume": "The worst fear of Texas officials may have already been realized: New World Screwworm has made a comeback.Screwworms are the larvae of a species of fly that hatch from eggs laid in wounds or sensitive",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/06/03/trump-tariffs-10-percent-uk-switzerland-canada-japan/",
-        "date": "2026-06-03",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/screwworm/",
+        "date": "2026-06-04",
         "pays": "usa",
         "featured": true,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "usa_5569",
-        "titre": "Exclusive—Chuck Flint: American Prosperity Depends on Ending Our Reliance on Chinese Supply Chains",
-        "resume": "Working families paid for America’s addiction to Chinese supply chains. Now corporate America needs to address the issue, not circumvent it.\nThe post Exclusive—Chuck Flint: American Prosperity Depends",
+        "id": "usa_4096",
+        "titre": "Anthony Albanese blindsided by new Trump tariff plan on Australia",
+        "resume": "Anthony Albanese has hit back at US plans for a 12.5 per cent tariff on Australian exports.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/economy/2026/06/03/exclusive-chuck-flint-american-prosperity-depends-on-ending-our-reliance-on-chinese-supply-chains/",
-        "date": "2026-06-03",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15872277/albanese-trump-tariff-australia-modern-slavery-laws.html",
+        "date": "2026-06-04",
         "pays": "usa",
         "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "usa_9428",
-        "titre": "The many lies Trump told the New York Post | CNN Politics",
-        "resume": "Another softball interview. Another series of obvious lies from the president.",
+        "id": "usa_9895",
+        "titre": "Today’s Oil Drama Is No Rerun of “That ’70s Show”",
+        "resume": "OPEC doesn’t have the whip hand any more, but other realities of the worldwide energy market still apply.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/03/politics/new-york-post-trump-fact-check",
+        "source": "Hoover.org",
+        "url": "https://www.hoover.org/research/todays-oil-drama-no-rerun-70s-show",
+        "date": "2026-06-04",
+        "pays": "usa",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "usa_989",
+        "titre": "PM says Australia has 'ideological disagreement' with US after it reveals anti-slavery tariff",
+        "resume": "The planned new tariff is to be slapped on dozens of countries that have allegedly failing to take action to prevent slavery and forced labour.",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-06-04/us-plans-to-impose-anti-slavery-tariff-on-australian-products/106757472",
         "date": "2026-06-03",
         "pays": "usa",
         "featured": false,
@@ -149,7 +163,7 @@
     ],
     "chine": [
       {
-        "id": "chine_5274",
+        "id": "chine_1455",
         "titre": "Bangladesh’s Twin Challenges: Economic Revival and Great Power Balancing",
         "resume": "Bangladesh’s security lies not in becoming part of someone else’s strategic rivalry, but in becoming economically strong, diplomatically flexible, and internally legitimate.",
         "analyse": "",
@@ -163,7 +177,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_219",
+        "id": "chine_5823",
         "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
         "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
         "analyse": "",
@@ -177,7 +191,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_8136",
+        "id": "chine_3135",
         "titre": "Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?",
         "resume": "Far away from Indian mainland, the government is pumping billions of dollars into a controversial development project.",
         "analyse": "",
@@ -191,7 +205,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_9151",
+        "id": "chine_7162",
         "titre": "Iran’s New Grand Strategy",
         "resume": "How a Remade Islamic Republic Will Reshape the Middle East Narges Bajoghli and Vali Nasr July/August 2026 Published on June 3, 2026 Illustration by Michaela Staton; Photo Source: Reuters Subscribe to ",
         "analyse": "",
@@ -207,27 +221,27 @@
     ],
     "russie": [
       {
-        "id": "russie_2203",
-        "titre": "Candace Owens takes her patriot act to Putin's talent show",
-        "resume": "Raw Story reports that Owens is scheduled to appear at the St. Petersburg International Economic Forum on a panel called \"A Big Family, A Big Reach: New Demographics and Narratives for Media Leaders.\"",
+        "id": "russie_387",
+        "titre": "US House votes for measure that would end Iran war, in blow to Trump",
+        "resume": "The U.S. House of Representatives voted to block President Donald Trump from continuing the war against Iran. This marks a rare bipartisan effort to curb presidential war powers. The vote reflects gro",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Boing Boing",
-        "url": "https://boingboing.net/2026/06/03/candace-owens-takes-her-patriot-act-to-putins-talent-show.html",
-        "date": "2026-06-03",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-house-votes-for-measure-that-would-end-iran-war-in-blow-to-trump/articleshow/131494460.cms",
+        "date": "2026-06-04",
         "pays": "russie",
         "featured": true,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "russie_4241",
-        "titre": "US Needs to Maintain Relations with Russia - Rubio",
-        "resume": "WASHINGTON (Sputnik) - US Secretary of State Marco Rubio said on Wednesday that Washington should maintain relations and dialogue with Russia, regardless of the ongoing conflict in Ukraine.",
+        "id": "russie_6639",
+        "titre": "How Ukraine has turned the tide on rattled Putin with devastating long-range drone strikes crippling his war chest and g",
+        "resume": "The latest blow came on Wednesday when Ukraine staged a massive attack on a major oil port in St Petersburg.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260603/us-needs-to-maintain-relations-with-russia-rubio-1124250985.html",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15870577/How-Ukraine-turned-tide-rattled-Putin-devastating-long-range-drone-strikes-crippling-war-chest-grinding-navy.html",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": false,
@@ -235,13 +249,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_8491",
-        "titre": "Senior officials warn Putin he is overspending on his war",
-        "resume": "First major sign Kremlin's consensus is fraying",
+        "id": "russie_9679",
+        "titre": "Candace Owens is speaking in Russia, but sources say Putin is only manipulating her to spread his propaganda",
+        "resume": "Candace Owens speaking at anti-American conference in Russia, alongside Vladimir Putin, sanctioned oligarchs",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/world/senior-officials-warn-putin-he-is-overspending-on-his-war",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/06/03/world-news/candace-owens-is-speaking-in-russia-but-sources-say-putin-is-only-manipulating-her-to-spread-his-propaganda/",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": false,
@@ -249,13 +263,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_606",
-        "titre": "Germany, France, UK plan to engage Putin in Ukraine negotiations as crypto sanctions tighten",
-        "resume": "The E3's diplomatic efforts could reshape geopolitical dynamics, while tightened crypto sanctions may escalate compliance challenges globally.\nThe post Germany, France, UK plan to engage Putin in Ukra",
+        "id": "russie_4339",
+        "titre": "US House Advances Ukraine Aid Bill as Rubio Says Russia Failing to Meet War Goals",
+        "resume": "The US House of Representatives voted on June 3 to advance legislation providing new military assistance to Ukraine, overcoming opposition from the administration and marking the first major Ukraine s",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/europe-e3-putin-ukraine-negotiations-crypto-sanctions/",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/33772022.html",
         "date": "2026-06-03",
         "pays": "russie",
         "featured": false,
@@ -265,7 +279,21 @@
     ],
     "iran": [
       {
-        "id": "iran_3148",
+        "id": "iran_747",
+        "titre": "Beyond the Trump–Xi Summit: Arrival of the Emerging Global Order",
+        "resume": "The significance of President Donald Trump’s May 12–15 visit to China—the first of his second presidency and his first visit since his state trip of November 2017—extends far beyond the immediate outc",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Khabarhub.com",
+        "url": "https://english.khabarhub.com/2026/04/551936/",
+        "date": "2026-06-03",
+        "pays": "iran",
+        "featured": true,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "iran_9464",
         "titre": "Congress Prepares for a Consequential Iran Vote",
         "resume": "Tehran may feel empowered to wait out U.S. demands for concessions in face of war-weary American public.",
         "analyse": "",
@@ -274,12 +302,12 @@
         "url": "http://foreignpolicy.com/2026/06/03/congress-iran-war-powers-house-vote-concurrent-resolution-trump/",
         "date": "2026-06-03",
         "pays": "iran",
-        "featured": true,
+        "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "iran_6143",
+        "id": "iran_2917",
         "titre": "Timothy Snyder on “Superpower Suicide”",
         "resume": "Timothy Snyder is an expert on European history. He taught for many years at Yale University and held a prestigious chair in European history. In 2025, he accepted a chair at the University of Toronto",
         "analyse": "",
@@ -293,27 +321,13 @@
         "impact_marches": []
       },
       {
-        "id": "iran_511",
+        "id": "iran_6112",
         "titre": "Netanyahu: Israel and US forces prepared for potential action against Iran",
         "resume": "Heightened military readiness may strain US-Iran diplomacy, reducing chances for peace and increasing regional instability risks.\nThe post Netanyahu: Israel and US forces prepared for potential action",
         "analyse": "",
         "categorie": "Actualité",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/netanyahu-israel-and-us-forces-prepared-for-potential-action-against-iran/",
-        "date": "2026-06-03",
-        "pays": "iran",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
-      },
-      {
-        "id": "iran_7860",
-        "titre": "Can Diplomacy Survive? Analyst Dania Arayssi On Iran, Hezbollah, And The Struggle For A Deal",
-        "resume": "Diplomatic efforts to contain the widening Middle East crisis entered a critical phase this week as US officials sought to keep alive negotiations with Iran amid mounting regional tensions.",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260603-rferl02.htm",
         "date": "2026-06-03",
         "pays": "iran",
         "featured": false,
