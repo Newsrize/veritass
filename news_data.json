@@ -1,9 +1,23 @@
 {
-  "last_updated": "06 June 2026 à 02h45",
+  "last_updated": "06 June 2026 à 07h44",
   "articles": {
     "france": [
       {
-        "id": "france_9052",
+        "id": "france_1839",
+        "titre": "\"Les rumeurs sur ma mort sont grandement exagérées\" : Poutine attendu lors d'un important forum à Saint-Pétersbourg",
+        "resume": "Le président Vladimir Poutine doit prendre la parole vendredi à Saint-Pétersbourg lors d'un important forum d'investissements rassemblant responsables russes et étrangers, au moment où les craintes se",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Lalibre.be",
+        "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/06/05/les-rumeurs-sur-ma-mort-sont-grandement-exagerees-poutine-attendu-lors-dun-important-forum-a-saint-petersbourg-AJQUT75GGRHOZOIQRWO7LR2P7Q/",
+        "date": "2026-06-05",
+        "pays": "france",
+        "featured": true,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "france_2479",
         "titre": "Moins de 20 000 €, mais impossible d’ouvrir le capot : le pari (très) risqué de la Twingo électrique",
         "resume": "La Renault Twingo E-Tech a été conçue en moins de deux ans pour casser les prix. Mais entre un capot qui ne s’ouvre pas, une batterie sans refroidissement actif et des pannes électriques en série, cer",
         "analyse": "",
@@ -12,12 +26,12 @@
         "url": "https://www.frandroid.com/marques/renault/3126369_moins-de-20-000-e-mais-impossible-douvrir-le-capot-le-pari-tres-risque-de-la-twingo-electrique",
         "date": "2026-06-04",
         "pays": "france",
-        "featured": true,
+        "featured": false,
         "badges": [],
         "impact_marches": []
       },
       {
-        "id": "france_8823",
+        "id": "france_9198",
         "titre": "Des experts déconseillent une baisse de la TVA sur les carburants, jugeant la mesure coûteuse et inefficace",
         "resume": "Saisi sur la question d’une éventuelle baisse de la TVA sur les carburants pour aider les consommateurs, le Conseil des prélèvements obligatoires rend un avis très clair : cette mesure serait coûteuse",
         "analyse": "",
@@ -31,7 +45,7 @@
         "impact_marches": []
       },
       {
-        "id": "france_2078",
+        "id": "france_5717",
         "titre": "Un air de présidentielle: pourquoi Gabriel Attal, Marine Tondelier ou Bruno Retailleau se pressent au congrès des Jeunes",
         "resume": "Plusieurs candidats officiellement rentrés dans le grand bain pour 2027 se rendent ce jeudi à Bourg-en-Bresse pour répondre aux questions des Jeunes agriculteurs. De quoi espérer pour chacun marquer d",
         "analyse": "",
@@ -43,25 +57,11 @@
         "featured": false,
         "badges": [],
         "impact_marches": []
-      },
-      {
-        "id": "france_8537",
-        "titre": "Dans la peau des décideurs : en Colombie, un jeu de rôle pour comprendre les arbitrages de la transition énergétique",
-        "resume": "Comment anticiper les compromis et les blocages de la transition énergétique ? En Colombie, un jeu de rôle développé par des chercheurs propose une mise en situation immersive.",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/dans-la-peau-des-decideurs-en-colombie-un-jeu-de-role-pour-comprendre-les-arbitrages-de-la-transition-energetique-282188",
-        "date": "2026-06-03",
-        "pays": "france",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
       }
     ],
     "monde": [
       {
-        "id": "monde_167",
+        "id": "monde_4621",
         "titre": "Selected Articles: Israel Pressures Trump to Murder Iran’s Supreme Leader Mojtaba Khamenei and Chief Negotiator Bagher G",
         "resume": "Israel Pressures Trump to Murder Iran’s Supreme Leader Mojtaba Khamenei and Chief Negotiator Bagher Ghalibaf\nBy Kurt Nimmo, June 04, 2026\nNetanyahu is not worried in the least about destroying the wor",
         "analyse": "",
@@ -75,7 +75,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_307",
+        "id": "monde_9470",
         "titre": "Indonesia, Malaysia pledge stronger cooperation through JCBC",
         "resume": "Indonesia and Malaysia reaffirmed their commitment to strengthening cooperation across various sectors during the 17th Indonesia-Malaysia Joint Commission on ...",
         "analyse": "",
@@ -89,7 +89,7 @@
         "impact_marches": []
       },
       {
-        "id": "monde_118",
+        "id": "monde_6774",
         "titre": "Faultlines in a New Epoch of Crisis",
         "resume": "We have entered a new epoch of global capitalism. It is characterized by crisis, imperial rivalry, authoritarian nationalism, and episodic, explosive resistance from below. The Trump administration’s ",
         "analyse": "",
@@ -105,13 +105,13 @@
     ],
     "usa": [
       {
-        "id": "usa_2025",
-        "titre": "‘Trade over Aid’: GOP Resolution Introduced to Phase Out U.S. Military Aid to Israel",
-        "resume": "Republican Reps. Marlin Stutzman (R-IN) and Abe Hamadeh (R-AZ) have introduced a resolution calling for the phased elimination of the $3.8 billion in annual U.S. military aid to Israel and its replace",
+        "id": "usa_6202",
+        "titre": "US sanctions Cuban President Miguel Díaz-Canel in latest move to pressure island's leadership",
+        "resume": "The United States has imposed sanctions on Cuban President Miguel Díaz-Canel, his wife and three other individuals",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/06/04/gop-resolution-introduced-phaseout-u-s-military-aid-israel/",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/US/wireStory/us-sanctions-cuban-president-miguel-daz-canel-latest-133599882",
         "date": "2026-06-05",
         "pays": "usa",
         "featured": true,
@@ -119,41 +119,27 @@
         "impact_marches": []
       },
       {
-        "id": "usa_1912",
-        "titre": "US imposes sanctions on Cuban President Miguel Díaz-Canel and family",
-        "resume": "The US imposed sanctions on Cuban President Miguel Díaz-Canel, his wife and associates, escalating pressure on Havana amid economic turmoil.",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/us-imposes-sanctions-on-cuban-president-miguel-diaz-canel-and-family/article71063731.ece",
-        "date": "2026-06-05",
-        "pays": "usa",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
-      },
-      {
-        "id": "usa_4967",
-        "titre": "U.S. hits Cuban President Miguel Díaz-Canel with sanctions, putting further pressure on Havana",
-        "resume": "The United States has imposed sanctions on ​Cuban President Miguel Díaz-Canel, his wife and three other individuals, in the latest move by the Trump administration to pressure the island's leadership ",
-        "analyse": "",
-        "categorie": "Actualité",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/us-sanctions-cuba-president-9.7224141",
-        "date": "2026-06-05",
-        "pays": "usa",
-        "featured": false,
-        "badges": [],
-        "impact_marches": []
-      },
-      {
-        "id": "usa_5775",
-        "titre": "Cuba crisis: After power outages of up to 22 hours a day, shortages of tap water, U.S now imposes sanctions on President",
-        "resume": "While Cuba has been under a US trade embargo since 1962, President Donald Trump has drastically ramped up pressure in recent months.",
+        "id": "usa_6067",
+        "titre": "Stagflation risks rise as oil prices threaten global growth outlook: Peter Cardillo",
+        "resume": "Global economic outlook darkens with stagflation fears as energy prices fuel persistent inflation. Experts warn central banks may keep interest rates high longer than anticipated. Geopolitical tension",
         "analyse": "",
         "categorie": "Actualité",
         "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/cuba-crisis-after-power-outages-of-up-to-22-hours-a-day-shortages-of-tap-water-u-s-now-imposes-sanctions-on-president-raul-castro-family-members/articleshow/131518944.cms",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stagflation-risks-rise-as-oil-prices-threaten-global-growth-outlook-peter-cardillo/articleshow/131523749.cms",
+        "date": "2026-06-05",
+        "pays": "usa",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "usa_1820",
+        "titre": "The Arctic deal of the century: liberating Greenland",
+        "resume": "It is time for a sovereign, independent Greenland.",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/06/the_arctic_deal_of_the_century_liberating_greenland.html",
         "date": "2026-06-05",
         "pays": "usa",
         "featured": false,
@@ -163,7 +149,7 @@
     ],
     "chine": [
       {
-        "id": "chine_8897",
+        "id": "chine_7212",
         "titre": "THE RED CARPET GAMBLE: Why India’s Myanmar Strategy is a High-Stakes Bet That May Not Pay Off",
         "resume": "In a move that has sent ripples through the diplomatic community, India recently rolled out the red carpet for Min Aung Hlaing, the military leader of Myanmar, welcoming him to New Delhi as the countr",
         "analyse": "",
@@ -177,7 +163,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_118",
+        "id": "chine_6774",
         "titre": "Faultlines in a New Epoch of Crisis",
         "resume": "We have entered a new epoch of global capitalism. It is characterized by crisis, imperial rivalry, authoritarian nationalism, and episodic, explosive resistance from below. The Trump administration’s ",
         "analyse": "",
@@ -191,7 +177,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_1276",
+        "id": "chine_4507",
         "titre": "Bangladesh’s Twin Challenges: Economic Revival and Great Power Balancing",
         "resume": "Bangladesh’s security lies not in becoming part of someone else’s strategic rivalry, but in becoming economically strong, diplomatically flexible, and internally legitimate.",
         "analyse": "",
@@ -205,7 +191,7 @@
         "impact_marches": []
       },
       {
-        "id": "chine_9591",
+        "id": "chine_4918",
         "titre": "Oil, inflation, unrest: The global fallout of the US-Israeli war on Iran",
         "resume": "Oil shocks, currency crises, refugee flows and rising geopolitical disorder: analyst and columnist Mihir Sharma explains why the consequences of war with Iran will be felt far beyond the Middle East.",
         "analyse": "",
@@ -221,13 +207,13 @@
     ],
     "russie": [
       {
-        "id": "russie_6889",
-        "titre": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
-        "resume": "The Republican-led House on Thursday passed a sweeping security package providing new military aid to Ukraine and imposing sanctions on Russia, delivering a sharp rebuke to the Trump administration, w",
+        "id": "russie_3882",
+        "titre": "China’s Xi headed to North Korea in bid to shore up ties",
+        "resume": "The Chinese leader’s visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4382408/posts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties",
         "date": "2026-06-05",
         "pays": "russie",
         "featured": true,
@@ -235,13 +221,13 @@
         "impact_marches": []
       },
       {
-        "id": "russie_4714",
-        "titre": "House passes bill to aid Ukraine and sanction Russia in sign of impatience with Trump's approach to the war",
-        "resume": "The House passed legislation Thursday that would aid Ukraine and sanction key segments of the Russian economy, overriding objections from Republican leaders who warned the bill would undermine negotia",
+        "id": "russie_7876",
+        "titre": "Zelensky challenges Putin to meet him on neutral territory - and warns Russian leader will have to 'fight for his own ex",
+        "resume": "Volodymyr Zelensky has challenged Vladimir Putin to meet with him on neutral territory, warning the Russian president that he will have to 'fight for his own existence' if he doesn't end the war.",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Japan Today",
-        "url": "https://japantoday.com/category/world/house-poised-to-pass-ukraine-aid-over-the-objections-of-republican-leaders",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15876077/Zelensky-challenges-Putin-meet-neutral-territory-warns-Russian-leader-fight-existence.html",
         "date": "2026-06-05",
         "pays": "russie",
         "featured": false,
@@ -249,13 +235,27 @@
         "impact_marches": []
       },
       {
-        "id": "russie_1061",
-        "titre": "Trump suffers another staggering rebuke as House passes Ukraine measure he opposed",
-        "resume": "President Donald Trump's grip over the House of Representatives continued to loosen on Thursday, as 18 Republicans broke ranks to pass a foreign military aid measure his administration doesn't support",
+        "id": "russie_2188",
+        "titre": "House passes Ukraine aid, sanctions against Russia #world",
+        "resume": "US House breaks with Trump line on Ukraine aid and Russia sanctions The US House of Representatives approved a major Ukraine aid package while also imposing additional sanctions on Russia, in votes th",
         "analyse": "",
         "categorie": "Actualité",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-house/",
+        "source": "Alltoc.com",
+        "url": "https://alltoc.com/world/house-passes-ukraine-aid-sanctions-against-russia",
+        "date": "2026-06-05",
+        "pays": "russie",
+        "featured": false,
+        "badges": [],
+        "impact_marches": []
+      },
+      {
+        "id": "russie_3546",
+        "titre": "New House bill bans Russian oil, imposes 500% tariffs, sends $8 billion to Ukraine",
+        "resume": "House Republicans joined Democrats to force a Ukraine aid bill through the House despite Speaker Johnson’s opposition. The bill imposes 500% tariffs on Russian goods and authorizes $8 billion in loans",
+        "analyse": "",
+        "categorie": "Actualité",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-05-house-bill-russian-oil-tariffs-ukraine.html",
         "date": "2026-06-05",
         "pays": "russie",
         "featured": false,
@@ -265,7 +265,7 @@
     ],
     "iran": [
       {
-        "id": "iran_9708",
+        "id": "iran_2928",
         "titre": "Prince Reza Pahlavi’s European Tour in the Spring of 2026: Media Controversies, Diaspora Conflicts, and Europe’s Iran Po",
         "resume": "Prince Reza Pahlavi’s European tour in the spring of 2026 developed into a matter of public discussion within the European debate on Iran. His appearances in Italy, Sweden, and Germany took place at a",
         "analyse": "",
@@ -279,7 +279,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_1532",
+        "id": "iran_5612",
         "titre": "Iran endgame nears — as Trump faces two stark choices",
         "resume": "After three months of intermittent war, we see the realities of the conflict: Iran does not regard overwhelming military defeat on the battlefield as a strategic loss.",
         "analyse": "",
@@ -293,7 +293,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_4877",
+        "id": "iran_5406",
         "titre": "Why war has made Iran's leadership frictions more 'consequential'",
         "resume": "A report about the resignation of Iran's president earlier this week came at a turbulent moment for Iran's regime, which is grappling with frictions between moderates and hardliners as the war drags o",
         "analyse": "",
@@ -307,7 +307,7 @@
         "impact_marches": []
       },
       {
-        "id": "iran_8247",
+        "id": "iran_3237",
         "titre": "A Seismic Third World Revolution That's Benefiting the U.S. and Israel",
         "resume": "While we’re all focused on the Middle East, I would like to momentarily shift your attention to a remarkable political revolution that’s taking place across the Third World. As it turns out, these sei",
         "analyse": "",
