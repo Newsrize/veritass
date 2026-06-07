@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr" id="html-root">
+<html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,32 +9,25 @@
 *{margin:0;padding:0;box-sizing:border-box}
 :root{--bg:#0C0C0E;--bg2:#111115;--bg3:#18181F;--txt:#EDEAE4;--muted:#7A7880;--faint:#222228;--actu:#1B4F8A;--jur:#7D1C2E;--hist:#1A5C2E;--actu-c:#6FA8DC;--jur-c:#C47A8A;--hist-c:#6AB07A}
 body{background:var(--bg);color:var(--txt);font-family:system-ui,sans-serif;font-size:15px;line-height:1.6;min-height:100vh}
-
-/* NAV */
-nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem 1.5rem;border-bottom:1px solid var(--faint);background:rgba(12,12,14,0.97);position:sticky;top:0;z-index:100;backdrop-filter:blur(10px);gap:1rem}
+nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem 1.5rem;border-bottom:1px solid var(--faint);background:rgba(12,12,14,0.97);position:sticky;top:0;z-index:100;backdrop-filter:blur(10px);gap:0.5rem;flex-wrap:wrap}
 .logo{font-family:Georgia,serif;font-size:1.5rem;font-weight:700;letter-spacing:3px;color:var(--txt);cursor:pointer;flex-shrink:0}
 .logo-dot{color:var(--muted)}
 .nav-links{display:flex;gap:2px;flex-wrap:wrap}
-.nav-btn{background:none;border:none;padding:0.35rem 0.75rem;border-radius:6px;font-size:13px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s;white-space:nowrap}
+.nav-btn{background:none;border:none;padding:0.35rem 0.7rem;border-radius:6px;font-size:13px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s;white-space:nowrap}
 .nav-btn:hover,.nav-btn.on{color:var(--txt);background:var(--faint)}
-.nav-right{display:flex;align-items:center;gap:10px;flex-shrink:0}
-.nav-date{font-size:11px;color:var(--muted);letter-spacing:0.5px;opacity:0.6}
+.nav-right{display:flex;align-items:center;gap:8px;flex-shrink:0}
 .live-badge{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--hist-c)}
 .live-dot{width:6px;height:6px;border-radius:50%;background:var(--hist-c);animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
-
-/* LANG SWITCHER */
-.lang-switcher{display:flex;gap:2px;background:var(--bg3);border:1px solid var(--faint);border-radius:6px;padding:2px}
-.lang-btn{background:none;border:none;padding:0.2rem 0.5rem;border-radius:4px;font-size:11px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s;font-weight:500}
+.lang-sw{display:flex;gap:2px;background:var(--bg3);border:1px solid var(--faint);border-radius:6px;padding:2px}
+.lang-btn{background:none;border:none;padding:0.2rem 0.5rem;border-radius:4px;font-size:11px;color:var(--muted);cursor:pointer;font-family:inherit;font-weight:500;transition:all 0.15s}
 .lang-btn.on{background:var(--faint);color:var(--txt)}
-
-/* SEARCH */
-.search-zone{padding:0.8rem 1.5rem;background:var(--bg);border-bottom:1px solid var(--faint);position:sticky;top:57px;z-index:90;backdrop-filter:blur(8px)}
+.search-zone{padding:0.7rem 1.5rem;background:var(--bg);border-bottom:1px solid var(--faint);position:sticky;top:56px;z-index:90;backdrop-filter:blur(8px)}
 .search-row{display:flex;gap:8px;max-width:600px}
-.search-row input{flex:1;padding:0.42rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:13px;color:var(--txt);font-family:inherit;outline:none;transition:border-color 0.2s}
+.search-row input{flex:1;padding:0.4rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:13px;color:var(--txt);font-family:inherit;outline:none;transition:border-color 0.2s}
 .search-row input:focus{border-color:#3A3A50}
 .search-row input::placeholder{color:var(--muted)}
-.search-row button{padding:0.42rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:12px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s}
+.search-row button{padding:0.4rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:12px;color:var(--muted);cursor:pointer;font-family:inherit}
 .search-row button:hover{color:var(--txt)}
 .sr-drop{display:none;max-width:600px;border:1px solid var(--faint);border-top:none;border-radius:0 0 7px 7px;overflow:hidden;background:var(--bg2)}
 .sr-item{padding:0.65rem 0.9rem;cursor:pointer;border-bottom:1px solid var(--faint);transition:background 0.15s}
@@ -42,81 +35,63 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .sr-item:hover{background:var(--bg3)}
 .sr-title{font-size:13px;color:var(--txt);margin-bottom:2px}
 .sr-cat{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
-
-/* WRAP */
 .wrap{max-width:1100px;margin:0 auto;padding:1.5rem 1.5rem 5rem}
-
-/* ACCUEIL */
 .hero{text-align:center;padding:3rem 1.5rem 2rem;max-width:680px;margin:0 auto}
 .hero-eyebrow{font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--muted);margin-bottom:1.2rem}
 .hero-title{font-family:Georgia,serif;font-size:2.6rem;font-weight:700;line-height:1.05;color:var(--txt);margin-bottom:1rem}
 .hero-title em{font-style:italic;color:#8A9BB5}
 .hero-sub{font-size:14px;color:var(--muted);max-width:440px;margin:0 auto 2rem;line-height:1.7}
-
-/* HERO LATEST */
-.home-latest-hero{max-width:900px;margin:0 auto;padding:0 1.5rem}
+.home-wrap{max-width:900px;margin:0 auto;padding:0 1.5rem}
 .home-sec-title{font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin-bottom:1rem;display:flex;align-items:center;gap:8px}
 .home-sec-line{width:20px;height:1px;background:var(--faint)}
 .latest-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem}
 .lcard{background:var(--bg2);border:1px solid var(--faint);border-radius:8px;overflow:hidden;cursor:pointer;transition:border-color 0.15s}
 .lcard:hover{border-color:#3A3A44}
-.lcard-img{width:100%;height:100px;object-fit:cover;background:var(--bg3)}
-.lcard-img-placeholder{width:100%;height:100px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:24px;color:var(--muted);opacity:0.4}
+.lcard-img{width:100%;height:100px;object-fit:cover;display:block}
+.lcard-ph{width:100%;height:100px;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:28px}
 .lcard-body{padding:0.8rem}
 .lc-cat{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);margin-bottom:0.3rem}
 .lc-title{font-size:13px;line-height:1.4;color:var(--txt);margin-bottom:0.35rem}
 .lc-foot{display:flex;justify-content:space-between;align-items:center}
 .lc-time{font-size:11px;color:var(--muted)}
 .lc-cta{font-size:11px;color:var(--muted);border:1px solid var(--faint);padding:0.1rem 0.4rem;border-radius:4px}
-
-/* STATS */
-.home-divider{border:none;border-top:1px solid var(--faint);margin:2rem 0}
+.divider{border:none;border-top:1px solid var(--faint);margin:2rem 0}
+.hero-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;margin-bottom:2rem}
+.hcard{background:var(--bg2);border:1px solid var(--faint);border-radius:8px;padding:1rem;cursor:pointer;transition:border-color 0.15s;position:relative;overflow:hidden}
+.hcard:hover{border-color:#3A3A44}
+.hcard-accent{width:100%;height:2px;position:absolute;top:0;left:0}
+.hcard-title{font-size:13px;font-weight:500;color:var(--txt);margin-bottom:0.3rem;margin-top:0.5rem}
+.hcard-desc{font-size:11px;color:var(--muted);line-height:1.5}
 .home-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;max-width:500px;margin:0 auto}
 .stat-card{background:var(--bg3);border-radius:8px;padding:0.9rem;text-align:center}
 .stat-num{font-size:20px;font-weight:500;color:var(--txt);margin-bottom:0.2rem}
 .stat-label{font-size:11px;color:var(--muted)}
-
-/* HERO CARDS */
-.hero-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;max-width:700px;margin:2rem auto 0}
-.hero-card{background:var(--bg2);border:1px solid var(--faint);border-radius:8px;padding:1rem;cursor:pointer;transition:border-color 0.15s;text-align:left;position:relative;overflow:hidden}
-.hero-card:hover{border-color:#3A3A44}
-.hcard-accent{width:100%;height:2px;position:absolute;top:0;left:0}
-.hcard-title{font-size:13px;font-weight:500;color:var(--txt);margin-bottom:0.3rem;margin-top:0.4rem}
-.hcard-desc{font-size:11px;color:var(--muted);line-height:1.5}
-
-/* SECTIONS INTERNES */
 .sec-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;flex-wrap:wrap;gap:0.5rem}
 .sec-head-left{display:flex;align-items:center;gap:10px}
 .sec-bar{width:22px;height:2px}
 .sec-head h2{font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase}
-.last-update{font-size:11px;color:var(--muted);opacity:0.6}
-
-/* DISCLAIMER */
+.upd-label{font-size:11px;color:var(--muted);opacity:0.6}
 .disclaimer{display:flex;align-items:flex-start;gap:8px;background:var(--bg3);border:1px solid var(--faint);border-radius:6px;padding:0.65rem 1rem;margin-bottom:1rem;font-size:11px;color:var(--muted);line-height:1.5}
-
-/* TABS */
 .tabs{display:flex;gap:4px;margin-bottom:1rem;flex-wrap:wrap}
 .tab{background:none;border:1px solid var(--faint);border-radius:5px;padding:0.28rem 0.75rem;font-size:12px;font-family:inherit;color:var(--muted);cursor:pointer;transition:all 0.15s}
 .tab:hover{color:var(--txt)}
 .tab.on{background:var(--bg3);color:var(--txt);border-color:#3A3A44}
-
-/* ACTU GRID */
 .actu-wrap{display:grid;grid-template-columns:1.5fr 1fr;border:1px solid var(--faint);border-radius:10px;overflow:hidden;margin-bottom:2rem}
 .feat{background:var(--bg2);cursor:pointer;border-right:1px solid var(--faint);border-left:3px solid var(--actu);transition:background 0.15s}
 .feat:hover{background:var(--bg3)}
-.feat-img{width:100%;height:160px;object-fit:cover;background:var(--bg3)}
-.feat-img-ph{width:100%;height:160px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:36px;color:var(--muted);opacity:0.3}
+.feat-img{width:100%;height:160px;object-fit:cover;display:block}
+.feat-ph{width:100%;height:160px;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:40px}
 .feat-content{padding:1.3rem}
 .minis{display:flex;flex-direction:column;background:var(--bg2)}
-.mini{flex:1;cursor:pointer;border-left:3px solid var(--actu);border-top:1px solid var(--faint);transition:background 0.15s;display:flex;flex-direction:column;overflow:hidden}
+.mini{flex:1;cursor:pointer;border-left:3px solid var(--actu);border-top:1px solid var(--faint);transition:background 0.15s;overflow:hidden}
 .mini:first-child{border-top:none}
 .mini:hover{background:var(--bg3)}
-.mini-img{width:100%;height:80px;object-fit:cover;background:var(--bg3)}
-.mini-img-ph{width:100%;height:80px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:20px;color:var(--muted);opacity:0.3}
-.mini-content{padding:0.8rem 1rem}
+.mini-img{width:100%;height:75px;object-fit:cover;display:block}
+.mini-ph{width:100%;height:75px;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:22px}
+.mini-content{padding:0.75rem 1rem}
 .clabel{font-size:10px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:0.4rem}
 .feat-title{font-family:Georgia,serif;font-size:1.1rem;font-weight:700;line-height:1.25;color:var(--txt);margin-bottom:0.55rem}
-.feat-body{font-size:12.5px;color:var(--muted);line-height:1.6;margin-bottom:0.8rem}
+.feat-body{font-size:12.5px;color:var(--muted);line-height:1.6;margin-bottom:0.75rem}
 .badges{display:flex;gap:5px;flex-wrap:wrap}
 .badge{font-size:11px;padding:0.15rem 0.5rem;border-radius:4px}
 .bu{background:rgba(26,92,46,0.2);color:var(--hist-c)}
@@ -126,11 +101,7 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .mini-foot{display:flex;justify-content:space-between;align-items:center}
 .mini-time{font-size:11px;color:var(--muted)}
 .mini-cta{font-size:11px;color:var(--muted);border:1px solid var(--faint);padding:0.1rem 0.4rem;border-radius:4px}
-
-/* LOADING */
 .loading{text-align:center;padding:3rem;color:var(--muted);font-size:13px}
-
-/* TWO COL */
 .two{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
 .block{border:1px solid var(--faint);border-radius:10px;overflow:hidden}
 .bhead{padding:0.85rem 1.1rem;border-bottom:1px solid var(--faint);background:var(--bg2);display:flex;align-items:center;gap:8px}
@@ -139,8 +110,7 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .bcard{border-bottom:1px solid var(--faint);cursor:pointer;background:var(--bg2);transition:background 0.15s;overflow:hidden}
 .bcard:last-child{border-bottom:none}
 .bcard:hover{background:var(--bg3)}
-.bcard-img{width:100%;height:80px;object-fit:cover}
-.bcard-img-ph{width:100%;height:60px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:18px;color:var(--muted);opacity:0.3}
+.bcard-ph{width:100%;height:60px;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:20px}
 .bcard-inner{padding:0.8rem 1rem;display:flex;gap:10px;align-items:flex-start}
 .bacc2{width:2px;min-height:30px;flex-shrink:0;margin-top:3px}
 .bc-body{flex:1}
@@ -148,25 +118,20 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .bc-foot{display:flex;justify-content:space-between}
 .bc-date{font-size:11px;color:var(--muted)}
 .bc-cta{font-size:11px;color:var(--muted);border:1px solid var(--faint);padding:0.1rem 0.4rem;border-radius:4px}
-
 .htabs{display:flex;gap:4px;margin-bottom:1rem}
 .htab{background:none;border:1px solid var(--faint);border-radius:5px;padding:0.28rem 0.75rem;font-size:12px;font-family:inherit;color:var(--muted);cursor:pointer;transition:all 0.15s}
 .htab.on{background:var(--bg3);color:var(--hist-c);border-color:rgba(26,92,46,0.35)}
-
-/* MODAL */
 .modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.82);z-index:200;overflow-y:auto;padding:2rem 1rem}
 .modal-bg.open{display:block}
 .modal{background:var(--bg2);border:1px solid var(--faint);border-radius:10px;max-width:680px;margin:0 auto;overflow:hidden;position:relative}
-.modal-hero-img{width:100%;height:200px;object-fit:cover;background:var(--bg3)}
-.modal-hero-ph{width:100%;height:120px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:42px;color:var(--muted);opacity:0.3}
+.modal-hero-img{width:100%;height:200px;object-fit:cover;display:block}
+.modal-hero-ph{width:100%;height:130px;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:50px}
 .modal-body{padding:1.8rem}
-.modal-x{position:absolute;top:1rem;right:1rem;background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.1);color:var(--txt);width:30px;height:30px;border-radius:50%;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;font-family:inherit;z-index:10}
+.modal-x{position:absolute;top:0.8rem;right:0.8rem;background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.15);color:var(--txt);width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;font-family:inherit;z-index:10}
 .modal-x:hover{background:rgba(0,0,0,0.8)}
 .mtag{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:0.6rem}
-.mtitle{font-family:Georgia,serif;font-size:1.4rem;font-weight:700;line-height:1.2;color:var(--txt);margin-bottom:0.5rem}
-.mdate{font-size:12px;color:var(--muted);padding-bottom:1rem;border-bottom:1px solid var(--faint);margin-bottom:1rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}
-.msource-link{font-size:12px;color:var(--actu-c);text-decoration:none}
-.msource-link:hover{text-decoration:underline}
+.mtitle{font-family:Georgia,serif;font-size:1.35rem;font-weight:700;line-height:1.2;color:var(--txt);margin-bottom:0.5rem}
+.mdate{font-size:12px;color:var(--muted);padding-bottom:1rem;border-bottom:1px solid var(--faint);margin-bottom:1rem}
 .mbody{font-size:14px;color:#A5A2A0;line-height:1.85}
 .mbody p{margin-bottom:0.9rem}
 .mbody h4{font-size:11px;font-weight:600;color:var(--txt);margin:1.3rem 0 0.5rem;text-transform:uppercase;letter-spacing:1px}
@@ -179,38 +144,36 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .mup{color:var(--hist-c);font-weight:500}
 .mdn{color:var(--jur-c);font-weight:500}
 .mkt-note{margin-top:1rem;padding:0.65rem 0.9rem;background:var(--bg3);border-radius:6px;font-size:11px;color:var(--muted);line-height:1.5;font-style:italic}
-
+.msource{margin-top:1.2rem;padding-top:1rem;border-top:1px solid var(--faint);font-size:12px;color:var(--muted)}
+.msource a{color:var(--actu-c);text-decoration:none}
+.msource a:hover{text-decoration:underline}
+.trans-note{background:var(--bg3);border:1px solid var(--faint);border-radius:6px;padding:0.6rem 0.9rem;font-size:12px;color:var(--muted);margin-bottom:1rem;font-style:italic}
 footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;background:var(--bg)}
 .flogo{font-family:Georgia,serif;font-size:1.1rem;font-weight:700;color:var(--muted);margin-bottom:0.3rem;letter-spacing:3px}
 .fsub{font-size:11px;color:var(--muted);opacity:0.35;letter-spacing:2px;text-transform:uppercase}
-.fupdated{font-size:11px;color:var(--muted);opacity:0.35;margin-top:0.4rem}
-
-/* RESPONSIVE MOBILE */
+.fupdated{font-size:11px;color:var(--muted);opacity:0.35;margin-top:0.3rem}
 @media(max-width:768px){
-  nav{padding:0.7rem 1rem;gap:0.5rem}
-  .logo{font-size:1.2rem;letter-spacing:2px}
-  .nav-links .nav-btn{font-size:11px;padding:0.3rem 0.5rem}
-  .nav-date{display:none}
-  .search-zone{padding:0.6rem 1rem;top:50px}
+  nav{padding:0.6rem 1rem}
+  .logo{font-size:1.2rem}
+  .nav-links .nav-btn{font-size:11px;padding:0.28rem 0.5rem}
+  .search-zone{padding:0.6rem 1rem;top:48px}
   .wrap{padding:1rem 1rem 4rem}
   .hero{padding:2rem 1rem 1.5rem}
   .hero-title{font-size:1.9rem}
   .latest-grid{grid-template-columns:1fr 1fr}
-  .home-stats{grid-template-columns:repeat(3,1fr)}
   .hero-cards{grid-template-columns:1fr}
+  .home-stats{grid-template-columns:repeat(3,1fr)}
   .actu-wrap{grid-template-columns:1fr}
-  .feat-img,.feat-img-ph{height:140px}
   .two{grid-template-columns:1fr}
   .modal-bg{padding:0.5rem}
   .modal-body{padding:1.2rem}
-  .modal-hero-img,.modal-hero-ph{height:150px}
-  .mtitle{font-size:1.1rem}
+  .modal-hero-img{height:150px}
   .mmkt-head{flex-direction:column}
   .mmkt-disc{text-align:left}
 }
 @media(max-width:480px){
   .latest-grid{grid-template-columns:1fr}
-  .nav-links .nav-btn{font-size:10px;padding:0.25rem 0.4rem}
+  .nav-links .nav-btn{font-size:10px;padding:0.22rem 0.4rem}
 }
 </style>
 </head>
@@ -219,13 +182,13 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
 <nav>
   <div class="logo" onclick="showSec('home')">VERITASS<span class="logo-dot">.</span></div>
   <div class="nav-links">
-    <button class="nav-btn on" id="nb-home" onclick="showSec('home')">Accueil</button>
-    <button class="nav-btn" id="nb-actu" onclick="showSec('actu')">Actualité</button>
-    <button class="nav-btn" id="nb-jur" onclick="showSec('jur')">Juridique</button>
-    <button class="nav-btn" id="nb-hist" onclick="showSec('hist')">Histoire</button>
+    <button class="nav-btn on" id="nb-home" onclick="showSec('home')" data-i18n="nav-home">Accueil</button>
+    <button class="nav-btn" id="nb-actu" onclick="showSec('actu')" data-i18n="nav-actu">Actualité</button>
+    <button class="nav-btn" id="nb-jur" onclick="showSec('jur')" data-i18n="nav-jur">Juridique</button>
+    <button class="nav-btn" id="nb-hist" onclick="showSec('hist')" data-i18n="nav-hist">Histoire</button>
   </div>
   <div class="nav-right">
-    <div class="lang-switcher">
+    <div class="lang-sw">
       <button class="lang-btn on" onclick="setLang('fr')">FR</button>
       <button class="lang-btn" onclick="setLang('en')">EN</button>
       <button class="lang-btn" onclick="setLang('zh')">中文</button>
@@ -236,7 +199,7 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
 
 <div class="search-zone">
   <div class="search-row">
-    <input type="text" id="si" placeholder="Rechercher un article, une loi, un événement…" oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape')clearS()">
+    <input type="text" id="si" placeholder="Rechercher…" oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape')clearS()">
     <button onclick="clearS()">✕</button>
   </div>
   <div class="sr-drop" id="srdrop"></div>
@@ -246,40 +209,35 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
 <div id="s-home">
   <div class="hero">
     <div class="hero-eyebrow" data-i18n="eyebrow">Anti-désinformation · Éducation · Analyse</div>
-    <div class="hero-title" data-i18n="title">L'information <em>vérifiée</em>,<br>analysée pour vous.</div>
-    <div class="hero-sub" data-i18n="sub">Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.</div>
+    <div class="hero-title" data-i18n="hero-title">L'information <em>vérifiée</em>,<br>analysée pour vous.</div>
+    <div class="hero-sub" data-i18n="hero-sub">Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.</div>
   </div>
-
-  <div class="home-latest-hero">
+  <div class="home-wrap">
     <div class="home-sec-title"><div class="home-sec-line"></div><span data-i18n="alaune">À la une</span></div>
-    <div class="latest-grid" id="home-latest-grid">
-      <div class="loading" style="grid-column:1/-1">Chargement…</div>
-    </div>
-
-    <div class="home-divider"></div>
-
-    <div class="home-stats">
-      <div class="stat-card"><div class="stat-num" id="stat-total">—</div><div class="stat-label" data-i18n="stat-art">Articles d'actu</div></div>
-      <div class="stat-card"><div class="stat-num">6</div><div class="stat-label" data-i18n="stat-pays">Pays couverts</div></div>
-      <div class="stat-card"><div class="stat-num">1h</div><div class="stat-label" data-i18n="stat-freq">Mise à jour</div></div>
-    </div>
-
-    <div class="hero-cards" style="max-width:100%;margin-top:1.5rem">
-      <div class="hero-card" onclick="showSec('actu')">
+    <div class="latest-grid" id="home-grid"><div class="loading" style="grid-column:1/-1">Chargement…</div></div>
+    <div class="divider"></div>
+    <div class="hero-cards">
+      <div class="hcard" onclick="showSec('actu')">
         <div class="hcard-accent" style="background:var(--actu)"></div>
         <div class="hcard-title" data-i18n="nav-actu">Actualité & marchés</div>
         <div class="hcard-desc" data-i18n="desc-actu">Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.</div>
       </div>
-      <div class="hero-card" onclick="showSec('jur')">
+      <div class="hcard" onclick="showSec('jur')">
         <div class="hcard-accent" style="background:var(--jur)"></div>
         <div class="hcard-title" data-i18n="nav-jur">Juridique</div>
         <div class="hcard-desc" data-i18n="desc-jur">Droit français et international — lois, jurisprudences, réglementations expliquées.</div>
       </div>
-      <div class="hero-card" onclick="showSec('hist')">
+      <div class="hcard" onclick="showSec('hist')">
         <div class="hcard-accent" style="background:var(--hist)"></div>
         <div class="hcard-title" data-i18n="nav-hist">Histoire</div>
         <div class="hcard-desc" data-i18n="desc-hist">France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.</div>
       </div>
+    </div>
+    <div class="divider"></div>
+    <div class="home-stats">
+      <div class="stat-card"><div class="stat-num" id="stat-total">—</div><div class="stat-label" data-i18n="stat-art">Articles d'actu</div></div>
+      <div class="stat-card"><div class="stat-num">6</div><div class="stat-label" data-i18n="stat-pays">Pays couverts</div></div>
+      <div class="stat-card"><div class="stat-num">1h</div><div class="stat-label" data-i18n="stat-freq">Mise à jour</div></div>
     </div>
   </div>
 </div>
@@ -288,22 +246,16 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
 <div id="s-actu" style="display:none">
   <div class="wrap">
     <div class="sec-head">
-      <div class="sec-head-left">
-        <div class="sec-bar" style="background:var(--actu)"></div>
-        <h2 style="color:var(--actu-c)" data-i18n="nav-actu">Actualité & marchés</h2>
-      </div>
-      <span class="last-update" id="last-update-label"></span>
+      <div class="sec-head-left"><div class="sec-bar" style="background:var(--actu)"></div><h2 style="color:var(--actu-c)" data-i18n="nav-actu">Actualité & marchés</h2></div>
+      <span class="upd-label" id="upd-label"></span>
     </div>
-    <div class="disclaimer">
-      <span>ⓘ</span>
-      <span data-i18n="disclaimer">Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.</span>
-    </div>
-    <div class="tabs" id="ctabs">
-      <button class="tab on" onclick="switchC(this,'monde')" data-i18n="monde">Monde</button>
-      <button class="tab" onclick="switchC(this,'france')" data-i18n="france">France</button>
+    <div class="disclaimer"><span>ⓘ</span><span data-i18n="disclaimer">Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.</span></div>
+    <div class="tabs">
+      <button class="tab on" onclick="switchC(this,'monde')" data-i18n="t-monde">Monde</button>
+      <button class="tab" onclick="switchC(this,'france')" data-i18n="t-france">France</button>
       <button class="tab" onclick="switchC(this,'usa')">États-Unis</button>
-      <button class="tab" onclick="switchC(this,'chine')" data-i18n="chine">Chine</button>
-      <button class="tab" onclick="switchC(this,'russie')" data-i18n="russie">Russie</button>
+      <button class="tab" onclick="switchC(this,'chine')" data-i18n="t-chine">Chine</button>
+      <button class="tab" onclick="switchC(this,'russie')" data-i18n="t-russie">Russie</button>
       <button class="tab" onclick="switchC(this,'iran')">Iran</button>
     </div>
     <div id="agrid"><div class="loading">Chargement…</div></div>
@@ -316,42 +268,18 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
     <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--jur)"></div><h2 style="color:var(--jur-c)" data-i18n="nav-jur">Juridique</h2></div></div>
     <div class="two">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="france">France</span></div>
-        <div class="bcard" onclick="openM('jf1')">
-          <div class="bcard-img-ph">⚖️</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div><div class="bc-foot"><span class="bc-date">Droit du travail · 23 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
-        <div class="bcard" onclick="openM('jf2')">
-          <div class="bcard-img-ph">⚖️</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Féminicide : peine plancher de 25 ans adoptée en commission des lois</div><div class="bc-foot"><span class="bc-date">Droit pénal · 19 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
-        <div class="bcard" onclick="openM('jf3')">
-          <div class="bcard-img-ph">📋</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Loi immigration 2024 : bilan un an après l'entrée en vigueur</div><div class="bc-foot"><span class="bc-date">Droit des étrangers · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
-        <div class="bcard" onclick="openM('jf4')">
-          <div class="bcard-img-ph">🏛️</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Droit à l'avortement inscrit dans la Constitution : un an après</div><div class="bc-foot"><span class="bc-date">Droits fondamentaux · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
+        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="t-france">France</span></div>
+        <div class="bcard" onclick="openS('jf1')"><div class="bcard-ph">⚖️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf1-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div><div class="bc-foot"><span class="bc-date" data-i18n="jf1-date">Droit du travail · 23 mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('jf2')"><div class="bcard-ph">⚖️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf2-title">Féminicide : peine plancher de 25 ans adoptée en commission des lois</div><div class="bc-foot"><span class="bc-date" data-i18n="jf2-date">Droit pénal · 19 mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('jf3')"><div class="bcard-ph">📋</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf3-title">Loi immigration 2024 : bilan un an après l'entrée en vigueur</div><div class="bc-foot"><span class="bc-date" data-i18n="jf3-date">Droit des étrangers · Mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('jf4')"><div class="bcard-ph">🏛️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf4-title">Droit à l'avortement inscrit dans la Constitution : un an après</div><div class="bc-foot"><span class="bc-date" data-i18n="jf4-date">Droits fondamentaux · Avril 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="international">International</span></div>
-        <div class="bcard" onclick="openM('ji1')">
-          <div class="bcard-img-ph">💻</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">DSA européen : en vigueur pour toutes les plateformes — ce qui change</div><div class="bc-foot"><span class="bc-date">Droit numérique · UE · 21 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
-        <div class="bcard" onclick="openM('ji2')">
-          <div class="bcard-img-ph">🌍</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?</div><div class="bc-foot"><span class="bc-date">Droit international · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
-        <div class="bcard" onclick="openM('ji3')">
-          <div class="bcard-img-ph">🚢</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Mer de Chine méridionale : que dit le droit international ?</div><div class="bc-foot"><span class="bc-date">DIH · Asie · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
-        <div class="bcard" onclick="openM('ji4')">
-          <div class="bcard-img-ph">🤖</div>
-          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">AI Act européen : obligations concrètes pour les entreprises</div><div class="bc-foot"><span class="bc-date">Droit technologique · UE</span><span class="bc-cta">Lire</span></div></div></div>
-        </div>
+        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="t-intl">International</span></div>
+        <div class="bcard" onclick="openS('ji1')"><div class="bcard-ph">💻</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji1-title">DSA européen : en vigueur pour toutes les plateformes — ce qui change</div><div class="bc-foot"><span class="bc-date" data-i18n="ji1-date">Droit numérique · UE · 21 mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('ji2')"><div class="bcard-ph">🌍</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji2-title">CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?</div><div class="bc-foot"><span class="bc-date" data-i18n="ji2-date">Droit international · Mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('ji3')"><div class="bcard-ph">🚢</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji3-title">Mer de Chine méridionale : que dit le droit international ?</div><div class="bc-foot"><span class="bc-date" data-i18n="ji3-date">DIH · Asie · Avril 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('ji4')"><div class="bcard-ph">🤖</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji4-title">AI Act européen : obligations concrètes pour les entreprises</div><div class="bc-foot"><span class="bc-date" data-i18n="ji4-date">Droit technologique · UE</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
     </div>
   </div>
@@ -362,282 +290,503 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
   <div class="wrap">
     <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--hist)"></div><h2 style="color:var(--hist-c)" data-i18n="nav-hist">Histoire</h2></div></div>
     <div class="htabs">
-      <button class="htab on" onclick="switchH(this,'fr')">France & Europe · 1789–1914</button>
-      <button class="htab" onclick="switchH(this,'us')">États-Unis · 1776–1917</button>
+      <button class="htab on" onclick="switchH(this,'fr')" data-i18n="htab-fr">France & Europe · 1789–1914</button>
+      <button class="htab" onclick="switchH(this,'us')" data-i18n="htab-us">États-Unis · 1776–1917</button>
     </div>
     <div id="hfr">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)">France & Europe · 1789–1914</span></div>
-        <div class="bcard" onclick="openM('hf1')"><div class="bcard-img-ph">🏰</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Révolution française (1789–1799) — causes, phases et héritage</div><div class="bc-foot"><span class="bc-date">France · 1789</span><span class="bc-cta">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openM('hf2')"><div class="bcard-img-ph">👑</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">Napoléon Bonaparte : de consul à empereur — l'Europe recomposée</div><div class="bc-foot"><span class="bc-date">France · Europe · 1799–1815</span><span class="bc-cta">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openM('hf3')"><div class="bcard-img-ph">🔴</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Commune de Paris (1871) — 72 jours qui ont changé l'histoire</div><div class="bc-foot"><span class="bc-date">France · 1871</span><span class="bc-cta">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openM('hf4')"><div class="bcard-img-ph">📜</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État</div><div class="bc-foot"><span class="bc-date">France · 1894–1906</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)" data-i18n="htab-fr">France & Europe · 1789–1914</span></div>
+        <div class="bcard" onclick="openS('hf1')"><div class="bcard-ph">🏰</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf1-title">La Révolution française (1789–1799) — causes, phases et héritage</div><div class="bc-foot"><span class="bc-date" data-i18n="hf1-date">France · 1789</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('hf2')"><div class="bcard-ph">👑</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf2-title">Napoléon Bonaparte : de consul à empereur — l'Europe recomposée</div><div class="bc-foot"><span class="bc-date" data-i18n="hf2-date">France · Europe · 1799–1815</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('hf3')"><div class="bcard-ph">🔴</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf3-title">La Commune de Paris (1871) — 72 jours qui ont changé l'histoire</div><div class="bc-foot"><span class="bc-date" data-i18n="hf3-date">France · 1871</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('hf4')"><div class="bcard-ph">📜</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf4-title">L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État</div><div class="bc-foot"><span class="bc-date" data-i18n="hf4-date">France · 1894–1906</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
     </div>
     <div id="hus" style="display:none">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)">États-Unis · 1776–1917</span></div>
-        <div class="bcard" onclick="openM('hu1')"><div class="bcard-img-ph">🦅</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Déclaration d'Indépendance (1776) — naissance d'une nation</div><div class="bc-foot"><span class="bc-date">États-Unis · 1776</span><span class="bc-cta">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openM('hu2')"><div class="bcard-img-ph">⚔️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div><div class="bc-foot"><span class="bc-date">États-Unis · 1861–1865</span><span class="bc-cta">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openM('hu3')"><div class="bcard-img-ph">🌄</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe</div><div class="bc-foot"><span class="bc-date">États-Unis · XIXe siècle</span><span class="bc-cta">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openM('hu4')"><div class="bcard-img-ph">🪖</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'entrée des États-Unis dans la Première Guerre mondiale (1917)</div><div class="bc-foot"><span class="bc-date">États-Unis · 1917</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)" data-i18n="htab-us">États-Unis · 1776–1917</span></div>
+        <div class="bcard" onclick="openS('hu1')"><div class="bcard-ph">🦅</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu1-title">La Déclaration d'Indépendance (1776) — naissance d'une nation</div><div class="bc-foot"><span class="bc-date" data-i18n="hu1-date">États-Unis · 1776</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('hu2')"><div class="bcard-ph">⚔️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu2-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div><div class="bc-foot"><span class="bc-date" data-i18n="hu2-date">États-Unis · 1861–1865</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('hu3')"><div class="bcard-ph">🌄</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu3-title">L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe</div><div class="bc-foot"><span class="bc-date" data-i18n="hu3-date">États-Unis · XIXe siècle</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('hu4')"><div class="bcard-ph">🪖</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu4-title">L'entrée des États-Unis dans la Première Guerre mondiale (1917)</div><div class="bc-foot"><span class="bc-date" data-i18n="hu4-date">États-Unis · 1917</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
     </div>
   </div>
 </div>
 
-<!-- MODAL -->
-<div class="modal-bg" id="modal" onclick="closeMOut(event)">
-  <div class="modal">
-    <button class="modal-x" onclick="closeM()">✕</button>
-    <div id="mbody"></div>
-  </div>
+<div class="modal-bg" id="modal" onclick="if(event.target===this)closeM()">
+  <div class="modal"><button class="modal-x" onclick="closeM()">✕</button><div id="mbody"></div></div>
 </div>
 
 <footer>
   <div class="flogo">VERITASS.</div>
   <div class="fsub">Vérité · Rigueur · Clarté</div>
-  <div class="fupdated" id="last-updated"></div>
+  <div class="fupdated" id="f-upd"></div>
 </footer>
 
 <script>
-// ===== TRADUCTIONS =====
-const I18N = {
-  fr:{eyebrow:"Anti-désinformation · Éducation · Analyse",title:"L'information <em>vérifiée</em>,<br>analysée pour vous.",sub:"Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.",alaune:"À la une","stat-art":"Articles d'actu","stat-pays":"Pays couverts","stat-freq":"Mise à jour","nav-actu":"Actualité & marchés","nav-jur":"Juridique","nav-hist":"Histoire",monde:"Monde",france:"France",chine:"Chine",russie:"Russie",international:"International",disclaimer:"Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.","desc-actu":"Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.","desc-jur":"Droit français et international — lois, jurisprudences, réglementations expliquées.","desc-hist":"France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.",mkt_title:"Impact potentiel sur les marchés",mkt_disc:"Indicatif uniquement — pas un conseil en investissement",mkt_note:"ⓘ Ces informations ne constituent pas un conseil en investissement. Elles indiquent des tendances susceptibles d'impacter les marchés. Veritass décline toute responsabilité.",lire:"Lire",source:"Source",search_ph:"Rechercher un article, une loi, un événement…",loading:"Chargement…"},
-  en:{eyebrow:"Anti-disinformation · Education · Analysis",title:"<em>Verified</em> information,<br>analyzed for you.",sub:"News & markets, French and international law, history — summarized, sourced, updated every hour.",alaune:"Top stories","stat-art":"News articles","stat-pays":"Countries covered","stat-freq":"Update frequency","nav-actu":"News & markets","nav-jur":"Law","nav-hist":"History",monde:"World",france:"France",chine:"China",russie:"Russia",international:"International",disclaimer:"Market impact information is provided for informational purposes only. It indicates trends that may impact markets — this is not investment advice.","desc-actu":"World, France, USA, China, Russia, Iran — with potential market impact.","desc-jur":"French and international law — legislation, case law, regulations explained.","desc-hist":"France & Europe 1789–1914, United States 1776–1917 — in-depth articles.",mkt_title:"Potential market impact",mkt_disc:"Indicative only — not investment advice",mkt_note:"ⓘ This information does not constitute investment advice. It indicates trends that may impact financial markets. Veritass disclaims any liability.",lire:"Read",source:"Source",search_ph:"Search for an article, a law, a historical event…",loading:"Loading…"},
-  zh:{eyebrow:"反虚假信息 · 教育 · 分析",title:"<em>经过核实</em>的资讯，<br>为您深度解析。",sub:"新闻与市场、法国及国际法律、历史——摘要、溯源、每小时更新。",alaune:"头条新闻","stat-art":"新闻文章","stat-pays":"覆盖国家","stat-freq":"更新频率","nav-actu":"新闻与市场","nav-jur":"法律","nav-hist":"历史",monde:"世界",france:"法国",chine:"中国",russie:"俄罗斯",international:"国际",disclaimer:"市场影响信息仅供参考。它表明可能影响市场的趋势——这不是投资建议。","desc-actu":"世界、法国、美国、中国、俄罗斯、伊朗——附带潜在市场影响。","desc-jur":"法国及国际法律——法规、判例、法规解释。","desc-hist":"法国与欧洲1789–1914年，美国1776–1917年——深度文章。",mkt_title:"潜在市场影响",mkt_disc:"仅供参考——非投资建议",mkt_note:"ⓘ 本信息不构成投资建议。它表明可能影响金融市场的趋势。Veritass对此不承担任何责任。",lire:"阅读",source:"来源",search_ph:"搜索文章、法律、历史事件……",loading:"加载中…"}
+// ===== TRADUCTIONS COMPLÈTES =====
+const T = {
+fr:{
+  "nav-home":"Accueil","nav-actu":"Actualité & marchés","nav-jur":"Juridique","nav-hist":"Histoire",
+  "eyebrow":"Anti-désinformation · Éducation · Analyse",
+  "hero-title":"L'information <em>vérifiée</em>,<br>analysée pour vous.",
+  "hero-sub":"Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.",
+  "alaune":"À la une","stat-art":"Articles d'actu","stat-pays":"Pays couverts","stat-freq":"Mise à jour",
+  "desc-actu":"Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.",
+  "desc-jur":"Droit français et international — lois, jurisprudences, réglementations expliquées.",
+  "desc-hist":"France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.",
+  "disclaimer":"Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.",
+  "t-monde":"Monde","t-france":"France","t-chine":"Chine","t-russie":"Russie","t-intl":"International",
+  "htab-fr":"France & Europe · 1789–1914","htab-us":"États-Unis · 1776–1917",
+  "lire":"Lire","mkt-title":"Impact potentiel sur les marchés",
+  "mkt-disc":"Indicatif uniquement — pas un conseil en investissement",
+  "mkt-note":"ⓘ Ces informations ne constituent pas un conseil en investissement. Elles indiquent des tendances susceptibles d'impacter les marchés financiers.",
+  "no-mkt":"Aucun impact direct identifié sur les marchés financiers pour cet article.",
+  "analyse":"Analyse détaillée","source":"Source","search-ph":"Rechercher un article, une loi, un événement…",
+  "jf1-title":"Réforme des retraites : le Conseil d'État rejette le recours des syndicats","jf1-date":"Droit du travail · 23 mai 2026",
+  "jf2-title":"Féminicide : peine plancher de 25 ans adoptée en commission des lois","jf2-date":"Droit pénal · 19 mai 2026",
+  "jf3-title":"Loi immigration 2024 : bilan un an après l'entrée en vigueur","jf3-date":"Droit des étrangers · Mai 2026",
+  "jf4-title":"Droit à l'avortement inscrit dans la Constitution : un an après","jf4-date":"Droits fondamentaux · Avril 2026",
+  "ji1-title":"DSA européen : en vigueur pour toutes les plateformes — ce qui change","ji1-date":"Droit numérique · UE · 21 mai 2026",
+  "ji2-title":"CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?","ji2-date":"Droit international · Mai 2026",
+  "ji3-title":"Mer de Chine méridionale : que dit le droit international ?","ji3-date":"DIH · Asie · Avril 2026",
+  "ji4-title":"AI Act européen : obligations concrètes pour les entreprises","ji4-date":"Droit technologique · UE",
+  "hf1-title":"La Révolution française (1789–1799) — causes, phases et héritage","hf1-date":"France · 1789",
+  "hf2-title":"Napoléon Bonaparte : de consul à empereur — l'Europe recomposée","hf2-date":"France · Europe · 1799–1815",
+  "hf3-title":"La Commune de Paris (1871) — 72 jours qui ont changé l'histoire","hf3-date":"France · 1871",
+  "hf4-title":"L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État","hf4-date":"France · 1894–1906",
+  "hu1-title":"La Déclaration d'Indépendance (1776) — naissance d'une nation","hu1-date":"États-Unis · 1776",
+  "hu2-title":"La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction","hu2-date":"États-Unis · 1861–1865",
+  "hu3-title":"L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe","hu3-date":"États-Unis · XIXe siècle",
+  "hu4-title":"L'entrée des États-Unis dans la Première Guerre mondiale (1917)","hu4-date":"États-Unis · 1917"
+},
+en:{
+  "nav-home":"Home","nav-actu":"News & markets","nav-jur":"Law","nav-hist":"History",
+  "eyebrow":"Anti-disinformation · Education · Analysis",
+  "hero-title":"<em>Verified</em> information,<br>analyzed for you.",
+  "hero-sub":"News & markets, French and international law, history — summarized, sourced, updated every hour.",
+  "alaune":"Top stories","stat-art":"News articles","stat-pays":"Countries covered","stat-freq":"Update freq.",
+  "desc-actu":"World, France, USA, China, Russia, Iran — with potential market impact.",
+  "desc-jur":"French and international law — legislation, case law, regulations explained.",
+  "desc-hist":"France & Europe 1789–1914, United States 1776–1917 — in-depth articles.",
+  "disclaimer":"Market impact information is for informational purposes only. It indicates trends that may affect markets — this is not investment advice.",
+  "t-monde":"World","t-france":"France","t-chine":"China","t-russie":"Russia","t-intl":"International",
+  "htab-fr":"France & Europe · 1789–1914","htab-us":"United States · 1776–1917",
+  "lire":"Read","mkt-title":"Potential market impact",
+  "mkt-disc":"Indicative only — not investment advice",
+  "mkt-note":"ⓘ This information does not constitute investment advice. It indicates trends that may impact financial markets.",
+  "no-mkt":"No direct market impact identified for this article.",
+  "analyse":"Detailed analysis","source":"Source","search-ph":"Search for an article, a law, a historical event…",
+  "jf1-title":"Pension reform: the Council of State rejects the unions' appeal","jf1-date":"Labour law · 23 May 2026",
+  "jf2-title":"Femicide: minimum 25-year sentence adopted in the laws committee","jf2-date":"Criminal law · 19 May 2026",
+  "jf3-title":"2024 Immigration Law: one year after coming into force","jf3-date":"Immigration law · May 2026",
+  "jf4-title":"Abortion right enshrined in the French Constitution: one year on","jf4-date":"Fundamental rights · April 2026",
+  "ji1-title":"European DSA: now in force for all platforms — what changes","ji1-date":"Digital law · EU · 21 May 2026",
+  "ji2-title":"ICC: arrest warrant against Putin — where does international enforcement stand?","ji2-date":"International law · May 2026",
+  "ji3-title":"South China Sea: what does international law say?","ji3-date":"IHL · Asia · April 2026",
+  "ji4-title":"European AI Act: concrete obligations for businesses","ji4-date":"Tech law · EU",
+  "hf1-title":"The French Revolution (1789–1799) — causes, phases and legacy","hf1-date":"France · 1789",
+  "hf2-title":"Napoleon Bonaparte: from consul to emperor — Europe recomposed","hf2-date":"France · Europe · 1799–1815",
+  "hf3-title":"The Paris Commune (1871) — 72 days that changed history","hf3-date":"France · 1871",
+  "hf4-title":"The Dreyfus Affair (1894–1906) — truth against reasons of state","hf4-date":"France · 1894–1906",
+  "hu1-title":"The Declaration of Independence (1776) — birth of a nation","hu1-date":"United States · 1776",
+  "hu2-title":"The Civil War (1861–1865) — slavery, union and reconstruction","hu2-date":"United States · 1861–1865",
+  "hu3-title":"Westward expansion (1803–1890) — conquest, genocide and myth","hu3-date":"United States · 19th century",
+  "hu4-title":"The United States enters World War I (1917)","hu4-date":"United States · 1917"
+},
+zh:{
+  "nav-home":"主页","nav-actu":"新闻与市场","nav-jur":"法律","nav-hist":"历史",
+  "eyebrow":"反虚假信息 · 教育 · 分析",
+  "hero-title":"<em>经过核实</em>的资讯，<br>为您深度解析。",
+  "hero-sub":"新闻与市场、法国及国际法律、历史——摘要、溯源、每小时更新。",
+  "alaune":"头条新闻","stat-art":"新闻文章","stat-pays":"覆盖国家","stat-freq":"更新频率",
+  "desc-actu":"世界、法国、美国、中国、俄罗斯、伊朗——附带潜在市场影响。",
+  "desc-jur":"法国及国际法律——法规、判例、法规解释。",
+  "desc-hist":"法国与欧洲1789–1914年，美国1776–1917年——深度文章。",
+  "disclaimer":"市场影响信息仅供参考。它表明可能影响市场的趋势——这不是投资建议。",
+  "t-monde":"世界","t-france":"法国","t-chine":"中国","t-russie":"俄罗斯","t-intl":"国际",
+  "htab-fr":"法国与欧洲 · 1789–1914","htab-us":"美国 · 1776–1917",
+  "lire":"阅读","mkt-title":"潜在市场影响",
+  "mkt-disc":"仅供参考——非投资建议",
+  "mkt-note":"ⓘ 本信息不构成投资建议。它表明可能影响金融市场的趋势。",
+  "no-mkt":"未发现该文章对金融市场的直接影响。",
+  "analyse":"详细分析","source":"来源","search-ph":"搜索文章、法律、历史事件……",
+  "jf1-title":"退休制度改革：最高行政法院驳回工会上诉","jf1-date":"劳动法 · 2026年5月23日",
+  "jf2-title":"杀妻罪：法律委员会通过最低25年刑期","jf2-date":"刑法 · 2026年5月19日",
+  "jf3-title":"2024年移民法：实施一年后的评估","jf3-date":"移民法 · 2026年5月",
+  "jf4-title":"堕胎权写入法国宪法：一年回顾","jf4-date":"基本权利 · 2026年4月",
+  "ji1-title":"欧洲DSA法规：适用于所有平台——变化解读","ji1-date":"数字法律 · 欧盟 · 2026年5月21日",
+  "ji2-title":"国际刑事法院：对普京的逮捕令——国际执行进展如何？","ji2-date":"国际法 · 2026年5月",
+  "ji3-title":"南海争端：国际法怎么说？","ji3-date":"国际人道法 · 亚洲 · 2026年4月",
+  "ji4-title":"欧洲人工智能法案：企业的具体义务","ji4-date":"科技法律 · 欧盟",
+  "hf1-title":"法国大革命（1789–1799）——原因、阶段与遗产","hf1-date":"法国 · 1789年",
+  "hf2-title":"拿破仑·波拿巴：从执政官到皇帝——重塑欧洲","hf2-date":"法国 · 欧洲 · 1799–1815年",
+  "hf3-title":"巴黎公社（1871年）——改变历史的72天","hf3-date":"法国 · 1871年",
+  "hf4-title":"德雷福斯事件（1894–1906）——真相对抗国家理由","hf4-date":"法国 · 1894–1906年",
+  "hu1-title":"《独立宣言》（1776年）——一个国家的诞生","hu1-date":"美国 · 1776年",
+  "hu2-title":"美国内战（1861–1865年）——奴隶制、联邦与重建","hu2-date":"美国 · 1861–1865年",
+  "hu3-title":"西进运动（1803–1890年）——征服、种族灭绝与神话","hu3-date":"美国 · 19世纪",
+  "hu4-title":"美国参加第一次世界大战（1917年）","hu4-date":"美国 · 1917年"
+}
+};
+
+// ===== CONTENU STATIQUE MULTILINGUE =====
+const CONTENT = {
+jf1:{
+  tag:{fr:"Droit du travail · France",en:"Labour law · France",zh:"劳动法 · 法国"},
+  body:{
+    fr:`<p>Le Conseil d'État a rejeté le recours en annulation des syndicats contre le décret d'application de la réforme des retraites de 2023. Le recours au 49.3 a été jugé constitutionnellement régulier.</p><h4>Ce que ça signifie concrètement</h4><p>La réforme s'applique pleinement : départ à 64 ans pour les personnes nées à partir du 1er janvier 1968, durée de cotisation portée à 43 annuités (172 trimestres) d'ici 2027. Les syndicats envisagent un recours devant la Cour européenne des droits de l'homme.</p>`,
+    en:`<p>The Council of State rejected the unions' appeal against the implementing decree for the 2023 pension reform. The use of Article 49.3 was deemed constitutionally regular.</p><h4>What this means in practice</h4><p>The reform applies fully: retirement age of 64 for those born from 1 January 1968, contribution period raised to 43 years (172 quarters) by 2027. Unions are considering an appeal to the European Court of Human Rights.</p>`,
+    zh:`<p>最高行政法院驳回了工会对2023年退休制度改革实施法令的撤销申请。使用第49.3条被认为在宪法上是合规的。</p><h4>具体影响</h4><p>改革全面实施：1968年1月1日以后出生的人退休年龄为64岁，缴费年限到2027年提高到43年（172个季度）。工会正在考虑向欧洲人权法院上诉。</p>`
+  }
+},
+jf2:{
+  tag:{fr:"Droit pénal · France",en:"Criminal law · France",zh:"刑法 · 法国"},
+  body:{
+    fr:`<p>La commission des lois a adopté une proposition transpartisane prévoyant une peine plancher de 25 ans de réclusion criminelle pour féminicide, l'inéligibilité définitive et le retrait automatique de l'autorité parentale.</p><h4>Le contexte statistique</h4><p>118 femmes ont été tuées par leur partenaire ou ex-partenaire en 2024. 80 % des féminicides sont commis par des hommes sans casier judiciaire préalable pour violence conjugale. Le texte doit encore passer en séance plénière puis au Sénat.</p>`,
+    en:`<p>The laws committee adopted a cross-party proposal providing for a minimum 25-year prison sentence for femicide, permanent ineligibility for public office, and automatic withdrawal of parental authority.</p><h4>Statistical context</h4><p>118 women were killed by their partner or ex-partner in 2024. 80% of femicides are committed by men with no prior criminal record for domestic violence. The text must still pass the full assembly and the Senate.</p>`,
+    zh:`<p>法律委员会通过了一项跨党派提案，规定杀妻罪最低刑期为25年有期徒刑，永久丧失参选资格，并自动剥夺亲权。</p><h4>统计背景</h4><p>2024年有118名女性被其伴侣或前伴侣杀害。80%的杀妻案由此前无家庭暴力犯罪记录的男性实施。该法案还需经全体会议和参议院审议。</p>`
+  }
+},
+jf3:{
+  tag:{fr:"Droit des étrangers · France",en:"Immigration law · France",zh:"移民法 · 法国"},
+  body:{
+    fr:`<p>La loi du 26 janvier 2024 sur l'immigration : délai de regroupement familial porté à 24 mois, conditionnement de l'AME, rétablissement du délit de séjour irrégulier, carte de séjour pour les métiers en tension.</p><h4>Résultats mitigés</h4><p>Les OQTF ont augmenté de 18 % en 2025, mais le taux d'exécution reste inférieur à 10 % faute de laissez-passer consulaires. La gauche dénonce une loi qui précarise les étrangers en situation régulière ; la droite estime qu'elle ne va pas assez loin.</p>`,
+    en:`<p>The 26 January 2024 Immigration Law: family reunification period extended to 24 months, state medical aid conditioned, irregular stay offence restored, residence permit for shortage occupations created.</p><h4>Mixed results</h4><p>Removal orders (OQTF) increased by 18% in 2025, but the execution rate remains below 10% due to lack of consular travel documents. The left criticises the law for precarious treatment of legal residents; the right considers it insufficient.</p>`,
+    zh:`<p>2024年1月26日移民法：家庭团聚等待期延长至24个月，国家医疗援助设置条件，恢复非法居留罪，为紧缺职业创设居留证。</p><h4>结果喜忧参半</h4><p>2025年驱逐令增加了18%，但因缺乏领事旅行证件，执行率仍低于10%。左翼批评该法律对合法居民造成不稳定影响；右翼认为力度不够。</p>`
+  }
+},
+jf4:{
+  tag:{fr:"Droits fondamentaux · France",en:"Fundamental rights · France",zh:"基本权利 · 法国"},
+  body:{
+    fr:`<p>Le 4 mars 2024, la France est devenue le premier pays au monde à inscrire le droit à l'IVG dans sa Constitution. Le principe est protégé contre toute remise en cause par une loi ordinaire.</p><h4>Ce que ça change — et ses limites</h4><p>Le droit à l'IVG est protégé contre toute remise en cause par une loi ordinaire. Mais les modalités (délai à 14 semaines, remboursement) restent dans la loi et peuvent être modifiées par une majorité parlementaire.</p>`,
+    en:`<p>On 4 March 2024, France became the first country in the world to enshrine the right to abortion in its Constitution. The principle is protected from any challenge by ordinary legislation.</p><h4>What changes — and its limits</h4><p>The right to abortion is protected from challenge by ordinary law. However, the details (14-week limit, reimbursement) remain in ordinary legislation and can be changed by a parliamentary majority.</p>`,
+    zh:`<p>2024年3月4日，法国成为世界上第一个将堕胎权写入宪法的国家。该原则受到保护，不受普通法律的质疑。</p><h4>变化及其局限性</h4><p>堕胎权受保护，不受普通法律挑战。但具体细节（14周期限、报销）仍在普通法律中，可由议会多数修改。</p>`
+  }
+},
+ji1:{
+  tag:{fr:"Droit numérique · UE",en:"Digital law · EU",zh:"数字法律 · 欧盟"},
+  body:{
+    fr:`<p>Le Digital Services Act s'applique désormais à toutes les plateformes dans l'UE. Interdictions : publicité ciblée sur données sensibles, ciblage des mineurs, dark patterns. Obligations : transparence algorithmique, signalement des contenus illicites, rapport annuel.</p><h4>Les sanctions</h4><p>Jusqu'à 6 % du chiffre d'affaires mondial annuel pour les violations. En cas de récidive grave, interdiction temporaire d'opérer dans l'UE.</p>`,
+    en:`<p>The Digital Services Act now applies to all platforms in the EU. Prohibitions: targeted advertising based on sensitive data, targeting minors, dark patterns. Obligations: algorithmic transparency, reporting of illegal content, annual report.</p><h4>Sanctions</h4><p>Up to 6% of annual worldwide turnover for violations. In case of serious repeat offences, temporary ban from operating in the EU.</p>`,
+    zh:`<p>《数字服务法》现适用于欧盟所有平台。禁止：基于敏感数据的定向广告、针对未成年人、暗黑模式。义务：算法透明度、举报非法内容、年度报告。</p><h4>处罚</h4><p>违规处以全球年营业额最高6%的罚款。严重屡犯者，暂时禁止在欧盟运营。</p>`
+  }
+},
+ji2:{
+  tag:{fr:"Droit international · CPI",en:"International law · ICC",zh:"国际法 · 国际刑事法院"},
+  body:{
+    fr:`<p>Le 17 mars 2023, la CPI a émis un mandat d'arrêt contre Vladimir Poutine pour déportation illégale d'enfants ukrainiens. Trois ans après, le mandat reste inapplicable directement : la CPI dépend des États membres pour arrêter et transférer les suspects.</p><h4>Les conséquences pratiques</h4><p>Poutine ne peut plus se rendre dans les 124 pays membres de la CPI sans risquer d'être arrêté. Son espace diplomatique est durablement réduit.</p>`,
+    en:`<p>On 17 March 2023, the ICC issued an arrest warrant against Vladimir Putin for the illegal deportation of Ukrainian children. Three years on, the warrant remains directly unenforceable: the ICC depends on member states to arrest and transfer suspects.</p><h4>Practical consequences</h4><p>Putin can no longer visit the 124 ICC member countries without risking arrest. His diplomatic space is permanently reduced.</p>`,
+    zh:`<p>2023年3月17日，国际刑事法院以非法驱逐乌克兰儿童为由对弗拉基米尔·普京发出逮捕令。三年后，该逮捕令仍无法直接执行：国际刑事法院依靠成员国逮捕和移交嫌疑人。</p><h4>实际后果</h4><p>普京不能再访问国际刑事法院124个成员国，否则面临被捕风险。其外交空间永久缩小。</p>`
+  }
+},
+ji3:{
+  tag:{fr:"Droit international · Mer de Chine",en:"International law · South China Sea",zh:"国际法 · 南海"},
+  body:{
+    fr:`<p>La Chine revendique 90 % de la mer de Chine méridionale via la ligne des neuf traits. En 2016, un tribunal arbitral (CNUDM) a statué que ces revendications n'ont aucune base légale. La Chine refuse de reconnaître cette sentence.</p><h4>Pourquoi ça concerne l'Europe</h4><p>30 % du commerce maritime mondial passe par cette mer. La France, puissance Indo-Pacifique, envoie régulièrement des navires pour affirmer la liberté de navigation.</p>`,
+    en:`<p>China claims 90% of the South China Sea via the nine-dash line. In 2016, an arbitral tribunal (UNCLOS) ruled that these claims have no legal basis. China refuses to recognise the ruling.</p><h4>Why this concerns Europe</h4><p>30% of global maritime trade passes through this sea. France, as an Indo-Pacific power, regularly sends vessels to assert freedom of navigation.</p>`,
+    zh:`<p>中国通过九段线主张南海约90%的海域。2016年，仲裁庭（《联合国海洋法公约》）裁定这些主张没有法律依据。中国拒绝承认该裁决。</p><h4>为何与欧洲相关</h4><p>全球30%的海上贸易经过这片海域。法国作为印太大国，定期派舰船维护航行自由。</p>`
+  }
+},
+ji4:{
+  tag:{fr:"Droit technologique · UE · IA",en:"Tech law · EU · AI",zh:"科技法律 · 欧盟 · 人工智能"},
+  body:{
+    fr:`<p>Le règlement européen sur l'IA classe les systèmes selon leur risque. Risque inacceptable (interdit) : notation sociale, manipulation subliminale. Risque élevé (encadré) : IA dans le recrutement, crédit, justice, médecine.</p><h4>Les sanctions</h4><p>Jusqu'à 35 M€ ou 7 % du CA mondial pour les infractions les plus graves. Les PME bénéficient de règles allégées.</p>`,
+    en:`<p>The European AI regulation classifies systems by risk level. Unacceptable risk (prohibited): social scoring, subliminal manipulation. High risk (regulated): AI in recruitment, credit, justice, medicine.</p><h4>Sanctions</h4><p>Up to €35M or 7% of global turnover for the most serious violations. SMEs benefit from lighter rules.</p>`,
+    zh:`<p>欧盟人工智能法规按风险级别对系统进行分类。不可接受风险（禁止）：社会评分、潜意识操控。高风险（受监管）：招聘、信贷、司法、医疗中的人工智能。</p><h4>处罚</h4><p>最严重违规处以最高3500万欧元或全球营业额7%的罚款。中小企业适用较轻松的规则。</p>`
+  }
+},
+hf1:{
+  tag:{fr:"Histoire · France · 1789",en:"History · France · 1789",zh:"历史 · 法国 · 1789年"},
+  body:{
+    fr:`<p>La Révolution abolit l'Ancien Régime, proclame les droits de l'homme et transforme profondément la France et l'Europe.</p><h4>Les causes</h4><p>Économiques : famine de 1788–1789, banqueroute royale. Sociales : le Tiers-État (97 % de la population) supporte l'essentiel des impôts. Intellectuelles : les Lumières diffusent liberté, égalité et souveraineté populaire.</p><h4>Les grandes phases</h4><p>1789–1792 : Monarchie constitutionnelle — Bastille (14 juillet), Déclaration des droits (26 août). 1792–1794 : République et Terreur — Louis XVI guillotiné, 17 000 exécutions. 1795–1799 : Directoire puis Consulat — Bonaparte au pouvoir.</p><h4>L'héritage</h4><p>Souveraineté nationale, séparation des pouvoirs, abolition de la féodalité. La devise Liberté, Égalité, Fraternité reste celle de la République.</p>`,
+    en:`<p>The Revolution abolished the Ancien Régime, proclaimed the rights of man and profoundly transformed France and Europe.</p><h4>Causes</h4><p>Economic: famine of 1788–1789, royal bankruptcy. Social: the Third Estate (97% of the population) bore most of the taxes. Intellectual: the Enlightenment spread liberty, equality and popular sovereignty.</p><h4>Main phases</h4><p>1789–1792: Constitutional monarchy — Bastille (14 July), Declaration of Rights (26 August). 1792–1794: Republic and Terror — Louis XVI guillotined, 17,000 executions. 1795–1799: Directory then Consulate — Bonaparte in power.</p><h4>Legacy</h4><p>National sovereignty, separation of powers, abolition of feudalism. The motto Liberté, Égalité, Fraternité remains that of the Republic.</p>`,
+    zh:`<p>法国大革命废除了旧制度，宣布了人权，深刻地改变了法国和欧洲。</p><h4>原因</h4><p>经济原因：1788–1789年饥荒，王室破产。社会原因：第三等级（97%的人口）承担了大部分税收。思想原因：启蒙运动传播自由、平等和人民主权。</p><h4>主要阶段</h4><p>1789–1792年：君主立宪制——攻占巴士底狱（7月14日），人权宣言（8月26日）。1792–1794年：共和国与恐怖统治——路易十六被处决，17,000次处决。1795–1799年：督政府再到执政府——拿破仑掌权。</p><h4>遗产</h4><p>国家主权、三权分立、废除封建制度。自由、平等、博爱的格言至今仍是共和国的格言。</p>`
+  }
+},
+hf2:{
+  tag:{fr:"Histoire · France · Napoléon",en:"History · France · Napoleon",zh:"历史 · 法国 · 拿破仑"},
+  body:{
+    fr:`<p>Consul en 1799, Empereur en 1804. Il modernise la France : Code civil, Banque de France, Légion d'honneur, lycées, préfets. Victoires : Austerlitz (1805), Iéna (1806). Défaite en Russie (1812), Waterloo (1815).</p><h4>L'héritage</h4><p>Le Code civil, adopté par une trentaine de pays, reste la base du droit civil français. Le système préfectoral structure encore l'administration. En propageant les idées révolutionnaires, Napoléon a semé les graines du nationalisme européen.</p>`,
+    en:`<p>Consul in 1799, Emperor in 1804. He modernised France: Civil Code, Bank of France, Legion of Honour, lycées, prefects. Victories: Austerlitz (1805), Jena (1806). Defeat in Russia (1812), Waterloo (1815).</p><h4>Legacy</h4><p>The Civil Code, adopted by around thirty countries, remains the basis of French civil law. The prefectural system still structures administration. By spreading revolutionary ideas, Napoleon sowed the seeds of European nationalism.</p>`,
+    zh:`<p>1799年任执政官，1804年称帝。他现代化了法国：民法典、法兰西银行、荣誉军团勋章、高中、省长制。胜利：奥斯特利茨（1805年）、耶拿（1806年）。俄国战败（1812年），滑铁卢（1815年）。</p><h4>遗产</h4><p>民法典被约三十个国家采用，至今仍是法国民法的基础。省长制仍构建着法国行政体系。拿破仑通过传播革命思想，播下了欧洲民族主义的种子。</p>`
+  }
+},
+hf3:{
+  tag:{fr:"Histoire · France · 1871",en:"History · France · 1871",zh:"历史 · 法国 · 1871年"},
+  body:{
+    fr:`<p>Après la défaite face à la Prusse, les Parisiens refusent de rendre les canons. La Commune (élue le 26 mars) instaure : suppression du loyer, enseignement laïc gratuit, gestion des entreprises abandonnées par les ouvriers.</p><h4>La Semaine sanglante (21–28 mai 1871)</h4><p>Entre 10 000 et 30 000 Communards sont tués, 40 000 arrêtés, 4 000 déportés en Nouvelle-Calédonie. Référence fondatrice de la gauche mondiale, analysée par Karl Marx dans La Guerre civile en France.</p>`,
+    en:`<p>After defeat by Prussia, Parisians refused to surrender the cannons. The Commune (elected 26 March) established: rent suspension, free secular education, worker management of abandoned businesses.</p><h4>Bloody Week (21–28 May 1871)</h4><p>Between 10,000 and 30,000 Communards were killed, 40,000 arrested, 4,000 deported to New Caledonia. A founding reference for the global left, analysed by Karl Marx in The Civil War in France.</p>`,
+    zh:`<p>在被普鲁士击败后，巴黎人拒绝交出大炮。公社（3月26日选举产生）建立了：暂停租金、免费世俗教育、工人管理被遗弃的企业。</p><h4>血腥周（1871年5月21–28日）</h4><p>1万至3万公社社员被杀，4万人被捕，4000人被流放到新喀里多尼亚。这是全球左翼的奠基参考，由卡尔·马克思在《法国内战》中加以分析。</p>`
+  }
+},
+hf4:{
+  tag:{fr:"Histoire · France · Dreyfus",en:"History · France · Dreyfus",zh:"历史 · 法国 · 德雷福斯"},
+  body:{
+    fr:`<p>1894 : le capitaine Dreyfus, officier juif alsacien, est condamné à tort et déporté. Dès 1896, Picquart découvre le vrai traître mais l'armée étouffe l'affaire.</p><h4>J'Accuse !</h4><p>13 janvier 1898 : Zola publie J'Accuse ! dans L'Aurore. Condamné pour diffamation, il s'exile. 1906 : Dreyfus réhabilité. L'affaire accélère la séparation de l'Église et de l'État (1905) et inspire Herzl à fonder le mouvement sioniste.</p>`,
+    en:`<p>1894: Captain Dreyfus, an Alsatian Jewish officer, is wrongly convicted and deported. From 1896, Picquart discovers the real traitor but the army covers it up.</p><h4>J'Accuse!</h4><p>13 January 1898: Zola publishes J'Accuse! in L'Aurore. Convicted of defamation, he goes into exile. 1906: Dreyfus rehabilitated. The affair accelerated the separation of Church and State (1905) and inspired Herzl to found the Zionist movement.</p>`,
+    zh:`<p>1894年：阿尔萨斯犹太裔军官德雷福斯上尉被错误定罪并流放。1896年起，皮卡尔发现了真正的叛徒，但军队掩盖了此事。</p><h4>《我控诉！》</h4><p>1898年1月13日：左拉在《曙光报》上发表《我控诉！》。因诽谤罪被定罪后流亡。1906年：德雷福斯获得平反。该事件加速了政教分离（1905年），并启发赫茨尔创立犹太复国主义运动。</p>`
+  }
+},
+hu1:{
+  tag:{fr:"Histoire · États-Unis · 1776",en:"History · USA · 1776",zh:"历史 · 美国 · 1776年"},
+  body:{
+    fr:`<p>No taxation without representation. La Déclaration affirme que tous les hommes sont créés égaux, dotés de droits à la vie, la liberté et la recherche du bonheur. Note : elle exclut de fait les esclaves et les femmes. La France joue un rôle décisif (Lafayette, Rochambeau, Yorktown 1781). La Constitution (1787) et le Bill of Rights (1791) fondent le système américain.</p>`,
+    en:`<p>No taxation without representation. The Declaration states that all men are created equal, endowed with rights to life, liberty and the pursuit of happiness. Note: it effectively excluded slaves and women. France played a decisive role (Lafayette, Rochambeau, Yorktown 1781). The Constitution (1787) and Bill of Rights (1791) founded the American system.</p>`,
+    zh:`<p>无代表，不纳税。《宣言》宣称人人生而平等，拥有生命权、自由权和追求幸福的权利。注：实际上将奴隶和女性排除在外。法国发挥了决定性作用（拉法耶特、罗尚博、1781年约克镇）。宪法（1787年）和权利法案（1791年）奠定了美国制度基础。</p>`
+  }
+},
+hu2:{
+  tag:{fr:"Histoire · États-Unis · 1861–1865",en:"History · USA · 1861–1865",zh:"历史 · 美国 · 1861–1865年"},
+  body:{
+    fr:`<p>620 000 à 750 000 morts. La cause principale est l'esclavage. La Proclamation d'émancipation (1863) donne une dimension morale à la guerre. Reddition de Lee à Appomattox (9 avril 1865). Lincoln assassiné 5 jours plus tard.</p><h4>Les 3 amendements et leurs limites</h4><p>13e (abolition de l'esclavage), 14e (citoyenneté), 15e (droit de vote sans discrimination). Mais les lois Jim Crow ont persisté jusqu'aux années 1960.</p>`,
+    en:`<p>620,000 to 750,000 deaths. The main cause was slavery. The Emancipation Proclamation (1863) gave the war a moral dimension. Lee's surrender at Appomattox (9 April 1865). Lincoln assassinated 5 days later.</p><h4>The 3 amendments and their limits</h4><p>13th (abolition of slavery), 14th (citizenship), 15th (right to vote without discrimination). But Jim Crow laws persisted until the 1960s.</p>`,
+    zh:`<p>62至75万人死亡。主要原因是奴隶制。《解放宣言》（1863年）赋予战争道德维度。李将军在阿波马托克斯投降（1865年4月9日）。林肯5天后遇刺。</p><h4>三项修正案及其局限性</h4><p>第13条（废除奴隶制）、第14条（公民权）、第15条（无歧视投票权）。但吉姆·克劳法一直延续到20世纪60年代。</p>`
+  }
+},
+hu3:{
+  tag:{fr:"Histoire · États-Unis · XIXe siècle",en:"History · USA · 19th century",zh:"历史 · 美国 · 19世纪"},
+  body:{
+    fr:`<p>Entre 1803 et 1890, les États-Unis multiplient leur superficie par cinq. La Destinée manifeste (1845) légitime l'expansion. Population amérindienne : de 10–15 millions en 1492 à moins de 250 000 fin XIXe siècle.</p><h4>Le génocide amérindien</h4><p>Épidémies, massacres (Sand Creek 1864, Wounded Knee 1890), destruction des bisons (de 30 millions à moins de 1 000), Piste des larmes (1838). En 1890, la Frontière est déclarée fermée.</p>`,
+    en:`<p>Between 1803 and 1890, the United States multiplied its territory fivefold. Manifest Destiny (1845) legitimised expansion. Native American population: from 10–15 million in 1492 to under 250,000 by the late 19th century.</p><h4>The Native American genocide</h4><p>Epidemics, massacres (Sand Creek 1864, Wounded Knee 1890), destruction of bison (from 30 million to under 1,000), Trail of Tears (1838). In 1890, the Frontier was declared closed.</p>`,
+    zh:`<p>1803年至1890年间，美国领土扩大了五倍。天命论（1845年）使扩张合法化。美洲原住民人口：从1492年的1000–1500万减少到19世纪末不足25万。</p><h4>美洲原住民种族灭绝</h4><p>流行病、大屠杀（1864年沙溪、1890年伤膝）、野牛灭绝（从3000万到不足1000头）、泪之路（1838年）。1890年，边疆宣告关闭。</p>`
+  }
+},
+hu4:{
+  tag:{fr:"Histoire · États-Unis · 1917",en:"History · USA · 1917",zh:"历史 · 美国 · 1917年"},
+  body:{
+    fr:`<p>Deux déclencheurs : la guerre sous-marine à outrance et le télégramme Zimmermann (l'Allemagne propose au Mexique de reconquérir le Texas et l'Arizona). Le 6 avril 1917 : déclaration de guerre. 2 millions de soldats. Victoire du 11 novembre 1918. Le Sénat refuse de ratifier Versailles.</p>`,
+    en:`<p>Two triggers: unrestricted submarine warfare and the Zimmermann telegram (Germany offers Mexico Texas and Arizona). 6 April 1917: declaration of war. 2 million soldiers. Victory on 11 November 1918. The Senate refused to ratify Versailles.</p>`,
+    zh:`<p>两个导火索：无限制潜艇战和齐默尔曼电报（德国向墨西哥提议夺回德克萨斯和亚利桑那州）。1917年4月6日：宣战。200万士兵。1918年11月11日胜利。参议院拒绝批准凡尔赛条约。</p>`
+  }
+}
 };
 
 let LANG = 'fr';
-function setLang(l) {
-  LANG = l;
-  document.querySelectorAll('.lang-btn').forEach(b => b.classList.toggle('on', b.textContent.toLowerCase().includes(l) || (l==='zh'&&b.textContent==='中文')));
-  document.querySelectorAll('[data-i18n]').forEach(el => {
-    const k = el.getAttribute('data-i18n');
-    if (I18N[l][k]) el.innerHTML = I18N[l][k];
-  });
-  document.getElementById('si').placeholder = I18N[l].search_ph;
-  renderGrid(currentCountry);
-  renderHomeLatest();
-}
-
-// ===== DONNÉES STATIQUES =====
-const STATIC = {
-jf1:{tag:'Droit du travail · France',title:"Réforme des retraites : le Conseil d'État rejette le recours",date:'23 mai 2026',img:'',body:`<p>Le Conseil d'État a rejeté le recours en annulation des syndicats (CGT, CFDT, FO, CFE-CGC) contre le décret d'application de la réforme des retraites de 2023. Le recours au 49.3 a été jugé constitutionnellement régulier.</p><h4>Ce que ça signifie concrètement</h4><p>La réforme s'applique pleinement : départ à 64 ans pour les personnes nées à partir du 1er janvier 1968, durée de cotisation portée à 43 annuités (172 trimestres) d'ici 2027. Les syndicats envisagent un recours devant la Cour européenne des droits de l'homme.</p>`,market:null},
-jf2:{tag:'Droit pénal · France',title:"Féminicide : peine plancher de 25 ans en commission",date:'19 mai 2026',img:'',body:`<p>La commission des lois a adopté une proposition transpartisane prévoyant une peine plancher de 25 ans de réclusion criminelle pour féminicide, l'inéligibilité définitive et le retrait automatique de l'autorité parentale.</p><h4>Le contexte statistique</h4><p>118 femmes ont été tuées par leur partenaire ou ex-partenaire en 2024. 80 % des féminicides sont commis par des hommes sans casier judiciaire préalable pour violence conjugale. Le texte doit encore passer en séance plénière puis au Sénat.</p>`,market:null},
-jf3:{tag:'Droit des étrangers · France',title:"Loi immigration 2024 : bilan un an après",date:'Mai 2026',img:'',body:`<p>Mesures principales : délai de regroupement familial porté à 24 mois, conditionnement de l'aide médicale d'État, rétablissement du délit de séjour irrégulier, carte de séjour pour les métiers en tension.</p><h4>Résultats mitigés</h4><p>Les OQTF ont augmenté de 18 % en 2025, mais le taux d'exécution reste inférieur à 10 % faute de laissez-passer consulaires. La gauche dénonce une loi qui précarise les étrangers en situation régulière ; la droite estime qu'elle ne va pas assez loin.</p>`,market:null},
-jf4:{tag:'Droits fondamentaux · France',title:"L'IVG dans la Constitution française : un an après",date:'Avril 2026',img:'',body:`<p>La France est devenue le 4 mars 2024 le premier pays au monde à inscrire le droit à l'IVG dans sa Constitution. Le principe est protégé contre toute remise en cause par une loi ordinaire, mais les modalités (délai à 14 semaines, remboursement) restent dans la loi et peuvent être modifiées par une majorité parlementaire.</p>`,market:null},
-ji1:{tag:'Droit numérique · UE · DSA',title:"Le DSA : ce que la loi européenne sur les services numériques change",date:'21 mai 2026',img:'',body:`<p>Le Digital Services Act s'applique désormais à toutes les plateformes opérant dans l'UE. Interdictions : publicité ciblée sur données sensibles (religion, santé, orientation sexuelle), ciblage des mineurs, dark patterns.</p><h4>Les sanctions</h4><p>Jusqu'à 6 % du chiffre d'affaires mondial annuel pour les violations. En cas de récidive grave, interdiction temporaire d'opérer dans l'UE. La Commission européenne peut directement sanctionner les très grandes plateformes.</p>`,market:null},
-ji2:{tag:'Droit international · CPI · Russie',title:"Mandat d'arrêt contre Poutine : trois ans après, où en est-on ?",date:'Mai 2026',img:'',body:`<p>Le 17 mars 2023, la CPI a émis un mandat d'arrêt contre Vladimir Poutine pour déportation illégale d'enfants ukrainiens. Trois ans après, le mandat reste inapplicable directement : la CPI dépend des États membres pour arrêter et transférer les suspects.</p><h4>Les conséquences pratiques</h4><p>Poutine ne peut plus se rendre dans les 124 pays membres de la CPI sans risquer d'être arrêté. Son espace diplomatique est durablement réduit. Ce mandat envoie un signal politique fort même s'il reste inapplicable à court terme.</p>`,market:null},
-ji3:{tag:'Droit international · Mer de Chine · CNUDM',title:"Mer de Chine méridionale : la ligne des neuf traits face au droit international",date:'Avril 2026',img:'',body:`<p>La Chine revendique 90 % de la mer de Chine méridionale via la ligne des neuf traits. En 2016, un tribunal arbitral (CNUDM) a statué que ces revendications n'ont aucune base légale en droit international. La Chine refuse de reconnaître cette sentence.</p><h4>Pourquoi ça concerne l'Europe</h4><p>30 % du commerce maritime mondial passe par cette mer. La France, puissance Indo-Pacifique grâce à ses territoires d'outre-mer, envoie régulièrement des navires pour affirmer la liberté de navigation.</p>`,market:null},
-ji4:{tag:'Droit technologique · UE · IA',title:"AI Act européen : obligations concrètes pour les entreprises",date:'2025–2026',img:'',body:`<p>Le règlement européen sur l'IA classe les systèmes selon leur risque. Risque inacceptable (interdit) : notation sociale, manipulation subliminale. Risque élevé (très encadré) : IA dans le recrutement, crédit, justice, médecine. Sanctions : jusqu'à 35 M€ ou 7 % du CA mondial.</p>`,market:null},
-hf1:{tag:'Histoire · France · 1789',title:"La Révolution française (1789–1799) — tout comprendre",date:'Article de fond · Lycée / Université',img:'',body:`<p>La Révolution abolit l'Ancien Régime, proclame les droits de l'homme et transforme profondément la France et l'Europe.</p><h4>Les causes</h4><p>Économiques : famine de 1788–1789, banqueroute royale. Sociales : le Tiers-État (97 % de la population) supporte l'essentiel des impôts. Intellectuelles : les Lumières diffusent liberté, égalité et souveraineté populaire.</p><h4>Les grandes phases</h4><p>1789–1792 : Monarchie constitutionnelle — Prise de la Bastille (14 juillet), Déclaration des droits (26 août). 1792–1794 : République et Terreur — Louis XVI guillotiné (21 janvier 1793), 17 000 exécutions officielles. 1795–1799 : Directoire puis Consulat — coup d'État du 18 brumaire, Bonaparte au pouvoir.</p><h4>L'héritage</h4><p>Souveraineté nationale, séparation des pouvoirs, abolition de la féodalité. La devise Liberté, Égalité, Fraternité reste celle de la République française.</p>`,market:null},
-hf2:{tag:'Histoire · France · Empire · Napoléon',title:"Napoléon Bonaparte : de consul à empereur",date:'Article de fond · 1799–1815',img:'',body:`<p>Consul en 1799, Empereur en 1804. Il modernise la France : Code civil, Banque de France, Légion d'honneur, lycées, préfets. Victoires : Austerlitz (1805), Iéna (1806). Défaite en Russie (1812), Waterloo (1815).</p><h4>L'héritage</h4><p>Le Code civil, adopté par une trentaine de pays, reste la base du droit civil français. Le système préfectoral structure encore l'administration. En propageant les idées révolutionnaires, Napoléon a semé les graines du nationalisme européen.</p>`,market:null},
-hf3:{tag:'Histoire · France · Commune de Paris',title:"La Commune de Paris (1871) — 72 jours qui ont changé l'histoire",date:'Article de fond · 18 mars – 28 mai 1871',img:'',body:`<p>Après la défaite face à la Prusse et une paix humiliante, les Parisiens refusent de rendre les canons. La Commune instaure : suppression du loyer pendant le siège, enseignement laïc gratuit, gestion des entreprises abandonnées par les ouvriers.</p><h4>La Semaine sanglante (21–28 mai 1871)</h4><p>Entre 10 000 et 30 000 Communards sont tués, 40 000 arrêtés, 4 000 déportés en Nouvelle-Calédonie. Référence fondatrice de la gauche mondiale, analysée par Karl Marx dans La Guerre civile en France.</p>`,market:null},
-hf4:{tag:'Histoire · France · Affaire Dreyfus',title:"L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État",date:'Article de fond',img:'',body:`<p>1894 : le capitaine Dreyfus, officier juif alsacien, est condamné à tort et déporté à vie sur l'Île du Diable. Dès 1896, le lieutenant-colonel Picquart découvre le vrai traître mais l'armée étouffe l'affaire.</p><h4>J'Accuse !</h4><p>13 janvier 1898 : Zola publie J'Accuse ! dans L'Aurore. Condamné pour diffamation, il s'exile en Angleterre. 1906 : Dreyfus réhabilité. L'affaire accélère la séparation de l'Église et de l'État (1905) et inspire Herzl à fonder le mouvement sioniste.</p>`,market:null},
-hu1:{tag:'Histoire · États-Unis · Fondation',title:"La Déclaration d'Indépendance (1776) — naissance d'une nation",date:'Article de fond · 4 juillet 1776',img:'',body:`<p>No taxation without representation. La Déclaration affirme que tous les hommes sont créés égaux, dotés de droits à la vie, la liberté et la recherche du bonheur. Note : elle exclut de fait les esclaves et les femmes. La France joue un rôle décisif (Lafayette, Rochambeau, Yorktown 1781). La Constitution (1787) et le Bill of Rights (1791) fondent le système américain.</p>`,market:null},
-hu2:{tag:'Histoire · États-Unis · Guerre de Sécession',title:"La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction",date:'Article de fond',img:'',body:`<p>620 000 à 750 000 morts. La cause principale est l'esclavage. La Proclamation d'émancipation (1er janvier 1863) donne une dimension morale à la guerre. Reddition de Lee à Appomattox (9 avril 1865). Lincoln assassiné 5 jours plus tard.</p><h4>Les 3 amendements et leurs limites</h4><p>13e (abolition de l'esclavage), 14e (citoyenneté), 15e (droit de vote sans discrimination). Mais le retrait des troupes en 1877 permet les lois Jim Crow jusqu'aux années 1960.</p>`,market:null},
-hu3:{tag:'Histoire · États-Unis · Expansion',title:"L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe",date:'Article de fond',img:'',body:`<p>Entre 1803 et 1890, les États-Unis multiplient leur superficie par cinq. La Destinée manifeste (1845) légitime l'expansion. Population amérindienne : de 10–15 millions en 1492 à moins de 250 000 fin XIXe siècle.</p><h4>Le génocide amérindien</h4><p>Épidémies, massacres (Sand Creek 1864, Wounded Knee 1890), destruction des bisons (de 30 millions à moins de 1 000), Piste des larmes (1838). En 1890, la Frontière est déclarée fermée.</p>`,market:null},
-hu4:{tag:'Histoire · États-Unis · 1917',title:"L'entrée des États-Unis dans la Première Guerre mondiale",date:'Article de fond · 1917',img:'',body:`<p>Deux déclencheurs : la guerre sous-marine à outrance et le télégramme Zimmermann (l'Allemagne propose au Mexique de reconquérir le Texas et l'Arizona). Le 6 avril 1917 : déclaration de guerre. 2 millions de soldats. Victoire du 11 novembre 1918. Le Sénat refuse de ratifier Versailles.</p>`,market:null}
-};
-
 let NEWS = {};
 let currentCountry = 'monde';
 
-// ===== CHARGEMENT DES NEWS =====
+// ===== TRADUCTION =====
+function setLang(l) {
+  LANG = l;
+  document.querySelectorAll('.lang-btn').forEach(b => {
+    b.classList.toggle('on',
+      (l==='fr'&&b.textContent==='FR')||(l==='en'&&b.textContent==='EN')||(l==='zh'&&b.textContent==='中文')
+    );
+  });
+  const t = T[l];
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const k = el.getAttribute('data-i18n');
+    if(t[k] !== undefined) el.innerHTML = t[k];
+  });
+  document.getElementById('si').placeholder = t['search-ph'];
+  renderGrid(currentCountry);
+  renderHomeGrid();
+}
+
+// ===== CHARGEMENT NEWS =====
 async function loadNews() {
   try {
-    const r = await fetch('news_data.json?t=' + Date.now());
-    if (!r.ok) throw new Error('no data');
+    const r = await fetch('news_data.json?t='+Date.now());
+    if(!r.ok) throw new Error('no data');
     const data = await r.json();
     NEWS = data.articles || {};
-
     const d = new Date();
     document.getElementById('nav-date').textContent = d.toLocaleDateString('fr-FR',{day:'2-digit',month:'short'}).toUpperCase();
-
-    if (data.last_updated) {
-      document.getElementById('last-updated').textContent = 'Dernière mise à jour : ' + data.last_updated;
-      document.getElementById('last-update-label').textContent = data.last_updated;
+    if(data.last_updated) {
+      document.getElementById('f-upd').textContent = 'Dernière mise à jour : '+data.last_updated;
+      document.getElementById('upd-label').textContent = data.last_updated;
     }
-
-    let total = 0;
-    Object.values(NEWS).forEach(arr => total += arr.length);
-    document.getElementById('stat-total').textContent = total;
-
+    let tot = 0; Object.values(NEWS).forEach(a=>tot+=a.length);
+    document.getElementById('stat-total').textContent = tot;
     renderGrid(currentCountry);
-    renderHomeLatest();
+    renderHomeGrid();
   } catch(e) {
     document.getElementById('nav-date').textContent = new Date().toLocaleDateString('fr-FR',{day:'2-digit',month:'short'}).toUpperCase();
-    document.getElementById('agrid').innerHTML = `<div class="loading">Les actualités se chargent automatiquement toutes les heures.<br><small style="opacity:0.5">Première mise à jour en cours…</small></div>`;
-    document.getElementById('home-latest-grid').innerHTML = `<div class="loading" style="grid-column:1/-1">Actualités disponibles après la première mise à jour automatique.</div>`;
-    document.getElementById('stat-total').textContent = '—';
+    document.getElementById('agrid').innerHTML = '<div class="loading">Actualités disponibles après la première mise à jour automatique.</div>';
+    document.getElementById('home-grid').innerHTML = '<div class="loading" style="grid-column:1/-1">Chargement des actualités…</div>';
   }
 }
 
-// ===== ACCUEIL LATEST =====
-function renderHomeLatest() {
-  const grid = document.getElementById('home-latest-grid');
-  const articles = [];
-  ['monde','france','usa','russie','iran','chine'].forEach(pays => {
-    if (NEWS[pays] && NEWS[pays][0]) articles.push({...NEWS[pays][0], pays});
+// ===== GRILLE ACCUEIL =====
+function renderHomeGrid() {
+  const grid = document.getElementById('home-grid');
+  const arts = [];
+  ['monde','france','usa','russie','iran','chine'].forEach(p => {
+    if(NEWS[p]&&NEWS[p][0]) arts.push({...NEWS[p][0],pays:p});
   });
-  if (!articles.length) return;
-  grid.innerHTML = articles.slice(0,6).map(a => `
-    <div class="lcard" onclick="openDynM('${a.pays}','${a.id}')">
-      ${a.image ? `<img class="lcard-img" src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : `<div class="lcard-img-placeholder">📰</div>`}
+  if(!arts.length) return;
+  const t = T[LANG];
+  grid.innerHTML = arts.slice(0,6).map(a=>`
+    <div class="lcard" onclick="openDyn('${a.pays}','${a.id}')">
+      ${a.image?`<img class="lcard-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=lcard-ph>${{monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'}[a.pays]||'📰'}</div>'">`:`<div class="lcard-ph">${{monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'}[a.pays]||'📰'}</div>`}
       <div class="lcard-body">
-        <div class="lc-cat">${a.categorie || a.pays}</div>
+        <div class="lc-cat">${a.categorie||a.pays}</div>
         <div class="lc-title">${a.titre}</div>
-        <div class="lc-foot"><span class="lc-time">${a.date}</span><span class="lc-cta">${I18N[LANG].lire}</span></div>
+        <div class="lc-foot"><span class="lc-time">${a.date}</span><span class="lc-cta">${t['lire']}</span></div>
       </div>
     </div>`).join('');
 }
 
-// ===== ACTU GRID =====
+// ===== GRILLE ACTUALITÉ =====
 function renderGrid(pays) {
   currentCountry = pays;
   const grid = document.getElementById('agrid');
-  const articles = NEWS[pays];
-  if (!articles || !articles.length) {
-    grid.innerHTML = `<div class="loading">${I18N[LANG].loading}</div>`;
-    return;
-  }
-  const feat = articles[0];
-  const minis = articles.slice(1, 4);
+  const arts = NEWS[pays];
+  if(!arts||!arts.length){grid.innerHTML='<div class="loading">Chargement…</div>';return;}
+  const feat = arts[0];
+  const minis = arts.slice(1,4);
+  const t = T[LANG];
+  const ph = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
   grid.innerHTML = `
   <div class="actu-wrap">
-    <div class="feat" onclick="openDynM('${pays}','${feat.id}')">
-      ${feat.image ? `<img class="feat-img" src="${feat.image}" alt="" loading="lazy" onerror="this.classList.add('feat-img-ph');this.outerHTML='<div class=\\'feat-img-ph\\'>📰</div>'">` : `<div class="feat-img-ph">📰</div>`}
+    <div class="feat" onclick="openDyn('${pays}','${feat.id}')">
+      ${feat.image?`<img class="feat-img" src="${feat.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=feat-ph>${ph[pays]||'📰'}</div>'">`:`<div class="feat-ph">${ph[pays]||'📰'}</div>`}
       <div class="feat-content">
-        <div class="clabel">${feat.categorie || pays}</div>
+        <div class="clabel">${feat.categorie||pays}</div>
         <div class="feat-title">${feat.titre}</div>
         <div class="feat-body">${feat.resume}</div>
         <div class="badges">${(feat.badges||[]).map(b=>`<span class="badge ${b.hausse?'bu':'bd'}">${b.label}</span>`).join('')}</div>
-        <div class="hint">↗ ${I18N[LANG].lire}</div>
+        <div class="hint">↗ ${t['lire']}</div>
       </div>
     </div>
     <div class="minis">
       ${minis.map(m=>`
-        <div class="mini" onclick="openDynM('${pays}','${m.id}')">
-          ${m.image ? `<img class="mini-img" src="${m.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : `<div class="mini-img-ph">📰</div>`}
+        <div class="mini" onclick="openDyn('${pays}','${m.id}')">
+          ${m.image?`<img class="mini-img" src="${m.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=mini-ph>${ph[pays]||'📰'}</div>'">`:`<div class="mini-ph">${ph[pays]||'📰'}</div>`}
           <div class="mini-content">
-            <div class="clabel">${m.categorie || pays}</div>
+            <div class="clabel">${m.categorie||pays}</div>
             <div class="mini-title">${m.titre}</div>
-            <div class="mini-foot"><span class="mini-time">${m.date}</span><span class="mini-cta">${I18N[LANG].lire}</span></div>
+            <div class="mini-foot"><span class="mini-time">${m.date}</span><span class="mini-cta">${t['lire']}</span></div>
           </div>
         </div>`).join('')}
     </div>
   </div>`;
 }
 
-// ===== MODAL DYNAMIQUE =====
-function openDynM(pays, id) {
-  const articles = NEWS[pays] || [];
-  const a = articles.find(x => x.id === id);
-  if (!a) return;
-  const t = I18N[LANG];
+// ===== MODAL ACTUALITÉ DYNAMIQUE =====
+function openDyn(pays, id) {
+  const arts = NEWS[pays]||[];
+  const a = arts.find(x=>x.id===id);
+  if(!a) return;
+  const t = T[LANG];
+  const ph = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
+
+  // Impact marchés — toujours affiché
   let mkt = '';
-  if (a.impact_marches && a.impact_marches.length) {
+  if(a.impact_marches&&a.impact_marches.length) {
     mkt = `<div class="mmkt">
       <div class="mmkt-head">
-        <div class="mmkt-title">${t.mkt_title}</div>
-        <div class="mmkt-disc">${t.mkt_disc}</div>
+        <div class="mmkt-title">${t['mkt-title']}</div>
+        <div class="mmkt-disc">${t['mkt-disc']}</div>
       </div>
       ${a.impact_marches.map(m=>`<div class="mrow"><span>${m.secteur}</span><span class="${m.hausse?'mup':'mdn'}">${m.effet}</span></div>`).join('')}
-      <div class="mkt-note">${t.mkt_note}</div>
+      <div class="mkt-note">${t['mkt-note']}</div>
     </div>`;
+  } else {
+    mkt = `<div class="mkt-note" style="margin-top:1rem">${t['no-mkt']}</div>`;
   }
+
+  // Source discrète en bas
+  const src = (a.url&&a.url!=='#')
+    ? `<div class="msource">${t['source']} : <a href="${a.url}" target="_blank" rel="noopener">${a.source} ↗</a></div>`
+    : '';
+
   document.getElementById('mbody').innerHTML = `
-    ${a.image ? `<img class="modal-hero-img" src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : `<div class="modal-hero-ph">📰</div>`}
+    ${a.image?`<img class="modal-hero-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=modal-hero-ph>${ph[pays]||'📰'}</div>'">`:`<div class="modal-hero-ph">${ph[pays]||'📰'}</div>`}
     <div class="modal-body">
-      <div class="mtag">${a.categorie || pays}</div>
+      <div class="mtag">${a.categorie||pays}</div>
       <div class="mtitle">${a.titre}</div>
-      <div class="mdate">
-        <span>${a.date}</span>
-        <a class="msource-link" href="${a.url}" target="_blank" rel="noopener">📰 ${a.source} ↗</a>
-      </div>
+      <div class="mdate">${a.date}</div>
       <div class="mbody">
         <p>${a.resume}</p>
-        ${a.analyse_detaillee ? `<h4>Analyse détaillée</h4><p>${a.analyse_detaillee}</p>` : ''}
+        ${a.analyse_detaillee?`<h4>${t['analyse']}</h4><p>${a.analyse_detaillee}</p>`:''}
       </div>
       ${mkt}
+      ${src}
     </div>`;
   document.getElementById('modal').classList.add('open');
-  document.getElementById('modal').scrollTop = 0;
+  document.getElementById('modal').scrollTop=0;
 }
 
-// ===== MODAL STATIQUE =====
-function openM(id) {
-  const a = STATIC[id];
-  if (!a) return;
+// ===== MODAL STATIQUE (Juridique + Histoire) =====
+function openS(id) {
+  const c = CONTENT[id];
+  if(!c) return;
+  const t = T[LANG];
+  const emojis = {jf1:'⚖️',jf2:'⚖️',jf3:'📋',jf4:'🏛️',ji1:'💻',ji2:'🌍',ji3:'🚢',ji4:'🤖',hf1:'🏰',hf2:'👑',hf3:'🔴',hf4:'📜',hu1:'🦅',hu2:'⚔️',hu3:'🌄',hu4:'🪖'};
+  const tag = c.tag[LANG]||c.tag['fr'];
+  const body = c.body[LANG]||c.body['fr'];
+  const titleKey = id+'-title';
+  const dateKey = id+'-date';
   document.getElementById('mbody').innerHTML = `
-    <div class="modal-hero-ph" style="font-size:50px">${{jf1:'⚖️',jf2:'⚖️',jf3:'📋',jf4:'🏛️',ji1:'💻',ji2:'🌍',ji3:'🚢',ji4:'🤖',hf1:'🏰',hf2:'👑',hf3:'🔴',hf4:'📜',hu1:'🦅',hu2:'⚔️',hu3:'🌄',hu4:'🪖'}[id]||'📖'}</div>
+    <div class="modal-hero-ph" style="font-size:52px">${emojis[id]||'📖'}</div>
     <div class="modal-body">
-      <div class="mtag">${a.tag}</div>
-      <div class="mtitle">${a.title}</div>
-      <div class="mdate"><span>${a.date}</span></div>
-      <div class="mbody">${a.body}</div>
+      <div class="mtag">${tag}</div>
+      <div class="mtitle">${t[titleKey]||''}</div>
+      <div class="mdate">${t[dateKey]||''}</div>
+      <div class="mbody">${body}</div>
     </div>`;
   document.getElementById('modal').classList.add('open');
-  document.getElementById('modal').scrollTop = 0;
+  document.getElementById('modal').scrollTop=0;
 }
 
 // ===== RECHERCHE =====
 function doSearch(q) {
   const d = document.getElementById('srdrop');
-  if (!q || q.length < 2) { d.style.display='none'; return; }
-  const staticR = Object.entries(STATIC)
-    .filter(([id,a]) => a.title.toLowerCase().includes(q.toLowerCase()) || a.tag.toLowerCase().includes(q.toLowerCase()))
-    .map(([id,a]) => ({id, title:a.title, tag:a.tag, type:'static'}));
-  const dynR = [];
-  Object.entries(NEWS).forEach(([pays,arts]) => {
-    arts.forEach(a => {
-      if (a.titre.toLowerCase().includes(q.toLowerCase()) || (a.categorie||'').toLowerCase().includes(q.toLowerCase())) {
-        dynR.push({id:a.id, title:a.titre, tag:a.categorie||pays, pays, type:'dyn'});
-      }
+  if(!q||q.length<2){d.style.display='none';return;}
+  const t = T[LANG];
+  // Recherche dans statique
+  const sR = Object.keys(CONTENT).filter(id=>{
+    const title = t[id+'-title']||'';
+    return title.toLowerCase().includes(q.toLowerCase()) || (CONTENT[id].tag[LANG]||'').toLowerCase().includes(q.toLowerCase());
+  }).map(id=>({id,title:t[id+'-title']||id,tag:CONTENT[id].tag[LANG]||'',type:'s'}));
+  // Recherche dans news
+  const dR = [];
+  Object.entries(NEWS).forEach(([pays,arts])=>{
+    arts.forEach(a=>{
+      if(a.titre.toLowerCase().includes(q.toLowerCase())||(a.categorie||'').toLowerCase().includes(q.toLowerCase()))
+        dR.push({id:a.id,title:a.titre,tag:a.categorie||pays,pays,type:'d'});
     });
   });
-  const all = [...dynR, ...staticR].slice(0,7);
-  if (!all.length) { d.style.display='none'; return; }
-  d.innerHTML = all.map(r => r.type==='static'
-    ? `<div class="sr-item" onclick="openM('${r.id}');clearS()"><div class="sr-title">${r.title}</div><div class="sr-cat">${r.tag}</div></div>`
-    : `<div class="sr-item" onclick="openDynM('${r.pays}','${r.id}');clearS()"><div class="sr-title">${r.title}</div><div class="sr-cat">${r.tag}</div></div>`
+  const all = [...dR,...sR].slice(0,7);
+  if(!all.length){d.style.display='none';return;}
+  d.innerHTML = all.map(r=>r.type==='s'
+    ?`<div class="sr-item" onclick="openS('${r.id}');clearS()"><div class="sr-title">${r.title}</div><div class="sr-cat">${r.tag}</div></div>`
+    :`<div class="sr-item" onclick="openDyn('${r.pays}','${r.id}');clearS()"><div class="sr-title">${r.title}</div><div class="sr-cat">${r.tag}</div></div>`
   ).join('');
-  d.style.display = 'block';
+  d.style.display='block';
 }
-function clearS() { document.getElementById('si').value=''; document.getElementById('srdrop').style.display='none'; }
+function clearS(){document.getElementById('si').value='';document.getElementById('srdrop').style.display='none';}
 
 // ===== NAVIGATION =====
 function showSec(s) {
-  // Cacher toutes les sections sauf celle cliquée
-  ['home','actu','jur','hist'].forEach(x => {
-    const el = document.getElementById('s-'+x);
-    if(el) el.style.display = x===s ? 'block' : 'none';
-    const nb = document.getElementById('nb-'+x);
-    if(nb) nb.classList.toggle('on', x===s);
+  ['home','actu','jur','hist'].forEach(x=>{
+    const el=document.getElementById('s-'+x);
+    if(el) el.style.display=x===s?'block':'none';
+    const nb=document.getElementById('nb-'+x);
+    if(nb) nb.classList.toggle('on',x===s);
   });
   if(s==='actu') renderGrid(currentCountry);
-  window.scrollTo({top:0, behavior:'smooth'});
+  window.scrollTo({top:0,behavior:'smooth'});
 }
-function switchC(btn,pays) {
+function switchC(btn,pays){
   document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
   renderGrid(pays);
 }
-function switchH(btn,w) {
+function switchH(btn,w){
   document.querySelectorAll('.htab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
   document.getElementById('hfr').style.display=w==='fr'?'block':'none';
   document.getElementById('hus').style.display=w==='us'?'block':'none';
 }
-function closeM() { document.getElementById('modal').classList.remove('open'); }
-function closeMOut(e) { if(e.target===document.getElementById('modal')) closeM(); }
+function closeM(){document.getElementById('modal').classList.remove('open');}
 
 // ===== INIT =====
 loadNews();
-setInterval(loadNews, 60 * 1000);
-
-
+setInterval(loadNews, 60*1000);
 </script>
 </body>
 </html>
