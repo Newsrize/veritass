@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" id="html-root">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,107 +9,126 @@
 *{margin:0;padding:0;box-sizing:border-box}
 :root{--bg:#0C0C0E;--bg2:#111115;--bg3:#18181F;--txt:#EDEAE4;--muted:#7A7880;--faint:#222228;--actu:#1B4F8A;--jur:#7D1C2E;--hist:#1A5C2E;--actu-c:#6FA8DC;--jur-c:#C47A8A;--hist-c:#6AB07A}
 body{background:var(--bg);color:var(--txt);font-family:system-ui,sans-serif;font-size:15px;line-height:1.6;min-height:100vh}
-nav{display:flex;align-items:center;justify-content:space-between;padding:1rem 2rem;border-bottom:1px solid var(--faint);background:rgba(12,12,14,0.97);position:sticky;top:0;z-index:100;backdrop-filter:blur(10px)}
-.logo{font-family:Georgia,serif;font-size:1.7rem;font-weight:700;letter-spacing:3px;color:var(--txt);cursor:pointer}
+
+/* NAV */
+nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem 1.5rem;border-bottom:1px solid var(--faint);background:rgba(12,12,14,0.97);position:sticky;top:0;z-index:100;backdrop-filter:blur(10px);gap:1rem}
+.logo{font-family:Georgia,serif;font-size:1.5rem;font-weight:700;letter-spacing:3px;color:var(--txt);cursor:pointer;flex-shrink:0}
 .logo-dot{color:var(--muted)}
-.nav-links{display:flex;gap:2px}
-.nav-btn{background:none;border:none;padding:0.4rem 0.9rem;border-radius:6px;font-size:13px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s}
+.nav-links{display:flex;gap:2px;flex-wrap:wrap}
+.nav-btn{background:none;border:none;padding:0.35rem 0.75rem;border-radius:6px;font-size:13px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s;white-space:nowrap}
 .nav-btn:hover,.nav-btn.on{color:var(--txt);background:var(--faint)}
-.nav-right{display:flex;align-items:center;gap:10px}
-.nav-date{font-size:11px;color:var(--muted);letter-spacing:1px;opacity:0.6}
-.nav-live{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--hist-c);letter-spacing:0.5px}
+.nav-right{display:flex;align-items:center;gap:10px;flex-shrink:0}
+.nav-date{font-size:11px;color:var(--muted);letter-spacing:0.5px;opacity:0.6}
+.live-badge{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--hist-c)}
 .live-dot{width:6px;height:6px;border-radius:50%;background:var(--hist-c);animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
 
-.search-zone{padding:1rem 2rem 0;background:var(--bg);border-bottom:1px solid var(--faint)}
+/* LANG SWITCHER */
+.lang-switcher{display:flex;gap:2px;background:var(--bg3);border:1px solid var(--faint);border-radius:6px;padding:2px}
+.lang-btn{background:none;border:none;padding:0.2rem 0.5rem;border-radius:4px;font-size:11px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s;font-weight:500}
+.lang-btn.on{background:var(--faint);color:var(--txt)}
+
+/* SEARCH */
+.search-zone{padding:0.8rem 1.5rem;background:var(--bg);border-bottom:1px solid var(--faint);position:sticky;top:57px;z-index:90;backdrop-filter:blur(8px)}
 .search-row{display:flex;gap:8px;max-width:600px}
-.search-row input{flex:1;padding:0.45rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:13px;color:var(--txt);font-family:inherit;outline:none;transition:border-color 0.2s}
+.search-row input{flex:1;padding:0.42rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:13px;color:var(--txt);font-family:inherit;outline:none;transition:border-color 0.2s}
 .search-row input:focus{border-color:#3A3A50}
 .search-row input::placeholder{color:var(--muted)}
-.search-row button{padding:0.45rem 1rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:12px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s}
+.search-row button{padding:0.42rem 0.9rem;background:var(--bg3);border:1px solid var(--faint);border-radius:7px;font-size:12px;color:var(--muted);cursor:pointer;font-family:inherit;transition:all 0.15s}
 .search-row button:hover{color:var(--txt)}
-.sr-drop{display:none;max-width:600px;border:1px solid var(--faint);border-top:none;border-radius:0 0 7px 7px;overflow:hidden;background:var(--bg2);margin-bottom:0.5rem}
+.sr-drop{display:none;max-width:600px;border:1px solid var(--faint);border-top:none;border-radius:0 0 7px 7px;overflow:hidden;background:var(--bg2)}
 .sr-item{padding:0.65rem 0.9rem;cursor:pointer;border-bottom:1px solid var(--faint);transition:background 0.15s}
 .sr-item:last-child{border-bottom:none}
 .sr-item:hover{background:var(--bg3)}
 .sr-title{font-size:13px;color:var(--txt);margin-bottom:2px}
 .sr-cat{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
 
-.wrap{max-width:1100px;margin:0 auto;padding:1.5rem 2rem 5rem}
+/* WRAP */
+.wrap{max-width:1100px;margin:0 auto;padding:1.5rem 1.5rem 5rem}
 
 /* ACCUEIL */
-.hero{text-align:center;padding:4rem 2rem 3rem;max-width:680px;margin:0 auto}
-.hero-eyebrow{font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--muted);margin-bottom:1.3rem}
-.hero-title{font-family:Georgia,serif;font-size:3rem;font-weight:700;line-height:1.05;color:var(--txt);margin-bottom:1rem;letter-spacing:-0.5px}
+.hero{text-align:center;padding:3rem 1.5rem 2rem;max-width:680px;margin:0 auto}
+.hero-eyebrow{font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--muted);margin-bottom:1.2rem}
+.hero-title{font-family:Georgia,serif;font-size:2.6rem;font-weight:700;line-height:1.05;color:var(--txt);margin-bottom:1rem}
 .hero-title em{font-style:italic;color:#8A9BB5}
-.hero-sub{font-size:15px;color:var(--muted);max-width:460px;margin:0 auto 2.5rem;line-height:1.7}
-.hero-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;max-width:760px;margin:0 auto}
-.hero-card{background:var(--bg2);border:1px solid var(--faint);border-radius:10px;padding:1.3rem;cursor:pointer;transition:border-color 0.2s;text-align:left;position:relative;overflow:hidden}
-.hero-card:hover{border-color:#3A3A44}
-.hcard-accent{width:100%;height:2px;position:absolute;top:0;left:0}
-.hcard-title{font-size:14px;font-weight:500;color:var(--txt);margin-bottom:0.35rem;margin-top:0.6rem}
-.hcard-desc{font-size:12px;color:var(--muted);line-height:1.55}
-.hcard-info{font-size:11px;color:var(--muted);margin-top:0.7rem;opacity:0.6}
-.home-divider{border:none;border-top:1px solid var(--faint);margin:2.5rem 0}
-.home-latest{max-width:760px;margin:0 auto}
+.hero-sub{font-size:14px;color:var(--muted);max-width:440px;margin:0 auto 2rem;line-height:1.7}
+
+/* HERO LATEST */
+.home-latest-hero{max-width:900px;margin:0 auto;padding:0 1.5rem}
 .home-sec-title{font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin-bottom:1rem;display:flex;align-items:center;gap:8px}
 .home-sec-line{width:20px;height:1px;background:var(--faint)}
-.latest-grid{display:grid;grid-template-columns:1fr 1fr;gap:0.75rem}
-.lcard{background:var(--bg2);border:1px solid var(--faint);border-radius:8px;padding:1rem;cursor:pointer;transition:background 0.15s;display:flex;gap:10px;align-items:flex-start}
-.lcard:hover{background:var(--bg3)}
-.lc-acc{width:2px;min-height:36px;flex-shrink:0}
-.lc-body{flex:1}
-.lc-cat{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);margin-bottom:0.35rem}
+.latest-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem}
+.lcard{background:var(--bg2);border:1px solid var(--faint);border-radius:8px;overflow:hidden;cursor:pointer;transition:border-color 0.15s}
+.lcard:hover{border-color:#3A3A44}
+.lcard-img{width:100%;height:100px;object-fit:cover;background:var(--bg3)}
+.lcard-img-placeholder{width:100%;height:100px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:24px;color:var(--muted);opacity:0.4}
+.lcard-body{padding:0.8rem}
+.lc-cat{font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted);margin-bottom:0.3rem}
 .lc-title{font-size:13px;line-height:1.4;color:var(--txt);margin-bottom:0.35rem}
 .lc-foot{display:flex;justify-content:space-between;align-items:center}
 .lc-time{font-size:11px;color:var(--muted)}
 .lc-cta{font-size:11px;color:var(--muted);border:1px solid var(--faint);padding:0.1rem 0.4rem;border-radius:4px}
-.home-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;max-width:760px;margin:2rem auto 0}
-.stat-card{background:var(--bg3);border-radius:8px;padding:1rem;text-align:center}
-.stat-num{font-size:22px;font-weight:500;color:var(--txt);margin-bottom:0.2rem}
-.stat-label{font-size:12px;color:var(--muted)}
 
-/* SECTIONS */
-.sec-head{display:flex;align-items:center;gap:10px;margin-bottom:1rem}
+/* STATS */
+.home-divider{border:none;border-top:1px solid var(--faint);margin:2rem 0}
+.home-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;max-width:500px;margin:0 auto}
+.stat-card{background:var(--bg3);border-radius:8px;padding:0.9rem;text-align:center}
+.stat-num{font-size:20px;font-weight:500;color:var(--txt);margin-bottom:0.2rem}
+.stat-label{font-size:11px;color:var(--muted)}
+
+/* HERO CARDS */
+.hero-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:0.75rem;max-width:700px;margin:2rem auto 0}
+.hero-card{background:var(--bg2);border:1px solid var(--faint);border-radius:8px;padding:1rem;cursor:pointer;transition:border-color 0.15s;text-align:left;position:relative;overflow:hidden}
+.hero-card:hover{border-color:#3A3A44}
+.hcard-accent{width:100%;height:2px;position:absolute;top:0;left:0}
+.hcard-title{font-size:13px;font-weight:500;color:var(--txt);margin-bottom:0.3rem;margin-top:0.4rem}
+.hcard-desc{font-size:11px;color:var(--muted);line-height:1.5}
+
+/* SECTIONS INTERNES */
+.sec-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;flex-wrap:wrap;gap:0.5rem}
+.sec-head-left{display:flex;align-items:center;gap:10px}
 .sec-bar{width:22px;height:2px}
 .sec-head h2{font-size:11px;font-weight:500;letter-spacing:2px;text-transform:uppercase}
+.last-update{font-size:11px;color:var(--muted);opacity:0.6}
 
 /* DISCLAIMER */
 .disclaimer{display:flex;align-items:flex-start;gap:8px;background:var(--bg3);border:1px solid var(--faint);border-radius:6px;padding:0.65rem 1rem;margin-bottom:1rem;font-size:11px;color:var(--muted);line-height:1.5}
 
 /* TABS */
 .tabs{display:flex;gap:4px;margin-bottom:1rem;flex-wrap:wrap}
-.tab{background:none;border:1px solid var(--faint);border-radius:5px;padding:0.28rem 0.8rem;font-size:12px;font-family:inherit;color:var(--muted);cursor:pointer;transition:all 0.15s}
+.tab{background:none;border:1px solid var(--faint);border-radius:5px;padding:0.28rem 0.75rem;font-size:12px;font-family:inherit;color:var(--muted);cursor:pointer;transition:all 0.15s}
 .tab:hover{color:var(--txt)}
 .tab.on{background:var(--bg3);color:var(--txt);border-color:#3A3A44}
 
 /* ACTU GRID */
-.actu-grid{display:grid;grid-template-columns:1.5fr 1fr;border:1px solid var(--faint);border-radius:10px;overflow:hidden;margin-bottom:2rem}
-.feat{background:var(--bg2);padding:1.5rem;cursor:pointer;border-right:1px solid var(--faint);border-left:3px solid var(--actu);transition:background 0.15s}
+.actu-wrap{display:grid;grid-template-columns:1.5fr 1fr;border:1px solid var(--faint);border-radius:10px;overflow:hidden;margin-bottom:2rem}
+.feat{background:var(--bg2);cursor:pointer;border-right:1px solid var(--faint);border-left:3px solid var(--actu);transition:background 0.15s}
 .feat:hover{background:var(--bg3)}
+.feat-img{width:100%;height:160px;object-fit:cover;background:var(--bg3)}
+.feat-img-ph{width:100%;height:160px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:36px;color:var(--muted);opacity:0.3}
+.feat-content{padding:1.3rem}
 .minis{display:flex;flex-direction:column;background:var(--bg2)}
-.mini{flex:1;padding:0.9rem 1.1rem;cursor:pointer;border-left:3px solid var(--actu);border-top:1px solid var(--faint);transition:background 0.15s}
+.mini{flex:1;cursor:pointer;border-left:3px solid var(--actu);border-top:1px solid var(--faint);transition:background 0.15s;display:flex;flex-direction:column;overflow:hidden}
 .mini:first-child{border-top:none}
 .mini:hover{background:var(--bg3)}
-.clabel{font-size:10px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:0.45rem}
-.feat-title{font-family:Georgia,serif;font-size:1.15rem;font-weight:700;line-height:1.25;color:var(--txt);margin-bottom:0.6rem}
-.feat-body{font-size:13px;color:var(--muted);line-height:1.65;margin-bottom:0.8rem}
+.mini-img{width:100%;height:80px;object-fit:cover;background:var(--bg3)}
+.mini-img-ph{width:100%;height:80px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:20px;color:var(--muted);opacity:0.3}
+.mini-content{padding:0.8rem 1rem}
+.clabel{font-size:10px;font-weight:500;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:0.4rem}
+.feat-title{font-family:Georgia,serif;font-size:1.1rem;font-weight:700;line-height:1.25;color:var(--txt);margin-bottom:0.55rem}
+.feat-body{font-size:12.5px;color:var(--muted);line-height:1.6;margin-bottom:0.8rem}
 .badges{display:flex;gap:5px;flex-wrap:wrap}
 .badge{font-size:11px;padding:0.15rem 0.5rem;border-radius:4px}
 .bu{background:rgba(26,92,46,0.2);color:var(--hist-c)}
 .bd{background:rgba(125,28,46,0.2);color:var(--jur-c)}
-.hint{font-size:11px;color:var(--muted);margin-top:0.8rem;opacity:0.55}
-.mini-title{font-size:13px;line-height:1.4;color:var(--txt);margin-bottom:0.4rem}
+.hint{font-size:11px;color:var(--muted);margin-top:0.7rem;opacity:0.55}
+.mini-title{font-size:12.5px;line-height:1.4;color:var(--txt);margin-bottom:0.35rem}
 .mini-foot{display:flex;justify-content:space-between;align-items:center}
 .mini-time{font-size:11px;color:var(--muted)}
 .mini-cta{font-size:11px;color:var(--muted);border:1px solid var(--faint);padding:0.1rem 0.4rem;border-radius:4px}
 
 /* LOADING */
 .loading{text-align:center;padding:3rem;color:var(--muted);font-size:13px}
-.loading-dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--muted);margin:0 3px;animation:ldot 1.2s infinite}
-.loading-dot:nth-child(2){animation-delay:0.2s}
-.loading-dot:nth-child(3){animation-delay:0.4s}
-@keyframes ldot{0%,100%{opacity:0.2;transform:scale(0.8)}50%{opacity:1;transform:scale(1)}}
 
 /* TWO COL */
 .two{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
@@ -117,9 +136,12 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:1rem 2
 .bhead{padding:0.85rem 1.1rem;border-bottom:1px solid var(--faint);background:var(--bg2);display:flex;align-items:center;gap:8px}
 .bacc{width:3px;height:16px}
 .btitle{font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase}
-.bcard{padding:0.85rem 1.1rem;border-bottom:1px solid var(--faint);cursor:pointer;display:flex;gap:10px;align-items:flex-start;background:var(--bg2);transition:background 0.15s}
+.bcard{border-bottom:1px solid var(--faint);cursor:pointer;background:var(--bg2);transition:background 0.15s;overflow:hidden}
 .bcard:last-child{border-bottom:none}
 .bcard:hover{background:var(--bg3)}
+.bcard-img{width:100%;height:80px;object-fit:cover}
+.bcard-img-ph{width:100%;height:60px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:18px;color:var(--muted);opacity:0.3}
+.bcard-inner{padding:0.8rem 1rem;display:flex;gap:10px;align-items:flex-start}
 .bacc2{width:2px;min-height:30px;flex-shrink:0;margin-top:3px}
 .bc-body{flex:1}
 .bc-title{font-size:13px;line-height:1.4;color:var(--txt);margin-bottom:0.3rem}
@@ -127,20 +149,24 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:1rem 2
 .bc-date{font-size:11px;color:var(--muted)}
 .bc-cta{font-size:11px;color:var(--muted);border:1px solid var(--faint);padding:0.1rem 0.4rem;border-radius:4px}
 
-/* HIST TABS */
 .htabs{display:flex;gap:4px;margin-bottom:1rem}
-.htab{background:none;border:1px solid var(--faint);border-radius:5px;padding:0.28rem 0.8rem;font-size:12px;font-family:inherit;color:var(--muted);cursor:pointer;transition:all 0.15s}
+.htab{background:none;border:1px solid var(--faint);border-radius:5px;padding:0.28rem 0.75rem;font-size:12px;font-family:inherit;color:var(--muted);cursor:pointer;transition:all 0.15s}
 .htab.on{background:var(--bg3);color:var(--hist-c);border-color:rgba(26,92,46,0.35)}
 
 /* MODAL */
-.modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.8);z-index:200;overflow-y:auto;padding:2.5rem 1.5rem}
+.modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.82);z-index:200;overflow-y:auto;padding:2rem 1rem}
 .modal-bg.open{display:block}
-.modal{background:var(--bg2);border:1px solid var(--faint);border-radius:10px;max-width:660px;margin:0 auto;padding:2rem;position:relative}
-.modal-x{position:absolute;top:1rem;right:1rem;background:var(--faint);border:none;color:var(--muted);width:28px;height:28px;border-radius:50%;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;font-family:inherit}
-.modal-x:hover{color:var(--txt)}
+.modal{background:var(--bg2);border:1px solid var(--faint);border-radius:10px;max-width:680px;margin:0 auto;overflow:hidden;position:relative}
+.modal-hero-img{width:100%;height:200px;object-fit:cover;background:var(--bg3)}
+.modal-hero-ph{width:100%;height:120px;background:linear-gradient(135deg,var(--bg3),var(--faint));display:flex;align-items:center;justify-content:center;font-size:42px;color:var(--muted);opacity:0.3}
+.modal-body{padding:1.8rem}
+.modal-x{position:absolute;top:1rem;right:1rem;background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.1);color:var(--txt);width:30px;height:30px;border-radius:50%;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;font-family:inherit;z-index:10}
+.modal-x:hover{background:rgba(0,0,0,0.8)}
 .mtag{font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:0.6rem}
-.mtitle{font-family:Georgia,serif;font-size:1.4rem;font-weight:700;line-height:1.2;color:var(--txt);margin-bottom:0.4rem;padding-right:2.5rem}
-.mdate{font-size:12px;color:var(--muted);padding-bottom:1rem;border-bottom:1px solid var(--faint);margin-bottom:1rem}
+.mtitle{font-family:Georgia,serif;font-size:1.4rem;font-weight:700;line-height:1.2;color:var(--txt);margin-bottom:0.5rem}
+.mdate{font-size:12px;color:var(--muted);padding-bottom:1rem;border-bottom:1px solid var(--faint);margin-bottom:1rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem}
+.msource-link{font-size:12px;color:var(--actu-c);text-decoration:none}
+.msource-link:hover{text-decoration:underline}
 .mbody{font-size:14px;color:#A5A2A0;line-height:1.85}
 .mbody p{margin-bottom:0.9rem}
 .mbody h4{font-size:11px;font-weight:600;color:var(--txt);margin:1.3rem 0 0.5rem;text-transform:uppercase;letter-spacing:1px}
@@ -152,26 +178,39 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:1rem 2
 .mrow:last-child{border-bottom:none}
 .mup{color:var(--hist-c);font-weight:500}
 .mdn{color:var(--jur-c);font-weight:500}
-.mkt-note{margin-top:1rem;padding:0.7rem 0.9rem;background:var(--bg3);border-radius:6px;font-size:11px;color:var(--muted);line-height:1.55;font-style:italic}
+.mkt-note{margin-top:1rem;padding:0.65rem 0.9rem;background:var(--bg3);border-radius:6px;font-size:11px;color:var(--muted);line-height:1.5;font-style:italic}
 
-/* SOURCE BADGE */
-.source-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:var(--muted);background:var(--bg3);border:1px solid var(--faint);padding:0.15rem 0.6rem;border-radius:20px;margin-top:0.6rem}
-
-footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;background:var(--bg)}
-.flogo{font-family:Georgia,serif;font-size:1.2rem;font-weight:700;color:var(--muted);margin-bottom:0.35rem;letter-spacing:3px}
+footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;background:var(--bg)}
+.flogo{font-family:Georgia,serif;font-size:1.1rem;font-weight:700;color:var(--muted);margin-bottom:0.3rem;letter-spacing:3px}
 .fsub{font-size:11px;color:var(--muted);opacity:0.35;letter-spacing:2px;text-transform:uppercase}
-.fupdated{font-size:11px;color:var(--muted);opacity:0.4;margin-top:0.4rem}
+.fupdated{font-size:11px;color:var(--muted);opacity:0.35;margin-top:0.4rem}
 
+/* RESPONSIVE MOBILE */
 @media(max-width:768px){
-  nav{padding:0.8rem 1rem}
+  nav{padding:0.7rem 1rem;gap:0.5rem}
+  .logo{font-size:1.2rem;letter-spacing:2px}
   .nav-links .nav-btn{font-size:11px;padding:0.3rem 0.5rem}
+  .nav-date{display:none}
+  .search-zone{padding:0.6rem 1rem;top:50px}
   .wrap{padding:1rem 1rem 4rem}
-  .search-zone{padding:0.8rem 1rem 0}
-  .actu-grid{grid-template-columns:1fr}
-  .two{grid-template-columns:1fr}
+  .hero{padding:2rem 1rem 1.5rem}
+  .hero-title{font-size:1.9rem}
+  .latest-grid{grid-template-columns:1fr 1fr}
+  .home-stats{grid-template-columns:repeat(3,1fr)}
   .hero-cards{grid-template-columns:1fr}
+  .actu-wrap{grid-template-columns:1fr}
+  .feat-img,.feat-img-ph{height:140px}
+  .two{grid-template-columns:1fr}
+  .modal-bg{padding:0.5rem}
+  .modal-body{padding:1.2rem}
+  .modal-hero-img,.modal-hero-ph{height:150px}
+  .mtitle{font-size:1.1rem}
+  .mmkt-head{flex-direction:column}
+  .mmkt-disc{text-align:left}
+}
+@media(max-width:480px){
   .latest-grid{grid-template-columns:1fr}
-  .home-stats{grid-template-columns:1fr 1fr}
+  .nav-links .nav-btn{font-size:10px;padding:0.25rem 0.4rem}
 }
 </style>
 </head>
@@ -181,20 +220,24 @@ footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;backgrou
   <div class="logo" onclick="showSec('home')">VERITASS<span class="logo-dot">.</span></div>
   <div class="nav-links">
     <button class="nav-btn on" id="nb-home" onclick="showSec('home')">Accueil</button>
-    <button class="nav-btn" id="nb-actu" onclick="showSec('actu')">Actualité & marchés</button>
+    <button class="nav-btn" id="nb-actu" onclick="showSec('actu')">Actualité</button>
     <button class="nav-btn" id="nb-jur" onclick="showSec('jur')">Juridique</button>
     <button class="nav-btn" id="nb-hist" onclick="showSec('hist')">Histoire</button>
   </div>
   <div class="nav-right">
-    <div class="nav-live"><span class="live-dot"></span>En direct</div>
-    <span class="nav-date" id="nav-date">Chargement…</span>
+    <div class="lang-switcher">
+      <button class="lang-btn on" onclick="setLang('fr')">FR</button>
+      <button class="lang-btn" onclick="setLang('en')">EN</button>
+      <button class="lang-btn" onclick="setLang('zh')">中文</button>
+    </div>
+    <div class="live-badge"><span class="live-dot"></span><span id="nav-date">—</span></div>
   </div>
 </nav>
 
 <div class="search-zone">
   <div class="search-row">
     <input type="text" id="si" placeholder="Rechercher un article, une loi, un événement…" oninput="doSearch(this.value)" onkeydown="if(event.key==='Escape')clearS()">
-    <button onclick="clearS()">✕ Effacer</button>
+    <button onclick="clearS()">✕</button>
   </div>
   <div class="sr-drop" id="srdrop"></div>
 </div>
@@ -202,42 +245,40 @@ footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;backgrou
 <!-- ACCUEIL -->
 <div id="s-home">
   <div class="hero">
-    <div class="hero-eyebrow">Anti-désinformation · Éducation · Analyse</div>
-    <div class="hero-title">L'information <em>vérifiée</em>,<br>analysée pour vous.</div>
-    <div class="hero-sub">Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour automatiquement toutes les 5 heures.</div>
-    <div class="hero-cards">
+    <div class="hero-eyebrow" data-i18n="eyebrow">Anti-désinformation · Éducation · Analyse</div>
+    <div class="hero-title" data-i18n="title">L'information <em>vérifiée</em>,<br>analysée pour vous.</div>
+    <div class="hero-sub" data-i18n="sub">Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.</div>
+  </div>
+
+  <div class="home-latest-hero">
+    <div class="home-sec-title"><div class="home-sec-line"></div><span data-i18n="alaune">À la une</span></div>
+    <div class="latest-grid" id="home-latest-grid">
+      <div class="loading" style="grid-column:1/-1">Chargement…</div>
+    </div>
+
+    <div class="home-divider"></div>
+
+    <div class="home-stats">
+      <div class="stat-card"><div class="stat-num" id="stat-total">—</div><div class="stat-label" data-i18n="stat-art">Articles d'actu</div></div>
+      <div class="stat-card"><div class="stat-num">6</div><div class="stat-label" data-i18n="stat-pays">Pays couverts</div></div>
+      <div class="stat-card"><div class="stat-num">1h</div><div class="stat-label" data-i18n="stat-freq">Mise à jour</div></div>
+    </div>
+
+    <div class="hero-cards" style="max-width:100%;margin-top:1.5rem">
       <div class="hero-card" onclick="showSec('actu')">
         <div class="hcard-accent" style="background:var(--actu)"></div>
-        <div class="hcard-title">Actualité & marchés</div>
-        <div class="hcard-desc">Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.</div>
-        <div class="hcard-info" id="actu-count">Chargement…</div>
+        <div class="hcard-title" data-i18n="nav-actu">Actualité & marchés</div>
+        <div class="hcard-desc" data-i18n="desc-actu">Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.</div>
       </div>
       <div class="hero-card" onclick="showSec('jur')">
         <div class="hcard-accent" style="background:var(--jur)"></div>
-        <div class="hcard-title">Juridique</div>
-        <div class="hcard-desc">Droit français et international — lois, jurisprudences, réglementations expliquées.</div>
-        <div class="hcard-info">8 articles disponibles</div>
+        <div class="hcard-title" data-i18n="nav-jur">Juridique</div>
+        <div class="hcard-desc" data-i18n="desc-jur">Droit français et international — lois, jurisprudences, réglementations expliquées.</div>
       </div>
       <div class="hero-card" onclick="showSec('hist')">
         <div class="hcard-accent" style="background:var(--hist)"></div>
-        <div class="hcard-title">Histoire</div>
-        <div class="hcard-desc">France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.</div>
-        <div class="hcard-info">8 articles disponibles</div>
-      </div>
-    </div>
-  </div>
-
-  <div style="max-width:760px;margin:0 auto;padding:0 2rem">
-    <div class="home-stats">
-      <div class="stat-card"><div class="stat-num" id="stat-total">—</div><div class="stat-label">Articles d'actu</div></div>
-      <div class="stat-card"><div class="stat-num">6</div><div class="stat-label">Pays couverts</div></div>
-      <div class="stat-card"><div class="stat-num">5h</div><div class="stat-label">Fréquence mise à jour</div></div>
-    </div>
-    <div class="home-divider"></div>
-    <div class="home-latest">
-      <div class="home-sec-title"><div class="home-sec-line"></div>À la une</div>
-      <div class="latest-grid" id="home-latest-grid">
-        <div class="loading"><span class="loading-dot"></span><span class="loading-dot"></span><span class="loading-dot"></span></div>
+        <div class="hcard-title" data-i18n="nav-hist">Histoire</div>
+        <div class="hcard-desc" data-i18n="desc-hist">France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.</div>
       </div>
     </div>
   </div>
@@ -246,43 +287,71 @@ footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;backgrou
 <!-- ACTUALITÉ -->
 <div id="s-actu" style="display:none">
   <div class="wrap">
-    <div class="sec-head"><div class="sec-bar" style="background:var(--actu)"></div><h2 style="color:var(--actu-c)">Actualité & marchés</h2></div>
+    <div class="sec-head">
+      <div class="sec-head-left">
+        <div class="sec-bar" style="background:var(--actu)"></div>
+        <h2 style="color:var(--actu-c)" data-i18n="nav-actu">Actualité & marchés</h2>
+      </div>
+      <span class="last-update" id="last-update-label"></span>
+    </div>
     <div class="disclaimer">
       <span>ⓘ</span>
-      <span>Les informations sur l'impact des marchés financiers sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement. Veritass décline toute responsabilité quant aux décisions financières prises sur la base de ces contenus.</span>
+      <span data-i18n="disclaimer">Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.</span>
     </div>
     <div class="tabs" id="ctabs">
-      <button class="tab on" onclick="switchC(this,'monde')">Monde</button>
-      <button class="tab" onclick="switchC(this,'france')">France</button>
+      <button class="tab on" onclick="switchC(this,'monde')" data-i18n="monde">Monde</button>
+      <button class="tab" onclick="switchC(this,'france')" data-i18n="france">France</button>
       <button class="tab" onclick="switchC(this,'usa')">États-Unis</button>
-      <button class="tab" onclick="switchC(this,'chine')">Chine</button>
-      <button class="tab" onclick="switchC(this,'russie')">Russie</button>
+      <button class="tab" onclick="switchC(this,'chine')" data-i18n="chine">Chine</button>
+      <button class="tab" onclick="switchC(this,'russie')" data-i18n="russie">Russie</button>
       <button class="tab" onclick="switchC(this,'iran')">Iran</button>
     </div>
-    <div id="agrid">
-      <div class="loading"><span class="loading-dot"></span><span class="loading-dot"></span><span class="loading-dot"></span><br><br>Chargement des dernières actualités…</div>
-    </div>
+    <div id="agrid"><div class="loading">Chargement…</div></div>
   </div>
 </div>
 
 <!-- JURIDIQUE -->
 <div id="s-jur" style="display:none">
   <div class="wrap">
-    <div class="sec-head"><div class="sec-bar" style="background:var(--jur)"></div><h2 style="color:var(--jur-c)">Juridique</h2></div>
+    <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--jur)"></div><h2 style="color:var(--jur-c)" data-i18n="nav-jur">Juridique</h2></div></div>
     <div class="two">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)">France</span></div>
-        <div class="bcard" onclick="openM('jf1')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div><div class="bc-foot"><span class="bc-date">Droit du travail · 23 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('jf2')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Féminicide : peine plancher de 25 ans adoptée en commission des lois</div><div class="bc-foot"><span class="bc-date">Droit pénal · 19 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('jf3')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Loi immigration 2024 : bilan un an après l'entrée en vigueur</div><div class="bc-foot"><span class="bc-date">Droit des étrangers · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('jf4')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Droit à l'avortement inscrit dans la Constitution : un an après</div><div class="bc-foot"><span class="bc-date">Droits fondamentaux · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="france">France</span></div>
+        <div class="bcard" onclick="openM('jf1')">
+          <div class="bcard-img-ph">⚖️</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div><div class="bc-foot"><span class="bc-date">Droit du travail · 23 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
+        <div class="bcard" onclick="openM('jf2')">
+          <div class="bcard-img-ph">⚖️</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Féminicide : peine plancher de 25 ans adoptée en commission des lois</div><div class="bc-foot"><span class="bc-date">Droit pénal · 19 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
+        <div class="bcard" onclick="openM('jf3')">
+          <div class="bcard-img-ph">📋</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Loi immigration 2024 : bilan un an après l'entrée en vigueur</div><div class="bc-foot"><span class="bc-date">Droit des étrangers · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
+        <div class="bcard" onclick="openM('jf4')">
+          <div class="bcard-img-ph">🏛️</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Droit à l'avortement inscrit dans la Constitution : un an après</div><div class="bc-foot"><span class="bc-date">Droits fondamentaux · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
       </div>
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)">International</span></div>
-        <div class="bcard" onclick="openM('ji1')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">DSA européen : en vigueur pour toutes les plateformes — ce qui change</div><div class="bc-foot"><span class="bc-date">Droit numérique · UE · 21 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('ji2')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?</div><div class="bc-foot"><span class="bc-date">Droit international · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('ji3')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Mer de Chine méridionale : que dit le droit international ?</div><div class="bc-foot"><span class="bc-date">DIH · Asie · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('ji4')"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">AI Act européen : obligations concrètes pour les entreprises</div><div class="bc-foot"><span class="bc-date">Droit technologique · UE</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="international">International</span></div>
+        <div class="bcard" onclick="openM('ji1')">
+          <div class="bcard-img-ph">💻</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">DSA européen : en vigueur pour toutes les plateformes — ce qui change</div><div class="bc-foot"><span class="bc-date">Droit numérique · UE · 21 mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
+        <div class="bcard" onclick="openM('ji2')">
+          <div class="bcard-img-ph">🌍</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?</div><div class="bc-foot"><span class="bc-date">Droit international · Mai 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
+        <div class="bcard" onclick="openM('ji3')">
+          <div class="bcard-img-ph">🚢</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">Mer de Chine méridionale : que dit le droit international ?</div><div class="bc-foot"><span class="bc-date">DIH · Asie · Avril 2026</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
+        <div class="bcard" onclick="openM('ji4')">
+          <div class="bcard-img-ph">🤖</div>
+          <div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title">AI Act européen : obligations concrètes pour les entreprises</div><div class="bc-foot"><span class="bc-date">Droit technologique · UE</span><span class="bc-cta">Lire</span></div></div></div>
+        </div>
       </div>
     </div>
   </div>
@@ -291,7 +360,7 @@ footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;backgrou
 <!-- HISTOIRE -->
 <div id="s-hist" style="display:none">
   <div class="wrap">
-    <div class="sec-head"><div class="sec-bar" style="background:var(--hist)"></div><h2 style="color:var(--hist-c)">Histoire</h2></div>
+    <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--hist)"></div><h2 style="color:var(--hist-c)" data-i18n="nav-hist">Histoire</h2></div></div>
     <div class="htabs">
       <button class="htab on" onclick="switchH(this,'fr')">France & Europe · 1789–1914</button>
       <button class="htab" onclick="switchH(this,'us')">États-Unis · 1776–1917</button>
@@ -299,24 +368,25 @@ footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;backgrou
     <div id="hfr">
       <div class="block">
         <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)">France & Europe · 1789–1914</span></div>
-        <div class="bcard" onclick="openM('hf1')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Révolution française (1789–1799) — causes, phases et héritage</div><div class="bc-foot"><span class="bc-date">France · 1789</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('hf2')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">Napoléon Bonaparte : de consul à empereur — l'Europe recomposée</div><div class="bc-foot"><span class="bc-date">France · Europe · 1799–1815</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('hf3')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Commune de Paris (1871) — 72 jours qui ont changé l'histoire</div><div class="bc-foot"><span class="bc-date">France · 1871</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('hf4')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État</div><div class="bc-foot"><span class="bc-date">France · 1894–1906</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hf1')"><div class="bcard-img-ph">🏰</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Révolution française (1789–1799) — causes, phases et héritage</div><div class="bc-foot"><span class="bc-date">France · 1789</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openM('hf2')"><div class="bcard-img-ph">👑</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">Napoléon Bonaparte : de consul à empereur — l'Europe recomposée</div><div class="bc-foot"><span class="bc-date">France · Europe · 1799–1815</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openM('hf3')"><div class="bcard-img-ph">🔴</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Commune de Paris (1871) — 72 jours qui ont changé l'histoire</div><div class="bc-foot"><span class="bc-date">France · 1871</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openM('hf4')"><div class="bcard-img-ph">📜</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État</div><div class="bc-foot"><span class="bc-date">France · 1894–1906</span><span class="bc-cta">Lire</span></div></div></div></div>
       </div>
     </div>
     <div id="hus" style="display:none">
       <div class="block">
         <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)">États-Unis · 1776–1917</span></div>
-        <div class="bcard" onclick="openM('hu1')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Déclaration d'Indépendance (1776) — naissance d'une nation</div><div class="bc-foot"><span class="bc-date">États-Unis · 1776</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('hu2')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div><div class="bc-foot"><span class="bc-date">États-Unis · 1861–1865</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('hu3')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe</div><div class="bc-foot"><span class="bc-date">États-Unis · XIXe siècle</span><span class="bc-cta">Lire</span></div></div></div>
-        <div class="bcard" onclick="openM('hu4')"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'entrée des États-Unis dans la Première Guerre mondiale (1917)</div><div class="bc-foot"><span class="bc-date">États-Unis · 1917</span><span class="bc-cta">Lire</span></div></div></div>
+        <div class="bcard" onclick="openM('hu1')"><div class="bcard-img-ph">🦅</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Déclaration d'Indépendance (1776) — naissance d'une nation</div><div class="bc-foot"><span class="bc-date">États-Unis · 1776</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openM('hu2')"><div class="bcard-img-ph">⚔️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div><div class="bc-foot"><span class="bc-date">États-Unis · 1861–1865</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openM('hu3')"><div class="bcard-img-ph">🌄</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe</div><div class="bc-foot"><span class="bc-date">États-Unis · XIXe siècle</span><span class="bc-cta">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openM('hu4')"><div class="bcard-img-ph">🪖</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title">L'entrée des États-Unis dans la Première Guerre mondiale (1917)</div><div class="bc-foot"><span class="bc-date">États-Unis · 1917</span><span class="bc-cta">Lire</span></div></div></div></div>
       </div>
     </div>
   </div>
 </div>
 
+<!-- MODAL -->
 <div class="modal-bg" id="modal" onclick="closeMOut(event)">
   <div class="modal">
     <button class="modal-x" onclick="closeM()">✕</button>
@@ -331,172 +401,183 @@ footer{border-top:1px solid var(--faint);padding:2rem;text-align:center;backgrou
 </footer>
 
 <script>
-// ===== DONNÉES STATIQUES (Juridique + Histoire) =====
-const STATIC = {
-jf1:{tag:'Droit du travail · France',title:"Réforme des retraites : le Conseil d'État rejette le recours",date:'23 mai 2026',body:`<p>Le Conseil d'État a rejeté le recours en annulation des syndicats (CGT, CFDT, FO, CFE-CGC) contre le décret d'application de la réforme des retraites de 2023. Le recours au 49.3 a été jugé constitutionnellement régulier.</p><h4>Ce que ça signifie concrètement</h4><p>La réforme s'applique pleinement : départ à 64 ans pour les personnes nées à partir du 1er janvier 1968, durée de cotisation portée à 43 annuités (172 trimestres) d'ici 2027. Les syndicats envisagent un recours devant la Cour européenne des droits de l'homme.</p>`,market:null},
-jf2:{tag:'Droit pénal · France',title:"Féminicide : peine plancher de 25 ans en commission",date:'19 mai 2026',body:`<p>La commission des lois a adopté une proposition transpartisane prévoyant une peine plancher de 25 ans de réclusion criminelle pour féminicide, l'inéligibilité définitive et le retrait automatique de l'autorité parentale.</p><h4>Le contexte</h4><p>118 femmes ont été tuées par leur partenaire ou ex-partenaire en 2024. 80 % des féminicides sont commis par des hommes sans casier judiciaire préalable pour violence conjugale. Le texte doit encore passer en séance plénière puis au Sénat.</p>`,market:null},
-jf3:{tag:'Droit des étrangers · France',title:"Loi immigration 2024 : bilan un an après",date:'Mai 2026',body:`<p>Mesures principales : délai de regroupement familial porté à 24 mois, conditionnement de l'aide médicale d'État, rétablissement du délit de séjour irrégulier, carte de séjour pour les métiers en tension.</p><h4>Résultats mitigés</h4><p>Les OQTF ont augmenté de 18 % en 2025, mais le taux d'exécution reste inférieur à 10 % faute de laissez-passer consulaires. La gauche dénonce une loi qui précarise les étrangers en situation régulière ; la droite estime qu'elle ne va pas assez loin.</p>`,market:null},
-jf4:{tag:'Droits fondamentaux · France',title:"L'IVG dans la Constitution française : un an après",date:'Avril 2026',body:`<p>La France est devenue le 4 mars 2024 le premier pays au monde à inscrire le droit à l'IVG dans sa Constitution. Le principe est protégé contre toute remise en cause par une loi ordinaire, mais les modalités (délai à 14 semaines, remboursement) restent dans la loi et peuvent être modifiées par une majorité parlementaire.</p>`,market:null},
-ji1:{tag:'Droit numérique · UE · DSA',title:"Le DSA : ce que la loi européenne sur les services numériques change",date:'21 mai 2026',body:`<p>Le Digital Services Act s'applique désormais à toutes les plateformes opérant dans l'UE. Interdictions : publicité ciblée sur données sensibles (religion, santé, orientation sexuelle), ciblage des mineurs, dark patterns. Obligations : transparence algorithmique, signalement des contenus illicites, rapport annuel de transparence.</p><h4>Les sanctions</h4><p>Jusqu'à 6 % du chiffre d'affaires mondial annuel pour les violations. En cas de récidive grave, interdiction temporaire d'opérer dans l'UE. La Commission européenne peut directement sanctionner les très grandes plateformes.</p>`,market:null},
-ji2:{tag:'Droit international · CPI · Russie',title:"Mandat d'arrêt contre Poutine : trois ans après, où en est-on ?",date:'Mai 2026',body:`<p>Le 17 mars 2023, la CPI a émis un mandat d'arrêt contre Vladimir Poutine pour déportation illégale d'enfants ukrainiens. Trois ans après, le mandat reste inapplicable directement : la CPI dépend des États membres pour arrêter et transférer les suspects.</p><h4>Les conséquences pratiques</h4><p>Poutine ne peut plus se rendre dans les 124 pays membres de la CPI sans risquer d'être arrêté. Son espace diplomatique est durablement réduit. Ce mandat envoie un signal politique fort même s'il reste inapplicable à court terme.</p>`,market:null},
-ji3:{tag:'Droit international · Mer de Chine · CNUDM',title:"Mer de Chine méridionale : la ligne des neuf traits face au droit international",date:'Avril 2026',body:`<p>La Chine revendique 90 % de la mer de Chine méridionale via la ligne des neuf traits. En 2016, un tribunal arbitral (CNUDM) a statué que ces revendications n'ont aucune base légale en droit international. La Chine refuse de reconnaître cette sentence.</p><h4>Pourquoi ça concerne l'Europe</h4><p>30 % du commerce maritime mondial passe par cette mer. La France, puissance Indo-Pacifique grâce à ses territoires d'outre-mer, envoie régulièrement des navires pour affirmer la liberté de navigation.</p>`,market:null},
-ji4:{tag:'Droit technologique · UE · Intelligence artificielle',title:"AI Act européen : obligations concrètes pour les entreprises",date:'2025–2026',body:`<p>Le règlement européen sur l'IA classe les systèmes selon leur risque. Risque inacceptable (interdit) : notation sociale, manipulation subliminale. Risque élevé (très encadré) : IA dans le recrutement, crédit, justice, médecine. Risque limité : chatbots doivent se signaler comme IA. Sanctions : jusqu'à 35 M€ ou 7 % du CA mondial.</p>`,market:null},
-hf1:{tag:'Histoire · France · 1789',title:"La Révolution française (1789–1799) — tout comprendre",date:'Article de fond · Lycée / Université',body:`<p>La Révolution abolit l'Ancien Régime, proclame les droits de l'homme et transforme profondément la France et l'Europe.</p><h4>Les causes</h4><p>Économiques : famine de 1788–1789, banqueroute royale. Sociales : le Tiers-État (97 % de la population) supporte l'essentiel des impôts. Intellectuelles : les Lumières (Voltaire, Rousseau, Montesquieu) diffusent liberté, égalité et souveraineté populaire.</p><h4>Les grandes phases</h4><p>1789–1792 : Monarchie constitutionnelle — Prise de la Bastille (14 juillet), Déclaration des droits (26 août). 1792–1794 : République et Terreur — Louis XVI guillotiné (21 janvier 1793), 17 000 exécutions officielles. 1795–1799 : Directoire puis Consulat — coup d'État du 18 brumaire, Bonaparte au pouvoir.</p><h4>L'héritage</h4><p>Souveraineté nationale, séparation des pouvoirs, abolition de la féodalité. La devise Liberté, Égalité, Fraternité reste celle de la République française.</p>`,market:null},
-hf2:{tag:'Histoire · France · Empire · Napoléon',title:"Napoléon Bonaparte : de consul à empereur",date:'Article de fond · 1799–1815',body:`<p>Consul en 1799, Empereur en 1804. Il modernise la France : Code civil (1804), Banque de France, Légion d'honneur, lycées, préfets. Victoires : Austerlitz (1805), Iéna (1806). Défaite en Russie (1812), Waterloo (1815).</p><h4>L'héritage</h4><p>Le Code civil, adopté par une trentaine de pays, reste la base du droit civil français. Le système préfectoral structure encore l'administration. En propageant les idées révolutionnaires, Napoléon a semé les graines du nationalisme européen.</p>`,market:null},
-hf3:{tag:'Histoire · France · Commune de Paris',title:"La Commune de Paris (1871) — 72 jours qui ont changé l'histoire",date:'Article de fond · 18 mars – 28 mai 1871',body:`<p>Après la défaite face à la Prusse et une paix humiliante, les Parisiens refusent de rendre les canons. La Commune (élue le 26 mars) instaure : suppression du loyer pendant le siège, enseignement laïc gratuit, gestion des entreprises abandonnées par les ouvriers.</p><h4>La Semaine sanglante (21–28 mai 1871)</h4><p>L'armée versaillaise entre dans Paris. Entre 10 000 et 30 000 Communards sont tués, 40 000 arrêtés, 4 000 déportés en Nouvelle-Calédonie. Référence fondatrice de la gauche mondiale, analysée par Karl Marx dans La Guerre civile en France.</p>`,market:null},
-hf4:{tag:'Histoire · France · Affaire Dreyfus',title:"L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État",date:'Article de fond',body:`<p>1894 : le capitaine Dreyfus, officier juif alsacien, est condamné à tort et déporté à vie sur l'Île du Diable. Dès 1896, le lieutenant-colonel Picquart découvre le vrai traître mais l'armée étouffe l'affaire.</p><h4>J'Accuse !</h4><p>13 janvier 1898 : Zola publie J'Accuse ! dans L'Aurore. Il est condamné pour diffamation et s'exile en Angleterre. 1906 : Dreyfus réhabilité. L'affaire accélère la séparation de l'Église et de l'État (1905) et inspire Herzl à fonder le mouvement sioniste.</p>`,market:null},
-hu1:{tag:'Histoire · États-Unis · Fondation',title:"La Déclaration d'Indépendance (1776) — naissance d'une nation",date:'Article de fond · 4 juillet 1776',body:`<p>No taxation without representation. La Déclaration affirme que tous les hommes sont créés égaux, dotés de droits inaliénables à la vie, la liberté et la recherche du bonheur. Note essentielle : elle exclut de fait les esclaves et les femmes. La France joue un rôle décisif (Lafayette, Rochambeau, Yorktown 1781). La Constitution (1787) et le Bill of Rights (1791) fondent le système américain.</p>`,market:null},
-hu2:{tag:'Histoire · États-Unis · Guerre de Sécession',title:"La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction",date:'Article de fond',body:`<p>620 000 à 750 000 morts. La cause principale est l'esclavage. L'élection de Lincoln en 1860 déclenche la sécession de 11 États du Sud. La Proclamation d'émancipation (1er janvier 1863) donne une dimension morale à la guerre. Victoire de Gettysburg (juillet 1863), reddition de Lee à Appomattox (9 avril 1865). Lincoln assassiné 5 jours plus tard.</p><h4>Les 3 amendements et leurs limites</h4><p>13e (abolition de l'esclavage), 14e (citoyenneté), 15e (droit de vote sans discrimination). Mais le retrait des troupes en 1877 permet les lois Jim Crow jusqu'aux années 1960.</p>`,market:null},
-hu3:{tag:'Histoire · États-Unis · Expansion · Frontier',title:"L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe",date:'Article de fond',body:`<p>Entre 1803 et 1890, les États-Unis multiplient leur superficie par cinq. La Destinée manifeste (1845) légitime l'expansion. Population amérindienne : de 10–15 millions en 1492 à moins de 250 000 fin XIXe siècle.</p><h4>Le génocide amérindien</h4><p>Causes : épidémies, massacres (Sand Creek 1864, Wounded Knee 1890), destruction des bisons (de 30 millions à moins de 1 000), Piste des larmes (1838). En 1890, le Bureau du recensement déclare la Frontière fermée.</p>`,market:null},
-hu4:{tag:'Histoire · États-Unis · Première Guerre mondiale',title:"L'entrée des États-Unis dans la Première Guerre mondiale (1917)",date:'Article de fond · 1917',body:`<p>Deux déclencheurs : la guerre sous-marine à outrance (l'Allemagne coule tout navire, y compris américains) et le télégramme Zimmermann (l'Allemagne propose au Mexique de reconquérir le Texas et l'Arizona). Le 6 avril 1917 : déclaration de guerre. 2 millions de soldats américains. Victoire du 11 novembre 1918. Le Sénat refuse de ratifier Versailles.</p>`,market:null}
+// ===== TRADUCTIONS =====
+const I18N = {
+  fr:{eyebrow:"Anti-désinformation · Éducation · Analyse",title:"L'information <em>vérifiée</em>,<br>analysée pour vous.",sub:"Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.",alaune:"À la une","stat-art":"Articles d'actu","stat-pays":"Pays couverts","stat-freq":"Mise à jour","nav-actu":"Actualité & marchés","nav-jur":"Juridique","nav-hist":"Histoire",monde:"Monde",france:"France",chine:"Chine",russie:"Russie",international:"International",disclaimer:"Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.","desc-actu":"Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.","desc-jur":"Droit français et international — lois, jurisprudences, réglementations expliquées.","desc-hist":"France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.",mkt_title:"Impact potentiel sur les marchés",mkt_disc:"Indicatif uniquement — pas un conseil en investissement",mkt_note:"ⓘ Ces informations ne constituent pas un conseil en investissement. Elles indiquent des tendances susceptibles d'impacter les marchés. Veritass décline toute responsabilité.",lire:"Lire",source:"Source",search_ph:"Rechercher un article, une loi, un événement…",loading:"Chargement…"},
+  en:{eyebrow:"Anti-disinformation · Education · Analysis",title:"<em>Verified</em> information,<br>analyzed for you.",sub:"News & markets, French and international law, history — summarized, sourced, updated every hour.",alaune:"Top stories","stat-art":"News articles","stat-pays":"Countries covered","stat-freq":"Update frequency","nav-actu":"News & markets","nav-jur":"Law","nav-hist":"History",monde:"World",france:"France",chine:"China",russie:"Russia",international:"International",disclaimer:"Market impact information is provided for informational purposes only. It indicates trends that may impact markets — this is not investment advice.","desc-actu":"World, France, USA, China, Russia, Iran — with potential market impact.","desc-jur":"French and international law — legislation, case law, regulations explained.","desc-hist":"France & Europe 1789–1914, United States 1776–1917 — in-depth articles.",mkt_title:"Potential market impact",mkt_disc:"Indicative only — not investment advice",mkt_note:"ⓘ This information does not constitute investment advice. It indicates trends that may impact financial markets. Veritass disclaims any liability.",lire:"Read",source:"Source",search_ph:"Search for an article, a law, a historical event…",loading:"Loading…"},
+  zh:{eyebrow:"反虚假信息 · 教育 · 分析",title:"<em>经过核实</em>的资讯，<br>为您深度解析。",sub:"新闻与市场、法国及国际法律、历史——摘要、溯源、每小时更新。",alaune:"头条新闻","stat-art":"新闻文章","stat-pays":"覆盖国家","stat-freq":"更新频率","nav-actu":"新闻与市场","nav-jur":"法律","nav-hist":"历史",monde:"世界",france:"法国",chine:"中国",russie:"俄罗斯",international:"国际",disclaimer:"市场影响信息仅供参考。它表明可能影响市场的趋势——这不是投资建议。","desc-actu":"世界、法国、美国、中国、俄罗斯、伊朗——附带潜在市场影响。","desc-jur":"法国及国际法律——法规、判例、法规解释。","desc-hist":"法国与欧洲1789–1914年，美国1776–1917年——深度文章。",mkt_title:"潜在市场影响",mkt_disc:"仅供参考——非投资建议",mkt_note:"ⓘ 本信息不构成投资建议。它表明可能影响金融市场的趋势。Veritass对此不承担任何责任。",lire:"阅读",source:"来源",search_ph:"搜索文章、法律、历史事件……",loading:"加载中…"}
 };
 
-// ===== DONNÉES DYNAMIQUES (chargées depuis news_data.json) =====
+let LANG = 'fr';
+function setLang(l) {
+  LANG = l;
+  document.querySelectorAll('.lang-btn').forEach(b => b.classList.toggle('on', b.textContent.toLowerCase().includes(l) || (l==='zh'&&b.textContent==='中文')));
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const k = el.getAttribute('data-i18n');
+    if (I18N[l][k]) el.innerHTML = I18N[l][k];
+  });
+  document.getElementById('si').placeholder = I18N[l].search_ph;
+  renderGrid(currentCountry);
+  renderHomeLatest();
+}
+
+// ===== DONNÉES STATIQUES =====
+const STATIC = {
+jf1:{tag:'Droit du travail · France',title:"Réforme des retraites : le Conseil d'État rejette le recours",date:'23 mai 2026',img:'',body:`<p>Le Conseil d'État a rejeté le recours en annulation des syndicats (CGT, CFDT, FO, CFE-CGC) contre le décret d'application de la réforme des retraites de 2023. Le recours au 49.3 a été jugé constitutionnellement régulier.</p><h4>Ce que ça signifie concrètement</h4><p>La réforme s'applique pleinement : départ à 64 ans pour les personnes nées à partir du 1er janvier 1968, durée de cotisation portée à 43 annuités (172 trimestres) d'ici 2027. Les syndicats envisagent un recours devant la Cour européenne des droits de l'homme.</p>`,market:null},
+jf2:{tag:'Droit pénal · France',title:"Féminicide : peine plancher de 25 ans en commission",date:'19 mai 2026',img:'',body:`<p>La commission des lois a adopté une proposition transpartisane prévoyant une peine plancher de 25 ans de réclusion criminelle pour féminicide, l'inéligibilité définitive et le retrait automatique de l'autorité parentale.</p><h4>Le contexte statistique</h4><p>118 femmes ont été tuées par leur partenaire ou ex-partenaire en 2024. 80 % des féminicides sont commis par des hommes sans casier judiciaire préalable pour violence conjugale. Le texte doit encore passer en séance plénière puis au Sénat.</p>`,market:null},
+jf3:{tag:'Droit des étrangers · France',title:"Loi immigration 2024 : bilan un an après",date:'Mai 2026',img:'',body:`<p>Mesures principales : délai de regroupement familial porté à 24 mois, conditionnement de l'aide médicale d'État, rétablissement du délit de séjour irrégulier, carte de séjour pour les métiers en tension.</p><h4>Résultats mitigés</h4><p>Les OQTF ont augmenté de 18 % en 2025, mais le taux d'exécution reste inférieur à 10 % faute de laissez-passer consulaires. La gauche dénonce une loi qui précarise les étrangers en situation régulière ; la droite estime qu'elle ne va pas assez loin.</p>`,market:null},
+jf4:{tag:'Droits fondamentaux · France',title:"L'IVG dans la Constitution française : un an après",date:'Avril 2026',img:'',body:`<p>La France est devenue le 4 mars 2024 le premier pays au monde à inscrire le droit à l'IVG dans sa Constitution. Le principe est protégé contre toute remise en cause par une loi ordinaire, mais les modalités (délai à 14 semaines, remboursement) restent dans la loi et peuvent être modifiées par une majorité parlementaire.</p>`,market:null},
+ji1:{tag:'Droit numérique · UE · DSA',title:"Le DSA : ce que la loi européenne sur les services numériques change",date:'21 mai 2026',img:'',body:`<p>Le Digital Services Act s'applique désormais à toutes les plateformes opérant dans l'UE. Interdictions : publicité ciblée sur données sensibles (religion, santé, orientation sexuelle), ciblage des mineurs, dark patterns.</p><h4>Les sanctions</h4><p>Jusqu'à 6 % du chiffre d'affaires mondial annuel pour les violations. En cas de récidive grave, interdiction temporaire d'opérer dans l'UE. La Commission européenne peut directement sanctionner les très grandes plateformes.</p>`,market:null},
+ji2:{tag:'Droit international · CPI · Russie',title:"Mandat d'arrêt contre Poutine : trois ans après, où en est-on ?",date:'Mai 2026',img:'',body:`<p>Le 17 mars 2023, la CPI a émis un mandat d'arrêt contre Vladimir Poutine pour déportation illégale d'enfants ukrainiens. Trois ans après, le mandat reste inapplicable directement : la CPI dépend des États membres pour arrêter et transférer les suspects.</p><h4>Les conséquences pratiques</h4><p>Poutine ne peut plus se rendre dans les 124 pays membres de la CPI sans risquer d'être arrêté. Son espace diplomatique est durablement réduit. Ce mandat envoie un signal politique fort même s'il reste inapplicable à court terme.</p>`,market:null},
+ji3:{tag:'Droit international · Mer de Chine · CNUDM',title:"Mer de Chine méridionale : la ligne des neuf traits face au droit international",date:'Avril 2026',img:'',body:`<p>La Chine revendique 90 % de la mer de Chine méridionale via la ligne des neuf traits. En 2016, un tribunal arbitral (CNUDM) a statué que ces revendications n'ont aucune base légale en droit international. La Chine refuse de reconnaître cette sentence.</p><h4>Pourquoi ça concerne l'Europe</h4><p>30 % du commerce maritime mondial passe par cette mer. La France, puissance Indo-Pacifique grâce à ses territoires d'outre-mer, envoie régulièrement des navires pour affirmer la liberté de navigation.</p>`,market:null},
+ji4:{tag:'Droit technologique · UE · IA',title:"AI Act européen : obligations concrètes pour les entreprises",date:'2025–2026',img:'',body:`<p>Le règlement européen sur l'IA classe les systèmes selon leur risque. Risque inacceptable (interdit) : notation sociale, manipulation subliminale. Risque élevé (très encadré) : IA dans le recrutement, crédit, justice, médecine. Sanctions : jusqu'à 35 M€ ou 7 % du CA mondial.</p>`,market:null},
+hf1:{tag:'Histoire · France · 1789',title:"La Révolution française (1789–1799) — tout comprendre",date:'Article de fond · Lycée / Université',img:'',body:`<p>La Révolution abolit l'Ancien Régime, proclame les droits de l'homme et transforme profondément la France et l'Europe.</p><h4>Les causes</h4><p>Économiques : famine de 1788–1789, banqueroute royale. Sociales : le Tiers-État (97 % de la population) supporte l'essentiel des impôts. Intellectuelles : les Lumières diffusent liberté, égalité et souveraineté populaire.</p><h4>Les grandes phases</h4><p>1789–1792 : Monarchie constitutionnelle — Prise de la Bastille (14 juillet), Déclaration des droits (26 août). 1792–1794 : République et Terreur — Louis XVI guillotiné (21 janvier 1793), 17 000 exécutions officielles. 1795–1799 : Directoire puis Consulat — coup d'État du 18 brumaire, Bonaparte au pouvoir.</p><h4>L'héritage</h4><p>Souveraineté nationale, séparation des pouvoirs, abolition de la féodalité. La devise Liberté, Égalité, Fraternité reste celle de la République française.</p>`,market:null},
+hf2:{tag:'Histoire · France · Empire · Napoléon',title:"Napoléon Bonaparte : de consul à empereur",date:'Article de fond · 1799–1815',img:'',body:`<p>Consul en 1799, Empereur en 1804. Il modernise la France : Code civil, Banque de France, Légion d'honneur, lycées, préfets. Victoires : Austerlitz (1805), Iéna (1806). Défaite en Russie (1812), Waterloo (1815).</p><h4>L'héritage</h4><p>Le Code civil, adopté par une trentaine de pays, reste la base du droit civil français. Le système préfectoral structure encore l'administration. En propageant les idées révolutionnaires, Napoléon a semé les graines du nationalisme européen.</p>`,market:null},
+hf3:{tag:'Histoire · France · Commune de Paris',title:"La Commune de Paris (1871) — 72 jours qui ont changé l'histoire",date:'Article de fond · 18 mars – 28 mai 1871',img:'',body:`<p>Après la défaite face à la Prusse et une paix humiliante, les Parisiens refusent de rendre les canons. La Commune instaure : suppression du loyer pendant le siège, enseignement laïc gratuit, gestion des entreprises abandonnées par les ouvriers.</p><h4>La Semaine sanglante (21–28 mai 1871)</h4><p>Entre 10 000 et 30 000 Communards sont tués, 40 000 arrêtés, 4 000 déportés en Nouvelle-Calédonie. Référence fondatrice de la gauche mondiale, analysée par Karl Marx dans La Guerre civile en France.</p>`,market:null},
+hf4:{tag:'Histoire · France · Affaire Dreyfus',title:"L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État",date:'Article de fond',img:'',body:`<p>1894 : le capitaine Dreyfus, officier juif alsacien, est condamné à tort et déporté à vie sur l'Île du Diable. Dès 1896, le lieutenant-colonel Picquart découvre le vrai traître mais l'armée étouffe l'affaire.</p><h4>J'Accuse !</h4><p>13 janvier 1898 : Zola publie J'Accuse ! dans L'Aurore. Condamné pour diffamation, il s'exile en Angleterre. 1906 : Dreyfus réhabilité. L'affaire accélère la séparation de l'Église et de l'État (1905) et inspire Herzl à fonder le mouvement sioniste.</p>`,market:null},
+hu1:{tag:'Histoire · États-Unis · Fondation',title:"La Déclaration d'Indépendance (1776) — naissance d'une nation",date:'Article de fond · 4 juillet 1776',img:'',body:`<p>No taxation without representation. La Déclaration affirme que tous les hommes sont créés égaux, dotés de droits à la vie, la liberté et la recherche du bonheur. Note : elle exclut de fait les esclaves et les femmes. La France joue un rôle décisif (Lafayette, Rochambeau, Yorktown 1781). La Constitution (1787) et le Bill of Rights (1791) fondent le système américain.</p>`,market:null},
+hu2:{tag:'Histoire · États-Unis · Guerre de Sécession',title:"La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction",date:'Article de fond',img:'',body:`<p>620 000 à 750 000 morts. La cause principale est l'esclavage. La Proclamation d'émancipation (1er janvier 1863) donne une dimension morale à la guerre. Reddition de Lee à Appomattox (9 avril 1865). Lincoln assassiné 5 jours plus tard.</p><h4>Les 3 amendements et leurs limites</h4><p>13e (abolition de l'esclavage), 14e (citoyenneté), 15e (droit de vote sans discrimination). Mais le retrait des troupes en 1877 permet les lois Jim Crow jusqu'aux années 1960.</p>`,market:null},
+hu3:{tag:'Histoire · États-Unis · Expansion',title:"L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe",date:'Article de fond',img:'',body:`<p>Entre 1803 et 1890, les États-Unis multiplient leur superficie par cinq. La Destinée manifeste (1845) légitime l'expansion. Population amérindienne : de 10–15 millions en 1492 à moins de 250 000 fin XIXe siècle.</p><h4>Le génocide amérindien</h4><p>Épidémies, massacres (Sand Creek 1864, Wounded Knee 1890), destruction des bisons (de 30 millions à moins de 1 000), Piste des larmes (1838). En 1890, la Frontière est déclarée fermée.</p>`,market:null},
+hu4:{tag:'Histoire · États-Unis · 1917',title:"L'entrée des États-Unis dans la Première Guerre mondiale",date:'Article de fond · 1917',img:'',body:`<p>Deux déclencheurs : la guerre sous-marine à outrance et le télégramme Zimmermann (l'Allemagne propose au Mexique de reconquérir le Texas et l'Arizona). Le 6 avril 1917 : déclaration de guerre. 2 millions de soldats. Victoire du 11 novembre 1918. Le Sénat refuse de ratifier Versailles.</p>`,market:null}
+};
+
 let NEWS = {};
 let currentCountry = 'monde';
 
+// ===== CHARGEMENT DES NEWS =====
 async function loadNews() {
   try {
     const r = await fetch('news_data.json?t=' + Date.now());
-    if (!r.ok) throw new Error('Pas de données');
+    if (!r.ok) throw new Error('no data');
     const data = await r.json();
     NEWS = data.articles || {};
 
-    // Mise à jour date nav
     const d = new Date();
-    const opts = {day:'2-digit', month:'long', year:'numeric'};
-    document.getElementById('nav-date').textContent = d.toLocaleDateString('fr-FR', opts).toUpperCase();
+    document.getElementById('nav-date').textContent = d.toLocaleDateString('fr-FR',{day:'2-digit',month:'short'}).toUpperCase();
 
-    // Mise à jour footer
     if (data.last_updated) {
       document.getElementById('last-updated').textContent = 'Dernière mise à jour : ' + data.last_updated;
+      document.getElementById('last-update-label').textContent = data.last_updated;
     }
 
-    // Compte articles
     let total = 0;
     Object.values(NEWS).forEach(arr => total += arr.length);
     document.getElementById('stat-total').textContent = total;
-    document.getElementById('actu-count').textContent = 'Mis à jour : ' + (data.last_updated || 'récemment');
 
-    // Afficher la grille actuelle
     renderGrid(currentCountry);
-
-    // Afficher les dernières actus sur l'accueil
     renderHomeLatest();
-
   } catch(e) {
-    console.log('news_data.json non disponible — affichage du message par défaut');
-    document.getElementById('nav-date').textContent = new Date().toLocaleDateString('fr-FR',{day:'2-digit',month:'long',year:'numeric'}).toUpperCase();
+    document.getElementById('nav-date').textContent = new Date().toLocaleDateString('fr-FR',{day:'2-digit',month:'short'}).toUpperCase();
+    document.getElementById('agrid').innerHTML = `<div class="loading">Les actualités se chargent automatiquement toutes les heures.<br><small style="opacity:0.5">Première mise à jour en cours…</small></div>`;
+    document.getElementById('home-latest-grid').innerHTML = `<div class="loading" style="grid-column:1/-1">Actualités disponibles après la première mise à jour automatique.</div>`;
     document.getElementById('stat-total').textContent = '—';
-    document.getElementById('actu-count').textContent = 'Mise à jour toutes les 5h';
-    document.getElementById('agrid').innerHTML = `<div style="text-align:center;padding:3rem;color:var(--muted);font-size:13px">Les actualités se chargent lors de la prochaine mise à jour automatique (toutes les 5h).<br><br>En attendant, les données de démo sont affichées.</div>`;
-    document.getElementById('home-latest-grid').innerHTML = `<div style="text-align:center;padding:2rem;color:var(--muted);font-size:13px;grid-column:1/-1">Actualités disponibles après la première mise à jour automatique.</div>`;
   }
 }
 
+// ===== ACCUEIL LATEST =====
 function renderHomeLatest() {
   const grid = document.getElementById('home-latest-grid');
   const articles = [];
   ['monde','france','usa','russie','iran','chine'].forEach(pays => {
     if (NEWS[pays] && NEWS[pays][0]) articles.push({...NEWS[pays][0], pays});
   });
-  if (!articles.length) { grid.innerHTML = `<div style="color:var(--muted);font-size:13px;grid-column:1/-1;text-align:center;padding:2rem">Actualités disponibles après la première mise à jour automatique.</div>`; return; }
+  if (!articles.length) return;
   grid.innerHTML = articles.slice(0,6).map(a => `
     <div class="lcard" onclick="openDynM('${a.pays}','${a.id}')">
-      <div class="lc-acc" style="background:var(--actu)"></div>
-      <div class="lc-body">
+      ${a.image ? `<img class="lcard-img" src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : `<div class="lcard-img-placeholder">📰</div>`}
+      <div class="lcard-body">
         <div class="lc-cat">${a.categorie || a.pays}</div>
         <div class="lc-title">${a.titre}</div>
-        <div class="lc-foot"><span class="lc-time">${a.date}</span><span class="lc-cta">Lire</span></div>
+        <div class="lc-foot"><span class="lc-time">${a.date}</span><span class="lc-cta">${I18N[LANG].lire}</span></div>
       </div>
     </div>`).join('');
 }
 
+// ===== ACTU GRID =====
 function renderGrid(pays) {
   currentCountry = pays;
   const grid = document.getElementById('agrid');
   const articles = NEWS[pays];
-
   if (!articles || !articles.length) {
-    grid.innerHTML = `<div class="loading">Données en cours de chargement…<br><small style="opacity:0.5;font-size:11px">Les actus se mettent à jour toutes les 5h automatiquement</small></div>`;
+    grid.innerHTML = `<div class="loading">${I18N[LANG].loading}</div>`;
     return;
   }
-
   const feat = articles[0];
   const minis = articles.slice(1, 4);
-
   grid.innerHTML = `
-  <div class="actu-grid">
+  <div class="actu-wrap">
     <div class="feat" onclick="openDynM('${pays}','${feat.id}')">
-      <div class="clabel">${feat.categorie || pays}</div>
-      <div class="feat-title">${feat.titre}</div>
-      <div class="feat-body">${feat.resume}</div>
-      <div class="badges">${(feat.badges||[]).map(b=>`<span class="badge ${b.hausse?'bu':'bd'}">${b.label}</span>`).join('')}</div>
-      <div class="source-badge">📰 ${feat.source}</div>
-      <div class="hint">↗ Cliquer pour l'analyse complète</div>
+      ${feat.image ? `<img class="feat-img" src="${feat.image}" alt="" loading="lazy" onerror="this.classList.add('feat-img-ph');this.outerHTML='<div class=\\'feat-img-ph\\'>📰</div>'">` : `<div class="feat-img-ph">📰</div>`}
+      <div class="feat-content">
+        <div class="clabel">${feat.categorie || pays}</div>
+        <div class="feat-title">${feat.titre}</div>
+        <div class="feat-body">${feat.resume}</div>
+        <div class="badges">${(feat.badges||[]).map(b=>`<span class="badge ${b.hausse?'bu':'bd'}">${b.label}</span>`).join('')}</div>
+        <div class="hint">↗ ${I18N[LANG].lire}</div>
+      </div>
     </div>
     <div class="minis">
       ${minis.map(m=>`
         <div class="mini" onclick="openDynM('${pays}','${m.id}')">
-          <div class="clabel">${m.categorie || pays}</div>
-          <div class="mini-title">${m.titre}</div>
-          <div class="mini-foot">
-            <span class="mini-time">${m.date}</span>
-            <span class="mini-cta">Lire</span>
+          ${m.image ? `<img class="mini-img" src="${m.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : `<div class="mini-img-ph">📰</div>`}
+          <div class="mini-content">
+            <div class="clabel">${m.categorie || pays}</div>
+            <div class="mini-title">${m.titre}</div>
+            <div class="mini-foot"><span class="mini-time">${m.date}</span><span class="mini-cta">${I18N[LANG].lire}</span></div>
           </div>
         </div>`).join('')}
     </div>
   </div>`;
 }
 
+// ===== MODAL DYNAMIQUE =====
 function openDynM(pays, id) {
   const articles = NEWS[pays] || [];
   const a = articles.find(x => x.id === id);
   if (!a) return;
-
+  const t = I18N[LANG];
   let mkt = '';
   if (a.impact_marches && a.impact_marches.length) {
     mkt = `<div class="mmkt">
       <div class="mmkt-head">
-        <div class="mmkt-title">Impact potentiel sur les marchés</div>
-        <div class="mmkt-disc">Indicatif uniquement — pas un conseil en investissement</div>
+        <div class="mmkt-title">${t.mkt_title}</div>
+        <div class="mmkt-disc">${t.mkt_disc}</div>
       </div>
       ${a.impact_marches.map(m=>`<div class="mrow"><span>${m.secteur}</span><span class="${m.hausse?'mup':'mdn'}">${m.effet}</span></div>`).join('')}
-      <div class="mkt-note">ⓘ Ces informations ne constituent pas un conseil en investissement. Elles indiquent des tendances susceptibles d'impacter les marchés financiers. Veritass décline toute responsabilité quant aux décisions financières prises sur la base de ces contenus.</div>
+      <div class="mkt-note">${t.mkt_note}</div>
     </div>`;
   }
-
   document.getElementById('mbody').innerHTML = `
-    <div class="mtag">${a.categorie || pays}</div>
-    <div class="mtitle">${a.titre}</div>
-    <div class="mdate">${a.date} · Source : <a href="${a.url}" target="_blank" style="color:var(--actu-c)">${a.source}</a></div>
-    <div class="mbody"><p>${a.resume}</p>${a.analyse ? `<p>${a.analyse}</p>` : ''}</div>
-    ${mkt}`;
+    ${a.image ? `<img class="modal-hero-img" src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : `<div class="modal-hero-ph">📰</div>`}
+    <div class="modal-body">
+      <div class="mtag">${a.categorie || pays}</div>
+      <div class="mtitle">${a.titre}</div>
+      <div class="mdate">
+        <span>${a.date}</span>
+        <a class="msource-link" href="${a.url}" target="_blank" rel="noopener">📰 ${a.source} ↗</a>
+      </div>
+      <div class="mbody">
+        <p>${a.resume}</p>
+        ${a.analyse_detaillee ? `<h4>Analyse détaillée</h4><p>${a.analyse_detaillee}</p>` : ''}
+      </div>
+      ${mkt}
+    </div>`;
   document.getElementById('modal').classList.add('open');
   document.getElementById('modal').scrollTop = 0;
 }
 
-// ===== DONNÉES STATIQUES MODAL =====
+// ===== MODAL STATIQUE =====
 function openM(id) {
   const a = STATIC[id];
   if (!a) return;
-  let mkt = '';
-  if (a.market && a.market.length) {
-    mkt = `<div class="mmkt">
-      <div class="mmkt-head">
-        <div class="mmkt-title">Impact potentiel sur les marchés</div>
-        <div class="mmkt-disc">Indicatif uniquement — pas un conseil en investissement</div>
-      </div>
-      ${a.market.map(m=>`<div class="mrow"><span>${m.n}</span><span class="${m.d?'mdn':'mup'}">${m.e}</span></div>`).join('')}
-      <div class="mkt-note">ⓘ Ces informations ne constituent pas un conseil en investissement. Elles indiquent des tendances susceptibles d'impacter les marchés. Veritass décline toute responsabilité quant aux décisions financières prises sur la base de ces contenus.</div>
-    </div>`;
-  }
   document.getElementById('mbody').innerHTML = `
-    <div class="mtag">${a.tag}</div>
-    <div class="mtitle">${a.title}</div>
-    <div class="mdate">${a.date}</div>
-    <div class="mbody">${a.body}</div>
-    ${mkt}`;
+    <div class="modal-hero-ph" style="font-size:50px">${{jf1:'⚖️',jf2:'⚖️',jf3:'📋',jf4:'🏛️',ji1:'💻',ji2:'🌍',ji3:'🚢',ji4:'🤖',hf1:'🏰',hf2:'👑',hf3:'🔴',hf4:'📜',hu1:'🦅',hu2:'⚔️',hu3:'🌄',hu4:'🪖'}[id]||'📖'}</div>
+    <div class="modal-body">
+      <div class="mtag">${a.tag}</div>
+      <div class="mtitle">${a.title}</div>
+      <div class="mdate"><span>${a.date}</span></div>
+      <div class="mbody">${a.body}</div>
+    </div>`;
   document.getElementById('modal').classList.add('open');
   document.getElementById('modal').scrollTop = 0;
 }
@@ -504,67 +585,59 @@ function openM(id) {
 // ===== RECHERCHE =====
 function doSearch(q) {
   const d = document.getElementById('srdrop');
-  if (!q || q.length < 2) { d.style.display = 'none'; return; }
-
-  const staticResults = Object.entries(STATIC)
+  if (!q || q.length < 2) { d.style.display='none'; return; }
+  const staticR = Object.entries(STATIC)
     .filter(([id,a]) => a.title.toLowerCase().includes(q.toLowerCase()) || a.tag.toLowerCase().includes(q.toLowerCase()))
-    .map(([id,a]) => ({id, title: a.title, tag: a.tag, type:'static'}));
-
-  const dynResults = [];
-  Object.entries(NEWS).forEach(([pays, arts]) => {
+    .map(([id,a]) => ({id, title:a.title, tag:a.tag, type:'static'}));
+  const dynR = [];
+  Object.entries(NEWS).forEach(([pays,arts]) => {
     arts.forEach(a => {
       if (a.titre.toLowerCase().includes(q.toLowerCase()) || (a.categorie||'').toLowerCase().includes(q.toLowerCase())) {
-        dynResults.push({id: a.id, title: a.titre, tag: a.categorie || pays, pays, type:'dyn'});
+        dynR.push({id:a.id, title:a.titre, tag:a.categorie||pays, pays, type:'dyn'});
       }
     });
   });
-
-  const all = [...dynResults, ...staticResults].slice(0, 7);
-  if (!all.length) { d.style.display = 'none'; return; }
-
-  d.innerHTML = all.map(r => r.type === 'static'
+  const all = [...dynR, ...staticR].slice(0,7);
+  if (!all.length) { d.style.display='none'; return; }
+  d.innerHTML = all.map(r => r.type==='static'
     ? `<div class="sr-item" onclick="openM('${r.id}');clearS()"><div class="sr-title">${r.title}</div><div class="sr-cat">${r.tag}</div></div>`
     : `<div class="sr-item" onclick="openDynM('${r.pays}','${r.id}');clearS()"><div class="sr-title">${r.title}</div><div class="sr-cat">${r.tag}</div></div>`
   ).join('');
   d.style.display = 'block';
 }
-
-function clearS() {
-  document.getElementById('si').value = '';
-  document.getElementById('srdrop').style.display = 'none';
-}
+function clearS() { document.getElementById('si').value=''; document.getElementById('srdrop').style.display='none'; }
 
 // ===== NAVIGATION =====
 function showSec(s) {
+  // Cacher toutes les sections sauf celle cliquée
   ['home','actu','jur','hist'].forEach(x => {
     const el = document.getElementById('s-'+x);
-    if (el) el.style.display = x === s ? 'block' : 'none';
+    if(el) el.style.display = x===s ? 'block' : 'none';
     const nb = document.getElementById('nb-'+x);
-    if (nb) nb.classList.toggle('on', x === s);
+    if(nb) nb.classList.toggle('on', x===s);
   });
-  if (s === 'actu') renderGrid(currentCountry);
+  if(s==='actu') renderGrid(currentCountry);
+  window.scrollTo({top:0, behavior:'smooth'});
 }
-
-function switchC(btn, pays) {
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('on'));
+function switchC(btn,pays) {
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
   renderGrid(pays);
 }
-
-function switchH(btn, w) {
-  document.querySelectorAll('.htab').forEach(t => t.classList.remove('on'));
+function switchH(btn,w) {
+  document.querySelectorAll('.htab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
-  document.getElementById('hfr').style.display = w === 'fr' ? 'block' : 'none';
-  document.getElementById('hus').style.display = w === 'us' ? 'block' : 'none';
+  document.getElementById('hfr').style.display=w==='fr'?'block':'none';
+  document.getElementById('hus').style.display=w==='us'?'block':'none';
 }
-
 function closeM() { document.getElementById('modal').classList.remove('open'); }
-function closeMOut(e) { if (e.target === document.getElementById('modal')) closeM(); }
+function closeMOut(e) { if(e.target===document.getElementById('modal')) closeM(); }
 
 // ===== INIT =====
 loadNews();
-// Recharge les news toutes les 5 minutes côté client pour rester frais
-setInterval(loadNews, 5 * 60 * 1000);
+setInterval(loadNews, 60 * 1000);
+
+
 </script>
 </body>
 </html>
