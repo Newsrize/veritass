@@ -139,7 +139,7 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .mmkt-head{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:0.9rem;gap:1rem}
 .mmkt-title{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);flex-shrink:0}
 .mmkt-disc{font-size:10px;color:var(--muted);opacity:0.6;font-style:italic;text-align:right;line-height:1.4}
-.mrow{display:flex;justify-content:space-between;align-items:center;padding:0.42rem 0;border-bottom:1px solid var(--faint);font-size:13px}
+.mrow{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;padding:0.5rem 0;border-bottom:1px solid var(--faint);font-size:13px}
 .mrow:last-child{border-bottom:none}
 .mup{color:var(--hist-c);font-weight:500}
 .mdn{color:var(--jur-c);font-weight:500}
@@ -673,23 +673,36 @@ function openDyn(pays, id) {
   const t = T[LANG];
   const ph = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
 
-  // Impact marchés — toujours affiché
+  // Afficher d'abord en français (données de base)
+  showDynModal(a, pays, a.titre, a.resume, a.analyse_detaillee, a.impact_marches, t, ph);
+
+  // Si langue != fr, traduire via Gemini
+  if(LANG !== 'fr') {
+    translateContent(a, pays, t, ph);
+  }
+}
+
+function showDynModal(a, pays, titre, resume, analyse, impacts, t, ph) {
+  // Impact marchés
   let mkt = '';
-  if(a.impact_marches&&a.impact_marches.length) {
+  if(impacts && impacts.length) {
     mkt = `<div class="mmkt">
       <div class="mmkt-head">
         <div class="mmkt-title">${t['mkt-title']}</div>
         <div class="mmkt-disc">${t['mkt-disc']}</div>
       </div>
-      ${a.impact_marches.map(m=>`<div class="mrow"><span>${m.secteur}</span><span class="${m.hausse?'mup':'mdn'}">${m.effet}</span></div>`).join('')}
+      ${impacts.map(m=>`
+        <div class="mrow">
+          <span style="font-weight:500">${m.secteur}</span>
+          <span class="${m.hausse?'mup':'mdn'}" style="max-width:55%;text-align:right;font-size:12px">${m.effet}</span>
+        </div>`).join('')}
       <div class="mkt-note">${t['mkt-note']}</div>
     </div>`;
   } else {
     mkt = `<div class="mkt-note" style="margin-top:1rem">${t['no-mkt']}</div>`;
   }
 
-  // Source discrète en bas
-  const src = (a.url&&a.url!=='#')
+  const src = (a.url && a.url!=='#')
     ? `<div class="msource">${t['source']} : <a href="${a.url}" target="_blank" rel="noopener">${a.source} ↗</a></div>`
     : '';
 
@@ -697,17 +710,92 @@ function openDyn(pays, id) {
     ${a.image?`<img class="modal-hero-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=modal-hero-ph>${ph[pays]||'📰'}</div>'">`:`<div class="modal-hero-ph">${ph[pays]||'📰'}</div>`}
     <div class="modal-body">
       <div class="mtag">${a.categorie||pays}</div>
-      <div class="mtitle">${a.titre}</div>
+      <div class="mtitle" id="modal-titre">${titre}</div>
       <div class="mdate">${a.date}</div>
       <div class="mbody">
-        <p>${a.resume}</p>
-        ${a.analyse_detaillee?`<h4>${t['analyse']}</h4><p>${a.analyse_detaillee}</p>`:''}
+        <p id="modal-resume">${resume||''}</p>
+        ${analyse?`<h4>${t['analyse']}</h4><p id="modal-analyse">${analyse}</p>`:'<p id="modal-analyse" style="display:none"></p>'}
       </div>
-      ${mkt}
+      <div id="modal-mkt">${mkt}</div>
       ${src}
     </div>`;
+
   document.getElementById('modal').classList.add('open');
-  document.getElementById('modal').scrollTop=0;
+  document.getElementById('modal').scrollTop = 0;
+}
+
+async function translateContent(a, pays, t, ph) {
+  // Afficher indicateur de traduction
+  const titreEl = document.getElementById('modal-titre');
+  const resumeEl = document.getElementById('modal-resume');
+  if(titreEl) titreEl.style.opacity = '0.5';
+
+  const langName = LANG === 'en' ? 'English' : '中文 (Mandarin Chinese)';
+  const prompt = `Translate this French news content to ${langName}. Return ONLY valid JSON, no markdown:
+{
+  "titre": "translated title",
+  "resume": "translated summary (3 sentences)",
+  "analyse": "translated detailed analysis (5+ sentences)",
+  "impacts": [{"secteur": "sector name in ${langName}", "effet": "effect description in ${langName}", "hausse": true/false}]
+}
+
+French content:
+TITRE: ${a.titre}
+RESUME: ${a.resume}
+ANALYSE: ${a.analyse_detaillee||''}
+IMPACTS: ${JSON.stringify(a.impact_marches||[])}`;
+
+  try {
+    const r = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        messages: [{role:'user', content: prompt}]
+      })
+    });
+    if(r.ok) {
+      const data = await r.json();
+      const text = data.content[0].text.trim();
+      let json_text = text;
+      if(text.includes('```')) {
+        for(const p of text.split('```')) {
+          const clean = p.replace(/^json/,'').trim();
+          if(clean.startsWith('{')) { json_text = clean; break; }
+        }
+      }
+      const translated = JSON.parse(json_text);
+      // Mettre à jour le modal avec la traduction
+      if(translated.titre && document.getElementById('modal-titre'))
+        document.getElementById('modal-titre').innerHTML = translated.titre;
+      if(translated.resume && document.getElementById('modal-resume'))
+        document.getElementById('modal-resume').innerHTML = translated.resume;
+      if(translated.analyse && document.getElementById('modal-analyse')) {
+        document.getElementById('modal-analyse').style.display = '';
+        document.getElementById('modal-analyse').innerHTML = translated.analyse;
+      }
+      if(translated.impacts && translated.impacts.length && document.getElementById('modal-mkt')) {
+        const impacts_html = `<div class="mmkt">
+          <div class="mmkt-head">
+            <div class="mmkt-title">${t['mkt-title']}</div>
+            <div class="mmkt-disc">${t['mkt-disc']}</div>
+          </div>
+          ${translated.impacts.map(m=>`
+            <div class="mrow">
+              <span style="font-weight:500">${m.secteur}</span>
+              <span class="${m.hausse?'mup':'mdn'}" style="max-width:55%;text-align:right;font-size:12px">${m.effet}</span>
+            </div>`).join('')}
+          <div class="mkt-note">${t['mkt-note']}</div>
+        </div>`;
+        document.getElementById('modal-mkt').innerHTML = impacts_html;
+      }
+      if(titreEl) titreEl.style.opacity = '1';
+    }
+  } catch(e) {
+    console.log('Translation error:', e);
+    if(titreEl) titreEl.style.opacity = '1';
+  }
 }
 
 // ===== MODAL STATIQUE (Juridique + Histoire) =====
