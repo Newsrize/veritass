@@ -4,13 +4,16 @@ from datetime import datetime, timedelta
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY")
 GEMINI_KEY = os.environ.get("GEMINI_KEY")
 
+# Sources fiables uniquement — pas de blogs ni d'essais
+SOURCES_FIABLES = "bbc-news,reuters,associated-press,le-monde,france-24,bloomberg,the-guardian,euronews,al-jazeera-english,cnn,the-washington-post,les-echos"
+
 PAYS = [
-    {"id": "monde",  "query": "world international geopolitics economy breaking", "lang": "en"},
-    {"id": "france", "query": "France politique économie actualité", "lang": "fr"},
-    {"id": "usa",    "query": "United States Trump economy politics", "lang": "en"},
-    {"id": "chine",  "query": "China economy Xi Jinping trade", "lang": "en"},
-    {"id": "russie", "query": "Russia Ukraine war sanctions", "lang": "en"},
-    {"id": "iran",   "query": "Iran nuclear diplomacy Middle East", "lang": "en"},
+    {"id": "monde",  "queries": ["geopolitics war diplomacy 2026", "economy trade sanctions 2026"], "lang": "en"},
+    {"id": "france", "queries": ["France Macron gouvernement 2026", "économie France actualité 2026"], "lang": "fr"},
+    {"id": "usa",    "queries": ["Trump White House 2026", "United States economy policy 2026"], "lang": "en"},
+    {"id": "chine",  "queries": ["China Xi Jinping 2026", "China economy Taiwan 2026"], "lang": "en"},
+    {"id": "russie", "queries": ["Russia Putin Ukraine 2026", "Russia war sanctions 2026"], "lang": "en"},
+    {"id": "iran",   "queries": ["Iran nuclear deal 2026", "Iran US Middle East 2026"], "lang": "en"},
 ]
 
 FALLBACK_IMAGES = {
@@ -22,109 +25,128 @@ FALLBACK_IMAGES = {
     "iran":   "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
 }
 
-def get_articles(query, lang="fr", nb=4):
-    url = "https://newsapi.org/v2/everything"
-    params = {"q": query, "language": lang, "sortBy": "publishedAt",
-              "pageSize": nb, "apiKey": NEWSAPI_KEY}
-    try:
-        r = requests.get(url, params=params, timeout=10)
-        if r.status_code == 200:
-            return r.json().get("articles", [])
-    except Exception as e:
-        print(f"     NewsAPI error: {e}")
-    return []
+# Mots-clés qui indiquent un article non pertinent (blog, essai, académique)
+MOTS_EXCLUS = [
+    "essay", "draft", "talk", "memoir", "blog", "podcast", "review",
+    "how to", "tutorial", "guide to", "my thoughts", "i think",
+    "subscribe", "newsletter", "opinion:", "comment:", "analysis:"
+]
+
+def is_valid_article(title, description):
+    """Filtre les articles non pertinents"""
+    if not title or title == "[Removed]" or len(title) < 15:
+        return False
+    text = (title + " " + (description or "")).lower()
+    for mot in MOTS_EXCLUS:
+        if mot in text:
+            return False
+    return True
+
+def get_articles(queries, lang="en", nb=6):
+    """Essaie plusieurs requêtes pour trouver des articles valides"""
+    articles = []
+    for query in queries:
+        url = "https://newsapi.org/v2/everything"
+        params = {
+            "q": query,
+            "language": lang,
+            "sortBy": "publishedAt",
+            "pageSize": nb,
+            "apiKey": NEWSAPI_KEY,
+            "from": (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+        }
+        try:
+            r = requests.get(url, params=params, timeout=10)
+            if r.status_code == 200:
+                arts = r.json().get("articles", [])
+                for a in arts:
+                    if is_valid_article(a.get("title"), a.get("description")):
+                        articles.append(a)
+        except Exception as e:
+            print(f"     NewsAPI error: {e}")
+    # Dédupliquer par titre
+    seen = set()
+    unique = []
+    for a in articles:
+        t = a.get("title","")[:50]
+        if t not in seen:
+            seen.add(t)
+            unique.append(a)
+    return unique[:4]
 
 def gemini_analyse(titre, description, pays_id):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
 
-    # Exemples concrets d'impacts par secteur pour guider Gemini
-    exemples_impact = """
-Exemples d'impacts sectoriels précis :
-- Guerre/conflit militaire → Défense (Thales, Airbus Defence), Pétrole (Brent), Or (valeur refuge), Compagnies aériennes (négatif)
-- Décision BCE/Fed sur les taux → Banques (marges), Immobilier (crédit), Obligations souveraines, EUR/USD
-- Résultats tech (Apple, Nvidia, Meta) → Semi-conducteurs (SOX), Cloud computing, ETF Tech (QQQ)
-- Accord commercial → Automobile, Agroalimentaire, Logistique/Transport
-- Crise pétrolière → Pétrole (Brent/WTI), Compagnies aériennes (négatif), Énergies renouvelables
-- Élection/instabilité politique → Devise du pays, Obligations d'État, Bourse nationale
-- Sanction économique → Matières premières, Énergie, Devises des pays sanctionnés
-- Catastrophe naturelle → Assurances (négatif), Reconstruction/BTP, Énergie
-"""
+    prompt = f"""Tu es rédacteur en chef de Veritass.fr, site d'information français.
 
-    prompt = f"""Tu es un journaliste économiste expert pour Veritass.fr.
-
-Article source (peut être en anglais) :
+Article source :
 TITRE: {titre}
 DESCRIPTION: {description}
-PAYS/RÉGION: {pays_id}
+ZONE GÉOGRAPHIQUE: {pays_id}
 
-MISSION : Analyser cet article et produire une réponse COMPLÈTE en JSON.
+Produis une analyse journalistique COMPLÈTE en français. JSON strict uniquement, zéro markdown :
 
-{exemples_impact}
-
-Réponds UNIQUEMENT avec ce JSON valide (pas de markdown, pas de texte avant/après) :
 {{
-  "titre_fr": "Titre traduit/reformulé en français journalistique (obligatoire, même si déjà en français)",
-  "resume": "Résumé en 3 phrases factuelles en français. Phrase 1 : le fait principal. Phrase 2 : le contexte immédiat. Phrase 3 : la réaction ou conséquence directe.",
-  "analyse_detaillee": "Analyse en 5 phrases minimum en français. Explique : 1) Le contexte historique ou géopolitique de cet événement. 2) Les enjeux principaux pour les acteurs concernés. 3) Les raisons profondes qui ont mené à cette situation. 4) Les conséquences probables à court terme (1-3 mois). 5) Les conséquences possibles à long terme et l'impact sur l'équilibre géopolitique ou économique mondial.",
-  "categorie": "UN SEUL MOT parmi : Politique, Économie, Géopolitique, Énergie, Tech, Justice, Social, Diplomatie, Environnement, Santé, Sécurité",
+  "titre_fr": "Reformule le titre en français journalistique percutant (max 15 mots)",
+  "resume": "3 phrases factuelles en français. 1ère phrase: le fait central de cet article. 2ème phrase: le contexte qui explique pourquoi c'est important. 3ème phrase: la réaction principale ou conséquence immédiate.",
+  "analyse_detaillee": "Rédige un paragraphe journalistique de 6 à 8 phrases en français. Commence par le contexte historique ou géopolitique de cet événement. Explique ensuite les enjeux pour les acteurs principaux (pays, institutions, citoyens). Développe les causes profondes de la situation. Décris les conséquences probables à court terme (semaines à venir). Analyse l'impact à moyen terme (3-6 mois). Conclus sur les perspectives à long terme et ce que les experts anticipent.",
+  "categorie": "Géopolitique",
   "badges": [
-    {{"label": "▲ NOM_SECTEUR_PRÉCIS", "hausse": true}},
-    {{"label": "▼ NOM_SECTEUR_PRÉCIS", "hausse": false}}
+    {{"label": "▲ Secteur bénéficiaire précis", "hausse": true}},
+    {{"label": "▼ Secteur perdant précis", "hausse": false}}
   ],
   "impact_marches": [
     {{
-      "secteur": "NOM PRÉCIS DU SECTEUR (ex: Pétrole Brent, Défense européenne, Semi-conducteurs, CAC 40, EUR/USD, Banques françaises...)",
-      "effet": "Explication en 1 phrase précise de POURQUOI ce secteur est impacté et dans quel sens",
+      "secteur": "Nom du secteur boursier précis (ex: Pétrole Brent, Actions défense, CAC 40, EUR/USD, Obligations d'État, Semi-conducteurs, Compagnies aériennes, Banques européennes...)",
+      "effet": "Phrase complète expliquant POURQUOI ce secteur spécifique est impacté par cet événement précis et dans quel sens",
       "hausse": true
     }},
     {{
-      "secteur": "DEUXIÈME SECTEUR PRÉCIS",
-      "effet": "Explication précise de l'impact négatif sur ce secteur",
+      "secteur": "Deuxième secteur précis différent du premier",
+      "effet": "Explication précise et argumentée de l'impact négatif sur ce secteur en lien direct avec l'article",
       "hausse": false
     }},
     {{
-      "secteur": "TROISIÈME SECTEUR SI PERTINENT",
-      "effet": "Explication de l'impact",
+      "secteur": "Troisième secteur si pertinent",
+      "effet": "Explication de l'impact avec lien direct à l'événement",
       "hausse": true
     }}
-  ],
-  "mots_cles": ["mot1", "mot2", "mot3"]
+  ]
 }}
 
-RÈGLES ABSOLUES :
-1. Tout doit être en FRANÇAIS
-2. impact_marches doit avoir MINIMUM 2 secteurs NOMMÉS PRÉCISÉMENT (jamais "marchés internationaux" tout seul)
-3. analyse_detaillee doit faire minimum 5 phrases
-4. badges : maximum 2
-5. impact_marches : minimum 2, maximum 3
+RÈGLES IMPÉRATIVES :
+- Tout le contenu doit être en FRANÇAIS
+- analyse_detaillee : minimum 6 phrases, minimum 200 mots
+- impact_marches : EXACTEMENT 2 ou 3 secteurs, NOMMÉS PRÉCISÉMENT (jamais de termes génériques comme "marchés internationaux" seuls)
+- Chaque secteur doit être différent
+- L'effet doit expliquer le lien causal entre l'événement et le secteur
 """
 
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.1, "maxOutputTokens": 1500}
+        "generationConfig": {"temperature": 0.15, "maxOutputTokens": 1800}
     }
     try:
         r = requests.post(url, json=body, timeout=30)
         if r.status_code == 200:
             text = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
-            # Nettoyer le markdown si présent
             if "```" in text:
                 for part in text.split("```"):
-                    part = part.strip()
-                    if part.startswith("json"):
-                        part = part[4:].strip()
+                    part = part.replace("json","",1).strip()
                     if part.startswith("{"):
                         text = part
                         break
             result = json.loads(text.strip())
-            # Vérifier que les champs critiques existent
-            if not result.get("impact_marches") or len(result["impact_marches"]) == 0:
-                raise ValueError("Pas d'impact marchés généré")
-            if not result.get("analyse_detaillee") or len(result["analyse_detaillee"]) < 100:
-                raise ValueError("Analyse trop courte")
+            # Validation
+            if not result.get("impact_marches") or len(result["impact_marches"]) < 2:
+                print("     ⚠ Impact marchés insuffisant")
+                return None
+            if not result.get("analyse_detaillee") or len(result["analyse_detaillee"]) < 150:
+                print("     ⚠ Analyse trop courte")
+                return None
             return result
         else:
-            print(f"     Gemini HTTP error: {r.status_code}")
+            print(f"     Gemini HTTP {r.status_code}: {r.text[:200]}")
     except Exception as e:
         print(f"     Gemini error: {e}")
     return None
@@ -144,7 +166,7 @@ def clean_old(articles_by_country, months=6):
         kept = []
         for a in arts:
             try:
-                d = datetime.strptime(a.get("date", "2020-01-01"), "%Y-%m-%d")
+                d = datetime.strptime(a.get("date","2020-01-01"), "%Y-%m-%d")
                 if d >= cutoff:
                     kept.append(a)
             except:
@@ -158,57 +180,45 @@ def main():
     new_articles = {}
 
     for pays in PAYS:
-        print(f"\n  → {pays['id']}")
-        bruts = get_articles(pays["query"], pays["lang"], nb=4)
+        print(f"\n→ {pays['id']}")
+        bruts = get_articles(pays["queries"], pays["lang"], nb=6)
+
         if not bruts:
-            print(f"     Aucun article — conservation des anciens")
+            print(f"  Aucun article valide — conservation des anciens")
             new_articles[pays["id"]] = existing.get(pays["id"], [])
             continue
 
+        print(f"  {len(bruts)} articles valides trouvés")
         existing_ids = {a["id"] for a in existing.get(pays["id"], [])}
         nouveaux = []
 
         for i, art in enumerate(bruts[:4]):
-            titre = (art.get("title") or "")[:200]
-            desc = (art.get("description") or art.get("content") or "")[:600]
-            if not titre or titre == "[Removed]":
-                continue
-
+            titre = (art.get("title") or "")[:200].strip()
+            desc = (art.get("description") or art.get("content") or "")[:600].strip()
             source = art.get("source", {}).get("name", "Source inconnue")
             date_raw = (art.get("publishedAt") or "")[:10]
             url_art = art.get("url", "#")
             image = art.get("urlToImage") or ""
-            if not image or len(image) < 15:
+            if not image or len(image) < 15 or "http" not in image:
                 image = FALLBACK_IMAGES.get(pays["id"], "")
 
             art_id = f"{pays['id']}_{abs(hash(titre)) % 1000000}"
             if art_id in existing_ids:
-                print(f"     [{i+1}] Doublon ignoré")
+                print(f"  [{i+1}] Doublon — ignoré")
                 continue
 
-            print(f"     [{i+1}] Analyse: {titre[:55]}...")
+            print(f"  [{i+1}] Analyse Gemini: {titre[:60]}...")
             analyse = gemini_analyse(titre, desc, pays["id"])
 
-            # Si Gemini échoue, fallback manuel détaillé
             if not analyse:
-                print(f"     ⚠ Gemini failed — fallback")
-                analyse = {
-                    "titre_fr": titre,
-                    "resume": f"{desc[:250]}",
-                    "analyse_detaillee": f"Cet article traite de {titre}. La situation concerne le pays/région {pays['id']}. Les développements récents montrent une évolution significative de la situation. Les experts suivent de près les implications géopolitiques et économiques. Des développements supplémentaires sont attendus dans les prochains jours.",
-                    "categorie": "Actualité",
-                    "badges": [],
-                    "impact_marches": [
-                        {"secteur": {"monde":"Marchés boursiers mondiaux","france":"CAC 40 (Bourse de Paris)","usa":"S&P 500 (Bourse américaine)","chine":"Shanghai Composite","russie":"Pétrole Brent & Rouble","iran":"Pétrole Brent & Or"}.get(pays["id"], "Marchés financiers"), "effet": "Peut potentiellement être affecté selon l'évolution de la situation", "hausse": False}
-                    ],
-                    "mots_cles": []
-                }
+                print(f"  [{i+1}] ⚠ Gemini échoué — article ignoré")
+                continue  # On ignore plutôt que d'afficher du contenu vide
 
             nouveaux.append({
                 "id": art_id,
                 "titre": analyse.get("titre_fr") or titre,
                 "titre_original": titre,
-                "resume": analyse.get("resume", desc[:250]),
+                "resume": analyse.get("resume", ""),
                 "analyse_detaillee": analyse.get("analyse_detaillee", ""),
                 "categorie": analyse.get("categorie", "Actualité"),
                 "source": source,
@@ -218,15 +228,14 @@ def main():
                 "pays": pays["id"],
                 "badges": analyse.get("badges", []),
                 "impact_marches": analyse.get("impact_marches", []),
-                "mots_cles": analyse.get("mots_cles", []),
                 "created_at": datetime.now().isoformat()
             })
+            print(f"  [{i+1}] ✅ OK — {len(analyse.get('impact_marches',[]))} impacts, {len(analyse.get('analyse_detaillee',''))} chars")
 
-        # Fusionner nouveaux + anciens (6 mois)
-        old = [a for a in existing.get(pays["id"], [])
-               if a["id"] not in {n["id"] for n in nouveaux}]
+        # Fusionner nouveaux + anciens
+        old = [a for a in existing.get(pays["id"], []) if a["id"] not in {n["id"] for n in nouveaux}]
         new_articles[pays["id"]] = nouveaux + old
-        print(f"     Total conservé: {len(new_articles[pays['id']])} articles")
+        print(f"  Total: {len(nouveaux)} nouveaux + {len(old)} conservés = {len(new_articles[pays['id']])} articles")
 
     output = {
         "last_updated": datetime.now().strftime("%d/%m/%Y à %Hh%M"),
@@ -237,7 +246,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in new_articles.values())
-    print(f"\n[{datetime.now()}] ✅ Terminé — {total} articles conservés au total")
+    print(f"\n[{datetime.now()}] ✅ Terminé — {total} articles au total")
 
 if __name__ == "__main__":
     main()
