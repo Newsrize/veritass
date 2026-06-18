@@ -76,93 +76,169 @@ Titre : {titre}
 Description : {desc}
 Région : {pays_id}
 
-Rédige ta réponse en FRANÇAIS en suivant EXACTEMENT ce format avec les balises (ne change pas les balises) :
+Rédige ta réponse en suivant EXACTEMENT ce format avec les balises.
+Tout le contenu doit être rédigé en FRANÇAIS sauf les sections EN et ZH indiquées.
 
-[TITRE]
-Reformule le titre en français, percutant, maximum 15 mots.
-[/TITRE]
+[TITRE_FR]
+Reformule le titre en français journalistique, maximum 15 mots.
+[/TITRE_FR]
+
+[TITRE_EN]
+Same title translated in English, maximum 15 words.
+[/TITRE_EN]
+
+[TITRE_ZH]
+同一标题的中文翻译，最多15个字。
+[/TITRE_ZH]
 
 [RESUME]
-Écris ici un résumé de 3 à 4 phrases complètes en français qui résument factuellement l'article : le fait principal, le contexte, et la conséquence ou réaction immédiate. Sois concret et précis.
+Écris un résumé de 4 phrases complètes en FRANÇAIS : le fait principal, le contexte, la conséquence immédiate, et la réaction des acteurs concernés.
 [/RESUME]
 
+[RESUME_EN]
+Write the same summary in English, 4 complete sentences.
+[/RESUME_EN]
+
+[RESUME_ZH]
+用中文写同样的摘要，4个完整句子。
+[/RESUME_ZH]
+
 [ANALYSE]
-Écris ici une analyse approfondie de 6 à 8 phrases en français. Explique le contexte historique ou géopolitique de cette situation, les enjeux pour les acteurs concernés, les causes de cette situation, les conséquences probables à court terme, et les perspectives à moyen et long terme. Sois développé et informatif, comme un article de fond.
+Rédige en FRANÇAIS une analyse de 7 phrases minimum : contexte historique, enjeux pour les acteurs, causes profondes, conséquences à court terme, conséquences à moyen terme, perspectives à long terme, position des différentes parties.
 [/ANALYSE]
+
+[ANALYSE_EN]
+Write the same detailed analysis in English, minimum 7 sentences.
+[/ANALYSE_EN]
+
+[ANALYSE_ZH]
+用中文写同样的详细分析，至少7句话。
+[/ANALYSE_ZH]
 
 [CATEGORIE]
 Un seul mot parmi : Politique, Économie, Géopolitique, Énergie, Tech, Justice, Social, Diplomatie, Environnement, Santé, Sécurité
 [/CATEGORIE]
 
 [SECTEUR1_NOM]
-Nom précis d'un secteur financier ou boursier impacté par cette actualité (exemples : Pétrole Brent, Actions du secteur de la défense, CAC 40, EUR/USD, Obligations d'État américaines, Semi-conducteurs, Compagnies aériennes, Or, Banques européennes)
+Nom précis d'un secteur financier impacté (ex: Pétrole Brent, Actions défense, CAC 40, EUR/USD, Obligations d'État, Semi-conducteurs, Compagnies aériennes, Or, Banques européennes)
 [/SECTEUR1_NOM]
 
+[SECTEUR1_NOM_EN]
+Same sector name in English
+[/SECTEUR1_NOM_EN]
+
+[SECTEUR1_NOM_ZH]
+同一行业的中文名称
+[/SECTEUR1_NOM_ZH]
+
 [SECTEUR1_EFFET]
-Une phrase complète expliquant pourquoi ce secteur précis est impacté par cet événement spécifique et dans quel sens (hausse ou baisse).
+Une phrase en français expliquant pourquoi ce secteur est impacté par cet événement.
 [/SECTEUR1_EFFET]
+
+[SECTEUR1_EFFET_EN]
+Same explanation in English.
+[/SECTEUR1_EFFET_EN]
+
+[SECTEUR1_EFFET_ZH]
+同样的解释用中文。
+[/SECTEUR1_EFFET_ZH]
 
 [SECTEUR1_SENS]
 HAUSSE ou BAISSE
 [/SECTEUR1_SENS]
 
 [SECTEUR2_NOM]
-Un deuxième secteur financier précis, différent du premier, impacté par cette actualité.
+Deuxième secteur financier précis différent du premier.
 [/SECTEUR2_NOM]
 
+[SECTEUR2_NOM_EN]
+Same sector in English
+[/SECTEUR2_NOM_EN]
+
+[SECTEUR2_NOM_ZH]
+中文名称
+[/SECTEUR2_NOM_ZH]
+
 [SECTEUR2_EFFET]
-Une phrase complète expliquant l'impact sur ce deuxième secteur.
+Une phrase en français expliquant l'impact sur ce deuxième secteur.
 [/SECTEUR2_EFFET]
+
+[SECTEUR2_EFFET_EN]
+Same in English.
+[/SECTEUR2_EFFET_EN]
+
+[SECTEUR2_EFFET_ZH]
+中文解释。
+[/SECTEUR2_EFFET_ZH]
 
 [SECTEUR2_SENS]
 HAUSSE ou BAISSE
 [/SECTEUR2_SENS]
 
-Respecte STRICTEMENT ce format avec les balises. Écris du contenu réel et développé, pas de placeholder."""
+Respecte STRICTEMENT toutes les balises. Rédige du contenu réel développé."""
 
-    text = appel_gemini(prompt)
+    text = appel_gemini(prompt, max_tokens=3000)
     if not text:
         return None
 
-    titre_fr = parse_section(text, "TITRE")
-    resume = parse_section(text, "RESUME")
-    analyse = parse_section(text, "ANALYSE")
-    categorie = parse_section(text, "CATEGORIE")
-    s1_nom = parse_section(text, "SECTEUR1_NOM")
-    s1_effet = parse_section(text, "SECTEUR1_EFFET")
-    s1_sens = parse_section(text, "SECTEUR1_SENS")
-    s2_nom = parse_section(text, "SECTEUR2_NOM")
-    s2_effet = parse_section(text, "SECTEUR2_EFFET")
-    s2_sens = parse_section(text, "SECTEUR2_SENS")
+    titre_fr   = parse_section(text, "TITRE_FR")
+    titre_en   = parse_section(text, "TITRE_EN")
+    titre_zh   = parse_section(text, "TITRE_ZH")
+    resume_fr  = parse_section(text, "RESUME")
+    resume_en  = parse_section(text, "RESUME_EN")
+    resume_zh  = parse_section(text, "RESUME_ZH")
+    analyse_fr = parse_section(text, "ANALYSE")
+    analyse_en = parse_section(text, "ANALYSE_EN")
+    analyse_zh = parse_section(text, "ANALYSE_ZH")
+    categorie  = parse_section(text, "CATEGORIE")
+    s1_nom_fr  = parse_section(text, "SECTEUR1_NOM")
+    s1_nom_en  = parse_section(text, "SECTEUR1_NOM_EN")
+    s1_nom_zh  = parse_section(text, "SECTEUR1_NOM_ZH")
+    s1_eff_fr  = parse_section(text, "SECTEUR1_EFFET")
+    s1_eff_en  = parse_section(text, "SECTEUR1_EFFET_EN")
+    s1_eff_zh  = parse_section(text, "SECTEUR1_EFFET_ZH")
+    s1_sens    = parse_section(text, "SECTEUR1_SENS")
+    s2_nom_fr  = parse_section(text, "SECTEUR2_NOM")
+    s2_nom_en  = parse_section(text, "SECTEUR2_NOM_EN")
+    s2_nom_zh  = parse_section(text, "SECTEUR2_NOM_ZH")
+    s2_eff_fr  = parse_section(text, "SECTEUR2_EFFET")
+    s2_eff_en  = parse_section(text, "SECTEUR2_EFFET_EN")
+    s2_eff_zh  = parse_section(text, "SECTEUR2_EFFET_ZH")
+    s2_sens    = parse_section(text, "SECTEUR2_SENS")
 
-    # Validation
-    if len(resume) < 60:
-        print(f"  ⚠ Résumé trop court ({len(resume)} chars): {resume[:80]}")
-        return None
-    if len(analyse) < 200:
-        print(f"  ⚠ Analyse trop courte ({len(analyse)} chars)")
-        return None
-    if not s1_nom or not s2_nom or len(s1_nom) < 3 or len(s2_nom) < 3:
-        print(f"  ⚠ Secteurs manquants: '{s1_nom}' / '{s2_nom}'")
+    # Validation minimale
+    if len(resume_fr) < 60 or len(analyse_fr) < 200 or not s1_nom_fr or not s2_nom_fr:
+        print(f"  ⚠ Validation échouée: résumé={len(resume_fr)}, analyse={len(analyse_fr)}, s1='{s1_nom_fr}', s2='{s2_nom_fr}'")
         return None
 
-    impact_marches = [
-        {"secteur": s1_nom, "effet": s1_effet, "hausse": "HAUSSE" in s1_sens.upper()},
-        {"secteur": s2_nom, "effet": s2_effet, "hausse": "HAUSSE" in s2_sens.upper()}
-    ]
-    badges = [
-        {"label": f"{'▲' if i['hausse'] else '▼'} {i['secteur']}", "hausse": i["hausse"]}
-        for i in impact_marches
-    ]
+    s1_hausse = "HAUSSE" in s1_sens.upper()
+    s2_hausse = "HAUSSE" in s2_sens.upper()
 
     return {
         "titre_fr": titre_fr or titre,
-        "resume": resume,
-        "analyse_detaillee": analyse,
+        "titre_en": titre_en or titre,
+        "titre_zh": titre_zh or titre,
+        "resume_fr": resume_fr,
+        "resume_en": resume_en or resume_fr,
+        "resume_zh": resume_zh or resume_fr,
+        "analyse_fr": analyse_fr,
+        "analyse_en": analyse_en or analyse_fr,
+        "analyse_zh": analyse_zh or analyse_fr,
         "categorie": categorie or "Actualité",
-        "badges": badges,
-        "impact_marches": impact_marches
+        "badges": [
+            {"label": f"{'▲' if s1_hausse else '▼'} {s1_nom_fr}", "hausse": s1_hausse},
+            {"label": f"{'▲' if s2_hausse else '▼'} {s2_nom_fr}", "hausse": s2_hausse},
+        ],
+        "impact_marches": [
+            {"secteur_fr": s1_nom_fr, "secteur_en": s1_nom_en, "secteur_zh": s1_nom_zh,
+             "effet_fr": s1_eff_fr, "effet_en": s1_eff_en, "effet_zh": s1_eff_zh,
+             "hausse": s1_hausse},
+            {"secteur_fr": s2_nom_fr, "secteur_en": s2_nom_en, "secteur_zh": s2_nom_zh,
+             "effet_fr": s2_eff_fr, "effet_en": s2_eff_en, "effet_zh": s2_eff_zh,
+             "hausse": s2_hausse},
+        ]
     }
+
 
 def load_existing():
     try:
@@ -225,13 +301,19 @@ def main():
                 print(f"  [{i+1}] ❌ Ignoré")
                 continue
 
-            print(f"  [{i+1}] ✅ résumé={len(analyse['resume'])}c analyse={len(analyse['analyse_detaillee'])}c secteurs={len(analyse['impact_marches'])}")
+            print(f"  [{i+1}] ✅ résumé={len(analyse['resume_fr'])}c analyse={len(analyse['analyse_fr'])}c secteurs={len(analyse['impact_marches'])}")
             nouveaux.append({
                 "id": art_id,
                 "titre": analyse["titre_fr"] or titre,
+                "titre_en": analyse.get("titre_en", titre),
+                "titre_zh": analyse.get("titre_zh", titre),
                 "titre_original": titre,
-                "resume": analyse["resume"],
-                "analyse_detaillee": analyse["analyse_detaillee"],
+                "resume": analyse["resume_fr"],
+                "resume_en": analyse.get("resume_en", ""),
+                "resume_zh": analyse.get("resume_zh", ""),
+                "analyse_detaillee": analyse["analyse_fr"],
+                "analyse_en": analyse.get("analyse_en", ""),
+                "analyse_zh": analyse.get("analyse_zh", ""),
                 "categorie": analyse["categorie"],
                 "source": source,
                 "url": url_art,
