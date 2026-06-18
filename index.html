@@ -583,6 +583,8 @@ function setLang(l) {
   document.getElementById('si').placeholder = t['search-ph'];
   renderGrid(currentCountry);
   renderHomeGrid();
+  // Fermer le modal si ouvert pour forcer re-render
+  closeM();
 }
 
 // ===== CHARGEMENT NEWS =====
@@ -610,6 +612,32 @@ async function loadNews() {
 }
 
 // ===== GRILLE ACCUEIL =====
+function getTitre(a) {
+  if(LANG==='en' && a.titre_en) return a.titre_en;
+  if(LANG==='zh' && a.titre_zh) return a.titre_zh;
+  return a.titre || a.titre_fr || '';
+}
+function getResume(a) {
+  if(LANG==='en' && a.resume_en) return a.resume_en;
+  if(LANG==='zh' && a.resume_zh) return a.resume_zh;
+  return a.resume || a.resume_fr || '';
+}
+function getAnalyse(a) {
+  if(LANG==='en' && a.analyse_en) return a.analyse_en;
+  if(LANG==='zh' && a.analyse_zh) return a.analyse_zh;
+  return a.analyse_detaillee || a.analyse_fr || '';
+}
+function getMktSecteur(m) {
+  if(LANG==='en' && m.secteur_en) return m.secteur_en;
+  if(LANG==='zh' && m.secteur_zh) return m.secteur_zh;
+  return m.secteur_fr || m.secteur || '';
+}
+function getMktEffet(m) {
+  if(LANG==='en' && m.effet_en) return m.effet_en;
+  if(LANG==='zh' && m.effet_zh) return m.effet_zh;
+  return m.effet_fr || m.effet || '';
+}
+
 function renderHomeGrid() {
   const grid = document.getElementById('home-grid');
   const arts = [];
@@ -618,12 +646,13 @@ function renderHomeGrid() {
   });
   if(!arts.length) return;
   const t = T[LANG];
+  const flags = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
   grid.innerHTML = arts.slice(0,6).map(a=>`
     <div class="lcard" onclick="openDyn('${a.pays}','${a.id}')">
-      ${a.image?`<img class="lcard-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=lcard-ph>${{monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'}[a.pays]||'📰'}</div>'">`:`<div class="lcard-ph">${{monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'}[a.pays]||'📰'}</div>`}
+      ${a.image?`<img class="lcard-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=lcard-ph>${flags[a.pays]||'📰'}</div>'">`:`<div class="lcard-ph">${flags[a.pays]||'📰'}</div>`}
       <div class="lcard-body">
         <div class="lc-cat">${a.categorie||a.pays}</div>
-        <div class="lc-title">${a.titre}</div>
+        <div class="lc-title">${getTitre(a)}</div>
         <div class="lc-foot"><span class="lc-time">${a.date}</span><span class="lc-cta">${t['lire']}</span></div>
       </div>
     </div>`).join('');
@@ -634,19 +663,19 @@ function renderGrid(pays) {
   currentCountry = pays;
   const grid = document.getElementById('agrid');
   const arts = NEWS[pays];
-  if(!arts||!arts.length){grid.innerHTML='<div class="loading">Chargement…</div>';return;}
+  if(!arts||!arts.length){grid.innerHTML='<div class="loading">'+T[LANG]['loading']+'</div>';return;}
   const feat = arts[0];
   const minis = arts.slice(1,4);
   const t = T[LANG];
-  const ph = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
+  const flags = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
   grid.innerHTML = `
   <div class="actu-wrap">
     <div class="feat" onclick="openDyn('${pays}','${feat.id}')">
-      ${feat.image?`<img class="feat-img" src="${feat.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=feat-ph>${ph[pays]||'📰'}</div>'">`:`<div class="feat-ph">${ph[pays]||'📰'}</div>`}
+      ${feat.image?`<img class="feat-img" src="${feat.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=feat-ph>${flags[pays]||'📰'}</div>'">`:`<div class="feat-ph">${flags[pays]||'📰'}</div>`}
       <div class="feat-content">
         <div class="clabel">${feat.categorie||pays}</div>
-        <div class="feat-title">${feat.titre}</div>
-        <div class="feat-body">${feat.resume}</div>
+        <div class="feat-title">${getTitre(feat)}</div>
+        <div class="feat-body">${getResume(feat)}</div>
         <div class="badges">${(feat.badges||[]).map(b=>`<span class="badge ${b.hausse?'bu':'bd'}">${b.label}</span>`).join('')}</div>
         <div class="hint">↗ ${t['lire']}</div>
       </div>
@@ -654,10 +683,10 @@ function renderGrid(pays) {
     <div class="minis">
       ${minis.map(m=>`
         <div class="mini" onclick="openDyn('${pays}','${m.id}')">
-          ${m.image?`<img class="mini-img" src="${m.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=mini-ph>${ph[pays]||'📰'}</div>'">`:`<div class="mini-ph">${ph[pays]||'📰'}</div>`}
+          ${m.image?`<img class="mini-img" src="${m.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=mini-ph>${flags[pays]||'📰'}</div>'">`:`<div class="mini-ph">${flags[pays]||'📰'}</div>`}
           <div class="mini-content">
             <div class="clabel">${m.categorie||pays}</div>
-            <div class="mini-title">${m.titre}</div>
+            <div class="mini-title">${getTitre(m)}</div>
             <div class="mini-foot"><span class="mini-time">${m.date}</span><span class="mini-cta">${t['lire']}</span></div>
           </div>
         </div>`).join('')}
@@ -671,30 +700,25 @@ function openDyn(pays, id) {
   const a = arts.find(x=>x.id===id);
   if(!a) return;
   const t = T[LANG];
-  const ph = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
+  const flags = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
 
-  // Afficher d'abord en français (données de base)
-  showDynModal(a, pays, a.titre, a.resume, a.analyse_detaillee, a.impact_marches, t, ph);
+  // Contenu dans la bonne langue
+  const titre = getTitre(a);
+  const resume = getResume(a);
+  const analyse = getAnalyse(a);
 
-  // Si langue != fr, traduire via Gemini
-  if(LANG !== 'fr') {
-    translateContent(a, pays, t, ph);
-  }
-}
-
-function showDynModal(a, pays, titre, resume, analyse, impacts, t, ph) {
-  // Impact marchés
+  // Impact marchés dans la bonne langue
   let mkt = '';
-  if(impacts && impacts.length) {
+  if(a.impact_marches && a.impact_marches.length) {
     mkt = `<div class="mmkt">
       <div class="mmkt-head">
         <div class="mmkt-title">${t['mkt-title']}</div>
         <div class="mmkt-disc">${t['mkt-disc']}</div>
       </div>
-      ${impacts.map(m=>`
+      ${a.impact_marches.map(m=>`
         <div class="mrow">
-          <span style="font-weight:500">${m.secteur}</span>
-          <span class="${m.hausse?'mup':'mdn'}" style="max-width:55%;text-align:right;font-size:12px">${m.effet}</span>
+          <span style="font-weight:500">${getMktSecteur(m)}</span>
+          <span class="${m.hausse?'mup':'mdn'}" style="max-width:55%;text-align:right;font-size:12px">${getMktEffet(m)}</span>
         </div>`).join('')}
       <div class="mkt-note">${t['mkt-note']}</div>
     </div>`;
@@ -702,100 +726,25 @@ function showDynModal(a, pays, titre, resume, analyse, impacts, t, ph) {
     mkt = `<div class="mkt-note" style="margin-top:1rem">${t['no-mkt']}</div>`;
   }
 
-  const src = (a.url && a.url!=='#')
+  const src = (a.url&&a.url!=='#')
     ? `<div class="msource">${t['source']} : <a href="${a.url}" target="_blank" rel="noopener">${a.source} ↗</a></div>`
     : '';
 
   document.getElementById('mbody').innerHTML = `
-    ${a.image?`<img class="modal-hero-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=modal-hero-ph>${ph[pays]||'📰'}</div>'">`:`<div class="modal-hero-ph">${ph[pays]||'📰'}</div>`}
+    ${a.image?`<img class="modal-hero-img" src="${a.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=modal-hero-ph>${flags[pays]||'📰'}</div>'">`:`<div class="modal-hero-ph">${flags[pays]||'📰'}</div>`}
     <div class="modal-body">
       <div class="mtag">${a.categorie||pays}</div>
-      <div class="mtitle" id="modal-titre">${titre}</div>
+      <div class="mtitle">${titre}</div>
       <div class="mdate">${a.date}</div>
       <div class="mbody">
-        <p id="modal-resume">${resume||''}</p>
-        ${analyse?`<h4>${t['analyse']}</h4><p id="modal-analyse">${analyse}</p>`:'<p id="modal-analyse" style="display:none"></p>'}
+        <p>${resume}</p>
+        ${analyse?`<h4>${t['analyse']}</h4><p>${analyse}</p>`:''}
       </div>
-      <div id="modal-mkt">${mkt}</div>
+      ${mkt}
       ${src}
     </div>`;
-
   document.getElementById('modal').classList.add('open');
-  document.getElementById('modal').scrollTop = 0;
-}
-
-async function translateContent(a, pays, t, ph) {
-  // Afficher indicateur de traduction
-  const titreEl = document.getElementById('modal-titre');
-  const resumeEl = document.getElementById('modal-resume');
-  if(titreEl) titreEl.style.opacity = '0.5';
-
-  const langName = LANG === 'en' ? 'English' : '中文 (Mandarin Chinese)';
-  const prompt = `Translate this French news content to ${langName}. Return ONLY valid JSON, no markdown:
-{
-  "titre": "translated title",
-  "resume": "translated summary (3 sentences)",
-  "analyse": "translated detailed analysis (5+ sentences)",
-  "impacts": [{"secteur": "sector name in ${langName}", "effet": "effect description in ${langName}", "hausse": true/false}]
-}
-
-French content:
-TITRE: ${a.titre}
-RESUME: ${a.resume}
-ANALYSE: ${a.analyse_detaillee||''}
-IMPACTS: ${JSON.stringify(a.impact_marches||[])}`;
-
-  try {
-    const r = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        messages: [{role:'user', content: prompt}]
-      })
-    });
-    if(r.ok) {
-      const data = await r.json();
-      const text = data.content[0].text.trim();
-      let json_text = text;
-      if(text.includes('```')) {
-        for(const p of text.split('```')) {
-          const clean = p.replace(/^json/,'').trim();
-          if(clean.startsWith('{')) { json_text = clean; break; }
-        }
-      }
-      const translated = JSON.parse(json_text);
-      // Mettre à jour le modal avec la traduction
-      if(translated.titre && document.getElementById('modal-titre'))
-        document.getElementById('modal-titre').innerHTML = translated.titre;
-      if(translated.resume && document.getElementById('modal-resume'))
-        document.getElementById('modal-resume').innerHTML = translated.resume;
-      if(translated.analyse && document.getElementById('modal-analyse')) {
-        document.getElementById('modal-analyse').style.display = '';
-        document.getElementById('modal-analyse').innerHTML = translated.analyse;
-      }
-      if(translated.impacts && translated.impacts.length && document.getElementById('modal-mkt')) {
-        const impacts_html = `<div class="mmkt">
-          <div class="mmkt-head">
-            <div class="mmkt-title">${t['mkt-title']}</div>
-            <div class="mmkt-disc">${t['mkt-disc']}</div>
-          </div>
-          ${translated.impacts.map(m=>`
-            <div class="mrow">
-              <span style="font-weight:500">${m.secteur}</span>
-              <span class="${m.hausse?'mup':'mdn'}" style="max-width:55%;text-align:right;font-size:12px">${m.effet}</span>
-            </div>`).join('')}
-          <div class="mkt-note">${t['mkt-note']}</div>
-        </div>`;
-        document.getElementById('modal-mkt').innerHTML = impacts_html;
-      }
-      if(titreEl) titreEl.style.opacity = '1';
-    }
-  } catch(e) {
-    console.log('Translation error:', e);
-    if(titreEl) titreEl.style.opacity = '1';
-  }
+  document.getElementById('modal').scrollTop=0;
 }
 
 // ===== MODAL STATIQUE (Juridique + Histoire) =====
