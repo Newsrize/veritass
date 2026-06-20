@@ -22,7 +22,7 @@ FALLBACK_IMAGES = {
     "iran":   "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
 }
 
-MOTS_EXCLUS = ["essay","draft","how to","tutorial","subscribe","newsletter","my thoughts","podcast","memoir","i think","opinion:"]
+MOTS_EXCLUS = ["essay","draft","how to","tutorial","subscribe","newsletter","my thoughts","podcast","memoir","i think","opinion:","show hn","links 6/","hili dialogue","monday:"]
 
 def is_valid(title, desc):
     if not title or title == "[Removed]" or len(title) < 20:
@@ -30,7 +30,11 @@ def is_valid(title, desc):
     text = (title + " " + (desc or "")).lower()
     return not any(m in text for m in MOTS_EXCLUS)
 
-def get_articles(query, lang, nb=5):
+def normalize_title(title):
+    """Normalise le titre pour détecter les vrais doublons (insensible casse/espaces)"""
+    return re.sub(r'\s+', ' ', title.lower().strip())[:100]
+
+def get_articles(query, lang, nb=8):
     try:
         r = requests.get("https://newsapi.org/v2/everything", params={
             "q": query, "language": lang, "sortBy": "publishedAt",
@@ -38,13 +42,21 @@ def get_articles(query, lang, nb=5):
             "from": (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
         }, timeout=10)
         if r.status_code == 200:
-            return [a for a in r.json().get("articles", [])
-                    if is_valid(a.get("title"), a.get("description"))]
+            arts = [a for a in r.json().get("articles", []) if is_valid(a.get("title"), a.get("description"))]
+            # Dédupliquer par titre normalisé dès la récupération
+            seen = set()
+            unique = []
+            for a in arts:
+                nt = normalize_title(a.get("title",""))
+                if nt not in seen:
+                    seen.add(nt)
+                    unique.append(a)
+            return unique
     except Exception as e:
         print(f"  NewsAPI error: {e}")
     return []
 
-def appel_gemini(prompt, max_tokens=2000):
+def appel_gemini(prompt, max_tokens=3000):
     for model in ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-pro"]:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}"
         try:
@@ -63,8 +75,7 @@ def appel_gemini(prompt, max_tokens=2000):
     return None
 
 def parse_section(text, tag):
-    """Extrait le contenu entre [TAG] et [/TAG] ou [TAG_FIN]"""
-    pattern = rf"\[{tag}\](.*?)(?:\[/{tag}\]|\[{tag}_FIN\]|\[[A-Z_]+\]|\Z)"
+    pattern = rf"\[{tag}\](.*?)(?:\[/{tag}\]|\[{tag}_FIN\]|\[[A-Z_0-9]+\]|\Z)"
     m = re.search(pattern, text, re.DOTALL)
     return m.group(1).strip() if m else ""
 
@@ -132,7 +143,7 @@ Same sector name in English
 [/SECTEUR1_NOM_ZH]
 
 [SECTEUR1_EFFET]
-Une phrase en français expliquant pourquoi ce secteur est impacté par cet événement.
+Une phrase en français expliquant pourquoi ce secteur est impacté par cet événement précis.
 [/SECTEUR1_EFFET]
 
 [SECTEUR1_EFFET_EN]
@@ -175,9 +186,9 @@ Same in English.
 HAUSSE ou BAISSE
 [/SECTEUR2_SENS]
 
-Respecte STRICTEMENT toutes les balises. Rédige du contenu réel développé."""
+Respecte STRICTEMENT toutes les balises. Rédige du contenu réel développé, jamais de placeholder."""
 
-    text = appel_gemini(prompt, max_tokens=3000)
+    text = appel_gemini(prompt)
     if not text:
         return None
 
@@ -206,24 +217,17 @@ Respecte STRICTEMENT toutes les balises. Rédige du contenu réel développé.""
     s2_eff_zh  = parse_section(text, "SECTEUR2_EFFET_ZH")
     s2_sens    = parse_section(text, "SECTEUR2_SENS")
 
-    # Validation minimale
     if len(resume_fr) < 60 or len(analyse_fr) < 200 or not s1_nom_fr or not s2_nom_fr:
-        print(f"  ⚠ Validation échouée: résumé={len(resume_fr)}, analyse={len(analyse_fr)}, s1='{s1_nom_fr}', s2='{s2_nom_fr}'")
+        print(f"  ⚠ Validation échouée: résumé={len(resume_fr)}, analyse={len(analyse_fr)}")
         return None
 
     s1_hausse = "HAUSSE" in s1_sens.upper()
     s2_hausse = "HAUSSE" in s2_sens.upper()
 
     return {
-        "titre_fr": titre_fr or titre,
-        "titre_en": titre_en or titre,
-        "titre_zh": titre_zh or titre,
-        "resume_fr": resume_fr,
-        "resume_en": resume_en or resume_fr,
-        "resume_zh": resume_zh or resume_fr,
-        "analyse_fr": analyse_fr,
-        "analyse_en": analyse_en or analyse_fr,
-        "analyse_zh": analyse_zh or analyse_fr,
+        "titre_fr": titre_fr or titre, "titre_en": titre_en or titre, "titre_zh": titre_zh or titre,
+        "resume_fr": resume_fr, "resume_en": resume_en or resume_fr, "resume_zh": resume_zh or resume_fr,
+        "analyse_fr": analyse_fr, "analyse_en": analyse_en or analyse_fr, "analyse_zh": analyse_zh or analyse_fr,
         "categorie": categorie or "Actualité",
         "badges": [
             {"label": f"{'▲' if s1_hausse else '▼'} {s1_nom_fr}", "hausse": s1_hausse},
@@ -231,14 +235,11 @@ Respecte STRICTEMENT toutes les balises. Rédige du contenu réel développé.""
         ],
         "impact_marches": [
             {"secteur_fr": s1_nom_fr, "secteur_en": s1_nom_en, "secteur_zh": s1_nom_zh,
-             "effet_fr": s1_eff_fr, "effet_en": s1_eff_en, "effet_zh": s1_eff_zh,
-             "hausse": s1_hausse},
+             "effet_fr": s1_eff_fr, "effet_en": s1_eff_en, "effet_zh": s1_eff_zh, "hausse": s1_hausse},
             {"secteur_fr": s2_nom_fr, "secteur_en": s2_nom_en, "secteur_zh": s2_nom_zh,
-             "effet_fr": s2_eff_fr, "effet_en": s2_eff_en, "effet_zh": s2_eff_zh,
-             "hausse": s2_hausse},
+             "effet_fr": s2_eff_fr, "effet_en": s2_eff_en, "effet_zh": s2_eff_zh, "hausse": s2_hausse},
         ]
     }
-
 
 def load_existing():
     try:
@@ -247,40 +248,66 @@ def load_existing():
     except:
         return {}
 
-def clean_old(data, months=6):
+def clean_and_dedupe(data, months=6, max_per_country=20):
+    """Nettoie : supprime articles >6 mois, dédup par titre normalisé, garde max N par pays récents en premier, supprime articles incomplets"""
     cutoff = datetime.now() - timedelta(days=months*30)
     cleaned = {}
     for pays, arts in data.items():
+        seen_titles = set()
         kept = []
         for a in arts:
+            # Vérifier date
             try:
-                d = datetime.strptime(a.get("date","2020-01-01"),"%Y-%m-%d")
-                if d >= cutoff:
-                    kept.append(a)
+                d = datetime.strptime(a.get("date","2020-01-01"), "%Y-%m-%d")
+                if d < cutoff:
+                    continue
             except:
-                kept.append(a)
-        cleaned[pays] = kept
+                pass
+
+            # Vérifier que l'article a un contenu valide (analyse non vide)
+            if not a.get("analyse_detaillee") and not a.get("analyse_fr"):
+                continue
+
+            # Dédupliquer par titre normalisé (utilise titre_original si dispo)
+            titre_check = a.get("titre_original") or a.get("titre","")
+            nt = normalize_title(titre_check)
+            if nt in seen_titles:
+                continue
+            seen_titles.add(nt)
+            kept.append(a)
+
+        # Garder les plus récents en premier, limiter le nombre total
+        kept.sort(key=lambda x: x.get("created_at", x.get("date","")), reverse=True)
+        cleaned[pays] = kept[:max_per_country]
     return cleaned
 
 def main():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage Veritass update...")
-    existing = clean_old(load_existing())
+    existing = clean_and_dedupe(load_existing())
     new_articles = {}
 
     for pays in PAYS:
         print(f"\n→ {pays['id'].upper()}")
-        bruts = get_articles(pays["query"], pays["lang"], nb=5)
-        print(f"  {len(bruts)} articles valides trouvés")
+        bruts = get_articles(pays["query"], pays["lang"], nb=8)
+        print(f"  {len(bruts)} articles uniques trouvés depuis NewsAPI")
 
         if not bruts:
             new_articles[pays["id"]] = existing.get(pays["id"],[])
             continue
 
-        existing_ids = {a["id"] for a in existing.get(pays["id"],[])}
-        nouveaux = []
+        # Titres déjà présents (normalisés) pour éviter de re-générer
+        existing_titles = {normalize_title(a.get("titre_original") or a.get("titre","")) for a in existing.get(pays["id"],[])}
 
-        for i, art in enumerate(bruts[:4]):
+        nouveaux = []
+        traites = 0
+        for art in bruts:
+            if traites >= 4:  # max 4 nouveaux articles traités par pays par run
+                break
             titre = (art.get("title") or "")[:200].strip()
+            nt = normalize_title(titre)
+            if nt in existing_titles:
+                continue  # déjà en base, on saute
+
             desc = (art.get("description") or art.get("content") or "")[:600].strip()
             source = art.get("source",{}).get("name","Source inconnue")
             date_raw = (art.get("publishedAt") or "")[:10]
@@ -290,44 +317,40 @@ def main():
                 image = FALLBACK_IMAGES.get(pays["id"],"")
 
             art_id = f"{pays['id']}_{abs(hash(titre)) % 1000000}"
-            if art_id in existing_ids:
-                print(f"  [{i+1}] Doublon ignoré")
-                continue
 
-            print(f"  [{i+1}] {titre[:65]}...")
+            print(f"  → Analyse: {titre[:65]}...")
             analyse = analyser(titre, desc, pays["id"])
+            traites += 1
 
             if not analyse:
-                print(f"  [{i+1}] ❌ Ignoré")
+                print(f"  ❌ Ignoré (analyse insuffisante)")
                 continue
 
-            print(f"  [{i+1}] ✅ résumé={len(analyse['resume_fr'])}c analyse={len(analyse['analyse_fr'])}c secteurs={len(analyse['impact_marches'])}")
+            print(f"  ✅ résumé={len(analyse['resume_fr'])}c analyse={len(analyse['analyse_fr'])}c")
             nouveaux.append({
                 "id": art_id,
-                "titre": analyse["titre_fr"] or titre,
-                "titre_en": analyse.get("titre_en", titre),
-                "titre_zh": analyse.get("titre_zh", titre),
+                "titre": analyse["titre_fr"], "titre_en": analyse["titre_en"], "titre_zh": analyse["titre_zh"],
                 "titre_original": titre,
-                "resume": analyse["resume_fr"],
-                "resume_en": analyse.get("resume_en", ""),
-                "resume_zh": analyse.get("resume_zh", ""),
-                "analyse_detaillee": analyse["analyse_fr"],
-                "analyse_en": analyse.get("analyse_en", ""),
-                "analyse_zh": analyse.get("analyse_zh", ""),
+                "resume": analyse["resume_fr"], "resume_en": analyse["resume_en"], "resume_zh": analyse["resume_zh"],
+                "analyse_detaillee": analyse["analyse_fr"], "analyse_en": analyse["analyse_en"], "analyse_zh": analyse["analyse_zh"],
                 "categorie": analyse["categorie"],
-                "source": source,
-                "url": url_art,
-                "image": image,
-                "date": date_raw,
-                "pays": pays["id"],
-                "badges": analyse["badges"],
-                "impact_marches": analyse["impact_marches"],
+                "source": source, "url": url_art, "image": image, "date": date_raw, "pays": pays["id"],
+                "badges": analyse["badges"], "impact_marches": analyse["impact_marches"],
                 "created_at": datetime.now().isoformat()
             })
 
-        old = [a for a in existing.get(pays["id"],[]) if a["id"] not in {n["id"] for n in nouveaux}]
-        new_articles[pays["id"]] = nouveaux + old
-        print(f"  → {len(nouveaux)} nouveaux + {len(old)} conservés")
+        # Fusionner : nouveaux en tête + anciens (déjà dédupliqués), limiter à 20 max
+        combined = nouveaux + existing.get(pays["id"], [])
+        # Re-dédupliquer au cas où
+        seen = set()
+        final = []
+        for a in combined:
+            nt = normalize_title(a.get("titre_original") or a.get("titre",""))
+            if nt not in seen:
+                seen.add(nt)
+                final.append(a)
+        new_articles[pays["id"]] = final[:20]
+        print(f"  → Total final: {len(new_articles[pays['id']])} articles ({len(nouveaux)} nouveaux)")
 
     with open("news_data.json","w",encoding="utf-8") as f:
         json.dump({
@@ -336,7 +359,7 @@ def main():
         }, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in new_articles.values())
-    print(f"\n[{datetime.now().strftime('%H:%M:%S')}] ✅ Terminé — {total} articles")
+    print(f"\n[{datetime.now().strftime('%H:%M:%S')}] ✅ Terminé — {total} articles uniques au total")
 
 if __name__ == "__main__":
     main()
