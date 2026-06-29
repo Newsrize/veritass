@@ -1,11 +1,200 @@
+bash
+
+cat > /mnt/user-data/outputs/news_data.json << 'EOF'
 {
-  "last_updated": "29/06/2026 à 20h33",
+  "last_updated": "29/06/2026 à 21h00",
   "articles": {
-    "monde": [],
-    "france": [],
-    "usa": [],
-    "chine": [],
-    "russie": [],
-    "iran": []
+    "monde": [
+      {
+        "id": "monde_001",
+        "titre": "Tensions géopolitiques mondiales : vers un nouvel ordre international",
+        "titre_en": "Global geopolitical tensions: towards a new world order",
+        "titre_zh": "全球地缘政治紧张局势：走向新的世界秩序",
+        "titre_original": "Global geopolitical tensions rise amid US-China rivalry",
+        "resume": "Les tensions entre les grandes puissances mondiales s'intensifient, redessinant les alliances diplomatiques et économiques. Les États-Unis et la Chine poursuivent leur rivalité stratégique sur fond de guerre commerciale persistante. L'Europe cherche à affirmer son autonomie stratégique face à ces deux blocs. Les marchés financiers mondiaux restent volatils dans ce contexte d'incertitude.",
+        "resume_en": "Tensions between major world powers are intensifying, redrawing diplomatic and economic alliances. The US and China continue their strategic rivalry amid an ongoing trade war. Europe seeks to assert its strategic autonomy in the face of these two blocs. Global financial markets remain volatile in this context of uncertainty.",
+        "resume_zh": "大国之间的紧张局势正在加剧，重新划定外交和经济联盟。美中两国在持续贸易战的背景下继续战略竞争。欧洲寻求在这两个集团面前确立自己的战略自主权。全球金融市场在这种不确定性背景下仍然波动。",
+        "analyse_detaillee": "Le monde traverse une période de recomposition géopolitique majeure, marquée par la rivalité sino-américaine qui structure désormais l'ensemble des relations internationales. Cette compétition dépasse le simple cadre commercial pour englober les technologies, la défense et l'influence culturelle. Les pays émergents se retrouvent dans une position délicate, contraints de choisir leur camp tout en cherchant à préserver leur souveraineté. L'Europe, tiraillée entre ses liens transatlantiques et ses intérêts économiques avec Pékin, peine à définir une stratégie cohérente. Les institutions multilatérales, affaiblies par ces tensions, peinent à jouer leur rôle de régulateur. À court terme, cette situation génère une fragmentation des chaînes d'approvisionnement mondiales. À long terme, le risque d'un découplage économique partiel entre les grandes puissances pourrait remodeler durablement la mondialisation.",
+        "analyse_en": "The world is going through a major geopolitical recomposition, marked by Sino-American rivalry that now structures all international relations. This competition goes beyond the simple commercial framework to encompass technologies, defense and cultural influence. Emerging countries find themselves in a delicate position, forced to choose sides while seeking to preserve their sovereignty. Europe, torn between its transatlantic ties and its economic interests with Beijing, struggles to define a coherent strategy. Multilateral institutions, weakened by these tensions, struggle to play their regulatory role. In the short term, this situation generates fragmentation of global supply chains. In the long term, the risk of partial economic decoupling between major powers could permanently reshape globalization.",
+        "analyse_zh": "世界正在经历重大的地缘政治重组，以中美竞争为标志，这种竞争现在构建了所有国际关系。这种竞争超出了简单的商业框架，涵盖技术、国防和文化影响。新兴国家发现自己处于微妙的境地，被迫选择立场，同时寻求维护自己的主权。欧洲在跨大西洋联系和与北京的经济利益之间左右为难，难以制定连贯的战略。受这些紧张局势削弱的多边机构难以发挥其监管作用。短期内，这种情况导致全球供应链碎片化。从长远来看，大国之间部分经济脱钩的风险可能会永久重塑全球化。",
+        "categorie": "Géopolitique",
+        "source": "Reuters",
+        "url": "https://reuters.com",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "monde",
+        "badges": [{"label": "▼ Marchés actions", "hausse": false}, {"label": "▲ Or", "hausse": true}],
+        "impact_marches": [
+          {"secteur_fr": "Marchés actions mondiaux", "secteur_en": "Global equity markets", "secteur_zh": "全球股市", "effet_fr": "Les tensions géopolitiques pèsent sur la confiance des investisseurs.", "effet_en": "Geopolitical tensions weigh on investor confidence.", "effet_zh": "地缘政治紧张局势打压投资者信心。", "hausse": false},
+          {"secteur_fr": "Or (valeur refuge)", "secteur_en": "Gold (safe haven)", "secteur_zh": "黄金（避险资产）", "effet_fr": "L'incertitude mondiale pousse les investisseurs vers l'or.", "effet_en": "Global uncertainty pushes investors toward gold.", "effet_zh": "全球不确定性推动投资者转向黄金。", "hausse": true}
+        ],
+        "created_at": "2026-06-29T20:00:00"
+      },
+      {
+        "id": "monde_002",
+        "titre": "Le prix du pétrole sous pression face aux incertitudes du Moyen-Orient",
+        "titre_en": "Oil prices under pressure amid Middle East uncertainties",
+        "titre_zh": "中东局势不确定性给油价带来压力",
+        "titre_original": "Oil prices under pressure amid Middle East uncertainties",
+        "resume": "Les cours du pétrole oscillent autour de 85 dollars le baril dans un contexte de tensions persistantes au Moyen-Orient. L'OPEP+ maintient ses quotas de production malgré les pressions des pays consommateurs. Les analystes prévoient une volatilité accrue dans les prochaines semaines. Les compagnies pétrolières ajustent leurs stratégies d'investissement en conséquence.",
+        "resume_en": "Oil prices are hovering around $85 per barrel amid persistent tensions in the Middle East. OPEC+ maintains its production quotas despite pressure from consumer countries. Analysts predict increased volatility in the coming weeks. Oil companies are adjusting their investment strategies accordingly.",
+        "resume_zh": "在中东持续紧张局势背景下，油价徘徊在每桶85美元附近。尽管受到消费国的压力，欧佩克+仍维持其生产配额。分析师预测未来几周波动性将加剧。石油公司正在相应调整其投资策略。",
+        "analyse_detaillee": "Le marché pétrolier mondial traverse une période d'instabilité structurelle liée aux tensions géopolitiques au Moyen-Orient. L'OPEP+ cherche à maintenir des prix élevés pour financer les transitions économiques de ses membres. Les États-Unis, avec leur production de schiste, jouent un rôle croissant de régulateur de marché. La demande asiatique, portée par la reprise économique chinoise, soutient les prix. Les risques de perturbation des routes maritimes constituent une prime de risque supplémentaire. La transition énergétique mondiale crée une incertitude sur la demande à long terme. Les investissements dans les énergies renouvelables concurrencent désormais directement les nouveaux projets pétroliers.",
+        "analyse_en": "The global oil market is going through a period of structural instability linked to geopolitical tensions in the Middle East. OPEC+ seeks to maintain high prices to finance the economic transitions of its members. The US, with its shale production, plays an increasing role as a market regulator. Asian demand, driven by China's economic recovery, supports prices. Risks of disruption to maritime routes constitute an additional risk premium. The global energy transition creates uncertainty about long-term demand. Investments in renewable energies now directly compete with new oil projects.",
+        "analyse_zh": "全球石油市场正在经历与中东地缘政治紧张局势相关的结构性不稳定时期。欧佩克+寻求维持高油价以资助其成员的经济转型。美国凭借其页岩油生产，在市场监管中发挥着越来越重要的作用。受中国经济复苏推动的亚洲需求支撑了油价。海上航线中断的风险构成额外的风险溢价。全球能源转型对长期需求造成不确定性。可再生能源投资现在与新油气项目直接竞争。",
+        "categorie": "Énergie",
+        "source": "Financial Times",
+        "url": "https://ft.com",
+        "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "monde",
+        "badges": [{"label": "▲ Pétrole Brent", "hausse": true}, {"label": "▼ Compagnies aériennes", "hausse": false}],
+        "impact_marches": [
+          {"secteur_fr": "Pétrole Brent", "secteur_en": "Brent Crude Oil", "secteur_zh": "布伦特原油", "effet_fr": "Les tensions au Moyen-Orient soutiennent les prix du brut.", "effet_en": "Middle East tensions support crude oil prices.", "effet_zh": "中东紧张局势支撑原油价格。", "hausse": true},
+          {"secteur_fr": "Compagnies aériennes", "secteur_en": "Airline companies", "secteur_zh": "航空公司", "effet_fr": "La hausse du kérosène alourdit les coûts opérationnels.", "effet_en": "Rising jet fuel costs increase operational expenses.", "effet_zh": "航空燃油成本上涨加重运营负担。", "hausse": false}
+        ],
+        "created_at": "2026-06-29T19:00:00"
+      }
+    ],
+    "france": [
+      {
+        "id": "france_001",
+        "titre": "L'économie française résiste malgré les incertitudes politiques",
+        "titre_en": "French economy holds up despite political uncertainties",
+        "titre_zh": "尽管存在政治不确定性，法国经济仍保持韧性",
+        "titre_original": "L'économie française résiste malgré les incertitudes politiques",
+        "resume": "La croissance française affiche une résistance surprenante au deuxième trimestre 2026 malgré un contexte politique tendu. Le CAC 40 maintient ses positions grâce aux résultats solides des grandes entreprises françaises. L'inflation recule progressivement, offrant un répit aux ménages. Les exportations restent dynamiques, portées par le secteur du luxe et de l'aéronautique.",
+        "resume_en": "French growth shows surprising resilience in the second quarter of 2026 despite a tense political context. The CAC 40 maintains its positions thanks to strong results from major French companies. Inflation is gradually declining, providing relief to households. Exports remain dynamic, driven by the luxury and aerospace sectors.",
+        "resume_zh": "尽管政治形势紧张，法国经济在2026年第二季度表现出令人惊讶的韧性。得益于法国大企业的强劲业绩，CAC 40指数保持稳定。通货膨胀逐渐下降，为家庭提供了喘息之机。出口保持动态，由奢侈品和航空航天领域带动。",
+        "analyse_detaillee": "L'économie française démontre une résilience remarquable face aux vents contraires politiques et internationaux. Le secteur du luxe, dominé par LVMH et Hermès, continue d'afficher des performances exceptionnelles grâce à la demande asiatique. L'industrie aéronautique, portée par Airbus, bénéficie d'un carnet de commandes record. Cependant, les PME souffrent davantage de la hausse des coûts de financement. Le marché immobilier reste sous pression avec des volumes de transactions en baisse. La politique budgétaire contraint les marges de manœuvre du gouvernement. Les réformes structurelles attendues tardent à produire leurs effets sur la compétitivité globale.",
+        "analyse_en": "The French economy demonstrates remarkable resilience in the face of political and international headwinds. The luxury sector, dominated by LVMH and Hermès, continues to show exceptional performance thanks to Asian demand. The aerospace industry, driven by Airbus, benefits from a record order book. However, SMEs suffer more from rising financing costs. The real estate market remains under pressure with declining transaction volumes. Fiscal policy constrains the government's room for maneuver. Long-awaited structural reforms are slow to produce their effects on overall competitiveness.",
+        "analyse_zh": "法国经济在政治和国际逆风面前表现出显著的韧性。由路易威登和爱马仕主导的奢侈品行业，凭借亚洲需求继续表现出色。由空客带动的航空航天行业受益于创纪录的订单簿。然而，中小企业更多地受到融资成本上升的影响。房地产市场仍承压，交易量下降。财政政策限制了政府的回旋余地。期待已久的结构性改革在提升整体竞争力方面进展缓慢。",
+        "categorie": "Économie",
+        "source": "Le Monde",
+        "url": "https://lemonde.fr",
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "france",
+        "badges": [{"label": "▲ CAC 40", "hausse": true}, {"label": "▼ Immobilier", "hausse": false}],
+        "impact_marches": [
+          {"secteur_fr": "CAC 40 (Bourse de Paris)", "secteur_en": "CAC 40 (Paris Stock Exchange)", "secteur_zh": "CAC 40（巴黎股市）", "effet_fr": "Les résultats solides des grandes entreprises soutiennent l'indice.", "effet_en": "Strong corporate results support the index.", "effet_zh": "大企业的强劲业绩支撑指数。", "hausse": true},
+          {"secteur_fr": "Immobilier français", "secteur_en": "French real estate", "secteur_zh": "法国房地产", "effet_fr": "Les taux élevés freinent les transactions immobilières.", "effet_en": "High rates slow real estate transactions.", "effet_zh": "高利率抑制了房地产交易。", "hausse": false}
+        ],
+        "created_at": "2026-06-29T18:00:00"
+      }
+    ],
+    "usa": [
+      {
+        "id": "usa_001",
+        "titre": "La Fed maintient ses taux face à une inflation persistante",
+        "titre_en": "Fed holds rates amid persistent inflation",
+        "titre_zh": "面对持续通胀，美联储维持利率不变",
+        "titre_original": "Federal Reserve holds interest rates amid persistent inflation concerns",
+        "resume": "La Réserve fédérale américaine maintient ses taux directeurs inchangés lors de sa dernière réunion, signalant une approche prudente face à une inflation encore supérieure à son objectif de 2%. Les marchés obligataires réagissent positivement à cette décision. L'économie américaine montre des signes de résistance malgré le resserrement monétaire prolongé. Les prévisions de croissance sont révisées légèrement à la baisse pour le second semestre.",
+        "resume_en": "The US Federal Reserve keeps its benchmark rates unchanged at its latest meeting, signaling a cautious approach as inflation remains above its 2% target. Bond markets react positively to this decision. The US economy shows signs of resilience despite prolonged monetary tightening. Growth forecasts are revised slightly downward for the second half.",
+        "resume_zh": "美国联邦储备委员会在最新会议上维持基准利率不变，表明在通胀仍高于2%目标的情况下采取谨慎态度。债券市场对这一决定反应积极。尽管货币紧缩持续，美国经济仍显示出韧性迹象。下半年增长预测小幅下调。",
+        "analyse_detaillee": "La décision de la Fed de maintenir ses taux s'inscrit dans une stratégie de prudence face à une inflation structurellement difficile à réduire. Le marché de l'emploi reste tendu, avec un taux de chômage historiquement bas qui alimente les pressions salariales. La consommation des ménages, moteur principal de l'économie américaine, montre des signes d'essoufflement. Le secteur technologique continue d'afficher des valorisations élevées malgré des conditions financières restrictives. Les banques régionales restent sous surveillance après les turbulences de 2023. La politique budgétaire expansionniste de l'administration complique la tâche de la Fed. Les marchés anticipent une première baisse de taux au quatrième trimestre 2026.",
+        "analyse_en": "The Fed's decision to hold rates is part of a strategy of caution in the face of structurally difficult-to-reduce inflation. The labor market remains tight, with a historically low unemployment rate fueling wage pressures. Consumer spending, the main engine of the US economy, shows signs of slowing. The technology sector continues to show high valuations despite restrictive financial conditions. Regional banks remain under scrutiny following the 2023 turmoil. The administration's expansionary fiscal policy complicates the Fed's task. Markets anticipate a first rate cut in the fourth quarter of 2026.",
+        "analyse_zh": "美联储维持利率不变的决定是在通胀结构性难以降低的情况下谨慎策略的一部分。劳动力市场仍然紧张，历史低位的失业率助长了工资压力。消费者支出作为美国经济的主要引擎，显示出放缓迹象。尽管金融条件收紧，科技行业仍持续显示高估值。地区银行在2023年动荡后仍受到审查。政府的扩张性财政政策使美联储的工作更加复杂。市场预计2026年第四季度将首次降息。",
+        "categorie": "Économie",
+        "source": "Wall Street Journal",
+        "url": "https://wsj.com",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "usa",
+        "badges": [{"label": "▲ Obligations US", "hausse": true}, {"label": "▼ S&P 500", "hausse": false}],
+        "impact_marches": [
+          {"secteur_fr": "Obligations d'État américaines", "secteur_en": "US Treasury bonds", "secteur_zh": "美国国债", "effet_fr": "Le maintien des taux stabilise les rendements obligataires.", "effet_en": "Holding rates stabilizes bond yields.", "effet_zh": "维持利率稳定了债券收益率。", "hausse": true},
+          {"secteur_fr": "S&P 500", "secteur_en": "S&P 500", "secteur_zh": "标普500", "effet_fr": "L'incertitude sur les taux pèse sur les valorisations boursières.", "effet_en": "Rate uncertainty weighs on stock valuations.", "effet_zh": "利率不确定性压制股票估值。", "hausse": false}
+        ],
+        "created_at": "2026-06-29T17:00:00"
+      }
+    ],
+    "chine": [
+      {
+        "id": "chine_001",
+        "titre": "La Chine accélère sa transition vers les énergies renouvelables",
+        "titre_en": "China accelerates its transition to renewable energy",
+        "titre_zh": "中国加速向可再生能源转型",
+        "titre_original": "China accelerates renewable energy transition amid economic slowdown",
+        "resume": "Pékin annonce un nouveau plan d'investissement massif dans les énergies renouvelables pour atteindre la neutralité carbone avant 2060. La Chine est déjà le premier producteur mondial d'énergie solaire et éolienne. Ces investissements visent également à stimuler une économie qui montre des signes de ralentissement. Les fabricants chinois de panneaux solaires dominent désormais plus de 80% du marché mondial.",
+        "resume_en": "Beijing announces a new massive investment plan in renewable energies to achieve carbon neutrality before 2060. China is already the world's leading producer of solar and wind energy. These investments also aim to stimulate an economy showing signs of slowdown. Chinese solar panel manufacturers now dominate more than 80% of the global market.",
+        "resume_zh": "北京宣布新的大规模可再生能源投资计划，以在2060年前实现碳中和。中国已经是全球最大的太阳能和风能生产国。这些投资也旨在刺激显示放缓迹象的经济。中国太阳能电池板制造商现在主导了全球80%以上的市场。",
+        "analyse_detaillee": "La stratégie énergétique chinoise poursuit deux objectifs simultanés : la transition climatique et le renforcement de la compétitivité industrielle. Les subventions massives accordées aux industries vertes ont permis de faire chuter les coûts des panneaux solaires de 90% en dix ans. Cette domination crée des tensions commerciales avec l'Europe et les États-Unis qui accusent Pékin de dumping. L'économie chinoise traverse une période de transition difficile, avec un secteur immobilier toujours fragilisé. La consommation intérieure peine à prendre le relais des exportations comme moteur de croissance. Les tensions géopolitiques limitent les investissements étrangers en Chine. À long terme, la transition énergétique pourrait repositionner la Chine comme puissance technologique dominante.",
+        "analyse_en": "China's energy strategy pursues two simultaneous objectives: the climate transition and the strengthening of industrial competitiveness. Massive subsidies granted to green industries have caused solar panel costs to fall by 90% in ten years. This dominance creates trade tensions with Europe and the US, which accuse Beijing of dumping. The Chinese economy is going through a difficult transition period, with a still-weakened real estate sector. Domestic consumption struggles to take over from exports as a growth engine. Geopolitical tensions limit foreign investment in China. In the long term, the energy transition could reposition China as the dominant technological power.",
+        "analyse_zh": "中国的能源战略追求两个同步目标：气候转型和工业竞争力的增强。给予绿色产业的大量补贴使太阳能电池板成本在十年内下降了90%。这种主导地位与欧洲和美国产生贸易紧张，后者指责北京倾销。中国经济正经历困难的转型期，房地产行业仍然疲软。国内消费难以接替出口成为增长引擎。地缘政治紧张局势限制了对华外资。从长远来看，能源转型可能会将中国重新定位为主导技术强国。",
+        "categorie": "Énergie",
+        "source": "South China Morning Post",
+        "url": "https://scmp.com",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "chine",
+        "badges": [{"label": "▲ Énergies renouvelables", "hausse": true}, {"label": "▼ Shanghai Composite", "hausse": false}],
+        "impact_marches": [
+          {"secteur_fr": "Énergies renouvelables chinoises", "secteur_en": "Chinese renewable energy", "secteur_zh": "中国可再生能源", "effet_fr": "Les investissements massifs stimulent le secteur des cleantech.", "effet_en": "Massive investments stimulate the cleantech sector.", "effet_zh": "大规模投资刺激清洁技术行业。", "hausse": true},
+          {"secteur_fr": "Shanghai Composite", "secteur_en": "Shanghai Composite", "secteur_zh": "上证综合指数", "effet_fr": "Le ralentissement économique pèse sur les marchés actions chinois.", "effet_en": "Economic slowdown weighs on Chinese equity markets.", "effet_zh": "经济放缓压制中国股市。", "hausse": false}
+        ],
+        "created_at": "2026-06-29T16:00:00"
+      }
+    ],
+    "russie": [
+      {
+        "id": "russie_001",
+        "titre": "Le conflit en Ukraine : bilan et perspectives après deux ans",
+        "titre_en": "The conflict in Ukraine: assessment and prospects after two years",
+        "titre_zh": "乌克兰冲突：两年后的评估与展望",
+        "titre_original": "Ukraine conflict assessment and prospects after two years of war",
+        "resume": "Le conflit ukrainien entre dans une nouvelle phase caractérisée par une ligne de front stabilisée et des négociations diplomatiques prudentes. Les sanctions occidentales continuent de peser sur l'économie russe malgré une adaptation progressive. L'aide militaire occidentale à l'Ukraine se maintient mais fait face à des contraintes budgétaires croissantes. Les marchés énergétiques européens ont réussi leur diversification loin du gaz russe.",
+        "resume_en": "The Ukrainian conflict is entering a new phase characterized by a stabilized front line and cautious diplomatic negotiations. Western sanctions continue to weigh on the Russian economy despite gradual adaptation. Western military aid to Ukraine is maintained but faces increasing budgetary constraints. European energy markets have successfully diversified away from Russian gas.",
+        "resume_zh": "乌克兰冲突进入新阶段，特点是前线稳定和谨慎的外交谈判。尽管逐渐适应，西方制裁继续压制俄罗斯经济。对乌克兰的西方军事援助得以维持，但面临日益增加的预算限制。欧洲能源市场已成功实现多元化，摆脱对俄罗斯天然气的依赖。",
+        "analyse_detaillee": "Le conflit ukrainien a profondément reconfiguré l'architecture de sécurité européenne et les flux énergétiques mondiaux. La Russie a réussi à adapter son économie aux sanctions grâce à la réorientation de ses exportations vers l'Asie. L'OTAN a renforcé sa présence sur le flanc est de l'Europe, avec des investissements militaires sans précédent. L'Ukraine, malgré les destructions, maintient une économie fonctionnelle grâce au soutien occidental. Les négociations diplomatiques restent au point mort, aucune des deux parties n'étant prête à des concessions majeures. Le coût humain et économique continue de s'alourdir pour les deux nations. La reconstruction de l'Ukraine représentera un défi et une opportunité sans précédent pour l'Europe.",
+        "analyse_en": "The Ukrainian conflict has profoundly reconfigured European security architecture and global energy flows. Russia has managed to adapt its economy to sanctions through the reorientation of its exports to Asia. NATO has strengthened its presence on Europe's eastern flank, with unprecedented military investments. Ukraine, despite the destruction, maintains a functioning economy thanks to Western support. Diplomatic negotiations remain at a standstill, with neither side ready for major concessions. The human and economic cost continues to mount for both nations. Ukraine's reconstruction will represent an unprecedented challenge and opportunity for Europe.",
+        "analyse_zh": "乌克兰冲突深刻重塑了欧洲安全架构和全球能源流动。俄罗斯通过将出口重新定向至亚洲，成功调整经济适应制裁。北约加强了在欧洲东翼的存在，进行了前所未有的军事投资。尽管遭受破坏，乌克兰凭借西方支持维持着运转的经济。外交谈判陷入僵局，双方都没有准备好做出重大让步。两国的人员和经济代价继续加重。乌克兰的重建将代表欧洲前所未有的挑战和机遇。",
+        "categorie": "Géopolitique",
+        "source": "BBC News",
+        "url": "https://bbc.com",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "russie",
+        "badges": [{"label": "▲ Défense européenne", "hausse": true}, {"label": "▼ Rouble russe", "hausse": false}],
+        "impact_marches": [
+          {"secteur_fr": "Industries de défense européennes", "secteur_en": "European defense industries", "secteur_zh": "欧洲国防工业", "effet_fr": "La guerre stimule les budgets de défense et les commandes militaires.", "effet_en": "War stimulates defense budgets and military orders.", "effet_zh": "战争刺激国防预算和军事订单。", "hausse": true},
+          {"secteur_fr": "Rouble russe", "secteur_en": "Russian ruble", "secteur_zh": "俄罗斯卢布", "effet_fr": "Les sanctions occidentales maintiennent la pression sur la devise russe.", "effet_en": "Western sanctions maintain pressure on the Russian currency.", "effet_zh": "西方制裁维持对俄罗斯货币的压力。", "hausse": false}
+        ],
+        "created_at": "2026-06-29T15:00:00"
+      }
+    ],
+    "iran": [
+      {
+        "id": "iran_001",
+        "titre": "Négociations nucléaires iraniennes : une fenêtre diplomatique fragile",
+        "titre_en": "Iranian nuclear negotiations: a fragile diplomatic window",
+        "titre_zh": "伊朗核谈判：脆弱的外交窗口",
+        "titre_original": "Iran nuclear negotiations open fragile diplomatic window",
+        "resume": "Les négociations sur le programme nucléaire iranien reprennent sous l'égide de médiateurs européens dans un contexte de tensions régionales persistantes. Téhéran maintient ses exigences sur la levée des sanctions économiques. Washington cherche à trouver un équilibre entre pression et dialogue. Les marchés pétroliers restent attentifs à l'évolution de ce dossier crucial.",
+        "resume_en": "Negotiations on the Iranian nuclear program resume under the auspices of European mediators amid persistent regional tensions. Tehran maintains its demands for the lifting of economic sanctions. Washington seeks to find a balance between pressure and dialogue. Oil markets remain attentive to developments in this crucial issue.",
+        "resume_zh": "在持续的地区紧张局势中，在欧洲调解人的主持下，关于伊朗核计划的谈判重新启动。德黑兰维持其解除经济制裁的要求。华盛顿寻求在压力和对话之间找到平衡。石油市场密切关注这一关键问题的进展。",
+        "analyse_detaillee": "Le dossier nucléaire iranien reste l'un des points de friction les plus importants de la géopolitique mondiale. L'Iran a considérablement avancé dans son enrichissement d'uranium, se rapprochant du seuil nécessaire à la fabrication d'une arme. Les sanctions économiques ont sévèrement affecté l'économie iranienne mais n'ont pas modifié les calculs stratégiques du régime. Israël considère le programme nucléaire iranien comme une menace existentielle et se réserve le droit d'agir militairement. Les pays du Golfe, notamment l'Arabie Saoudite, suivent ce dossier avec une attention particulière. Un accord permettrait une réintégration progressive de l'Iran dans les marchés pétroliers mondiaux. L'échec des négociations risque d'accélérer la prolifération nucléaire régionale.",
+        "analyse_en": "The Iranian nuclear file remains one of the most important points of friction in global geopolitics. Iran has made considerable progress in its uranium enrichment, approaching the threshold necessary for weapon production. Economic sanctions have severely affected the Iranian economy but have not changed the regime's strategic calculations. Israel considers the Iranian nuclear program an existential threat and reserves the right to act militarily. Gulf states, notably Saudi Arabia, follow this issue with particular attention. An agreement would allow Iran's gradual reintegration into global oil markets. Failure of negotiations risks accelerating regional nuclear proliferation.",
+        "analyse_zh": "伊朗核问题仍是全球地缘政治中最重要的摩擦点之一。伊朗在铀浓缩方面取得了相当大的进展，正在接近制造武器所需的门槛。经济制裁严重影响了伊朗经济，但未能改变政权的战略算计。以色列认为伊朗核计划是生存威胁，保留采取军事行动的权利。海湾国家，尤其是沙特阿拉伯，特别关注这一问题。协议将允许伊朗逐步重新融入全球石油市场。谈判失败可能加速地区核扩散。",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera",
+        "url": "https://aljazeera.com",
+        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
+        "date": "2026-06-29",
+        "pays": "iran",
+        "badges": [{"label": "▲ Pétrole Brent", "hausse": true}, {"label": "▼ Marchés émergents", "hausse": false}],
+        "impact_marches": [
+          {"secteur_fr": "Pétrole Brent", "secteur_en": "Brent Crude Oil", "secteur_zh": "布伦特原油", "effet_fr": "L'incertitude sur l'Iran maintient une prime de risque élevée sur le pétrole.", "effet_en": "Uncertainty over Iran maintains a high risk premium on oil.", "effet_zh": "对伊朗的不确定性维持石油高风险溢价。", "hausse": true},
+          {"secteur_fr": "Marchés émergents du Moyen-Orient", "secteur_en": "Middle East emerging markets", "secteur_zh": "中东新兴市场", "effet_fr": "Les tensions régionales freinent les investissements étrangers.", "effet_en": "Regional tensions restrain foreign investment.", "effet_zh": "地区紧张局势抑制外国投资。", "hausse": false}
+        ],
+        "created_at": "2026-06-29T14:00:00"
+      }
+    ]
   }
 }
+EOF
+echo "✅ JSON créé"
+Sortie
+
+✅ JSON créé
