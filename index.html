@@ -583,7 +583,6 @@ function setLang(l) {
   document.getElementById('si').placeholder = t['search-ph'];
   renderGrid(currentCountry);
   renderHomeGrid();
-  // Fermer le modal si ouvert pour forcer re-render
   closeM();
 }
 
@@ -612,30 +611,76 @@ async function loadNews() {
 }
 
 // ===== GRILLE ACCUEIL =====
-function getTitre(a) {
-  if(LANG==='en' && a.titre_en) return a.titre_en;
-  if(LANG==='zh' && a.titre_zh) return a.titre_zh;
-  return a.titre || a.titre_fr || '';
+// Cache de traduction pour éviter de re-traduire
+const TRANS_CACHE = {};
+
+function getLang(a, field_fr, field_en, field_zh) {
+  // Cherche le bon champ selon la langue
+  if(LANG==='en') {
+    const v = a[field_en];
+    if(v && v.length > 2) return v;
+  }
+  if(LANG==='zh') {
+    const v = a[field_zh];
+    if(v && v.length > 2) return v;
+  }
+  return a[field_fr] || a['titre'] || a['resume'] || '';
 }
-function getResume(a) {
-  if(LANG==='en' && a.resume_en) return a.resume_en;
-  if(LANG==='zh' && a.resume_zh) return a.resume_zh;
-  return a.resume || a.resume_fr || '';
-}
-function getAnalyse(a) {
-  if(LANG==='en' && a.analyse_en) return a.analyse_en;
-  if(LANG==='zh' && a.analyse_zh) return a.analyse_zh;
-  return a.analyse_detaillee || a.analyse_fr || '';
-}
-function getMktSecteur(m) {
-  if(LANG==='en' && m.secteur_en) return m.secteur_en;
-  if(LANG==='zh' && m.secteur_zh) return m.secteur_zh;
-  return m.secteur_fr || m.secteur || '';
-}
-function getMktEffet(m) {
-  if(LANG==='en' && m.effet_en) return m.effet_en;
-  if(LANG==='zh' && m.effet_zh) return m.effet_zh;
-  return m.effet_fr || m.effet || '';
+
+function getTitre(a) { return getLang(a,'titre','titre_en','titre_zh') || a.titre || ''; }
+function getResume(a) { return getLang(a,'resume','resume_en','resume_zh') || a.resume || ''; }
+function getAnalyse(a) { return getLang(a,'analyse_detaillee','analyse_en','analyse_zh') || a.analyse_detaillee || ''; }
+function getMktSecteur(m) { return getLang(m,'secteur_fr','secteur_en','secteur_zh') || m.secteur || ''; }
+function getMktEffet(m) { return getLang(m,'effet_fr','effet_en','effet_zh') || m.effet || ''; }
+
+async function translateArticle(a) {
+  if(LANG === 'fr') return; // pas besoin
+  const cacheKey = a.id + '_' + LANG;
+  if(TRANS_CACHE[cacheKey]) return; // déjà traduit
+
+  const srcTitre = a.titre || a.titre_fr || '';
+  const srcResume = a.resume || a.resume_fr || '';
+  const srcAnalyse = a.analyse_detaillee || a.analyse_fr || '';
+  const srcMkt = (a.impact_marches||[]).map(m=>({s:m.secteur_fr||m.secteur||'',e:m.effet_fr||m.effet||'',h:m.hausse}));
+
+  const langName = LANG==='en' ? 'English' : 'Mandarin Chinese (simplified)';
+  const prompt = `Translate this news content to ${langName}. Return ONLY valid JSON, no markdown, no explanation:
+{"titre":"...","resume":"...","analyse":"...","marches":[{"s":"sector name","e":"effect description","h":true/false}]}
+
+Content to translate:
+TITRE: ${srcTitre}
+RESUME: ${srcResume}
+ANALYSE: ${srcAnalyse.slice(0,500)}
+MARCHES: ${JSON.stringify(srcMkt.slice(0,2))}`;
+
+  try {
+    const r = await fetch('https://api.anthropic.com/v1/messages', {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model:'claude-haiku-4-5-20251001',
+        max_tokens:1000,
+        messages:[{role:'user',content:prompt}]
+      })
+    });
+    if(!r.ok) return;
+    const data = await r.json();
+    let text = data.content[0].text.trim();
+    if(text.includes('```')) { text = text.split('```')[1].replace(/^json/,'').trim(); }
+    const t = JSON.parse(text);
+
+    // Stocker dans l'article ET dans le cache
+    if(LANG==='en') {
+      a.titre_en = t.titre; a.resume_en = t.resume; a.analyse_en = t.analyse;
+      if(t.marches) t.marches.forEach((m,i)=>{ if(a.impact_marches[i]){a.impact_marches[i].secteur_en=m.s;a.impact_marches[i].effet_en=m.e;} });
+    } else {
+      a.titre_zh = t.titre; a.resume_zh = t.resume; a.analyse_zh = t.analyse;
+      if(t.marches) t.marches.forEach((m,i)=>{ if(a.impact_marches[i]){a.impact_marches[i].secteur_zh=m.s;a.impact_marches[i].effet_zh=m.e;} });
+    }
+    TRANS_CACHE[cacheKey] = true;
+  } catch(e) {
+    console.log('Translation error:', e);
+  }
 }
 
 function renderHomeGrid() {
@@ -663,7 +708,7 @@ function renderGrid(pays) {
   currentCountry = pays;
   const grid = document.getElementById('agrid');
   const arts = NEWS[pays];
-  if(!arts||!arts.length){grid.innerHTML='<div class="loading">'+T[LANG]['loading']+'</div>';return;}
+  if(!arts||!arts.length){grid.innerHTML='<div class="loading">Aucun article disponible.</div>';return;}
   const feat = arts[0];
   const minis = arts.slice(1,4);
   const t = T[LANG];
@@ -695,11 +740,15 @@ function renderGrid(pays) {
 }
 
 // ===== MODAL ACTUALITÉ DYNAMIQUE =====
-function openDyn(pays, id) {
+async function openDyn(pays, id) {
   const arts = NEWS[pays]||[];
   const a = arts.find(x=>x.id===id);
   if(!a) return;
   const t = T[LANG];
+  // Traduire si nécessaire avant d'afficher
+  if(LANG !== 'fr') {
+    await translateArticle(a);
+  }
   const flags = {monde:'🌍',france:'🇫🇷',usa:'🇺🇸',chine:'🇨🇳',russie:'🇷🇺',iran:'🇮🇷'};
 
   // Contenu dans la bonne langue
