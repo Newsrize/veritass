@@ -1,6 +1,3 @@
-bash
-
-cat > /mnt/user-data/outputs/update_news.py << 'PYEOF'
 import os, json, requests, re, time
 from datetime import datetime, timedelta
 
@@ -280,5 +277,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-PYEOF
-echo "✅ $(wc -l < /mnt/user-data/outputs/update_news.py) lignes"
