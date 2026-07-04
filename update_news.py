@@ -1,3 +1,6 @@
+bash
+
+cat > /mnt/user-data/outputs/update_news.py << 'PYEOF'
 import os, json, requests, re, time
 from datetime import datetime, timedelta
 
@@ -8,9 +11,9 @@ PAYS = [
     {"id": "monde",  "query": "geopolitics war economy 2026", "lang": "en"},
     {"id": "france", "query": "France politique economie 2026", "lang": "fr"},
     {"id": "usa",    "query": "Trump United States politics 2026", "lang": "en"},
-    {"id": "chine",  "query": "China Xi economy Taiwan 2026", "lang": "en"},
-    {"id": "russie", "query": "Russia Ukraine war NATO 2026", "lang": "en"},
-    {"id": "iran",   "query": "Iran Middle East nuclear 2026", "lang": "en"},
+    {"id": "chine",  "query": "China Xi economy 2026", "lang": "en"},
+    {"id": "russie", "query": "Russia Ukraine war 2026", "lang": "en"},
+    {"id": "iran",   "query": "Iran Middle East 2026", "lang": "en"},
 ]
 
 IMGS = {
@@ -22,7 +25,8 @@ IMGS = {
     "iran":   "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
 }
 
-EXCLUS = ["essay","draft","tutorial","subscribe","newsletter","podcast","show hn","hili dialogue","market report","market size","market research","global market","forecasted","billion market"]
+EXCLUS = ["market report","market size","market research","global market","forecasted","billion market",
+          "show hn","hili dialogue","essay","tutorial","subscribe","podcast","fireworks","nfl","nba","sports"]
 
 def normalize(t):
     return re.sub(r'\s+', ' ', (t or "").lower().strip())[:80]
@@ -33,93 +37,115 @@ def is_valid(title, desc):
     text = (title + " " + (desc or "")).lower()
     return not any(m in text for m in EXCLUS)
 
-def get_articles(query, lang):
+def get_one_article(query, lang):
+    """Récupère UN seul article valide par pays"""
     try:
         r = requests.get("https://newsapi.org/v2/everything", params={
             "q": query, "language": lang, "sortBy": "publishedAt",
-            "pageSize": 5, "apiKey": NEWSAPI_KEY,
+            "pageSize": 10, "apiKey": NEWSAPI_KEY,
             "from": (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
         }, timeout=10)
         if r.status_code == 200:
-            arts = [a for a in r.json().get("articles", []) if is_valid(a.get("title"), a.get("description"))]
-            seen, out = set(), []
-            for a in arts:
-                k = normalize(a["title"])
-                if k not in seen:
-                    seen.add(k)
-                    out.append(a)
-            return out
+            for a in r.json().get("articles", []):
+                if is_valid(a.get("title"), a.get("description")):
+                    return a
     except Exception as e:
         print(f"  NewsAPI: {e}")
-    return []
-
-def gemini_json(prompt, retries=3):
-    for attempt in range(retries):
-        for model in ["gemini-2.0-flash", "gemini-1.5-flash"]:
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}"
-            try:
-                r = requests.post(url, json={
-                    "contents": [{"parts": [{"text": prompt}]}],
-                    "generationConfig": {"temperature": 0.1, "maxOutputTokens": 2000}
-                }, timeout=45)
-                if r.status_code == 200:
-                    text = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
-                    m = re.search(r'\{[\s\S]*\}', text)
-                    if m:
-                        return json.loads(m.group())
-                elif r.status_code == 429:
-                    wait = 30 * (attempt + 1)
-                    print(f"  Rate limit, attente {wait}s...")
-                    time.sleep(wait)
-                    break  # Sortir de la boucle models et réessayer
-                else:
-                    print(f"  {model}: HTTP {r.status_code}")
-            except Exception as e:
-                print(f"  {model}: {e}")
     return None
 
-def analyser(titre, desc, pays_id):
-    prompt = f"""You are a journalist. Translate and analyze this news. Return ONLY valid JSON.
+def gemini_call(prompt):
+    """Un seul appel Gemini avec retry"""
+    for model in ["gemini-2.0-flash", "gemini-1.5-flash"]:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}"
+        try:
+            r = requests.post(url, json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0.1, "maxOutputTokens": 4000}
+            }, timeout=60)
+            if r.status_code == 200:
+                text = r.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+                return text
+            elif r.status_code == 429:
+                print(f"  Rate limit sur {model}, essai modèle suivant dans 5s...")
+                time.sleep(5)
+            else:
+                print(f"  {model}: HTTP {r.status_code} - {r.text[:100]}")
+        except Exception as e:
+            print(f"  {model}: {e}")
+    return None
 
-Title: {titre}
-Description: {desc[:300]}
-Region: {pays_id}
+def analyser_tous(articles_par_pays):
+    """Une seule requête Gemini pour TOUS les pays"""
+    
+    # Construire la liste des articles à analyser
+    lines = []
+    for pid, art in articles_par_pays.items():
+        titre = (art.get("title") or "")[:150]
+        desc = (art.get("description") or "")[:200]
+        lines.append(f'PAYS:{pid}|TITRE:{titre}|DESC:{desc}')
+    
+    prompt = f"""You are a journalist for Veritass.fr. Translate and analyze these {len(lines)} news articles.
+Return a JSON array with one object per article, in the SAME ORDER as input.
 
-JSON to return (fill ALL fields with real content):
-{{
-  "titre_fr": "titre français max 12 mots",
-  "titre_en": "english title max 12 words",
-  "titre_zh": "中文标题最多12字",
-  "resume_fr": "Résumé 3 phrases français.",
-  "resume_en": "Summary 3 sentences English.",
-  "resume_zh": "摘要3句中文。",
-  "analyse_fr": "Analyse 5 phrases français avec contexte et enjeux.",
-  "analyse_en": "Analysis 5 sentences English with context and stakes.",
-  "analyse_zh": "分析5句中文含背景和影响。",
-  "categorie": "Géopolitique",
-  "s1_fr": "secteur financier précis",
-  "s1_en": "precise financial sector",
-  "s1_zh": "具体金融行业",
-  "s1_effet_fr": "Impact sur ce secteur en 1 phrase.",
-  "s1_effet_en": "Impact on this sector in 1 sentence.",
-  "s1_effet_zh": "对该行业影响一句话。",
-  "s1_hausse": true,
-  "s2_fr": "second secteur différent",
-  "s2_en": "second different sector",
-  "s2_zh": "第二个不同行业",
-  "s2_effet_fr": "Impact secteur 2 en 1 phrase.",
-  "s2_effet_en": "Impact sector 2 in 1 sentence.",
-  "s2_effet_zh": "第二行业影响一句话。",
-  "s2_hausse": false
-}}"""
+Articles:
+{chr(10).join(f"{i+1}. {l}" for i,l in enumerate(lines))}
 
-    result = gemini_json(prompt)
-    if not result:
-        return None
-    if not result.get("titre_en") or not result.get("resume_en") or len(result.get("resume_fr","")) < 30:
-        print(f"  ⚠ Champs insuffisants")
-        return None
-    return result
+Return ONLY this JSON array (no markdown, no text):
+[
+  {{
+    "pays": "monde",
+    "titre_fr": "titre français max 10 mots",
+    "titre_en": "english title max 10 words", 
+    "titre_zh": "中文标题最多10字",
+    "resume_fr": "Résumé 2 phrases français.",
+    "resume_en": "Summary 2 sentences English.",
+    "resume_zh": "摘要2句中文。",
+    "analyse_fr": "Analyse 4 phrases français: contexte, enjeux, conséquences, perspectives.",
+    "analyse_en": "Analysis 4 sentences English: context, stakes, consequences, prospects.",
+    "analyse_zh": "分析4句中文：背景、影响、后果、前景。",
+    "categorie": "Géopolitique",
+    "s1_fr": "Secteur financier précis",
+    "s1_en": "Precise financial sector",
+    "s1_zh": "具体金融行业",
+    "s1_effet_fr": "Impact en 1 phrase.",
+    "s1_effet_en": "Impact in 1 sentence.",
+    "s1_effet_zh": "影响一句话。",
+    "s1_hausse": true,
+    "s2_fr": "Second secteur différent",
+    "s2_en": "Second different sector",
+    "s2_zh": "第二个行业",
+    "s2_effet_fr": "Impact secteur 2.",
+    "s2_effet_en": "Impact sector 2.",
+    "s2_effet_zh": "第二行业影响。",
+    "s2_hausse": false
+  }}
+]
+
+Fill all fields with real content. Return exactly {len(lines)} objects."""
+
+    text = gemini_call(prompt)
+    if not text:
+        return {}
+    
+    # Extraire le JSON array
+    m = re.search(r'\[[\s\S]*\]', text)
+    if not m:
+        print(f"  ⚠ Pas de JSON array trouvé dans la réponse")
+        return {}
+    
+    try:
+        results = json.loads(m.group())
+        # Mapper par pays
+        out = {}
+        pays_list = list(articles_par_pays.keys())
+        for i, obj in enumerate(results):
+            if i < len(pays_list):
+                pid = obj.get("pays") or pays_list[i]
+                out[pid] = obj
+        return out
+    except Exception as e:
+        print(f"  ⚠ Erreur parsing JSON: {e}")
+        return {}
 
 def load_existing():
     try:
@@ -129,17 +155,16 @@ def load_existing():
         return {}
 
 def clean(data):
-    cutoff = datetime.now() - timedelta(days=180)  # 6 mois
+    """Conserve articles valides des 6 derniers mois"""
+    cutoff = datetime.now() - timedelta(days=180)
     cleaned = {}
     for pays, arts in data.items():
         seen, kept = set(), []
         for a in arts:
-            # Garder seulement si traductions présentes
             if not a.get("titre_en") or len(a.get("titre_en","")) < 3:
                 continue
             if not a.get("resume_en") or len(a.get("resume_en","")) < 10:
                 continue
-            # Vérifier date (6 mois max)
             try:
                 d = datetime.strptime(a.get("date","2020-01-01"), "%Y-%m-%d")
                 if d < cutoff:
@@ -156,53 +181,61 @@ def clean(data):
     return cleaned
 
 def main():
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage...")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage (1 requête Gemini pour tout)...")
     existing = clean(load_existing())
-    new_articles = {}
 
+    # Étape 1 : collecter UN article par pays depuis NewsAPI
+    articles_bruts = {}
+    existing_titles = {}
+    
     for pays in PAYS:
         pid = pays["id"]
-        print(f"\n→ {pid.upper()}")
-        bruts = get_articles(pays["query"], pays["lang"])
-        existing_titles = {normalize(a.get("titre_original") or a.get("titre",""))
-                          for a in existing.get(pid, [])}
-
-        nouveaux = []
-        for art in bruts:
-            if len(nouveaux) >= 2:  # Max 2 nouveaux par pays pour éviter rate limit
-                break
+        existing_titles[pid] = {normalize(a.get("titre_original") or a.get("titre",""))
+                                for a in existing.get(pid, [])}
+        art = get_one_article(pays["query"], pays["lang"])
+        if art:
             titre = (art.get("title") or "").strip()
-            if not titre or normalize(titre) in existing_titles:
+            if titre and normalize(titre) not in existing_titles[pid]:
+                articles_bruts[pid] = art
+                print(f"→ {pid.upper()}: {titre[:60]}...")
+            else:
+                print(f"→ {pid.upper()}: déjà en base ou invalide")
+        else:
+            print(f"→ {pid.upper()}: aucun article trouvé")
+
+    # Étape 2 : UNE SEULE requête Gemini pour tous les articles
+    nouveaux_analysés = {}
+    if articles_bruts:
+        print(f"\nAnalyse Gemini ({len(articles_bruts)} articles en 1 requête)...")
+        resultats = analyser_tous(articles_bruts)
+        
+        for pid, r in resultats.items():
+            if not r or not r.get("titre_en") or not r.get("resume_en"):
+                print(f"  {pid}: ❌ résultat invalide")
                 continue
-            desc = (art.get("description") or "")[:300]
-            source = art.get("source", {}).get("name", "")
-            date_raw = (art.get("publishedAt") or "")[:10]
-            url_art = art.get("url", "#")
+            
+            art = articles_bruts.get(pid, {})
+            titre = (art.get("title") or "").strip()
             image = art.get("urlToImage") or IMGS.get(pid, "")
-
-            print(f"  → {titre[:60]}...")
-            r = analyser(titre, desc, pid)
-
-            if not r:
-                print(f"  ❌ Ignoré")
-                continue
-
-            print(f"  ✅ OK ({len(r.get('resume_fr',''))}c FR / {len(r.get('resume_en',''))}c EN)")
-            nouveaux.append({
+            
+            nouveaux_analysés[pid] = {
                 "id": f"{pid}_{abs(hash(titre)) % 1000000}",
                 "titre": r.get("titre_fr", titre),
                 "titre_en": r.get("titre_en", titre),
                 "titre_zh": r.get("titre_zh", titre),
                 "titre_original": titre,
-                "resume": r.get("resume_fr", desc),
-                "resume_en": r.get("resume_en", desc),
-                "resume_zh": r.get("resume_zh", desc),
+                "resume": r.get("resume_fr", ""),
+                "resume_en": r.get("resume_en", ""),
+                "resume_zh": r.get("resume_zh", ""),
                 "analyse_detaillee": r.get("analyse_fr", ""),
                 "analyse_en": r.get("analyse_en", ""),
                 "analyse_zh": r.get("analyse_zh", ""),
                 "categorie": r.get("categorie", "Actualité"),
-                "source": source, "url": url_art, "image": image,
-                "date": date_raw, "pays": pid,
+                "source": art.get("source", {}).get("name", ""),
+                "url": art.get("url", "#"),
+                "image": image,
+                "date": (art.get("publishedAt") or "")[:10],
+                "pays": pid,
                 "badges": [
                     {"label": f"{'▲' if r.get('s1_hausse') else '▼'} {r.get('s1_fr','')}", "hausse": r.get("s1_hausse", False)},
                     {"label": f"{'▲' if r.get('s2_hausse') else '▼'} {r.get('s2_fr','')}", "hausse": r.get("s2_hausse", False)},
@@ -216,17 +249,25 @@ def main():
                      "hausse": r.get("s2_hausse", False)},
                 ],
                 "created_at": datetime.now().isoformat()
-            })
-            # Pause entre chaque article pour éviter le rate limit
-            time.sleep(5)
+            }
+            print(f"  {pid}: ✅ {r.get('titre_fr','')[:50]}")
 
-        old = [a for a in existing.get(pid, [])
-               if normalize(a.get("titre_original") or a.get("titre",""))
-               not in {normalize(n.get("titre_original") or n.get("titre","")) for n in nouveaux}]
-
-        # Fusionner : nouveaux en tête + anciens conservés (6 mois)
-        new_articles[pid] = (nouveaux + old)[:20]
-        print(f"  Total: {len(nouveaux)} nouveaux + {len(old)} conservés = {len(new_articles[pid])}")
+    # Étape 3 : fusionner nouveaux + anciens
+    new_articles = {}
+    for pays in PAYS:
+        pid = pays["id"]
+        nouveau = nouveaux_analysés.get(pid)
+        old = existing.get(pid, [])
+        
+        if nouveau:
+            # Ajouter en tête, éviter doublon
+            old_filtered = [a for a in old if normalize(a.get("titre_original") or a.get("titre","")) 
+                           != normalize(nouveau.get("titre_original") or nouveau.get("titre",""))]
+            new_articles[pid] = ([nouveau] + old_filtered)[:20]
+        else:
+            new_articles[pid] = old[:20]
+        
+        print(f"  {pid}: {len(new_articles[pid])} articles (6 mois conservés)")
 
     with open("news_data.json", "w", encoding="utf-8") as f:
         json.dump({
@@ -235,7 +276,9 @@ def main():
         }, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in new_articles.values())
-    print(f"\n✅ Terminé — {total} articles (conservation 6 mois)")
+    print(f"\n✅ Terminé — {total} articles au total")
 
 if __name__ == "__main__":
     main()
+PYEOF
+echo "✅ $(wc -l < /mnt/user-data/outputs/update_news.py) lignes"
