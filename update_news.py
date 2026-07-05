@@ -52,8 +52,8 @@ def get_one_article(query, lang):
 
 def gemini_call(prompt):
     """Un seul appel Gemini avec retry"""
-    for model in ["gemini-1.5-flash-latest", "gemini-1.5-flash-8b", "gemini-pro"]:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_KEY}"
+    for model in ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-1.5-flash"]:
+        url = f"https://generativelanguage.googleapis.com/v1/models/{model}:generateContent?key={GEMINI_KEY}"
         try:
             r = requests.post(url, json={
                 "contents": [{"parts": [{"text": prompt}]}],
