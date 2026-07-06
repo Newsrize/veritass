@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 06h12",
+  "last_updated": "06/07/2026 à 11h18",
   "articles": {
     "monde": [
       {
@@ -156,6 +156,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_248817",
+        "titre": "Sauver la nation",
+        "titre_en": "Save Our Nation",
+        "titre_zh": "拯救我们的国家",
+        "titre_original": "J. Michael Luttig: How to Save Our Nation and the Rule of Law",
+        "resume": "Le juge J. Michael Luttig a prononcé un discours à la conférence sur l'intégrité électorale. Il a souligné l'importance de la loi. Les États-Unis traversent une période critique.",
+        "resume_en": "Judge J. Michael Luttig delivered a speech at the Election Integrity Summit. He emphasized the importance of the law. The United States is going through a critical period.",
+        "resume_zh": "法官J. Michael Luttig在选举诚信峰会上发表讲话。他强调了法律的重要性。美国正在经历一个关键时期。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions politiques aux États-Unis. Les enjeux principaux sont la stabilité du système démocratique. Les conséquences à court terme sont une possible augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont les partis politiques.",
+        "analyse_en": "The historical context is marked by political tensions in the United States. The main stakes are the stability of the democratic system. The short-term consequences are a possible increase in tensions. The long-term prospects are uncertain. The key actors are the political parties.",
+        "analyse_zh": "历史背景是美国的政治紧张。主要影响是民主制度的稳定。短期后果是紧张局势可能加剧。长期前景是不确定的。主要参与者是政党。",
+        "categorie": "Géopolitique",
+        "source": "Dianeravitch.net",
+        "url": "https://dianeravitch.net/2026/07/04/j-michael-luttig-how-to-save-our-bation-and-the-rule-of-law/",
+        "image": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+        "date": "2026-07-04",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché boursier",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur financier",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier",
+            "secteur_en": "Stock market",
+            "secteur_zh": "股票市场",
+            "effet_fr": "Les tensions politiques pourraient avoir un impact négatif sur le marché boursier.",
+            "effet_en": "Political tensions could have a negative impact on the stock market.",
+            "effet_zh": "政治紧张可能对股票市场产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "Les conséquences à long terme pourraient être bénéfiques pour le secteur financier.",
+            "effet_en": "The long-term consequences could be beneficial for the financial sector.",
+            "effet_zh": "长期后果可能对金融行业有益。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T11:18:22.712971"
+      },
       {
         "id": "usa_419069",
         "titre": "Conducteur illégal",
@@ -461,6 +511,56 @@
     ],
     "russie": [
       {
+        "id": "russie_79678",
+        "titre": "Attaque en Crimée",
+        "titre_en": "Attack in Crimea",
+        "titre_zh": "克里米亚袭击",
+        "titre_original": "1 killed in attack on Crimea as Putin and Zelensky hold separate Trump calls",
+        "resume": "Une attaque a eu lieu en Crimée, faisant un mort et deux blessés. Le gouverneur Sergei Aksyonov a condamné l'attaque.",
+        "resume_en": "An attack occurred in Crimea, killing one person and injuring two. Governor Sergei Aksyonov condemned the attack.",
+        "resume_zh": "克里米亚发生袭击，造成一死两伤。州长Sergei Aksyonov谴责了袭击。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la stabilité de la région. Les conséquences à court terme sont une possible augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont la Russie et l'Ukraine.",
+        "analyse_en": "The historical context is marked by tensions between Russia and Ukraine. The main stakes are the stability of the region. The short-term consequences are a possible increase in tensions. The long-term prospects are uncertain. The key actors are Russia and Ukraine.",
+        "analyse_zh": "历史背景是俄罗斯和乌克兰之间的紧张。主要影响是该地区的稳定。短期后果是紧张局势可能加剧。长期前景是不确定的。主要参与者是俄罗斯和乌克兰。",
+        "categorie": "Géopolitique",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/05/world-news/crimea-attack-kills-1-as-putin-and-zelensky-hold-separate-trump-calls/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-6qfnzfp30-1783245933800.jpg?quality=75&strip=all&1783231598&w=1200",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Marché de l'énergie",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur de la défense",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché de l'énergie",
+            "secteur_en": "Energy market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "L'attaque en Crimée pourrait avoir un impact sur le marché de l'énergie.",
+            "effet_en": "The attack in Crimea could have an impact on the energy market.",
+            "effet_zh": "克里米亚袭击可能对能源市场产生影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "Les conséquences à long terme pourraient être bénéfiques pour le secteur de la défense.",
+            "effet_en": "The long-term consequences could be beneficial for the defense sector.",
+            "effet_zh": "长期后果可能对国防行业有益。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T11:18:22.713002"
+      },
+      {
         "id": "russie_342176",
         "titre": "Trump offre aide",
         "titre_en": "Trump offers help",
@@ -612,6 +712,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_75717",
+        "titre": "OPEC+ augmente les quotas",
+        "titre_en": "OPEC+ raises quotas",
+        "titre_zh": "欧佩克+提高配额",
+        "titre_original": "OPEC+ raises quotas again as Middle East calms",
+        "resume": "L'OPEC+ a décidé d'augmenter les quotas de production de pétrole. Cette décision a été prise en raison de la stabilité du marché.",
+        "resume_en": "OPEC+ has decided to increase oil production quotas. This decision was made due to market stability.",
+        "resume_zh": "欧佩克+决定提高石油生产配额。该决定是由于市场稳定而做出的。",
+        "analyse_detaillee": "Le contexte historique est marqué par les fluctuations du marché pétrolier. Les enjeux principaux sont la stabilité du marché. Les conséquences à court terme sont une possible augmentation de la production. Les perspectives à long terme sont incertaines. Les acteurs clés sont les pays producteurs de pétrole.",
+        "analyse_en": "The historical context is marked by fluctuations in the oil market. The main stakes are market stability. The short-term consequences are a possible increase in production. The long-term prospects are uncertain. The key actors are oil-producing countries.",
+        "analyse_zh": "历史背景是石油市场的波动。主要影响是市场稳定。短期后果是生产可能增加。长期前景是不确定的。主要参与者是石油生产国。",
+        "categorie": "Géopolitique",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/opec-raises-quotas-again-as-middle-east-calms/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/opec-barrel-stock.png",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur énergétique",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "La décision de l'OPEC+ pourrait avoir un impact positif sur le marché pétrolier.",
+            "effet_en": "The OPEC+ decision could have a positive impact on the oil market.",
+            "effet_zh": "欧佩克+的决定可能对石油市场产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les conséquences à long terme pourraient être bénéfiques pour le secteur énergétique.",
+            "effet_en": "The long-term consequences could be beneficial for the energy sector.",
+            "effet_zh": "长期后果可能对能源行业有益。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T11:18:22.713013"
+      },
       {
         "id": "iran_575469",
         "titre": "Iran met en garde",
