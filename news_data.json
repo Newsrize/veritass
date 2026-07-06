@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 05h46",
+  "last_updated": "06/07/2026 à 05h51",
   "articles": {
     "monde": [
       {
@@ -157,6 +157,56 @@
     ],
     "usa": [
       {
+        "id": "usa_137004",
+        "titre": "Tempête en Washington",
+        "titre_en": "Severe weather in US",
+        "titre_zh": "美国恶劣天气",
+        "titre_original": "Severe weather disrupts US’s 250th celebrations",
+        "resume": "Les célébrations du 250e anniversaire des États-Unis ont été perturbées par une tempête. Le président Trump a décidé de parler à Washington malgré la tempête. Les célébrations ont été retardées en raison de la météo.",
+        "resume_en": "The US's 250th anniversary celebrations were disrupted by a storm. President Trump will still speak in Washington despite the storm. The celebrations were delayed due to the weather.",
+        "resume_zh": "美国250周年庆祝活动因暴风雨而受到干扰。特朗普总统决定尽管有暴风雨仍在华盛顿发言。庆祝活动因天气而延迟。",
+        "analyse_detaillee": "Le contexte historique de cette tempête est important car elle perturbe les célébrations nationales. Les enjeux principaux sont la sécurité des participants et la réussite des célébrations. Les conséquences à court terme sont la perturbation des activités. Les perspectives à long terme sont la reprise des célébrations. Les acteurs principaux sont le gouvernement et les organisateurs.",
+        "analyse_en": "The historical context of this storm is important as it disrupts national celebrations. The main stakes are the safety of participants and the success of the celebrations. The short-term consequences are the disruption of activities. The long-term prospects are the resumption of celebrations. The main actors are the government and the organizers.",
+        "analyse_zh": "这场风暴的历史背景很重要，因为它扰乱了全国性的庆祝活动。主要影响是参与者的安全和庆祝活动的成功。短期后果是活动的中断。长期前景是庆祝活动的恢复。主要参与者是政府和组织者。",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-05T005750Z_781777392_RC2B7MA1VG93_RTRMADP_3_USA-250-1783219880.jpg?resize=1920%2C1440",
+        "date": "2026-07-05",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché financier américain",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur des assurances",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché financier américain",
+            "secteur_en": "US financial market",
+            "secteur_zh": "美国金融市场",
+            "effet_fr": "La tempête a pu avoir un impact négatif sur le marché financier américain en raison de la perturbation des activités.",
+            "effet_en": "The storm may have had a negative impact on the US financial market due to the disruption of activities.",
+            "effet_zh": "风暴可能对美国金融市场产生了负面影响，因为活动受到干扰。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur des assurances",
+            "secteur_en": "Insurance sector",
+            "secteur_zh": "保险行业",
+            "effet_fr": "Le secteur des assurances pourrait être impacté par les dégâts causés par la tempête.",
+            "effet_en": "The insurance sector may be impacted by the damage caused by the storm.",
+            "effet_zh": "保险行业可能会受到风暴造成的损害的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T05:51:25.625550"
+      },
+      {
         "id": "usa_001",
         "titre": "La Fed maintient ses taux face à une inflation persistante",
         "titre_en": "Fed holds rates amid persistent inflation",
@@ -208,6 +258,56 @@
       }
     ],
     "chine": [
+      {
+        "id": "chine_31734",
+        "titre": "Le Parti communiste chinois",
+        "titre_en": "Chinese Communist Party",
+        "titre_zh": "中国共产党",
+        "titre_original": "CGTN: Why the world is asking: What makes the CPC work?",
+        "resume": "Le Parti communiste chinois fête son 105e anniversaire. Un article de CGTN examine pourquoi le Parti continue d'attirer de plus en plus de personnes. Le Parti a une longue histoire et a réalisé de nombreux progrès.",
+        "resume_en": "The Chinese Communist Party is celebrating its 105th anniversary. A CGTN article examines why the Party continues to attract more and more people. The Party has a long history and has made many achievements.",
+        "resume_zh": "中国共产党庆祝其105周年。CGTN的一篇文章探讨了为什么该党继续吸引越来越多的人。该党有着悠久的历史，并取得了许多成就。",
+        "analyse_detaillee": "Le contexte historique du Parti communiste chinois est riche et complexe. Les enjeux principaux sont la stabilité et la croissance économique. Les conséquences à court terme sont la poursuite de la croissance. Les perspectives à long terme sont la consolidation du pouvoir. Les acteurs principaux sont le Parti et le gouvernement.",
+        "analyse_en": "The historical context of the Chinese Communist Party is rich and complex. The main stakes are stability and economic growth. The short-term consequences are the continuation of growth. The long-term prospects are the consolidation of power. The main actors are the Party and the government.",
+        "analyse_zh": "中国共产党的历史背景丰富而复杂。主要影响是稳定和经济增长。短期后果是增长的继续。长期前景是权力的巩固。主要参与者是党和政府。",
+        "categorie": "Géopolitique",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/cgtn-why-the-world-is-asking-what-makes-the-cpc-work",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-07-04",
+        "pays": "chine",
+        "badges": [
+          {
+            "label": "▲ Marché financier chinois",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur des technologies",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché financier chinois",
+            "secteur_en": "Chinese financial market",
+            "secteur_zh": "中国金融市场",
+            "effet_fr": "Le Parti communiste chinois a un impact important sur le marché financier chinois en raison de ses décisions économiques.",
+            "effet_en": "The Chinese Communist Party has a significant impact on the Chinese financial market due to its economic decisions.",
+            "effet_zh": "中国共产党对中国金融市场有着重要影响，因为其经济决策。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des technologies",
+            "secteur_en": "Technology sector",
+            "secteur_zh": "技术行业",
+            "effet_fr": "Le Parti communiste chinois encourage le développement des technologies pour stimuler la croissance économique.",
+            "effet_en": "The Chinese Communist Party encourages the development of technology to stimulate economic growth.",
+            "effet_zh": "中国共产党鼓励技术的发展以刺激经济增长。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T05:51:25.625577"
+      },
       {
         "id": "chine_001",
         "titre": "La Chine accélère sa transition vers les énergies renouvelables",
@@ -261,6 +361,56 @@
     ],
     "russie": [
       {
+        "id": "russie_188654",
+        "titre": "La bourse indienne",
+        "titre_en": "Indian stock market",
+        "titre_zh": "印度股票市场",
+        "titre_original": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week",
+        "resume": "La bourse indienne a augmenté de 262 points. Les investisseurs sont optimistes quant à la croissance économique. Les résultats du premier trimestre seront publiés cette semaine.",
+        "resume_en": "The Indian stock market gained 262 points. Investors are optimistic about economic growth. The first-quarter results will be released this week.",
+        "resume_zh": "印度股票市场上涨262点。投资者对经济增长持乐观态度。本周将发布第一季度的业绩。",
+        "analyse_detaillee": "Le contexte économique de l'Inde est positif. Les enjeux principaux sont la croissance et la stabilité. Les conséquences à court terme sont la poursuite de la croissance. Les perspectives à long terme sont la consolidation de la position de l'Inde sur le marché international. Les acteurs principaux sont les investisseurs et les entreprises.",
+        "analyse_en": "The economic context of India is positive. The main stakes are growth and stability. The short-term consequences are the continuation of growth. The long-term prospects are the consolidation of India's position in the international market. The main actors are investors and companies.",
+        "analyse_zh": "印度的经济背景是积极的。主要影响是增长和稳定。短期后果是增长的继续。长期前景是印度在国际市场上的地位的巩固。主要参与者是投资者和企业。",
+        "categorie": "Économie",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
+        "image": "https://img.etimg.com/thumb/msid-132191095,width-1200,height-630,imgsize-57422,overlay-etmarkets/articleshow.jpg",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché financier indien",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur des services",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché financier indien",
+            "secteur_en": "Indian financial market",
+            "secteur_zh": "印度金融市场",
+            "effet_fr": "La bourse indienne a augmenté en raison de la confiance des investisseurs dans la croissance économique.",
+            "effet_en": "The Indian stock market gained due to investor confidence in economic growth.",
+            "effet_zh": "印度股票市场上涨是因为投资者对经济增长的信心。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des services",
+            "secteur_en": "Service sector",
+            "secteur_zh": "服务行业",
+            "effet_fr": "Le secteur des services en Inde devrait bénéficier de la croissance économique.",
+            "effet_en": "The service sector in India is expected to benefit from economic growth.",
+            "effet_zh": "印度的服务行业应该会受益于经济增长。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T05:51:25.625586"
+      },
+      {
         "id": "russie_001",
         "titre": "Le conflit en Ukraine : bilan et perspectives après deux ans",
         "titre_en": "The conflict in Ukraine: assessment and prospects after two years",
@@ -312,6 +462,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_188654",
+        "titre": "La bourse indienne",
+        "titre_en": "Indian stock market",
+        "titre_zh": "印度股票市场",
+        "titre_original": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week",
+        "resume": "La bourse indienne a augmenté de 262 points. Les investisseurs sont optimistes quant à la croissance économique. Les résultats du premier trimestre seront publiés cette semaine.",
+        "resume_en": "The Indian stock market gained 262 points. Investors are optimistic about economic growth. The first-quarter results will be released this week.",
+        "resume_zh": "印度股票市场上涨262点。投资者对经济增长持乐观态度。本周将发布第一季度的业绩。",
+        "analyse_detaillee": "Le contexte économique de l'Inde est positif. Les enjeux principaux sont la croissance et la stabilité. Les conséquences à court terme sont la poursuite de la croissance. Les perspectives à long terme sont la consolidation de la position de l'Inde sur le marché international. Les acteurs principaux sont les investisseurs et les entreprises.",
+        "analyse_en": "The economic context of India is positive. The main stakes are growth and stability. The short-term consequences are the continuation of growth. The long-term prospects are the consolidation of India's position in the international market. The main actors are investors and companies.",
+        "analyse_zh": "印度的经济背景是积极的。主要影响是增长和稳定。短期后果是增长的继续。长期前景是印度在国际市场上的地位的巩固。主要参与者是投资者和企业。",
+        "categorie": "Économie",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
+        "image": "https://img.etimg.com/thumb/msid-132191095,width-1200,height-630,imgsize-57422,overlay-etmarkets/articleshow.jpg",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché financier indien",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur des services",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché financier indien",
+            "secteur_en": "Indian financial market",
+            "secteur_zh": "印度金融市场",
+            "effet_fr": "La bourse indienne a augmenté en raison de la confiance des investisseurs dans la croissance économique.",
+            "effet_en": "The Indian stock market gained due to investor confidence in economic growth.",
+            "effet_zh": "印度股票市场上涨是因为投资者对经济增长的信心。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des services",
+            "secteur_en": "Service sector",
+            "secteur_zh": "服务行业",
+            "effet_fr": "Le secteur des services en Inde devrait bénéficier de la croissance économique.",
+            "effet_en": "The service sector in India is expected to benefit from economic growth.",
+            "effet_zh": "印度的服务行业应该会受益于经济增长。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T05:51:25.625593"
+      },
       {
         "id": "iran_001",
         "titre": "Négociations nucléaires iraniennes : une fenêtre diplomatique fragile",
