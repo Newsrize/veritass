@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 05h51",
+  "last_updated": "06/07/2026 à 06h12",
   "articles": {
     "monde": [
       {
@@ -157,6 +157,56 @@
     ],
     "usa": [
       {
+        "id": "usa_419069",
+        "titre": "Conducteur illégal",
+        "titre_en": "Illegal immigrant truck",
+        "titre_zh": "非法移民卡车司机",
+        "titre_original": "Illegal immigrant truck driver charged in death of trooper who moved home to care for mom with cancer",
+        "resume": "Un conducteur de camion sans papiers a tué un policier. L'homme devait quitter les États-Unis. Le policier était en train de rentrer chez lui pour s'occuper de sa mère malade. L'accident a eu lieu pendant une inspection de véhicule.",
+        "resume_en": "An illegal immigrant truck driver has been charged with the death of a trooper. The driver was ordered to leave the US. The trooper was moving home to care for his mother with cancer. The accident occurred during a commercial vehicle inspection.",
+        "resume_zh": "一名非法移民卡车司机被指控杀死了一名州警。司机被命令离开美国。州警当时正在回家照顾患有癌症的母亲。事故发生在商用车辆检查期间。",
+        "analyse_detaillee": "Le contexte historique de l'immigration illégale aux États-Unis est complexe. Les enjeux principaux sont la sécurité nationale et les droits de l'homme. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont le gouvernement américain et les organisations de défense des droits de l'homme.",
+        "analyse_en": "The historical context of illegal immigration in the US is complex. The main stakes are national security and human rights. The short-term consequences are increased tensions. The long-term prospects are uncertain. The key actors are the US government and human rights organizations.",
+        "analyse_zh": "美国非法移民的历史背景复杂。主要影响是国家安全和人权。短期后果是紧张局势加剧。长期前景不确定。主要参与者是美国政府和人权组织。",
+        "categorie": "Géopolitique",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/illegal-immigrant-truck-driver-charged-death-trooper-who-moved-home-care-mom-cancer",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Michael_E._Pahira.jpg",
+        "date": "2026-07-04",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur des transports",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur de la santé",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des transports",
+            "secteur_en": "Transportation sector",
+            "secteur_zh": "交通运输行业",
+            "effet_fr": "L'accident peut entraîner une augmentation des contrôles de sécurité pour les conducteurs de camion.",
+            "effet_en": "The accident may lead to increased security checks for truck drivers.",
+            "effet_zh": "事故可能导致对卡车司机的安全检查增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur de la santé",
+            "secteur_en": "Health sector",
+            "secteur_zh": "医疗保健行业",
+            "effet_fr": "L'accident peut avoir un impact sur les soins de santé pour les personnes âgées.",
+            "effet_en": "The accident may have an impact on healthcare for the elderly.",
+            "effet_zh": "事故可能对老年人的医疗保健产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T06:12:53.538830"
+      },
+      {
         "id": "usa_137004",
         "titre": "Tempête en Washington",
         "titre_en": "Severe weather in US",
@@ -258,6 +308,56 @@
       }
     ],
     "chine": [
+      {
+        "id": "chine_880262",
+        "titre": "CPC 105 ans",
+        "titre_en": "CPC 105 years",
+        "titre_zh": "中共105周年",
+        "titre_original": "Why has the CPC remained vibrant after 105 years?",
+        "resume": "Le Parti communiste chinois fête son 105e anniversaire. Le parti a été fondé en 1921. Il a joué un rôle clé dans la transformation de la Chine.",
+        "resume_en": "The Communist Party of China is celebrating its 105th anniversary. The party was founded in 1921. It has played a key role in China's transformation.",
+        "resume_zh": "中国共产党庆祝其105周年。该党成立于1921年。它在中国的转型中发挥了关键作用。",
+        "analyse_detaillee": "Le contexte historique du Parti communiste chinois est marqué par la révolution de 1949. Les enjeux principaux sont la stabilité politique et l'économie. Les conséquences à court terme sont une augmentation de la légitimité du parti. Les perspectives à long terme sont une poursuite de la croissance économique. Les acteurs clés sont le gouvernement chinois et les entreprises étrangères.",
+        "analyse_en": "The historical context of the Communist Party of China is marked by the 1949 revolution. The main stakes are political stability and the economy. The short-term consequences are an increase in the party's legitimacy. The long-term prospects are continued economic growth. The key actors are the Chinese government and foreign businesses.",
+        "analyse_zh": "中国共产党的历史背景以1949年革命为标志。主要影响是政治稳定和经济。短期后果是党的合法性增加。长期前景是经济持续增长。主要参与者是中国政府和外国企业。",
+        "categorie": "Géopolitique",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/07/04/why-has-the-cpc-remained-vibrant-after-105-years/",
+        "image": "https://peoplesreview.com.np/wp-content/uploads/2026/07/CPC-105.jpg",
+        "date": "2026-07-04",
+        "pays": "chine",
+        "badges": [
+          {
+            "label": "▲ Secteur financier",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur de l'énergie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "L'anniversaire du Parti communiste chinois peut entraîner une augmentation des investissements étrangers.",
+            "effet_en": "The anniversary of the Communist Party of China may lead to an increase in foreign investment.",
+            "effet_zh": "中共周年可能导致外国投资增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur de l'énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "La croissance économique de la Chine peut avoir un impact sur la demande d'énergie.",
+            "effet_en": "China's economic growth may have an impact on energy demand.",
+            "effet_zh": "中国的经济增长可能对能源需求产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T06:12:53.538863"
+      },
       {
         "id": "chine_31734",
         "titre": "Le Parti communiste chinois",
@@ -361,6 +461,56 @@
     ],
     "russie": [
       {
+        "id": "russie_342176",
+        "titre": "Trump offre aide",
+        "titre_en": "Trump offers help",
+        "titre_zh": "特朗普提供帮助",
+        "titre_original": "Trump offered over phone to help Putin find deal with Ukraine, Kremlin aide says",
+        "resume": "L'ancien président américain Donald Trump a offert son aide au président russe Vladimir Poutine pour trouver un accord avec l'Ukraine. L'offre a été faite lors d'un appel téléphonique.",
+        "resume_en": "Former US President Donald Trump has offered his help to Russian President Vladimir Putin to find a deal with Ukraine. The offer was made during a phone call.",
+        "resume_zh": "美国前总统唐纳德·特朗普向俄罗斯总统弗拉基米尔·普京提供帮助，以便他与乌克兰达成协议。该提议是在一次电话通话中提出的。",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et la Russie est complexe. Les enjeux principaux sont la sécurité nationale et les relations internationales. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont les gouvernements américain et russe.",
+        "analyse_en": "The historical context of US-Russia relations is complex. The main stakes are national security and international relations. The short-term consequences are increased tensions. The long-term prospects are uncertain. The key actors are the US and Russian governments.",
+        "analyse_zh": "美国和俄罗斯之间的关系历史背景复杂。主要影响是国家安全和国际关系。短期后果是紧张局势加剧。长期前景不确定。主要参与者是美国和俄罗斯政府。",
+        "categorie": "Géopolitique",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/world/trump-offered-over-phone-to-help-putin-find-deal-with-ukraine-kremlin-aide-says/article71185056.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/1rbaix/article71185060.ece/alternates/LANDSCAPE_1200/2026-06-23T172850Z_401895215_RC2V7GAH8TAH_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur de la défense",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur de l'énergie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "L'offre d'aide de Trump peut avoir un impact sur les relations entre les États-Unis et la Russie.",
+            "effet_en": "Trump's offer of help may have an impact on US-Russia relations.",
+            "effet_zh": "特朗普的帮助提议可能对美国和俄罗斯的关系产生影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur de l'énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les tensions entre les États-Unis et la Russie peuvent avoir un impact sur les prix de l'énergie.",
+            "effet_en": "Tensions between the US and Russia may have an impact on energy prices.",
+            "effet_zh": "美国和俄罗斯之间的紧张关系可能对能源价格产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T06:12:53.538872"
+      },
+      {
         "id": "russie_188654",
         "titre": "La bourse indienne",
         "titre_en": "Indian stock market",
@@ -462,6 +612,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_575469",
+        "titre": "Iran met en garde",
+        "titre_en": "Iran warns",
+        "titre_zh": "伊朗警告",
+        "titre_original": "Iranian Commander Warns U.S., Israel Against Attacks as Khamenei Funeral Preparations Underway",
+        "resume": "L'Iran a mis en garde les États-Unis et Israël contre toute attaque pendant les funérailles de l'ancien guide suprême. Les funérailles sont prévues pour cette semaine.",
+        "resume_en": "Iran has warned the US and Israel against any attack during the funeral of the former supreme leader. The funeral is scheduled for this week.",
+        "resume_zh": "伊朗警告美国和以色列不要在前最高领袖的葬礼期间发动任何攻击。葬礼定于本周举行。",
+        "analyse_detaillee": "Le contexte historique des relations entre l'Iran et les États-Unis est complexe. Les enjeux principaux sont la sécurité nationale et les relations internationales. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont les gouvernements iranien et américain.",
+        "analyse_en": "The historical context of Iran-US relations is complex. The main stakes are national security and international relations. The short-term consequences are increased tensions. The long-term prospects are uncertain. The key actors are the Iranian and US governments.",
+        "analyse_zh": "伊朗和美国之间的关系历史背景复杂。主要影响是国家安全和国际关系。短期后果是紧张局势加剧。长期前景不确定。主要参与者是伊朗和美国政府。",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-05-iranian-commander-warns-against-attacks-khamenei-funeral.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/iran-us-israel-2499-original.jpg",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Secteur de la défense",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur de l'énergie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "La mise en garde de l'Iran peut avoir un impact sur les relations entre l'Iran et les États-Unis.",
+            "effet_en": "Iran's warning may have an impact on Iran-US relations.",
+            "effet_zh": "伊朗的警告可能对伊朗和美国的关系产生影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur de l'énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les tensions entre l'Iran et les États-Unis peuvent avoir un impact sur les prix de l'énergie.",
+            "effet_en": "Tensions between Iran and the US may have an impact on energy prices.",
+            "effet_zh": "伊朗和美国之间的紧张关系可能对能源价格产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T06:12:53.538879"
+      },
       {
         "id": "iran_188654",
         "titre": "La bourse indienne",
