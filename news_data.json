@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 11h18",
+  "last_updated": "06/07/2026 à 14h48",
   "articles": {
     "monde": [
       {
@@ -156,6 +156,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_339873",
+        "titre": "Actualité aux USA",
+        "titre_en": "US News Update",
+        "titre_zh": "美国新闻",
+        "titre_original": "Update from LS on politics, films, etc",
+        "resume": "Un article sur les dernières actualités aux États-Unis. L'auteur a perdu ses contacts et demande à ses lecteurs de se manifester. Les sujets abordés incluent la politique et les films. L'article est une mise à jour générale sur la situation actuelle.",
+        "resume_en": "An article about the latest news in the US. The author lost his contacts and asks readers to reply. The topics covered include politics and films. The article is a general update on the current situation.",
+        "resume_zh": "一篇关于美国最新新闻的文章。作者失去了联系人，要求读者回复。所讨论的主题包括政治和电影。该文章是对当前情况的总体更新。",
+        "analyse_detaillee": "Le contexte historique de cet article est la situation actuelle aux États-Unis. Les enjeux principaux sont la politique et la culture. Les conséquences à court terme sont une mise à jour des informations. Les perspectives à long terme sont incertaines. Les acteurs principaux sont les médias et les lecteurs.",
+        "analyse_en": "The historical context of this article is the current situation in the US. The main stakes are politics and culture. The short-term consequences are an update of information. The long-term prospects are uncertain. The main actors are the media and readers.",
+        "analyse_zh": "本文的历史背景是美国当前的情况。主要影响是政治和文化。短期后果是信息更新。长期前景不确定。主要参与者是媒体和读者。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4386747/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-05",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des médias",
+            "hausse": true
+          },
+          {
+            "label": "▼ Industrie du divertissement",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des médias",
+            "secteur_en": "Media Market",
+            "secteur_zh": "媒体市场",
+            "effet_fr": "L'article peut avoir un impact sur le marché des médias en termes de consommation d'information.",
+            "effet_en": "The article may have an impact on the media market in terms of information consumption.",
+            "effet_zh": "该文章可能会对媒体市场产生影响，特别是在信息消费方面。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Industrie du divertissement",
+            "secteur_en": "Entertainment Industry",
+            "secteur_zh": "娱乐行业",
+            "effet_fr": "L'article peut également avoir un impact sur l'industrie du divertissement en termes de contenu.",
+            "effet_en": "The article may also have an impact on the entertainment industry in terms of content.",
+            "effet_zh": "该文章可能会对娱乐行业产生影响，特别是在内容方面。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T14:48:15.327624"
+      },
       {
         "id": "usa_248817",
         "titre": "Sauver la nation",
@@ -511,6 +561,56 @@
     ],
     "russie": [
       {
+        "id": "russie_184778",
+        "titre": "L'UE se tourne vers la guerre",
+        "titre_en": "EU Shifts to War",
+        "titre_zh": "欧盟转向战争",
+        "titre_original": "EU shifts from trade to war – ex-Austrian foreign minister",
+        "resume": "L'ancienne ministre autrichienne des Affaires étrangères, Karin Kneissl, a déclaré que l'UE a remplacé son agenda commercial traditionnel par des priorités militaires et géopolitiques. Cela pourrait avoir des conséquences importantes pour la région.",
+        "resume_en": "Former Austrian Foreign Minister Karin Kneissl said the EU has replaced its traditional trade agenda with military and geopolitical priorities. This could have significant consequences for the region.",
+        "resume_zh": "前奥地利外交部长卡琳·克奈斯尔表示，欧盟已经用军事和地缘政治优先事项取代了传统的贸易议程。这可能会对该地区产生重大影响。",
+        "analyse_detaillee": "Le contexte historique de cet article est la situation actuelle entre l'UE et la Russie. Les enjeux principaux sont la géopolitique et la sécurité. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont une possible instabilité régionale. Les acteurs principaux sont l'UE et la Russie.",
+        "analyse_en": "The historical context of this article is the current situation between the EU and Russia. The main stakes are geopolitics and security. The short-term consequences are an increase in tensions. The long-term prospects are possible regional instability. The main actors are the EU and Russia.",
+        "analyse_zh": "本文的历史背景是欧盟和俄罗斯当前的情况。主要影响是地缘政治和安全。短期后果是紧张局势加剧。长期前景是可能的区域不稳定。主要参与者是欧盟和俄罗斯。",
+        "categorie": "Géopolitique",
+        "source": "RT",
+        "url": "https://www.rt.com/news/642595-karin-kneissl-eu-trade-war/",
+        "image": "https://mf.b37mrtl.ru/files/2026.07/article/6a4a53e62030277d7d4f388d.jpg",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Industrie énergétique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché de la défense",
+            "secteur_en": "Defense Market",
+            "secteur_zh": "国防市场",
+            "effet_fr": "L'article peut avoir un impact sur le marché de la défense en termes de dépenses militaires.",
+            "effet_en": "The article may have an impact on the defense market in terms of military spending.",
+            "effet_zh": "该文章可能会对国防市场产生影响，特别是在军费方面。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Industrie énergétique",
+            "secteur_en": "Energy Industry",
+            "secteur_zh": "能源行业",
+            "effet_fr": "L'article peut également avoir un impact sur l'industrie énergétique en termes de sécurité énergétique.",
+            "effet_en": "The article may also have an impact on the energy industry in terms of energy security.",
+            "effet_zh": "该文章可能会对能源行业产生影响，特别是在能源安全方面。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T14:48:15.327652"
+      },
+      {
         "id": "russie_79678",
         "titre": "Attaque en Crimée",
         "titre_en": "Attack in Crimea",
@@ -712,6 +812,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_304563",
+        "titre": "Les Iraniens prient pour Khamenei",
+        "titre_en": "Iranians Pray for Khamenei",
+        "titre_zh": "伊朗人为哈梅内伊祈祷",
+        "titre_original": "Iranians pray for slain supreme leader Khamenei in son’s absence",
+        "resume": "Les Iraniens se sont réunis pour les funérailles du Guide suprême Ali Khamenei. Son fils Mojtaba était absent. Des milliers de personnes ont assisté à la cérémonie et demandent justice.",
+        "resume_en": "Iranians gathered for the funeral of Supreme Leader Ali Khamenei. His son Mojtaba was absent. Thousands attended the ceremony and demanded justice.",
+        "resume_zh": "伊朗人聚集在一起参加最高领袖阿里·哈梅内伊的葬礼。他的儿子莫赫塔巴不在场。成千上万的人参加了仪式并要求正义。",
+        "analyse_detaillee": "Le contexte historique de cet article est la situation actuelle en Iran. Les enjeux principaux sont la politique et la religion. Les conséquences à court terme sont une possible instabilité politique. Les perspectives à long terme sont incertaines. Les acteurs principaux sont le gouvernement iranien et les citoyens.",
+        "analyse_en": "The historical context of this article is the current situation in Iran. The main stakes are politics and religion. The short-term consequences are possible political instability. The long-term prospects are uncertain. The main actors are the Iranian government and citizens.",
+        "analyse_zh": "本文的历史背景是伊朗当前的情况。主要影响是政治和宗教。短期后果是可能的政治不稳定。长期前景不确定。主要参与者是伊朗政府和公民。",
+        "categorie": "Géopolitique",
+        "source": "The Punch",
+        "url": "https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/",
+        "image": "https://punchng.com/wp-content/uploads/2026/06/4JRUA0M_AFP__20260312__MEI_IRN_Sy_TMKSL_20180622_007__v1__HighRes__776467826_jpg-1050x630.webp",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier",
+            "hausse": false
+          },
+          {
+            "label": "▲ Industrie financière",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil Market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "L'article peut avoir un impact sur le marché pétrolier en termes de stabilité régionale.",
+            "effet_en": "The article may have an impact on the oil market in terms of regional stability.",
+            "effet_zh": "该文章可能会对石油市场产生影响，特别是在区域稳定方面。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Industrie financière",
+            "secteur_en": "Financial Industry",
+            "secteur_zh": "金融行业",
+            "effet_fr": "L'article peut également avoir un impact sur l'industrie financière en termes de confiance des investisseurs.",
+            "effet_en": "The article may also have an impact on the financial industry in terms of investor confidence.",
+            "effet_zh": "该文章可能会对金融行业产生影响，特别是在投资者信心方面。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T14:48:15.327661"
+      },
       {
         "id": "iran_75717",
         "titre": "OPEC+ augmente les quotas",
