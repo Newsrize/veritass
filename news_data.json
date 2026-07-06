@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 22h56",
+  "last_updated": "06/07/2026 à 23h57",
   "articles": {
     "monde": [
       {
@@ -206,6 +206,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_427433",
+        "titre": "Drapeau anti-Trump",
+        "titre_en": "Anti-Trump Flag",
+        "titre_zh": "反特朗普旗帜",
+        "titre_original": "Obama Judge Orders Park Service To Leave The “8647” Anti-President Trump Flag Alone",
+        "resume": "Un groupe de protestation a déployé un drapeau anti-Trump près du National Mall. Le service des parcs nationaux l'a considéré comme une menace. Un juge a ordonné de ne pas toucher au drapeau. La décision a suscité des réactions.",
+        "resume_en": "A protest group flew an anti-Trump flag near the National Mall. The National Park Service deemed it a threat. A judge ordered the flag to be left alone. The decision sparked reactions.",
+        "resume_zh": "抗议团体在国家广场附近悬挂反特朗普旗帜。国家公园管理局认为这是一个威胁。法官命令不准动旗帜。该决定引发了反应。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre les partisans et les opposants de Trump. Les enjeux principaux sont la liberté d'expression et la sécurité publique. Les conséquences à court terme sont la polarisation accrue. Les perspectives à long terme sont incertaines. Les acteurs clés sont les juges et les groupes de protestation.",
+        "analyse_en": "The historical context is marked by tensions between Trump supporters and opponents. The main stakes are freedom of speech and public safety. The short-term consequences are increased polarization. The long-term prospects are uncertain. The key actors are judges and protest groups.",
+        "analyse_zh": "历史背景是特朗普支持者和反对者之间的紧张关系。主要影响是言论自由和公共安全。短期后果是两极分化加剧。长期前景不确定。主要参与者是法官和抗议团体。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4386797/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-05",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché boursier américain",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des changes",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier américain",
+            "secteur_en": "US Stock Market",
+            "secteur_zh": "美国股票市场",
+            "effet_fr": "L'impact sur le marché boursier américain est potentiellement négatif en raison de l'incertitude politique.",
+            "effet_en": "The impact on the US stock market is potentially negative due to political uncertainty.",
+            "effet_zh": "对美国股票市场的影响可能是负面的，因为政治不确定性。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des changes",
+            "secteur_en": "Forex Market",
+            "secteur_zh": "外汇市场",
+            "effet_fr": "Le marché des changes pourrait être affecté par les fluctuations du dollar américain.",
+            "effet_en": "The forex market could be affected by fluctuations in the US dollar.",
+            "effet_zh": "外汇市场可能会受到美元波动的影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T23:57:47.477438"
+      },
       {
         "id": "usa_439394",
         "titre": "Déclin Américain",
@@ -911,6 +961,56 @@
     ],
     "russie": [
       {
+        "id": "russie_852393",
+        "titre": "Appels de Trump avec Zelenskyy et Poutine",
+        "titre_en": "Trump Calls with Zelenskyy and Putin",
+        "titre_zh": "特朗普与泽连斯基和普京通话",
+        "titre_original": "Trump Holds Calls With Zelenskyy, Putin Amid Ukraine Deadlock",
+        "resume": "Le président Trump a eu des conversations téléphoniques avec les présidents ukrainien et russe. Les efforts pour mettre fin à la guerre en Ukraine sont toujours au point mort.",
+        "resume_en": "President Trump had phone calls with the Ukrainian and Russian presidents. Efforts to end the war in Ukraine remain stalled.",
+        "resume_zh": "特朗普总统与乌克兰和俄罗斯总统通了电话。结束乌克兰战争的努力仍然停滞不前。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la sécurité régionale et la stabilité politique. Les conséquences à court terme sont l'escalade des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont les présidents des trois pays.",
+        "analyse_en": "The historical context is marked by tensions between Russia and Ukraine. The main stakes are regional security and political stability. The short-term consequences are escalating tensions. The long-term prospects are uncertain. The key actors are the presidents of the three countries.",
+        "analyse_zh": "历史背景是俄罗斯和乌克兰之间的紧张关系。主要影响是地区安全和政治稳定。短期后果是紧张局势升级。长期前景不确定。主要参与者是三国总统。",
+        "categorie": "Géopolitique",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/trump-zelenskyy-putin-ukraine-russia-war/33797094.html",
+        "image": "https://gdb.rferl.org/477b1c85-2775-4ba2-badc-3da16f32c957_cx0_cy5_cw0_w1200_h630.jpg",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Marché énergétique",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des matières premières",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché énergétique",
+            "secteur_en": "Energy Market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "L'impact sur le marché énergétique est potentiellement négatif en raison des tensions géopolitiques.",
+            "effet_en": "The impact on the energy market is potentially negative due to geopolitical tensions.",
+            "effet_zh": "对能源市场的影响可能是负面的，因为地缘政治紧张。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des matières premières",
+            "secteur_en": "Commodities Market",
+            "secteur_zh": "大宗商品市场",
+            "effet_fr": "Le marché des matières premières pourrait être affecté par les fluctuations des prix.",
+            "effet_en": "The commodities market could be affected by price fluctuations.",
+            "effet_zh": "大宗商品市场可能会受到价格波动的影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T23:57:47.477464"
+      },
+      {
         "id": "russie_439394",
         "titre": "Déclin Américain",
         "titre_en": "American Decline",
@@ -1362,6 +1462,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_499530",
+        "titre": "Déclin américain et influence chinoise",
+        "titre_en": "American Decline and Chinese Influence",
+        "titre_zh": "美国衰落和中国影响",
+        "titre_original": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "resume": "L'influence de la Chine est en augmentation dans le monde. Les États-Unis sont confrontés à des défis pour maintenir leur position.",
+        "resume_en": "China's influence is increasing in the world. The US is facing challenges to maintain its position.",
+        "resume_zh": "中国在世界上的影响力正在增加。美国面临着维持其地位的挑战。",
+        "analyse_detaillee": "Le contexte historique est marqué par la montée en puissance de la Chine. Les enjeux principaux sont la géopolitique et l'économie. Les conséquences à court terme sont la concurrence accrue. Les perspectives à long terme sont incertaines. Les acteurs clés sont les gouvernements chinois et américain.",
+        "analyse_en": "The historical context is marked by China's rise to power. The main stakes are geopolitics and economy. The short-term consequences are increased competition. The long-term prospects are uncertain. The key actors are the Chinese and US governments.",
+        "analyse_zh": "历史背景是中国的崛起。主要影响是地缘政治和经济。短期后果是竞争加剧。长期前景不确定。主要参与者是中国和美国政府。",
+        "categorie": "Géopolitique",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "image": "https://substackcdn.com/image/fetch/$s_!ZutT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca58e52-7f65-4429-b0b6-5197994fe22c_1536x569.png",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché des technologies",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché financier international",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des technologies",
+            "secteur_en": "Tech Market",
+            "secteur_zh": "科技市场",
+            "effet_fr": "L'impact sur le marché des technologies est potentiellement positif en raison de l'innovation chinoise.",
+            "effet_en": "The impact on the tech market is potentially positive due to Chinese innovation.",
+            "effet_zh": "对科技市场的影响可能是积极的，因为中国创新。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché financier international",
+            "secteur_en": "International Financial Market",
+            "secteur_zh": "国际金融市场",
+            "effet_fr": "Le marché financier international pourrait être affecté par les fluctuations des taux de change.",
+            "effet_en": "The international financial market could be affected by exchange rate fluctuations.",
+            "effet_zh": "国际金融市场可能会受到汇率波动的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T23:57:47.477472"
+      },
       {
         "id": "iran_475374",
         "titre": "Funérailles de Khamenei",
