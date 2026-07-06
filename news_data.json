@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 14h48",
+  "last_updated": "06/07/2026 à 17h31",
   "articles": {
     "monde": [
       {
@@ -156,6 +156,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_562229",
+        "titre": "Trump fait une blague",
+        "titre_en": "Trump Threesome Joke",
+        "titre_zh": "特朗普的笑话",
+        "titre_original": "Trump Threesome Joke Raises Questions",
+        "resume": "Le président américain Donald Trump a fait une blague sur un threesome. Cette blague a suscité des questions. Trump est connu pour ses déclarations controversées.",
+        "resume_en": "US President Donald Trump made a joke about a threesome. This joke raised questions. Trump is known for his controversial statements.",
+        "resume_zh": "美国总统特朗普开了一个关于三人性行为的玩笑。这句玩笑引发了很多疑问。特朗普以其有争议的言论而闻名。",
+        "analyse_detaillee": "Le contexte historique de cette blague est important. Les enjeux principaux sont la réputation de Trump et les conséquences à court terme sont une augmentation de la controverse. Les perspectives à long terme sont incertaines. Les acteurs principaux sont Trump et ses opposants.",
+        "analyse_en": "The historical context of this joke is important. The main stakes are Trump's reputation and the short-term consequences are an increase in controversy. The long-term prospects are uncertain. The main actors are Trump and his opponents.",
+        "analyse_zh": "这个笑话的历史背景很重要。主要的影响是特朗普的声誉，短期后果是争议的增加。长期前景是不确定的。主要的参与者是特朗普和他的反对者。",
+        "categorie": "Géopolitique",
+        "source": "Littlethings.com",
+        "url": "https://littlethings.com/entertainment/donald-trump-sons-threesome-joke-backlash",
+        "image": "https://littlethings.com/wp-content/uploads/2026/07/GettyImages-2283149489-scaled-e1783027431513.jpg",
+        "date": "2026-07-04",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché boursier américain",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des changes",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier américain",
+            "secteur_en": "US Stock Market",
+            "secteur_zh": "美国股票市场",
+            "effet_fr": "La blague de Trump peut avoir un impact négatif sur le marché boursier américain.",
+            "effet_en": "Trump's joke may have a negative impact on the US stock market.",
+            "effet_zh": "特朗普的笑话可能会对美国股票市场产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des changes",
+            "secteur_en": "Forex Market",
+            "secteur_zh": "外汇市场",
+            "effet_fr": "La blague de Trump peut également avoir un impact sur le marché des changes.",
+            "effet_en": "Trump's joke may also have an impact on the Forex market.",
+            "effet_zh": "特朗普的笑话也可能对外汇市场产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T17:31:33.129488"
+      },
       {
         "id": "usa_339873",
         "titre": "Actualité aux USA",
@@ -561,6 +611,56 @@
     ],
     "russie": [
       {
+        "id": "russie_264446",
+        "titre": "La Russie en crise",
+        "titre_en": "Russia in Crisis",
+        "titre_zh": "俄罗斯危机",
+        "titre_original": "Russia in meltdown: Empty petrol pumps, battlefield humiliation and warnings of an uprising as net closes in on scrambling Putin… amid warnings he may do the unthinkable",
+        "resume": "La Russie est en crise. Les attaques ukrainiennes ont détruit les infrastructures critiques. Poutine est sous pression.",
+        "resume_en": "Russia is in crisis. Ukrainian attacks have destroyed critical infrastructure. Putin is under pressure.",
+        "resume_zh": "俄罗斯处于危机之中。乌克兰的攻击已经摧毁了关键基础设施。普京面临压力。",
+        "analyse_detaillee": "Le contexte historique de cette crise est complexe. Les enjeux principaux sont la stabilité de la Russie et les conséquences à court terme sont une augmentation de la violence. Les perspectives à long terme sont incertaines. Les acteurs principaux sont Poutine et les dirigeants ukrainiens.",
+        "analyse_en": "The historical context of this crisis is complex. The main stakes are Russia's stability and the short-term consequences are an increase in violence. The long-term prospects are uncertain. The main actors are Putin and Ukrainian leaders.",
+        "analyse_zh": "这场危机的历史背景很复杂。主要的影响是俄罗斯的稳定，短期后果是暴力事件的增加。长期前景是不确定的。主要的参与者是普京和乌克兰领导人。",
+        "categorie": "Géopolitique",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15941721/Russia-meltdown-petrol-pumps-battlefield-humiliation-warnings-uprising-net-closes-scrambling-Putin-amid-warnings-unthinkable.html",
+        "image": "https://i.dailymail.com/1s/2026/07/03/13/109713269-0-Ukraine_has_been_striking_key_Russian_facilities_like_the_Kapotn-a-18_1783080920233.jpg",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des armes",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil Market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "La crise en Russie peut avoir un impact sur le marché pétrolier.",
+            "effet_en": "The crisis in Russia may have an impact on the oil market.",
+            "effet_zh": "俄罗斯的危机可能会对石油市场产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des armes",
+            "secteur_en": "Arms Market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "La crise en Russie peut également avoir un impact sur le marché des armes.",
+            "effet_en": "The crisis in Russia may also have an impact on the arms market.",
+            "effet_zh": "俄罗斯的危机也可能对武器市场产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-06T17:31:33.129514"
+      },
+      {
         "id": "russie_184778",
         "titre": "L'UE se tourne vers la guerre",
         "titre_en": "EU Shifts to War",
@@ -812,6 +912,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_290621",
+        "titre": "L'Iran en mouvement",
+        "titre_en": "Iran in Motion",
+        "titre_zh": "伊朗动态",
+        "titre_original": "(㏍、帥, 7/6)剛篋鎧劫、❼頑⒧君篏帥堺儀絣＜ 蚊ゃ ...",
+        "resume": "L'Iran est en mouvement. Les événements récents ont suscité des questions. L'Iran est un pays important dans la région.",
+        "resume_en": "Iran is in motion. Recent events have raised questions. Iran is an important country in the region.",
+        "resume_zh": "伊朗正在发生变化。最近的事件引发了很多疑问。伊朗是该地区的一个重要国家。",
+        "analyse_detaillee": "Le contexte historique de cette situation est complexe. Les enjeux principaux sont la stabilité de l'Iran et les conséquences à court terme sont une augmentation de la tension. Les perspectives à long terme sont incertaines. Les acteurs principaux sont les dirigeants iraniens et les pays de la région.",
+        "analyse_en": "The historical context of this situation is complex. The main stakes are Iran's stability and the short-term consequences are an increase in tension. The long-term prospects are uncertain. The main actors are Iranian leaders and regional countries.",
+        "analyse_zh": "这种情况的历史背景很复杂。主要的影响是伊朗的稳定，短期后果是紧张局势的加剧。长期前景是不确定的。主要的参与者是伊朗领导人和该地区的国家。",
+        "categorie": "Géopolitique",
+        "source": "Ryukoku.ac.jp",
+        "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/07.html#20260706__mitsui",
+        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché des hydrocarbures",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des échanges commerciaux",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des hydrocarbures",
+            "secteur_en": "Hydrocarbon Market",
+            "secteur_zh": "碳氢化合物市场",
+            "effet_fr": "La situation en Iran peut avoir un impact sur le marché des hydrocarbures.",
+            "effet_en": "The situation in Iran may have an impact on the hydrocarbon market.",
+            "effet_zh": "伊朗的情况可能会对碳氢化合物市场产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des échanges commerciaux",
+            "secteur_en": "Trade Exchange Market",
+            "secteur_zh": "贸易交流市场",
+            "effet_fr": "La situation en Iran peut également avoir un impact sur le marché des échanges commerciaux.",
+            "effet_en": "The situation in Iran may also have an impact on the trade exchange market.",
+            "effet_zh": "伊朗的情况也可能对贸易交流市场产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T17:31:33.129522"
+      },
       {
         "id": "iran_304563",
         "titre": "Les Iraniens prient pour Khamenei",
