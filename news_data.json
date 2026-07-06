@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 17h31",
+  "last_updated": "06/07/2026 à 19h25",
   "articles": {
     "monde": [
       {
@@ -156,6 +156,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_842672",
+        "titre": "Droit à l'autodéfense",
+        "titre_en": "Right to Self-Defense",
+        "titre_zh": "自卫权",
+        "titre_original": "Crossing a State Line Shouldn’t Cost You Your Right to Self-Defense",
+        "resume": "Les Américains doivent être en mesure de se défendre en toute sécurité. Les lois sur les armes à feu varient d'un État à l'autre. Les femmes et les conducteurs routiers sont particulièrement vulnérables.",
+        "resume_en": "Americans should be able to defend themselves safely. Gun laws vary from state to state. Women and truck drivers are particularly vulnerable.",
+        "resume_zh": "美国人应该能够安全地自卫。枪支法律因州而异。女性和卡车司机尤其容易受到伤害。",
+        "analyse_detaillee": "Le contexte historique des lois sur les armes à feu aux États-Unis est complexe. Les enjeux principaux sont la sécurité et la liberté. Les conséquences à court terme sont une augmentation de la violence. Les perspectives à long terme sont une réforme des lois sur les armes à feu. Les acteurs clés sont les législateurs et les organisations de défense des droits.",
+        "analyse_en": "The historical context of gun laws in the US is complex. The main stakes are safety and freedom. The short-term consequences are an increase in violence. The long-term prospects are a reform of gun laws. The key actors are lawmakers and rights organizations.",
+        "analyse_zh": "美国枪支法律的历史背景很复杂。主要问题是安全和自由。短期后果是暴力增加。长期前景是枪支法律改革。关键人物是立法者和权利组织。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4386642/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-04",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur de la sécurité",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des assurances",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la sécurité",
+            "secteur_en": "Security sector",
+            "secteur_zh": "安全行业",
+            "effet_fr": "L'impact sur le secteur de la sécurité est important car les lois sur les armes à feu influencent directement la sécurité publique.",
+            "effet_en": "The impact on the security sector is significant as gun laws directly influence public safety.",
+            "effet_zh": "对安全行业的影响很大，因为枪支法律直接影响公共安全。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des assurances",
+            "secteur_en": "Insurance sector",
+            "secteur_zh": "保险行业",
+            "effet_fr": "Le secteur des assurances est également touché car les compagnies d'assurance doivent prendre en compte les risques liés aux armes à feu.",
+            "effet_en": "The insurance sector is also affected as insurance companies must take into account gun-related risks.",
+            "effet_zh": "保险行业也受到影响，因为保险公司必须考虑与枪支相关的风险。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T19:25:59.523438"
+      },
       {
         "id": "usa_562229",
         "titre": "Trump fait une blague",
@@ -459,6 +509,56 @@
     ],
     "chine": [
       {
+        "id": "chine_611307",
+        "titre": "Xi Jinping et le pouvoir",
+        "titre_en": "Xi Jinping and Power",
+        "titre_zh": "习近平和权力",
+        "titre_original": "How Xi Jinping Steamrolls Dissent With Tactics From Stalin and Mao",
+        "resume": "Xi Jinping consolide son pouvoir en Chine. Il utilise des tactiques autoritaires pour éliminer les opposants. Le président chinois cherche à rester au pouvoir.",
+        "resume_en": "Xi Jinping is consolidating his power in China. He is using authoritarian tactics to eliminate opponents. The Chinese president is seeking to stay in power.",
+        "resume_zh": "习近平在中国巩固权力。他使用专制手段消除反对者。中国总统寻求保持权力。",
+        "analyse_detaillee": "Le contexte historique de la Chine est marqué par des périodes de pouvoir autoritaire. Les enjeux principaux sont la stabilité et la croissance économique. Les conséquences à court terme sont une répression accrue. Les perspectives à long terme sont une consolidation du pouvoir de Xi Jinping. Les acteurs clés sont le Parti communiste et les élites économiques.",
+        "analyse_en": "China's historical context is marked by periods of authoritarian power. The main stakes are stability and economic growth. The short-term consequences are increased repression. The long-term prospects are a consolidation of Xi Jinping's power. The key actors are the Communist Party and economic elites.",
+        "analyse_zh": "中国的历史背景以专制权力时期为标志。主要问题是稳定和经济增长。短期后果是加剧的镇压。长期前景是习近平权力的巩固。关键人物是共产党和经济精英。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386772/posts",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-07-05",
+        "pays": "chine",
+        "badges": [
+          {
+            "label": "▲ Secteur financier chinois",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des technologies",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur financier chinois",
+            "secteur_en": "Chinese financial sector",
+            "secteur_zh": "中国金融行业",
+            "effet_fr": "L'impact sur le secteur financier chinois est important car la stabilité politique influence la confiance des investisseurs.",
+            "effet_en": "The impact on the Chinese financial sector is significant as political stability influences investor confidence.",
+            "effet_zh": "对中国金融行业的影响很大，因为政治稳定影响投资者信心。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des technologies",
+            "secteur_en": "Technology sector",
+            "secteur_zh": "技术行业",
+            "effet_fr": "Le secteur des technologies est également touché car les entreprises chinoises sont soumises à des contrôles stricts.",
+            "effet_en": "The technology sector is also affected as Chinese companies are subject to strict controls.",
+            "effet_zh": "技术行业也受到影响，因为中国企业受到严格的控制。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T19:25:59.523465"
+      },
+      {
         "id": "chine_880262",
         "titre": "CPC 105 ans",
         "titre_en": "CPC 105 years",
@@ -610,6 +710,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_959086",
+        "titre": "Géopolitique russe",
+        "titre_en": "Russian Geopolitics",
+        "titre_zh": "俄罗斯地缘政治",
+        "titre_original": "Ημερήσια Γεωπολιτική Επισκόπηση - 05/07/2026",
+        "resume": "La Russie est un acteur clé de la géopolitique mondiale. Le pays cherche à maintenir son influence sur la scène internationale. Les tensions avec les États-Unis et l'Europe sont élevées.",
+        "resume_en": "Russia is a key player in global geopolitics. The country is seeking to maintain its influence on the international stage. Tensions with the US and Europe are high.",
+        "resume_zh": "俄罗斯是全球地缘政治的关键角色。该国寻求在国际舞台上保持其影响力。与美国和欧洲的紧张关系很高。",
+        "analyse_detaillee": "Le contexte historique de la Russie est marqué par des périodes de grandeur et de déclin. Les enjeux principaux sont la sécurité et la puissance. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont une consolidation de la puissance russe. Les acteurs clés sont le gouvernement et les élites militaires.",
+        "analyse_en": "Russia's historical context is marked by periods of greatness and decline. The main stakes are security and power. The short-term consequences are an increase in tensions. The long-term prospects are a consolidation of Russian power. The key actors are the government and military elites.",
+        "analyse_zh": "俄罗斯的历史背景以伟大和衰落的时期为标志。主要问题是安全和权力。短期后果是紧张局势加剧。长期前景是俄罗斯权力的巩固。关键人物是政府和军事精英。",
+        "categorie": "Géopolitique",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/05072026.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7tNfSHob5Tdr-VQVu1jjHIw4t5lgyDkah2tvAcHz-6poFLoQl76HMlTELBHls4bFpS7Qhc65GWHoVtw2fja0hb2e8ShHZUxc_zKD9SD9YeoMFtxiztXBowcRw8QN164R75RpHxjpLjet9PW1UgPMaA0Ea_uzSrqqAmnrQkELIojt_EinVCuO5h_IN7s/w400-h224/1000006327.jpg",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Secteur énergétique",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des armes",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "L'impact sur le secteur énergétique est important car la Russie est un grand producteur de pétrole et de gaz.",
+            "effet_en": "The impact on the energy sector is significant as Russia is a major oil and gas producer.",
+            "effet_zh": "对能源行业的影响很大，因为俄罗斯是石油和天然气的主要生产国。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des armes",
+            "secteur_en": "Arms sector",
+            "secteur_zh": "武器行业",
+            "effet_fr": "Le secteur des armes est également touché car la Russie est un grand producteur et exportateur d'armes.",
+            "effet_en": "The arms sector is also affected as Russia is a major producer and exporter of arms.",
+            "effet_zh": "武器行业也受到影响，因为俄罗斯是武器的主要生产国和出口国。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T19:25:59.523475"
+      },
       {
         "id": "russie_264446",
         "titre": "La Russie en crise",
@@ -912,6 +1062,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_959086",
+        "titre": "Géopolitique iranienne",
+        "titre_en": "Iranian Geopolitics",
+        "titre_zh": "伊朗地缘政治",
+        "titre_original": "Ημερήσια Γεωπολιτική Επισκόπηση - 05/07/2026",
+        "resume": "L'Iran est un acteur clé de la géopolitique du Moyen-Orient. Le pays cherche à maintenir son influence sur la scène régionale. Les tensions avec les États-Unis et Israël sont élevées.",
+        "resume_en": "Iran is a key player in Middle Eastern geopolitics. The country is seeking to maintain its influence on the regional stage. Tensions with the US and Israel are high.",
+        "resume_zh": "伊朗是中东地缘政治的关键角色。该国寻求在地区舞台上保持其影响力。与美国和以色列的紧张关系很高。",
+        "analyse_detaillee": "Le contexte historique de l'Iran est marqué par des périodes de grandeur et de déclin. Les enjeux principaux sont la sécurité et la puissance. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont une consolidation de la puissance iranienne. Les acteurs clés sont le gouvernement et les élites religieuses.",
+        "analyse_en": "Iran's historical context is marked by periods of greatness and decline. The main stakes are security and power. The short-term consequences are an increase in tensions. The long-term prospects are a consolidation of Iranian power. The key actors are the government and religious elites.",
+        "analyse_zh": "伊朗的历史背景以伟大和衰落的时期为标志。主要问题是安全和权力。短期后果是紧张局势加剧。长期前景是伊朗权力的巩固。关键人物是政府和宗教精英。",
+        "categorie": "Géopolitique",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/07/05072026.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7tNfSHob5Tdr-VQVu1jjHIw4t5lgyDkah2tvAcHz-6poFLoQl76HMlTELBHls4bFpS7Qhc65GWHoVtw2fja0hb2e8ShHZUxc_zKD9SD9YeoMFtxiztXBowcRw8QN164R75RpHxjpLjet9PW1UgPMaA0Ea_uzSrqqAmnrQkELIojt_EinVCuO5h_IN7s/w400-h224/1000006327.jpg",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Secteur pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur nucléaire",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur pétrolier",
+            "secteur_en": "Oil sector",
+            "secteur_zh": "石油行业",
+            "effet_fr": "L'impact sur le secteur pétrolier est important car l'Iran est un grand producteur de pétrole.",
+            "effet_en": "The impact on the oil sector is significant as Iran is a major oil producer.",
+            "effet_zh": "对石油行业的影响很大，因为伊朗是石油的主要生产国。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur nucléaire",
+            "secteur_en": "Nuclear sector",
+            "secteur_zh": "核行业",
+            "effet_fr": "Le secteur nucléaire est également touché car l'Iran a un programme nucléaire controversé.",
+            "effet_en": "The nuclear sector is also affected as Iran has a controversial nuclear program.",
+            "effet_zh": "核行业也受到影响，因为伊朗有一个有争议的核计划。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T19:25:59.523482"
+      },
       {
         "id": "iran_290621",
         "titre": "L'Iran en mouvement",
