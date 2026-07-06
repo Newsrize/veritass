@@ -1,10 +1,8 @@
 name: Veritass — Mise à jour automatique
-
 on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -19,7 +17,7 @@ jobs:
       - name: Lancer le script
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+          GROQ_KEY: ${{ secrets.GROQ_KEY }}
         run: python update_news.py
       - name: Commit et push
         run: |
