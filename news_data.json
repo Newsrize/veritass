@@ -1,7 +1,57 @@
 {
-  "last_updated": "06/07/2026 à 21h16",
+  "last_updated": "06/07/2026 à 22h56",
   "articles": {
     "monde": [
+      {
+        "id": "monde_439394",
+        "titre": "Déclin Américain",
+        "titre_en": "American Decline",
+        "titre_zh": "美国衰落",
+        "titre_original": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "resume": "Les tensions entre les États-Unis et la Chine ont des conséquences sur l'économie mondiale. La situation à Taiwan est également tendue. Les marchés financiers sont sous pression.",
+        "resume_en": "Tensions between the US and China have consequences on the global economy. The situation in Taiwan is also tense. Financial markets are under pressure.",
+        "resume_zh": "美国和中国之间的紧张局势对全球经济产生了影响。台湾的局势也很紧张。金融市场承受着压力。",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et la Chine est complexe. Les enjeux principaux sont la domination économique et la sécurité nationale. Les conséquences à court terme sont une instabilité des marchés financiers. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis, la Chine et l'Europe.",
+        "analyse_en": "The historical context of US-China relations is complex. The main stakes are economic dominance and national security. The short-term consequences are financial market instability. The long-term prospects are uncertain. The key actors are the US, China, and Europe.",
+        "analyse_zh": "美国和中国之间的历史背景很复杂。主要的影响是经济主导地位和国家安全。短期后果是金融市场不稳定。长期前景不确定。主要参与者是美国、中国和欧洲。",
+        "categorie": "Géopolitique",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "image": "https://substackcdn.com/image/fetch/$s_!ZutT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca58e52-7f65-4429-b0b6-5197994fe22c_1536x569.png",
+        "date": "2026-07-05",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des changes",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché obligataire",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des changes",
+            "secteur_en": "Foreign Exchange Market",
+            "secteur_zh": "外汇市场",
+            "effet_fr": "Les fluctuations des taux de change ont un impact sur les échanges commerciaux.",
+            "effet_en": "Exchange rate fluctuations have an impact on trade exchanges.",
+            "effet_zh": "汇率波动对贸易交流产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché obligataire",
+            "secteur_en": "Bond Market",
+            "secteur_zh": "债券市场",
+            "effet_fr": "Les rendements obligataires sont affectés par les tensions géopolitiques.",
+            "effet_en": "Bond yields are affected by geopolitical tensions.",
+            "effet_zh": "债券收益率受到地缘政治紧张的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T22:56:30.168664"
+      },
       {
         "id": "monde_001",
         "titre": "Tensions géopolitiques mondiales : vers un nouvel ordre international",
@@ -156,6 +206,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_439394",
+        "titre": "Déclin Américain",
+        "titre_en": "American Decline",
+        "titre_zh": "美国衰落",
+        "titre_original": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "resume": "Les États-Unis font face à des défis économiques et géopolitiques. La Chine est en train de renforcer sa position sur la scène internationale.",
+        "resume_en": "The US is facing economic and geopolitical challenges. China is strengthening its position on the international stage.",
+        "resume_zh": "美国面临经济和地缘政治挑战。中国正在加强其在国际舞台上的地位。",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et la Chine est marqué par des périodes de tensions et de coopération. Les enjeux principaux sont la domination économique et la sécurité nationale. Les conséquences à court terme sont une instabilité des marchés financiers. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of US-China relations is marked by periods of tension and cooperation. The main stakes are economic dominance and national security. The short-term consequences are financial market instability. The long-term prospects are uncertain.",
+        "analyse_zh": "美国和中国之间的历史背景以紧张和合作的时期为标志。主要的影响是经济主导地位和国家安全。短期后果是金融市场不稳定。长期前景不确定。",
+        "categorie": "Géopolitique",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "image": "https://substackcdn.com/image/fetch/$s_!ZutT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca58e52-7f65-4429-b0b6-5197994fe22c_1536x569.png",
+        "date": "2026-07-05",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché boursier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des matières premières",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier",
+            "secteur_en": "Stock Market",
+            "secteur_zh": "股票市场",
+            "effet_fr": "Les fluctuations des marchés boursiers ont un impact sur la confiance des investisseurs.",
+            "effet_en": "Stock market fluctuations have an impact on investor confidence.",
+            "effet_zh": "股票市场波动对投资者信心产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des matières premières",
+            "secteur_en": "Commodity Market",
+            "secteur_zh": "大宗商品市场",
+            "effet_fr": "Les prix des matières premières sont affectés par les tensions géopolitiques.",
+            "effet_en": "Commodity prices are affected by geopolitical tensions.",
+            "effet_zh": "大宗商品价格受到地缘政治紧张的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T22:56:30.168711"
+      },
       {
         "id": "usa_364887",
         "titre": "Trump sauve l'USMNT",
@@ -559,6 +659,56 @@
     ],
     "chine": [
       {
+        "id": "chine_439394",
+        "titre": "Déclin Américain",
+        "titre_en": "American Decline",
+        "titre_zh": "美国衰落",
+        "titre_original": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "resume": "La Chine est en train de renforcer sa position sur la scène internationale. Les États-Unis font face à des défis économiques et géopolitiques.",
+        "resume_en": "China is strengthening its position on the international stage. The US is facing economic and geopolitical challenges.",
+        "resume_zh": "中国正在加强其在国际舞台上的地位。美国面临经济和地缘政治挑战。",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et la Chine est complexe. Les enjeux principaux sont la domination économique et la sécurité nationale. Les conséquences à court terme sont une instabilité des marchés financiers. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis, la Chine et l'Europe.",
+        "analyse_en": "The historical context of US-China relations is complex. The main stakes are economic dominance and national security. The short-term consequences are financial market instability. The long-term prospects are uncertain. The key actors are the US, China, and Europe.",
+        "analyse_zh": "美国和中国之间的历史背景很复杂。主要的影响是经济主导地位和国家安全。短期后果是金融市场不稳定。长期前景不确定。主要参与者是美国、中国和欧洲。",
+        "categorie": "Géopolitique",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "image": "https://substackcdn.com/image/fetch/$s_!ZutT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca58e52-7f65-4429-b0b6-5197994fe22c_1536x569.png",
+        "date": "2026-07-05",
+        "pays": "chine",
+        "badges": [
+          {
+            "label": "▲ Marché des technologies",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché de l'énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des technologies",
+            "secteur_en": "Tech Market",
+            "secteur_zh": "科技市场",
+            "effet_fr": "Les entreprises technologiques sont affectées par les tensions géopolitiques.",
+            "effet_en": "Tech companies are affected by geopolitical tensions.",
+            "effet_zh": "科技公司受到地缘政治紧张的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché de l'énergie",
+            "secteur_en": "Energy Market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "Les prix de l'énergie sont affectés par les tensions géopolitiques.",
+            "effet_en": "Energy prices are affected by geopolitical tensions.",
+            "effet_zh": "能源价格受到地缘政治紧张的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T22:56:30.168721"
+      },
+      {
         "id": "chine_611307",
         "titre": "Xi Jinping et le pouvoir",
         "titre_en": "Xi Jinping and Power",
@@ -760,6 +910,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_439394",
+        "titre": "Déclin Américain",
+        "titre_en": "American Decline",
+        "titre_zh": "美国衰落",
+        "titre_original": "American Decline, Chinese Exposure | Sinification: June 2026",
+        "resume": "La Russie est affectée par les tensions géopolitiques entre les États-Unis et la Chine. Les conséquences sont une instabilité des marchés financiers.",
+        "resume_en": "Russia is affected by the geopolitical tensions between the US and China. The consequences are financial market instability.",
+        "resume_zh": "俄罗斯受到美国和中国之间的地缘政治紧张的影响。后果是金融市场不稳定。",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et la Chine est complexe. Les enjeux principaux sont la domination économique et la sécurité nationale. Les conséquences à court terme sont une instabilité des marchés financiers. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of US-China relations is complex. The main stakes are economic dominance and national security. The short-term consequences are financial market instability. The long-term prospects are uncertain.",
+        "analyse_zh": "美国和中国之间的历史背景很复杂。主要的影响是经济主导地位和国家安全。短期后果是金融市场不稳定。长期前景不确定。",
+        "categorie": "Géopolitique",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
+        "image": "https://substackcdn.com/image/fetch/$s_!ZutT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca58e52-7f65-4429-b0b6-5197994fe22c_1536x569.png",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché des armes",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des minéraux",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des armes",
+            "secteur_en": "Arms Market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "Les ventes d'armes sont affectées par les tensions géopolitiques.",
+            "effet_en": "Arms sales are affected by geopolitical tensions.",
+            "effet_zh": "武器销售受到地缘政治紧张的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des minéraux",
+            "secteur_en": "Mineral Market",
+            "secteur_zh": "矿物市场",
+            "effet_fr": "Les prix des minéraux sont affectés par les tensions géopolitiques.",
+            "effet_en": "Mineral prices are affected by geopolitical tensions.",
+            "effet_zh": "矿物价格受到地缘政治紧张的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T22:56:30.168729"
+      },
       {
         "id": "russie_819411",
         "titre": "OTAN face au défi",
@@ -1162,6 +1362,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_475374",
+        "titre": "Funérailles de Khamenei",
+        "titre_en": "Khamenei's Funeral",
+        "titre_zh": "哈梅内伊的葬礼",
+        "titre_original": "Tehran airspace closes Monday for Khamenei’s funeral as crypto markets brace for volatility",
+        "resume": "Les funérailles de Khamenei ont lieu en Iran. Les marchés financiers sont sous pression en raison des tensions géopolitiques.",
+        "resume_en": "Khamenei's funeral is taking place in Iran. Financial markets are under pressure due to geopolitical tensions.",
+        "resume_zh": "哈梅内伊的葬礼在伊朗举行。金融市场因地缘政治紧张而承受压力。",
+        "analyse_detaillee": "Le contexte historique des relations entre l'Iran et les autres pays est complexe. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme sont une instabilité des marchés financiers. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of Iran's relations with other countries is complex. The main stakes are national security and regional stability. The short-term consequences are financial market instability. The long-term prospects are uncertain.",
+        "analyse_zh": "伊朗与其他国家的关系历史背景很复杂。主要的影响是国家安全和地区稳定。短期后果是金融市场不稳定。长期前景不确定。",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tehran-airspace-khamenei-funeral-crypto/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05183951/iran-after-ayatollah-ali-khamenei-us-israel-war-on-iran-al-j-800x420.jpeg",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des crypto-monnaies",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil Market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les prix du pétrole sont affectés par les tensions géopolitiques.",
+            "effet_en": "Oil prices are affected by geopolitical tensions.",
+            "effet_zh": "石油价格受到地缘政治紧张的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des crypto-monnaies",
+            "secteur_en": "Cryptocurrency Market",
+            "secteur_zh": "加密货币市场",
+            "effet_fr": "Les prix des crypto-monnaies sont affectés par les tensions géopolitiques.",
+            "effet_en": "Cryptocurrency prices are affected by geopolitical tensions.",
+            "effet_zh": "加密货币价格受到地缘政治紧张的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T22:56:30.168736"
+      },
       {
         "id": "iran_786796",
         "titre": "Attaque en mer Rouge",
