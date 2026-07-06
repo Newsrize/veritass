@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/07/2026 à 19h25",
+  "last_updated": "06/07/2026 à 21h16",
   "articles": {
     "monde": [
       {
@@ -156,6 +156,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_364887",
+        "titre": "Trump sauve l'USMNT",
+        "titre_en": "Trump Saves USMNT",
+        "titre_zh": "特朗普救美国队",
+        "titre_original": "Did Donald Trump Just Save the USMNT’s World Cup?",
+        "resume": "L'USMNT était en difficulté après un carton rouge. Trump a peut-être changé la donne. L'équipe américaine peut encore jouer la Coupe du monde.",
+        "resume_en": "The USMNT was in trouble after a red card. Trump may have changed the situation. The American team can still play the World Cup.",
+        "resume_zh": "美国队因红牌而陷入困境。特朗普可能改变了局势。美国队仍可参加世界杯。",
+        "analyse_detaillee": "Le contexte historique de la Coupe du monde est complexe. Les enjeux principaux sont la qualification et la victoire. Les conséquences à court terme sont l'impact sur l'équipe. Les perspectives à long terme sont la réputation de Trump. Les acteurs clés sont l'USMNT et Trump.",
+        "analyse_en": "The historical context of the World Cup is complex. The main stakes are qualification and victory. The short-term consequences are the impact on the team. The long-term prospects are Trump's reputation. The key actors are the USMNT and Trump.",
+        "analyse_zh": "世界杯的历史背景复杂。主要影响是资格和胜利。短期后果是对球队的影响。长期前景是特朗普的声誉。主要参与者是美国队和特朗普。",
+        "categorie": "Géopolitique",
+        "source": "Easysportz.com",
+        "url": "https://easysportz.com/2026/07/did-donald-trump-just-save-the-usmnts-world-cup/",
+        "image": "https://s.yimg.com/os/en/easy_sportz_188/c64ffb35892c014be2731ca588af8462",
+        "date": "2026-07-05",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Sport américain",
+            "hausse": true
+          },
+          {
+            "label": "▼ Finances internationales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sport américain",
+            "secteur_en": "American Sports",
+            "secteur_zh": "美国体育",
+            "effet_fr": "L'intervention de Trump a peut-être changé la donne pour l'USMNT.",
+            "effet_en": "Trump's intervention may have changed the situation for the USMNT.",
+            "effet_zh": "特朗普的干预可能改变了美国队的局势。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Finances internationales",
+            "secteur_en": "International Finance",
+            "secteur_zh": "国际金融",
+            "effet_fr": "Les conséquences de l'intervention de Trump sont incertaines pour les finances internationales.",
+            "effet_en": "The consequences of Trump's intervention are uncertain for international finance.",
+            "effet_zh": "特朗普干预的后果对于国际金融来说是不确定的。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T21:16:47.675672"
+      },
       {
         "id": "usa_842672",
         "titre": "Droit à l'autodéfense",
@@ -711,6 +761,56 @@
     ],
     "russie": [
       {
+        "id": "russie_819411",
+        "titre": "OTAN face au défi",
+        "titre_en": "NATO Faces Challenge",
+        "titre_zh": "北约面临挑战",
+        "titre_original": "NATO Chief Faces Challenge At Summit As Trump Demands 'Loyalty' And Not Just Burden-Sharing",
+        "resume": "Le secrétaire général de l'OTAN est face à un défi. Trump exige la loyauté des membres. L'OTAN doit faire face à ces exigences.",
+        "resume_en": "The NATO secretary-general is facing a challenge. Trump demands loyalty from member states. NATO must deal with these demands.",
+        "resume_zh": "北约秘书长面临挑战。特朗普要求成员国忠诚。北约必须应对这些要求。",
+        "analyse_detaillee": "Le contexte historique de l'OTAN est complexe. Les enjeux principaux sont la sécurité et la coopération. Les conséquences à court terme sont l'impact sur les relations internationales. Les perspectives à long terme sont la stabilité de l'OTAN. Les acteurs clés sont l'OTAN et les États-Unis.",
+        "analyse_en": "The historical context of NATO is complex. The main stakes are security and cooperation. The short-term consequences are the impact on international relations. The long-term prospects are NATO's stability. The key actors are NATO and the United States.",
+        "analyse_zh": "北约的历史背景复杂。主要影响是安全和合作。短期后果是对国际关系的影响。长期前景是北约的稳定。主要参与者是北约和美国。",
+        "categorie": "Géopolitique",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/ap-eu-nato-summit-rutte-trump_n_6a4a4ea3e4b03060a850d285",
+        "image": "https://img.huffingtonpost.com/asset/6a4a4f2a1a000074a958016b.jpeg?cache=pLB7n8LKm8&ops=1200_630",
+        "date": "2026-07-05",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Défense européenne",
+            "hausse": false
+          },
+          {
+            "label": "▼ Relations internationales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense européenne",
+            "secteur_en": "European Defense",
+            "secteur_zh": "欧洲防御",
+            "effet_fr": "Les exigences de Trump peuvent avoir un impact sur la défense européenne.",
+            "effet_en": "Trump's demands may have an impact on European defense.",
+            "effet_zh": "特朗普的要求可能会影响欧洲防御。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Relations internationales",
+            "secteur_en": "International Relations",
+            "secteur_zh": "国际关系",
+            "effet_fr": "Les conséquences des exigences de Trump sont incertaines pour les relations internationales.",
+            "effet_en": "The consequences of Trump's demands are uncertain for international relations.",
+            "effet_zh": "特朗普要求的后果对于国际关系来说是不确定的。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T21:16:47.675703"
+      },
+      {
         "id": "russie_959086",
         "titre": "Géopolitique russe",
         "titre_en": "Russian Geopolitics",
@@ -1062,6 +1162,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_786796",
+        "titre": "Attaque en mer Rouge",
+        "titre_en": "Attack in Red Sea",
+        "titre_zh": "红海攻击",
+        "titre_original": "Cargo Ship Reports Attack Off Yemen, Adding To Red Sea Risks",
+        "resume": "Un navire cargo a été attaqué en mer Rouge. L'incident a augmenté les risques de sécurité dans la région.",
+        "resume_en": "A cargo ship was attacked in the Red Sea. The incident has increased security risks in the region.",
+        "resume_zh": "一艘货船在红海被攻击。该事件增加了该地区的安全风险。",
+        "analyse_detaillee": "Le contexte historique de la mer Rouge est complexe. Les enjeux principaux sont la sécurité et la navigation. Les conséquences à court terme sont l'impact sur le commerce international. Les perspectives à long terme sont la stabilité de la région. Les acteurs clés sont les pays riverains et les organisations internationales.",
+        "analyse_en": "The historical context of the Red Sea is complex. The main stakes are security and navigation. The short-term consequences are the impact on international trade. The long-term prospects are the stability of the region. The key actors are the coastal states and international organizations.",
+        "analyse_zh": "红海的历史背景复杂。主要影响是安全和航行。短期后果是对国际贸易的影响。长期前景是该地区的稳定。主要参与者是沿海国家和国际组织。",
+        "categorie": "Géopolitique",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/cargo-ship-reports-attack-off-yemen-adding-to-red-sea-risks/",
+        "image": "https://gcaptain.com/wp-content/uploads/2026/02/Operation-Aspides-red-sea-escort.jpeg",
+        "date": "2026-07-05",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Transport maritime",
+            "hausse": false
+          },
+          {
+            "label": "▼ Énergie et pétrole",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Transport maritime",
+            "secteur_en": "Maritime Transport",
+            "secteur_zh": "海上运输",
+            "effet_fr": "L'attaque en mer Rouge a augmenté les risques pour le transport maritime.",
+            "effet_en": "The attack in the Red Sea has increased risks for maritime transport.",
+            "effet_zh": "红海的攻击增加了海上运输的风险。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Énergie et pétrole",
+            "secteur_en": "Energy and Oil",
+            "secteur_zh": "能源和石油",
+            "effet_fr": "Les conséquences de l'attaque en mer Rouge sont incertaines pour l'énergie et le pétrole.",
+            "effet_en": "The consequences of the attack in the Red Sea are uncertain for energy and oil.",
+            "effet_zh": "红海攻击的后果对于能源和石油来说是不确定的。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-06T21:16:47.675713"
+      },
       {
         "id": "iran_959086",
         "titre": "Géopolitique iranienne",
