@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 22h02",
+  "last_updated": "07/07/2026 à 23h42",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_613675",
+        "titre": "McConnell hospitalisé",
+        "titre_en": "Mitch McConnell Hospitalized",
+        "titre_zh": "米奇·麦康奈尔住院",
+        "titre_original": "Laura Loomer, Reporter Claim Hospitalized Mitch McConnell Is ‘Brain Dead’",
+        "resume": "Le sénateur Mitch McConnell a été hospitalisé. Des sources non nommées affirment qu'il est déclaré 'cliniquement mort'. L'information n'a pas été confirmée. McConnell est un membre important du parti républicain. Son état de santé est suivi de près.",
+        "resume_en": "Senator Mitch McConnell was hospitalized. Unnamed sources claim he is declared 'brain dead'. The information has not been confirmed. McConnell is an important member of the Republican party. His health status is being closely monitored.",
+        "resume_zh": "参议员米奇·麦康奈尔被送往医院。未透露姓名的消息来源声称，他被宣布为'脑死亡'。这一信息尚未得到确认。麦康奈尔是共和党的重要成员。他的健康状况正在被密切关注。",
+        "analyse_detaillee": "Le contexte historique de cette situation est marqué par les tensions politiques aux États-Unis. Les enjeux principaux concernent la stabilité du parti républicain. Les conséquences à court terme pourraient être une réorganisation du parti. À long terme, cela pourrait avoir des implications sur les élections futures. Les acteurs clés sont les membres du parti républicain et les médias.",
+        "analyse_en": "The historical context of this situation is marked by political tensions in the United States. The main stakes concern the stability of the Republican party. The short-term consequences could be a reorganization of the party. In the long term, this could have implications for future elections. The key actors are the members of the Republican party and the media.",
+        "analyse_zh": "这种情况的历史背景是美国的政治紧张。主要影响是共和党的稳定。短期后果可能是党内重组。从长远来看，这可能会对未来的选举产生影响。关键人物是共和党成员和媒体。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386943/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur de la santé",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la santé",
+            "secteur_en": "Healthcare sector",
+            "secteur_zh": "医疗保健行业",
+            "effet_fr": "L'hospitalisation de Mitch McConnell a un impact sur la perception de la santé des personnalités politiques.",
+            "effet_en": "Mitch McConnell's hospitalization has an impact on the perception of the health of political figures.",
+            "effet_zh": "米奇·麦康奈尔的住院对政治人物的健康状况的看法产生了影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur politique",
+            "secteur_en": "Political sector",
+            "secteur_zh": "政治领域",
+            "effet_fr": "La situation de McConnell affecte la stabilité du parti républicain.",
+            "effet_en": "McConnell's situation affects the stability of the Republican party.",
+            "effet_zh": "麦康奈尔的处境影响了共和党的稳定性。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T23:42:25.549530"
+      },
       {
         "id": "usa_793890",
         "titre": "Sommet NATO 2026",
@@ -1209,6 +1259,56 @@
     ],
     "chine": [
       {
+        "id": "chine_758172",
+        "titre": "Chine se concentre sur l'IA",
+        "titre_en": "China Focuses on AI",
+        "titre_zh": "中国关注人工智能",
+        "titre_original": "CNBC's The China Connection newsletter: What to watch for in the second half",
+        "resume": "La Chine se concentre sur l'intelligence artificielle et les IPO pour la deuxième moitié de l'année. Le pays cherche à renforcer son économie. Les investissements dans l'IA et les IPO sont considérés comme stratégiques.",
+        "resume_en": "China is focusing on artificial intelligence and IPOs for the second half of the year. The country is seeking to strengthen its economy. Investments in AI and IPOs are considered strategic.",
+        "resume_zh": "中国将在今年下半年集中精力发展人工智能和IPO。该国旨在加强其经济。人工智能和IPO的投资被认为是战略性的。",
+        "analyse_detaillee": "Le contexte historique de cette situation est marqué par la montée en puissance de la Chine. Les enjeux principaux concernent la compétitivité économique. Les conséquences à court terme pourraient être une croissance économique accrue. À long terme, cela pourrait avoir des implications sur la position de la Chine dans le monde. Les acteurs clés sont les entreprises chinoises et les investisseurs.",
+        "analyse_en": "The historical context of this situation is marked by China's rise to power. The main stakes concern economic competitiveness. The short-term consequences could be increased economic growth. In the long term, this could have implications for China's position in the world. The key actors are Chinese companies and investors.",
+        "analyse_zh": "这种情况的历史背景是中国的崛起。主要影响是经济竞争力。短期后果可能是经济增长增加。从长远来看，这可能会对中国在世界的地位产生影响。关键人物是中国企业和投资者。",
+        "categorie": "Géopolitique",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/06/cnbcs-the-china-connection-newsletter-a-focus-on-ai-ipos-diplomacy.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108330578-1783301918334-gettyimages-2276638474-img_6080.jpeg?v=1783302841&w=1920&h=1080",
+        "date": "2026-07-06",
+        "pays": "chine",
+        "badges": [
+          {
+            "label": "▲ Secteur technologique",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur financier",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur technologique",
+            "secteur_en": "Technology sector",
+            "secteur_zh": "科技行业",
+            "effet_fr": "La concentration de la Chine sur l'IA aura un impact sur le développement de la technologie.",
+            "effet_en": "China's focus on AI will have an impact on the development of technology.",
+            "effet_zh": "中国对人工智能的关注将对技术的发展产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "Les IPO en Chine affecteront les marchés financiers.",
+            "effet_en": "IPOs in China will affect financial markets.",
+            "effet_zh": "中国的IPO将影响金融市场。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T23:42:25.549555"
+      },
+      {
         "id": "chine_300868",
         "titre": "Rencontre entre la Finlande et la Chine",
         "titre_en": "Finland-China meeting",
@@ -1510,6 +1610,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_674506",
+        "titre": "Ukraine frappe des cibles russes",
+        "titre_en": "Ukraine Strikes Russian Targets",
+        "titre_zh": "乌克兰袭击俄罗斯目标",
+        "titre_original": "Ukraine Strikes 47 Russian Military Targets, Including S-400 Launchers and Fuel Tankers",
+        "resume": "L'Ukraine a lancé une attaque contre 47 cibles militaires russes, dont des lanceurs S-400 et des citernes de carburant. L'attaque a été menée par les forces ukrainiennes. Les dégâts causés sont importants.",
+        "resume_en": "Ukraine launched an attack on 47 Russian military targets, including S-400 launchers and fuel tankers. The attack was carried out by Ukrainian forces. The damage caused is significant.",
+        "resume_zh": "乌克兰对47个俄罗斯军事目标发动了攻击，包括S-400发射器和油箱。攻击由乌克兰军队实施。造成的损害很大。",
+        "analyse_detaillee": "Le contexte historique de cette situation est marqué par le conflit entre l'Ukraine et la Russie. Les enjeux principaux concernent la sécurité nationale. Les conséquences à court terme pourraient être une escalade du conflit. À long terme, cela pourrait avoir des implications sur la stabilité de la région. Les acteurs clés sont les gouvernements ukrainien et russe.",
+        "analyse_en": "The historical context of this situation is marked by the conflict between Ukraine and Russia. The main stakes concern national security. The short-term consequences could be an escalation of the conflict. In the long term, this could have implications for the stability of the region. The key actors are the Ukrainian and Russian governments.",
+        "analyse_zh": "这种情况的历史背景是乌克兰和俄罗斯之间的冲突。主要影响是国家安全。短期后果可能是冲突的升级。从长远来看，这可能会对该地区的稳定产生影响。关键人物是乌克兰和俄罗斯政府。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386947/posts",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur de la défense",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur énergétique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "L'attaque ukrainienne aura un impact sur la défense russe.",
+            "effet_en": "The Ukrainian attack will have an impact on Russian defense.",
+            "effet_zh": "乌克兰的攻击将对俄罗斯的国防产生影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "La destruction de citernes de carburant affectera les approvisionnements énergétiques.",
+            "effet_en": "The destruction of fuel tankers will affect energy supplies.",
+            "effet_zh": "油箱的破坏将影响能源供应。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T23:42:25.549564"
+      },
       {
         "id": "russie_880536",
         "titre": "Démocratie en Russie",
@@ -2412,6 +2562,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_315974",
+        "titre": "Pétrole : les majors réalisent des bénéfices",
+        "titre_en": "Oil: Majors Make Profits",
+        "titre_zh": "石油：大公司获利",
+        "titre_original": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
+        "resume": "Les majors pétrolières réalisent des bénéfices records en raison de la hausse des prix du pétrole. La fermeture du détroit d'Ormuz a contribué à cette augmentation. Les bénéfices des entreprises comme ExxonMobil sont en hausse.",
+        "resume_en": "Oil majors are making record profits due to the rise in oil prices. The closure of the Strait of Hormuz contributed to this increase. The profits of companies like ExxonMobil are increasing.",
+        "resume_zh": "石油巨头由于石油价格上涨而获得了创纪录的利润。霍尔木兹海峡的关闭促成了这种增加。像埃克森美孚这样的公司的利润正在增加。",
+        "analyse_detaillee": "Le contexte historique de cette situation est marqué par les tensions géopolitiques dans la région. Les enjeux principaux concernent la sécurité énergétique. Les conséquences à court terme pourraient être une augmentation des prix de l'énergie. À long terme, cela pourrait avoir des implications sur la stabilité de la région. Les acteurs clés sont les pays producteurs de pétrole et les entreprises énergétiques.",
+        "analyse_en": "The historical context of this situation is marked by geopolitical tensions in the region. The main stakes concern energy security. The short-term consequences could be an increase in energy prices. In the long term, this could have implications for the stability of the region. The key actors are oil-producing countries and energy companies.",
+        "analyse_zh": "这种情况的历史背景是该地区的地缘政治紧张。主要影响是能源安全。短期后果可能是能源价格上涨。从长远来看，这可能会对该地区的稳定产生影响。关键人物是石油生产国和能源公司。",
+        "categorie": "Géopolitique",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Heads-for-Record-Profits-as-Trump-Turns-Up-the-Heat-on-Gas-Prices.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_wtkpif8lym.jpg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Secteur pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur énergétique",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur pétrolier",
+            "secteur_en": "Oil sector",
+            "secteur_zh": "石油行业",
+            "effet_fr": "La fermeture du détroit d'Ormuz a un impact sur les prix du pétrole.",
+            "effet_en": "The closure of the Strait of Hormuz has an impact on oil prices.",
+            "effet_zh": "霍尔木兹海峡的关闭对石油价格产生了影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les bénéfices des entreprises énergétiques sont en hausse.",
+            "effet_en": "The profits of energy companies are increasing.",
+            "effet_zh": "能源公司的利润正在增加。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T23:42:25.549570"
+      },
       {
         "id": "iran_899633",
         "titre": "Trêve entre US et Iran",
