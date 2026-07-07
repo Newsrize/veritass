@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 16h14",
+  "last_updated": "07/07/2026 à 18h52",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_884076",
+        "titre": "Cour Suprême",
+        "titre_en": "US Supreme Court",
+        "titre_zh": "美国最高法院",
+        "titre_original": "We’re Not Doomed to Live Under the Supreme Court’s Mistakes. Here Are Five Ways Congress Can Clean Up SCOTUS’s Mess.",
+        "resume": "La Cour Suprême des États-Unis a pris des décisions controversées. Le Congrès peut intervenir pour corriger ces erreurs. Les conséquences de ces décisions sont importantes pour la société américaine.",
+        "resume_en": "The US Supreme Court has made controversial decisions. Congress can intervene to correct these mistakes. The consequences of these decisions are significant for American society.",
+        "resume_zh": "美国最高法院做出了有争议的决定。国会可以介入纠正这些错误。这些决定的后果对美国社会很重要。",
+        "analyse_detaillee": "Historiquement, la Cour Suprême a pris des décisions qui ont été contestées par la société. Les enjeux principaux sont la séparation des pouvoirs et la démocratie. Les conséquences à court terme sont une perte de confiance dans les institutions. Les perspectives à long terme sont une réforme du système judiciaire. Les acteurs clés sont le Congrès et la Cour Suprême.",
+        "analyse_en": "Historically, the Supreme Court has made decisions that have been contested by society. The main stakes are the separation of powers and democracy. The short-term consequences are a loss of trust in institutions. The long-term prospects are a reform of the judicial system. The key actors are Congress and the Supreme Court.",
+        "analyse_zh": "历史上，最高法院做出了被社会质疑的决定。主要影响是权力分立和民主。短期后果是对机构的信任丧失。长期前景是司法系统的改革。关键人物是国会和最高法院。",
+        "categorie": "Géopolitique",
+        "source": "Slate Magazine",
+        "url": "https://slate.com/news-and-politics/2026/07/supreme-court-decisions-what-congress-could-do.html",
+        "image": "https://compote.slate.com/images/bd658468-ddab-4df6-b1da-b7d5c142dc10.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur juridique",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur juridique",
+            "secteur_en": "Legal sector",
+            "secteur_zh": "法律行业",
+            "effet_fr": "La décision de la Cour Suprême a un impact direct sur le secteur juridique.",
+            "effet_en": "The Supreme Court's decision has a direct impact on the legal sector.",
+            "effet_zh": "最高法院的决定直接影响了法律行业。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur politique",
+            "secteur_en": "Political sector",
+            "secteur_zh": "政治行业",
+            "effet_fr": "La décision de la Cour Suprême a également un impact sur le secteur politique.",
+            "effet_en": "The Supreme Court's decision also has an impact on the political sector.",
+            "effet_zh": "最高法院的决定也影响了政治行业。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T18:52:34.819582"
+      },
       {
         "id": "usa_184033",
         "titre": "Sepp Blatter critique la fédération",
@@ -1361,6 +1411,56 @@
     ],
     "russie": [
       {
+        "id": "russie_245814",
+        "titre": "Exportations pétrolières",
+        "titre_en": "Oil exports",
+        "titre_zh": "石油出口",
+        "titre_original": "Russia ships record oil volumes but revenue falls to $1.9B per week in June",
+        "resume": "La Russie a augmenté ses exportations de pétrole, mais ses revenus ont diminué. Cela pourrait avoir des conséquences sur le budget russe et les marchés mondiaux de l'énergie.",
+        "resume_en": "Russia has increased its oil exports, but its revenue has decreased. This could have consequences for the Russian budget and global energy markets.",
+        "resume_zh": "俄罗斯增加了石油出口，但收入却减少了。这可能会对俄罗斯预算和全球能源市场产生影响。",
+        "analyse_detaillee": "La Russie est un acteur majeur dans le marché de l'énergie. Les enjeux principaux sont la stabilité des marchés et la sécurité énergétique. Les conséquences à court terme sont une augmentation de la production pétrolière. Les perspectives à long terme sont une diversification des sources d'énergie. Les acteurs clés sont la Russie et l'OPEP.",
+        "analyse_en": "Russia is a major player in the energy market. The main stakes are market stability and energy security. The short-term consequences are an increase in oil production. The long-term prospects are a diversification of energy sources. The key actors are Russia and OPEC.",
+        "analyse_zh": "俄罗斯是能源市场的主要参与者。主要影响是市场稳定和能源安全。短期后果是石油生产的增加。长期前景是能源来源的多元化。关键人物是俄罗斯和欧佩克。",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russia-record-oil-exports-revenue-falls/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06144643/russian-shadow-fleet-tanker-1-800x420.jpeg",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Secteur énergétique",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur financier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "La décision de la Russie d'augmenter ses exportations de pétrole a un impact direct sur le secteur énergétique.",
+            "effet_en": "Russia's decision to increase its oil exports has a direct impact on the energy sector.",
+            "effet_zh": "俄罗斯决定增加石油出口对能源行业有直接影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "La diminution des revenus de la Russie pourrait avoir un impact sur le secteur financier.",
+            "effet_en": "Russia's decreased revenue could have an impact on the financial sector.",
+            "effet_zh": "俄罗斯收入的减少可能会影响金融行业。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T18:52:34.819608"
+      },
+      {
         "id": "russie_333271",
         "titre": "Révolution verte grâce aux engrais",
         "titre_en": "Green Revolution Thanks to Fertilizers",
@@ -2112,6 +2212,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_245814",
+        "titre": "Non applicable",
+        "titre_en": "Not applicable",
+        "titre_zh": "不适用",
+        "titre_original": "Russia ships record oil volumes but revenue falls to $1.9B per week in June",
+        "resume": "L'article ne concerne pas l'Iran, mais la Russie. Il n'y a pas d'information pertinente sur l'Iran.",
+        "resume_en": "The article does not concern Iran, but Russia. There is no relevant information about Iran.",
+        "resume_zh": "该文章不涉及伊朗，而是俄罗斯。没有关于伊朗的相关信息。",
+        "analyse_detaillee": "Il n'y a pas d'analyse possible en raison du manque d'information sur l'Iran.",
+        "analyse_en": "There is no possible analysis due to the lack of information about Iran.",
+        "analyse_zh": "由于缺乏关于伊朗的信息，无法进行分析。",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/russia-record-oil-exports-revenue-falls/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06144643/russian-shadow-fleet-tanker-1-800x420.jpeg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Non applicable",
+            "hausse": false
+          },
+          {
+            "label": "▼ Non applicable",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Non applicable",
+            "secteur_en": "Not applicable",
+            "secteur_zh": "不适用",
+            "effet_fr": "Il n'y a pas d'effet possible à évaluer.",
+            "effet_en": "There is no possible effect to evaluate.",
+            "effet_zh": "没有可以评估的影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Non applicable",
+            "secteur_en": "Not applicable",
+            "secteur_zh": "不适用",
+            "effet_fr": "Il n'y a pas d'effet possible à évaluer.",
+            "effet_en": "There is no possible effect to evaluate.",
+            "effet_zh": "没有可以评估的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T18:52:34.819616"
+      },
       {
         "id": "iran_77527",
         "titre": "Tesla réussit en Chine",
