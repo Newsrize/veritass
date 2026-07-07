@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 13h09",
+  "last_updated": "07/07/2026 à 16h14",
   "articles": {
     "monde": [
       {
@@ -205,6 +205,56 @@
     ],
     "france": [
       {
+        "id": "france_442940",
+        "titre": "Voix entrepreneur contre enseignants",
+        "titre_en": "Entrepreneur vs Teachers",
+        "titre_zh": "企业家与教师之争",
+        "titre_original": "Quand la voix d’un entrepreneur vaut plus que celles des enseignants",
+        "resume": "En Belgique, les professeurs pourraient quitter leur poste. Les enseignants sont mécontents de leur situation. Les conséquences pourraient être graves.",
+        "resume_en": "In Belgium, teachers may quit their jobs. Teachers are unhappy with their situation. The consequences could be severe.",
+        "resume_zh": "比利时教师可能会辞职。教师对自己的情况不满。后果可能很严重。",
+        "analyse_detaillee": "Le contexte historique montre une dégradation des conditions de travail. Les enjeux principaux sont la qualité de l'éducation. Les conséquences à court terme seront une pénurie d'enseignants. Les perspectives à long terme sont inquiétantes. Les acteurs principaux sont les syndicats et le gouvernement.",
+        "analyse_en": "The historical context shows a deterioration of working conditions. The main stakes are the quality of education. The short-term consequences will be a shortage of teachers. The long-term prospects are worrying. The main actors are the unions and the government.",
+        "analyse_zh": "历史背景显示工作条件的恶化。主要影响是教育质量。短期后果将是教师短缺。长期前景令人担忧。主要参与者是工会和政府。",
+        "categorie": "Société",
+        "source": "Lalibre.be",
+        "url": "https://www.lalibre.be/debats/opinions/2026/07/06/quand-la-voix-dun-entrepreneur-vaut-plus-que-celles-des-enseignants-LV7JZF4WKBCUHHY2ZIRCBBPP2U/",
+        "image": "https://www.lalibre.be/resizer/v2/RVZ42YQJQ5A4FIUZKE7W2FNU7M.png?auth=f05017cb24526f0a3bf9c3f107bf5b8b7db9aa955ccb450363c40cb2d72de873&width=1200&height=630&quality=85&focal=750%2C500",
+        "date": "2026-07-06",
+        "pays": "france",
+        "badges": [
+          {
+            "label": "▼ Éducation",
+            "hausse": false
+          },
+          {
+            "label": "▼ Emploi",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Éducation",
+            "secteur_en": "Education",
+            "secteur_zh": "教育",
+            "effet_fr": "La grève des enseignants aura un impact négatif sur le secteur de l'éducation.",
+            "effet_en": "The teachers' strike will have a negative impact on the education sector.",
+            "effet_zh": "教师罢工将对教育行业产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Emploi",
+            "secteur_en": "Employment",
+            "secteur_zh": "就业",
+            "effet_fr": "La pénurie d'enseignants aura un impact sur le marché de l'emploi.",
+            "effet_en": "The shortage of teachers will have an impact on the job market.",
+            "effet_zh": "教师短缺将对就业市场产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T16:14:32.241472"
+      },
+      {
         "id": "france_001",
         "titre": "L'économie française résiste malgré les incertitudes politiques",
         "titre_en": "French economy holds up despite political uncertainties",
@@ -256,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_184033",
+        "titre": "Sepp Blatter critique la fédération",
+        "titre_en": "Sepp Blatter Criticizes Federation",
+        "titre_zh": "塞普·布拉特批评足联",
+        "titre_original": "Internet Howls as Suspended Ex-FIFA Boss Sepp Blatter Lectures Soccer Federation on ‘Ethics’",
+        "resume": "L'ancien patron de la FIFA, Sepp Blatter, a critiqué la fédération. Les fans et les commentateurs sont choqués. La situation est ironique.",
+        "resume_en": "Former FIFA boss Sepp Blatter has criticized the federation. Fans and pundits are shocked. The situation is ironic.",
+        "resume_zh": "前国际足联主席塞普·布拉特批评了足联。球迷和评论员都很震惊。这种情况很讽刺。",
+        "analyse_detaillee": "Le contexte historique montre les problèmes de corruption de la FIFA. Les enjeux principaux sont la crédibilité de la fédération. Les conséquences à court terme seront une perte de confiance. Les perspectives à long terme sont incertaines. Les acteurs principaux sont la FIFA et les instances de contrôle.",
+        "analyse_en": "The historical context shows FIFA's corruption problems. The main stakes are the federation's credibility. The short-term consequences will be a loss of trust. The long-term prospects are uncertain. The main actors are FIFA and the control bodies.",
+        "analyse_zh": "历史背景显示国际足联的腐败问题。主要影响是足联的可信度。短期后果将是失去信任。长期前景不确定。主要参与者是国际足联和监管机构。",
+        "categorie": "Sport",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/online/internet-howls-as-suspended-ex-fifa-boss-sepp-blatter-lectures-soccer-federation-on-ethics/",
+        "image": "https://www.mediaite.com/wp-content/uploads/2026/07/Untitled-design-2026-07-06T152326-957.jpg",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Football",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marketing sportif",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Football",
+            "secteur_en": "Football",
+            "secteur_zh": "足球",
+            "effet_fr": "La critique de Sepp Blatter aura un impact négatif sur la fédération.",
+            "effet_en": "Sepp Blatter's criticism will have a negative impact on the federation.",
+            "effet_zh": "塞普·布拉特的批评将对足联产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marketing sportif",
+            "secteur_en": "Sports Marketing",
+            "secteur_zh": "体育营销",
+            "effet_fr": "La perte de confiance aura un impact sur le marketing sportif.",
+            "effet_en": "The loss of trust will have an impact on sports marketing.",
+            "effet_zh": "失去信任将对体育营销产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T16:14:32.241499"
+      },
       {
         "id": "usa_797797",
         "titre": "Élections à Colorado",
@@ -1261,6 +1361,56 @@
     ],
     "russie": [
       {
+        "id": "russie_333271",
+        "titre": "Révolution verte grâce aux engrais",
+        "titre_en": "Green Revolution Thanks to Fertilizers",
+        "titre_zh": "化肥带来的绿色革命",
+        "titre_original": "Could a fertilizer breakthrough spark the next Green Revolution?",
+        "resume": "Une nouvelle technologie permet de recycler les nitrates pour produire des engrais. Cela pourrait avoir un impact positif sur l'environnement. Les conséquences pourraient être bénéfiques.",
+        "resume_en": "A new technology allows for the recycling of nitrates to produce fertilizers. This could have a positive impact on the environment. The consequences could be beneficial.",
+        "resume_zh": "一种新技术可以回收硝酸盐来生产化肥。这可能会对环境产生积极影响。后果可能是有益的。",
+        "analyse_detaillee": "Le contexte historique montre l'importance de l'agriculture durable. Les enjeux principaux sont la production alimentaire. Les conséquences à court terme seront une augmentation de la production. Les perspectives à long terme sont prometteuses. Les acteurs principaux sont les agriculteurs et les entreprises de technologie.",
+        "analyse_en": "The historical context shows the importance of sustainable agriculture. The main stakes are food production. The short-term consequences will be an increase in production. The long-term prospects are promising. The main actors are farmers and technology companies.",
+        "analyse_zh": "历史背景显示可持续农业的重要性。主要影响是食品生产。短期后果将是生产量的增加。长期前景是有前途的。主要参与者是农民和科技公司。",
+        "categorie": "Environnement",
+        "source": "The Mercury News",
+        "url": "https://www.mercurynews.com/2026/06/28/could-a-fertilizer-breakthrough-at-lawrence-livermore-lab-spark-the-next-green-revolution/",
+        "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/EBT-L-FERTILIZER-16.jpg?w=1024&h=682",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Agriculture",
+            "hausse": true
+          },
+          {
+            "label": "▲ Énergie verte",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Agriculture",
+            "secteur_en": "Agriculture",
+            "secteur_zh": "农业",
+            "effet_fr": "La nouvelle technologie aura un impact positif sur l'agriculture.",
+            "effet_en": "The new technology will have a positive impact on agriculture.",
+            "effet_zh": "新技术将对农业产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Énergie verte",
+            "secteur_en": "Green Energy",
+            "secteur_zh": "绿色能源",
+            "effet_fr": "La réduction des déchets aura un impact positif sur l'énergie verte.",
+            "effet_en": "The reduction of waste will have a positive impact on green energy.",
+            "effet_zh": "减少浪费将对绿色能源产生积极影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T16:14:32.241509"
+      },
+      {
         "id": "russie_905202",
         "titre": "Attaque aérienne en Ukraine",
         "titre_en": "Airstrike in Ukraine",
@@ -1962,6 +2112,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_77527",
+        "titre": "Tesla réussit en Chine",
+        "titre_en": "Tesla Succeeds in China",
+        "titre_zh": "特斯拉在中国成功",
+        "titre_original": "Tesla is doing in China what it couldn't do in the U.S.",
+        "resume": "Tesla a réussi à pénétrer le marché chinois. La concurrence est rude, mais Tesla a trouvé son place. Les conséquences pourraient être bénéfiques pour l'entreprise.",
+        "resume_en": "Tesla has succeeded in entering the Chinese market. The competition is fierce, but Tesla has found its place. The consequences could be beneficial for the company.",
+        "resume_zh": "特斯拉成功进入中国市场。竞争很激烈，但特斯拉找到了自己的位置。后果可能对公司有益。",
+        "analyse_detaillee": "Le contexte historique montre l'importance du marché chinois. Les enjeux principaux sont la concurrence dans le secteur des véhicules électriques. Les conséquences à court terme seront une augmentation des ventes. Les perspectives à long terme sont prometteuses. Les acteurs principaux sont Tesla et les constructeurs chinois.",
+        "analyse_en": "The historical context shows the importance of the Chinese market. The main stakes are the competition in the electric vehicle sector. The short-term consequences will be an increase in sales. The long-term prospects are promising. The main actors are Tesla and Chinese manufacturers.",
+        "analyse_zh": "历史背景显示中国市场的重要性。主要影响是电动汽车行业的竞争。短期后果将是销售量的增加。长期前景是有前途的。主要参与者是特斯拉和中国制造商。",
+        "categorie": "Économie",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/markets/tesla-is-doing-in-china-what-it-couldnt-do-in-the-u-s-electric-vehicles",
+        "image": "https://s.yimg.com/lo/mysterio/api/6DF08F1DFE3A4EFB5A9B66E8A7345C582C74F31A7DD1D86B9AF061EDC4F2DCA9/subgraphmysterio/resizefill_w1200_h665;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F002cf414060c0963fac842f8dd8d3a4e",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Véhicules électriques",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché chinois",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Véhicules électriques",
+            "secteur_en": "Electric Vehicles",
+            "secteur_zh": "电动汽车",
+            "effet_fr": "La réussite de Tesla en Chine aura un impact positif sur le secteur des véhicules électriques.",
+            "effet_en": "Tesla's success in China will have a positive impact on the electric vehicle sector.",
+            "effet_zh": "特斯拉在中国的成功将对电动汽车行业产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché chinois",
+            "secteur_en": "Chinese Market",
+            "secteur_zh": "中国市场",
+            "effet_fr": "La pénétration de Tesla sur le marché chinois aura un impact positif sur l'économie chinoise.",
+            "effet_en": "Tesla's penetration into the Chinese market will have a positive impact on the Chinese economy.",
+            "effet_zh": "特斯拉进入中国市场将对中国经济产生积极影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T16:14:32.241516"
+      },
       {
         "id": "iran_463109",
         "titre": "Conflit au Kurdistan",
