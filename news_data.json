@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 06h32",
+  "last_updated": "07/07/2026 à 10h15",
   "articles": {
     "monde": [
       {
@@ -206,6 +206,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_294244",
+        "titre": "Mariage et citoyenneté",
+        "titre_en": "Marriage to Citizenship",
+        "titre_zh": "婚姻与公民身份",
+        "titre_original": "Marriage used to be a glide path to citizenship. Now there are more speed bumps",
+        "resume": "Le mariage avec un citoyen américain n'est plus une voie garantie pour obtenir la citoyenneté. Les conjoints de citoyens américains doivent maintenant faire face à davantage d'obstacles. Cela reflète une évolution dans la politique d'immigration aux États-Unis.",
+        "resume_en": "Marrying a US citizen is no longer a guaranteed path to citizenship. Spouses of US citizens now face more hurdles. This reflects a shift in US immigration policy. The change affects many families.",
+        "resume_zh": "与美国公民结婚不再是获得公民身份的保证途径。美国公民的配偶现在面临更多障碍。这反映了美国移民政策的转变。这种变化影响了许多家庭。",
+        "analyse_detaillee": "Historiquement, le mariage avec un citoyen américain offrait une voie relativement simple pour obtenir la citoyenneté. Cependant, les récentes modifications législatives et politiques ont introduit des complexités. Les enjeux principaux incluent les droits des immigrants et la sécurité nationale. Les conséquences à court terme pourraient inclure des retards dans les processus d'immigration. À long terme, cela pourrait affecter la démographie et l'économie américaines. Les acteurs clés, tels que les législateurs et les groupes de défense des droits des immigrants, sont aux prises avec ces changements.",
+        "analyse_en": "Historically, marrying a US citizen offered a relatively straightforward path to citizenship. However, recent legislative and policy changes have introduced complexities. The main stakes include immigrant rights and national security. Short-term consequences could include delays in immigration processes. In the long term, this could impact the US demographic and economy. Key actors, such as legislators and immigrant rights groups, are grappling with these changes. The international community is also watching.",
+        "analyse_zh": "历史上，嫁给美国公民提供了一条相对直接的获得公民身份的途径。然而，最近的立法和政策变化引入了复杂性。主要的利益相关者包括移民权利和国家安全。短期后果可能包括移民程序的延迟。从长远来看，这可能会影响美国的人口和经济。关键的行为者，如立法者和移民权利团体，都在应对这些变化。国际社会也在关注。",
+        "categorie": "Géopolitique",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2Fe6%2Fa1dc6fa1430d9adf7eed271537fd%2Fgettyimages-2192403952.jpg",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur de l'immigration",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur juridique",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de l'immigration",
+            "secteur_en": "Immigration sector",
+            "secteur_zh": "移民行业",
+            "effet_fr": "Les modifications dans les lois sur l'immigration affectent directement le secteur de l'immigration, entraînant des retards et des incertitudes pour les demandeurs.",
+            "effet_en": "Changes in immigration laws directly impact the immigration sector, leading to delays and uncertainties for applicants.",
+            "effet_zh": "移民法的变化直接影响移民行业，导致申请人的延迟和不确定性。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur juridique",
+            "secteur_en": "Legal sector",
+            "secteur_zh": "法律行业",
+            "effet_fr": "Les avocats et les cabinets d'avocats spécialisés dans l'immigration doivent adapter leurs stratégies pour aider leurs clients à naviguer dans le nouveau paysage législatif.",
+            "effet_en": "Lawyers and law firms specializing in immigration must adapt their strategies to help clients navigate the new legislative landscape.",
+            "effet_zh": "专门从事移民的律师和律师事务所必须调整他们的策略，以帮助客户在新的法律环境中导航。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T10:15:37.838073"
+      },
       {
         "id": "usa_541708",
         "titre": "Demande d'IA augmente",
@@ -1061,6 +1111,56 @@
     ],
     "russie": [
       {
+        "id": "russie_65291",
+        "titre": "Résistance de la Biélorussie",
+        "titre_en": "Belarus Resistance",
+        "titre_zh": "白俄罗斯的抵抗",
+        "titre_original": "Belarus Resists Deeper Role In Ukraine Despite Pressure From Russia",
+        "resume": "La Biélorussie résiste aux pressions de la Russie pour s'engager davantage dans le conflit en Ukraine. Le président biélorusse, Aliaksandr Lukashenka, cherche à maintenir une certaine indépendance. Cela reflète les complexités des relations entre la Biélorussie et la Russie.",
+        "resume_en": "Belarus is resisting Russian pressure to become more involved in the conflict in Ukraine. Belarusian President Aliaksandr Lukashenka is seeking to maintain some independence. This reflects the complexities of Belarus-Russia relations. The situation is closely watched by the international community.",
+        "resume_zh": "白俄罗斯正在抵制俄罗斯的压力，要求其在乌克兰冲突中发挥更大的作用。白俄罗斯总统卢卡申科试图保持一定的独立性。这反映了白俄罗斯和俄罗斯之间关系的复杂性。国际社会密切关注这一情况。",
+        "analyse_detaillee": "Historiquement, la Biélorussie et la Russie ont des liens étroits, mais la crise en Ukraine a mis en lumière les désaccords entre les deux pays. Les enjeux principaux incluent la souveraineté de la Biélorussie et l'influence russe dans la région. Les conséquences à court terme pourraient inclure des tensions accrues entre la Biélorussie et la Russie. À long terme, cela pourrait affecter l'équilibre des pouvoirs en Europe de l'Est. Les acteurs clés, tels que l'Union européenne et l'OTAN, observent la situation avec intérêt.",
+        "analyse_en": "Historically, Belarus and Russia have close ties, but the crisis in Ukraine has highlighted disagreements between the two countries. The main stakes include Belarusian sovereignty and Russian influence in the region. Short-term consequences could include increased tensions between Belarus and Russia. In the long term, this could impact the balance of power in Eastern Europe. Key actors, such as the European Union and NATO, are watching the situation with interest. The role of other regional players is also crucial.",
+        "analyse_zh": "历史上，白俄罗斯和俄罗斯有着密切的联系，但乌克兰危机凸显了两国之间的分歧。主要的利益相关者包括白俄罗斯的主权和俄罗斯在该地区的影响力。短期后果可能包括白俄罗斯和俄罗斯之间的紧张局势加剧。从长远来看，这可能会影响东欧的权力平衡。关键的行为者，如欧盟和北约，都在关注这一情况。其他地区参与者的作用也至关重要。",
+        "categorie": "Géopolitique",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/marktemnycky/2026/07/06/belarus-resists-deeper-role-in-ukraine-despite-pressure-from-russia/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a49836aaea13c0fe4bfd71d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur de la défense",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur énergétique",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "La résistance de la Biélorussie aux pressions russes affecte directement le secteur de la défense, car elle implique des considérations stratégiques et de sécurité nationale.",
+            "effet_en": "Belarus's resistance to Russian pressure directly affects the defense sector, as it involves strategic and national security considerations.",
+            "effet_zh": "白俄罗斯对俄罗斯压力的抵抗直接影响国防行业，因为它涉及战略和国家安全的考虑。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les relations entre la Biélorussie et la Russie ont également des implications pour le secteur énergétique, notamment en ce qui concerne les pipelines et les approvisionnements énergétiques.",
+            "effet_en": "Belarus-Russia relations also have implications for the energy sector, particularly regarding pipelines and energy supplies.",
+            "effet_zh": "白俄罗斯和俄罗斯之间的关系也对能源行业有影响，特别是在管道和能源供应方面。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T10:15:37.838101"
+      },
+      {
         "id": "russie_460937",
         "titre": "Contrat nucléaire",
         "titre_en": "Nuclear Contract",
@@ -1662,6 +1762,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_797516",
+        "titre": "Investisseurs européens contre forage",
+        "titre_en": "European Investors Against Drilling",
+        "titre_zh": "欧洲投资者反对钻探",
+        "titre_original": "More European Investors Oppose Norway’s Push for Arctic Oil Drilling",
+        "resume": "Des investisseurs européens s'opposent aux plans de forage pétrolier en Arctique proposés par la Norvège. Cette opposition est motivée par des préoccupations environnementales et climatiques. Cela reflète les débats actuels sur les énergies fossiles et les transitions énergétiques.",
+        "resume_en": "European investors are opposing Norway's plans for Arctic oil drilling. This opposition is driven by environmental and climate concerns. This reflects current debates on fossil fuels and energy transitions. The move is seen as a significant shift in investment strategies.",
+        "resume_zh": "欧洲投资者反对挪威在北极进行石油钻探的计划。这种反对是由环境和气候问题驱动的。这反映了当前关于化石燃料和能源转型的辩论。这种举动被视为投资策略的重大转变。",
+        "analyse_detaillee": "Le contexte historique de cette opposition est marqué par une prise de conscience croissante des problèmes environnementaux et climatiques liés aux énergies fossiles. Les enjeux principaux incluent la balance entre les besoins énergétiques et la protection de l'environnement. Les conséquences à court terme pourraient inclure des retards dans les projets de forage. À long terme, cela pourrait accélérer la transition vers les énergies renouvelables. Les acteurs clés, tels que les gouvernements et les institutions financières, jouent un rôle crucial dans cette évolution.",
+        "analyse_en": "The historical context of this opposition is marked by a growing awareness of environmental and climate issues related to fossil fuels. The main stakes include the balance between energy needs and environmental protection. Short-term consequences could include delays in drilling projects. In the long term, this could accelerate the transition to renewable energy. Key actors, such as governments and financial institutions, are playing a crucial role in this development. Public opinion and advocacy groups are also influential.",
+        "analyse_zh": "这种反对的历史背景是由人们对化石燃料相关的环境和气候问题日益增长的认识所标志。主要的利益相关者包括能源需求和环境保护之间的平衡。短期后果可能包括钻探项目的延迟。从长远来看，这可能会加速向可再生能源的转型。关键的行为者，如政府和金融机构，在这一发展中发挥着至关重要的作用。公众舆论和倡导团体也很有影响力。",
+        "categorie": "Géopolitique",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/More-European-Investors-Oppose-Norways-Push-for-Arctic-Oil-Drilling.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_gixcorymdi.jpg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Secteur pétrolier",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur des énergies renouvelables",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur pétrolier",
+            "secteur_en": "Oil sector",
+            "secteur_zh": "石油行业",
+            "effet_fr": "L'opposition des investisseurs européens aux projets de forage en Arctique affecte directement le secteur pétrolier, en raison des implications pour la production et les prix du pétrole.",
+            "effet_en": "European investors' opposition to Arctic drilling projects directly affects the oil sector, due to implications for oil production and prices.",
+            "effet_zh": "欧洲投资者反对北极钻探项目直接影响石油行业，因为这会影响石油的生产和价格。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur des énergies renouvelables",
+            "secteur_en": "Renewable energy sector",
+            "secteur_zh": "可再生能源行业",
+            "effet_fr": "L'opposition aux projets de forage pétrolier pourrait accélérer les investissements dans les énergies renouvelables, offrant des alternatives plus durables aux énergies fossiles.",
+            "effet_en": "Opposition to oil drilling projects could accelerate investment in renewable energy, offering more sustainable alternatives to fossil fuels.",
+            "effet_zh": "反对石油钻探项目可能会加速对可再生能源的投资，提供比化石燃料更可持续的替代方案。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T10:15:37.838109"
+      },
       {
         "id": "iran_661288",
         "titre": "Guerre en Iran",
