@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 18h52",
+  "last_updated": "07/07/2026 à 20h42",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_736121",
+        "titre": "Springsteen contre Trump",
+        "titre_en": "Springsteen vs Trump",
+        "titre_zh": "斯普林斯汀与特朗普",
+        "titre_original": "Bruce Springsteen reignites Trump feud, says 'critical patriotism' defines a patriot",
+        "resume": "Bruce Springsteen définit le patriotisme critique. Il s'oppose à Trump sur la démocratie. Les deux hommes ont des visions différentes de l'Amérique.",
+        "resume_en": "Bruce Springsteen defines critical patriotism. He opposes Trump on democracy. The two men have different visions of America.",
+        "resume_zh": "斯普林斯汀定义了批判性的爱国主义。他反对特朗普关于民主的观点。两个人对美国有不同的看法。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre les deux hommes. Les enjeux principaux sont la démocratie et l'autoritarisme. Les conséquences à court terme sont une exacerbation des tensions. Les perspectives à long terme sont incertaines. Les acteurs principaux sont Springsteen et Trump.",
+        "analyse_en": "The historical context is marked by tensions between the two men. The main stakes are democracy and authoritarianism. The short-term consequences are increased tensions. The long-term prospects are uncertain. The main actors are Springsteen and Trump.",
+        "analyse_zh": "历史背景是两个人之间的紧张关系。主要影响是民主和专制。短期后果是紧张关系加剧。长期前景不确定。主要参与者是斯普林斯汀和特朗普。",
+        "categorie": "Géopolitique",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/entertainment/bruce-springsteen-reignites-trump-feud-says-critical-patriotism-defines-patriot",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/bruce-springsteen-donald-trump.jpeg",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Industrie du divertissement",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie du divertissement",
+            "secteur_en": "Entertainment industry",
+            "secteur_zh": "娱乐行业",
+            "effet_fr": "L'industrie du divertissement est impactée par les déclarations de Springsteen.",
+            "effet_en": "The entertainment industry is impacted by Springsteen's statements.",
+            "effet_zh": "娱乐行业受到斯普林斯汀声明的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché politique",
+            "secteur_en": "Political market",
+            "secteur_zh": "政治市场",
+            "effet_fr": "Le marché politique est influencé par les tensions entre Springsteen et Trump.",
+            "effet_en": "The political market is influenced by the tensions between Springsteen and Trump.",
+            "effet_zh": "政治市场受到斯普林斯汀和特朗普之间的紧张关系的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T20:42:20.970625"
+      },
       {
         "id": "usa_884076",
         "titre": "Cour Suprême",
@@ -1411,6 +1461,56 @@
     ],
     "russie": [
       {
+        "id": "russie_905927",
+        "titre": "Tensions à la réunion de l'OTAN",
+        "titre_en": "Tensions at NATO meeting",
+        "titre_zh": "北约会议紧张",
+        "titre_original": "'Bad blood' between US and European allies as NATO summit begins",
+        "resume": "La réunion de l'OTAN est marquée par des tensions entre les États-Unis et les alliés européens. Les leaders mondiaux se réunissent pour discuter de la sécurité. Les désaccords sont nombreux.",
+        "resume_en": "The NATO meeting is marked by tensions between the US and European allies. World leaders gather to discuss security. Disagreements are numerous.",
+        "resume_zh": "北约会议因美国和欧洲盟国之间的紧张关系而受到影响。世界领导人聚集讨论安全问题。存在许多分歧。",
+        "analyse_detaillee": "Le contexte historique est marqué par les désaccords entre les États-Unis et les alliés européens. Les enjeux principaux sont la sécurité et la coopération. Les conséquences à court terme sont une exacerbation des tensions. Les perspectives à long terme sont incertaines. Les acteurs principaux sont les États-Unis et les alliés européens.",
+        "analyse_en": "The historical context is marked by disagreements between the US and European allies. The main stakes are security and cooperation. The short-term consequences are increased tensions. The long-term prospects are uncertain. The main actors are the US and European allies.",
+        "analyse_zh": "历史背景是美国和欧洲盟国之间的分歧。主要影响是安全和合作。短期后果是紧张关系加剧。长期前景不确定。主要参与者是美国和欧洲盟国。",
+        "categorie": "Géopolitique",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-07/bad-blood-between-us-and-european-allies-as-nato-summit-starts/106878792",
+        "image": "https://live-production.wcms.abc-cdn.net.au/7b95976515b5cb37b3f28dbabf5b3d6f?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Industrie de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des armes",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie de la défense",
+            "secteur_en": "Defense industry",
+            "secteur_zh": "国防行业",
+            "effet_fr": "L'industrie de la défense est impactée par les décisions prises lors de la réunion de l'OTAN.",
+            "effet_en": "The defense industry is impacted by the decisions made at the NATO meeting.",
+            "effet_zh": "国防行业受到北约会议决策的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des armes",
+            "secteur_en": "Arms market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "Le marché des armes est influencé par les tensions entre les États-Unis et les alliés européens.",
+            "effet_en": "The arms market is influenced by the tensions between the US and European allies.",
+            "effet_zh": "武器市场受到美国和欧洲盟国之间的紧张关系的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T20:42:20.970652"
+      },
+      {
         "id": "russie_245814",
         "titre": "Exportations pétrolières",
         "titre_en": "Oil exports",
@@ -2212,6 +2312,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_303491",
+        "titre": "Coûts du militarisme à Hawaï",
+        "titre_en": "Costs of militarism in Hawaii",
+        "titre_zh": "夏威夷军事主义的成本",
+        "titre_original": "As Hawaii Hosts International War Games, Residents Question Costs of Militarism",
+        "resume": "Les jeux de guerre à Hawaï soulèvent des questions sur les coûts du militarisme. Les résidents s'inquiètent pour l'environnement. Les exercices militaires ont des conséquences négatives.",
+        "resume_en": "The war games in Hawaii raise questions about the costs of militarism. Residents are concerned about the environment. The military exercises have negative consequences.",
+        "resume_zh": "夏威夷的战争游戏引发了人们对军事主义成本的质疑。居民担心环境问题。军事演习有负面后果。",
+        "analyse_detaillee": "Le contexte historique est marqué par les exercices militaires à Hawaï. Les enjeux principaux sont l'environnement et la sécurité. Les conséquences à court terme sont une dégradation de l'environnement. Les perspectives à long terme sont incertaines. Les acteurs principaux sont les résidents et les autorités militaires.",
+        "analyse_en": "The historical context is marked by the military exercises in Hawaii. The main stakes are the environment and security. The short-term consequences are environmental degradation. The long-term prospects are uncertain. The main actors are the residents and the military authorities.",
+        "analyse_zh": "历史背景是夏威夷的军事演习。主要影响是环境和安全。短期后果是环境恶化。长期前景不确定。主要参与者是居民和军事当局。",
+        "categorie": "Géopolitique",
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/as-hawaii-hosts-international-war-games-residents-question-costs-of-militarism/",
+        "image": "https://truthout.org/app/uploads/2026/07/GettyImages-2282823006-scaled.jpg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Industrie touristique",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché de l'énergie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie touristique",
+            "secteur_en": "Tourism industry",
+            "secteur_zh": "旅游业",
+            "effet_fr": "L'industrie touristique est impactée par les exercices militaires à Hawaï.",
+            "effet_en": "The tourism industry is impacted by the military exercises in Hawaii.",
+            "effet_zh": "旅游业受到夏威夷军事演习的影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché de l'énergie",
+            "secteur_en": "Energy market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "Le marché de l'énergie est influencé par les coûts du militarisme à Hawaï.",
+            "effet_en": "The energy market is influenced by the costs of militarism in Hawaii.",
+            "effet_zh": "能源市场受到夏威夷军事主义成本的影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T20:42:20.970661"
+      },
       {
         "id": "iran_245814",
         "titre": "Non applicable",
