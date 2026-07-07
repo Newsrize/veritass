@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 20h42",
+  "last_updated": "07/07/2026 à 22h02",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_793890",
+        "titre": "Sommet NATO 2026",
+        "titre_en": "2026 NATO Summit",
+        "titre_zh": "2026年北约峰会",
+        "titre_original": "What to Expect at the 2026 NATO Summit",
+        "resume": "Le sommet de l'OTAN de 2026 sera crucial pour l'avenir de l'alliance. Les dirigeants devront aborder les défis actuels. La sécurité mondiale est en jeu.",
+        "resume_en": "The 2026 NATO summit will be crucial for the alliance's future. Leaders must address current challenges. Global security is at stake. The summit's outcome is uncertain.",
+        "resume_zh": "2026年北约峰会对于联盟的未来至关重要。领导人必须解决当前的挑战。全球安全岌岌可危。峰会的结果尚不确定。",
+        "analyse_detaillee": "Le contexte historique de l'OTAN est marqué par la guerre froide. Les enjeux principaux sont la sécurité collective et la stabilité mondiale. Les conséquences à court terme seront une réévaluation des alliances. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis et l'Europe.",
+        "analyse_en": "NATO's historical context is marked by the Cold War. The main stakes are collective security and global stability. Short-term consequences will be a reevaluation of alliances. Long-term prospects are uncertain. Key actors are the US and Europe.",
+        "analyse_zh": "北约的历史背景以冷战为标志。主要影响是集体安全和全球稳定。短期后果将是重新评估联盟。长期前景不确定。关键角色是美国和欧洲。",
+        "categorie": "Géopolitique",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine/",
+        "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/NATOSummitPreview-GettyImages-2284676495.jpg",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "Le secteur de la défense sera impacté par les décisions prises lors du sommet.",
+            "effet_en": "The defense sector will be impacted by the decisions made at the summit.",
+            "effet_zh": "国防行业将受到峰会上做出的决定的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "Le secteur de l'énergie pourrait également être affecté par les décisions de sécurité prise lors du sommet.",
+            "effet_en": "The energy sector may also be affected by the security decisions made at the summit.",
+            "effet_zh": "能源行业也可能受到峰会上做出的安全决定的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T22:02:29.232550"
+      },
       {
         "id": "usa_736121",
         "titre": "Springsteen contre Trump",
@@ -1461,6 +1511,56 @@
     ],
     "russie": [
       {
+        "id": "russie_880536",
+        "titre": "Démocratie en Russie",
+        "titre_en": "Democracy in Russia",
+        "titre_zh": "俄罗斯民主",
+        "titre_original": "Too Many Pro-Democracy Groups Are Weakening the Cause",
+        "resume": "La démocratie en Russie est menacée par la multiplication des groupes pro-démocratie. Les conséquences sont incertaines. La situation est complexe.",
+        "resume_en": "Democracy in Russia is threatened by the proliferation of pro-democracy groups. The consequences are uncertain. The situation is complex.",
+        "resume_zh": "俄罗斯的民主受到众多亲民主团体的威胁。后果不确定。情况复杂。",
+        "analyse_detaillee": "Le contexte historique de la Russie est marqué par le régime soviétique. Les enjeux principaux sont la liberté d'expression et l'opposition. Les conséquences à court terme seront une répression accrue. Les perspectives à long terme sont sombres. Les acteurs clés sont le gouvernement et les groupes pro-démocratie.",
+        "analyse_en": "Russia's historical context is marked by the Soviet regime. The main stakes are freedom of expression and opposition. Short-term consequences will be increased repression. Long-term prospects are bleak. Key actors are the government and pro-democracy groups.",
+        "analyse_zh": "俄罗斯的历史背景以苏联政权为标志。主要影响是言论自由和反对派。短期后果将是加剧的镇压。长期前景黯淡。关键角色是政府和亲民主团体。",
+        "categorie": "Géopolitique",
+        "source": "Yale.edu",
+        "url": "https://insights.som.yale.edu/insights/too-many-pro-democracy-groups-are-weakening-the-cause",
+        "image": "https://insights.som.yale.edu/sites/default/files/styles/open_graph/public/2026-07/democracy%20groups.jpg?h=a51a5cf9&itok=1isJ5D7I",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Technologie",
+            "hausse": false
+          },
+          {
+            "label": "▼ Finance",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologie",
+            "secteur_en": "Technology",
+            "secteur_zh": "技术",
+            "effet_fr": "Le secteur de la technologie sera impacté par les restrictions imposées par le gouvernement.",
+            "effet_en": "The technology sector will be impacted by the restrictions imposed by the government.",
+            "effet_zh": "技术行业将受到政府实施的限制的影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Finance",
+            "secteur_en": "Finance",
+            "secteur_zh": "金融",
+            "effet_fr": "Le secteur financier pourrait également être affecté par l'instabilité politique.",
+            "effet_en": "The financial sector may also be affected by the political instability.",
+            "effet_zh": "金融行业也可能受到政治不稳定的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T22:02:29.232582"
+      },
+      {
         "id": "russie_905927",
         "titre": "Tensions à la réunion de l'OTAN",
         "titre_en": "Tensions at NATO meeting",
@@ -2312,6 +2412,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_899633",
+        "titre": "Trêve entre US et Iran",
+        "titre_en": "US-Iran Truce",
+        "titre_zh": "美伊停战",
+        "titre_original": "Commentary: US-Iran truce is all pause and no progress",
+        "resume": "La trêve entre les États-Unis et l'Iran est fragile. Les négociations sont en cours. L'issue est incertaine.",
+        "resume_en": "The truce between the US and Iran is fragile. Negotiations are ongoing. The outcome is uncertain.",
+        "resume_zh": "美伊停战态势脆弱。谈判正在进行。结果不确定。",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et l'Iran est marqué par des décennies de tensions. Les enjeux principaux sont la sécurité régionale et la non-prolifération. Les conséquences à court terme seront une réévaluation des alliances. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis, l'Iran et les pays européens.",
+        "analyse_en": "The historical context of US-Iran relations is marked by decades of tension. The main stakes are regional security and non-proliferation. Short-term consequences will be a reevaluation of alliances. Long-term prospects are uncertain. Key actors are the US, Iran, and European countries.",
+        "analyse_zh": "美伊关系的历史背景以几十年的紧张局势为标志。主要影响是地区安全和非扩散。短期后果将是重新评估联盟。长期前景不确定。关键角色是美国、伊朗和欧洲国家。",
+        "categorie": "Géopolitique",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/commentary/us-iran-peace-truce-all-pause-no-progress-6232356",
+        "image": "https://dam.mediacorp.sg/image/upload/s--iiHEE7hU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-01T100936Z_2_LYNXMPEM602FY_RTROPTP_3_IRAN-CRISIS.JPG?itok=Tm8yqxnS",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Énergie",
+            "hausse": true
+          },
+          {
+            "label": "▼ Défense",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "Le secteur de l'énergie sera impacté par les décisions prises lors des négociations.",
+            "effet_en": "The energy sector will be impacted by the decisions made during the negotiations.",
+            "effet_zh": "能源行业将受到谈判中做出的决定的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "Le secteur de la défense pourrait également être affecté par les accords de sécurité.",
+            "effet_en": "The defense sector may also be affected by the security agreements.",
+            "effet_zh": "国防行业也可能受到安全协议的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T22:02:29.232592"
+      },
       {
         "id": "iran_303491",
         "titre": "Coûts du militarisme à Hawaï",
