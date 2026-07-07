@@ -1,7 +1,57 @@
 {
-  "last_updated": "07/07/2026 à 10h15",
+  "last_updated": "07/07/2026 à 13h09",
   "articles": {
     "monde": [
+      {
+        "id": "monde_990904",
+        "titre": "Prix actuel du pétrole",
+        "titre_en": "Current oil price",
+        "titre_zh": "当前油价",
+        "titre_original": "Current price of oil as of July 6, 2026",
+        "resume": "Le prix du pétrole a un impact sur les coûts énergétiques et les prix des biens de consommation. Les variations de prix affectent l'économie mondiale. Les consommateurs ressentent les effets de ces changements.",
+        "resume_en": "Oil prices affect energy costs and everyday item prices. Price changes impact the global economy. Consumers feel the effects of these changes. The global economy is closely tied to oil prices.",
+        "resume_zh": "油价影响能源成本和日常物品价格。价格变化影响全球经济。消费者感受到这些变化的影响。全球经济与油价密切相关。",
+        "analyse_detaillee": "Le contexte historique des prix du pétrole est marqué par des fluctuations constantes. Les enjeux principaux sont l'impact sur l'économie et la consommation. Les conséquences à court terme sont des hausses de prix. Les perspectives à long terme sont incertaines. Les acteurs clés sont les pays producteurs de pétrole.",
+        "analyse_en": "The historical context of oil prices is marked by constant fluctuations. The main stakes are the impact on the economy and consumption. The short-term consequences are price increases. The long-term prospects are uncertain. The key actors are oil-producing countries.",
+        "analyse_zh": "油价的历史背景以不断波动为标志。主要影响是对经济和消费的影响。短期后果是价格上涨。长期前景不确定。主要参与者是石油生产国。",
+        "categorie": "Géopolitique",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-06-2026/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-6.jpg?resize=1200,600",
+        "date": "2026-07-06",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Énergie",
+            "hausse": true
+          },
+          {
+            "label": "▼ Transport",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "L'impact du prix du pétrole sur le secteur de l'énergie est direct et significatif.",
+            "effet_en": "The impact of oil prices on the energy sector is direct and significant.",
+            "effet_zh": "油价对能源行业的影响是直接和显著的。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Transport",
+            "secteur_en": "Transportation",
+            "secteur_zh": "交通",
+            "effet_fr": "Le secteur du transport est également affecté par les variations de prix du pétrole.",
+            "effet_en": "The transportation sector is also affected by oil price fluctuations.",
+            "effet_zh": "交通行业也受到油价波动的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T13:09:05.528334"
+      },
       {
         "id": "monde_439394",
         "titre": "Déclin Américain",
@@ -206,6 +256,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_797797",
+        "titre": "Élections à Colorado",
+        "titre_en": "Colorado elections",
+        "titre_zh": "科罗拉多州选举",
+        "titre_original": "In Colorado’s battleground race, Rep. Gabe Evans and Manny Rutinel make their case to voters now that match is set",
+        "resume": "Les élections à Colorado sont cruciales pour les partis politiques. Les enjeux sont importants pour les électeurs. Les conséquences des élections seront ressenties à l'échelle nationale.",
+        "resume_en": "The elections in Colorado are crucial for political parties. The stakes are high for voters. The consequences of the elections will be felt nationwide.",
+        "resume_zh": "科罗拉多州的选举对政党至关重要。选民的利益很高。选举的后果将在全国范围内感受到。",
+        "analyse_detaillee": "Le contexte historique des élections à Colorado est marqué par des campagnes intenses. Les enjeux principaux sont le contrôle du Congrès. Les conséquences à court terme sont des changements dans la représentation. Les perspectives à long terme sont des répercussions sur les politiques nationales.",
+        "analyse_en": "The historical context of the Colorado elections is marked by intense campaigns. The main stakes are control of Congress. The short-term consequences are changes in representation. The long-term prospects are implications for national policies.",
+        "analyse_zh": "科罗拉多州选举的历史背景以激烈的竞选活动为标志。主要影响是对国会的控制。短期后果是代表性的变化。长期前景是对国家政策的影响。",
+        "categorie": "Géopolitique",
+        "source": "The Denver Post",
+        "url": "https://www.denverpost.com/2026/07/06/colorado-8th-district-battleground-race-congress/",
+        "image": "https://www.denverpost.com/wp-content/uploads/2026/07/TDP-L-RUTINEL-EVANS-20.jpg?w=1024&h=506",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Politique",
+            "hausse": false
+          },
+          {
+            "label": "▲ Économie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Politique",
+            "secteur_en": "Politics",
+            "secteur_zh": "政治",
+            "effet_fr": "Les élections à Colorado ont un impact direct sur la politique nationale.",
+            "effet_en": "The Colorado elections have a direct impact on national politics.",
+            "effet_zh": "科罗拉多州选举对国家政治有直接影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Économie",
+            "secteur_en": "Economy",
+            "secteur_zh": "经济",
+            "effet_fr": "Les élections à Colorado peuvent également avoir des répercussions sur l'économie locale.",
+            "effet_en": "The Colorado elections may also have implications for the local economy.",
+            "effet_zh": "科罗拉多州选举可能对当地经济产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-07T13:09:05.528366"
+      },
       {
         "id": "usa_294244",
         "titre": "Mariage et citoyenneté",
@@ -859,6 +959,56 @@
     ],
     "chine": [
       {
+        "id": "chine_300868",
+        "titre": "Rencontre entre la Finlande et la Chine",
+        "titre_en": "Finland-China meeting",
+        "titre_zh": "芬中会晤",
+        "titre_original": "Finnish President Alexander Stubb Meets with Wang Yi",
+        "resume": "Le président finlandais Alexander Stubb a rencontré le ministre des Affaires étrangères chinois Wang Yi. Les deux pays ont discuté de coopération et de relations bilatérales.",
+        "resume_en": "Finnish President Alexander Stubb met with Chinese Foreign Minister Wang Yi. The two countries discussed cooperation and bilateral relations.",
+        "resume_zh": "芬兰总统亚历山大·斯图布会见了中国外交部长王毅。两国讨论了合作和双边关系。",
+        "analyse_detaillee": "Le contexte historique des relations entre la Finlande et la Chine est marqué par des échanges diplomatiques. Les enjeux principaux sont la coopération économique et la sécurité régionale. Les conséquences à court terme sont des accords commerciaux. Les perspectives à long terme sont des partenariats stratégiques.",
+        "analyse_en": "The historical context of Finland-China relations is marked by diplomatic exchanges. The main stakes are economic cooperation and regional security. The short-term consequences are trade agreements. The long-term prospects are strategic partnerships.",
+        "analyse_zh": "芬中关系的历史背景以外交交流为标志。主要影响是经济合作和地区安全。短期后果是贸易协议。长期前景是战略伙伴关系。",
+        "categorie": "Géopolitique",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260706-prc-mofa01.htm",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-07-06",
+        "pays": "chine",
+        "badges": [
+          {
+            "label": "▲ Diplomatie",
+            "hausse": true
+          },
+          {
+            "label": "▼ Économie internationale",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Diplomatie",
+            "secteur_en": "Diplomacy",
+            "secteur_zh": "外交",
+            "effet_fr": "La rencontre entre la Finlande et la Chine a un impact positif sur les relations diplomatiques.",
+            "effet_en": "The meeting between Finland and China has a positive impact on diplomatic relations.",
+            "effet_zh": "芬中会晤对外交关系有积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Économie internationale",
+            "secteur_en": "International economy",
+            "secteur_zh": "国际经济",
+            "effet_fr": "Les échanges commerciaux entre la Finlande et la Chine peuvent avoir des répercussions sur l'économie internationale.",
+            "effet_en": "The trade exchanges between Finland and China may have implications for the international economy.",
+            "effet_zh": "芬中贸易交流可能对国际经济产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T13:09:05.528377"
+      },
+      {
         "id": "chine_439394",
         "titre": "Déclin Américain",
         "titre_en": "American Decline",
@@ -1110,6 +1260,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_905202",
+        "titre": "Attaque aérienne en Ukraine",
+        "titre_en": "Airstrike in Ukraine",
+        "titre_zh": "乌克兰空袭",
+        "titre_original": "PHOTOS: Meet 23-year-old final-year medical student killed by Russian airstrike in Ukraine",
+        "resume": "Une attaque aérienne russe a tué une étudiante nigériane en Ukraine. L'incident a suscité des condamnations internationales. Les conséquences de l'attaque sont encore incertaines.",
+        "resume_en": "A Russian airstrike killed a Nigerian student in Ukraine. The incident sparked international condemnation. The consequences of the attack are still uncertain.",
+        "resume_zh": "俄罗斯空袭在乌克兰杀死了一名尼日利亚学生。该事件引发了国际谴责。袭击的后果仍不确定。",
+        "analyse_detaillee": "Le contexte historique des tensions entre la Russie et l'Ukraine est marqué par des conflits armés. Les enjeux principaux sont la souveraineté et la sécurité régionale. Les conséquences à court terme sont des pertes humaines. Les perspectives à long terme sont des répercussions sur les relations internationales.",
+        "analyse_en": "The historical context of the tensions between Russia and Ukraine is marked by armed conflicts. The main stakes are sovereignty and regional security. The short-term consequences are human losses. The long-term prospects are implications for international relations.",
+        "analyse_zh": "俄乌紧张关系的历史背景以武装冲突为标志。主要影响是主权和地区安全。短期后果是人员伤亡。长期前景是对国际关系的影响。",
+        "categorie": "Géopolitique",
+        "source": "The Punch",
+        "url": "https://punchng.com/photos-meet-23-year-old-final-year-medical-student-killed-by-russian-airstrike-in-ukraine/",
+        "image": "https://punchng.com/wp-content/uploads/2026/07/Adaobi-4_1783342785.webp",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Sécurité",
+            "hausse": false
+          },
+          {
+            "label": "▼ Relations internationales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sécurité",
+            "secteur_en": "Security",
+            "secteur_zh": "安全",
+            "effet_fr": "L'attaque aérienne russe a un impact négatif sur la sécurité régionale.",
+            "effet_en": "The Russian airstrike has a negative impact on regional security.",
+            "effet_zh": "俄罗斯空袭对地区安全有负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Relations internationales",
+            "secteur_en": "International relations",
+            "secteur_zh": "国际关系",
+            "effet_fr": "L'incident peut avoir des répercussions sur les relations internationales entre la Russie et l'Ukraine.",
+            "effet_en": "The incident may have implications for international relations between Russia and Ukraine.",
+            "effet_zh": "该事件可能对俄乌国际关系产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T13:09:05.528385"
+      },
       {
         "id": "russie_65291",
         "titre": "Résistance de la Biélorussie",
@@ -1762,6 +1962,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_463109",
+        "titre": "Conflit au Kurdistan",
+        "titre_en": "Kurdistan conflict",
+        "titre_zh": "库尔德冲突",
+        "titre_original": "Iran Turns Kurdistan Region Into a Proxy Battlefield",
+        "resume": "Le Kurdistan est devenu un champ de bataille par procuration entre l'Iran et ses ennemis. Les conséquences de ce conflit sont encore incertaines. Les enjeux sont importants pour la région.",
+        "resume_en": "Kurdistan has become a proxy battlefield between Iran and its enemies. The consequences of this conflict are still uncertain. The stakes are high for the region.",
+        "resume_zh": "库尔德斯坦已经成为伊朗和其敌人之间的代理战场。该冲突的后果仍不确定。地区的利益很高。",
+        "analyse_detaillee": "Le contexte historique des tensions au Kurdistan est marqué par des conflits armés. Les enjeux principaux sont la sécurité régionale et la stabilité politique. Les conséquences à court terme sont des pertes humaines. Les perspectives à long terme sont des répercussions sur les relations internationales.",
+        "analyse_en": "The historical context of the tensions in Kurdistan is marked by armed conflicts. The main stakes are regional security and political stability. The short-term consequences are human losses. The long-term prospects are implications for international relations.",
+        "analyse_zh": "库尔德斯坦紧张关系的历史背景以武装冲突为标志。主要影响是地区安全和政治稳定。短期后果是人员伤亡。长期前景是对国际关系的影响。",
+        "categorie": "Géopolitique",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/middle-east-news/iran-turns-kurdistan-region-into-a-proxy-battlefield/",
+        "image": "https://www.fairobserver.com/wp-content/uploads/2026/07/Iran-Kurdistan.jpg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Sécurité régionale",
+            "hausse": false
+          },
+          {
+            "label": "▼ Politique internationale",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sécurité régionale",
+            "secteur_en": "Regional security",
+            "secteur_zh": "地区安全",
+            "effet_fr": "Le conflit au Kurdistan a un impact négatif sur la sécurité régionale.",
+            "effet_en": "The conflict in Kurdistan has a negative impact on regional security.",
+            "effet_zh": "库尔德冲突对地区安全有负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Politique internationale",
+            "secteur_en": "International politics",
+            "secteur_zh": "国际政治",
+            "effet_fr": "Le conflit peut avoir des répercussions sur les relations internationales entre l'Iran et ses ennemis.",
+            "effet_en": "The conflict may have implications for international relations between Iran and its enemies.",
+            "effet_zh": "该冲突可能对伊朗和其敌人之间的国际关系产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T13:09:05.528391"
+      },
       {
         "id": "iran_797516",
         "titre": "Investisseurs européens contre forage",
