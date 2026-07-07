@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 02h29",
+  "last_updated": "07/07/2026 à 06h32",
   "articles": {
     "monde": [
       {
@@ -206,6 +206,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_541708",
+        "titre": "Demande d'IA augmente",
+        "titre_en": "Rising AI Demand",
+        "titre_zh": "人工智能需求增加",
+        "titre_original": "Rising AI Demand Drives Surge in Data Center Water Consumption, Reports Indicate",
+        "resume": "La consommation d'eau des data centers aux USA a augmenté. Les centres de données consomment près d'un trillion de litres d'eau par an. Cela est dû à l'expansion rapide des charges de travail d'intelligence artificielle.",
+        "resume_en": "US data center water consumption has increased. Data centers consume nearly one trillion liters of water annually. This is due to the rapid expansion of artificial intelligence workloads.",
+        "resume_zh": "美国数据中心的水消耗增加。数据中心每年消耗近一万亿升水。这是由于人工智能工作负载的快速扩张。",
+        "analyse_detaillee": "Le contexte historique montre une augmentation de la demande d'IA. Les enjeux principaux sont la consommation d'eau et l'impact environnemental. Les conséquences à court terme sont une augmentation des coûts pour les data centers. Les perspectives à long terme sont une nécessité de développement durable. Les acteurs clés sont les entreprises de technologie et les gouvernements.",
+        "analyse_en": "The historical context shows an increase in AI demand. The main stakes are water consumption and environmental impact. The short-term consequences are increased costs for data centers. The long-term prospects are a need for sustainable development. The key actors are technology companies and governments.",
+        "analyse_zh": "历史背景显示人工智能需求增加。主要影响是水消耗和环境影响。短期后果是数据中心成本增加。长期前景是可持续发展的需要。主要参与者是科技公司和政府。",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-06-ai-drives-surge-in-data-center-water-consumption.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-demand-data-center-water-consumption-cooling-systems-2542-original.jpg",
+        "date": "2026-07-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Technologie",
+            "hausse": true
+          },
+          {
+            "label": "▼ Environnement",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologie",
+            "secteur_en": "Technology",
+            "secteur_zh": "科技",
+            "effet_fr": "L'augmentation de la consommation d'eau des data centers aura un impact sur les coûts de production de la technologie.",
+            "effet_en": "The increase in data center water consumption will have an impact on technology production costs.",
+            "effet_zh": "数据中心水消耗的增加将对科技生产成本产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Environnement",
+            "secteur_en": "Environment",
+            "secteur_zh": "环境",
+            "effet_fr": "L'impact environnemental de la consommation d'eau des data centers sera un enjeu majeur pour les années à venir.",
+            "effet_en": "The environmental impact of data center water consumption will be a major issue in the coming years.",
+            "effet_zh": "数据中心水消耗的环境影响将成为未来几年的主要问题。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T06:32:50.357447"
+      },
       {
         "id": "usa_966585",
         "titre": "Trump intervient dans la Coupe du monde",
@@ -1011,6 +1061,56 @@
     ],
     "russie": [
       {
+        "id": "russie_460937",
+        "titre": "Contrat nucléaire",
+        "titre_en": "Nuclear Contract",
+        "titre_zh": "核合同",
+        "titre_original": "U.S. Awards $1.07 Billion Contract to Boost Domestic High-Assay Low-Enriched Uranium Production",
+        "resume": "Le département de l'énergie des USA a attribué un contrat de 1,07 milliard de dollars pour produire de l'uranium faiblement enrichi. Cela permettra de développer des réacteurs nucléaires avancés.",
+        "resume_en": "The US Department of Energy has awarded a $1.07 billion contract to produce low-enriched uranium. This will enable the development of advanced nuclear reactors.",
+        "resume_zh": "美国能源部授予了一份10.7亿美元的合同，用于生产低浓缩铀。这将使先进核反应堆的开发成为可能。",
+        "analyse_detaillee": "Le contexte historique montre une augmentation de la demande d'énergie nucléaire. Les enjeux principaux sont la production d'uranium et la sécurité énergétique. Les conséquences à court terme sont une augmentation de la production d'énergie nucléaire. Les perspectives à long terme sont une réduction des émissions de gaz à effet de serre. Les acteurs clés sont les entreprises nucléaires et les gouvernements.",
+        "analyse_en": "The historical context shows an increase in nuclear energy demand. The main stakes are uranium production and energy security. The short-term consequences are an increase in nuclear energy production. The long-term prospects are a reduction in greenhouse gas emissions. The key actors are nuclear companies and governments.",
+        "analyse_zh": "历史背景显示核能需求增加。主要影响是铀生产和能源安全。短期后果是核能生产增加。长期前景是温室气体排放减少。主要参与者是核能公司和政府。",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-06-us-awards-contract-boost-domestic-haleu-production.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/haleu-uranium-enrichment-advanced-nuclear-reactors-2502-original.jpg",
+        "date": "2026-07-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Énergie",
+            "hausse": true
+          },
+          {
+            "label": "▼ Sécurité",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "L'augmentation de la production d'uranium faiblement enrichi aura un impact sur les coûts de production de l'énergie nucléaire.",
+            "effet_en": "The increase in low-enriched uranium production will have an impact on nuclear energy production costs.",
+            "effet_zh": "低浓缩铀生产的增加将对核能生产成本产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Sécurité",
+            "secteur_en": "Security",
+            "secteur_zh": "安全",
+            "effet_fr": "L'impact de la production d'uranium faiblement enrichi sur la sécurité énergétique sera un enjeu majeur pour les années à venir.",
+            "effet_en": "The impact of low-enriched uranium production on energy security will be a major issue in the coming years.",
+            "effet_zh": "低浓缩铀生产对能源安全的影响将成为未来几年的主要问题。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T06:32:50.357480"
+      },
+      {
         "id": "russie_401642",
         "titre": "Trump parle avec Zelenskyy et Poutine",
         "titre_en": "Trump speaks with Zelenskyy and Putin",
@@ -1562,6 +1662,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_661288",
+        "titre": "Guerre en Iran",
+        "titre_en": "War in Iran",
+        "titre_zh": "伊朗战争",
+        "titre_original": "Pentagon Struggling to Replenish Weapons Stockpiles After Iran War, GAO Report Says",
+        "resume": "Le Pentagone a du mal à réapprovisionner ses stocks d'armes après la guerre en Iran. Un rapport du GAO montre des retards persistants dans la livraison d'armes.",
+        "resume_en": "The Pentagon is struggling to replenish its weapons stockpiles after the war in Iran. A GAO report shows persistent delays in weapons delivery.",
+        "resume_zh": "五角大楼在伊朗战争后难以补充武器库存。美国政府问责局的一份报告显示，武器交付存在持续的延迟。",
+        "analyse_detaillee": "Le contexte historique montre une augmentation des conflits géopolitiques. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme sont une augmentation des dépenses militaires. Les perspectives à long terme sont une réduction des tensions géopolitiques. Les acteurs clés sont les gouvernements et les organisations internationales.",
+        "analyse_en": "The historical context shows an increase in geopolitical conflicts. The main stakes are national security and regional stability. The short-term consequences are an increase in military spending. The long-term prospects are a reduction in geopolitical tensions. The key actors are governments and international organizations.",
+        "analyse_zh": "历史背景显示地缘政治冲突增加。主要影响是国家安全和地区稳定。短期后果是军费开支增加。长期前景是地缘政治紧张局势减少。主要参与者是政府和国际组织。",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-06-pentagon-struggling-replenish-weapons-after-iran-war-report.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/gao-report-pentagon-weapons-stockpiles-2535-original.jpg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Relations internationales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'augmentation des dépenses militaires aura un impact sur les coûts de production des armes.",
+            "effet_en": "The increase in military spending will have an impact on weapons production costs.",
+            "effet_zh": "军费开支的增加将对武器生产成本产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Relations internationales",
+            "secteur_en": "International Relations",
+            "secteur_zh": "国际关系",
+            "effet_fr": "L'impact de la guerre en Iran sur les relations internationales sera un enjeu majeur pour les années à venir.",
+            "effet_en": "The impact of the war in Iran on international relations will be a major issue in the coming years.",
+            "effet_zh": "伊朗战争对国际关系的影响将成为未来几年的主要问题。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-07T06:32:50.357489"
+      },
       {
         "id": "iran_894952",
         "titre": "Le prix du pétrole chute",
