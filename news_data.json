@@ -1,5 +1,5 @@
 {
-  "last_updated": "08/07/2026 à 22h51",
+  "last_updated": "08/07/2026 à 23h56",
   "articles": {
     "monde": [
       {
@@ -656,6 +656,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_225353",
+        "titre": "Steve Hilton se rebaptise",
+        "titre_en": "Who is Steve Hilton",
+        "titre_zh": "谁是史蒂夫·希尔顿",
+        "titre_original": "Who is Steve Hilton? Here’s how he has rebranded himself multiple times",
+        "resume": "Steve Hilton a rendu le Parti conservateur britannique plus libéral. Il a occupé des postes politiques allant de la gauche à la droite. Il est l'espoir des Républicains californiens pour reprendre le siège du gouverneur. Il a changé plusieurs fois de position politique. Il est considéré comme une figure importante dans la politique américaine.",
+        "resume_en": "Steve Hilton made the British Conservative Party more liberal and has held policy positions spanning the political spectrum. He's California Republicans' best hope at reclaiming the governor's seat. He has rebranded himself multiple times. He is considered a key figure in American politics.",
+        "resume_zh": "史蒂夫·希尔顿使英国保守党更加自由化，并在政治光谱上占据了多个政策职位。他是加利福尼亚州共和党人重新掌握州长席位的最佳希望。他已经多次重塑自己。他被认为是美国政治中的一个关键人物。",
+        "analyse_detaillee": "Le contexte historique de cette nouvelle est la politique américaine actuelle. Les enjeux principaux sont l'élection du gouverneur de Californie. Les conséquences à court terme seront la nomination d'un nouveau gouverneur. Les perspectives à long terme seront l'impact sur la politique américaine. Les acteurs principaux sont les Républicains californiens et Steve Hilton.",
+        "analyse_en": "The historical context of this news is the current American politics. The main stakes are the election of the governor of California. The short-term consequences will be the nomination of a new governor. The long-term prospects will be the impact on American politics. The main actors are the California Republicans and Steve Hilton.",
+        "analyse_zh": "这一新闻的历史背景是当前的美国政治。主要影响是加利福尼亚州州长的选举。短期后果将是新州长的任命。长期前景将是对美国政治的影响。主要参与者是加利福尼亚州共和党人和史蒂夫·希尔顿。",
+        "categorie": "Géopolitique",
+        "source": "KPBS",
+        "url": "https://www.kpbs.org/news/politics/2026/07/07/who-is-steve-hilton-heres-how-he-has-rebranded-himself-multiple-times",
+        "image": "https://cdn.kpbs.org/dims4/default/2f47dd7/2147483647/strip/true/crop/1536x806+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F64%2Fde%2F673617db4fdc8957e19a49b68def%2Fimage-2026-07-07t164057-687.jpg",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ marché des changes",
+            "hausse": true
+          },
+          {
+            "label": "▼ marché pétrolier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des changes",
+            "secteur_en": "foreign exchange market",
+            "secteur_zh": "外汇市场",
+            "effet_fr": "L'élection d'un nouveau gouverneur pourrait avoir un impact sur le marché des changes.",
+            "effet_en": "The election of a new governor could have an impact on the foreign exchange market.",
+            "effet_zh": "新州长的选举可能会对外汇市场产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché pétrolier",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "La politique énergétique du nouveau gouverneur pourrait influencer le marché pétrolier.",
+            "effet_en": "The energy policy of the new governor could influence the oil market.",
+            "effet_zh": "新州长的能源政策可能会影响石油市场。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T23:56:30.213501"
+      },
       {
         "id": "usa_774975",
         "titre": "Démocrates et Graham Platner",
@@ -1605,56 +1655,6 @@
           }
         ],
         "created_at": "2026-07-07T06:32:50.357447"
-      },
-      {
-        "id": "usa_966585",
-        "titre": "Trump intervient dans la Coupe du monde",
-        "titre_en": "Trump intervenes in World Cup",
-        "titre_zh": "特朗普干预世界杯",
-        "titre_original": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
-        "resume": "Le président Trump a appelé le président de la FIFA pour demander l'annulation de la suspension de Folarin Balogun. La FIFA a accepté cette demande. Cela a provoqué une tempête dans le monde du football. Les supporters sont divisés sur cette décision.",
-        "resume_en": "President Trump called the FIFA president to request the cancellation of Folarin Balogun's suspension. FIFA accepted this request. This has sparked a storm in the football world. Fans are divided on this decision.",
-        "resume_zh": "特朗普总统致电国际足联主席，要求取消对福拉林·巴洛根的禁赛。国际足联接受了这一请求。这在足球界引发了一场风暴。球迷们对这一决定存在分歧。",
-        "analyse_detaillee": "Le contexte historique de cette affaire est complexe, car il implique la politique et le sport. Les enjeux principaux sont la crédibilité de la FIFA et la réputation de Trump. Les conséquences à court terme sont une polémique dans le monde du football. Les perspectives à long terme sont incertaines, mais cela pourrait avoir un impact sur les relations entre les États-Unis et la communauté internationale. Les acteurs clés sont Trump, la FIFA et les fédérations de football.",
-        "analyse_en": "The historical context of this case is complex, as it involves politics and sports. The main stakes are the credibility of FIFA and Trump's reputation. The short-term consequences are a controversy in the football world. The long-term prospects are uncertain, but this could have an impact on the relationship between the United States and the international community. The key actors are Trump, FIFA, and football federations.",
-        "analyse_zh": "这一事件的历史背景复杂，因为它涉及政治和体育。主要影响是国际足联的可信度和特朗普的声誉。短期后果是足球界的争议。长期前景不确定，但这可能会影响美国和国际社会之间的关系。主要参与者是特朗普、国际足联和足球协会。",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/sports/football/trump-intervention-sparks-world-cup-storm-as-fifa-clears-balogun-to-face-belgium/articleshow/132205062.cms",
-        "image": "https://img.etimg.com/thumb/msid-132205066,width-1200,height-630,imgsize-94484,overlay-economictimes/articleshow.jpg",
-        "date": "2026-07-06",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché des droits télévisuels",
-            "hausse": false
-          },
-          {
-            "label": "▼ Sponsorisation du sport",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des droits télévisuels",
-            "secteur_en": "Television rights market",
-            "secteur_zh": "电视转播权市场",
-            "effet_fr": "La décision de la FIFA pourrait avoir un impact sur la valeur des droits télévisuels pour les matchs de football.",
-            "effet_en": "FIFA's decision could have an impact on the value of television rights for football matches.",
-            "effet_zh": "国际足联的决定可能会影响足球比赛的电视转播权价值。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Sponsorisation du sport",
-            "secteur_en": "Sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "La controverse entourant Trump et la FIFA pourrait dissuader les sponsors de s'engager dans le football.",
-            "effet_en": "The controversy surrounding Trump and FIFA could deter sponsors from engaging in football.",
-            "effet_zh": "特朗普和国际足联的争议可能会阻止赞助商参与足球。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T02:29:40.838512"
       }
     ],
     "chine": [
@@ -2060,6 +2060,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_114141",
+        "titre": "Ukraine signe des accords",
+        "titre_en": "Ukraine signs drone deals",
+        "titre_zh": "乌克兰签署无人机协议",
+        "titre_original": "Ukraine's Zelenskiy signs 'drone deals' with three countries",
+        "resume": "Le président ukrainien Volodymyr Zelenskiy a annoncé que l'Ukraine avait signé des accords avec trois pays pour développer des drones. L'Ukraine a gagné de l'expérience dans le domaine des drones grâce à son conflit avec la Russie. Les pays signataires sont le Danemark, l'Estonie et les Pays-Bas.",
+        "resume_en": "Ukrainian President Volodymyr Zelenskiy announced that Ukraine had signed deals with three countries to develop drones. Ukraine has gained experience in the field of drones due to its conflict with Russia. The signatory countries are Denmark, Estonia, and the Netherlands.",
+        "resume_zh": "乌克兰总统沃洛季米尔·泽连斯基宣布，乌克兰已与三个国家签署协议开发无人机。由于与俄罗斯的冲突，乌克兰在无人机领域获得了经验。签署国是丹麦、爱沙尼亚和荷兰。",
+        "analyse_detaillee": "Le contexte historique de cette nouvelle est le conflit entre l'Ukraine et la Russie. Les enjeux principaux sont la sécurité nationale de l'Ukraine. Les conséquences à court terme seront le renforcement de la défense ukrainienne. Les perspectives à long terme seront l'impact sur la stabilité régionale. Les acteurs principaux sont l'Ukraine, la Russie et les pays signataires.",
+        "analyse_en": "The historical context of this news is the conflict between Ukraine and Russia. The main stakes are the national security of Ukraine. The short-term consequences will be the strengthening of Ukrainian defense. The long-term prospects will be the impact on regional stability. The main actors are Ukraine, Russia, and the signatory countries.",
+        "analyse_zh": "这一新闻的历史背景是乌克兰和俄罗斯之间的冲突。主要影响是乌克兰的国家安全。短期后果将是乌克兰防御的加强。长期前景将是对地区稳定的影响。主要参与者是乌克兰、俄罗斯和签署国。",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/28f5bebf244b89dc",
+        "image": "https://biztoc.com/cdn/28f5bebf244b89dc_s.webp",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ marché de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ marché aéronautique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché de la défense",
+            "secteur_en": "defense market",
+            "secteur_zh": "国防市场",
+            "effet_fr": "Les accords signés par l'Ukraine pourraient avoir un impact sur le marché de la défense.",
+            "effet_en": "The deals signed by Ukraine could have an impact on the defense market.",
+            "effet_zh": "乌克兰签署的协议可能会对国防市场产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché aéronautique",
+            "secteur_en": "aerospace market",
+            "secteur_zh": "航空航天市场",
+            "effet_fr": "Le développement de drones par l'Ukraine pourrait influencer le marché aéronautique.",
+            "effet_en": "The development of drones by Ukraine could influence the aerospace market.",
+            "effet_zh": "乌克兰的无人机开发可能会影响航空航天市场。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T23:56:30.213532"
+      },
       {
         "id": "russie_733957",
         "titre": "Irak et les doubles jeux",
@@ -3009,59 +3059,59 @@
           }
         ],
         "created_at": "2026-07-07T06:32:50.357480"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_401642",
-        "titre": "Trump parle avec Zelenskyy et Poutine",
-        "titre_en": "Trump speaks with Zelenskyy and Putin",
-        "titre_zh": "特朗普与泽连斯基和普京通话",
-        "titre_original": "Trump Holds Calls With Zelenskyy, Putin; Vance Says Ukraine's Drone Strategy Is Successfully Exhausting Russia",
-        "resume": "Le président Trump a eu des conversations téléphoniques avec les présidents ukrainien et russe. Les efforts pour mettre fin à la guerre en Ukraine sont toujours au point mort. Les deux pays sont engagés dans un conflit qui dure depuis des années.",
-        "resume_en": "President Trump had phone conversations with the Ukrainian and Russian presidents. Efforts to end the war in Ukraine are still stalled. The two countries are engaged in a conflict that has been going on for years.",
-        "resume_zh": "特朗普总统与乌克兰和俄罗斯总统进行了电话交谈。结束乌克兰战争的努力仍然停滞不前。两国陷入了多年的冲突。",
-        "analyse_detaillee": "Le contexte historique de ce conflit est complexe, car il implique des facteurs géopolitiques et économiques. Les enjeux principaux sont la souveraineté de l'Ukraine et la sécurité régionale. Les conséquences à court terme sont une poursuite du conflit. Les perspectives à long terme sont incertaines, mais cela pourrait avoir un impact sur les relations entre la Russie et l'Occident. Les acteurs clés sont les États-Unis, la Russie, l'Ukraine et l'Union européenne.",
-        "analyse_en": "The historical context of this conflict is complex, as it involves geopolitical and economic factors. The main stakes are Ukraine's sovereignty and regional security. The short-term consequences are a continuation of the conflict. The long-term prospects are uncertain, but this could have an impact on the relationship between Russia and the West. The key actors are the United States, Russia, Ukraine, and the European Union.",
-        "analyse_zh": "这一冲突的历史背景复杂，因为它涉及地缘政治和经济因素。主要影响是乌克兰的主权和地区安全。短期后果是冲突的继续。长期前景不确定，但这可能会影响俄罗斯和西方之间的关系。主要参与者是美国、俄罗斯、乌克兰和欧盟。",
+        "id": "iran_303672",
+        "titre": "Le prix du pétrole",
+        "titre_en": "The Next Oil Price Spike",
+        "titre_zh": "下一次油价飙升",
+        "titre_original": "The Next Oil Price Spike Could Come Sooner Than Traders Think",
+        "resume": "Les prix du pétrole ont baissé depuis que les États-Unis et l'Iran ont accepté de négocier un accord. L'Iran a accepté de rouvrir le détroit d'Ormuz. Les flux de pétrole ont augmenté. Cependant, les traders s'inquiètent d'une possible hausse des prix.",
+        "resume_en": "Oil prices have dropped since the United States and Iran agreed to negotiate a deal. Iran has agreed to reopen the Strait of Hormuz. Oil flows have increased. However, traders are worried about a possible price spike.",
+        "resume_zh": "自美国和伊朗同意谈判一项协议以来，油价已经下跌。伊朗已经同意重新开放霍尔木兹海峡。石油流动已经增加。然而，交易者担心可能会出现价格飙升。",
+        "analyse_detaillee": "Le contexte historique de cette nouvelle est la situation géopolitique actuelle au Moyen-Orient. Les enjeux principaux sont la stabilité des prix du pétrole. Les conséquences à court terme seront la variation des prix du pétrole. Les perspectives à long terme seront l'impact sur l'économie mondiale. Les acteurs principaux sont les États-Unis, l'Iran et les pays producteurs de pétrole.",
+        "analyse_en": "The historical context of this news is the current geopolitical situation in the Middle East. The main stakes are the stability of oil prices. The short-term consequences will be the fluctuation of oil prices. The long-term prospects will be the impact on the global economy. The main actors are the United States, Iran, and oil-producing countries.",
+        "analyse_zh": "这一新闻的历史背景是当前中东的局势。主要影响是油价的稳定。短期后果将是油价的波动。长期前景将是对全球经济的影响。主要参与者是美国、伊朗和石油生产国。",
         "categorie": "Géopolitique",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260705-rferl01.htm",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-07-05",
-        "pays": "russie",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Price-Spike-Could-Come-Sooner-Than-Traders-Think.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_xpyfj0mhbu.jpg",
+        "date": "2026-07-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des armes",
+            "label": "▲ marché pétrolier",
             "hausse": true
           },
           {
-            "label": "▲ Énergie",
-            "hausse": true
+            "label": "▼ marché des changes",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des armes",
-            "secteur_en": "Arms market",
-            "secteur_zh": "武器市场",
-            "effet_fr": "Le conflit en Ukraine pourrait entraîner une augmentation de la demande d'armes.",
-            "effet_en": "The conflict in Ukraine could lead to an increase in demand for arms.",
-            "effet_zh": "乌克兰冲突可能会导致对武器的需求增加。",
+            "secteur_fr": "marché pétrolier",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "La situation géopolitique au Moyen-Orient pourrait avoir un impact sur le marché pétrolier.",
+            "effet_en": "The geopolitical situation in the Middle East could have an impact on the oil market.",
+            "effet_zh": "中东的局势可能会对石油市场产生影响。",
             "hausse": true
           },
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "La guerre en Ukraine pourrait avoir un impact sur les prix de l'énergie en Europe.",
-            "effet_en": "The war in Ukraine could have an impact on energy prices in Europe.",
-            "effet_zh": "乌克兰战争可能会影响欧洲的能源价格。",
-            "hausse": true
+            "secteur_fr": "marché des changes",
+            "secteur_en": "foreign exchange market",
+            "secteur_zh": "外汇市场",
+            "effet_fr": "La variation des prix du pétrole pourrait influencer le marché des changes.",
+            "effet_en": "The fluctuation of oil prices could influence the foreign exchange market.",
+            "effet_zh": "油价的波动可能会影响外汇市场。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-07-07T02:29:40.838544"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-08T23:56:30.213540"
+      },
       {
         "id": "iran_85896",
         "titre": "Attaques de tankers à Hormuz",
@@ -4011,56 +4061,6 @@
           }
         ],
         "created_at": "2026-07-07T06:32:50.357489"
-      },
-      {
-        "id": "iran_894952",
-        "titre": "Le prix du pétrole chute",
-        "titre_en": "Oil price falls",
-        "titre_zh": "油价下跌",
-        "titre_original": "Oil Price Today (July 6): Crude oil extends fall, hovers below $72. Here are 2 major reasons for the decline",
-        "resume": "Le prix du pétrole a baissé en raison de la faible demande et de la forte production. Les prix du pétrole brut sont actuellement inférieurs à 72 dollars le baril. Cette baisse pourrait avoir un impact sur les économies des pays producteurs de pétrole.",
-        "resume_en": "The oil price has fallen due to low demand and high production. Crude oil prices are currently below $72 a barrel. This decline could have an impact on the economies of oil-producing countries.",
-        "resume_zh": "由于需求低和生产高，油价已经下跌。目前原油价格低于每桶72美元。这一下降可能会影响石油生产国的经济。",
-        "analyse_detaillee": "Le contexte historique de cette baisse est complexe, car il implique des facteurs économiques et géopolitiques. Les enjeux principaux sont la stabilité des marchés énergétiques et la sécurité énergétique. Les conséquences à court terme sont une baisse des revenus pour les pays producteurs de pétrole. Les perspectives à long terme sont incertaines, mais cela pourrait avoir un impact sur les investissements dans les énergies renouvelables. Les acteurs clés sont les pays producteurs de pétrole, les compagnies pétrolières et les gouvernements.",
-        "analyse_en": "The historical context of this decline is complex, as it involves economic and geopolitical factors. The main stakes are the stability of energy markets and energy security. The short-term consequences are a decrease in revenue for oil-producing countries. The long-term prospects are uncertain, but this could have an impact on investments in renewable energy. The key actors are oil-producing countries, oil companies, and governments.",
-        "analyse_zh": "这一下降的历史背景复杂，因为它涉及经济和地缘政治因素。主要影响是能源市场的稳定和能源安全。短期后果是石油生产国的收入减少。长期前景不确定，但这可能会影响可再生能源的投资。主要参与者是石油生产国、石油公司和政府。",
-        "categorie": "Économie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-6-crude-oil-extends-fall-hovers-below-72-here-are-2-major-reasons-for-the-decline/articleshow/132205613.cms",
-        "image": "https://img.etimg.com/thumb/msid-132205609,width-1200,height-630,imgsize-83072,overlay-etmarkets/articleshow.jpg",
-        "date": "2026-07-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Industrie pétrolière",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché des actions",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Industrie pétrolière",
-            "secteur_en": "Oil industry",
-            "secteur_zh": "石油行业",
-            "effet_fr": "La baisse du prix du pétrole pourrait avoir un impact négatif sur les compagnies pétrolières.",
-            "effet_en": "The decline in oil prices could have a negative impact on oil companies.",
-            "effet_zh": "油价下跌可能会对石油公司产生负面影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des actions",
-            "secteur_en": "Stock market",
-            "secteur_zh": "股票市场",
-            "effet_fr": "La baisse du prix du pétrole pourrait avoir un impact sur les marchés boursiers.",
-            "effet_en": "The decline in oil prices could have an impact on stock markets.",
-            "effet_zh": "油价下跌可能会影响股票市场。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T02:29:40.838554"
       }
     ]
   }
