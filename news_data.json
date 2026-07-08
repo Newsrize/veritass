@@ -1,7 +1,57 @@
 {
-  "last_updated": "08/07/2026 à 10h02",
+  "last_updated": "08/07/2026 à 12h10",
   "articles": {
     "monde": [
+      {
+        "id": "monde_816574",
+        "titre": "Marché technologies emballage avancé",
+        "titre_en": "Advanced Packaging Technologies Market",
+        "titre_zh": "先进包装技术市场",
+        "titre_original": "Advanced Packaging Technologies Market to Surge Beyond $15 Billion by 2030, Driven by Demand for Compact Electronics",
+        "resume": "Le marché des technologies d'emballage avancé devrait dépasser 15 milliards de dollars d'ici 2030. Les opportunités proviennent de la complexité croissante des semi-conducteurs et de la demande pour des électroniques compactes. Les tendances incluent les circuits intégrés 3D.",
+        "resume_en": "The advanced packaging technologies market is expected to surge beyond $15 billion by 2030, driven by increasing semiconductor complexity and demand for compact electronics. Trends include 3D IC.",
+        "resume_zh": "预计到2030年，先进包装技术市场将超过150亿美元。机会来自于半导体日益复杂和对紧凑电子产品的需求。趋势包括3D集成电路。",
+        "analyse_detaillee": "Le contexte historique est marqué par l'évolution des technologies électroniques. Les enjeux principaux sont la demande pour des électroniques compactes et la croissance de l'électronique automobile. Les conséquences à court terme sont une augmentation de la production. Les perspectives à long terme sont prometteuses avec l'émergence de nouvelles technologies. Les acteurs clés sont les entreprises de semi-conducteurs.",
+        "analyse_en": "The historical context is marked by the evolution of electronic technologies. The main stakes are the demand for compact electronics and the growth of automotive electronics. The short-term consequences are an increase in production. The long-term prospects are promising with the emergence of new technologies. The key players are semiconductor companies.",
+        "analyse_zh": "历史背景是电子技术的演变。主要影响是对紧凑电子产品的需求和汽车电子产品的增长。短期后果是生产量的增加。长期前景是有前途的，伴随着新技术的出现。主要参与者是半导体公司。",
+        "categorie": "Géopolitique",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/07/3322941/28124/en/Advanced-Packaging-Technologies-Market-to-Surge-Beyond-15-Billion-by-2030-Driven-by-Demand-for-Compact-Electronics.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/81736353-e409-49e9-bcff-dfe8126dfe52",
+        "date": "2026-07-07",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Semi-conducteurs",
+            "hausse": true
+          },
+          {
+            "label": "▲ Électronique automobile",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Semi-conducteurs",
+            "secteur_en": "Semiconductors",
+            "secteur_zh": "半导体",
+            "effet_fr": "L'augmentation de la demande pour des électroniques compactes va impacter positivement le secteur des semi-conducteurs.",
+            "effet_en": "The increase in demand for compact electronics will positively impact the semiconductor sector.",
+            "effet_zh": "对紧凑电子产品的需求增加将对半导体行业产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Électronique automobile",
+            "secteur_en": "Automotive electronics",
+            "secteur_zh": "汽车电子",
+            "effet_fr": "La croissance de l'électronique automobile va également booster le secteur des semi-conducteurs.",
+            "effet_en": "The growth of automotive electronics will also boost the semiconductor sector.",
+            "effet_zh": "汽车电子的增长也将促进半导体行业的发展。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-08T12:10:18.611205"
+      },
       {
         "id": "monde_232717",
         "titre": "Marché dépôt vapeur chimique",
@@ -356,6 +406,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_697502",
+        "titre": "Cour suprême et Trump",
+        "titre_en": "Supreme Court and Trump",
+        "titre_zh": "最高法院和特朗普",
+        "titre_original": "JOHN YOO: The left's Supreme Court panic collapses under the weight of the facts",
+        "resume": "La Cour suprême des États-Unis a démontré qu'elle se base sur la compréhension originale de la Constitution plutôt que sur les opinions de Trump. Cela a provoqué une réaction de panique chez les démocrates.",
+        "resume_en": "The US Supreme Court has shown that it bases its decisions on the original understanding of the Constitution rather than on Trump's opinions, causing panic among Democrats.",
+        "resume_zh": "美国最高法院已经证明，它的决定是基于对宪法的原始理解而非特朗普的意见，这引起了民主党人的恐慌反应。",
+        "analyse_detaillee": "Le contexte historique est marqué par les débats autour de la Constitution. Les enjeux principaux sont l'interprétation de la Constitution et l'influence de Trump. Les conséquences à court terme sont une polarisation accrue. Les perspectives à long terme sont incertaines avec des implications pour la démocratie américaine. Les acteurs clés sont la Cour suprême et le président.",
+        "analyse_en": "The historical context is marked by debates around the Constitution. The main stakes are the interpretation of the Constitution and Trump's influence. The short-term consequences are increased polarization. The long-term prospects are uncertain with implications for American democracy. The key players are the Supreme Court and the President.",
+        "analyse_zh": "历史背景是围绕宪法的辩论。主要影响是宪法的解释和特朗普的影响。短期后果是两极分化的加剧。长期前景是不确定的，伴随着对美国民主的影响。主要参与者是最高法院和总统。",
+        "categorie": "Géopolitique",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/john-yoo-lefts-supreme-court-panic-collapses-weight-facts",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/us-supreme-court-june-2026.jpg",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché politique",
+            "hausse": false
+          },
+          {
+            "label": "▼ Système judiciaire",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché politique",
+            "secteur_en": "Political market",
+            "secteur_zh": "政治市场",
+            "effet_fr": "La décision de la Cour suprême va avoir un impact sur le marché politique américain.",
+            "effet_en": "The Supreme Court's decision will have an impact on the US political market.",
+            "effet_zh": "最高法院的决定将对美国政治市场产生影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Système judiciaire",
+            "secteur_en": "Judicial system",
+            "secteur_zh": "司法系统",
+            "effet_fr": "La crédibilité du système judiciaire américain est en jeu.",
+            "effet_en": "The credibility of the US judicial system is at stake.",
+            "effet_zh": "美国司法系统的可信度岌岌可危。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T12:10:18.611231"
+      },
       {
         "id": "usa_902849",
         "titre": "Les démons de Maryville",
@@ -1305,56 +1405,6 @@
           }
         ],
         "created_at": "2026-07-06T14:48:15.327624"
-      },
-      {
-        "id": "usa_248817",
-        "titre": "Sauver la nation",
-        "titre_en": "Save Our Nation",
-        "titre_zh": "拯救我们的国家",
-        "titre_original": "J. Michael Luttig: How to Save Our Nation and the Rule of Law",
-        "resume": "Le juge J. Michael Luttig a prononcé un discours à la conférence sur l'intégrité électorale. Il a souligné l'importance de la loi. Les États-Unis traversent une période critique.",
-        "resume_en": "Judge J. Michael Luttig delivered a speech at the Election Integrity Summit. He emphasized the importance of the law. The United States is going through a critical period.",
-        "resume_zh": "法官J. Michael Luttig在选举诚信峰会上发表讲话。他强调了法律的重要性。美国正在经历一个关键时期。",
-        "analyse_detaillee": "Le contexte historique est marqué par les tensions politiques aux États-Unis. Les enjeux principaux sont la stabilité du système démocratique. Les conséquences à court terme sont une possible augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont les partis politiques.",
-        "analyse_en": "The historical context is marked by political tensions in the United States. The main stakes are the stability of the democratic system. The short-term consequences are a possible increase in tensions. The long-term prospects are uncertain. The key actors are the political parties.",
-        "analyse_zh": "历史背景是美国的政治紧张。主要影响是民主制度的稳定。短期后果是紧张局势可能加剧。长期前景是不确定的。主要参与者是政党。",
-        "categorie": "Géopolitique",
-        "source": "Dianeravitch.net",
-        "url": "https://dianeravitch.net/2026/07/04/j-michael-luttig-how-to-save-our-bation-and-the-rule-of-law/",
-        "image": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
-        "date": "2026-07-04",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché boursier",
-            "hausse": false
-          },
-          {
-            "label": "▲ Secteur financier",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché boursier",
-            "secteur_en": "Stock market",
-            "secteur_zh": "股票市场",
-            "effet_fr": "Les tensions politiques pourraient avoir un impact négatif sur le marché boursier.",
-            "effet_en": "Political tensions could have a negative impact on the stock market.",
-            "effet_zh": "政治紧张可能对股票市场产生负面影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur financier",
-            "secteur_en": "Financial sector",
-            "secteur_zh": "金融行业",
-            "effet_fr": "Les conséquences à long terme pourraient être bénéfiques pour le secteur financier.",
-            "effet_en": "The long-term consequences could be beneficial for the financial sector.",
-            "effet_zh": "长期后果可能对金融行业有益。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-06T11:18:22.712971"
       }
     ],
     "chine": [
@@ -1710,6 +1760,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_657368",
+        "titre": "OTAN contre Poutine",
+        "titre_en": "NATO against Putin",
+        "titre_zh": "北约对抗普京",
+        "titre_original": "NATO Meets In Turkey To Counter Putin From The East And Trump From The West",
+        "resume": "L'OTAN se réunit en Turquie pour contrer les menaces de Poutine et de Trump. L'alliance fait face à des menaces externes et internes.",
+        "resume_en": "NATO meets in Turkey to counter Putin's and Trump's threats. The alliance is facing external and internal threats.",
+        "resume_zh": "北约在土耳其举行会议，以对抗普京和特朗普的威胁。该联盟面临着外部和内部威胁。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre l'OTAN et la Russie. Les enjeux principaux sont la sécurité européenne et l'influence de la Russie. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines avec des implications pour la stabilité mondiale. Les acteurs clés sont l'OTAN, la Russie et les États-Unis.",
+        "analyse_en": "The historical context is marked by tensions between NATO and Russia. The main stakes are European security and Russian influence. The short-term consequences are increased tensions. The long-term prospects are uncertain with implications for global stability. The key players are NATO, Russia, and the US.",
+        "analyse_zh": "历史背景是北约和俄罗斯之间的紧张关系。主要影响是欧洲安全和俄罗斯的影响力。短期后果是紧张局势的加剧。长期前景是不确定的，伴随着对全球稳定的影响。主要参与者是北约、俄罗斯和美国。",
+        "categorie": "Géopolitique",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/nato-putin-trump_n_6a469593e4b001e08fc3f029",
+        "image": "https://img.huffingtonpost.com/asset/6a469738180000f261454c7a.jpeg?cache=3Clh6AYJGO&ops=1200_630",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Défense européenne",
+            "hausse": false
+          },
+          {
+            "label": "▼ Relations internationales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense européenne",
+            "secteur_en": "European defense",
+            "secteur_zh": "欧洲防御",
+            "effet_fr": "La sécurité européenne est menacée par les actions de la Russie.",
+            "effet_en": "European security is threatened by Russia's actions.",
+            "effet_zh": "欧洲安全受到俄罗斯行动的威胁。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Relations internationales",
+            "secteur_en": "International relations",
+            "secteur_zh": "国际关系",
+            "effet_fr": "Les relations entre l'OTAN, la Russie et les États-Unis sont tendues.",
+            "effet_en": "The relations between NATO, Russia, and the US are tense.",
+            "effet_zh": "北约、俄罗斯和美国之间的关系紧张。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T12:10:18.611239"
+      },
       {
         "id": "russie_221924",
         "titre": "La guerre en Ukraine",
@@ -2659,59 +2759,59 @@
           }
         ],
         "created_at": "2026-07-06T14:48:15.327652"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_79678",
-        "titre": "Attaque en Crimée",
-        "titre_en": "Attack in Crimea",
-        "titre_zh": "克里米亚袭击",
-        "titre_original": "1 killed in attack on Crimea as Putin and Zelensky hold separate Trump calls",
-        "resume": "Une attaque a eu lieu en Crimée, faisant un mort et deux blessés. Le gouverneur Sergei Aksyonov a condamné l'attaque.",
-        "resume_en": "An attack occurred in Crimea, killing one person and injuring two. Governor Sergei Aksyonov condemned the attack.",
-        "resume_zh": "克里米亚发生袭击，造成一死两伤。州长Sergei Aksyonov谴责了袭击。",
-        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la stabilité de la région. Les conséquences à court terme sont une possible augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont la Russie et l'Ukraine.",
-        "analyse_en": "The historical context is marked by tensions between Russia and Ukraine. The main stakes are the stability of the region. The short-term consequences are a possible increase in tensions. The long-term prospects are uncertain. The key actors are Russia and Ukraine.",
-        "analyse_zh": "历史背景是俄罗斯和乌克兰之间的紧张。主要影响是该地区的稳定。短期后果是紧张局势可能加剧。长期前景是不确定的。主要参与者是俄罗斯和乌克兰。",
+        "id": "iran_657368",
+        "titre": "OTAN contre Poutine",
+        "titre_en": "NATO against Putin",
+        "titre_zh": "北约对抗普京",
+        "titre_original": "NATO Meets In Turkey To Counter Putin From The East And Trump From The West",
+        "resume": "L'OTAN se réunit en Turquie pour contrer les menaces de Poutine et de Trump. L'alliance fait face à des menaces externes et internes.",
+        "resume_en": "NATO meets in Turkey to counter Putin's and Trump's threats. The alliance is facing external and internal threats.",
+        "resume_zh": "北约在土耳其举行会议，以对抗普京和特朗普的威胁。该联盟面临着外部和内部威胁。",
+        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre l'OTAN et la Russie. Les enjeux principaux sont la sécurité européenne et l'influence de la Russie. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines avec des implications pour la stabilité mondiale. Les acteurs clés sont l'OTAN, la Russie et les États-Unis.",
+        "analyse_en": "The historical context is marked by tensions between NATO and Russia. The main stakes are European security and Russian influence. The short-term consequences are increased tensions. The long-term prospects are uncertain with implications for global stability. The key players are NATO, Russia, and the US.",
+        "analyse_zh": "历史背景是北约和俄罗斯之间的紧张关系。主要影响是欧洲安全和俄罗斯的影响力。短期后果是紧张局势的加剧。长期前景是不确定的，伴随着对全球稳定的影响。主要参与者是北约、俄罗斯和美国。",
         "categorie": "Géopolitique",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/07/05/world-news/crimea-attack-kills-1-as-putin-and-zelensky-hold-separate-trump-calls/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-6qfnzfp30-1783245933800.jpg?quality=75&strip=all&1783231598&w=1200",
-        "date": "2026-07-05",
-        "pays": "russie",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/nato-putin-trump_n_6a469593e4b001e08fc3f029",
+        "image": "https://img.huffingtonpost.com/asset/6a469738180000f261454c7a.jpeg?cache=3Clh6AYJGO&ops=1200_630",
+        "date": "2026-07-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché de l'énergie",
+            "label": "▼ Défense européenne",
             "hausse": false
           },
           {
-            "label": "▲ Secteur de la défense",
-            "hausse": true
+            "label": "▼ Relations internationales",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché de l'énergie",
-            "secteur_en": "Energy market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "L'attaque en Crimée pourrait avoir un impact sur le marché de l'énergie.",
-            "effet_en": "The attack in Crimea could have an impact on the energy market.",
-            "effet_zh": "克里米亚袭击可能对能源市场产生影响。",
+            "secteur_fr": "Défense européenne",
+            "secteur_en": "European defense",
+            "secteur_zh": "欧洲防御",
+            "effet_fr": "La sécurité européenne est menacée par les actions de la Russie.",
+            "effet_en": "European security is threatened by Russia's actions.",
+            "effet_zh": "欧洲安全受到俄罗斯行动的威胁。",
             "hausse": false
           },
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "Les conséquences à long terme pourraient être bénéfiques pour le secteur de la défense.",
-            "effet_en": "The long-term consequences could be beneficial for the defense sector.",
-            "effet_zh": "长期后果可能对国防行业有益。",
-            "hausse": true
+            "secteur_fr": "Relations internationales",
+            "secteur_en": "International relations",
+            "secteur_zh": "国际关系",
+            "effet_fr": "Les relations entre l'OTAN, la Russie et les États-Unis sont tendues.",
+            "effet_en": "The relations between NATO, Russia, and the US are tense.",
+            "effet_zh": "北约、俄罗斯和美国之间的关系紧张。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-07-06T11:18:22.713002"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-08T12:10:18.611245"
+      },
       {
         "id": "iran_902849",
         "titre": "Les démons de Maryville",
@@ -3661,56 +3761,6 @@
           }
         ],
         "created_at": "2026-07-06T14:48:15.327661"
-      },
-      {
-        "id": "iran_75717",
-        "titre": "OPEC+ augmente les quotas",
-        "titre_en": "OPEC+ raises quotas",
-        "titre_zh": "欧佩克+提高配额",
-        "titre_original": "OPEC+ raises quotas again as Middle East calms",
-        "resume": "L'OPEC+ a décidé d'augmenter les quotas de production de pétrole. Cette décision a été prise en raison de la stabilité du marché.",
-        "resume_en": "OPEC+ has decided to increase oil production quotas. This decision was made due to market stability.",
-        "resume_zh": "欧佩克+决定提高石油生产配额。该决定是由于市场稳定而做出的。",
-        "analyse_detaillee": "Le contexte historique est marqué par les fluctuations du marché pétrolier. Les enjeux principaux sont la stabilité du marché. Les conséquences à court terme sont une possible augmentation de la production. Les perspectives à long terme sont incertaines. Les acteurs clés sont les pays producteurs de pétrole.",
-        "analyse_en": "The historical context is marked by fluctuations in the oil market. The main stakes are market stability. The short-term consequences are a possible increase in production. The long-term prospects are uncertain. The key actors are oil-producing countries.",
-        "analyse_zh": "历史背景是石油市场的波动。主要影响是市场稳定。短期后果是生产可能增加。长期前景是不确定的。主要参与者是石油生产国。",
-        "categorie": "Géopolitique",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/07/opec-raises-quotas-again-as-middle-east-calms/",
-        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/opec-barrel-stock.png",
-        "date": "2026-07-05",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur énergétique",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "La décision de l'OPEC+ pourrait avoir un impact positif sur le marché pétrolier.",
-            "effet_en": "The OPEC+ decision could have a positive impact on the oil market.",
-            "effet_zh": "欧佩克+的决定可能对石油市场产生积极影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur énergétique",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "Les conséquences à long terme pourraient être bénéfiques pour le secteur énergétique.",
-            "effet_en": "The long-term consequences could be beneficial for the energy sector.",
-            "effet_zh": "长期后果可能对能源行业有益。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-06T11:18:22.713013"
       }
     ]
   }
