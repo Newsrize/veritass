@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/07/2026 à 23h42",
+  "last_updated": "08/07/2026 à 01h16",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_151584",
+        "titre": "Trump stoppe les demandes de carte verte",
+        "titre_en": "Trump's Green Card Application Pause",
+        "titre_zh": "特朗普绿卡申请暂停",
+        "titre_original": "Donald Trump’s Green Card Application Pause Dealt Blow by Federal Judge",
+        "resume": "Un juge fédéral ordonne à l'administration Trump de reprendre le traitement de certaines demandes d'immigration. Cette décision constitue un revers pour les efforts de l'administration pour restreindre l'immigration. Les demandes de carte verte sont suspendues depuis plusieurs mois.",
+        "resume_en": "A federal judge has ordered the Trump administration to resume processing certain immigration benefit applications. This decision is a setback for the administration's efforts to restrict immigration. Green card applications have been paused for several months.",
+        "resume_zh": "联邦法官命令特朗普政府重新开始处理某些移民申请。这一决定是对政府限制移民努力的挫折。绿卡申请已经暂停几个月。",
+        "analyse_detaillee": "Le contexte historique de cette décision est lié aux efforts de l'administration Trump pour restreindre l'immigration. Les enjeux principaux sont la sécurité nationale et l'économie. Les conséquences à court terme seront une reprise du traitement des demandes d'immigration. Les perspectives à long terme sont incertaines. Les acteurs clés sont le gouvernement américain et les organisations de défense des droits des immigrés.",
+        "analyse_en": "The historical context of this decision is related to the Trump administration's efforts to restrict immigration. The main stakes are national security and the economy. The short-term consequences will be a resumption of immigration application processing. The long-term prospects are uncertain. The key actors are the US government and immigrant rights organizations.",
+        "analyse_zh": "这一决定的历史背景与特朗普政府限制移民的努力有关。主要影响是国家安全和经济。短期后果将是移民申请处理的恢复。长期前景不确定。主要参与者是美国政府和移民权利组织。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386962/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Immigration",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur financier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Immigration",
+            "secteur_en": "Immigration",
+            "secteur_zh": "移民",
+            "effet_fr": "La reprise du traitement des demandes d'immigration aura un impact positif sur l'économie américaine.",
+            "effet_en": "The resumption of immigration application processing will have a positive impact on the US economy.",
+            "effet_zh": "移民申请处理的恢复将对美国经济产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "Le secteur financier sera affecté par les décisions de l'administration Trump sur l'immigration.",
+            "effet_en": "The financial sector will be affected by the Trump administration's decisions on immigration.",
+            "effet_zh": "金融行业将受到特朗普政府移民政策的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T01:16:27.439745"
+      },
       {
         "id": "usa_613675",
         "titre": "McConnell hospitalisé",
@@ -1611,6 +1661,56 @@
     ],
     "russie": [
       {
+        "id": "russie_543711",
+        "titre": "Allemagne : 800 milliards pour le réarmement",
+        "titre_en": "Germany to borrow €800bn for rearmament",
+        "titre_zh": "德国为重新武装借款8000亿欧元",
+        "titre_original": "Germany to borrow €800bn for rearmament in historic shift",
+        "resume": "L'Allemagne prévoit de borrower plus de 800 milliards d'euros pour financer son réarmement. Cette décision marque un tournant historique pour le pays. Le réarmement est justifié par les tensions géopolitiques actuelles.",
+        "resume_en": "Germany plans to borrow more than €800 billion to finance its rearmament. This decision marks a historic shift for the country. The rearmament is justified by current geopolitical tensions.",
+        "resume_zh": "德国计划借款8000亿欧元用于重新武装。这一决定标志着德国历史上的转折点。重新武装的理由是当前的 геополитических紧张局势。",
+        "analyse_detaillee": "Le contexte historique de cette décision est lié à la fin de la guerre froide et à la réunification allemande. Les enjeux principaux sont la sécurité nationale et la stabilité européenne. Les conséquences à court terme seront une augmentation des dépenses militaires. Les perspectives à long terme sont incertaines. Les acteurs clés sont le gouvernement allemand et les institutions européennes.",
+        "analyse_en": "The historical context of this decision is related to the end of the Cold War and German reunification. The main stakes are national security and European stability. The short-term consequences will be an increase in military spending. The long-term prospects are uncertain. The key actors are the German government and European institutions.",
+        "analyse_zh": "这一决定的历史背景与冷战的结束和德国的统一有关。主要影响是国家安全和欧洲的稳定。短期后果将是军费开支的增加。长期前景不确定。主要参与者是德国政府和欧洲机构。",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4386959/posts",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur financier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'augmentation des dépenses militaires aura un impact positif sur l'industrie de la défense.",
+            "effet_en": "The increase in military spending will have a positive impact on the defense industry.",
+            "effet_zh": "军费开支的增加将对国防工业产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "Le secteur financier sera affecté par les décisions de l'Allemagne sur le réarmement.",
+            "effet_en": "The financial sector will be affected by Germany's decisions on rearmament.",
+            "effet_zh": "金融行业将受到德国重新武装政策的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T01:16:27.439772"
+      },
+      {
         "id": "russie_674506",
         "titre": "Ukraine frappe des cibles russes",
         "titre_en": "Ukraine Strikes Russian Targets",
@@ -2562,6 +2662,56 @@
       }
     ],
     "iran": [
+      {
+        "id": "iran_465384",
+        "titre": "Le dollar US en hausse",
+        "titre_en": "US dollar rises",
+        "titre_zh": "美元走高",
+        "titre_original": "Traders turn most positive on US dollar since 2015, and crypto should pay attention",
+        "resume": "Les traders sont devenus les plus optimistes sur le dollar US depuis 2015. Cette tendance pourrait avoir un impact sur les marchés de la crypto-monnaie. Les tensions géopolitiques actuelles contribuent à la hausse du dollar.",
+        "resume_en": "Traders have become the most optimistic about the US dollar since 2015. This trend could have an impact on cryptocurrency markets. Current geopolitical tensions are contributing to the rise of the dollar.",
+        "resume_zh": "交易者对美元的看法自2015年以来最为乐观。这一趋势可能会影响加密货币市场。当前的 геополитических紧张局势促进了美元的走高。",
+        "analyse_detaillee": "Le contexte historique de cette tendance est lié à la situation économique actuelle. Les enjeux principaux sont la stabilité financière et la confiance des investisseurs. Les conséquences à court terme seront une augmentation de la valeur du dollar. Les perspectives à long terme sont incertaines. Les acteurs clés sont les banques centrales et les investisseurs.",
+        "analyse_en": "The historical context of this trend is related to the current economic situation. The main stakes are financial stability and investor confidence. The short-term consequences will be an increase in the value of the dollar. The long-term prospects are uncertain. The key actors are central banks and investors.",
+        "analyse_zh": "这一趋势的历史背景与当前的经济形势有关。主要影响是金融稳定和投资者信心。短期后果将是美元价值的增加。长期前景不确定。主要参与者是中央银行和投资者。",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/traders-most-positive-us-dollar-since-2015/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06155641/the-digital-gold-fallacy-or-why-bitcoin-can-t-save-the-us-do-800x420.jpeg",
+        "date": "2026-07-06",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché des changes",
+            "hausse": true
+          },
+          {
+            "label": "▼ Crypto-monnaie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des changes",
+            "secteur_en": "Foreign exchange market",
+            "secteur_zh": "外汇市场",
+            "effet_fr": "La hausse du dollar US aura un impact sur les marchés de change.",
+            "effet_en": "The rise of the US dollar will have an impact on foreign exchange markets.",
+            "effet_zh": "美元走高将对外汇市场产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Crypto-monnaie",
+            "secteur_en": "Cryptocurrency",
+            "secteur_zh": "加密货币",
+            "effet_fr": "La tendance haussière du dollar US pourrait avoir un impact négatif sur les marchés de la crypto-monnaie.",
+            "effet_en": "The rising trend of the US dollar could have a negative impact on cryptocurrency markets.",
+            "effet_zh": "美元走高的趋势可能会对加密货币市场产生负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T01:16:27.439782"
+      },
       {
         "id": "iran_315974",
         "titre": "Pétrole : les majors réalisent des bénéfices",
