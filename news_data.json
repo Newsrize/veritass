@@ -1,5 +1,5 @@
 {
-  "last_updated": "08/07/2026 à 04h53",
+  "last_updated": "08/07/2026 à 07h19",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_11761",
+        "titre": "OTAN prévoit 5% dépense",
+        "titre_en": "NATO Agrees 5% Spending",
+        "titre_zh": "北约同意5%支出",
+        "titre_original": "NATO Agreed To Spend 5%. It Still Can't Say Which War Comes First.",
+        "resume": "L'OTAN a convenu d'une cible de dépenses de 5%. La Lituanie, l'Espagne et la Turquie s'arment pour trois guerres différentes. Cela signifie une augmentation des dépenses de défense. Les pays membres de l'OTAN doivent maintenant déterminer comment allouer ces fonds.",
+        "resume_en": "NATO agreed on a 5% spending target. Lithuania, Spain, and Turkey are arming for three different wars. This means an increase in defense spending. NATO member countries must now determine how to allocate these funds. The decision will impact defense capital.",
+        "resume_zh": "北约同意5%的支出目标。立陶宛、西班牙和土耳其为三场不同的战争做准备。这意味着增加国防开支。北约成员国现在必须确定如何分配这些资金。这个决定将影响国防资本。",
+        "analyse_detaillee": "L'OTAN a historiquement joué un rôle crucial dans la défense de l'Europe. La décision de dépenser 5% du PIB en défense est une réponse aux menaces croissantes. Cependant, l'incapacité à définir une menace commune pose des défis. Les conséquences à court terme incluent une augmentation des dépenses militaires. À long terme, cela pourrait renforcer la position de l'OTAN. Les acteurs clés, tels que les États-Unis, l'Allemagne et la France, joueront un rôle déterminant.",
+        "analyse_en": "NATO has historically played a crucial role in European defense. The decision to spend 5% of GDP on defense is a response to growing threats. However, the inability to define a common threat poses challenges. Short-term consequences include increased military spending. In the long term, this could strengthen NATO's position. Key actors, such as the US, Germany, and France, will play a decisive role. The outcome will depend on their ability to cooperate and allocate resources effectively.",
+        "analyse_zh": "北约在历史上发挥了至关重要的作用。同意5%的国防支出目标是对日益增长的威胁的回应。然而，无法定义共同威胁带来了挑战。短期后果包括军费开支增加。从长远来看，这可能会加强北约的立场。关键的行为者，如美国、德国和法国，将发挥决定性的作用。结果将取决于他们有效合作和分配资源的能力。",
+        "categorie": "Géopolitique",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/07/nato-agreed-to-spend-5-it-still-cant-say-which-war-comes-first/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bb48544953e9bed7f2e09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Défense aérienne",
+            "hausse": true
+          },
+          {
+            "label": "▼ Industrie de l'armement",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense aérienne",
+            "secteur_en": "Air Defense",
+            "secteur_zh": "空防",
+            "effet_fr": "L'augmentation des dépenses en défense aérienne devrait avoir un impact positif sur les entreprises du secteur.",
+            "effet_en": "The increase in air defense spending is expected to have a positive impact on companies in the sector.",
+            "effet_zh": "空防支出的增加预计将对该行业的公司产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Industrie de l'armement",
+            "secteur_en": "Arms Industry",
+            "secteur_zh": "武器制造业",
+            "effet_fr": "La demande accrue d'armements devrait stimuler la production et les ventes dans le secteur.",
+            "effet_en": "The increased demand for arms is expected to boost production and sales in the sector.",
+            "effet_zh": "武器需求的增加预计将促进该行业的生产和销售。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T07:19:00.874619"
+      },
       {
         "id": "usa_411417",
         "titre": "FIFA contre Trump",
@@ -1255,56 +1305,6 @@
           }
         ],
         "created_at": "2026-07-06T06:12:53.538830"
-      },
-      {
-        "id": "usa_137004",
-        "titre": "Tempête en Washington",
-        "titre_en": "Severe weather in US",
-        "titre_zh": "美国恶劣天气",
-        "titre_original": "Severe weather disrupts US’s 250th celebrations",
-        "resume": "Les célébrations du 250e anniversaire des États-Unis ont été perturbées par une tempête. Le président Trump a décidé de parler à Washington malgré la tempête. Les célébrations ont été retardées en raison de la météo.",
-        "resume_en": "The US's 250th anniversary celebrations were disrupted by a storm. President Trump will still speak in Washington despite the storm. The celebrations were delayed due to the weather.",
-        "resume_zh": "美国250周年庆祝活动因暴风雨而受到干扰。特朗普总统决定尽管有暴风雨仍在华盛顿发言。庆祝活动因天气而延迟。",
-        "analyse_detaillee": "Le contexte historique de cette tempête est important car elle perturbe les célébrations nationales. Les enjeux principaux sont la sécurité des participants et la réussite des célébrations. Les conséquences à court terme sont la perturbation des activités. Les perspectives à long terme sont la reprise des célébrations. Les acteurs principaux sont le gouvernement et les organisateurs.",
-        "analyse_en": "The historical context of this storm is important as it disrupts national celebrations. The main stakes are the safety of participants and the success of the celebrations. The short-term consequences are the disruption of activities. The long-term prospects are the resumption of celebrations. The main actors are the government and the organizers.",
-        "analyse_zh": "这场风暴的历史背景很重要，因为它扰乱了全国性的庆祝活动。主要影响是参与者的安全和庆祝活动的成功。短期后果是活动的中断。长期前景是庆祝活动的恢复。主要参与者是政府和组织者。",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-05T005750Z_781777392_RC2B7MA1VG93_RTRMADP_3_USA-250-1783219880.jpg?resize=1920%2C1440",
-        "date": "2026-07-05",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché financier américain",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des assurances",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché financier américain",
-            "secteur_en": "US financial market",
-            "secteur_zh": "美国金融市场",
-            "effet_fr": "La tempête a pu avoir un impact négatif sur le marché financier américain en raison de la perturbation des activités.",
-            "effet_en": "The storm may have had a negative impact on the US financial market due to the disruption of activities.",
-            "effet_zh": "风暴可能对美国金融市场产生了负面影响，因为活动受到干扰。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des assurances",
-            "secteur_en": "Insurance sector",
-            "secteur_zh": "保险行业",
-            "effet_fr": "Le secteur des assurances pourrait être impacté par les dégâts causés par la tempête.",
-            "effet_en": "The insurance sector may be impacted by the damage caused by the storm.",
-            "effet_zh": "保险行业可能会受到风暴造成的损害的影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-06T05:51:25.625550"
       }
     ],
     "chine": [
@@ -1660,6 +1660,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_11761",
+        "titre": "Russie face à l'OTAN",
+        "titre_en": "Russia Faces NATO",
+        "titre_zh": "俄罗斯面对北约",
+        "titre_original": "NATO Agreed To Spend 5%. It Still Can't Say Which War Comes First.",
+        "resume": "La Russie est confrontée à une OTAN renforcée. Les dépenses de défense de la Russie devraient augmenter en réponse. Cela pourrait avoir des conséquences sur les relations internationales. La Russie doit maintenant déterminer comment répondre à cette nouvelle réalité.",
+        "resume_en": "Russia is facing a strengthened NATO. Russia's defense spending is expected to increase in response. This could have consequences for international relations. Russia must now determine how to respond to this new reality. The decision will impact Russia's position on the global stage.",
+        "resume_zh": "俄罗斯面临着加强的北约。俄罗斯的国防支出预计将增加以应对。这可能会对国际关系产生影响。俄罗斯现在必须确定如何应对这一新现实。这个决定将影响俄罗斯在全球舞台上的地位。",
+        "analyse_detaillee": "La Russie a historiquement entretenu des relations tendues avec l'OTAN. La décision de l'OTAN de dépenser 5% du PIB en défense est perçue comme une menace. La Russie devra augmenter ses dépenses militaires pour maintenir son influence. Cela pourrait avoir des conséquences à long terme sur la stabilité régionale. Les acteurs clés, tels que les États-Unis et l'Europe, joueront un rôle déterminant dans la réponse de la Russie.",
+        "analyse_en": "Russia has historically had tense relations with NATO. NATO's decision to spend 5% of GDP on defense is seen as a threat. Russia will need to increase its military spending to maintain its influence. This could have long-term consequences for regional stability. Key actors, such as the US and Europe, will play a decisive role in Russia's response. The outcome will depend on their ability to cooperate and allocate resources effectively.",
+        "analyse_zh": "俄罗斯与北约的关系历史上一直很紧张。北约决定将5%的国防支出用于国防被视为一种威胁。俄罗斯需要增加军费开支以维持其影响力。这可能会对地区稳定产生长期影响。关键的行为者，如美国和欧洲，将在俄罗斯的回应中发挥决定性的作用。结果将取决于他们有效合作和分配资源的能力。",
+        "categorie": "Géopolitique",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/07/nato-agreed-to-spend-5-it-still-cant-say-which-war-comes-first/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bb48544953e9bed7f2e09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Industrie de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie de la défense",
+            "secteur_en": "Defense Industry",
+            "secteur_zh": "国防工业",
+            "effet_fr": "L'augmentation des dépenses en défense devrait avoir un impact positif sur les entreprises du secteur.",
+            "effet_en": "The increase in defense spending is expected to have a positive impact on companies in the sector.",
+            "effet_zh": "国防支出的增加预计将对该行业的公司产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "La demande accrue d'énergie pour les besoins militaires devrait stimuler la production et les ventes dans le secteur.",
+            "effet_en": "The increased demand for energy for military needs is expected to boost production and sales in the sector.",
+            "effet_zh": "军事需求的能源需求增加预计将促进该行业的生产和销售。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T07:19:00.874651"
+      },
       {
         "id": "russie_492874",
         "titre": "Attaque ukrainienne",
@@ -2609,59 +2659,59 @@
           }
         ],
         "created_at": "2026-07-06T06:12:53.538872"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_188654",
-        "titre": "La bourse indienne",
-        "titre_en": "Indian stock market",
-        "titre_zh": "印度股票市场",
-        "titre_original": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week",
-        "resume": "La bourse indienne a augmenté de 262 points. Les investisseurs sont optimistes quant à la croissance économique. Les résultats du premier trimestre seront publiés cette semaine.",
-        "resume_en": "The Indian stock market gained 262 points. Investors are optimistic about economic growth. The first-quarter results will be released this week.",
-        "resume_zh": "印度股票市场上涨262点。投资者对经济增长持乐观态度。本周将发布第一季度的业绩。",
-        "analyse_detaillee": "Le contexte économique de l'Inde est positif. Les enjeux principaux sont la croissance et la stabilité. Les conséquences à court terme sont la poursuite de la croissance. Les perspectives à long terme sont la consolidation de la position de l'Inde sur le marché international. Les acteurs principaux sont les investisseurs et les entreprises.",
-        "analyse_en": "The economic context of India is positive. The main stakes are growth and stability. The short-term consequences are the continuation of growth. The long-term prospects are the consolidation of India's position in the international market. The main actors are investors and companies.",
-        "analyse_zh": "印度的经济背景是积极的。主要影响是增长和稳定。短期后果是增长的继续。长期前景是印度在国际市场上的地位的巩固。主要参与者是投资者和企业。",
-        "categorie": "Économie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
-        "image": "https://img.etimg.com/thumb/msid-132191095,width-1200,height-630,imgsize-57422,overlay-etmarkets/articleshow.jpg",
-        "date": "2026-07-05",
-        "pays": "russie",
+        "id": "iran_101881",
+        "titre": "Iran et l'Indonésie",
+        "titre_en": "Iran and Indonesia",
+        "titre_zh": "伊朗和印度尼西亚",
+        "titre_original": "Indonesian lawmaker backs government's Khamenei funeral mission",
+        "resume": "L'Iran et l'Indonésie ont des relations diplomatiques. La décision de l'Indonésie d'envoyer une délégation aux funérailles de Khamenei est un geste diplomatique. Cela pourrait avoir des conséquences sur les relations internationales. L'Iran doit maintenant déterminer comment répondre à cette démarche.",
+        "resume_en": "Iran and Indonesia have diplomatic relations. Indonesia's decision to send a delegation to Khamenei's funeral is a diplomatic gesture. This could have consequences for international relations. Iran must now determine how to respond to this move. The decision will impact Iran's position on the global stage.",
+        "resume_zh": "伊朗和印度尼西亚有外交关系。印度尼西亚决定派遣代表团参加哈梅内伊的葬礼是一种外交姿态。这可能会对国际关系产生影响。伊朗现在必须确定如何应对这一举动。这个决定将影响伊朗在全球舞台上的地位。",
+        "analyse_detaillee": "L'Iran a historiquement entretenu des relations complexes avec les pays musulmans. La décision de l'Indonésie de participer aux funérailles de Khamenei est un signe de respect. La communauté internationale observe avec intérêt les développements dans la région. Les acteurs clés, tels que les États-Unis et l'Europe, joueront un rôle déterminant dans la réponse de l'Iran.",
+        "analyse_en": "Iran has historically had complex relations with Muslim countries. Indonesia's decision to participate in Khamenei's funeral is a sign of respect. The international community is watching developments in the region with interest. Key actors, such as the US and Europe, will play a decisive role in Iran's response. The outcome will depend on their ability to cooperate and allocate resources effectively.",
+        "analyse_zh": "伊朗与穆斯林国家的关系历史上一直很复杂。印度尼西亚决定参加哈梅内伊的葬礼是一种尊重的表现。国际社会正在关注该地区的发展。关键的行为者，如美国和欧洲，将在伊朗的回应中发挥决定性的作用。结果将取决于他们有效合作和分配资源的能力。",
+        "categorie": "Géopolitique",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/421747/indonesian-lawmaker-backs-governments-khamenei-funeral-mission",
+        "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/07/IMG-20260422-WA0155-1536x1536.jpeg",
+        "date": "2026-07-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché financier indien",
+            "label": "▲ Pétrole",
             "hausse": true
           },
           {
-            "label": "▲ Secteur des services",
-            "hausse": true
+            "label": "▼ Gaz",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché financier indien",
-            "secteur_en": "Indian financial market",
-            "secteur_zh": "印度金融市场",
-            "effet_fr": "La bourse indienne a augmenté en raison de la confiance des investisseurs dans la croissance économique.",
-            "effet_en": "The Indian stock market gained due to investor confidence in economic growth.",
-            "effet_zh": "印度股票市场上涨是因为投资者对经济增长的信心。",
+            "secteur_fr": "Pétrole",
+            "secteur_en": "Oil",
+            "secteur_zh": "石油",
+            "effet_fr": "La demande accrue de pétrole pour les besoins économiques devrait stimuler la production et les ventes dans le secteur.",
+            "effet_en": "The increased demand for oil for economic needs is expected to boost production and sales in the sector.",
+            "effet_zh": "经济需求的石油需求增加预计将促进该行业的生产和销售。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur des services",
-            "secteur_en": "Service sector",
-            "secteur_zh": "服务行业",
-            "effet_fr": "Le secteur des services en Inde devrait bénéficier de la croissance économique.",
-            "effet_en": "The service sector in India is expected to benefit from economic growth.",
-            "effet_zh": "印度的服务行业应该会受益于经济增长。",
-            "hausse": true
+            "secteur_fr": "Gaz",
+            "secteur_en": "Gas",
+            "secteur_zh": "天然气",
+            "effet_fr": "La demande accrue de gaz pour les besoins énergétiques devrait stimuler la production et les ventes dans le secteur.",
+            "effet_en": "The increased demand for gas for energy needs is expected to boost production and sales in the sector.",
+            "effet_zh": "能源需求的天然气需求增加预计将促进该行业的生产和销售。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-07-06T05:51:25.625586"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-08T07:19:00.874661"
+      },
       {
         "id": "iran_496461",
         "titre": "Vedanta Aluminium",
@@ -3611,56 +3661,6 @@
           }
         ],
         "created_at": "2026-07-06T06:12:53.538879"
-      },
-      {
-        "id": "iran_188654",
-        "titre": "La bourse indienne",
-        "titre_en": "Indian stock market",
-        "titre_zh": "印度股票市场",
-        "titre_original": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week",
-        "resume": "La bourse indienne a augmenté de 262 points. Les investisseurs sont optimistes quant à la croissance économique. Les résultats du premier trimestre seront publiés cette semaine.",
-        "resume_en": "The Indian stock market gained 262 points. Investors are optimistic about economic growth. The first-quarter results will be released this week.",
-        "resume_zh": "印度股票市场上涨262点。投资者对经济增长持乐观态度。本周将发布第一季度的业绩。",
-        "analyse_detaillee": "Le contexte économique de l'Inde est positif. Les enjeux principaux sont la croissance et la stabilité. Les conséquences à court terme sont la poursuite de la croissance. Les perspectives à long terme sont la consolidation de la position de l'Inde sur le marché international. Les acteurs principaux sont les investisseurs et les entreprises.",
-        "analyse_en": "The economic context of India is positive. The main stakes are growth and stability. The short-term consequences are the continuation of growth. The long-term prospects are the consolidation of India's position in the international market. The main actors are investors and companies.",
-        "analyse_zh": "印度的经济背景是积极的。主要影响是增长和稳定。短期后果是增长的继续。长期前景是印度在国际市场上的地位的巩固。主要参与者是投资者和企业。",
-        "categorie": "Économie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
-        "image": "https://img.etimg.com/thumb/msid-132191095,width-1200,height-630,imgsize-57422,overlay-etmarkets/articleshow.jpg",
-        "date": "2026-07-05",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché financier indien",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur des services",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché financier indien",
-            "secteur_en": "Indian financial market",
-            "secteur_zh": "印度金融市场",
-            "effet_fr": "La bourse indienne a augmenté en raison de la confiance des investisseurs dans la croissance économique.",
-            "effet_en": "The Indian stock market gained due to investor confidence in economic growth.",
-            "effet_zh": "印度股票市场上涨是因为投资者对经济增长的信心。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des services",
-            "secteur_en": "Service sector",
-            "secteur_zh": "服务行业",
-            "effet_fr": "Le secteur des services en Inde devrait bénéficier de la croissance économique.",
-            "effet_en": "The service sector in India is expected to benefit from economic growth.",
-            "effet_zh": "印度的服务行业应该会受益于经济增长。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-06T05:51:25.625593"
       }
     ]
   }
