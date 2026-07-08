@@ -1,7 +1,57 @@
 {
-  "last_updated": "08/07/2026 à 12h10",
+  "last_updated": "08/07/2026 à 15h04",
   "articles": {
     "monde": [
+      {
+        "id": "monde_873078",
+        "titre": "Prix du pétrole",
+        "titre_en": "Oil Price",
+        "titre_zh": "石油价格",
+        "titre_original": "Current price of oil as of July 7, 2026",
+        "resume": "Le prix du pétrole a un impact sur les coûts énergétiques et les prix des biens de consommation. Les variations de prix affectent l'économie mondiale. Les consommateurs sont touchés par les hausses de prix.",
+        "resume_en": "The oil price affects energy costs and consumer goods prices. Price changes impact the global economy. Consumers are affected by price increases. The oil market is volatile and subject to change.",
+        "resume_zh": "石油价格影响能源成本和消费品价格。价格变化影响全球经济。消费者受到价格上涨的影响。石油市场波动且易变。",
+        "analyse_detaillee": "Le contexte historique du prix du pétrole est marqué par des fluctuations constantes. Les enjeux principaux sont la stabilité économique et la sécurité énergétique. Les conséquences à court terme sont des hausses de prix et des perturbations économiques. Les perspectives à long terme sont une transition vers les énergies renouvelables. Les acteurs clés sont les pays producteurs de pétrole et les consommateurs.",
+        "analyse_en": "The historical context of oil prices is marked by constant fluctuations. The main stakes are economic stability and energy security. The short-term consequences are price increases and economic disruptions. The long-term prospects are a transition to renewable energy. The key actors are oil-producing countries and consumers.",
+        "analyse_zh": "石油价格的历史背景以不断波动为标志。主要影响是经济稳定和能源安全。短期后果是价格上涨和经济混乱。长期前景是向可再生能源转型。主要参与者是石油生产国和消费者。",
+        "categorie": "Géopolitique",
+        "source": "Fortune",
+        "url": "https://fortune.com/article/price-of-oil-07-07-2026/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-7.jpg?resize=1200,600",
+        "date": "2026-07-07",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Énergie",
+            "hausse": true
+          },
+          {
+            "label": "▼ Transport",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "L'impact du prix du pétrole sur le secteur de l'énergie est significatif, car il affecte les coûts de production et les prix des carburants.",
+            "effet_en": "The impact of oil prices on the energy sector is significant, as it affects production costs and fuel prices.",
+            "effet_zh": "石油价格对能源行业的影响显著，因为它影响生产成本和燃料价格。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Transport",
+            "secteur_en": "Transportation",
+            "secteur_zh": "交通",
+            "effet_fr": "Le secteur du transport est également affecté par les variations de prix du pétrole, car les coûts des carburants ont un impact sur les coûts de transport.",
+            "effet_en": "The transportation sector is also affected by oil price changes, as fuel costs impact transportation costs.",
+            "effet_zh": "石油价格的变化也影响交通行业，因为燃料成本影响运输成本。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T15:04:20.346606"
+      },
       {
         "id": "monde_816574",
         "titre": "Marché technologies emballage avancé",
@@ -406,6 +456,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_959102",
+        "titre": "Coupe du monde",
+        "titre_en": "World Cup",
+        "titre_zh": "世界杯",
+        "titre_original": "The World Cup is exposing the contradictions of national identity",
+        "resume": "La Coupe du monde expose les contradictions de l'identité nationale. Les équipes sont formées par des migrants et des diasporas. Les idées d'exclusion sont remises en question.",
+        "resume_en": "The World Cup exposes the contradictions of national identity. Teams are shaped by migration and diaspora. Exclusionary ideas are being challenged.",
+        "resume_zh": "世界杯揭示了国家身份的矛盾。球队由移民和侨民组成。排他性思想受到挑战。",
+        "analyse_detaillee": "Le contexte historique de la Coupe du monde est marqué par des débats sur l'identité nationale. Les enjeux principaux sont la représentation et l'inclusion. Les conséquences à court terme sont des discussions sur la diversité et l'égalité. Les perspectives à long terme sont une évolution vers une société plus inclusive.",
+        "analyse_en": "The historical context of the World Cup is marked by debates on national identity. The main stakes are representation and inclusion. The short-term consequences are discussions on diversity and equality. The long-term prospects are a shift towards a more inclusive society.",
+        "analyse_zh": "世界杯的历史背景以国家身份的辩论为标志。主要影响是代表性和包容性。短期后果是多样性和平等的讨论。长期前景是向更加包容的社会转变。",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/7/the-world-cup-is-exposing-the-contradictions-of-national-identity",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a4d050a1716-1783432458.jpg?resize=1920%2C1440",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Sport",
+            "hausse": true
+          },
+          {
+            "label": "▼ Culture",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sport",
+            "secteur_en": "Sports",
+            "secteur_zh": "体育",
+            "effet_fr": "La Coupe du monde a un impact significatif sur le secteur du sport, car elle influence les audiences et les revenus.",
+            "effet_en": "The World Cup has a significant impact on the sports sector, as it influences audiences and revenue.",
+            "effet_zh": "世界杯对体育行业有显著影响，因为它影响观众和收入。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Culture",
+            "secteur_en": "Culture",
+            "secteur_zh": "文化",
+            "effet_fr": "La Coupe du monde a également un impact sur le secteur de la culture, car elle reflète les valeurs et les identités des nations.",
+            "effet_en": "The World Cup also has an impact on the culture sector, as it reflects the values and identities of nations.",
+            "effet_zh": "世界杯也影响文化行业，因为它反映了国家的价值观和身份。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T15:04:20.346638"
+      },
       {
         "id": "usa_697502",
         "titre": "Cour suprême et Trump",
@@ -1355,59 +1455,59 @@
           }
         ],
         "created_at": "2026-07-06T17:31:33.129488"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_339873",
-        "titre": "Actualité aux USA",
-        "titre_en": "US News Update",
-        "titre_zh": "美国新闻",
-        "titre_original": "Update from LS on politics, films, etc",
-        "resume": "Un article sur les dernières actualités aux États-Unis. L'auteur a perdu ses contacts et demande à ses lecteurs de se manifester. Les sujets abordés incluent la politique et les films. L'article est une mise à jour générale sur la situation actuelle.",
-        "resume_en": "An article about the latest news in the US. The author lost his contacts and asks readers to reply. The topics covered include politics and films. The article is a general update on the current situation.",
-        "resume_zh": "一篇关于美国最新新闻的文章。作者失去了联系人，要求读者回复。所讨论的主题包括政治和电影。该文章是对当前情况的总体更新。",
-        "analyse_detaillee": "Le contexte historique de cet article est la situation actuelle aux États-Unis. Les enjeux principaux sont la politique et la culture. Les conséquences à court terme sont une mise à jour des informations. Les perspectives à long terme sont incertaines. Les acteurs principaux sont les médias et les lecteurs.",
-        "analyse_en": "The historical context of this article is the current situation in the US. The main stakes are politics and culture. The short-term consequences are an update of information. The long-term prospects are uncertain. The main actors are the media and readers.",
-        "analyse_zh": "本文的历史背景是美国当前的情况。主要影响是政治和文化。短期后果是信息更新。长期前景不确定。主要参与者是媒体和读者。",
+        "id": "chine_844031",
+        "titre": "Sommet Trump-Xi",
+        "titre_en": "Trump-Xi Summit",
+        "titre_zh": "特朗普-习近平峰会",
+        "titre_original": "Duckworth reaffirms U.S. commitment in wake of Trump-Xi summit",
+        "resume": "Le sénateur américain Tammy Duckworth a réaffirmé l'engagement des États-Unis envers Taïwan. Le sommet Trump-Xi a eu lieu récemment.",
+        "resume_en": "US Senator Tammy Duckworth reaffirmed the US commitment to Taiwan. The Trump-Xi summit took place recently.",
+        "resume_zh": "美国参议员塔米·达克沃斯重申了美国对台湾的承诺。特朗普-习近平峰会最近举行。",
+        "analyse_detaillee": "Le contexte historique du sommet Trump-Xi est marqué par des tensions entre les États-Unis et la Chine. Les enjeux principaux sont la sécurité et la coopération. Les conséquences à court terme sont des discussions sur les relations bilatérales. Les perspectives à long terme sont une évolution vers une relation plus complexe.",
+        "analyse_en": "The historical context of the Trump-Xi summit is marked by tensions between the US and China. The main stakes are security and cooperation. The short-term consequences are discussions on bilateral relations. The long-term prospects are a shift towards a more complex relationship.",
+        "analyse_zh": "特朗普-习近平峰会的历史背景以中美之间的紧张关系为标志。主要影响是安全和合作。短期后果是双边关系的讨论。长期前景是向更加复杂的关系转变。",
         "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4386747/posts",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-07-05",
-        "pays": "usa",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260707-cna01.htm",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-07-07",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des médias",
+            "label": "▲ Politique",
             "hausse": true
           },
           {
-            "label": "▼ Industrie du divertissement",
+            "label": "▼ Économie",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des médias",
-            "secteur_en": "Media Market",
-            "secteur_zh": "媒体市场",
-            "effet_fr": "L'article peut avoir un impact sur le marché des médias en termes de consommation d'information.",
-            "effet_en": "The article may have an impact on the media market in terms of information consumption.",
-            "effet_zh": "该文章可能会对媒体市场产生影响，特别是在信息消费方面。",
+            "secteur_fr": "Politique",
+            "secteur_en": "Politics",
+            "secteur_zh": "政治",
+            "effet_fr": "Le sommet Trump-Xi a un impact significatif sur le secteur de la politique, car il influence les relations internationales.",
+            "effet_en": "The Trump-Xi summit has a significant impact on the politics sector, as it influences international relations.",
+            "effet_zh": "特朗普-习近平峰会对政治行业有显著影响，因为它影响国际关系。",
             "hausse": true
           },
           {
-            "secteur_fr": "Industrie du divertissement",
-            "secteur_en": "Entertainment Industry",
-            "secteur_zh": "娱乐行业",
-            "effet_fr": "L'article peut également avoir un impact sur l'industrie du divertissement en termes de contenu.",
-            "effet_en": "The article may also have an impact on the entertainment industry in terms of content.",
-            "effet_zh": "该文章可能会对娱乐行业产生影响，特别是在内容方面。",
+            "secteur_fr": "Économie",
+            "secteur_en": "Economy",
+            "secteur_zh": "经济",
+            "effet_fr": "Le sommet Trump-Xi a également un impact sur le secteur de l'économie, car il reflète les intérêts économiques des nations.",
+            "effet_en": "The Trump-Xi summit also has an impact on the economy sector, as it reflects the economic interests of nations.",
+            "effet_zh": "特朗普-习近平峰会也影响经济行业，因为它反映了国家的经济利益。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-06T14:48:15.327624"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-07-08T15:04:20.346648"
+      },
       {
         "id": "chine_758172",
         "titre": "Chine se concentre sur l'IA",
@@ -1760,6 +1860,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_465957",
+        "titre": "Sommet de l'OTAN",
+        "titre_en": "NATO Summit",
+        "titre_zh": "北约峰会",
+        "titre_original": "Six Key Issues to Watch at NATO’s Ankara Summit",
+        "resume": "Les dirigeants de l'OTAN se réunissent à Ankara pour discuter de la sécurité et de la coopération. Le sommet a lieu dans l'ombre de la guerre en Iran.",
+        "resume_en": "NATO leaders meet in Ankara to discuss security and cooperation. The summit takes place in the shadow of the Iran war.",
+        "resume_zh": "北约领导人在安卡拉召开会议讨论安全和合作。峰会在伊朗战争的阴影下举行。",
+        "analyse_detaillee": "Le contexte historique du sommet de l'OTAN est marqué par des tensions entre les États-Unis et la Russie. Les enjeux principaux sont la sécurité et la défense. Les conséquences à court terme sont des discussions sur les relations entre l'OTAN et la Russie. Les perspectives à long terme sont une évolution vers une relation plus complexe.",
+        "analyse_en": "The historical context of the NATO summit is marked by tensions between the US and Russia. The main stakes are security and defense. The short-term consequences are discussions on NATO-Russia relations. The long-term prospects are a shift towards a more complex relationship.",
+        "analyse_zh": "北约峰会的历史背景以美俄之间的紧张关系为标志。主要影响是安全和防御。短期后果是北约-俄罗斯关系的讨论。长期前景是向更加复杂的关系转变。",
+        "categorie": "Géopolitique",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Geopolitics/Europe/Six-Key-Issues-to-Watch-at-NATOs-Ankara-Summit.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_e2oqpzur5z.jpg",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Sécurité",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "防御",
+            "effet_fr": "Le sommet de l'OTAN a un impact significatif sur le secteur de la défense, car il influence les relations entre les pays membres.",
+            "effet_en": "The NATO summit has a significant impact on the defense sector, as it influences the relationships between member countries.",
+            "effet_zh": "北约峰会对防御行业有显著影响，因为它影响成员国之间的关系。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Sécurité",
+            "secteur_en": "Security",
+            "secteur_zh": "安全",
+            "effet_fr": "Le sommet de l'OTAN a également un impact sur le secteur de la sécurité, car il reflète les intérêts de sécurité des nations.",
+            "effet_en": "The NATO summit also has an impact on the security sector, as it reflects the security interests of nations.",
+            "effet_zh": "北约峰会也影响安全行业，因为它反映了国家的安全利益。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T15:04:20.346655"
+      },
       {
         "id": "russie_657368",
         "titre": "OTAN contre Poutine",
@@ -2709,59 +2859,59 @@
           }
         ],
         "created_at": "2026-07-06T17:31:33.129514"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_184778",
-        "titre": "L'UE se tourne vers la guerre",
-        "titre_en": "EU Shifts to War",
-        "titre_zh": "欧盟转向战争",
-        "titre_original": "EU shifts from trade to war – ex-Austrian foreign minister",
-        "resume": "L'ancienne ministre autrichienne des Affaires étrangères, Karin Kneissl, a déclaré que l'UE a remplacé son agenda commercial traditionnel par des priorités militaires et géopolitiques. Cela pourrait avoir des conséquences importantes pour la région.",
-        "resume_en": "Former Austrian Foreign Minister Karin Kneissl said the EU has replaced its traditional trade agenda with military and geopolitical priorities. This could have significant consequences for the region.",
-        "resume_zh": "前奥地利外交部长卡琳·克奈斯尔表示，欧盟已经用军事和地缘政治优先事项取代了传统的贸易议程。这可能会对该地区产生重大影响。",
-        "analyse_detaillee": "Le contexte historique de cet article est la situation actuelle entre l'UE et la Russie. Les enjeux principaux sont la géopolitique et la sécurité. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont une possible instabilité régionale. Les acteurs principaux sont l'UE et la Russie.",
-        "analyse_en": "The historical context of this article is the current situation between the EU and Russia. The main stakes are geopolitics and security. The short-term consequences are an increase in tensions. The long-term prospects are possible regional instability. The main actors are the EU and Russia.",
-        "analyse_zh": "本文的历史背景是欧盟和俄罗斯当前的情况。主要影响是地缘政治和安全。短期后果是紧张局势加剧。长期前景是可能的区域不稳定。主要参与者是欧盟和俄罗斯。",
+        "id": "iran_737499",
+        "titre": "Propagande israélienne",
+        "titre_en": "Israeli Propaganda",
+        "titre_zh": "以色列宣传",
+        "titre_original": "Israel Could Be Propagandizing Christians At A Church Near You. Here’s How",
+        "resume": "Israël mène une campagne de propagande auprès des chrétiens. Le ministère des Affaires étrangères israélien est à l'origine de cette campagne.",
+        "resume_en": "Israel is running a propaganda campaign targeting Christians. The Israeli Ministry of Foreign Affairs is behind this campaign.",
+        "resume_zh": "以色列针对基督徒开展宣传活动。以色列外交部是这一活动的幕后推手。",
+        "analyse_detaillee": "Le contexte historique de la propagande israélienne est marqué par des tensions entre Israël et les pays arabes. Les enjeux principaux sont la représentation et l'influence. Les conséquences à court terme sont des discussions sur les relations entre Israël et les pays arabes. Les perspectives à long terme sont une évolution vers une relation plus complexe.",
+        "analyse_en": "The historical context of Israeli propaganda is marked by tensions between Israel and Arab countries. The main stakes are representation and influence. The short-term consequences are discussions on Israel-Arab relations. The long-term prospects are a shift towards a more complex relationship.",
+        "analyse_zh": "以色列宣传的历史背景以以色列和阿拉伯国家之间的紧张关系为标志。主要影响是代表性和影响力。短期后果是以色列-阿拉伯关系的讨论。长期前景是向更加复杂的关系转变。",
         "categorie": "Géopolitique",
-        "source": "RT",
-        "url": "https://www.rt.com/news/642595-karin-kneissl-eu-trade-war/",
-        "image": "https://mf.b37mrtl.ru/files/2026.07/article/6a4a53e62030277d7d4f388d.jpg",
-        "date": "2026-07-05",
-        "pays": "russie",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/07/07/israel-propaganda-christian-churches-us-federal-records/",
+        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/06/GettyImages-1222059764-scaled-e1782242731436.jpg",
+        "date": "2026-07-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché de la défense",
+            "label": "▲ Médias",
             "hausse": true
           },
           {
-            "label": "▼ Industrie énergétique",
+            "label": "▼ Religion",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché de la défense",
-            "secteur_en": "Defense Market",
-            "secteur_zh": "国防市场",
-            "effet_fr": "L'article peut avoir un impact sur le marché de la défense en termes de dépenses militaires.",
-            "effet_en": "The article may have an impact on the defense market in terms of military spending.",
-            "effet_zh": "该文章可能会对国防市场产生影响，特别是在军费方面。",
+            "secteur_fr": "Médias",
+            "secteur_en": "Media",
+            "secteur_zh": "媒体",
+            "effet_fr": "La propagande israélienne a un impact significatif sur le secteur des médias, car elle influence les opinions publiques.",
+            "effet_en": "Israeli propaganda has a significant impact on the media sector, as it influences public opinion.",
+            "effet_zh": "以色列宣传对媒体行业有显著影响，因为它影响公众舆论。",
             "hausse": true
           },
           {
-            "secteur_fr": "Industrie énergétique",
-            "secteur_en": "Energy Industry",
-            "secteur_zh": "能源行业",
-            "effet_fr": "L'article peut également avoir un impact sur l'industrie énergétique en termes de sécurité énergétique.",
-            "effet_en": "The article may also have an impact on the energy industry in terms of energy security.",
-            "effet_zh": "该文章可能会对能源行业产生影响，特别是在能源安全方面。",
+            "secteur_fr": "Religion",
+            "secteur_en": "Religion",
+            "secteur_zh": "宗教",
+            "effet_fr": "La propagande israélienne a également un impact sur le secteur de la religion, car elle reflète les intérêts religieux des nations.",
+            "effet_en": "Israeli propaganda also has an impact on the religion sector, as it reflects the religious interests of nations.",
+            "effet_zh": "以色列宣传也影响宗教行业，因为它反映了国家的宗教利益。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-06T14:48:15.327652"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-08T15:04:20.346662"
+      },
       {
         "id": "iran_657368",
         "titre": "OTAN contre Poutine",
@@ -3711,56 +3861,6 @@
           }
         ],
         "created_at": "2026-07-06T17:31:33.129522"
-      },
-      {
-        "id": "iran_304563",
-        "titre": "Les Iraniens prient pour Khamenei",
-        "titre_en": "Iranians Pray for Khamenei",
-        "titre_zh": "伊朗人为哈梅内伊祈祷",
-        "titre_original": "Iranians pray for slain supreme leader Khamenei in son’s absence",
-        "resume": "Les Iraniens se sont réunis pour les funérailles du Guide suprême Ali Khamenei. Son fils Mojtaba était absent. Des milliers de personnes ont assisté à la cérémonie et demandent justice.",
-        "resume_en": "Iranians gathered for the funeral of Supreme Leader Ali Khamenei. His son Mojtaba was absent. Thousands attended the ceremony and demanded justice.",
-        "resume_zh": "伊朗人聚集在一起参加最高领袖阿里·哈梅内伊的葬礼。他的儿子莫赫塔巴不在场。成千上万的人参加了仪式并要求正义。",
-        "analyse_detaillee": "Le contexte historique de cet article est la situation actuelle en Iran. Les enjeux principaux sont la politique et la religion. Les conséquences à court terme sont une possible instabilité politique. Les perspectives à long terme sont incertaines. Les acteurs principaux sont le gouvernement iranien et les citoyens.",
-        "analyse_en": "The historical context of this article is the current situation in Iran. The main stakes are politics and religion. The short-term consequences are possible political instability. The long-term prospects are uncertain. The main actors are the Iranian government and citizens.",
-        "analyse_zh": "本文的历史背景是伊朗当前的情况。主要影响是政治和宗教。短期后果是可能的政治不稳定。长期前景不确定。主要参与者是伊朗政府和公民。",
-        "categorie": "Géopolitique",
-        "source": "The Punch",
-        "url": "https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/",
-        "image": "https://punchng.com/wp-content/uploads/2026/06/4JRUA0M_AFP__20260312__MEI_IRN_Sy_TMKSL_20180622_007__v1__HighRes__776467826_jpg-1050x630.webp",
-        "date": "2026-07-05",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier",
-            "hausse": false
-          },
-          {
-            "label": "▲ Industrie financière",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil Market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "L'article peut avoir un impact sur le marché pétrolier en termes de stabilité régionale.",
-            "effet_en": "The article may have an impact on the oil market in terms of regional stability.",
-            "effet_zh": "该文章可能会对石油市场产生影响，特别是在区域稳定方面。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Industrie financière",
-            "secteur_en": "Financial Industry",
-            "secteur_zh": "金融行业",
-            "effet_fr": "L'article peut également avoir un impact sur l'industrie financière en termes de confiance des investisseurs.",
-            "effet_en": "The article may also have an impact on the financial industry in terms of investor confidence.",
-            "effet_zh": "该文章可能会对金融行业产生影响，特别是在投资者信心方面。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-06T14:48:15.327661"
       }
     ]
   }
