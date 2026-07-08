@@ -1,5 +1,5 @@
 {
-  "last_updated": "08/07/2026 à 01h16",
+  "last_updated": "08/07/2026 à 04h53",
   "articles": {
     "monde": [
       {
@@ -306,6 +306,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_411417",
+        "titre": "FIFA contre Trump",
+        "titre_en": "FIFA vs Trump",
+        "titre_zh": "国际足联反对特朗普",
+        "titre_original": "FIFA chief Gianni Infantino breaks rank from Trump to defend 'suspect' referee slammed by president... as he faces calls to RESIGN from his role",
+        "resume": "Le président de la FIFA, Gianni Infantino, défend l'arbitre attaqué par Trump. Cet arbitre a été critiqué pour ses décisions lors d'un match. La FIFA soutient ses arbitres. ",
+        "resume_en": "FIFA President Gianni Infantino defends the referee attacked by Trump. This referee was criticized for his decisions during a match. FIFA supports its referees. ",
+        "resume_zh": "国际足联主席吉安尼·因凡蒂诺为特朗普攻击的裁判辩护。该裁判因其在比赛中的决定而受到批评。国际足联支持其裁判。 ",
+        "analyse_detaillee": "Le contexte historique de cette affaire est lié aux relations tendues entre la FIFA et les États-Unis. Les enjeux principaux sont la crédibilité de la FIFA et la réputation de l'arbitre. Les conséquences à court terme sont une augmentation des tensions entre la FIFA et les États-Unis. Les perspectives à long terme sont une possible réforme de la FIFA. Les acteurs clés sont la FIFA, les États-Unis et l'arbitre.",
+        "analyse_en": "The historical context of this case is related to the tense relations between FIFA and the United States. The main stakes are the credibility of FIFA and the reputation of the referee. The short-term consequences are an increase in tensions between FIFA and the United States. The long-term prospects are a possible reform of FIFA. The key actors are FIFA, the United States, and the referee.",
+        "analyse_zh": "这一事件的历史背景与国际足联和美国之间的紧张关系有关。主要影响是国际足联的可信度和裁判的声誉。短期后果是国际足联和美国之间的紧张局势加剧。长期前景是国际足联可能进行改革。主要参与者是国际足联、美国和裁判。 ",
+        "categorie": "Géopolitique",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/sport/football/article-15958223/fifa-gianni-infantino-trump-referee.html",
+        "image": "https://i.dailymail.com/1s/2026/07/07/05/109843905-0-image-m-19_1783398680440.jpg",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Sport",
+            "hausse": false
+          },
+          {
+            "label": "▼ Politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sport",
+            "secteur_en": "Sports",
+            "secteur_zh": "体育",
+            "effet_fr": "L'impact sur le sport est une augmentation des tensions entre les instances dirigeantes et les arbitres.",
+            "effet_en": "The impact on sports is an increase in tensions between governing bodies and referees.",
+            "effet_zh": "对体育的影响是管理机构和裁判之间的紧张局势加剧。 ",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Politique",
+            "secteur_en": "Politics",
+            "secteur_zh": "政治",
+            "effet_fr": "L'impact sur la politique est une détérioration des relations entre les États-Unis et la FIFA.",
+            "effet_en": "The impact on politics is a deterioration of relations between the United States and FIFA.",
+            "effet_zh": "对政治的影响是美国和国际足联之间的关系恶化。 ",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T04:53:58.221038"
+      },
       {
         "id": "usa_151584",
         "titre": "Trump stoppe les demandes de carte verte",
@@ -1255,56 +1305,6 @@
           }
         ],
         "created_at": "2026-07-06T05:51:25.625550"
-      },
-      {
-        "id": "usa_001",
-        "titre": "La Fed maintient ses taux face à une inflation persistante",
-        "titre_en": "Fed holds rates amid persistent inflation",
-        "titre_zh": "面对持续通胀，美联储维持利率不变",
-        "titre_original": "Federal Reserve holds interest rates amid persistent inflation concerns",
-        "resume": "La Réserve fédérale américaine maintient ses taux directeurs inchangés lors de sa dernière réunion, signalant une approche prudente face à une inflation encore supérieure à son objectif de 2%. Les marchés obligataires réagissent positivement à cette décision. L'économie américaine montre des signes de résistance malgré le resserrement monétaire prolongé. Les prévisions de croissance sont révisées légèrement à la baisse pour le second semestre.",
-        "resume_en": "The US Federal Reserve keeps its benchmark rates unchanged at its latest meeting, signaling a cautious approach as inflation remains above its 2% target. Bond markets react positively to this decision. The US economy shows signs of resilience despite prolonged monetary tightening. Growth forecasts are revised slightly downward for the second half.",
-        "resume_zh": "美国联邦储备委员会在最新会议上维持基准利率不变，表明在通胀仍高于2%目标的情况下采取谨慎态度。债券市场对这一决定反应积极。尽管货币紧缩持续，美国经济仍显示出韧性迹象。下半年增长预测小幅下调。",
-        "analyse_detaillee": "La décision de la Fed de maintenir ses taux s'inscrit dans une stratégie de prudence face à une inflation structurellement difficile à réduire. Le marché de l'emploi reste tendu, avec un taux de chômage historiquement bas qui alimente les pressions salariales. La consommation des ménages, moteur principal de l'économie américaine, montre des signes d'essoufflement. Le secteur technologique continue d'afficher des valorisations élevées malgré des conditions financières restrictives. Les banques régionales restent sous surveillance après les turbulences de 2023. La politique budgétaire expansionniste de l'administration complique la tâche de la Fed. Les marchés anticipent une première baisse de taux au quatrième trimestre 2026.",
-        "analyse_en": "The Fed's decision to hold rates is part of a strategy of caution in the face of structurally difficult-to-reduce inflation. The labor market remains tight, with a historically low unemployment rate fueling wage pressures. Consumer spending, the main engine of the US economy, shows signs of slowing. The technology sector continues to show high valuations despite restrictive financial conditions. Regional banks remain under scrutiny following the 2023 turmoil. The administration's expansionary fiscal policy complicates the Fed's task. Markets anticipate a first rate cut in the fourth quarter of 2026.",
-        "analyse_zh": "美联储维持利率不变的决定是在通胀结构性难以降低的情况下谨慎策略的一部分。劳动力市场仍然紧张，历史低位的失业率助长了工资压力。消费者支出作为美国经济的主要引擎，显示出放缓迹象。尽管金融条件收紧，科技行业仍持续显示高估值。地区银行在2023年动荡后仍受到审查。政府的扩张性财政政策使美联储的工作更加复杂。市场预计2026年第四季度将首次降息。",
-        "categorie": "Économie",
-        "source": "Wall Street Journal",
-        "url": "https://wsj.com",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-06-29",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Obligations US",
-            "hausse": true
-          },
-          {
-            "label": "▼ S&P 500",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Obligations d'État américaines",
-            "secteur_en": "US Treasury bonds",
-            "secteur_zh": "美国国债",
-            "effet_fr": "Le maintien des taux stabilise les rendements obligataires.",
-            "effet_en": "Holding rates stabilizes bond yields.",
-            "effet_zh": "维持利率稳定了债券收益率。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "S&P 500",
-            "secteur_en": "S&P 500",
-            "secteur_zh": "标普500",
-            "effet_fr": "L'incertitude sur les taux pèse sur les valorisations boursières.",
-            "effet_en": "Rate uncertainty weighs on stock valuations.",
-            "effet_zh": "利率不确定性压制股票估值。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-06-29T17:00:00"
       }
     ],
     "chine": [
@@ -1660,6 +1660,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_492874",
+        "titre": "Attaque ukrainienne",
+        "titre_en": "Ukrainian attack",
+        "titre_zh": "乌克兰袭击",
+        "titre_original": "Ukrainian drones flew all the way to Siberia to strike Russia's largest oil refinery",
+        "resume": "L'Ukraine a lancé une attaque contre la Russie, visant la plus grande raffinerie de pétrole du pays. Cette attaque a eu lieu à une distance de 1 700 miles. ",
+        "resume_en": "Ukraine launched an attack on Russia, targeting the country's largest oil refinery. This attack took place at a distance of 1,700 miles.",
+        "resume_zh": "乌克兰对俄罗斯发动袭击，目标是该国最大的石油炼厂。该袭击发生在1,700英里的距离。 ",
+        "analyse_detaillee": "Le contexte historique de cette affaire est lié au conflit entre l'Ukraine et la Russie. Les enjeux principaux sont la sécurité énergétique de la Russie et la capacité de l'Ukraine à lancer des attaques à longue distance. Les conséquences à court terme sont une augmentation des tensions entre l'Ukraine et la Russie. Les perspectives à long terme sont une possible escalade du conflit. Les acteurs clés sont l'Ukraine, la Russie et les pays occidentaux.",
+        "analyse_en": "The historical context of this case is related to the conflict between Ukraine and Russia. The main stakes are Russia's energy security and Ukraine's ability to launch long-range attacks. The short-term consequences are an increase in tensions between Ukraine and Russia. The long-term prospects are a possible escalation of the conflict. The key actors are Ukraine, Russia, and Western countries.",
+        "analyse_zh": "这一事件的历史背景与乌克兰和俄罗斯之间的冲突有关。主要影响是俄罗斯的能源安全和乌克兰发动远程攻击的能力。短期后果是乌克兰和俄罗斯之间的紧张局势加剧。长期前景是冲突可能升级。主要参与者是乌克兰、俄罗斯和西方国家。 ",
+        "categorie": "Géopolitique",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/ukraine-drones-omsk-refinery-attack-long-range-siberia-fire-point-2026-7#article",
+        "image": "https://i.insider.com/6a4c7cd35dc133dbf310d70c?width=1200&format=jpeg",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Énergie",
+            "hausse": false
+          },
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "L'impact sur l'énergie est une augmentation des risques pour la sécurité énergétique de la Russie.",
+            "effet_en": "The impact on energy is an increase in risks for Russia's energy security.",
+            "effet_zh": "对能源的影响是俄罗斯能源安全风险的增加。 ",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'impact sur la défense est une augmentation des dépenses militaires de la Russie.",
+            "effet_en": "The impact on defense is an increase in Russia's military spending.",
+            "effet_zh": "对国防的影响是俄罗斯军费开支的增加。 ",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-08T04:53:58.221065"
+      },
       {
         "id": "russie_543711",
         "titre": "Allemagne : 800 milliards pour le réarmement",
@@ -2609,59 +2659,59 @@
           }
         ],
         "created_at": "2026-07-06T05:51:25.625586"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_001",
-        "titre": "Le conflit en Ukraine : bilan et perspectives après deux ans",
-        "titre_en": "The conflict in Ukraine: assessment and prospects after two years",
-        "titre_zh": "乌克兰冲突：两年后的评估与展望",
-        "titre_original": "Ukraine conflict assessment and prospects after two years of war",
-        "resume": "Le conflit ukrainien entre dans une nouvelle phase caractérisée par une ligne de front stabilisée et des négociations diplomatiques prudentes. Les sanctions occidentales continuent de peser sur l'économie russe malgré une adaptation progressive. L'aide militaire occidentale à l'Ukraine se maintient mais fait face à des contraintes budgétaires croissantes. Les marchés énergétiques européens ont réussi leur diversification loin du gaz russe.",
-        "resume_en": "The Ukrainian conflict is entering a new phase characterized by a stabilized front line and cautious diplomatic negotiations. Western sanctions continue to weigh on the Russian economy despite gradual adaptation. Western military aid to Ukraine is maintained but faces increasing budgetary constraints. European energy markets have successfully diversified away from Russian gas.",
-        "resume_zh": "乌克兰冲突进入新阶段，特点是前线稳定和谨慎的外交谈判。尽管逐渐适应，西方制裁继续压制俄罗斯经济。对乌克兰的西方军事援助得以维持，但面临日益增加的预算限制。欧洲能源市场已成功实现多元化，摆脱对俄罗斯天然气的依赖。",
-        "analyse_detaillee": "Le conflit ukrainien a profondément reconfiguré l'architecture de sécurité européenne et les flux énergétiques mondiaux. La Russie a réussi à adapter son économie aux sanctions grâce à la réorientation de ses exportations vers l'Asie. L'OTAN a renforcé sa présence sur le flanc est de l'Europe, avec des investissements militaires sans précédent. L'Ukraine, malgré les destructions, maintient une économie fonctionnelle grâce au soutien occidental. Les négociations diplomatiques restent au point mort, aucune des deux parties n'étant prête à des concessions majeures. Le coût humain et économique continue de s'alourdir pour les deux nations. La reconstruction de l'Ukraine représentera un défi et une opportunité sans précédent pour l'Europe.",
-        "analyse_en": "The Ukrainian conflict has profoundly reconfigured European security architecture and global energy flows. Russia has managed to adapt its economy to sanctions through the reorientation of its exports to Asia. NATO has strengthened its presence on Europe's eastern flank, with unprecedented military investments. Ukraine, despite the destruction, maintains a functioning economy thanks to Western support. Diplomatic negotiations remain at a standstill, with neither side ready for major concessions. The human and economic cost continues to mount for both nations. Ukraine's reconstruction will represent an unprecedented challenge and opportunity for Europe.",
-        "analyse_zh": "乌克兰冲突深刻重塑了欧洲安全架构和全球能源流动。俄罗斯通过将出口重新定向至亚洲，成功调整经济适应制裁。北约加强了在欧洲东翼的存在，进行了前所未有的军事投资。尽管遭受破坏，乌克兰凭借西方支持维持着运转的经济。外交谈判陷入僵局，双方都没有准备好做出重大让步。两国的人员和经济代价继续加重。乌克兰的重建将代表欧洲前所未有的挑战和机遇。",
-        "categorie": "Géopolitique",
-        "source": "BBC News",
-        "url": "https://bbc.com",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-06-29",
-        "pays": "russie",
+        "id": "iran_496461",
+        "titre": "Vedanta Aluminium",
+        "titre_en": "Vedanta Aluminium",
+        "titre_zh": "维丹塔铝业",
+        "titre_original": "Vedanta Aluminium wipes off Rs 25,000 cr worth investor wealth in under a month. Time to buy?",
+        "resume": "Les actions de Vedanta Aluminium ont chuté de manière significative depuis leur introduction en bourse. Cette baisse a entraîné une perte importante de richesse pour les investisseurs. ",
+        "resume_en": "Vedanta Aluminium's shares have fallen significantly since their listing. This decline has resulted in a substantial loss of wealth for investors.",
+        "resume_zh": "维丹塔铝业的股票自上市以来大幅下跌。这一下跌导致投资者遭受了巨大的财富损失。 ",
+        "analyse_detaillee": "Le contexte historique de cette affaire est lié à la situation économique de l'Inde. Les enjeux principaux sont la confiance des investisseurs et la capacité de Vedanta Aluminium à se remettre de cette baisse. Les conséquences à court terme sont une perte de confiance des investisseurs. Les perspectives à long terme sont une possible reprise de la croissance de Vedanta Aluminium. Les acteurs clés sont Vedanta Aluminium, les investisseurs et le gouvernement indien.",
+        "analyse_en": "The historical context of this case is related to India's economic situation. The main stakes are investor confidence and Vedanta Aluminium's ability to recover from this decline. The short-term consequences are a loss of investor confidence. The long-term prospects are a possible recovery of Vedanta Aluminium's growth. The key actors are Vedanta Aluminium, investors, and the Indian government.",
+        "analyse_zh": "这一事件的历史背景与印度的经济形势有关。主要影响是投资者信心和维丹塔铝业从这一下跌中恢复的能力。短期后果是投资者信心的丧失。长期前景是维丹塔铝业可能恢复增长。主要参与者是维丹塔铝业、投资者和印度政府。 ",
+        "categorie": "Économie",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-wipes-off-rs-25000-cr-worth-investor-wealth-in-under-a-month-time-to-buy/articleshow/132230375.cms",
+        "image": "https://img.etimg.com/thumb/msid-132230402,width-1200,height-630,imgsize-2604297,overlay-etmarkets/articleshow.jpg",
+        "date": "2026-07-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Défense européenne",
-            "hausse": true
+            "label": "▼ Métallurgie",
+            "hausse": false
           },
           {
-            "label": "▼ Rouble russe",
+            "label": "▼ Bourse",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Industries de défense européennes",
-            "secteur_en": "European defense industries",
-            "secteur_zh": "欧洲国防工业",
-            "effet_fr": "La guerre stimule les budgets de défense et les commandes militaires.",
-            "effet_en": "War stimulates defense budgets and military orders.",
-            "effet_zh": "战争刺激国防预算和军事订单。",
-            "hausse": true
+            "secteur_fr": "Métallurgie",
+            "secteur_en": "Metallurgy",
+            "secteur_zh": "冶金",
+            "effet_fr": "L'impact sur la métallurgie est une baisse de la production d'aluminium.",
+            "effet_en": "The impact on metallurgy is a decline in aluminum production.",
+            "effet_zh": "对冶金的影响是铝生产的下降。 ",
+            "hausse": false
           },
           {
-            "secteur_fr": "Rouble russe",
-            "secteur_en": "Russian ruble",
-            "secteur_zh": "俄罗斯卢布",
-            "effet_fr": "Les sanctions occidentales maintiennent la pression sur la devise russe.",
-            "effet_en": "Western sanctions maintain pressure on the Russian currency.",
-            "effet_zh": "西方制裁维持对俄罗斯货币的压力。",
+            "secteur_fr": "Bourse",
+            "secteur_en": "Stock market",
+            "secteur_zh": "股票市场",
+            "effet_fr": "L'impact sur la bourse est une perte de confiance des investisseurs.",
+            "effet_en": "The impact on the stock market is a loss of investor confidence.",
+            "effet_zh": "对股票市场的影响是投资者信心的丧失。 ",
             "hausse": false
           }
         ],
-        "created_at": "2026-06-29T15:00:00"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-08T04:53:58.221073"
+      },
       {
         "id": "iran_465384",
         "titre": "Le dollar US en hausse",
@@ -3611,56 +3661,6 @@
           }
         ],
         "created_at": "2026-07-06T05:51:25.625593"
-      },
-      {
-        "id": "iran_001",
-        "titre": "Négociations nucléaires iraniennes : une fenêtre diplomatique fragile",
-        "titre_en": "Iranian nuclear negotiations: a fragile diplomatic window",
-        "titre_zh": "伊朗核谈判：脆弱的外交窗口",
-        "titre_original": "Iran nuclear negotiations open fragile diplomatic window",
-        "resume": "Les négociations sur le programme nucléaire iranien reprennent sous l'égide de médiateurs européens dans un contexte de tensions régionales persistantes. Téhéran maintient ses exigences sur la levée des sanctions économiques. Washington cherche à trouver un équilibre entre pression et dialogue. Les marchés pétroliers restent attentifs à l'évolution de ce dossier crucial.",
-        "resume_en": "Negotiations on the Iranian nuclear program resume under the auspices of European mediators amid persistent regional tensions. Tehran maintains its demands for the lifting of economic sanctions. Washington seeks to find a balance between pressure and dialogue. Oil markets remain attentive to developments in this crucial issue.",
-        "resume_zh": "在持续的地区紧张局势中，在欧洲调解人的主持下，关于伊朗核计划的谈判重新启动。德黑兰维持其解除经济制裁的要求。华盛顿寻求在压力和对话之间找到平衡。石油市场密切关注这一关键问题的进展。",
-        "analyse_detaillee": "Le dossier nucléaire iranien reste l'un des points de friction les plus importants de la géopolitique mondiale. L'Iran a considérablement avancé dans son enrichissement d'uranium, se rapprochant du seuil nécessaire à la fabrication d'une arme. Les sanctions économiques ont sévèrement affecté l'économie iranienne mais n'ont pas modifié les calculs stratégiques du régime. Israël considère le programme nucléaire iranien comme une menace existentielle et se réserve le droit d'agir militairement. Les pays du Golfe, notamment l'Arabie Saoudite, suivent ce dossier avec une attention particulière. Un accord permettrait une réintégration progressive de l'Iran dans les marchés pétroliers mondiaux. L'échec des négociations risque d'accélérer la prolifération nucléaire régionale.",
-        "analyse_en": "The Iranian nuclear file remains one of the most important points of friction in global geopolitics. Iran has made considerable progress in its uranium enrichment, approaching the threshold necessary for weapon production. Economic sanctions have severely affected the Iranian economy but have not changed the regime's strategic calculations. Israel considers the Iranian nuclear program an existential threat and reserves the right to act militarily. Gulf states, notably Saudi Arabia, follow this issue with particular attention. An agreement would allow Iran's gradual reintegration into global oil markets. Failure of negotiations risks accelerating regional nuclear proliferation.",
-        "analyse_zh": "伊朗核问题仍是全球地缘政治中最重要的摩擦点之一。伊朗在铀浓缩方面取得了相当大的进展，正在接近制造武器所需的门槛。经济制裁严重影响了伊朗经济，但未能改变政权的战略算计。以色列认为伊朗核计划是生存威胁，保留采取军事行动的权利。海湾国家，尤其是沙特阿拉伯，特别关注这一问题。协议将允许伊朗逐步重新融入全球石油市场。谈判失败可能加速地区核扩散。",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera",
-        "url": "https://aljazeera.com",
-        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
-        "date": "2026-06-29",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Pétrole Brent",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marchés émergents",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Pétrole Brent",
-            "secteur_en": "Brent Crude Oil",
-            "secteur_zh": "布伦特原油",
-            "effet_fr": "L'incertitude sur l'Iran maintient une prime de risque élevée sur le pétrole.",
-            "effet_en": "Uncertainty over Iran maintains a high risk premium on oil.",
-            "effet_zh": "对伊朗的不确定性维持石油高风险溢价。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marchés émergents du Moyen-Orient",
-            "secteur_en": "Middle East emerging markets",
-            "secteur_zh": "中东新兴市场",
-            "effet_fr": "Les tensions régionales freinent les investissements étrangers.",
-            "effet_en": "Regional tensions restrain foreign investment.",
-            "effet_zh": "地区紧张局势抑制外国投资。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-06-29T14:00:00"
       }
     ]
   }
