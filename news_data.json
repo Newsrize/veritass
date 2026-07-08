@@ -1,5 +1,5 @@
 {
-  "last_updated": "08/07/2026 à 21h55",
+  "last_updated": "08/07/2026 à 22h51",
   "articles": {
     "monde": [
       {
@@ -656,6 +656,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_774975",
+        "titre": "Démocrates et Graham Platner",
+        "titre_en": "Democrats and Graham Platner",
+        "titre_zh": "民主党和格雷厄姆·普拉特纳",
+        "titre_original": "What could Democrats have done differently about Graham Platner?",
+        "resume": "Les démocrates ont rencontré Graham Platner pour discuter de son passé. Les démocrates ont des inquiétudes sur son passé. Graham Platner tente de rassurer les démocrates.",
+        "resume_en": "Democrats met with Graham Platner to discuss his past. Democrats have concerns about his past. Graham Platner is trying to reassure Democrats.",
+        "resume_zh": "民主党人会见格雷厄姆·普拉特纳讨论他的过去。民主党人对他的过去有担忧。格雷厄姆·普拉特纳试图让民主党人放心。",
+        "analyse_detaillee": "Le contexte historique est celui des élections américaines. Les enjeux principaux sont la crédibilité des démocrates. Les conséquences à court terme sont une perte de confiance. Les perspectives à long terme sont incertaines. Les acteurs clés sont les démocrates et Graham Platner.",
+        "analyse_en": "The historical context is that of American elections. The main stakes are the credibility of Democrats. The short-term consequences are a loss of trust. The long-term prospects are uncertain. The key actors are Democrats and Graham Platner.",
+        "analyse_zh": "历史背景是美国大选。主要影响是民主党的可信度。短期后果是失去信任。长期前景不确定。主要参与者是民主党和格雷厄姆·普拉特纳。",
+        "categorie": "Géopolitique",
+        "source": "Vox",
+        "url": "https://www.vox.com/politics/494565/graham-platner-allegations-assault-withdrawing-dropping-out",
+        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-2279845338.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché politique américain",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché financier américain",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché politique américain",
+            "secteur_en": "American political market",
+            "secteur_zh": "美国政治市场",
+            "effet_fr": "L'impact sur le marché politique américain est une perte de confiance.",
+            "effet_en": "The impact on the American political market is a loss of trust.",
+            "effet_zh": "对美国政治市场的影响是失去信任。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché financier américain",
+            "secteur_en": "American financial market",
+            "secteur_zh": "美国金融市场",
+            "effet_fr": "L'impact sur le marché financier américain est incertain.",
+            "effet_en": "The impact on the American financial market is uncertain.",
+            "effet_zh": "对美国金融市场的影响不确定。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T22:51:47.365212"
+      },
       {
         "id": "usa_310135",
         "titre": "Économistes contre les sanctions",
@@ -1605,56 +1655,6 @@
           }
         ],
         "created_at": "2026-07-07T02:29:40.838512"
-      },
-      {
-        "id": "usa_427433",
-        "titre": "Drapeau anti-Trump",
-        "titre_en": "Anti-Trump Flag",
-        "titre_zh": "反特朗普旗帜",
-        "titre_original": "Obama Judge Orders Park Service To Leave The “8647” Anti-President Trump Flag Alone",
-        "resume": "Un groupe de protestation a déployé un drapeau anti-Trump près du National Mall. Le service des parcs nationaux l'a considéré comme une menace. Un juge a ordonné de ne pas toucher au drapeau. La décision a suscité des réactions.",
-        "resume_en": "A protest group flew an anti-Trump flag near the National Mall. The National Park Service deemed it a threat. A judge ordered the flag to be left alone. The decision sparked reactions.",
-        "resume_zh": "抗议团体在国家广场附近悬挂反特朗普旗帜。国家公园管理局认为这是一个威胁。法官命令不准动旗帜。该决定引发了反应。",
-        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre les partisans et les opposants de Trump. Les enjeux principaux sont la liberté d'expression et la sécurité publique. Les conséquences à court terme sont la polarisation accrue. Les perspectives à long terme sont incertaines. Les acteurs clés sont les juges et les groupes de protestation.",
-        "analyse_en": "The historical context is marked by tensions between Trump supporters and opponents. The main stakes are freedom of speech and public safety. The short-term consequences are increased polarization. The long-term prospects are uncertain. The key actors are judges and protest groups.",
-        "analyse_zh": "历史背景是特朗普支持者和反对者之间的紧张关系。主要影响是言论自由和公共安全。短期后果是两极分化加剧。长期前景不确定。主要参与者是法官和抗议团体。",
-        "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4386797/posts",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-07-05",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché boursier américain",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché des changes",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché boursier américain",
-            "secteur_en": "US Stock Market",
-            "secteur_zh": "美国股票市场",
-            "effet_fr": "L'impact sur le marché boursier américain est potentiellement négatif en raison de l'incertitude politique.",
-            "effet_en": "The impact on the US stock market is potentially negative due to political uncertainty.",
-            "effet_zh": "对美国股票市场的影响可能是负面的，因为政治不确定性。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des changes",
-            "secteur_en": "Forex Market",
-            "secteur_zh": "外汇市场",
-            "effet_fr": "Le marché des changes pourrait être affecté par les fluctuations du dollar américain.",
-            "effet_en": "The forex market could be affected by fluctuations in the US dollar.",
-            "effet_zh": "外汇市场可能会受到美元波动的影响。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-06T23:57:47.477438"
       }
     ],
     "chine": [
@@ -2060,6 +2060,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_733957",
+        "titre": "Irak et les doubles jeux",
+        "titre_en": "Iraq and double dealings",
+        "titre_zh": "伊拉克和双重交易",
+        "titre_original": "Has Iraq Finally Run Out of Road in Its Double-Dealings with the West?",
+        "resume": "L'Irak a des relations complexes avec l'Occident. L'Irak tente de maintenir ses relations avec l'Occident. Les relations entre l'Irak et l'Occident sont tendues.",
+        "resume_en": "Iraq has complex relationships with the West. Iraq is trying to maintain its relationships with the West. The relationships between Iraq and the West are tense.",
+        "resume_zh": "伊拉克与西方的关系复杂。伊拉克试图维持与西方的关系。伊拉克与西方的关系紧张。",
+        "analyse_detaillee": "Le contexte historique est celui des relations entre l'Irak et l'Occident. Les enjeux principaux sont la stabilité du Moyen-Orient. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont l'Irak et l'Occident.",
+        "analyse_en": "The historical context is that of the relationships between Iraq and the West. The main stakes are the stability of the Middle East. The short-term consequences are an increase in tensions. The long-term prospects are uncertain. The key actors are Iraq and the West.",
+        "analyse_zh": "历史背景是伊拉克与西方的关系。主要影响是中东的稳定。短期后果是紧张局势加剧。长期前景不确定。主要参与者是伊拉克和西方。",
+        "categorie": "Géopolitique",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Has-Iraq-Finally-Run-Out-of-Road-in-Its-Double-Dealings-with-the-West.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_umcqcj1zkx.jpg",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché financier international",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "L'impact sur le marché pétrolier est une augmentation des prix.",
+            "effet_en": "The impact on the oil market is an increase in prices.",
+            "effet_zh": "对石油市场的影响是价格上涨。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché financier international",
+            "secteur_en": "International financial market",
+            "secteur_zh": "国际金融市场",
+            "effet_fr": "L'impact sur le marché financier international est incertain.",
+            "effet_en": "The impact on the international financial market is uncertain.",
+            "effet_zh": "对国际金融市场的影响不确定。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-08T22:51:47.365240"
+      },
       {
         "id": "russie_970307",
         "titre": "Russie aux Jeux olympiques",
@@ -3009,59 +3059,59 @@
           }
         ],
         "created_at": "2026-07-07T02:29:40.838544"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_852393",
-        "titre": "Appels de Trump avec Zelenskyy et Poutine",
-        "titre_en": "Trump Calls with Zelenskyy and Putin",
-        "titre_zh": "特朗普与泽连斯基和普京通话",
-        "titre_original": "Trump Holds Calls With Zelenskyy, Putin Amid Ukraine Deadlock",
-        "resume": "Le président Trump a eu des conversations téléphoniques avec les présidents ukrainien et russe. Les efforts pour mettre fin à la guerre en Ukraine sont toujours au point mort.",
-        "resume_en": "President Trump had phone calls with the Ukrainian and Russian presidents. Efforts to end the war in Ukraine remain stalled.",
-        "resume_zh": "特朗普总统与乌克兰和俄罗斯总统通了电话。结束乌克兰战争的努力仍然停滞不前。",
-        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la sécurité régionale et la stabilité politique. Les conséquences à court terme sont l'escalade des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont les présidents des trois pays.",
-        "analyse_en": "The historical context is marked by tensions between Russia and Ukraine. The main stakes are regional security and political stability. The short-term consequences are escalating tensions. The long-term prospects are uncertain. The key actors are the presidents of the three countries.",
-        "analyse_zh": "历史背景是俄罗斯和乌克兰之间的紧张关系。主要影响是地区安全和政治稳定。短期后果是紧张局势升级。长期前景不确定。主要参与者是三国总统。",
+        "id": "iran_85896",
+        "titre": "Attaques de tankers à Hormuz",
+        "titre_en": "Hormuz tanker attacks",
+        "titre_zh": "霍尔木兹油轮袭击",
+        "titre_original": "Oil rises to $74 after Hormuz tanker attacks",
+        "resume": "Des attaques de tankers ont eu lieu à Hormuz. Les attaques ont fait augmenter les prix du pétrole. Les conséquences des attaques sont incertaines.",
+        "resume_en": "Tanker attacks have occurred in Hormuz. The attacks have caused an increase in oil prices. The consequences of the attacks are uncertain.",
+        "resume_zh": "霍尔木兹发生油轮袭击。袭击导致油价上涨。袭击的后果不确定。",
+        "analyse_detaillee": "Le contexte historique est celui des tensions au Moyen-Orient. Les enjeux principaux sont la stabilité du marché pétrolier. Les conséquences à court terme sont une augmentation des prix. Les perspectives à long terme sont incertaines. Les acteurs clés sont l'Iran et les pays occidentaux.",
+        "analyse_en": "The historical context is that of tensions in the Middle East. The main stakes are the stability of the oil market. The short-term consequences are an increase in prices. The long-term prospects are uncertain. The key actors are Iran and Western countries.",
+        "analyse_zh": "历史背景是中东的紧张局势。主要影响是石油市场的稳定。短期后果是价格上涨。长期前景不确定。主要参与者是伊朗和西方国家。",
         "categorie": "Géopolitique",
-        "source": "Radio Free Europe/ Radio Liberty",
-        "url": "https://www.rferl.org/a/trump-zelenskyy-putin-ukraine-russia-war/33797094.html",
-        "image": "https://gdb.rferl.org/477b1c85-2775-4ba2-badc-3da16f32c957_cx0_cy5_cw0_w1200_h630.jpg",
-        "date": "2026-07-05",
-        "pays": "russie",
+        "source": "The Punch",
+        "url": "https://punchng.com/oil-rises-to-74-after-hormuz-tanker-attacks/",
+        "image": "https://punchng.com/wp-content/uploads/2026/06/crude-oil-1200x630.webp",
+        "date": "2026-07-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché énergétique",
-            "hausse": false
+            "label": "▲ Marché pétrolier",
+            "hausse": true
           },
           {
-            "label": "▲ Marché des matières premières",
-            "hausse": true
+            "label": "▼ Marché financier international",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché énergétique",
-            "secteur_en": "Energy Market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "L'impact sur le marché énergétique est potentiellement négatif en raison des tensions géopolitiques.",
-            "effet_en": "The impact on the energy market is potentially negative due to geopolitical tensions.",
-            "effet_zh": "对能源市场的影响可能是负面的，因为地缘政治紧张。",
-            "hausse": false
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "L'impact sur le marché pétrolier est une augmentation des prix.",
+            "effet_en": "The impact on the oil market is an increase in prices.",
+            "effet_zh": "对石油市场的影响是价格上涨。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché des matières premières",
-            "secteur_en": "Commodities Market",
-            "secteur_zh": "大宗商品市场",
-            "effet_fr": "Le marché des matières premières pourrait être affecté par les fluctuations des prix.",
-            "effet_en": "The commodities market could be affected by price fluctuations.",
-            "effet_zh": "大宗商品市场可能会受到价格波动的影响。",
-            "hausse": true
+            "secteur_fr": "Marché financier international",
+            "secteur_en": "International financial market",
+            "secteur_zh": "国际金融市场",
+            "effet_fr": "L'impact sur le marché financier international est incertain.",
+            "effet_en": "The impact on the international financial market is uncertain.",
+            "effet_zh": "对国际金融市场的影响不确定。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-07-06T23:57:47.477464"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-08T22:51:47.365250"
+      },
       {
         "id": "iran_27219",
         "titre": "Freedom Metals Acquisition",
@@ -4011,56 +4061,6 @@
           }
         ],
         "created_at": "2026-07-07T02:29:40.838554"
-      },
-      {
-        "id": "iran_499530",
-        "titre": "Déclin américain et influence chinoise",
-        "titre_en": "American Decline and Chinese Influence",
-        "titre_zh": "美国衰落和中国影响",
-        "titre_original": "American Decline, Chinese Exposure | Sinification: June 2026",
-        "resume": "L'influence de la Chine est en augmentation dans le monde. Les États-Unis sont confrontés à des défis pour maintenir leur position.",
-        "resume_en": "China's influence is increasing in the world. The US is facing challenges to maintain its position.",
-        "resume_zh": "中国在世界上的影响力正在增加。美国面临着维持其地位的挑战。",
-        "analyse_detaillee": "Le contexte historique est marqué par la montée en puissance de la Chine. Les enjeux principaux sont la géopolitique et l'économie. Les conséquences à court terme sont la concurrence accrue. Les perspectives à long terme sont incertaines. Les acteurs clés sont les gouvernements chinois et américain.",
-        "analyse_en": "The historical context is marked by China's rise to power. The main stakes are geopolitics and economy. The short-term consequences are increased competition. The long-term prospects are uncertain. The key actors are the Chinese and US governments.",
-        "analyse_zh": "历史背景是中国的崛起。主要影响是地缘政治和经济。短期后果是竞争加剧。长期前景不确定。主要参与者是中国和美国政府。",
-        "categorie": "Géopolitique",
-        "source": "Sinocism.com",
-        "url": "https://sinocism.com/p/american-decline-chinese-exposure",
-        "image": "https://substackcdn.com/image/fetch/$s_!ZutT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca58e52-7f65-4429-b0b6-5197994fe22c_1536x569.png",
-        "date": "2026-07-05",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des technologies",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché financier international",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des technologies",
-            "secteur_en": "Tech Market",
-            "secteur_zh": "科技市场",
-            "effet_fr": "L'impact sur le marché des technologies est potentiellement positif en raison de l'innovation chinoise.",
-            "effet_en": "The impact on the tech market is potentially positive due to Chinese innovation.",
-            "effet_zh": "对科技市场的影响可能是积极的，因为中国创新。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché financier international",
-            "secteur_en": "International Financial Market",
-            "secteur_zh": "国际金融市场",
-            "effet_fr": "Le marché financier international pourrait être affecté par les fluctuations des taux de change.",
-            "effet_en": "The international financial market could be affected by exchange rate fluctuations.",
-            "effet_zh": "国际金融市场可能会受到汇率波动的影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-06T23:57:47.477472"
       }
     ]
   }
