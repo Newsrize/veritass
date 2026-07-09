@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/07/2026 à 09h03",
+  "last_updated": "09/07/2026 à 11h51",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_132157",
+        "titre": "Les socialistes démocrates",
+        "titre_en": "Democratic socialists plans",
+        "titre_zh": "民主社会主义者计划",
+        "titre_ru": "Планы демократических социалистов",
+        "titre_fa": "برنامه سوسیالیست های دموکرات",
+        "titre_ar": "خطط الاشتراكيين الديمقراطيين",
+        "titre_original": "Democratic socialists have big plans for 2028",
+        "resume": "Les socialistes démocrates américains ont remporté plusieurs victoires importantes lors des primaires. Leur influence grandit dans le pays. Les conséquences de ces victoires sont encore incertaines.",
+        "resume_en": "The Democratic Socialists of America have won several key primary victories. Their influence is growing in the country. The consequences of these wins are still uncertain. The party's platform includes progressive policies.",
+        "resume_zh": "美国民主社会主义者在初选中赢得了几场关键胜利。他们的影响力在增长。这些胜利的后果尚不确定。该党的平台包括进步政策。",
+        "resume_ru": "Демократические социалисты Америки выиграли несколько ключевых побед на праймериз. Их влияние растет в стране. Последствия этих побед еще неопределенны.",
+        "resume_fa": "سوسیالیست های دموکرات آمریکا در انتخابات اولیه چند پیروزی کلیدی به دست آوردند.影響 آنها در حال رشد است.پیامدهای این پیروزی ها هنوز مشخص نیست.",
+        "resume_ar": "حقق الاشتراكيون الديمقراطيون الأمريكيون عدة انتصارات مهمة في الانتخابات التمهيدية. يتزايد تأثيرهم في البلاد. لا تزال عواقب هذه الانتصارات غير محددة.",
+        "analyse_detaillee": "Le contexte historique des élections américaines est marqué par une polarisation croissante. Les enjeux principaux sont la santé et l'économie. Les conséquences à court terme seront une augmentation de la participation politique. Les perspectives à long terme sont incertaines. Les acteurs clés sont les partis politiques.",
+        "analyse_en": "The historical context of American elections is marked by increasing polarization. The main stakes are healthcare and economy. The short-term consequences will be an increase in political participation. The long-term prospects are uncertain. The key actors are political parties.",
+        "analyse_zh": "美国选举的历史背景是由日益增长的两极分化标志。主要问题是医疗保健和经济。短期后果将是政治参与度的增加。长期前景不确定。关键角色是政党。",
+        "analyse_ru": "Исторический контекст американских выборов характеризуется все большей поляризацией. Основные проблемы - здравоохранение и экономика. Краткосрочные последствия будут увеличением участия в политике. Долгосрочные перспективы неопределенны. Ключевые акторы - политические партии.",
+        "analyse_fa": "زمینه تاریخی انتخابات آمریکا با قطبی شدن روزافزون مشخص می شود. مسائل اصلی بهداشت و اقتصاد هستند. پیامدهای کوتاه مدت افزایش مشارکت سیاسی خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی احزاب سیاسی هستند.",
+        "analyse_ar": "السياق التاريخي للانتخابات الأمريكية يتميز بالتأثر المتزايد. القضايا الرئيسية هي الرعاية الصحية والاقتصاد. العواقب قصيرة المدى ستكون زيادة المشاركة السياسية. الآفاق طويلة المدى غير محددة. الأطراف الرئيسية هي الأحزاب السياسية.",
+        "categorie": "Géopolitique",
+        "source": "Vox",
+        "url": "https://www.vox.com/podcasts/494522/democratic-socialism-dsa-co-chair-megan-romer-wins-controversies-2028",
+        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281700082.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ marché financier américain",
+            "hausse": true
+          },
+          {
+            "label": "▼ marché du pétrole",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché financier américain",
+            "secteur_en": "US financial market",
+            "secteur_zh": "美国金融市场",
+            "effet_fr": "L'influence des socialistes démocrates sur le marché financier américain est encore incertaine.",
+            "effet_en": "The influence of democratic socialists on the US financial market is still uncertain.",
+            "effet_zh": "民主社会主义者对美国金融市场的影响尚不确定。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché du pétrole",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les prix du pétrole pourraient augmenter en raison de l'influence des socialistes démocrates sur la politique énergétique.",
+            "effet_en": "Oil prices may rise due to the influence of democratic socialists on energy policy.",
+            "effet_zh": "石油价格可能会因民主社会主义者对能源政策的影响而上涨。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T11:51:44.073274"
+      },
       {
         "id": "usa_258289",
         "titre": "Trump et les OVNI",
@@ -1673,56 +1732,6 @@
           }
         ],
         "created_at": "2026-07-07T18:52:34.819582"
-      },
-      {
-        "id": "usa_184033",
-        "titre": "Sepp Blatter critique la fédération",
-        "titre_en": "Sepp Blatter Criticizes Federation",
-        "titre_zh": "塞普·布拉特批评足联",
-        "titre_original": "Internet Howls as Suspended Ex-FIFA Boss Sepp Blatter Lectures Soccer Federation on ‘Ethics’",
-        "resume": "L'ancien patron de la FIFA, Sepp Blatter, a critiqué la fédération. Les fans et les commentateurs sont choqués. La situation est ironique.",
-        "resume_en": "Former FIFA boss Sepp Blatter has criticized the federation. Fans and pundits are shocked. The situation is ironic.",
-        "resume_zh": "前国际足联主席塞普·布拉特批评了足联。球迷和评论员都很震惊。这种情况很讽刺。",
-        "analyse_detaillee": "Le contexte historique montre les problèmes de corruption de la FIFA. Les enjeux principaux sont la crédibilité de la fédération. Les conséquences à court terme seront une perte de confiance. Les perspectives à long terme sont incertaines. Les acteurs principaux sont la FIFA et les instances de contrôle.",
-        "analyse_en": "The historical context shows FIFA's corruption problems. The main stakes are the federation's credibility. The short-term consequences will be a loss of trust. The long-term prospects are uncertain. The main actors are FIFA and the control bodies.",
-        "analyse_zh": "历史背景显示国际足联的腐败问题。主要影响是足联的可信度。短期后果将是失去信任。长期前景不确定。主要参与者是国际足联和监管机构。",
-        "categorie": "Sport",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/online/internet-howls-as-suspended-ex-fifa-boss-sepp-blatter-lectures-soccer-federation-on-ethics/",
-        "image": "https://www.mediaite.com/wp-content/uploads/2026/07/Untitled-design-2026-07-06T152326-957.jpg",
-        "date": "2026-07-06",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Football",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marketing sportif",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Football",
-            "secteur_en": "Football",
-            "secteur_zh": "足球",
-            "effet_fr": "La critique de Sepp Blatter aura un impact négatif sur la fédération.",
-            "effet_en": "Sepp Blatter's criticism will have a negative impact on the federation.",
-            "effet_zh": "塞普·布拉特的批评将对足联产生负面影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marketing sportif",
-            "secteur_en": "Sports Marketing",
-            "secteur_zh": "体育营销",
-            "effet_fr": "La perte de confiance aura un impact sur le marketing sportif.",
-            "effet_en": "The loss of trust will have an impact on sports marketing.",
-            "effet_zh": "失去信任将对体育营销产生影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T16:14:32.241499"
       }
     ],
     "chine": [
@@ -2128,6 +2137,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_162406",
+        "titre": "Pénurie de carburant",
+        "titre_en": "Fuel shortage in Russia",
+        "titre_zh": "俄罗斯燃料短缺",
+        "titre_ru": "Нехватка топлива в России",
+        "titre_fa": "کمبود سوخت در روسیه",
+        "titre_ar": "نقص الوقود في روسيا",
+        "titre_original": "Fights break out at Russian fuel stations as Ukraine continues to hit Putin's oil refineries and state TV declares 'There is no petrol'",
+        "resume": "La Russie est confrontée à une pénurie de carburant due aux attaques ukrainiennes contre les raffineries. Les conséquences sont une augmentation des prix et des files d'attente.",
+        "resume_en": "Russia is facing a fuel shortage due to Ukrainian attacks on refineries. The consequences are rising prices and long queues.",
+        "resume_zh": "俄罗斯由于乌克兰对炼油厂的袭击而面临燃料短缺。后果是价格上涨和长队。",
+        "resume_ru": "Россия сталкивается с нехваткой топлива из-за украинских атак на нефтеперерабатывающие заводы. Последствия - рост цен и длинные очереди.",
+        "resume_fa": "روسیه به دلیل حملات اوکراین به پالایشگاه ها با کمبود سوخت روبرو است. پیامدهای این موضوع افزایش قیمت ها و صف های طولانی است.",
+        "resume_ar": "تواجه روسيا نقصا في الوقود بسبب الهجمات الأوكرانية على مصافي النفط. العواقب هي ارتفاع الأسعار والطراب长.",
+        "analyse_detaillee": "Le contexte historique des relations entre la Russie et l'Ukraine est marqué par des tensions croissantes. Les enjeux principaux sont la sécurité énergétique et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of Russia-Ukraine relations is marked by increasing tensions. The main stakes are energy security and regional stability. The short-term consequences will be an increase in tensions. The long-term prospects are uncertain.",
+        "analyse_zh": "俄罗斯和乌克兰之间的关系的历史背景是由日益增长的紧张局势标志。主要问题是能源安全和地区稳定。短期后果将是紧张局势的加剧。长期前景不确定。",
+        "analyse_ru": "Исторический контекст российско-украинских отношений характеризуется все большей напряженностью. Основные проблемы - энергетическая безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности. Долгосрочные перспективы неопределенны.",
+        "analyse_fa": "زمینه تاریخی روابط روسیه و اوکراین با افزایش تنش مشخص می شود. مسائل اصلی امنیت انرژی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت افزایش تنش خواهد بود. چشم اندازهای بلندمدت نامعلوم است.",
+        "analyse_ar": "السياق التاريخي للعلاقات بين روسيا وأوكرانيا يتميز بالتأثر المتزايد. القضايا الرئيسية هي الأمن الطاقي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة التوتر. الآفاق طويلة المدى غير محددة.",
+        "categorie": "Géopolitique",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15961641/Fights-break-Russian-fuel-stations-Ukraine-continues-hit-Putins-oil-refineries-state-TV-declares-no-petrol.html",
+        "image": "https://i.dailymail.com/1s/2026/07/08/10/109873789-0-image-a-18_1783502532566.jpg",
+        "date": "2026-07-08",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ marché du pétrole russe",
+            "hausse": true
+          },
+          {
+            "label": "▼ économie russe",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché du pétrole russe",
+            "secteur_en": "Russian oil market",
+            "secteur_zh": "俄罗斯石油市场",
+            "effet_fr": "La pénurie de carburant en Russie a un impact direct sur le marché du pétrole.",
+            "effet_en": "The fuel shortage in Russia has a direct impact on the oil market.",
+            "effet_zh": "俄罗斯燃料短缺对石油市场有直接影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "économie russe",
+            "secteur_en": "Russian economy",
+            "secteur_zh": "俄罗斯经济",
+            "effet_fr": "La pénurie de carburant en Russie aura un impact négatif sur l'économie russe.",
+            "effet_en": "The fuel shortage in Russia will have a negative impact on the Russian economy.",
+            "effet_zh": "俄罗斯燃料短缺将对俄罗斯经济产生负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T11:51:44.073308"
+      },
       {
         "id": "russie_772959",
         "titre": "Attaque de drone en Russie",
@@ -3086,59 +3154,68 @@
           }
         ],
         "created_at": "2026-07-07T18:52:34.819608"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_333271",
-        "titre": "Révolution verte grâce aux engrais",
-        "titre_en": "Green Revolution Thanks to Fertilizers",
-        "titre_zh": "化肥带来的绿色革命",
-        "titre_original": "Could a fertilizer breakthrough spark the next Green Revolution?",
-        "resume": "Une nouvelle technologie permet de recycler les nitrates pour produire des engrais. Cela pourrait avoir un impact positif sur l'environnement. Les conséquences pourraient être bénéfiques.",
-        "resume_en": "A new technology allows for the recycling of nitrates to produce fertilizers. This could have a positive impact on the environment. The consequences could be beneficial.",
-        "resume_zh": "一种新技术可以回收硝酸盐来生产化肥。这可能会对环境产生积极影响。后果可能是有益的。",
-        "analyse_detaillee": "Le contexte historique montre l'importance de l'agriculture durable. Les enjeux principaux sont la production alimentaire. Les conséquences à court terme seront une augmentation de la production. Les perspectives à long terme sont prometteuses. Les acteurs principaux sont les agriculteurs et les entreprises de technologie.",
-        "analyse_en": "The historical context shows the importance of sustainable agriculture. The main stakes are food production. The short-term consequences will be an increase in production. The long-term prospects are promising. The main actors are farmers and technology companies.",
-        "analyse_zh": "历史背景显示可持续农业的重要性。主要影响是食品生产。短期后果将是生产量的增加。长期前景是有前途的。主要参与者是农民和科技公司。",
-        "categorie": "Environnement",
-        "source": "The Mercury News",
-        "url": "https://www.mercurynews.com/2026/06/28/could-a-fertilizer-breakthrough-at-lawrence-livermore-lab-spark-the-next-green-revolution/",
-        "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/EBT-L-FERTILIZER-16.jpg?w=1024&h=682",
-        "date": "2026-07-06",
-        "pays": "russie",
+        "id": "iran_342473",
+        "titre": " Hausse du pétrole",
+        "titre_en": "Oil price increase",
+        "titre_zh": "石油价格上涨",
+        "titre_ru": "Рост цен на нефть",
+        "titre_fa": "افزایش قیمت نفت",
+        "titre_ar": "ارتفاع أسعار النفط",
+        "titre_original": "Oil Rockets Higher as Trump Declares Iran Ceasefire Over",
+        "resume": "Les déclarations de Trump sur l'Iran ont entraîné une hausse des prix du pétrole. Les conséquences sont une augmentation des coûts pour les consommateurs. Les perspectives à long terme sont incertaines.",
+        "resume_en": "Trump's statements on Iran have led to a rise in oil prices. The consequences are an increase in costs for consumers. The long-term prospects are uncertain.",
+        "resume_zh": "特朗普关于伊朗的声明导致了石油价格上涨。后果是消费者的成本增加。长期前景不确定。",
+        "resume_ru": "Заявления Трампа об Иране привели к росту цен на нефть. Последствия - увеличение затрат для потребителей. Долгосрочные перспективы неопределенны.",
+        "resume_fa": "بیانیه های ترامپ در مورد ایران منجر به افزایش قیمت نفت شده است. پیامدهای این موضوع افزایش هزینه ها برای مصرف کنندگان است. چشم اندازهای بلندمدت نامعلوم است.",
+        "resume_ar": "أدى بيان ترامب حول إيران إلى ارتفاع أسعار النفط. العواقب هي زيادة التكاليف للمستهلكين. الآفاق طويلة المدى غير محددة.",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et l'Iran est marqué par des tensions croissantes. Les enjeux principaux sont la sécurité énergétique et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of US-Iran relations is marked by increasing tensions. The main stakes are energy security and regional stability. The short-term consequences will be an increase in tensions. The long-term prospects are uncertain.",
+        "analyse_zh": "美国和伊朗之间的关系的历史背景是由日益增长的紧张局势标志。主要问题是能源安全和地区稳定。短期后果将是紧张局势的加剧。长期前景不确定。",
+        "analyse_ru": "Исторический контекст американско-иранских отношений характеризуется все большей напряженностью. Основные проблемы - энергетическая безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности. Долгосрочные перспективы неопределенны.",
+        "analyse_fa": "زمینه تاریخی روابط آمریکا و ایران با افزایش تنش مشخص می شود. مسائل اصلی امنیت انرژی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت افزایش تنش خواهد بود. چشم اندازهای بلندمدت نامعلوم است.",
+        "analyse_ar": "السياق التاريخي للعلاقات بين الولايات المتحدة وإيران يتميز بالتأثر المتزايد. القضايا الرئيسية هي الأمن الطاقي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة التوتر. الآفاق طويلة المدى غير محددة.",
+        "categorie": "Géopolitique",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/oil_rockets_higher_as_trump_declares_iran_ceasefire_over-08-jul-2026-184086-article/",
+        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
+        "date": "2026-07-08",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Agriculture",
+            "label": "▲ marché du pétrole",
             "hausse": true
           },
           {
-            "label": "▲ Énergie verte",
-            "hausse": true
+            "label": "▼ économie iranienne",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Agriculture",
-            "secteur_en": "Agriculture",
-            "secteur_zh": "农业",
-            "effet_fr": "La nouvelle technologie aura un impact positif sur l'agriculture.",
-            "effet_en": "The new technology will have a positive impact on agriculture.",
-            "effet_zh": "新技术将对农业产生积极影响。",
+            "secteur_fr": "marché du pétrole",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les déclarations de Trump ont entraîné une hausse des prix du pétrole.",
+            "effet_en": "Trump's statements have led to a rise in oil prices.",
+            "effet_zh": "特朗普的声明导致了石油价格上涨。",
             "hausse": true
           },
           {
-            "secteur_fr": "Énergie verte",
-            "secteur_en": "Green Energy",
-            "secteur_zh": "绿色能源",
-            "effet_fr": "La réduction des déchets aura un impact positif sur l'énergie verte.",
-            "effet_en": "The reduction of waste will have a positive impact on green energy.",
-            "effet_zh": "减少浪费将对绿色能源产生积极影响。",
-            "hausse": true
+            "secteur_fr": "économie iranienne",
+            "secteur_en": "Iranian economy",
+            "secteur_zh": "伊朗经济",
+            "effet_fr": "Les sanctions américaines ont un impact négatif sur l'économie iranienne.",
+            "effet_en": "US sanctions have a negative impact on the Iranian economy.",
+            "effet_zh": "美国制裁对伊朗经济产生负面影响。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-07-07T16:14:32.241509"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-09T11:51:44.073322"
+      },
       {
         "id": "iran_65028",
         "titre": "Trump et l'Iran",
@@ -4097,56 +4174,6 @@
           }
         ],
         "created_at": "2026-07-07T18:52:34.819616"
-      },
-      {
-        "id": "iran_77527",
-        "titre": "Tesla réussit en Chine",
-        "titre_en": "Tesla Succeeds in China",
-        "titre_zh": "特斯拉在中国成功",
-        "titre_original": "Tesla is doing in China what it couldn't do in the U.S.",
-        "resume": "Tesla a réussi à pénétrer le marché chinois. La concurrence est rude, mais Tesla a trouvé son place. Les conséquences pourraient être bénéfiques pour l'entreprise.",
-        "resume_en": "Tesla has succeeded in entering the Chinese market. The competition is fierce, but Tesla has found its place. The consequences could be beneficial for the company.",
-        "resume_zh": "特斯拉成功进入中国市场。竞争很激烈，但特斯拉找到了自己的位置。后果可能对公司有益。",
-        "analyse_detaillee": "Le contexte historique montre l'importance du marché chinois. Les enjeux principaux sont la concurrence dans le secteur des véhicules électriques. Les conséquences à court terme seront une augmentation des ventes. Les perspectives à long terme sont prometteuses. Les acteurs principaux sont Tesla et les constructeurs chinois.",
-        "analyse_en": "The historical context shows the importance of the Chinese market. The main stakes are the competition in the electric vehicle sector. The short-term consequences will be an increase in sales. The long-term prospects are promising. The main actors are Tesla and Chinese manufacturers.",
-        "analyse_zh": "历史背景显示中国市场的重要性。主要影响是电动汽车行业的竞争。短期后果将是销售量的增加。长期前景是有前途的。主要参与者是特斯拉和中国制造商。",
-        "categorie": "Économie",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/markets/tesla-is-doing-in-china-what-it-couldnt-do-in-the-u-s-electric-vehicles",
-        "image": "https://s.yimg.com/lo/mysterio/api/6DF08F1DFE3A4EFB5A9B66E8A7345C582C74F31A7DD1D86B9AF061EDC4F2DCA9/subgraphmysterio/resizefill_w1200_h665;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F002cf414060c0963fac842f8dd8d3a4e",
-        "date": "2026-07-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Véhicules électriques",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché chinois",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Véhicules électriques",
-            "secteur_en": "Electric Vehicles",
-            "secteur_zh": "电动汽车",
-            "effet_fr": "La réussite de Tesla en Chine aura un impact positif sur le secteur des véhicules électriques.",
-            "effet_en": "Tesla's success in China will have a positive impact on the electric vehicle sector.",
-            "effet_zh": "特斯拉在中国的成功将对电动汽车行业产生积极影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché chinois",
-            "secteur_en": "Chinese Market",
-            "secteur_zh": "中国市场",
-            "effet_fr": "La pénétration de Tesla sur le marché chinois aura un impact positif sur l'économie chinoise.",
-            "effet_en": "Tesla's penetration into the Chinese market will have a positive impact on the Chinese economy.",
-            "effet_zh": "特斯拉进入中国市场将对中国经济产生积极影响。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-07T16:14:32.241516"
       }
     ]
   }
