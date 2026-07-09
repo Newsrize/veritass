@@ -1,5 +1,5 @@
 {
-  "last_updated": "08/07/2026 à 23h56",
+  "last_updated": "09/07/2026 à 01h54",
   "articles": {
     "monde": [
       {
@@ -656,6 +656,56 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_533912",
+        "titre": "Nationalisme chrétien",
+        "titre_en": "Christian Nationalism",
+        "titre_zh": "基督教民族主义",
+        "titre_original": "The Seven Mountains Mandate: The Latest in Christian Nationalism",
+        "resume": "Le mouvement des Seven Mountains Mandate vise à établir une théocratie chrétienne aux États-Unis. Ce mouvement radical cherche à détruire le pluralisme américain. Les conséquences pourraient être graves pour la démocratie.",
+        "resume_en": "The Seven Mountains Mandate movement aims to establish a Christian theocracy in the US. This radical movement seeks to dismantle American pluralism. The consequences could be severe for democracy. The movement is gaining momentum.",
+        "resume_zh": "七山令运动旨在建立美国的基督教神权政治。这场激进运动寻求摧毁美国的多元主义。后果可能对民主制产生严重影响。该运动正在获得动力。",
+        "analyse_detaillee": "Le contexte historique de ce mouvement est lié à l'évolution du christianisme aux États-Unis. Les enjeux principaux sont la démocratie et la laïcité. Les conséquences à court terme pourraient être des tensions sociales. Les perspectives à long terme sont inquiétantes pour la stabilité du pays. Les acteurs clés sont les dirigeants religieux et politiques.",
+        "analyse_en": "The historical context of this movement is related to the evolution of Christianity in the US. The main stakes are democracy and secularism. The short-term consequences could be social tensions. The long-term prospects are worrisome for the country's stability. The key actors are religious and political leaders.",
+        "analyse_zh": "该运动的历史背景与美国基督教的演变有关。主要影响是民主和世俗主义。短期后果可能是社会紧张。长期前景令人担忧，可能会影响国家的稳定。关键人物是宗教和政治领导人。该运动可能会对美国社会产生深远影响。",
+        "categorie": "Géopolitique",
+        "source": "Skeptic.com",
+        "url": "https://www.skeptic.com/article/seven-mountains-mandate-latest-in-christian-nationalism/",
+        "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/06/7-pillars-of-influence.webp",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché boursier américain",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur financier international",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier américain",
+            "secteur_en": "US Stock Market",
+            "secteur_zh": "美国股票市场",
+            "effet_fr": "L'instabilité politique pourrait avoir un impact négatif sur le marché boursier américain.",
+            "effet_en": "Political instability could have a negative impact on the US stock market.",
+            "effet_zh": "政治不稳定可能会对美国股票市场产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur financier international",
+            "secteur_en": "International Financial Sector",
+            "secteur_zh": "国际金融行业",
+            "effet_fr": "Les conséquences de ce mouvement pourraient également affecter le secteur financier international.",
+            "effet_en": "The consequences of this movement could also affect the international financial sector.",
+            "effet_zh": "该运动的后果也可能影响国际金融行业。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T01:54:01.711044"
+      },
       {
         "id": "usa_225353",
         "titre": "Steve Hilton se rebaptise",
@@ -1605,56 +1655,6 @@
           }
         ],
         "created_at": "2026-07-07T10:15:37.838073"
-      },
-      {
-        "id": "usa_541708",
-        "titre": "Demande d'IA augmente",
-        "titre_en": "Rising AI Demand",
-        "titre_zh": "人工智能需求增加",
-        "titre_original": "Rising AI Demand Drives Surge in Data Center Water Consumption, Reports Indicate",
-        "resume": "La consommation d'eau des data centers aux USA a augmenté. Les centres de données consomment près d'un trillion de litres d'eau par an. Cela est dû à l'expansion rapide des charges de travail d'intelligence artificielle.",
-        "resume_en": "US data center water consumption has increased. Data centers consume nearly one trillion liters of water annually. This is due to the rapid expansion of artificial intelligence workloads.",
-        "resume_zh": "美国数据中心的水消耗增加。数据中心每年消耗近一万亿升水。这是由于人工智能工作负载的快速扩张。",
-        "analyse_detaillee": "Le contexte historique montre une augmentation de la demande d'IA. Les enjeux principaux sont la consommation d'eau et l'impact environnemental. Les conséquences à court terme sont une augmentation des coûts pour les data centers. Les perspectives à long terme sont une nécessité de développement durable. Les acteurs clés sont les entreprises de technologie et les gouvernements.",
-        "analyse_en": "The historical context shows an increase in AI demand. The main stakes are water consumption and environmental impact. The short-term consequences are increased costs for data centers. The long-term prospects are a need for sustainable development. The key actors are technology companies and governments.",
-        "analyse_zh": "历史背景显示人工智能需求增加。主要影响是水消耗和环境影响。短期后果是数据中心成本增加。长期前景是可持续发展的需要。主要参与者是科技公司和政府。",
-        "categorie": "Géopolitique",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-06-ai-drives-surge-in-data-center-water-consumption.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ai-demand-data-center-water-consumption-cooling-systems-2542-original.jpg",
-        "date": "2026-07-06",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Technologie",
-            "hausse": true
-          },
-          {
-            "label": "▼ Environnement",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Technologie",
-            "secteur_en": "Technology",
-            "secteur_zh": "科技",
-            "effet_fr": "L'augmentation de la consommation d'eau des data centers aura un impact sur les coûts de production de la technologie.",
-            "effet_en": "The increase in data center water consumption will have an impact on technology production costs.",
-            "effet_zh": "数据中心水消耗的增加将对科技生产成本产生影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Environnement",
-            "secteur_en": "Environment",
-            "secteur_zh": "环境",
-            "effet_fr": "L'impact environnemental de la consommation d'eau des data centers sera un enjeu majeur pour les années à venir.",
-            "effet_en": "The environmental impact of data center water consumption will be a major issue in the coming years.",
-            "effet_zh": "数据中心水消耗的环境影响将成为未来几年的主要问题。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T06:32:50.357447"
       }
     ],
     "chine": [
@@ -2060,6 +2060,56 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_483841",
+        "titre": "Géopolitique mondiale",
+        "titre_en": "Global Geopolitics",
+        "titre_zh": "全球地缘政治",
+        "titre_original": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland",
+        "resume": "La géopolitique est de retour au centre de l'actualité avec les tensions entre les États-Unis et l'Iran. Les attaques de l'Ukraine en Russie ajoutent à la complexité du paysage géopolitique. Les conséquences pourraient être graves pour la stabilité mondiale.",
+        "resume_en": "Geopolitics is back in focus with tensions between the US and Iran. Ukraine's attacks in Russia add to the complexity of the geopolitical landscape. The consequences could be severe for global stability. The situation is being closely monitored.",
+        "resume_zh": "地缘政治再次成为焦点，美国和伊朗之间的紧张关系加剧。乌克兰在俄罗斯的攻击增加了地缘政治格局的复杂性。后果可能对全球稳定产生严重影响。该情况正在被密切监视。",
+        "analyse_detaillee": "Le contexte historique de ces tensions est lié à la rivalité entre les grandes puissances mondiales. Les enjeux principaux sont la stabilité régionale et la sécurité énergétique. Les conséquences à court terme pourraient être des escalades militaires. Les perspectives à long terme sont inquiétantes pour la paix mondiale. Les acteurs clés sont les dirigeants des pays impliqués.",
+        "analyse_en": "The historical context of these tensions is related to the rivalry between global powers. The main stakes are regional stability and energy security. The short-term consequences could be military escalations. The long-term prospects are worrisome for global peace. The key actors are the leaders of the countries involved.",
+        "analyse_zh": "这些紧张局势的历史背景与全球大国之间的竞争有关。主要影响是地区稳定和能源安全。短期后果可能是军事升级。长期前景令人担忧，可能会影响全球和平。关键人物是相关国家的领导人。该情况需要谨慎处理以避免进一步的冲突。",
+        "categorie": "Géopolitique",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/08/cnbc-daily-open-strait-of-hormuz-ukraine-moves-in-russia-greenland.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108317994-1780914356832-gettyimages-2279853522-AFP_B6BR7WC.jpeg?v=1780914369&w=1920&h=1080",
+        "date": "2026-07-08",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur de la défense",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil Market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les tensions entre les États-Unis et l'Iran pourraient avoir un impact sur le marché pétrolier.",
+            "effet_en": "Tensions between the US and Iran could impact the oil market.",
+            "effet_zh": "美国和伊朗之间的紧张关系可能会影响石油市场。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense Sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "Les attaques de l'Ukraine en Russie pourraient entraîner une augmentation des dépenses militaires.",
+            "effet_en": "Ukraine's attacks in Russia could lead to an increase in military spending.",
+            "effet_zh": "乌克兰在俄罗斯的攻击可能会导致军费开支增加。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-09T01:54:01.711078"
+      },
       {
         "id": "russie_114141",
         "titre": "Ukraine signe des accords",
@@ -3009,59 +3059,59 @@
           }
         ],
         "created_at": "2026-07-07T10:15:37.838101"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_460937",
-        "titre": "Contrat nucléaire",
-        "titre_en": "Nuclear Contract",
-        "titre_zh": "核合同",
-        "titre_original": "U.S. Awards $1.07 Billion Contract to Boost Domestic High-Assay Low-Enriched Uranium Production",
-        "resume": "Le département de l'énergie des USA a attribué un contrat de 1,07 milliard de dollars pour produire de l'uranium faiblement enrichi. Cela permettra de développer des réacteurs nucléaires avancés.",
-        "resume_en": "The US Department of Energy has awarded a $1.07 billion contract to produce low-enriched uranium. This will enable the development of advanced nuclear reactors.",
-        "resume_zh": "美国能源部授予了一份10.7亿美元的合同，用于生产低浓缩铀。这将使先进核反应堆的开发成为可能。",
-        "analyse_detaillee": "Le contexte historique montre une augmentation de la demande d'énergie nucléaire. Les enjeux principaux sont la production d'uranium et la sécurité énergétique. Les conséquences à court terme sont une augmentation de la production d'énergie nucléaire. Les perspectives à long terme sont une réduction des émissions de gaz à effet de serre. Les acteurs clés sont les entreprises nucléaires et les gouvernements.",
-        "analyse_en": "The historical context shows an increase in nuclear energy demand. The main stakes are uranium production and energy security. The short-term consequences are an increase in nuclear energy production. The long-term prospects are a reduction in greenhouse gas emissions. The key actors are nuclear companies and governments.",
-        "analyse_zh": "历史背景显示核能需求增加。主要影响是铀生产和能源安全。短期后果是核能生产增加。长期前景是温室气体排放减少。主要参与者是核能公司和政府。",
+        "id": "iran_483841",
+        "titre": "Conflit au Moyen-Orient",
+        "titre_en": "Middle East Conflict",
+        "titre_zh": "中东冲突",
+        "titre_original": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland",
+        "resume": "Les tensions entre les États-Unis et l'Iran sont en augmentation, avec des conséquences potentielles pour la stabilité régionale. Les attaques de l'Ukraine en Russie ajoutent à la complexité du paysage géopolitique. Les conséquences pourraient être graves pour la paix mondiale.",
+        "resume_en": "Tensions between the US and Iran are escalating, with potential consequences for regional stability. Ukraine's attacks in Russia add to the complexity of the geopolitical landscape. The consequences could be severe for global peace. The situation is being closely monitored.",
+        "resume_zh": "美国和伊朗之间的紧张关系正在升级，可能会影响地区稳定。乌克兰在俄罗斯的攻击增加了地缘政治格局的复杂性。后果可能对全球和平产生严重影响。该情况正在被密切监视。",
+        "analyse_detaillee": "Le contexte historique de ces tensions est lié à la rivalité entre les grandes puissances mondiales et les intérêts régionaux. Les enjeux principaux sont la stabilité régionale et la sécurité énergétique. Les conséquences à court terme pourraient être des escalades militaires. Les perspectives à long terme sont inquiétantes pour la paix mondiale. Les acteurs clés sont les dirigeants des pays impliqués.",
+        "analyse_en": "The historical context of these tensions is related to the rivalry between global powers and regional interests. The main stakes are regional stability and energy security. The short-term consequences could be military escalations. The long-term prospects are worrisome for global peace. The key actors are the leaders of the countries involved.",
+        "analyse_zh": "这些紧张局势的历史背景与全球大国之间的竞争和地区利益有关。主要影响是地区稳定和能源安全。短期后果可能是军事升级。长期前景令人担忧，可能会影响全球和平。关键人物是相关国家的领导人。该情况需要谨慎处理以避免进一步的冲突。",
         "categorie": "Géopolitique",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-06-us-awards-contract-boost-domestic-haleu-production.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/haleu-uranium-enrichment-advanced-nuclear-reactors-2502-original.jpg",
-        "date": "2026-07-06",
-        "pays": "russie",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/08/cnbc-daily-open-strait-of-hormuz-ukraine-moves-in-russia-greenland.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108317994-1780914356832-gettyimages-2279853522-AFP_B6BR7WC.jpeg?v=1780914369&w=1920&h=1080",
+        "date": "2026-07-08",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Énergie",
+            "label": "▲ Marché des armes",
             "hausse": true
           },
           {
-            "label": "▼ Sécurité",
+            "label": "▼ Secteur énergétique",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "L'augmentation de la production d'uranium faiblement enrichi aura un impact sur les coûts de production de l'énergie nucléaire.",
-            "effet_en": "The increase in low-enriched uranium production will have an impact on nuclear energy production costs.",
-            "effet_zh": "低浓缩铀生产的增加将对核能生产成本产生影响。",
+            "secteur_fr": "Marché des armes",
+            "secteur_en": "Arms Market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "Les tensions entre les États-Unis et l'Iran pourraient entraîner une augmentation des ventes d'armes.",
+            "effet_en": "Tensions between the US and Iran could lead to an increase in arms sales.",
+            "effet_zh": "美国和伊朗之间的紧张关系可能会导致武器销售增加。",
             "hausse": true
           },
           {
-            "secteur_fr": "Sécurité",
-            "secteur_en": "Security",
-            "secteur_zh": "安全",
-            "effet_fr": "L'impact de la production d'uranium faiblement enrichi sur la sécurité énergétique sera un enjeu majeur pour les années à venir.",
-            "effet_en": "The impact of low-enriched uranium production on energy security will be a major issue in the coming years.",
-            "effet_zh": "低浓缩铀生产对能源安全的影响将成为未来几年的主要问题。",
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy Sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les attaques de l'Ukraine en Russie pourraient avoir un impact sur le secteur énergétique.",
+            "effet_en": "Ukraine's attacks in Russia could impact the energy sector.",
+            "effet_zh": "乌克兰在俄罗斯的攻击可能会影响能源行业。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-07T06:32:50.357480"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-09T01:54:01.711089"
+      },
       {
         "id": "iran_303672",
         "titre": "Le prix du pétrole",
@@ -4011,56 +4061,6 @@
           }
         ],
         "created_at": "2026-07-07T10:15:37.838109"
-      },
-      {
-        "id": "iran_661288",
-        "titre": "Guerre en Iran",
-        "titre_en": "War in Iran",
-        "titre_zh": "伊朗战争",
-        "titre_original": "Pentagon Struggling to Replenish Weapons Stockpiles After Iran War, GAO Report Says",
-        "resume": "Le Pentagone a du mal à réapprovisionner ses stocks d'armes après la guerre en Iran. Un rapport du GAO montre des retards persistants dans la livraison d'armes.",
-        "resume_en": "The Pentagon is struggling to replenish its weapons stockpiles after the war in Iran. A GAO report shows persistent delays in weapons delivery.",
-        "resume_zh": "五角大楼在伊朗战争后难以补充武器库存。美国政府问责局的一份报告显示，武器交付存在持续的延迟。",
-        "analyse_detaillee": "Le contexte historique montre une augmentation des conflits géopolitiques. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme sont une augmentation des dépenses militaires. Les perspectives à long terme sont une réduction des tensions géopolitiques. Les acteurs clés sont les gouvernements et les organisations internationales.",
-        "analyse_en": "The historical context shows an increase in geopolitical conflicts. The main stakes are national security and regional stability. The short-term consequences are an increase in military spending. The long-term prospects are a reduction in geopolitical tensions. The key actors are governments and international organizations.",
-        "analyse_zh": "历史背景显示地缘政治冲突增加。主要影响是国家安全和地区稳定。短期后果是军费开支增加。长期前景是地缘政治紧张局势减少。主要参与者是政府和国际组织。",
-        "categorie": "Géopolitique",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-06-pentagon-struggling-replenish-weapons-after-iran-war-report.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/gao-report-pentagon-weapons-stockpiles-2535-original.jpg",
-        "date": "2026-07-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Défense",
-            "hausse": true
-          },
-          {
-            "label": "▼ Relations internationales",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Défense",
-            "secteur_en": "Defense",
-            "secteur_zh": "国防",
-            "effet_fr": "L'augmentation des dépenses militaires aura un impact sur les coûts de production des armes.",
-            "effet_en": "The increase in military spending will have an impact on weapons production costs.",
-            "effet_zh": "军费开支的增加将对武器生产成本产生影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Relations internationales",
-            "secteur_en": "International Relations",
-            "secteur_zh": "国际关系",
-            "effet_fr": "L'impact de la guerre en Iran sur les relations internationales sera un enjeu majeur pour les années à venir.",
-            "effet_en": "The impact of the war in Iran on international relations will be a major issue in the coming years.",
-            "effet_zh": "伊朗战争对国际关系的影响将成为未来几年的主要问题。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T06:32:50.357489"
       }
     ]
   }
