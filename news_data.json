@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/07/2026 à 17h09",
+  "last_updated": "09/07/2026 à 19h15",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_127759",
+        "titre": "Trump inspire l'arche",
+        "titre_en": "Trump's Arch Inspiration",
+        "titre_zh": "特朗普拱门灵感",
+        "titre_ru": "Вдохновение Трампа для арки",
+        "titre_fa": "الهام ترامپ از طاق",
+        "titre_ar": "إلهام ترامب للقوس",
+        "titre_original": "Inspiration for Trump's arch was sparked long before the design was first approved",
+        "resume": "Le processus de conception de l'arche de Trump a été influencé par un petit groupe de personnes proches du président. Les experts estiment que le processus de conception des monuments ne devrait pas être accéléré. Le design de l'arche a été approuvé rapidement.",
+        "resume_en": "The design process for Trump's arch was influenced by a small group of people close to the president. Experts say the design process for new memorials should not be fast-tracked. The arch's design was quickly approved.",
+        "resume_zh": "特朗普拱门的设计过程受到特朗普身边少数人影响。专家认为，新纪念碑的设计过程不应被加速。拱门的设计迅速获得批准。",
+        "resume_ru": "Процесс проектирования арки Трампа был под влиянием небольшой группы людей, близких к президенту. Эксперты считают, что процесс проектирования новых памятников не должен быть ускорен. Дизайн арки был быстро утвержден.",
+        "resume_fa": "فرآیند طراحی طاق ترامپ تحت تأثیر یک گروه کوچک از افراد نزدیک به رئیس جمهور قرار گرفته است. کارشناسان معتقدند که فرآیند طراحی بناهای جدید نباید شتاب زده شود. طراحی طاق به سرعت تایید شد.",
+        "resume_ar": "كان عملية تصميم قوس ترامب تحت تأثير مجموعة صغيرة من الأشخاص المقربين من الرئيس. يعتقد الخبراء أن عملية تصميم التماثيل الجديدة لا ينبغي أن تُسرع. تمت الموافقة على تصميم القوس بسرعة.",
+        "analyse_detaillee": "Le contexte historique de l'arche de Trump est marqué par les controverses entourant son design. Les enjeux principaux sont liés à la conception de monuments publics. Les conséquences à court terme sont une approbation rapide du design. Les perspectives à long terme sont incertaines. Les acteurs clés sont le président et ses proches.",
+        "analyse_en": "The historical context of Trump's arch is marked by controversy surrounding its design. The main stakes are related to the design of public monuments. The short-term consequences are a quick approval of the design. The long-term prospects are uncertain. The key actors are the president and his close associates.",
+        "analyse_zh": "特朗普拱门的历史背景是其设计所引发的争议。主要问题与公共纪念碑的设计有关。短期后果是设计的快速批准。长期前景不确定。主要参与者是总统和他的亲密助手。",
+        "analyse_ru": "Исторический контекст арки Трампа отмечен спорами вокруг ее дизайна. Основные проблемы связаны с проектированием общественных памятников. Краткосрочные последствия - быстрое утверждение дизайна. Долгосрочные перспективы неопределенны. Основными участниками являются президент и его ближайшее окружение.",
+        "analyse_fa": "زمینه تاریخی طاق ترامپ با بحث و جدل در مورد طراحی آن مشخص شده است. مسائل اصلی به طراحی بناهای عمومی مربوط می شود. پیامدهای کوتاه‌مدت تایید سریع طراحی است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی رئیس جمهور و نزدیکان او هستند.",
+        "analyse_ar": "السياق التاريخي لقوس ترامب يتميز بالجدل حول تصميمه. القضايا الرئيسية تتعلق بتصميم التماثيل العامة. العواقب قصيرة المدى هي الموافقة السريعة على التصميم. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الرئيس وأقاربه.",
+        "categorie": "Géopolitique",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5869629/trump-arch-inspiration-long-before-design-approved",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/994x559+0+18/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2F3d%2Ffdb4a04f4eec8a3dc932cd743bf0%2Fscreenshot-2026-07-07-at-5.jpg",
+        "date": "2026-07-08",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ marché immobilier",
+            "hausse": true
+          },
+          {
+            "label": "▼ secteur du tourisme",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché immobilier",
+            "secteur_en": "real estate market",
+            "secteur_zh": "房地产市场",
+            "effet_fr": "L'approbation rapide du design de l'arche pourrait avoir un impact sur le marché immobilier.",
+            "effet_en": "The quick approval of the arch's design could have an impact on the real estate market.",
+            "effet_zh": "拱门设计的快速批准可能会对房地产市场产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "secteur du tourisme",
+            "secteur_en": "tourism sector",
+            "secteur_zh": "旅游业",
+            "effet_fr": "Le design de l'arche pourrait également avoir un impact sur le secteur du tourisme.",
+            "effet_en": "The arch's design could also have an impact on the tourism sector.",
+            "effet_zh": "拱门的设计也可能对旅游业产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T19:15:29.787641"
+      },
       {
         "id": "usa_354661",
         "titre": "Rallye Bitcoin",
@@ -1700,56 +1759,6 @@
           }
         ],
         "created_at": "2026-07-07T23:42:25.549530"
-      },
-      {
-        "id": "usa_793890",
-        "titre": "Sommet NATO 2026",
-        "titre_en": "2026 NATO Summit",
-        "titre_zh": "2026年北约峰会",
-        "titre_original": "What to Expect at the 2026 NATO Summit",
-        "resume": "Le sommet de l'OTAN de 2026 sera crucial pour l'avenir de l'alliance. Les dirigeants devront aborder les défis actuels. La sécurité mondiale est en jeu.",
-        "resume_en": "The 2026 NATO summit will be crucial for the alliance's future. Leaders must address current challenges. Global security is at stake. The summit's outcome is uncertain.",
-        "resume_zh": "2026年北约峰会对于联盟的未来至关重要。领导人必须解决当前的挑战。全球安全岌岌可危。峰会的结果尚不确定。",
-        "analyse_detaillee": "Le contexte historique de l'OTAN est marqué par la guerre froide. Les enjeux principaux sont la sécurité collective et la stabilité mondiale. Les conséquences à court terme seront une réévaluation des alliances. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis et l'Europe.",
-        "analyse_en": "NATO's historical context is marked by the Cold War. The main stakes are collective security and global stability. Short-term consequences will be a reevaluation of alliances. Long-term prospects are uncertain. Key actors are the US and Europe.",
-        "analyse_zh": "北约的历史背景以冷战为标志。主要影响是集体安全和全球稳定。短期后果将是重新评估联盟。长期前景不确定。关键角色是美国和欧洲。",
-        "categorie": "Géopolitique",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine/",
-        "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/NATOSummitPreview-GettyImages-2284676495.jpg",
-        "date": "2026-07-06",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Défense",
-            "hausse": true
-          },
-          {
-            "label": "▼ Énergie",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Défense",
-            "secteur_en": "Defense",
-            "secteur_zh": "国防",
-            "effet_fr": "Le secteur de la défense sera impacté par les décisions prises lors du sommet.",
-            "effet_en": "The defense sector will be impacted by the decisions made at the summit.",
-            "effet_zh": "国防行业将受到峰会上做出的决定的影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "Le secteur de l'énergie pourrait également être affecté par les décisions de sécurité prise lors du sommet.",
-            "effet_en": "The energy sector may also be affected by the security decisions made at the summit.",
-            "effet_zh": "能源行业也可能受到峰会上做出的安全决定的影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T22:02:29.232550"
       }
     ],
     "chine": [
@@ -2155,6 +2164,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_389688",
+        "titre": "Drones ukrainiens à Moscou",
+        "titre_en": "Ukrainian Drones in Moscow",
+        "titre_zh": "乌克兰无人机在莫斯科",
+        "titre_ru": "Украинские беспилотники в Москве",
+        "titre_fa": "پهپادهای اوکراین در مسکو",
+        "titre_ar": "طائرات بدون طيار أوكرانية في موسكو",
+        "titre_original": "Dozens of Ukrainian drones target Moscow, mayor says, as Zelenskyy vows more strikes",
+        "resume": "La Russie a annoncé que plus de 400 drones ukrainiens avaient été lancés contre Moscou. Les autorités ukrainiennes ont confirmé les attaques. Les drones ont ciblé des objectifs militaires et civils.",
+        "resume_en": "Russia announced that over 400 Ukrainian drones were launched against Moscow. Ukrainian authorities confirmed the attacks. The drones targeted military and civilian targets.",
+        "resume_zh": "俄罗斯宣布，超过400架乌克兰无人机对莫斯科发动攻击。乌克兰当局确认了这些袭击。无人机针对军事和民用目标。",
+        "resume_ru": "Россия объявила, что более 400 украинских беспилотников были запущены против Москвы. Украинские власти подтвердили нападения. Беспилотники атаковали военные и гражданские цели.",
+        "resume_fa": "روسیه اعلام کرد که بیش از 400 پهپاد اوکراین علیه مسکو پرتاب شده است. مقامات اوکراین این حملات را تایید کردند. پهپادها به اهداف نظامی و غیرنظامی حمله کردند.",
+        "resume_ar": "أعلنت روسيا أن أكثر من 400 طائرة بدون طيار أوكرانية تم إطلاقها ضد موسكو. أكدت السلطات الأوكرانية على الهجمات. استهدفت الطائرات بدون طيار أهدافًا عسكرية ومدنية.",
+        "analyse_detaillee": "Le contexte historique des attaques de drones ukrainiens contre Moscou est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont liés à la sécurité nationale. Les conséquences à court terme sont une escalade des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont la Russie et l'Ukraine.",
+        "analyse_en": "The historical context of the Ukrainian drone attacks on Moscow is marked by tensions between Russia and Ukraine. The main stakes are related to national security. The short-term consequences are an escalation of tensions. The long-term prospects are uncertain. The key actors are Russia and Ukraine.",
+        "analyse_zh": "乌克兰无人机对莫斯科发动攻击的历史背景是俄罗斯和乌克兰之间的紧张关系。主要问题与国家安全有关。短期后果是紧张局势的升级。长期前景不确定。主要参与者是俄罗斯和乌克兰。",
+        "analyse_ru": "Исторический контекст украинских беспилотников против Москвы отмечен напряженностью между Россией и Украиной. Основные проблемы связаны с национальной безопасностью. Краткосрочные последствия - эскалация напряженности. Долгосрочные перспективы неопределенны. Основными участниками являются Россия и Украина.",
+        "analyse_fa": "زمینه تاریخی حملات پهپادهای اوکراین به مسکو با تنش بین روسیه و اوکراین مشخص شده است. مسائل اصلی به امنیت ملی مربوط می شود. پیامدهای کوتاه‌مدت افزایش تنش است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی روسیه و اوکراین هستند.",
+        "analyse_ar": "السياق التاريخي للهجمات الأوكرانية بطائرات بدون طيار على موسكو يتميز بالتوتر بين روسيا وأوكرانيا. القضايا الرئيسية تتعلق بالأمن القومي. العواقب قصيرة المدى هي تصعيد التوتر. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي روسيا وأوكرانيا.",
+        "categorie": "Géopolitique",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/dozens-ukrainian-drones-target-moscow-mayor-zelenskyy-vows/story?id=134540012",
+        "image": "https://s.yimg.com/lo/mysterio/api/20a1a772b705e434b962bec2ce644364146fe46ecee6f8221578a9889a95c20f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2Fe8202b773ac8f45891ca21e8879d464f",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ industrie de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ secteur énergétique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "industrie de la défense",
+            "secteur_en": "defense industry",
+            "secteur_zh": "国防工业",
+            "effet_fr": "Les attaques de drones ukrainiens pourraient avoir un impact sur l'industrie de la défense.",
+            "effet_en": "The Ukrainian drone attacks could have an impact on the defense industry.",
+            "effet_zh": "乌克兰无人机攻击可能会对国防工业产生影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "secteur énergétique",
+            "secteur_en": "energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les attaques de drones pourraient également avoir un impact sur le secteur énergétique.",
+            "effet_en": "The drone attacks could also have an impact on the energy sector.",
+            "effet_zh": "无人机攻击也可能对能源行业产生影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T19:15:29.787675"
+      },
       {
         "id": "russie_424759",
         "titre": "Russie interdit les exportations",
@@ -3140,59 +3208,68 @@
           }
         ],
         "created_at": "2026-07-07T23:42:25.549564"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_880536",
-        "titre": "Démocratie en Russie",
-        "titre_en": "Democracy in Russia",
-        "titre_zh": "俄罗斯民主",
-        "titre_original": "Too Many Pro-Democracy Groups Are Weakening the Cause",
-        "resume": "La démocratie en Russie est menacée par la multiplication des groupes pro-démocratie. Les conséquences sont incertaines. La situation est complexe.",
-        "resume_en": "Democracy in Russia is threatened by the proliferation of pro-democracy groups. The consequences are uncertain. The situation is complex.",
-        "resume_zh": "俄罗斯的民主受到众多亲民主团体的威胁。后果不确定。情况复杂。",
-        "analyse_detaillee": "Le contexte historique de la Russie est marqué par le régime soviétique. Les enjeux principaux sont la liberté d'expression et l'opposition. Les conséquences à court terme seront une répression accrue. Les perspectives à long terme sont sombres. Les acteurs clés sont le gouvernement et les groupes pro-démocratie.",
-        "analyse_en": "Russia's historical context is marked by the Soviet regime. The main stakes are freedom of expression and opposition. Short-term consequences will be increased repression. Long-term prospects are bleak. Key actors are the government and pro-democracy groups.",
-        "analyse_zh": "俄罗斯的历史背景以苏联政权为标志。主要影响是言论自由和反对派。短期后果将是加剧的镇压。长期前景黯淡。关键角色是政府和亲民主团体。",
+        "id": "iran_517441",
+        "titre": "Conflit entre les États-Unis et l'Iran",
+        "titre_en": "US-Iran Conflict",
+        "titre_zh": "美国与伊朗冲突",
+        "titre_ru": "Конфликт между США и Ираном",
+        "titre_fa": "درگیری بین ایالات متحده و ایران",
+        "titre_ar": "النزاع بين الولايات المتحدة وإيران",
+        "titre_original": "No strait answer as US and Iran are stuck in cycle of strikes",
+        "resume": "Les États-Unis et l'Iran sont engagés dans un cycle de violences. Les États-Unis cherchent à rétablir la navigation dans le détroit d'Hormuz. L'Iran résiste à la perte de contrôle sur le détroit.",
+        "resume_en": "The US and Iran are engaged in a cycle of violence. The US is seeking to restore navigation in the Strait of Hormuz. Iran is resisting the loss of control over the strait.",
+        "resume_zh": "美国和伊朗陷入暴力循环。美国试图恢复霍尔木兹海峡的航行。伊朗抵制失去对海峡的控制。",
+        "resume_ru": "США и Иран вовлечены в цикл насилия. США стремятся восстановить навигацию в Ормузском проливе. Иран сопротивляется потере контроля над проливом.",
+        "resume_fa": "ایالات متحده و ایران درگیر یک چرخه خشونت هستند. ایالات متحده تلاش می کند تا航ایی در تنگه هرمز را بازگرداند. ایران در برابر از دست دادن کنترل بر تنگه مقاومت می کند.",
+        "resume_ar": "الولايات المتحدة وإيران متورطان في دورة من العنف. الولايات المتحدة تسعى إلى استعادة الملاحة في مضيق هرمز. إيران تقاوم فقدان السيطرة على المضيق.",
+        "analyse_detaillee": "Le contexte historique du conflit entre les États-Unis et l'Iran est marqué par des décennies de tensions. Les enjeux principaux sont liés à la sécurité régionale. Les conséquences à court terme sont une escalade des violences. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis et l'Iran.",
+        "analyse_en": "The historical context of the US-Iran conflict is marked by decades of tensions. The main stakes are related to regional security. The short-term consequences are an escalation of violence. The long-term prospects are uncertain. The key actors are the US and Iran.",
+        "analyse_zh": "美国与伊朗冲突的历史背景是几十年的紧张关系。主要问题与地区安全有关。短期后果是暴力升级。长期前景不确定。主要参与者是美国和伊朗。",
+        "analyse_ru": "Исторический контекст конфликта между США и Ираном отмечен десятилетиями напряженности. Основные проблемы связаны с региональной безопасностью. Краткосрочные последствия - эскалация насилия. Долгосрочные перспективы неопределенны. Основными участниками являются США и Иран.",
+        "analyse_fa": "زمینه تاریخی درگیری بین ایالات متحده و ایران با دهه‌ها تنش مشخص شده است. مسائل اصلی به امنیت منطقه‌ای مربوط می شود. پیامدهای کوتاه‌مدت افزایش خشونت است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی ایالات متحده و ایران هستند.",
+        "analyse_ar": "السياق التاريخي للنزاع بين الولايات المتحدة وإيران يتميز بالتوتر لعدة عقود. القضايا الرئيسية تتعلق بالأمن الإقليمي. العواقب قصيرة المدى هي تصعيد العنف. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الولايات المتحدة وإيران.",
         "categorie": "Géopolitique",
-        "source": "Yale.edu",
-        "url": "https://insights.som.yale.edu/insights/too-many-pro-democracy-groups-are-weakening-the-cause",
-        "image": "https://insights.som.yale.edu/sites/default/files/styles/open_graph/public/2026-07/democracy%20groups.jpg?h=a51a5cf9&itok=1isJ5D7I",
-        "date": "2026-07-06",
-        "pays": "russie",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/07/08/no-strait-answer-as-us-and-iran-are-stuck-in-cycle-of-strikes/",
+        "image": "https://www.irishtimes.com/resizer/v2/NBHV3DYPGWQMH22XWJKA2VB65A.jpg?smart=true&auth=429a0379723ebff3db358844034589170528822f15ae598d3401d49b75ebbffa&width=1200&height=630",
+        "date": "2026-07-08",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Technologie",
-            "hausse": false
+            "label": "▲ industrie pétrolière",
+            "hausse": true
           },
           {
-            "label": "▼ Finance",
+            "label": "▼ secteur des transports",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologie",
-            "secteur_en": "Technology",
-            "secteur_zh": "技术",
-            "effet_fr": "Le secteur de la technologie sera impacté par les restrictions imposées par le gouvernement.",
-            "effet_en": "The technology sector will be impacted by the restrictions imposed by the government.",
-            "effet_zh": "技术行业将受到政府实施的限制的影响。",
-            "hausse": false
+            "secteur_fr": "industrie pétrolière",
+            "secteur_en": "oil industry",
+            "secteur_zh": "石油工业",
+            "effet_fr": "Le conflit entre les États-Unis et l'Iran pourrait avoir un impact sur l'industrie pétrolière.",
+            "effet_en": "The US-Iran conflict could have an impact on the oil industry.",
+            "effet_zh": "美国与伊朗的冲突可能会对石油工业产生影响。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Finance",
-            "secteur_en": "Finance",
-            "secteur_zh": "金融",
-            "effet_fr": "Le secteur financier pourrait également être affecté par l'instabilité politique.",
-            "effet_en": "The financial sector may also be affected by the political instability.",
-            "effet_zh": "金融行业也可能受到政治不稳定的影响。",
+            "secteur_fr": "secteur des transports",
+            "secteur_en": "transportation sector",
+            "secteur_zh": "交通运输行业",
+            "effet_fr": "Le conflit pourrait également avoir un impact sur le secteur des transports.",
+            "effet_en": "The conflict could also have an impact on the transportation sector.",
+            "effet_zh": "冲突也可能对交通运输行业产生影响。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-07T22:02:29.232582"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-09T19:15:29.787686"
+      },
       {
         "id": "iran_174064",
         "titre": "Téhéran cible Bahreïn",
@@ -4178,56 +4255,6 @@
           }
         ],
         "created_at": "2026-07-07T23:42:25.549570"
-      },
-      {
-        "id": "iran_899633",
-        "titre": "Trêve entre US et Iran",
-        "titre_en": "US-Iran Truce",
-        "titre_zh": "美伊停战",
-        "titre_original": "Commentary: US-Iran truce is all pause and no progress",
-        "resume": "La trêve entre les États-Unis et l'Iran est fragile. Les négociations sont en cours. L'issue est incertaine.",
-        "resume_en": "The truce between the US and Iran is fragile. Negotiations are ongoing. The outcome is uncertain.",
-        "resume_zh": "美伊停战态势脆弱。谈判正在进行。结果不确定。",
-        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et l'Iran est marqué par des décennies de tensions. Les enjeux principaux sont la sécurité régionale et la non-prolifération. Les conséquences à court terme seront une réévaluation des alliances. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis, l'Iran et les pays européens.",
-        "analyse_en": "The historical context of US-Iran relations is marked by decades of tension. The main stakes are regional security and non-proliferation. Short-term consequences will be a reevaluation of alliances. Long-term prospects are uncertain. Key actors are the US, Iran, and European countries.",
-        "analyse_zh": "美伊关系的历史背景以几十年的紧张局势为标志。主要影响是地区安全和非扩散。短期后果将是重新评估联盟。长期前景不确定。关键角色是美国、伊朗和欧洲国家。",
-        "categorie": "Géopolitique",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/commentary/us-iran-peace-truce-all-pause-no-progress-6232356",
-        "image": "https://dam.mediacorp.sg/image/upload/s--iiHEE7hU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-01T100936Z_2_LYNXMPEM602FY_RTROPTP_3_IRAN-CRISIS.JPG?itok=Tm8yqxnS",
-        "date": "2026-07-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Énergie",
-            "hausse": true
-          },
-          {
-            "label": "▼ Défense",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "Le secteur de l'énergie sera impacté par les décisions prises lors des négociations.",
-            "effet_en": "The energy sector will be impacted by the decisions made during the negotiations.",
-            "effet_zh": "能源行业将受到谈判中做出的决定的影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Défense",
-            "secteur_en": "Defense",
-            "secteur_zh": "国防",
-            "effet_fr": "Le secteur de la défense pourrait également être affecté par les accords de sécurité.",
-            "effet_en": "The defense sector may also be affected by the security agreements.",
-            "effet_zh": "国防行业也可能受到安全协议的影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T22:02:29.232592"
       }
     ]
   }
