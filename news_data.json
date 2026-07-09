@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/07/2026 à 19h15",
+  "last_updated": "09/07/2026 à 21h08",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_898964",
+        "titre": "Trump Accounts sur SiriusXM",
+        "titre_en": "Trump Accounts on SiriusXM",
+        "titre_zh": "特朗普账户在SiriusXM",
+        "titre_ru": "Счета Трампа на SiriusXM",
+        "titre_fa": "حساب های ترامپ در SiriusXM",
+        "titre_ar": "حسابات ترامب على SiriusXM",
+        "titre_original": "Finseca CEO Marc Cadin Touts Trump Accounts on SiriusXM Patriot's The Wilkow Majority",
+        "resume": "Le PDG de Finseca, Marc Cadin, a vanté les comptes Trump sur SiriusXM. Les comptes Trump sont considérés comme le véhicule d'épargne le plus important créé depuis une génération. Cela a été dit lors d'une interview avec Andrew Wilkow.",
+        "resume_en": "Finseca CEO Marc Cadin touted Trump accounts on SiriusXM. The Trump accounts are seen as the most significant savings vehicle created in a generation. This was stated during an interview with Andrew Wilkow.",
+        "resume_zh": "Finseca的CEO马克·卡丁在SiriusXM上吹捧特朗普账户。特朗普账户被认为是近代最重要的储蓄工具。这是在与安德鲁·威尔科的采访中说的。",
+        "resume_ru": "Генеральный директор Finseca Марк Кадин похвалил счета Трампа на SiriusXM. Счета Трампа считаются наиболее значимым средством сбережения, созданным за поколение. Это было сказано во время интервью с Эндрю Уилковым.",
+        "resume_fa": "مدیرعامل فینسکا، مارک کادین، حساب های ترامپ را در SiriusXM ستایش کرد. حساب های ترامپ به عنوان مهم ترین وسیله پس انداز ایجاد شده در یک نسل در نظر گرفته می شوند. این در مصاحبه با اندرو ویلکوف گفته شد.",
+        "resume_ar": "مدیر تنفیذی فینسکا، مارک کادین، حسابات ترامب على SiriusXM را تمجید کرد. حسابات ترامب أهم وسیلة توفیر أنشئت في جیل واحدة تعتبر. هذا تم القول خلال مقابلة مع أندرو ویلکوف.",
+        "analyse_detaillee": "Le contexte historique est celui de la création de nouveaux véhicules d'épargne. Les enjeux principaux sont la sécurité financière et la croissance économique. Les conséquences à court terme sont une augmentation de l'épargne. Les perspectives à long terme sont une stabilité financière accrue. Les acteurs clés sont les banques et les institutions financières.",
+        "analyse_en": "The historical context is the creation of new savings vehicles. The main stakes are financial security and economic growth. The short-term consequences are an increase in savings. The long-term prospects are increased financial stability. The key actors are banks and financial institutions.",
+        "analyse_zh": "历史背景是新型储蓄工具的创造。主要问题是金融安全和经济增长。短期后果是储蓄的增加。长期前景是金融稳定性的提高。关键角色是银行和金融机构。",
+        "analyse_ru": "Исторический контекст - создание новых средств сбережения. Основные проблемы - финансовая безопасность и экономический рост. Краткосрочные последствия - увеличение сбережений. Долгосрочные перспективы - повышение финансовой стабильности. Ключевые игроки - банки и финансовые учреждения.",
+        "analyse_fa": "زمینه تاریخی، ایجاد ابزارهای جدید پس انداز است. مسائل اصلی، امنیت مالی و رشد اقتصادی هستند. پیامدهای کوتاه مدت، افزایش پس انداز است. چشم اندازهای بلندمدت، افزایش پایداری مالی است. بازیگران کلیدی، بانک ها و موسسات مالی هستند.",
+        "analyse_ar": "السياق التاريخي هو إنشاء أدوات جديدة للاستثمار. القضايا الرئيسية هي الأمن المالي والنمو الاقتصادي. العواقب قصيرة المدى هي زيادة في الادخار. الآفاق طويلة المدى هي زيادة في الاستقرار المالي. الأطراف الرئيسية هي البنوك والمؤسسات المالية.",
+        "categorie": "Géopolitique",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/finseca-ceo-marc-cadin-touts-trump-accounts-on-siriusxm-patriots-the-wilkow-majority-302821205.html",
+        "image": "https://mmx.prnewswire.com/media/MS1073439/Finseca-Logo.jpg?id=OA2755859&p=facebook",
+        "date": "2026-07-08",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur bancaire",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur financier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur bancaire",
+            "secteur_en": "Banking sector",
+            "secteur_zh": "银行业",
+            "effet_fr": "L'impact sur le secteur bancaire est une augmentation de la confiance des épargnants.",
+            "effet_en": "The impact on the banking sector is an increase in saver confidence.",
+            "effet_zh": "对银行业的影响是储蓄者信心的提高。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "L'impact sur le secteur financier est une stabilité accrue.",
+            "effet_en": "The impact on the financial sector is increased stability.",
+            "effet_zh": "对金融行业的影响是稳定性的提高。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T21:08:30.354030"
+      },
       {
         "id": "usa_127759",
         "titre": "Trump inspire l'arche",
@@ -1709,56 +1768,6 @@
           }
         ],
         "created_at": "2026-07-08T01:16:27.439745"
-      },
-      {
-        "id": "usa_613675",
-        "titre": "McConnell hospitalisé",
-        "titre_en": "Mitch McConnell Hospitalized",
-        "titre_zh": "米奇·麦康奈尔住院",
-        "titre_original": "Laura Loomer, Reporter Claim Hospitalized Mitch McConnell Is ‘Brain Dead’",
-        "resume": "Le sénateur Mitch McConnell a été hospitalisé. Des sources non nommées affirment qu'il est déclaré 'cliniquement mort'. L'information n'a pas été confirmée. McConnell est un membre important du parti républicain. Son état de santé est suivi de près.",
-        "resume_en": "Senator Mitch McConnell was hospitalized. Unnamed sources claim he is declared 'brain dead'. The information has not been confirmed. McConnell is an important member of the Republican party. His health status is being closely monitored.",
-        "resume_zh": "参议员米奇·麦康奈尔被送往医院。未透露姓名的消息来源声称，他被宣布为'脑死亡'。这一信息尚未得到确认。麦康奈尔是共和党的重要成员。他的健康状况正在被密切关注。",
-        "analyse_detaillee": "Le contexte historique de cette situation est marqué par les tensions politiques aux États-Unis. Les enjeux principaux concernent la stabilité du parti républicain. Les conséquences à court terme pourraient être une réorganisation du parti. À long terme, cela pourrait avoir des implications sur les élections futures. Les acteurs clés sont les membres du parti républicain et les médias.",
-        "analyse_en": "The historical context of this situation is marked by political tensions in the United States. The main stakes concern the stability of the Republican party. The short-term consequences could be a reorganization of the party. In the long term, this could have implications for future elections. The key actors are the members of the Republican party and the media.",
-        "analyse_zh": "这种情况的历史背景是美国的政治紧张。主要影响是共和党的稳定。短期后果可能是党内重组。从长远来看，这可能会对未来的选举产生影响。关键人物是共和党成员和媒体。",
-        "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4386943/posts",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-07-06",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Secteur de la santé",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur politique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la santé",
-            "secteur_en": "Healthcare sector",
-            "secteur_zh": "医疗保健行业",
-            "effet_fr": "L'hospitalisation de Mitch McConnell a un impact sur la perception de la santé des personnalités politiques.",
-            "effet_en": "Mitch McConnell's hospitalization has an impact on the perception of the health of political figures.",
-            "effet_zh": "米奇·麦康奈尔的住院对政治人物的健康状况的看法产生了影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur politique",
-            "secteur_en": "Political sector",
-            "secteur_zh": "政治领域",
-            "effet_fr": "La situation de McConnell affecte la stabilité du parti républicain.",
-            "effet_en": "McConnell's situation affects the stability of the Republican party.",
-            "effet_zh": "麦康奈尔的处境影响了共和党的稳定性。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T23:42:25.549530"
       }
     ],
     "chine": [
@@ -2164,6 +2173,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_971287",
+        "titre": "Missile Oreshnik",
+        "titre_en": "Oreshnik Missile",
+        "titre_zh": "奥雷什尼克导弹",
+        "titre_ru": "Ракета Орешник",
+        "titre_fa": "موشک اورشنیک",
+        "titre_ar": "صاروخ أورشنيك",
+        "titre_original": "Russia's Oreshnik Missile Matters More For Deterrence Than Destruction",
+        "resume": "Le missile Oreshnik est plus important pour la dissuasion que pour la destruction. Les preuves techniques et les interviews suggèrent que la valeur du missile Oreshnik réside dans la dissuasion et le signal stratégique.",
+        "resume_en": "The Oreshnik missile is more important for deterrence than destruction. Technical evidence and interviews suggest that the Oreshnik missile's greatest value lies in deterrence and strategic signaling.",
+        "resume_zh": "奥雷什尼克导弹对威慑更重要而不是破坏。技术证据和采访表明，奥雷什尼克导弹的最大价值在于威慑和战略信号。",
+        "resume_ru": "Ракета Орешник более важна для сдерживания, чем для разрушения. Технические данные и интервью говорят о том, что основная ценность ракеты Орешник заключается в сдерживании и стратегическом сигнале.",
+        "resume_fa": "موشک اورشنیک برای بازدارندگی بیشتر از ویرانی اهمیت دارد. شواهد فنی و مصاحبه ها نشان می دهد که ارزش موشک اورشنیک در بازدارندگی و سیگنال استراتژیک نهفته است.",
+        "resume_ar": "صاروخ أورشنيك أكثر أهمية للرّدع من التدمير. الدلائل الفنية والمقابلات تشير إلى أن قيمة صاروخ أورشنيك تكمن في الرّدع والإشارة الاستراتيجية.",
+        "analyse_detaillee": "Le contexte historique est celui de la course aux armements. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont une instabilité accrue. Les acteurs clés sont les pays dotés d'armes nucléaires.",
+        "analyse_en": "The historical context is the arms race. The main stakes are national security and regional stability. The short-term consequences are an increase in tensions. The long-term prospects are increased instability. The key actors are nuclear-armed countries.",
+        "analyse_zh": "历史背景是军备竞赛。主要问题是国家安全和地区稳定。短期后果是紧张局势的加剧。长期前景是不稳定的增加。关键角色是拥有核武器的国家。",
+        "analyse_ru": "Исторический контекст - гонка вооружений. Основные проблемы - национальная безопасность и региональная стабильность. Краткосрочные последствия - увеличение напряженности. Долгосрочные перспективы - повышение нестабильности. Ключевые игроки - страны, обладающие ядерным оружием.",
+        "analyse_fa": "زمینه تاریخی، مسابقه تسلیحاتی است. مسائل اصلی، امنیت ملی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت، افزایش تنش است. چشم اندازهای بلندمدت، افزایش ناپایداری است. بازیگران کلیدی، کشورهایی با سلاح هسته ای هستند.",
+        "analyse_ar": "السياق التاريخي هو سباق التسلح. القضايا الرئيسية هي الأمن القومي والاستقرار الإقليمي. العواقب قصيرة المدى هي زيادة التوترات. الآفاق طويلة المدى هي زيادة في عدم الاستقرار. الأطراف الرئيسية هي الدول المسلحة بالاسلحة النووية.",
+        "categorie": "Géopolitique",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/davidkirichenko/2026/07/06/russias-oreshnik-missile-matters-more-for-deterrence-than-destruction/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4c76dadfd884f06d2e131d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Secteur de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur aéronautique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "L'impact sur le secteur de la défense est une augmentation des dépenses militaires.",
+            "effet_en": "The impact on the defense sector is an increase in military spending.",
+            "effet_zh": "对国防行业的影响是军费开支的增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur aéronautique",
+            "secteur_en": "Aerospace sector",
+            "secteur_zh": "航空航天行业",
+            "effet_fr": "L'impact sur le secteur aéronautique est une évolution des technologies.",
+            "effet_en": "The impact on the aerospace sector is an evolution of technologies.",
+            "effet_zh": "对航空航天行业的影响是技术的演进。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-09T21:08:30.354062"
+      },
       {
         "id": "russie_389688",
         "titre": "Drones ukrainiens à Moscou",
@@ -3158,59 +3226,68 @@
           }
         ],
         "created_at": "2026-07-08T01:16:27.439772"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_674506",
-        "titre": "Ukraine frappe des cibles russes",
-        "titre_en": "Ukraine Strikes Russian Targets",
-        "titre_zh": "乌克兰袭击俄罗斯目标",
-        "titre_original": "Ukraine Strikes 47 Russian Military Targets, Including S-400 Launchers and Fuel Tankers",
-        "resume": "L'Ukraine a lancé une attaque contre 47 cibles militaires russes, dont des lanceurs S-400 et des citernes de carburant. L'attaque a été menée par les forces ukrainiennes. Les dégâts causés sont importants.",
-        "resume_en": "Ukraine launched an attack on 47 Russian military targets, including S-400 launchers and fuel tankers. The attack was carried out by Ukrainian forces. The damage caused is significant.",
-        "resume_zh": "乌克兰对47个俄罗斯军事目标发动了攻击，包括S-400发射器和油箱。攻击由乌克兰军队实施。造成的损害很大。",
-        "analyse_detaillee": "Le contexte historique de cette situation est marqué par le conflit entre l'Ukraine et la Russie. Les enjeux principaux concernent la sécurité nationale. Les conséquences à court terme pourraient être une escalade du conflit. À long terme, cela pourrait avoir des implications sur la stabilité de la région. Les acteurs clés sont les gouvernements ukrainien et russe.",
-        "analyse_en": "The historical context of this situation is marked by the conflict between Ukraine and Russia. The main stakes concern national security. The short-term consequences could be an escalation of the conflict. In the long term, this could have implications for the stability of the region. The key actors are the Ukrainian and Russian governments.",
-        "analyse_zh": "这种情况的历史背景是乌克兰和俄罗斯之间的冲突。主要影响是国家安全。短期后果可能是冲突的升级。从长远来看，这可能会对该地区的稳定产生影响。关键人物是乌克兰和俄罗斯政府。",
+        "id": "iran_712667",
+        "titre": "Trump menace l'Iran",
+        "titre_en": "Trump threatens Iran",
+        "titre_zh": "特朗普威胁伊朗",
+        "titre_ru": "Трамп угрожает Ирану",
+        "titre_fa": "ترامپ ایران را تهدید می کند",
+        "titre_ar": "ترامب يهدد إيران",
+        "titre_original": "Trump vows to hit Iran ‘hard’, but says not looking for long war",
+        "resume": "Le président américain Donald Trump a menacé l'Iran de frappes militaires. Il a déclaré que les États-Unis frapperaient l'Iran 'fort' mais a laissé la porte ouverte à de nouvelles négociations.",
+        "resume_en": "US President Donald Trump threatened Iran with military strikes. He said the US would hit Iran 'hard' but left the door open for further talks.",
+        "resume_zh": "美国总统唐纳德·特朗普威胁伊朗将遭到军事打击。他说美国将会“狠狠地”打击伊朗，但仍然为进一步的谈判留下了余地。",
+        "resume_ru": "Президент США Дональд Трамп угрожал Ирану военными ударами. Он заявил, что США ударят по Ирану «жестоко», но оставил дверь открытой для дальнейших переговоров.",
+        "resume_fa": "رئیس جمهور آمریکا، دونالد ترامپ، ایران را با حملات نظامی تهدید کرد. او گفت که آمریکا به ایران «سخت» ضربه خواهد زد، اما در عین حال برای مذاکرات بیشتر در را باز گذاشت.",
+        "resume_ar": "هدد الرئيس الأمريكي دونالد ترامب إيران بالضربات العسكرية. وقال إن الولايات المتحدة سوف تضرب إيران «بقوة» ولكن ترك الباب مفتوحا للتفاوض.",
+        "analyse_detaillee": "Le contexte historique est celui des tensions entre les États-Unis et l'Iran. Les enjeux principaux sont la sécurité régionale et la stabilité du marché pétrolier. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont une instabilité accrue. Les acteurs clés sont les États-Unis, l'Iran et les pays de la région.",
+        "analyse_en": "The historical context is the tensions between the US and Iran. The main stakes are regional security and oil market stability. The short-term consequences are an increase in tensions. The long-term prospects are increased instability. The key actors are the US, Iran, and regional countries.",
+        "analyse_zh": "历史背景是美国和伊朗之间的紧张关系。主要问题是地区安全和石油市场稳定。短期后果是紧张局势的加剧。长期前景是不稳定的增加。关键角色是美国、伊朗和地区国家。",
+        "analyse_ru": "Исторический контекст - напряженность между США и Ираном. Основные проблемы - региональная безопасность и стабильность нефтяного рынка. Краткосрочные последствия - увеличение напряженности. Долгосрочные перспективы - повышение нестабильности. Ключевые игроки - США, Иран и страны региона.",
+        "analyse_fa": "زمینه تاریخی، تنش بین ایالات متحده و ایران است. مسائل اصلی، امنیت منطقه ای و ثبات بازار نفت هستند. پیامدهای کوتاه مدت، افزایش تنش است. چشم اندازهای بلندمدت، افزایش ناپایداری است. بازیگران کلیدی، ایالات متحده، ایران و کشورهای منطقه هستند.",
+        "analyse_ar": "السياق التاريخي هو التوتر بين الولايات المتحدة وإيران. القضايا الرئيسية هي الأمن الإقليمي وثبات سوق النفط. العواقب قصيرة المدى هي زيادة التوترات. الآفاق طويلة المدى هي زيادة في عدم الاستقرار. الأطراف الرئيسية هي الولايات المتحدة وإيران ودول المنطقة.",
         "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4386947/posts",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-07-06",
-        "pays": "russie",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/trump-vows-to-hit-iran-hard-but-says-not-looking-for-long-war/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/AFP__20260603__B4X482N__v1__MidRes__UsPoliticsTrump.jpg",
+        "date": "2026-07-08",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur de la défense",
+            "label": "▼ Secteur pétrolier",
             "hausse": false
           },
           {
-            "label": "▼ Secteur énergétique",
-            "hausse": false
+            "label": "▲ Secteur de la défense",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "L'attaque ukrainienne aura un impact sur la défense russe.",
-            "effet_en": "The Ukrainian attack will have an impact on Russian defense.",
-            "effet_zh": "乌克兰的攻击将对俄罗斯的国防产生影响。",
+            "secteur_fr": "Secteur pétrolier",
+            "secteur_en": "Oil sector",
+            "secteur_zh": "石油行业",
+            "effet_fr": "L'impact sur le secteur pétrolier est une augmentation de l'instabilité.",
+            "effet_en": "The impact on the oil sector is an increase in instability.",
+            "effet_zh": "对石油行业的影响是不稳定的增加。",
             "hausse": false
           },
           {
-            "secteur_fr": "Secteur énergétique",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "La destruction de citernes de carburant affectera les approvisionnements énergétiques.",
-            "effet_en": "The destruction of fuel tankers will affect energy supplies.",
-            "effet_zh": "油箱的破坏将影响能源供应。",
-            "hausse": false
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "L'impact sur le secteur de la défense est une augmentation des dépenses militaires.",
+            "effet_en": "The impact on the defense sector is an increase in military spending.",
+            "effet_zh": "对国防行业的影响是军费开支的增加。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-07-07T23:42:25.549564"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-09T21:08:30.354074"
+      },
       {
         "id": "iran_517441",
         "titre": "Conflit entre les États-Unis et l'Iran",
@@ -4205,56 +4282,6 @@
           }
         ],
         "created_at": "2026-07-08T01:16:27.439782"
-      },
-      {
-        "id": "iran_315974",
-        "titre": "Pétrole : les majors réalisent des bénéfices",
-        "titre_en": "Oil: Majors Make Profits",
-        "titre_zh": "石油：大公司获利",
-        "titre_original": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
-        "resume": "Les majors pétrolières réalisent des bénéfices records en raison de la hausse des prix du pétrole. La fermeture du détroit d'Ormuz a contribué à cette augmentation. Les bénéfices des entreprises comme ExxonMobil sont en hausse.",
-        "resume_en": "Oil majors are making record profits due to the rise in oil prices. The closure of the Strait of Hormuz contributed to this increase. The profits of companies like ExxonMobil are increasing.",
-        "resume_zh": "石油巨头由于石油价格上涨而获得了创纪录的利润。霍尔木兹海峡的关闭促成了这种增加。像埃克森美孚这样的公司的利润正在增加。",
-        "analyse_detaillee": "Le contexte historique de cette situation est marqué par les tensions géopolitiques dans la région. Les enjeux principaux concernent la sécurité énergétique. Les conséquences à court terme pourraient être une augmentation des prix de l'énergie. À long terme, cela pourrait avoir des implications sur la stabilité de la région. Les acteurs clés sont les pays producteurs de pétrole et les entreprises énergétiques.",
-        "analyse_en": "The historical context of this situation is marked by geopolitical tensions in the region. The main stakes concern energy security. The short-term consequences could be an increase in energy prices. In the long term, this could have implications for the stability of the region. The key actors are oil-producing countries and energy companies.",
-        "analyse_zh": "这种情况的历史背景是该地区的地缘政治紧张。主要影响是能源安全。短期后果可能是能源价格上涨。从长远来看，这可能会对该地区的稳定产生影响。关键人物是石油生产国和能源公司。",
-        "categorie": "Géopolitique",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Heads-for-Record-Profits-as-Trump-Turns-Up-the-Heat-on-Gas-Prices.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_wtkpif8lym.jpg",
-        "date": "2026-07-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Secteur pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur énergétique",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier",
-            "secteur_en": "Oil sector",
-            "secteur_zh": "石油行业",
-            "effet_fr": "La fermeture du détroit d'Ormuz a un impact sur les prix du pétrole.",
-            "effet_en": "The closure of the Strait of Hormuz has an impact on oil prices.",
-            "effet_zh": "霍尔木兹海峡的关闭对石油价格产生了影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur énergétique",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "Les bénéfices des entreprises énergétiques sont en hausse.",
-            "effet_en": "The profits of energy companies are increasing.",
-            "effet_zh": "能源公司的利润正在增加。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-07T23:42:25.549570"
       }
     ]
   }
