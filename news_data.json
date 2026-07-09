@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/07/2026 à 11h51",
+  "last_updated": "09/07/2026 à 14h20",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_592901",
+        "titre": "Trump exige réformes",
+        "titre_en": "Trump demands reforms",
+        "titre_zh": "特朗普要求改革",
+        "titre_ru": "Трамп требует реформ",
+        "titre_fa": "ترامپ اصلاحات را خواستار است",
+        "titre_ar": "ترامب يطالب بالإصلاحات",
+        "titre_original": "Trump demands Republicans use budgetary gambit to pass voting reforms",
+        "resume": "Donald Trump demande aux républicains de combiner les réformes électorales avec les dépenses de défense. Les réformes électorales sont un enjeu crucial pour les élections à venir. Les démocrates sont opposés à cette démarche.",
+        "resume_en": "Donald Trump is demanding that Republicans combine voting reforms with defense spending. Voting reforms are a crucial issue for upcoming elections. Democrats are opposed to this approach.",
+        "resume_zh": "特朗普要求共和党将选举改革与国防支出结合起来。选举改革是即将到来的选举的一个关键问题。民主党人反对这一做法。",
+        "resume_ru": "Трамп требует от республиканцев объединить избирательные реформы с оборонными расходами. Избирательные реформы являются ключевым вопросом для предстоящих выборов. Демократы выступают против этого подхода.",
+        "resume_fa": "ترامپ از جمهوری‌خواهان می‌خواهد که اصلاحات انتخاباتی را با هزینه‌های دفاعی ترکیب کنند. اصلاحات انتخاباتی یک مسئله کلیدی برای انتخابات آینده است. دموکرات‌ها با این رویکرد مخالف هستند.",
+        "resume_ar": "يريد ترامب من الجمهوريين أن يجمعوا بين الإصلاحات الانتخابية وإنفاق الدفاع. الإصلاحات الانتخابية هي قضية حاسمة للانتخابات القادمة. الديمقراطيون يعارضون هذا النهج.",
+        "analyse_detaillee": "Le contexte historique des réformes électorales aux États-Unis est complexe. Les enjeux principaux sont la sécurité des élections et la représentation équitable. Les conséquences à court terme seront une augmentation des tensions politiques. Les perspectives à long terme sont incertaines. Les acteurs clés sont les partis politiques et les électeurs.",
+        "analyse_en": "The historical context of voting reforms in the US is complex. The main stakes are election security and fair representation. The short-term consequences will be increased political tensions. The long-term prospects are uncertain. The key actors are political parties and voters.",
+        "analyse_zh": "美国选举改革的历史背景复杂。主要问题是选举安全和公平代表。短期后果将是政治紧张局势加剧。长期前景不确定。关键角色是政党和选民。",
+        "analyse_ru": "Исторический контекст избирательных реформ в США сложен. Основные проблемы - безопасность выборов и справедливое представительство. Краткосрочные последствия будут увеличением политических напряжений. Долгосрочные перспективы неопределенны. Ключевые акторы - политические партии и избиратели.",
+        "analyse_fa": "زمینه تاریخی اصلاحات انتخاباتی در ایالات متحده پیچیده است. مسائل اصلی امنیت انتخابات و نمایندگی عادلانه هستند. پیامدهای کوتاه‌مدت افزایش تنش‌های سیاسی خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی احزاب سیاسی و رای‌دهندگان هستند.",
+        "analyse_ar": "السياق التاريخي للإصلاحات الانتخابية في الولايات المتحدة معقد. القضايا الرئيسية هي أمن الانتخابات والتمثيل العادل. العواقب قصيرة المدى ستكون زيادة التوترات السياسية. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الأحزاب السياسية والناخبون.",
+        "categorie": "Géopolitique",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/news/politics/2026/07/07/trump-republicans-congress-voting-spending-bill/90831034007/",
+        "image": "https://s.yimg.com/lo/mysterio/api/71a2c8862fdab95516ebfe17b2472a5b3723390ecb7c8429105e4ad0b8bc1f4c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F42e610abd111d1a66f3fe7f39aa97161",
+        "date": "2026-07-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ marché boursier",
+            "hausse": false
+          },
+          {
+            "label": "▲ dollar américain",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché boursier",
+            "secteur_en": "stock market",
+            "secteur_zh": "股票市场",
+            "effet_fr": "L'impact sur le marché boursier sera négatif en raison de l'incertitude politique.",
+            "effet_en": "The impact on the stock market will be negative due to political uncertainty.",
+            "effet_zh": "由于政治不确定性，股票市场的影响将为负面。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "dollar américain",
+            "secteur_en": "US dollar",
+            "secteur_zh": "美国美元",
+            "effet_fr": "La valeur du dollar américain pourrait augmenter en raison de la demande de sécurité.",
+            "effet_en": "The value of the US dollar may increase due to demand for safety.",
+            "effet_zh": "由于对安全的需求，美国美元的价值可能会增加。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-09T14:20:41.325729"
+      },
       {
         "id": "usa_132157",
         "titre": "Les socialistes démocrates",
@@ -1682,56 +1741,6 @@
           }
         ],
         "created_at": "2026-07-07T20:42:20.970625"
-      },
-      {
-        "id": "usa_884076",
-        "titre": "Cour Suprême",
-        "titre_en": "US Supreme Court",
-        "titre_zh": "美国最高法院",
-        "titre_original": "We’re Not Doomed to Live Under the Supreme Court’s Mistakes. Here Are Five Ways Congress Can Clean Up SCOTUS’s Mess.",
-        "resume": "La Cour Suprême des États-Unis a pris des décisions controversées. Le Congrès peut intervenir pour corriger ces erreurs. Les conséquences de ces décisions sont importantes pour la société américaine.",
-        "resume_en": "The US Supreme Court has made controversial decisions. Congress can intervene to correct these mistakes. The consequences of these decisions are significant for American society.",
-        "resume_zh": "美国最高法院做出了有争议的决定。国会可以介入纠正这些错误。这些决定的后果对美国社会很重要。",
-        "analyse_detaillee": "Historiquement, la Cour Suprême a pris des décisions qui ont été contestées par la société. Les enjeux principaux sont la séparation des pouvoirs et la démocratie. Les conséquences à court terme sont une perte de confiance dans les institutions. Les perspectives à long terme sont une réforme du système judiciaire. Les acteurs clés sont le Congrès et la Cour Suprême.",
-        "analyse_en": "Historically, the Supreme Court has made decisions that have been contested by society. The main stakes are the separation of powers and democracy. The short-term consequences are a loss of trust in institutions. The long-term prospects are a reform of the judicial system. The key actors are Congress and the Supreme Court.",
-        "analyse_zh": "历史上，最高法院做出了被社会质疑的决定。主要影响是权力分立和民主。短期后果是对机构的信任丧失。长期前景是司法系统的改革。关键人物是国会和最高法院。",
-        "categorie": "Géopolitique",
-        "source": "Slate Magazine",
-        "url": "https://slate.com/news-and-politics/2026/07/supreme-court-decisions-what-congress-could-do.html",
-        "image": "https://compote.slate.com/images/bd658468-ddab-4df6-b1da-b7d5c142dc10.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "date": "2026-07-06",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Secteur juridique",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur politique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur juridique",
-            "secteur_en": "Legal sector",
-            "secteur_zh": "法律行业",
-            "effet_fr": "La décision de la Cour Suprême a un impact direct sur le secteur juridique.",
-            "effet_en": "The Supreme Court's decision has a direct impact on the legal sector.",
-            "effet_zh": "最高法院的决定直接影响了法律行业。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur politique",
-            "secteur_en": "Political sector",
-            "secteur_zh": "政治行业",
-            "effet_fr": "La décision de la Cour Suprême a également un impact sur le secteur politique.",
-            "effet_en": "The Supreme Court's decision also has an impact on the political sector.",
-            "effet_zh": "最高法院的决定也影响了政治行业。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T18:52:34.819582"
       }
     ],
     "chine": [
@@ -2137,6 +2146,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_591668",
+        "titre": "Guerre en Ukraine",
+        "titre_en": "War in Ukraine",
+        "titre_zh": "乌克兰战争",
+        "titre_ru": "Война на Украине",
+        "titre_fa": "جنگ در اوکراین",
+        "titre_ar": "حرب في أوكرانيا",
+        "titre_original": "Day 1,595 of WW3. Ukraine is reportedly completely out of PAC-3 interceptor missiles, leaving them defenseless against ballistic missiles. UAF responds to orc terror attacks by hitting fuel and power systems. This is your Tuesday Ukraine War thread [News]",
+        "resume": "La guerre en Ukraine continue de faire rage. Les Ukrainiens sont désormais sans défense contre les missiles balistiques. Les forces ukrainiennes ripostent en visant les infrastructures russes.",
+        "resume_en": "The war in Ukraine continues to rage. Ukrainians are now defenseless against ballistic missiles. Ukrainian forces are retaliating by targeting Russian infrastructure.",
+        "resume_zh": "乌克兰战争仍在继续。乌克兰人现在无法抵御弹道导弹。乌克兰军队正在通过攻击俄罗斯基础设施进行报复。",
+        "resume_ru": "Война на Украине продолжается. Украинцы теперь беззащитны против баллистических ракет. Украинские войска наносят ответный удар, нацеливаясь на российскую инфраструктуру.",
+        "resume_fa": "جنگ در اوکراین همچنان ادامه دارد. اوکراینی‌ها در حال حاضر در برابر موشک‌های بالستیک بی‌دفاع هستند. نیروهای اوکراین با هدف قرار دادن زیرساخت‌های روسیه در حال تلافی هستند.",
+        "resume_ar": "استمرار الحرب في أوكرانيا. الأوكرانيون现在 بدون دفاع ضد الصواريخ البالستية. القوات الأوكرانية ترد بالضربة من خلال استهداف البنية التحتية الروسية.",
+        "analyse_detaillee": "Le contexte historique de la guerre en Ukraine est complexe et implique plusieurs acteurs. Les enjeux principaux sont la souveraineté ukrainienne et la sécurité régionale. Les conséquences à court terme seront une augmentation des pertes humaines. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of the war in Ukraine is complex and involves multiple actors. The main stakes are Ukrainian sovereignty and regional security. The short-term consequences will be increased human losses. The long-term prospects are uncertain.",
+        "analyse_zh": "乌克兰战争的历史背景复杂，涉及多个角色。主要问题是乌克兰的主权和地区安全。短期后果将是人员损失增加。长期前景不确定。",
+        "analyse_ru": "Исторический контекст войны на Украине сложен и включает в себя несколько участников. Основные проблемы - суверенитет Украины и региональная безопасность. Краткосрочные последствия будут увеличением человеческих потерь. Долгосрочные перспективы неопределенны.",
+        "analyse_fa": "زمینه تاریخی جنگ در اوکراین پیچیده است و چندین بازیگر را دربر می‌گیرد. مسائل اصلی حاکمیت اوکراین و امنیت منطقه‌ای هستند. پیامدهای کوتاه‌مدت افزایش تلفات انسانی خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است.",
+        "analyse_ar": "السياق التاريخي للحرب في أوكرانيا معقد ويشمل عدة لاعبين. القضايا الرئيسية هي السيادة الأوكرانية والأمن الإقليمي. العواقب قصيرة المدى ستكون زيادة الخسائر البشرية. الآفاق طويلة المدى غير مؤكدة.",
+        "categorie": "Géopolitique",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14122534/Day-1595-of-WW3-Ukraine-is-reportedly-completely-out-of-PAC-3-interceptor-missiles-leaving-them-defenseless-against-ballistic-missiles-UAF-responds-to-orc-terror-attacks-by-hitting-fuel-power-systems-This-is-your-Tuesday-Ukraine-War-thread",
+        "image": "https://usrimg-full.fark.net/F/Fy/fark_FyXliijUR6wWGnSN1amSbQUydFQ.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1783915200&Signature=%2FfnY%2FE1l98o5cVECEZdNulLfhrw%3D",
+        "date": "2026-07-07",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ marché des armes",
+            "hausse": true
+          },
+          {
+            "label": "▲ prix du pétrole",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des armes",
+            "secteur_en": "arms market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "La guerre en Ukraine entraîne une augmentation de la demande d'armes.",
+            "effet_en": "The war in Ukraine is driving up demand for arms.",
+            "effet_zh": "乌克兰战争导致武器需求增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "prix du pétrole",
+            "secteur_en": "oil price",
+            "secteur_zh": "石油价格",
+            "effet_fr": "Le conflit en Ukraine pourrait entraîner une augmentation du prix du pétrole.",
+            "effet_en": "The conflict in Ukraine could lead to an increase in oil prices.",
+            "effet_zh": "乌克兰冲突可能导致石油价格上涨。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-09T14:20:41.325762"
+      },
       {
         "id": "russie_162406",
         "titre": "Pénurie de carburant",
@@ -3104,59 +3172,68 @@
           }
         ],
         "created_at": "2026-07-07T20:42:20.970652"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_245814",
-        "titre": "Exportations pétrolières",
-        "titre_en": "Oil exports",
-        "titre_zh": "石油出口",
-        "titre_original": "Russia ships record oil volumes but revenue falls to $1.9B per week in June",
-        "resume": "La Russie a augmenté ses exportations de pétrole, mais ses revenus ont diminué. Cela pourrait avoir des conséquences sur le budget russe et les marchés mondiaux de l'énergie.",
-        "resume_en": "Russia has increased its oil exports, but its revenue has decreased. This could have consequences for the Russian budget and global energy markets.",
-        "resume_zh": "俄罗斯增加了石油出口，但收入却减少了。这可能会对俄罗斯预算和全球能源市场产生影响。",
-        "analyse_detaillee": "La Russie est un acteur majeur dans le marché de l'énergie. Les enjeux principaux sont la stabilité des marchés et la sécurité énergétique. Les conséquences à court terme sont une augmentation de la production pétrolière. Les perspectives à long terme sont une diversification des sources d'énergie. Les acteurs clés sont la Russie et l'OPEP.",
-        "analyse_en": "Russia is a major player in the energy market. The main stakes are market stability and energy security. The short-term consequences are an increase in oil production. The long-term prospects are a diversification of energy sources. The key actors are Russia and OPEC.",
-        "analyse_zh": "俄罗斯是能源市场的主要参与者。主要影响是市场稳定和能源安全。短期后果是石油生产的增加。长期前景是能源来源的多元化。关键人物是俄罗斯和欧佩克。",
+        "id": "iran_627774",
+        "titre": "Tensions entre États-Unis et Iran",
+        "titre_en": "US-Iran tensions",
+        "titre_zh": "美国-伊朗紧张关系",
+        "titre_ru": "Напряженность между США и Ираном",
+        "titre_fa": "تنش بین ایالات متحده و ایران",
+        "titre_ar": "توتر بين الولايات المتحدة وإيران",
+        "titre_original": "Why have US-Iran strikes resumed and what does it mean for peace?",
+        "resume": "Les tensions entre les États-Unis et l'Iran sont en augmentation. Les deux pays s'accusent mutuellement de violer l'accord. Les conséquences pour la région et le monde entier sont importantes.",
+        "resume_en": "Tensions between the US and Iran are escalating. Both countries are accusing each other of violating the agreement. The consequences for the region and the world are significant.",
+        "resume_zh": "美国和伊朗之间的紧张关系正在升级。两国相互指责对方违反协议。对该地区和整个世界的影响很大。",
+        "resume_ru": "Напряженность между США и Ираном усиливается. Обе страны обвиняют друг друга в нарушении соглашения. Последствия для региона и всего мира значительны.",
+        "resume_fa": "تنش بین ایالات متحده و ایران در حال افزایش است. هر دو کشور یکدیگر را متهم به نقض توافقنامه می‌کنند. پیامدهای این موضوع برای منطقه و جهان مهم است.",
+        "resume_ar": "التوتر بين الولايات المتحدة وإيران في تزايد. كلا البلدين يتهمون بعضهما البعض بخرق الاتفاق. العواقب على المنطقة والعالم كله كبيرة.",
+        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et l'Iran est complexe. Les enjeux principaux sont la sécurité régionale et la stabilité mondiale. Les conséquences à court terme seront une augmentation des tensions. Les perspectives à long terme sont incertaines.",
+        "analyse_en": "The historical context of US-Iran relations is complex. The main stakes are regional security and global stability. The short-term consequences will be increased tensions. The long-term prospects are uncertain.",
+        "analyse_zh": "美国和伊朗之间的关系历史背景复杂。主要问题是地区安全和全球稳定。短期后果将是紧张局势加剧。长期前景不确定。",
+        "analyse_ru": "Исторический контекст отношений между США и Ираном сложен. Основные проблемы - региональная безопасность и глобальная стабильность. Краткосрочные последствия будут увеличением напряжений. Долгосрочные перспективы неопределенны.",
+        "analyse_fa": "زمینه تاریخی روابط بین ایالات متحده و ایران پیچیده است. مسائل اصلی امنیت منطقه‌ای و ثبات جهانی هستند. پیامدهای کوتاه‌مدت افزایش تنش‌ها خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است.",
+        "analyse_ar": "السياق التاريخي للعلاقات بين الولايات المتحدة وإيران معقد. القضايا الرئيسية هي الأمن الإقليمي والاستقرار العالمي. العواقب قصيرة المدى ستكون زيادة التوترات. الآفاق طويلة المدى غير مؤكدة.",
         "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russia-record-oil-exports-revenue-falls/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06144643/russian-shadow-fleet-tanker-1-800x420.jpeg",
-        "date": "2026-07-06",
-        "pays": "russie",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/8/why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-talks",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26183278812917-1783496161.jpg?resize=1920%2C1440",
+        "date": "2026-07-08",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur énergétique",
+            "label": "▲ marché pétrolier",
             "hausse": true
           },
           {
-            "label": "▼ Secteur financier",
+            "label": "▼ taux de change",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur énergétique",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "La décision de la Russie d'augmenter ses exportations de pétrole a un impact direct sur le secteur énergétique.",
-            "effet_en": "Russia's decision to increase its oil exports has a direct impact on the energy sector.",
-            "effet_zh": "俄罗斯决定增加石油出口对能源行业有直接影响。",
+            "secteur_fr": "marché pétrolier",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les tensions entre les États-Unis et l'Iran pourraient avoir un impact sur le marché pétrolier.",
+            "effet_en": "Tensions between the US and Iran could impact the oil market.",
+            "effet_zh": "美国和伊朗之间的紧张关系可能会影响石油市场。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur financier",
-            "secteur_en": "Financial sector",
-            "secteur_zh": "金融行业",
-            "effet_fr": "La diminution des revenus de la Russie pourrait avoir un impact sur le secteur financier.",
-            "effet_en": "Russia's decreased revenue could have an impact on the financial sector.",
-            "effet_zh": "俄罗斯收入的减少可能会影响金融行业。",
+            "secteur_fr": "taux de change",
+            "secteur_en": "exchange rate",
+            "secteur_zh": "汇率",
+            "effet_fr": "Les tensions entre les États-Unis et l'Iran pourraient également affecter les taux de change.",
+            "effet_en": "Tensions between the US and Iran could also affect exchange rates.",
+            "effet_zh": "美国和伊朗之间的紧张关系也可能影响汇率。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-07T18:52:34.819608"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-09T14:20:41.325773"
+      },
       {
         "id": "iran_342473",
         "titre": " Hausse du pétrole",
@@ -4124,56 +4201,6 @@
           }
         ],
         "created_at": "2026-07-07T20:42:20.970661"
-      },
-      {
-        "id": "iran_245814",
-        "titre": "Non applicable",
-        "titre_en": "Not applicable",
-        "titre_zh": "不适用",
-        "titre_original": "Russia ships record oil volumes but revenue falls to $1.9B per week in June",
-        "resume": "L'article ne concerne pas l'Iran, mais la Russie. Il n'y a pas d'information pertinente sur l'Iran.",
-        "resume_en": "The article does not concern Iran, but Russia. There is no relevant information about Iran.",
-        "resume_zh": "该文章不涉及伊朗，而是俄罗斯。没有关于伊朗的相关信息。",
-        "analyse_detaillee": "Il n'y a pas d'analyse possible en raison du manque d'information sur l'Iran.",
-        "analyse_en": "There is no possible analysis due to the lack of information about Iran.",
-        "analyse_zh": "由于缺乏关于伊朗的信息，无法进行分析。",
-        "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/russia-record-oil-exports-revenue-falls/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06144643/russian-shadow-fleet-tanker-1-800x420.jpeg",
-        "date": "2026-07-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Non applicable",
-            "hausse": false
-          },
-          {
-            "label": "▼ Non applicable",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Non applicable",
-            "secteur_en": "Not applicable",
-            "secteur_zh": "不适用",
-            "effet_fr": "Il n'y a pas d'effet possible à évaluer.",
-            "effet_en": "There is no possible effect to evaluate.",
-            "effet_zh": "没有可以评估的影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Non applicable",
-            "secteur_en": "Not applicable",
-            "secteur_zh": "不适用",
-            "effet_fr": "Il n'y a pas d'effet possible à évaluer.",
-            "effet_en": "There is no possible effect to evaluate.",
-            "effet_zh": "没有可以评估的影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-07T18:52:34.819616"
       }
     ]
   }
