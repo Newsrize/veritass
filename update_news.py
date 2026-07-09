@@ -5,12 +5,12 @@ NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY")
 GROQ_KEY = os.environ.get("GROQ_KEY")
 
 PAYS = [
-    {"id": "monde",  "query": "geopolitics war economy 2026", "lang": "en"},
-    {"id": "france", "query": "France politique economie 2026", "lang": "fr"},
-    {"id": "usa",    "query": "Trump United States politics 2026", "lang": "en"},
-    {"id": "chine",  "query": "China Xi economy 2026", "lang": "en"},
-    {"id": "russie", "query": "Russia Ukraine war 2026", "lang": "en"},
-    {"id": "iran",   "query": "Iran Middle East 2026", "lang": "en"},
+    {"id": "monde",  "query": "geopolitics NATO diplomacy sanctions 2026", "lang": "en"},
+    {"id": "france", "query": "France Macron gouvernement economie 2026", "lang": "fr"},
+    {"id": "usa",    "query": "Trump White House Congress Washington 2026", "lang": "en"},
+    {"id": "chine",  "query": "China Beijing Xi Jinping Taiwan 2026", "lang": "en"},
+    {"id": "russie", "query": "Russia Putin Kremlin Ukraine Kyiv Moscow 2026", "lang": "en"},
+    {"id": "iran",   "query": "Iran Tehran nuclear Khamenei Hormuz 2026", "lang": "en"},
 ]
 
 IMGS = {
@@ -23,18 +23,35 @@ IMGS = {
 }
 
 EXCLUS = ["market report","market size","market research","global market","forecasted",
-          "show hn","hili dialogue","tutorial","subscribe","podcast","nfl","nba","sports","fireworks"]
+          "show hn","hili dialogue","tutorial","subscribe","podcast","nfl","nba","sports","fireworks",
+          "sensex","nifty","bse","bombay","mumbai","india stock","rupee","dalal street",
+          "cricket","ipl","bollywood","weather","recipe","horoscope","lottery"]
 
 def normalize(t):
     return re.sub(r'\s+', ' ', (t or "").lower().strip())[:80]
 
-def is_valid(title, desc):
+PAYS_KEYWORDS = {
+    "monde":  [],  # pas de filtre strict pour monde
+    "france": ["france","french","paris","macron","élysée","gouvernement","assemblée"],
+    "usa":    ["trump","united states","washington","congress","american","white house","biden","democrat","republican"],
+    "chine":  ["china","chinese","beijing","xi jinping","taiwan","hong kong","shanghai"],
+    "russie": ["russia","russian","putin","kremlin","ukraine","kyiv","moscow","nato","zelensky"],
+    "iran":   ["iran","iranian","tehran","khamenei","hormuz","nuclear","persian","irgc"],
+}
+
+def is_valid(title, desc, pays_id=None):
     if not title or title == "[Removed]" or len(title) < 20:
         return False
     text = (title + " " + (desc or "")).lower()
-    return not any(m in text for m in EXCLUS)
+    if any(m in text for m in EXCLUS):
+        return False
+    # Vérifier que l'article est bien lié au pays concerné
+    if pays_id and PAYS_KEYWORDS.get(pays_id):
+        if not any(kw in text for kw in PAYS_KEYWORDS[pays_id]):
+            return False
+    return True
 
-def get_one_article(query, lang, existing_titles):
+def get_one_article(query, lang, existing_titles, pays_id=None):
     try:
         r = requests.get("https://newsapi.org/v2/everything", params={
             "q": query, "language": lang, "sortBy": "publishedAt",
@@ -44,7 +61,7 @@ def get_one_article(query, lang, existing_titles):
         if r.status_code == 200:
             for a in r.json().get("articles", []):
                 titre = (a.get("title") or "").strip()
-                if is_valid(titre, a.get("description")) and normalize(titre) not in existing_titles:
+                if is_valid(titre, a.get("description"), pays_id) and normalize(titre) not in existing_titles:
                     return a
     except Exception as e:
         print(f"  NewsAPI: {e}")
@@ -97,12 +114,21 @@ Return exactly {len(lines)} objects in this JSON array:
     "titre_fr": "titre français max 12 mots",
     "titre_en": "english title max 12 words",
     "titre_zh": "中文标题最多12字",
-    "resume_fr": "Résumé 3 phrases compètes en français.",
+    "titre_ru": "заголовок на русском максимум 12 слов",
+    "titre_fa": "عنوان به فارسی حداکثر 12 کلمه",
+    "titre_ar": "عنوان بالعربية 12 كلمة كحد أقصى",
+    "resume_fr": "Résumé 3 phrases complètes en français.",
     "resume_en": "Summary 3 complete sentences in English.",
     "resume_zh": "3句完整的中文摘要。",
+    "resume_ru": "Резюме 3 полных предложения на русском языке.",
+    "resume_fa": "خلاصه 3 جمله کامل به فارسی.",
+    "resume_ar": "ملخص 3 جمل كاملة باللغة العربية.",
     "analyse_fr": "Analyse 5 phrases en français: contexte historique, enjeux principaux, conséquences à court terme, perspectives à long terme, position des acteurs.",
     "analyse_en": "Analysis 5 sentences in English: historical context, main stakes, short-term consequences, long-term prospects, position of actors.",
     "analyse_zh": "5句中文分析：历史背景、主要影响、短期后果、长期前景、各方立场。",
+    "analyse_ru": "Анализ 5 предложений на русском: исторический контекст, основные проблемы, краткосрочные последствия, долгосрочные перспективы, позиции сторон.",
+    "analyse_fa": "تحلیل 5 جمله به فارسی: زمینه تاریخی، مسائل اصلی، پیامدهای کوتاه‌مدت، چشم‌اندازهای بلندمدت، موضع بازیگران.",
+    "analyse_ar": "تحليل 5 جمل بالعربية: السياق التاريخي، القضايا الرئيسية، العواقب قصيرة المدى، الآفاق طويلة المدى، مواقف الأطراف.",
     "categorie": "Géopolitique",
     "s1_fr": "nom précis secteur financier impacté",
     "s1_en": "precise name of impacted financial sector",
@@ -183,7 +209,7 @@ def main():
         pid = pays["id"]
         existing_titles = {normalize(a.get("titre_original") or a.get("titre",""))
                           for a in existing.get(pid, [])}
-        art = get_one_article(pays["query"], pays["lang"], existing_titles)
+        art = get_one_article(pays["query"], pays["lang"], existing_titles, pid)
         if art:
             titre = (art.get("title") or "").strip()
             print(f"→ {pid.upper()}: {titre[:60]}...")
@@ -208,13 +234,22 @@ def main():
                 "titre": r.get("titre_fr", titre),
                 "titre_en": r.get("titre_en", titre),
                 "titre_zh": r.get("titre_zh", titre),
+                "titre_ru": r.get("titre_ru", titre),
+                "titre_fa": r.get("titre_fa", titre),
+                "titre_ar": r.get("titre_ar", titre),
                 "titre_original": titre,
                 "resume": r.get("resume_fr", ""),
                 "resume_en": r.get("resume_en", ""),
                 "resume_zh": r.get("resume_zh", ""),
+                "resume_ru": r.get("resume_ru", ""),
+                "resume_fa": r.get("resume_fa", ""),
+                "resume_ar": r.get("resume_ar", ""),
                 "analyse_detaillee": r.get("analyse_fr", ""),
                 "analyse_en": r.get("analyse_en", ""),
                 "analyse_zh": r.get("analyse_zh", ""),
+                "analyse_ru": r.get("analyse_ru", ""),
+                "analyse_fa": r.get("analyse_fa", ""),
+                "analyse_ar": r.get("analyse_ar", ""),
                 "categorie": r.get("categorie", "Actualité"),
                 "source": art.get("source", {}).get("name", ""),
                 "url": art.get("url", "#"),
