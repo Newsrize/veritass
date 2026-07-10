@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/07/2026 à 22h45",
+  "last_updated": "10/07/2026 à 23h43",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_514498",
+        "titre": "Aéroport de Floride renommé",
+        "titre_en": "Florida Airport Renamed",
+        "titre_zh": "佛罗里达机场更名",
+        "titre_ru": "Переименование аэропорта Флориды",
+        "titre_fa": "تغییر نام فرودگاه فلوریدا",
+        "titre_ar": "تسمية مطار فلوريدا",
+        "titre_original": "What's in a name? Florida airport renamed for Trump",
+        "resume": "L'aéroport international de Palm Beach sera renommé en l'honneur de Donald Trump. Cette décision a suscité des réactions mitigées. L'aéroport sera désormais connu sous le nom de DJT.",
+        "resume_en": "Palm Beach International Airport will be renamed in honor of Donald Trump. This decision has sparked mixed reactions. The airport will now be known as DJT.",
+        "resume_zh": "棕榈滩国际机场将以唐纳德·特朗普的名字重新命名。这一决定引发了混合反应。机场现在将被称为DJT。",
+        "resume_ru": "Международный аэропорт Палм-Бич будет переименован в честь Дональда Трампа. Это решение вызвало смешанную реакцию. Аэропорт теперь будет известен как DJT.",
+        "resume_fa": "فرودگاه بین المللی پالم بیچ به نام دونالد ترامپ تغییر نام خواهد داد. این تصمیم واکنش های متفاوتی را برانگیخت. فرودگاه اکنون با نام DJT شناخته می شود.",
+        "resume_ar": "سيتم إعادة تسمية مطار بالم بيتش الدولي على اسم دونالد ترامب. هذا القرار أثار ردود فعل متباينة. سيتم التعرف على المطار الآن باسم DJT.",
+        "analyse_detaillee": "Le contexte historique de cette décision est marqué par les relations tendues entre Trump et la Floride. Les enjeux principaux concernent l'impact sur l'économie locale. Les conséquences à court terme seront probablement positives pour les partisans de Trump. Les perspectives à long terme sont incertaines. Les acteurs clés sont les autorités locales et Trump lui-même.",
+        "analyse_en": "The historical context of this decision is marked by strained relations between Trump and Florida. The main stakes concern the impact on the local economy. The short-term consequences will likely be positive for Trump's supporters. The long-term prospects are uncertain. The key actors are local authorities and Trump himself.",
+        "analyse_zh": "这一决定的历史背景是特朗普和佛罗里达州之间的紧张关系。主要问题是对当地经济的影响。短期后果可能对特朗普的支持者有利。长期前景不确定。关键人物是当地政府和特朗普本人。",
+        "analyse_ru": "Исторический контекст этого решения характеризуется напряженными отношениями между Трампом и Флоридой. Основные проблемы связаны с влиянием на местную экономику. Краткосрочные последствия, вероятно, будут положительными для сторонников Трампа. Долгосрочные перспективы неопределенны. Ключевыми лицами являются местные власти и сам Трамп.",
+        "analyse_fa": "زمینه تاریخی این تصمیم با روابط緊張 بین ترامپ و فلوریدا مشخص می شود. مسائل اصلی مربوط به تأثیر بر اقتصاد محلی است. پیامدهای کوتاه‌مدت احتمالاً برای حامیان ترامپ مثبت خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی مقامات محلی و خود ترامپ هستند.",
+        "analyse_ar": "السياق التاريخي لهذا القرار يتميز بالعلاقات المتصدعة بين ترامب وفلوريدا. القضايا الرئيسية تتعلق بالتأثير على الاقتصاد المحلي. العواقب قصيرة المدى من المحتمل أن تكون إيجابية لمناصري ترامب. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي السلطات المحلية وترامب نفسه.",
+        "categorie": "Géopolitique",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0709/1581412-donald-trump-international-airport/",
+        "image": "https://www.rte.ie/images/0024a034-1600.jpg",
+        "date": "2026-07-09",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Tourisme",
+            "hausse": true
+          },
+          {
+            "label": "▼ Immobilier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Tourisme",
+            "secteur_en": "Tourism",
+            "secteur_zh": "旅游业",
+            "effet_fr": "La renomination de l'aéroport pourrait attirer plus de touristes.",
+            "effet_en": "The renaming of the airport could attract more tourists.",
+            "effet_zh": "机场更名可能会吸引更多的游客。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Immobilier",
+            "secteur_en": "Real Estate",
+            "secteur_zh": "房地产",
+            "effet_fr": "La renomination pourrait avoir un impact sur les prix immobiliers locaux.",
+            "effet_en": "The renaming could have an impact on local real estate prices.",
+            "effet_zh": "更名可能会影响当地房地产价格。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T23:43:59.732839"
+      },
       {
         "id": "usa_229107",
         "titre": "Administration Trump bloquée",
@@ -1772,56 +1831,6 @@
           }
         ],
         "created_at": "2026-07-08T19:00:31.973696"
-      },
-      {
-        "id": "usa_404165",
-        "titre": "Trump et l'Europe",
-        "titre_en": "Trump's Europe",
-        "titre_zh": "特朗普与欧洲",
-        "titre_original": "Trump’s Spat With Meloni Shows He Can’t Even Keep Far Right Leaders on His Side",
-        "resume": "Les relations entre Trump et l'Europe sont tendues. Seulement 11% des Européens considèrent les États-Unis comme un allié stable. Cette perception négative affecte la coopération internationale.",
-        "resume_en": "Relations between Trump and Europe are strained. Only 11% of Europeans see the US as a steady ally. This negative perception affects international cooperation.",
-        "resume_zh": "特朗普与欧洲的关系紧张。仅11%的欧洲人认为美国是一个稳定的盟友。这一负面认知影响了国际合作。",
-        "analyse_detaillee": "Le contexte historique des relations entre les États-Unis et l'Europe montre des périodes de coopération et de tension. Les enjeux principaux incluent la sécurité et les échanges commerciaux. Les conséquences à court terme pourraient être des difficultés dans les négociations internationales. À long terme, les perspectives sont incertaines avec des défis pour la stabilité globale.",
-        "analyse_en": "The historical context of US-Europe relations shows periods of cooperation and tension. The main stakes include security and trade exchanges. Short-term consequences could be difficulties in international negotiations. Long-term prospects are uncertain with challenges for global stability.",
-        "analyse_zh": "美国与欧洲的关系历史背景显示出合作与紧张的时期。主要影响包括安全和贸易交流。短期后果可能是国际谈判困难。长期前景不确定，全球稳定面临挑战。",
-        "categorie": "Géopolitique",
-        "source": "Truthout",
-        "url": "https://truthout.org/articles/trumps-spat-with-meloni-shows-he-cant-even-keep-far-right-leaders-on-his-side/",
-        "image": "https://truthout.org/app/uploads/2026/07/GettyImages-2281264839-scaled.jpg",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché des armes",
-            "hausse": false
-          },
-          {
-            "label": "▼ Industrie aéronautique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des armes",
-            "secteur_en": "Arms market",
-            "secteur_zh": "武器市场",
-            "effet_fr": "Les tensions entre les États-Unis et l'Europe pourraient avoir un impact sur le marché des armes, avec des conséquences sur la sécurité internationale.",
-            "effet_en": "Tensions between the US and Europe could impact the arms market, with consequences for international security.",
-            "effet_zh": "美国与欧洲之间的紧张关系可能会影响武器市场，对国际安全产生影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Industrie aéronautique",
-            "secteur_en": "Aerospace industry",
-            "secteur_zh": "航空航天工业",
-            "effet_fr": "L'industrie aéronautique pourrait également être affectée par les relations tendues entre les États-Unis et l'Europe, avec des répercussions sur les échanges commerciaux.",
-            "effet_en": "The aerospace industry could also be affected by strained US-Europe relations, with repercussions on trade exchanges.",
-            "effet_zh": "航空航天工业同样可能受到美国与欧洲关系紧张的影响，贸易交流受到影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T17:14:25.135065"
       }
     ],
     "chine": [
@@ -2227,6 +2236,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_846172",
+        "titre": "Pays-Bas limitent aide militaire",
+        "titre_en": "Netherlands Limits Military Aid",
+        "titre_zh": "荷兰限制军事援助",
+        "titre_ru": "Нидерланды ограничивают военную помощь",
+        "titre_fa": "هلند محدودیت کمک های نظامی",
+        "titre_ar": "هولندا تضع حدودا للعون العسكري",
+        "titre_original": "Netherlands Says It Has No More Weapons to Send to Ukraine",
+        "resume": "Les Pays-Bas ont annoncé qu'ils n'avaient plus d'armes à envoyer en Ukraine. Cette décision a été prise après une évaluation de leurs capacités militaires. Les Pays-Bas ont déjà fourni une aide significative à l'Ukraine.",
+        "resume_en": "The Netherlands has announced that it has no more weapons to send to Ukraine. This decision was made after an assessment of their military capabilities. The Netherlands has already provided significant aid to Ukraine.",
+        "resume_zh": "荷兰宣布他们没有更多的武器可以送到乌克兰。这一决定是在评估他们的军事能力之后做出的。荷兰已经向乌克兰提供了大量的援助。",
+        "resume_ru": "Нидерланды объявили, что у них больше нет оружия, которое можно отправить на Украину. Это решение было принято после оценки их военных возможностей. Нидерланды уже предоставили значительную помощь Украине.",
+        "resume_fa": "هلند اعلام کرده است که دیگر سلاحی برای ارسال به اوکراین ندارد. این تصمیم پس از ارزیابی ظرفیت های نظامی آنها گرفته شده است. هلند قبلا کمک قابل توجهی به اوکراین کرده است.",
+        "resume_ar": "أعلنت هولندا أنها لا تمتلك أكثر من أسلحة لإرسالها إلى أوكرانيا. هذا القرار تم اتخاذه بعد تقييم قدراتها العسكرية. قدمت هولندا بالفعل مساعدة كبيرة إلى أوكرانيا.",
+        "analyse_detaillee": "Le contexte historique de cette décision est marqué par la guerre en Ukraine. Les enjeux principaux concernent la capacité des Pays-Bas à soutenir l'Ukraine. Les conséquences à court terme seront probablement négatives pour l'Ukraine. Les perspectives à long terme sont incertaines. Les acteurs clés sont les Pays-Bas, l'Ukraine et la Russie.",
+        "analyse_en": "The historical context of this decision is marked by the war in Ukraine. The main stakes concern the ability of the Netherlands to support Ukraine. The short-term consequences will likely be negative for Ukraine. The long-term prospects are uncertain. The key actors are the Netherlands, Ukraine, and Russia.",
+        "analyse_zh": "这一决定的历史背景是乌克兰战争。主要问题是荷兰支持乌克兰的能力。短期后果可能对乌克兰不利。长期前景不确定。关键人物是荷兰、乌克兰和俄罗斯。",
+        "analyse_ru": "Исторический контекст этого решения характеризуется войной на Украине. Основные проблемы связаны с возможностью Нидерландов поддержать Украину. Краткосрочные последствия, вероятно, будут отрицательными для Украины. Долгосрочные перспективы неопределенны. Ключевыми лицами являются Нидерланды, Украина и Россия.",
+        "analyse_fa": "زمینه تاریخی این تصمیم با جنگ در اوکراین مشخص می شود. مسائل اصلی مربوط به توانایی هلند برای حمایت از اوکراین است. پیامدهای کوتاه‌مدت احتمالاً برای اوکراین منفی خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی هلند، اوکراین و روسیه هستند.",
+        "analyse_ar": "السياق التاريخي لهذا القرار يتميز بالحرب في أوكرانيا. القضايا الرئيسية تتعلق bằng قدرة هولندا على دعم أوكرانيا. العواقب قصيرة المدى من المحتمل أن تكون سلبية لأوكرانيا. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي هولندا وأوكرانيا وروسيا.",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-09-netherlands-says-no-more-weapons-assistance-ukraine.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/netherlands-ukraine-military-aid-weapons-shortage-2600-original.jpg",
+        "date": "2026-07-09",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Défense",
+            "hausse": false
+          },
+          {
+            "label": "▼ Économie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "La limitation de l'aide militaire pourrait affaiblir la défense ukrainienne.",
+            "effet_en": "The limitation of military aid could weaken Ukrainian defense.",
+            "effet_zh": "限制军事援助可能会削弱乌克兰的防御。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Économie",
+            "secteur_en": "Economy",
+            "secteur_zh": "经济",
+            "effet_fr": "La décision pourrait avoir un impact sur les relations économiques entre les Pays-Bas et l'Ukraine.",
+            "effet_en": "The decision could have an impact on economic relations between the Netherlands and Ukraine.",
+            "effet_zh": "这一决定可能会影响荷兰和乌克兰之间的经济关系。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T23:43:59.732866"
+      },
       {
         "id": "russie_144489",
         "titre": "Poutine face à la panique",
@@ -3284,59 +3352,68 @@
           }
         ],
         "created_at": "2026-07-08T19:00:31.973705"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_950009",
-        "titre": "Réunion à la conférence de l'OTAN",
-        "titre_en": "NATO Summit Meeting",
-        "titre_zh": "北约峰会会议",
-        "titre_original": "Carney meets with allied nations in Turkey on margins of NATO summit",
-        "resume": "Une réunion a eu lieu à la conférence de l'OTAN, impliquant des nations alliées. Les discussions ont porté sur la coopération et la sécurité internationale.",
-        "resume_en": "A meeting took place at the NATO conference, involving allied nations. Discussions focused on cooperation and international security.",
-        "resume_zh": "北约峰会上举行了一次会议，涉及盟国。讨论集中在合作与国际安全上。",
-        "analyse_detaillee": "Le contexte historique des relations entre la Russie et l'OTAN est complexe, avec des périodes de tension et de coopération. Les enjeux principaux incluent la sécurité régionale et les intérêts stratégiques. Les conséquences à court terme pourraient être des ajustements dans les stratégies militaires. À long terme, les perspectives sont incertaines avec des défis pour la stabilité régionale.",
-        "analyse_en": "The historical context of Russia-NATO relations is complex, with periods of tension and cooperation. The main stakes include regional security and strategic interests. Short-term consequences could be adjustments in military strategies. Long-term prospects are uncertain with challenges for regional stability.",
-        "analyse_zh": "俄罗斯与北约的关系历史背景复杂，既有紧张时期，也有合作时期。主要影响包括区域安全和战略利益。短期后果可能是军事战略的调整。长期前景不确定，区域稳定面临挑战。",
+        "id": "iran_479284",
+        "titre": "Nouvel ordre en Iran",
+        "titre_en": "New Order in Iran",
+        "titre_zh": "伊朗新秩序",
+        "titre_ru": "Новый порядок в Иране",
+        "titre_fa": "نظام جدید در ایران",
+        "titre_ar": "نظام جديد في إيران",
+        "titre_original": "Iran after Khamenei: A new order takes shape",
+        "resume": "Mojtaba Khamenei est devenu le nouveau guide suprême de l'Iran. Cette nomination a été faite après la mort de son père, Ali Khamenei. Le nouveau guide suprême devra faire face à des défis économiques et politiques.",
+        "resume_en": "Mojtaba Khamenei has become the new Supreme Leader of Iran. This appointment was made after the death of his father, Ali Khamenei. The new Supreme Leader will have to face economic and political challenges.",
+        "resume_zh": "莫赫塔巴·哈梅内伊已经成为伊朗的新最高领袖。这一任命是在他父亲阿里·哈梅内伊去世后做出的。新最高领袖将面临经济和政治挑战。",
+        "resume_ru": "Мохтаба Хаменеи стал новым Верховным лидером Ирана. Это назначение было сделано после смерти его отца, Али Хаменеи. Новый Верховный лидер будет вынужден столкнуться с экономическими и политическими проблемами.",
+        "resume_fa": "مجتبی خامنه ای به عنوان رهبر جدید ایران معرفی شد. این انتصاب پس از مرگ پدرش علی خامنه ای انجام شد. رهبر جدید باید با چالش های اقتصادی و سیاسی روبرو شود.",
+        "resume_ar": "أصبح مجتبى خامنئي الزعيم الأعلى الجديد لإيران. تم هذا التعيين بعد وفاة والده علي خامنئي. سيتعين على الزعيم الأعلى الجديد مواجهة التحديات الاقتصادية والسياسية.",
+        "analyse_detaillee": "Le contexte historique de cette nomination est marqué par la succession de Ali Khamenei. Les enjeux principaux concernent la capacité de Mojtaba Khamenei à maintenir la stabilité du régime. Les conséquences à court terme seront probablement positives pour le régime. Les perspectives à long terme sont incertaines. Les acteurs clés sont Mojtaba Khamenei et les forces armées iraniennes.",
+        "analyse_en": "The historical context of this appointment is marked by the succession of Ali Khamenei. The main stakes concern the ability of Mojtaba Khamenei to maintain the stability of the regime. The short-term consequences will likely be positive for the regime. The long-term prospects are uncertain. The key actors are Mojtaba Khamenei and the Iranian armed forces.",
+        "analyse_zh": "这一任命的历史背景是阿里·哈梅内伊的继承。主要问题是莫赫塔巴·哈梅内伊维持政权稳定的能力。短期后果可能对政权有利。长期前景不确定。关键人物是莫赫塔巴·哈梅内伊和伊朗武装部队。",
+        "analyse_ru": "Исторический контекст этого назначения характеризуется наследованием Али Хаменеи. Основные проблемы связаны с возможностью Мохтабы Хаменеи поддержать стабильность режима. Краткосрочные последствия, вероятно, будут положительными для режима. Долгосрочные перспективы неопределенны. Ключевыми лицами являются Мохтаба Хаменеи и иранские вооруженные силы.",
+        "analyse_fa": "زمینه تاریخی این انتصاب با جانشینی علی خامنه ای مشخص می شود. مسائل اصلی مربوط به توانایی مجتبی خامنه ای برای حفظ ثبات رژیم است. پیامدهای کوتاه‌مدت احتمالاً برای رژیم مثبت خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی مجتبی خامنه ای و نیروهای مسلح ایران هستند.",
+        "analyse_ar": "السياق التاريخي لهذا التعيين يتميز بالخلافة علي خامنئي. القضايا الرئيسية تتعلق bằng قدرة مجتبى خامنئي على الحفاظ على استقرار النظام. العواقب قصيرة المدى من المحتمل أن تكون إيجابية للنظام. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي مجتبى خامنئي والقوات المسلحة الإيرانية.",
         "categorie": "Géopolitique",
-        "source": "National Observer",
-        "url": "https://www.nationalobserver.com/2026/07/07/news/carney-meets-allied-nations-turkey-margins-nato-summit",
-        "image": "https://www.nationalobserver.com/sites/default/files/img/2026/07/07/mark_carney_in_turkey.jpeg",
-        "date": "2026-07-07",
-        "pays": "russie",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/iran-after-khamenei-a-new-order-takes-shape/a-77887756",
+        "image": "https://static.dw.com/image/77425276_6.jpg",
+        "date": "2026-07-09",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Industrie de la défense",
+            "label": "▲ Pétrole",
             "hausse": true
           },
           {
-            "label": "▼ Marché de l'énergie",
+            "label": "▼ Économie",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Industrie de la défense",
-            "secteur_en": "Defense industry",
-            "secteur_zh": "国防工业",
-            "effet_fr": "Les discussions à la conférence de l'OTAN pourraient avoir un impact sur l'industrie de la défense, avec des conséquences sur les capacités militaires.",
-            "effet_en": "Discussions at the NATO conference could impact the defense industry, with consequences for military capabilities.",
-            "effet_zh": "北约峰会上的讨论可能会影响国防工业，对军事能力产生影响。",
+            "secteur_fr": "Pétrole",
+            "secteur_en": "Oil",
+            "secteur_zh": "石油",
+            "effet_fr": "La nomination de Mojtaba Khamenei pourrait avoir un impact sur la production pétrolière iranienne.",
+            "effet_en": "The appointment of Mojtaba Khamenei could have an impact on Iranian oil production.",
+            "effet_zh": "莫赫塔巴·哈梅内伊的任命可能会影响伊朗的石油生产。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché de l'énergie",
-            "secteur_en": "Energy market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "Le marché de l'énergie pourrait également être affecté par les relations entre la Russie et l'OTAN, avec des répercussions sur les échanges énergétiques.",
-            "effet_en": "The energy market could also be affected by Russia-NATO relations, with repercussions on energy exchanges.",
-            "effet_zh": "能源市场同样可能受到俄罗斯与北约关系的影响，能源交流受到影响。",
+            "secteur_fr": "Économie",
+            "secteur_en": "Economy",
+            "secteur_zh": "经济",
+            "effet_fr": "La nomination pourrait avoir un impact sur les relations économiques entre l'Iran et les autres pays.",
+            "effet_en": "The appointment could have an impact on economic relations between Iran and other countries.",
+            "effet_zh": "这一任命可能会影响伊朗和其他国家之间的经济关系。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-08T17:14:25.135078"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-10T23:43:59.732874"
+      },
       {
         "id": "iran_151208",
         "titre": "Nouvelles tensions entre États-Unis et Iran",
@@ -4394,56 +4471,6 @@
           }
         ],
         "created_at": "2026-07-08T19:00:31.973712"
-      },
-      {
-        "id": "iran_630560",
-        "titre": "Cybersécurité en 2026",
-        "titre_en": "2026 Cybersecurity",
-        "titre_zh": "2026年网络安全",
-        "titre_original": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far | TechCrunch",
-        "resume": "Les incidents de cybersécurité en 2026 ont été marqués par des attaques importantes contre des systèmes critiques. Les conséquences incluent des pertes de données sensibles et des perturbations de services essentiels.",
-        "resume_en": "2026 cybersecurity incidents were marked by significant attacks on critical systems. Consequences include sensitive data losses and disruptions to essential services.",
-        "resume_zh": "2026年网络安全事件以对关键系统的重大攻击为标志。后果包括敏感数据丢失和基本服务中断。",
-        "analyse_detaillee": "Le contexte historique de la cybersécurité montre une évolution rapide des menaces. Les enjeux principaux incluent la protection des données et la sécurité des infrastructures. Les conséquences à court terme pourraient être des coûts élevés pour la réparation et la prévention. À long terme, les perspectives sont incertaines avec des défis pour la confidentialité et la sécurité.",
-        "analyse_en": "The historical context of cybersecurity shows rapid evolution of threats. The main stakes include data protection and infrastructure security. Short-term consequences could be high costs for repair and prevention. Long-term prospects are uncertain with challenges for privacy and security.",
-        "analyse_zh": "网络安全的历史背景显示出威胁的快速演变。主要影响包括数据保护和基础设施安全。短期后果可能是高昂的维修和预防成本。长期前景不确定，隐私和安全面临挑战。",
-        "categorie": "Technologie",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/water-dam-spill-2263108794.jpg?resize=1200,801",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Industrie financière",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des télécommunications",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Industrie financière",
-            "secteur_en": "Financial industry",
-            "secteur_zh": "金融行业",
-            "effet_fr": "Les incidents de cybersécurité ont un impact significatif sur l'industrie financière, avec des risques de pertes financières et de compromission de la confidentialité.",
-            "effet_en": "Cybersecurity incidents have a significant impact on the financial industry, with risks of financial loss and privacy compromise.",
-            "effet_zh": "网络安全事件对金融行业有显著影响，存在财务损失和隐私泄露的风险。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des télécommunications",
-            "secteur_en": "Telecommunications sector",
-            "secteur_zh": "电信行业",
-            "effet_fr": "Le secteur des télécommunications est également vulnérable aux attaques de cybersécurité, avec des conséquences sur la confidentialité et la sécurité des communications.",
-            "effet_en": "The telecommunications sector is also vulnerable to cybersecurity attacks, with consequences for privacy and security of communications.",
-            "effet_zh": "电信行业同样容易受到网络安全攻击，通信的隐私和安全受到影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T17:14:25.135089"
       }
     ]
   }
