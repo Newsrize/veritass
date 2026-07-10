@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/07/2026 à 18h14",
+  "last_updated": "10/07/2026 à 20h10",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_798843",
+        "titre": "Trump profite de la présidence",
+        "titre_en": "Trump profits from presidency",
+        "titre_zh": "特朗普从总统职位获利",
+        "titre_ru": "Трамп получает прибыль от президентства",
+        "titre_fa": "ترامپ از ریاست جمهوری سود می برد",
+        "titre_ar": "ترامب يربح من الرئاسة",
+        "titre_original": "Trump's 'Anti-Weaponization Fund' Marks a Pattern of Trying To Profit From the Presidency",
+        "resume": "Le président américain utilise son pouvoir pour son gain personnel. C'est un schéma récurrent depuis le début de son mandat. Les conséquences de ces actes sont encore incertaines.",
+        "resume_en": "The US president uses his power for personal gain. This is a recurring pattern since the beginning of his term. The consequences of these actions are still uncertain.",
+        "resume_zh": "美国总统利用职权为自己谋利。这是他任期开始以来一直存在的模式。这些行为的后果仍不确定。",
+        "resume_ru": "Президент США использует свою власть для личной выгоды. Это повторяющийся шаблон с начала его срока. Последствия этих действий еще неопределенны.",
+        "resume_fa": "رئیس جمهور آمریکا از قدرت خود برای سود شخصی استفاده می کند. این یک الگوی تکراری از آغاز دوره ریاست جمهوری او است. پیامدهای این اقدامات هنوز نامعلوم است.",
+        "resume_ar": "يستخدم الرئيس الأمريكي سلطته لتحقيق مكاسب شخصية. هذا نمط متكرر منذ بداية فترته الرئاسية. لا يزال هناك عدم اليقين حول عواقب هذه الأفعال.",
+        "analyse_detaillee": "Le contexte historique de cette affaire est marqué par les précédents scandales de corruption. Les enjeux principaux sont la confiance du public et la crédibilité de l'institution présidentielle. Les conséquences à court terme pourraient être une perte de confiance dans le système politique. Les perspectives à long terme sont incertaines, mais pourraient inclure des réformes pour prévenir de tels abus de pouvoir. Les acteurs clés sont le président, le congrès et la justice.",
+        "analyse_en": "The historical context of this case is marked by previous corruption scandals. The main stakes are public trust and the credibility of the presidential institution. The short-term consequences could be a loss of trust in the political system. The long-term prospects are uncertain, but could include reforms to prevent such abuses of power. The key actors are the president, congress, and the judiciary.",
+        "analyse_zh": "这一事件的历史背景是以前的腐败丑闻。主要问题是公众的信任和总统机构的可信度。短期后果可能是对政治体系的信任丧失。长期前景不确定，但可能包括改革以防止此类滥用权力。关键人物是总统、国会和司法机构。",
+        "analyse_ru": "Исторический контекст этого дела отмечен предыдущими скандалами с коррупцией. Основные проблемы - это доверие общества и авторитет президентской институции. Краткосрочные последствия могут быть потерей доверия к политической системе. Долгосрочные перспективы неопределенны, но могут включать реформы для предотвращения подобных злоупотреблений властью. Ключевые фигуры - это президент, конгресс и судебная власть.",
+        "analyse_fa": "زمینه تاریخی این موضوع با رسوایی های قبلی فساد مشخص شده است. مسائل اصلی اعتماد عمومی و اعتبار نهاد ریاست جمهوری است. عواقب کوتاه مدت ممکن است از بین رفتن اعتماد به سیستم سیاسی باشد. چشم اندازهای بلندمدت نامعلوم است، اما ممکن است شامل اصلاحات برای جلوگیری از این گونه سوء استفاده از قدرت باشد. بازیگران کلیدی رئیس جمهور، کنگره و قوه قضائیه هستند.",
+        "analyse_ar": "السياق التاريخي لهذه القضية يتميز بالفضائح السابقة للفساد. القضايا الرئيسية هي ثقة الجمهور ومصداقية المؤسسة الرئاسية. العواقب قصيرة المدى قد تكون فقدان الثقة في النظام السياسي. الآفاق طويلة المدى غير مؤكدة، ولكنها قد تشمل إصلاحات لمنع هذا النوع من سوء استخدام السلطة. الأطراف الرئيسية هي الرئيس، الكونغرس والقضاء.",
+        "categorie": "Géopolitique",
+        "source": "Reason",
+        "url": "https://reason.com/2026/07/09/trumps-outrageous-irs-settlement-is-part-of-a-pattern/",
+        "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/07/trumo-money-grab-v1.jpg",
+        "date": "2026-07-09",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ marché financier américain",
+            "hausse": false
+          },
+          {
+            "label": "▼ marché mondial des actions",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché financier américain",
+            "secteur_en": "US financial market",
+            "secteur_zh": "美国金融市场",
+            "effet_fr": "L'impact sur le marché financier américain pourrait être négatif en raison de la perte de confiance.",
+            "effet_en": "The impact on the US financial market could be negative due to the loss of trust.",
+            "effet_zh": "对美国金融市场的影响可能由于信任的丧失而为负面。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "marché mondial des actions",
+            "secteur_en": "global stock market",
+            "secteur_zh": "全球股票市场",
+            "effet_fr": "Le marché mondial des actions pourrait également être affecté par les conséquences de cette affaire.",
+            "effet_en": "The global stock market could also be affected by the consequences of this case.",
+            "effet_zh": "全球股票市场也可能受到这一事件的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T20:10:01.359396"
+      },
       {
         "id": "usa_226145",
         "titre": "Travaux à la Maison Blanche",
@@ -1754,56 +1813,6 @@
           }
         ],
         "created_at": "2026-07-08T15:04:20.346638"
-      },
-      {
-        "id": "usa_697502",
-        "titre": "Cour suprême et Trump",
-        "titre_en": "Supreme Court and Trump",
-        "titre_zh": "最高法院和特朗普",
-        "titre_original": "JOHN YOO: The left's Supreme Court panic collapses under the weight of the facts",
-        "resume": "La Cour suprême des États-Unis a démontré qu'elle se base sur la compréhension originale de la Constitution plutôt que sur les opinions de Trump. Cela a provoqué une réaction de panique chez les démocrates.",
-        "resume_en": "The US Supreme Court has shown that it bases its decisions on the original understanding of the Constitution rather than on Trump's opinions, causing panic among Democrats.",
-        "resume_zh": "美国最高法院已经证明，它的决定是基于对宪法的原始理解而非特朗普的意见，这引起了民主党人的恐慌反应。",
-        "analyse_detaillee": "Le contexte historique est marqué par les débats autour de la Constitution. Les enjeux principaux sont l'interprétation de la Constitution et l'influence de Trump. Les conséquences à court terme sont une polarisation accrue. Les perspectives à long terme sont incertaines avec des implications pour la démocratie américaine. Les acteurs clés sont la Cour suprême et le président.",
-        "analyse_en": "The historical context is marked by debates around the Constitution. The main stakes are the interpretation of the Constitution and Trump's influence. The short-term consequences are increased polarization. The long-term prospects are uncertain with implications for American democracy. The key players are the Supreme Court and the President.",
-        "analyse_zh": "历史背景是围绕宪法的辩论。主要影响是宪法的解释和特朗普的影响。短期后果是两极分化的加剧。长期前景是不确定的，伴随着对美国民主的影响。主要参与者是最高法院和总统。",
-        "categorie": "Géopolitique",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/john-yoo-lefts-supreme-court-panic-collapses-weight-facts",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/us-supreme-court-june-2026.jpg",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché politique",
-            "hausse": false
-          },
-          {
-            "label": "▼ Système judiciaire",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché politique",
-            "secteur_en": "Political market",
-            "secteur_zh": "政治市场",
-            "effet_fr": "La décision de la Cour suprême va avoir un impact sur le marché politique américain.",
-            "effet_en": "The Supreme Court's decision will have an impact on the US political market.",
-            "effet_zh": "最高法院的决定将对美国政治市场产生影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Système judiciaire",
-            "secteur_en": "Judicial system",
-            "secteur_zh": "司法系统",
-            "effet_fr": "La crédibilité du système judiciaire américain est en jeu.",
-            "effet_en": "The credibility of the US judicial system is at stake.",
-            "effet_zh": "美国司法系统的可信度岌岌可危。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T12:10:18.611231"
       }
     ],
     "chine": [
@@ -2209,6 +2218,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_575608",
+        "titre": "Appel au génocide en Ukraine",
+        "titre_en": "Call for genocide in Ukraine",
+        "titre_zh": "乌克兰种族灭绝呼吁",
+        "titre_ru": "Призыв к геноциду на Украине",
+        "titre_fa": "فراخوان به نسل کشی در اوکراین",
+        "titre_ar": "دعوة إلى الإبادة الجماعية في أوكرانيا",
+        "titre_original": "Day 1,597 of WW3. A russian legislator openly calls for genocide in Ukraine, but don't call them 'orcs'. Best Korea supplies 40% of russia's artillery ammunition, and Ukraine shoots down another orc warplane. This is your Thursday Ukraine War thread [News]",
+        "resume": "Un législateur russe appelle ouvertement au génocide en Ukraine. La situation est extrêmement tendue. Les conséquences de cette déclaration sont encore incertaines.",
+        "resume_en": "A Russian legislator openly calls for genocide in Ukraine. The situation is extremely tense. The consequences of this statement are still uncertain.",
+        "resume_zh": "一名俄罗斯立法者公开呼吁在乌克兰进行种族灭绝。局势极度紧张。该声明的后果仍不确定。",
+        "resume_ru": "Российский законодатель открыто призывает к геноциду на Украине. Ситуация крайне напряженная. Последствия этого заявления еще неопределенны.",
+        "resume_fa": "یک قانونگذار روسی به طور公开 به نسل کشی در اوکراین فراخوان می دهد. situación بسیار تنیده است. پیامدهای این بیانیه هنوز نامعلوم است.",
+        "resume_ar": "يُدعى législateur روسي إلى الإبادة الجماعية في أوكرانيا. الوضع متوتر للغاية. لا يزال هناك عدم اليقين حول عواقب هذا البيان.",
+        "analyse_detaillee": "Le contexte historique de cette affaire est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la sécurité et la stabilité régionales. Les conséquences à court terme pourraient être une escalade du conflit. Les perspectives à long terme sont incertaines, mais pourraient inclure des conséquences graves pour la Russie et l'Ukraine. Les acteurs clés sont la Russie, l'Ukraine et la communauté internationale.",
+        "analyse_en": "The historical context of this case is marked by tensions between Russia and Ukraine. The main stakes are regional security and stability. The short-term consequences could be an escalation of the conflict. The long-term prospects are uncertain, but could include severe consequences for Russia and Ukraine. The key actors are Russia, Ukraine, and the international community.",
+        "analyse_zh": "这一事件的历史背景是俄罗斯和乌克兰之间的紧张关系。主要问题是地区安全和稳定。短期后果可能是冲突的升级。长期前景不确定，但可能包括对俄罗斯和乌克兰的严重后果。关键人物是俄罗斯、乌克兰和国际社会。",
+        "analyse_ru": "Исторический контекст этого дела отмечен напряженностью между Россией и Украиной. Основные проблемы - это региональная безопасность и стабильность. Краткосрочные последствия могут быть эскалацией конфликта. Долгосрочные перспективы неопределенны, но могут включать серьезные последствия для России и Украины. Ключевые фигуры - это Россия, Украина и международное сообщество.",
+        "analyse_fa": "زمینه تاریخی این موضوع با تنش بین روسیه و اوکراین مشخص شده است. مسائل اصلی امنیت و ثبات منطقه ای است. عواقب کوتاه مدت ممکن است افزایش تنش باشد. چشم اندازهای بلندمدت نامعلوم است، اما ممکن است شامل عواقب جدی برای روسیه و اوکراین باشد. بازیگران کلیدی روسیه، اوکراین و جامعه بین المللی هستند.",
+        "analyse_ar": "السياق التاريخي لهذه القضية يتميز بالتوتر بين روسيا وأوكرانيا. القضايا الرئيسية هي الأمن والاستقرار الإقليمي. العواقب قصيرة المدى قد تكون تصعيدا للنزاع. الآفاق طويلة المدى غير مؤكدة، ولكنها قد تشمل عواقب وخيمة لروسيا وأوكرانيا. الأطراف الرئيسية هي روسيا وأوكرانيا والمجتمع الدولي.",
+        "categorie": "Géopolitique",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14125086/Day-1597-of-WW3-A-russian-legislator-openly-calls-for-genocide-in-Ukraine-but-dont-call-them-orcs-Best-Korea-supplies-40-of-russias-artillery-ammunition-Ukraine-shoots-down-another-orc-warplane-This-is-your-Thursday-Ukraine-War-thread",
+        "image": "https://usrimg-full.fark.net/2/2K/fark_2KX3rtFenSRtirpByS8E0OtC5D0.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1783915200&Signature=P79weIRy28vI5%2FgE8W8qNxzkz14%3D",
+        "date": "2026-07-09",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ marché des armes",
+            "hausse": true
+          },
+          {
+            "label": "▼ marché de l'énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des armes",
+            "secteur_en": "arms market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "L'impact sur le marché des armes pourrait être positif pour la Russie en raison de l'augmentation de la demande.",
+            "effet_en": "The impact on the arms market could be positive for Russia due to increased demand.",
+            "effet_zh": "对武器市场的影响可能由于需求增加而对俄罗斯有利。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché de l'énergie",
+            "secteur_en": "energy market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "Le marché de l'énergie pourrait également être affecté par les conséquences de cette affaire.",
+            "effet_en": "The energy market could also be affected by the consequences of this case.",
+            "effet_zh": "能源市场也可能受到这一事件的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T20:10:01.359425"
+      },
       {
         "id": "russie_113358",
         "titre": "Ukraine frappe des tankers",
@@ -3248,59 +3316,68 @@
           }
         ],
         "created_at": "2026-07-08T15:04:20.346655"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_657368",
-        "titre": "OTAN contre Poutine",
-        "titre_en": "NATO against Putin",
-        "titre_zh": "北约对抗普京",
-        "titre_original": "NATO Meets In Turkey To Counter Putin From The East And Trump From The West",
-        "resume": "L'OTAN se réunit en Turquie pour contrer les menaces de Poutine et de Trump. L'alliance fait face à des menaces externes et internes.",
-        "resume_en": "NATO meets in Turkey to counter Putin's and Trump's threats. The alliance is facing external and internal threats.",
-        "resume_zh": "北约在土耳其举行会议，以对抗普京和特朗普的威胁。该联盟面临着外部和内部威胁。",
-        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre l'OTAN et la Russie. Les enjeux principaux sont la sécurité européenne et l'influence de la Russie. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines avec des implications pour la stabilité mondiale. Les acteurs clés sont l'OTAN, la Russie et les États-Unis.",
-        "analyse_en": "The historical context is marked by tensions between NATO and Russia. The main stakes are European security and Russian influence. The short-term consequences are increased tensions. The long-term prospects are uncertain with implications for global stability. The key players are NATO, Russia, and the US.",
-        "analyse_zh": "历史背景是北约和俄罗斯之间的紧张关系。主要影响是欧洲安全和俄罗斯的影响力。短期后果是紧张局势的加剧。长期前景是不确定的，伴随着对全球稳定的影响。主要参与者是北约、俄罗斯和美国。",
+        "id": "iran_493601",
+        "titre": "Explosions en Iran",
+        "titre_en": "Explosions in Iran",
+        "titre_zh": "伊朗爆炸",
+        "titre_ru": "Взрывы в Иране",
+        "titre_fa": "انفجارات در ایران",
+        "titre_ar": "انفجارات في إيران",
+        "titre_original": "Explosions rock southern Iran as Khamenei burial proceeds in Mashhad",
+        "resume": "Des explosions ont eu lieu en Iran pendant les funérailles de Khamenei. La situation est très tendue. Les conséquences de ces explosions sont encore incertaines.",
+        "resume_en": "Explosions occurred in Iran during Khamenei's funeral. The situation is very tense. The consequences of these explosions are still uncertain.",
+        "resume_zh": "伊朗在哈梅内伊的葬礼期间发生爆炸。局势非常紧张。这些爆炸的后果仍不确定。",
+        "resume_ru": "Взрывы произошли в Иране во время похорон Хаменеи. Ситуация очень напряженная. Последствия этих взрывов еще неопределенны.",
+        "resume_fa": "در期间 مراسم تشییع جنازه خامنه ای در ایران انفجارات رخ داد. situación بسیار تنیده است. پیامدهای این انفجارات هنوز نامعلوم است.",
+        "resume_ar": "انفجارات وقعت في إيران خلال جنازة خامنئي. الوضع متوتر للغاية. لا يزال هناك عدم اليقين حول عواقب هذه الانفجارات.",
+        "analyse_detaillee": "Le contexte historique de cette affaire est marqué par les tensions entre l'Iran et les pays occidentaux. Les enjeux principaux sont la stabilité régionale et la sécurité. Les conséquences à court terme pourraient être une escalade du conflit. Les perspectives à long terme sont incertaines, mais pourraient inclure des conséquences graves pour l'Iran et la région. Les acteurs clés sont l'Iran, les pays occidentaux et les pays voisins.",
+        "analyse_en": "The historical context of this case is marked by tensions between Iran and Western countries. The main stakes are regional stability and security. The short-term consequences could be an escalation of the conflict. The long-term prospects are uncertain, but could include severe consequences for Iran and the region. The key actors are Iran, Western countries, and neighboring countries.",
+        "analyse_zh": "这一事件的历史背景是伊朗和西方国家之间的紧张关系。主要问题是地区稳定和安全。短期后果可能是冲突的升级。长期前景不确定，但可能包括对伊朗和该地区的严重后果。关键人物是伊朗、西方国家和邻国。",
+        "analyse_ru": "Исторический контекст этого дела отмечен напряженностью между Ираном и западными странами. Основные проблемы - это региональная стабильность и безопасность. Краткосрочные последствия могут быть эскалацией конфликта. Долгосрочные перспективы неопределенны, но могут включать серьезные последствия для Ирана и региона. Ключевые фигуры - это Иран, западные страны и соседние страны.",
+        "analyse_fa": "زمینه تاریخی این موضوع با تنش بین ایران و کشورهای غربی مشخص شده است. مسائل اصلی ثبات منطقه ای و امنیت است. عواقب کوتاه مدت ممکن است افزایش تنش باشد. چشم اندازهای بلندمدت نامعلوم است، اما ممکن است شامل عواقب جدی برای ایران و منطقه باشد. بازیگران کلیدی ایران، کشورهای غربی و کشورهای همسایه هستند.",
+        "analyse_ar": "السياق التاريخي لهذه القضية يتميز بالتوتر بين إيران والدول الغربية. القضايا الرئيسية هي الاستقرار الإقليمي والأمن. العواقب قصيرة المدى قد تكون تصعيدا للنزاع. الآفاق طويلة المدى غير مؤكدة، ولكنها قد تشمل عواقب وخيمة لإيران والمنطقة. الأطراف الرئيسية هي إيران والدول الغربية والدول المجاورة.",
         "categorie": "Géopolitique",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/nato-putin-trump_n_6a469593e4b001e08fc3f029",
-        "image": "https://img.huffingtonpost.com/asset/6a469738180000f261454c7a.jpeg?cache=3Clh6AYJGO&ops=1200_630",
-        "date": "2026-07-07",
-        "pays": "russie",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/explosions-iran-khamenei-burial-markets/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09160717/mourners-hold-portraits-of-iran-s-slain-supreme-leader-ayato-3-800x420.jpeg",
+        "date": "2026-07-09",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Défense européenne",
+            "label": "▼ marché pétrolier",
             "hausse": false
           },
           {
-            "label": "▼ Relations internationales",
+            "label": "▼ marché des matières premières",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Défense européenne",
-            "secteur_en": "European defense",
-            "secteur_zh": "欧洲防御",
-            "effet_fr": "La sécurité européenne est menacée par les actions de la Russie.",
-            "effet_en": "European security is threatened by Russia's actions.",
-            "effet_zh": "欧洲安全受到俄罗斯行动的威胁。",
+            "secteur_fr": "marché pétrolier",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "L'impact sur le marché pétrolier pourrait être négatif en raison de l'instabilité régionale.",
+            "effet_en": "The impact on the oil market could be negative due to regional instability.",
+            "effet_zh": "对石油市场的影响可能由于地区不稳定而为负面。",
             "hausse": false
           },
           {
-            "secteur_fr": "Relations internationales",
-            "secteur_en": "International relations",
-            "secteur_zh": "国际关系",
-            "effet_fr": "Les relations entre l'OTAN, la Russie et les États-Unis sont tendues.",
-            "effet_en": "The relations between NATO, Russia, and the US are tense.",
-            "effet_zh": "北约、俄罗斯和美国之间的关系紧张。",
+            "secteur_fr": "marché des matières premières",
+            "secteur_en": "commodities market",
+            "secteur_zh": "大宗商品市场",
+            "effet_fr": "Le marché des matières premières pourrait également être affecté par les conséquences de cette affaire.",
+            "effet_en": "The commodities market could also be affected by the consequences of this case.",
+            "effet_zh": "大宗商品市场也可能受到这一事件的影响。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-08T12:10:18.611239"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-10T20:10:01.359435"
+      },
       {
         "id": "iran_907595",
         "titre": "Funérailles de Khamenei",
@@ -4340,56 +4417,6 @@
           }
         ],
         "created_at": "2026-07-08T15:04:20.346662"
-      },
-      {
-        "id": "iran_657368",
-        "titre": "OTAN contre Poutine",
-        "titre_en": "NATO against Putin",
-        "titre_zh": "北约对抗普京",
-        "titre_original": "NATO Meets In Turkey To Counter Putin From The East And Trump From The West",
-        "resume": "L'OTAN se réunit en Turquie pour contrer les menaces de Poutine et de Trump. L'alliance fait face à des menaces externes et internes.",
-        "resume_en": "NATO meets in Turkey to counter Putin's and Trump's threats. The alliance is facing external and internal threats.",
-        "resume_zh": "北约在土耳其举行会议，以对抗普京和特朗普的威胁。该联盟面临着外部和内部威胁。",
-        "analyse_detaillee": "Le contexte historique est marqué par les tensions entre l'OTAN et la Russie. Les enjeux principaux sont la sécurité européenne et l'influence de la Russie. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines avec des implications pour la stabilité mondiale. Les acteurs clés sont l'OTAN, la Russie et les États-Unis.",
-        "analyse_en": "The historical context is marked by tensions between NATO and Russia. The main stakes are European security and Russian influence. The short-term consequences are increased tensions. The long-term prospects are uncertain with implications for global stability. The key players are NATO, Russia, and the US.",
-        "analyse_zh": "历史背景是北约和俄罗斯之间的紧张关系。主要影响是欧洲安全和俄罗斯的影响力。短期后果是紧张局势的加剧。长期前景是不确定的，伴随着对全球稳定的影响。主要参与者是北约、俄罗斯和美国。",
-        "categorie": "Géopolitique",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/nato-putin-trump_n_6a469593e4b001e08fc3f029",
-        "image": "https://img.huffingtonpost.com/asset/6a469738180000f261454c7a.jpeg?cache=3Clh6AYJGO&ops=1200_630",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Défense européenne",
-            "hausse": false
-          },
-          {
-            "label": "▼ Relations internationales",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Défense européenne",
-            "secteur_en": "European defense",
-            "secteur_zh": "欧洲防御",
-            "effet_fr": "La sécurité européenne est menacée par les actions de la Russie.",
-            "effet_en": "European security is threatened by Russia's actions.",
-            "effet_zh": "欧洲安全受到俄罗斯行动的威胁。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Relations internationales",
-            "secteur_en": "International relations",
-            "secteur_zh": "国际关系",
-            "effet_fr": "Les relations entre l'OTAN, la Russie et les États-Unis sont tendues.",
-            "effet_en": "The relations between NATO, Russia, and the US are tense.",
-            "effet_zh": "北约、俄罗斯和美国之间的关系紧张。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T12:10:18.611245"
       }
     ]
   }
