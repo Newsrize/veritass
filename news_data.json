@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/07/2026 à 16h10",
+  "last_updated": "10/07/2026 à 18h14",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_226145",
+        "titre": "Travaux à la Maison Blanche",
+        "titre_en": "White House Construction",
+        "titre_zh": "白宫施工",
+        "titre_ru": "Строительные работы в Белом доме",
+        "titre_fa": "ساخت و ساز در کاخ سفید",
+        "titre_ar": "أعمال بناء في البيت الأبيض",
+        "titre_original": "White House Hangs Tarps Over North Portico Amid Trump’s Construction Blitz",
+        "resume": "La Maison Blanche subit des réparations. Les travaux concernent les colonnes de pierre. Le président Trump a lancé un plan de construction.",
+        "resume_en": "The White House is undergoing repairs. The work involves the stone columns. President Trump has launched a construction plan.",
+        "resume_zh": "白宫正在进行维修。工作涉及石柱。特朗普总统已经启动了一个建设计划。",
+        "resume_ru": "В Белом доме проводятся ремонтные работы. Работы включают в себя каменные колонны. Президент Трамп запустил план строительства.",
+        "resume_fa": "کاخ سفید در حال تعمیر است. کار بر روی ستون های سنگی انجام می شود. رئیس جمهور ترامپ یک برنامه ساخت و ساز را آغاز کرده است.",
+        "resume_ar": "البيت الأبيض يخضع لإصلاحات. العمل يتضمن الأعمدة الحجرية. الرئيس ترامب أطلق خطة بناء.",
+        "analyse_detaillee": "Le contexte historique de la Maison Blanche est riche. Les enjeux principaux sont la sécurité et la préservation du bâtiment. Les conséquences à court terme sont la gêne pour les visiteurs. Les perspectives à long terme sont positives pour la préservation du patrimoine. Les acteurs clés sont le président et les architectes.",
+        "analyse_en": "The historical context of the White House is rich. The main stakes are security and preservation of the building. The short-term consequences are inconvenience for visitors. The long-term prospects are positive for heritage preservation. The key actors are the president and architects.",
+        "analyse_zh": "白宫的历史背景很丰富。主要问题是安全和保护建筑。短期后果是访客的不便。长期前景是积极的，保护了遗产。关键人物是总统和建筑师。",
+        "analyse_ru": "Исторический контекст Белого дома богат. Основные проблемы - безопасность и сохранение здания. Краткосрочные последствия - неудобства для посетителей. Долгосрочные перспективы - положительные для сохранения наследия. Ключевые лица - президент и архитекторы.",
+        "analyse_fa": "زمینه تاریخی کاخ سفید غنی است. مسائل اصلی امنیت و حفظ ساختمان هستند. پیامدهای کوتاه‌مدت، مزاحمت برای بازدیدکنندگان است. چشم‌اندازهای بلندمدت برای حفظ میراث مثبت است. بازیگران کلیدی رئیس جمهور و معماران هستند.",
+        "analyse_ar": "السياق التاريخي للبيت الأبيض غني. القضايا الرئيسية هي الأمن وحفظ المبنى. العواقب قصيرة المدى هي الإزعاج للزوار. الآفاق طويلة المدى هي إيجابية للحفاظ على التراث. الأطراف الرئيسية هي الرئيس والمهندسون المعماريون.",
+        "categorie": "Géopolitique",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/conormurray/2026/07/09/white-house-hangs-tarps-over-north-portico-amid-trumps-construction-blitz/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fe2960e41da54ae0e24ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "2026-07-09",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Immobilier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Tourisme",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Immobilier",
+            "secteur_en": "Real Estate",
+            "secteur_zh": "房地产",
+            "effet_fr": "Les travaux à la Maison Blanche ont un impact sur le secteur immobilier.",
+            "effet_en": "The work at the White House has an impact on the real estate sector.",
+            "effet_zh": "白宫的工作对房地产行业有影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Tourisme",
+            "secteur_en": "Tourism",
+            "secteur_zh": "旅游",
+            "effet_fr": "Les réparations à la Maison Blanche affectent le tourisme.",
+            "effet_en": "The repairs at the White House affect tourism.",
+            "effet_zh": "白宫的维修影响了旅游业。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T18:14:22.228528"
+      },
       {
         "id": "usa_631240",
         "titre": "Mort lente du Kennedy Center",
@@ -1745,56 +1804,6 @@
           }
         ],
         "created_at": "2026-07-08T12:10:18.611231"
-      },
-      {
-        "id": "usa_902849",
-        "titre": "Les démons de Maryville",
-        "titre_en": "The Demons of Maryville",
-        "titre_zh": "玛丽维尔的恶魔",
-        "titre_original": "The Demons of Maryville",
-        "resume": "Un nombre croissant de chrétiens charismatiques se perçoivent comme étant engagés dans une bataille spirituelle contre les forces de Satan. Parfois, ces forces sont juste à côté. Cette tendance est particulièrement visible dans certaines communautés religieuses aux États-Unis.",
-        "resume_en": "A growing number of charismatic Christians see themselves as waging a spiritual battle against the forces of Satan. Sometimes, those forces are right across the street. This trend is particularly visible in certain religious communities in the United States.",
-        "resume_zh": "越来越多的魅力基督徒认为自己正在与撒旦的力量进行一场精神战。有时，这些力量就在眼前。这种趋势在美国某些宗教社区中尤其明显。",
-        "analyse_detaillee": "Le contexte historique de cette tendance est lié à l'évolution des mouvements religieux aux États-Unis. Les enjeux principaux sont la capacité de ces communautés à influencer la société et la politique. Les conséquences à court terme seront une augmentation de la visibilité de ces groupes. Les perspectives à long terme sont incertaines, avec des risques potentiels de conflits avec d'autres groupes religieux ou laïcs.",
-        "analyse_en": "The historical context of this trend is related to the evolution of religious movements in the United States. The main stakes are the ability of these communities to influence society and politics. The short-term consequences will be an increase in the visibility of these groups. The long-term prospects are uncertain, with potential risks of conflict with other religious or secular groups.",
-        "analyse_zh": "这种趋势的历史背景与美国宗教运动的演变有关。主要的影响是这些社区能够影响社会和政治。短期后果将是这些团体的可见度增加。长期前景不确定，可能会与其他宗教或世俗团体发生冲突。",
-        "categorie": "Société",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/",
-        "image": "https://cdn.theatlantic.com/thumbor/hK75dtXh0CSIDB9X4dSjLusstIY=/1x576:4472x2905/1200x625/media/img/2026/07/DemonsOpener/original.png",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Secteur des organisations religieuses",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur de la politique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur des organisations religieuses",
-            "secteur_en": "Religious organizations sector",
-            "secteur_zh": "宗教组织行业",
-            "effet_fr": "L'influence grandissante de ces communautés religieuses pourrait avoir un impact sur les organisations religieuses existantes.",
-            "effet_en": "The growing influence of these religious communities could have an impact on existing religious organizations.",
-            "effet_zh": "这些宗教社区的日益增长的影响力可能会影响现有的宗教组织。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur de la politique",
-            "secteur_en": "Politics sector",
-            "secteur_zh": "政治行业",
-            "effet_fr": "Les implications politiques de ces mouvements religieux pourraient également avoir un impact sur le secteur de la politique.",
-            "effet_en": "The political implications of these religious movements could also have an impact on the politics sector.",
-            "effet_zh": "这些宗教运动的政治影响也可能会影响政治领域。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T10:02:21.368473"
       }
     ],
     "chine": [
@@ -2200,6 +2209,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_113358",
+        "titre": "Ukraine frappe des tankers",
+        "titre_en": "Ukraine Strikes Tankers",
+        "titre_zh": "乌克兰袭击油轮",
+        "titre_ru": "Украина наносит удар по танкерам",
+        "titre_fa": "اوکراین به نفت‌کش‌ها حمله می‌کند",
+        "titre_ar": "أوكرانيا تغزو ناقلات",
+        "titre_original": "Ukraine Continues Strikes on Russian Tankers as Shortages Worsen",
+        "resume": "L'Ukraine a frappé des tankers russes. Les attaques visent à aggraver la pénurie d'essence.",
+        "resume_en": "Ukraine has struck Russian tankers. The attacks aim to worsen the gasoline shortage.",
+        "resume_zh": "乌克兰袭击了俄罗斯的油轮。袭击旨在加剧汽油短缺。",
+        "resume_ru": "Украина нанесла удар по российским танкерам. Нападения направлены на ухудшение нехватки бензина.",
+        "resume_fa": "اوکراین به نفت‌کش‌های روسیه حمله کرده است. این حملات با هدف بدتر کردن کمبود بنزین انجام می‌شود.",
+        "resume_ar": "أوكرانيا قد أغارت على ناقلات روسية. الهجمات تهدف إلى تفاقم نقص الغازولين.",
+        "analyse_detaillee": "Le contexte historique de la guerre entre l'Ukraine et la Russie est complexe. Les enjeux principaux sont la sécurité énergétique et la souveraineté. Les conséquences à court terme sont la pénurie d'essence. Les perspectives à long terme sont incertaines. Les acteurs clés sont les présidents ukrainien et russe.",
+        "analyse_en": "The historical context of the war between Ukraine and Russia is complex. The main stakes are energy security and sovereignty. The short-term consequences are the gasoline shortage. The long-term prospects are uncertain. The key actors are the Ukrainian and Russian presidents.",
+        "analyse_zh": "乌克兰和俄罗斯之间的战争历史背景复杂。主要问题是能源安全和主权。短期后果是汽油短缺。长期前景不确定。关键人物是乌克兰和俄罗斯总统。",
+        "analyse_ru": "Исторический контекст войны между Украиной и Россией сложен. Основные проблемы - энергетическая безопасность и суверенитет. Краткосрочные последствия - нехватка бензина. Долгосрочные перспективы неопределенны. Ключевые лица - президенты Украины и России.",
+        "analyse_fa": "زمینه تاریخی جنگ بین اوکراین و روسیه پیچیده است. مسائل اصلی امنیت انرژی و حاکمیت هستند. پیامدهای کوتاه‌مدت، کمبود بنزین است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی، رئیس‌جمهورهای اوکراین و روسیه هستند.",
+        "analyse_ar": "السياق التاريخي للحرب بين أوكرانيا وروسيا معقد. القضايا الرئيسية هي الأمن الطاقي والسيادة. العواقب قصيرة المدى هي نقص الغازولين. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الرؤساء الأوكراني والروسي.",
+        "categorie": "Géopolitique",
+        "source": "gcaptain.com",
+        "url": "https://gcaptain.com/ukraine-continues-strikes-on-russian-tankers-as-shortages-worsen/",
+        "image": "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-09T104259Z_1765130317_RC2AAMAH55F9_RTRMADP_3_UKRAINE-CRISIS-TANKERS.jpg",
+        "date": "2026-07-09",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Énergie",
+            "hausse": false
+          },
+          {
+            "label": "▼ Transport",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "Les attaques ukrainiennes ont un impact sur le secteur énergétique.",
+            "effet_en": "The Ukrainian attacks have an impact on the energy sector.",
+            "effet_zh": "乌克兰的袭击对能源行业有影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Transport",
+            "secteur_en": "Transportation",
+            "secteur_zh": "交通",
+            "effet_fr": "Les frappes ukrainiennes affectent le transport de marchandises.",
+            "effet_en": "The Ukrainian strikes affect the transportation of goods.",
+            "effet_zh": "乌克兰的袭击影响了货物运输。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T18:14:22.228563"
+      },
       {
         "id": "russie_349541",
         "titre": "Poutine refuse la trêve",
@@ -3230,59 +3298,68 @@
           }
         ],
         "created_at": "2026-07-08T12:10:18.611239"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_221924",
-        "titre": "La guerre en Ukraine",
-        "titre_en": "Ukraine war",
-        "titre_zh": "乌克兰战争",
-        "titre_original": "Ukraine war is not going well for Russia – how dangerous is this for Vladimir Putin?",
-        "resume": "La guerre en Ukraine ne se déroule pas bien pour la Russie. La question maintenant est de savoir si les difficultés économiques de la Russie entraîneront des protestations de masse et une division parmi les élites, comme ce qui s'est passé à la fin de l'ère soviétique.",
-        "resume_en": "The war in Ukraine is not going well for Russia. The question now is whether Russia's economic difficulties will lead to mass protests and a split among the elites, as happened in late Soviet times.",
-        "resume_zh": "乌克兰战争对俄罗斯来说并不顺利。现在的问题是俄罗斯的经济困难是否会导致大规模抗议和精英分裂，就像苏联晚期发生的那样。",
-        "analyse_detaillee": "Le contexte historique de cette situation est lié à l'implication de la Russie dans des conflits internationaux. Les enjeux principaux sont la capacité de la Russie à maintenir son influence dans la région et à gérer les conséquences économiques de la guerre. Les conséquences à court terme seront une augmentation des tensions internationales. Les perspectives à long terme sont incertaines, avec des risques potentiels de destabilisation de la région.",
-        "analyse_en": "The historical context of this situation is related to Russia's involvement in international conflicts. The main stakes are Russia's ability to maintain its influence in the region and to manage the economic consequences of the war. The short-term consequences will be an increase in international tensions. The long-term prospects are uncertain, with potential risks of destabilization of the region.",
-        "analyse_zh": "这种情况的历史背景与俄罗斯参与国际冲突有关。主要的影响是俄罗斯在该地区维持其影响力和管理战争的经济后果的能力。短期后果将是国际紧张局势的加剧。长期前景不确定，可能会导致该地区的不稳定。",
+        "id": "iran_907595",
+        "titre": "Funérailles de Khamenei",
+        "titre_en": "Khamenei Funeral",
+        "titre_zh": "哈梅内伊葬礼",
+        "titre_ru": "Похороны Хаменеи",
+        "titre_fa": "مراسم تشییع جنازه خامنه‌ای",
+        "titre_ar": "جنازة خامنئي",
+        "titre_original": "Iranian president, Foreign Minister confronted by opponents of negotiations during Khamenei funeral",
+        "resume": "Les funérailles de Khamenei ont été marquées par des affrontements. Les opposants ont agressé le président et le ministre des affaires étrangères.",
+        "resume_en": "Khamenei's funeral was marked by clashes. Opponents assaulted the president and foreign minister.",
+        "resume_zh": "哈梅内伊的葬礼上发生了冲突。反对派袭击了总统和外交部长。",
+        "resume_ru": "Похороны Хаменеи были омрачены столкновениями. Оппоненты напали на президента и министра иностранных дел.",
+        "resume_fa": "مراسم تشییع جنازه خامنه‌ای با درگیری همراه بود. مخالفان به رئیس جمهور و وزیر امور خارجه حمله کردند.",
+        "resume_ar": "مراسم جنازة خامنئي شهدت اشتباكات. هاجم المعارضون الرئيس ووزير الخارجية.",
+        "analyse_detaillee": "Le contexte historique de l'Iran est marqué par des troubles. Les enjeux principaux sont la stabilité et la sécurité. Les conséquences à court terme sont l'instabilité. Les perspectives à long terme sont incertaines. Les acteurs clés sont les dirigeants iraniens.",
+        "analyse_en": "The historical context of Iran is marked by turmoil. The main stakes are stability and security. The short-term consequences are instability. The long-term prospects are uncertain. The key actors are the Iranian leaders.",
+        "analyse_zh": "伊朗的历史背景以动荡为标志。主要问题是稳定和安全。短期后果是不稳定。长期前景不确定。关键人物是伊朗领导人。",
+        "analyse_ru": "Исторический контекст Ирана отмечен беспорядками. Основные проблемы - стабильность и безопасность. Краткосрочные последствия - нестабильность. Долгосрочные перспективы неопределенны. Ключевые лица - иранские лидеры.",
+        "analyse_fa": "زمینه تاریخی ایران با آشفتگی مشخص می‌شود. مسائل اصلی، ثبات و امنیت هستند. پیامدهای کوتاه‌مدت، ناپایداری است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی، رهبران ایرانی هستند.",
+        "analyse_ar": "السياق التاريخي لإيران يتميز بالاضطراب. القضايا الرئيسية هي الاستقرار والأمن. العواقب قصيرة المدى هي عدم الاستقرار. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي القادة الإيرانيون.",
         "categorie": "Géopolitique",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/ukraine-war-is-not-going-well-for-russia-how-dangerous-is-this-for-vladimir-putin-285995",
-        "image": "https://images.theconversation.com/files/746069/original/file-20260706-57-3rs1ej.jpg?ixlib=rb-4.1.0&rect=0%2C1007%2C4881%2C2440&q=45&auto=format&w=1356&h=668&fit=crop",
-        "date": "2026-07-07",
-        "pays": "russie",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/09/world-news/iranian-president-foreign-minister-confronted-by-opponents-of-negotiations-during-khamenei-funeral/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133872505.jpg?quality=75&strip=all&w=1200",
+        "date": "2026-07-09",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de la défense",
-            "hausse": true
+            "label": "▼ Politique",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur économique",
+            "label": "▼ Sécurité",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "La guerre en Ukraine aura un impact significatif sur le secteur de la défense, avec des dépenses militaires accrues.",
-            "effet_en": "The war in Ukraine will have a significant impact on the defense sector, with increased military spending.",
-            "effet_zh": "乌克兰战争将对国防行业产生重大影响，军费开支将增加。",
-            "hausse": true
+            "secteur_fr": "Politique",
+            "secteur_en": "Politics",
+            "secteur_zh": "政治",
+            "effet_fr": "Les funérailles de Khamenei ont un impact sur la politique iranienne.",
+            "effet_en": "Khamenei's funeral has an impact on Iranian politics.",
+            "effet_zh": "哈梅内伊的葬礼对伊朗政治有影响。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur économique",
-            "secteur_en": "Economic sector",
-            "secteur_zh": "经济行业",
-            "effet_fr": "Les conséquences économiques de la guerre en Ukraine seront également importantes, avec des risques de récession et d'inflation.",
-            "effet_en": "The economic consequences of the war in Ukraine will also be significant, with risks of recession and inflation.",
-            "effet_zh": "乌克兰战争的经济后果也将很大，存在经济衰退和通货膨胀的风险。",
+            "secteur_fr": "Sécurité",
+            "secteur_en": "Security",
+            "secteur_zh": "安全",
+            "effet_fr": "Les affrontements lors des funérailles affectent la sécurité.",
+            "effet_en": "The clashes during the funeral affect security.",
+            "effet_zh": "葬礼期间的冲突影响了安全。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-08T10:02:21.368485"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-10T18:14:22.228574"
+      },
       {
         "id": "iran_882101",
         "titre": "États-Unis lancent des frappes",
@@ -4313,56 +4390,6 @@
           }
         ],
         "created_at": "2026-07-08T12:10:18.611245"
-      },
-      {
-        "id": "iran_902849",
-        "titre": "Les démons de Maryville",
-        "titre_en": "The Demons of Maryville",
-        "titre_zh": "玛丽维尔的恶魔",
-        "titre_original": "The Demons of Maryville",
-        "resume": "Un nombre croissant de chrétiens charismatiques se perçoivent comme étant engagés dans une bataille spirituelle contre les forces de Satan. Parfois, ces forces sont juste à côté. Cette tendance est particulièrement visible dans certaines communautés religieuses.",
-        "resume_en": "A growing number of charismatic Christians see themselves as waging a spiritual battle against the forces of Satan. Sometimes, those forces are right across the street. This trend is particularly visible in certain religious communities.",
-        "resume_zh": "越来越多的魅力基督徒认为自己正在与撒旦的力量进行一场精神战。有时，这些力量就在眼前。这种趋势在某些宗教社区中尤其明显。",
-        "analyse_detaillee": "Le contexte historique de cette tendance est lié à l'évolution des mouvements religieux. Les enjeux principaux sont la capacité de ces communautés à influencer la société et la politique. Les conséquences à court terme seront une augmentation de la visibilité de ces groupes. Les perspectives à long terme sont incertaines, avec des risques potentiels de conflits avec d'autres groupes religieux ou laïcs.",
-        "analyse_en": "The historical context of this trend is related to the evolution of religious movements. The main stakes are the ability of these communities to influence society and politics. The short-term consequences will be an increase in the visibility of these groups. The long-term prospects are uncertain, with potential risks of conflict with other religious or secular groups.",
-        "analyse_zh": "这种趋势的历史背景与宗教运动的演变有关。主要的影响是这些社区能够影响社会和政治。短期后果将是这些团体的可见度增加。长期前景不确定，可能会与其他宗教或世俗团体发生冲突。",
-        "categorie": "Société",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/",
-        "image": "https://cdn.theatlantic.com/thumbor/hK75dtXh0CSIDB9X4dSjLusstIY=/1x576:4472x2905/1200x625/media/img/2026/07/DemonsOpener/original.png",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Secteur des organisations religieuses",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur de la politique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur des organisations religieuses",
-            "secteur_en": "Religious organizations sector",
-            "secteur_zh": "宗教组织行业",
-            "effet_fr": "L'influence grandissante de ces communautés religieuses pourrait avoir un impact sur les organisations religieuses existantes.",
-            "effet_en": "The growing influence of these religious communities could have an impact on existing religious organizations.",
-            "effet_zh": "这些宗教社区的日益增长的影响力可能会影响现有的宗教组织。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur de la politique",
-            "secteur_en": "Politics sector",
-            "secteur_zh": "政治行业",
-            "effet_fr": "Les implications politiques de ces mouvements religieux pourraient également avoir un impact sur le secteur de la politique.",
-            "effet_en": "The political implications of these religious movements could also have an impact on the politics sector.",
-            "effet_zh": "这些宗教运动的政治影响也可能会影响政治领域。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T10:02:21.368493"
       }
     ]
   }
