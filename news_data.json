@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/07/2026 à 11h38",
+  "last_updated": "10/07/2026 à 13h47",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_631240",
+        "titre": "Mort lente du Kennedy Center",
+        "titre_en": "Slow Death of Kennedy Center",
+        "titre_zh": "肯尼迪中心的缓慢衰落",
+        "titre_ru": "Медленная смерть Центра Кеннеди",
+        "titre_fa": "مرگ تدریجی مرکز کندی",
+        "titre_ar": "الموت البطيء لمركز كينيدي",
+        "titre_original": "Inside the Slow Death of the Kennedy Center",
+        "resume": "Le centre Kennedy est touché par la prise de pouvoir de Trump. Les dépenses excessives et les fermetures inutiles ont des conséquences négatives. Les ventes de billets sont en chute libre. Le centre est en crise.",
+        "resume_en": "The Kennedy Center is affected by Trump's takeover. Excessive spending and unnecessary closures have negative consequences. Ticket sales are plummeting. The center is in crisis.",
+        "resume_zh": "肯尼迪中心受到特朗普的接管影响。过度的开支和不必要的关闭对中心产生了负面影响。票务销售大幅下滑。中心面临危机。",
+        "resume_ru": "Центр Кеннеди пострадал от прихода к власти Трампа. Чрезмерные расходы и ненужные закрытия имеют негативные последствия. Продажи билетов падают. Центр находится в кризисе.",
+        "resume_fa": "مرکز کندی تحت تأثیر قدرت گرفتن ترامپ قرار گرفته است. هزینه‌های زیاد و تعطیلی‌های غیرضروری بر مرکز تأثیر منفی می‌گذارد. فروش بلیط‌ها در حال سقوط است. مرکز در بحران است.",
+        "resume_ar": "مركز كينيدي تأثر بالاستيلاء على السلطة من قبل ترامب. النفقات الزائدة والإغلاقات غير الضرورية لها عواقب سلبية. مبيعات التذاكر في انخفاض حاد. المركز في أزمة.",
+        "analyse_detaillee": "Le contexte historique du centre Kennedy est marqué par son importance culturelle. Les enjeux principaux sont la gestion de Trump et les conséquences à court terme sont la perte de confiance. Les perspectives à long terme sont incertaines et les acteurs clés sont les artistes et les politiciens.",
+        "analyse_en": "The historical context of the Kennedy Center is marked by its cultural significance. The main stakes are Trump's management and the short-term consequences are the loss of trust. The long-term prospects are uncertain and the key actors are the artists and politicians.",
+        "analyse_zh": "肯尼迪中心的历史背景以其文化意义为标志。主要问题是特朗普的管理和短期后果是失去信任。长期前景不确定，关键人物是艺术家和政治家。",
+        "analyse_ru": "Исторический контекст Центра Кеннеди отмечен его культурным значением. Основные проблемы - это управление Трампа и краткосрочные последствия - потеря доверия. Долгосрочные перспективы неопределенны, и ключевыми лицами являются артисты и политики.",
+        "analyse_fa": "زمینه تاریخی مرکز کندی با اهمیت فرهنگی آن مشخص می‌شود. مسائل اصلی مدیریت ترامپ و پیامدهای کوتاه‌مدت از دست رفتن اعتماد است. چشم‌اندازهای بلندمدت نامعلوم است و بازیگران کلیدی هنرمندان و سیاستمداران هستند.",
+        "analyse_ar": "السياق التاريخي لمركز كينيدي يتميز بأهميته الثقافية. القضايا الرئيسية هي إدارة ترامب والنتائج قصيرة المدى هي فقدان الثقة. الآفاق طويلة المدى غير مؤكدة، والأطراف الرئيسية هي الفنانون والسياسيون.",
+        "categorie": "Géopolitique",
+        "source": "Rolling Stone",
+        "url": "http://www.rollingstone.com/politics/politics-features/trump-takeover-of-the-kennedy-center-1235584927/",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2026/06/JFK-CENTER-LEAD.jpg?w=1600&h=900&crop=1",
+        "date": "2026-07-09",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Spectacle vivant",
+            "hausse": false
+          },
+          {
+            "label": "▼ Tourisme culturel",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Spectacle vivant",
+            "secteur_en": "Performing arts",
+            "secteur_zh": "演艺行业",
+            "effet_fr": "La gestion de Trump a entraîné une baisse des ventes de billets pour les spectacles vivants.",
+            "effet_en": "Trump's management has led to a decline in ticket sales for performing arts.",
+            "effet_zh": "特朗普的管理导致演艺行业的票务销售下滑。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Tourisme culturel",
+            "secteur_en": "Cultural tourism",
+            "secteur_zh": "文化旅游",
+            "effet_fr": "La crise du centre Kennedy affecte également le tourisme culturel à Washington.",
+            "effet_en": "The Kennedy Center crisis also affects cultural tourism in Washington.",
+            "effet_zh": "肯尼迪中心的危机也影响了华盛顿的文化旅游。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T13:47:44.160341"
+      },
       {
         "id": "usa_260502",
         "titre": "Abdul El-Sayed",
@@ -1736,56 +1795,6 @@
           }
         ],
         "created_at": "2026-07-08T10:02:21.368473"
-      },
-      {
-        "id": "usa_11761",
-        "titre": "OTAN prévoit 5% dépense",
-        "titre_en": "NATO Agrees 5% Spending",
-        "titre_zh": "北约同意5%支出",
-        "titre_original": "NATO Agreed To Spend 5%. It Still Can't Say Which War Comes First.",
-        "resume": "L'OTAN a convenu d'une cible de dépenses de 5%. La Lituanie, l'Espagne et la Turquie s'arment pour trois guerres différentes. Cela signifie une augmentation des dépenses de défense. Les pays membres de l'OTAN doivent maintenant déterminer comment allouer ces fonds.",
-        "resume_en": "NATO agreed on a 5% spending target. Lithuania, Spain, and Turkey are arming for three different wars. This means an increase in defense spending. NATO member countries must now determine how to allocate these funds. The decision will impact defense capital.",
-        "resume_zh": "北约同意5%的支出目标。立陶宛、西班牙和土耳其为三场不同的战争做准备。这意味着增加国防开支。北约成员国现在必须确定如何分配这些资金。这个决定将影响国防资本。",
-        "analyse_detaillee": "L'OTAN a historiquement joué un rôle crucial dans la défense de l'Europe. La décision de dépenser 5% du PIB en défense est une réponse aux menaces croissantes. Cependant, l'incapacité à définir une menace commune pose des défis. Les conséquences à court terme incluent une augmentation des dépenses militaires. À long terme, cela pourrait renforcer la position de l'OTAN. Les acteurs clés, tels que les États-Unis, l'Allemagne et la France, joueront un rôle déterminant.",
-        "analyse_en": "NATO has historically played a crucial role in European defense. The decision to spend 5% of GDP on defense is a response to growing threats. However, the inability to define a common threat poses challenges. Short-term consequences include increased military spending. In the long term, this could strengthen NATO's position. Key actors, such as the US, Germany, and France, will play a decisive role. The outcome will depend on their ability to cooperate and allocate resources effectively.",
-        "analyse_zh": "北约在历史上发挥了至关重要的作用。同意5%的国防支出目标是对日益增长的威胁的回应。然而，无法定义共同威胁带来了挑战。短期后果包括军费开支增加。从长远来看，这可能会加强北约的立场。关键的行为者，如美国、德国和法国，将发挥决定性的作用。结果将取决于他们有效合作和分配资源的能力。",
-        "categorie": "Géopolitique",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/07/nato-agreed-to-spend-5-it-still-cant-say-which-war-comes-first/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bb48544953e9bed7f2e09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Défense aérienne",
-            "hausse": true
-          },
-          {
-            "label": "▼ Industrie de l'armement",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Défense aérienne",
-            "secteur_en": "Air Defense",
-            "secteur_zh": "空防",
-            "effet_fr": "L'augmentation des dépenses en défense aérienne devrait avoir un impact positif sur les entreprises du secteur.",
-            "effet_en": "The increase in air defense spending is expected to have a positive impact on companies in the sector.",
-            "effet_zh": "空防支出的增加预计将对该行业的公司产生积极影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Industrie de l'armement",
-            "secteur_en": "Arms Industry",
-            "secteur_zh": "武器制造业",
-            "effet_fr": "La demande accrue d'armements devrait stimuler la production et les ventes dans le secteur.",
-            "effet_en": "The increased demand for arms is expected to boost production and sales in the sector.",
-            "effet_zh": "武器需求的增加预计将促进该行业的生产和销售。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T07:19:00.874619"
       }
     ],
     "chine": [
@@ -2191,6 +2200,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_349541",
+        "titre": "Poutine refuse la trêve",
+        "titre_en": "Putin Rejects Ceasefire",
+        "titre_zh": "普京拒绝停火",
+        "titre_ru": "Путин отказался от перемирия",
+        "titre_fa": "پوتین مخالف آتش بس است",
+        "titre_ar": "بوتين يرفض الهدنة",
+        "titre_original": "Furious Putin rounded on his advisers for suggesting a ceasefire - and plans to escalate the war within weeks, Kremlin sources tell Reuters",
+        "resume": "Selon des sources proches de Poutine, le président russe refuse une trêve et prévoit d'intensifier le conflit dans les semaines à venir. Les conseillers de Poutine ont suggéré une trêve, mais il a rejeté cette idée.",
+        "resume_en": "According to sources close to Putin, the Russian president is rejecting a ceasefire and plans to escalate the conflict in the coming weeks. Putin's advisors had suggested a ceasefire, but he rejected the idea.",
+        "resume_zh": "据普京身边的消息来源称，俄罗斯总统拒绝停火，并计划在未来几周内加剧冲突。普京的顾问曾建议停火，但他拒绝了这个想法。",
+        "resume_ru": "По данным источников, близких к Путину, российский президент отказался от перемирия и планирует эскалировать конфликт в ближайшие недели. Советники Путина предлагали перемирие, но он отверг эту идею.",
+        "resume_fa": "به گفته منابع نزدیک به پوتین، رئیس جمهور روسیه مخالف آتش بس است و قصد دارد در هفته‌های آینده درگیری را تشدید کند. مشاوران پوتین پیشنهاد آتش بس داده بودند، اما او این پیشنهاد را رد کرد.",
+        "resume_ar": "وفقًا لمصادر قريبة من بوتين، يرفض الرئيس الروسي الهدنة ويتوقع تصعيد النزاع في الأسابيع المقبلة. قدّم مستشارو بوتين اقتراحًا بوقف إطلاق النار، لكنه رفض الفكرة.",
+        "analyse_detaillee": "Le contexte historique du conflit est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la souveraineté et les conséquences à court terme sont l'escalade du conflit. Les perspectives à long terme sont incertaines et les acteurs clés sont les dirigeants russes et ukrainiens.",
+        "analyse_en": "The historical context of the conflict is marked by tensions between Russia and Ukraine. The main stakes are sovereignty and the short-term consequences are the escalation of the conflict. The long-term prospects are uncertain and the key actors are the Russian and Ukrainian leaders.",
+        "analyse_zh": "冲突的历史背景以俄罗斯和乌克兰之间的紧张关系为标志。主要问题是主权和短期后果是冲突的升级。长期前景不确定，关键人物是俄罗斯和乌克兰领导人。",
+        "analyse_ru": "Исторический контекст конфликта отмечен напряженностью между Россией и Украиной. Основные проблемы - суверенитет и краткосрочные последствия - эскалация конфликта. Долгосрочные перспективы неопределенны, и ключевыми лицами являются российские и украинские лидеры.",
+        "analyse_fa": "زمینه تاریخی درگیری با تنش بین روسیه و اوکراین مشخص می‌شود. مسائل اصلی حاکمیت و پیامدهای کوتاه‌مدت تشدید درگیری است. چشم‌اندازهای بلندمدت نامعلوم است و بازیگران کلیدی رهبران روسیه و اوکراین هستند.",
+        "analyse_ar": "السياق التاريخي للنزاع يتميز بالتوتر بين روسيا وأوكرانيا. القضايا الرئيسية هي السيادة والنتائج قصيرة المدى هي تصعيد النزاع. الآفاق طويلة المدى غير مؤكدة، والأطراف الرئيسية هي القادة الروس والأوكرانيون.",
+        "categorie": "Géopolitique",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15965321/Putin-escalate-war-rejecting-suggested-ceasefire.html",
+        "image": "https://i.dailymail.com/1s/2026/07/09/14/109908407-0-image-a-12_1783603054125.jpg",
+        "date": "2026-07-09",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Industrie de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Économie ukrainienne",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie de la défense",
+            "secteur_en": "Defense industry",
+            "secteur_zh": "国防工业",
+            "effet_fr": "L'escalade du conflit entraîne une augmentation des dépenses militaires pour la Russie.",
+            "effet_en": "The escalation of the conflict leads to an increase in military spending for Russia.",
+            "effet_zh": "冲突的升级导致俄罗斯的军费开支增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Économie ukrainienne",
+            "secteur_en": "Ukrainian economy",
+            "secteur_zh": "乌克兰经济",
+            "effet_fr": "Le conflit a des conséquences négatives sur l'économie ukrainienne, notamment en termes de croissance et d'investissements.",
+            "effet_en": "The conflict has negative consequences for the Ukrainian economy, particularly in terms of growth and investment.",
+            "effet_zh": "冲突对乌克兰经济产生了负面影响，特别是在增长和投资方面。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T13:47:44.160374"
+      },
       {
         "id": "russie_322858",
         "titre": "Russie et Ukraine",
@@ -3212,59 +3280,68 @@
           }
         ],
         "created_at": "2026-07-08T10:02:21.368485"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_11761",
-        "titre": "Russie face à l'OTAN",
-        "titre_en": "Russia Faces NATO",
-        "titre_zh": "俄罗斯面对北约",
-        "titre_original": "NATO Agreed To Spend 5%. It Still Can't Say Which War Comes First.",
-        "resume": "La Russie est confrontée à une OTAN renforcée. Les dépenses de défense de la Russie devraient augmenter en réponse. Cela pourrait avoir des conséquences sur les relations internationales. La Russie doit maintenant déterminer comment répondre à cette nouvelle réalité.",
-        "resume_en": "Russia is facing a strengthened NATO. Russia's defense spending is expected to increase in response. This could have consequences for international relations. Russia must now determine how to respond to this new reality. The decision will impact Russia's position on the global stage.",
-        "resume_zh": "俄罗斯面临着加强的北约。俄罗斯的国防支出预计将增加以应对。这可能会对国际关系产生影响。俄罗斯现在必须确定如何应对这一新现实。这个决定将影响俄罗斯在全球舞台上的地位。",
-        "analyse_detaillee": "La Russie a historiquement entretenu des relations tendues avec l'OTAN. La décision de l'OTAN de dépenser 5% du PIB en défense est perçue comme une menace. La Russie devra augmenter ses dépenses militaires pour maintenir son influence. Cela pourrait avoir des conséquences à long terme sur la stabilité régionale. Les acteurs clés, tels que les États-Unis et l'Europe, joueront un rôle déterminant dans la réponse de la Russie.",
-        "analyse_en": "Russia has historically had tense relations with NATO. NATO's decision to spend 5% of GDP on defense is seen as a threat. Russia will need to increase its military spending to maintain its influence. This could have long-term consequences for regional stability. Key actors, such as the US and Europe, will play a decisive role in Russia's response. The outcome will depend on their ability to cooperate and allocate resources effectively.",
-        "analyse_zh": "俄罗斯与北约的关系历史上一直很紧张。北约决定将5%的国防支出用于国防被视为一种威胁。俄罗斯需要增加军费开支以维持其影响力。这可能会对地区稳定产生长期影响。关键的行为者，如美国和欧洲，将在俄罗斯的回应中发挥决定性的作用。结果将取决于他们有效合作和分配资源的能力。",
+        "id": "iran_882101",
+        "titre": "États-Unis lancent des frappes",
+        "titre_en": "US Launches Strikes",
+        "titre_zh": "美国发动空袭",
+        "titre_ru": "США наносят удары",
+        "titre_fa": "ایالات متحده حمله هوایی انجام می‌دهد",
+        "titre_ar": "الولايات المتحدة تطلق ضربات",
+        "titre_original": "U.S. Launches New Wave of Overnight Strikes as Iran Escalates",
+        "resume": "Les États-Unis ont lancé une série de frappes aériennes contre des cibles militaires iraniennes. Les frappes visaient des systèmes de défense aérienne, des installations de surveillance côtière et des sites de stockage de missiles.",
+        "resume_en": "The United States has launched a series of airstrikes against Iranian military targets. The strikes targeted air defense systems, coastal surveillance facilities, and missile storage sites.",
+        "resume_zh": "美国对伊朗军事目标发动了一系列空袭。空袭针对的是防空系统、沿海监视设施和导弹储存场。",
+        "resume_ru": "США нанесли серию авиаударов по военным целям Ирана. Удары были нанесены по системам противовоздушной обороны, прибрежным объектам наблюдения и местам хранения ракет.",
+        "resume_fa": "ایالات متحده یک سری حملات هوایی علیه اهداف نظامی ایران انجام داده است. این حملات به سیستم‌های پدافند هوایی، تأسیسات نظارت ساحلی و محل‌های ذخیره‌سازی موشک‌ها هدف قرار گرفته‌اند.",
+        "resume_ar": "الولايات المتحدة أطلقت سلسلة من الغارات الجوية على أهداف عسكرية إيرانية. استهدفت الغارات أنظمة الدفاع الجوي ومنشآت المراقبة الساحلية ومواقع تخزين الصواريخ.",
+        "analyse_detaillee": "Le contexte historique des tensions entre les États-Unis et l'Iran est marqué par des décennies de conflit. Les enjeux principaux sont la sécurité régionale et les conséquences à court terme sont l'escalade du conflit. Les perspectives à long terme sont incertaines et les acteurs clés sont les dirigeants américains et iraniens.",
+        "analyse_en": "The historical context of the tensions between the US and Iran is marked by decades of conflict. The main stakes are regional security and the short-term consequences are the escalation of the conflict. The long-term prospects are uncertain and the key actors are the American and Iranian leaders.",
+        "analyse_zh": "美国和伊朗之间的紧张关系的历史背景以几十年的冲突为标志。主要问题是地区安全和短期后果是冲突的升级。长期前景不确定，关键人物是美国和伊朗领导人。",
+        "analyse_ru": "Исторический контекст напряженности между США и Ираном отмечен десятилетиями конфликта. Основные проблемы - региональная безопасность и краткосрочные последствия - эскалация конфликта. Долгосрочные перспективы неопределенны, и ключевыми лицами являются американские и иранские лидеры.",
+        "analyse_fa": "زمینه تاریخی تنش بین ایالات متحده و ایران با دهه‌ها درگیری مشخص می‌شود. مسائل اصلی امنیت منطقه‌ای و پیامدهای کوتاه‌مدت تشدید درگیری است. چشم‌اندازهای بلندمدت نامعلوم است و بازیگران کلیدی رهبران آمریکایی و ایرانی هستند.",
+        "analyse_ar": "السياق التاريخي للتوتر بين الولايات المتحدة وإيران يتميز bằng عقود من الصراع. القضايا الرئيسية هي الأمن الإقليمي والنتائج قصيرة المدى هي تصعيد النزاع. الآفاق طويلة المدى غير مؤكدة، والأطراف الرئيسية هي القادة الأمريكيون والإيرانيون.",
         "categorie": "Géopolitique",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/07/nato-agreed-to-spend-5-it-still-cant-say-which-war-comes-first/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4bb48544953e9bed7f2e09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "date": "2026-07-07",
-        "pays": "russie",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/07/u-s-launches-new-wave-of-overnight-strikes-as-iran-escalates/",
+        "image": "https://legalinsurrection.com/wp-content/uploads/2026/07/US-retaliation-strike-Iran-hormuz-strait.jpg",
+        "date": "2026-07-09",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Industrie de la défense",
+            "label": "▲ Industrie pétrolière",
             "hausse": true
           },
           {
-            "label": "▼ Énergie",
+            "label": "▼ Économie iranienne",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Industrie de la défense",
-            "secteur_en": "Defense Industry",
-            "secteur_zh": "国防工业",
-            "effet_fr": "L'augmentation des dépenses en défense devrait avoir un impact positif sur les entreprises du secteur.",
-            "effet_en": "The increase in defense spending is expected to have a positive impact on companies in the sector.",
-            "effet_zh": "国防支出的增加预计将对该行业的公司产生积极影响。",
+            "secteur_fr": "Industrie pétrolière",
+            "secteur_en": "Oil industry",
+            "secteur_zh": "石油工业",
+            "effet_fr": "Les tensions entre les États-Unis et l'Iran ont des conséquences sur les marchés pétroliers mondiaux.",
+            "effet_en": "The tensions between the US and Iran have an impact on global oil markets.",
+            "effet_zh": "美国和伊朗之间的紧张关系对全球石油市场产生了影响。",
             "hausse": true
           },
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "La demande accrue d'énergie pour les besoins militaires devrait stimuler la production et les ventes dans le secteur.",
-            "effet_en": "The increased demand for energy for military needs is expected to boost production and sales in the sector.",
-            "effet_zh": "军事需求的能源需求增加预计将促进该行业的生产和销售。",
+            "secteur_fr": "Économie iranienne",
+            "secteur_en": "Iranian economy",
+            "secteur_zh": "伊朗经济",
+            "effet_fr": "Les sanctions économiques et les frappes aériennes ont des conséquences négatives sur l'économie iranienne.",
+            "effet_en": "Economic sanctions and airstrikes have negative consequences for the Iranian economy.",
+            "effet_zh": "经济制裁和空袭对伊朗经济产生了负面影响。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-08T07:19:00.874651"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-10T13:47:44.160385"
+      },
       {
         "id": "iran_243880",
         "titre": "Iran après Khamenei",
@@ -4286,56 +4363,6 @@
           }
         ],
         "created_at": "2026-07-08T10:02:21.368493"
-      },
-      {
-        "id": "iran_101881",
-        "titre": "Iran et l'Indonésie",
-        "titre_en": "Iran and Indonesia",
-        "titre_zh": "伊朗和印度尼西亚",
-        "titre_original": "Indonesian lawmaker backs government's Khamenei funeral mission",
-        "resume": "L'Iran et l'Indonésie ont des relations diplomatiques. La décision de l'Indonésie d'envoyer une délégation aux funérailles de Khamenei est un geste diplomatique. Cela pourrait avoir des conséquences sur les relations internationales. L'Iran doit maintenant déterminer comment répondre à cette démarche.",
-        "resume_en": "Iran and Indonesia have diplomatic relations. Indonesia's decision to send a delegation to Khamenei's funeral is a diplomatic gesture. This could have consequences for international relations. Iran must now determine how to respond to this move. The decision will impact Iran's position on the global stage.",
-        "resume_zh": "伊朗和印度尼西亚有外交关系。印度尼西亚决定派遣代表团参加哈梅内伊的葬礼是一种外交姿态。这可能会对国际关系产生影响。伊朗现在必须确定如何应对这一举动。这个决定将影响伊朗在全球舞台上的地位。",
-        "analyse_detaillee": "L'Iran a historiquement entretenu des relations complexes avec les pays musulmans. La décision de l'Indonésie de participer aux funérailles de Khamenei est un signe de respect. La communauté internationale observe avec intérêt les développements dans la région. Les acteurs clés, tels que les États-Unis et l'Europe, joueront un rôle déterminant dans la réponse de l'Iran.",
-        "analyse_en": "Iran has historically had complex relations with Muslim countries. Indonesia's decision to participate in Khamenei's funeral is a sign of respect. The international community is watching developments in the region with interest. Key actors, such as the US and Europe, will play a decisive role in Iran's response. The outcome will depend on their ability to cooperate and allocate resources effectively.",
-        "analyse_zh": "伊朗与穆斯林国家的关系历史上一直很复杂。印度尼西亚决定参加哈梅内伊的葬礼是一种尊重的表现。国际社会正在关注该地区的发展。关键的行为者，如美国和欧洲，将在伊朗的回应中发挥决定性的作用。结果将取决于他们有效合作和分配资源的能力。",
-        "categorie": "Géopolitique",
-        "source": "Antaranews.com",
-        "url": "https://en.antaranews.com/news/421747/indonesian-lawmaker-backs-governments-khamenei-funeral-mission",
-        "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/07/IMG-20260422-WA0155-1536x1536.jpeg",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Pétrole",
-            "hausse": true
-          },
-          {
-            "label": "▼ Gaz",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Pétrole",
-            "secteur_en": "Oil",
-            "secteur_zh": "石油",
-            "effet_fr": "La demande accrue de pétrole pour les besoins économiques devrait stimuler la production et les ventes dans le secteur.",
-            "effet_en": "The increased demand for oil for economic needs is expected to boost production and sales in the sector.",
-            "effet_zh": "经济需求的石油需求增加预计将促进该行业的生产和销售。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Gaz",
-            "secteur_en": "Gas",
-            "secteur_zh": "天然气",
-            "effet_fr": "La demande accrue de gaz pour les besoins énergétiques devrait stimuler la production et les ventes dans le secteur.",
-            "effet_en": "The increased demand for gas for energy needs is expected to boost production and sales in the sector.",
-            "effet_zh": "能源需求的天然气需求增加预计将促进该行业的生产和销售。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T07:19:00.874661"
       }
     ]
   }
