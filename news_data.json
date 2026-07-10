@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/07/2026 à 08h13",
+  "last_updated": "10/07/2026 à 11h38",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_260502",
+        "titre": "Abdul El-Sayed",
+        "titre_en": "Could Abdul El-Sayed",
+        "titre_zh": "阿卜杜勒塞义德",
+        "titre_ru": "Абдул Эль-Саид",
+        "titre_fa": "عبدال سید",
+        "titre_ar": "عبدال السيد",
+        "titre_original": "Could Abdul El-Sayed Upend Democratic Politics for Good?",
+        "resume": "Abdul El-Sayed pourrait changer la politique démocrate. Il est candidat au Sénat. Les démocrates traditionnels sont inquiets.",
+        "resume_en": "Abdul El-Sayed may change Democratic politics. He is running for Senate. Traditional Democrats are worried.",
+        "resume_zh": "阿卜杜勒塞义德可能改变民主党政治。他正在竞选参议员。传统的民主党人担心。",
+        "resume_ru": "Абдул Эль-Саид может изменить демократическую политику. Он баллотируется в Сенат. Традиционные демократы обеспокоены.",
+        "resume_fa": "عبدال سید ممکن است سیاست دموکرات را تغییر دهد. او برای سناتور کاندیدا شده است. دموکرات های سنتی نگران هستند.",
+        "resume_ar": "عبدال السيد قد يغير السياسة الديمقراطية. هو مرشح للسينات. الديمقراطيون التقليدون قلقون.",
+        "analyse_detaillee": "Le contexte historique est celui d'une élection sénatoriale américaine. Les enjeux principaux sont la représentation démocrate et la politique intérieure. Les conséquences à court terme seront une possible victoire d'Abdul El-Sayed. Les perspectives à long terme sont incertaines. Les acteurs principaux sont les démocrates et les républicains.",
+        "analyse_en": "The historical context is that of a US Senate election. The main stakes are Democratic representation and domestic policy. The short-term consequences will be a possible Abdul El-Sayed victory. The long-term prospects are uncertain. The main actors are Democrats and Republicans.",
+        "analyse_zh": "历史背景是美国参议院选举。主要问题是民主党代表和国内政策。短期后果将是阿卜杜勒塞义德可能获胜。长期前景不确定。主要参与者是民主党和共和党。",
+        "analyse_ru": "Исторический контекст - это выборы в Сенат США. Основные проблемы - демократическое представительство и внутренняя политика. Краткосрочные последствия будут возможной победой Абдула Эль-Саида. Долгосрочные перспективы неопределенны. Основные участники - демократы и республиканцы.",
+        "analyse_fa": "زمینه تاریخی انتخابات سنا است. مسائل اصلی نمایندگی دموکرات و سیاست داخلی است. پیامدهای کوتاه‌مدت ممکن است پیروزی عبدال سید باشد. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی دموکرات‌ها و جمهوری‌خواهان هستند.",
+        "analyse_ar": "السياق التاريخي هو انتخابات مجلس الشيوخ الأمريكي. القضايا الرئيسية هي التمثيل الديمقراطي والسياسة الداخلية. العواقب قصيرة المدى ستكون فوز ممکن لعبدال السيد. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الديمقراطيون والجمهوريون.",
+        "categorie": "Géopolitique",
+        "source": "Thenation.com",
+        "url": "https://www.thenation.com/?post_type=article&p=603541",
+        "image": "https://www.thenation.com/wp-content/uploads/2026/07/abdul-el-sayed-getty.jpg",
+        "date": "2026-07-09",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur politique",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur financier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur politique",
+            "secteur_en": "Political sector",
+            "secteur_zh": "政治领域",
+            "effet_fr": "L'élection d'Abdul El-Sayed pourrait changer la donne politique.",
+            "effet_en": "Abdul El-Sayed's election could change the political landscape.",
+            "effet_zh": "阿卜杜勒塞义德的当选可能改变政治格局。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融领域",
+            "effet_fr": "Les conséquences économiques de cette élection sont incertaines.",
+            "effet_en": "The economic consequences of this election are uncertain.",
+            "effet_zh": "此次选举的经济后果不确定。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-10T11:38:40.774374"
+      },
       {
         "id": "usa_887933",
         "titre": "Trump attaqué",
@@ -1727,56 +1786,6 @@
           }
         ],
         "created_at": "2026-07-08T07:19:00.874619"
-      },
-      {
-        "id": "usa_411417",
-        "titre": "FIFA contre Trump",
-        "titre_en": "FIFA vs Trump",
-        "titre_zh": "国际足联反对特朗普",
-        "titre_original": "FIFA chief Gianni Infantino breaks rank from Trump to defend 'suspect' referee slammed by president... as he faces calls to RESIGN from his role",
-        "resume": "Le président de la FIFA, Gianni Infantino, défend l'arbitre attaqué par Trump. Cet arbitre a été critiqué pour ses décisions lors d'un match. La FIFA soutient ses arbitres. ",
-        "resume_en": "FIFA President Gianni Infantino defends the referee attacked by Trump. This referee was criticized for his decisions during a match. FIFA supports its referees. ",
-        "resume_zh": "国际足联主席吉安尼·因凡蒂诺为特朗普攻击的裁判辩护。该裁判因其在比赛中的决定而受到批评。国际足联支持其裁判。 ",
-        "analyse_detaillee": "Le contexte historique de cette affaire est lié aux relations tendues entre la FIFA et les États-Unis. Les enjeux principaux sont la crédibilité de la FIFA et la réputation de l'arbitre. Les conséquences à court terme sont une augmentation des tensions entre la FIFA et les États-Unis. Les perspectives à long terme sont une possible réforme de la FIFA. Les acteurs clés sont la FIFA, les États-Unis et l'arbitre.",
-        "analyse_en": "The historical context of this case is related to the tense relations between FIFA and the United States. The main stakes are the credibility of FIFA and the reputation of the referee. The short-term consequences are an increase in tensions between FIFA and the United States. The long-term prospects are a possible reform of FIFA. The key actors are FIFA, the United States, and the referee.",
-        "analyse_zh": "这一事件的历史背景与国际足联和美国之间的紧张关系有关。主要影响是国际足联的可信度和裁判的声誉。短期后果是国际足联和美国之间的紧张局势加剧。长期前景是国际足联可能进行改革。主要参与者是国际足联、美国和裁判。 ",
-        "categorie": "Géopolitique",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/sport/football/article-15958223/fifa-gianni-infantino-trump-referee.html",
-        "image": "https://i.dailymail.com/1s/2026/07/07/05/109843905-0-image-m-19_1783398680440.jpg",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Sport",
-            "hausse": false
-          },
-          {
-            "label": "▼ Politique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sport",
-            "secteur_en": "Sports",
-            "secteur_zh": "体育",
-            "effet_fr": "L'impact sur le sport est une augmentation des tensions entre les instances dirigeantes et les arbitres.",
-            "effet_en": "The impact on sports is an increase in tensions between governing bodies and referees.",
-            "effet_zh": "对体育的影响是管理机构和裁判之间的紧张局势加剧。 ",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Politique",
-            "secteur_en": "Politics",
-            "secteur_zh": "政治",
-            "effet_fr": "L'impact sur la politique est une détérioration des relations entre les États-Unis et la FIFA.",
-            "effet_en": "The impact on politics is a deterioration of relations between the United States and FIFA.",
-            "effet_zh": "对政治的影响是美国和国际足联之间的关系恶化。 ",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T04:53:58.221038"
       }
     ],
     "chine": [
@@ -2182,6 +2191,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_322858",
+        "titre": "Russie et Ukraine",
+        "titre_en": "Russia and Ukraine",
+        "titre_zh": "俄罗斯和乌克兰",
+        "titre_ru": "Россия и Украина",
+        "titre_fa": "روسیه و اوکراین",
+        "titre_ar": "روسيا وأوكرانيا",
+        "titre_original": "Russia rejects US claim Ukrainian strikes will help end war",
+        "resume": "La Russie rejette les allégations américaines sur les frappes ukrainiennes. Les États-Unis estiment que ces frappes pourraient aider à mettre fin à la guerre.",
+        "resume_en": "Russia rejects US claims about Ukrainian strikes. The US believes these strikes could help end the war.",
+        "resume_zh": "俄罗斯驳斥了美国关于乌克兰袭击的说法。美国认为这些袭击可能有助于结束战争。",
+        "resume_ru": "Россия отвергает американские заявления об украинских ударах. США считают, что эти удары могут помочь закончить войну.",
+        "resume_fa": "روسیه ادعاهای آمریکا در مورد حملات اوکراین را رد می کند. ایالات متحده معتقد است که این حملات ممکن است به پایان دادن به جنگ کمک کند.",
+        "resume_ar": "روسيا ترفض المزاعم الأمريكية حول الضربات الأوكرانية. الولايات المتحدة تعتقد أن هذه الضربات قد تساعد في إنهاء الحرب.",
+        "analyse_detaillee": "Le contexte historique est celui d'un conflit entre la Russie et l'Ukraine. Les enjeux principaux sont la souveraineté ukrainienne et la sécurité régionale. Les conséquences à court terme seront une possible intensification du conflit. Les perspectives à long terme sont incertaines. Les acteurs principaux sont la Russie, l'Ukraine et les États-Unis.",
+        "analyse_en": "The historical context is that of a conflict between Russia and Ukraine. The main stakes are Ukrainian sovereignty and regional security. The short-term consequences will be a possible escalation of the conflict. The long-term prospects are uncertain. The main actors are Russia, Ukraine, and the US.",
+        "analyse_zh": "历史背景是俄罗斯和乌克兰之间的冲突。主要问题是乌克兰的主权和地区安全。短期后果将是可能的冲突升级。长期前景不确定。主要参与者是俄罗斯、乌克兰和美国。",
+        "analyse_ru": "Исторический контекст - это конфликт между Россией и Украиной. Основные проблемы - украинская суверенность и региональная безопасность. Краткосрочные последствия будут возможным эскалацией конфликта. Долгосрочные перспективы неопределенны. Основные участники - Россия, Украина и США.",
+        "analyse_fa": "زمینه تاریخی جنگ بین روسیه و اوکراین است. مسائل اصلی حاکمیت اوکراین و امنیت منطقه‌ای است. پیامدهای کوتاه‌مدت ممکن است تشدید конфلیکت باشد. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی روسیه، اوکراین و ایالات متحده هستند.",
+        "analyse_ar": "السياق التاريخي هو الصراع بين روسيا وأوكرانيا. القضايا الرئيسية هي السيادة الأوكرانية والأمن الإقليمي. العواقب قصيرة المدى ستكون تصعيد ممکن للصراع. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي روسيا وأوكرانيا والولايات المتحدة.",
+        "categorie": "Géopolitique",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/russia-rejects-us-claim-ukrainian-strikes-will-help-end-war/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/AFP__20260605__B66D2EW__v1__MidRes__RussiaEconomyPoliticsDiplomacy.jpg",
+        "date": "2026-07-09",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur énergétique",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur militaire",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源领域",
+            "effet_fr": "Les frappes ukrainiennes pourraient avoir un impact sur les exportations russes d'énergie.",
+            "effet_en": "Ukrainian strikes could have an impact on Russian energy exports.",
+            "effet_zh": "乌克兰袭击可能会影响俄罗斯的能源出口。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur militaire",
+            "secteur_en": "Military sector",
+            "secteur_zh": "军事领域",
+            "effet_fr": "Le conflit entre la Russie et l'Ukraine pourrait s'intensifier.",
+            "effet_en": "The conflict between Russia and Ukraine could escalate.",
+            "effet_zh": "俄罗斯和乌克兰之间的冲突可能会升级。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-10T11:38:40.774408"
+      },
       {
         "id": "russie_185315",
         "titre": "Menaces nucléaires",
@@ -3194,59 +3262,68 @@
           }
         ],
         "created_at": "2026-07-08T07:19:00.874651"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_492874",
-        "titre": "Attaque ukrainienne",
-        "titre_en": "Ukrainian attack",
-        "titre_zh": "乌克兰袭击",
-        "titre_original": "Ukrainian drones flew all the way to Siberia to strike Russia's largest oil refinery",
-        "resume": "L'Ukraine a lancé une attaque contre la Russie, visant la plus grande raffinerie de pétrole du pays. Cette attaque a eu lieu à une distance de 1 700 miles. ",
-        "resume_en": "Ukraine launched an attack on Russia, targeting the country's largest oil refinery. This attack took place at a distance of 1,700 miles.",
-        "resume_zh": "乌克兰对俄罗斯发动袭击，目标是该国最大的石油炼厂。该袭击发生在1,700英里的距离。 ",
-        "analyse_detaillee": "Le contexte historique de cette affaire est lié au conflit entre l'Ukraine et la Russie. Les enjeux principaux sont la sécurité énergétique de la Russie et la capacité de l'Ukraine à lancer des attaques à longue distance. Les conséquences à court terme sont une augmentation des tensions entre l'Ukraine et la Russie. Les perspectives à long terme sont une possible escalade du conflit. Les acteurs clés sont l'Ukraine, la Russie et les pays occidentaux.",
-        "analyse_en": "The historical context of this case is related to the conflict between Ukraine and Russia. The main stakes are Russia's energy security and Ukraine's ability to launch long-range attacks. The short-term consequences are an increase in tensions between Ukraine and Russia. The long-term prospects are a possible escalation of the conflict. The key actors are Ukraine, Russia, and Western countries.",
-        "analyse_zh": "这一事件的历史背景与乌克兰和俄罗斯之间的冲突有关。主要影响是俄罗斯的能源安全和乌克兰发动远程攻击的能力。短期后果是乌克兰和俄罗斯之间的紧张局势加剧。长期前景是冲突可能升级。主要参与者是乌克兰、俄罗斯和西方国家。 ",
+        "id": "iran_243880",
+        "titre": "Iran après Khamenei",
+        "titre_en": "Iran after Khamenei",
+        "titre_zh": "哈梅内伊之后的伊朗",
+        "titre_ru": "Иран после Хаменеи",
+        "titre_fa": "ایران پس از خامنه‌ای",
+        "titre_ar": "إيران بعد خامنئي",
+        "titre_original": "What next for Iran after Ali Khamenei?",
+        "resume": "Le décès de Khamenei laisse un vide du pouvoir en Iran. Son fils Mojtaba devra faire face à de nombreux défis.",
+        "resume_en": "Khamenei's death leaves a power vacuum in Iran. His son Mojtaba will have to face many challenges.",
+        "resume_zh": "哈梅内伊去世后，伊朗出现权力真空。他的儿子莫赫塔巴将面临许多挑战。",
+        "resume_ru": "Смерть Хаменеи оставляет вакуум власти в Иране. Его сын Мохтаба столкнется с многими проблемами.",
+        "resume_fa": "درگذشت خامنه‌ای خلا قدرت در ایران ایجاد می کند. پسرش مجتبی باید با چالش‌های زیادی روبرو شود.",
+        "resume_ar": "موت خامنئي يترك فراغا في السلطة في إيران. ابنه مجتبى سيواجه تحديات كثيرة.",
+        "analyse_detaillee": "Le contexte historique est celui de la succession de Khamenei en Iran. Les enjeux principaux sont la stabilité du régime et la sécurité régionale. Les conséquences à court terme seront une possible période de transition. Les perspectives à long terme sont incertaines. Les acteurs principaux sont le gouvernement iranien et les forces armées.",
+        "analyse_en": "The historical context is that of Khamenei's succession in Iran. The main stakes are the stability of the regime and regional security. The short-term consequences will be a possible transition period. The long-term prospects are uncertain. The main actors are the Iranian government and the armed forces.",
+        "analyse_zh": "历史背景是哈梅内伊在伊朗的继承。主要问题是政权的稳定和地区安全。短期后果将是可能的过渡期。长期前景不确定。主要参与者是伊朗政府和武装部队。",
+        "analyse_ru": "Исторический контекст - это наследование Хаменеи в Иране. Основные проблемы - стабильность режима и региональная безопасность. Краткосрочные последствия будут возможным переходным периодом. Долгосрочные перспективы неопределенны. Основные участники - иранское правительство и вооруженные силы.",
+        "analyse_fa": "زمینه تاریخی جانشینی خامنه‌ای در ایران است. مسائل اصلی ثبات رژیم و امنیت منطقه‌ای است. پیامدهای کوتاه‌مدت ممکن است یک دوره انتقالی باشد. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی دولت ایران و نیروهای مسلح هستند.",
+        "analyse_ar": "السياق التاريخي هو خلافة خامنئي في إيران. القضايا الرئيسية هي استقرار النظام والأمن الإقليمي. العواقب قصيرة المدى ستكون فترة انتقالية ممکن. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الحكومة الإيرانية والقوات المسلحة.",
         "categorie": "Géopolitique",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/ukraine-drones-omsk-refinery-attack-long-range-siberia-fire-point-2026-7#article",
-        "image": "https://i.insider.com/6a4c7cd35dc133dbf310d70c?width=1200&format=jpeg",
-        "date": "2026-07-07",
-        "pays": "russie",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/07/09/what-next-for-iran-after-ali-khamenei/",
+        "image": "https://www.irishtimes.com/resizer/v2/2E5ZVJJTLW56RBTQN67L6QEIDM.jpg?smart=true&auth=f90bc988aa87059776cc15e5878194453c6f2639aa978bf91b067b72ad046459&width=1200&height=630",
+        "date": "2026-07-09",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Énergie",
+            "label": "▼ Secteur politique",
             "hausse": false
           },
           {
-            "label": "▲ Défense",
+            "label": "▲ Secteur économique",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "L'impact sur l'énergie est une augmentation des risques pour la sécurité énergétique de la Russie.",
-            "effet_en": "The impact on energy is an increase in risks for Russia's energy security.",
-            "effet_zh": "对能源的影响是俄罗斯能源安全风险的增加。 ",
+            "secteur_fr": "Secteur politique",
+            "secteur_en": "Political sector",
+            "secteur_zh": "政治领域",
+            "effet_fr": "La succession de Khamenei pourrait avoir un impact sur la stabilité du régime.",
+            "effet_en": "Khamenei's succession could have an impact on the stability of the regime.",
+            "effet_zh": "哈梅内伊的继承可能会影响政权的稳定。",
             "hausse": false
           },
           {
-            "secteur_fr": "Défense",
-            "secteur_en": "Defense",
-            "secteur_zh": "国防",
-            "effet_fr": "L'impact sur la défense est une augmentation des dépenses militaires de la Russie.",
-            "effet_en": "The impact on defense is an increase in Russia's military spending.",
-            "effet_zh": "对国防的影响是俄罗斯军费开支的增加。 ",
+            "secteur_fr": "Secteur économique",
+            "secteur_en": "Economic sector",
+            "secteur_zh": "经济领域",
+            "effet_fr": "La situation économique en Iran pourrait s'améliorer ou se dégrader.",
+            "effet_en": "The economic situation in Iran could improve or deteriorate.",
+            "effet_zh": "伊朗的经济形势可能会改善或恶化。",
             "hausse": true
           }
         ],
-        "created_at": "2026-07-08T04:53:58.221065"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-10T11:38:40.774421"
+      },
       {
         "id": "iran_851059",
         "titre": "Frappes aériennes",
@@ -4259,56 +4336,6 @@
           }
         ],
         "created_at": "2026-07-08T07:19:00.874661"
-      },
-      {
-        "id": "iran_496461",
-        "titre": "Vedanta Aluminium",
-        "titre_en": "Vedanta Aluminium",
-        "titre_zh": "维丹塔铝业",
-        "titre_original": "Vedanta Aluminium wipes off Rs 25,000 cr worth investor wealth in under a month. Time to buy?",
-        "resume": "Les actions de Vedanta Aluminium ont chuté de manière significative depuis leur introduction en bourse. Cette baisse a entraîné une perte importante de richesse pour les investisseurs. ",
-        "resume_en": "Vedanta Aluminium's shares have fallen significantly since their listing. This decline has resulted in a substantial loss of wealth for investors.",
-        "resume_zh": "维丹塔铝业的股票自上市以来大幅下跌。这一下跌导致投资者遭受了巨大的财富损失。 ",
-        "analyse_detaillee": "Le contexte historique de cette affaire est lié à la situation économique de l'Inde. Les enjeux principaux sont la confiance des investisseurs et la capacité de Vedanta Aluminium à se remettre de cette baisse. Les conséquences à court terme sont une perte de confiance des investisseurs. Les perspectives à long terme sont une possible reprise de la croissance de Vedanta Aluminium. Les acteurs clés sont Vedanta Aluminium, les investisseurs et le gouvernement indien.",
-        "analyse_en": "The historical context of this case is related to India's economic situation. The main stakes are investor confidence and Vedanta Aluminium's ability to recover from this decline. The short-term consequences are a loss of investor confidence. The long-term prospects are a possible recovery of Vedanta Aluminium's growth. The key actors are Vedanta Aluminium, investors, and the Indian government.",
-        "analyse_zh": "这一事件的历史背景与印度的经济形势有关。主要影响是投资者信心和维丹塔铝业从这一下跌中恢复的能力。短期后果是投资者信心的丧失。长期前景是维丹塔铝业可能恢复增长。主要参与者是维丹塔铝业、投资者和印度政府。 ",
-        "categorie": "Économie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-wipes-off-rs-25000-cr-worth-investor-wealth-in-under-a-month-time-to-buy/articleshow/132230375.cms",
-        "image": "https://img.etimg.com/thumb/msid-132230402,width-1200,height-630,imgsize-2604297,overlay-etmarkets/articleshow.jpg",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Métallurgie",
-            "hausse": false
-          },
-          {
-            "label": "▼ Bourse",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Métallurgie",
-            "secteur_en": "Metallurgy",
-            "secteur_zh": "冶金",
-            "effet_fr": "L'impact sur la métallurgie est une baisse de la production d'aluminium.",
-            "effet_en": "The impact on metallurgy is a decline in aluminum production.",
-            "effet_zh": "对冶金的影响是铝生产的下降。 ",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Bourse",
-            "secteur_en": "Stock market",
-            "secteur_zh": "股票市场",
-            "effet_fr": "L'impact sur la bourse est une perte de confiance des investisseurs.",
-            "effet_en": "The impact on the stock market is a loss of investor confidence.",
-            "effet_zh": "对股票市场的影响是投资者信心的丧失。 ",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T04:53:58.221073"
       }
     ]
   }
