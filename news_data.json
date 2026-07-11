@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/07/2026 à 09h12",
+  "last_updated": "11/07/2026 à 10h49",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_884242",
+        "titre": "Trump bat le S&P",
+        "titre_en": "Trade like Trump",
+        "titre_zh": "特朗普战胜标准普尔",
+        "titre_ru": "Торговля как Трамп",
+        "titre_fa": "ترامپ بازار را شکست",
+        "titre_ar": "تداول مثل ترامب",
+        "titre_original": "Trade like Trump: If you traded like the president, you'd beat the S&P",
+        "resume": "Le portefeuille d'actions de Trump a performé mieux que le S&P 500. Cela montre que les investissements de Trump ont été rentables. Les résultats sont basés sur les données de son inauguration.",
+        "resume_en": "Trump's stock portfolio has outperformed the S&P 500. This shows that Trump's investments have been profitable. The results are based on data from his inauguration.",
+        "resume_zh": "特朗普的股票投资组合比标准普尔500表现更好。 这表明特朗普的投资是有利可图的。 结果基于他就职的数据。",
+        "resume_ru": "Инвестиционный портфель Трампа показал лучшие результаты, чем S&P 500. Это говорит о том, что инвестиции Трампа были прибыльными. Результаты основаны на данных с момента его инаугурации.",
+        "resume_fa": "سبد سهام ترامپ از S&P 500 بهتر عمل کرده است. این نشان می دهد که سرمایه گذاری های ترامپ سودآور بوده است. نتایج بر اساس داده های از زمان مراسم تحلیف او است.",
+        "resume_ar": "حقق محفظة أسهم ترامب أداء أفضل من س&P 500. هذا يدل على أن استثمارات ترامب كانت مربحة. ويت基于 البيانات من لحظة تنصيبه.",
+        "analyse_detaillee": "Le contexte historique est celui de la présidence de Trump. Les enjeux principaux sont les performances des investissements. Les conséquences à court terme sont une augmentation de la confiance dans les marchés. Les perspectives à long terme sont incertaines. Les acteurs clés sont les investisseurs et les marchés financiers.",
+        "analyse_en": "The historical context is Trump's presidency. The main stakes are investment performance. The short-term consequences are increased confidence in markets. The long-term prospects are uncertain. The key actors are investors and financial markets.",
+        "analyse_zh": "历史背景是特朗普的总统任期。 主要问题是投资回报。 短期后果是市场信心的提高。 长期前景是不确定的。 主要参与者是投资者和金融市场。",
+        "analyse_ru": "Исторический контекст - это президентство Трампа. Основные проблемы - это результаты инвестиций. Краткосрочные последствия - это повышение доверия к рынкам. Долгосрочные перспективы неопределенны. Основными участниками являются инвесторы и финансовые рынки.",
+        "analyse_fa": "زمینه تاریخی ریاست جمهوری ترامپ است. مسائل اصلی بازدهی سرمایه گذاری است. پیامدهای کوتاه مدت افزایش اعتماد به بازارهای مالی است. چشم اندازهای بلندمدت نامعلوم است. بازیگران اصلی سرمایه گذاران و بازارهای مالی هستند.",
+        "analyse_ar": "السياق التاريخي هو رئاسة ترامب. القضايا الرئيسية هي أداء الاستثمارات. العواقب قصيرة المدى هي زيادة الثقة في الأسواق. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي المستثمرون والأسواق المالية.",
+        "categorie": "Géopolitique",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/trump-portfolio-stock-trades-beat-market-analysis-2026-7#article",
+        "image": "https://i.insider.com/6a500dc1b3a8c16f7e8ed1ff?width=1200&format=jpeg",
+        "date": "2026-07-10",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché boursier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché obligataire",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier",
+            "secteur_en": "Stock market",
+            "secteur_zh": "股票市场",
+            "effet_fr": "Le marché boursier a été impacté par les performances de Trump.",
+            "effet_en": "The stock market was impacted by Trump's performance.",
+            "effet_zh": "股票市场受到特朗普表现的影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché obligataire",
+            "secteur_en": "Bond market",
+            "secteur_zh": "债券市场",
+            "effet_fr": "Le marché obligataire n'a pas été directement impacté.",
+            "effet_en": "The bond market was not directly impacted.",
+            "effet_zh": "债券市场没有直接受到影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T10:49:32.284421"
+      },
       {
         "id": "usa_400049",
         "titre": "Trump limoge membres clés",
@@ -1808,56 +1867,6 @@
           }
         ],
         "created_at": "2026-07-08T23:56:30.213501"
-      },
-      {
-        "id": "usa_774975",
-        "titre": "Démocrates et Graham Platner",
-        "titre_en": "Democrats and Graham Platner",
-        "titre_zh": "民主党和格雷厄姆·普拉特纳",
-        "titre_original": "What could Democrats have done differently about Graham Platner?",
-        "resume": "Les démocrates ont rencontré Graham Platner pour discuter de son passé. Les démocrates ont des inquiétudes sur son passé. Graham Platner tente de rassurer les démocrates.",
-        "resume_en": "Democrats met with Graham Platner to discuss his past. Democrats have concerns about his past. Graham Platner is trying to reassure Democrats.",
-        "resume_zh": "民主党人会见格雷厄姆·普拉特纳讨论他的过去。民主党人对他的过去有担忧。格雷厄姆·普拉特纳试图让民主党人放心。",
-        "analyse_detaillee": "Le contexte historique est celui des élections américaines. Les enjeux principaux sont la crédibilité des démocrates. Les conséquences à court terme sont une perte de confiance. Les perspectives à long terme sont incertaines. Les acteurs clés sont les démocrates et Graham Platner.",
-        "analyse_en": "The historical context is that of American elections. The main stakes are the credibility of Democrats. The short-term consequences are a loss of trust. The long-term prospects are uncertain. The key actors are Democrats and Graham Platner.",
-        "analyse_zh": "历史背景是美国大选。主要影响是民主党的可信度。短期后果是失去信任。长期前景不确定。主要参与者是民主党和格雷厄姆·普拉特纳。",
-        "categorie": "Géopolitique",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/494565/graham-platner-allegations-assault-withdrawing-dropping-out",
-        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-2279845338.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché politique américain",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché financier américain",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché politique américain",
-            "secteur_en": "American political market",
-            "secteur_zh": "美国政治市场",
-            "effet_fr": "L'impact sur le marché politique américain est une perte de confiance.",
-            "effet_en": "The impact on the American political market is a loss of trust.",
-            "effet_zh": "对美国政治市场的影响是失去信任。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché financier américain",
-            "secteur_en": "American financial market",
-            "secteur_zh": "美国金融市场",
-            "effet_fr": "L'impact sur le marché financier américain est incertain.",
-            "effet_en": "The impact on the American financial market is uncertain.",
-            "effet_zh": "对美国金融市场的影响不确定。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T22:51:47.365212"
       }
     ],
     "chine": [
@@ -3401,6 +3410,65 @@
     ],
     "iran": [
       {
+        "id": "iran_954391",
+        "titre": "Funérailles de Khamenei",
+        "titre_en": "Khamenei funeral",
+        "titre_zh": "哈梅内伊葬礼",
+        "titre_ru": "Похороны Хаменеи",
+        "titre_fa": "مراسم تشییع خمینی",
+        "titre_ar": "جنازة خامنئي",
+        "titre_original": "Iran buries former supreme leader Khamenei in hometown",
+        "resume": "L'Iran a enterré l'ancien guide suprême Khamenei. Il a été tué lors d'une attaque. Les funérailles ont eu lieu dans sa ville natale.",
+        "resume_en": "Iran has buried former Supreme Leader Khamenei. He was killed in an attack. The funeral took place in his hometown.",
+        "resume_zh": "伊朗已经埋葬了前最高领袖哈梅内伊。 他在袭击中被杀。 葬礼在他的家乡举行。",
+        "resume_ru": "Иран похоронил бывшего верховного лидера Хаменеи. Он был убит в результате нападения. Похороны прошли в его родном городе.",
+        "resume_fa": "ایران خمینی رهبر سابق را به خاک سپرد. او در حمله ای کشته شد. مراسم تشییع در شهر زادگاه او برگزار شد.",
+        "resume_ar": "دفن إيران الزعيم الأعلى السابق خامنئي. وقتل في هجوم. أقيمت الجنازة في مسقط رأسه.",
+        "analyse_detaillee": "Le contexte historique est celui de la situation géopolitique actuelle. Les enjeux principaux sont la stabilité du pouvoir en Iran. Les conséquences à court terme sont une période d'incertitude. Les perspectives à long terme sont une possible évolution du régime.",
+        "analyse_en": "The historical context is the current geopolitical situation. The main stakes are the stability of power in Iran. The short-term consequences are a period of uncertainty. The long-term prospects are a possible evolution of the regime.",
+        "analyse_zh": "历史背景是当前的地缘政治局势。 主要问题是伊朗权力稳定。 短期后果是不确定的时期。 长期前景是可能的政权演变。",
+        "analyse_ru": "Исторический контекст - это текущая геополитическая ситуация. Основные проблемы - это стабильность власти в Иране. Краткосрочные последствия - это период неопределенности. Долгосрочные перспективы - это возможная эволюция режима.",
+        "analyse_fa": "زمینه تاریخی وضعیت ژئوپلیتیکی فعلی است. مسائل اصلی ثبات قدرت در ایران است. پیامدهای کوتاه مدت یک دوره عدم قطعیت است. چشم اندازهای بلندمدت یک تحول احتمالی در رژیم است.",
+        "analyse_ar": "السياق التاريخي هو الوضع الجيوسياسي الحالي. القضايا الرئيسية هي استقرار السلطة في إيران. العواقب قصيرة المدى هي فترة من عدم اليقين. الآفاق طويلة المدى هي تطور محتمل للنظام.",
+        "categorie": "Géopolitique",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/07/iran-buries-former-supreme-leader-khamenei-in-hometown/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+        "date": "2026-07-10",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des armes",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Le marché pétrolier pourrait être impacté par la situation en Iran.",
+            "effet_en": "The oil market could be impacted by the situation in Iran.",
+            "effet_zh": "石油市场可能会受到伊朗局势的影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des armes",
+            "secteur_en": "Arms market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "Le marché des armes pourrait également être affecté.",
+            "effet_en": "The arms market could also be affected.",
+            "effet_zh": "武器市场也可能受到影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T10:49:32.284455"
+      },
+      {
         "id": "iran_753193",
         "titre": "Guerre Iran : escalade",
         "titre_en": "Iran War: escalation",
@@ -4493,56 +4561,6 @@
           }
         ],
         "created_at": "2026-07-08T23:56:30.213540"
-      },
-      {
-        "id": "iran_85896",
-        "titre": "Attaques de tankers à Hormuz",
-        "titre_en": "Hormuz tanker attacks",
-        "titre_zh": "霍尔木兹油轮袭击",
-        "titre_original": "Oil rises to $74 after Hormuz tanker attacks",
-        "resume": "Des attaques de tankers ont eu lieu à Hormuz. Les attaques ont fait augmenter les prix du pétrole. Les conséquences des attaques sont incertaines.",
-        "resume_en": "Tanker attacks have occurred in Hormuz. The attacks have caused an increase in oil prices. The consequences of the attacks are uncertain.",
-        "resume_zh": "霍尔木兹发生油轮袭击。袭击导致油价上涨。袭击的后果不确定。",
-        "analyse_detaillee": "Le contexte historique est celui des tensions au Moyen-Orient. Les enjeux principaux sont la stabilité du marché pétrolier. Les conséquences à court terme sont une augmentation des prix. Les perspectives à long terme sont incertaines. Les acteurs clés sont l'Iran et les pays occidentaux.",
-        "analyse_en": "The historical context is that of tensions in the Middle East. The main stakes are the stability of the oil market. The short-term consequences are an increase in prices. The long-term prospects are uncertain. The key actors are Iran and Western countries.",
-        "analyse_zh": "历史背景是中东的紧张局势。主要影响是石油市场的稳定。短期后果是价格上涨。长期前景不确定。主要参与者是伊朗和西方国家。",
-        "categorie": "Géopolitique",
-        "source": "The Punch",
-        "url": "https://punchng.com/oil-rises-to-74-after-hormuz-tanker-attacks/",
-        "image": "https://punchng.com/wp-content/uploads/2026/06/crude-oil-1200x630.webp",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché financier international",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "L'impact sur le marché pétrolier est une augmentation des prix.",
-            "effet_en": "The impact on the oil market is an increase in prices.",
-            "effet_zh": "对石油市场的影响是价格上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché financier international",
-            "secteur_en": "International financial market",
-            "secteur_zh": "国际金融市场",
-            "effet_fr": "L'impact sur le marché financier international est incertain.",
-            "effet_en": "The impact on the international financial market is uncertain.",
-            "effet_zh": "对国际金融市场的影响不确定。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T22:51:47.365250"
       }
     ]
   }
