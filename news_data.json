@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/07/2026 à 04h49",
+  "last_updated": "11/07/2026 à 07h02",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_725917",
+        "titre": "Demande de financement d'urgence",
+        "titre_en": "Emergency Funding Request",
+        "titre_zh": "紧急资金请求",
+        "titre_ru": "Запрос на экстренное финансирование",
+        "titre_fa": "درخواست بودجه اضطراری",
+        "titre_ar": "طلب التمويل العاجل",
+        "titre_original": "Lawmakers Frustrated by Lack of Details on War Department Emergency Funding Request",
+        "resume": "Les législateurs américains sont frustrés par le manque de détails sur la demande de financement d'urgence du département de la Guerre. La demande de 87,6 milliards de dollars a été présentée sans explication claire. Les législateurs exigent plus d'informations.",
+        "resume_en": "US lawmakers are frustrated by the lack of details on the War Department's emergency funding request. The $87.6 billion request was presented without clear explanation. Lawmakers are demanding more information.",
+        "resume_zh": "美国立法者对战争部的紧急资金请求缺乏细节感到沮丧。877亿美元的请求没有明确的解释。立法者要求更多信息。",
+        "resume_ru": "Американские законодатели разочарованы отсутствием деталей в запросе на экстренное финансирование военного ведомства. Запрос на 87,6 миллиарда долларов был представлен без четкого объяснения. Законодатели требуют больше информации.",
+        "resume_fa": "قانونگذاران آمریکایی از کمبود جزئیات در مورد درخواست بودجه اضطراری وزارت جنگ ناامید شده اند. درخواست 87.6 میلیارد دلاری بدون توضیح清楚 ارائه شده است. قانونگذاران اطلاعات بیشتری می خواهند.",
+        "resume_ar": "سياسيون أمريكيون يفوزون بالخيبة لعدم وجود تفاصيل في طلب التمويل العاجل لوزارة الحرب. الطلب بقيمة 87.6 مليار دولار قدم بدون تفسير واضح. السياسيون يطالبون بمزيد من المعلومات.",
+        "analyse_detaillee": "Le contexte historique de cette demande est marqué par les tensions géopolitiques actuelles. Les enjeux principaux sont la sécurité nationale et la stabilité financière. Les conséquences à court terme seront une augmentation des dépenses militaires. Les perspectives à long terme sont incertaines. Les acteurs clés sont le gouvernement américain et le Congrès.",
+        "analyse_en": "The historical context of this request is marked by current geopolitical tensions. The main stakes are national security and financial stability. The short-term consequences will be an increase in military spending. The long-term prospects are uncertain. The key actors are the US government and Congress.",
+        "analyse_zh": "这一请求的历史背景是当前的 геополитических紧张局势。主要问题是国家安全和金融稳定。短期后果将是军费开支的增加。长期前景是不确定的。关键角色是美国政府和国会。",
+        "analyse_ru": "Исторический контекст этого запроса характеризуется текущими геополитическими напряженностями. Основные проблемы - национальная безопасность и финансовая стабильность. Краткосрочные последствия будут увеличением военных расходов. Долгосрочные перспективы неопределенны. Ключевые игроки - американское правительство и Конгресс.",
+        "analyse_fa": "زمینه تاریخی این درخواست با تنش های ژئوپلیتیکی فعلی مشخص می شود. مسائل اصلی امنیت ملی و ثبات مالی هستند. پیامدهای کوتاه مدت افزایش هزینه های نظامی خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی دولت آمریکا و کنگره هستند.",
+        "analyse_ar": "السياق التاريخي لهذا الطلب يتميز بالتوترات الجيوسياسية الحالية. القضايا الرئيسية هي الأمن القومي والاستقرار المالي. العواقب قصيرة المدى ستكون زيادة في النفقات العسكرية. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الحكومة الأمريكية والكونغرس.",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-10-lawmakers-frustrated-scant-details-pentagon-emergency-funding.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/emergency-funding-request-pentagon-lawmakers-2614-original.jpg",
+        "date": "2026-07-10",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Aérospatiale",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'augmentation des dépenses militaires aura un impact positif sur le secteur de la défense.",
+            "effet_en": "The increase in military spending will have a positive impact on the defense sector.",
+            "effet_zh": "军费开支的增加将对国防行业产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Aérospatiale",
+            "secteur_en": "Aerospace",
+            "secteur_zh": "航空航天",
+            "effet_fr": "Le développement de nouveaux équipements militaires aura un impact négatif sur le secteur aérospatial.",
+            "effet_en": "The development of new military equipment will have a negative impact on the aerospace sector.",
+            "effet_zh": "新军事设备的开发将对航空航天行业产生负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T07:02:34.535491"
+      },
       {
         "id": "usa_110821",
         "titre": "Trump renvoie membres",
@@ -1790,56 +1849,6 @@
           }
         ],
         "created_at": "2026-07-08T21:55:01.175210"
-      },
-      {
-        "id": "usa_98049",
-        "titre": "Nigel Farage",
-        "titre_en": "Nigel Farage",
-        "titre_zh": "尼格尔·法拉奇",
-        "titre_original": "Nigel Farage Wants a Mandate For Corruption",
-        "resume": "Le leader populiste britannique Nigel Farage veut un mandat pour la corruption. Il fait un pari trumpien. Les conséquences de ses actions sont incertaines. L'impact sur la politique britannique est important.",
-        "resume_en": "British populist leader Nigel Farage wants a mandate for corruption. He is making a Trumpian gamble. The consequences of his actions are uncertain. The impact on British politics is significant.",
-        "resume_zh": "英国民粹主义领导人尼格尔·法拉奇想要一个腐败的授权。他正在进行一场特朗普式的赌博。他的行为的后果是不确定的。对英国政治的影响是显著的。",
-        "analyse_detaillee": "Le contexte historique de cette affaire est marqué par l'évolution de la politique britannique. Les enjeux principaux sont la corruption et la démocratie. Les conséquences à court terme sont l'incertitude politique. Les perspectives à long terme sont l'impact sur la réputation du Royaume-Uni. Les acteurs clés sont les partis politiques et les institutions britanniques.",
-        "analyse_en": "The historical context of this case is marked by the evolution of British politics. The main stakes are corruption and democracy. The short-term consequences are political uncertainty. The long-term prospects are the impact on the reputation of the United Kingdom. The key actors are political parties and British institutions.",
-        "analyse_zh": "该事件的历史背景是英国政治的演变。主要影响是腐败和民主。短期后果是政治不确定性。长期前景是对英国声誉的影响。关键参与者是政党和英国机构。",
-        "categorie": "Géopolitique",
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/07/reform-uk-farage-resigns-special-election/687831/",
-        "image": "https://cdn.theatlantic.com/thumbor/BnAbwcmlHyx4L7moKKvTVzmzrsM=/0x85:3994x2165/1200x625/media/img/mt/2026/07/2026_07_07_Nigel_Farages_Trumpian_Gamble_Helen_Lewis/original.jpg",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Secteur politique",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des médias",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur politique",
-            "secteur_en": "Political sector",
-            "secteur_zh": "政治行业",
-            "effet_fr": "L'impact de Nigel Farage sur la politique britannique est important.",
-            "effet_en": "The impact of Nigel Farage on British politics is significant.",
-            "effet_zh": "尼格尔·法拉奇对英国政治的影响是显著的。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des médias",
-            "secteur_en": "Media sector",
-            "secteur_zh": "媒体行业",
-            "effet_fr": "La couverture médiatique de Nigel Farage a un impact négatif sur son image publique.",
-            "effet_en": "The media coverage of Nigel Farage has a negative impact on his public image.",
-            "effet_zh": "尼格尔·法拉奇的媒体报道对他的公众形象有负面影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T20:20:10.253090"
       }
     ],
     "chine": [
@@ -2245,6 +2254,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_291543",
+        "titre": "Trump approuve la production de missiles",
+        "titre_en": "Trump Approves Missile Production",
+        "titre_zh": "特朗普批准导弹生产",
+        "titre_ru": "Трамп одобряет производство ракет",
+        "titre_fa": "ترامپ تولید موشک را تایید می کند",
+        "titre_ar": "ترامب يوافق على إنتاج الصواريخ",
+        "titre_original": "Trump Approves Patriot Missile Production in Ukraine, Endorses Deep Strikes Into Russia",
+        "resume": "Le président américain Donald Trump a approuvé la production de missiles Patriot en Ukraine. Cette décision a été prise pour soutenir les forces ukrainiennes contre les attaques russes. Les missiles Patriot sont des systèmes de défense antimissile de haute technologie.",
+        "resume_en": "US President Donald Trump has approved the production of Patriot missiles in Ukraine. This decision was made to support Ukrainian forces against Russian attacks. The Patriot missiles are high-tech anti-missile defense systems.",
+        "resume_zh": "美国总统唐纳德·特朗普已批准在乌克兰生产爱国者导弹。该决定是为了支持乌克兰军队对抗俄罗斯的攻击。爱国者导弹是高科技的反导弹防御系统。",
+        "resume_ru": "Президент США Дональд Трамп одобрил производство ракет Patriot на Украине. Это решение было принято для поддержки украинских сил в борьбе с российскими атаками. Ракеты Patriot являются высокотехнологичными системами противоракетной обороны.",
+        "resume_fa": "رئیس جمهور آمریکا دونالد ترامپ تولید موشک های پاتریوت را در اوکراین تایید کرده است. این تصمیم برای حمایت از نیروهای اوکراین در برابر حملات روسیه گرفته شده است. موشک های پاتریوت سیستم های دفاعی ضد موشکی با فناوری پیشرفته هستند.",
+        "resume_ar": "وافق الرئيس الأمريكي دونالد ترامب على إنتاج صواريخ باتريوت في أوكرانيا. هذا القرار تم اتخاذه لدعم القوات الأوكرانية ضد الهجمات الروسية. صواريخ باتريوت هي أنظمة دفاعية مضادة للصواريخ ذات تقنية عالية.",
+        "analyse_detaillee": "Le contexte historique de cette décision est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions entre la Russie et l'Ukraine. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis, la Russie et l'Ukraine.",
+        "analyse_en": "The historical context of this decision is marked by tensions between Russia and Ukraine. The main stakes are national security and regional stability. The short-term consequences will be an increase in tensions between Russia and Ukraine. The long-term prospects are uncertain. The key actors are the US, Russia, and Ukraine.",
+        "analyse_zh": "这一决定的历史背景是俄罗斯和乌克兰之间的紧张局势。主要问题是国家安全和地区稳定。短期后果将是俄罗斯和乌克兰之间的紧张局势加剧。长期前景是不确定的。关键角色是美国、俄罗斯和乌克兰。",
+        "analyse_ru": "Исторический контекст этого решения характеризуется напряженностью между Россией и Украиной. Основные проблемы - национальная безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности между Россией и Украиной. Долгосрочные перспективы неопределенны. Ключевые игроки - США, Россия и Украина.",
+        "analyse_fa": "زمینه تاریخی این تصمیم با تنش بین روسیه و اوکراین مشخص می شود. مسائل اصلی امنیت ملی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت افزایش تنش بین روسیه و اوکراین خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی ایالات متحده، روسیه و اوکراین هستند.",
+        "analyse_ar": "السياق التاريخي لهذا القرار يتميز بالتوتر بين روسيا وأوكرانيا. القضايا الرئيسية هي الأمن القومي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة في التوتر بين روسيا وأوكرانيا. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الولايات المتحدة وروسيا وأوكرانيا.",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-07-10-trump-approves-patriot-missile-production-in-ukraine.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/patriot-missile-ukraine-russia-2618-original.jpg",
+        "date": "2026-07-10",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Aérospatiale",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'augmentation des dépenses militaires aura un impact positif sur le secteur de la défense.",
+            "effet_en": "The increase in military spending will have a positive impact on the defense sector.",
+            "effet_zh": "军费开支的增加将对国防行业产生积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Aérospatiale",
+            "secteur_en": "Aerospace",
+            "secteur_zh": "航空航天",
+            "effet_fr": "Le développement de nouveaux équipements militaires aura un impact négatif sur le secteur aérospatial.",
+            "effet_en": "The development of new military equipment will have a negative impact on the aerospace sector.",
+            "effet_zh": "新军事设备的开发将对航空航天行业产生负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T07:02:34.535520"
+      },
       {
         "id": "russie_296933",
         "titre": "Russie accuse Ukraine",
@@ -3320,59 +3388,68 @@
           }
         ],
         "created_at": "2026-07-08T21:55:01.175220"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_778596",
-        "titre": "Sommet de l'OTAN",
-        "titre_en": "NATO Summit",
-        "titre_zh": "北约峰会",
-        "titre_original": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
-        "resume": "Le sommet de l'OTAN s'est ouvert à Ankara. Les dirigeants ont discuté de la sécurité et de la défense. Les conséquences de la guerre en Ukraine sont importantes. L'impact sur la politique internationale est significatif.",
-        "resume_en": "The NATO summit opened in Ankara. Leaders discussed security and defense. The consequences of the war in Ukraine are significant. The impact on international politics is substantial.",
-        "resume_zh": "北约峰会在安卡拉开幕。领导人讨论了安全和防御。乌克兰战争的后果是显著的。对国际政治的影响是重大 的。",
-        "analyse_detaillee": "Le contexte historique de ce sommet est marqué par la guerre en Ukraine. Les enjeux principaux sont la sécurité et la défense. Les conséquences à court terme sont l'instabilité politique. Les perspectives à long terme sont l'impact sur la stabilité régionale. Les acteurs clés sont les pays membres de l'OTAN et la Russie.",
-        "analyse_en": "The historical context of this summit is marked by the war in Ukraine. The main stakes are security and defense. The short-term consequences are political instability. The long-term prospects are the impact on regional stability. The key actors are NATO member countries and Russia.",
-        "analyse_zh": "该峰会的历史背景是乌克兰战争。主要影响是安全和防御。短期后果是政治不稳定。长期前景是对地区稳定的影响。关键参与者是北约成员国和俄罗斯。",
+        "id": "iran_531630",
+        "titre": "Iran enterre Khamenei",
+        "titre_en": "Iran Buries Khamenei",
+        "titre_zh": "伊朗埋葬哈梅内伊",
+        "titre_ru": "Иран хоронит Хаменеи",
+        "titre_fa": "ایران خمینی را به خاک سپرد",
+        "titre_ar": "إيران تدفن الخميني",
+        "titre_original": "Iran buries Khamenei after new fighting with US erupts",
+        "resume": "L'Iran a enterré son ancien guide suprême Ali Khamenei après plus de quatre mois de combats avec les États-Unis. Les funérailles ont eu lieu dans un contexte de tensions géopolitiques accrues. Les conséquences de cet événement sont incertaines.",
+        "resume_en": "Iran has buried its former supreme leader Ali Khamenei after more than four months of fighting with the US. The funeral took place in a context of increased geopolitical tensions. The consequences of this event are uncertain.",
+        "resume_zh": "伊朗在与美国交战四个月后埋葬了前最高领袖阿里·哈梅内伊。葬礼在地缘政治紧张局势加剧的背景下举行。该事件的后果尚不确定。",
+        "resume_ru": "Иран похоронил своего бывшего верховного лидера Али Хаменеи после более чем четырех месяцев боев с США. Похороны прошли в контексте возросших геополитических напряженностей. Последствия этого события неопределенны.",
+        "resume_fa": "ایران پس از بیش از چهار ماه جنگ با ایالات متحده، خمینی را به خاک سپرد. مراسم تشییع جنازه در شرایطی برگزار شد که تنش های ژئوپلیتیکی افزایش یافته است. پیامدهای این رویداد نامعلوم است.",
+        "resume_ar": "إيران دفنت زعيمها الأعلى السابق علي خامنئي بعد أكثر من أربعة أشهر من القتال مع الولايات المتحدة. أقيمت المراسم في سياق ازدياد التوترات الجيوسياسية. عواقب هذا الحدث غير مؤكدة.",
+        "analyse_detaillee": "Le contexte historique de cet événement est marqué par les tensions entre l'Iran et les États-Unis. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions entre l'Iran et les États-Unis. Les perspectives à long terme sont incertaines. Les acteurs clés sont l'Iran, les États-Unis et les pays de la région.",
+        "analyse_en": "The historical context of this event is marked by tensions between Iran and the US. The main stakes are national security and regional stability. The short-term consequences will be an increase in tensions between Iran and the US. The long-term prospects are uncertain. The key actors are Iran, the US, and regional countries.",
+        "analyse_zh": "这一事件的历史背景是伊朗和美国之间的紧张局势。主要问题是国家安全和地区稳定。短期后果将是伊朗和美国之间的紧张局势加剧。长期前景是不确定的。关键角色是伊朗、美国和地区国家。",
+        "analyse_ru": "Исторический контекст этого события характеризуется напряженностью между Ираном и США. Основные проблемы - национальная безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности между Ираном и США. Долгосрочные перспективы неопределенны. Ключевые игроки - Иран, США и страны региона.",
+        "analyse_fa": "زمینه تاریخی این رویداد با تنش بین ایران و ایالات متحده مشخص می شود. مسائل اصلی امنیت ملی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت افزایش تنش بین ایران و ایالات متحده خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی ایران، ایالات متحده و کشورهای منطقه هستند.",
+        "analyse_ar": "السياق التاريخي لهذا الحدث يتميز بالتوتر بين إيران والولايات المتحدة. القضايا الرئيسية هي الأمن القومي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة في التوتر بين إيران والولايات المتحدة. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي إيران والولايات المتحدة ودول المنطقة.",
         "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4d5362aa-1783452514.jpg?resize=1920%2C1440",
-        "date": "2026-07-07",
-        "pays": "russie",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/iran-buries-khamenei-after-new-fighting-with-us-erupts-224208",
+        "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a50813d882d575f4bab85f0.jpg",
+        "date": "2026-07-10",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de la défense",
-            "hausse": true
+            "label": "▼ Énergie",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur de l'énergie",
-            "hausse": false
+            "label": "▲ Défense",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "L'impact du sommet de l'OTAN sur la défense est important.",
-            "effet_en": "The impact of the NATO summit on defense is significant.",
-            "effet_zh": "北约峰会对国防的影响是显著的。",
-            "hausse": true
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "L'instabilité politique en Iran aura un impact négatif sur le secteur de l'énergie.",
+            "effet_en": "The political instability in Iran will have a negative impact on the energy sector.",
+            "effet_zh": "伊朗的政治不稳定将对能源行业产生负面影响。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur de l'énergie",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "La guerre en Ukraine a un impact négatif sur le secteur de l'énergie.",
-            "effet_en": "The war in Ukraine has a negative impact on the energy sector.",
-            "effet_zh": "乌克兰战争对能源行业有负面影响。",
-            "hausse": false
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'augmentation des dépenses militaires aura un impact positif sur le secteur de la défense.",
+            "effet_en": "The increase in military spending will have a positive impact on the defense sector.",
+            "effet_zh": "军费开支的增加将对国防行业产生积极影响。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-07-08T20:20:10.253100"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-11T07:02:34.535530"
+      },
       {
         "id": "iran_840732",
         "titre": "États-Unis frappent l'Iran",
@@ -4448,56 +4525,6 @@
           }
         ],
         "created_at": "2026-07-08T21:55:01.175228"
-      },
-      {
-        "id": "iran_655887",
-        "titre": "Pétrole et gaz",
-        "titre_en": "Oil and Gas",
-        "titre_zh": "石油和天然气",
-        "titre_original": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
-        "resume": "Les bénéfices des compagnies pétrolières sont en hausse. Les conséquences de la guerre contre l'Iran sont importantes. L'impact sur le marché du pétrole est significatif. Les prix du pétrole sont en augmentation.",
-        "resume_en": "The profits of oil companies are increasing. The consequences of the war against Iran are significant. The impact on the oil market is substantial. Oil prices are rising.",
-        "resume_zh": "石油公司的利润增加。对伊朗的战争的后果是显著的。对石油市场的影响是重大 的。石油价格上涨。",
-        "analyse_detaillee": "Le contexte historique de ce marché est marqué par la guerre contre l'Iran. Les enjeux principaux sont les prix du pétrole et la sécurité énergétique. Les conséquences à court terme sont l'instabilité du marché. Les perspectives à long terme sont l'impact sur la stabilité régionale. Les acteurs clés sont les pays producteurs de pétrole et les compagnies pétrolières.",
-        "analyse_en": "The historical context of this market is marked by the war against Iran. The main stakes are oil prices and energy security. The short-term consequences are market instability. The long-term prospects are the impact on regional stability. The key actors are oil-producing countries and oil companies.",
-        "analyse_zh": "该市场的历史背景是对伊朗的战争。主要影响是石油价格和能源安全。短期后果是市场不稳定。长期前景是对地区稳定的影响。关键参与者是石油生产国和石油公司。",
-        "categorie": "Géopolitique",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_vc1rouiy3g.jpg",
-        "date": "2026-07-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Secteur pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur gazier",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier",
-            "secteur_en": "Oil sector",
-            "secteur_zh": "石油行业",
-            "effet_fr": "L'impact de la guerre contre l'Iran sur le secteur pétrolier est important.",
-            "effet_en": "The impact of the war against Iran on the oil sector is significant.",
-            "effet_zh": "对伊朗的战争对石油行业的影响是显著的。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur gazier",
-            "secteur_en": "Gas sector",
-            "secteur_zh": "天然气行业",
-            "effet_fr": "La guerre contre l'Iran a un impact négatif sur le secteur gazier.",
-            "effet_en": "The war against Iran has a negative impact on the gas sector.",
-            "effet_zh": "对伊朗的战争对天然气行业有负面影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T20:20:10.253107"
       }
     ]
   }
