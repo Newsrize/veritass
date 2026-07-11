@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/07/2026 à 18h39",
+  "last_updated": "11/07/2026 à 19h56",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_756159",
+        "titre": "Maison Blanche",
+        "titre_en": "White House",
+        "titre_zh": "白宫",
+        "titre_ru": "Белый дом",
+        "titre_fa": "کاخ سفید",
+        "titre_ar": "البيت الأبيض",
+        "titre_original": "White House Fortifying Front Door Where Tarps Hang Amid Trump’s Construction Blitz",
+        "resume": "La Maison Blanche renforce sa porte d'entrée. Les travaux de construction sont en cours. La sécurité est renforcée.",
+        "resume_en": "The White House is fortifying its front door. Construction projects are underway. Security is being upgraded.",
+        "resume_zh": "白宫正在加固其前门。建设项目正在进行中。安全性得到升级。",
+        "resume_ru": "Белый дом укрепляет свою входную дверь. Строительные проекты находятся в стадии реализации. Безопасность повышается.",
+        "resume_fa": "کاخ سفید در حال تقویت در ورودی خود است. پروژه های ساخت و ساز در حال انجام است. امنیت ارتقا یافته است.",
+        "resume_ar": "البيت الأبيض يقوي باب المدخل. مشاريع البناء جارية. الأمن يتم تعزيزه.",
+        "analyse_detaillee": "Le contexte historique de la Maison Blanche est riche. Les enjeux principaux sont la sécurité et la construction. Les conséquences à court terme sont une amélioration de la sécurité. Les perspectives à long terme sont incertaines. Les acteurs clés sont le gouvernement et les entreprises de construction.",
+        "analyse_en": "The White House has a rich historical context. The main stakes are security and construction. The short-term consequences are improved security. The long-term prospects are uncertain. The key actors are the government and construction companies.",
+        "analyse_zh": "白宫有着丰富的历史背景。主要问题是安全和建设。短期后果是安全得到改善。长期前景不确定。主要参与者是政府和建筑公司。",
+        "analyse_ru": "Белый дом имеет богатый исторический контекст. Основные проблемы - безопасность и строительство. Краткосрочные последствия - повышение безопасности. Долгосрочные перспективы неопределенны. Основными участниками являются правительство и строительные компании.",
+        "analyse_fa": "کاخ سفید دارای زمینه تاریخی غنی است. مسائل اصلی امنیت و ساخت و ساز هستند. پیامدهای کوتاه‌مدت بهبود امنیت است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی دولت و شرکت‌های ساختمانی هستند.",
+        "analyse_ar": "البيت الأبيض لديه سياق تاريخي غني. القضايا الرئيسية هي الأمن والبناء. العواقب قصيرة المدى هي تحسين الأمن. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الحكومة وشركات البناء.",
+        "categorie": "Géopolitique",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/conormurray/2026/07/10/white-house-fortifying-front-door-where-tarps-hang-amid-trumps-construction-blitz/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4fe2960e41da54ae0e24ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "date": "2026-07-10",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur de la construction",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur de la sécurité",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la construction",
+            "secteur_en": "Construction sector",
+            "secteur_zh": "建筑行业",
+            "effet_fr": "Les travaux de construction à la Maison Blanche ont un impact positif sur le secteur de la construction.",
+            "effet_en": "The construction projects at the White House have a positive impact on the construction sector.",
+            "effet_zh": "白宫的建设项目对建筑行业有积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur de la sécurité",
+            "secteur_en": "Security sector",
+            "secteur_zh": "安全行业",
+            "effet_fr": "Les mesures de sécurité renforcées à la Maison Blanche ont un impact négatif sur le secteur de la sécurité.",
+            "effet_en": "The enhanced security measures at the White House have a negative impact on the security sector.",
+            "effet_zh": "白宫的安全措施加强对安全行业有负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T19:56:19.453412"
+      },
       {
         "id": "usa_738570",
         "titre": "Trump et le logement",
@@ -1835,56 +1894,6 @@
           }
         ],
         "created_at": "2026-07-09T09:03:02.665411"
-      },
-      {
-        "id": "usa_16765",
-        "titre": "Élimination de l'USMNT",
-        "titre_en": "USMNT Eliminated",
-        "titre_zh": "美国队被淘汰",
-        "titre_original": "The Good, The Bad, And The Ugly Of The USMNT At The FIFA World Cup",
-        "resume": "L'équipe des États-Unis a été éliminée de la Coupe du monde. La défaite contre la Belgique a mis fin à leur parcours. Les supporters américains sont déçus.",
-        "resume_en": "The US team was eliminated from the World Cup. The loss to Belgium ended their run. American fans are disappointed.",
-        "resume_zh": "美国队在世界杯中被淘汰。对比利时的失败结束了他们的比赛。美国球迷们很失望。",
-        "analyse_detaillee": "La Coupe du monde a une longue histoire. Les États-Unis ont des joueurs talentueux. La défaite contre la Belgique a des conséquences à court terme. Les supporters attendent la prochaine édition. Les acteurs clés sont les joueurs et les entraîneurs.",
-        "analyse_en": "The World Cup has a long history. The US has talented players. The loss to Belgium has short-term consequences. Fans are waiting for the next edition. Key actors are the players and coaches.",
-        "analyse_zh": "世界杯有着悠久的历史。美国拥有才华横溢的球员。对比利时的失败有短期后果。球迷们正在等待下一届比赛。关键人物是球员和教练。",
-        "categorie": "Sport",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/michaellewis/2026/07/07/the-good-the-bad-and-the-ugly-of-the-usmnt-at-the-fifa-world-cup/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a346e07b3ab645b8835a822/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché des droits TV",
-            "hausse": false
-          },
-          {
-            "label": "▼ Sponsorisation",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des droits TV",
-            "secteur_en": "TV rights market",
-            "secteur_zh": "电视转播权市场",
-            "effet_fr": "L'élimination de l'USMNT affecte les ventes de droits TV.",
-            "effet_en": "The USMNT elimination affects TV rights sales.",
-            "effet_zh": "美国队被淘汰影响电视转播权销售。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Sponsorisation",
-            "secteur_en": "Sponsorship",
-            "secteur_zh": "赞助",
-            "effet_fr": "Les sponsors pourraient revoir leur stratégie.",
-            "effet_en": "Sponsors may review their strategy.",
-            "effet_zh": "赞助商可能会重新审视他们的策略。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-09T05:55:51.841301"
       }
     ],
     "chine": [
@@ -2408,6 +2417,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_619790",
+        "titre": "Guerre en Ukraine",
+        "titre_en": "War in Ukraine",
+        "titre_zh": "乌克兰战争",
+        "titre_ru": "Война в Украине",
+        "titre_fa": "جنگ در اوکراین",
+        "titre_ar": "حرب في أوكرانيا",
+        "titre_original": "How Ukraine’s Drone War Could Drag World Into Nuclear War",
+        "resume": "La guerre en Ukraine pourrait dégénérer en guerre nucléaire. Les analystes sont inquiets. La situation est tendue.",
+        "resume_en": "The war in Ukraine could escalate into a nuclear war. Analysts are concerned. The situation is tense.",
+        "resume_zh": "乌克兰战争可能升级为核战争。分析师们感到担忧。局势紧张。",
+        "resume_ru": "Война в Украине может перерасти в ядерную войну. Аналитики обеспокоены. Ситуация напряженная.",
+        "resume_fa": "جنگ در اوکراین ممکن است به جنگ هسته‌ای تبدیل شود. تحلیلگران نگران هستند. اوضاع تنش‌آور است.",
+        "resume_ar": "حرب في أوكرانيا قد تتحول إلى حرب نووية. المحللون قلقون. الوضع متوتر.",
+        "analyse_detaillee": "Le contexte historique de la guerre en Ukraine est complexe. Les enjeux principaux sont la sécurité et la stabilité. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont la Russie, l'Ukraine et les États-Unis.",
+        "analyse_en": "The historical context of the war in Ukraine is complex. The main stakes are security and stability. The short-term consequences are increased tensions. The long-term prospects are uncertain. The key actors are Russia, Ukraine, and the United States.",
+        "analyse_zh": "乌克兰战争的历史背景复杂。主要问题是安全和稳定。短期后果是紧张局势加剧。长期前景不确定。主要参与者是俄罗斯、乌克兰和美国。",
+        "analyse_ru": "Исторический контекст войны в Украине сложный. Основные проблемы - безопасность и стабильность. Краткосрочные последствия - повышение напряженности. Долгосрочные перспективы неопределенны. Основными участниками являются Россия, Украина и США.",
+        "analyse_fa": "زمینه تاریخی جنگ در اوکراین پیچیده است. مسائل اصلی امنیت و ثبات هستند. پیامدهای کوتاه‌مدت افزایش تنش است. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران اصلی روسیه، اوکراین و ایالات متحده هستند.",
+        "analyse_ar": "السياق التاريخي لحرب في أوكرانيا معقد. القضايا الرئيسية هي الأمن والاستقرار. العواقب قصيرة المدى هي زيادة التوتر. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي روسيا وأوكرانيا والولايات المتحدة.",
+        "categorie": "Géopolitique",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/07/10/russia-nuclear-war-ukraine-latvia-drones/",
+        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/07/GettyImages-1222402724-scaled-e1783623332661.jpg",
+        "date": "2026-07-10",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Secteur de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur de l'énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "La guerre en Ukraine a un impact positif sur le secteur de la défense.",
+            "effet_en": "The war in Ukraine has a positive impact on the defense sector.",
+            "effet_zh": "乌克兰战争对国防行业有积极影响。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur de l'énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "La guerre en Ukraine a un impact négatif sur le secteur de l'énergie.",
+            "effet_en": "The war in Ukraine has a negative impact on the energy sector.",
+            "effet_zh": "乌克兰战争对能源行业有负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T19:56:19.453440"
+      },
       {
         "id": "russie_781120",
         "titre": "Ukraine et Russie",
@@ -3510,56 +3578,6 @@
           }
         ],
         "created_at": "2026-07-09T01:54:01.711078"
-      },
-      {
-        "id": "russie_114141",
-        "titre": "Ukraine signe des accords",
-        "titre_en": "Ukraine signs drone deals",
-        "titre_zh": "乌克兰签署无人机协议",
-        "titre_original": "Ukraine's Zelenskiy signs 'drone deals' with three countries",
-        "resume": "Le président ukrainien Volodymyr Zelenskiy a annoncé que l'Ukraine avait signé des accords avec trois pays pour développer des drones. L'Ukraine a gagné de l'expérience dans le domaine des drones grâce à son conflit avec la Russie. Les pays signataires sont le Danemark, l'Estonie et les Pays-Bas.",
-        "resume_en": "Ukrainian President Volodymyr Zelenskiy announced that Ukraine had signed deals with three countries to develop drones. Ukraine has gained experience in the field of drones due to its conflict with Russia. The signatory countries are Denmark, Estonia, and the Netherlands.",
-        "resume_zh": "乌克兰总统沃洛季米尔·泽连斯基宣布，乌克兰已与三个国家签署协议开发无人机。由于与俄罗斯的冲突，乌克兰在无人机领域获得了经验。签署国是丹麦、爱沙尼亚和荷兰。",
-        "analyse_detaillee": "Le contexte historique de cette nouvelle est le conflit entre l'Ukraine et la Russie. Les enjeux principaux sont la sécurité nationale de l'Ukraine. Les conséquences à court terme seront le renforcement de la défense ukrainienne. Les perspectives à long terme seront l'impact sur la stabilité régionale. Les acteurs principaux sont l'Ukraine, la Russie et les pays signataires.",
-        "analyse_en": "The historical context of this news is the conflict between Ukraine and Russia. The main stakes are the national security of Ukraine. The short-term consequences will be the strengthening of Ukrainian defense. The long-term prospects will be the impact on regional stability. The main actors are Ukraine, Russia, and the signatory countries.",
-        "analyse_zh": "这一新闻的历史背景是乌克兰和俄罗斯之间的冲突。主要影响是乌克兰的国家安全。短期后果将是乌克兰防御的加强。长期前景将是对地区稳定的影响。主要参与者是乌克兰、俄罗斯和签署国。",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/28f5bebf244b89dc",
-        "image": "https://biztoc.com/cdn/28f5bebf244b89dc_s.webp",
-        "date": "2026-07-07",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ marché de la défense",
-            "hausse": true
-          },
-          {
-            "label": "▼ marché aéronautique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "marché de la défense",
-            "secteur_en": "defense market",
-            "secteur_zh": "国防市场",
-            "effet_fr": "Les accords signés par l'Ukraine pourraient avoir un impact sur le marché de la défense.",
-            "effet_en": "The deals signed by Ukraine could have an impact on the defense market.",
-            "effet_zh": "乌克兰签署的协议可能会对国防市场产生影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "marché aéronautique",
-            "secteur_en": "aerospace market",
-            "secteur_zh": "航空航天市场",
-            "effet_fr": "Le développement de drones par l'Ukraine pourrait influencer le marché aéronautique.",
-            "effet_en": "The development of drones by Ukraine could influence the aerospace market.",
-            "effet_zh": "乌克兰的无人机开发可能会影响航空航天市场。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T23:56:30.213532"
       }
     ],
     "iran": [
