@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/07/2026 à 11h40",
+  "last_updated": "11/07/2026 à 12h43",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_839414",
+        "titre": "Sanctions contre la Russie",
+        "titre_en": "US Russia Sanctions",
+        "titre_zh": "美国对俄罗斯制裁",
+        "titre_ru": "Санкции против России",
+        "titre_fa": "تحریم های روسیه",
+        "titre_ar": "عقوبات ضد روسيا",
+        "titre_original": "US Senators, Administration Agree To Advance Russia Sanctions Bill; Kyiv Hails Move",
+        "resume": "Les sénateurs américains ont trouvé un accord avec l'administration Trump pour imposer des sanctions économiques à la Russie. Cela fait suite à des mois de négociations. Les sanctions visent à punir la Russie pour ses actions en Ukraine.",
+        "resume_en": "US senators have reached an agreement with the Trump administration to impose economic sanctions on Russia. This comes after months of negotiations. The sanctions aim to punish Russia for its actions in Ukraine.",
+        "resume_zh": "美国参议员与特朗普政府达成协议，对俄罗斯实施经济制裁。这是在几个月的谈判之后。制裁旨在惩罚俄罗斯在乌克兰的行为。",
+        "resume_ru": "Американские сенаторы достигли соглашения с администрацией Трампа о введении экономических санкций против России. Это произошло после месяцев переговоров. Санкции направлены на наказание России за ее действия на Украине.",
+        "resume_fa": "سناتورهای آمریکایی با دولت ترامپ به توافق رسیدند تا تحریم های اقتصادی علیه روسیه اعمال کنند. این توافق بعد از ماه ها مذاکره صورت گرفته است. هدف از این تحریم ها مجازات روسیه برای行为ش در اوکراین است.",
+        "resume_ar": "وصل السناتور الأمريكيون إلى اتفاق مع إدارة ترامب على فرض عقوبات اقتصادية على روسيا. هذا يأتي بعد أشهر من المفاوضات. تهدف العقوبات إلى معاقبة روسيا على أفعالها في أوكرانيا.",
+        "analyse_detaillee": "Le contexte historique de cette décision est lié à la crise en Ukraine. Les enjeux principaux sont la sécurité nationale et la stabilité économique. Les conséquences à court terme seront une augmentation des tensions entre les États-Unis et la Russie. Les perspectives à long terme sont incertaines, mais pourraient impliquer une détérioration des relations entre les deux pays. Les acteurs clés sont les États-Unis, la Russie et l'Ukraine.",
+        "analyse_en": "The historical context of this decision is related to the crisis in Ukraine. The main stakes are national security and economic stability. The short-term consequences will be an increase in tensions between the United States and Russia. The long-term prospects are uncertain, but could involve a deterioration of relations between the two countries. The key actors are the United States, Russia, and Ukraine.",
+        "analyse_zh": "这一决定的历史背景与乌克兰危机有关。主要问题是国家安全和经济稳定。短期后果将是美国和俄罗斯之间的紧张局势加剧。长期前景不确定，但可能涉及两国关系的恶化。关键角色是美国、俄罗斯和乌克兰。",
+        "analyse_ru": "Исторический контекст этого решения связан с кризисом на Украине. Основные проблемы - национальная безопасность и экономическая стабильность. Краткосрочные последствия будут увеличением напряженности между США и Россией. Долгосрочные перспективы неопределенны, но могут включать ухудшение отношений между двумя странами. Ключевые акторы - США, Россия и Украина.",
+        "analyse_fa": "زمینه تاریخی این تصمیم به بحران در اوکراین مرتبط است. مسائل اصلی امنیت ملی و ثبات اقتصادی هستند. پیامدهای کوتاه‌مدت افزایش تنش بین ایالات متحده و روسیه خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است، اما ممکن است شامل بدتر شدن روابط بین دو کشور شود. بازیگران کلیدی ایالات متحده، روسیه و اوکراین هستند.",
+        "analyse_ar": "السياق التاريخي لهذا القرار يرتبط بأزمة أوكرانيا. القضايا الرئيسية هي الأمن القومي والاستقرار الاقتصادي. العواقب قصيرة المدى ستكون زيادة التوتر بين الولايات المتحدة وروسيا. الآفاق طويلة المدى غير مؤكدة، ولكنها قد تشمل تدهور العلاقات بين البلدين. الأطراف الرئيسية هي الولايات المتحدة وروسيا وأوكرانيا.",
+        "categorie": "Géopolitique",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260710-rferl03.htm",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-10",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ marché des armes",
+            "hausse": false
+          },
+          {
+            "label": "▲ marché pétrolier",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des armes",
+            "secteur_en": "arms market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "Les sanctions économiques contre la Russie pourraient avoir un impact négatif sur le marché des armes.",
+            "effet_en": "Economic sanctions against Russia could have a negative impact on the arms market.",
+            "effet_zh": "对俄罗斯的经济制裁可能会对武器市场产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "marché pétrolier",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les sanctions économiques contre la Russie pourraient également avoir un impact sur le marché pétrolier.",
+            "effet_en": "Economic sanctions against Russia could also have an impact on the oil market.",
+            "effet_zh": "对俄罗斯的经济制裁也可能对石油市场产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-11T12:43:35.185414"
+      },
       {
         "id": "usa_884242",
         "titre": "Trump bat le S&P",
@@ -1817,59 +1876,68 @@
           }
         ],
         "created_at": "2026-07-09T01:54:01.711044"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_225353",
-        "titre": "Steve Hilton se rebaptise",
-        "titre_en": "Who is Steve Hilton",
-        "titre_zh": "谁是史蒂夫·希尔顿",
-        "titre_original": "Who is Steve Hilton? Here’s how he has rebranded himself multiple times",
-        "resume": "Steve Hilton a rendu le Parti conservateur britannique plus libéral. Il a occupé des postes politiques allant de la gauche à la droite. Il est l'espoir des Républicains californiens pour reprendre le siège du gouverneur. Il a changé plusieurs fois de position politique. Il est considéré comme une figure importante dans la politique américaine.",
-        "resume_en": "Steve Hilton made the British Conservative Party more liberal and has held policy positions spanning the political spectrum. He's California Republicans' best hope at reclaiming the governor's seat. He has rebranded himself multiple times. He is considered a key figure in American politics.",
-        "resume_zh": "史蒂夫·希尔顿使英国保守党更加自由化，并在政治光谱上占据了多个政策职位。他是加利福尼亚州共和党人重新掌握州长席位的最佳希望。他已经多次重塑自己。他被认为是美国政治中的一个关键人物。",
-        "analyse_detaillee": "Le contexte historique de cette nouvelle est la politique américaine actuelle. Les enjeux principaux sont l'élection du gouverneur de Californie. Les conséquences à court terme seront la nomination d'un nouveau gouverneur. Les perspectives à long terme seront l'impact sur la politique américaine. Les acteurs principaux sont les Républicains californiens et Steve Hilton.",
-        "analyse_en": "The historical context of this news is the current American politics. The main stakes are the election of the governor of California. The short-term consequences will be the nomination of a new governor. The long-term prospects will be the impact on American politics. The main actors are the California Republicans and Steve Hilton.",
-        "analyse_zh": "这一新闻的历史背景是当前的美国政治。主要影响是加利福尼亚州州长的选举。短期后果将是新州长的任命。长期前景将是对美国政治的影响。主要参与者是加利福尼亚州共和党人和史蒂夫·希尔顿。",
+        "id": "chine_897515",
+        "titre": "Rencontre entre Xi Jinping et Pak Thae Song",
+        "titre_en": "Xi Jinping Meets Pak Thae Song",
+        "titre_zh": "习近平会见朴泰成",
+        "titre_ru": "Встреча Си Цзиньпина с Пак Тхэ Соном",
+        "titre_fa": "ملاقات شی جین پینگ با پاک تائه سونگ",
+        "titre_ar": "لقاء شي جين بينغ مع باك تاي سونغ",
+        "titre_original": "President Xi Jinping Meets with DPRK's Premier of the Cabinet Pak Thae Song",
+        "resume": "Le président chinois Xi Jinping a rencontré le premier ministre nord-coréen Pak Thae Song. Cette rencontre a eu lieu à Pékin. Les deux dirigeants ont discuté de la coopération entre les deux pays.",
+        "resume_en": "Chinese President Xi Jinping met with North Korean Premier Pak Thae Song. The meeting took place in Beijing. The two leaders discussed cooperation between the two countries.",
+        "resume_zh": "中国国家主席习近平会见了朝鲜内阁总理朴泰成。会晤在北京举行。两国领导人讨论了两国之间的合作。",
+        "resume_ru": "Председатель КНР Си Цзиньпин встретился с премьер-министром КНДР Пак Тхэ Соном. Встреча прошла в Пекине. Два лидера обсудили сотрудничество между двумя странами.",
+        "resume_fa": "رئیس جمهور چین شی جین پینگ با نخست وزیر کره شمالی پاک تائه سونگ ملاقات کرد. این ملاقات در پکن برگزار شد. دو رهبر در مورد همکاری بین دو کشور بحث کردند.",
+        "resume_ar": "اجتمع الرئيس الصيني شي جين بينغ مع رئيس الوزراء الكوري الشمالي باك تاي سونغ. الاجتماع عقد في بكين. وناقش القادةان التعاون بين البلدين.",
+        "analyse_detaillee": "Le contexte historique de cette rencontre est lié aux relations entre la Chine et la Corée du Nord. Les enjeux principaux sont la coopération économique et la stabilité régionale. Les conséquences à court terme seront une augmentation de la coopération entre les deux pays. Les perspectives à long terme sont incertaines, mais pourraient impliquer une renforcement des liens entre la Chine et la Corée du Nord.",
+        "analyse_en": "The historical context of this meeting is related to the relations between China and North Korea. The main stakes are economic cooperation and regional stability. The short-term consequences will be an increase in cooperation between the two countries. The long-term prospects are uncertain, but could involve a strengthening of ties between China and North Korea.",
+        "analyse_zh": "这一会晤的历史背景与中朝关系有关。主要问题是经济合作和地区稳定。短期后果将是两国之间的合作加强。长期前景不确定，但可能涉及中朝关系的加强。",
+        "analyse_ru": "Исторический контекст этой встречи связан с отношениями между Китаем и КНДР. Основные проблемы - экономическое сотрудничество и региональная стабильность. Краткосрочные последствия будут увеличением сотрудничества между двумя странами. Долгосрочные перспективы неопределенны, но могут включать укрепление связей между Китаем и КНДР.",
+        "analyse_fa": "زمینه تاریخی این ملاقات به روابط بین چین و کره شمالی مرتبط است. مسائل اصلی همکاری اقتصادی و ثبات منطقه‌ای هستند. پیامدهای کوتاه‌مدت افزایش همکاری بین دو کشور خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است، اما ممکن است شامل تقویت روابط بین چین و کره شمالی شود.",
+        "analyse_ar": "السياق التاريخي لهذا اللقاء يرتبط بالعلاقات بين الصين وكوريا الشمالية. القضايا الرئيسية هي التعاون الاقتصادي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة التعاون بين البلدين. الآفاق طويلة المدى غير مؤكدة، ولكنها قد تشمل تعزيز الروابط بين الصين وكوريا الشمالية.",
         "categorie": "Géopolitique",
-        "source": "KPBS",
-        "url": "https://www.kpbs.org/news/politics/2026/07/07/who-is-steve-hilton-heres-how-he-has-rebranded-himself-multiple-times",
-        "image": "https://cdn.kpbs.org/dims4/default/2f47dd7/2147483647/strip/true/crop/1536x806+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F64%2Fde%2F673617db4fdc8957e19a49b68def%2Fimage-2026-07-07t164057-687.jpg",
-        "date": "2026-07-07",
-        "pays": "usa",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260710-prc-mofa01.htm",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-07-10",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ marché des changes",
+            "label": "▲ marché de l'énergie",
             "hausse": true
           },
           {
-            "label": "▼ marché pétrolier",
+            "label": "▼ marché des matières premières",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "marché des changes",
-            "secteur_en": "foreign exchange market",
-            "secteur_zh": "外汇市场",
-            "effet_fr": "L'élection d'un nouveau gouverneur pourrait avoir un impact sur le marché des changes.",
-            "effet_en": "The election of a new governor could have an impact on the foreign exchange market.",
-            "effet_zh": "新州长的选举可能会对外汇市场产生影响。",
+            "secteur_fr": "marché de l'énergie",
+            "secteur_en": "energy market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "La coopération entre la Chine et la Corée du Nord pourrait avoir un impact positif sur le marché de l'énergie.",
+            "effet_en": "Cooperation between China and North Korea could have a positive impact on the energy market.",
+            "effet_zh": "中朝合作可能对能源市场产生积极影响。",
             "hausse": true
           },
           {
-            "secteur_fr": "marché pétrolier",
-            "secteur_en": "oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "La politique énergétique du nouveau gouverneur pourrait influencer le marché pétrolier.",
-            "effet_en": "The energy policy of the new governor could influence the oil market.",
-            "effet_zh": "新州长的能源政策可能会影响石油市场。",
+            "secteur_fr": "marché des matières premières",
+            "secteur_en": "commodities market",
+            "secteur_zh": "大宗商品市场",
+            "effet_fr": "La coopération entre la Chine et la Corée du Nord pourrait également avoir un impact sur le marché des matières premières.",
+            "effet_en": "Cooperation between China and North Korea could also have an impact on the commodities market.",
+            "effet_zh": "中朝合作也可能对大宗商品市场产生影响。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-08T23:56:30.213501"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-07-11T12:43:35.185444"
+      },
       {
         "id": "chine_844031",
         "titre": "Sommet Trump-Xi",
@@ -2272,6 +2340,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_638110",
+        "titre": "Guerre en Ukraine",
+        "titre_en": "War in Ukraine",
+        "titre_zh": "乌克兰战争",
+        "titre_ru": "Война на Украине",
+        "titre_fa": "جنگ در اوکراین",
+        "titre_ar": "حرب في أوكرانيا",
+        "titre_original": "Day 1,598 of WW3. Orcistan managed to get a Su-57 aloft, but it failed to intercept UAF drones headed for Omsk. Orc drones and missiles keep hitting Ukraine as Kyiv works on producing PAC-3 interceptor missiles. This is your Friday Ukraine war thread [News]",
+        "resume": "La guerre en Ukraine continue de faire rage. Les forces ukrainiennes ont réussi à repousser les attaques russes. Les États-Unis et l'Union européenne ont imposé des sanctions économiques à la Russie.",
+        "resume_en": "The war in Ukraine continues to rage on. Ukrainian forces have managed to repel Russian attacks. The US and EU have imposed economic sanctions on Russia.",
+        "resume_zh": "乌克兰战争仍在继续。乌克兰军队成功地抵御了俄罗斯的攻击。美国和欧盟对俄罗斯实施了经济制裁。",
+        "resume_ru": "Война на Украине продолжается. Украинские войска смогли отбить российские атаки. США и ЕС ввели экономические санкции против России.",
+        "resume_fa": "جنگ در اوکراین仍 در جریان است. نیروهای اوکراین موفق به دفع حملات روسیه شدند. ایالات متحده و اتحادیه اروپا تحریم های اقتصادی علیه روسیه اعمال کردند.",
+        "resume_ar": "الحرب في أوكرانيا لا تزال مستمرة. نجحت القوات الأوكرانية في صد الهجمات الروسية. فرضت الولايات المتحدة والاتحاد الأوروبي عقوبات اقتصادية على روسيا.",
+        "analyse_detaillee": "Le contexte historique de cette guerre est lié à la crise en Ukraine. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions entre la Russie et l'Ukraine. Les perspectives à long terme sont incertaines, mais pourraient impliquer une détérioration des relations entre la Russie et l'Ukraine.",
+        "analyse_en": "The historical context of this war is related to the crisis in Ukraine. The main stakes are national security and regional stability. The short-term consequences will be an increase in tensions between Russia and Ukraine. The long-term prospects are uncertain, but could involve a deterioration of relations between Russia and Ukraine.",
+        "analyse_zh": "这一战争的历史背景与乌克兰危机有关。主要问题是国家安全和地区稳定。短期后果将是俄罗斯和乌克兰之间的紧张局势加剧。长期前景不确定，但可能涉及俄乌关系的恶化。",
+        "analyse_ru": "Исторический контекст этой войны связан с кризисом на Украине. Основные проблемы - национальная безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности между Россией и Украиной. Долгосрочные перспективы неопределенны, но могут включать ухудшение отношений между Россией и Украиной.",
+        "analyse_fa": "زمینه تاریخی این جنگ به بحران در اوکراین مرتبط است. مسائل اصلی امنیت ملی و ثبات منطقه‌ای هستند. پیامدهای کوتاه‌مدت افزایش تنش بین روسیه و اوکراین خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است، اما ممکن است شامل بدتر شدن روابط بین روسیه و اوکراین شود.",
+        "analyse_ar": "السياق التاريخي لهذه الحرب يرتبط بأزمة أوكرانيا. القضايا الرئيسية هي الأمن القومي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة التوتر بين روسيا وأوكرانيا. الآفاق طويلة المدى غير مؤكدة، ولكنها قد تشمل تدهور العلاقات بين روسيا وأوكرانيا.",
+        "categorie": "Géopolitique",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14126278/Day-1598-of-WW3-Orcistan-managed-to-get-a-Su-57-aloft-but-it-failed-to-intercept-UAF-drones-headed-for-Omsk-Orc-drones-missiles-keep-hitting-Ukraine-as-Kyiv-works-on-producing-PAC-3-interceptor-missiles-This-is-your-Friday-Ukraine-war-thread",
+        "image": "https://usrimg-full.fark.net/w/wN/fark_wNLgJgc0C_KU2k_9Ys3tWc-sbr4.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1783915200&Signature=V76MDAvIliwbV0R1RA%2BWaZQDFgw%3D",
+        "date": "2026-07-10",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ marché des armes",
+            "hausse": false
+          },
+          {
+            "label": "▲ marché de l'énergie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des armes",
+            "secteur_en": "arms market",
+            "secteur_zh": "武器市场",
+            "effet_fr": "La guerre en Ukraine pourrait avoir un impact négatif sur le marché des armes.",
+            "effet_en": "The war in Ukraine could have a negative impact on the arms market.",
+            "effet_zh": "乌克兰战争可能对武器市场产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "marché de l'énergie",
+            "secteur_en": "energy market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "La guerre en Ukraine pourrait également avoir un impact sur le marché de l'énergie.",
+            "effet_en": "The war in Ukraine could also have an impact on the energy market.",
+            "effet_zh": "乌克兰战争也可能对能源市场产生影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-11T12:43:35.185453"
+      },
       {
         "id": "russie_291543",
         "titre": "Trump approuve la production de missiles",
@@ -3356,56 +3483,6 @@
           }
         ],
         "created_at": "2026-07-08T22:51:47.365240"
-      },
-      {
-        "id": "russie_970307",
-        "titre": "Russie aux Jeux olympiques",
-        "titre_en": "Russia at the Olympics",
-        "titre_zh": "俄罗斯奥运",
-        "titre_original": "Russia could compete at 2028 Olympics after suspension provisionally lifted",
-        "resume": "La Russie pourrait participer aux Jeux olympiques de 2028 après que la suspension lui ait été provisoirement levée. Le Comité international olympique n'a pas encore décidé si la Russie pourra afficher son drapeau et jouer son hymne national.",
-        "resume_en": "Russia may participate in the 2028 Olympics after its suspension was provisionally lifted. The International Olympic Committee has not yet decided if Russia will be allowed to display its flag and play its national anthem.",
-        "resume_zh": "俄罗斯可能会参加2028年奥运会，因为其暂时解除的禁赛。国际奥林匹克委员会尚未决定是否允许俄罗斯展示其国旗和播放国歌。",
-        "analyse_detaillee": "La situation de la Russie dans le monde du sport est complexe, avec des sanctions imposées par le Comité international olympique. La levée de la suspension est une bonne nouvelle pour les athlètes russes, mais la décision finale dépendra de la conformité de la Russie aux règles antidopage. La Russie doit prendre des mesures pour regagner la confiance de la communauté internationale.",
-        "analyse_en": "Russia's situation in the sports world is complex, with sanctions imposed by the International Olympic Committee. The lifting of the suspension is good news for Russian athletes, but the final decision will depend on Russia's compliance with anti-doping rules. Russia must take steps to regain the trust of the international community.",
-        "analyse_zh": "俄罗斯在体育界的处境复杂，国际奥林匹克委员会施加了制裁。解除禁赛是俄罗斯运动员的好消息，但最终决定将取决于俄罗斯遵守反兴奋剂规则的程度。俄罗斯必须采取措施重新赢得国际社会的信任。",
-        "categorie": "Sport",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-07-08/russia-could-compete-at-la-2028-olympics-after-suspension-lifted/106891174",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4a064546485fd01065ae825c303061f9?impolicy=wcms_watermark_news&cropH=1595&cropW=2832&xPos=0&yPos=317&width=862&height=485&imformat=generic",
-        "date": "2026-07-07",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Sport olympique",
-            "hausse": true
-          },
-          {
-            "label": "▼ Dopage",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sport olympique",
-            "secteur_en": "Olympic Sports",
-            "secteur_zh": "奥运项目",
-            "effet_fr": "Le sport olympique est impacté par la participation de la Russie aux Jeux olympiques.",
-            "effet_en": "Olympic sports are affected by Russia's participation in the Olympics.",
-            "effet_zh": "奥运项目受到俄罗斯参加奥运会的影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Dopage",
-            "secteur_en": "Doping",
-            "secteur_zh": "兴奋剂",
-            "effet_fr": "La Russie doit lutter contre le dopage pour regagner la confiance de la communauté internationale.",
-            "effet_en": "Russia must fight against doping to regain the trust of the international community.",
-            "effet_zh": "俄罗斯必须打击兴奋剂才能重新赢得国际社会的信任。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T21:55:01.175220"
       }
     ],
     "iran": [
