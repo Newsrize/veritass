@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/07/2026 à 14h15",
+  "last_updated": "11/07/2026 à 15h41",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_738570",
+        "titre": "Trump et le logement",
+        "titre_en": "Trump Housing Law",
+        "titre_zh": "特朗普住房法",
+        "titre_ru": "Трамп и жилье",
+        "titre_fa": "ترامپ و مسکن",
+        "titre_ar": "ترامب والإسكان",
+        "titre_original": "Trump Will Let Bipartisan Housing Bill Become Law Without Signing In Protest Over GOP Voter ID Law",
+        "resume": "Le président Trump a décidé de laisser devenir loi un projet de loi sur le logement sans le signer. Ce projet de loi vise à améliorer l'accès au logement abordable. Les démocrates critiquent Trump pour ses priorités.",
+        "resume_en": "President Trump has decided to let a bipartisan housing bill become law without signing it. This bill aims to improve access to affordable housing. Democrats are criticizing Trump for his priorities.",
+        "resume_zh": "特朗普总统决定让一项两党的住房法案在未签署的情况下成为法律。这项法案旨在改善人们获得经济适用房的机会。民主党人批评特朗普的优先事项。",
+        "resume_ru": "Президент Трамп решил позволить двупартийному законопроекту о жилье стать законом без подписи. Этот законопроект направлен на улучшение доступа к доступному жилью. Демократы критикуют Трампа за его приоритеты.",
+        "resume_fa": "رئیس جمهور ترامپ تصمیم گرفته است که یک قانون دو حزبی در مورد مسکن را بدون امضای خود به قانون تبدیل کند. این قانون هدفش بهبود دسترسی به مسکن ارزان قیمت است. دموکرات ها ترامپ را به دلیل اولویت هایش批判 می کنند.",
+        "resume_ar": "قرر الرئيس ترامب أن يسمح لمشروع قانون سكني حزبيين أن يصبح قانونا دون التوقيع عليه. يهدف هذا القانون إلى تحسين الوصول إلى السكن الميسور التكلفة. ينتقد الديمقراطيون ترامب لآراءه.",
+        "analyse_detaillee": "Le contexte historique de ce projet de loi est lié à la crise du logement aux États-Unis. Les enjeux principaux sont l'accès à un logement abordable et la réduction de la pauvreté. Les conséquences à court terme seront une amélioration de l'accès au logement. Les perspectives à long terme sont positives pour les ménages à revenu faible. Les acteurs clés sont les démocrates et les républicains.",
+        "analyse_en": "The historical context of this bill is related to the housing crisis in the United States. The main stakes are access to affordable housing and poverty reduction. The short-term consequences will be an improvement in access to housing. The long-term prospects are positive for low-income households. The key actors are the Democrats and Republicans.",
+        "analyse_zh": "该法案的历史背景与美国的住房危机有关。主要问题是获得经济适用房和减少贫困。短期后果将是改善住房的可及性。长期前景对于低收入家庭是积极的。关键人物是民主党和共和党。",
+        "analyse_ru": "Исторический контекст этого законопроекта связан с жилищным кризисом в США. Основные проблемы - доступ к доступному жилью и снижение бедности. Краткосрочные последствия будут улучшением доступа к жилью. Долгосрочные перспективы положительны для семей с низкими доходами. Ключевые игроки - демократы и республиканцы.",
+        "analyse_fa": "زمینه تاریخی این قانون مربوط به بحران مسکن در ایالات متحده است. مسائل اصلی دسترسی به مسکن ارزان قیمت و کاهش فقر است. پیامدهای کوتاه مدت بهبود دسترسی به مسکن خواهد بود. چشم اندازهای بلندمدت برای خانوارهای کم درآمد مثبت است. بازیگران کلیدی دموکرات ها و جمهوری خواهان هستند.",
+        "analyse_ar": "السياق التاريخي لهذا القانون يرتبط بأزمة السكن في الولايات المتحدة. القضايا الرئيسية هي الوصول إلى السكن الميسور التكلفة وتقليل الفقر. العواقب قصيرة المدى ستكون تحسين الوصول إلى السكن. الآفاق طويلة المدى إيجابية للأسر منخفضة الدخل. الأطراف الرئيسية هي الديمقراطيون والجمهوريون.",
+        "categorie": "Géopolitique",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-housing-bill-protest_n_6a510f1de4b0aaa374255076",
+        "image": "https://img.huffingtonpost.com/asset/6a50eb4f1a0000e177580ac9.jpeg?cache=KQSJUc0rEy&ops=1200_630",
+        "date": "2026-07-10",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Immobilier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Construction",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Immobilier",
+            "secteur_en": "Real Estate",
+            "secteur_zh": "房地产",
+            "effet_fr": "L'impact sur le secteur immobilier sera positif à court terme.",
+            "effet_en": "The impact on the real estate sector will be positive in the short term.",
+            "effet_zh": "对房地产行业的影响将在短期内为正面。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Construction",
+            "secteur_en": "Construction",
+            "secteur_zh": "建筑",
+            "effet_fr": "Le secteur de la construction sera également touché de manière positive.",
+            "effet_en": "The construction sector will also be positively affected.",
+            "effet_zh": "建筑行业也将受到积极影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T15:41:08.328989"
+      },
       {
         "id": "usa_839414",
         "titre": "Sanctions contre la Russie",
@@ -1826,59 +1885,68 @@
           }
         ],
         "created_at": "2026-07-09T05:55:51.841301"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_533912",
-        "titre": "Nationalisme chrétien",
-        "titre_en": "Christian Nationalism",
-        "titre_zh": "基督教民族主义",
-        "titre_original": "The Seven Mountains Mandate: The Latest in Christian Nationalism",
-        "resume": "Le mouvement des Seven Mountains Mandate vise à établir une théocratie chrétienne aux États-Unis. Ce mouvement radical cherche à détruire le pluralisme américain. Les conséquences pourraient être graves pour la démocratie.",
-        "resume_en": "The Seven Mountains Mandate movement aims to establish a Christian theocracy in the US. This radical movement seeks to dismantle American pluralism. The consequences could be severe for democracy. The movement is gaining momentum.",
-        "resume_zh": "七山令运动旨在建立美国的基督教神权政治。这场激进运动寻求摧毁美国的多元主义。后果可能对民主制产生严重影响。该运动正在获得动力。",
-        "analyse_detaillee": "Le contexte historique de ce mouvement est lié à l'évolution du christianisme aux États-Unis. Les enjeux principaux sont la démocratie et la laïcité. Les conséquences à court terme pourraient être des tensions sociales. Les perspectives à long terme sont inquiétantes pour la stabilité du pays. Les acteurs clés sont les dirigeants religieux et politiques.",
-        "analyse_en": "The historical context of this movement is related to the evolution of Christianity in the US. The main stakes are democracy and secularism. The short-term consequences could be social tensions. The long-term prospects are worrisome for the country's stability. The key actors are religious and political leaders.",
-        "analyse_zh": "该运动的历史背景与美国基督教的演变有关。主要影响是民主和世俗主义。短期后果可能是社会紧张。长期前景令人担忧，可能会影响国家的稳定。关键人物是宗教和政治领导人。该运动可能会对美国社会产生深远影响。",
+        "id": "chine_142113",
+        "titre": "Chine et Namibie",
+        "titre_en": "China and Namibia",
+        "titre_zh": "中国和纳米比亚",
+        "titre_ru": "Китай и Намибия",
+        "titre_fa": "چین و نامیبیا",
+        "titre_ar": "الصين وناميبيا",
+        "titre_original": "Joint Statement Between the People's Republic of China and the Republic of Namibia on Building a China-Namibia Community with a Shared Future for the New Era",
+        "resume": "Le président chinois Xi Jinping a reçu le président namibien Netumbo Nandi-Ndaitwah. Les deux pays ont signé un accord pour renforcer leur coopération.",
+        "resume_en": "Chinese President Xi Jinping received Namibian President Netumbo Nandi-Ndaitwah. The two countries signed an agreement to strengthen their cooperation.",
+        "resume_zh": "中国国家主席习近平接见了纳米比亚总统内图姆博·南迪-恩达特瓦。两国签署了加强合作的协议。",
+        "resume_ru": "Председатель КНР Си Цзиньпин принял президента Намибии Нетумбо Нанди-Ндайтвах. Две страны подписали соглашение о расширении сотрудничества.",
+        "resume_fa": "رئیس جمهور چین شی جین پینگ رئیس جمهور نامیبیا نتومبو ناندی-اندایتوا را پذیرفت. دو کشور توافق نامه ای برای تقویت همکاری امضا کردند.",
+        "resume_ar": "استقبل الرئيس الصيني شي جين بينغ الرئيس الناميبي نتومبو ناندي-انداتواه. وقعت الدولتان اتفاقية لتعزيز التعاون بينهما.",
+        "analyse_detaillee": "Le contexte historique de cette visite est lié aux relations entre la Chine et l'Afrique. Les enjeux principaux sont la coopération économique et la diplomatie. Les conséquences à court terme seront une amélioration des relations entre les deux pays. Les perspectives à long terme sont positives pour les deux pays.",
+        "analyse_en": "The historical context of this visit is related to the relations between China and Africa. The main stakes are economic cooperation and diplomacy. The short-term consequences will be an improvement in the relations between the two countries. The long-term prospects are positive for both countries.",
+        "analyse_zh": "这次访问的历史背景与中国和非洲的关系有关。主要问题是经济合作和外交。短期后果将是两国关系的改善。长期前景对于两国都是积极的。",
+        "analyse_ru": "Исторический контекст этого визита связан с отношениями между Китаем и Африкой. Основные проблемы - экономическое сотрудничество и дипломатия. Краткосрочные последствия будут улучшением отношений между двумя странами. Долгосрочные перспективы положительны для обеих стран.",
+        "analyse_fa": "زمینه تاریخی این دیدار مربوط به روابط بین چین و آفریقا است. مسائل اصلی همکاری اقتصادی و دیپلماسی است. پیامدهای کوتاه مدت بهبود روابط بین دو کشور خواهد بود. چشم اندازهای بلندمدت برای هر دو کشور مثبت است.",
+        "analyse_ar": "السياق التاريخي لهذه الزيارة يرتبط بالعلاقات بين الصين وأفريقيا. القضايا الرئيسية هي التعاون الاقتصادي والدبلوماسية. العواقب قصيرة المدى ستكون تحسين العلاقات بين البلدين. الآفاق طويلة المدى إيجابية لكلا البلدين.",
         "categorie": "Géopolitique",
-        "source": "Skeptic.com",
-        "url": "https://www.skeptic.com/article/seven-mountains-mandate-latest-in-christian-nationalism/",
-        "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/06/7-pillars-of-influence.webp",
-        "date": "2026-07-07",
-        "pays": "usa",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/07/china-260710-prc-mofa03.htm",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-07-10",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché boursier américain",
-            "hausse": false
+            "label": "▲ Énergie",
+            "hausse": true
           },
           {
-            "label": "▼ Secteur financier international",
+            "label": "▼ Technologie",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché boursier américain",
-            "secteur_en": "US Stock Market",
-            "secteur_zh": "美国股票市场",
-            "effet_fr": "L'instabilité politique pourrait avoir un impact négatif sur le marché boursier américain.",
-            "effet_en": "Political instability could have a negative impact on the US stock market.",
-            "effet_zh": "政治不稳定可能会对美国股票市场产生负面影响。",
-            "hausse": false
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "L'impact sur le secteur énergétique sera positif à long terme.",
+            "effet_en": "The impact on the energy sector will be positive in the long term.",
+            "effet_zh": "对能源行业的影响将在长期内为正面。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur financier international",
-            "secteur_en": "International Financial Sector",
-            "secteur_zh": "国际金融行业",
-            "effet_fr": "Les conséquences de ce mouvement pourraient également affecter le secteur financier international.",
-            "effet_en": "The consequences of this movement could also affect the international financial sector.",
-            "effet_zh": "该运动的后果也可能影响国际金融行业。",
+            "secteur_fr": "Technologie",
+            "secteur_en": "Technology",
+            "secteur_zh": "技术",
+            "effet_fr": "Le secteur technologique sera également touché de manière positive.",
+            "effet_en": "The technology sector will also be positively affected.",
+            "effet_zh": "技术行业也将受到积极影响。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-09T01:54:01.711044"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-07-11T15:41:08.329024"
+      },
       {
         "id": "chine_897515",
         "titre": "Rencontre entre Xi Jinping et Pak Thae Song",
@@ -2340,6 +2408,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_781120",
+        "titre": "Ukraine et Russie",
+        "titre_en": "Ukraine and Russia",
+        "titre_zh": "乌克兰和俄罗斯",
+        "titre_ru": "Украина и Россия",
+        "titre_fa": "اوکراین و روسیه",
+        "titre_ar": "أوكرانيا وروسيا",
+        "titre_original": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+        "resume": "L'Ukraine a coupé les routes terrestres et a commencé à cibler les tankers russes. La Russie a riposté en augmentant ses attaques.",
+        "resume_en": "Ukraine has cut off overland routes and started targeting Russian tankers. Russia has retaliated by increasing its attacks.",
+        "resume_zh": "乌克兰切断了陆路并开始针对俄罗斯的油轮。俄罗斯通过增加袭击进行了报复。",
+        "resume_ru": "Украина перекрыла сухопутные маршруты и начала наносить удары по российским танкерам. Россия ответила на это увеличением количества атак.",
+        "resume_fa": "اوکراین راه های زمینی را قطع کرده و شروع به هدف قرار دادن تانکرهای روسی کرده است. روسیه با افزایش حملات خود پاسخ داده است.",
+        "resume_ar": "أغلقت أوكرانيا الطرق البرية وبدأت تستهدف الناقلات الروسية. وresponded روسيا بزيادة هجماتها.",
+        "analyse_detaillee": "Le contexte historique de ce conflit est lié à la crise entre l'Ukraine et la Russie. Les enjeux principaux sont la souveraineté et la sécurité. Les conséquences à court terme seront une augmentation des tensions. Les perspectives à long terme sont négatives pour les deux pays.",
+        "analyse_en": "The historical context of this conflict is related to the crisis between Ukraine and Russia. The main stakes are sovereignty and security. The short-term consequences will be an increase in tensions. The long-term prospects are negative for both countries.",
+        "analyse_zh": "这次冲突的历史背景与乌克兰和俄罗斯的危机有关。主要问题是主权和安全。短期后果将是紧张局势的加剧。长期前景对于两国都是负面的。",
+        "analyse_ru": "Исторический контекст этого конфликта связан с кризисом между Украиной и Россией. Основные проблемы - суверенитет и безопасность. Краткосрочные последствия будут увеличением напряженности. Долгосрочные перспективы отрицательны для обеих стран.",
+        "analyse_fa": "زمینه تاریخی این درگیری مربوط به بحران بین اوکراین و روسیه است. مسائل اصلی حاکمیت و امنیت است. پیامدهای کوتاه مدت افزایش تنش خواهد بود. چشم اندازهای بلندمدت برای هر دو کشور منفی است.",
+        "analyse_ar": "السياق التاريخي لهذا الصراع يرتبط بأزمة أوكرانيا وروسيا. القضايا الرئيسية هي السيادة والأمن. العواقب قصيرة المدى ستكون زيادة التوتر. الآفاق طويلة المدى سلبية لكلا البلدين.",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-06T215151Z_318518981_RC2I8MACV5HI_RTRMADP_3_UKRAINE-CRISIS-OMSK-FUEL-1783690504.jpg?resize=1920%2C1440",
+        "date": "2026-07-10",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Défense",
+            "hausse": false
+          },
+          {
+            "label": "▼ Énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense",
+            "secteur_en": "Defense",
+            "secteur_zh": "国防",
+            "effet_fr": "L'impact sur le secteur de la défense sera négatif à court terme.",
+            "effet_en": "The impact on the defense sector will be negative in the short term.",
+            "effet_zh": "对国防行业的影响将在短期内为负面。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy",
+            "secteur_zh": "能源",
+            "effet_fr": "Le secteur énergétique sera également touché de manière négative.",
+            "effet_en": "The energy sector will also be negatively affected.",
+            "effet_zh": "能源行业也将受到负面影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-11T15:41:08.329036"
+      },
       {
         "id": "russie_638110",
         "titre": "Guerre en Ukraine",
@@ -3433,56 +3560,6 @@
           }
         ],
         "created_at": "2026-07-08T23:56:30.213532"
-      },
-      {
-        "id": "russie_733957",
-        "titre": "Irak et les doubles jeux",
-        "titre_en": "Iraq and double dealings",
-        "titre_zh": "伊拉克和双重交易",
-        "titre_original": "Has Iraq Finally Run Out of Road in Its Double-Dealings with the West?",
-        "resume": "L'Irak a des relations complexes avec l'Occident. L'Irak tente de maintenir ses relations avec l'Occident. Les relations entre l'Irak et l'Occident sont tendues.",
-        "resume_en": "Iraq has complex relationships with the West. Iraq is trying to maintain its relationships with the West. The relationships between Iraq and the West are tense.",
-        "resume_zh": "伊拉克与西方的关系复杂。伊拉克试图维持与西方的关系。伊拉克与西方的关系紧张。",
-        "analyse_detaillee": "Le contexte historique est celui des relations entre l'Irak et l'Occident. Les enjeux principaux sont la stabilité du Moyen-Orient. Les conséquences à court terme sont une augmentation des tensions. Les perspectives à long terme sont incertaines. Les acteurs clés sont l'Irak et l'Occident.",
-        "analyse_en": "The historical context is that of the relationships between Iraq and the West. The main stakes are the stability of the Middle East. The short-term consequences are an increase in tensions. The long-term prospects are uncertain. The key actors are Iraq and the West.",
-        "analyse_zh": "历史背景是伊拉克与西方的关系。主要影响是中东的稳定。短期后果是紧张局势加剧。长期前景不确定。主要参与者是伊拉克和西方。",
-        "categorie": "Géopolitique",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/Has-Iraq-Finally-Run-Out-of-Road-in-Its-Double-Dealings-with-the-West.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_umcqcj1zkx.jpg",
-        "date": "2026-07-07",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché financier international",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "L'impact sur le marché pétrolier est une augmentation des prix.",
-            "effet_en": "The impact on the oil market is an increase in prices.",
-            "effet_zh": "对石油市场的影响是价格上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché financier international",
-            "secteur_en": "International financial market",
-            "secteur_zh": "国际金融市场",
-            "effet_fr": "L'impact sur le marché financier international est incertain.",
-            "effet_en": "The impact on the international financial market is uncertain.",
-            "effet_zh": "对国际金融市场的影响不确定。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-08T22:51:47.365240"
       }
     ],
     "iran": [
