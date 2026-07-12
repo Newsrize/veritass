@@ -1,5 +1,5 @@
 {
-  "last_updated": "12/07/2026 à 14h19",
+  "last_updated": "12/07/2026 à 15h45",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_310970",
+        "titre": "Attentat contre la Maison Blanche",
+        "titre_en": "Terror Attack on White House",
+        "titre_zh": "对白宫的恐怖袭击",
+        "titre_ru": "Террористический акт против Белого дома",
+        "titre_fa": "حملات تروریستی علیه کاخ سفید",
+        "titre_ar": "هجوم إرهابي على البيت الأبيض",
+        "titre_original": "DOJ has just announced a criminal indictment against 8 people for plotting a massive violent terror attack against the White House while President Trump was there",
+        "resume": "Le DOJ a annoncé des accusations criminelles contre 8 personnes pour complot en vue d'un attentat terroriste contre la Maison Blanche. L'attentat visait à causer des dommages importants. Les suspects risquent la prison à vie.",
+        "resume_en": "The DOJ has announced criminal charges against 8 people for plotting a terrorist attack on the White House. The attack was intended to cause significant damage. The suspects face life in prison.",
+        "resume_zh": "美国司法部宣布对8人提出刑事指控，他们涉嫌阴谋对白宫发动恐怖袭击。袭击旨在造成重大损害。嫌疑人面临终身监禁。",
+        "resume_ru": "Министерство юстиции США объявило о выдвижении уголовных обвинений в отношении 8 человек, которых подозревают в заговоре с целью совершения террористического акта против Белого дома. Нападение было призвано нанести значительный ущерб. Подозреваемые рискуют попасть в тюрьму на всю жизнь.",
+        "resume_fa": "دپارتمان عدالت ایالات متحده اتهامات کیفری علیه 8 نفر را اعلام کرده است که متهم به توطئه برای انجام یک حمله تروریستی علیه کاخ سفید هستند. این حمله با هدف造成 خسارات重大 انجام شد. مظنونین در خطر زندان ابد هستند.",
+        "resume_ar": "أعلنت وزارة العدل الأمريكية عن اتهامات جنائية ضد 8 أشخاص متهمين بالتخطيط لهجوم إرهابي على البيت الأبيض. كان الهجوم يهدف إلى التسبب في أضرار جسيمة. يواجه المتهمون السجن مدى الحياة.",
+        "analyse_detaillee": "Le contexte historique de cet attentat est marqué par une montée des tensions politiques aux États-Unis. Les enjeux principaux sont la sécurité nationale et la stabilité du pays. Les conséquences à court terme seront une augmentation de la sécurité autour de la Maison Blanche. Les perspectives à long terme pourraient impliquer des réformes dans les lois sur le contrôle des armes. Les acteurs clés sont le gouvernement américain et les forces de l'ordre.",
+        "analyse_en": "The historical context of this attack is marked by rising political tensions in the United States. The main stakes are national security and the country's stability. The short-term consequences will be an increase in security around the White House. The long-term prospects could involve reforms in gun control laws. The key actors are the US government and law enforcement.",
+        "analyse_zh": "这一袭击的历史背景是美国日益升级的政治紧张局势。主要问题是国家安全和国家稳定。短期后果将是白宫周围的安全增加。长期前景可能涉及枪支管制法的改革。关键角色是美国政府和执法部门。",
+        "analyse_ru": "Исторический контекст этого нападения характеризуется ростом политической напряженности в США. Основные проблемы - национальная безопасность и стабильность страны. Краткосрочные последствия будут увеличением безопасности вокруг Белого дома. Долгосрочные перспективы могут включать реформы в законах о контроле над оружием. Ключевыми игроками являются правительство США и правоохранительные органы.",
+        "analyse_fa": "زمینه تاریخی این حمله با افزایش تنش های سیاسی در ایالات متحده مشخص شده است. مسائل اصلی امنیت ملی و ثبات کشور هستند. عواقب کوتاه مدت افزایش امنیت در اطراف کاخ سفید خواهد بود. چشم اندازهای بلندمدت ممکن است شامل اصلاحات در قوانین کنترل اسلحه باشد. بازیگران کلیدی دولت آمریکا و نیروهای امنیتی هستند.",
+        "analyse_ar": "السياق التاريخي لهجوم هو تصاعد التوترات السياسية في الولايات المتحدة. القضايا الرئيسية هي الأمن القومي و استقرار البلد. العواقب قصيرة المدى ستكون زيادة في الأمن حول البيت الأبيض. الآفاق طويلة المدى قد تتضمن إصلاحات في قوانين مراقبة الأسلحة. الأطراف الفاعلة الرئيسية هي الحكومة الأمريكية و قوات الأمن.",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4387571/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-11",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur de la sécurité",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur financier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la sécurité",
+            "secteur_en": "Security sector",
+            "secteur_zh": "安全行业",
+            "effet_fr": "L'attentat contre la Maison Blanche aura un impact significatif sur le secteur de la sécurité, avec une augmentation des mesures de sécurité.",
+            "effet_en": "The attack on the White House will have a significant impact on the security sector, with an increase in security measures.",
+            "effet_zh": "对白宫的袭击将对安全行业产生重大影响，安全措施将会增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur financier",
+            "secteur_en": "Financial sector",
+            "secteur_zh": "金融行业",
+            "effet_fr": "L'attentat pourrait également avoir un impact sur le secteur financier, avec une possible baisse des marchés financiers.",
+            "effet_en": "The attack could also have an impact on the financial sector, with a possible decline in financial markets.",
+            "effet_zh": "袭击也可能对金融行业产生影响，可能导致金融市场下滑。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-12T15:45:15.413953"
+      },
       {
         "id": "usa_313971",
         "titre": "Avion de Trump",
@@ -1835,65 +1894,6 @@
           }
         ],
         "created_at": "2026-07-09T17:09:21.263728"
-      },
-      {
-        "id": "usa_592901",
-        "titre": "Trump exige réformes",
-        "titre_en": "Trump demands reforms",
-        "titre_zh": "特朗普要求改革",
-        "titre_ru": "Трамп требует реформ",
-        "titre_fa": "ترامپ اصلاحات را خواستار است",
-        "titre_ar": "ترامب يطالب بالإصلاحات",
-        "titre_original": "Trump demands Republicans use budgetary gambit to pass voting reforms",
-        "resume": "Donald Trump demande aux républicains de combiner les réformes électorales avec les dépenses de défense. Les réformes électorales sont un enjeu crucial pour les élections à venir. Les démocrates sont opposés à cette démarche.",
-        "resume_en": "Donald Trump is demanding that Republicans combine voting reforms with defense spending. Voting reforms are a crucial issue for upcoming elections. Democrats are opposed to this approach.",
-        "resume_zh": "特朗普要求共和党将选举改革与国防支出结合起来。选举改革是即将到来的选举的一个关键问题。民主党人反对这一做法。",
-        "resume_ru": "Трамп требует от республиканцев объединить избирательные реформы с оборонными расходами. Избирательные реформы являются ключевым вопросом для предстоящих выборов. Демократы выступают против этого подхода.",
-        "resume_fa": "ترامپ از جمهوری‌خواهان می‌خواهد که اصلاحات انتخاباتی را با هزینه‌های دفاعی ترکیب کنند. اصلاحات انتخاباتی یک مسئله کلیدی برای انتخابات آینده است. دموکرات‌ها با این رویکرد مخالف هستند.",
-        "resume_ar": "يريد ترامب من الجمهوريين أن يجمعوا بين الإصلاحات الانتخابية وإنفاق الدفاع. الإصلاحات الانتخابية هي قضية حاسمة للانتخابات القادمة. الديمقراطيون يعارضون هذا النهج.",
-        "analyse_detaillee": "Le contexte historique des réformes électorales aux États-Unis est complexe. Les enjeux principaux sont la sécurité des élections et la représentation équitable. Les conséquences à court terme seront une augmentation des tensions politiques. Les perspectives à long terme sont incertaines. Les acteurs clés sont les partis politiques et les électeurs.",
-        "analyse_en": "The historical context of voting reforms in the US is complex. The main stakes are election security and fair representation. The short-term consequences will be increased political tensions. The long-term prospects are uncertain. The key actors are political parties and voters.",
-        "analyse_zh": "美国选举改革的历史背景复杂。主要问题是选举安全和公平代表。短期后果将是政治紧张局势加剧。长期前景不确定。关键角色是政党和选民。",
-        "analyse_ru": "Исторический контекст избирательных реформ в США сложен. Основные проблемы - безопасность выборов и справедливое представительство. Краткосрочные последствия будут увеличением политических напряжений. Долгосрочные перспективы неопределенны. Ключевые акторы - политические партии и избиратели.",
-        "analyse_fa": "زمینه تاریخی اصلاحات انتخاباتی در ایالات متحده پیچیده است. مسائل اصلی امنیت انتخابات و نمایندگی عادلانه هستند. پیامدهای کوتاه‌مدت افزایش تنش‌های سیاسی خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است. بازیگران کلیدی احزاب سیاسی و رای‌دهندگان هستند.",
-        "analyse_ar": "السياق التاريخي للإصلاحات الانتخابية في الولايات المتحدة معقد. القضايا الرئيسية هي أمن الانتخابات والتمثيل العادل. العواقب قصيرة المدى ستكون زيادة التوترات السياسية. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الأحزاب السياسية والناخبون.",
-        "categorie": "Géopolitique",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/news/politics/2026/07/07/trump-republicans-congress-voting-spending-bill/90831034007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/71a2c8862fdab95516ebfe17b2472a5b3723390ecb7c8429105e4ad0b8bc1f4c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F42e610abd111d1a66f3fe7f39aa97161",
-        "date": "2026-07-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ marché boursier",
-            "hausse": false
-          },
-          {
-            "label": "▲ dollar américain",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "marché boursier",
-            "secteur_en": "stock market",
-            "secteur_zh": "股票市场",
-            "effet_fr": "L'impact sur le marché boursier sera négatif en raison de l'incertitude politique.",
-            "effet_en": "The impact on the stock market will be negative due to political uncertainty.",
-            "effet_zh": "由于政治不确定性，股票市场的影响将为负面。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "dollar américain",
-            "secteur_en": "US dollar",
-            "secteur_zh": "美国美元",
-            "effet_fr": "La valeur du dollar américain pourrait augmenter en raison de la demande de sécurité.",
-            "effet_en": "The value of the US dollar may increase due to demand for safety.",
-            "effet_zh": "由于对安全的需求，美国美元的价值可能会增加。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-09T14:20:41.325729"
       }
     ],
     "chine": [
@@ -2417,6 +2417,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_744600",
+        "titre": "Ukraine contre-attaque",
+        "titre_en": "Ukraine Counterattacks",
+        "titre_zh": "乌克兰反击",
+        "titre_ru": "Украина контратакует",
+        "titre_fa": "اوکراین ضدحمله می کند",
+        "titre_ar": "أوكرانيا تشن هجوما مضادا",
+        "titre_original": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
+        "resume": "L'Ukraine a lancé des frappes contre les infrastructures énergétiques russes, forçant Poutine à détourner des ressources militaires. Les pénuries de carburant se propagent dans tout le pays.",
+        "resume_en": "Ukraine has launched strikes against Russian energy infrastructure, forcing Putin to divert military assets. Fuel shortages are spreading across the country.",
+        "resume_zh": "乌克兰对俄罗斯的能源基础设施发动了袭击，迫使普京转移军事资源。燃料短缺正在整个国家蔓延。",
+        "resume_ru": "Украина нанесла удары по российской энергетической инфраструктуре, заставив Путина отвлечь военные ресурсы. Нехватка топлива распространяется по всей стране.",
+        "resume_fa": "اوکراین به زیرساخت های انرژی روسیه حمله کرده است و پوتین را مجبور به تغییر منابع نظامی کرده است. کمبود سوخت در سراسر کشور در حال گسترش است.",
+        "resume_ar": "أوكرانيا شنّت ضربات ضد البنية التحتية للطاقة في روسيا، مما أجبر بوتين على تحويل الموارد العسكرية. ونشأت نقص في الوقود في جميع أنحاء البلاد.",
+        "analyse_detaillee": "Le contexte historique de ce conflit est marqué par l'invasion russe de l'Ukraine. Les enjeux principaux sont la souveraineté de l'Ukraine et la stabilité de la région. Les conséquences à court terme seront une intensification des combats. Les perspectives à long terme pourraient impliquer des négociations de paix. Les acteurs clés sont l'Ukraine, la Russie et les pays occidentaux.",
+        "analyse_en": "The historical context of this conflict is marked by Russia's invasion of Ukraine. The main stakes are Ukraine's sovereignty and the region's stability. The short-term consequences will be an escalation of fighting. The long-term prospects could involve peace negotiations. The key actors are Ukraine, Russia, and Western countries.",
+        "analyse_zh": "这一冲突的历史背景是俄罗斯入侵乌克兰。主要问题是乌克兰的主权和该地区的稳定。短期后果将是战斗的升级。长期前景可能涉及和平谈判。关键角色是乌克兰、俄罗斯和西方国家。",
+        "analyse_ru": "Исторический контекст этого конфликта характеризуется вторжением России на Украину. Основные проблемы - суверенитет Украины и стабильность региона. Краткосрочные последствия будут эскалацией боевых действий. Долгосрочные перспективы могут включать переговоры о мире. Ключевыми игроками являются Украина, Россия и западные страны.",
+        "analyse_fa": "زمینه تاریخی این درگیری با تهاجم روسیه به اوکراین مشخص شده است. مسائل اصلی حاکمیت اوکراین و ثبات منطقه هستند. عواقب کوتاه مدت افزایش درگیری ها خواهد بود. چشم اندازهای بلندمدت ممکن است شامل مذاکرات صلح باشد. بازیگران کلیدی اوکراین، روسیه و کشورهای غربی هستند.",
+        "analyse_ar": "السياق التاريخي لهذا الصراع يتميز بالغزو الروسي لأوكرانيا. القضايا الرئيسية هي سيادة أوكرانيا و استقرار المنطقة. العواقب قصيرة المدى ستكون تصعيدا في القتال. الآفاق طويلة المدى قد تتضمن مفاوضات السلام. الأطراف الفاعلة الرئيسية هي أوكرانيا و روسيا و الدول الغربية.",
+        "categorie": "Géopolitique",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Moscow-oil-refinery-in-Kapotnya-attacked-11-east2west-news.jpeg",
+        "date": "2026-07-11",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur énergétique",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur militaire",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur énergétique",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les frappes ukrainiennes contre les infrastructures énergétiques russes auront un impact significatif sur le secteur énergétique, avec une possible pénurie de carburant.",
+            "effet_en": "Ukraine's strikes against Russian energy infrastructure will have a significant impact on the energy sector, with a possible fuel shortage.",
+            "effet_zh": "乌克兰对俄罗斯能源基础设施的袭击将对能源行业产生重大影响，可能导致燃料短缺。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur militaire",
+            "secteur_en": "Military sector",
+            "secteur_zh": "军事行业",
+            "effet_fr": "Le conflit entre l'Ukraine et la Russie aura également un impact sur le secteur militaire, avec une augmentation des dépenses militaires.",
+            "effet_en": "The conflict between Ukraine and Russia will also have an impact on the military sector, with an increase in military spending.",
+            "effet_zh": "乌克兰和俄罗斯之间的冲突也将对军事行业产生影响，军费开支将会增加。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-12T15:45:15.413986"
+      },
       {
         "id": "russie_690427",
         "titre": "Sanctions contre la Russie",
@@ -3537,56 +3596,6 @@
           }
         ],
         "created_at": "2026-07-09T09:03:02.665421"
-      },
-      {
-        "id": "russie_650290",
-        "titre": "Tensions avec Cuba",
-        "titre_en": "Tensions with Cuba",
-        "titre_zh": "与古巴的紧张关系",
-        "titre_original": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "resume": "Les tensions entre Washington et La Havane se sont accrues. Le blocus américain est en cause. Les relations entre les deux pays sont tendues.",
-        "resume_en": "Tensions between Washington and Havana have increased. The US blockade is to blame. Relations between the two countries are strained.",
-        "resume_zh": "华盛顿和哈瓦那之间的紧张关系加剧。美国封锁是罪魁祸首。两国关系紧张。",
-        "analyse_detaillee": "Les États-Unis et Cuba ont une histoire complexe. Le blocus a des conséquences économiques. Les relations entre les deux pays sont influencées par des facteurs géopolitiques. Les acteurs clés sont les gouvernements.",
-        "analyse_en": "The US and Cuba have a complex history. The blockade has economic consequences. Relations between the two countries are influenced by geopolitical factors. Key actors are the governments.",
-        "analyse_zh": "美国和古巴有着复杂的历史。封锁有经济后果。两国关系受到地缘政治因素的影响。关键人物是政府。",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a4c4d2623df-1783385382.jpg?resize=1920%2C1440",
-        "date": "2026-07-08",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▼ Marché du tabac",
-            "hausse": false
-          },
-          {
-            "label": "▼ Tourisme",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché du tabac",
-            "secteur_en": "Tobacco market",
-            "secteur_zh": "烟草市场",
-            "effet_fr": "Le blocus américain affecte les exportations de tabac cubain.",
-            "effet_en": "The US blockade affects Cuban tobacco exports.",
-            "effet_zh": "美国封锁影响古巴烟草出口。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Tourisme",
-            "secteur_en": "Tourism",
-            "secteur_zh": "旅游",
-            "effet_fr": "Les tensions entre les deux pays pourraient dissuader les touristes.",
-            "effet_en": "Tensions between the two countries may deter tourists.",
-            "effet_zh": "两国之间的紧张关系可能会阻止游客。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-09T05:55:51.841333"
       }
     ],
     "iran": [
