@@ -1,5 +1,5 @@
 {
-  "last_updated": "12/07/2026 à 18h43",
+  "last_updated": "12/07/2026 à 19h58",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_100377",
+        "titre": "Administration Trump contre NYT",
+        "titre_en": "Trump Subpoenas New York Times",
+        "titre_zh": "特朗普政府传唤纽约时报记者",
+        "titre_ru": "Администрация Трампа вызвала журналистов NYT",
+        "titre_fa": "دولت ترامپ علیه روزنامه نیویورک تایمز",
+        "titre_ar": "إدارة ترامب تستدعي صحفيي نيويورك تايمز",
+        "titre_original": "Trump administration subpoenas New York Times reporters over coverage",
+        "resume": "L'administration Trump a déposé des assignations contre des journalistes du New York Times. Les défenseurs de la liberté de la presse et des membres du Congrès ont condamné ces assignations. Elles visent à intimider les journalistes.",
+        "resume_en": "The Trump administration has subpoenaed New York Times reporters. Press freedom advocates and members of Congress have condemned the subpoenas. They are seen as an attempt to threaten and intimidate journalists.",
+        "resume_zh": "特朗普政府向纽约时报记者发出传唤令。新闻自由倡导者和国会议员谴责这些传唤令。他们被视为威胁和恐吓记者的企图。",
+        "resume_ru": "Администрация Трампа вызвала журналистов NYT. Адвокаты свободы прессы и члены Конгресса осудили эти вызовы. Они рассматриваются как попытка запугать журналистов.",
+        "resume_fa": "دولت ترامپ علیه روزنامه نیویورک تایمز اقامه دعوا کرده است. مدافعان آزادی مطبوعات و اعضای کنگره این اقدام را محکوم کرده اند. آنها را تهدیدی برای روزنامه نگاران می دانند.",
+        "resume_ar": "إدارة ترامب تستدعي صحفيي نيويورك تايمز. ناشطون من أجل حرية الصحافة وأعضاء الكونغرس يدينون هذه الاستدعاءات. يعتبرون محاولة لتهديد الصحفيين.",
+        "analyse_detaillee": "Le contexte historique de cette affaire est marqué par les tensions entre l'administration Trump et les médias. Les enjeux principaux sont la liberté de la presse et la séparation des pouvoirs. Les conséquences à court terme seront une augmentation de la méfiance entre les médias et l'administration. Les perspectives à long terme sont inquiétantes pour la démocratie américaine. Les acteurs clés sont les journalistes, les défenseurs de la liberté de la presse et les membres du Congrès.",
+        "analyse_en": "The historical context of this case is marked by tensions between the Trump administration and the media. The main stakes are press freedom and the separation of powers. The short-term consequences will be an increase in mistrust between the media and the administration. The long-term prospects are worrying for American democracy. The key actors are journalists, press freedom advocates, and members of Congress.",
+        "analyse_zh": "这一事件的历史背景是特朗普政府与媒体之间的紧张关系。主要问题是新闻自由和权力分立。短期后果将是媒体和政府之间的不信任加剧。长期前景令人担忧。主要参与者是记者、新闻自由倡导者和国会议员。",
+        "analyse_ru": "Исторический контекст этого дела характеризуется напряженностью между администрацией Трампа и средствами массовой информации. Основные проблемы - свобода прессы и разделение властей. Краткосрочные последствия будут увеличением недоверия между средствами массовой информации и администрацией. Долгосрочные перспективы тревожны для американской демократии. Основными участниками являются журналисты, адвокаты свободы прессы и члены Конгресса.",
+        "analyse_fa": "زمینه تاریخی این پرونده با تنش بین دولت ترامپ و رسانه ها مشخص می شود. مسائل اصلی آزادی مطبوعات و تفکیک قوا هستند. پیامدهای کوتاه مدت افزایش بی اعتمادی بین رسانه ها و دولت خواهد بود. چشم اندازهای بلندمدت نگران کننده است. بازیگران اصلی روزنامه نگاران، مدافعان آزادی مطبوعات و اعضای کنگره هستند.",
+        "analyse_ar": "السياق التاريخي لهذه القضية يتميز بالتوتر بين إدارة ترامب ووسائل الإعلام. القضايا الرئيسية هي حرية الصحافة وفصل السلطات. العواقب قصيرة المدى ستكون زيادة في عدم الثقة بين وسائل الإعلام والإدارة. الآفاق طويلة المدى مثيرة للقلق. الأطراف الرئيسية هي الصحفيون، ناشطون من أجل حرية الصحافة وأعضاء الكونغرس.",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a528ada5089-1783794394.jpg?resize=1920%2C1440",
+        "date": "2026-07-11",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Médias",
+            "hausse": false
+          },
+          {
+            "label": "▼ Technologie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Médias",
+            "secteur_en": "Media",
+            "secteur_zh": "媒体",
+            "effet_fr": "L'assignation à comparaître des journalistes du New York Times aura un impact négatif sur la liberté de la presse.",
+            "effet_en": "The subpoena of New York Times journalists will have a negative impact on press freedom.",
+            "effet_zh": "特朗普政府向纽约时报记者发出传唤令将对新闻自由产生负面影响。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Technologie",
+            "secteur_en": "Technology",
+            "secteur_zh": "技术",
+            "effet_fr": "Les conséquences de cette affaire pourraient également toucher les entreprises de technologie qui travaillent avec les médias.",
+            "effet_en": "The consequences of this case could also affect technology companies that work with the media.",
+            "effet_zh": "这一事件的后果也可能影响与媒体合作的科技公司。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-12T19:58:02.079775"
+      },
       {
         "id": "usa_310970",
         "titre": "Attentat contre la Maison Blanche",
@@ -1835,65 +1894,6 @@
           }
         ],
         "created_at": "2026-07-09T19:15:29.787641"
-      },
-      {
-        "id": "usa_354661",
-        "titre": "Rallye Bitcoin",
-        "titre_en": "Bitcoin Rally",
-        "titre_zh": "比特币激增",
-        "titre_ru": "Ралли биткоина",
-        "titre_fa": "رالی بیت کوین",
-        "titre_ar": "انطلاقة بيتكوين",
-        "titre_original": "Bitcoin’s rally has 4 weeks to get its Washington CLARITY catalyst before the clock runs out",
-        "resume": "Le Sénat américain doit décider sur le CLARITY Act. Le marché du crypto monnaie est impacté. La décision doit être prise rapidement.",
-        "resume_en": "The US Senate must decide on the CLARITY Act. The cryptocurrency market is impacted. The decision must be made quickly.",
-        "resume_zh": "美国参议院必须决定CLARITY法案。加密货币市场受到影响。决定必须迅速做出。",
-        "resume_ru": "Американский сенат должен решить вопрос о законе CLARITY. Рынок криптовалют пострадал. Решение должно быть принято быстро.",
-        "resume_fa": "سنا ایالات متحده باید در مورد قانون CLARITY تصمیم بگیرد. بازار رمز ارز تحت تأثیر قرار گرفته است. تصمیم باید به سرعت گرفته شود.",
-        "resume_ar": "يجب على مجلس الشيوخ الأمريكي أن يقرر بشأن قانون CLARITY. سوق العملات المشفرة متأثر. يجب اتخاذ القرار بسرعة.",
-        "analyse_detaillee": "Le contexte historique est celui de la régulation des crypto monnaies. Les enjeux principaux sont la sécurité et la transparence. Les conséquences à court terme sont une volatilité accrue. Les perspectives à long terme sont une adoption plus large. Les acteurs clés sont les régulateurs et les investisseurs.",
-        "analyse_en": "The historical context is that of cryptocurrency regulation. The main stakes are security and transparency. The short-term consequences are increased volatility. The long-term prospects are wider adoption. The key actors are regulators and investors.",
-        "analyse_zh": "历史背景是加密货币的监管。主要问题是安全性和透明度。短期后果是波动性增加。长期前景是更广泛的采用。关键角色是监管机构和投资者。",
-        "analyse_ru": "Исторический контекст - это регулирование криптовалют. Основные проблемы - безопасность и прозрачность. Краткосрочные последствия - повышенная волатильность. Долгосрочные перспективы - более широкое внедрение. Ключевые игроки - регулирующие органы и инвесторы.",
-        "analyse_fa": "زمینه تاریخی، مقررات رمز ارزها است. مسائل اصلی، امنیت و شفافیت هستند. پیامدهای کوتاه‌مدت، افزایش نوسانات است. چشم‌اندازهای بلندمدت، پذیرش گسترده‌تر است. بازیگران کلیدی، تنظیم‌کنندگان و سرمایه‌گذاران هستند.",
-        "analyse_ar": "السياق التاريخي هو تنظيم العملات المشفرة. القضايا الرئيسية هي الأمان والشفافية. العواقب قصيرة المدى هي زيادة التقلبات. الآفاق طويلة المدى هي تبني أوسع. الأطراف الرئيسية هي المنظمون والمستثمرون.",
-        "categorie": "Géopolitique",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/bitcoins-rally-has-four-weeks-to-get-its-washington-clarity-catalyst-before-the-clock-runs-out/",
-        "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-clarity-act-senate-deadline-countdown.jpg",
-        "date": "2026-07-08",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché des crypto monnaies",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des actions",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des crypto monnaies",
-            "secteur_en": "Cryptocurrency market",
-            "secteur_zh": "加密货币市场",
-            "effet_fr": "La volatilité du marché des crypto monnaies est accrue en raison de l'incertitude réglementaire.",
-            "effet_en": "The volatility of the cryptocurrency market is increased due to regulatory uncertainty.",
-            "effet_zh": "由于监管不确定性，加密货币市场的波动性增加了。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des actions",
-            "secteur_en": "Stock market",
-            "secteur_zh": "股票市场",
-            "effet_fr": "Le marché des actions est également impacté par l'incertitude économique globale.",
-            "effet_en": "The stock market is also affected by global economic uncertainty.",
-            "effet_zh": "股票市场也受到全球经济不确定性的影响。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-07-09T17:09:21.263728"
       }
     ],
     "chine": [
