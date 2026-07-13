@@ -1,5 +1,5 @@
 {
-  "last_updated": "13/07/2026 à 18h23",
+  "last_updated": "13/07/2026 à 20h03",
   "articles": {
     "monde": [
       {
@@ -715,6 +715,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_322737",
+        "titre": "Décès de Graham",
+        "titre_en": "Graham's death",
+        "titre_zh": "格雷厄姆去世",
+        "titre_ru": "Смерть Грэма",
+        "titre_fa": "مرگ گراهام",
+        "titre_ar": "وفاة غراهام",
+        "titre_original": "Graham's death scrambles troves of policy in Washington",
+        "resume": "Le sénateur républicain Lindsey Graham est décédé à l'âge de 71 ans. Sa mort a des implications pour la politique américaine. Les répercussions de son décès seront importantes.",
+        "resume_en": "Republican Senator Lindsey Graham died at the age of 71. His death has implications for American politics. The repercussions of his death will be significant. Graham was a key figure in Washington.",
+        "resume_zh": "共和党参议员林赛·格雷厄姆在71岁时去世。他的死对美国政治有影响。他的死将产生重大影响。格雷厄姆是华盛顿的一位重要人物。他在参议院发挥了重要作用。",
+        "resume_ru": "Республиканский сенатор Линдси Грэм умер в возрасте 71 года. Его смерть имеет последствия для американской политики. Последствия его смерти будут значительными. Грэм был ключевой фигурой в Вашингтоне.",
+        "resume_fa": "سناتور جمهوری‌خواه لیندسی گراهام در سن ۷۱ سالگی درگذشت. مرگ او پیامدهای سیاسی مهمی برای آمریکا دارد. گراهام یک چهره کلیدی در واشنگتن بود.",
+        "resume_ar": "توفي السناتور الجمهوري لندسي غراهام عن عمر يناهز 71 عاما. موته له آثار على السياسة الأمريكية. ستكون عواقب وفاته كبيرة. كان غراهام شخصية مهمة في واشنطن.",
+        "analyse_detaillee": "Le contexte historique de la mort de Graham est marqué par une période de grande instabilité politique aux États-Unis. Les enjeux principaux sont la réorganisation du pouvoir au Sénat et les conséquences à court terme seront une période de transition. Les perspectives à long terme sont incertaines, mais la position des acteurs politiques sera cruciale. Le rôle de Graham dans les débats sur les politiques américaines sera difficile à remplacer. Les répercussions de son décès seront ressenties dans les mois à venir.",
+        "analyse_en": "The historical context of Graham's death is marked by a period of great political instability in the United States. The main stakes are the reorganization of power in the Senate and the short-term consequences will be a transition period. The long-term prospects are uncertain, but the position of political actors will be crucial. Graham's role in debates on American policies will be difficult to replace. The repercussions of his death will be felt in the months to come.",
+        "analyse_zh": "格雷厄姆去世的历史背景是美国政治大动荡时期。主要问题是参议院权力的重组，短期后果将是一段过渡期。长期前景不确定，但政治人物的立场将至关重要。格雷厄姆在美国政策辩论中的作用将难以取代。他的死将在未来几个月内产生影响。",
+        "analyse_ru": "Исторический контекст смерти Грэма отмечен периодом великой политической нестабильности в США. Основные проблемы - это реорганизация власти в Сенате, и краткосрочные последствия будут переходным периодом. Долгосрочные перспективы неопределенны, но позиция политических деятелей будет иметь решающее значение. Роль Грэма в дебатах об американской политике будет трудно заменить. Последствия его смерти будут ощущаться в ближайшие месяцы.",
+        "analyse_fa": "زمینه تاریخی مرگ گراهام با یک دوره ناپایداری سیاسی بزرگ در ایالات متحده مشخص می‌شود. مسائل اصلی، بازسازی قدرت در سنای آمریکا و پیامدهای کوتاه‌مدت، یک دوره انتقالی خواهد بود. چشم‌اندازهای بلندمدت نامعلوم است، اما موضع بازیگران سیاسی مهم خواهد بود. نقش گراهام در بحث‌های سیاست‌های آمریکا difícil به جایگزینی خواهد بود. پیامدهای مرگ او در ماه‌های آینده احساس خواهد شد.",
+        "analyse_ar": "السياق التاريخي لموت غراهام يتميز بفترة من عدم استقرار سياسي كبير في الولايات المتحدة. القضايا الرئيسية هي إعادة تنظيم السلطة في مجلس الشيوخ، وستكون العواقب قصيرة المدى فترة انتقالية. الآفاق طويلة المدى غير مؤكدة، ولكن مواقف الأطراف السياسية سوف تكون حاسمة. دور غراهام في مناقشات السياسات الأمريكية سوف يكون صعبا للاستبدال. ستكون عواقب وفاته محسوسة في الأشهر القادمة.",
+        "categorie": "Géopolitique",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108109333-1740772792027-gettyimages-2202545915-_s012358_mzbofdyu.jpeg?v=1740772819&w=1920&h=1080",
+        "date": "2026-07-12",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ marché boursier américain",
+            "hausse": false
+          },
+          {
+            "label": "▲ marché obligataire",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché boursier américain",
+            "secteur_en": "US stock market",
+            "secteur_zh": "美国股市",
+            "effet_fr": "La mort de Graham pourrait entraîner une instabilité sur le marché boursier américain.",
+            "effet_en": "Graham's death could lead to instability in the US stock market.",
+            "effet_zh": "格雷厄姆的死可能会导致美国股市的不稳定。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "marché obligataire",
+            "secteur_en": "bond market",
+            "secteur_zh": "债券市场",
+            "effet_fr": "Les conséquences de la mort de Graham pourraient également affecter le marché obligataire.",
+            "effet_en": "The consequences of Graham's death could also affect the bond market.",
+            "effet_zh": "格雷厄姆的死可能也会影响债券市场。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-13T20:03:56.979501"
+      },
       {
         "id": "usa_173341",
         "titre": "Décès de Lindsey Graham",
@@ -1835,65 +1894,6 @@
           }
         ],
         "created_at": "2026-07-10T11:38:40.774374"
-      },
-      {
-        "id": "usa_887933",
-        "titre": "Trump attaqué",
-        "titre_en": "Trump Sued",
-        "titre_zh": "特朗普被起诉",
-        "titre_ru": "Трампа подали в суд",
-        "titre_fa": "ترامپ تحت حمله قرار گرفت",
-        "titre_ar": "ترامب تحت الهجوم",
-        "titre_original": "Show the Numbers: Conservative Watchdog Sues Trump’s DHS For Concrete Deportation Count",
-        "resume": "Un groupe de surveillance conservateur a attaqué le département de la sécurité intérieure de Trump. Le groupe demande des données sur le nombre réel de déportations d'immigrants illégaux. Les données sont nécessaires pour évaluer la politique migratoire.",
-        "resume_en": "A conservative watchdog group has sued Trump's Department of Homeland Security. The group is seeking data on the actual number of deportations of illegal immigrants. The data is needed to assess the migration policy.",
-        "resume_zh": "一个保守的监察组织起诉了特朗普的国土安全部。该组织要求提供有关非法移民实际被驱逐出境的数量的数据。这些数据是为了评估移民政策而需要的。",
-        "resume_ru": "Консервативная группа наблюдения подала в суд на департамент внутренней безопасности Трампа. Группа требует данных о фактическом количестве депортации нелегальных иммигрантов. Эти данные необходимы для оценки миграционной политики.",
-        "resume_fa": "یک گروه نظارتی محافظه کار از وزارت امنیت داخلی ترامپ شکایت کرده است. این گروه در جستجوی داده های مربوط به تعداد واقعی اخراج مهاجران غیرقانونی است. این داده ها برای ارزیابی سیاست مهاجرت مورد نیاز است.",
-        "resume_ar": "مجموعة مراقبة محافظة تقدمت بالشكوى ضد إدارة الأمن الداخلي لترامب. المجموعة تطلب البيانات حول عدد الحالات الفعلية لترحيل المهاجرين غير الشرعيين. هذه البيانات ضرورية لتقييم سياسة الهجرة.",
-        "analyse_detaillee": "Le contexte historique de cette affaire est lié à la politique migratoire de Trump. Les enjeux principaux sont la transparence et la responsabilité du gouvernement. Les conséquences à court terme seront une augmentation de la pression sur le gouvernement. Les perspectives à long terme sont incertaines. Les acteurs clés sont le gouvernement et les groupes de surveillance.",
-        "analyse_en": "The historical context of this case is related to Trump's migration policy. The main stakes are transparency and government accountability. The short-term consequences will be an increase in pressure on the government. The long-term prospects are uncertain. The key actors are the government and watchdog groups.",
-        "analyse_zh": "这一事件的历史背景与特朗普的移民政策有关。主要问题是透明度和政府的责任感。短期后果将是政府面临的压力增加。长期前景尚不确定。主要参与者是政府和监察组织。",
-        "analyse_ru": "Исторический контекст этого дела связан с миграционной политикой Трампа. Основные проблемы - прозрачность и ответственность правительства. Краткосрочные последствия будут увеличением давления на правительство. Долгосрочные перспективы неопределенны. Основными участниками являются правительство и группы наблюдения.",
-        "analyse_fa": "زمینه تاریخی این پرونده به سیاست مهاجرت ترامپ مربوط می شود. مسائل اصلی شفافیت و مسئولیت پذیری دولت است. پیامدهای کوتاه مدت افزایش فشار بر دولت خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران اصلی دولت و گروه های نظارتی هستند.",
-        "analyse_ar": "السياق التاريخي لهذه القضية يرتبط بسياسة الهجرة لترامب. القضايا الرئيسية هي الشفافية ومسؤولية الحكومة. العواقب قصيرة المدى ستكون زيادة الضغط على الحكومة. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الحكومة ومجموعات المراقبة.",
-        "categorie": "Géopolitique",
-        "source": "Daily Signal",
-        "url": "https://www.dailysignal.com/2026/07/08/watchdog-sues-dhs-deportation-count/",
-        "image": "https://static.dailysignalmedia.org/OP-DHS-Litigation-1024x576.jpg",
-        "date": "2026-07-08",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché financier américain",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché des changes",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché financier américain",
-            "secteur_en": "US financial market",
-            "secteur_zh": "美国金融市场",
-            "effet_fr": "L'impact sur le marché financier américain sera négatif en raison de l'incertitude politique.",
-            "effet_en": "The impact on the US financial market will be negative due to political uncertainty.",
-            "effet_zh": "由于政治不确定性，美国金融市场将受到负面影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des changes",
-            "secteur_en": "Forex market",
-            "secteur_zh": "外汇市场",
-            "effet_fr": "Le marché des changes sera également affecté par les fluctuations du dollar américain.",
-            "effet_en": "The forex market will also be affected by fluctuations in the US dollar.",
-            "effet_zh": "外汇市场也将受到美元波动的影响。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-10T04:41:10.910456"
       }
     ],
     "chine": [
