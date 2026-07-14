@@ -77,7 +77,7 @@ def groq_call(prompt):
                     "model": model,
                     "messages": [{"role": "user", "content": prompt}],
                     "temperature": 0.1,
-                    "max_tokens": 4000
+                    "max_tokens": 16000
                 },
                 timeout=60
             )
@@ -123,12 +123,12 @@ Return exactly {len(lines)} objects in this JSON array:
     "resume_ru": "Резюме 3 полных предложения на русском языке.",
     "resume_fa": "خلاصه 3 جمله کامل به فارسی.",
     "resume_ar": "ملخص 3 جمل كاملة باللغة العربية.",
-    "analyse_fr": "Analyse 5 phrases en français: contexte historique, enjeux principaux, conséquences à court terme, perspectives à long terme, position des acteurs.",
-    "analyse_en": "Analysis 5 sentences in English: historical context, main stakes, short-term consequences, long-term prospects, position of actors.",
-    "analyse_zh": "5句中文分析：历史背景、主要影响、短期后果、长期前景、各方立场。",
-    "analyse_ru": "Анализ 5 предложений на русском: исторический контекст, основные проблемы, краткосрочные последствия, долгосрочные перспективы, позиции сторон.",
-    "analyse_fa": "تحلیل 5 جمله به فارسی: زمینه تاریخی، مسائل اصلی، پیامدهای کوتاه‌مدت، چشم‌اندازهای بلندمدت، موضع بازیگران.",
-    "analyse_ar": "تحليل 5 جمل بالعربية: السياق التاريخي، القضايا الرئيسية، العواقب قصيرة المدى، الآفاق طويلة المدى، مواقف الأطراف.",
+    "analyse_fr": "Analyse 7 phrases en français: contexte historique, enjeux principaux, causes profondes, conséquences à court terme, conséquences à moyen terme, perspectives à long terme, position des acteurs.",
+    "analyse_en": "Analysis 7 sentences in English: historical context, main stakes, root causes, short-term consequences, medium-term consequences, long-term prospects, position of actors.",
+    "analyse_zh": "7句中文分析：历史背景、主要影响、深层原因、短期后果、中期后果、长期前景、各方立场。",
+    "analyse_ru": "Анализ 7 предложений на русском: исторический контекст, основные проблемы, глубинные причины, краткосрочные последствия, среднесрочные последствия, долгосрочные перспективы, позиции сторон.",
+    "analyse_fa": "تحلیل 7 جمله به فارسی: زمینه تاریخی، مسائل اصلی، علل ریشه‌ای، پیامدهای کوتاه‌مدت، پیامدهای میان‌مدت، چشم‌اندازهای بلندمدت، موضع بازیگران.",
+    "analyse_ar": "تحليل 7 جمل بالعربية: السياق التاريخي، القضايا الرئيسية، الأسباب الجذرية، العواقب قصيرة المدى، العواقب متوسطة المدى، الآفاق طويلة المدى، مواقف الأطراف.",
     "categorie": "Géopolitique",
     "s1_fr": "nom précis secteur financier impacté",
     "s1_en": "precise name of impacted financial sector",
