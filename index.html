@@ -111,6 +111,7 @@ nav{display:flex;align-items:center;justify-content:space-between;padding:0.8rem
 .bcard:last-child{border-bottom:none}
 .bcard:hover{background:var(--bg3)}
 .bcard-ph{width:100%;height:60px;background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:20px}
+.bcard-img{width:100%;height:120px;object-fit:cover;display:block}
 .bcard-inner{padding:0.8rem 1rem;display:flex;gap:10px;align-items:flex-start}
 .bacc2{width:2px;min-height:30px;flex-shrink:0;margin-top:3px}
 .bc-body{flex:1}
@@ -184,8 +185,7 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
   <div class="nav-links">
     <button class="nav-btn on" id="nb-home" onclick="showSec('home')" data-i18n="nav-home">Accueil</button>
     <button class="nav-btn" id="nb-actu" onclick="showSec('actu')" data-i18n="nav-actu">Actualité</button>
-    <button class="nav-btn" id="nb-jur" onclick="showSec('jur')" data-i18n="nav-jur">Juridique</button>
-    <button class="nav-btn" id="nb-hist" onclick="showSec('hist')" data-i18n="nav-hist">Histoire</button>
+    <button class="nav-btn" id="nb-pol" onclick="showSec('pol')" data-i18n="nav-pol">Politique</button>
   </div>
   <div class="nav-right">
     <div class="lang-sw">
@@ -225,15 +225,10 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
         <div class="hcard-title" data-i18n="nav-actu">Actualité & marchés</div>
         <div class="hcard-desc" data-i18n="desc-actu">Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.</div>
       </div>
-      <div class="hcard" onclick="showSec('jur')">
+      <div class="hcard" onclick="showSec('pol')">
         <div class="hcard-accent" style="background:var(--jur)"></div>
-        <div class="hcard-title" data-i18n="nav-jur">Juridique</div>
-        <div class="hcard-desc" data-i18n="desc-jur">Droit français et international — lois, jurisprudences, réglementations expliquées.</div>
-      </div>
-      <div class="hcard" onclick="showSec('hist')">
-        <div class="hcard-accent" style="background:var(--hist)"></div>
-        <div class="hcard-title" data-i18n="nav-hist">Histoire</div>
-        <div class="hcard-desc" data-i18n="desc-hist">France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.</div>
+        <div class="hcard-title" data-i18n="nav-pol">Politique</div>
+        <div class="hcard-desc" data-i18n="desc-pol">France — protection des femmes, des enfants et de l'environnement : ce dont on ne parle pas assez.</div>
       </div>
     </div>
     <div class="divider"></div>
@@ -265,53 +260,33 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
   </div>
 </div>
 
-<!-- JURIDIQUE -->
-<div id="s-jur" style="display:none">
+<!-- POLITIQUE -->
+<div id="s-pol" style="display:none">
   <div class="wrap">
-    <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--jur)"></div><h2 style="color:var(--jur-c)" data-i18n="nav-jur">Juridique</h2></div></div>
+    <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--jur)"></div><h2 style="color:var(--jur-c)" data-i18n="nav-pol">Politique</h2></div></div>
+    <div class="disclaimer"><span>ⓘ</span><span data-i18n="pol-intro">Ce que les responsables politiques abordent peu : la protection des femmes, des enfants, et l'environnement en France.</span></div>
     <div class="two">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="t-france">France</span></div>
-        <div class="bcard" onclick="openS('jf1')"><div class="bcard-ph">⚖️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf1-title">Réforme des retraites : le Conseil d'État rejette le recours des syndicats</div><div class="bc-foot"><span class="bc-date" data-i18n="jf1-date">Droit du travail · 23 mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('jf2')"><div class="bcard-ph">⚖️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf2-title">Féminicide : peine plancher de 25 ans adoptée en commission des lois</div><div class="bc-foot"><span class="bc-date" data-i18n="jf2-date">Droit pénal · 19 mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('jf3')"><div class="bcard-ph">📋</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf3-title">Loi immigration 2024 : bilan un an après l'entrée en vigueur</div><div class="bc-foot"><span class="bc-date" data-i18n="jf3-date">Droit des étrangers · Mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('jf4')"><div class="bcard-ph">🏛️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="jf4-title">Droit à l'avortement inscrit dans la Constitution : un an après</div><div class="bc-foot"><span class="bc-date" data-i18n="jf4-date">Droits fondamentaux · Avril 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="pol-cat-femmes">Protection des femmes</span></div>
+        <div class="bcard" onclick="openS('pf1')"><img class="bcard-img" src="https://loremflickr.com/600/300/domesticabuse,shadow,silhouette" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>🛡️</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="pf1-title">Violences conjugales : les failles persistantes du dispositif de protection</div><div class="bc-foot"><span class="bc-date" data-i18n="pf1-date">Société · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('pf2')"><img class="bcard-img" src="https://loremflickr.com/600/300/hospital,waitingroom,doctor" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>🏥</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="pf2-title">Déserts médicaux gynécologiques : l'accès aux soins des femmes en péril</div><div class="bc-foot"><span class="bc-date" data-i18n="pf2-date">Santé · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="t-intl">International</span></div>
-        <div class="bcard" onclick="openS('ji1')"><div class="bcard-ph">💻</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji1-title">DSA européen : en vigueur pour toutes les plateformes — ce qui change</div><div class="bc-foot"><span class="bc-date" data-i18n="ji1-date">Droit numérique · UE · 21 mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('ji2')"><div class="bcard-ph">🌍</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji2-title">CPI : mandat d'arrêt contre Poutine — où en est l'exécution internationale ?</div><div class="bc-foot"><span class="bc-date" data-i18n="ji2-date">Droit international · Mai 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('ji3')"><div class="bcard-ph">🚢</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji3-title">Mer de Chine méridionale : que dit le droit international ?</div><div class="bc-foot"><span class="bc-date" data-i18n="ji3-date">DIH · Asie · Avril 2026</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('ji4')"><div class="bcard-ph">🤖</div><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="ji4-title">AI Act européen : obligations concrètes pour les entreprises</div><div class="bc-foot"><span class="bc-date" data-i18n="ji4-date">Droit technologique · UE</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--jur)"></div><span class="btitle" style="color:var(--jur-c)" data-i18n="pol-cat-enfants">Protection des enfants</span></div>
+        <div class="bcard" onclick="openS('pe1')"><img class="bcard-img" src="https://loremflickr.com/600/300/child,hand,family" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>👶</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="pe1-title">Aide sociale à l'enfance : un système à bout de souffle</div><div class="bc-foot"><span class="bc-date" data-i18n="pe1-date">Société · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('pe2')"><img class="bcard-img" src="https://loremflickr.com/600/300/smartphone,child,screen" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>📱</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--jur)"></div><div class="bc-body"><div class="bc-title" data-i18n="pe2-title">Écrans et santé mentale des mineurs : le retard des pouvoirs publics</div><div class="bc-foot"><span class="bc-date" data-i18n="pe2-date">Santé publique · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
     </div>
-  </div>
-</div>
-
-<!-- HISTOIRE -->
-<div id="s-hist" style="display:none">
-  <div class="wrap">
-    <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--hist)"></div><h2 style="color:var(--hist-c)" data-i18n="nav-hist">Histoire</h2></div></div>
-    <div class="htabs">
-      <button class="htab on" onclick="switchH(this,'fr')" data-i18n="htab-fr">France & Europe · 1789–1914</button>
-      <button class="htab" onclick="switchH(this,'us')" data-i18n="htab-us">États-Unis · 1776–1917</button>
-    </div>
-    <div id="hfr">
+    <div class="divider"></div>
+    <div class="two">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)" data-i18n="htab-fr">France & Europe · 1789–1914</span></div>
-        <div class="bcard" onclick="openS('hf1')"><div class="bcard-ph">🏰</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf1-title">La Révolution française (1789–1799) — causes, phases et héritage</div><div class="bc-foot"><span class="bc-date" data-i18n="hf1-date">France · 1789</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('hf2')"><div class="bcard-ph">👑</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf2-title">Napoléon Bonaparte : de consul à empereur — l'Europe recomposée</div><div class="bc-foot"><span class="bc-date" data-i18n="hf2-date">France · Europe · 1799–1815</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('hf3')"><div class="bcard-ph">🔴</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf3-title">La Commune de Paris (1871) — 72 jours qui ont changé l'histoire</div><div class="bc-foot"><span class="bc-date" data-i18n="hf3-date">France · 1871</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('hf4')"><div class="bcard-ph">📜</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hf4-title">L'Affaire Dreyfus (1894–1906) — la vérité contre la raison d'État</div><div class="bc-foot"><span class="bc-date" data-i18n="hf4-date">France · 1894–1906</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)" data-i18n="pol-cat-env">Environnement</span></div>
+        <div class="bcard" onclick="openS('pv1')"><img class="bcard-img" src="https://loremflickr.com/600/300/tapwater,faucet,water" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>💧</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="pv1-title">Pollution de l'eau aux pesticides : des millions de Français exposés</div><div class="bc-foot"><span class="bc-date" data-i18n="pv1-date">Environnement · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bcard" onclick="openS('pv2')"><img class="bcard-img" src="https://loremflickr.com/600/300/construction,field,aerial" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>🌳</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="pv2-title">Artificialisation des sols : l'objectif ZAN loin d'être respecté</div><div class="bc-foot"><span class="bc-date" data-i18n="pv2-date">Environnement · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
-    </div>
-    <div id="hus" style="display:none">
       <div class="block">
-        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)" data-i18n="htab-us">États-Unis · 1776–1917</span></div>
-        <div class="bcard" onclick="openS('hu1')"><div class="bcard-ph">🦅</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu1-title">La Déclaration d'Indépendance (1776) — naissance d'une nation</div><div class="bc-foot"><span class="bc-date" data-i18n="hu1-date">États-Unis · 1776</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('hu2')"><div class="bcard-ph">⚔️</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu2-title">La Guerre de Sécession (1861–1865) — esclavage, union et reconstruction</div><div class="bc-foot"><span class="bc-date" data-i18n="hu2-date">États-Unis · 1861–1865</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('hu3')"><div class="bcard-ph">🌄</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu3-title">L'expansion vers l'Ouest (1803–1890) — conquête, génocide et mythe</div><div class="bc-foot"><span class="bc-date" data-i18n="hu3-date">États-Unis · XIXe siècle</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
-        <div class="bcard" onclick="openS('hu4')"><div class="bcard-ph">🪖</div><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="hu4-title">L'entrée des États-Unis dans la Première Guerre mondiale (1917)</div><div class="bc-foot"><span class="bc-date" data-i18n="hu4-date">États-Unis · 1917</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
+        <div class="bhead"><div class="bacc" style="background:var(--hist)"></div><span class="btitle" style="color:var(--hist-c)" data-i18n="pol-cat-env2">Environnement · suite</span></div>
+        <div class="bcard" onclick="openS('pv3')"><img class="bcard-img" src="https://loremflickr.com/600/300/factory,industrial,smokestack" alt="" loading="lazy" onerror="this.outerHTML='<div class=bcard-ph>🏭</div>'"><div class="bcard-inner"><div class="bacc2" style="background:var(--hist)"></div><div class="bc-body"><div class="bc-title" data-i18n="pv3-title">Polluants éternels (PFAS) : des sites industriels sous surveillance insuffisante</div><div class="bc-foot"><span class="bc-date" data-i18n="pv3-date">Environnement · France</span><span class="bc-cta" data-i18n="lire">Lire</span></div></div></div></div>
       </div>
     </div>
   </div>
@@ -331,14 +306,22 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
 // ===== TRADUCTIONS COMPLÈTES =====
 const T = {
 fr:{
-  "nav-home":"Accueil","nav-actu":"Actualité & marchés","nav-jur":"Juridique","nav-hist":"Histoire",
+  "nav-home":"Accueil","nav-actu":"Actualité & marchés","nav-pol":"Politique",
   "eyebrow":"Anti-désinformation · Éducation · Analyse",
   "hero-title":"L'information <em>vérifiée</em>,<br>analysée pour vous.",
   "hero-sub":"Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.",
   "alaune":"À la une","stat-art":"Articles d'actu","stat-pays":"Pays couverts","stat-freq":"Mise à jour",
   "desc-actu":"Monde, France, USA, Chine, Russie, Iran — avec l'impact potentiel sur les marchés.",
-  "desc-jur":"Droit français et international — lois, jurisprudences, réglementations expliquées.",
-  "desc-hist":"France & Europe 1789–1914, États-Unis 1776–1917 — articles de fond.",
+  "desc-pol":"France — protection des femmes, des enfants et de l'environnement : ce dont on ne parle pas assez.",
+  "pol-intro":"Ce que les responsables politiques abordent peu : la protection des femmes, des enfants, et l'environnement en France.",
+  "pol-cat-femmes":"Protection des femmes","pol-cat-enfants":"Protection des enfants","pol-cat-env":"Environnement","pol-cat-env2":"Environnement · suite",
+  "pf1-title":"Violences conjugales : les failles persistantes du dispositif de protection","pf1-date":"Société · France",
+  "pf2-title":"Déserts médicaux gynécologiques : l'accès aux soins des femmes en péril","pf2-date":"Santé · France",
+  "pe1-title":"Aide sociale à l'enfance : un système à bout de souffle","pe1-date":"Société · France",
+  "pe2-title":"Écrans et santé mentale des mineurs : le retard des pouvoirs publics","pe2-date":"Santé publique · France",
+  "pv1-title":"Pollution de l'eau aux pesticides : des millions de Français exposés","pv1-date":"Environnement · France",
+  "pv2-title":"Artificialisation des sols : l'objectif ZAN loin d'être respecté","pv2-date":"Environnement · France",
+  "pv3-title":"Polluants éternels (PFAS) : des sites industriels sous surveillance insuffisante","pv3-date":"Environnement · France",
   "disclaimer":"Les informations sur l'impact des marchés sont fournies à titre informatif uniquement. Elles indiquent des tendances susceptibles d'impacter les marchés — ce n'est pas un conseil en investissement.",
   "t-monde":"Monde","t-france":"France","t-chine":"Chine","t-russie":"Russie","t-intl":"International",
   "htab-fr":"France & Europe · 1789–1914","htab-us":"États-Unis · 1776–1917",
@@ -365,14 +348,22 @@ fr:{
   "hu4-title":"L'entrée des États-Unis dans la Première Guerre mondiale (1917)","hu4-date":"États-Unis · 1917"
 },
 en:{
-  "nav-home":"Home","nav-actu":"News & markets","nav-jur":"Law","nav-hist":"History",
+  "nav-home":"Home","nav-actu":"News & markets","nav-pol":"Politics",
   "eyebrow":"Anti-disinformation · Education · Analysis",
   "hero-title":"<em>Verified</em> information,<br>analyzed for you.",
   "hero-sub":"News & markets, French and international law, history — summarized, sourced, updated every hour.",
   "alaune":"Top stories","stat-art":"News articles","stat-pays":"Countries covered","stat-freq":"Update freq.",
   "desc-actu":"World, France, USA, China, Russia, Iran — with potential market impact.",
-  "desc-jur":"French and international law — legislation, case law, regulations explained.",
-  "desc-hist":"France & Europe 1789–1914, United States 1776–1917 — in-depth articles.",
+  "desc-pol":"France — protection of women, children and the environment: what doesn't get enough attention.",
+  "pol-intro":"What politicians rarely discuss: protecting women, children, and the environment in France.",
+  "pol-cat-femmes":"Protection of women","pol-cat-enfants":"Protection of children","pol-cat-env":"Environment","pol-cat-env2":"Environment · continued",
+  "pf1-title":"Domestic violence: persistent gaps in the protection system","pf1-date":"Society · France",
+  "pf2-title":"Gynecological medical deserts: women's access to care at risk","pf2-date":"Health · France",
+  "pe1-title":"Child welfare services: a system at breaking point","pe1-date":"Society · France",
+  "pe2-title":"Screens and minors' mental health: public authorities lagging behind","pe2-date":"Public health · France",
+  "pv1-title":"Pesticide water pollution: millions of French people exposed","pv1-date":"Environment · France",
+  "pv2-title":"Land artificialization: the ZAN target far from being met","pv2-date":"Environment · France",
+  "pv3-title":"Forever chemicals (PFAS): industrial sites under insufficient monitoring","pv3-date":"Environment · France",
   "disclaimer":"Market impact information is for informational purposes only. It indicates trends that may affect markets — this is not investment advice.",
   "t-monde":"World","t-france":"France","t-chine":"China","t-russie":"Russia","t-intl":"International",
   "htab-fr":"France & Europe · 1789–1914","htab-us":"United States · 1776–1917",
@@ -399,7 +390,17 @@ en:{
   "hu4-title":"The United States enters World War I (1917)","hu4-date":"United States · 1917"
 },
 ru:{
-  "nav-home":"Главная","nav-actu":"Новости и рынки","nav-jur":"Право","nav-hist":"История",
+  "nav-home":"Главная","nav-actu":"Новости и рынки","nav-pol":"Политика",
+  "desc-pol":"Франция — защита женщин, детей и окружающей среды: то, о чём говорят недостаточно.",
+  "pol-intro":"О чём редко говорят политики: защита женщин, детей и окружающей среды во Франции.",
+  "pol-cat-femmes":"Защита женщин","pol-cat-enfants":"Защита детей","pol-cat-env":"Окружающая среда","pol-cat-env2":"Окружающая среда · продолжение",
+  "pf1-title":"Домашнее насилие: устойчивые пробелы в системе защиты","pf1-date":"Общество · Франция",
+  "pf2-title":"Гинекологические медицинские пустыни: доступ женщин к медицинской помощи под угрозой","pf2-date":"Здоровье · Франция",
+  "pe1-title":"Служба защиты детей: система на грани срыва","pe1-date":"Общество · Франция",
+  "pe2-title":"Экраны и психическое здоровье несовершеннолетних: отставание государственных органов","pe2-date":"Общественное здоровье · Франция",
+  "pv1-title":"Загрязнение воды пестицидами: миллионы французов подвержены риску","pv1-date":"Окружающая среда · Франция",
+  "pv2-title":"Урбанизация земель: цель ZAN далека от достижения","pv2-date":"Окружающая среда · Франция",
+  "pv3-title":"Вечные загрязнители (ПФАС): промышленные объекты под недостаточным контролем","pv3-date":"Окружающая среда · Франция",
   "eyebrow":"Борьба с дезинформацией · Образование · Анализ",
   "hero-title":"<em>Проверенная</em> информация,<br>проанализированная для вас.",
   "hero-sub":"Новости и рынки, французское и международное право, история — резюмировано, с источниками, обновляется каждый час.",
@@ -433,7 +434,17 @@ ru:{
   "hu4-title":"Вступление США в Первую мировую войну (1917)","hu4-date":"США · 1917"
 },
 fa:{
-  "nav-home":"خانه","nav-actu":"اخبار و بازارها","nav-jur":"حقوق","nav-hist":"تاریخ",
+  "nav-home":"خانه","nav-actu":"اخبار و بازارها","nav-pol":"سیاست",
+  "desc-pol":"فرانسه — حمایت از زنان، کودکان و محیط زیست: آنچه توجه کافی دریافت نمی‌کند.",
+  "pol-intro":"آنچه سیاستمداران به ندرت درباره آن صحبت می‌کنند: حمایت از زنان، کودکان و محیط زیست در فرانسه.",
+  "pol-cat-femmes":"حمایت از زنان","pol-cat-enfants":"حمایت از کودکان","pol-cat-env":"محیط زیست","pol-cat-env2":"محیط زیست · ادامه",
+  "pf1-title":"خشونت خانگی: شکاف‌های مداوم در سیستم حمایتی","pf1-date":"جامعه · فرانسه",
+  "pf2-title":"کویرهای پزشکی زنان: دسترسی زنان به مراقبت در خطر","pf2-date":"سلامت · فرانسه",
+  "pe1-title":"خدمات رفاه کودک: سیستمی در آستانه فروپاشی","pe1-date":"جامعه · فرانسه",
+  "pe2-title":"صفحه‌نمایش‌ها و سلامت روان نوجوانان: عقب‌ماندگی مقامات دولتی","pe2-date":"بهداشت عمومی · فرانسه",
+  "pv1-title":"آلودگی آب با آفت‌کش‌ها: میلیون‌ها فرانسوی در معرض خطر","pv1-date":"محیط زیست · فرانسه",
+  "pv2-title":"مصنوعی‌سازی زمین: هدف ZAN دور از دسترس","pv2-date":"محیط زیست · فرانسه",
+  "pv3-title":"آلاینده‌های ابدی (PFAS): سایت‌های صنعتی با نظارت ناکافی","pv3-date":"محیط زیست · فرانسه",
   "eyebrow":"مبارزه با اطلاعات غلط · آموزش · تحلیل",
   "hero-title":"اطلاعات <em>تأیید شده</em>،<br>تحلیل شده برای شما.",
   "hero-sub":"اخبار و بازارها، حقوق فرانسه و بین‌الملل، تاریخ — خلاصه شده، منبع‌دار، به‌روز هر ساعت.",
@@ -467,7 +478,17 @@ fa:{
   "hu4-title":"ورود ایالات متحده به جنگ جهانی اول (1917)","hu4-date":"ایالات متحده · 1917"
 },
 ar:{
-  "nav-home":"الرئيسية","nav-actu":"الأخبار والأسواق","nav-jur":"القانون","nav-hist":"التاريخ",
+  "nav-home":"الرئيسية","nav-actu":"الأخبار والأسواق","nav-pol":"السياسة",
+  "desc-pol":"فرنسا — حماية النساء والأطفال والبيئة: ما لا يحظى باهتمام كافٍ.",
+  "pol-intro":"ما يناقشه السياسيون نادرًا: حماية النساء والأطفال والبيئة في فرنسا.",
+  "pol-cat-femmes":"حماية النساء","pol-cat-enfants":"حماية الأطفال","pol-cat-env":"البيئة","pol-cat-env2":"البيئة · تابع",
+  "pf1-title":"العنف المنزلي: ثغرات مستمرة في نظام الحماية","pf1-date":"المجتمع · فرنسا",
+  "pf2-title":"صحارى طب النساء: وصول النساء للرعاية في خطر","pf2-date":"الصحة · فرنسا",
+  "pe1-title":"خدمات رعاية الطفولة: نظام على وشك الانهيار","pe1-date":"المجتمع · فرنسا",
+  "pe2-title":"الشاشات والصحة النفسية للقصّر: تأخر السلطات العامة","pe2-date":"الصحة العامة · فرنسا",
+  "pv1-title":"تلوث المياه بالمبيدات: ملايين الفرنسيين معرضون للخطر","pv1-date":"البيئة · فرنسا",
+  "pv2-title":"تحضر الأراضي: هدف ZAN بعيد عن التحقيق","pv2-date":"البيئة · فرنسا",
+  "pv3-title":"الملوثات الأبدية (PFAS): مواقع صناعية تحت مراقبة غير كافية","pv3-date":"البيئة · فرنسا",
   "eyebrow":"مكافحة التضليل · التعليم · التحليل",
   "hero-title":"معلومات <em>موثقة</em>،<br>محللة لك.",
   "hero-sub":"الأخبار والأسواق، القانون الفرنسي والدولي، التاريخ — ملخصة، مصدرها موثق، تُحدَّث كل ساعة.",
@@ -501,7 +522,17 @@ ar:{
   "hu4-title":"دخول الولايات المتحدة الحرب العالمية الأولى (1917)","hu4-date":"الولايات المتحدة · 1917"
 },
 zh:{
-  "nav-home":"主页","nav-actu":"新闻与市场","nav-jur":"法律","nav-hist":"历史",
+  "nav-home":"主页","nav-actu":"新闻与市场","nav-pol":"政治",
+  "desc-pol":"法国——妇女、儿童和环境保护：未被充分关注的议题。",
+  "pol-intro":"政界很少谈及的话题：法国的妇女保护、儿童保护和环境保护。",
+  "pol-cat-femmes":"妇女保护","pol-cat-enfants":"儿童保护","pol-cat-env":"环境","pol-cat-env2":"环境（续）",
+  "pf1-title":"家庭暴力：保护机制持续存在的漏洞","pf1-date":"社会 · 法国",
+  "pf2-title":"妇科医疗荒漠：妇女获得医疗服务的机会受到威胁","pf2-date":"健康 · 法国",
+  "pe1-title":"儿童福利服务：一个不堪重负的系统","pe1-date":"社会 · 法国",
+  "pe2-title":"屏幕与未成年人心理健康：公共部门的滞后","pe2-date":"公共卫生 · 法国",
+  "pv1-title":"农药水污染：数百万法国人受到影响","pv1-date":"环境 · 法国",
+  "pv2-title":"土地人工化：ZAN目标远未达成","pv2-date":"环境 · 法国",
+  "pv3-title":"永久污染物（PFAS）：工业场址监管不足","pv3-date":"环境 · 法国",
   "eyebrow":"反虚假信息 · 教育 · 分析",
   "hero-title":"<em>经过核实</em>的资讯，<br>为您深度解析。",
   "hero-sub":"新闻与市场、法国及国际法律、历史——摘要、溯源、每小时更新。",
@@ -538,159 +569,81 @@ zh:{
 
 // ===== CONTENU STATIQUE MULTILINGUE =====
 const CONTENT = {
-jf1:{
-  tag:{fr:"Droit du travail · France",en:"Labour law · France",zh:"劳动法 · 法国",ru:"Трудовое право · Франция",fa:"حقوق کار · فرانسه",ar:"قانون العمل · فرنسا"},
+pf1:{
+  tag:{fr:"Société · France",en:"Society · France",zh:"社会 · 法国",ru:"Общество · Франция",fa:"جامعه · فرانسه",ar:"المجتمع · فرنسا"},
   body:{
-    fr:`<p>Le Conseil d'État a rejeté le recours en annulation des syndicats contre le décret d'application de la réforme des retraites de 2023. Le recours au 49.3 a été jugé constitutionnellement régulier.</p><h4>Ce que ça signifie concrètement</h4><p>La réforme s'applique pleinement : départ à 64 ans pour les personnes nées à partir du 1er janvier 1968, durée de cotisation portée à 43 annuités (172 trimestres) d'ici 2027. Les syndicats envisagent un recours devant la Cour européenne des droits de l'homme.</p>`,
-    en:`<p>The Council of State rejected the unions' appeal against the implementing decree for the 2023 pension reform. The use of Article 49.3 was deemed constitutionally regular.</p><h4>What this means in practice</h4><p>The reform applies fully: retirement age of 64 for those born from 1 January 1968, contribution period raised to 43 years (172 quarters) by 2027. Unions are considering an appeal to the European Court of Human Rights.</p>`,
-    zh:`<p>最高行政法院驳回了工会对2023年退休制度改革实施法令的撤销申请。使用第49.3条被认为在宪法上是合规的。</p><h4>具体影响</h4><p>改革全面实施：1968年1月1日以后出生的人退休年龄为64岁，缴费年限到2027年提高到43年（172个季度）。工会正在考虑向欧洲人权法院上诉。</p>`,
-    ru:`<p>Государственный совет отклонил апелляцию профсоюзов против пенсионной реформы 2023 года. Использование статьи 49.3 признано конституционно законным.</p><h4>Практические последствия</h4><p>Реформа применяется в полном объёме: пенсионный возраст 64 года для родившихся с 1 января 1968 года, стаж увеличен до 43 лет к 2027 году. Профсоюзы рассматривают обращение в Европейский суд по правам человека.</p>`,
-    fa:`<p>شورای دولتی درخواست اتحادیه‌های کارگری علیه اصلاح نظام بازنشستگی 2023 را رد کرد. استفاده از ماده 49.3 از نظر قانون اساسی قانونی تلقی شد.</p><h4>تأثیرات عملی</h4><p>اصلاحیه به طور کامل اعمال می‌شود: سن بازنشستگی 64 سال برای متولدین از اول ژانویه 1968، دوره پرداخت حق بیمه تا سال 2027 به 43 سال افزایش می‌یابد.</p>`,
-    ar:`<p>رفض مجلس الدولة طعن النقابات في مرسوم تطبيق إصلاح نظام التقاعد 2023. واعتُبر اللجوء إلى المادة 49.3 مطابقاً للدستور.</p><h4>التداعيات العملية</h4><p>يُطبَّق الإصلاح بالكامل: سن التقاعد 64 عاماً للمولودين منذ الأول من يناير 1968، ومدة الاشتراك ترفع إلى 43 عاماً بحلول 2027.</p>`,
+    fr:`<p>Chaque année en France, plus de 200 000 femmes déclarent avoir subi des violences physiques et/ou sexuelles de la part de leur partenaire ou ex-partenaire. Malgré les dispositifs existants (ordonnance de protection, bracelet anti-rapprochement, téléphone grave danger), les associations de terrain alertent sur des délais de traitement encore trop longs et un manque criant de places d'hébergement d'urgence.</p><h4>Ce que révèlent les chiffres</h4><p>En 2024, 118 femmes ont été tuées par leur partenaire ou ex-partenaire. Dans près de 40% des cas, la victime avait déjà déposé plainte avant son décès. Le nombre de bracelets anti-rapprochement déployés reste très inférieur aux besoins estimés par les associations.</p><h4>Ce dont on parle peu</h4><p>La question du relogement d'urgence des victimes reste largement absente des débats budgétaires. De nombreuses femmes renoncent à porter plainte faute de solution d'hébergement immédiate pour elles et leurs enfants.</p>`,
+    en:`<p>Every year in France, more than 200,000 women report having suffered physical and/or sexual violence from their partner or ex-partner. Despite existing measures (protection orders, anti-approach bracelets, emergency phones), grassroots associations warn of processing delays that remain too long and a glaring lack of emergency shelter places.</p><h4>What the numbers reveal</h4><p>In 2024, 118 women were killed by their partner or ex-partner. In nearly 40% of cases, the victim had already filed a complaint before her death. The number of anti-approach bracelets deployed remains far below the needs estimated by associations.</p><h4>What gets little attention</h4><p>Emergency rehousing for victims remains largely absent from budget debates. Many women give up filing complaints due to the lack of immediate housing solutions for themselves and their children.</p>`,
+    zh:`<p>法国每年有超过20万名女性报告遭受伴侣或前伴侣的身体和/或性暴力。尽管存在现有措施（保护令、防接近手环、紧急电话），基层协会警告处理延迟仍然过长，紧急庇护场所严重缺乏。</p><h4>数字揭示的问题</h4><p>2024年，118名女性被其伴侣或前伴侣杀害。近40%的案例中，受害者在死亡前已经报案。部署的防接近手环数量远低于协会估计的需求。</p><h4>鲜少被谈及的问题</h4><p>受害者的紧急重新安置问题在预算辩论中基本缺失。许多女性因缺乏自己和孩子的即时住房解决方案而放弃报案。</p>`,
+    ru:`<p>Каждый год во Франции более 200 000 женщин сообщают о физическом и/или сексуальном насилии со стороны партнера или бывшего партнера. Несмотря на существующие меры (охранные ордера, браслеты для предотвращения приближения, телефоны экстренной связи), низовые ассоциации предупреждают о слишком долгих сроках обработки и острой нехватке мест в приютах.</p><h4>Что показывают цифры</h4><p>В 2024 году 118 женщин были убиты своим партнером или бывшим партнером. Почти в 40% случаев жертва уже подавала жалобу до своей смерти. Количество развернутых браслетов остается намного ниже потребностей, оцененных ассоциациями.</p><h4>О чём мало говорят</h4><p>Вопрос экстренного переселения жертв в основном отсутствует в бюджетных дебатах. Многие женщины отказываются от подачи жалоб из-за отсутствия немедленного жилищного решения для себя и своих детей.</p>`,
+    fa:`<p>هر ساله در فرانسه، بیش از ۲۰۰,۰۰۰ زن گزارش می‌دهند که خشونت فیزیکی و/یا جنسی از سوی شریک زندگی یا شریک سابق خود متحمل شده‌اند. علیرغم اقدامات موجود، انجمن‌های مردمی از تأخیرهای طولانی و کمبود شدید مکان‌های اسکان اضطراری هشدار می‌دهند.</p><h4>آنچه ارقام نشان می‌دهند</h4><p>در سال ۲۰۲۴، ۱۱۸ زن توسط شریک زندگی یا شریک سابق خود کشته شدند. در نزدیک به ۴۰ درصد موارد، قربانی قبل از مرگش شکایت کرده بود.</p><h4>آنچه کمتر مورد توجه است</h4><p>موضوع اسکان اضطراری قربانیان تا حد زیادی از بحث‌های بودجه غایب است.</p>`,
+    ar:`<p>كل عام في فرنسا، تُبلغ أكثر من 200,000 امرأة عن تعرضهن لعنف جسدي و/أو جنسي من شريكهن أو شريكهن السابق. على الرغم من التدابير القائمة، تحذر الجمعيات الميدانية من تأخيرات طويلة جدًا في المعالجة ونقص حاد في أماكن الإيواء الطارئ.</p><h4>ما تكشفه الأرقام</h4><p>في عام 2024، قُتلت 118 امرأة على يد شريكها أو شريكها السابق. في ما يقرب من 40٪ من الحالات، كانت الضحية قد تقدمت بشكوى بالفعل قبل وفاتها.</p><h4>ما يحظى باهتمام ضئيل</h4><p>تظل مسألة إعادة الإسكان الطارئ للضحايا غائبة إلى حد كبير عن مناقشات الميزانية.</p>`
   }
 },
-jf2:{
-  tag:{fr:"Droit pénal · France",en:"Criminal law · France",zh:"刑法 · 法国",ru:"Уголовное право · Франция",fa:"حقوق جزا · فرانسه",ar:"القانون الجنائي · فرنسا"},
+pf2:{
+  tag:{fr:"Santé · France",en:"Health · France",zh:"健康 · 法国",ru:"Здоровье · Франция",fa:"سلامت · فرانسه",ar:"الصحة · فرنسا"},
   body:{
-    fr:`<p>La commission des lois a adopté une proposition transpartisane prévoyant une peine plancher de 25 ans de réclusion criminelle pour féminicide, l'inéligibilité définitive et le retrait automatique de l'autorité parentale.</p><h4>Le contexte statistique</h4><p>118 femmes ont été tuées par leur partenaire ou ex-partenaire en 2024. 80 % des féminicides sont commis par des hommes sans casier judiciaire préalable pour violence conjugale. Le texte doit encore passer en séance plénière puis au Sénat.</p>`,
-    en:`<p>The laws committee adopted a cross-party proposal providing for a minimum 25-year prison sentence for femicide, permanent ineligibility for public office, and automatic withdrawal of parental authority.</p><h4>Statistical context</h4><p>118 women were killed by their partner or ex-partner in 2024. 80% of femicides are committed by men with no prior criminal record for domestic violence. The text must still pass the full assembly and the Senate.</p>`,
-    zh:`<p>法律委员会通过了一项跨党派提案，规定杀妻罪最低刑期为25年有期徒刑，永久丧失参选资格，并自动剥夺亲权。</p><h4>统计背景</h4><p>2024年有118名女性被其伴侣或前伴侣杀害。80%的杀妻案由此前无家庭暴力犯罪记录的男性实施。该法案还需经全体会议和参议院审议。</p>`,
-    ru:`<p>Комиссия по законодательству приняла межпартийное предложение о минимальном сроке 25 лет за феминицид, пожизненном лишении избирательных прав и автоматическом лишении родительских прав.</p><h4>Статистический контекст</h4><p>В 2024 году 118 женщин были убиты своими партнёрами. 80% феминицидов совершают мужчины без предыдущих судимостей за домашнее насилие.</p>`,
-    fa:`<p>کمیسیون قوانین پیشنهاد فراحزبی را برای حداقل 25 سال حبس برای قتل همسر، محرومیت دائمی از حقوق مدنی و سلب خودکار حقوق والدینی تصویب کرد.</p><h4>زمینه آماری</h4><p>در سال 2024، 118 زن توسط شریک زندگی خود کشته شدند. 80٪ قتل‌های همسران توسط مردانی انجام می‌شود که سابقه کیفری خشونت خانگی ندارند.</p>`,
-    ar:`<p>اعتمدت لجنة القوانين اقتراحاً متعدد الأحزاب يقضي بعقوبة دنيا 25 عاماً لجريمة قتل الزوجة وحرمان دائم من الأهلية وسحب تلقائي للسلطة الأبوية.</p><h4>السياق الإحصائي</h4><p>قُتلت 118 امرأة على يد شريكها أو شريكها السابق في 2024. 80٪ من جرائم قتل الزوجات يرتكبها رجال ليس لديهم سوابق جنائية في العنف الأسري.</p>`,
+    fr:`<p>Près d'un département français sur trois est aujourd'hui considéré comme un désert médical gynécologique, avec des délais d'attente pouvant dépasser six mois pour un rendez-vous de suivi gynécologique standard. Cette situation touche particulièrement les zones rurales et périurbaines.</p><h4>Un enjeu de santé publique sous-estimé</h4><p>Le nombre de gynécologues médicaux a diminué de près de 40% en vingt ans. Les femmes des zones les moins denses doivent parfois parcourir plus de 100 km pour accéder à un suivi de grossesse ou un dépistage.</p><h4>Le silence politique</h4><p>Cette question reste rarement mise en avant dans les grands débats de santé publique, alors qu'elle concerne directement l'accès à la contraception, au suivi de grossesse et au dépistage des cancers féminins.</p>`,
+    en:`<p>Nearly one in three French departments is now considered a gynecological medical desert, with waiting times that can exceed six months for a standard gynecological follow-up appointment. This situation particularly affects rural and peri-urban areas.</p><h4>An underestimated public health issue</h4><p>The number of medical gynecologists has decreased by nearly 40% in twenty years. Women in the least dense areas sometimes have to travel more than 100 km to access pregnancy monitoring or screening.</p><h4>The political silence</h4><p>This issue rarely receives attention in major public health debates, even though it directly concerns access to contraception, pregnancy monitoring and screening for women's cancers.</p>`,
+    zh:`<p>目前法国近三分之一的省被认为是妇科医疗荒漠，标准妇科随访预约的等待时间可能超过六个月。这种情况尤其影响农村和城郊地区。</p><h4>被低估的公共卫生问题</h4><p>二十年来，妇科医生数量减少了近40%。人口密度最低地区的女性有时必须行驶超过100公里才能获得孕期监测或筛查服务。</p><h4>政治上的沉默</h4><p>这一问题在重大公共卫生辩论中很少受到关注，尽管它直接关系到避孕、孕期监测和女性癌症筛查的可及性。</p>`,
+    ru:`<p>Почти каждый третий французский департамент сегодня считается гинекологической медицинской пустыней, с временем ожидания, которое может превышать шесть месяцев для стандартного гинекологического приема. Эта ситуация особенно затрагивает сельские и пригородные районы.</p><h4>Недооцененная проблема общественного здравоохранения</h4><p>Количество гинекологов сократилось почти на 40% за двадцать лет.</p><h4>Политическое молчание</h4><p>Этот вопрос редко привлекает внимание в крупных дебатах по общественному здравоохранению.</p>`,
+    fa:`<p>تقریباً یک از هر سه استان فرانسه اکنون به عنوان یک کویر پزشکی زنان و زایمان در نظر گرفته می‌شود، با زمان انتظاری که می‌تواند از شش ماه برای یک قرار ملاقات استاندارد فراتر رود.</p><h4>یک مسئله بهداشت عمومی دست کم گرفته شده</h4><p>تعداد متخصصان زنان در بیست سال گذشته نزدیک به ۴۰ درصد کاهش یافته است.</p><h4>سکوت سیاسی</h4><p>این موضوع به ندرت در بحث‌های بزرگ بهداشت عمومی مورد توجه قرار می‌گیرد.</p>`,
+    ar:`<p>ما يقرب من واحدة من كل ثلاث مقاطعات فرنسية تعتبر الآن صحراء طبية لأمراض النساء، مع أوقات انتظار قد تتجاوز ستة أشهر لموعد متابعة قياسي.</p><h4>قضية صحة عامة مقللة الشأن</h4><p>انخفض عدد أطباء أمراض النساء بنسبة 40٪ تقريبًا خلال عشرين عامًا.</p><h4>الصمت السياسي</h4><p>نادرًا ما تحظى هذه القضية باهتمام في النقاشات الكبرى للصحة العامة.</p>`
   }
 },
-jf3:{
-  tag:{fr:"Droit des étrangers · France",en:"Immigration law · France",zh:"移民法 · 法国",ru:"Иммиграционное право · Франция",fa:"حقوق اتباع خارجی · فرانسه",ar:"قانون الأجانب · فرنسا"},
+pe1:{
+  tag:{fr:"Société · France",en:"Society · France",zh:"社会 · 法国",ru:"Общество · Франция",fa:"جامعه · فرانسه",ar:"المجتمع · فرنسا"},
   body:{
-    fr:`<p>La loi du 26 janvier 2024 sur l'immigration : délai de regroupement familial porté à 24 mois, conditionnement de l'AME, rétablissement du délit de séjour irrégulier, carte de séjour pour les métiers en tension.</p><h4>Résultats mitigés</h4><p>Les OQTF ont augmenté de 18 % en 2025, mais le taux d'exécution reste inférieur à 10 % faute de laissez-passer consulaires. La gauche dénonce une loi qui précarise les étrangers en situation régulière ; la droite estime qu'elle ne va pas assez loin.</p>`,
-    en:`<p>The 26 January 2024 Immigration Law: family reunification period extended to 24 months, state medical aid conditioned, irregular stay offence restored, residence permit for shortage occupations created.</p><h4>Mixed results</h4><p>Removal orders (OQTF) increased by 18% in 2025, but the execution rate remains below 10% due to lack of consular travel documents. The left criticises the law for precarious treatment of legal residents; the right considers it insufficient.</p>`,
-    zh:`<p>2024年1月26日移民法：家庭团聚等待期延长至24个月，国家医疗援助设置条件，恢复非法居留罪，为紧缺职业创设居留证。</p><h4>结果喜忧参半</h4><p>2025年驱逐令增加了18%，但因缺乏领事旅行证件，执行率仍低于10%。左翼批评该法律对合法居民造成不稳定影响；右翼认为力度不够。</p>`,
-    ru:`<p>Закон об иммиграции от 26 января 2024 года: срок воссоединения семей увеличен до 24 месяцев, государственная медицинская помощь обусловлена, восстановлена ответственность за незаконное пребывание, создан вид на жительство для дефицитных профессий.</p><h4>Смешанные результаты</h4><p>Число решений о высылке выросло на 18% в 2025 году, но уровень исполнения остаётся ниже 10% из-за отсутствия консульских документов. Левые критикуют закон за нестабильность легальных иностранцев; правые считают его недостаточным.</p>`,
-    fa:`<p>قانون مهاجرت ۲۶ ژانویه ۲۰۲۴: مدت پیوستن خانواده به ۲۴ ماه افزایش یافت، کمک پزشکی دولتی مشروط شد، جرم اقامت غیرقانونی بازگردانده شد، اجازه اقامت برای مشاغل کمبود ایجاد شد.</p><h4>نتایج ترکیبی</h4><p>احکام اخراج در سال ۲۰۲۵ به میزان ۱۸٪ افزایش یافت، اما نرخ اجرا به دلیل کمبود اسناد کنسولی زیر ۱۰٪ باقی مانده است. چپ‌گرایان این قانون را به دلیل بی‌ثباتی خارجیان قانونی محکوم می‌کنند؛ راست‌گرایان آن را ناکافی می‌دانند.</p>`,
-    ar:`<p>قانون الهجرة الصادر في 26 يناير 2024: مدة لم شمل الأسر ممتدة إلى 24 شهراً، مساعدة طبية حكومية مشروطة، إعادة تجريم الإقامة غير النظامية، إنشاء تصريح إقامة للمهن التي تعاني من نقص.</p><h4>نتائج متباينة</h4><p>ارتفعت أوامر الترحيل بنسبة 18٪ في 2025، لكن معدل التنفيذ لا يزال أقل من 10٪ بسبب نقص وثائق السفر القنصلية. يستنكر اليسار قانوناً يزعزع استقرار الأجانب المقيمين بصفة نظامية؛ ويرى اليمين أنه غير كافٍ.</p>`
+    fr:`<p>Plus de 380 000 enfants sont aujourd'hui pris en charge par l'Aide sociale à l'enfance (ASE) en France. Les départements, responsables de ce dispositif, font face à un manque chronique de familles d'accueil et de places en foyer, poussant certains services à recourir à l'hôtel pour héberger des mineurs.</p><h4>Une réalité alarmante</h4><p>Plusieurs rapports parlementaires ont documenté des situations de mineurs livrés à eux-mêmes dans des hôtels, sans accompagnement éducatif adapté. Le nombre de professionnels de l'ASE par enfant suivi a continué de diminuer ces dernières années.</p><h4>Le manque de moyens</h4><p>Les associations de protection de l'enfance dénoncent régulièrement un sous-financement structurel du dispositif, alors que le nombre d'enfants pris en charge continue d'augmenter chaque année.</p>`,
+    en:`<p>More than 380,000 children are currently cared for by Child Welfare Services (ASE) in France. The departments responsible for this system face a chronic shortage of foster families and shelter places, pushing some services to use hotels to house minors.</p><h4>An alarming reality</h4><p>Several parliamentary reports have documented situations of minors left to fend for themselves in hotels, without appropriate educational support. The number of ASE professionals per child monitored has continued to decrease in recent years.</p><h4>The lack of resources</h4><p>Child protection associations regularly denounce structural underfunding of the system, even as the number of children in care continues to increase each year.</p>`,
+    zh:`<p>目前法国有超过38万名儿童由儿童福利服务机构（ASE）照顾。负责该系统的各省面临寄养家庭和收容所位置的长期短缺，迫使一些机构使用酒店来安置未成年人。</p><h4>令人担忧的现实</h4><p>多份议会报告记录了未成年人在酒店中无人照管、缺乏适当教育支持的情况。近年来，每名受监护儿童对应的ASE专业人员数量持续减少。</p><h4>资源匮乏</h4><p>儿童保护协会经常谴责该系统存在结构性资金不足，而受照顾儿童数量每年却持续增加。</p>`,
+    ru:`<p>Более 380 000 детей в настоящее время находятся под опекой Службы защиты детей (ASE) во Франции. Департаменты, ответственные за эту систему, сталкиваются с хронической нехваткой приемных семей и мест в приютах.</p><h4>Тревожная реальность</h4><p>Несколько парламентских докладов задокументировали ситуации, когда несовершеннолетние были предоставлены сами себе в отелях.</p><h4>Нехватка ресурсов</h4><p>Ассоциации по защите детей регулярно осуждают структурное недофинансирование системы.</p>`,
+    fa:`<p>بیش از ۳۸۰,۰۰۰ کودک در حال حاضر تحت مراقبت خدمات رفاه کودک (ASE) در فرانسه هستند. استان‌های مسئول این سیستم با کمبود مزمن خانواده‌های سرپرست و مکان‌های اسکان مواجه هستند.</p><h4>واقعیتی نگران‌کننده</h4><p>چندین گزارش پارلمانی موقعیت‌هایی از نوجوانان رها شده در هتل‌ها را مستند کرده‌اند.</p><h4>کمبود منابع</h4><p>انجمن‌های حمایت از کودکان به طور منظم کم‌بودجگی ساختاری سیستم را محکوم می‌کنند.</p>`,
+    ar:`<p>يتلقى أكثر من 380,000 طفل حاليًا الرعاية من خدمات رعاية الطفولة (ASE) في فرنسا. تواجه المقاطعات المسؤولة عن هذا النظام نقصًا مزمنًا في الأسر الحاضنة وأماكن الإيواء.</p><h4>واقع مثير للقلق</h4><p>وثقت عدة تقارير برلمانية حالات قصّر تُركوا لأنفسهم في الفنادق.</p><h4>نقص الموارد</h4><p>تندد جمعيات حماية الطفولة بانتظام بنقص التمويل الهيكلي للنظام.</p>`
   }
 },
-jf4:{
-  tag:{fr:"Droits fondamentaux · France",en:"Fundamental rights · France",zh:"基本权利 · 法国",ru:"Основные права · Франция",fa:"حقوق اساسی · فرانسه",ar:"الحقوق الأساسية · فرنسا"},
+pe2:{
+  tag:{fr:"Santé publique · France",en:"Public health · France",zh:"公共卫生 · 法国",ru:"Общественное здоровье · Франция",fa:"بهداشت عمومی · فرانسه",ar:"الصحة العامة · فرنسا"},
   body:{
-    fr:`<p>Le 4 mars 2024, la France est devenue le premier pays au monde à inscrire le droit à l'IVG dans sa Constitution. Le principe est protégé contre toute remise en cause par une loi ordinaire.</p><h4>Ce que ça change — et ses limites</h4><p>Le droit à l'IVG est protégé contre toute remise en cause par une loi ordinaire. Mais les modalités (délai à 14 semaines, remboursement) restent dans la loi et peuvent être modifiées par une majorité parlementaire.</p>`,
-    en:`<p>On 4 March 2024, France became the first country in the world to enshrine the right to abortion in its Constitution. The principle is protected from any challenge by ordinary legislation.</p><h4>What changes — and its limits</h4><p>The right to abortion is protected from challenge by ordinary law. However, the details (14-week limit, reimbursement) remain in ordinary legislation and can be changed by a parliamentary majority.</p>`,
-    zh:`<p>2024年3月4日，法国成为世界上第一个将堕胎权写入宪法的国家。该原则受到保护，不受普通法律的质疑。</p><h4>变化及其局限性</h4><p>堕胎权受保护，不受普通法律挑战。但具体细节（14周期限、报销）仍在普通法律中，可由议会多数修改。</p>`,
-    ru:`<p>4 марта 2024 года Франция стала первой страной в мире, закрепившей право на аборт в своей Конституции. Принцип защищён от любого пересмотра обычным законом.</p><h4>Что меняется — и ограничения</h4><p>Право на аборт защищено от изменения обычным законом. Однако детали (срок 14 недель, возмещение) остаются в обычном законодательстве и могут быть изменены парламентским большинством.</p>`,
-    fa:`<p>در ۴ مارس ۲۰۲۴، فرانسه اولین کشور جهان شد که حق سقط جنین را در قانون اساسی خود گنجاند. این اصل در برابر هرگونه به چالش کشیدن توسط قانون عادی محافظت می‌شود.</p><h4>چه چیزی تغییر می‌کند — و محدودیت‌های آن</h4><p>حق سقط جنین در برابر قانون عادی محافظت می‌شود. اما جزئیات (محدودیت ۱۴ هفته، بازپرداخت) در قانون عادی باقی می‌ماند و می‌تواند توسط اکثریت پارلمانی تغییر کند.</p>`,
-    ar:`<p>في 4 مارس 2024، أصبحت فرنسا أول دولة في العالم تُدرج الحق في الإجهاض في دستورها. هذا المبدأ محمي من أي طعن بقانون عادي.</p><h4>ما الذي يتغيّر — وحدوده</h4><p>الحق في الإجهاض محمي من الطعن بقانون عادي. لكن التفاصيل (حد 14 أسبوعاً، السداد) تبقى في القانون العادي ويمكن تعديلها بأغلبية برلمانية.</p>`
+    fr:`<p>L'exposition précoce et prolongée aux écrans est associée par plusieurs études à des retards de développement du langage, des troubles de l'attention et une hausse de l'anxiété chez les enfants et adolescents. Les recommandations de pédopsychiatres appellent à une réduction stricte du temps d'écran avant 6 ans.</p><h4>Un décalage entre recherche et action publique</h4><p>Malgré des rapports d'experts alertant sur ces risques depuis plusieurs années, les mesures contraignantes concernant l'usage des écrans en milieu scolaire et familial restent limitées.</p><h4>Ce qui manque au débat</h4><p>La responsabilité des plateformes numériques dans la conception addictive de leurs services reste peu questionnée dans le débat public français, contrairement à d'autres pays européens qui ont engagé des régulations plus strictes.</p>`,
+    en:`<p>Early and prolonged screen exposure is associated by several studies with language development delays, attention disorders and increased anxiety in children and adolescents. Recommendations from child psychiatrists call for a strict reduction in screen time before age 6.</p><h4>A gap between research and public action</h4><p>Despite expert reports warning of these risks for several years, binding measures regarding screen use in schools and families remain limited.</p><h4>What's missing from the debate</h4><p>The responsibility of digital platforms in the addictive design of their services remains little questioned in French public debate, unlike other European countries that have implemented stricter regulations.</p>`,
+    zh:`<p>多项研究表明，儿童和青少年早期及长期接触屏幕与语言发展迟缓、注意力障碍和焦虑增加有关。儿童精神科医生的建议呼吁在6岁之前严格减少屏幕使用时间。</p><h4>研究与公共行动之间的差距</h4><p>尽管专家报告多年来一直警告这些风险，但学校和家庭中关于屏幕使用的强制性措施仍然有限。</p><h4>辩论中缺失的内容</h4><p>与已实施更严格监管的其他欧洲国家不同，数字平台在其服务成瘾性设计方面的责任在法国公共辩论中很少受到质疑。</p>`,
+    ru:`<p>Раннее и продолжительное воздействие экранов связано, по данным нескольких исследований, с задержками развития речи, нарушениями внимания и повышенной тревожностью у детей и подростков.</p><h4>Разрыв между исследованиями и государственными действиями</h4><p>Несмотря на предупреждения экспертов об этих рисках, обязательные меры остаются ограниченными.</p><h4>Чего не хватает в дебатах</h4><p>Ответственность цифровых платформ за создание аддиктивного дизайна их сервисов редко подвергается сомнению во французских публичных дебатах.</p>`,
+    fa:`<p>قرار گرفتن زودهنگام و طولانی‌مدت در معرض صفحه‌نمایش‌ها با تأخیر در رشد زبان، اختلالات توجه و افزایش اضطراب در کودکان و نوجوانان مرتبط است.</p><h4>شکافی بین تحقیق و اقدام عمومی</h4><p>علیرغم هشدار گزارش‌های کارشناسی، اقدامات الزام‌آور محدود باقی مانده است.</p><h4>آنچه در بحث از قلم افتاده</h4><p>مسئولیت پلتفرم‌های دیجیتال در طراحی اعتیادآور خدمات خود کمتر مورد سؤال قرار می‌گیرد.</p>`,
+    ar:`<p>يرتبط التعرض المبكر والمطول للشاشات، وفقًا لعدة دراسات، بتأخيرات في تطور اللغة واضطرابات الانتباه وزيادة القلق لدى الأطفال والمراهقين.</p><h4>فجوة بين البحث والعمل العام</h4><p>على الرغم من تحذيرات الخبراء، تظل التدابير الملزمة محدودة.</p><h4>ما ينقص النقاش</h4><p>نادرًا ما تُساءل مسؤولية المنصات الرقمية عن التصميم الإدماني لخدماتها في النقاش العام الفرنسي.</p>`
   }
 },
-ji1:{
-  tag:{fr:"Droit numérique · UE",en:"Digital law · EU",zh:"数字法律 · 欧盟",ru:"Цифровое право · ЕС",fa:"حقوق دیجیتال · اتحادیه اروپا",ar:"القانون الرقمي · الاتحاد الأوروبي"},
+pv1:{
+  tag:{fr:"Environnement · France",en:"Environment · France",zh:"环境 · 法国",ru:"Окружающая среда · Франция",fa:"محیط زیست · فرانسه",ar:"البيئة · فرنسا"},
   body:{
-    fr:`<p>Le Digital Services Act s'applique désormais à toutes les plateformes dans l'UE. Interdictions : publicité ciblée sur données sensibles, ciblage des mineurs, dark patterns. Obligations : transparence algorithmique, signalement des contenus illicites, rapport annuel.</p><h4>Les sanctions</h4><p>Jusqu'à 6 % du chiffre d'affaires mondial annuel pour les violations. En cas de récidive grave, interdiction temporaire d'opérer dans l'UE.</p>`,
-    en:`<p>The Digital Services Act now applies to all platforms in the EU. Prohibitions: targeted advertising based on sensitive data, targeting minors, dark patterns. Obligations: algorithmic transparency, reporting of illegal content, annual report.</p><h4>Sanctions</h4><p>Up to 6% of annual worldwide turnover for violations. In case of serious repeat offences, temporary ban from operating in the EU.</p>`,
-    zh:`<p>《数字服务法》现适用于欧盟所有平台。禁止：基于敏感数据的定向广告、针对未成年人、暗黑模式。义务：算法透明度、举报非法内容、年度报告。</p><h4>处罚</h4><p>违规处以全球年营业额最高6%的罚款。严重屡犯者，暂时禁止在欧盟运营。</p>`,
-    ru:`<p>Закон о цифровых услугах теперь применяется ко всем платформам в ЕС. Запреты: таргетированная реклама на основе чувствительных данных, нацеливание на несовершеннолетних, тёмные паттерны. Обязательства: алгоритмическая прозрачность, отчётность о незаконном контенте.</p><h4>Санкции</h4><p>До 6% мирового годового оборота за нарушения. При серьёзных повторных нарушениях — временный запрет работы в ЕС.</p>`,
-    fa:`<p>قانون خدمات دیجیتال اکنون برای همه پلتفرم‌ها در اتحادیه اروپا اعمال می‌شود. ممنوعیت‌ها: تبلیغات هدفمند بر اساس داده‌های حساس، هدف قرار دادن کودکان، الگوهای تاریک. تعهدات: شفافیت الگوریتمی، گزارش محتوای غیرقانونی.</p><h4>جریمه‌ها</h4><p>تا 6٪ از گردش مالی سالانه جهانی برای تخلفات.</p>`,
-    ar:`<p>يسري قانون الخدمات الرقمية الآن على جميع المنصات في الاتحاد الأوروبي. المحظورات: الإعلانات المستهدفة بناءً على البيانات الحساسة، استهداف القاصرين، الأنماط المظلمة. الالتزامات: الشفافية الخوارزمية، الإبلاغ عن المحتوى غير القانوني.</p><h4>العقوبات</h4><p>تصل إلى 6٪ من رقم الأعمال السنوي العالمي للمخالفات.</p>`
+    fr:`<p>Selon des données publiques sur la qualité de l'eau potable, plusieurs millions de Français sont alimentés par une eau du robinet contenant des traces de pesticides ou de leurs métabolites au-dessus des seuils réglementaires, en particulier dans les zones rurales à forte activité agricole.</p><h4>Un enjeu sanitaire largement sous-médiatisé</h4><p>Les métabolites de pesticides comme le chlorothalonil R471811 ont été détectés dans l'eau potable de nombreux départements. Certaines communes doivent régulièrement mélanger plusieurs sources d'approvisionnement pour rester sous les seuils légaux.</p><h4>Ce que le débat politique évite</h4><p>La question du financement de la dépollution de l'eau, souvent répercuté sur la facture des usagers plutôt que sur les pollueurs identifiés, reste peu abordée dans le débat public.</p>`,
+    en:`<p>According to public data on drinking water quality, several million French people are supplied with tap water containing traces of pesticides or their metabolites above regulatory thresholds, particularly in rural areas with high agricultural activity.</p><h4>A largely under-reported health issue</h4><p>Pesticide metabolites such as chlorothalonil R471811 have been detected in the drinking water of many departments. Some municipalities must regularly blend several water sources to stay below legal thresholds.</p><h4>What the political debate avoids</h4><p>The question of financing water decontamination, often passed on to consumer bills rather than to identified polluters, remains rarely addressed in public debate.</p>`,
+    zh:`<p>根据饮用水质量的公开数据，数百万法国人饮用的自来水中含有超过监管阈值的农药或其代谢物痕迹，尤其是在农业活动频繁的农村地区。</p><h4>一个报道严重不足的健康问题</h4><p>许多省份的饮用水中检测到氯百菌灵R471811等农药代谢物。一些市镇必须定期混合多个水源以保持在法定阈值以下。</p><h4>政治辩论回避的问题</h4><p>水净化的资金问题——通常转嫁给消费者账单而非已确定的污染者——在公共辩论中很少被提及。</p>`,
+    ru:`<p>Согласно государственным данным о качестве питьевой воды, несколько миллионов французов получают водопроводную воду со следами пестицидов выше нормативных порогов, особенно в сельских районах с высокой сельскохозяйственной активностью.</p><h4>Проблема здравоохранения, о которой мало говорят</h4><p>Метаболиты пестицидов были обнаружены в питьевой воде многих департаментов.</p><h4>Что избегает политическая дискуссия</h4><p>Вопрос финансирования очистки воды редко поднимается в публичных дебатах.</p>`,
+    fa:`<p>بر اساس داده‌های عمومی درباره کیفیت آب آشامیدنی، میلیون‌ها فرانسوی از آب لوله‌کشی حاوی رد پای آفت‌کش‌ها بالاتر از آستانه‌های قانونی استفاده می‌کنند.</p><h4>مسئله بهداشتی که کمتر پوشش داده می‌شود</h4><p>متابولیت‌های آفت‌کش‌ها در آب آشامیدنی بسیاری از استان‌ها شناسایی شده‌اند.</p><h4>آنچه بحث سیاسی از آن اجتناب می‌کند</h4><p>مسئله تأمین مالی پاکسازی آب به ندرت در بحث عمومی مطرح می‌شود.</p>`,
+    ar:`<p>وفقًا للبيانات العامة حول جودة مياه الشرب، يحصل عدة ملايين من الفرنسيين على مياه الصنبور التي تحتوي على آثار مبيدات آفات فوق الحدود التنظيمية.</p><h4>قضية صحية غير مغطاة إعلاميًا إلى حد كبير</h4><p>تم اكتشاف مستقلبات مبيدات الآفات في مياه الشرب في العديد من المقاطعات.</p><h4>ما يتجنبه النقاش السياسي</h4><p>نادرًا ما تُطرح مسألة تمويل تنقية المياه في النقاش العام.</p>`
   }
 },
-ji2:{
-  tag:{fr:"Droit international · CPI",en:"International law · ICC",zh:"国际法 · 国际刑事法院",ru:"Международное право · МУС",fa:"حقوق بین‌الملل · دیوان کیفری",ar:"القانون الدولي · المحكمة الجنائية"},
+pv2:{
+  tag:{fr:"Environnement · France",en:"Environment · France",zh:"环境 · 法国",ru:"Окружающая среда · Франция",fa:"محیط زیست · فرانسه",ar:"البيئة · فرنسا"},
   body:{
-    fr:`<p>Le 17 mars 2023, la CPI a émis un mandat d'arrêt contre Vladimir Poutine pour déportation illégale d'enfants ukrainiens. Trois ans après, le mandat reste inapplicable directement : la CPI dépend des États membres pour arrêter et transférer les suspects.</p><h4>Les conséquences pratiques</h4><p>Poutine ne peut plus se rendre dans les 124 pays membres de la CPI sans risquer d'être arrêté. Son espace diplomatique est durablement réduit.</p>`,
-    en:`<p>On 17 March 2023, the ICC issued an arrest warrant against Vladimir Putin for the illegal deportation of Ukrainian children. Three years on, the warrant remains directly unenforceable: the ICC depends on member states to arrest and transfer suspects.</p><h4>Practical consequences</h4><p>Putin can no longer visit the 124 ICC member countries without risking arrest. His diplomatic space is permanently reduced.</p>`,
-    zh:`<p>2023年3月17日，国际刑事法院以非法驱逐乌克兰儿童为由对弗拉基米尔·普京发出逮捕令。三年后，该逮捕令仍无法直接执行：国际刑事法院依靠成员国逮捕和移交嫌疑人。</p><h4>实际后果</h4><p>普京不能再访问国际刑事法院124个成员国，否则面临被捕风险。其外交空间永久缩小。</p>`
+    fr:`<p>L'objectif Zéro Artificialisation Nette (ZAN), fixé pour 2050, vise à stopper l'étalement urbain sur les sols naturels et agricoles. Les derniers bilans montrent un rythme d'artificialisation encore largement supérieur aux trajectoires nécessaires pour atteindre cet objectif.</p><h4>Un objectif ambitieux, une trajectoire décevante</h4><p>Plusieurs dizaines de milliers d'hectares continuent d'être artificialisés chaque année en France, principalement pour l'habitat individuel et les zones logistiques.</p><h4>Le point aveugle du débat</h4><p>Les tensions entre élus locaux, qui redoutent une perte d'attractivité économique, et les objectifs climatiques nationaux restent rarement exposées clairement au grand public.</p>`,
+    en:`<p>The Net Zero Land Artificialization (ZAN) target, set for 2050, aims to stop urban sprawl on natural and agricultural land. The latest assessments show a rate of land artificialization still well above the trajectories needed to reach this target.</p><h4>An ambitious goal, a disappointing trajectory</h4><p>Several tens of thousands of hectares continue to be artificialized each year in France, mainly for individual housing and logistics zones.</p><h4>The blind spot of the debate</h4><p>Tensions between local elected officials, who fear a loss of economic attractiveness, and national climate objectives remain rarely clearly explained to the public.</p>`,
+    zh:`<p>净零土地人工化（ZAN）目标定于2050年，旨在阻止城市在自然和农业用地上的扩张。最新评估显示，土地人工化的速度仍远高于实现该目标所需的轨迹。</p><h4>雄心勃勃的目标，令人失望的轨迹</h4><p>法国每年仍有数万公顷土地被人工化，主要用于个人住房和物流区域。</p><h4>辩论中的盲点</h4><p>担心经济吸引力下降的地方民选官员与国家气候目标之间的紧张关系，很少向公众清楚说明。</p>`,
+    ru:`<p>Цель нулевой чистой урбанизации земель (ZAN), установленная на 2050 год, направлена на прекращение городской застройки природных и сельскохозяйственных земель.</p><h4>Амбициозная цель, разочаровывающая траектория</h4><p>Десятки тысяч гектаров продолжают застраиваться каждый год во Франции.</p><h4>Слепое пятно дебатов</h4><p>Напряженность между местными выборными должностными лицами и национальными климатическими целями редко ясно объясняется публике.</p>`,
+    fa:`<p>هدف صفر خالص‌سازی مصنوعی زمین (ZAN)، تعیین شده برای سال ۲۰۵۰، با هدف توقف گسترش شهری بر زمین‌های طبیعی و کشاورزی است.</p><h4>هدفی جاه‌طلبانه، مسیری ناامیدکننده</h4><p>ده‌ها هزار هکتار همچنان هر ساله در فرانسه مصنوعی می‌شوند.</p><h4>نقطه کور بحث</h4><p>تنش بین مقامات محلی و اهداف اقلیمی ملی به ندرت به وضوح برای مردم توضیح داده می‌شود.</p>`,
+    ar:`<p>يهدف هدف التحضر الصافي الصفري للأراضي (ZAN)، المحدد لعام 2050، إلى وقف الزحف العمراني على الأراضي الطبيعية والزراعية.</p><h4>هدف طموح، مسار مخيب للآمال</h4><p>تستمر عشرات الآلاف من الهكتارات في التحضر كل عام في فرنسا.</p><h4>النقطة العمياء في النقاش</h4><p>نادرًا ما يتم شرح التوترات بين المسؤولين المحليين المنتخبين والأهداف المناخية الوطنية بوضوح للجمهور.</p>`
   }
 },
-ji3:{
-  tag:{fr:"Droit international · Mer de Chine",en:"International law · South China Sea",zh:"国际法 · 南海",ru:"Международное право · Южно-Китайское море",fa:"حقوق بین‌الملل · دریای جنوبی چین",ar:"القانون الدولي · بحر الصين الجنوبي"},
+pv3:{
+  tag:{fr:"Environnement · France",en:"Environment · France",zh:"环境 · 法国",ru:"Окружающая среда · Франция",fa:"محیط زیست · فرانسه",ar:"البيئة · فرنسا"},
   body:{
-    fr:`<p>La Chine revendique 90 % de la mer de Chine méridionale via la ligne des neuf traits. En 2016, un tribunal arbitral (CNUDM) a statué que ces revendications n'ont aucune base légale. La Chine refuse de reconnaître cette sentence.</p><h4>Pourquoi ça concerne l'Europe</h4><p>30 % du commerce maritime mondial passe par cette mer. La France, puissance Indo-Pacifique, envoie régulièrement des navires pour affirmer la liberté de navigation.</p>`,
-    en:`<p>China claims 90% of the South China Sea via the nine-dash line. In 2016, an arbitral tribunal (UNCLOS) ruled that these claims have no legal basis. China refuses to recognise the ruling.</p><h4>Why this concerns Europe</h4><p>30% of global maritime trade passes through this sea. France, as an Indo-Pacific power, regularly sends vessels to assert freedom of navigation.</p>`,
-    zh:`<p>中国通过九段线主张南海约90%的海域。2016年，仲裁庭（《联合国海洋法公约》）裁定这些主张没有法律依据。中国拒绝承认该裁决。</p><h4>为何与欧洲相关</h4><p>全球30%的海上贸易经过这片海域。法国作为印太大国，定期派舰船维护航行自由。</p>`
-  }
-},
-ji4:{
-  tag:{fr:"Droit technologique · UE · IA",en:"Tech law · EU · AI",zh:"科技法律 · 欧盟 · 人工智能",ru:"Технологическое право · ЕС · ИИ",fa:"حقوق فناوری · اتحادیه اروپا · هوش مصنوعی",ar:"قانون التكنولوجيا · الاتحاد الأوروبي · الذكاء الاصطناعي"},
-  body:{
-    fr:`<p>Le règlement européen sur l'IA classe les systèmes selon leur risque. Risque inacceptable (interdit) : notation sociale, manipulation subliminale. Risque élevé (encadré) : IA dans le recrutement, crédit, justice, médecine.</p><h4>Les sanctions</h4><p>Jusqu'à 35 M€ ou 7 % du CA mondial pour les infractions les plus graves. Les PME bénéficient de règles allégées.</p>`,
-    en:`<p>The European AI regulation classifies systems by risk level. Unacceptable risk (prohibited): social scoring, subliminal manipulation. High risk (regulated): AI in recruitment, credit, justice, medicine.</p><h4>Sanctions</h4><p>Up to €35M or 7% of global turnover for the most serious violations. SMEs benefit from lighter rules.</p>`,
-    zh:`<p>欧盟人工智能法规按风险级别对系统进行分类。不可接受风险（禁止）：社会评分、潜意识操控。高风险（受监管）：招聘、信贷、司法、医疗中的人工智能。</p><h4>处罚</h4><p>最严重违规处以最高3500万欧元或全球营业额7%的罚款。中小企业适用较轻松的规则。</p>`
-  }
-},
-hf1:{
-  tag:{fr:"Histoire · France · 1789",en:"History · France · 1789",zh:"历史 · 法国 · 1789年",ru:"История · Франция · 1789",fa:"تاریخ · فرانسه · 1789",ar:"التاريخ · فرنسا · 1789"},
-  body:{
-    fr:`<p>La Révolution abolit l'Ancien Régime, proclame les droits de l'homme et transforme profondément la France et l'Europe.</p><h4>Les causes</h4><p>Économiques : famine de 1788–1789, banqueroute royale. Sociales : le Tiers-État (97 % de la population) supporte l'essentiel des impôts. Intellectuelles : les Lumières diffusent liberté, égalité et souveraineté populaire.</p><h4>Les grandes phases</h4><p>1789–1792 : Monarchie constitutionnelle — Bastille (14 juillet), Déclaration des droits (26 août). 1792–1794 : République et Terreur — Louis XVI guillotiné, 17 000 exécutions. 1795–1799 : Directoire puis Consulat — Bonaparte au pouvoir.</p><h4>L'héritage</h4><p>Souveraineté nationale, séparation des pouvoirs, abolition de la féodalité. La devise Liberté, Égalité, Fraternité reste celle de la République.</p>`,
-    en:`<p>The Revolution abolished the Ancien Régime, proclaimed the rights of man and profoundly transformed France and Europe.</p><h4>Causes</h4><p>Economic: famine of 1788–1789, royal bankruptcy. Social: the Third Estate (97% of the population) bore most of the taxes. Intellectual: the Enlightenment spread liberty, equality and popular sovereignty.</p><h4>Main phases</h4><p>1789–1792: Constitutional monarchy — Bastille (14 July), Declaration of Rights (26 August). 1792–1794: Republic and Terror — Louis XVI guillotined, 17,000 executions. 1795–1799: Directory then Consulate — Bonaparte in power.</p><h4>Legacy</h4><p>National sovereignty, separation of powers, abolition of feudalism. The motto Liberté, Égalité, Fraternité remains that of the Republic.</p>`,
-    zh:`<p>法国大革命废除了旧制度，宣布了人权，深刻地改变了法国和欧洲。</p><h4>原因</h4><p>经济原因：1788–1789年饥荒，王室破产。社会原因：第三等级（97%的人口）承担了大部分税收。思想原因：启蒙运动传播自由、平等和人民主权。</p><h4>主要阶段</h4><p>1789–1792年：君主立宪制——攻占巴士底狱（7月14日），人权宣言（8月26日）。1792–1794年：共和国与恐怖统治——路易十六被处决，17,000次处决。1795–1799年：督政府再到执政府——拿破仑掌权。</p><h4>遗产</h4><p>国家主权、三权分立、废除封建制度。自由、平等、博爱的格言至今仍是共和国的格言。</p>`,
-    ru:`<p>Революция отменила Ancien Régime, провозгласила права человека и глубоко изменила Францию и Европу.</p><h4>Причины</h4><p>Экономические: голод 1788–1789 годов, королевское банкротство. Социальные: третье сословие несло основное налоговое бремя. Интеллектуальные: Просвещение распространило идеи свободы, равенства и народного суверенитета.</p><h4>Наследие</h4><p>Национальный суверенитет, разделение властей, отмена феодализма. Девиз Liberté, Égalité, Fraternité остаётся девизом Республики.</p>`,
-    fa:`<p>انقلاب فرانسه رژیم کهن را منسوخ کرد، حقوق بشر را اعلام نمود و فرانسه و اروپا را به طور عمیق تغییر داد.</p><h4>علل</h4><p>اقتصادی: قحطی 1788-1789، ورشکستگی سلطنتی. اجتماعی: طبقه سوم (97٪ جمعیت) بیشتر مالیات‌ها را می‌پرداخت. فکری: روشنگری آزادی، برابری و حاکمیت مردمی را گسترش داد.</p><h4>میراث</h4><p>حاکمیت ملی، تفکیک قوا، لغو فئودالیسم. شعار آزادی، برابری، برادری همچنان شعار جمهوری است.</p>`,
-    ar:`<p>أطاحت الثورة بالنظام القديم وأعلنت حقوق الإنسان وغيّرت فرنسا وأوروبا تغييراً جذرياً.</p><h4>الأسباب</h4><p>اقتصادية: مجاعة 1788-1789، إفلاس الملكية. اجتماعية: الطبقة الثالثة (97٪ من السكان) تتحمل معظم الضرائب. فكرية: نشر التنوير مبادئ الحرية والمساواة والسيادة الشعبية.</p><h4>الإرث</h4><p>السيادة الوطنية، الفصل بين السلطات، إلغاء الإقطاع. لا يزال شعار الحرية والمساواة والإخاء شعار الجمهورية.</p>`,
-    ru:`<p>Революция уничтожила Старый режим, провозгласила права человека и коренным образом преобразовала Францию и Европу.</p><h4>Причины</h4><p>Экономические: голод 1788–1789 годов, королевское банкротство. Социальные: третье сословие (97% населения) несло основное налоговое бремя. Интеллектуальные: Просвещение распространяло свободу, равенство и народный суверенитет.</p><h4>Основные этапы</h4><p>1789–1792: Конституционная монархия — Бастилия (14 июля), Декларация прав (26 августа). 1792–1794: Республика и Террор — Людовик XVI казнён, 17 000 казней. 1795–1799: Директория, затем Консульство — Бонапарт у власти.</p>`,
-    fa:`<p>انقلاب رژیم کهن را منسوخ کرد، حقوق بشر را اعلام نمود و فرانسه و اروپا را به طور عمیق متحول ساخت.</p><h4>علل</h4><p>اقتصادی: قحطی ۱۷۸۸–۱۷۸۹، ورشکستگی سلطنتی. اجتماعی: طبقه سوم (۹۷٪ جمعیت) بار اصلی مالیات را تحمل می‌کرد. فکری: روشنگری آزادی، برابری و حاکمیت مردمی را گسترش داد.</p><h4>مراحل اصلی</h4><p>۱۷۸۹–۱۷۹۲: سلطنت مشروطه — باستیل (۱۴ ژوئیه)، اعلامیه حقوق (۲۶ اوت). ۱۷۹۲–۱۷۹۴: جمهوری و ترور — لویی شانزدهم اعدام شد، ۱۷۰۰۰ اعدام. ۱۷۹۵–۱۷۹۹: دیرکتوار سپس کنسولگری — بناپارت به قدرت رسید.</p>`,
-    ar:`<p>أنهت الثورة النظام القديم، وأعلنت حقوق الإنسان، وحوّلت فرنسا وأوروبا تحويلاً جذرياً.</p><h4>الأسباب</h4><p>اقتصادية: مجاعة 1788–1789، إفلاس الملكية. اجتماعية: الطبقة الثالثة (97٪ من السكان) تحمّلت معظم الضرائب. فكرية: نشر التنوير الحرية والمساواة والسيادة الشعبية.</p><h4>المراحل الرئيسية</h4><p>1789–1792: الملكية الدستورية — الباستيل (14 يوليو)، إعلان الحقوق (26 أغسطس). 1792–1794: الجمهورية والإرهاب — إعدام لويس السادس عشر، 17000 إعدام. 1795–1799: الإدارة ثم القنصلية — بونابرت في السلطة.</p>`
-  }
-},
-hf2:{
-  tag:{fr:"Histoire · France · Napoléon",en:"History · France · Napoleon",zh:"历史 · 法国 · 拿破仑",ru:"История · Франция · Наполеон",fa:"تاریخ · فرانسه · ناپلئون",ar:"التاريخ · فرنسا · نابليون"},
-  body:{
-    fr:`<p>Consul en 1799, Empereur en 1804. Il modernise la France : Code civil, Banque de France, Légion d'honneur, lycées, préfets. Victoires : Austerlitz (1805), Iéna (1806). Défaite en Russie (1812), Waterloo (1815).</p><h4>L'héritage</h4><p>Le Code civil, adopté par une trentaine de pays, reste la base du droit civil français. Le système préfectoral structure encore l'administration. En propageant les idées révolutionnaires, Napoléon a semé les graines du nationalisme européen.</p>`,
-    en:`<p>Consul in 1799, Emperor in 1804. He modernised France: Civil Code, Bank of France, Legion of Honour, lycées, prefects. Victories: Austerlitz (1805), Jena (1806). Defeat in Russia (1812), Waterloo (1815).</p><h4>Legacy</h4><p>The Civil Code, adopted by around thirty countries, remains the basis of French civil law. The prefectural system still structures administration. By spreading revolutionary ideas, Napoleon sowed the seeds of European nationalism.</p>`,
-    zh:`<p>1799年任执政官，1804年称帝。他现代化了法国：民法典、法兰西银行、荣誉军团勋章、高中、省长制。胜利：奥斯特利茨（1805年）、耶拿（1806年）。俄国战败（1812年），滑铁卢（1815年）。</p><h4>遗产</h4><p>民法典被约三十个国家采用，至今仍是法国民法的基础。省长制仍构建着法国行政体系。拿破仑通过传播革命思想，播下了欧洲民族主义的种子。</p>`
-  }
-},
-hf3:{
-  tag:{fr:"Histoire · France · 1871",en:"History · France · 1871",zh:"历史 · 法国 · 1871年",ru:"История · Франция · 1871",fa:"تاریخ · فرانسه · ۱۸۷۱",ar:"التاريخ · فرنسا · 1871"},
-  body:{
-    fr:`<p>Après la défaite face à la Prusse, les Parisiens refusent de rendre les canons. La Commune (élue le 26 mars) instaure : suppression du loyer, enseignement laïc gratuit, gestion des entreprises abandonnées par les ouvriers.</p><h4>La Semaine sanglante (21–28 mai 1871)</h4><p>Entre 10 000 et 30 000 Communards sont tués, 40 000 arrêtés, 4 000 déportés en Nouvelle-Calédonie. Référence fondatrice de la gauche mondiale, analysée par Karl Marx dans La Guerre civile en France.</p>`,
-    en:`<p>After defeat by Prussia, Parisians refused to surrender the cannons. The Commune (elected 26 March) established: rent suspension, free secular education, worker management of abandoned businesses.</p><h4>Bloody Week (21–28 May 1871)</h4><p>Between 10,000 and 30,000 Communards were killed, 40,000 arrested, 4,000 deported to New Caledonia. A founding reference for the global left, analysed by Karl Marx in The Civil War in France.</p>`,
-    zh:`<p>在被普鲁士击败后，巴黎人拒绝交出大炮。公社（3月26日选举产生）建立了：暂停租金、免费世俗教育、工人管理被遗弃的企业。</p><h4>血腥周（1871年5月21–28日）</h4><p>1万至3万公社社员被杀，4万人被捕，4000人被流放到新喀里多尼亚。这是全球左翼的奠基参考，由卡尔·马克思在《法国内战》中加以分析。</p>`
-  }
-},
-hf4:{
-  tag:{fr:"Histoire · France · Dreyfus",en:"History · France · Dreyfus",zh:"历史 · 法国 · 德雷福斯",ru:"История · Франция · Дрейфус",fa:"تاریخ · فرانسه · دریفوس",ar:"التاريخ · فرنسا · دريفوس"},
-  body:{
-    fr:`<p>1894 : le capitaine Dreyfus, officier juif alsacien, est condamné à tort et déporté. Dès 1896, Picquart découvre le vrai traître mais l'armée étouffe l'affaire.</p><h4>J'Accuse !</h4><p>13 janvier 1898 : Zola publie J'Accuse ! dans L'Aurore. Condamné pour diffamation, il s'exile. 1906 : Dreyfus réhabilité. L'affaire accélère la séparation de l'Église et de l'État (1905) et inspire Herzl à fonder le mouvement sioniste.</p>`,
-    en:`<p>1894: Captain Dreyfus, an Alsatian Jewish officer, is wrongly convicted and deported. From 1896, Picquart discovers the real traitor but the army covers it up.</p><h4>J'Accuse!</h4><p>13 January 1898: Zola publishes J'Accuse! in L'Aurore. Convicted of defamation, he goes into exile. 1906: Dreyfus rehabilitated. The affair accelerated the separation of Church and State (1905) and inspired Herzl to found the Zionist movement.</p>`,
-    zh:`<p>1894年：阿尔萨斯犹太裔军官德雷福斯上尉被错误定罪并流放。1896年起，皮卡尔发现了真正的叛徒，但军队掩盖了此事。</p><h4>《我控诉！》</h4><p>1898年1月13日：左拉在《曙光报》上发表《我控诉！》。因诽谤罪被定罪后流亡。1906年：德雷福斯获得平反。该事件加速了政教分离（1905年），并启发赫茨尔创立犹太复国主义运动。</p>`
-  }
-},
-hu1:{
-  tag:{fr:"Histoire · États-Unis · 1776",en:"History · USA · 1776",zh:"历史 · 美国 · 1776年",ru:"История · США · 1776",fa:"تاریخ · ایالات متحده · 1776",ar:"التاريخ · الولايات المتحدة · 1776"},
-  body:{
-    fr:`<p>No taxation without representation. La Déclaration affirme que tous les hommes sont créés égaux, dotés de droits à la vie, la liberté et la recherche du bonheur. Note : elle exclut de fait les esclaves et les femmes. La France joue un rôle décisif (Lafayette, Rochambeau, Yorktown 1781). La Constitution (1787) et le Bill of Rights (1791) fondent le système américain.</p>`,
-    en:`<p>No taxation without representation. The Declaration states that all men are created equal, endowed with rights to life, liberty and the pursuit of happiness. Note: it effectively excluded slaves and women. France played a decisive role (Lafayette, Rochambeau, Yorktown 1781). The Constitution (1787) and Bill of Rights (1791) founded the American system.</p>`,
-    zh:`<p>无代表，不纳税。《宣言》宣称人人生而平等，拥有生命权、自由权和追求幸福的权利。注：实际上将奴隶和女性排除在外。法国发挥了决定性作用（拉法耶特、罗尚博、1781年约克镇）。宪法（1787年）和权利法案（1791年）奠定了美国制度基础。</p>`,
-    ru:`<p>Никакого налогообложения без представительства. Декларация провозглашает, что все люди созданы равными, наделёнными правами на жизнь, свободу и стремление к счастью. Примечание: фактически исключала рабов и женщин. Франция сыграла решающую роль (Лафайет, Йорктаун 1781). Конституция (1787) и Билль о правах (1791) заложили американскую систему.</p>`,
-    fa:`<p>بدون نمایندگی، بدون مالیات. اعلامیه بیان می‌کند که همه انسان‌ها برابر آفریده شده‌اند و دارای حق زندگی، آزادی و دنبال کردن خوشبختی هستند. توجه: عملاً بردگان و زنان را استثنا می‌کرد. فرانسه نقش تعیین‌کننده‌ای ایفا کرد (لافایت، یورک‌تاون 1781).</p>`,
-    ar:`<p>لا ضرائب دون تمثيل. تؤكد الإعلانُ أن جميع الناس خُلقوا متساوين ومزودين بحقوق الحياة والحرية والسعي وراء السعادة. ملاحظة: استثنت فعلياً العبيد والنساء. أدّت فرنسا دوراً حاسماً (لافاييت، يوركتاون 1781). أرست الدستور (1787) ووثيقة الحقوق (1791) النظامَ الأمريكي.</p>`,
-    ru:`<p>Никакого налогообложения без представительства. Декларация утверждает, что все люди созданы равными и наделены правами на жизнь, свободу и стремление к счастью. Примечание: де-факто исключала рабов и женщин. Франция сыграла решающую роль (Лафайет, Рошамбо, Йорктаун 1781). Конституция (1787) и Билль о правах (1791) заложили основу американской системы.</p>`,
-    fa:`<p>بدون نمایندگی، مالیات نه. اعلامیه بیان می‌کند که همه انسان‌ها برابر آفریده شده‌اند و دارای حقوق زندگی، آزادی و دنبال کردن خوشبختی هستند. توجه: عملاً بردگان و زنان را حذف کرد. فرانسه نقش تعیین‌کننده‌ای ایفا کرد (لافایت، روشامبو، یورک‌تاون ۱۷۸۱). قانون اساسی (۱۷۸۷) و منشور حقوق (۱۷۹۱) نظام آمریکایی را بنیان گذاشتند.</p>`,
-    ar:`<p>لا ضرائب بدون تمثيل. تؤكد الوثيقة أن جميع الناس خُلقوا متساوين، ومنحوا حقوق الحياة والحرية والسعي للسعادة. ملاحظة: استثنت فعلياً العبيد والنساء. أدّت فرنسا دوراً حاسماً (لافاييت، روشامبو، يوركتاون 1781). أرست الدستور (1787) ووثيقة الحقوق (1791) النظام الأمريكي.</p>`
-  }
-},
-hu2:{
-  tag:{fr:"Histoire · États-Unis · 1861–1865",en:"History · USA · 1861–1865",zh:"历史 · 美国 · 1861–1865年",ru:"История · США · 1861–1865",fa:"تاریخ · ایالات متحده · ۱۸۶۱–۱۸۶۵",ar:"التاريخ · الولايات المتحدة · 1861–1865"},
-  body:{
-    fr:`<p>620 000 à 750 000 morts. La cause principale est l'esclavage. La Proclamation d'émancipation (1863) donne une dimension morale à la guerre. Reddition de Lee à Appomattox (9 avril 1865). Lincoln assassiné 5 jours plus tard.</p><h4>Les 3 amendements et leurs limites</h4><p>13e (abolition de l'esclavage), 14e (citoyenneté), 15e (droit de vote sans discrimination). Mais les lois Jim Crow ont persisté jusqu'aux années 1960.</p>`,
-    en:`<p>620,000 to 750,000 deaths. The main cause was slavery. The Emancipation Proclamation (1863) gave the war a moral dimension. Lee's surrender at Appomattox (9 April 1865). Lincoln assassinated 5 days later.</p><h4>The 3 amendments and their limits</h4><p>13th (abolition of slavery), 14th (citizenship), 15th (right to vote without discrimination). But Jim Crow laws persisted until the 1960s.</p>`,
-    zh:`<p>62至75万人死亡。主要原因是奴隶制。《解放宣言》（1863年）赋予战争道德维度。李将军在阿波马托克斯投降（1865年4月9日）。林肯5天后遇刺。</p><h4>三项修正案及其局限性</h4><p>第13条（废除奴隶制）、第14条（公民权）、第15条（无歧视投票权）。但吉姆·克劳法一直延续到20世纪60年代。</p>`
-  }
-},
-hu3:{
-  tag:{fr:"Histoire · États-Unis · XIXe siècle",en:"History · USA · 19th century",zh:"历史 · 美国 · 19世纪",ru:"История · США · XIX век",fa:"تاریخ · ایالات متحده · قرن نوزدهم",ar:"التاريخ · الولايات المتحدة · القرن التاسع عشر"},
-  body:{
-    fr:`<p>Entre 1803 et 1890, les États-Unis multiplient leur superficie par cinq. La Destinée manifeste (1845) légitime l'expansion. Population amérindienne : de 10–15 millions en 1492 à moins de 250 000 fin XIXe siècle.</p><h4>Le génocide amérindien</h4><p>Épidémies, massacres (Sand Creek 1864, Wounded Knee 1890), destruction des bisons (de 30 millions à moins de 1 000), Piste des larmes (1838). En 1890, la Frontière est déclarée fermée.</p>`,
-    en:`<p>Between 1803 and 1890, the United States multiplied its territory fivefold. Manifest Destiny (1845) legitimised expansion. Native American population: from 10–15 million in 1492 to under 250,000 by the late 19th century.</p><h4>The Native American genocide</h4><p>Epidemics, massacres (Sand Creek 1864, Wounded Knee 1890), destruction of bison (from 30 million to under 1,000), Trail of Tears (1838). In 1890, the Frontier was declared closed.</p>`,
-    zh:`<p>1803年至1890年间，美国领土扩大了五倍。天命论（1845年）使扩张合法化。美洲原住民人口：从1492年的1000–1500万减少到19世纪末不足25万。</p><h4>美洲原住民种族灭绝</h4><p>流行病、大屠杀（1864年沙溪、1890年伤膝）、野牛灭绝（从3000万到不足1000头）、泪之路（1838年）。1890年，边疆宣告关闭。</p>`
-  }
-},
-hu4:{
-  tag:{fr:"Histoire · États-Unis · 1917",en:"History · USA · 1917",zh:"历史 · 美国 · 1917年",ru:"История · США · 1917",fa:"تاریخ · ایالات متحده · ۱۹۱۷",ar:"التاريخ · الولايات المتحدة · 1917"},
-  body:{
-    fr:`<p>Deux déclencheurs : la guerre sous-marine à outrance et le télégramme Zimmermann (l'Allemagne propose au Mexique de reconquérir le Texas et l'Arizona). Le 6 avril 1917 : déclaration de guerre. 2 millions de soldats. Victoire du 11 novembre 1918. Le Sénat refuse de ratifier Versailles.</p>`,
-    en:`<p>Two triggers: unrestricted submarine warfare and the Zimmermann telegram (Germany offers Mexico Texas and Arizona). 6 April 1917: declaration of war. 2 million soldiers. Victory on 11 November 1918. The Senate refused to ratify Versailles.</p>`,
-    zh:`<p>两个导火索：无限制潜艇战和齐默尔曼电报（德国向墨西哥提议夺回德克萨斯和亚利桑那州）。1917年4月6日：宣战。200万士兵。1918年11月11日胜利。参议院拒绝批准凡尔赛条约。</p>`
+    fr:`<p>Les substances per- et polyfluoroalkylées (PFAS), surnommées "polluants éternels" en raison de leur persistance quasi-indéfinie dans l'environnement, sont retrouvées dans les sols et les eaux à proximité de nombreux sites industriels français.</p><h4>Une contamination durable et difficile à quantifier</h4><p>Ces substances sont associées à des risques accrus pour la santé, notamment hormonaux et cancérigènes. Le nombre de sites industriels concernés reste difficile à établir précisément faute de cartographie nationale exhaustive.</p><h4>Le retard réglementaire</h4><p>La France a commencé à renforcer sa réglementation sur les PFAS plus tardivement que certains voisins européens, alors que les rejets industriels de ces substances remontent à plusieurs décennies.</p>`,
+    en:`<p>Per- and polyfluoroalkyl substances (PFAS), nicknamed "forever chemicals" due to their near-indefinite persistence in the environment, are found in soil and water near many French industrial sites.</p><h4>Lasting contamination that is hard to quantify</h4><p>These substances are associated with increased health risks, notably hormonal and carcinogenic. The number of industrial sites concerned remains difficult to establish precisely due to the lack of comprehensive national mapping.</p><h4>The regulatory delay</h4><p>France began strengthening its regulations on PFAS later than some European neighbors, even though industrial discharges of these substances date back several decades.</p>`,
+    zh:`<p>全氟和多氟烷基物质（PFAS），因其在环境中近乎无限的持久性而被称为"永久化学品"，在许多法国工业场址附近的土壤和水中被发现。</p><h4>持久且难以量化的污染</h4><p>这些物质与健康风险增加有关，尤其是激素和致癌风险。由于缺乏全面的国家地图测绘，相关工业场址的数量仍难以精确确定。</p><h4>监管滞后</h4><p>法国开始加强PFAS监管的时间比一些欧洲邻国晚，而这些物质的工业排放已经持续了数十年。</p>`,
+    ru:`<p>Пер- и полифторалкильные вещества (ПФАС), прозванные "вечными химикатами" из-за их почти бесконечной стойкости в окружающей среде, обнаруживаются в почве и воде вблизи многих французских промышленных объектов.</p><h4>Устойчивое загрязнение, трудно поддающееся количественной оценке</h4><p>Эти вещества связаны с повышенными рисками для здоровья.</p><h4>Задержка в регулировании</h4><p>Франция начала усиливать регулирование ПФАС позже, чем некоторые европейские соседи.</p>`,
+    fa:`<p>مواد پر و پلی‌فلوئوروآلکیل (PFAS)، ملقب به "مواد شیمیایی ابدی" به دلیل پایداری تقریباً نامحدود آنها در محیط زیست، در خاک و آب نزدیک بسیاری از سایت‌های صنعتی فرانسه یافت می‌شوند.</p><h4>آلودگی پایدار و دشوار برای اندازه‌گیری</h4><p>این مواد با افزایش خطرات سلامتی مرتبط هستند.</p><h4>تأخیر نظارتی</h4><p>فرانسه دیرتر از برخی همسایگان اروپایی شروع به تقویت مقررات PFAS کرد.</p>`,
+    ar:`<p>توجد مواد البيرفلوروألكيل والبولي فلوروألكيل (PFAS)، الملقبة بـ"الملوثات الأبدية" نظرًا لاستمرارها شبه اللانهائي في البيئة، في التربة والمياه بالقرب من العديد من المواقع الصناعية الفرنسية.</p><h4>تلوث دائم يصعب قياسه</h4><p>ترتبط هذه المواد بمخاطر صحية متزايدة.</p><h4>التأخير التنظيمي</h4><p>بدأت فرنسا في تعزيز لوائحها بشأن PFAS في وقت متأخر عن بعض جيرانها الأوروبيين.</p>`
   }
 }
 };
@@ -969,22 +922,50 @@ async function openDyn(pays, id) {
 }
 
 // ===== MODAL STATIQUE (Juridique + Histoire) =====
+const POL_IMG = {
+  pf1:'https://loremflickr.com/900/400/domesticabuse,shadow,silhouette',
+  pf2:'https://loremflickr.com/900/400/hospital,waitingroom,doctor',
+  pe1:'https://loremflickr.com/900/400/child,hand,family',
+  pe2:'https://loremflickr.com/900/400/smartphone,child,screen',
+  pv1:'https://loremflickr.com/900/400/tapwater,faucet,water',
+  pv2:'https://loremflickr.com/900/400/construction,field,aerial',
+  pv3:'https://loremflickr.com/900/400/factory,industrial,smokestack'
+};
+const POL_SOURCES = {
+  pf1:[{n:'Ministère de l\'Intérieur — Étude nationale sur les morts violentes au sein du couple',u:'https://www.interieur.gouv.fr'},{n:'HALDE / Fédération Nationale Solidarité Femmes',u:'https://www.solidaritefemmes.org'}],
+  pf2:[{n:'DREES — Portrait des professionnels de santé',u:'https://drees.solidarites-sante.gouv.fr'},{n:'Ordre national des médecins — Atlas de la démographie médicale',u:'https://www.conseil-national.medecin.fr'}],
+  pe1:[{n:'ONPE — Observatoire national de la protection de l\'enfance',u:'https://onpe.gouv.fr'},{n:'Défenseur des droits — Rapport annuel enfance',u:'https://www.defenseurdesdroits.fr'}],
+  pe2:[{n:'Haute Autorité de Santé — Recommandations écrans',u:'https://www.has-sante.fr'},{n:'ANSES — Expertise santé environnement',u:'https://www.anses.fr'}],
+  pv1:[{n:'Agence régionale de santé — Qualité de l\'eau potable',u:'https://www.ars.sante.fr'},{n:'Générations Futures — Rapport pesticides',u:'https://www.generations-futures.fr'}],
+  pv2:[{n:'CEREMA — Suivi de la consommation d\'espaces NAF',u:'https://www.cerema.fr'},{n:'Ministère de la Transition écologique — Bilan ZAN',u:'https://www.ecologie.gouv.fr'}],
+  pv3:[{n:'ANSES — Évaluation des risques PFAS',u:'https://www.anses.fr'},{n:'Générations Futures — Cartographie PFAS France',u:'https://www.generations-futures.fr'}]
+};
+
 function openS(id) {
   const c = CONTENT[id];
   if(!c) return;
   const t = T[LANG];
-  const emojis = {jf1:'⚖️',jf2:'⚖️',jf3:'📋',jf4:'🏛️',ji1:'💻',ji2:'🌍',ji3:'🚢',ji4:'🤖',hf1:'🏰',hf2:'👑',hf3:'🔴',hf4:'📜',hu1:'🦅',hu2:'⚔️',hu3:'🌄',hu4:'🪖'};
+  const emojis = {jf1:'⚖️',jf2:'⚖️',jf3:'📋',jf4:'🏛️',ji1:'💻',ji2:'🌍',ji3:'🚢',ji4:'🤖',hf1:'🏰',hf2:'👑',hf3:'🔴',hf4:'📜',hu1:'🦅',hu2:'⚔️',hu3:'🌄',hu4:'🪖',pf1:'🛡️',pf2:'🏥',pe1:'👶',pe2:'📱',pv1:'💧',pv2:'🌳',pv3:'🏭'};
   const tag = c.tag[LANG]||c.tag['en']||c.tag['fr'];
   const body = c.body[LANG]||c.body['en']||c.body['fr'];
   const titleKey = id+'-title';
   const dateKey = id+'-date';
+  const img = POL_IMG[id];
+  const srcList = POL_SOURCES[id];
+  const heroHtml = img
+    ? `<img class="modal-hero-img" src="${img}" alt="" loading="lazy" onerror="this.outerHTML='<div class=modal-hero-ph style=font-size:52px>${emojis[id]||'📖'}</div>'">`
+    : `<div class="modal-hero-ph" style="font-size:52px">${emojis[id]||'📖'}</div>`;
+  const srcHtml = srcList
+    ? `<div class="msource">${t['source']||'Sources'} : ${srcList.map(s=>`<a href="${s.u}" target="_blank" rel="noopener">${s.n} ↗</a>`).join(' · ')}</div>`
+    : '';
   document.getElementById('mbody').innerHTML = `
-    <div class="modal-hero-ph" style="font-size:52px">${emojis[id]||'📖'}</div>
+    ${heroHtml}
     <div class="modal-body">
       <div class="mtag">${tag}</div>
       <div class="mtitle">${t[titleKey]||''}</div>
       <div class="mdate">${t[dateKey]||''}</div>
       <div class="mbody">${body}</div>
+      ${srcHtml}
     </div>`;
   document.getElementById('modal').classList.add('open');
   document.getElementById('modal').scrollTop=0;
@@ -1020,7 +1001,7 @@ function clearS(){document.getElementById('si').value='';document.getElementById
 
 // ===== NAVIGATION =====
 function showSec(s) {
-  ['home','actu','jur','hist'].forEach(x=>{
+  ['home','actu','pol'].forEach(x=>{
     const el=document.getElementById('s-'+x);
     if(el) el.style.display=x===s?'block':'none';
     const nb=document.getElementById('nb-'+x);
@@ -1033,12 +1014,6 @@ function switchC(btn,pays){
   document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
   renderGrid(pays);
-}
-function switchH(btn,w){
-  document.querySelectorAll('.htab').forEach(t=>t.classList.remove('on'));
-  btn.classList.add('on');
-  document.getElementById('hfr').style.display=w==='fr'?'block':'none';
-  document.getElementById('hus').style.display=w==='us'?'block':'none';
 }
 function closeM(){document.getElementById('modal').classList.remove('open');}
 
