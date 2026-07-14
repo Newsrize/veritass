@@ -101,11 +101,14 @@ def analyser_tous(articles_par_pays):
         lines.append(f"PAYS:{pid} | TITRE:{titre} | DESC:{desc}")
         pays_order.append(pid)
 
-    prompt = f"""You are a journalist for Veritass.fr (French news site). Analyze these {len(lines)} news articles.
+    articles_txt = chr(10).join(f"{i+1}. {l}" for i,l in enumerate(lines))
+
+    # ===== APPEL 1 : FR / EN / ZH + secteurs financiers =====
+    prompt1 = f"""You are a journalist for Veritass.fr (French news site). Analyze these {len(lines)} news articles.
 Return ONLY a valid JSON array, no markdown, no explanation.
 
 Articles to analyze:
-{chr(10).join(f"{i+1}. {l}" for i,l in enumerate(lines))}
+{articles_txt}
 
 Return exactly {len(lines)} objects in this JSON array:
 [
@@ -114,21 +117,12 @@ Return exactly {len(lines)} objects in this JSON array:
     "titre_fr": "titre français max 12 mots",
     "titre_en": "english title max 12 words",
     "titre_zh": "中文标题最多12字",
-    "titre_ru": "заголовок на русском максимум 12 слов",
-    "titre_fa": "عنوان به فارسی حداکثر 12 کلمه",
-    "titre_ar": "عنوان بالعربية 12 كلمة كحد أقصى",
     "resume_fr": "Résumé 3 phrases complètes en français.",
     "resume_en": "Summary 3 complete sentences in English.",
     "resume_zh": "3句完整的中文摘要。",
-    "resume_ru": "Резюме 3 полных предложения на русском языке.",
-    "resume_fa": "خلاصه 3 جمله کامل به فارسی.",
-    "resume_ar": "ملخص 3 جمل كاملة باللغة العربية.",
     "analyse_fr": "Analyse 7 phrases en français: contexte historique, enjeux principaux, causes profondes, conséquences à court terme, conséquences à moyen terme, perspectives à long terme, position des acteurs.",
     "analyse_en": "Analysis 7 sentences in English: historical context, main stakes, root causes, short-term consequences, medium-term consequences, long-term prospects, position of actors.",
     "analyse_zh": "7句中文分析：历史背景、主要影响、深层原因、短期后果、中期后果、长期前景、各方立场。",
-    "analyse_ru": "Анализ 7 предложений на русском: исторический контекст, основные проблемы, глубинные причины, краткосрочные последствия, среднесрочные последствия, долгосрочные перспективы, позиции сторон.",
-    "analyse_fa": "تحلیل 7 جمله به فارسی: زمینه تاریخی، مسائل اصلی، علل ریشه‌ای، پیامدهای کوتاه‌مدت، پیامدهای میان‌مدت، چشم‌اندازهای بلندمدت، موضع بازیگران.",
-    "analyse_ar": "تحليل 7 جمل بالعربية: السياق التاريخي، القضايا الرئيسية، الأسباب الجذرية، العواقب قصيرة المدى، العواقب متوسطة المدى، الآفاق طويلة المدى، مواقف الأطراف.",
     "categorie": "Géopolitique",
     "s1_fr": "nom précis secteur financier impacté",
     "s1_en": "precise name of impacted financial sector",
@@ -147,26 +141,77 @@ Return exactly {len(lines)} objects in this JSON array:
   }}
 ]"""
 
-    text = groq_call(prompt)
-    if not text:
-        return {}
+    text1 = groq_call(prompt1)
+    out = {}
+    if text1:
+        m1 = re.search(r'\[[\s\S]*\]', text1)
+        if m1:
+            try:
+                results1 = json.loads(m1.group())
+                for i, obj in enumerate(results1):
+                    pid = obj.get("pays") or (pays_order[i] if i < len(pays_order) else None)
+                    if pid:
+                        out[pid] = obj
+            except Exception as e:
+                print(f"  ⚠ Erreur JSON (appel 1 FR/EN/ZH): {e}")
+        else:
+            print("  ⚠ Pas de JSON array (appel 1 FR/EN/ZH)")
+    else:
+        print("  ⚠ Appel 1 FR/EN/ZH: aucune réponse")
 
-    m = re.search(r'\[[\s\S]*\]', text)
-    if not m:
-        print("  ⚠ Pas de JSON array trouvé")
-        return {}
+    time.sleep(3)
 
-    try:
-        results = json.loads(m.group())
-        out = {}
-        for i, obj in enumerate(results):
-            pid = obj.get("pays") or (pays_order[i] if i < len(pays_order) else None)
-            if pid:
-                out[pid] = obj
-        return out
-    except Exception as e:
-        print(f"  ⚠ Erreur JSON: {e}")
-        return {}
+    # ===== APPEL 2 : RU / FA / AR uniquement (léger, moins de risque de troncature) =====
+    prompt2 = f"""You are a journalist. Translate these {len(lines)} news articles into Russian, Persian (Farsi) and Arabic.
+Return ONLY a valid JSON array, no markdown, no explanation, no commentary.
+
+Articles:
+{articles_txt}
+
+Return exactly {len(lines)} objects, in the SAME ORDER as the articles above:
+[
+  {{
+    "pays": "pays_id",
+    "titre_ru": "заголовок на русском максимум 12 слов",
+    "titre_fa": "عنوان به فارسی حداکثر 12 کلمه",
+    "titre_ar": "عنوان بالعربية 12 كلمة كحد أقصى",
+    "resume_ru": "Резюме 3 полных предложения на русском языке.",
+    "resume_fa": "خلاصه 3 جمله کامل به فارسی.",
+    "resume_ar": "ملخص 3 جمل كاملة باللغة العربية.",
+    "analyse_ru": "Анализ 5 предложений на русском: контекст, причины, последствия, перспективы, позиции сторон.",
+    "analyse_fa": "تحلیل 5 جمله به فارسی: زمینه، علل، پیامدها، چشم‌انداز، موضع بازیگران.",
+    "analyse_ar": "تحليل 5 جمل بالعربية: السياق، الأسباب، العواقب، الآفاق، مواقف الأطراف."
+  }}
+]"""
+
+    text2 = groq_call(prompt2)
+    if text2:
+        m2 = re.search(r'\[[\s\S]*\]', text2)
+        if m2:
+            try:
+                results2 = json.loads(m2.group())
+                for i, obj in enumerate(results2):
+                    pid = obj.get("pays") or (pays_order[i] if i < len(pays_order) else None)
+                    if pid and pid in out:
+                        out[pid].update({
+                            "titre_ru": obj.get("titre_ru",""),
+                            "titre_fa": obj.get("titre_fa",""),
+                            "titre_ar": obj.get("titre_ar",""),
+                            "resume_ru": obj.get("resume_ru",""),
+                            "resume_fa": obj.get("resume_fa",""),
+                            "resume_ar": obj.get("resume_ar",""),
+                            "analyse_ru": obj.get("analyse_ru",""),
+                            "analyse_fa": obj.get("analyse_fa",""),
+                            "analyse_ar": obj.get("analyse_ar",""),
+                        })
+            except Exception as e:
+                print(f"  ⚠ Erreur JSON (appel 2 RU/FA/AR): {e}")
+        else:
+            print("  ⚠ Pas de JSON array (appel 2 RU/FA/AR)")
+    else:
+        print("  ⚠ Appel 2 RU/FA/AR: aucune réponse")
+
+    return out
 
 def load_existing():
     try:
