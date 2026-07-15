@@ -14,9 +14,9 @@ PAYS = [
 ]
 
 POLITIQUE = [
-    {"id": "pol_femmes", "query": "France femmes violences conjugales feminicide protection", "lang": "fr", "sous_categorie": "femmes"},
-    {"id": "pol_enfants", "query": "France enfance protection aide sociale mineurs", "lang": "fr", "sous_categorie": "enfants"},
-    {"id": "pol_env", "query": "France environnement pollution pesticides climat", "lang": "fr", "sous_categorie": "environnement"},
+    {"id": "pol_femmes", "query": "féminicide OR \"violences conjugales\" OR \"violences faites aux femmes\"", "lang": "fr", "sous_categorie": "femmes"},
+    {"id": "pol_enfants", "query": "\"aide sociale à l'enfance\" OR \"protection de l'enfance\" OR \"enfants placés\" OR pédopsychiatrie", "lang": "fr", "sous_categorie": "enfants"},
+    {"id": "pol_env", "query": "pesticides OR PFAS OR \"artificialisation des sols\" OR \"pollution eau\"", "lang": "fr", "sous_categorie": "environnement"},
 ]
 
 IMGS = {
@@ -60,18 +60,20 @@ def is_valid(title, desc, pays_id=None):
             return False
     return True
 
-def get_one_article(query, lang, existing_titles, pays_id=None):
+def get_one_article(query, lang, existing_titles, pays_id=None, days=2):
     try:
         r = requests.get("https://newsapi.org/v2/everything", params={
             "q": query, "language": lang, "sortBy": "publishedAt",
-            "pageSize": 10, "apiKey": NEWSAPI_KEY,
-            "from": (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+            "pageSize": 15, "apiKey": NEWSAPI_KEY,
+            "from": (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
         }, timeout=10)
         if r.status_code == 200:
             for a in r.json().get("articles", []):
                 titre = (a.get("title") or "").strip()
                 if is_valid(titre, a.get("description"), pays_id) and normalize(titre) not in existing_titles:
                     return a
+        else:
+            print(f"  NewsAPI HTTP {r.status_code}: {r.text[:150]}")
     except Exception as e:
         print(f"  NewsAPI: {e}")
     return None
@@ -328,7 +330,7 @@ def build_article(pid, r, art, extra_fields=None):
         a.update(extra_fields)
     return a
 
-def generate_group(items, existing_by_id, group_name):
+def generate_group(items, existing_by_id, group_name, days=2):
     """Récupère + analyse + construit les articles pour une liste de sujets (PAYS ou POLITIQUE)"""
     articles_bruts = {}
     for item in items:
@@ -336,7 +338,7 @@ def generate_group(items, existing_by_id, group_name):
         existing_titles = {normalize(a.get("titre_original") or a.get("titre",""))
                           for a in existing_by_id.get(pid, [])}
         pays_filter = pid if pid in PAYS_KEYWORDS else None
-        art = get_one_article(item["query"], item["lang"], existing_titles, pays_filter)
+        art = get_one_article(item["query"], item["lang"], existing_titles, pays_filter, days=days)
         if art:
             titre = (art.get("title") or "").strip()
             print(f"→ {pid.upper()}: {titre[:60]}...")
@@ -384,7 +386,7 @@ def main():
 
     # ===== POLITIQUE (femmes/enfants/environnement) =====
     existing_pol_by_id = {p["id"]: [a for a in existing_pol if a.get("sous_categorie") == p.get("sous_categorie")] for p in POLITIQUE}
-    nouveaux_pol = generate_group(POLITIQUE, existing_pol_by_id, "Politique")
+    nouveaux_pol = generate_group(POLITIQUE, existing_pol_by_id, "Politique", days=14)
 
     new_pol_list = list(nouveaux_pol.values())
     for p in POLITIQUE:
