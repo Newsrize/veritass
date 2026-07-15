@@ -13,6 +13,12 @@ PAYS = [
     {"id": "iran",   "query": "Iran Tehran nuclear Khamenei Hormuz 2026", "lang": "en"},
 ]
 
+POLITIQUE = [
+    {"id": "pol_femmes", "query": "France femmes violences conjugales feminicide protection", "lang": "fr", "sous_categorie": "femmes"},
+    {"id": "pol_enfants", "query": "France enfance protection aide sociale mineurs", "lang": "fr", "sous_categorie": "enfants"},
+    {"id": "pol_env", "query": "France environnement pollution pesticides climat", "lang": "fr", "sous_categorie": "environnement"},
+]
+
 IMGS = {
     "monde":  "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
     "france": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80",
@@ -20,6 +26,9 @@ IMGS = {
     "chine":  "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
     "russie": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
     "iran":   "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
+    "pol_femmes":  "https://loremflickr.com/800/450/womensrights,protest",
+    "pol_enfants": "https://loremflickr.com/800/450/childcare,family",
+    "pol_env":     "https://loremflickr.com/800/450/pollution,environment",
 }
 
 EXCLUS = ["market report","market size","market research","global market","forecasted",
@@ -220,6 +229,34 @@ def load_existing():
     except:
         return {}
 
+def load_existing_politique():
+    try:
+        with open("news_data.json", "r", encoding="utf-8") as f:
+            return json.load(f).get("politique", [])
+    except:
+        return []
+
+def clean_politique(arts):
+    cutoff = datetime.now() - timedelta(days=180)
+    seen, kept = set(), []
+    for a in arts:
+        if not a.get("titre_en") or len(a.get("titre_en","")) < 3:
+            continue
+        if not a.get("resume_en") or len(a.get("resume_en","")) < 10:
+            continue
+        try:
+            if datetime.strptime(a.get("date","2020-01-01"), "%Y-%m-%d") < cutoff:
+                continue
+        except:
+            pass
+        k = normalize(a.get("titre_original") or a.get("titre",""))
+        if k in seen:
+            continue
+        seen.add(k)
+        kept.append(a)
+    kept.sort(key=lambda x: x.get("created_at",""), reverse=True)
+    return kept
+
 def clean(data):
     cutoff = datetime.now() - timedelta(days=180)
     cleaned = {}
@@ -244,17 +281,62 @@ def clean(data):
         cleaned[pays] = kept[:20]
     return cleaned
 
-def main():
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage (Groq)...")
-    existing = clean(load_existing())
+def build_article(pid, r, art, extra_fields=None):
+    titre = (art.get("title") or "").strip()
+    a = {
+        "id": f"{pid}_{abs(hash(titre)) % 1000000}",
+        "titre": r.get("titre_fr", titre),
+        "titre_en": r.get("titre_en", titre),
+        "titre_zh": r.get("titre_zh", titre),
+        "titre_ru": r.get("titre_ru", titre),
+        "titre_fa": r.get("titre_fa", titre),
+        "titre_ar": r.get("titre_ar", titre),
+        "titre_original": titre,
+        "resume": r.get("resume_fr", ""),
+        "resume_en": r.get("resume_en", ""),
+        "resume_zh": r.get("resume_zh", ""),
+        "resume_ru": r.get("resume_ru", ""),
+        "resume_fa": r.get("resume_fa", ""),
+        "resume_ar": r.get("resume_ar", ""),
+        "analyse_detaillee": r.get("analyse_fr", ""),
+        "analyse_en": r.get("analyse_en", ""),
+        "analyse_zh": r.get("analyse_zh", ""),
+        "analyse_ru": r.get("analyse_ru", ""),
+        "analyse_fa": r.get("analyse_fa", ""),
+        "analyse_ar": r.get("analyse_ar", ""),
+        "categorie": r.get("categorie", "Actualité"),
+        "source": art.get("source", {}).get("name", ""),
+        "url": art.get("url", "#"),
+        "image": art.get("urlToImage") or IMGS.get(pid, ""),
+        "date": (art.get("publishedAt") or "")[:10],
+        "pays": pid,
+        "badges": [
+            {"label": f"{'▲' if r.get('s1_hausse') else '▼'} {r.get('s1_fr','')}", "hausse": r.get("s1_hausse", False)},
+            {"label": f"{'▲' if r.get('s2_hausse') else '▼'} {r.get('s2_fr','')}", "hausse": r.get("s2_hausse", False)},
+        ],
+        "impact_marches": [
+            {"secteur_fr": r.get("s1_fr",""), "secteur_en": r.get("s1_en",""), "secteur_zh": r.get("s1_zh",""),
+             "effet_fr": r.get("s1_effet_fr",""), "effet_en": r.get("s1_effet_en",""), "effet_zh": r.get("s1_effet_zh",""),
+             "hausse": r.get("s1_hausse", False)},
+            {"secteur_fr": r.get("s2_fr",""), "secteur_en": r.get("s2_en",""), "secteur_zh": r.get("s2_zh",""),
+             "effet_fr": r.get("s2_effet_fr",""), "effet_en": r.get("s2_effet_en",""), "effet_zh": r.get("s2_effet_zh",""),
+             "hausse": r.get("s2_hausse", False)},
+        ],
+        "created_at": datetime.now().isoformat()
+    }
+    if extra_fields:
+        a.update(extra_fields)
+    return a
 
-    # Collecter un article par pays
+def generate_group(items, existing_by_id, group_name):
+    """Récupère + analyse + construit les articles pour une liste de sujets (PAYS ou POLITIQUE)"""
     articles_bruts = {}
-    for pays in PAYS:
-        pid = pays["id"]
+    for item in items:
+        pid = item["id"]
         existing_titles = {normalize(a.get("titre_original") or a.get("titre",""))
-                          for a in existing.get(pid, [])}
-        art = get_one_article(pays["query"], pays["lang"], existing_titles, pid)
+                          for a in existing_by_id.get(pid, [])}
+        pays_filter = pid if pid in PAYS_KEYWORDS else None
+        art = get_one_article(item["query"], item["lang"], existing_titles, pays_filter)
         if art:
             titre = (art.get("title") or "").strip()
             print(f"→ {pid.upper()}: {titre[:60]}...")
@@ -262,62 +344,31 @@ def main():
         else:
             print(f"→ {pid.upper()}: aucun nouvel article")
 
-    # Une seule requête Groq pour tout analyser
-    nouveaux_analysés = {}
+    nouveaux = {}
     if articles_bruts:
-        print(f"\nAnalyse Groq ({len(articles_bruts)} articles)...")
+        print(f"\nAnalyse Groq [{group_name}] ({len(articles_bruts)} articles)...")
         resultats = analyser_tous(articles_bruts)
-
         for pid, r in resultats.items():
             if not r or not r.get("titre_en") or not r.get("resume_en"):
                 print(f"  {pid}: ❌ résultat invalide")
                 continue
             art = articles_bruts.get(pid, {})
-            titre = (art.get("title") or "").strip()
-            nouveaux_analysés[pid] = {
-                "id": f"{pid}_{abs(hash(titre)) % 1000000}",
-                "titre": r.get("titre_fr", titre),
-                "titre_en": r.get("titre_en", titre),
-                "titre_zh": r.get("titre_zh", titre),
-                "titre_ru": r.get("titre_ru", titre),
-                "titre_fa": r.get("titre_fa", titre),
-                "titre_ar": r.get("titre_ar", titre),
-                "titre_original": titre,
-                "resume": r.get("resume_fr", ""),
-                "resume_en": r.get("resume_en", ""),
-                "resume_zh": r.get("resume_zh", ""),
-                "resume_ru": r.get("resume_ru", ""),
-                "resume_fa": r.get("resume_fa", ""),
-                "resume_ar": r.get("resume_ar", ""),
-                "analyse_detaillee": r.get("analyse_fr", ""),
-                "analyse_en": r.get("analyse_en", ""),
-                "analyse_zh": r.get("analyse_zh", ""),
-                "analyse_ru": r.get("analyse_ru", ""),
-                "analyse_fa": r.get("analyse_fa", ""),
-                "analyse_ar": r.get("analyse_ar", ""),
-                "categorie": r.get("categorie", "Actualité"),
-                "source": art.get("source", {}).get("name", ""),
-                "url": art.get("url", "#"),
-                "image": art.get("urlToImage") or IMGS.get(pid, ""),
-                "date": (art.get("publishedAt") or "")[:10],
-                "pays": pid,
-                "badges": [
-                    {"label": f"{'▲' if r.get('s1_hausse') else '▼'} {r.get('s1_fr','')}", "hausse": r.get("s1_hausse", False)},
-                    {"label": f"{'▲' if r.get('s2_hausse') else '▼'} {r.get('s2_fr','')}", "hausse": r.get("s2_hausse", False)},
-                ],
-                "impact_marches": [
-                    {"secteur_fr": r.get("s1_fr",""), "secteur_en": r.get("s1_en",""), "secteur_zh": r.get("s1_zh",""),
-                     "effet_fr": r.get("s1_effet_fr",""), "effet_en": r.get("s1_effet_en",""), "effet_zh": r.get("s1_effet_zh",""),
-                     "hausse": r.get("s1_hausse", False)},
-                    {"secteur_fr": r.get("s2_fr",""), "secteur_en": r.get("s2_en",""), "secteur_zh": r.get("s2_zh",""),
-                     "effet_fr": r.get("s2_effet_fr",""), "effet_en": r.get("s2_effet_en",""), "effet_zh": r.get("s2_effet_zh",""),
-                     "hausse": r.get("s2_hausse", False)},
-                ],
-                "created_at": datetime.now().isoformat()
-            }
+            extra = {}
+            item = next((i for i in items if i["id"] == pid), None)
+            if item and item.get("sous_categorie"):
+                extra["sous_categorie"] = item["sous_categorie"]
+            nouveaux[pid] = build_article(pid, r, art, extra)
             print(f"  {pid}: ✅ {r.get('titre_fr','')[:50]}")
+    return nouveaux
 
-    # Fusionner nouveaux + anciens (6 mois)
+def main():
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage (Groq)...")
+    existing = clean(load_existing())
+    existing_pol = clean_politique(load_existing_politique())
+
+    # ===== ACTUALITÉ (6 pays) =====
+    nouveaux_analysés = generate_group(PAYS, existing, "Actualité")
+
     new_articles = {}
     for pays in PAYS:
         pid = pays["id"]
@@ -331,13 +382,27 @@ def main():
             new_articles[pid] = old[:20]
         print(f"  {pid}: {len(new_articles[pid])} articles conservés")
 
+    # ===== POLITIQUE (femmes/enfants/environnement) =====
+    existing_pol_by_id = {p["id"]: [a for a in existing_pol if a.get("sous_categorie") == p.get("sous_categorie")] for p in POLITIQUE}
+    nouveaux_pol = generate_group(POLITIQUE, existing_pol_by_id, "Politique")
+
+    new_pol_list = list(nouveaux_pol.values())
+    for p in POLITIQUE:
+        pid = p["id"]
+        if pid not in nouveaux_pol:
+            new_pol_list.extend(existing_pol_by_id.get(pid, [])[:6])
+        else:
+            new_pol_list.extend(existing_pol_by_id.get(pid, [])[:5])
+    print(f"  politique: {len(new_pol_list)} articles au total")
+
     with open("news_data.json", "w", encoding="utf-8") as f:
         json.dump({
             "last_updated": datetime.now().strftime("%d/%m/%Y à %Hh%M"),
-            "articles": new_articles
+            "articles": new_articles,
+            "politique": new_pol_list
         }, f, ensure_ascii=False, indent=2)
 
-    total = sum(len(v) for v in new_articles.values())
+    total = sum(len(v) for v in new_articles.values()) + len(new_pol_list)
     print(f"\n✅ Terminé — {total} articles (6 mois conservés)")
 
 if __name__ == "__main__":
