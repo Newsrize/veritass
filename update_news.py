@@ -14,9 +14,9 @@ PAYS = [
 ]
 
 POLITIQUE = [
-    {"id": "pol_femmes", "query": "féminicide OR \"violences conjugales\" OR \"violences faites aux femmes\"", "lang": "fr", "sous_categorie": "femmes"},
-    {"id": "pol_enfants", "query": "\"aide sociale à l'enfance\" OR \"protection de l'enfance\" OR \"enfants placés\" OR pédopsychiatrie", "lang": "fr", "sous_categorie": "enfants"},
-    {"id": "pol_env", "query": "pesticides OR PFAS OR \"artificialisation des sols\" OR \"pollution eau\"", "lang": "fr", "sous_categorie": "environnement"},
+    {"id": "pol_femmes", "queries": ["féminicide OR \"violences conjugales\"", "\"violences faites aux femmes\"", "féminicide"], "lang": "fr", "sous_categorie": "femmes"},
+    {"id": "pol_enfants", "queries": ["\"aide sociale à l'enfance\" OR \"protection de l'enfance\"", "\"enfants placés\" OR pédopsychiatrie", "protection enfance"], "lang": "fr", "sous_categorie": "enfants"},
+    {"id": "pol_env", "queries": ["pesticides OR PFAS", "\"artificialisation des sols\" OR \"pollution eau\"", "pollution environnement France"], "lang": "fr", "sous_categorie": "environnement"},
 ]
 
 IMGS = {
@@ -338,13 +338,19 @@ def generate_group(items, existing_by_id, group_name, days=2):
         existing_titles = {normalize(a.get("titre_original") or a.get("titre",""))
                           for a in existing_by_id.get(pid, [])}
         pays_filter = pid if pid in PAYS_KEYWORDS else None
-        art = get_one_article(item["query"], item["lang"], existing_titles, pays_filter, days=days)
+        queries_list = item.get("queries") or [item.get("query")]
+        art = None
+        for q in queries_list:
+            art = get_one_article(q, item["lang"], existing_titles, pays_filter, days=days)
+            if art:
+                break
+            print(f"  ({pid}) requête sans résultat: {q[:50]}, essai suivant...")
         if art:
             titre = (art.get("title") or "").strip()
             print(f"→ {pid.upper()}: {titre[:60]}...")
             articles_bruts[pid] = art
         else:
-            print(f"→ {pid.upper()}: aucun nouvel article")
+            print(f"→ {pid.upper()}: aucun nouvel article (toutes requêtes épuisées)")
 
     nouveaux = {}
     if articles_bruts:
