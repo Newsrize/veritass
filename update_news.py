@@ -14,9 +14,9 @@ PAYS = [
 ]
 
 POLITIQUE = [
-    {"id": "pol_femmes", "queries": ["féminicide OR \"violences conjugales\"", "\"violences faites aux femmes\"", "féminicide"], "lang": "fr", "sous_categorie": "femmes"},
-    {"id": "pol_enfants", "queries": ["\"aide sociale à l'enfance\" OR \"protection de l'enfance\"", "\"enfants placés\" OR pédopsychiatrie", "protection enfance"], "lang": "fr", "sous_categorie": "enfants"},
-    {"id": "pol_env", "queries": ["pesticides OR PFAS", "\"artificialisation des sols\" OR \"pollution eau\"", "pollution environnement France"], "lang": "fr", "sous_categorie": "environnement"},
+    {"id": "pol_femmes", "sous_categorie": "femmes"},
+    {"id": "pol_enfants", "sous_categorie": "enfants"},
+    {"id": "pol_env", "sous_categorie": "environnement"},
 ]
 
 IMGS = {
@@ -60,23 +60,93 @@ def is_valid(title, desc, pays_id=None):
             return False
     return True
 
-def get_one_article(query, lang, existing_titles, pays_id=None, days=2):
+POL_KEYWORDS = {
+    "femmes": ["féminicide","violence conjugale","violences faites aux femmes","femme battue","gynécolog"],
+    "enfants": ["aide sociale à l'enfance","protection de l'enfance","enfant placé","pédopsychiatr","écran enfant","mineur"],
+    "environnement": ["pesticide","pfas","polluant éternel","artificialisation","pollution de l'eau","zéro artificialisation"],
+}
+
+def newsapi_call(query, lang, page_size, days):
+    """Un seul appel NewsAPI, retourne la liste brute d'articles (ou [] en cas d'échec)"""
     try:
         r = requests.get("https://newsapi.org/v2/everything", params={
             "q": query, "language": lang, "sortBy": "publishedAt",
-            "pageSize": 15, "apiKey": NEWSAPI_KEY,
+            "pageSize": page_size, "apiKey": NEWSAPI_KEY,
             "from": (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
-        }, timeout=10)
+        }, timeout=15)
         if r.status_code == 200:
-            for a in r.json().get("articles", []):
-                titre = (a.get("title") or "").strip()
-                if is_valid(titre, a.get("description"), pays_id) and normalize(titre) not in existing_titles:
-                    return a
+            return r.json().get("articles", [])
+        elif r.status_code == 429 or r.status_code == 426:
+            print(f"  ⚠ QUOTA NewsAPI épuisé (HTTP {r.status_code}) — plus aucune actualité ne pourra être récupérée aujourd'hui.")
         else:
             print(f"  NewsAPI HTTP {r.status_code}: {r.text[:150]}")
     except Exception as e:
         print(f"  NewsAPI: {e}")
-    return None
+    return []
+
+def classify_and_pick(articles, buckets_keywords, existing_titles_by_bucket, default_bucket=None):
+    """Répartit une liste d'articles bruts dans des buckets (pays ou sous-catégorie) par mots-clés,
+    et retourne au plus 1 nouvel article par bucket (le premier valide et non déjà vu)."""
+    picked = {}
+    for a in articles:
+        titre = (a.get("title") or "").strip()
+        desc = a.get("description") or ""
+        if not is_valid(titre, desc):
+            continue
+        text = (titre + " " + desc).lower()
+        norm = normalize(titre)
+
+        bucket_found = None
+        for bucket, kws in buckets_keywords.items():
+            if kws and any(kw in text for kw in kws):
+                bucket_found = bucket
+                break
+        if not bucket_found and default_bucket:
+            bucket_found = default_bucket
+
+        if not bucket_found or bucket_found in picked:
+            continue
+        if norm in existing_titles_by_bucket.get(bucket_found, set()):
+            continue
+        picked[bucket_found] = a
+    return picked
+
+def fetch_pays_articles(existing_by_id, days=2):
+    """3 appels NewsAPI max : 1 pour les pays anglophones groupés, 1 pour France, classification locale."""
+    existing_titles = {pid: {normalize(a.get("titre_original") or a.get("titre",""))
+                             for a in existing_by_id.get(pid, [])} for pid in PAYS_KEYWORDS}
+
+    # Appel 1 : tous les pays anglophones en une requête large
+    en_query = "(NATO OR Trump OR \"Xi Jinping\" OR Putin OR Iran OR Kremlin OR Kyiv OR Beijing OR Washington OR Tehran OR Taiwan OR Ukraine)"
+    en_articles = newsapi_call(en_query, "en", 50, days)
+    en_buckets = {k: v for k, v in PAYS_KEYWORDS.items() if k != "france"}
+    picked_en = classify_and_pick(en_articles, en_buckets, existing_titles, default_bucket="monde")
+
+    # Appel 2 : France en français
+    fr_articles = newsapi_call("France Macron gouvernement economie", "fr", 20, days)
+    picked_fr = classify_and_pick(fr_articles, {"france": []}, existing_titles, default_bucket="france")
+
+    picked = {**picked_en, **picked_fr}
+    for pid in PAYS_KEYWORDS:
+        if pid in picked:
+            print(f"→ {pid.upper()}: {picked[pid].get('title','')[:60]}...")
+        else:
+            print(f"→ {pid.upper()}: aucun nouvel article")
+    return picked
+
+def fetch_politique_articles(existing_by_id, days=14):
+    """1 seul appel NewsAPI pour les 3 sous-catégories politique, classification locale par mots-clés."""
+    existing_titles = {sc: {normalize(a.get("titre_original") or a.get("titre",""))
+                            for a in existing_by_id.get(sc, [])} for sc in POL_KEYWORDS}
+    query = "féminicide OR \"protection de l'enfance\" OR pesticides OR PFAS OR \"pollution de l'eau\" OR \"violences conjugales\""
+    articles = newsapi_call(query, "fr", 30, days)
+    picked = classify_and_pick(articles, POL_KEYWORDS, existing_titles)
+    for sc in POL_KEYWORDS:
+        if sc in picked:
+            print(f"→ POL_{sc.upper()}: {picked[sc].get('title','')[:60]}...")
+        else:
+            print(f"→ POL_{sc.upper()}: aucun nouvel article")
+    return picked
 
 def groq_call(prompt):
     for model in ["llama-3.3-70b-versatile", "llama3-70b-8192", "mixtral-8x7b-32768"]:
@@ -330,28 +400,8 @@ def build_article(pid, r, art, extra_fields=None):
         a.update(extra_fields)
     return a
 
-def generate_group(items, existing_by_id, group_name, days=2):
-    """Récupère + analyse + construit les articles pour une liste de sujets (PAYS ou POLITIQUE)"""
-    articles_bruts = {}
-    for item in items:
-        pid = item["id"]
-        existing_titles = {normalize(a.get("titre_original") or a.get("titre",""))
-                          for a in existing_by_id.get(pid, [])}
-        pays_filter = pid if pid in PAYS_KEYWORDS else None
-        queries_list = item.get("queries") or [item.get("query")]
-        art = None
-        for q in queries_list:
-            art = get_one_article(q, item["lang"], existing_titles, pays_filter, days=days)
-            if art:
-                break
-            print(f"  ({pid}) requête sans résultat: {q[:50]}, essai suivant...")
-        if art:
-            titre = (art.get("title") or "").strip()
-            print(f"→ {pid.upper()}: {titre[:60]}...")
-            articles_bruts[pid] = art
-        else:
-            print(f"→ {pid.upper()}: aucun nouvel article (toutes requêtes épuisées)")
-
+def analyze_and_build(articles_bruts, items_by_id, group_name):
+    """Analyse Groq + construction des articles finaux à partir d'un dict {pid: article_brut}"""
     nouveaux = {}
     if articles_bruts:
         print(f"\nAnalyse Groq [{group_name}] ({len(articles_bruts)} articles)...")
@@ -362,7 +412,7 @@ def generate_group(items, existing_by_id, group_name, days=2):
                 continue
             art = articles_bruts.get(pid, {})
             extra = {}
-            item = next((i for i in items if i["id"] == pid), None)
+            item = items_by_id.get(pid)
             if item and item.get("sous_categorie"):
                 extra["sous_categorie"] = item["sous_categorie"]
             nouveaux[pid] = build_article(pid, r, art, extra)
@@ -370,12 +420,14 @@ def generate_group(items, existing_by_id, group_name, days=2):
     return nouveaux
 
 def main():
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage (Groq)...")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Démarrage (3 requêtes NewsAPI max par run)...")
     existing = clean(load_existing())
     existing_pol = clean_politique(load_existing_politique())
 
-    # ===== ACTUALITÉ (6 pays) =====
-    nouveaux_analysés = generate_group(PAYS, existing, "Actualité")
+    # ===== ACTUALITÉ (6 pays, 2 appels NewsAPI seulement) =====
+    picked_pays = fetch_pays_articles(existing)
+    pays_items_by_id = {p["id"]: p for p in PAYS}
+    nouveaux_analysés = analyze_and_build(picked_pays, pays_items_by_id, "Actualité")
 
     new_articles = {}
     for pays in PAYS:
@@ -390,17 +442,25 @@ def main():
             new_articles[pid] = old[:20]
         print(f"  {pid}: {len(new_articles[pid])} articles conservés")
 
-    # ===== POLITIQUE (femmes/enfants/environnement) =====
-    existing_pol_by_id = {p["id"]: [a for a in existing_pol if a.get("sous_categorie") == p.get("sous_categorie")] for p in POLITIQUE}
-    nouveaux_pol = generate_group(POLITIQUE, existing_pol_by_id, "Politique", days=14)
+    # ===== POLITIQUE (femmes/enfants/environnement, 1 seul appel NewsAPI) =====
+    existing_pol_by_id = {p["sous_categorie"]: [a for a in existing_pol if a.get("sous_categorie") == p["sous_categorie"]] for p in POLITIQUE}
+    picked_pol = fetch_politique_articles(existing_pol_by_id)
+    pol_items_by_id = {p["sous_categorie"]: p for p in POLITIQUE}
+    # picked_pol est keyé par sous_categorie ; on le remappe vers l'id pol_xxx pour build_article
+    picked_pol_by_pid = {}
+    for sc, art in picked_pol.items():
+        item = pol_items_by_id.get(sc)
+        if item:
+            picked_pol_by_pid[item["id"]] = art
+    items_by_pid_for_build = {p["id"]: p for p in POLITIQUE}
+    nouveaux_pol = analyze_and_build(picked_pol_by_pid, items_by_pid_for_build, "Politique")
 
     new_pol_list = list(nouveaux_pol.values())
     for p in POLITIQUE:
+        sc = p["sous_categorie"]
         pid = p["id"]
-        if pid not in nouveaux_pol:
-            new_pol_list.extend(existing_pol_by_id.get(pid, [])[:6])
-        else:
-            new_pol_list.extend(existing_pol_by_id.get(pid, [])[:5])
+        keep_n = 5 if pid in nouveaux_pol else 6
+        new_pol_list.extend(existing_pol_by_id.get(sc, [])[:keep_n])
     print(f"  politique: {len(new_pol_list)} articles au total")
 
     with open("news_data.json", "w", encoding="utf-8") as f:
@@ -411,7 +471,7 @@ def main():
         }, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in new_articles.values()) + len(new_pol_list)
-    print(f"\n✅ Terminé — {total} articles (6 mois conservés)")
+    print(f"\n✅ Terminé — {total} articles (6 mois conservés) — 3 requêtes NewsAPI utilisées ce run")
 
 if __name__ == "__main__":
     main()
