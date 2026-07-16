@@ -186,6 +186,7 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
     <button class="nav-btn on" id="nb-home" onclick="showSec('home')" data-i18n="nav-home">Accueil</button>
     <button class="nav-btn" id="nb-actu" onclick="showSec('actu')" data-i18n="nav-actu">Actualité</button>
     <button class="nav-btn" id="nb-pol" onclick="showSec('pol')" data-i18n="nav-pol">Politique</button>
+    <button class="nav-btn" id="nb-arch" onclick="showSec('arch')" data-i18n="nav-arch">Archives</button>
   </div>
   <div class="nav-right">
     <div class="lang-sw">
@@ -285,6 +286,19 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
   </div>
 </div>
 
+<!-- ARCHIVES -->
+<div id="s-arch" style="display:none">
+  <div class="wrap">
+    <div class="sec-head"><div class="sec-head-left"><div class="sec-bar" style="background:var(--muted)"></div><h2 style="color:var(--muted)" data-i18n="nav-arch">Archives</h2></div></div>
+    <div class="disclaimer"><span>⏳</span><span data-i18n="arch-warning">Les articles sont conservés 6 mois puis supprimés automatiquement. Consultez-les avant leur suppression.</span></div>
+    <div class="tabs">
+      <button class="tab on" onclick="switchArch(this,'actu')" data-i18n="nav-actu">Actualité & marchés</button>
+      <button class="tab" onclick="switchArch(this,'pol')" data-i18n="nav-pol">Politique</button>
+    </div>
+    <div id="arch-list"><div class="loading">Chargement…</div></div>
+  </div>
+</div>
+
 <div class="modal-bg" id="modal" onclick="if(event.target===this)closeM()">
   <div class="modal"><button class="modal-x" onclick="closeM()">✕</button><div id="mbody"></div></div>
 </div>
@@ -299,7 +313,7 @@ footer{border-top:1px solid var(--faint);padding:1.5rem;text-align:center;backgr
 // ===== TRADUCTIONS COMPLÈTES =====
 const T = {
 fr:{
-  "nav-home":"Accueil","nav-actu":"Actualité & marchés","nav-pol":"Politique",
+  "nav-home":"Accueil","nav-actu":"Actualité & marchés","nav-pol":"Politique","nav-arch":"Archives","arch-warning":"Les articles sont conservés 6 mois puis supprimés automatiquement. Consultez-les avant leur suppression.","arch-empty":"Aucun article archivé.",
   "eyebrow":"Anti-désinformation · Éducation · Analyse",
   "hero-title":"L'information <em>vérifiée</em>,<br>analysée pour vous.",
   "hero-sub":"Actualité et marchés, droit français et international, histoire — résumés, sourcés, mis à jour toutes les heures.",
@@ -341,7 +355,7 @@ fr:{
   "hu4-title":"L'entrée des États-Unis dans la Première Guerre mondiale (1917)","hu4-date":"États-Unis · 1917"
 },
 en:{
-  "nav-home":"Home","nav-actu":"News & markets","nav-pol":"Politics",
+  "nav-home":"Home","nav-actu":"News & markets","nav-pol":"Politics","nav-arch":"Archive","arch-warning":"Articles are kept for 6 months then automatically deleted. Read them before removal.","arch-empty":"No archived articles.",
   "eyebrow":"Anti-disinformation · Education · Analysis",
   "hero-title":"<em>Verified</em> information,<br>analyzed for you.",
   "hero-sub":"News & markets, French and international law, history — summarized, sourced, updated every hour.",
@@ -383,7 +397,7 @@ en:{
   "hu4-title":"The United States enters World War I (1917)","hu4-date":"United States · 1917"
 },
 ru:{
-  "nav-home":"Главная","nav-actu":"Новости и рынки","nav-pol":"Политика",
+  "nav-home":"Главная","nav-actu":"Новости и рынки","nav-pol":"Политика","nav-arch":"Архив","arch-warning":"Статьи хранятся 6 месяцев, затем автоматически удаляются. Прочитайте их до удаления.","arch-empty":"Нет архивных статей.",
   "desc-pol":"Франция — защита женщин, детей и окружающей среды: то, о чём говорят недостаточно.",
   "pol-intro":"О чём редко говорят политики: защита женщин, детей и окружающей среды во Франции.",
   "pol-cat-femmes":"Защита женщин","pol-cat-enfants":"Защита детей","pol-cat-env":"Окружающая среда","pol-cat-env2":"Окружающая среда · продолжение",
@@ -427,7 +441,7 @@ ru:{
   "hu4-title":"Вступление США в Первую мировую войну (1917)","hu4-date":"США · 1917"
 },
 fa:{
-  "nav-home":"خانه","nav-actu":"اخبار و بازارها","nav-pol":"سیاست",
+  "nav-home":"خانه","nav-actu":"اخبار و بازارها","nav-pol":"سیاست","nav-arch":"بایگانی","arch-warning":"مقالات به مدت 6 ماه نگهداری و سپس به طور خودکار حذف می‌شوند. قبل از حذف آنها را بخوانید.","arch-empty":"هیچ مقاله بایگانی شده‌ای وجود ندارد.",
   "desc-pol":"فرانسه — حمایت از زنان، کودکان و محیط زیست: آنچه توجه کافی دریافت نمی‌کند.",
   "pol-intro":"آنچه سیاستمداران به ندرت درباره آن صحبت می‌کنند: حمایت از زنان، کودکان و محیط زیست در فرانسه.",
   "pol-cat-femmes":"حمایت از زنان","pol-cat-enfants":"حمایت از کودکان","pol-cat-env":"محیط زیست","pol-cat-env2":"محیط زیست · ادامه",
@@ -471,7 +485,7 @@ fa:{
   "hu4-title":"ورود ایالات متحده به جنگ جهانی اول (1917)","hu4-date":"ایالات متحده · 1917"
 },
 ar:{
-  "nav-home":"الرئيسية","nav-actu":"الأخبار والأسواق","nav-pol":"السياسة",
+  "nav-home":"الرئيسية","nav-actu":"الأخبار والأسواق","nav-pol":"السياسة","nav-arch":"الأرشيف","arch-warning":"يتم الاحتفاظ بالمقالات لمدة 6 أشهر ثم حذفها تلقائيًا. اطلع عليها قبل حذفها.","arch-empty":"لا توجد مقالات مؤرشفة.",
   "desc-pol":"فرنسا — حماية النساء والأطفال والبيئة: ما لا يحظى باهتمام كافٍ.",
   "pol-intro":"ما يناقشه السياسيون نادرًا: حماية النساء والأطفال والبيئة في فرنسا.",
   "pol-cat-femmes":"حماية النساء","pol-cat-enfants":"حماية الأطفال","pol-cat-env":"البيئة","pol-cat-env2":"البيئة · تابع",
@@ -515,7 +529,7 @@ ar:{
   "hu4-title":"دخول الولايات المتحدة الحرب العالمية الأولى (1917)","hu4-date":"الولايات المتحدة · 1917"
 },
 zh:{
-  "nav-home":"主页","nav-actu":"新闻与市场","nav-pol":"政治",
+  "nav-home":"主页","nav-actu":"新闻与市场","nav-pol":"政治","nav-arch":"存档","arch-warning":"文章保留6个月后自动删除。请在删除前查阅。","arch-empty":"没有存档文章。",
   "desc-pol":"法国——妇女、儿童和环境保护：未被充分关注的议题。",
   "pol-intro":"政界很少谈及的话题：法国的妇女保护、儿童保护和环境保护。",
   "pol-cat-femmes":"妇女保护","pol-cat-enfants":"儿童保护","pol-cat-env":"环境","pol-cat-env2":"环境（续）",
@@ -919,19 +933,51 @@ function clearS(){document.getElementById('si').value='';document.getElementById
 
 // ===== NAVIGATION =====
 function showSec(s) {
-  ['home','actu','pol'].forEach(x=>{
+  ['home','actu','pol','arch'].forEach(x=>{
     const el=document.getElementById('s-'+x);
     if(el) el.style.display=x===s?'block':'none';
     const nb=document.getElementById('nb-'+x);
     if(nb) nb.classList.toggle('on',x===s);
   });
   if(s==='actu') renderGrid(currentCountry);
+  if(s==='arch') renderArchive('actu');
   window.scrollTo({top:0,behavior:'smooth'});
 }
 function switchC(btn,pays){
   document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
   renderGrid(pays);
+}
+let currentArchType = 'actu';
+function switchArch(btn,type){
+  document.querySelectorAll('#s-arch .tab').forEach(t=>t.classList.remove('on'));
+  btn.classList.add('on');
+  renderArchive(type);
+}
+function renderArchive(type){
+  currentArchType = type;
+  const el = document.getElementById('arch-list');
+  const t = T[LANG];
+  let all = [];
+  if(type === 'actu') {
+    Object.entries(NEWS).forEach(([pays,arts])=>{
+      arts.forEach(a=>all.push({...a, _pays:pays}));
+    });
+  } else {
+    all = POLITIQUE.map(a=>({...a}));
+  }
+  all.sort((a,b)=> (b.date||'').localeCompare(a.date||''));
+  if(!all.length){ el.innerHTML = '<div class="loading">'+(t['arch-empty']||'Aucun article archivé.')+'</div>'; return; }
+  el.innerHTML = `<div class="block">` + all.map(a=>`
+    <div class="bcard" onclick="${type==='actu'?`openDyn('${a._pays}','${a.id}')`:`openPol('${a.id}')`}">
+      <div class="bcard-inner">
+        <div class="bacc2" style="background:var(--muted)"></div>
+        <div class="bc-body">
+          <div class="bc-title">${getTitre(a)}</div>
+          <div class="bc-foot"><span class="bc-date">${a.categorie||''} · ${a.source||''} · ${a.date||''}</span><span class="bc-cta">${t['lire']}</span></div>
+        </div>
+      </div>
+    </div>`).join('') + `</div>`;
 }
 function closeM(){document.getElementById('modal').classList.remove('open');}
 
