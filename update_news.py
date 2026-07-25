@@ -2,7 +2,7 @@ import os, json, requests, re, time
 from datetime import datetime, timedelta
 
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY")
-GROQ_KEY = os.environ.get("GROQ_KEY")
+MISTRAL_KEY = os.environ.get("MISTRAL_KEY")
 
 PAYS = [
     {"id": "monde",  "query": "geopolitics NATO diplomacy sanctions 2026", "lang": "en"},
@@ -149,11 +149,11 @@ def fetch_politique_articles(existing_by_id, days=14):
     return picked
 
 def groq_call(prompt):
-    for model in ["llama-3.3-70b-versatile", "llama3-70b-8192", "mixtral-8x7b-32768"]:
+    for model in ["mistral-small-latest", "open-mistral-nemo", "mistral-large-latest"]:
         try:
             r = requests.post(
-                "https://api.groq.com/openai/v1/chat/completions",
-                headers={"Authorization": f"Bearer {GROQ_KEY}", "Content-Type": "application/json"},
+                "https://api.mistral.ai/v1/chat/completions",
+                headers={"Authorization": f"Bearer {MISTRAL_KEY}", "Content-Type": "application/json"},
                 json={
                     "model": model,
                     "messages": [{"role": "user", "content": prompt}],
