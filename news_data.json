@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/07/2026 à 20h52",
+  "last_updated": "25/07/2026 à 21h56",
   "articles": {
     "monde": [
       {
@@ -4834,22 +4834,22 @@
   "politique": [
     {
       "id": "fr_0",
-      "titre": "Les pompiers veulent abandonner les PFAS contre les incendies",
-      "titre_en": "Firefighters want to abandon PFAS for firefighting",
-      "titre_zh": "消防员想放弃用于灭火的PFAS",
+      "titre": "Les pompiers veulent abandonner les PFAS malgré leur efficacité",
+      "titre_en": "Firefighters want to abandon PFAS despite their efficiency",
+      "titre_zh": "消防员想放弃PFAS尽管其有效性",
       "titre_ru": "",
       "titre_fa": "",
       "titre_ar": "",
       "titre_original": "",
-      "resume": "Les PFAS, très efficaces contre les incendies, sont aussi des polluants persistants et toxiques. Les pompiers souhaitent les remplacer malgré leur utilité immédiate. Leur abandon poserait des défis techniques et financiers majeurs pour la lutte contre les feux.",
-      "resume_en": "PFAS, highly effective against fires, are also persistent and toxic pollutants. Firefighters want to replace them despite their immediate utility. Their abandonment would pose major technical and financial challenges for firefighting.",
-      "resume_zh": "PFAS在灭火方面非常有效，但也是持久且有毒的污染物。消防员希望替代它们，尽管它们有即时效用。放弃PFAS将给灭火工作带来重大技术和财务挑战。",
+      "resume": "Les PFAS sont essentiels pour éteindre les incendies grâce à leurs propriétés chimiques uniques. Pourtant, les pompiers envisagent de les abandonner en raison de leurs effets néfastes sur la santé et l'environnement. Cette décision soulève des questions sur les alternatives disponibles.",
+      "resume_en": "PFAS are essential for extinguishing fires due to their unique chemical properties. However, firefighters are considering abandoning them because of their harmful effects on health and the environment. This decision raises questions about available alternatives.",
+      "resume_zh": "PFAS因其独特化学性质在灭火中不可或缺。然而，消防员因其对健康和环境的危害考虑放弃。此决定引发对替代方案的质疑。",
       "resume_ru": "",
       "resume_fa": "",
       "resume_ar": "",
-      "analyse_detaillee": "Les PFAS sont utilisés depuis des décennies pour leur résistance à la chaleur et aux produits chimiques. Leur toxicité à long terme est désormais bien documentée, posant un dilemme éthique et pratique. Les pompiers, en première ligne, subissent les conséquences de leur utilisation. Les alternatives existent mais restent coûteuses et moins performantes. L'Union européenne envisage des restrictions strictes sur ces substances. Cette transition pourrait prendre des années, voire des décennies. Les industriels résistent pour préserver leurs profits, tandis que les écologistes poussent à l'innovation.",
-      "analyse_en": "PFAS have been used for decades due to their heat and chemical resistance. Their long-term toxicity is now well-documented, creating an ethical and practical dilemma. Firefighters, on the front line, face the consequences of their use. Alternatives exist but remain costly and less effective. The European Union is considering strict restrictions on these substances. This transition could take years, even decades. Industry players resist to preserve profits, while environmentalists push for innovation.",
-      "analyse_zh": "PFAS因其耐热和耐化学性被使用了几十年。其长期毒性现已得到充分证明，引发道德和实践困境。消防员作为一线人员，面临其使用的后果。替代品存在但成本高且效果较差。欧盟正考虑对这些物质实施严格限制。此转型可能需要数年甚至数十年。行业参与者抵制以维护利润，而环保人士推动创新。",
+      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950, sont omniprésents dans les mousses anti-incendie en raison de leur résistance à la chaleur. Leur toxicité, liée à leur persistance dans l'environnement, pose un défi majeur pour les pompiers et les autorités sanitaires. L'Union européenne envisage de les interdire progressivement d'ici 2030. Les alternatives existent mais sont moins performantes ou plus coûteuses. Les industriels résistent en raison des coûts de reconversion. À court terme, les pompiers pourraient devoir adapter leurs protocoles. À long terme, une transition vers des produits biosourcés semble inévitable.",
+      "analyse_en": "PFAS, used since the 1950s, are ubiquitous in fire-fighting foams due to their heat resistance. Their toxicity, linked to their persistence in the environment, poses a major challenge for firefighters and health authorities. The European Union is considering phasing them out by 2030. Alternatives exist but are less effective or more expensive. Industry players resist due to conversion costs. In the short term, firefighters may have to adapt their protocols. In the long term, a transition to bio-based products seems inevitable.",
+      "analyse_zh": "PFAS自1950年代起用于灭火泡沫，因其耐热性无处不在。其毒性与环境持久性对消防员和卫生当局构成重大挑战。欧盟考虑在2030年前逐步禁用。替代品存在但效果较差或成本更高。产业界因转型成本抵制。短期内消防员可能需调整流程。长期来看，向生物基产品转型似乎不可避免。",
       "analyse_ru": "",
       "analyse_fa": "",
       "analyse_ar": "",
@@ -4861,35 +4861,35 @@
       "pays": "fr",
       "badges": [
         {
-          "label": "▼ Secteur chimique industriel",
+          "label": "▼ secteur industriel chimique",
           "hausse": false
         },
         {
-          "label": "▲ Secteur des assurances",
+          "label": "▲ secteur public de la santé",
           "hausse": true
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Secteur chimique industriel",
-          "secteur_en": "Industrial chemical sector",
-          "secteur_zh": "工业化学行业",
-          "effet_fr": "L'abandon des PFAS pourrait réduire les profits des fabricants et nécessiter des investissements massifs dans de nouvelles formulations.",
-          "effet_en": "The abandonment of PFAS could reduce manufacturers' profits and require massive investments in new formulations.",
-          "effet_zh": "放弃PFAS可能减少制造商利润，并需要在新配方上进行大量投资。",
+          "secteur_fr": "secteur industriel chimique",
+          "secteur_en": "chemical industry sector",
+          "secteur_zh": "化工行业",
+          "effet_fr": "L'abandon des PFAS pourrait entraîner des pertes financières pour les fabricants de mousses anti-incendie et une restructuration coûteuse.",
+          "effet_en": "Abandoning PFAS could lead to financial losses for fire-fighting foam manufacturers and costly restructuring.",
+          "effet_zh": "放弃PFAS可能导致灭火泡沫制造商蒙受经济损失并进行高成本重组。",
           "hausse": false
         },
         {
-          "secteur_fr": "Secteur des assurances",
-          "secteur_en": "Insurance sector",
-          "secteur_zh": "保险行业",
-          "effet_fr": "Les incendies plus difficiles à maîtriser pourraient augmenter les sinistres et les primes d'assurance pour les collectivités et entreprises.",
-          "effet_en": "Fires harder to control could increase claims and insurance premiums for local authorities and businesses.",
-          "effet_zh": "更难控制的火灾可能增加地方当局和企业的理赔和保险费用。",
+          "secteur_fr": "secteur public de la santé",
+          "secteur_en": "public health sector",
+          "secteur_zh": "公共卫生部门",
+          "effet_fr": "La réduction de l'exposition aux PFAS améliorerait la santé des populations et des pompiers, mais nécessiterait des investissements dans la recherche de substituts.",
+          "effet_en": "Reducing exposure to PFAS would improve the health of populations and firefighters but would require investment in substitute research.",
+          "effet_zh": "减少PFAS暴露将改善民众和消防员健康，但需投资替代品研究。",
           "hausse": true
         }
       ],
-      "created_at": "2026-07-25T20:52:25.899075"
+      "created_at": "2026-07-25T21:56:11.804984"
     },
     {
       "id": "pol_femmes_983930",
