@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/07/2026 à 16h20",
+  "last_updated": "25/07/2026 à 17h59",
   "articles": {
     "monde": [
       {
@@ -4767,21 +4767,21 @@
     {
       "id": "fr_0",
       "titre": "Stratégie PFAS pour le bassin Adour-Garonne",
-      "titre_en": "PFAS strategy for the Adour-Garonne basin",
+      "titre_en": "PFAS strategy for Adour-Garonne basin",
       "titre_zh": "阿杜尔-加龙流域PFAS战略",
       "titre_ru": "",
       "titre_fa": "",
       "titre_ar": "",
       "titre_original": "",
-      "resume": "Le comité de bassin Adour-Garonne a adopté une stratégie en cinq axes pour lutter contre les PFAS. L'accent est mis sur l'amélioration des connaissances scientifiques. Cette initiative vise à protéger les ressources en eau et la santé publique.",
-      "resume_en": "The Adour-Garonne basin committee has adopted a five-point strategy to combat PFAS. The focus is on improving scientific knowledge. This initiative aims to protect water resources and public health.",
-      "resume_zh": "阿杜尔-加龙流域委员会采用了一项五点战略来对抗PFAS。重点是提高科学知识水平。该倡议旨在保护水资源和公众健康。",
+      "resume": "Le comité de bassin Adour-Garonne a adopté une stratégie en cinq axes pour lutter contre les PFAS. L'accent est mis sur l'amélioration des connaissances scientifiques. Cette initiative vise à protéger les ressources en eau du territoire.",
+      "resume_en": "The Adour-Garonne basin committee adopted a five-point strategy to combat PFAS. The focus is on improving scientific knowledge. This initiative aims to protect the territory's water resources.",
+      "resume_zh": "阿杜尔-加龙流域委员会采用五点战略应对PFAS。重点是提升科学认知。该举措旨在保护流域水资源。",
       "resume_ru": "",
       "resume_fa": "",
       "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, ou 'polluants éternels', sont des substances chimiques persistantes dans l'environnement, liées à des cancers et troubles hormonaux. La stratégie adoptée s'inscrit dans une prise de conscience progressive des risques sanitaires et écologiques depuis les années 2000. Les cinq axes visent à mieux cartographier les zones contaminées, renforcer la réglementation et sensibiliser les acteurs locaux. À court terme, cette stratégie pourrait limiter la propagation des PFAS dans les eaux souterraines. À moyen terme, une réduction des rejets industriels est attendue, mais son efficacité dépendra des moyens alloués. À long terme, l'objectif est d'atteindre un niveau de pollution acceptable, mais les coûts économiques et sociaux restent un défi majeur. Les industriels concernés critiquent une approche perçue comme trop contraignante, tandis que les écologistes réclament des mesures plus radicales.",
-      "analyse_en": "PFAS, or 'forever chemicals,' are persistent environmental pollutants linked to cancers and hormonal disorders. The adopted strategy reflects a growing awareness of health and ecological risks since the 2000s. The five axes aim to better map contaminated areas, strengthen regulations, and raise awareness among local stakeholders. In the short term, this strategy could limit the spread of PFAS in groundwater. In the medium term, a reduction in industrial discharges is expected, but its effectiveness will depend on allocated resources. In the long term, the goal is to achieve an acceptable pollution level, but economic and social costs remain a major challenge. Affected industries criticize an approach perceived as overly restrictive, while environmentalists demand more radical measures.",
-      "analyse_zh": "PFAS（俗称“永远化学品”）是一种持久性环境污染物，与癌症和激素紊乱有关。所采用的战略反映了自2000年以来对健康和生态风险的日益认知。五个重点领域旨在更好地绘制污染区域图、加强监管并提高当地行动者的意识。短期内，该战略可能限制PFAS在地下水中的扩散。中期来看，预计工业排放将减少，但其有效性取决于资源分配。长期目标是实现可接受的污染水平，但经济和社会成本仍是重大挑战。受影响的行业批评认为该方法过于严格，而环保人士则要求采取更激进的措施。",
+      "analyse_detaillee": "Les PFAS, polluants éternels, posent un défi environnemental majeur en Europe. La stratégie adoptée s'inscrit dans une logique de gestion durable des ressources hydriques. Historiquement, l'industrie chimique a sous-estimé l'impact de ces substances. À court terme, cette stratégie pourrait limiter la contamination des sols et des eaux. À moyen terme, elle pourrait inspirer d'autres bassins fluviaux en France. À long terme, une réglementation européenne plus stricte sur les PFAS est attendue. Les écologistes saluent cette initiative, tandis que les industriels expriment des réserves sur son coût.",
+      "analyse_en": "PFAS, or 'forever chemicals,' pose a major environmental challenge in Europe. The adopted strategy aligns with sustainable water resource management. Historically, the chemical industry underestimated the impact of these substances. In the short term, this strategy could limit soil and water contamination. In the medium term, it could inspire other French river basins. In the long term, stricter European regulations on PFAS are expected. Environmentalists welcome this initiative, while industrialists express reservations about its cost.",
+      "analyse_zh": "PFAS（永久化学物质）在欧洲构成重大环境挑战。该战略符合可持续水资源管理的逻辑。历史上，化工行业低估了这些物质的影响。短期内，该战略可能限制土壤和水污染。中期来看，它可能为法国其他流域提供借鉴。长期而言，欧盟对PFAS的监管将更加严格。环保人士欢迎此举，而工业界对其成本表示担忧。",
       "analyse_ru": "",
       "analyse_fa": "",
       "analyse_ar": "",
@@ -4793,35 +4793,35 @@
       "pays": "fr",
       "badges": [
         {
-          "label": "▼ Industrie chimique",
-          "hausse": false
+          "label": "▲ Industrie chimique",
+          "hausse": true
         },
         {
-          "label": "▲ Secteur de l'eau potable",
-          "hausse": true
+          "label": "▼ Tourisme vert",
+          "hausse": false
         }
       ],
       "impact_marches": [
         {
           "secteur_fr": "Industrie chimique",
           "secteur_en": "Chemical industry",
-          "secteur_zh": "化学工业",
-          "effet_fr": "Les normes plus strictes pourraient entraîner des coûts de conformité élevés pour les producteurs de PFAS, réduisant leurs marges bénéficiaires.",
-          "effet_en": "Stricter standards could lead to high compliance costs for PFAS producers, reducing their profit margins.",
-          "effet_zh": "更严格的标准可能导致PFAS生产商的合规成本高昂，降低其利润率。",
-          "hausse": false
+          "secteur_zh": "化工行业",
+          "effet_fr": "Les industriels pourraient devoir investir massivement dans des technologies de dépollution, augmentant leurs coûts de production.",
+          "effet_en": "Industrialists may have to invest heavily in pollution control technologies, increasing production costs.",
+          "effet_zh": "工业界可能需大举投资污染控制技术，增加生产成本。",
+          "hausse": true
         },
         {
-          "secteur_fr": "Secteur de l'eau potable",
-          "secteur_en": "Drinking water sector",
-          "secteur_zh": "饮用水行业",
-          "effet_fr": "L'amélioration des connaissances sur les PFAS pourrait entraîner des investissements massifs dans les technologies de filtration, augmentant les coûts pour les consommateurs.",
-          "effet_en": "Improved knowledge of PFAS could lead to massive investments in filtration technologies, increasing costs for consumers.",
-          "effet_zh": "对PFAS的认知改善可能导致在过滤技术方面的大量投资，增加消费者成本。",
-          "hausse": true
+          "secteur_fr": "Tourisme vert",
+          "secteur_en": "Green tourism",
+          "secteur_zh": "绿色旅游",
+          "effet_fr": "Une meilleure qualité de l'eau pourrait attirer davantage de touristes, boostant l'économie locale.",
+          "effet_en": "Improved water quality could attract more tourists, boosting the local economy.",
+          "effet_zh": "水质改善可能吸引更多游客，促进当地经济。",
+          "hausse": false
         }
       ],
-      "created_at": "2026-07-25T16:20:48.419629"
+      "created_at": "2026-07-25T17:59:25.202773"
     }
   ]
 }
