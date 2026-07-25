@@ -25,31 +25,4 @@ jobs:
           git config --global user.email "bot@veritass.fr"
           git add news_data.json
           git diff --staged --quiet || git commit -m "🔄 Actu $(date '+%d/%m/%Y %H:%M')"
-          git pushname: Veritass — Mise à jour automatique
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - run: pip install requests
-      - name: Lancer le script
-        env:
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-          MISTRAL_KEY: ${{ secrets.MISTRAL_KEY }}
-        run: python update_news.py
-      - name: Commit et push
-        run: |
-          git config --global user.name "Veritass Bot"
-          git config --global user.email "bot@veritass.fr"
-          git add news_data.json
-          git diff --staged --quiet || git commit -m "🔄 Actu $(date '+%d/%m/%Y %H:%M')"
           git push
