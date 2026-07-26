@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/07/2026 à 22h56",
+  "last_updated": "26/07/2026 à 00h01",
   "articles": {
     "monde": [
       {
@@ -4834,22 +4834,22 @@
   "politique": [
     {
       "id": "fr_0",
-      "titre": "Les pompiers veulent abandonner les PFAS contre les incendies",
-      "titre_en": "Firefighters want to abandon PFAS in firefighting",
-      "titre_zh": "消防员想放弃用于灭火的PFAS",
+      "titre": "Les pompiers veulent abandonner les PFAS malgré leur efficacité",
+      "titre_en": "Firefighters want to abandon PFAS despite their effectiveness",
+      "titre_zh": "消防员想放弃PFAS尽管其有效性",
       "titre_ru": "",
       "titre_fa": "",
       "titre_ar": "",
       "titre_original": "",
-      "resume": "Les PFAS, très efficaces contre les incendies, sont aussi des polluants persistants et dangereux pour la santé. Les pompiers français envisagent de les remplacer par des alternatives moins toxiques. Cette transition pose des défis techniques et économiques majeurs.",
-      "resume_en": "PFAS, highly effective against fires, are also persistent pollutants harmful to health. French firefighters are considering replacing them with less toxic alternatives. This transition poses major technical and economic challenges.",
-      "resume_zh": "PFAS在灭火方面非常有效，但也是对健康有害的持久性污染物。法国消防员正在考虑用毒性较低的替代品取代它们。这种转变面临重大技术和经济挑战。",
+      "resume": "Les PFAS, très efficaces contre les incendies, sont aussi des polluants persistants et toxiques. Les pompiers français envisagent de les remplacer par des alternatives moins nocives. Leur abandon poserait un défi logistique et technique majeur pour la lutte contre les feux.",
+      "resume_en": "PFAS, highly effective against fires, are also persistent and toxic pollutants. French firefighters are considering replacing them with less harmful alternatives. Their abandonment would pose a major logistical and technical challenge for fire management.",
+      "resume_zh": "PFAS在灭火中非常有效，但也是持久性有毒污染物。法国消防员考虑用更无害的替代品取代它们。放弃PFAS将给火灾管理带来重大后勤和技术挑战。",
       "resume_ru": "",
       "resume_fa": "",
       "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, utilisés depuis des décennies dans les mousses anti-incendie, sont désormais pointés du doigt pour leur toxicité et leur persistance dans l'environnement. Leur interdiction progressive s'inscrit dans une logique de protection de la santé publique et des écosystèmes. À court terme, les pompiers devront adapter leurs équipements et leurs protocoles, ce qui pourrait entraîner des coûts supplémentaires. À moyen terme, le développement de nouvelles formulations moins nocives pourrait émerger, mais leur efficacité reste à prouver. À long terme, cette transition pourrait renforcer la crédibilité des services de secours et réduire les risques sanitaires pour les populations exposées. Les industriels du secteur chimique résistent à cette évolution, craignant pour leurs marchés. Les écologistes saluent cette initiative, mais soulignent l'urgence d'agir rapidement.",
-      "analyse_en": "PFAS, used for decades in firefighting foams, are now criticized for their toxicity and environmental persistence. Their gradual ban aligns with public health and ecosystem protection. In the short term, firefighters will need to adapt their equipment and protocols, potentially leading to additional costs. In the medium term, the development of less harmful new formulations could emerge, but their effectiveness remains unproven. In the long term, this transition could enhance the credibility of emergency services and reduce health risks for exposed populations. Chemical industry players resist this shift, fearing market losses. Environmentalists welcome this initiative but emphasize the urgency of swift action.",
-      "analyse_zh": "PFAS在过去几十年中用于灭火泡沫，如今因其毒性和环境持久性而受到批评。逐步禁止PFAS符合公共健康和生态系统保护的逻辑。短期内，消防员将需要调整设备和流程，可能导致额外成本。中期来看，可能会出现毒性较低的新配方，但其有效性仍有待证明。长期而言，这种转变可能提升应急服务的可信度，并减少对暴露人群的健康风险。化工行业参与者抵制这一转变，担心市场损失。环保人士欢迎这一倡议，但强调迅速行动的紧迫性。",
+      "analyse_detaillee": "Les PFAS, utilisés depuis des décennies, sont au cœur d'un dilemme écologique et sanitaire. Leur efficacité contre les incendies en fait un outil indispensable, mais leur persistance dans l'environnement pose un risque majeur. Les pompiers, conscients de ces dangers, cherchent des alternatives malgré les coûts élevés. Les industriels résistent, arguant du manque de solutions équivalentes. Les régulateurs européens imposent des restrictions croissantes, poussant à une transition rapide. À court terme, les coûts logistiques pourraient exploser. À long terme, une innovation technologique est cruciale pour concilier sécurité et durabilité. La France doit trouver un équilibre entre protection des populations et préservation de l'environnement.",
+      "analyse_en": "PFAS, used for decades, are at the heart of an ecological and health dilemma. Their effectiveness against fires makes them an indispensable tool, but their persistence in the environment poses a major risk. Firefighters, aware of these dangers, are seeking alternatives despite high costs. Industry players resist, citing the lack of equivalent solutions. European regulators are imposing increasing restrictions, pushing for a rapid transition. In the short term, logistical costs could skyrocket. In the long term, technological innovation is crucial to reconcile safety and sustainability. France must strike a balance between protecting populations and preserving the environment.",
+      "analyse_zh": "PFAS作为几十年来使用的化学品，面临生态和健康的两难困境。其灭火效果使其不可或缺，但其环境持久性构成重大风险。消防员意识到这些危险，尽管成本高昂仍寻找替代品。行业抵制，称缺乏同等解决方案。欧盟监管机构施加越来越多限制，推动快速转型。短期内，后勤成本可能飙升。长期来看，技术创新对平衡安全与可持续性至关重要。法国必须在保护民众与环境保护间找到平衡。",
       "analyse_ru": "",
       "analyse_fa": "",
       "analyse_ar": "",
@@ -4861,35 +4861,35 @@
       "pays": "fr",
       "badges": [
         {
-          "label": "▼ Industrie chimique",
-          "hausse": false
+          "label": "▲ secteur de l'assurance",
+          "hausse": true
         },
         {
-          "label": "▼ Assurance des risques industriels",
+          "label": "▼ secteur de la chimie verte",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Industrie chimique",
-          "secteur_en": "Chemical industry",
-          "secteur_zh": "化工行业",
-          "effet_fr": "L'abandon des PFAS pourrait réduire les revenus des fabricants de produits chimiques spécialisés, forçant une reconversion coûteuse vers des alternatives.",
-          "effet_en": "The abandonment of PFAS could reduce revenues for manufacturers of specialized chemicals, forcing a costly shift to alternatives.",
-          "effet_zh": "放弃PFAS可能会减少专业化学品制造商的收入，迫使其以高成本转向替代品。",
-          "hausse": false
+          "secteur_fr": "secteur de l'assurance",
+          "secteur_en": "insurance sector",
+          "secteur_zh": "保险行业",
+          "effet_fr": "L'abandon des PFAS pourrait entraîner une hausse des primes d'assurance pour les risques industriels et les catastrophes naturelles liées aux incendies.",
+          "effet_en": "Abandoning PFAS could lead to higher insurance premiums for industrial risks and natural disasters linked to fires.",
+          "effet_zh": "放弃PFAS可能导致工业风险和火灾相关自然灾害的保险费用上涨。",
+          "hausse": true
         },
         {
-          "secteur_fr": "Assurance des risques industriels",
-          "secteur_en": "Industrial risk insurance",
-          "secteur_zh": "工业风险保险",
-          "effet_fr": "La transition vers des produits moins toxiques pourrait diminuer les primes d'assurance pour les entreprises exposées aux risques chimiques.",
-          "effet_en": "The shift to less toxic products could lower insurance premiums for companies exposed to chemical risks.",
-          "effet_zh": "转向毒性较低的产品可能会降低面临化学风险的企业的保险费。",
+          "secteur_fr": "secteur de la chimie verte",
+          "secteur_en": "green chemistry sector",
+          "secteur_zh": "绿色化学行业",
+          "effet_fr": "Le développement d'alternatives aux PFAS pourrait stimuler l'innovation et créer de nouveaux marchés pour les entreprises spécialisées.",
+          "effet_en": "Developing alternatives to PFAS could boost innovation and create new markets for specialized companies.",
+          "effet_zh": "开发PFAS替代品可能推动创新并为专业公司创造新市场。",
           "hausse": false
         }
       ],
-      "created_at": "2026-07-25T22:56:17.792442"
+      "created_at": "2026-07-26T00:01:05.599239"
     },
     {
       "id": "pol_femmes_983930",
