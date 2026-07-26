@@ -1,5 +1,5 @@
 {
-  "last_updated": "26/07/2026 à 03h48",
+  "last_updated": "26/07/2026 à 06h37",
   "articles": {
     "monde": [
       {
@@ -4960,63 +4960,124 @@
   },
   "politique": [
     {
-      "id": "fr_0",
-      "titre": "Les pompiers veulent abandonner les PFAS malgré leur efficacité",
-      "titre_en": "Firefighters want to abandon PFAS despite their effectiveness",
-      "titre_zh": "消防员想放弃PFAS尽管其有效性",
-      "titre_ru": "",
-      "titre_fa": "",
-      "titre_ar": "",
-      "titre_original": "",
-      "resume": "Les PFAS sont essentiels pour éteindre les incendies, mais leur toxicité pose problème. Les pompiers souhaitent les remplacer malgré leur efficacité prouvée. Cette décision soulève des questions sur les alternatives disponibles et leur coût.",
-      "resume_en": "PFAS are essential for extinguishing fires, but their toxicity is problematic. Firefighters want to replace them despite their proven effectiveness. This decision raises questions about available alternatives and their cost.",
-      "resume_zh": "PFAS对灭火至关重要，但其毒性是问题。消防员想替代它们尽管其已被证明有效。此决定引发关于替代方案及成本的问题。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950, sont omniprésents dans les équipements de lutte contre l'incendie. Leur abandon progressif s'inscrit dans une tendance mondiale de restriction des substances toxiques. Les pompiers craignent pour leur santé et celle des populations exposées. Les alternatives, comme les mousses sans fluor, restent moins performantes et plus coûteuses. Les industriels résistent en raison des coûts de reconversion. Les régulateurs européens imposent des normes de plus en plus strictes. À long terme, cette transition pourrait redéfinir les standards de sécurité incendie.",
-      "analyse_en": "PFAS, used since the 1950s, are ubiquitous in firefighting equipment. Their gradual abandonment aligns with a global trend of restricting toxic substances. Firefighters fear for their health and that of exposed populations. Alternatives, such as fluorine-free foams, remain less effective and more expensive. Industry players resist due to conversion costs. European regulators impose increasingly strict standards. In the long term, this transition could redefine fire safety standards.",
-      "analyse_zh": "自1950年代起使用的PFAS在消防设备中无处不在。逐步放弃它们符合全球限制有毒物质的趋势。消防员担心自身健康和暴露人群的安全。替代品如无氟泡沫效果较差且成本更高。产业界因转型成本抵制。欧洲监管机构施加越来越严格的标准。长期看，此转变可能重新定义消防安全标准。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
+      "id": "pol_env_827868",
+      "titre": "Agriculteurs et scientifiques face aux pesticides",
+      "titre_en": "Farmers and scientists tackle pesticide ban",
+      "titre_zh": "农民与科学家应对禁农药",
+      "titre_ru": "Как фермеры и ученые готовятся к жизни без пестицидов?",
+      "titre_fa": "کشاورزان و دانشمندان چگونه برای آینده بدون سموم کشاورزی آماده می‌شوند؟",
+      "titre_ar": "كيف يستعد المزارعون والعلماء للمستقبل بدون مبيدات حشرية؟",
+      "titre_original": "Décryptage. Produire sans pesticides ? Comment agriculteurs et scientifiques préparent l’avenir",
+      "resume": "Quinze producteurs de fruits et légumes s’unissent pour trouver des alternatives biologiques aux pesticides, menacés par les réglementations européennes. Les scientifiques collaborent avec eux pour développer des solutions durables contre les ravageurs comme les papillons. Cette initiative vise à préparer l’avenir de l’agriculture sans produits chimiques.",
+      "resume_en": "Fifteen fruit and vegetable producers are joining forces to find biological alternatives to pesticides, threatened by European regulations. Scientists are working with them to develop sustainable solutions against pests like butterflies. This initiative aims to prepare the future of agriculture without chemical products.",
+      "resume_zh": "十五家水果和蔬菜生产商联合起来寻找生物替代农药的方案，这些农药受到欧盟法规的威胁。科学家与他们合作开发对抗如蝴蝶等害虫的可持续解决方案。此举旨在为无化学品农业的未来做准备。",
+      "resume_ru": "В Европе планируется запрет пестицидов, что заставляет фермеров и ученых искать биологические альтернативы. Пятнадцать производителей овощей, фруктов и растений объединились для борьбы с вредными бабочками. Они разрабатывают экологичные методы защиты урожая.",
+      "resume_fa": "در اروپا ممنوعیت آفت‌کش‌ها در حال اجرا است و کشاورزان و دانشمندان به دنبال جایگزین‌های بیولوژیکی هستند. پانزده تولیدکننده میوه، سبزی و گیاهان برای مقابله با پروانه‌های آفت با هم همکاری می‌کنند. آنها روش‌های حفاظتی سازگار با محیط زیست را توسعه می‌دهند.",
+      "resume_ar": "تخطط أوروبا لحظر المبيدات الحشرية، مما يدفع المزارعين والعلماء للبحث عن بدائل بيولوجية. انضم 15 منتجاً للخضروات والفواكه والنباتات لمكافحة فراشات الآفات. وهم يعملون على تطوير طرق حماية بيئية للمحاصيل.",
+      "analyse_detaillee": "L’Union européenne durcit progressivement ses règles sur les pesticides, poussée par des préoccupations environnementales et sanitaires croissantes depuis les années 1990. Les agriculteurs, confrontés à la réduction des intrants chimiques, doivent innover pour maintenir leur productivité et leur rentabilité. Les scientifiques, notamment en agroécologie, explorent des méthodes de lutte biologique comme les phéromones ou les prédateurs naturels. À court terme, cette transition pourrait entraîner des coûts supplémentaires et une baisse temporaire des rendements. À moyen terme, elle pourrait renforcer la résilience des écosystèmes et ouvrir de nouveaux marchés pour les produits bio. À long terme, elle pourrait redéfinir les modèles agricoles européens vers une durabilité accrue. Les acteurs, dont les coopératives agricoles et les instituts de recherche, soutiennent cette dynamique, mais certains craignent un désavantage concurrentiel face à des pays moins restrictifs. La Commission européenne, en promouvant le Pacte Vert, joue un rôle clé dans cette transition.",
+      "analyse_en": "The European Union is progressively tightening its rules on pesticides, driven by growing environmental and health concerns since the 1990s. Farmers, facing reduced chemical inputs, must innovate to maintain productivity and profitability. Scientists, particularly in agroecology, are exploring biological control methods such as pheromones or natural predators. In the short term, this transition could lead to higher costs and temporary yield declines. In the medium term, it could strengthen ecosystem resilience and open new markets for organic products. In the long term, it could redefine European agricultural models toward greater sustainability. Key actors, including agricultural cooperatives and research institutes, support this shift, though some fear a competitive disadvantage against less restrictive countries. The European Commission, by promoting the Green Deal, plays a pivotal role in this transition.",
+      "analyse_zh": "欧盟自1990年代以来，因环境和健康问题日益严重，逐步收紧农药法规。面对化学投入品减少，农民必须创新以维持生产力和盈利能力。科学家，尤其是在农业生态学领域，正在探索生物防治方法，如信息素或天然捕食者。短期内，此转型可能导致成本上升和产量暂时下降。中期来看，它可能增强生态系统韧性，并为有机产品开辟新市场。长期而言，它可能重新定义欧洲农业模式，朝更可持续方向发展。主要参与者，包括农业合作社和研究机构，支持这一转变，但一些人担心在竞争中处于劣势。欧盟委员会通过推广绿色协议，在其中发挥关键作用。",
+      "analyse_ru": "Европейский запрет пестицидов вызван растущей обеспокоенностью по поводу экологии и здоровья человека. Фермеры сталкиваются с угрозой потери урожая из-за вредителей, что подталкивает их к поиску инновационных решений. Ученые разрабатывают биологические методы защиты, такие как феромоны и хищные насекомые. Однако переход на органическое земледелие требует значительных инвестиций и времени. Производители надеются, что совместные усилия помогут сохранить конкурентоспособность европейского сельского хозяйства.",
+      "analyse_fa": "ممنوعیت آفت‌کش‌ها در اروپا ناشی از نگرانی‌های زیست‌محیطی و سلامت انسان است. کشاورزان با تهدید کاهش محصولات مواجهند و به دنبال راه‌حل‌های نوآورانه هستند. دانشمندان روش‌های بیولوژیکی مانند فرومون‌ها و حشرات شکارچی را توسعه می‌دهند. با این حال، تغییر به کشاورزی ارگانیک نیازمند سرمایه‌گذاری و زمان زیادی است. تولیدکنندگان امیدوارند همکاری مشترک به حفظ رقابت‌پذیری کشاورزی اروپا کمک کند.",
+      "analyse_ar": "يأتي حظر المبيدات الحشرية في أوروبا نتيجة للقلق المتزايد بشأن البيئة وصحة الإنسان. يواجه المزارعون خطر فقدان المحاصيل بسبب الآفات، مما يدفعهم للبحث عن حلول مبتكرة. يعمل العلماء على تطوير طرق بيولوجية مثل الفرمونات والحشرات المفترسة. ومع ذلك، فإن التحول إلى الزراعة العضوية يتطلب استثمارات كبيرة ووقتاً طويلاً. يأمل المنتجون أن تساهم الجهود المشتركة في الحفاظ على تنافسية الزراعة الأوروبية.",
       "categorie": "Environnement",
-      "source": "",
-      "url": "#",
-      "image": "",
-      "date": "",
-      "pays": "fr",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/economie/2026/07/25/produire-sans-pesticides-comment-agriculteurs-et-scientifiques-preparent-l-avenir",
+      "image": "https://cdn-s-www.ledauphine.com/images/5850946D-1D2A-4365-88B7-2F9FF7630AB3/FB1200/photo-1784916705.jpg",
+      "date": "2026-07-25",
+      "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Assurance responsabilité civile environnementale",
+          "label": "▲ Agriculture biologique",
           "hausse": true
         },
         {
-          "label": "▼ Marché des équipements de sécurité",
+          "label": "▼ Industrie agrochimique",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance responsabilité civile environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient augmenter les primes en raison des risques accrus liés à l'utilisation de substances toxiques.",
-          "effet_en": "Insurers may raise premiums due to increased risks linked to the use of toxic substances.",
-          "effet_zh": "因使用有毒物质风险上升，保险公司可能提高保费。",
+          "secteur_fr": "Agriculture biologique",
+          "secteur_en": "Organic farming",
+          "secteur_zh": "有机农业",
+          "effet_fr": "La demande croissante pour des produits sans pesticides stimule les investissements dans l’agriculture biologique, mais les coûts de production restent élevés.",
+          "effet_en": "Growing demand for pesticide-free products is boosting investments in organic farming, though production costs remain high.",
+          "effet_zh": "对无农药产品的需求增长推动了有机农业投资，但生产成本仍然较高。",
           "hausse": true
         },
         {
-          "secteur_fr": "Marché des équipements de sécurité",
-          "secteur_en": "Safety equipment market",
-          "secteur_zh": "安全设备市场",
-          "effet_fr": "Les fabricants de mousses anti-incendie pourraient bénéficier d'une demande accrue pour des alternatives non toxiques.",
-          "effet_en": "Manufacturers of fire-fighting foams could benefit from increased demand for non-toxic alternatives.",
-          "effet_zh": "无毒替代品的需求增加可能使灭火泡沫制造商受益。",
+          "secteur_fr": "Industrie agrochimique",
+          "secteur_en": "Agrochemical industry",
+          "secteur_zh": "农用化工行业",
+          "effet_fr": "La réduction des pesticides menace les revenus des géants de l’agrochimie, forçant une reconversion vers des solutions alternatives.",
+          "effet_en": "The reduction in pesticides threatens the revenues of agrochemical giants, pushing them to shift toward alternative solutions.",
+          "effet_zh": "农药减少威胁到农用化工巨头的收入，迫使它们转向替代解决方案。",
           "hausse": false
         }
       ],
-      "created_at": "2026-07-26T03:48:01.775407"
+      "created_at": "2026-07-26T06:37:32.775523",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_97445",
+      "titre": "Violences conjugales : Charles reconnu violent et alcoolique",
+      "titre_en": "Domestic violence: Charles admits abuse and alcoholism",
+      "titre_zh": "家暴：查尔斯承认施暴与酗酒",
+      "titre_ru": "Чарльз признал насилие и алкоголизм в отношениях",
+      "titre_fa": "چارلز خشونت و اعتیاد به الکل در رابطه را پذیرفت",
+      "titre_ar": "تشارلز يعترف بالعنف وإدمان الكحول في العلاقة الزوجية",
+      "titre_original": "Charles ne conteste pas son comportement violent et son problème d’alcool, durant sa relation de couple",
+      "resume": "Le parquet a révélé trois scènes de violence conjugale impliquant Charles, qui ne conteste pas les faits ni son problème d’alcool. Les procureurs ont requis une peine de prison tout en proposant un accompagnement pour le prévenu. Cette affaire soulève des questions sur la prise en charge des violences conjugales et des addictions.",
+      "resume_en": "The public prosecutor's office revealed three incidents of domestic violence involving Charles, who does not dispute the facts or his alcohol problem. Prosecutors requested a prison sentence while offering support for the defendant. This case raises questions about the handling of domestic violence and addictions.",
+      "resume_zh": "检察官办公室披露了三起涉及查尔斯的家庭暴力事件，他对事实及其酗酒问题均不予争议。检察官要求判处监禁，同时为被告提供支持。此案引发了对家庭暴力和成瘾问题处理的质疑。",
+      "resume_ru": "Прокуратура обвинила Чарльза в трех случаях домашнего насилия. Он признал свою вину и проблемы с алкоголем. Суд предложил ему тюремный срок, но также помощь в реабилитации.",
+      "resume_fa": "دادستان چارلز را به سه مورد خشونت خانگی متهم کرد. او گناه خود و مشکلاتش با الکل را پذیرفت. دادگاه مجازات زندان را پیشنهاد داد، اما همچنین کمک‌های توانبخشی ارائه کرد.",
+      "resume_ar": "اتهمت النيابة تشارلز بثلاث حالات من العنف الأسري. اعترف بسلوكه العنيف ومشاكله مع الكحول. اقترح القاضي عقوبة السجن، لكنه عرض أيضًا مساعدات لإعادة التأهيل.",
+      "analyse_detaillee": "Les violences conjugales en France restent un fléau persistant, malgré les lois renforcées depuis les années 2000, comme la loi sur l’égalité entre les femmes et les hommes en 2014. Les problèmes d’alcool, souvent liés à ces violences, sont rarement pris en charge de manière systémique dans les procédures judiciaires. À court terme, la condamnation de Charles pourrait servir d’exemple pour dissuader d’autres agresseurs, mais le système judiciaire manque de moyens pour traiter les causes profondes. À moyen terme, cette affaire pourrait accélérer la mise en place de programmes de prévention et de réinsertion pour les auteurs de violences. À long terme, elle pourrait contribuer à une meilleure reconnaissance des violences conjugales comme problème de santé publique. Les associations féministes demandent des sanctions plus sévères et un accompagnement psychologique obligatoire pour les agresseurs. Le gouvernement, via des plans comme le Grenelle des violences conjugales, tente d’améliorer la réponse institutionnelle, mais les lacunes persistent.",
+      "analyse_en": "Domestic violence in France remains a persistent scourge, despite strengthened laws since the 2000s, such as the 2014 law on gender equality. Alcohol issues, often linked to this violence, are rarely addressed systematically in judicial procedures. In the short term, Charles' conviction could serve as a deterrent for other abusers, but the judicial system lacks resources to tackle root causes. In the medium term, this case could accelerate the implementation of prevention and reintegration programs for perpetrators. In the long term, it could contribute to better recognition of domestic violence as a public health issue. Feminist associations demand harsher penalties and mandatory psychological support for abusers. The government, through plans like the Grenelle des violences conjugales, is trying to improve institutional responses, though gaps remain.",
+      "analyse_zh": "法国的家庭暴力仍是一个持续的顽疾，尽管自2000年代以来法律不断加强，如2014年的男女平等法。酗酒问题，通常与这些暴力行为相关，在司法程序中很少得到系统性处理。短期内，对查尔斯的定罪可能成为震慑其他施暴者的例子，但司法系统缺乏资源处理根本原因。中期来看，此案可能加速针对暴力实施者的预防和再教育计划的实施。长期而言，它可能有助于更好地将家庭暴力视为公共卫生问题。女权主义协会要求更严厉的制裁和对施暴者强制心理支持。政府通过如“家庭暴力全民磋商”等计划试图改善制度回应，但仍存在不足。",
+      "analyse_ru": "Дело Чарльза отражает глобальную проблему насилия в семьях, которая часто связана с алкоголизмом и психическими расстройствами. Прокуратура подчеркивает необходимость наказания, но также предлагает поддержку для предотвращения рецидивов. Позиция суда демонстрирует баланс между справедливостью и реабилитацией. Общество все чаще требует ужесточения мер против домашнего насилия. Этот случай может стать прецедентом для изменения законодательства.",
+      "analyse_fa": "پرونده چارلز نمایانگر مشکل جهانی خشونت خانگی است که اغلب با اعتیاد به الکل و اختلالات روانی مرتبط است. دادستان بر لزوم مجازات تأکید می‌کند، اما همچنین حمایت برای جلوگیری از تکرار جرم ارائه می‌دهد. موضع دادگاه نشان‌دهنده تعادل بین عدالت و توانبخشی است. جامعه به طور فزاینده‌ای خواستار تشدید اقدامات علیه خشونت خانگی است. این پرونده می‌تواند به تغییر قوانین منجر شود.",
+      "analyse_ar": "قضية تشارلز تعكس مشكلة عالمية تتمثل في العنف الأسري، الذي يرتبط غالبًا بإدمان الكحول والأمراض النفسية. تؤكد النيابة على ضرورة العقاب، لكنها تقدم أيضًا الدعم لمنع تكرار الجريمة. موقف المحكمة يدل على التوازن بين العدالة وإعادة التأهيل. يتزايد المجتمع في المطالبة بتشديد الإجراءات ضد العنف الأسري. قد تصبح هذه القضية سابقة لتغيير التشريعات.",
+      "categorie": "Société",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/charleroi/thudinie-gerpinnes/2026/07/24/charles-ne-conteste-pas-son-comportement-violent-et-son-probleme-dalcool-durant-sa-relation-de-couple-DAD6KGOTRJGYVDZYG6DMLDS4AE/",
+      "image": "https://www.dhnet.be/resizer/v2/YYNUXW4BCJEHHNKXUCB2YTVBFI.jpg?auth=651d1d06194457ac9b3aeea41a25e5d3ae1a1f658cde95288f9d887a0128fa84&width=1200&height=630&quality=85&focal=549%2C412",
+      "date": "2026-07-24",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Justice",
+          "hausse": true
+        },
+        {
+          "label": "▼ Assurances",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Justice",
+          "secteur_en": "Judicial system",
+          "secteur_zh": "司法系统",
+          "effet_fr": "Les affaires de violences conjugales pourraient entraîner une augmentation des budgets alloués aux tribunaux spécialisés et aux services d’accompagnement psychologique.",
+          "effet_en": "Domestic violence cases could lead to increased budgets for specialized courts and psychological support services.",
+          "effet_zh": "家庭暴力案件可能导致专门法庭和心理支持服务预算的增加。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances",
+          "secteur_en": "Insurance sector",
+          "secteur_zh": "保险行业",
+          "effet_fr": "Les assureurs pourraient revoir à la hausse les primes des contrats couvrant les risques liés aux violences conjugales ou aux addictions.",
+          "effet_en": "Insurers may increase premiums for policies covering risks related to domestic violence or addictions.",
+          "effet_zh": "保险公司可能会提高涵盖家庭暴力或成瘾风险的保单保费。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-07-26T06:37:32.775549",
+      "sous_categorie": "femmes"
     },
     {
       "id": "pol_femmes_983930",
