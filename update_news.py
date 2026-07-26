@@ -230,9 +230,8 @@ Return exactly {len(lines)} objects in this JSON array:
             try:
                 results1 = json.loads(m1.group())
                 for i, obj in enumerate(results1):
-                    pid = obj.get("pays") or (pays_order[i] if i < len(pays_order) else None)
-                    if pid:
-                        out[pid] = obj
+                    if i < len(pays_order):
+                        out[pays_order[i]] = obj
             except Exception as e:
                 print(f"  ⚠ Erreur JSON (appel 1 FR/EN/ZH): {e}")
         else:
@@ -272,19 +271,20 @@ Return exactly {len(lines)} objects, in the SAME ORDER as the articles above:
             try:
                 results2 = json.loads(m2.group())
                 for i, obj in enumerate(results2):
-                    pid = obj.get("pays") or (pays_order[i] if i < len(pays_order) else None)
-                    if pid and pid in out:
-                        out[pid].update({
-                            "titre_ru": obj.get("titre_ru",""),
-                            "titre_fa": obj.get("titre_fa",""),
-                            "titre_ar": obj.get("titre_ar",""),
-                            "resume_ru": obj.get("resume_ru",""),
-                            "resume_fa": obj.get("resume_fa",""),
-                            "resume_ar": obj.get("resume_ar",""),
-                            "analyse_ru": obj.get("analyse_ru",""),
-                            "analyse_fa": obj.get("analyse_fa",""),
-                            "analyse_ar": obj.get("analyse_ar",""),
-                        })
+                    if i < len(pays_order):
+                        pid = pays_order[i]
+                        if pid in out:
+                            out[pid].update({
+                                "titre_ru": obj.get("titre_ru",""),
+                                "titre_fa": obj.get("titre_fa",""),
+                                "titre_ar": obj.get("titre_ar",""),
+                                "resume_ru": obj.get("resume_ru",""),
+                                "resume_fa": obj.get("resume_fa",""),
+                                "resume_ar": obj.get("resume_ar",""),
+                                "analyse_ru": obj.get("analyse_ru",""),
+                                "analyse_fa": obj.get("analyse_fa",""),
+                                "analyse_ar": obj.get("analyse_ar",""),
+                            })
             except Exception as e:
                 print(f"  ⚠ Erreur JSON (appel 2 RU/FA/AR): {e}")
         else:
