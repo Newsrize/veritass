@@ -1,7 +1,66 @@
 {
-  "last_updated": "27/07/2026 à 18h24",
+  "last_updated": "27/07/2026 à 20h22",
   "articles": {
     "monde": [
+      {
+        "id": "monde_104952",
+        "titre": "Jensen Huang soutient l'IA ouverte sur X",
+        "titre_en": "Jensen Huang Backs Open-Weight AI on X",
+        "titre_zh": "黄仁勋在X上支持开放权重AI",
+        "titre_ru": "Генеральный директор NVIDIA Дженсен Хуанг поддержал открытый ИИ",
+        "titre_fa": "مدیرعامل انویدیا جنسن هوانگ از هوش مصنوعی باز حمایت کرد",
+        "titre_ar": "الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ يدعم الذكاء الاصطناعي المفتوح",
+        "titre_original": "NVIDIA CEO Jensen Huang joins X with post backing open-weight AI",
+        "resume": "Le PDG de NVIDIA, Jensen Huang, a partagé une lettre sur X appelant à ne pas restreindre l'IA à poids ouvert. Cette initiative rassemble 24 autres entreprises technologiques. L'objectif est de préserver l'innovation et la collaboration dans le secteur.",
+        "resume_en": "NVIDIA CEO Jensen Huang posted a letter on X urging policymakers not to restrict open-weight AI. The initiative includes 24 other tech companies. The goal is to preserve innovation and collaboration in the sector.",
+        "resume_zh": "英伟达CEO黄仁勋在X上发布了一封信，敦促政策制定者不要限制开放权重AI。该倡议包括另外24家科技公司。目标是保护行业的创新与合作。",
+        "resume_ru": "Генеральный директор NVIDIA Дженсен Хуанг опубликовал первое сообщение в социальной сети X, поддержав открытые модели искусственного интеллекта. В посте он поделился письмом от NVIDIA и 24 других компаний, призывающим политиков США не ограничивать разработку открытых ИИ. Это заявление подчеркивает важность свободы инноваций в технологической сфере.",
+        "resume_fa": "مدیرعامل شرکت انویدیا، جنسن هوانگ، اولین پست خود در شبکه اجتماعی ایکس را منتشر کرد و از هوش مصنوعی باز حمایت کرد. او در این پست نامه‌ای از انویدیا و 24 شرکت دیگر را به اشتراک گذاشت که در آن از سیاستمداران آمریکایی خواسته شده تا توسعه هوش مصنوعی باز را محدود نکنند. این بیانیه اهمیت آزادی نوآوری در حوزه فناوری را نشان می‌دهد.",
+        "resume_ar": "نشر الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ أول منشور له على منصة إكس، داعماً للذكاء الاصطناعي المفتوح. شارك في المنشور رسالة من NVIDIA و24 شركة أخرى تحث صانعي السياسات الأمريكيين على عدم تقييد تطوير الذكاء الاصطناعي المفتوح. تؤكد هذه الخطوة على أهمية حرية الابتكار في مجال التكنولوجيا.",
+        "analyse_detaillee": "L'IA à poids ouvert est un enjeu majeur depuis l'émergence des modèles génératifs comme ceux de Mistral ou Llama. Les États-Unis et la Chine se livrent une course technologique pour dominer ce secteur. Les enjeux principaux incluent la souveraineté technologique et l'accès aux données. Les causes profondes sont liées à la concentration du pouvoir entre quelques acteurs comme NVIDIA ou Microsoft. À court terme, cette prise de position pourrait accélérer l'adoption de l'IA ouverte mais aussi créer des tensions avec les régulateurs. À moyen terme, elle pourrait renforcer la position de NVIDIA dans l'écosystème tech mondial. À long terme, cela pourrait mener à une fragmentation des standards technologiques entre blocs géopolitiques. Les acteurs clés sont les États-Unis, la Chine, l'UE et les géants technologiques. La position de Huang reflète une stratégie de leadership technologique américain face à la concurrence chinoise.",
+        "analyse_en": "Open-weight AI has been a major issue since the rise of generative models like Mistral or Llama. The US and China are engaged in a technological race to dominate this sector. Key stakes include technological sovereignty and data access. Root causes are tied to the concentration of power among a few actors like NVIDIA or Microsoft. In the short term, this stance could accelerate the adoption of open AI but also create tensions with regulators. In the medium term, it could strengthen NVIDIA's position in the global tech ecosystem. Long-term, this could lead to a fragmentation of technological standards between geopolitical blocs. Key actors are the US, China, the EU, and tech giants. Huang's position reflects a strategy of US technological leadership against Chinese competition.",
+        "analyse_zh": "开放权重AI自生成式模型如Mistral或Llama兴起以来成为重大议题。美中两国正在进行技术竞赛以主导该领域。主要影响包括技术主权和数据访问。深层原因与NVIDIA或微软等少数行为者的权力集中有关。短期内，此立场可能加速开放AI的采用，但也可能与监管机构产生冲突。中期来看，可能巩固NVIDIA在全球科技生态系统中的地位。长期而言，可能导致地缘政治集团间技术标准的碎片化。关键行为者包括美国、中国、欧盟和科技巨头。黄仁勋的立场反映了美国面对中国竞争的技术领导战略。",
+        "analyse_ru": "Контекст связан с растущими дебатами о регулировании искусственного интеллекта, особенно в США. Причины поддержки открытых моделей ИИ включают стремление к инновациям и конкурентоспособности. Последствия могут быть как положительными (ускорение развития технологий), так и отрицательными (риски безопасности). Перспективы зависят от того, как правительства отреагируют на эти призывы. Позиции компаний и политиков различны: одни поддерживают свободу разработки, другие настаивают на контроле.",
+        "analyse_fa": "زمینه این موضوع به مناقشات فزاینده درباره تنظیم مقررات هوش مصنوعی، به ویژه در آمریکا، مربوط می‌شود. دلایل حمایت از مدل‌های باز هوش مصنوعی شامل تمایل به نوآوری و رقابت‌پذیری است. پیامدها می‌تواند هم مثبت (تسریع توسعه فناوری) و هم منفی (خطرات امنیتی) باشد. چشم‌اندازها به واکنش دولت‌ها به این فراخوان‌ها بستگی دارد. موضع شرکت‌ها و سیاستمداران متفاوت است: برخی از آزادی توسعه حمایت می‌کنند، در حالی که دیگران بر کنترل تأکید دارند.",
+        "analyse_ar": "يرتبط سياق هذا الوضع بالمناقشات المتزايدة حول تنظيم الذكاء الاصطناعي، خاصة في الولايات المتحدة. تشمل أسباب دعم النماذج المفتوحة من الذكاء الاصطناعي الرغبة في الابتكار والتنافسية. قد تكون العواقب إيجابية (تسريع تطوير التكنولوجيا) أو سلبية (مخاطر أمنية). تعتمد الآفاق على كيفية استجابة الحكومات لهذه النداءات. تختلف مواقف الشركات وصانعي السياسات: فالبعض يدعم حرية التطوير، بينما يصر آخرون على الرقابة.",
+        "categorie": "Technologie",
+        "source": "TweakTown",
+        "url": "https://www.tweaktown.com/news/112840/nvidia-ceo-jensen-huang-joins-x-with-post-backing-open-weight-ai/index.html",
+        "image": "https://static.tweaktown.com/news/1/1/112840_1_jensen-huang-finally-joined-and-his-first-post-was-not-about-gpus_full.jpg",
+        "date": "2026-07-26",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des semi-conducteurs",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur de la cybersécurité",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des semi-conducteurs",
+            "secteur_en": "Semiconductor market",
+            "secteur_zh": "半导体市场",
+            "effet_fr": "Le soutien à l'IA ouverte pourrait stimuler la demande en puces avancées, bénéficiant aux fabricants comme NVIDIA et TSMC.",
+            "effet_en": "Support for open AI could boost demand for advanced chips, benefiting manufacturers like NVIDIA and TSMC.",
+            "effet_zh": "对开放AI的支持可能推动对先进芯片的需求，惠及NVIDIA和台积电等制造商。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur de la cybersécurité",
+            "secteur_en": "Cybersecurity sector",
+            "secteur_zh": "网络安全行业",
+            "effet_fr": "L'essor de l'IA ouverte pourrait accroître les risques de cyberattaques, stimulant la demande en solutions de sécurité.",
+            "effet_en": "The rise of open AI could increase cyberattack risks, driving demand for security solutions.",
+            "effet_zh": "开放AI的兴起可能增加网络攻击风险，推动对安全解决方案的需求。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-27T20:22:11.844047"
+      },
       {
         "id": "monde_63937",
         "titre": "L'Inde rejette tout dialogue avec le Pakistan hors Cachemire",
@@ -1104,56 +1163,6 @@
           }
         ],
         "created_at": "2026-07-08T20:20:10.253061"
-      },
-      {
-        "id": "monde_26236",
-        "titre": "Croissance de l'IA générative",
-        "titre_en": "Generative AI Growth",
-        "titre_zh": "生成人工智能增长",
-        "titre_original": "Explosive Growth: Generative AI in Content Creation Market Set to Soar from $21.53 Billion in 2025 to $77.22 Billion by 2030",
-        "resume": "Le marché de l'IA générative dans la création de contenu connaît une croissance exponentielle. Cette croissance est due à la consommation numérique, à l'adoption par les entreprises et à la demande de contenus personnalisés. Le marché devrait passer de 21,53 milliards de dollars en 2025 à 77,22 milliards de dollars d'ici 2030.",
-        "resume_en": "The generative AI market in content creation is experiencing exponential growth. This growth is driven by digital consumption, enterprise adoption, and demand for personalized content. The market is expected to grow from $21.53 billion in 2025 to $77.22 billion by 2030.",
-        "resume_zh": "生成人工智能在内容创作市场的增长是指数级的。这种增长是由数字消费、企业采用和对个性化内容的需求驱动的。预计该市场将从2025年的215.3亿美元增长到2030年的772.2亿美元。",
-        "analyse_detaillee": "Le contexte historique de l'IA générative est marqué par des avancées technologiques récentes. Les enjeux principaux sont la concurrence entre les entreprises et la régulation du marché. Les conséquences à court terme sont la création d'emplois et la croissance économique. Les perspectives à long terme sont l'amélioration de la personnalisation et de la qualité des contenus. Les acteurs clés sont les entreprises de technologie et les régulateurs.",
-        "analyse_en": "The historical context of generative AI is marked by recent technological advancements. The main stakes are competition between companies and market regulation. The short-term consequences are job creation and economic growth. The long-term prospects are improved personalization and content quality. The key actors are technology companies and regulators.",
-        "analyse_zh": "生成人工智能的历史背景是由最近的技术进步标志。主要影响是公司之间的竞争和市场监管。短期后果是创造就业机会和经济增长。长期前景是改善个性化和内容质量。关键参与者是技术公司和监管机构。",
-        "categorie": "Technologie",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/07/3323468/28124/en/Explosive-Growth-Generative-AI-in-Content-Creation-Market-Set-to-Soar-from-21-53-Billion-in-2025-to-77-22-Billion-by-2030.html",
-        "image": "https://ml.globenewswire.com/Resource/Download/b4509dda-13e2-4105-9fa3-061a7f40a9ce",
-        "date": "2026-07-07",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché de la technologie",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché du divertissement",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché de la technologie",
-            "secteur_en": "Technology market",
-            "secteur_zh": "技术市场",
-            "effet_fr": "La croissance de l'IA générative aura un impact positif sur le marché de la technologie.",
-            "effet_en": "The growth of generative AI will have a positive impact on the technology market.",
-            "effet_zh": "生成人工智能的增长将对技术市场产生积极影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché du divertissement",
-            "secteur_en": "Entertainment market",
-            "secteur_zh": "娱乐市场",
-            "effet_fr": "La croissance de l'IA générative aura également un impact sur le marché du divertissement.",
-            "effet_en": "The growth of generative AI will also have an impact on the entertainment market.",
-            "effet_zh": "生成人工智能的增长也将对娱乐市场产生影响。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-08T19:00:31.973669"
       }
     ],
     "france": [
@@ -1259,6 +1268,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_421752",
+        "titre": "Accord nucléaire saoudien sans enrichissement",
+        "titre_en": "Saudi Nuclear Deal Excludes Enrichment",
+        "titre_zh": "沙特核协议不涉及浓缩",
+        "titre_ru": "Владимир Вальц: в ядерной сделке с Саудовской Аравией нет обогащения",
+        "titre_fa": "والتز: در توافق هسته‌ای با عربستان غنی‌سازی وجود ندارد",
+        "titre_ar": "والتز: لا يوجد تخصيب نووي في الصفقة النووية مع السعودية",
+        "titre_original": "‘There is no enrichment envisioned’ in Saudi nuclear deal, Waltz says - Politico",
+        "resume": "L'ambassadeur Mike Waltz affirme qu'aucun enrichissement d'uranium n'est prévu dans l'accord nucléaire avec l'Arabie saoudite. Cet accord s'inscrit dans la stratégie de Trump pour promouvoir l'énergie nucléaire. Les bénéfices pour la famille Trump suscitent des interrogations.",
+        "resume_en": "Ambassador Mike Waltz states that no uranium enrichment is envisioned in the nuclear deal with Saudi Arabia. The agreement aligns with Trump's strategy to promote nuclear energy. Benefits for the Trump family raise questions.",
+        "resume_zh": "大使迈克·沃尔茨表示，沙特核协议不涉及铀浓缩。该协议符合特朗普推广核能的战略。特朗普家族的利益引发质疑。",
+        "resume_ru": "Политик Владимир Вальц заявил, что в предстоящей ядерной сделке с Саудовской Аравией не предусмотрено обогащение урана. Это заявление прозвучало на фоне обсуждений возможного сотрудничества США и Саудовской Аравии в ядерной энергетике. Эксперты отмечают, что сделка может принести выгоды обеим сторонам.",
+        "resume_fa": "سیاستمدار ولادیمیر والتز اعلام کرد که در توافق هسته‌ای آینده با عربستان سعودی، غنی‌سازی اورانیوم پیش‌بینی نشده است. این اظهار نظر در بحبوحه بحث‌های مربوط به همکاری احتمالی آمریکا و عربستان در زمینه انرژی هسته‌ای مطرح شد. کارشناسان معتقدند که این توافق می‌تواند برای هر دو طرف سودمند باشد.",
+        "resume_ar": "أعلن السياسي فلاديمير والتز أنه لا يوجد تخصيب لليورانيوم في الصفقة النووية القادمة مع المملكة العربية السعودية. جاء هذا التصريح في ظل مناقشات حول التعاون المحتمل بين الولايات المتحدة والسعودية في مجال الطاقة النووية. يرى الخبراء أن هذه الصفقة قد تعود بالفائدة على كلا الجانبين.",
+        "analyse_detaillee": "Les accords nucléaires avec l'Arabie saoudite remontent aux années 2000, avec des projets avortés en raison de préoccupations sur la prolifération. Les enjeux principaux incluent la sécurité énergétique saoudienne et l'influence américaine au Moyen-Orient. Les causes profondes sont liées à la dépendance saoudienne aux hydrocarbures et à la volonté de diversification économique. À court terme, cet accord pourrait renforcer les liens entre Washington et Riyad mais aussi susciter des critiques sur les conflits d'intérêts. À moyen terme, il pourrait accélérer le développement du nucléaire civil saoudien, avec des retombées pour les entreprises américaines. À long terme, cela pourrait modifier l'équilibre géopolitique régional au détriment de l'Iran. Les acteurs clés sont les États-Unis, l'Arabie saoudite, Israël et les Émirats arabes unis. La position de Trump reflète une stratégie de réengagement énergétique au Moyen-Orient, malgré les controverses.",
+        "analyse_en": "Nuclear agreements with Saudi Arabia date back to the 2000s, with failed projects due to proliferation concerns. Key stakes include Saudi energy security and US influence in the Middle East. Root causes are tied to Saudi dependence on hydrocarbons and the desire for economic diversification. In the short term, this deal could strengthen ties between Washington and Riyadh but also spark criticism over conflicts of interest. In the medium term, it could accelerate the development of Saudi civil nuclear power, benefiting US companies. Long-term, this could shift the regional geopolitical balance to Iran's detriment. Key actors are the US, Saudi Arabia, Israel, and the UAE. Trump's position reflects a strategy of re-engagement in Middle Eastern energy, despite controversies.",
+        "analyse_zh": "与沙特的核协议可追溯至2000年代，因扩散担忧而失败的项目。主要影响包括沙特能源安全和美国在中东的影响力。深层原因与沙特对碳氢化合物的依赖及经济多元化意愿有关。短期内，此协议可能加强华盛顿与利雅得的关系，但也可能因利益冲突引发批评。中期来看，可能加速沙特民用核能发展，惠及美国企业。长期而言，可能改变地区地缘政治平衡，对伊朗不利。关键行为者包括美国、沙特、以色列和阿联酋。特朗普的立场反映了重新参与中东能源的战略，尽管存在争议。",
+        "analyse_ru": "Контекст связан с попытками США заключить ядерные соглашения с Саудовской Аравией, что вызывает опасения у международного сообщества. Причины отсутствия обогащения могут быть связаны с требованиями США для предотвращения распространения ядерного оружия. Последствия такой сделки могут укрепить позиции Саудовской Аравии в регионе и усилить её энергетическую независимость. Перспективы включают возможное сопротивление со стороны Ирана и других стран. Позиции сторон различны: США стремятся к расширению влияния, а Саудовская Аравия — к технологическому развитию.",
+        "analyse_fa": "زمینه این موضوع به تلاش‌های آمریکا برای بستن توافق‌های هسته‌ای با عربستان سعودی مربوط می‌شود که نگرانی‌هایی را در جامعه بین‌المللی ایجاد کرده است. دلایل عدم غنی‌سازی ممکن است به الزامات آمریکا برای جلوگیری از گسترش سلاح‌های هسته‌ای مربوط باشد. پیامدهای چنین توافقی می‌تواند موقعیت عربستان در منطقه را تقویت کند و استقلال انرژی آن را افزایش دهد. چشم‌اندازها شامل مقاومت احتمالی از سوی ایران و سایر کشورها است. موضع آمریکا گسترش نفوذ است، در حالی که عربستان به دنبال توسعه فناوری است.",
+        "analyse_ar": "يرتبط سياق هذا الوضع بمحاولات الولايات المتحدة لإبرام اتفاقيات نووية مع المملكة العربية السعودية، مما أثار قلق المجتمع الدولي. قد ترتبط أسباب عدم التخصيب بمتطلبات الولايات المتحدة لمنع انتشار الأسلحة النووية. قد تعزز عواقب مثل هذه الصفقة من مكانة السعودية في المنطقة وتعزز استقلالها الطاقوي. تشمل الآفاق احتمال مقاومة من إيران ودول أخرى. موقف الولايات المتحدة هو توسيع النفوذ، بينما تسعى السعودية إلى التطور التكنولوجي.",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184708212",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-07-26",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Secteur de l'énergie",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché immobilier",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de l'énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "L'accord pourrait stimuler les investissements américains dans les infrastructures nucléaires, boostant les actions des entreprises comme Westinghouse.",
+            "effet_en": "The deal could boost US investments in nuclear infrastructure, lifting shares of companies like Westinghouse.",
+            "effet_zh": "该协议可能推动美国在核基础设施方面的投资，提升西屋电气等公司的股价。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché immobilier",
+            "secteur_en": "Real estate market",
+            "secteur_zh": "房地产市场",
+            "effet_fr": "Le développement nucléaire saoudien pourrait attirer des investissements étrangers dans les infrastructures, dynamisant le marché immobilier local.",
+            "effet_en": "Saudi nuclear development could attract foreign investments in infrastructure, boosting the local real estate market.",
+            "effet_zh": "沙特核能发展可能吸引外国基础设施投资，推动当地房地产市场。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-07-27T20:22:11.844059"
+      },
       {
         "id": "usa_661714",
         "titre": "Trump et une route marocaine à son nom ?",
@@ -2379,68 +2447,68 @@
           }
         ],
         "created_at": "2026-07-13T18:23:55.922161"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_645207",
-        "titre": "Trump peut licencier",
-        "titre_en": "Trump can fire board",
-        "titre_zh": "特朗普可以解雇",
-        "titre_ru": "Трамп может уволить",
-        "titre_fa": "ترامپ می تواند اخراج کند",
-        "titre_ar": "ترامب يمكنه إقالة",
-        "titre_original": "Analysis: Trump’s new power to fire board members threatens due process | Bloomberg Law",
-        "resume": "La décision de la Cour suprême des États-Unis permet au président Donald Trump de licencier les membres des agences indépendantes. Cette décision pourrait réduire le pouvoir du président. Les agences concernées sont celles qui étaient auparavant indépendantes. La décision a des implications importantes pour le système politique américain.",
-        "resume_en": "The US Supreme Court's decision allows President Donald Trump to fire members of independent agencies. This decision may reduce the power of the president. The agencies in question are those that were previously independent. The decision has significant implications for the US political system.",
-        "resume_zh": "美国最高法院的决定允许总统唐纳德·特朗普解雇独立机构的成员。这一决定可能会减少总统的权力。相关机构是那些以前独立的机构。该决定对美国政治体系有着重要的影响。",
-        "resume_ru": "Решение Верховного суда США позволяет президенту Дональду Трампу уволить членов независимых агентств. Это решение может уменьшить власть президента. Агентства, о которых идет речь, являются теми, которые ранее были независимыми. Решение имеет значительные последствия для американской политической системы.",
-        "resume_fa": "تصمیم دادگاه عالی ایالات متحده به رئیس جمهور دونالد ترامپ اجازه می دهد که اعضای آژانس های مستقل را اخراج کند. این تصمیم ممکن است قدرت رئیس جمهور را کاهش دهد. آژانس های مربوطه آنهایی هستند که قبلا مستقل بودند. این تصمیم تأثیرات مهمی بر سیستم سیاسی آمریکا دارد.",
-        "resume_ar": "مكن تصمیم المحكمة العلیا للولایات المتحدة الرئيس دونالد ترامب من إقالة أعضاء الوكالات المستقلة. هذا القرار قد يقلل من سلطة الرئيس. الوكالات المعنية هي تلك التي كانت مستقلة في السابق. القرار له آثار مهمة على النظام السياسي الأمريكي.",
-        "analyse_detaillee": "La décision de la Cour suprême des États-Unis s'inscrit dans un contexte historique de tensions entre le pouvoir exécutif et les agences indépendantes. Les enjeux principaux sont la limitation du pouvoir présidentiel et la protection des agences indépendantes. Les conséquences à court terme seront une réduction du pouvoir de Trump. Les perspectives à long terme sont incertaines. Les acteurs clés sont le président, la Cour suprême et les agences indépendantes.",
-        "analyse_en": "The US Supreme Court's decision is set in a historical context of tensions between the executive power and independent agencies. The main stakes are the limitation of presidential power and the protection of independent agencies. The short-term consequences will be a reduction of Trump's power. The long-term prospects are uncertain. The key actors are the president, the Supreme Court, and the independent agencies.",
-        "analyse_zh": "美国最高法院的决定是在一个历史背景下，即行政权力和独立机构之间的紧张关系。主要问题是限制总统的权力和保护独立机构。短期后果将是特朗普权力的减少。长期前景是不确定的。关键人物是总统、最高法院和独立机构。",
-        "analyse_ru": "Решение Верховного суда США находится в историческом контексте напряженности между исполнительной властью и независимыми агентствами. Основные проблемы - ограничение президентской власти и защита независимых агентств. Краткосрочные последствия будут снижением власти Трампа. Долгосрочные перспективы неопределенны. Ключевыми фигурами являются президент, Верховный суд и независимые агентства.",
-        "analyse_fa": "تصمیم دادگاه عالی ایالات متحده در زمینه تاریخی تنش بین قدرت اجرایی و آژانس های مستقل قرار دارد. مسائل اصلی محدود کردن قدرت رئیس جمهور و حفاظت از آژانس های مستقل است. پیامدهای کوتاه مدت کاهش قدرت ترامپ خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی رئیس جمهور، دادگاه عالی و آژانس های مستقل هستند.",
-        "analyse_ar": "قرار المحكمة العلیا للولایات المتحدة یأتی في سیاق تاریخی من التوتر بین السلطة التنفیذية والوكالات المستقلة. القضايا الرئيسية هي تقلیل سلطة الرئيس وحماية الوكالات المستقلة. العواقب قصيرة الأجل ستكون تقليل سلطة ترامب. الآفاق طويلة الأجل غير مؤكدة. الأطراف الفاعلة الرئيسية هي الرئيس والمحكمة العلیا والوكالات المستقلة.",
-        "categorie": "Géopolitique",
-        "source": "Bloomberglaw.com",
-        "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/trumps-new-power-to-fire-board-members-threatens-due-process",
-        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/d361ac1/2147483647/crop/5000x1927+0+1081/resize/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fa8%2F5f%2F8ae562f94274910d7f735a3ca583%2Fsupreme-court-graeme-sloan.jpg",
-        "date": "2026-07-12",
-        "pays": "usa",
+        "id": "chine_212900",
+        "titre": "Un pasteur ouïghour menacé de fermeture d'église",
+        "titre_en": "Uyghur Pastor Faces Church Closure Threat",
+        "titre_zh": "维吾尔牧师面临教堂关闭威胁",
+        "titre_ru": "Пастор уйгурского происхождения в Китае рискует закрытием церкви",
+        "titre_fa": "مسیحی اویغور در چین با بسته شدن کلیسا مواجه است",
+        "titre_ar": "كاهن من أصول أويغورية في الصين يواجه إغلاق الكنيسة",
+        "titre_original": "Uyghur Pastor in China Faces Forced Church Closure from Communist Officials",
+        "resume": "Un pasteur ouïghour en Chine risque la fermeture forcée de son église en raison de réglementations communistes. Les autorités imposent des restrictions strictes aux communautés religieuses. La répression des minorités ethniques s'intensifie.",
+        "resume_en": "A Uyghur pastor in China faces forced church closure due to communist regulations. Authorities impose strict restrictions on religious communities. Repression of ethnic minorities is intensifying.",
+        "resume_zh": "中国一位维吾尔牧师因共产党法规面临教堂被强制关闭的风险。当局对宗教社区施加严格限制。对少数民族的镇压正在加剧。",
+        "resume_ru": "Пастор уйгурского происхождения в китайском регионе Синьцзян столкнулся с угрозой закрытия своей церкви по требованию местных властей. Это связано с жёсткими мерами правительства Китая по контролю религиозной деятельности. Эксперты отмечают рост преследований религиозных меньшинств в регионе.",
+        "resume_fa": "مسیحی اویغور در منطقه سین کیانگ چین با تهدید بسته شدن کلیسای خود به دلیل خواست مقامات محلی مواجه است. این موضوع به سیاست‌های سخت‌گیرانه دولت چین در کنترل فعالیت‌های مذهبی مربوط می‌شود. کارشناسان از افزایش آزار و اذیت اقلیت‌های مذهبی در این منطقه خبر می‌دهند.",
+        "resume_ar": "يواجه كاهن من أصول أويغورية في منطقة شينجيانغ الصينية خطر إغلاق كنيسته بناءً على طلب السلطات المحلية. ويرتبط هذا الأمر بسياسات الحكومة الصينية الصارمة في السيطرة على الأنشطة الدينية. يحذر الخبراء من تزايد اضطهاد الأقليات الدينية في المنطقة.",
+        "analyse_detaillee": "La répression des Ouïghours en Chine remonte aux années 2010 avec la politique de 'sinisation' des religions. Les enjeux principaux incluent le contrôle politique et la cohésion nationale. Les causes profondes sont liées à la lutte contre l'extrémisme religieux et à la sécurisation de la région du Xinjiang. À court terme, cette répression pourrait réduire les tensions ethniques mais aussi radicaliser une partie de la population. À moyen terme, elle pourrait affaiblir la cohésion sociale et économique du Xinjiang. À long terme, cela pourrait mener à une crise humanitaire durable ou à une révolte ouverte. Les acteurs clés sont la Chine, les organisations internationales et les pays musulmans. La position du gouvernement chinois reflète une stratégie de contrôle absolu pour éviter toute contestation interne.",
+        "analyse_en": "The repression of Uyghurs in China dates back to the 2010s with the policy of 'sinicization' of religions. Key stakes include political control and national cohesion. Root causes are tied to the fight against religious extremism and the securitization of the Xinjiang region. In the short term, this repression could reduce ethnic tensions but also radicalize part of the population. In the medium term, it could weaken the social and economic cohesion of Xinjiang. Long-term, this could lead to a lasting humanitarian crisis or open revolt. Key actors are China, international organizations, and Muslim countries. The Chinese government's position reflects a strategy of absolute control to prevent any internal dissent.",
+        "analyse_zh": "中国对维吾尔人的镇压可追溯至2010年代的宗教‘中国化’政策。主要影响包括政治控制和国家凝聚力。深层原因与打击宗教极端主义及新疆地区安全化有关。短期内，此镇压可能减少民族紧张局势，但也可能激化部分民众。中期来看，可能削弱新疆的社会和经济凝聚力。长期而言，可能导致持久的人道主义危机或公开叛乱。关键行为者包括中国、国际组织和穆斯林国家。中国政府的立场反映了绝对控制以防止任何内部异议的战略。",
+        "analyse_ru": "Контекст связан с политикой Китая в отношении религиозных меньшинств, особенно в Синьцзяне. Причины ужесточения контроля могут быть связаны с борьбой с сепаратизмом и поддержанием стабильности. Последствия таких мер включают усиление репрессий и ограничение свободы вероисповедания. Перспективы зависят от международной реакции и внутренней политики Китая. Позиции сторон различны: Китай настаивает на безопасности, а международное сообщество критикует нарушения прав человека.",
+        "analyse_fa": "زمینه این موضوع به سیاست چین در قبال اقلیت‌های مذهبی، به ویژه در سین کیانگ، مربوط می‌شود. دلایل تشدید کنترل ممکن است به مبارزه با جدایی‌طلبی و حفظ ثبات مربوط باشد. پیامدهای چنین اقداماتی شامل تشدید سرکوب و محدودیت آزادی مذهب است. چشم‌اندازها به واکنش بین‌المللی و سیاست داخلی چین بستگی دارد. موضع چین بر امنیت تأکید دارد، در حالی که جامعه بین‌المللی نقض حقوق بشر را محکوم می‌کند.",
+        "analyse_ar": "يرتبط سياق هذا الوضع بسياسة الصين تجاه الأقليات الدينية، خاصة في شينجيانغ. قد ترتبط أسباب تشديد السيطرة بمكافحة الانفصالية والحفاظ على الاستقرار. تشمل عواقب مثل هذه الإجراءات زيادة القمع وتقييد حرية المعتقد. تعتمد الآفاق على رد الفعل الدولي والسياسة الداخلية للصين. موقف الصين يتمحور حول الأمن، بينما تنتقد المجتمع الدولي انتهاكات حقوق الإنسان.",
+        "categorie": "Droits de l'homme",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/07/uyghur-pastor-china-faces-forced-church-closure-communist/",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2024/10/bible-4249164_1280-1200x630.jpg",
+        "date": "2026-07-26",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Agences indépendantes",
+            "label": "▼ Secteur bancaire",
             "hausse": false
           },
           {
-            "label": "▼ Pouvoir exécutif",
+            "label": "▼ Marché du tourisme",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Agences indépendantes",
-            "secteur_en": "Independent agencies",
-            "secteur_zh": "独立机构",
-            "effet_fr": "La décision de la Cour suprême des États-Unis réduit le pouvoir de Trump sur les agences indépendantes.",
-            "effet_en": "The US Supreme Court's decision reduces Trump's power over independent agencies.",
-            "effet_zh": "美国最高法院的决定减少了特朗普对独立机构的权力。",
+            "secteur_fr": "Secteur bancaire",
+            "secteur_en": "Banking sector",
+            "secteur_zh": "银行业",
+            "effet_fr": "Les sanctions internationales contre la Chine pourraient réduire les flux financiers vers les institutions bancaires chinoises, affectant leur liquidité.",
+            "effet_en": "International sanctions against China could reduce financial flows to Chinese banks, impacting their liquidity.",
+            "effet_zh": "针对中国的国际制裁可能减少流向中国银行的资金，影响其流动性。",
             "hausse": false
           },
           {
-            "secteur_fr": "Pouvoir exécutif",
-            "secteur_en": "Executive power",
-            "secteur_zh": "行政权力",
-            "effet_fr": "La décision de la Cour suprême des États-Unis limite le pouvoir exécutif de Trump.",
-            "effet_en": "The US Supreme Court's decision limits Trump's executive power.",
-            "effet_zh": "美国最高法院的决定限制了特朗普的行政权力。",
+            "secteur_fr": "Marché du tourisme",
+            "secteur_en": "Tourism market",
+            "secteur_zh": "旅游市场",
+            "effet_fr": "La répression au Xinjiang pourrait dissuader les touristes étrangers, réduisant les revenus du secteur dans la région.",
+            "effet_en": "Repression in Xinjiang could deter foreign tourists, reducing sector revenues in the region.",
+            "effet_zh": "新疆的镇压可能阻吓外国游客，减少该地区旅游业收入。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-13T08:38:41.199814"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-07-27T20:22:11.844079"
+      },
       {
         "id": "chine_366406",
         "titre": "La Chine face à une crise démographique",
@@ -3492,6 +3560,65 @@
       }
     ],
     "russie": [
+      {
+        "id": "russie_131429",
+        "titre": "Poutine menace de traiter les actes hostiles comme de la piraterie",
+        "titre_en": "Putin Threatens to Treat Hostile Acts as Piracy",
+        "titre_zh": "普京威胁将敌对行为视为海盗行为",
+        "titre_ru": "Путин предупреждает: враждебные действия против российских судов — пиратство",
+        "titre_fa": "پوتین هشدار داد: اقدامات خصمانه علیه کشتی‌های روسی دزدی دریایی است",
+        "titre_ar": "حذر بوتين: الأعمال العدائية ضد السفن الروسية تعد قرصنة",
+        "titre_original": "Putin warns hostile acts against Russian ships will be treated as piracy",
+        "resume": "Poutine a averti que les actes hostiles contre les navires russes seraient considérés comme de la piraterie. Cette déclaration intervient dans un contexte de tensions maritimes accrues. Les routes commerciales mondiales pourraient être perturbées.",
+        "resume_en": "Putin warned that hostile acts against Russian ships would be treated as piracy. This statement comes amid heightened maritime tensions. Global shipping routes could be disrupted.",
+        "resume_zh": "普京警告称，针对俄罗斯船只的敌对行为将被视为海盗行为。此声明发生在海上紧张局势加剧之际。全球航运路线可能受到干扰。",
+        "resume_ru": "Президент России Владимир Путин заявил, что любые враждебные действия против российских судов будут рассматриваться как пиратство. Это заявление прозвучало на фоне обострения морских конфликтов и угроз безопасности судоходства. Эксперты предупреждают о возможных последствиях для глобальной торговли.",
+        "resume_fa": "رئیس‌جمهور روسیه ولادیمیر پوتین اعلام کرد که هرگونه اقدام خصمانه علیه کشتی‌های روسی به عنوان دزدی دریایی تلقی خواهد شد. این اظهار نظر در بحبوحه تشدید درگیری‌های دریایی و تهدیدات امنیت کشتیرانی مطرح شد. کارشناسان نسبت به پیامدهای احتمالی برای تجارت جهانی هشدار می‌دهند.",
+        "resume_ar": "أعلن الرئيس الروسي فلاديمير بوتين أن أي أعمال عدائية ضد السفن الروسية ستُعتبر قرصنة. جاء هذا التصريح في ظل تصاعد الصراعات البحرية وتهديدات أمن الملاحة. يحذر الخبراء من العواقب المحتملة على التجارة العالمية.",
+        "analyse_detaillee": "Les tensions maritimes russes remontent à l'annexion de la Crimée en 2014 et aux sanctions occidentales. Les enjeux principaux incluent le contrôle des routes commerciales et la projection de puissance militaire. Les causes profondes sont liées à la stratégie russe de déni d'accès en mer Noire et en mer Baltique. À court terme, cette déclaration pourrait dissuader les actions hostiles mais aussi provoquer des représailles. À moyen terme, elle pourrait renforcer la militarisation des routes maritimes stratégiques. À long terme, cela pourrait mener à une nouvelle guerre froide navale entre la Russie et l'OTAN. Les acteurs clés sont la Russie, l'OTAN, l'Ukraine et la Chine. La position de Poutine reflète une stratégie de fermeté pour protéger les intérêts russes face à l'expansion de l'OTAN.",
+        "analyse_en": "Russian maritime tensions date back to the 2014 annexation of Crimea and Western sanctions. Key stakes include control over trade routes and military power projection. Root causes are tied to Russia's anti-access strategy in the Black Sea and Baltic Sea. In the short term, this statement could deter hostile actions but also provoke retaliation. In the medium term, it could strengthen the militarization of strategic shipping routes. Long-term, this could lead to a new naval Cold War between Russia and NATO. Key actors are Russia, NATO, Ukraine, and China. Putin's position reflects a strategy of firmness to protect Russian interests against NATO expansion.",
+        "analyse_zh": "俄罗斯的海上紧张局势可追溯至2014年吞并克里米亚和西方制裁。主要影响包括对贸易路线的控制和军事力量投射。深层原因与俄罗斯在黑海和波罗的海的反介入战略有关。短期内，此声明可能阻吓敌对行为，但也可能招致报复。中期来看，可能加强战略航运路线的军事化。长期而言，可能导致俄罗斯与北约之间的新海上冷战。关键行为者包括俄罗斯、北约、乌克兰和中国。普京的立场反映了在北约扩张面前保护俄罗斯利益的强硬战略。",
+        "analyse_ru": "Контекст связан с растущими морскими конфликтами, особенно в Чёрном и Азовском морях. Причины ужесточения позиции России могут быть связаны с защитой своих интересов и суверенитета. Последствия таких заявлений могут привести к ужесточению контроля над морскими маршрутами. Перспективы включают возможность вооружённых столкновений или дипломатических переговоров. Позиции сторон различны: Россия демонстрирует решимость, а западные страны могут воспринять это как угрозу.",
+        "analyse_fa": "زمینه این موضوع به تشدید درگیری‌های دریایی، به ویژه در دریای سیاه و آزوف، مربوط می‌شود. دلایل تشدید موضع روسیه ممکن است به حفاظت از منافع و حاکمیت خود مربوط باشد. پیامدهای چنین اظهارنظرهایی می‌تواند منجر به تشدید کنترل بر مسیرهای دریایی شود. چشم‌اندازها شامل احتمال درگیری‌های مسلحانه یا مذاکرات دیپلماتیک است. موضع روسیه نشان‌دهنده عزم راسخ است، در حالی که کشورهای غربی ممکن است آن را به عنوان تهدیدی تلقی کنند.",
+        "analyse_ar": "يرتبط سياق هذا الوضع بتصاعد الصراعات البحرية، خاصة في البحر الأسود وبحر آزوف. قد ترتبط أسباب تشديد موقف روسيا بحماية مصالحها وسيادتها. قد تؤدي عواقب مثل هذه التصريحات إلى تشديد السيطرة على طرق الملاحة البحرية. تشمل الآفاق احتمال وقوع مواجهات مسلحة أو مفاوضات دبلوماسية. موقف روسيا يدل على التصميم، بينما قد تنظر الدول الغربية إلى ذلك على أنه تهديد.",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/putin-warns-hostile-acts-against-russian-ships-will-be-treated-as-piracy/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/26161139/russian-president-vladimir-putin-attends-the-navy-day-parade-21-1-800x420.jpeg",
+        "date": "2026-07-26",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Transport maritime",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur pétrolier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Transport maritime",
+            "secteur_en": "Maritime transport",
+            "secteur_zh": "海运业",
+            "effet_fr": "La menace de piraterie pourrait augmenter les coûts d'assurance pour les navires traversant les zones à risque, affectant les armateurs européens.",
+            "effet_en": "The piracy threat could raise insurance costs for ships crossing high-risk zones, impacting European shipowners.",
+            "effet_zh": "海盗威胁可能提高穿越高风险区域船只的保险成本，影响欧洲船东。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur pétrolier",
+            "secteur_en": "Oil sector",
+            "secteur_zh": "石油行业",
+            "effet_fr": "Les perturbations des routes maritimes pourraient impacter les exportations de pétrole russe, influençant les prix mondiaux.",
+            "effet_en": "Disruptions in shipping routes could impact Russian oil exports, influencing global prices.",
+            "effet_zh": "航运路线的中断可能影响俄罗斯石油出口，影响全球价格。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-07-27T20:22:11.844069"
+      },
       {
         "id": "russie_104739",
         "titre": "La Roumanie abat un drone russe en violation d'espace aérien",
@@ -4612,68 +4739,68 @@
           }
         ],
         "created_at": "2026-07-11T12:43:35.185453"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_291543",
-        "titre": "Trump approuve la production de missiles",
-        "titre_en": "Trump Approves Missile Production",
-        "titre_zh": "特朗普批准导弹生产",
-        "titre_ru": "Трамп одобряет производство ракет",
-        "titre_fa": "ترامپ تولید موشک را تایید می کند",
-        "titre_ar": "ترامب يوافق على إنتاج الصواريخ",
-        "titre_original": "Trump Approves Patriot Missile Production in Ukraine, Endorses Deep Strikes Into Russia",
-        "resume": "Le président américain Donald Trump a approuvé la production de missiles Patriot en Ukraine. Cette décision a été prise pour soutenir les forces ukrainiennes contre les attaques russes. Les missiles Patriot sont des systèmes de défense antimissile de haute technologie.",
-        "resume_en": "US President Donald Trump has approved the production of Patriot missiles in Ukraine. This decision was made to support Ukrainian forces against Russian attacks. The Patriot missiles are high-tech anti-missile defense systems.",
-        "resume_zh": "美国总统唐纳德·特朗普已批准在乌克兰生产爱国者导弹。该决定是为了支持乌克兰军队对抗俄罗斯的攻击。爱国者导弹是高科技的反导弹防御系统。",
-        "resume_ru": "Президент США Дональд Трамп одобрил производство ракет Patriot на Украине. Это решение было принято для поддержки украинских сил в борьбе с российскими атаками. Ракеты Patriot являются высокотехнологичными системами противоракетной обороны.",
-        "resume_fa": "رئیس جمهور آمریکا دونالد ترامپ تولید موشک های پاتریوت را در اوکراین تایید کرده است. این تصمیم برای حمایت از نیروهای اوکراین در برابر حملات روسیه گرفته شده است. موشک های پاتریوت سیستم های دفاعی ضد موشکی با فناوری پیشرفته هستند.",
-        "resume_ar": "وافق الرئيس الأمريكي دونالد ترامب على إنتاج صواريخ باتريوت في أوكرانيا. هذا القرار تم اتخاذه لدعم القوات الأوكرانية ضد الهجمات الروسية. صواريخ باتريوت هي أنظمة دفاعية مضادة للصواريخ ذات تقنية عالية.",
-        "analyse_detaillee": "Le contexte historique de cette décision est marqué par les tensions entre la Russie et l'Ukraine. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions entre la Russie et l'Ukraine. Les perspectives à long terme sont incertaines. Les acteurs clés sont les États-Unis, la Russie et l'Ukraine.",
-        "analyse_en": "The historical context of this decision is marked by tensions between Russia and Ukraine. The main stakes are national security and regional stability. The short-term consequences will be an increase in tensions between Russia and Ukraine. The long-term prospects are uncertain. The key actors are the US, Russia, and Ukraine.",
-        "analyse_zh": "这一决定的历史背景是俄罗斯和乌克兰之间的紧张局势。主要问题是国家安全和地区稳定。短期后果将是俄罗斯和乌克兰之间的紧张局势加剧。长期前景是不确定的。关键角色是美国、俄罗斯和乌克兰。",
-        "analyse_ru": "Исторический контекст этого решения характеризуется напряженностью между Россией и Украиной. Основные проблемы - национальная безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности между Россией и Украиной. Долгосрочные перспективы неопределенны. Ключевые игроки - США, Россия и Украина.",
-        "analyse_fa": "زمینه تاریخی این تصمیم با تنش بین روسیه و اوکراین مشخص می شود. مسائل اصلی امنیت ملی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت افزایش تنش بین روسیه و اوکراین خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی ایالات متحده، روسیه و اوکراین هستند.",
-        "analyse_ar": "السياق التاريخي لهذا القرار يتميز بالتوتر بين روسيا وأوكرانيا. القضايا الرئيسية هي الأمن القومي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة في التوتر بين روسيا وأوكرانيا. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي الولايات المتحدة وروسيا وأوكرانيا.",
+        "id": "iran_949122",
+        "titre": "L'ambassadeur Mike Waltz commente la pause des frappes",
+        "titre_en": "Ambassador Mike Waltz Comments on Strikes Pause",
+        "titre_zh": "大使迈克·沃尔茨评论袭击暂停",
+        "titre_ru": "Посол Майк Уолц комментирует приостановку ударов по Ирану",
+        "titre_fa": "سفیر مایک والتس درباره توقف حملات به ایران سخن گفت",
+        "titre_ar": "السفير مايك والتز يعلق على تعليق الضربات على إيران",
+        "titre_original": "Ambassador Mike Waltz Weighs in on Pausing Strikes on Iran – (VIDEO)",
+        "resume": "L'ambassadeur américain Mike Waltz a évoqué sur Fox News Sunday la décision de suspendre les frappes contre l'Iran. Cette pause intervient dans un contexte de tensions régionales persistantes. Les motivations stratégiques derrière cette décision restent floues.",
+        "resume_en": "US Ambassador Mike Waltz discussed on Fox News Sunday the decision to pause strikes against Iran. This pause occurs amid ongoing regional tensions. The strategic motivations behind this decision remain unclear.",
+        "resume_zh": "美国大使迈克·沃尔茨在福克斯新闻周日节目中讨论了暂停对伊朗袭击的决定。这一暂停发生在持续的地区紧张局势中。这一决定背后的战略动机仍不明确。",
+        "resume_ru": "Посол США Майк Уолц выступил на телеканале Fox News Sunday с комментариями по поводу временной приостановки военных ударов по Ирану. Ведущая программы Шеннон Брим поинтересовалась его мнением о текущей ситуации. Эксперт подчеркнул важность дипломатического подхода в разрешении конфликта.",
+        "resume_fa": "سفیر آمریکا در برنامه تلویزیونی فاکس نیوز یکشنبه درباره توقف موقت حملات نظامی به ایران صحبت کرد. مجری برنامه شانون بریم نظر او را در این باره جویا شد. او بر اهمیت رویکرد دیپلماتیک در حل بحران تأکید کرد.",
+        "resume_ar": "ألقى السفير الأمريكي مايك والتز تصريحاته في برنامج فوكس نيوز الأحد حول تعليق الضربات العسكرية على إيران. استفسر مقدم البرنامج شانون بريم عن رأيه في الوضع الحالي. وأكد الخبير على أهمية النهج الدبلوماسي في حل النزاع.",
+        "analyse_detaillee": "Les tensions entre les États-Unis et l'Iran remontent à la révolution islamique de 1979 et à la crise des otages. La pause des frappes pourrait refléter une volonté de désescalade ou une stratégie de pression indirecte. Les enjeux principaux incluent la stabilité régionale et la crédibilité militaire américaine. Les causes profondes sont liées aux programmes nucléaires iraniens et aux proxys régionaux comme le Hezbollah. À court terme, cette pause pourrait réduire les risques de conflit ouvert mais affaiblir la dissuasion américaine. À moyen terme, elle pourrait encourager l'Iran à renforcer ses positions en Irak ou en Syrie. À long terme, cela pourrait mener à un nouvel accord ou à une escalade si les négociations échouent. Les acteurs clés sont les États-Unis, l'Iran, Israël et les pays du Golfe. La position de l'administration américaine reste ambiguë, entre fermeté affichée et recherche de stabilité.",
+        "analyse_en": "Tensions between the US and Iran date back to the 1979 Islamic Revolution and the hostage crisis. The pause in strikes may reflect a desire for de-escalation or a strategy of indirect pressure. Key stakes include regional stability and US military credibility. Root causes are linked to Iran's nuclear programs and regional proxies like Hezbollah. In the short term, this pause could reduce the risk of open conflict but weaken US deterrence. In the medium term, it could encourage Iran to strengthen its positions in Iraq or Syria. Long-term, this could lead to a new agreement or escalation if negotiations fail. Key actors are the US, Iran, Israel, and Gulf countries. The US administration's position remains ambiguous, balancing firmness with a search for stability.",
+        "analyse_zh": "美国与伊朗的紧张局势可追溯至1979年伊斯兰革命和人质危机。暂停袭击可能反映出降级的意愿或间接施压的策略。主要影响包括地区稳定和美国军事信誉。深层原因与伊朗核计划及真主党等地区代理组织有关。短期内，此举可能降低公开冲突风险，但削弱美国威慑力。中期来看，可能促使伊朗在伊拉克或叙利亚加强立场。长期而言，可能导致新协议或谈判失败后的升级。关键行为者包括美国、伊朗、以色列和海湾国家。美国政府立场模糊，在强硬与寻求稳定间平衡。",
+        "analyse_ru": "Контекст ситуации связан с обострением отношений между США и Ираном, что привело к обсуждению возможности военных действий. Причины приостановки ударов могут быть связаны с дипломатическими усилиями или оценкой рисков эскалации. Последствия зависят от того, как стороны интерпретируют этот шаг: как слабость или как стратегический манёвр. Перспективы включают возможность переговоров или дальнейшего ужесточения санкций. Позиции сторон различны: США стремятся к сдерживанию, а Иран демонстрирует готовность к сопротивлению.",
+        "analyse_fa": "زمینه این موضوع به تشدید تنش‌ها بین آمریکا و ایران بازمی‌گردد که منجر به بحث درباره احتمال اقدامات نظامی شد. دلایل توقف حملات ممکن است به تلاش‌های دیپلماتیک یا ارزیابی ریسک‌های تشدید درگیری مربوط باشد. پیامدها بسته به نحوه تفسیر این اقدام از سوی طرفین متفاوت خواهد بود: آیا به عنوان ضعف تلقی می‌شود یا یک حرکت استراتژیک. چشم‌اندازها شامل امکان مذاکرات یا تشدید تحریم‌ها است. موضع آمریکا حفظ بازدارندگی است، در حالی که ایران آمادگی خود برای مقاومت را نشان می‌دهد.",
+        "analyse_ar": "يرتبط سياق هذا الوضع بتوتر العلاقات بين الولايات المتحدة وإيران، مما أدى إلى مناقشة احتمال اتخاذ إجراءات عسكرية. قد ترتبط أسباب تعليق الضربات بالجهود الدبلوماسية أو تقييم مخاطر التصعيد. ستعتمد العواقب على كيفية تفسير الأطراف لهذا الإجراء: هل يُنظر إليه على أنه ضعف أم maneuver استراتيجي. تشمل الآفاق إمكانية المفاوضات أو تشديد العقوبات. موقف الولايات المتحدة يهدف إلى ردع إيران، بينما تُظهر إيران استعدادها للمقاومة.",
         "categorie": "Géopolitique",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-07-10-trump-approves-patriot-missile-production-in-ukraine.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/patriot-missile-ukraine-russia-2618-original.jpg",
-        "date": "2026-07-10",
-        "pays": "russie",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/07/ambassador-mike-waltz-weighs-pausing-strikes-iran-video/",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/07/screenshot_20260726-095341_x-1200x630.jpg",
+        "date": "2026-07-26",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Défense",
+            "label": "▲ Marché pétrolier",
             "hausse": true
           },
           {
-            "label": "▼ Aérospatiale",
+            "label": "▼ Secteur technologique",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Défense",
-            "secteur_en": "Defense",
-            "secteur_zh": "国防",
-            "effet_fr": "L'augmentation des dépenses militaires aura un impact positif sur le secteur de la défense.",
-            "effet_en": "The increase in military spending will have a positive impact on the defense sector.",
-            "effet_zh": "军费开支的增加将对国防行业产生积极影响。",
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "La pause des frappes pourrait stabiliser les prix du pétrole en réduisant les risques géopolitiques dans le Golfe.",
+            "effet_en": "The pause in strikes could stabilize oil prices by reducing geopolitical risks in the Gulf.",
+            "effet_zh": "暂停袭击可能通过降低海湾地缘政治风险来稳定石油价格。",
             "hausse": true
           },
           {
-            "secteur_fr": "Aérospatiale",
-            "secteur_en": "Aerospace",
-            "secteur_zh": "航空航天",
-            "effet_fr": "Le développement de nouveaux équipements militaires aura un impact négatif sur le secteur aérospatial.",
-            "effet_en": "The development of new military equipment will have a negative impact on the aerospace sector.",
-            "effet_zh": "新军事设备的开发将对航空航天行业产生负面影响。",
+            "secteur_fr": "Secteur technologique",
+            "secteur_en": "Technology sector",
+            "secteur_zh": "科技行业",
+            "effet_fr": "Les tensions régionales pourraient perturber les chaînes d'approvisionnement des semi-conducteurs, affectant les géants technologiques américains.",
+            "effet_en": "Regional tensions could disrupt semiconductor supply chains, impacting US tech giants.",
+            "effet_zh": "地区紧张局势可能扰乱半导体供应链，影响美国科技巨头。",
             "hausse": false
           }
         ],
-        "created_at": "2026-07-11T07:02:34.535520"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-07-27T20:22:11.844017"
+      },
       {
         "id": "iran_518962",
         "titre": "Les États-Unis envisagent de stopper les frappes en Iran",
@@ -5794,127 +5921,68 @@
           }
         ],
         "created_at": "2026-07-11T09:12:06.510035"
-      },
-      {
-        "id": "iran_531630",
-        "titre": "Iran enterre Khamenei",
-        "titre_en": "Iran Buries Khamenei",
-        "titre_zh": "伊朗埋葬哈梅内伊",
-        "titre_ru": "Иран хоронит Хаменеи",
-        "titre_fa": "ایران خمینی را به خاک سپرد",
-        "titre_ar": "إيران تدفن الخميني",
-        "titre_original": "Iran buries Khamenei after new fighting with US erupts",
-        "resume": "L'Iran a enterré son ancien guide suprême Ali Khamenei après plus de quatre mois de combats avec les États-Unis. Les funérailles ont eu lieu dans un contexte de tensions géopolitiques accrues. Les conséquences de cet événement sont incertaines.",
-        "resume_en": "Iran has buried its former supreme leader Ali Khamenei after more than four months of fighting with the US. The funeral took place in a context of increased geopolitical tensions. The consequences of this event are uncertain.",
-        "resume_zh": "伊朗在与美国交战四个月后埋葬了前最高领袖阿里·哈梅内伊。葬礼在地缘政治紧张局势加剧的背景下举行。该事件的后果尚不确定。",
-        "resume_ru": "Иран похоронил своего бывшего верховного лидера Али Хаменеи после более чем четырех месяцев боев с США. Похороны прошли в контексте возросших геополитических напряженностей. Последствия этого события неопределенны.",
-        "resume_fa": "ایران پس از بیش از چهار ماه جنگ با ایالات متحده، خمینی را به خاک سپرد. مراسم تشییع جنازه در شرایطی برگزار شد که تنش های ژئوپلیتیکی افزایش یافته است. پیامدهای این رویداد نامعلوم است.",
-        "resume_ar": "إيران دفنت زعيمها الأعلى السابق علي خامنئي بعد أكثر من أربعة أشهر من القتال مع الولايات المتحدة. أقيمت المراسم في سياق ازدياد التوترات الجيوسياسية. عواقب هذا الحدث غير مؤكدة.",
-        "analyse_detaillee": "Le contexte historique de cet événement est marqué par les tensions entre l'Iran et les États-Unis. Les enjeux principaux sont la sécurité nationale et la stabilité régionale. Les conséquences à court terme seront une augmentation des tensions entre l'Iran et les États-Unis. Les perspectives à long terme sont incertaines. Les acteurs clés sont l'Iran, les États-Unis et les pays de la région.",
-        "analyse_en": "The historical context of this event is marked by tensions between Iran and the US. The main stakes are national security and regional stability. The short-term consequences will be an increase in tensions between Iran and the US. The long-term prospects are uncertain. The key actors are Iran, the US, and regional countries.",
-        "analyse_zh": "这一事件的历史背景是伊朗和美国之间的紧张局势。主要问题是国家安全和地区稳定。短期后果将是伊朗和美国之间的紧张局势加剧。长期前景是不确定的。关键角色是伊朗、美国和地区国家。",
-        "analyse_ru": "Исторический контекст этого события характеризуется напряженностью между Ираном и США. Основные проблемы - национальная безопасность и региональная стабильность. Краткосрочные последствия будут увеличением напряженности между Ираном и США. Долгосрочные перспективы неопределенны. Ключевые игроки - Иран, США и страны региона.",
-        "analyse_fa": "زمینه تاریخی این رویداد با تنش بین ایران و ایالات متحده مشخص می شود. مسائل اصلی امنیت ملی و ثبات منطقه ای هستند. پیامدهای کوتاه مدت افزایش تنش بین ایران و ایالات متحده خواهد بود. چشم اندازهای بلندمدت نامعلوم است. بازیگران کلیدی ایران، ایالات متحده و کشورهای منطقه هستند.",
-        "analyse_ar": "السياق التاريخي لهذا الحدث يتميز بالتوتر بين إيران والولايات المتحدة. القضايا الرئيسية هي الأمن القومي والاستقرار الإقليمي. العواقب قصيرة المدى ستكون زيادة في التوتر بين إيران والولايات المتحدة. الآفاق طويلة المدى غير مؤكدة. الأطراف الرئيسية هي إيران والولايات المتحدة ودول المنطقة.",
-        "categorie": "Géopolitique",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/iran-buries-khamenei-after-new-fighting-with-us-erupts-224208",
-        "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a50813d882d575f4bab85f0.jpg",
-        "date": "2026-07-10",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Énergie",
-            "hausse": false
-          },
-          {
-            "label": "▲ Défense",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "L'instabilité politique en Iran aura un impact négatif sur le secteur de l'énergie.",
-            "effet_en": "The political instability in Iran will have a negative impact on the energy sector.",
-            "effet_zh": "伊朗的政治不稳定将对能源行业产生负面影响。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Défense",
-            "secteur_en": "Defense",
-            "secteur_zh": "国防",
-            "effet_fr": "L'augmentation des dépenses militaires aura un impact positif sur le secteur de la défense.",
-            "effet_en": "The increase in military spending will have a positive impact on the defense sector.",
-            "effet_zh": "军费开支的增加将对国防行业产生积极影响。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-07-11T07:02:34.535530"
       }
     ]
   },
   "politique": [
     {
-      "id": "pol_env_357557",
-      "titre": "Agriculteurs wallons en attente de promesses",
-      "titre_en": "Walloon farmers await minister's promises",
-      "titre_zh": "瓦隆农民等待部长承诺",
-      "titre_ru": "Фермеры ждут обещаний министра: нужна поддержка политиков",
-      "titre_fa": "کشاورزان منتظر تحقق وعده‌های وزیر هستند: حمایت سیاستمداران ضروری است",
-      "titre_ar": "المزارعون ينتظرون تنفيذ وعود الوزير: نحتاج دعم السياسيين",
-      "titre_original": "Les agriculteurs attendent toujours que la ministre wallonne concrétise ses promesses : \"Nous avons besoin du soutien des politiques\"",
-      "resume": "Les agriculteurs wallons réclament des actions concrètes de la ministre de l'Environnement face aux défis des pesticides et du climat. La Foire de Libramont sert de plateforme pour exprimer leurs revendications. Le secteur agricole attend un soutien politique fort pour engager la transition écologique.",
-      "resume_en": "Walloon farmers demand concrete actions from the Environment Minister amid challenges like pesticides and climate change. The Libramont Fair serves as a platform to voice their demands. The agricultural sector awaits strong political support to drive ecological transition.",
-      "resume_zh": "瓦隆农民在农药和气候变化等挑战下要求环境部长采取具体行动。利布拉蒙特博览会成为他们表达诉求的平台。农业部门期待强有力的政治支持以推动生态转型。",
-      "resume_ru": "Фермеры Бельгии требуют от министра сельского хозяйства выполнить обещания по поддержке отрасли. На фоне проблем с пестицидами, изменения климата и необходимости перехода к новым методам ведения хозяйства, фермеры надеются на реальные шаги властей. Форумы, такие как Ярмарка Либрамонта, становятся площадкой для обсуждения этих вопросов.",
-      "resume_fa": "کشاورزان بلژیکی از وزیر کشاورزی می‌خواهند تا وعده‌های خود درباره حمایت از بخش کشاورزی را عملی کند. با چالش‌هایی همچون استفاده از آفت‌کش‌ها، تغییرات اقلیمی و لزوم گذار به روش‌های نوین کشاورزی، آنها به اقدامات واقعی دولت امیدوارند. رویدادهایی مانند نمایشگاه لیبرامونت فرصتی برای گفتگو درباره این مسائل فراهم می‌کنند.",
-      "resume_ar": "يطالب المزارعون البلجيكيون وزير الزراعة بتنفيذ وعوده بدعم القطاع الزراعي. في ظل تحديات مثل استخدام المبيدات الحشرية وتغير المناخ والحاجة إلى التحول في طرق الزراعة، يأملون في اتخاذ الحكومة خطوات حقيقية. وتوفر معارض مثل معرض ليبرامونت منصة لمناقشة هذه القضايا.",
-      "analyse_detaillee": "La Wallonie, région agricole majeure de Belgique, fait face à des pressions croissantes pour réduire l'usage des pesticides et s'adapter au changement climatique. Les agriculteurs, déjà fragilisés par des coûts élevés et des réglementations strictes, attendent des solutions concrètes de la part de la ministre wallonne de l'Environnement. Les promesses de transition écologique, bien que répétées, peinent à se matérialiser, créant un climat de méfiance. Les enjeux incluent la survie économique des exploitations, la préservation des sols et la compétitivité face aux importations moins régulées. À court terme, l'absence de mesures claires pourrait accentuer les tensions sociales dans le secteur. À moyen terme, un retard dans la transition risquerait d'isoler davantage la Wallonie sur la scène européenne. À long terme, l'échec de cette transition menacerait la souveraineté alimentaire de la région. Les acteurs, divisés entre défenseurs de l'environnement et partisans d'un soutien économique, peinent à trouver un compromis.",
-      "analyse_en": "Wallonia, a major agricultural region in Belgium, faces growing pressure to reduce pesticide use and adapt to climate change. Farmers, already weakened by high costs and strict regulations, await concrete solutions from the Walloon Environment Minister. Promises of ecological transition, though repeated, struggle to materialize, fostering a climate of distrust. Challenges include the economic survival of farms, soil preservation, and competitiveness against less-regulated imports. In the short term, the lack of clear measures could heighten social tensions in the sector. Medium-term, delays in transition risk isolating Wallonia on the European stage. Long-term, failure in this transition could threaten the region's food sovereignty. Stakeholders, divided between environmental advocates and economic supporters, struggle to find a compromise.",
-      "analyse_zh": "作为比利时主要农业区，瓦隆地区面临着减少农药使用和适应气候变化的巨大压力。农民们已因高成本和严格法规而举步维艰，迫切期待瓦隆环境部长拿出具体解决方案。尽管生态转型承诺不断，但落实困难重重，滋生不信任。挑战包括农场生存、土壤保护及与监管较松进口产品的竞争。短期内，缺乏明确措施可能加剧行业社会紧张。中期看，转型延迟可能令瓦隆在欧洲舞台上更加孤立。长期而言，转型失败将威胁该地区的粮食主权。各方立场分歧，环保倡导者与经济支持者难以达成妥协。",
-      "analyse_ru": "Проблема поддержки фермеров в Бельгии обостряется на фоне ужесточения экологических норм и изменения климата. Фермеры сталкиваются с необходимостью перехода на более устойчивые методы ведения хозяйства, но испытывают нехватку финансовой и политической поддержки. Министр сельского хозяйства Wallonia обещал помощь, однако конкретные шаги пока не последовали. Это вызывает недовольство среди аграриев, которые требуют не только слов, но и реальных действий. В перспективе без поддержки государства отрасль может столкнуться с сокращением производства и ухудшением экономического положения фермеров.",
-      "analyse_fa": "مسئله حمایت از کشاورزان در بلژیک در شرایط سخت‌تر شدن قوانین زیست‌محیطی و تغییرات اقلیمی تشدید شده است. کشاورزان با نیاز به گذار به روش‌های پایدارتر کشاورزی مواجه هستند، اما از حمایت مالی و سیاسی کافی برخوردار نیستند. وزیر کشاورزی والونیا وعده کمک داده، اما اقدامات عملی هنوز محقق نشده‌اند. این موضوع نارضایتی کشاورزان را برانگیخته که نه تنها به گفتار، بلکه به اقدامات واقعی نیاز دارند. در آینده، بدون حمایت دولت، بخش کشاورزی ممکن است با کاهش تولید و وضعیت اقتصادی بدتر کشاورزان مواجه شود.",
-      "analyse_ar": "تتفاق مشكلة دعم المزارعين في بلجيكا في ظل تشديد القوانين البيئية وتغير المناخ. يواجه المزارعون ضرورة التحول إلى طرق زراعية أكثر استدامة، لكنهم يفتقرون إلى الدعم المالي والسياسي الكافي. وزير الزراعة في والونيا وعد بمساعدة، لكن لم تتخذ خطوات عملية بعد. هذا الأمر يثير استياء المزارعين الذين يطالبون ليس فقط بالكلام، بل بالأفعال الحقيقية. في المستقبل، من دون دعم الدولة، قد يواجه القطاع تراجعًا في الإنتاج وتدهورًا في الوضع الاقتصادي للمزارعين.",
-      "categorie": "Agriculture",
-      "source": "Lalibre.be",
-      "url": "https://www.lalibre.be/belgique/2026/07/26/les-agriculteurs-attendent-toujours-que-la-ministre-wallonne-concretise-ses-promesses-nous-avons-besoin-du-soutien-des-politiques-SYYL63334BHGREF3A26VPOHV6E/",
-      "image": "https://www.lalibre.be/resizer/v2/BIPJ4GT7ENGRZMX67QRTFM5EQY.jpg?auth=4e1d3624c078b6d9ab330480e88ed9b4403995c1c77c984d3d203858e13f44b2&width=1200&height=630&quality=85&focal=4128%2C2752",
-      "date": "2026-07-26",
+      "id": "pol_env_766978",
+      "titre": "Pesticides : les abeilles luttent mais déclinent",
+      "titre_en": "Bees fight pesticides but still decline",
+      "titre_zh": "蜜蜂抵御农药但仍在减少",
+      "titre_ru": "Пчелы изобретают уловки, чтобы защититься от пестицидов",
+      "titre_fa": "زنبورها برای محافظت از خود در برابر سموم ابتکار می‌کنند",
+      "titre_ar": "النحل تتفنن في حماية نفسها من المبيدات لكنها تموت",
+      "titre_original": "Pesticides: les abeilles rivalisent d’astuces pour se protéger, mais se meurent quand même",
+      "resume": "Les colonies d’abeilles développent des stratégies pour filtrer les pesticides et protéger leur reine. Cependant, une exposition chronique aux toxiques affaiblit les générations futures. Leur déclin menace l’équilibre des écosystèmes et la pollinisation.",
+      "resume_en": "Bee colonies develop strategies to filter pesticides and protect their queen. However, chronic exposure to toxins weakens future generations. Their decline threatens ecosystem balance and pollination.",
+      "resume_zh": "蜂群发展策略过滤农药并保护蜂王。然而，长期接触毒素会削弱后代。蜜蜂数量下降威胁生态平衡和授粉。",
+      "resume_ru": "Пчелиные семьи используют различные механизмы для фильтрации токсичных веществ и защиты своей королевы. Однако при хроническом воздействии пестицидов страдают последующие поколения. Учёные отмечают, что даже адаптация не спасает колонии от вымирания.",
+      "resume_fa": "کلنی‌های زنبور عسل از مکانیسم‌های مختلفی برای فیلتر کردن مواد سمی و محافظت از ملکه استفاده می‌کنند. با این حال، در مواجهه با قرار گرفتن مزمن در معرض سموم، نسل‌های آینده در امان نیستند. دانشمندان هشدار می‌دهند که حتی سازگاری نیز کلنی‌ها را از انقراض نجات نمی‌دهد.",
+      "resume_ar": "تستخدم مستعمرات النحل آليات مختلفة لتصفية المواد السامة وحماية ملكة النحل. ومع ذلك، فإن الأجيال القادمة لا تسلم من التعرض المزمن للمبيدات. يحذر العلماء من أن التكيف即使 لا ينقذ المستعمرات من الانقراض.",
+      "analyse_detaillee": "L’usage massif de pesticides depuis les années 1950 a profondément perturbé les écosystèmes, notamment les pollinisateurs comme les abeilles. Les enjeux actuels incluent la sécurité alimentaire mondiale, dépendante à 75% des cultures pollinisées par les insectes. Les causes profondes résident dans l’agriculture intensive et la dépendance aux produits chimiques. À court terme, les apiculteurs observent des mortalités accrues et des colonies affaiblies. À moyen terme, la baisse des populations menace la biodiversité et les rendements agricoles. À long terme, l’effondrement des écosystèmes pourrait déclencher des crises alimentaires globales. Les acteurs se divisent entre industriels de l’agrochimie, défenseurs de l’environnement et gouvernements, chacun promouvant des solutions divergentes.",
+      "analyse_en": "The massive use of pesticides since the 1950s has deeply disrupted ecosystems, particularly pollinators like bees. Current stakes include global food security, 75% dependent on insect-pollinated crops. Root causes lie in intensive agriculture and chemical dependency. In the short term, beekeepers report increased mortality and weakened colonies. Medium-term, declining populations threaten biodiversity and agricultural yields. Long-term, ecosystem collapse could trigger global food crises. Actors are divided between agrochemical industries, environmental advocates, and governments, each promoting divergent solutions.",
+      "analyse_zh": "自20世纪50年代以来，大规模使用农药严重破坏了生态系统，特别是蜜蜂等传粉昆虫。当前的关键问题包括全球粮食安全，75%的作物依赖昆虫授粉。深层原因在于集约化农业和对化学产品的依赖。短期内，养蜂人报告蜂群死亡率上升和群体衰弱。中期来看，种群下降威胁生物多样性和农业产量。长期而言，生态系统崩溃可能引发全球粮食危机。各方立场分歧，包括农化工业、环保倡导者和政府，各自推动不同解决方案。",
+      "analyse_ru": "Проблема загрязнения пчёл пестицидами приобретает глобальный характер, угрожая не только биоразнообразию, но и продовольственной безопасности. Причины кроются в интенсивном сельском хозяйстве и широком применении химических средств защиты растений. Последствия включают снижение численности пчелиных семей, что ведёт к падению урожайности сельскохозяйственных культур, зависящих от опыления. Перспективы зависят от внедрения альтернативных методов защиты растений и ужесточения регулирования использования пестицидов. Позиции сторон разделяются: аграрии настаивают на необходимости химических средств, а экологи призывают к переходу на органическое земледелие.",
+      "analyse_fa": "مسئله آلودگی زنبورها با سموم کشاورزی به یک بحران جهانی تبدیل شده که نه تنها تنوع زیستی، بلکه امنیت غذایی را تهدید می‌کند. دلایل اصلی شامل کشاورزی صنعتی و استفاده گسترده از سموم شیمیایی است. پیامدهای آن شامل کاهش جمعیت کلنی‌های زنبور عسل و در نتیجه کاهش محصولات کشاورزی وابسته به گرده‌افشانی است. چشم‌اندازها به اجرای روش‌های جایگزین کنترل آفات و قوانین سخت‌گیرانه‌تر در استفاده از سموم بستگی دارد. مواضع بازیگران متفاوت است: کشاورزان بر ضرورت استفاده از سموم تأکید دارند، در حالی که فعالان محیط زیست خواستار کشاورزی ارگانیک هستند.",
+      "analyse_ar": "أصبح تلوث النحل بالمبيدات مشكلة عالمية تهدد التنوع البيولوجي والأمن الغذائي. الأسباب تكمن في الزراعة المكثفة والاستخدام الواسع للمبيدات الكيميائية. العواقب تشمل انخفاض أعداد مستعمرات النحل، مما يؤدي إلى تراجع المحاصيل الزراعية المعتمدة على التلقيح. الآفاق تعتمد على تبني طرق بديلة لمكافحة الآفات وتشديد القوانين المتعلقة باستخدام المبيدات. مواقف الأطراف متضاربة: يدافع المزارعون عن ضرورة استخدام المبيدات، بينما يطالب النشطاء البيئيون بالتحول إلى الزراعة العضوية.",
+      "categorie": "Environnement",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/culture-et-idees/240726/eclats-de-science-pesticides-les-abeilles-rivalisent-d-astuces-pour-se-proteger-mais-se-meurent",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/07/24/eds-abeilles.png",
+      "date": "2026-07-25",
       "pays": "pol_env",
       "badges": [
         {
-          "label": "▼ Secteur bancaire",
+          "label": "▼ Agroalimentaire",
           "hausse": false
         },
         {
-          "label": "▲ Marché des assurances agricoles",
+          "label": "▲ Assurance agricole",
           "hausse": true
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Secteur bancaire",
-          "secteur_en": "Banking sector",
-          "secteur_zh": "银行业",
-          "effet_fr": "Les banques pourraient voir une augmentation des prêts non performants si la transition écologique échoue, fragilisant leur bilan.",
-          "effet_en": "Banks may face an increase in non-performing loans if the ecological transition fails, weakening their balance sheets.",
-          "effet_zh": "若生态转型失败，银行可能面临不良贷款增加，削弱资产负债表。",
+          "secteur_fr": "Agroalimentaire",
+          "secteur_en": "Agri-food sector",
+          "secteur_zh": "农业食品行业",
+          "effet_fr": "La baisse des populations d’abeilles menace la pollinisation des cultures, réduisant les rendements et augmentant les coûts de production.",
+          "effet_en": "Declining bee populations threaten crop pollination, reducing yields and increasing production costs.",
+          "effet_zh": "蜜蜂数量下降威胁作物授粉，降低产量并增加生产成本。",
           "hausse": false
         },
         {
-          "secteur_fr": "Marché des assurances agricoles",
-          "secteur_en": "Agricultural insurance market",
-          "secteur_zh": "农业保险市场",
-          "effet_fr": "Les assureurs pourraient subir une hausse des sinistres liés aux aléas climatiques, nécessitant des ajustements tarifaires.",
-          "effet_en": "Insurers may face increased claims due to climate-related hazards, requiring premium adjustments.",
-          "effet_zh": "保险公司可能因气候相关灾害导致赔付增加，需调整保费。",
+          "secteur_fr": "Assurance agricole",
+          "secteur_en": "Agricultural insurance",
+          "secteur_zh": "农业保险",
+          "effet_fr": "Les pertes de récoltes liées à la disparition des pollinisateurs entraînent une hausse des sinistres et des primes pour les assureurs.",
+          "effet_en": "Crop losses due to pollinator decline lead to increased claims and premiums for insurers.",
+          "effet_zh": "由于传粉昆虫消失导致的作物损失，使保险公司的理赔和保费上升。",
           "hausse": true
         }
       ],
-      "created_at": "2026-07-27T18:24:50.554212",
+      "created_at": "2026-07-27T20:22:32.126408",
       "sous_categorie": "environnement"
     },
     {
@@ -6096,6 +6164,66 @@
       ],
       "created_at": "2026-07-25T19:16:46.833842",
       "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_357557",
+      "titre": "Agriculteurs wallons en attente de promesses",
+      "titre_en": "Walloon farmers await minister's promises",
+      "titre_zh": "瓦隆农民等待部长承诺",
+      "titre_ru": "Фермеры ждут обещаний министра: нужна поддержка политиков",
+      "titre_fa": "کشاورزان منتظر تحقق وعده‌های وزیر هستند: حمایت سیاستمداران ضروری است",
+      "titre_ar": "المزارعون ينتظرون تنفيذ وعود الوزير: نحتاج دعم السياسيين",
+      "titre_original": "Les agriculteurs attendent toujours que la ministre wallonne concrétise ses promesses : \"Nous avons besoin du soutien des politiques\"",
+      "resume": "Les agriculteurs wallons réclament des actions concrètes de la ministre de l'Environnement face aux défis des pesticides et du climat. La Foire de Libramont sert de plateforme pour exprimer leurs revendications. Le secteur agricole attend un soutien politique fort pour engager la transition écologique.",
+      "resume_en": "Walloon farmers demand concrete actions from the Environment Minister amid challenges like pesticides and climate change. The Libramont Fair serves as a platform to voice their demands. The agricultural sector awaits strong political support to drive ecological transition.",
+      "resume_zh": "瓦隆农民在农药和气候变化等挑战下要求环境部长采取具体行动。利布拉蒙特博览会成为他们表达诉求的平台。农业部门期待强有力的政治支持以推动生态转型。",
+      "resume_ru": "Фермеры Бельгии требуют от министра сельского хозяйства выполнить обещания по поддержке отрасли. На фоне проблем с пестицидами, изменения климата и необходимости перехода к новым методам ведения хозяйства, фермеры надеются на реальные шаги властей. Форумы, такие как Ярмарка Либрамонта, становятся площадкой для обсуждения этих вопросов.",
+      "resume_fa": "کشاورزان بلژیکی از وزیر کشاورزی می‌خواهند تا وعده‌های خود درباره حمایت از بخش کشاورزی را عملی کند. با چالش‌هایی همچون استفاده از آفت‌کش‌ها، تغییرات اقلیمی و لزوم گذار به روش‌های نوین کشاورزی، آنها به اقدامات واقعی دولت امیدوارند. رویدادهایی مانند نمایشگاه لیبرامونت فرصتی برای گفتگو درباره این مسائل فراهم می‌کنند.",
+      "resume_ar": "يطالب المزارعون البلجيكيون وزير الزراعة بتنفيذ وعوده بدعم القطاع الزراعي. في ظل تحديات مثل استخدام المبيدات الحشرية وتغير المناخ والحاجة إلى التحول في طرق الزراعة، يأملون في اتخاذ الحكومة خطوات حقيقية. وتوفر معارض مثل معرض ليبرامونت منصة لمناقشة هذه القضايا.",
+      "analyse_detaillee": "La Wallonie, région agricole majeure de Belgique, fait face à des pressions croissantes pour réduire l'usage des pesticides et s'adapter au changement climatique. Les agriculteurs, déjà fragilisés par des coûts élevés et des réglementations strictes, attendent des solutions concrètes de la part de la ministre wallonne de l'Environnement. Les promesses de transition écologique, bien que répétées, peinent à se matérialiser, créant un climat de méfiance. Les enjeux incluent la survie économique des exploitations, la préservation des sols et la compétitivité face aux importations moins régulées. À court terme, l'absence de mesures claires pourrait accentuer les tensions sociales dans le secteur. À moyen terme, un retard dans la transition risquerait d'isoler davantage la Wallonie sur la scène européenne. À long terme, l'échec de cette transition menacerait la souveraineté alimentaire de la région. Les acteurs, divisés entre défenseurs de l'environnement et partisans d'un soutien économique, peinent à trouver un compromis.",
+      "analyse_en": "Wallonia, a major agricultural region in Belgium, faces growing pressure to reduce pesticide use and adapt to climate change. Farmers, already weakened by high costs and strict regulations, await concrete solutions from the Walloon Environment Minister. Promises of ecological transition, though repeated, struggle to materialize, fostering a climate of distrust. Challenges include the economic survival of farms, soil preservation, and competitiveness against less-regulated imports. In the short term, the lack of clear measures could heighten social tensions in the sector. Medium-term, delays in transition risk isolating Wallonia on the European stage. Long-term, failure in this transition could threaten the region's food sovereignty. Stakeholders, divided between environmental advocates and economic supporters, struggle to find a compromise.",
+      "analyse_zh": "作为比利时主要农业区，瓦隆地区面临着减少农药使用和适应气候变化的巨大压力。农民们已因高成本和严格法规而举步维艰，迫切期待瓦隆环境部长拿出具体解决方案。尽管生态转型承诺不断，但落实困难重重，滋生不信任。挑战包括农场生存、土壤保护及与监管较松进口产品的竞争。短期内，缺乏明确措施可能加剧行业社会紧张。中期看，转型延迟可能令瓦隆在欧洲舞台上更加孤立。长期而言，转型失败将威胁该地区的粮食主权。各方立场分歧，环保倡导者与经济支持者难以达成妥协。",
+      "analyse_ru": "Проблема поддержки фермеров в Бельгии обостряется на фоне ужесточения экологических норм и изменения климата. Фермеры сталкиваются с необходимостью перехода на более устойчивые методы ведения хозяйства, но испытывают нехватку финансовой и политической поддержки. Министр сельского хозяйства Wallonia обещал помощь, однако конкретные шаги пока не последовали. Это вызывает недовольство среди аграриев, которые требуют не только слов, но и реальных действий. В перспективе без поддержки государства отрасль может столкнуться с сокращением производства и ухудшением экономического положения фермеров.",
+      "analyse_fa": "مسئله حمایت از کشاورزان در بلژیک در شرایط سخت‌تر شدن قوانین زیست‌محیطی و تغییرات اقلیمی تشدید شده است. کشاورزان با نیاز به گذار به روش‌های پایدارتر کشاورزی مواجه هستند، اما از حمایت مالی و سیاسی کافی برخوردار نیستند. وزیر کشاورزی والونیا وعده کمک داده، اما اقدامات عملی هنوز محقق نشده‌اند. این موضوع نارضایتی کشاورزان را برانگیخته که نه تنها به گفتار، بلکه به اقدامات واقعی نیاز دارند. در آینده، بدون حمایت دولت، بخش کشاورزی ممکن است با کاهش تولید و وضعیت اقتصادی بدتر کشاورزان مواجه شود.",
+      "analyse_ar": "تتفاق مشكلة دعم المزارعين في بلجيكا في ظل تشديد القوانين البيئية وتغير المناخ. يواجه المزارعون ضرورة التحول إلى طرق زراعية أكثر استدامة، لكنهم يفتقرون إلى الدعم المالي والسياسي الكافي. وزير الزراعة في والونيا وعد بمساعدة، لكن لم تتخذ خطوات عملية بعد. هذا الأمر يثير استياء المزارعين الذين يطالبون ليس فقط بالكلام، بل بالأفعال الحقيقية. في المستقبل، من دون دعم الدولة، قد يواجه القطاع تراجعًا في الإنتاج وتدهورًا في الوضع الاقتصادي للمزارعين.",
+      "categorie": "Agriculture",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/belgique/2026/07/26/les-agriculteurs-attendent-toujours-que-la-ministre-wallonne-concretise-ses-promesses-nous-avons-besoin-du-soutien-des-politiques-SYYL63334BHGREF3A26VPOHV6E/",
+      "image": "https://www.lalibre.be/resizer/v2/BIPJ4GT7ENGRZMX67QRTFM5EQY.jpg?auth=4e1d3624c078b6d9ab330480e88ed9b4403995c1c77c984d3d203858e13f44b2&width=1200&height=630&quality=85&focal=4128%2C2752",
+      "date": "2026-07-26",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▼ Secteur bancaire",
+          "hausse": false
+        },
+        {
+          "label": "▲ Marché des assurances agricoles",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Secteur bancaire",
+          "secteur_en": "Banking sector",
+          "secteur_zh": "银行业",
+          "effet_fr": "Les banques pourraient voir une augmentation des prêts non performants si la transition écologique échoue, fragilisant leur bilan.",
+          "effet_en": "Banks may face an increase in non-performing loans if the ecological transition fails, weakening their balance sheets.",
+          "effet_zh": "若生态转型失败，银行可能面临不良贷款增加，削弱资产负债表。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Marché des assurances agricoles",
+          "secteur_en": "Agricultural insurance market",
+          "secteur_zh": "农业保险市场",
+          "effet_fr": "Les assureurs pourraient subir une hausse des sinistres liés aux aléas climatiques, nécessitant des ajustements tarifaires.",
+          "effet_en": "Insurers may face increased claims due to climate-related hazards, requiring premium adjustments.",
+          "effet_zh": "保险公司可能因气候相关灾害导致赔付增加，需调整保费。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-07-27T18:24:50.554212",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_611724",
@@ -6335,66 +6463,6 @@
         }
       ],
       "created_at": "2026-07-27T06:30:20.546622",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_182462",
-      "titre": "Loi agricole : Écologistes et LFI saisissent le Conseil",
-      "titre_en": "Farmers' Emergency Law: Greens and LFI Appeal",
-      "titre_zh": "农业紧急法：绿党和不屈法国上诉",
-      "titre_ru": "Сельскохозяйственный чрезвычайный закон: экологи оспаривают в Конституционном совете",
-      "titre_fa": "قانون اضطراری کشاورزی: اکولوژیست‌ها و LFI شورای قانون اساسی را فراخواندند",
-      "titre_ar": "قانون الطوارئ الزراعي: البيئيون و LFI يتقدمان للمجلس الدستوري",
-      "titre_original": "Loi d'urgence agricole : les Écologistes et LFI saisissent le Conseil constitutionnel",
-      "resume": "Les députés écologistes et de La France Insoumise ont saisi le Conseil constitutionnel pour contester la loi d'urgence agricole. Ils dénoncent notamment la réintroduction de pesticides interdits et l'augmentation des volumes de stockage d'eau. Cette loi vise à soutenir le secteur agricole face aux crises climatiques et économiques.",
-      "resume_en": "Green and La France Insoumise deputies have appealed to the Constitutional Council against the farmers' emergency law. They criticize the reintroduction of banned pesticides and increased water storage volumes. The law aims to support agriculture amid climate and economic crises.",
-      "resume_zh": "绿党和不屈法国议员向宪法委员会上诉，反对农业紧急法。他们批评重新引入禁用农药和增加蓄水量。该法旨在在气候和经济危机下支持农业。",
-      "resume_ru": "Депутаты от экологических партий и левых сил Франции оспорили в Конституционном совете новый сельскохозяйственный закон. Они выступают против повторного разрешения использования запрещённых пестицидов и увеличения объёмов хранения воды для аграрных нужд. Законопроект вызвал острую критику со стороны защитников окружающей среды.",
-      "resume_fa": "نمایندگان احزاب اکولوژیست و چپ فرانسه قانون اضطراری کشاورزی را در شورای قانون اساسی به چالش کشیدند. آنها با بازگشایی استفاده از سموم کشاورزی ممنوع و دو برابر کردن ذخیره‌سازی آب برای مصارف کشاورزی مخالفت می‌کنند. این لایحه از سوی مدافعان محیط زیست با انتقاد شدید مواجه شده است.",
-      "resume_ar": "نواب من الأحزاب البيئية واليسارية الفرنسية قدّموا قانون الطوارئ الزراعي إلى المجلس الدستوري للمعارضة. وهم يعارضون إعادة السماح باستخدام المبيدات المحظورة وتضاعف كميات تخزين المياه للاستخدامات الزراعية. وقد أثار مشروع القانون انتقادات حادة من قبل المدافعين عن البيئة.",
-      "analyse_detaillee": "La loi d'urgence agricole s'inscrit dans un contexte de tensions récurrentes entre écologie et productivisme agricole en France. Les Écologistes et LFI dénoncent une régression environnementale, rappelant les engagements passés contre les pesticides. Les enjeux portent sur la santé publique, la biodiversité et la souveraineté alimentaire. Les causes profondes incluent la pression des lobbies agricoles et les défis climatiques croissants. À court terme, cette loi pourrait exacerber les conflits sociaux dans les campagnes. À moyen terme, elle risque de fragiliser les écosystèmes et les ressources en eau. À long terme, elle pourrait affaiblir la crédibilité de la France en matière de transition écologique. Les acteurs politiques s'opposent entre ceux prônant la modernisation et ceux défendant une agriculture durable.",
-      "analyse_en": "The farmers' emergency law fits into a context of recurring tensions between ecology and agricultural productivism in France. Greens and LFI denounce an environmental regression, recalling past commitments against pesticides. Stakes involve public health, biodiversity, and food sovereignty. Root causes include pressure from agricultural lobbies and growing climate challenges. In the short term, this law could exacerbate social conflicts in rural areas. In the medium term, it risks weakening ecosystems and water resources. Long-term, it could undermine France's credibility in ecological transition. Political actors oppose those advocating modernization and those defending sustainable agriculture.",
-      "analyse_zh": "农业紧急法置身于法国生态与农业产业化之间持续紧张的背景下。绿党和不屈法国谴责环境倒退，重申过去反对农药的承诺。关键在于公共健康、生物多样性和粮食主权。深层原因包括农业游说团体的压力和日益严峻的气候挑战。短期内，该法可能加剧农村社会冲突。中期来看，它可能削弱生态系统和水资源。长期则可能损害法国在生态转型中的信誉。政治各方在现代化倡导者与可持续农业捍卫者间对立。",
-      "analyse_ru": "Новый сельскохозяйственный закон Франции стал предметом острой политической борьбы. Причины его принятия связаны с попыткой правительства поддержать аграрный сектор в условиях климатических вызовов и роста цен на продовольствие. Экологи и левые партии выступают против ослабления экологических норм, видя в этом угрозу биоразнообразию и здоровью граждан. Конституционный совет должен определить, соответствует ли закон принципам устойчивого развития. В случае его отмены или частичного блокирования, правительство может столкнуться с необходимостью пересмотра аграрной политики.",
-      "analyse_fa": "قانون اضطراری کشاورزی فرانسه به موضوعی جنجالی در سیاست داخلی تبدیل شده است. دلایل تصویب آن به حمایت از بخش کشاورزی در شرایط چالش‌های اقلیمی و افزایش قیمت مواد غذایی بازمی‌گردد. احزاب اکولوژیست و چپ با تضعیف استانداردهای زیست‌محیطی مخالفت می‌کنند و آن را تهدیدی برای تنوع زیستی و سلامت عمومی می‌دانند. شورای قانون اساسی باید بررسی کند که آیا این قانون با اصول توسعه پایدار همخوانی دارد. در صورت ابطال یا مسدود شدن آن، دولت ممکن است مجبور به تجدیدنظر در سیاست کشاورزی خود شود.",
-      "analyse_ar": "أصبح قانون الطوارئ الزراعي الفرنسي موضوعاً للنزاع السياسي الداخلي. تأتي أسباب إقراره في محاولة دعم القطاع الزراعي في ظل تحديات مناخية وارتفاع أسعار المواد الغذائية. تعارض الأحزاب البيئية واليسارية تخفيف المعايير البيئية، وترى فيه تهديداً للتنوع البيولوجي وصحة المواطنين. على المجلس الدستوري أن يحدد ما إذا كان القانون يتوافق مع مبادئ التنمية المستدامة. في حال إلغائه أو حظره جزئياً، قد يضطر الحكومة إلى إعادة النظر في سياستها الزراعية.",
-      "categorie": "Politique",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-les-ecologistes-et-lfi-saisissent-le-conseil-constitutionnel_8120381.html",
-      "image": "https://www.franceinfo.fr/pictures/ki7W_o2qSMuL9ck11f96d4XHK_Q/0x530:4998x3335/1500x843/2025/03/21/maxnewsspecial824934-67dd97799ec74454444175.jpg",
-      "date": "2026-07-24",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Secteur agroalimentaire",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marchés financiers agricoles",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Secteur agroalimentaire",
-          "secteur_en": "Agri-food sector",
-          "secteur_zh": "农产食品行业",
-          "effet_fr": "La loi pourrait renforcer la compétitivité à court terme mais fragiliser la réputation des entreprises face aux normes environnementales européennes.",
-          "effet_en": "The law could boost short-term competitiveness but weaken companies' reputation against European environmental standards.",
-          "effet_zh": "该法短期内可能提升竞争力，但会削弱企业在欧洲环保标准下的声誉。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marchés financiers agricoles",
-          "secteur_en": "Agricultural financial markets",
-          "secteur_zh": "农业金融市场",
-          "effet_fr": "Les investisseurs pourraient se détourner des entreprises perçues comme peu durables, augmentant les coûts de financement.",
-          "effet_en": "Investors may shy away from companies seen as unsustainable, raising financing costs.",
-          "effet_zh": "投资者可能回避被视为不可持续的企业，提高融资成本。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-07-27T02:47:38.674990",
       "sous_categorie": "environnement"
     }
   ]
