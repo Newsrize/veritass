@@ -1,7 +1,66 @@
 {
-  "last_updated": "03/08/2026 à 16h25",
+  "last_updated": "03/08/2026 à 18h51",
   "articles": {
     "monde": [
+      {
+        "id": "monde_457765",
+        "titre": "Drones policiers : qui décide de tirer ?",
+        "titre_en": "Police drones: who decides to shoot?",
+        "titre_zh": "警用无人机：谁决定开枪？",
+        "titre_ru": "Вооружение полиции беспилотниками: кто решает?",
+        "titre_fa": "مسلح کردن پلیس با پهپادها: چه کسی تصمیم می‌گیرد؟",
+        "titre_ar": "تسليح الشرطة بالمسيرات: من يقرر؟",
+        "titre_original": "Arming local police with drones: Who pulls the trigger?",
+        "resume": "L'article interroge l'utilisation de drones armés par la police locale, autorisée en cas de 'menace crédible'. La question se pose de savoir si un quadricoptère au-dessus d'un parking constitue une 'hostilité'. Cette technologie soulève des débats éthiques et juridiques.",
+        "resume_en": "The article questions the use of armed drones by local police, authorized in case of a 'credible threat.' The issue arises whether a quadcopter over a parking lot constitutes a 'hostility.' This technology raises ethical and legal debates.",
+        "resume_zh": "文章质疑地方警察使用武装无人机的合法性，仅在‘可信威胁’情况下获准。问题是停车场上空的四轴飞行器是否构成‘敌意’。此技术引发伦理和法律争议。",
+        "resume_ru": "В некоторых странах полиция получила право использовать дроны для противодействия угрозам. Однако остаётся неясным, что именно считается угрозой. Вопрос о том, является ли квадрокоптер над парковкой враждебным объектом, вызывает споры. Эксперты обсуждают баланс между безопасностью и правами граждан.",
+        "resume_fa": "در برخی کشورها پلیس مجاز به استفاده از پهپادها برای مقابله با تهدیدات شده است. با این حال، هنوز مشخص نیست که چه چیزی تهدید محسوب می‌شود. این سؤال که آیا یک کوادکوپتر در بالای پارکینگ یک شی خصمانه است، بحث‌برانگیز است. کارشناسان در مورد تعادل بین امنیت و حقوق شهروندان بحث می‌کنند.",
+        "resume_ar": "في بعض الدول، حصلت الشرطة على حق استخدام المسيرات لمواجهة التهديدات. لكن يبقى الغموض حول ما يعتبر تهديداً. يثير السؤال عما إذا كانت طائرة رباعية فوق موقف سيارات هدفاً معادياً جدلاً. يناقش الخبراء التوازن بين الأمن وحقوق المواطنين.",
+        "analyse_detaillee": "L'usage de drones armés par les forces de l'ordre s'inscrit dans une tendance mondiale à la militarisation des outils policiers, accélérée par les avancées technologiques. Les drones, initialement conçus pour la surveillance, sont désormais équipés de systèmes létaux, posant des questions sur leur proportionnalité. Les forces de police justifient leur usage par la nécessité de protéger les agents dans des contextes à haut risque. Cependant, cette pratique risque de normaliser une réponse violente à des situations ambiguës. À court terme, cela pourrait entraîner une augmentation des incidents impliquant des drones. À moyen terme, des régulations internationales pourraient émerger pour encadrer leur déploiement. À long terme, cela pourrait redéfinir les standards de l'usage de la force par l'État. Les défenseurs des droits humains critiquent cette militarisation, tandis que les gouvernements y voient un outil de modernisation. Les fabricants de drones bénéficieront d'une demande accrue, mais devront faire face à des pressions éthiques.",
+        "analyse_en": "The use of armed drones by law enforcement is part of a global trend toward the militarization of police tools, accelerated by technological advancements. Drones, initially designed for surveillance, are now equipped with lethal systems, raising questions about their proportionality. Police forces justify their use by the need to protect officers in high-risk contexts. However, this practice risks normalizing a violent response to ambiguous situations. In the short term, this could lead to an increase in incidents involving drones. In the medium term, international regulations could emerge to govern their deployment. In the long term, this could redefine standards for state use of force. Human rights advocates criticize this militarization, while governments see it as a tool for modernization. Drone manufacturers will benefit from increased demand but will face ethical pressures.",
+        "analyse_zh": "武装无人机在执法中的使用是全球警察工具军事化趋势的一部分，由技术进步加速。无人机最初用于监视，现配备致命系统，引发其比例性问题。警方以在高风险环境中保护警员的必要性为由辩护。然而，此举可能使对模糊情况的暴力回应常态化。短期内，可能导致涉及无人机的事件增加。中期可能出现国际法规来规范其部署。长期可能重新定义国家使用武力的标准。人权捍卫者批评此军事化，而政府视之为现代化工具。无人机制造商将受益于需求增长，但将面临伦理压力。",
+        "analyse_ru": "Использование дронов полицией вызывает опасения по поводу нарушения частной жизни и возможных злоупотреблений. Технологический прогресс ускоряет внедрение таких мер, но законодательство часто отстаёт. Вопрос о том, кто должен контролировать применение дронов, остаётся открытым. Это может привести к усилению надзора или, напротив, к хаосу в правоприменении. В долгосрочной перспективе это повлияет на доверие общества к правоохранительным органам.",
+        "analyse_fa": "استفاده از پهپادها توسط پلیس نگرانی‌هایی درباره نقض حریم خصوصی و سوءاستفاده‌های احتمالی ایجاد کرده است. پیشرفت فناوری سرعت اجرای چنین اقداماتی را افزایش داده، اما قوانین اغلب عقب هستند. این سؤال که چه کسی باید استفاده از پهپادها را کنترل کند، همچنان بی‌پاسخ مانده است. این امر می‌تواند منجر به افزایش نظارت یا، برعکس، هرج و مرج در اجرای قانون شود. در بلندمدت، این موضوع بر اعتماد جامعه به نهادهای انتظامی تأثیر خواهد گذاشت.",
+        "analyse_ar": "أدى استخدام المسيرات من قبل الشرطة إلى مخاوف بشأن انتهاك الخصوصية وسوء الاستخدام المحتمل. يتسارع التقدم التكنولوجي من تنفيذ مثل هذه الإجراءات، لكن القوانين غالباً متأخرة. يبقى السؤال عن من يجب أن يسيطر على استخدام المسيرات مفتوحاً. قد يؤدي هذا إلى زيادة الرقابة أو، على العكس، الفوضى في إنفاذ القانون. على المدى الطويل، سيؤثر هذا على ثقة المجتمع في أجهزة إنفاذ القانون.",
+        "categorie": "Sécurité et défense",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/08/arming-local-police-drones-who-pulls-trigger/",
+        "image": "https://www.wnd.com/wp-content/uploads/2024/06/drones-cameras-surveillance-spying-big-brother-military-defense-jpg-1200x630.jpg",
+        "date": "2026-08-02",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ industrie de la défense",
+            "hausse": true
+          },
+          {
+            "label": "▼ marché des assurances",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "industrie de la défense",
+            "secteur_en": "defense industry",
+            "secteur_zh": "国防工业",
+            "effet_fr": "La demande en drones armés pourrait stimuler les ventes des fabricants comme DJI ou AeroVironment, boostant leurs revenus.",
+            "effet_en": "The demand for armed drones could boost sales for manufacturers like DJI or AeroVironment, increasing their revenues.",
+            "effet_zh": "对武装无人机的需求可能推动大疆或AeroVironment等制造商的销售，增加其收入。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché des assurances",
+            "secteur_en": "insurance market",
+            "secteur_zh": "保险市场",
+            "effet_fr": "Les assureurs pourraient augmenter leurs primes pour couvrir les risques liés à l'usage de drones armés par la police.",
+            "effet_en": "Insurers may raise premiums to cover risks associated with police use of armed drones.",
+            "effet_zh": "保险公司可能提高保费，以覆盖警察使用武装无人机的风险。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-03T18:51:23.622617"
+      },
       {
         "id": "monde_377160",
         "titre": "L'IA et les risques urgents selon des experts",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-01T23:58:00.217628"
-      },
-      {
-        "id": "monde_721304",
-        "titre": "Red Sox échangent leur prospect avant la date limite",
-        "titre_en": "Red Sox trade top prospect before deadline",
-        "titre_zh": "红袜队在截止日期前交易顶级新秀",
-        "titre_ru": "Ред Сокс делают неожиданный ход перед дедлайном",
-        "titre_fa": "رد ساکس با حرکت چشمگیر قبل از مهلت نقل و انتقالات",
-        "titre_ar": "رد سوكس يتخذ خطوة مفاجئة قبل الموعد النهائي للصفقات",
-        "titre_original": "Red Sox Make Eye-Opening Move with Top Prospect Before Trade Deadline",
-        "resume": "Les Red Sox de Boston ont surpris en échangeant leur prospect Franklin Arias avant la date limite des transferts. Cette décision pourrait indiquer une stratégie de reconstruction ou de ciblage de joueurs expérimentés. Les fans et analystes débattent de cette manœuvre risquée.",
-        "resume_en": "The Boston Red Sox stunned by trading top prospect Franklin Arias before the trade deadline. The move suggests a rebuilding strategy or a focus on experienced players. Fans and analysts debate the risky decision.",
-        "resume_zh": "波士顿红袜队在交易截止日期前交易顶级新秀富兰克林·阿里亚斯，令外界震惊。此举可能表明其重建策略或专注于经验丰富的球员。球迷和分析师对这一冒险决定展开争论。",
-        "resume_ru": "Бостон Ред Сокс обменяли своего перспективного игрока Франклина Ариаса перед дедлайном. Это решение может сигнализировать о планах команды на ближайшие сделки. Эксперты обсуждают возможные причины такого шага, включая финансовые или стратегические соображения.",
-        "resume_fa": "بوستون رد ساکس بازیکن جوان خود، فرانکلین آریاس را قبل از مهلت نقل و انتقالات معاوضه کرد. این حرکت می‌تواند نشانه‌ای از برنامه‌های تیم برای معامله‌های آتی باشد. کارشناسان دلایل احتمالی این اقدام را، از جمله ملاحظات مالی یا استراتژیک، بررسی می‌کنند.",
-        "resume_ar": "بادلت بوسطن ريد سوكس لاعبها الشاب فرانكلين أرياس قبل الموعد النهائي للصفقات. قد تشير هذه الخطوة إلى خطط الفريق بشأن صفقات قادمة. ويناقش الخبراء الأسباب المحتملة وراء هذا الإجراء، بما في ذلك الاعتبارات المالية أو الاستراتيجية.",
-        "analyse_detaillee": "Les Red Sox, franchise historique du baseball américain, traversent une période de reconstruction après des années de performances médiocres. Franklin Arias, considéré comme l'un des meilleurs espoirs de la ligue, représente un atout majeur pour leur avenir. Cette transaction reflète une stratégie audacieuse, peut-être inspirée par des modèles comme les Oakland Athletics, qui privilégient les échanges de jeunes talents contre des vétérans. À court terme, cette décision pourrait affaiblir l'équipe en 2024, mais à moyen terme, elle pourrait permettre d'acquérir des joueurs confirmés ou des draft picks supplémentaires. Long terme, cela pourrait repositionner les Red Sox comme une franchise compétitive. Les fans, attachés à la tradition, sont divisés, tandis que les dirigeants misent sur une vision à long terme. Les autres équipes de MLB observent cette manœuvre, qui pourrait influencer les stratégies des autres franchises.",
-        "analyse_en": "The Boston Red Sox, a historic MLB franchise, are in a rebuilding phase after years of underperformance. Franklin Arias, one of the league's top prospects, is a key asset for their future. This trade reflects a bold strategy, possibly inspired by models like the Oakland Athletics, which prioritize trading young talent for veterans. In the short term, the move could weaken the 2024 team, but medium-term, it may secure experienced players or additional draft picks. Long-term, it could reposition the Red Sox as a competitive franchise. Fans, attached to tradition, are divided, while management bets on a long-term vision. Other MLB teams are watching this maneuver, which could influence their strategies.",
-        "analyse_zh": "波士顿红袜队作为美国职棒大联盟的传统豪门，在多年表现不佳后正处于重建期。富兰克林·阿里亚斯作为联盟顶级新秀之一，是其未来的核心资产。此次交易反映出一种大胆策略，可能借鉴了奥克兰运动家等球队的模式——用年轻球员换取经验丰富的老将。短期内，此举可能削弱2024赛季的阵容，但中期可能换来成熟球员或额外的选秀权。长期来看，可能助其重返竞争行列。球迷因传统情结而意见不一，而管理层则押注长期发展。其他MLB球队正密切关注这一动作，它可能影响其他球队的策略。",
-        "analyse_ru": "Контекст решения Бостон Ред Сокс связан с необходимостью укрепления состава команды перед важными матчами. Причины обмена могут включать финансовые ограничения, стремление к омоложению команды или тактические изменения. Последствия этого шага могут быть как положительными, если команда усилится, так и отрицательными, если сделка не оправдает ожиданий. Перспективы зависят от реакции болельщиков и результатов следующих матчей. Позиции сторон различны: руководство клуба уверено в правильности решения, а болельщики выражают опасения по поводу будущих результатов.",
-        "analyse_fa": "زمینه تصمیم بوستون رد ساکس به نیاز تیم برای تقویت ترکیب خود قبل از مسابقات مهم بازمی‌گردد. دلایل معاوضه ممکن است شامل محدودیت‌های مالی، تمایل به تجدید نسل تیم یا تغییرات تاکتیکی باشد. پیامدهای این اقدام می‌تواند مثبت باشد اگر تیم تقویت شود، یا منفی اگر معامله انتظارات را برآورده نکند. چشم‌اندازها به واکنش هواداران و نتایج مسابقات بعدی بستگی دارد. مواضع طرف‌ها متفاوت است: مدیریت باشگاه از درستی تصمیم اطمینان دارد، در حالی که هواداران نگرانی خود را از نتایج آینده ابراز می‌کنند.",
-        "analyse_ar": "يرتبط سياق قرار بوسطن ريد سوكس بضرورة تعزيز تشكيلة الفريق قبل المباريات المهمة. وقد تشمل أسباب المبادلة قيوداً مالية أو رغبة في تجديد دماء الفريق أو تغييرات تكتيكية. من العواقب المحتملة لهذه الخطوة أن تكون إيجابية إذا ما عزز الفريق، أو سلبية إذا لم تحقق الصفقة التوقعات. أما الآفاق فتعتمد على رد فعل المشجعين ونتائج المباريات القادمة. أما مواقف الأطراف فمختلفة: فإدارة النادي واثقة من صحة القرار، بينما يعبر المشجعون عن قلقهم بشأن النتائج المستقبلية.",
-        "categorie": "Sport",
-        "source": "Heavy.com",
-        "url": "https://heavy.com/sports/mlb/boston-red-sox/franklin-arias-eye-opening-move-second-base/",
-        "image": "https://s.yimg.com/lo/mysterio/api/9ea067af363f9ad126e2e4fa9bd88454d9ddfd4ce4a111a2ca37660f1b9668f2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fddf2d6cb9059b94f70d2fe852cf3b32f",
-        "date": "2026-07-31",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des transferts sportifs",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur des paris sportifs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts sportifs",
-            "secteur_en": "Sports transfer market",
-            "secteur_zh": "体育转会市场",
-            "effet_fr": "L'échange de Arias pourrait faire monter la valeur des jeunes talents sur le marché, incitant d'autres équipes à adopter des stratégies similaires.",
-            "effet_en": "Trading Arias could drive up the value of young prospects, encouraging other teams to adopt similar strategies.",
-            "effet_zh": "交易阿里亚斯可能推高年轻球员的市场价值，促使其他球队采用类似策略。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des paris sportifs",
-            "secteur_en": "Sports betting sector",
-            "secteur_zh": "体育博彩行业",
-            "effet_fr": "Les mouvements de joueurs avant la date limite pourraient influencer les cotes et les volumes de paris sur les performances des équipes.",
-            "effet_en": "Player movements before the deadline could influence betting odds and volumes on team performances.",
-            "effet_zh": "截止日期前的球员流动可能影响球队表现的赔率和投注量。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-01T22:54:44.133142"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_432007",
+        "titre": "Ms Rachel soutient les progressistes américains",
+        "titre_en": "Ms Rachel backs progressive US candidates",
+        "titre_zh": "Ms Rachel支持美国进步派候选人",
+        "titre_ru": "Мисс Рэйчел поддерживает прогрессивных демократов",
+        "titre_fa": "خانم ریچل از دموکرات‌های پیشرو حمایت می‌کند",
+        "titre_ar": "السيدة راشيل تدعم الديمقراطيين التقدميين",
+        "titre_original": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
+        "resume": "L'influenceuse Ms Rachel a endorsed 12 candidats progressistes, dont Cori Bush et Abdul El-Sayed, auprès de ses 5 millions d'abonnés. Elle justifie ce soutien par leur engagement en faveur de la protection des enfants. Cette prise de position s'inscrit dans un contexte de polarisation politique aux États-Unis.",
+        "resume_en": "Influencer Ms Rachel endorsed 12 progressive candidates, including Cori Bush and Abdul El-Sayed, to her 5 million followers. She cited their commitment to child protection as the reason. This stance comes amid heightened political polarization in the US.",
+        "resume_zh": "网红Ms Rachel在其500万粉丝面前支持12名进步派候选人，包括Cori Bush和Abdul El-Sayed。她以其保护儿童的承诺为由。此举发生在美国政治极化加剧的背景下。",
+        "resume_ru": "Мисс Рэйчел, известная блогерша с пятью миллионами подписчиков, заявила, что не нуждается в миллиарде долларов и поддержала прогрессивных кандидатов от Демократической партии. Она выступила в поддержку Коры Буш и Абдула Эль-Сайеда, а также десяти других кандидатов. По её словам, эти политики защищают интересы детей.",
+        "resume_fa": "خانم ریچل، بلاگر معروف با پنج میلیون دنبال‌کننده، گفت که به میلیارد دلار نیازی ندارد و از نامزدهای پیشرو حزب دموکرات حمایت می‌کند. او از کوری بوش و عبدال السیعید و ده نامزد دیگر حمایت کرد. به گفته او، این سیاستمداران از حقوق کودکان دفاع می‌کنند.",
+        "resume_ar": "السيدة راشيل، المدوّنة الشهيرة ذات الخمسة ملايين متابع، أعلنت أنها لا تحتاج إلى مليار دولار ودعمت المرشحين التقدميين من الحزب الديمقراطي. دعمت كوري بوش وعبد الله السعيد وعشرة مرشحين آخرين. وقالت إنها تدعم من يحمون حقوق الأطفال.",
+        "analyse_detaillee": "Ms Rachel, figure médiatique des réseaux sociaux, utilise son influence pour promouvoir des candidats progressistes, reflétant une tendance croissante des personnalités publiques à s'engager en politique. Cori Bush et Abdul El-Sayed incarnent une aile radicale du Parti démocrate, défendant des réformes sociales et économiques ambitieuses. Leur élection pourrait renforcer les divisions au sein du parti entre modérés et progressistes. À court terme, cette endorsement pourrait mobiliser l'électorat jeune et urbain. À moyen terme, elle pourrait influencer les primaires démocrates de 2024. À long terme, elle pourrait redéfinir les priorités du parti vers des politiques plus inclusives. Les républicains y verront une radicalisation du Parti démocrate. Les donateurs progressistes pourraient augmenter leurs contributions. Les médias sociaux joueront un rôle clé dans la diffusion de ce message.",
+        "analyse_en": "Ms Rachel, a social media influencer, uses her platform to promote progressive candidates, reflecting a growing trend of public figures engaging in politics. Cori Bush and Abdul El-Sayed represent the radical wing of the Democratic Party, advocating for ambitious social and economic reforms. Their election could deepen divisions within the party between moderates and progressives. In the short term, this endorsement could mobilize young and urban voters. In the medium term, it could influence the 2024 Democratic primaries. In the long term, it could redefine the party's priorities toward more inclusive policies. Republicans will see this as a radicalization of the Democratic Party. Progressive donors may increase their contributions. Social media will play a key role in spreading this message.",
+        "analyse_zh": "社交媒体网红Ms Rachel利用其影响力推广进步派候选人，反映了公众人物参与政治的趋势。Cori Bush和Abdul El-Sayed代表民主党激进派，主张雄心勃勃的社会和经济改革。他们的当选可能加深党内温和派与进步派的分歧。短期内，此支持可能动员年轻和城市选民。中期来看，可能影响2024年民主党初选。长期而言，可能重新定义该党更具包容性的政策优先事项。共和党人将视之为民主党激进化的表现。进步派捐助者可能增加捐款。社交媒体将在传播此信息中发挥关键作用。",
+        "analyse_ru": "Мисс Рэйчел, популярная среди молодёжи и родителей, использует свой авторитет для продвижения прогрессивных идей. Её поддержка кандидатов, таких как Кора Буш, отражает растущее влияние левого крыла Демократической партии. Это может усилить позиции прогрессивистов на предстоящих выборах. Однако критики обвиняют её в политической ангажированности и недостаточной экспертизе в вопросах политики. В долгосрочной перспективе это может повлиять на формирование повестки дня партии.",
+        "analyse_fa": "خانم ریچل، که در میان جوانان و والدین محبوب است، از نفوذ خود برای ترویج ایده‌های چپ‌گرا استفاده می‌کند. حمایت او از نامزدهایی مانند کوری بوش، نشان‌دهنده تأثیر فزاینده جناح چپ حزب دموکرات است. این امر می‌تواند موقعیت‌های این گروه را در انتخابات آینده تقویت کند. با این حال، منتقدان او را به تعصب سیاسی و عدم تخصص کافی در مسائل سیاست متهم می‌کنند. در بلندمدت، این حمایت ممکن است بر دستور کار حزب تأثیر بگذارد.",
+        "analyse_ar": "السيدة راشيل، التي تحظى بشعبية بين الشباب والآباء، تستخدم نفوذها لتعزيز الأفكار التقدمية. دعمها للمرشحين مثل كوري بوش يعكس التأثير المتزايد للجناح اليساري في الحزب الديمقراطي. قد يعزز هذا الموقف التقدميين في الانتخابات المقبلة. ومع ذلك، يتهمها النقاد بالتحيز السياسي وعدم الخبرة الكافية في الشؤون السياسية. على المدى الطويل، قد يؤثر هذا الدعم على جدول أعمال الحزب.",
+        "categorie": "Politique intérieure",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/ms-rachel-claims-no-one-needs-billion-dollars-endorses-democratic-progressives-abdul-el-sayed-cori-bush",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ms-rachel-antisemitism-fox-news.jpg",
+        "date": "2026-08-02",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ marché des dons politiques",
+            "hausse": true
+          },
+          {
+            "label": "▲ médias sociaux",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des dons politiques",
+            "secteur_en": "political donations market",
+            "secteur_zh": "政治捐款市场",
+            "effet_fr": "L'endorsement de Ms Rachel pourrait attirer des dons massifs vers les candidats progressistes, dynamisant ce secteur.",
+            "effet_en": "Ms Rachel's endorsement could attract massive donations to progressive candidates, boosting this sector.",
+            "effet_zh": "Ms Rachel的支持可能为进步派候选人吸引大量捐款，推动该行业发展。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "médias sociaux",
+            "secteur_en": "social media",
+            "secteur_zh": "社交媒体",
+            "effet_fr": "Les plateformes comme TikTok ou Instagram verront une hausse de l'engagement politique, augmentant leur valeur publicitaire.",
+            "effet_en": "Platforms like TikTok or Instagram will see increased political engagement, raising their advertising value.",
+            "effet_zh": "TikTok或Instagram等平台将看到政治参与度上升，提升其广告价值。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-03T18:51:23.622592"
+      },
       {
         "id": "usa_759527",
         "titre": "Un sénateur républicain attaque un candidat",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-01T23:58:00.217656"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_884398",
-        "titre": "Trump enterre le fonds anti-arme",
-        "titre_en": "Trump says anti-weaponization fund is dead",
-        "titre_zh": "特朗普宣布反武器化基金已死",
-        "titre_ru": "Трамп заявил, что анти-оружейный фонд «мертв»",
-        "titre_fa": "ترامپ: صندوق ضد تسلیح‌شدگی «مرده» است",
-        "titre_ar": "ترامب: صندوق مكافحة التسلح «ميت»",
-        "titre_original": "Trump says anti-weaponization fund is ‘dead’ - Politico",
-        "resume": "Donald Trump a annoncé que le fonds anti-arme était abandonné, fragilisant les efforts de lutte contre la désinformation. Son avocat Todd Blanche, proche de lui, voit sa confirmation comme procureur général menacée. Le sénateur Fetterman minimise l'influence de Trump sur les décisions.",
-        "resume_en": "Donald Trump declared the anti-weaponization fund 'dead,' undermining efforts to combat disinformation. His loyal attorney Todd Blanche faces risks in his attorney general confirmation. Senator Fetterman argues Trump has 'zero leverage' over key decisions.",
-        "resume_zh": "特朗普宣布反武器化基金已死，削弱了打击虚假信息的努力。其忠实律师托德·布兰奇在总检察长任命中面临风险。参议员费特曼认为特朗普对决策毫无影响力。",
-        "resume_ru": "Дональд Трамп заявил, что анти-оружейный фонд, направленный на противодействие использованию технологий в военных целях, больше не существует. Это заявление ставит под угрозу подтверждение кандидатуры Тодда Бланша на пост генерального прокурора. Эксперты связывают это с политическими разногласиями в окружении президента.",
-        "resume_fa": "دونالد ترامپ اعلام کرد که صندوق ضد تسلیح‌شدگی که برای مقابله با استفاده از فناوری‌ها در اهداف نظامی طراحی شده بود، دیگر وجود ندارد. این اظهار نظر تأیید نامزدی تاد بلانچ برای سمت دادستان کل را به خطر انداخته است. کارشناسان این اقدام را به اختلافات سیاسی در کاخ سفید مرتبط می‌دانند.",
-        "resume_ar": "أعلن دونالد ترامب أن صندوق مكافحة التسلح المصمم لمواجهة استخدام التقنيات في الأغراض العسكرية لم يعد موجوداً. هذا التصريح يهدد تأكيد ترشيح تود بلانش لمنصب النائب العام. ويرى الخبراء أن هذا القرار مرتبط بالخلافات السياسية داخل البيت الأبيض.",
-        "analyse_detaillee": "Ce fonds anti-arme s'inscrivait dans une stratégie américaine post-2020 visant à contrer la manipulation de l'information par des acteurs étrangers, notamment la Russie et la Chine. Son abandon reflète une polarisation accrue aux États-Unis, où les divisions politiques paralysent les réformes institutionnelles. Les enjeux incluent la protection de la démocratie face aux ingérences étrangères et la crédibilité des agences fédérales comme le FBI. À court terme, cette décision pourrait affaiblir les mécanismes de transparence et encourager les campagnes de désinformation. À moyen terme, elle risque d'isoler davantage les États-Unis sur la scène internationale, déjà critiqués pour leur instabilité politique. Long terme, cela pourrait normaliser l'ingérence dans les processus électoraux. Les acteurs clés, comme les démocrates et les médias, dénoncent cette décision, tandis que les partisans de Trump y voient une victoire contre une bureaucratie 'corrompue'.",
-        "analyse_en": "The anti-weaponization fund was part of a post-2020 U.S. strategy to counter foreign disinformation campaigns, particularly from Russia and China. Its abandonment highlights the deepening political polarization in America, where partisan divisions block institutional reforms. The stakes involve safeguarding democracy from foreign interference and maintaining the credibility of federal agencies like the FBI. In the short term, this decision could weaken transparency mechanisms and embolden disinformation campaigns. Medium-term, it risks further isolating the U.S. internationally, already criticized for political instability. Long-term, it may normalize election interference. Key actors, such as Democrats and media outlets, condemn the move, while Trump's supporters view it as a victory against a 'corrupt' bureaucracy.",
-        "analyse_zh": "反武器化基金是美国2020年后应对外国虚假信息活动（特别是俄罗斯和中国）的策略之一。其废除凸显了美国日益加剧的政治极化，党派分歧阻碍了制度改革。核心问题包括保护民主免受外国干预及维护联邦机构（如FBI）的公信力。短期内，此决定可能削弱透明机制，助长虚假信息传播。中期来看，可能进一步孤立美国，已因政治动荡受到国际批评。长期则可能使选举干预常态化。民主党和媒体等关键行为者谴责此举，而特朗普支持者视其为对‘腐败’官僚的胜利。",
-        "analyse_ru": "Контекст ситуации связан с политическими трениями в администрации США, где Трамп стремится укрепить контроль над правоохранительными органами. Причина отмены фонда может быть обусловлена недоверием к независимым структурам или стремлением к централизации власти. Последствия этого шага могут включать ослабление системы сдержек и противовесов, а также обострение конфликта между президентом и Конгрессом. Перспективы зависят от исхода голосования по кандидатуре Бланша, который может либо укрепить позиции Трампа, либо спровоцировать новый политический кризис. Позиции сторон ужесточаются: демократы обвиняют президента в подрыве демократических институтов, а республиканцы поддерживают его курс на укрепление исполнительной власти.",
-        "analyse_fa": "زمینه این ماجرا به تنش‌های سیاسی در دولت ایالات متحده بازمی‌گردد، جایی که ترامپ تلاش می‌کند کنترل خود را بر نهادهای قضایی تقویت کند. دلیل لغو صندوق ضد تسلیح‌شدگی ممکن است عدم اعتماد به ساختارهای مستقل یا تمایل به تمرکز قدرت باشد. پیامدهای این اقدام می‌تواند شامل تضعیف سیستم‌های بازدارنده و تعادل قدرت و تشدید درگیری بین رئیس‌جمهور و کنگره باشد. چشم‌اندازها به نتیجه رأی‌گیری درباره نامزدی بلانچ بستگی دارد که می‌تواند هم قدرت ترامپ را تحکیم کند و هم بحران سیاسی جدیدی را دامن بزند. مواضع طرف‌ها در حال تشدید است: دموکرات‌ها رئیس‌جمهور را به تضعیف نهادهای دموکراتیک متهم می‌کنند، در حالی که جمهوری‌خواهان از سیاست او در جهت تقویت قوه مجریه حمایت می‌کنند.",
-        "analyse_ar": "يرتبط السياق العام لهذه الأزمة بالتوترات السياسية داخل الإدارة الأمريكية، حيث يسعى ترامب إلى تعزيز السيطرة على أجهزة إنفاذ القانون. وقد يكون سبب إلغاء صندوق مكافحة التسلح نابعاً من عدم الثقة بالهياكل المستقلة أو الرغبة في تركيز السلطة. من العواقب المحتملة لهذه الخطوة ضعف نظام الضوابط والموازنات وزيادة حدة الصراع بين الرئيس والكونغرس. أما الآفاق فتعتمد على نتيجة التصويت بشأن ترشيح بلانش، الذي قد يعزز موقف ترامب أو يثير أزمة سياسية جديدة. أما مواقف الأطراف فقد أصبحت أكثر تشدداً: يتهم الديمقراطيون الرئيس بتقويض المؤسسات الديمقراطية، بينما يدعم الجمهوريون سياسته الرامية إلى تعزيز السلطة التنفيذية.",
-        "categorie": "Politique intérieure",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184795060",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-07-31",
-        "pays": "usa",
+        "id": "chine_246062",
+        "titre": "Inde et Iran négocient le port de Chabahar",
+        "titre_en": "India and Iran negotiate Chabahar Port",
+        "titre_zh": "印度与伊朗谈判恰巴哈尔港",
+        "titre_ru": "Индия и Иран ведут переговоры по порту Чабахар",
+        "titre_fa": "هند و ایران در مذاکرات بندر چابهار هستند",
+        "titre_ar": "الهند وإيران في مفاوضات حول ميناء تشابهار",
+        "titre_original": "Chabahar Port: India, Iran continue negotiations",
+        "resume": "L'Inde et l'Iran poursuivent des négociations pour la gestion du port de Chabahar, crucial pour les échanges avec l'Asie centrale. L'Inde exige une garantie juridique de l'Iran pour sécuriser ses droits portuaires. Les États-Unis cherchent à relancer des pourparlers de paix.",
+        "resume_en": "India and Iran are continuing negotiations for the management of Chabahar Port, crucial for trade with Central Asia. India is demanding a legal guarantee from Iran to secure its port rights. The United States is seeking to revive peace talks.",
+        "resume_zh": "印度与伊朗继续谈判恰巴哈尔港的管理权，该港对与中亚贸易至关重要。印度要求伊朗提供法律保障以确保其港口权利。美国正寻求重启和平谈判。",
+        "resume_ru": "Индия и Иран продолжают переговоры о управлении портом Чабахар, несмотря на попытки США начать мирные переговоры. Индия требует от Ирана юридические гарантии прав на порт. Этот порт важен для доступа Индии в Центральную Азию. Переговоры могут укрепить экономические связи между странами.",
+        "resume_fa": "هند و ایران در حال مذاکره درباره مدیریت بندر چابهار هستند، علی‌رغم تلاش‌های آمریکا برای آغاز مذاکرات صلح. هند از ایران خواستار تضمین‌های قانونی برای حقوق بندر شده است. این بندر برای دسترسی هند به آسیای مرکزی حیاتی است. مذاکرات می‌تواند پیوندهای اقتصادی بین دو کشور را تقویت کند.",
+        "resume_ar": "تواصل الهند وإيران المفاوضات حول إدارة ميناء تشابهار، رغم محاولات الولايات المتحدة لبدء محادثات سلام. تطلب الهند من إيران ضمانات قانونية لحقوق الميناء. هذا الميناء حيوي للوصول الهندي إلى آسيا الوسطى. قد تعزز المفاوضات الروابط الاقتصادية بين البلدين.",
+        "analyse_detaillee": "Le port de Chabahar, situé en Iran, est un projet stratégique pour l'Inde afin de contourner le Pakistan et accéder à l'Asie centrale. Son développement a été soutenu par l'Inde depuis 2016, avec des investissements massifs pour en faire un hub commercial. Les tensions entre l'Inde et le Pakistan, ainsi que les sanctions américaines contre l'Iran, compliquent ce projet. À court terme, les négociations pourraient aboutir à un accord partiel, mais les garanties juridiques restent un point de blocage. À moyen terme, si un accord est trouvé, cela pourrait renforcer les liens indo-iraniens et marginaliser le Pakistan. À long terme, cela pourrait redessiner les routes commerciales en Asie du Sud. Les États-Unis, bien que critiques envers l'Iran, pourraient tolérer ce projet s'il sert leurs intérêts en Afghanistan. La Chine, via son initiative des Nouvelles Routes de la Soie, voit ce port comme une concurrence potentielle. L'Inde cherche à équilibrer ses relations avec l'Iran et les États-Unis.",
+        "analyse_en": "The port of Chabahar, located in Iran, is a strategic project for India to bypass Pakistan and access Central Asia. Its development has been supported by India since 2016, with massive investments to turn it into a trade hub. Tensions between India and Pakistan, as well as US sanctions against Iran, complicate this project. In the short term, negotiations could lead to a partial agreement, but legal guarantees remain a sticking point. In the medium term, if an agreement is reached, it could strengthen Indo-Iranian ties and marginalize Pakistan. In the long term, this could reshape trade routes in South Asia. The United States, while critical of Iran, may tolerate this project if it serves their interests in Afghanistan. China, through its New Silk Road initiative, sees this port as potential competition. India is seeking to balance its relations with Iran and the United States.",
+        "analyse_zh": "位于伊朗的恰巴哈尔港是印度绕过巴基斯坦并进入中亚的战略项目。自2016年以来，印度投入巨资将其打造成贸易枢纽。印度与巴基斯坦的紧张关系以及美国对伊朗的制裁使该项目复杂化。短期内，谈判可能达成部分协议，但法律保障仍是症结。中期若达成协议，可能加强印伊关系并边缘化巴基斯坦。长期可能重塑南亚贸易路线。美国尽管批评伊朗，但若该项目符合其在阿富汗的利益，可能容忍。中国通过‘一带一路’倡议视该港为潜在竞争对手。印度试图平衡与伊朗和美国的关系。",
+        "analyse_ru": "Порт Чабахар является стратегически важным проектом для Индии, так как открывает путь в Центральную Азию в обход Пакистана. США, стремясь к мирным переговорам с Ираном, могут увидеть этот проект как угрозу своим интересам. Иран, в свою очередь, заинтересован в инвестициях и укреплении связей с Азией. Успех переговоров зависит от способности сторон договориться о юридических гарантиях. Это может привести к новым экономическим альянсам в регионе.",
+        "analyse_fa": "بندر چابهار یک پروژه استراتژیک مهم برای هند است، زیرا مسیر دسترسی به آسیای مرکزی را بدون عبور از پاکستان فراهم می‌کند. ایالات متحده، که به دنبال مذاکرات صلح با ایران است، ممکن است این پروژه را تهدیدی برای منافع خود ببیند. از سوی دیگر، ایران به دنبال سرمایه‌گذاری و تقویت روابط با آسیا است. موفقیت مذاکرات به توانایی طرفین در توافق بر سر تضمین‌های قانونی بستگی دارد. این امر می‌تواند منجر به ایجاد اتحادهای اقتصادی جدید در منطقه شود.",
+        "analyse_ar": "ميناء تشابهار هو مشروع استراتيجي مهم للهند، لأنه يوفر طريق الوصول إلى آسيا الوسطى دون المرور عبر باكستان. قد ترى الولايات المتحدة، التي تسعى إلى محادثات سلام مع إيران، هذا المشروع تهديداً لمصالحها. من ناحية أخرى، تسعى إيران إلى الاستثمار وتعزيز العلاقات مع آسيا. يعتمد نجاح المفاوضات على قدرة الطرفين على الاتفاق على الضمانات القانونية. قد يؤدي هذا إلى تشكيل تحالفات اقتصادية جديدة في المنطقة.",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/chabahar-port-india-iran-continue-negotiations/articleshow/132813074.cms",
+        "image": "https://img.etimg.com/thumb/msid-132813099,width-1200,height-630,imgsize-302116,overlay-economictimes/articleshow.jpg",
+        "date": "2026-08-02",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Secteur de la cybersécurité",
-            "hausse": false
+            "label": "▲ commerce international",
+            "hausse": true
           },
           {
-            "label": "▼ Marché des obligations d'État",
-            "hausse": false
+            "label": "▲ marché des infrastructures",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la cybersécurité",
-            "secteur_en": "Cybersecurity sector",
-            "secteur_zh": "网络安全行业",
-            "effet_fr": "L'abandon du fonds réduit les investissements dans les outils de détection des fake news, fragilisant la protection des infrastructures critiques.",
-            "effet_en": "The fund's abandonment reduces investments in fake news detection tools, weakening the protection of critical infrastructures.",
-            "effet_zh": "基金废除减少了对假新闻检测工具的投资，削弱了关键基础设施的保护。",
-            "hausse": false
+            "secteur_fr": "commerce international",
+            "secteur_en": "international trade",
+            "secteur_zh": "国际贸易",
+            "effet_fr": "La finalisation de l'accord pourrait augmenter les échanges commerciaux entre l'Inde, l'Iran et l'Asie centrale, stimulant les flux financiers.",
+            "effet_en": "Finalizing the agreement could increase trade between India, Iran, and Central Asia, boosting financial flows.",
+            "effet_zh": "协议最终确定可能增加印度、伊朗与中亚之间的贸易，推动资金流动。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché des obligations d'État",
-            "secteur_en": "U.S. Treasury bond market",
-            "secteur_zh": "美国国债市场",
-            "effet_fr": "L'incertitude politique pourrait augmenter la volatilité des obligations, poussant les investisseurs à exiger des rendements plus élevés.",
-            "effet_en": "Political uncertainty could increase Treasury bond volatility, driving investors to demand higher yields.",
-            "effet_zh": "政治不确定性可能加剧国债波动，推动投资者要求更高收益。",
-            "hausse": false
+            "secteur_fr": "marché des infrastructures",
+            "secteur_en": "infrastructure market",
+            "secteur_zh": "基础设施市场",
+            "effet_fr": "Les investissements indiens dans le port pourraient dynamiser le secteur des infrastructures en Iran, attirant d'autres acteurs régionaux.",
+            "effet_en": "Indian investments in the port could boost Iran's infrastructure sector, attracting other regional players.",
+            "effet_zh": "印度在港口的投资可能推动伊朗基础设施行业发展，吸引其他地区参与者。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-01T22:54:44.133110"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-03T18:51:23.622629"
+      },
       {
         "id": "chine_720462",
         "titre": "Visite d'Anutin en Indonésie et exercices à Taïwan",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-01T07:27:50.913134"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_874575",
-        "titre": "Les États-Unis brisent le monopole chinois sur les aimants",
-        "titre_en": "US breaks China's magnet monopoly",
-        "titre_zh": "美国打破中国磁铁垄断",
-        "titre_ru": "США делают шаг к разрушению монополии Китая",
-        "titre_fa": "آمریکا گامی برای شکستن انحصار مغناطیس چین برمی‌دارد",
-        "titre_ar": "الولايات المتحدة تتخذ خطوة لكسر احتكار الصين للمغناطيس",
-        "titre_original": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
-        "resume": "Les États-Unis ont signé un accord stratégique pour développer des aimants permanents sans dépendre de la Chine. REalloys et JS Link collaborent sur une chaîne d'approvisionnement intégrée. Cette initiative vise à réduire la dépendance aux terres rares chinoises.",
-        "resume_en": "The US has signed a strategic agreement to develop permanent magnets without relying on China. REalloys and JS Link are collaborating on an integrated supply chain. This initiative aims to reduce dependence on Chinese rare earths.",
-        "resume_zh": "美国已签署战略协议，开发不依赖中国的永磁体。REalloys和JS Link合作建立集成供应链。此举旨在减少对中国稀土的依赖。",
-        "resume_ru": "Компания REalloys заключила стратегическое соглашение с производителем магнитов JS Link. Это может положить конец монополии Китая на редкоземельные магниты. США стремятся diversify цепочку поставок и снизить зависимость от Китая.",
-        "resume_fa": "شرکت REalloys با تولیدکننده مغناطیس JS Link توافق استراتژیک امضا کرد. این اقدام می‌تواند به پایان انحصار چین در زمینه مغناطیس‌های خاکی کمیاب منجر شود. ایالات متحده تلاش دارد تا زنجیره تأمین را متنوع کرده و وابستگی به چین را کاهش دهد.",
-        "resume_ar": "وقعت شركة REalloys اتفاقية استراتيجية مع مصنع المغناطيس JS Link. قد يؤدي هذا إلى إنهاء احتكار الصين للمغناطيسات الأرضية النادرة. تسعى الولايات المتحدة إلى تنويع سلسلة التوريد وتقليل الاعتماد على الصين.",
-        "analyse_detaillee": "La domination chinoise sur les terres rares, essentielles pour les aimants permanents, remonte aux années 1990 lorsque Pékin a consolidé son contrôle sur ces ressources stratégiques. Historiquement, la Chine a utilisé cette position pour influencer les marchés mondiaux, notamment lors de tensions géopolitiques. Les enjeux principaux incluent la sécurité des approvisionnements, l'innovation technologique et la souveraineté industrielle des États-Unis. Les causes profondes résident dans la concentration de la production en Chine et les coûts environnementaux élevés de l'extraction ailleurs. À court terme, cet accord pourrait réduire les tensions sur les prix des aimants. À moyen terme, il pourrait stimuler l'innovation dans les alternatives aux terres rares. Sur le long terme, cela pourrait rééquilibrer la chaîne d'approvisionnement mondiale. Les acteurs clés incluent les États-Unis, la Chine, REalloys, JS Link et les industries automobiles et aérospatiales.",
-        "analyse_en": "China's dominance over rare earths, crucial for permanent magnets, dates back to the 1990s when Beijing consolidated control over these strategic resources. Historically, China has used this position to influence global markets, especially during geopolitical tensions. The main stakes include supply security, technological innovation, and US industrial sovereignty. The root causes lie in the concentration of production in China and the high environmental costs of extraction elsewhere. In the short term, this agreement could ease price tensions for magnets. Medium-term, it could spur innovation in rare earth alternatives. Long-term, this could rebalance the global supply chain. Key actors include the US, China, REalloys, JS Link, and industries like automotive and aerospace.",
-        "analyse_zh": "中国对稀土的垄断（对永磁体至关重要）可追溯到1990年代，当时北京巩固了对这些战略资源的控制。历史上，中国利用这一地位影响全球市场，特别是在地缘政治紧张时期。主要影响包括供应安全、技术创新和美国的工业主权。深层原因在于中国生产集中和其他地区开采的高环境成本。短期内，此协议可能缓解磁铁价格紧张。中期来看，可能推动稀土替代品的创新。长期而言，这可能重新平衡全球供应链。关键角色包括美国、中国、REalloys、JS Link以及汽车和航空航天等行业。",
-        "analyse_ru": "Контекст связан с растущей конкуренцией между США и Китаем в технологической сфере. Причины шага США кроются в стремлении снизить зависимость от китайских поставок редкоземельных металлов. Последствия могут включать изменение глобального рынка магнитов и снижение цен. Перспективы зависят от успешности реализации соглашения и технологических инноваций. Позиция Китая может быть направлена на сохранение контроля над рынком.",
-        "analyse_fa": "زمینه به رقابت فزاینده بین ایالات متحده و چین در حوزه فناوری مربوط می‌شود. دلایل اقدام آمریکا در کاهش وابستگی به عرضه چینی فلزات خاکی کمیاب نهفته است. پیامدها می‌تواند شامل تغییر بازار جهانی مغناطیس و کاهش قیمت‌ها باشد. چشم‌اندازها به موفقیت اجرای توافق و نوآوری‌های فناوری بستگی دارد. موضع چین ممکن است در جهت حفظ کنترل بر بازار باشد.",
-        "analyse_ar": "يرتبط السياق بالمنافسة المتزايدة بين الولايات المتحدة والصين في المجال التكنولوجي. تكمن أسباب خطوة أمريكا في السعي لتقليل الاعتماد على الإمدادات الصينية للمعادن الأرضية النادرة. قد تشمل العواقب تغيير سوق المغناطيس العالمي وانخفاض الأسعار. ترتبط الآفاق بنجاح تنفيذ الاتفاقية والابتكارات التكنولوجية. قد تكون موقف الصين موجهة نحو الحفاظ على السيطرة على السوق.",
-        "categorie": "Économie",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-US-Just-Took-A-Big-Step-to-Break-Chinas-Magnet-Dominance.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_yczgdm2jkz.jpg",
-        "date": "2026-07-31",
-        "pays": "chine",
+        "id": "russie_634473",
+        "titre": "L'UE exige des réformes pour l'Ukraine",
+        "titre_en": "EU demands reforms from Ukraine",
+        "titre_zh": "欧盟要求乌克兰改革",
+        "titre_ru": "Украине нужна помощь ЕС для реформ",
+        "titre_fa": "اوکراین برای اصلاحات به کمک اتحادیه اروپا نیاز دارد",
+        "titre_ar": "أوكرانيا بحاجة إلى دعم الاتحاد الأوروبي للإصلاحات",
+        "titre_original": "Ukraine needs the EU to force it to reform",
+        "resume": "L'Ukraine est critiquée par l'UE pour son manque de progrès dans les réformes nécessaires à son adhésion. Bruxelles estime que Kiev esquive les efforts requis. Cette situation retarde le processus d'adhésion, pourtant crucial pour l'Ukraine en temps de guerre.",
+        "resume_en": "Ukraine is criticized by the EU for its lack of progress in reforms necessary for membership. Brussels believes Kiev is shirking the required efforts. This situation delays the accession process, which is crucial for Ukraine amid war.",
+        "resume_zh": "欧盟批评乌克兰在加入所需改革方面进展不足。布鲁塞尔认为基辅在回避必要努力。此情况拖延了加入进程，而这对处于战争中的乌克兰至关重要。",
+        "resume_ru": "Украинское правительство избегает выполнения необходимых реформ для вступления в ЕС. Это тормозит процесс интеграции страны в Европейский союз. Эксперты считают, что без давления со стороны ЕС реформы не будут реализованы в срок. Это может отложить членство Украины в союзе на неопределённый срок.",
+        "resume_fa": "دولت اوکراین از اجرای اصلاحات لازم برای عضویت در اتحادیه اروپا شانه خالی می‌کند. این موضوع روند ادغام این کشور در اتحادیه اروپا را کند کرده است. کارشناسان معتقدند بدون فشار اتحادیه اروپا، اصلاحات به موقع اجرا نخواهند شد. این امر می‌تواند عضویت اوکراین در اتحادیه را به تأخیر بیندازد.",
+        "resume_ar": "تتهرب الحكومة الأوكرانية من تنفيذ الإصلاحات اللازمة للانضمام إلى الاتحاد الأوروبي. هذا يبطئ عملية اندماج البلاد في الاتحاد. يعتقد الخبراء أنه بدون ضغط من الاتحاد الأوروبي، لن يتم تنفيذ الإصلاحات في الوقت المحدد. قد يؤخر هذا عضوية أوكرانيا في الاتحاد إلى أجل غير مسمى.",
+        "analyse_detaillee": "L'Ukraine a obtenu le statut de candidat à l'UE en 2022, une décision historique motivée par l'invasion russe. Cependant, les réformes structurelles exigées par Bruxelles, notamment dans les domaines judiciaire, anti-corruption et économique, peinent à avancer. La guerre a ralenti ces efforts, mais l'UE insiste sur leur nécessité pour garantir la stabilité future du pays. À court terme, ce blocage pourrait frustrer la population ukrainienne, déjà éprouvée par le conflit. À moyen terme, cela pourrait retarder l'adhésion, privant l'Ukraine de fonds européens cruciaux. À long terme, cela pourrait affaiblir la crédibilité de l'UE en tant que partenaire fiable. La Russie exploite cette situation pour discréditer l'UE et promouvoir son propre modèle. Les États-Unis soutiennent les réformes mais évitent de s'immiscer directement. Les oligarques ukrainiens, souvent opposés aux réformes, pourraient voir leur influence renforcée. Les citoyens ukrainiens, eux, restent majoritairement favorables à l'adhésion à l'UE.",
+        "analyse_en": "Ukraine obtained EU candidate status in 2022, a historic decision driven by the Russian invasion. However, the structural reforms demanded by Brussels, particularly in the judicial, anti-corruption, and economic sectors, are struggling to progress. The war has slowed these efforts, but the EU insists on their necessity to ensure the country's future stability. In the short term, this deadlock could frustrate the Ukrainian population, already tested by the conflict. In the medium term, it could delay accession, depriving Ukraine of crucial European funds. In the long term, this could weaken the EU's credibility as a reliable partner. Russia is exploiting this situation to discredit the EU and promote its own model. The United States supports reforms but avoids direct interference. Ukrainian oligarchs, often opposed to reforms, may see their influence strengthened. Ukrainian citizens, however, remain largely in favor of EU accession.",
+        "analyse_zh": "乌克兰于2022年获得欧盟候选国地位，这一历史性决定由俄罗斯入侵推动。然而，布鲁塞尔要求的结构性改革，特别是在司法、反腐和经济领域，进展缓慢。战争拖慢了这些努力，但欧盟坚持其必要性以确保该国未来稳定。短期内，此僵局可能令乌克兰民众沮丧，他们已被冲突折磨。中期可能推迟加入，使乌克兰失去关键的欧洲资金。长期可能削弱欧盟作为可靠伙伴的信誉。俄罗斯利用此情况抹黑欧盟并推广其自身模式。美国支持改革但避免直接干预。乌克兰寡头们，通常反对改革，可能看到其影响力增强。乌克兰公民则仍然大力支持加入欧盟。",
+        "analyse_ru": "Украина стремится вступить в ЕС, но сталкивается с внутренними проблемами, такими как коррупция и слабая институциональная база. ЕС требует проведения реформ, но правительство Украины не проявляет достаточной инициативы. Это создаёт напряжённость в отношениях между Киевом и Брюсселем. Без поддержки ЕС Украине будет сложно провести необходимые изменения. В долгосрочной перспективе это может ослабить позиции Украины на международной арене.",
+        "analyse_fa": "اوکراین به دنبال عضویت در اتحادیه اروپا است، اما با مشکلات داخلی مانند فساد و ضعف نهادهای دولتی مواجه است. اتحادیه اروپا خواستار اجرای اصلاحات است، اما دولت اوکراین ابتکار کافی را نشان نمی‌دهد. این موضوع تنش‌هایی در روابط بین کیف و بروکسل ایجاد کرده است. بدون حمایت اتحادیه اروپا، اوکراین اجرای تغییرات لازم را دشوار خواهد یافت. در بلندمدت، این امر ممکن است موقعیت اوکراین در arena بین‌المللی را تضعیف کند.",
+        "analyse_ar": "تسعى أوكرانيا للانضمام إلى الاتحاد الأوروبي، لكنها تواجه مشكلات داخلية مثل الفساد وضعف المؤسسات الحكومية. يطالب الاتحاد الأوروبي بإجراء إصلاحات، لكن الحكومة الأوكرانية لا تظهر المبادرة الكافية. هذا يخلق توترات في العلاقات بين كييف وبروكسل. بدون دعم الاتحاد الأوروبي، ستجد أوكرانيا صعوبة في تنفيذ التغييرات اللازمة. على المدى الطويل، قد يضعف هذا موقف أوكرانيا على الساحة الدولية.",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f62f8c3a63503c50",
+        "image": "https://biztoc.com/cdn/995/og.png",
+        "date": "2026-08-02",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des terres rares",
-            "hausse": true
+            "label": "▼ aide financière européenne",
+            "hausse": false
           },
           {
-            "label": "▲ Industrie automobile électrique",
-            "hausse": true
+            "label": "▼ marché des obligations souveraines",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des terres rares",
-            "secteur_en": "Rare earths market",
-            "secteur_zh": "稀土市场",
-            "effet_fr": "La réduction de la dépendance à la Chine pourrait stabiliser les prix et sécuriser l'approvisionnement pour les industries occidentales.",
-            "effet_en": "Reducing dependence on China could stabilize prices and secure supply for Western industries.",
-            "effet_zh": "减少对中国的依赖可能稳定价格并确保西方工业的供应安全。",
-            "hausse": true
+            "secteur_fr": "aide financière européenne",
+            "secteur_en": "European financial aid",
+            "secteur_zh": "欧洲金融援助",
+            "effet_fr": "Le retard dans les réformes pourrait réduire les fonds européens alloués à l'Ukraine, affectant sa capacité à reconstruire et résister.",
+            "effet_en": "Delays in reforms could reduce European funds allocated to Ukraine, impacting its ability to rebuild and resist.",
+            "effet_zh": "改革延迟可能减少拨给乌克兰的欧洲资金，影响其重建和抵抗能力。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Industrie automobile électrique",
-            "secteur_en": "Electric vehicle industry",
-            "secteur_zh": "电动汽车行业",
-            "effet_fr": "Un approvisionnement stable en aimants pourrait accélérer la production de véhicules électriques et réduire les coûts.",
-            "effet_en": "A stable supply of magnets could accelerate electric vehicle production and reduce costs.",
-            "effet_zh": "稳定的磁铁供应可能加速电动汽车生产并降低成本。",
-            "hausse": true
+            "secteur_fr": "marché des obligations souveraines",
+            "secteur_en": "sovereign bonds market",
+            "secteur_zh": "主权债券市场",
+            "effet_fr": "Une adhésion retardée pourrait augmenter le risque perçu de l'Ukraine, faisant monter les taux d'intérêt sur ses obligations.",
+            "effet_en": "Delayed accession could increase Ukraine's perceived risk, raising interest rates on its bonds.",
+            "effet_zh": "加入延迟可能增加乌克兰的 perceived 风险，推高其债券利率。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-01T00:02:01.552535"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-03T18:51:23.622638"
+      },
       {
         "id": "russie_666051",
         "titre": "Frappes ukrainiennes sur des infrastructures russes",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-01T23:58:00.217668"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_284682",
-        "titre": "La Russie accuse l'Occident d'avoir causé la crise migratoire",
-        "titre_en": "Russia blames the West for the migrant crisis",
-        "titre_zh": "俄罗斯指责西方导致移民危机",
-        "titre_ru": "Западные войны за смену режимов привели к миграционному кризису в ЕС",
-        "titre_fa": "جنگ‌های تغییر رژیم غرب منجر به بحران مهاجرت در اتحادیه اروپا شد",
-        "titre_ar": "حروب الغرب لتغيير الأنظمة أدت إلى أزمة الهجرة في الاتحاد الأوروبي",
-        "titre_original": "Western regime change wars led to Spain’s migrant crisis – Russian deputy FM (VIDEO)",
-        "resume": "La Russie affirme que les guerres de changement de régime en Irak et en Libye ont alimenté le terrorisme et provoqué la crise migratoire en Europe. Moscou dénonce la responsabilité occidentale. Cette déclaration intervient dans un contexte de tensions géopolitiques accrues.",
-        "resume_en": "Russia claims that regime-change wars in Iraq and Libya fueled terrorism and triggered Europe's migrant crisis. Moscow blames Western responsibility. The statement comes amid heightened geopolitical tensions.",
-        "resume_zh": "俄罗斯声称，伊拉克和利比亚的政权更迭战争助长了恐怖主义，并引发了欧洲的移民危机。莫斯科指责西方应负责任。这一声明发生在紧张的地缘政治背景下。",
-        "resume_ru": "Заместитель министра иностранных дел России Александр Грушко заявил, что войны за смену режимов в Ираке и Ливии спровоцировали терроризм и миграционный кризис в ЕС. По его словам, эти конфликты стали причиной нестабильности в регионе. Европейские страны столкнулись с наплывом беженцев.",
-        "resume_fa": "معاون وزیر امور خارجه روسیه، الکساندر گروشکو، اعلام کرد که جنگ‌های تغییر رژیم در عراق و لیبی تروریسم و بحران مهاجرت در اتحادیه اروپا را تحریک کرده‌اند. به گفته او، این درگیری‌ها باعث بی‌ثباتی در منطقه شده‌اند. کشورهای اروپایی با هجوم پناهجویان مواجه هستند.",
-        "resume_ar": "أفاد نائب وزير الخارجية الروسي ألكسندر غروشكو بأن حروب تغيير الأنظمة في العراق وليبيا قد أثارت الإرهاب وأزمة الهجرة في الاتحاد الأوروبي. وقال إن هذه الصراعات تسببت في عدم الاستقرار بالمنطقة. تواجه الدول الأوروبية تدفقاً كبيراً للاجئين.",
-        "analyse_detaillee": "Les guerres en Irak (2003) et en Libye (2011) ont effectivement provoqué des instabilités régionales durables, favorisant l'émergence de groupes terroristes comme Daech. La crise migratoire en Europe, exacerbée par ces conflits, reste un sujet sensible. La Russie utilise ce discours pour discréditer les interventions occidentales et justifier sa propre politique étrangère. À court terme, cela renforce la propagande russe sur la scène internationale. À moyen terme, cela pourrait isoler davantage l'Occident diplomatiquement. À long terme, cela pourrait encourager une refonte des alliances géopolitiques. Les acteurs principaux sont la Russie, les pays occidentaux, les organisations internationales et les pays d'origine des migrants.",
-        "analyse_en": "The wars in Iraq (2003) and Libya (2011) indeed caused lasting regional instabilities, fostering the rise of terrorist groups like ISIS. Europe's migrant crisis, exacerbated by these conflicts, remains a sensitive issue. Russia uses this narrative to discredit Western interventions and justify its own foreign policy. Short-term, it strengthens Russian propaganda on the global stage. Medium-term, it could further isolate the West diplomatically. Long-term, it could encourage a reshaping of geopolitical alliances. Key actors are Russia, Western countries, international organizations, and migrant-origin countries.",
-        "analyse_zh": "2003年的伊拉克战争和2011年的利比亚战争确实造成了持久的地区动荡，助长了ISIS等恐怖组织的兴起。欧洲的移民危机因这些冲突而加剧，仍是一个敏感问题。俄罗斯利用这一叙事来抹黑西方干预并证明其自身外交政策的正当性。短期内，这加强了俄罗斯在国际舞台上的宣传。中期来看，可能进一步在外交上孤立西方。长期而言，可能促使地缘政治联盟的重塑。主要参与者包括俄罗斯、西方国家、国际组织和移民来源国。",
-        "analyse_ru": "Контекст заявления связан с критикой политики Запада в отношении стран Ближнего Востока и Северной Африки, где проводились военные интервенции. Причины обострения миграционного кризиса обусловлены дестабилизацией регионов после свержения режимов. Последствия включают рост террористической активности и социальную напряжённость в Европе. Перспективы зависят от изменения внешней политики Запада и усилий по восстановлению региона. Позиции сторон противоречивы: Россия обвиняет Запад, а европейские страны признают частичную ответственность.",
-        "analyse_fa": "زمینه این اظهارنظر به انتقاد از سیاست غرب در کشورهای خاورمیانه و شمال آفریقا بازمی‌گردد که در آن مداخلات نظامی انجام شده است. دلایل تشدید بحران مهاجرت ناشی از بی‌ثبات‌سازی مناطق پس از سرنگونی رژیم‌ها است. پیامدها شامل افزایش فعالیت‌های تروریستی و تنش‌های اجتماعی در اروپا است. چشم‌اندازها به تغییر سیاست خارجی غرب و تلاش برای بازسازی منطقه بستگی دارد. موضع بازیگران متناقض است: روسیه غرب را مقصر می‌داند، در حالی که کشورهای اروپایی تا حدی مسئولیت را می‌پذیرند.",
-        "analyse_ar": "يرتبط سياق البيان بانتقاد السياسة الغربية تجاه دول الشرق الأوسط وشمال أفريقيا، حيث جرت تدخلات عسكرية. أسباب تفاقم أزمة الهجرة تعود إلى زعزعة الاستقرار في المناطق بعد الإطاحة بالنظم. تشمل العواقب زيادة النشاط الإرهابي والشدائد الاجتماعية في أوروبا. الآفاق تعتمد على تغيير السياسة الخارجية الغربية وجهود إعادة الإعمار. تختلف مواقف الأطراف: تتهم روسيا الغرب، بينما تعترف الدول الأوروبية بمسؤوليتها جزئياً.",
+        "id": "iran_372820",
+        "titre": "Iran et Oman proches d'un accord sur le détroit d'Ormuz",
+        "titre_en": "Iran and Oman close to Hormuz Strait deal",
+        "titre_zh": "伊朗与阿曼即将达成霍尔木兹海峡协议",
+        "titre_ru": "Иран и Оман близки к соглашению по Ормузскому проливу",
+        "titre_fa": "ایران و عمان در آستانه توافق درباره تنگه هرمز هستند",
+        "titre_ar": "إيران وعمان على وشك اتفاق بشأن مضيق هرمز",
+        "titre_original": "Iranian FM: Iran, Oman nearing agreement on Strait of Hormuz",
+        "resume": "L'Iran et Oman progressent vers un accord pour sécuriser le détroit d'Ormuz, une route maritime stratégique. Le ministre iranien des Affaires étrangères confirme des avancées significatives. Cet accord pourrait renforcer la stabilité régionale.",
+        "resume_en": "Iran and Oman are making progress toward an agreement to secure the Strait of Hormuz, a strategic maritime route. The Iranian foreign minister confirms significant advances. This agreement could enhance regional stability.",
+        "resume_zh": "伊朗与阿曼在确保霍尔木兹海峡（一条战略航道）的协议上取得进展。伊朗外长确认取得重大进展。此协议可能增强地区稳定。",
+        "resume_ru": "Министр иностранных дел Ирана заявил, что Тегеран и Маскат близки к соглашению по вопросам безопасности в Ормузском проливе. Переговоры между странами продвигаются успешно. Это может укрепить стабильность в регионе и снизить напряжённость. Соглашение также откроет новые возможности для экономического сотрудничества.",
+        "resume_fa": "وزیر امور خارجه ایران اعلام کرد که تهران و مسقط در آستانه توافق درباره مسائل امنیتی تنگه هرمز هستند. مذاکرات بین دو کشور با موفقیت در حال پیشرفت است. این امر می‌تواند ثبات منطقه را تقویت کرده و تنش‌ها را کاهش دهد. توافق همچنین فرصت‌های جدیدی برای همکاری اقتصادی ایجاد خواهد کرد.",
+        "resume_ar": "أعلن وزير الخارجية الإيراني أن طهران ومسقط على وشك التوصل إلى اتفاق بشأن مسائل الأمن في مضيق هرمز. تتقدم المفاوضات بين البلدين بنجاح. قد يعزز هذا الاستقرار في المنطقة ويقلل من التوترات. كما ستفتح الاتفاقية فرصاً جديدة للتعاون الاقتصادي.",
+        "analyse_detaillee": "Le détroit d'Ormuz, par lequel transite un tiers du pétrole mondial, est une zone de tensions géopolitiques depuis des décennies. L'Iran, qui contrôle une partie de ses eaux, a souvent menacé de bloquer le passage en cas de conflit. Oman, neutre mais proche de l'Iran, joue un rôle de médiateur clé dans la région. Un accord avec Oman pourrait permettre à l'Iran de sécuriser cette route sans recourir à la force. À court terme, cela pourrait réduire les risques de blocage et stabiliser les prix de l'énergie. À moyen terme, cela pourrait renforcer la coopération économique entre les deux pays. À long terme, cela pourrait servir de modèle pour d'autres accords de sécurité maritime dans la région. Les États-Unis, bien que critiques envers l'Iran, pourraient tolérer cet accord s'il évite une escalade. Les pays du Golfe, comme l'Arabie saoudite, pourraient voir cela comme une menace. La Chine, dépendante des importations pétrolières via ce détroit, y verrait un avantage stratégique. Les compagnies maritimes bénéficieraient d'une réduction des risques, mais les assurances pourraient ajuster leurs tarifs.",
+        "analyse_en": "The Strait of Hormuz, through which a third of the world's oil passes, has been a geopolitical flashpoint for decades. Iran, which controls part of its waters, has often threatened to block the passage in case of conflict. Oman, neutral but close to Iran, plays a key mediating role in the region. An agreement with Oman could allow Iran to secure this route without resorting to force. In the short term, this could reduce the risk of blockades and stabilize energy prices. In the medium term, this could strengthen economic cooperation between the two countries. In the long term, this could serve as a model for other maritime security agreements in the region. The United States, while critical of Iran, may tolerate this agreement if it avoids escalation. Gulf countries like Saudi Arabia may see this as a threat. China, dependent on oil imports via this strait, would view it as a strategic advantage. Shipping companies would benefit from reduced risks, but insurers might adjust their rates.",
+        "analyse_zh": "霍尔木兹海峡（全球三分之一石油由此通过）几十年来一直是地缘政治热点。控制部分水域的伊朗多次威胁在冲突时封锁通道。作为中立但亲伊朗的国家，阿曼在该地区扮演关键调解角色。与阿曼的协议可能使伊朗在无需动武的情况下确保该航道安全。短期内，这可能降低封锁风险并稳定能源价格。中期可能加强两国经济合作。长期可能成为该地区其他海上安全协议的模板。美国尽管批评伊朗，但若协议避免升级，可能容忍。海湾国家如沙特可能视之为威胁。依赖通过该海峡进口石油的中国将视之为战略优势。航运公司将受益于风险降低，但保险公司可能调整费率。",
+        "analyse_ru": "Ормузский пролив является ключевой транспортной артерией, через которую проходит значительная часть мировых нефтяных поставок. Иран и Оман стремятся укрепить региональную безопасность и избежать внешнего вмешательства. Успешное соглашение может стать примером для других стран региона. Это также укрепит позиции Ирана в переговорах с международными партнёрами. В долгосрочной перспективе это может изменить геополитический ландшафт Персидского залива.",
+        "analyse_fa": "تنگه هرمز یک شریان حمل و نقل کلیدی است که بخش عمده‌ای از عرضه جهانی نفت از آن عبور می‌کند. ایران و عمان به دنبال تقویت امنیت منطقه‌ای و جلوگیری از دخالت خارجی هستند. یک توافق موفق می‌تواند الگویی برای سایر کشورهای منطقه باشد. این امر همچنین موقعیت ایران در مذاکرات با شرکای بین‌المللی را تقویت خواهد کرد. در بلندمدت، این ممکن است چشم‌انداز ژئوپلیتیکی خلیج فارس را تغییر دهد.",
+        "analyse_ar": "مضيق هرمز هو شريان نقل حيوي تمر عبره نسبة كبيرة من إمدادات النفط العالمية. تسعى إيران وعمان إلى تعزيز الأمن الإقليمي وتجنب التدخل الخارجي. قد يصبح الاتفاق الناجح مثالاً لبلدان أخرى في المنطقة. كما سيعزز هذا موقف إيران في المفاوضات مع الشركاء الدوليين. على المدى الطويل، قد يغير هذا المشهد الجيوسياسي للخليج الفارسي.",
         "categorie": "Géopolitique",
-        "source": "RT",
-        "url": "https://www.rt.com/russia/643730-western-wars-led-migrant-crisis-grushko/",
-        "image": "https://mf.b37mrtl.ru/files/2026.07/article/6a6d03d32030274e07634ad9.png",
-        "date": "2026-07-31",
-        "pays": "russie",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/flashes/691035",
+        "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
+        "date": "2026-08-02",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur énergétique",
-            "hausse": true
+            "label": "▼ marché pétrolier",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur des assurances",
-            "hausse": false
+            "label": "▲ assurances maritimes",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur énergétique",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "Les tensions géopolitiques pourraient perturber les approvisionnements en énergie et faire monter les prix.",
-            "effet_en": "Geopolitical tensions could disrupt energy supplies and drive up prices.",
-            "effet_zh": "地缘政治紧张局势可能扰乱能源供应并推高价格。",
-            "hausse": true
+            "secteur_fr": "marché pétrolier",
+            "secteur_en": "oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Un accord réduisant les risques de blocage pourrait stabiliser l'offre mondiale de pétrole, influençant les prix à la baisse.",
+            "effet_en": "An agreement reducing blockade risks could stabilize global oil supply, influencing prices downward.",
+            "effet_zh": "降低封锁风险的协议可能稳定全球石油供应，推动价格下行。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur des assurances",
-            "secteur_en": "Insurance sector",
-            "secteur_zh": "保险行业",
-            "effet_fr": "L'instabilité migratoire pourrait augmenter les coûts des assurances liées aux risques politiques.",
-            "effet_en": "Migratory instability could raise costs for political risk-related insurance.",
-            "effet_zh": "移民不稳定可能增加与政治风险相关的保险成本。",
-            "hausse": false
+            "secteur_fr": "assurances maritimes",
+            "secteur_en": "maritime insurance",
+            "secteur_zh": "海运保险",
+            "effet_fr": "La baisse des risques pourrait réduire les primes d'assurance pour les navires traversant le détroit, stimulant le commerce maritime.",
+            "effet_en": "Reduced risks could lower insurance premiums for ships passing through the strait, boosting maritime trade.",
+            "effet_zh": "风险降低可能降低通过海峡船只的保险费率，推动海运贸易。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-01T20:54:23.425192"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-03T18:51:23.622647"
+      },
       {
         "id": "iran_80778",
         "titre": "Tensions accrues dans le détroit d'Ormuz",
@@ -5952,127 +6011,68 @@
           }
         ],
         "created_at": "2026-08-01T19:22:05.795485"
-      },
-      {
-        "id": "iran_273835",
-        "titre": "Pilier des Tigers pourrait changer d'équipe",
-        "titre_en": "Tigers' pitcher Casey Mize could be traded",
-        "titre_zh": "老虎队投手凯西·迈兹可能被交易",
-        "titre_ru": "ВВП США вырос всего на 1,5% во втором квартале 2026 года",
-        "titre_fa": "رشد ۱.۵ درصدی اقتصاد آمریکا در سه‌ماهه دوم ۲۰۲۶ به دلیل جنگ با ایران",
-        "titre_ar": "نمو الناتج المحلي الإجمالي الأمريكي ۱.۵% في الربع الثاني من ۲۰۲۶ بسبب الحرب مع إيران",
-        "titre_original": "U.S. GDP growth slowed to 1.5% in Q2 2026 amid Iran war",
-        "resume": "Casey Mize, lanceur des Detroit Tigers, pourrait être échangé avant la date limite des transferts MLB. Plusieurs équipes en course pour ses services. Les enjeux incluent la reconstruction d'effectifs et les stratégies sportives.",
-        "resume_en": "Casey Mize, pitcher for the Detroit Tigers, may be traded before the MLB trade deadline. Several teams are vying for his services. The stakes include roster rebuilding and sports strategies.",
-        "resume_zh": "底特律老虎队投手凯西·迈兹可能在MLB交易截止日前被交易。多支球队竞相争夺其服务。影响包括阵容重建和体育战略。",
-        "resume_ru": "Экономический рост США в первом квартале 2026 года замедлился до 1,5% из-за войны с Ираном. Это ниже ожиданий аналитиков. Эксперты связывают замедление с ростом расходов на оборону и санкциями.",
-        "resume_fa": "رشد اقتصادی آمریکا در سه‌ماهه اول ۲۰۲۶ به دلیل جنگ با ایران به ۱.۵ درصد کاهش یافت. این رقم کمتر از انتظارات تحلیلگران است. کارشناسان این کندی را به افزایش هزینه‌های دفاعی و تحریم‌ها نسبت می‌دهند.",
-        "resume_ar": "تباطأ النمو الاقتصادي الأمريكي في الربع الأول من ۲۰۲۶ إلى ۱.۵% بسبب الحرب مع إيران. هذا أقل من توقعات المحللين. يربط الخبراء هذا التباطؤ بزيادة نفقات الدفاع والعقوبات.",
-        "analyse_detaillee": "Le cas de Casey Mize illustre les dynamiques complexes du marché des transferts dans le baseball professionnel américain, un secteur économique majeur aux États-Unis. Historiquement, les échanges de joueurs ont toujours été un levier stratégique pour les franchises cherchant à optimiser leurs performances. Les enjeux principaux incluent l'équilibre compétitif entre les équipes et la valorisation des talents. Les causes profondes résident dans la recherche de profitabilité et la pression des fans pour des résultats immédiats. À court terme, une transaction pourrait renforcer une équipe en course pour les playoffs ou affaiblir les Tigers en pleine reconstruction. À moyen terme, cela pourrait influencer les stratégies de recrutement des autres clubs. À long terme, cela pourrait modifier la hiérarchie des équipes et la valeur marchande des joueurs. Les acteurs clés incluent les propriétaires de franchises, les agents de joueurs et les ligues qui régulent ces échanges. Les médias sportifs amplifient aussi l'impact médiatique et financier de ces mouvements.",
-        "analyse_en": "Casey Mize's case illustrates the complex dynamics of the transfer market in American professional baseball, a major economic sector in the U.S. Historically, player trades have always been a strategic lever for franchises seeking to optimize performance. The main stakes include competitive balance between teams and talent valuation. The root causes lie in the pursuit of profitability and fan pressure for immediate results. In the short term, a trade could strengthen a team in playoff contention or weaken the Tigers during a rebuilding phase. In the medium term, it could influence other clubs' recruitment strategies. Long-term, it could reshape team hierarchies and player market values. Key actors include franchise owners, player agents, and leagues regulating these trades. Sports media also amplify the media and financial impact of these moves.",
-        "analyse_zh": "凯西·迈兹的案例展现了美国职业棒球转会市场的复杂动态，这是美国的一个重要经济领域。历史上，球员交易一直是追求业绩优化的球队的战略杠杆。主要影响包括球队间的竞争平衡和人才估值。深层原因在于追求盈利能力和球迷对即时成绩的压力。短期内，交易可能加强有望进入季后赛的球队或削弱正在重建的老虎队。中期来看，可能影响其他俱乐部的招募策略。长期而言，可能重塑球队排名和球员市场价值。关键行为者包括俱乐部所有者、球员经纪人及监管交易的联盟。体育媒体也放大了这些动作的媒体和财务影响。",
-        "analyse_ru": "Контекст связан с геополитической напряженностью между США и Ираном, которая влияет на мировую экономику. Причины замедления роста ВВП включают увеличение военных расходов и последствия санкций против Ирана. Последствия могут быть глобальными: рост инфляции, снижение деловой активности и нестабильность на рынках. Перспективы зависят от исхода конфликта и возможных дипломатических решений. Позиции сторон: США стремятся ослабить Иран через санкции, а Иран пытается противостоять давлению, что усугубляет экономические проблемы.",
-        "analyse_fa": "زمینه به تنش‌های ژئوپلیتیکی بین آمریکا و ایران مربوط است که بر اقتصاد جهانی تأثیر می‌گذارد. دلایل کندی رشد GDP شامل افزایش هزینه‌های نظامی و پیامدهای تحریم‌های علیه ایران است. پیامدها می‌تواند جهانی باشد: افزایش تورم، کاهش فعالیت‌های تجاری و بی‌ثباتی در بازارها. چشم‌اندازها به نتیجه درگیری و راه‌حل‌های دیپلماتیک احتمالی بستگی دارد. موضع بازیگران: آمریکا تلاش می‌کند از طریق تحریم‌ها ایران را تضعیف کند، در حالی که ایران سعی می‌کند در برابر فشار مقاومت کند که مشکلات اقتصادی را تشدید می‌کند.",
-        "analyse_ar": "يرتبط السياق بالتوترات الجيوسياسية بين الولايات المتحدة وإيران، التي تؤثر على الاقتصاد العالمي. تشمل أسباب تباطؤ نمو الناتج المحلي الإجمالي زيادة نفقات الدفاع وعقوبات إيران. قد تكون العواقب عالمية: ارتفاع التضخم، انخفاض النشاط التجاري وعدم استقرار الأسواق. تعتمد الآفاق على نتيجة الصراع والحلول الدبلوماسية المحتملة. مواقف الأطراف: تسعى الولايات المتحدة إلى إضعاف إيران من خلال العقوبات، بينما تحاول إيران مواجهة الضغط مما يزيد من المشاكل الاقتصادية.",
-        "categorie": "Sport",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a79f4d9a921f3de8",
-        "image": "https://biztoc.com/cdn/a79f4d9a921f3de8_s.webp",
-        "date": "2026-07-31",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des transferts sportifs",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur des médias sportifs",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts sportifs",
-            "secteur_en": "Sports transfer market",
-            "secteur_zh": "体育转会市场",
-            "effet_fr": "Une transaction pourrait augmenter la valeur marchande des joueurs de la ligue et dynamiser les échanges.",
-            "effet_en": "A trade could increase the market value of league players and boost transfers.",
-            "effet_zh": "交易可能提升联盟球员的市场价值并推动转会。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des médias sportifs",
-            "secteur_en": "Sports media sector",
-            "secteur_zh": "体育媒体行业",
-            "effet_fr": "Les rumeurs de transfert pourraient booster l'audience des chaînes sportives et des plateformes en ligne.",
-            "effet_en": "Trade rumors could boost viewership for sports channels and online platforms.",
-            "effet_zh": "转会传闻可能提升体育频道和在线平台的收视率。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-01T18:00:11.586573"
       }
     ]
   },
   "politique": [
     {
-      "id": "pol_env_866165",
-      "titre": "Pollution : 5,7 milliards pour dépolluer l'eau potable",
-      "titre_en": "Pollution: 5.7 billion to clean drinking water",
-      "titre_zh": "污染：57亿欧元净化饮用水",
-      "titre_ru": "Загрязнение воды: очистка от пестицидов и PFAS обойдется в 5,7 млрд евро в год",
-      "titre_fa": "آلودگی آب: پاکسازی از سموم و PFAS سالانه ۵.۷ میلیارد یورو هزینه دارد",
-      "titre_ar": "تلوث المياه: تنقية المياه من المبيدات والمواد الكيميائية PFAS قد تكلف 5.7 مليار يورو سنوياً",
-      "titre_original": "Pollution : Décontaminer l’eau potable des pesticides et PFAS pourrait coûter 5,7 milliards d’euros par an",
-      "resume": "Un rapport interministériel révèle que la dépollution de l’eau potable contre les PFAS et les pesticides coûterait jusqu’à 5,7 milliards d’euros par an. Cette estimation souligne l’ampleur des investissements nécessaires pour respecter les normes sanitaires. Les collectivités locales et les consommateurs pourraient supporter une partie de cette charge financière.",
-      "resume_en": "An interministerial report reveals that cleaning drinking water from PFAS and pesticides could cost up to €5.7 billion annually. This estimate highlights the massive investments required to meet health standards. Local authorities and consumers may bear part of this financial burden.",
-      "resume_zh": "一个部际报告显示，净化饮用水中的PFAS和农药每年可能耗资高达57亿欧元。这一估算凸显了满足健康标准所需的巨额投资。地方当局和消费者可能承担部分经济负担。",
-      "resume_ru": "Межведомственный доклад, опубликованный в четверг, оценивает, что деконтаминация питьевой воды от PFAS и остатков пестицидов может потребовать дополнительных расходов до 5,7 миллиарда евро в год. Это связано с необходимостью модернизации систем водоочистки и внедрения новых технологий. Эксперты предупреждают о долгосрочных последствиях для здоровья населения при отсутствии мер.",
-      "resume_fa": "گزارشی میان‌دفتری که روز پنجشنبه منتشر شد، تخمین می‌زند که پاکسازی آب آشامیدنی از PFAS و باقی‌مانده سموم کشاورزی می‌تواند سالانه تا ۵.۷ میلیارد یورو هزینه اضافی در بر داشته باشد. این امر مستلزم نوسازی سیستم‌های تصفیه آب و به‌کارگیری فناوری‌های نوین است. کارشناسان در صورت عدم اقدام، از پیامدهای بلندمدت برای سلامت عمومی هشدار می‌دهند.",
-      "resume_ar": "أصدرت لجنة وزارية مشتركة تقريراً يوم الخميس تقدر فيه أن تنقية المياه من PFAS والمبيدات قد يتكلف ما يصل إلى 5.7 مليار يورو سنوياً. ويتطلب هذا الأمر تحديث أنظمة معالجة المياه واعتماد تقنيات جديدة. يحذر الخبراء من الآثار الصحية طويلة الأمد على السكان في حال عدم اتخاذ إجراءات فورية.",
-      "analyse_detaillee": "La pollution de l’eau par les pesticides et les PFAS s’inscrit dans un héritage industriel et agricole des décennies passées, marqué par l’usage massif de produits chimiques sans contrôle strict. Les enjeux principaux résident dans la préservation de la santé publique et la conformité aux réglementations européennes, de plus en plus strictes. Les causes profondes incluent l’agriculture intensive, les rejets industriels et l’absence de filtres adaptés dans les stations de traitement. À court terme, les coûts de dépollution pourraient peser sur les budgets des collectivités, entraînant des hausses de tarifs pour les usagers. À moyen terme, une amélioration de la qualité de l’eau pourrait réduire les dépenses de santé liées aux maladies chroniques. À long terme, la France pourrait devenir un leader en technologies de dépollution, mais au prix d’un endettement accru des acteurs publics. Les acteurs locaux, comme les agences de l’eau, réclament des subventions accrues, tandis que les industriels plaident pour des délais d’adaptation plus longs.",
-      "analyse_en": "Water pollution by pesticides and PFAS stems from decades of industrial and agricultural practices relying on unregulated chemical use. Key stakes include public health protection and compliance with increasingly stringent European regulations. Root causes include intensive farming, industrial discharges, and the lack of suitable filters in treatment plants. In the short term, cleanup costs could strain local budgets, leading to higher user fees. Medium-term improvements in water quality could reduce healthcare spending linked to chronic diseases. Long-term, France could emerge as a leader in pollution control technologies, but at the cost of increased public debt. Local actors like water agencies demand more subsidies, while industries advocate for longer adaptation periods.",
-      "analyse_zh": "饮用水中的农药和PFAS污染源于几十年来未受严格监管的化学品大量使用的工业和农业实践。主要影响包括公共健康保护和日益严格的欧盟法规合规。深层原因包括集约化农业、工业排放以及处理厂缺乏适当的过滤设备。短期内，净化成本可能加重地方预算压力，导致用户费用上涨。中期来看，水质改善可能降低与慢性疾病相关的医疗支出。长期而言，法国可能成为污染控制技术的领导者，但需以公共债务增加为代价。地方机构如水务局要求更多补贴，而工业界则呼吁更长的适应期。",
-      "analyse_ru": "Проблема загрязнения воды пестицидами и PFAS (веществами, устойчивыми к разложению) приобретает глобальный масштаб, что подтверждает межведомственный доклад Франции. Причины загрязнения связаны с интенсивным сельским хозяйством и промышленными выбросами, которые накапливаются в водных ресурсах. Последствия для здоровья включают риск онкологических заболеваний и нарушений эндокринной системы, что требует срочных мер. Перспективы зависят от инвестиций в инновационные технологии очистки и ужесточения нормативов. Позиции сторон разделяются: экологические организации требуют запрета PFAS, а власти сталкиваются с финансовыми и технологическими вызовами.",
-      "analyse_fa": "مسئله آلودگی آب از سموم کشاورزی و مواد شیمیایی PFAS (که تجزیه نمی‌شوند) ابعاد جهانی یافته و گزارش مشترک وزارتخانه‌های فرانسه آن را تأیید می‌کند. دلایل آلودگی به کشاورزی صنعتی و انتشار مواد زائد از صنایع بازمی‌گردد که در منابع آبی انباشته می‌شوند. پیامدهای بهداشتی شامل خطر ابتلا به سرطان و اختلالات غدد درون‌ریز است که نیازمند اقدامات فوری است. چشم‌اندازها به سرمایه‌گذاری در فناوری‌های نوین تصفیه و قوانین سخت‌گیرانه بستگی دارد. مواضع بازیگران متفاوت است: سازمان‌های محیط‌زیستی خواستار ممنوعیت PFAS هستند، در حالی که دولت با چالش‌های مالی و فناوری مواجه است.",
-      "analyse_ar": "أصبحت مشكلة تلوث المياه بالمبيدات والمواد الكيميائية PFAS (التي لا تتحلل) ذات أبعاد عالمية، كما أكدت thereon تقرير فرنسي مشترك بين الوزارات. ترتبط أسباب التلوث بالزراعة المكثفة والانبعاثات الصناعية التي تتراكم في الموارد المائية. تشمل العواقب الصحية خطر الإصابة بالسرطان واضطرابات الغدد الصماء، مما يستدعي اتخاذ إجراءات عاجلة. ترتبط الآفاق بالاستثمار في تقنيات معالجة مبتكرة وتشديد القوانين التنظيمية. تختلف مواقف الأطراف: فالمنظمات البيئية تطالب بحظر PFAS، بينما تواجه السلطات تحديات مالية وتكنولوجية.",
+      "id": "pol_env_596883",
+      "titre": "Pesticides : sociétés savantes contre loi agricole",
+      "titre_en": "Scientific bodies challenge emergency farm law",
+      "titre_zh": "科学家抨击紧急农业法",
+      "titre_ru": "Научные общества требуют отменить аграрный закон",
+      "titre_fa": "جامعه علمی خواستار لغو قانون اضطراری کشاورزی شد",
+      "titre_ar": "الجمعيات العلمية تطالب بإلغاء قانون الطوارئ الزراعي",
+      "titre_original": "Pesticides : ces sociétés savantes demandent au Conseil constitutionnel de censurer la loi agricole d’urgence",
+      "resume": "Plusieurs sociétés savantes ont adressé une contribution au Conseil constitutionnel pour demander l'annulation d'un article de la loi agricole d'urgence. Cet article permettrait la réintroduction de pesticides controversés comme l'acétamipride. Les experts dénoncent un recul des normes environnementales et sanitaires.",
+      "resume_en": "Several scientific bodies submitted a contribution to the Constitutional Council to challenge an article in the emergency farm law. The article could reintroduce controversial pesticides like acetamipride. Experts warn of a setback in environmental and health standards.",
+      "resume_zh": "多个科学团体向宪法委员会提交意见书，要求废除紧急农业法中的一项条款。该条款可能重新引入争议农药如吡虫啉。专家警告环保与健康标准倒退。",
+      "resume_ru": "Научные общества Франции обратились к Конституционному совету с просьбой отменить срочный аграрный закон. В тексте закона, по их мнению, содержится норма, позволяющая вернуть запрещённые пестициды, включая ацетамиприд. Эксперты считают это угрозой для здоровья и окружающей среды.",
+      "resume_fa": "جامعه علمی فرانسه از شورای قانون اساسی خواسته تا قانون اضطراری کشاورزی را لغو کند. بر اساس این قانون، استفاده از برخی آفت‌کش‌های controversial از جمله استامپیرید مجدداً مجاز می‌شود. کارشناسان این اقدام را تهدیدی برای سلامت عمومی و محیط زیست می‌دانند.",
+      "resume_ar": "الجمعيات العلمية الفرنسية تطالبت المجلس الدستوري بإلغاء قانون الطوارئ الزراعي. ينص القانون على إعادة السماح باستخدام مبيدات حشرية مثيرة للجدل، بما في ذلك الأسيتامبريد. ويرى الخبراء أن هذا يمثل خطراً على الصحة العامة والبيئة.",
+      "analyse_detaillee": "La loi agricole d'urgence s'inscrit dans un contexte de tensions entre productivité agricole et protection environnementale en France. L'article controversé reflète une volonté politique de flexibiliser les règles sur les pesticides, malgré les alertes scientifiques. L'acétamipride, déjà interdit en Europe pour ses risques pour les abeilles, symbolise cette régression. À court terme, cette mesure pourrait fragiliser la biodiversité et la santé publique. À moyen terme, elle risque d'affaiblir la crédibilité de la France dans les négociations internationales sur le climat. Long terme, elle pourrait entraîner une dépendance accrue aux pesticides et une perte de souveraineté alimentaire. Les sociétés savantes, comme l'Académie nationale de médecine, s'opposent fermement à ce texte. Les agriculteurs et industriels du secteur défendent cette loi pour maintenir leur compétitivité.",
+      "analyse_en": "The emergency farm law comes amid ongoing tensions between agricultural productivity and environmental protection in France. The controversial article reflects a political will to relax pesticide regulations, despite scientific warnings. Acetamipride, already banned in Europe for its risks to bees, epitomizes this regression. In the short term, this measure could weaken biodiversity and public health. In the medium term, it risks undermining France's credibility in international climate negotiations. Long-term, it could lead to increased pesticide dependency and a loss of food sovereignty. Scientific bodies, such as the National Academy of Medicine, strongly oppose this law. Farmers and industry stakeholders defend it to maintain competitiveness.",
+      "analyse_zh": "紧急农业法在法国农业生产与环境保护的矛盾背景下出台。争议条款反映出政治意愿放宽农药管制，尽管科学界发出警告。吡虫啉因对蜜蜂的风险已在欧洲禁用，成为这种倒退的象征。短期内，该措施可能削弱生物多样性与公共健康。中期看，可能损害法国在国际气候谈判中的信誉。长期则可能导致对农药依赖加深与粮食主权丧失。科学团体如国家医学院强烈反对该法。农民与行业利益相关者为维护竞争力而支持该法。",
+      "analyse_ru": "Контекст ситуации связан с давним противостоянием между агропромышленным лобби и экологами во Франции. Причины обращения научных обществ к Конституционному совету кроются в угрозе отмены запретов на опасные химикаты, что может усугубить экологический кризис. Последствия принятия закона могут включать рост заболеваний, связанных с пестицидами, и деградацию почв. Перспективы зависят от решения Совета: если закон будет отменён, это укрепит позиции защитников окружающей среды. Позиции сторон резко поляризованы: аграрии настаивают на необходимости повышения урожайности, а учёные и экологи требуют соблюдения принципов устойчивого развития.",
+      "analyse_fa": "زمینه این موضوع به تضاد دیرینه میان لابی کشاورزی و محیط‌زیست‌گرایان در فرانسه بازمی‌گردد. دلیل درخواست جامعه علمی از شورای قانون اساسی، خطر لغو ممنوعیت استفاده از آفت‌کش‌های خطرناک است که می‌تواند بحران محیط‌زیستی را تشدید کند. پیامدهای تصویب این قانون شامل افزایش بیماری‌های مرتبط با سموم و تخریب خاک خواهد بود. چشم‌اندازها به تصمیم شورای قانون اساسی بستگی دارد: در صورت لغو قانون، موضع محیط‌زیست‌گرایان تقویت می‌شود. مواضع طرفین کاملاً متضاد است: کشاورزان بر افزایش بهره‌وری تأکید دارند، در حالی که دانشمندان و محیط‌زیست‌گرایان خواستار پایبندی به توسعه پایدار هستند.",
+      "analyse_ar": "يرتبط السياق بمعارضة طويلة الأمد بين لوبي الزراعة والصحة البيئية في فرنسا. أسباب طلب الجمعيات العلمية من المجلس الدستوري هي خطر إلغاء الحظر على المبيدات الخطيرة، مما قد يزيد من الأزمة البيئية. عواقب إقرار القانون تشمل ارتفاع الأمراض المرتبطة بالمبيدات وتلوث التربة. الآفاق تعتمد على قرار المجلس: إذا تم إلغاء القانون، ستتعزز مواقف المدافعين عن البيئة. المواقف متضاربة بشدة: يدافع المزارعون عن ضرورة زيادة الإنتاج، بينما يطالب العلماء والبيئيون باحترام مبادئ التنمية المستدامة.",
       "categorie": "Environnement",
-      "source": "20 Minutes",
-      "url": "https://www.20minutes.fr/planete/4237258-20260731-pollution-decontaminer-eau-potable-pesticides-pfas-pourrait-couter-5-7-milliards-euros-an",
-      "image": "https://img.20mn.fr/umS-6wuBSV6CgnZEA35Ysik/1444x920_credit-obligatoire-photo-de-maureen-mc-lean-shutterstock-13921849p-eaux-usees-et-debris-vegetaux-sur-la-riviere-jubilee-a-dorney-reach-dans-le-buckinghamshire-un-endroit-prise-des-nageurs-sauvages-l-eau-de-la-tamise-se-jette-dans-la-riviere-jubilee-un-programme-d-attenuation-des-inondations-qui-aide-a-stopper-les-inondations-de-maidenhead-eton-et-windsor-les-compagnies-des-eaux-ont-presente-leurs-excuses-cette-semaine-pour-la-quantite-d-eaux-usees-rejetees-dans-les-rivieres-et-la-mer-en-angleterre-aujourd-hui-surfers-against-sewage-organise-des-manifestations-contre-les-points-chauds-de-pollution-cotiere-en-angleterre-pollution-des-eaux-usees-sur-la-riviere-jubilee-dorney-reach-buckinghamshire-royaume-uni-20-mai-2023-shutterstock-editorial-sewage-pollution-on-jubilee-ri-13921849p-2305201343",
-      "date": "2026-07-31",
+      "source": "Le HuffPost",
+      "url": "https://www.huffingtonpost.fr/politique/article/pesticides-ces-societes-savantes-demandent-au-conseil-constitutionnel-de-censurer-la-loi-agricole-d-urgence_298256.html",
+      "image": "https://focus.huffingtonpost.fr/2026/06/29/0/0/4096/2304/1820/1023/75/0/0e23841_upload-1-otzm04ddbwtc-gettyimages-833284634.jpg",
+      "date": "2026-08-02",
       "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Agences de l'eau",
+          "label": "▲ Secteur agrochimique",
           "hausse": true
         },
         {
-          "label": "▼ Ménages (consommateurs)",
+          "label": "▼ Secteur bancaire et assurances",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Agences de l'eau",
-          "secteur_en": "Water agencies",
-          "secteur_zh": "水务局",
-          "effet_fr": "Les agences de l'eau devront mobiliser des fonds supplémentaires pour financer les infrastructures de dépollution, risquant de réduire leurs budgets alloués à d'autres projets environnementaux.",
-          "effet_en": "Water agencies will need to allocate additional funds for cleanup infrastructure, potentially reducing budgets for other environmental projects.",
-          "effet_zh": "水务局将需要调拨更多资金用于净化基础设施，可能减少用于其他环保项目的预算。",
+          "secteur_fr": "Secteur agrochimique",
+          "secteur_en": "Agrochemical sector",
+          "secteur_zh": "农用化学品行业",
+          "effet_fr": "La réintroduction de pesticides controversés pourrait relancer les ventes des géants comme Bayer ou Syngenta, mais expose le secteur à des risques juridiques et réputationnels accrus.",
+          "effet_en": "The reintroduction of controversial pesticides could boost sales for giants like Bayer or Syngenta but exposes the sector to increased legal and reputational risks.",
+          "effet_zh": "重新引入争议农药可能推动拜耳或先正达等巨头销售，但令行业面临更大法律与声誉风险。",
           "hausse": true
         },
         {
-          "secteur_fr": "Ménages (consommateurs)",
-          "secteur_en": "Households (consumers)",
-          "secteur_zh": "家庭（消费者）",
-          "effet_fr": "Les ménages pourraient subir une hausse des factures d’eau en raison des coûts de dépollution répercutés par les collectivités locales.",
-          "effet_en": "Households may face higher water bills as local authorities pass on cleanup costs.",
-          "effet_zh": "家庭可能面临更高的水费，因为地方当局将净化成本转嫁给用户。",
+          "secteur_fr": "Secteur bancaire et assurances",
+          "secteur_en": "Banking and insurance sector",
+          "secteur_zh": "银行与保险行业",
+          "effet_fr": "Les banques et assureurs pourraient subir une hausse des coûts liés aux litiges environnementaux et à la dégradation de leur image ESG en cas de censure de la loi.",
+          "effet_en": "Banks and insurers could face higher costs from environmental lawsuits and a deterioration of their ESG image if the law is struck down.",
+          "effet_zh": "若该法被废除，银行与保险公司可能因环境诉讼与ESG形象受损而承担更高成本。",
           "hausse": false
         }
       ],
-      "created_at": "2026-08-03T16:25:01.416205",
+      "created_at": "2026-08-03T18:51:46.938130",
       "sous_categorie": "environnement"
     },
     {
@@ -6376,6 +6376,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_866165",
+      "titre": "Pollution : 5,7 milliards pour dépolluer l'eau potable",
+      "titre_en": "Pollution: 5.7 billion to clean drinking water",
+      "titre_zh": "污染：57亿欧元净化饮用水",
+      "titre_ru": "Загрязнение воды: очистка от пестицидов и PFAS обойдется в 5,7 млрд евро в год",
+      "titre_fa": "آلودگی آب: پاکسازی از سموم و PFAS سالانه ۵.۷ میلیارد یورو هزینه دارد",
+      "titre_ar": "تلوث المياه: تنقية المياه من المبيدات والمواد الكيميائية PFAS قد تكلف 5.7 مليار يورو سنوياً",
+      "titre_original": "Pollution : Décontaminer l’eau potable des pesticides et PFAS pourrait coûter 5,7 milliards d’euros par an",
+      "resume": "Un rapport interministériel révèle que la dépollution de l’eau potable contre les PFAS et les pesticides coûterait jusqu’à 5,7 milliards d’euros par an. Cette estimation souligne l’ampleur des investissements nécessaires pour respecter les normes sanitaires. Les collectivités locales et les consommateurs pourraient supporter une partie de cette charge financière.",
+      "resume_en": "An interministerial report reveals that cleaning drinking water from PFAS and pesticides could cost up to €5.7 billion annually. This estimate highlights the massive investments required to meet health standards. Local authorities and consumers may bear part of this financial burden.",
+      "resume_zh": "一个部际报告显示，净化饮用水中的PFAS和农药每年可能耗资高达57亿欧元。这一估算凸显了满足健康标准所需的巨额投资。地方当局和消费者可能承担部分经济负担。",
+      "resume_ru": "Межведомственный доклад, опубликованный в четверг, оценивает, что деконтаминация питьевой воды от PFAS и остатков пестицидов может потребовать дополнительных расходов до 5,7 миллиарда евро в год. Это связано с необходимостью модернизации систем водоочистки и внедрения новых технологий. Эксперты предупреждают о долгосрочных последствиях для здоровья населения при отсутствии мер.",
+      "resume_fa": "گزارشی میان‌دفتری که روز پنجشنبه منتشر شد، تخمین می‌زند که پاکسازی آب آشامیدنی از PFAS و باقی‌مانده سموم کشاورزی می‌تواند سالانه تا ۵.۷ میلیارد یورو هزینه اضافی در بر داشته باشد. این امر مستلزم نوسازی سیستم‌های تصفیه آب و به‌کارگیری فناوری‌های نوین است. کارشناسان در صورت عدم اقدام، از پیامدهای بلندمدت برای سلامت عمومی هشدار می‌دهند.",
+      "resume_ar": "أصدرت لجنة وزارية مشتركة تقريراً يوم الخميس تقدر فيه أن تنقية المياه من PFAS والمبيدات قد يتكلف ما يصل إلى 5.7 مليار يورو سنوياً. ويتطلب هذا الأمر تحديث أنظمة معالجة المياه واعتماد تقنيات جديدة. يحذر الخبراء من الآثار الصحية طويلة الأمد على السكان في حال عدم اتخاذ إجراءات فورية.",
+      "analyse_detaillee": "La pollution de l’eau par les pesticides et les PFAS s’inscrit dans un héritage industriel et agricole des décennies passées, marqué par l’usage massif de produits chimiques sans contrôle strict. Les enjeux principaux résident dans la préservation de la santé publique et la conformité aux réglementations européennes, de plus en plus strictes. Les causes profondes incluent l’agriculture intensive, les rejets industriels et l’absence de filtres adaptés dans les stations de traitement. À court terme, les coûts de dépollution pourraient peser sur les budgets des collectivités, entraînant des hausses de tarifs pour les usagers. À moyen terme, une amélioration de la qualité de l’eau pourrait réduire les dépenses de santé liées aux maladies chroniques. À long terme, la France pourrait devenir un leader en technologies de dépollution, mais au prix d’un endettement accru des acteurs publics. Les acteurs locaux, comme les agences de l’eau, réclament des subventions accrues, tandis que les industriels plaident pour des délais d’adaptation plus longs.",
+      "analyse_en": "Water pollution by pesticides and PFAS stems from decades of industrial and agricultural practices relying on unregulated chemical use. Key stakes include public health protection and compliance with increasingly stringent European regulations. Root causes include intensive farming, industrial discharges, and the lack of suitable filters in treatment plants. In the short term, cleanup costs could strain local budgets, leading to higher user fees. Medium-term improvements in water quality could reduce healthcare spending linked to chronic diseases. Long-term, France could emerge as a leader in pollution control technologies, but at the cost of increased public debt. Local actors like water agencies demand more subsidies, while industries advocate for longer adaptation periods.",
+      "analyse_zh": "饮用水中的农药和PFAS污染源于几十年来未受严格监管的化学品大量使用的工业和农业实践。主要影响包括公共健康保护和日益严格的欧盟法规合规。深层原因包括集约化农业、工业排放以及处理厂缺乏适当的过滤设备。短期内，净化成本可能加重地方预算压力，导致用户费用上涨。中期来看，水质改善可能降低与慢性疾病相关的医疗支出。长期而言，法国可能成为污染控制技术的领导者，但需以公共债务增加为代价。地方机构如水务局要求更多补贴，而工业界则呼吁更长的适应期。",
+      "analyse_ru": "Проблема загрязнения воды пестицидами и PFAS (веществами, устойчивыми к разложению) приобретает глобальный масштаб, что подтверждает межведомственный доклад Франции. Причины загрязнения связаны с интенсивным сельским хозяйством и промышленными выбросами, которые накапливаются в водных ресурсах. Последствия для здоровья включают риск онкологических заболеваний и нарушений эндокринной системы, что требует срочных мер. Перспективы зависят от инвестиций в инновационные технологии очистки и ужесточения нормативов. Позиции сторон разделяются: экологические организации требуют запрета PFAS, а власти сталкиваются с финансовыми и технологическими вызовами.",
+      "analyse_fa": "مسئله آلودگی آب از سموم کشاورزی و مواد شیمیایی PFAS (که تجزیه نمی‌شوند) ابعاد جهانی یافته و گزارش مشترک وزارتخانه‌های فرانسه آن را تأیید می‌کند. دلایل آلودگی به کشاورزی صنعتی و انتشار مواد زائد از صنایع بازمی‌گردد که در منابع آبی انباشته می‌شوند. پیامدهای بهداشتی شامل خطر ابتلا به سرطان و اختلالات غدد درون‌ریز است که نیازمند اقدامات فوری است. چشم‌اندازها به سرمایه‌گذاری در فناوری‌های نوین تصفیه و قوانین سخت‌گیرانه بستگی دارد. مواضع بازیگران متفاوت است: سازمان‌های محیط‌زیستی خواستار ممنوعیت PFAS هستند، در حالی که دولت با چالش‌های مالی و فناوری مواجه است.",
+      "analyse_ar": "أصبحت مشكلة تلوث المياه بالمبيدات والمواد الكيميائية PFAS (التي لا تتحلل) ذات أبعاد عالمية، كما أكدت thereon تقرير فرنسي مشترك بين الوزارات. ترتبط أسباب التلوث بالزراعة المكثفة والانبعاثات الصناعية التي تتراكم في الموارد المائية. تشمل العواقب الصحية خطر الإصابة بالسرطان واضطرابات الغدد الصماء، مما يستدعي اتخاذ إجراءات عاجلة. ترتبط الآفاق بالاستثمار في تقنيات معالجة مبتكرة وتشديد القوانين التنظيمية. تختلف مواقف الأطراف: فالمنظمات البيئية تطالب بحظر PFAS، بينما تواجه السلطات تحديات مالية وتكنولوجية.",
+      "categorie": "Environnement",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/planete/4237258-20260731-pollution-decontaminer-eau-potable-pesticides-pfas-pourrait-couter-5-7-milliards-euros-an",
+      "image": "https://img.20mn.fr/umS-6wuBSV6CgnZEA35Ysik/1444x920_credit-obligatoire-photo-de-maureen-mc-lean-shutterstock-13921849p-eaux-usees-et-debris-vegetaux-sur-la-riviere-jubilee-a-dorney-reach-dans-le-buckinghamshire-un-endroit-prise-des-nageurs-sauvages-l-eau-de-la-tamise-se-jette-dans-la-riviere-jubilee-un-programme-d-attenuation-des-inondations-qui-aide-a-stopper-les-inondations-de-maidenhead-eton-et-windsor-les-compagnies-des-eaux-ont-presente-leurs-excuses-cette-semaine-pour-la-quantite-d-eaux-usees-rejetees-dans-les-rivieres-et-la-mer-en-angleterre-aujourd-hui-surfers-against-sewage-organise-des-manifestations-contre-les-points-chauds-de-pollution-cotiere-en-angleterre-pollution-des-eaux-usees-sur-la-riviere-jubilee-dorney-reach-buckinghamshire-royaume-uni-20-mai-2023-shutterstock-editorial-sewage-pollution-on-jubilee-ri-13921849p-2305201343",
+      "date": "2026-07-31",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Agences de l'eau",
+          "hausse": true
+        },
+        {
+          "label": "▼ Ménages (consommateurs)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Agences de l'eau",
+          "secteur_en": "Water agencies",
+          "secteur_zh": "水务局",
+          "effet_fr": "Les agences de l'eau devront mobiliser des fonds supplémentaires pour financer les infrastructures de dépollution, risquant de réduire leurs budgets alloués à d'autres projets environnementaux.",
+          "effet_en": "Water agencies will need to allocate additional funds for cleanup infrastructure, potentially reducing budgets for other environmental projects.",
+          "effet_zh": "水务局将需要调拨更多资金用于净化基础设施，可能减少用于其他环保项目的预算。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Ménages (consommateurs)",
+          "secteur_en": "Households (consumers)",
+          "secteur_zh": "家庭（消费者）",
+          "effet_fr": "Les ménages pourraient subir une hausse des factures d’eau en raison des coûts de dépollution répercutés par les collectivités locales.",
+          "effet_en": "Households may face higher water bills as local authorities pass on cleanup costs.",
+          "effet_zh": "家庭可能面临更高的水费，因为地方当局将净化成本转嫁给用户。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-08-03T16:25:01.416205",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_152521",
       "titre": "Daikin utilise un PFAS controversé près de Lyon",
       "titre_en": "Daikin to use controversial PFAS near Lyon",
@@ -6613,66 +6673,6 @@
         }
       ],
       "created_at": "2026-08-03T03:30:09.554688",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_175649",
-      "titre": "Haemers Technologies répare les sols contaminés",
-      "titre_en": "Haemers Technologies cleans contaminated soils",
-      "titre_zh": "Haemers Technologies修复污染土壤",
-      "titre_ru": "Haemers Technologies: инновации для очистки земли",
-      "titre_fa": "Haemers Technologies: فناوری‌های نوآورانه برای پاکسازی خاک",
-      "titre_ar": "Haemers Technologies: تقنيات مبتكرة لإعادة تأهيل الأراضي",
-      "titre_original": "Haemers Technologies, génie ingénieux qui répare la terre",
-      "resume": "L'entreprise belge Haemers Technologies utilise des technologies brevetées pour dépolluer les sols contaminés par des substances toxiques comme les PFAS, les hydrocarbures ou l'agent orange. Ses méthodes innovantes permettent de restaurer des terrains autrefois considérés comme irréversiblement pollués. Cette approche s'inscrit dans une démarche de développement durable et de réhabilitation environnementale.",
-      "resume_en": "Belgian company Haemers Technologies employs patented technologies to remediate soils contaminated by toxic substances such as PFAS, hydrocarbons, or Agent Orange. Its innovative methods restore lands once deemed irreversibly polluted. This approach aligns with sustainable development and environmental rehabilitation goals.",
-      "resume_zh": "比利时公司Haemers Technologies使用专利技术修复被PFAS、碳氢化合物或橙剂等有毒物质污染的土壤。其创新方法能恢复曾被认为无法逆转污染的土地。这一做法符合可持续发展和环境修复目标。",
-      "resume_ru": "Бельгийская компания Haemers Technologies разрабатывает и внедряет запатентованные технологии для очистки загрязнённых почв. Её методы позволяют бороться с такими опасными загрязнителями, как PFAS, углеводороды и агент Оранж. Проекты компании помогают восстановить земли, ранее считавшиеся непригодными для использования.",
-      "resume_fa": "شرکت بلژیکی Haemers Technologies فناوری‌های ثبت شده‌ای برای پاکسازی خاک‌های آلوده توسعه داده است. این شرکت با استفاده از روش‌های نوین، آلاینده‌هایی همچون PFAS، هیدروکربن‌ها و عامل نارنجی را از زمین‌ها حذف می‌کند. پروژه‌های این شرکت به احیای مناطقی کمک می‌کند که پیش از این غیرقابل استفاده تلقی می‌شدند.",
-      "resume_ar": "شركة Haemers Technologies البلجيكية طورت تقنيات مسجلة لإعادة تأهيل الأراضي الملوثة. تستخدم الشركة طرقاً مبتكرة للتخلص من ملوثات خطيرة مثل PFAS والهيدروكربونات وعامل البرتقال. تساهم مشاريع الشركة في استصلاح مناطق كانت تعتبر سابقاً غير صالحة للاستخدام.",
-      "analyse_detaillee": "Haemers Technologies s'inscrit dans une tradition belge d'innovation environnementale, notamment dans le secteur des technologies vertes. Les enjeux principaux concernent la dépollution des sols, un défi croissant avec l'industrialisation et l'usage de produits chimiques persistants. Les causes profondes incluent la pollution historique des sites industriels et militaires, ainsi que l'absence de solutions efficaces jusqu'à présent. À court terme, cette technologie pourrait réduire les coûts de dépollution et accélérer la réhabilitation des terrains. À moyen terme, elle pourrait influencer les politiques environnementales en Europe et ailleurs. À long terme, elle pourrait contribuer à la neutralité carbone en limitant l'artificialisation des sols. Les acteurs locaux et internationaux, notamment les gouvernements et les investisseurs, voient cette innovation comme une opportunité majeure. Les concurrents du secteur pourraient aussi être incités à innover.",
-      "analyse_en": "Haemers Technologies builds on Belgium's tradition of environmental innovation, particularly in green technologies. The main stakes involve soil remediation, a growing challenge due to industrialization and the use of persistent chemicals. Root causes include historical pollution from industrial and military sites, as well as the lack of effective solutions until now. In the short term, this technology could reduce remediation costs and speed up land rehabilitation. In the medium term, it could influence environmental policies in Europe and beyond. Long-term prospects include contributing to carbon neutrality by limiting soil artificialization. Local and international actors, including governments and investors, view this innovation as a major opportunity. Competitors in the sector may also be encouraged to innovate.",
-      "analyse_zh": "Haemers Technologies延续了比利时在环保创新领域的传统，特别是绿色技术。主要挑战在于土壤修复，这是工业化和持久性化学品使用带来的日益严峻问题。深层原因包括工业和军事遗留污染以及缺乏有效解决方案。短期内，这项技术可能降低修复成本并加速土地再利用。中期来看，它可能影响欧洲及其他地区的环保政策。长期前景包括通过限制土壤人工化为碳中和做贡献。地方和国际行动者，包括政府和投资者，将其视为重大机遇。同行业竞争对手也可能受到鼓励进行创新。",
-      "analyse_ru": "Компания Haemers Technologies работает в нише экологических технологий, где остро стоит вопрос загрязнения почв токсичными веществами. Причины загрязнения связаны с промышленной деятельностью, военными действиями и неконтролируемыми выбросами химикатов. Последствия таких загрязнений включают ухудшение здоровья населения, потерю биоразнообразия и экономические убытки. Перспективы компании зависят от роста спроса на экологически чистые технологии и поддержки государства. Позиции сторон разнятся: экологические организации приветствуют инновации, а промышленные предприятия могут сопротивляться из-за высоких затрат на внедрение.",
-      "analyse_fa": "شرکت Haemers Technologies در حوزه فناوری‌های زیست‌محیطی فعالیت می‌کند، جایی که آلودگی خاک‌ها با مواد سمی یک چالش جدی است. دلایل آلودگی به فعالیت‌های صنعتی، جنگ‌ها و انتشار کنترل‌نشده مواد شیمیایی بازمی‌گردد. پیامدهای این آلودگی شامل آسیب به سلامت عمومی، کاهش تنوع زیستی و زیان‌های اقتصادی است. چشم‌انداز شرکت به رشد تقاضا برای فناوری‌های پاک و حمایت دولتی بستگی دارد. موضع بازیگران متفاوت است: سازمان‌های زیست‌محیطی از نوآوری‌ها استقبال می‌کنند، در حالی که شرکت‌های صنعتی به دلیل هزینه‌های بالای پیاده‌سازی ممکن است مقاومت کنند.",
-      "analyse_ar": "شركة Haemers Technologies تعمل في مجال التقنيات البيئية، حيث تشكل التربة الملوثة بمواد سامة تحدياً كبيراً. ترتبط أسباب التلوث بالنشاط الصناعي والحروب وانبعاث المواد الكيميائية دون رقابة. تشمل عواقب هذا التلوث تدهور صحة السكان وفقدان التنوع البيولوجي والخسائر الاقتصادية. تعتمد آفاق الشركة على زيادة الطلب على التقنيات النظيفة ودعم الدولة. تختلف مواقف الأطراف: فالمؤسسات البيئية ترحب بالابتكارات، بينما قد تقاوم الشركات الصناعية بسبب التكاليف المرتفعة للتنفيذ.",
-      "categorie": "Environnement",
-      "source": "Courrier International",
-      "url": "https://www.courrierinternational.com/article/environnement-haemers-technologies-genie-ingenieux-qui-repare-la-terre_247164",
-      "image": "https://focus.courrierinternational.com/2026/07/07/0/0/2967/1978/1200/630/60/0/c55f520_upload-1-kkyhx3wv6rra-martirena-2022-07-22-8484-w.jpg",
-      "date": "2026-08-01",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Secteur des assurances environnementales",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des obligations vertes",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Secteur des assurances environnementales",
-          "secteur_en": "Environmental insurance sector",
-          "secteur_zh": "环境保险行业",
-          "effet_fr": "La réduction des risques de pollution pourrait diminuer les primes d'assurance pour les entreprises industrielles et agricoles.",
-          "effet_en": "Reduced pollution risks could lower insurance premiums for industrial and agricultural companies.",
-          "effet_zh": "污染风险降低可能降低工业和农业公司的保险费用。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des obligations vertes",
-          "secteur_en": "Green bonds market",
-          "secteur_zh": "绿色债券市场",
-          "effet_fr": "Les projets de dépollution pourraient attirer des investissements massifs dans les obligations vertes, boostant ce marché.",
-          "effet_en": "Pollution remediation projects could attract massive investments in green bonds, boosting this market.",
-          "effet_zh": "污染修复项目可能吸引大量绿色债券投资，推动该市场发展。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-08-02T23:59:29.439951",
       "sous_categorie": "environnement"
     }
   ]
