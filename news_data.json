@@ -1,7 +1,66 @@
 {
-  "last_updated": "04/08/2026 à 20h23",
+  "last_updated": "04/08/2026 à 22h11",
   "articles": {
     "monde": [
+      {
+        "id": "monde_99853",
+        "titre": "Les marchés boursiers battent des records",
+        "titre_en": "Stock markets hit record highs",
+        "titre_zh": "股市创历史新高",
+        "titre_ru": "Рыночные новости: рекорды на фондовом рынке",
+        "titre_fa": "اخبار بازار: رکوردهای جدید در بورس",
+        "titre_ar": "أخبار السوق: أرقام قياسية في البورصة",
+        "titre_original": "Stock market today: Live updates",
+        "resume": "Les principaux indices boursiers mondiaux ont atteint des records lundi, avec le Dow Jones à un sommet historique. Amazon a dépassé pour la première fois les 3 000 milliards de dollars de capitalisation. Cette hausse reflète une confiance retrouvée des investisseurs dans l’économie.",
+        "resume_en": "Major global stock indices surged on Monday, with the Dow Jones closing at a record high. Amazon surpassed $3 trillion in market capitalization for the first time. This rise reflects renewed investor confidence in the economy.",
+        "resume_zh": "周一，主要全球股指大涨，道琼斯指数收于历史高点。亚马逊首次超过3万亿美元市值。此次上涨反映了投资者对经济的信心恢复。",
+        "resume_ru": "Основные фондовые индексы США выросли в понедельник, установив новые рекорды. Индекс Dow Jones достиг исторического максимума. Компания Amazon впервые превысила капитализацию в 3 триллиона долларов.",
+        "resume_fa": "شاخص‌های اصلی بورس آمریکا در روز دوشنبه رشد کردند و رکوردهای جدیدی ثبت کردند. شاخص داو جونز به بالاترین سطح تاریخی خود رسید. شرکت آمازون برای نخستین بار از مرز ۳ تریلیون دلار سرمایه‌گذاری عبور کرد.",
+        "resume_ar": "ارتفعت المؤشرات الرئيسية للبورصة الأمريكية يوم الاثنين مسجلة أرقاما قياسية جديدة. ووصل مؤشر داو جونز إلى أعلى مستوى تاريخي له. وتخطت شركة أمازون لأول مرة حاجز 3 تريليونات دولار من رأس المال السوقي.",
+        "analyse_detaillee": "Cette performance s’inscrit dans un contexte de reprise économique post-pandémie, marquée par des politiques monétaires accommodantes et des injections massives de liquidités. Les enjeux principaux incluent la durabilité de cette croissance et les risques de bulles spéculatives. Les causes profondes remontent à la digitalisation accélérée et à la domination des géants technologiques comme Amazon. À court terme, cette hausse pourrait stimuler la consommation et l’investissement. À moyen terme, elle pourrait accentuer les inégalités entre les secteurs traditionnels et technologiques. À long terme, une correction brutale des marchés pourrait menacer la stabilité financière mondiale. Les acteurs concernés incluent les banques centrales, les fonds d’investissement et les régulateurs boursiers.",
+        "analyse_en": "This performance fits into a context of post-pandemic economic recovery, marked by accommodative monetary policies and massive liquidity injections. The main stakes include the sustainability of this growth and the risks of speculative bubbles. The root causes trace back to accelerated digitalization and the dominance of tech giants like Amazon. In the short term, this rise could boost consumption and investment. In the medium term, it could widen inequalities between traditional and tech sectors. In the long term, a sharp market correction could threaten global financial stability. Key actors include central banks, investment funds, and stock market regulators.",
+        "analyse_zh": "此表现发生在疫情后经济复苏的背景下，特征是宽松的货币政策和大规模流动性注入。主要影响包括此增长的可持续性和投机泡沫的风险。深层原因可追溯到加速数字化和亚马逊等科技巨头的主导地位。短期内，此上涨可能刺激消费和投资。中期来看，可能加剧传统行业与科技行业之间的不平等。长期前景，市场的急剧调整可能威胁全球金融稳定。相关行为者包括央行、投资基金和股市监管机构。",
+        "analyse_ru": "Рост рынков связан с оптимизмом инвесторов по поводу экономического восстановления и технологического бума. Причины включают ожидания снижения процентных ставок и рост прибылей крупных корпораций. Последствия могут быть как позитивными для экономики, так и риском перегрева рынков. Перспективы зависят от макроэкономической стабильности и геополитических факторов. Аналитики предупреждают о возможном коррекционном спаде из-за высокой волатильности.",
+        "analyse_fa": "رشد بازارها به خوش‌بینی سرمایه‌گذاران درباره بهبود اقتصادی و رونق فناوری مربوط می‌شود. دلایل شامل انتظار کاهش نرخ بهره و افزایش سود شرکت‌های بزرگ است. پیامدها می‌تواند هم برای اقتصاد مثبت باشد و هم خطر بیش‌ازحد داغ شدن بازارها. چشم‌انداز به ثبات کلان اقتصادی و عوامل ژئوپلیتیکی بستگی دارد. کارشناسان از احتمال سقوط اصلاحی به دلیل نوسانات بالا هشدار می‌دهند.",
+        "analyse_ar": "يرتبط نمو الأسواق بتفاؤل المستثمرين بشأن التعافي الاقتصادي وازدهار التكنولوجيا. وتشمل الأسباب توقع خفض أسعار الفائدة وزيادة أرباح الشركات الكبرى. ويمكن أن تكون العواقب إيجابية للاقتصاد أو خطر ارتفاع درجة حرارة الأسواق. وتعتمد الآفاق على الاستقرار الاقتصادي الكلي والعوامل الجيوسياسية. ويحذر المحللون من احتمال حدوث هبوط تصحيحي بسبب التقلبات العالية.",
+        "categorie": "Économie et Marchés financiers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108303375-1778105775842-gettyimages-2274856200-anotherday210772784_aycjrgkr.jpeg?v=1778105970&w=1920&h=1080",
+        "date": "2026-08-03",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Technologie (Big Tech)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Banques centrales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologie (Big Tech)",
+            "secteur_en": "Technology (Big Tech)",
+            "secteur_zh": "科技（大型科技公司）",
+            "effet_fr": "La capitalisation record d’Amazon renforce la domination des géants technologiques, influençant les stratégies d’investissement et la valorisation des actifs.",
+            "effet_en": "Amazon’s record capitalization strengthens the dominance of tech giants, influencing investment strategies and asset valuation.",
+            "effet_zh": "亚马逊的创纪录市值巩固了科技巨头的主导地位，影响投资策略和资产估值。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Banques centrales",
+            "secteur_en": "Central banks",
+            "secteur_zh": "央行",
+            "effet_fr": "Les politiques monétaires accommodantes pourraient être remises en question si cette hausse spéculative persiste, risquant de déclencher des tensions inflationnistes.",
+            "effet_en": "Accommodative monetary policies could be questioned if this speculative rise persists, risking inflationary tensions.",
+            "effet_zh": "如果这种投机性上涨持续，宽松的货币政策可能受到质疑，存在引发通胀紧张的风险。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-04T22:11:01.606979"
+      },
       {
         "id": "monde_462119",
         "titre": "Deux femmes mènent la révolte contre FIFA",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-02T20:54:51.249323"
-      },
-      {
-        "id": "monde_168080",
-        "titre": "L'entraîneur des Giants critique Willy Adames",
-        "titre_en": "Giants coach criticizes Willy Adames",
-        "titre_zh": "巨人队教练批评威利·阿达姆斯",
-        "titre_ru": "Тренер «Гигантов» критикует Вилли Адамеса за слабую игру в защите",
-        "titre_fa": "مربی گیганتس از عدم تعهد دفاعی ویلی آدامز انتقاد کرد",
-        "titre_ar": "مدرب جيانتس ينتقد ويلي أدامز لعدم التزامه الدفاعي",
-        "titre_original": "Giants coach calls out Willy Adames for lack of defensive buy-in",
-        "resume": "Les San Francisco Giants, en difficulté sportive, voient leurs problèmes s'accumuler. Leur joueur Willy Adames est pointé du doigt par l'entraîneur pour son manque d'engagement défensif. Parallèlement, l'équipe a suspendu le salaire d'Harrison Bader après un accident de trottinette.",
-        "resume_en": "The San Francisco Giants, struggling in sports, face mounting issues. Player Willy Adames is criticized by the coach for his lack of defensive commitment. Meanwhile, the team suspended Harrison Bader's salary after a scooter accident.",
-        "resume_zh": "陷入困境的旧金山巨人队面临越来越多的问题。球员威利·阿达姆斯因防守投入不足受到教练批评。与此同时，球队因哈里森·巴德的电动滑板车事故暂停了其薪水。",
-        "resume_ru": "Команда «Сан-Франциско Джайентс» переживает неудачный сезон. Харрисон Бадер был отстранен от выплат после аварии на скутере. Тренер обвинил игрока в слабой защите.",
-        "resume_fa": "تیم سان فرانسیسکو جاینتس در فصل بدی به سر می‌برد. هریسون بادر پس از تصادف با اسکوترش به کامیون آتش‌نشانی، حقوقش تعلیق شد. مربی از عدم تعهد دفاعی ویلی آدامز انتقاد کرد.",
-        "resume_ar": "فريق سان فرانسيسكو جاينتس يمر بموسم سيئ. تم تعليق راتب هاريسون بادر بعد أن اصطدم دراجته النارية بشاحنة إطفاء. مدرب الفريق انتقد ويلي أدامز لعدم التزامه الدفاعي.",
-        "analyse_detaillee": "Les Giants traversent une saison désastreuse avec un bilan de 47 victoires pour 63 défaites, aggravé par des problèmes disciplinaires internes. L'entraîneur critique Adames pour son manque de rigueur défensive, un enjeu crucial en MLB où la défense influence directement les résultats. Les suspensions et accidents récents reflètent une gestion chaotique, potentiellement liée à des tensions internes ou à un manque de leadership. À court terme, cela pourrait aggraver les performances déjà médiocres et affecter le moral de l'équipe. À moyen terme, une instabilité persistante pourrait dissuader les talents de rejoindre le club ou nuire à sa réputation. Long terme, si la situation n'évolue pas, les Giants risquent de perdre leur statut de franchise historique. Les acteurs clés, comme la direction et les joueurs vedettes, doivent trouver des solutions pour inverser la tendance. La pression médiatique et des supporters pourrait aussi jouer un rôle dans les décisions futures.",
-        "analyse_en": "The Giants are enduring a disastrous season with a 47-63 record, compounded by internal disciplinary issues. The coach criticizes Adames for his lack of defensive rigor, a critical factor in MLB where defense directly impacts results. Recent suspensions and accidents reflect chaotic management, potentially linked to internal tensions or leadership failures. In the short term, this could worsen already poor performance and affect team morale. In the medium term, persistent instability could deter talent from joining or harm the club's reputation. Long-term, if the situation doesn't improve, the Giants risk losing their historic franchise status. Key actors, like management and star players, must find solutions to reverse the trend. Media and fan pressure could also influence future decisions.",
-        "analyse_zh": "巨人队正在经历一个灾难性的赛季，战绩仅为47胜63负，内部纪律问题雪上加霜。教练批评阿达姆斯防守不积极，这是影响MLB成绩的关键因素。近期的停赛和事故反映出管理混乱，可能与内部矛盾或领导层失职有关。短期内，这可能进一步恶化成绩并影响团队士气。中期来看，持续动荡可能阻止人才加入或损害俱乐部声誉。长期而言，若情况未改善，巨人队可能失去其历史传统球队的地位。管理层和明星球员等关键角色必须找到解决方案。媒体和球迷压力也可能影响未来决策。",
-        "analyse_ru": "Команда «Гигантов» находится в кризисе: проигрыши, скандалы и финансовые санкции. Харрисон Бадер, известный игрок, нарушил дисциплину, что усугубило положение команды. Тренер обвиняет Адамеса в отсутствии командного духа, что критично для защиты. Это может привести к дальнейшим изменениям в составе. Вопрос в том, сможет ли команда оправиться от череды неудач.",
-        "analyse_fa": "تیم جاینتس در بحران است: باخت‌ها، رسوایی‌ها و جریمه‌های مالی. هریسون بادر با رفتار ناپسند خود وضعیت را بدتر کرد. انتقاد مربی از آدامز نشان‌دهنده مشکلات داخلی است. این می‌تواند به تغییرات در ترکیب تیم منجر شود. سوال این است که آیا تیم می‌تواند از این بحران عبور کند.",
-        "analyse_ar": "فريق جاينتس في أزمة: خسائر متتالية، فضائح، وعقوبات مالية. هاريسون بادر تسبب في فضيحة بعد حادثته. انتقاد المدرب لأدامز يعكس مشاكل داخلية. قد يؤدي هذا إلى تغييرات في التشكيلة. السؤال هو ما إذا كان الفريق قادراً على تجاوز هذه الأزمة.",
-        "categorie": "Sport",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/01/sports/giants-coach-calls-out-willy-adames-for-lack-of-defensive-buy-in/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-8xoejbbka-1785603948374.jpg?quality=75&strip=all&1785589566&w=1200",
-        "date": "2026-08-01",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ sponsoring sportif",
-            "hausse": false
-          },
-          {
-            "label": "▼ marché des transferts",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "sponsoring sportif",
-            "secteur_en": "sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Les scandales répétés pourraient dissuader les sponsors de renouveler leurs partenariats, réduisant les revenus publicitaires.",
-            "effet_en": "Repeated scandals could deter sponsors from renewing partnerships, reducing advertising revenue.",
-            "effet_zh": "反复的丑闻可能使赞助商不愿续约，减少广告收入。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "marché des transferts",
-            "secteur_en": "transfer market",
-            "secteur_zh": "转会市场",
-            "effet_fr": "Une mauvaise gestion pourrait effrayer les clubs rivaux et limiter les opportunités de recrutement de talents.",
-            "effet_en": "Poor management could scare off rival clubs and limit talent recruitment opportunities.",
-            "effet_zh": "糟糕的管理可能吓跑竞争对手俱乐部，限制人才招募机会。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-02T19:08:37.910408"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_665023",
+        "titre": "2024 : un virage électoral qui n’a pas tenu",
+        "titre_en": "2024: A voting shift that didn’t last",
+        "titre_zh": "2024：未能持续的选民转向",
+        "titre_ru": "2024 год оказался не таким, как казалось",
+        "titre_fa": "سال ۲۰۲۴ آنطور که به نظر می‌رسید نبود",
+        "titre_ar": "لم يكن عام 2024 كما بدا عليه",
+        "titre_original": "2024 Was Not What It Seemed",
+        "resume": "Donald Trump avait enregistré des gains significatifs auprès des électeurs noirs, hispaniques et jeunes en 2024. Moins de deux ans plus tard, ces soutiens se sont érodés. Les dynamiques électorales semblent avoir retrouvé leur polarisation traditionnelle. Les causes de ce revirement restent débattues.",
+        "resume_en": "Donald Trump made significant gains among Black, Hispanic, and young voters in 2024. Less than two years later, these gains have eroded. Electoral dynamics appear to have returned to traditional polarization. The causes of this shift remain debated.",
+        "resume_zh": "2024年，唐纳德·特朗普在黑人、拉美裔和年轻选民中获得了显著支持。不到两年后，这些支持已被削弱。选举动态似乎已回到传统的两极分化。此转变的原因仍在争论中。",
+        "resume_ru": "В 2024 году Дональд Трамп добился значительных успехов среди чернокожих, испаноязычных и молодых избирателей. Однако менее чем через два года президент потерял поддержку этих групп. Эксперты связывают это с изменениями в политической повестке.",
+        "resume_fa": "دونالد ترامپ در سال ۲۰۲۴ حمایت گسترده‌ای از سوی رای‌دهندگان سیاه‌پوست، اسپانیایی‌تبار و جوانان به دست آورد. اما کمتر از دو سال بعد، رئیس‌جمهور حمایت این گروه‌ها را از دست داد. کارشناسان این تغییر را به تحولات در دستور کار سیاسی نسبت می‌دهند.",
+        "resume_ar": "حقق دونالد ترامب في عام 2024 مكاسب كبيرة بين الناخبين السود والسودانيين الشباب والناخبين من أصل إسباني. ومع ذلك، فقد الرئيس دعم هذه الفئات في أقل من عامين. ويربط الخبراء ذلك بتغيرات في الأجندة السياسية.",
+        "analyse_detaillee": "Cette évolution s’inscrit dans un contexte de polarisation politique croissante aux États-Unis, où les clivages ethniques et générationnels jouent un rôle central. Les gains de Trump en 2024 reflétaient une stratégie ciblée sur des thèmes comme l’économie et l’immigration, mais ces thèmes n’ont pas suffi à maintenir l’adhésion. Les enjeux principaux incluent la fragmentation du paysage politique et la volatilité des préférences électorales. Les causes profondes remontent à des décennies de divisions sociales et économiques, exacerbées par les réseaux sociaux. À court terme, ce revirement pourrait affaiblir la crédibilité de Trump auprès de ces groupes. À moyen terme, il pourrait inciter les partis à repenser leurs stratégies de mobilisation. À long terme, cette tendance pourrait renforcer les clivages ou, au contraire, favoriser l’émergence de nouveaux mouvements politiques. Les acteurs concernés incluent les partis démocrate et républicain, les groupes de pression et les médias.",
+        "analyse_en": "This shift fits into a context of growing political polarization in the U.S., where ethnic and generational divides play a central role. Trump’s gains in 2024 reflected a targeted strategy on themes like the economy and immigration, but these themes were not enough to sustain support. The main stakes include the fragmentation of the political landscape and the volatility of electoral preferences. The root causes trace back to decades of social and economic divisions, exacerbated by social media. In the short term, this reversal could weaken Trump’s credibility among these groups. In the medium term, it may push parties to rethink their mobilization strategies. Long-term prospects could either reinforce divisions or foster the emergence of new political movements. Key actors include the Democratic and Republican parties, lobby groups, and media outlets.",
+        "analyse_zh": "此转变发生在美国日益加剧的政治两极分化背景下，种族和代际分歧在其中扮演核心角色。特朗普在2024年的支持增长反映了针对经济和移民等主题的策略，但这些主题不足以维持支持。主要影响包括政治格局的碎片化和选民偏好的波动性。深层原因可追溯到几十年的社会和经济分裂，并被社交媒体加剧。短期内，此转向可能削弱特朗普在这些群体中的信誉。中期来看，可能促使政党重新思考动员策略。长期前景可能加强分裂，或相反，促进新政治运动的出现。相关行为者包括民主党和共和党、游说团体和媒体。",
+        "analyse_ru": "Успехи Трампа в 2024 году были связаны с популистскими обещаниями и критикой иммиграционной политики Байдена. Однако потеря поддержки могла произойти из-за невыполненных обещаний или изменения экономической ситуации. Последствия включают ослабление позиций республиканцев на предстоящих выборах. Перспективы зависят от способности Трампа адаптироваться к новым реалиям. Позиции демократов, напротив, могут укрепиться за счет возвращения традиционных электоральных групп.",
+        "analyse_fa": "موفقیت‌های ترامپ در سال ۲۰۲۴ به وعده‌های پوپولیستی و انتقاد از سیاست مهاجرتی بایدن مربوط می‌شد. اما از دست دادن حمایت ممکن است به دلیل عدم تحقق وعده‌ها یا تغییر وضعیت اقتصادی رخ داده باشد. پیامدها شامل تضعیف موقعیت جمهوری‌خواهان در انتخابات آینده است. چشم‌انداز به توانایی ترامپ در تطبیق با شرایط جدید بستگی دارد. در مقابل، موضع دموکرات‌ها می‌تواند با بازگشت گروه‌های سنتی رای‌دهنده تقویت شود.",
+        "analyse_ar": "ارتبطت نجاح ترامب في عام 2024 بالوعود الشعبوية وانتقاده لسياسة بايدن للهجرة. ومع ذلك، فقد الدعم بسبب عدم الوفاء بالوعود أو تغير الأوضاع الاقتصادية. وتشمل العواقب ضعف موقف الجمهوريين في الانتخابات المقبلة. وتعتمد الآفاق على قدرة ترامب على التكيف مع الواقع الجديد. في المقابل، يمكن أن تتقوى مواقف الديمقراطيين من خلال عودة الفئات الانتخابية التقليدية.",
+        "categorie": "Politique intérieure américaine",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/newsletters/2026/08/trump-loosing-black-hispanic-young-republican-voters/688164/",
+        "image": "https://cdn.theatlantic.com/thumbor/VVZxSNmdCBbN1hqsE_LKCUiA84c=/0x156:7518x4072/1200x625/media/newsletters/2026/08/2026_08_03_The_Daily_Trump_Polling/original.jpg",
+        "date": "2026-08-03",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Soutien électoral des minorités",
+            "hausse": false
+          },
+          {
+            "label": "▼ Médias et opinion publique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Soutien électoral des minorités",
+            "secteur_en": "Minority electoral support",
+            "secteur_zh": "少数族裔选民支持",
+            "effet_fr": "La perte de soutien parmi ces groupes pourrait réduire l’influence de Trump dans les élections futures et modifier les stratégies des partis.",
+            "effet_en": "The loss of support among these groups could reduce Trump’s influence in future elections and alter party strategies.",
+            "effet_zh": "在这些群体中的支持损失可能削弱特朗普在未来选举中的影响力，并改变政党的策略。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Médias et opinion publique",
+            "secteur_en": "Media and public opinion",
+            "secteur_zh": "媒体与舆论",
+            "effet_fr": "Les médias pourraient amplifier les divisions en se focalisant sur les clivages ethniques et générationnels, influençant ainsi les dynamiques électorales.",
+            "effet_en": "Media outlets could amplify divisions by focusing on ethnic and generational divides, thereby influencing electoral dynamics.",
+            "effet_zh": "媒体可能通过关注种族和代际分歧来放大分裂，从而影响选举动态。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-04T22:11:01.606968"
+      },
       {
         "id": "usa_360789",
         "titre": "Trump lance la plus grande campagne de dénaturalisation",
@@ -2406,65 +2465,6 @@
           }
         ],
         "created_at": "2026-08-02T20:54:51.249289"
-      },
-      {
-        "id": "usa_736413",
-        "titre": "Trump réagit après l'abandon des charges contre un canoéiste",
-        "titre_en": "Trump responds after DOJ drops charges against canoeist",
-        "titre_zh": "特朗普回应司法部放弃独木舟客指控",
-        "titre_ru": "Трамп ответил на решение DOJ по делу отражающего бассейна",
-        "titre_fa": "ترامپ پس از تصمیم وزارت دادگستری در مورد استخر بازتابنده واکنش نشان داد",
-        "titre_ar": "ترامب يرد على قرار وزارة العدل بشأن بركة لينكولن",
-        "titre_original": "Trump Responds After DOJ Throws Interior Dept Under Bus In Dismissing ‘Botched’ Reflecting Pool Case",
-        "resume": "Le département de la Justice américain a abandonné les charges de vandalisme contre un canoéiste ayant endommagé le bassin du Lincoln Memorial. Donald Trump a réagi en critiquant le DOJ, accusant une gestion chaotique. Cette affaire illustre les tensions au sein du gouvernement fédéral.",
-        "resume_en": "The US Department of Justice dropped vandalism charges against a canoeist who damaged the Lincoln Memorial Reflecting Pool. Donald Trump criticized the DOJ, accusing it of chaotic management. This case highlights tensions within the federal government.",
-        "resume_zh": "美国司法部放弃了对损坏林肯纪念堂反射池的独木舟客的破坏指控。唐纳德·特朗普批评司法部管理混乱。此案凸显联邦政府内部的紧张局势。",
-        "resume_ru": "Министерство юстиции США сняло обвинения против байдарочника. Вместо этого оно раскритиковало позицию другого ведомства. Трамп поддержал решение DOJ и обвинил внутренние разногласия.",
-        "resume_fa": "وزارت دادگستری آمریکا اتهامات علیه قایقران را لغو کرد. در عوض، به ادعاهای یک نهاد دولتی دیگر انتقاد کرد. ترامپ از تصمیم وزارت دادگستری حمایت کرد و به اختلافات داخلی اشاره کرد.",
-        "resume_ar": "ألغت وزارة العدل الأمريكية التهم الموجهة إلى راكب الكانو. بدلاً من ذلك، انتقدت مزاعم جهة حكومية أخرى. دعم ترامب قرار الوزارة وانتقد الخلافات الداخلية.",
-        "analyse_detaillee": "Cette affaire, bien que mineure en apparence, révèle des fractures profondes au sein de l'administration américaine. Historiquement, le Lincoln Memorial et son bassin sont des symboles nationaux, souvent ciblés lors de manifestations ou d'actes de protestation. Les enjeux principaux incluent la crédibilité du DOJ, déjà critiqué pour son manque d'indépendance sous l'administration Trump, et la perception de l'État de droit. Les causes profondes résident dans les tensions politiques entre la Maison Blanche et les agences fédérales, exacerbées par les élections de 2024. À court terme, cette décision pourrait être perçue comme une victoire pour les défenseurs des libertés individuelles, mais elle affaiblit aussi l'autorité du DOJ. À moyen terme, cela pourrait encourager d'autres affaires similaires, créant un précédent dangereux. Long terme, si ces tensions persistent, cela pourrait éroder la confiance du public dans les institutions fédérales. Les acteurs clés incluent Trump, qui instrumentalise l'affaire pour critiquer l'administration actuelle, le DOJ, qui tente de préserver son indépendance, et les médias, qui amplifient ou minimisent l'impact selon leurs orientations politiques.",
-        "analyse_en": "This seemingly minor case reveals deep fractures within the US administration. Historically, the Lincoln Memorial and its pool are national symbols, often targeted during protests or acts of dissent. Key stakes include the credibility of the DOJ, already criticized for its lack of independence under Trump's administration, and the perception of the rule of law. Root causes lie in political tensions between the White House and federal agencies, exacerbated by the 2024 elections. In the short term, this decision could be seen as a victory for individual liberties advocates, but it also weakens the DOJ's authority. In the medium term, it could encourage more similar cases, creating a dangerous precedent. Long-term, if these tensions persist, it could erode public trust in federal institutions. Key actors include Trump, who uses the case to criticize the current administration, the DOJ, which seeks to preserve its independence, and the media, which amplifies or downplays the impact based on their political leanings.",
-        "analyse_zh": "这起看似微不足道的案件揭示了美国政府内部的深刻分裂。历史上，林肯纪念堂及其反射池是国家象征，常成为抗议或异议行为的目标。主要影响包括司法部的信誉（在特朗普政府下已因缺乏独立性受到批评）以及对法治的认知。深层原因在于白宫与联邦机构之间的政治紧张局势，在2024年大选中进一步加剧。短期内，此决定可能被视为个人自由倡导者的胜利，但也削弱了司法部的权威。中期来看，这可能鼓励更多类似案件，形成危险的先例。长期而言，如果这些紧张局势持续，可能会削弱公众对联邦机构的信任。关键角色包括特朗普（利用此案批评现政府）、司法部（试图维护独立性）以及媒体（根据政治倾向放大或淡化影响）。",
-        "analyse_ru": "Дело о вандализме у мемориала Линкольна вызвало скандал. DOJ сняло обвинения, но обвинило другое ведомство в дезинформации. Трамп использовал это для критики администрации Байдена. Это показывает напряженность между ведомствами. Вопрос в том, как это повлияет на репутацию правительства.",
-        "analyse_fa": "پرونده تخریب در یادبود لینکلن باعث جنجال شد. وزارت دادگستری اتهامات را لغو کرد ولی نهاد دولتی دیگری را به انتشار اطلاعات غلط متهم کرد. ترامپ از این تصمیم برای انتقاد از دولت بایدن استفاده کرد. این نشان‌دهنده تنش بین نهادهای دولتی است. سوال این است که چگونه بر شهرت دولت تأثیر خواهد گذاشت.",
-        "analyse_ar": "أثارت قضية التخريب في نصب لنكولنMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemorialMemor",
-        "categorie": "Politique",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/08/01/donald-trump-reflecting-pool-jeanine-pirro-justice-department-dismisses-interior-vandalism-charges-drops-indictment-david-hearn",
-        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/Image%208-1-26%20at%202.03%E2%80%AFPM.jpeg",
-        "date": "2026-08-01",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ justice fédérale",
-            "hausse": false
-          },
-          {
-            "label": "▼ médias politiques",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "justice fédérale",
-            "secteur_en": "federal justice",
-            "secteur_zh": "联邦司法",
-            "effet_fr": "L'affaire pourrait renforcer l'image d'un DOJ politisé, réduisant la confiance dans les institutions judiciaires.",
-            "effet_en": "The case could reinforce the image of a politicized DOJ, reducing trust in judicial institutions.",
-            "effet_zh": "此案可能强化司法部被政治化的形象，降低对司法机构的信任。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "médias politiques",
-            "secteur_en": "political media",
-            "secteur_zh": "政治媒体",
-            "effet_fr": "Les médias pourraient amplifier ou minimiser l'affaire selon leur ligne éditoriale, polarisant davantage l'opinion publique.",
-            "effet_en": "Media could amplify or downplay the case based on their editorial line, further polarizing public opinion.",
-            "effet_zh": "媒体可能根据编辑方针放大或淡化此案，进一步极化公众舆论。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-02T19:08:37.910456"
       }
     ],
     "chine": [
@@ -3651,6 +3651,65 @@
     ],
     "russie": [
       {
+        "id": "russie_71144",
+        "titre": "Un agent du FBI accusé de vol de crypto en Russie",
+        "titre_en": "FBI agent charged with crypto theft from Russia",
+        "titre_zh": "FBI特工被控从俄罗斯窃取加密货币",
+        "titre_ru": "США обвиняет агента ФБР в краже криптовалюты",
+        "titre_fa": "مقامات آمریکا یک مامور اف‌بی‌آی را به سرقت ارز دیجیتال متهم کردند",
+        "titre_ar": "الولايات المتحدة تتهم عميلا في مكتب التحقيقات الفيدرالي بسرقة العملات الرقمية",
+        "titre_original": "Feds charge FBI agent they say stole nearly one million in Crypto from Russia",
+        "resume": "Un superviseur du FBI, détaché auprès des services de renseignement américains, est accusé d’avoir détourné près d’un million de dollars en cryptomonnaies liées à la Russie. Les fonds provenaient de comptes associés à un État considéré comme adversarial. L’affaire soulève des questions sur la cybersécurité et l’espionnage économique.",
+        "resume_en": "An FBI supervisor assigned to U.S. intelligence is accused of stealing nearly $1 million in cryptocurrency from accounts linked to Russia. The funds were tied to a state considered adversarial. The case raises concerns about cybersecurity and economic espionage.",
+        "resume_zh": "一名被派往美国情报机构的FBI监督员被控从与俄罗斯相关的账户窃取近100万美元加密货币。资金与被视为敌对国家的账户相关。此案引发对网络安全和经济间谍活动的担忧。",
+        "resume_ru": "Агент ФБР, работающий на американскую разведку, обвиняется в хищении почти миллиона долларов в криптовалюте. Средства были переведены с счетов, связанных с враждебным государством. Обвинения предъявлены федеральным судом.",
+        "resume_fa": "یک مامور ارشد اف‌بی‌آی که برای جامعه اطلاعاتی آمریکا کار می‌کرد، به سرقت نزدیک به یک میلیون دلار ارز دیجیتال متهم شده است. این وجوه از حساب‌های مرتبط با یک کشور رقیب منتقل شده بودند. اتهامات در دادگاه فدرال مطرح شده‌اند.",
+        "resume_ar": "يتهم عميل في مكتب التحقيقات الفيدرالي، يعمل لصالح مجتمع الاستخبارات الأمريكي، بسرقة ما يقرب من مليون دولار من العملات الرقمية. وتم تحويل الأموال من حسابات مرتبطة بدولة معادية. وقد تم تقديم التهم في المحكمة الفيدرالية.",
+        "analyse_detaillee": "Cette affaire s’inscrit dans un contexte de tensions géopolitiques croissantes entre les États-Unis et la Russie, marquées par des cyberattaques et des opérations d’influence. Les cryptomonnaies, en raison de leur anonymat relatif, deviennent un terrain privilégié pour le blanchiment et le financement d’activités illicites. Les enjeux principaux incluent la protection des actifs numériques et la lutte contre l’espionnage économique. Les causes profondes remontent à l’essor des cryptomonnaies et à leur adoption par des acteurs étatiques ou criminels. À court terme, cette affaire pourrait renforcer les contrôles sur les flux financiers transfrontaliers et les régulations des actifs numériques. À moyen terme, elle pourrait inciter les États à renforcer leur cybersécurité et à collaborer davantage sur les enquêtes financières. À long terme, cette tendance pourrait mener à une fragmentation des marchés cryptos ou à une régulation internationale accrue. Les acteurs concernés incluent les agences de renseignement, les régulateurs financiers et les plateformes d’échange de cryptomonnaies.",
+        "analyse_en": "This case fits into a context of growing geopolitical tensions between the U.S. and Russia, characterized by cyberattacks and influence operations. Cryptocurrencies, due to their relative anonymity, have become a preferred tool for money laundering and illicit financing. The main stakes include protecting digital assets and combating economic espionage. The root causes trace back to the rise of cryptocurrencies and their adoption by state or criminal actors. In the short term, this case could lead to stricter controls on cross-border financial flows and regulations on digital assets. In the medium term, it may push states to enhance cybersecurity and increase cooperation in financial investigations. Long-term prospects could include a fragmentation of crypto markets or greater international regulation. Key actors include intelligence agencies, financial regulators, and cryptocurrency exchange platforms.",
+        "analyse_zh": "此案发生在美俄地缘政治紧张局势加剧的背景下，这种紧张局势以网络攻击和影响行动为特征。由于相对匿名，加密货币已成为洗钱和非法融资的首选工具。主要影响包括保护数字资产和打击经济间谍活动。深层原因可追溯到加密货币的兴起及其被国家或犯罪行为者采用。短期内，此案可能加强对跨境金融流动的控制和对数字资产的监管。中期来看，可能促使各国加强网络安全并增加金融调查合作。长期前景可能包括加密货币市场的分化或更严格的国际监管。相关行为者包括情报机构、金融监管机构和加密货币交易平台。",
+        "analyse_ru": "Инцидент отражает растущую обеспокоенность США по поводу киберугроз и внутренних утечек информации. Причиной могло стать как финансовое вознаграждение, так и идеологические мотивы. Последствия включают подрыв доверия к правоохранительным органам и ужесточение контроля за криптовалютными операциями. Перспективы зависят от результатов расследования и возможных изменений в законодательстве. Позиция России, вероятно, будет отрицанием причастности, а США усилят давление на подобные схемы.",
+        "analyse_fa": "این ماجرا نگرانی فزاینده آمریکا درباره تهدیدات سایبری و نشت اطلاعات داخلی را نشان می‌دهد. دلایل احتمالی می‌تواند انگیزه‌های مالی یا عقیدتی باشد. پیامدها شامل کاهش اعتماد به نهادهای مجری قانون و تشدید نظارت بر تراکنش‌های ارز دیجیتال است. چشم‌انداز به نتیجه تحقیقات و تغییرات قانونی بستگی دارد. موضع روسیه احتمالاً انکار هرگونه دخالت خواهد بود و آمریکا فشار بیشتری بر چنین طرح‌هایی وارد خواهد کرد.",
+        "analyse_ar": "تكشف هذه الحادثة قلق الولايات المتحدة المتزايد بشأن التهديدات السيبرانية وتسرب المعلومات الداخلية. وقد تكون الأسباب دوافع مالية أو أيديولوجية. وتشمل العواقب تآكل الثقة في أجهزة إنفاذ القانون وتشديد الرقابة على معاملات العملات الرقمية. وتعتمد الآفاق على نتائج التحقيقات والتغييرات القانونية المحتملة. ومن المرجح أن تنكر روسيا أي تورط، بينما ستزيد الولايات المتحدة من الضغط على مثل هذه المخططات.",
+        "categorie": "Cybersécurité et Géopolitique",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/justice-department/feds-charge-fbi-agent-say-stole-nearly-one-million-crypto-russia-rcna590674",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-FBI-Logo-aa-558-190ea6.jpg",
+        "date": "2026-08-03",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Marché des cryptomonnaies",
+            "hausse": false
+          },
+          {
+            "label": "▼ Régulation financière",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des cryptomonnaies",
+            "secteur_en": "Cryptocurrency market",
+            "secteur_zh": "加密货币市场",
+            "effet_fr": "Cette affaire pourrait éroder la confiance des investisseurs dans les cryptomonnaies liées à des États adversariaux, entraînant une volatilité accrue.",
+            "effet_en": "This case could erode investor confidence in cryptocurrencies linked to adversarial states, leading to increased volatility.",
+            "effet_zh": "此案可能削弱投资者对与敌对国家相关的加密货币的信心，导致波动性增加。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Régulation financière",
+            "secteur_en": "Financial regulation",
+            "secteur_zh": "金融监管",
+            "effet_fr": "Les régulateurs pourraient imposer des mesures plus strictes sur les transferts de cryptomonnaies et les contrôles anti-blanchiment.",
+            "effet_en": "Regulators may impose stricter measures on cryptocurrency transfers and anti-money laundering controls.",
+            "effet_zh": "监管机构可能对加密货币转账和反洗钱控制实施更严格的措施。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-04T22:11:01.606942"
+      },
+      {
         "id": "russie_16062",
         "titre": "Drone ukrainien frappe des vacanciers en Crimée",
         "titre_en": "Ukrainian drone attack kills holidaymakers in Crimea",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-02T17:10:32.148217"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_77414",
-        "titre": "L'Ukraine coule un cargo lié à Rosatom en mer Noire",
-        "titre_en": "Ukraine sinks Rosatom-linked cargo ship in Black Sea",
-        "titre_zh": "乌克兰在黑海击沉与罗萨原子能公司相关货船",
-        "titre_ru": "Украина потопила судно Росатома в Черном море",
-        "titre_fa": "اوکراین کشتی مرتبط با روساتوم را در دریای سیاه غرق کرد",
-        "titre_ar": "أوكرانيا تغرق سفينة تابعة لروساتوم في البحر الأسود",
-        "titre_original": "Ukraine sinks cargo ship linked to Putin's state nuclear corporation as Zelensky begs West for more missiles after latest Russian strike on Kyiv kills nine",
-        "resume": "L'Ukraine a coulé un cargo de 466 pieds lié à Rosatom, la société nucléaire russe, en mer Noire. Cette attaque survient après une frappe russe sur Kiev ayant tué des civils. Zelensky demande davantage de missiles à l'Occident pour contrer les offensives russes.",
-        "resume_en": "Ukraine sank a 466-foot cargo ship linked to Rosatom, Russia's nuclear corporation, in the Black Sea. This attack follows a Russian strike on Kyiv that killed civilians. Zelensky has called for more Western missiles to counter Russian offensives.",
-        "resume_zh": "乌克兰在黑海击沉一艘长466英尺且与俄罗斯核工业巨头罗萨原子能公司相关的货船。此次袭击发生在俄罗斯对基辅平民造成伤亡后。泽连斯基呼吁西方提供更多导弹以对抗俄军进攻。",
-        "resume_ru": "Украина потопила грузовое судно, связанное с российской государственной корпорацией Росатом, в международных водах Черного моря. Это произошло на фоне недавнего ракетного удара России по Киеву. Президент Украины Владимир Зеленский обратился к Западу с просьбой предоставить больше ракет.",
-        "resume_fa": "اوکراین یک کشتی باری مرتبط با شرکت دولتی روسی روساتوم را در آب‌های بین‌المللی دریای سیاه غرق کرد. این اتفاق در پی حمله موشکی اخیر روسیه به کی‌یف رخ داد. رئیس‌جمهور اوکراین ولادیمیر زلنسکی از غرب درخواست کرد تا موشک‌های بیشتری ارسال کند.",
-        "resume_ar": "أغرقت أوكرانيا سفينة شحن مرتبطة بالشركة الحكومية الروسية روساتوم في المياه الدولية للبحر الأسود. وجاء ذلك عقب الضربة الصاروخية الأخيرة التي شنتها روسيا على كييف. توجه الرئيس الأوكراني فلاديمير زيلينسكي إلى الغرب بطلب تقديم المزيد من الصواريخ.",
-        "analyse_detaillee": "Cette attaque s'inscrit dans le cadre de la guerre en Ukraine, où les infrastructures logistiques russes sont de plus en plus ciblées. Rosatom, entreprise clé du secteur nucléaire russe, est accusée de soutenir indirectement l'effort de guerre via des livraisons de matériel. Historiquement, la mer Noire est un théâtre stratégique pour les conflits russo-ukrainiens, notamment depuis l'annexion de la Crimée en 2014. À court terme, cette action pourrait perturber les chaînes d'approvisionnement russes et renforcer la position ukrainienne. À moyen terme, cela pourrait inciter la Russie à intensifier ses frappes sur les infrastructures civiles ukrainiennes. À long terme, une escalade des attaques maritimes pourrait menacer la stabilité énergétique régionale, Rosatom étant un acteur majeur du nucléaire civil. Les acteurs principaux sont l'Ukraine, cherchant à affaiblir la logistique russe, et la Russie, déterminée à maintenir son contrôle sur la région. Le secteur énergétique pourrait subir des perturbations en cas d'escalade des tensions.",
-        "analyse_en": "This attack is part of the war in Ukraine, where Russian logistics infrastructures are increasingly targeted. Rosatom, a key player in Russia's nuclear sector, is accused of indirectly supporting the war effort through material deliveries. Historically, the Black Sea has been a strategic theater for Russo-Ukrainian conflicts, especially since the annexation of Crimea in 2014. In the short term, this action could disrupt Russian supply chains and strengthen Ukraine's position. In the medium term, it could prompt Russia to intensify strikes on Ukrainian civilian infrastructure. In the long term, escalating maritime attacks could threaten regional energy stability, as Rosatom is a major player in civil nuclear energy. The key actors are Ukraine, seeking to weaken Russian logistics, and Russia, determined to maintain control over the region. The energy sector could face disruptions if tensions escalate.",
-        "analyse_zh": "此次袭击是乌克兰战争的一部分，俄罗斯后勤基础设施正面临越来越多的打击。罗萨原子能公司作为俄罗斯核能行业的关键企业，被指通过物资运输间接支持战争。历史上，黑海自2014年克里米亚被吞并后，成为俄乌冲突的战略舞台。短期内，此举可能扰乱俄罗斯供应链并巩固乌克兰地位。中期来看，可能促使俄罗斯加强对乌克兰民用基础设施的打击。长期而言，海上袭击升级可能威胁地区能源稳定，罗萨原子能公司作为民用核能巨头至关重要。主要参与者是试图削弱俄罗斯后勤的乌克兰与决心维持地区控制的俄罗斯。若局势升级，能源行业可能面临供应中断。",
-        "analyse_ru": "Контекст связан с эскалацией конфликта между Украиной и Россией, где Киев стремится ослабить позиции Москвы. Причина потопления судна кроется в попытке Украины нанести удар по логистике и ресурсам противника. Последствия могут усилить напряженность в регионе и привести к новым военным столкновениям. Перспективы зависят от поддержки Запада, который может усилить или ослабить санкции. Позиции сторон остаются непримиримыми, что грозит затяжным конфликтом.",
-        "analyse_fa": "زمینه این موضوع به تشدید درگیری بین اوکراین و روسیه مربوط می‌شود، جایی که کی‌یف تلاش می‌کند موقعیت مسکو را تضعیف کند. دلیل غرق کردن کشتی، تلاش اوکراین برای ضربه زدن به تدارکات و منابع دشمن است. پیامدها می‌تواند تنش در منطقه را افزایش داده و به درگیری‌های نظامی جدید منجر شود. چشم‌انداز به حمایت غرب بستگی دارد که می‌تواند تحریم‌ها را تشدید یا تضعیف کند. مواضع طرفین غیرقابل مصالحه باقی مانده و خطر درگیری طولانی‌مدت را تهدید می‌کند.",
-        "analyse_ar": "سياق هذه الأزمة مرتبط بتصعيد الصراع بين أوكرانيا وروسيا، حيث تسعى كييف إلى إضعاف موقف موسكو. سبب إغراق السفينة يكمن في محاولة أوكرانيا ضرب اللوجستيات والموارد التابعة للعدو. العواقب قد تزيد من حدة التوتر في المنطقة وتؤدي إلى اشتباكات عسكرية جديدة. الآفاق تعتمد على دعم الغرب، الذي قد يعزز أو يضعف العقوبات. مواقف الأطراف остаются غير قابلة للتسوية، مما يهدد بصراع طويل الأمد.",
-        "categorie": "Géopolitique",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16021883/Ukraine-sinks-cargo-ship-linked-Putins-state-nuclear-corporation-Zelensky-begs-West-missiles-latest-Russian-strike-Kyiv-kills-nine.html",
-        "image": "https://i.dailymail.com/1s/2026/08/01/16/110384501-0-image-a-8_1785599120623.jpg",
-        "date": "2026-08-01",
-        "pays": "russie",
+        "id": "iran_329686",
+        "titre": "L’Iran à Port-Soudan : une menace pour l’Asie",
+        "titre_en": "Iran in Port Sudan: A threat to Asia",
+        "titre_zh": "伊朗在苏丹港：对亚洲的威胁",
+        "titre_ru": "Иран в Порт-Судане: новая угроза для Азии",
+        "titre_fa": "ایران در بندر سودان: تهدیدی جدید برای آسیا",
+        "titre_ar": "إيران في بورتسودان: تهديد جديد لآسيا",
+        "titre_original": "Iran in Port Sudan? The Next Threat to Asian Markets",
+        "resume": "La présence iranienne à Port-Soudan menace la stabilité de la route commerciale maritime reliant l’Asie à l’Europe. Cette zone, cruciale pour le commerce mondial, devient un nouveau foyer de tensions géopolitiques. Les risques incluent des perturbations des chaînes d’approvisionnement et des conflits régionaux.",
+        "resume_en": "Iran’s presence in Port Sudan threatens the stability of the maritime trade route linking Asia to Europe. This area, crucial for global trade, is becoming a new hotspot for geopolitical tensions. Risks include disruptions to supply chains and regional conflicts.",
+        "resume_zh": "伊朗在苏丹港的存在威胁到连接亚洲与欧洲的海上贸易航线的稳定。这一对全球贸易至关重要的地区正成为新的地缘政治紧张焦点。风险包括供应链中断和地区冲突。",
+        "resume_ru": "Новый очаг нестабильности появляется в регионе Красного моря, где проходит важнейший торговый коридор. Иран может усилить свое влияние в Порт-Судане, что угрожает безопасности поставок в Азию. Эксперты предупреждают о возможных последствиях для глобальной торговли.",
+        "resume_fa": "منطقه جدیدی از ناآرامی در منطقه دریای سرخ، که یک مسیر تجاری حیاتی است، در حال شکل‌گیری است. ایران ممکن است نفوذ خود را در بندر سودان افزایش دهد که تهدیدی برای امنیت تأمین کالا به آسیا محسوب می‌شود. کارشناسان از پیامدهای احتمالی برای تجارت جهانی هشدار می‌دهند.",
+        "resume_ar": "تظهر بؤرة عدم استقرار جديدة في منطقة البحر الأحمر، التي تعد ممراً تجارياً حيوياً. وقد تعزز إيران نفوذها في بورتسودان، مما يشكل تهديداً لأمن الإمدادات إلى آسيا. ويحذر الخبراء من العواقب المحتملة على التجارة العالمية.",
+        "analyse_detaillee": "Cette situation s’inscrit dans un contexte de rivalité régionale accrue entre l’Iran et ses adversaires, notamment l’Arabie saoudite et Israël, dans la Corne de l’Afrique. Les enjeux principaux incluent le contrôle des routes maritimes et l’influence géopolitique. Les causes profondes remontent aux tensions historiques entre l’Iran et les pays sunnites, ainsi qu’à la quête d’accès aux ressources et aux marchés. À court terme, cette présence pourrait déclencher des tensions militaires ou des cyberattaques. À moyen terme, elle pourrait redessiner les alliances régionales et les flux commerciaux. À long terme, une escalade des conflits pourrait perturber durablement le commerce mondial. Les acteurs concernés incluent l’Iran, l’Arabie saoudite, Israël, les puissances occidentales et les pays africains de la région.",
+        "analyse_en": "This situation fits into a context of heightened regional rivalry between Iran and its adversaries, particularly Saudi Arabia and Israel, in the Horn of Africa. The main stakes include control over maritime routes and geopolitical influence. The root causes trace back to historical tensions between Iran and Sunni countries, as well as the quest for access to resources and markets. In the short term, this presence could trigger military tensions or cyberattacks. In the medium term, it could reshape regional alliances and trade flows. In the long term, an escalation of conflicts could disrupt global trade permanently. Key actors include Iran, Saudi Arabia, Israel, Western powers, and African countries in the region.",
+        "analyse_zh": "此情况发生在伊朗与其对手（特别是沙特阿拉伯和以色列）在非洲之角地区日益激烈的地区竞争背景下。主要影响包括对海上航线的控制和地缘政治影响。深层原因可追溯到伊朗与逊尼派国家的历史紧张局势，以及对资源和市场准入的追求。短期内，此存在可能引发军事紧张或网络攻击。中期来看，可能重塑地区联盟和贸易流动。长期前景，冲突升级可能持久扰乱全球贸易。相关行为者包括伊朗、沙特阿拉伯、以色列、西方大国和该地区的非洲国家。",
+        "analyse_ru": "Усиление Ирана в Порт-Судане связано с его стратегией расширения влияния в Африке и на Ближнем Востоке. Причины включают геополитические интересы и поддержку местных группировок. Последствия могут включать дестабилизацию региона и нарушение торговых путей. Перспективы зависят от реакции международного сообщества и региональных игроков. Позиция США и стран Персидского залива будет направлена на сдерживание Ирана, тогда как Россия и Китай могут поддержать его действия.",
+        "analyse_fa": "افزایش نفوذ ایران در بندر سودان بخشی از استراتژی این کشور برای گسترش قدرت در آفریقا و خاورمیانه است. دلایل شامل منافع ژئوپلیتیکی و حمایت از گروه‌های محلی است. پیامدها می‌تواند شامل بی‌ثباتی منطقه و اختلال در مسیرهای تجاری باشد. چشم‌انداز به واکنش جامعه بین‌المللی و بازیگران منطقه‌ای بستگی دارد. موضع آمریکا و کشورهای خلیج فارس در جهت مهار ایران خواهد بود، در حالی که روسیه و چین ممکن است از اقدامات ایران حمایت کنند.",
+        "analyse_ar": "يرتبط تعزيز إيران في بورتسودان باستراتيجيتها في توسيع النفوذ في أفريقيا والشرق الأوسط. وتشمل الأسباب المصالح الجيوسياسية ودعم الفصائل المحلية. ويمكن أن تشمل العواقب زعزعة الاستقرار الإقليمي وتعطيل طرق التجارة. وتعتمد الآفاق على ردود فعل المجتمع الدولي واللاعبين الإقليميين. وستكون مواقف الولايات المتحدة ودول الخليج العربي موجهة لاحتواء إيران، بينما قد تدعم روسيا والصين تحركات إيران.",
+        "categorie": "Géopolitique et Commerce international",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/iran-in-port-sudan-the-next-threat-to-asian-markets/",
+        "image": "https://thediplomat.com/wp-content/uploads/2026/08/sizes/td-story-s-2/thediplomat_2026-08-04-175029.jpg",
+        "date": "2026-08-03",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur de l'énergie nucléaire",
+            "label": "▼ Transport maritime",
             "hausse": false
           },
           {
-            "label": "▼ Marché maritime et assurances",
+            "label": "▼ Énergie (pétrole)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de l'énergie nucléaire",
-            "secteur_en": "Nuclear energy sector",
-            "secteur_zh": "核能行业",
-            "effet_fr": "Une perturbation des livraisons liées à Rosatom pourrait affecter les projets nucléaires civils et militaires russes.",
-            "effet_en": "Disrupting deliveries linked to Rosatom could impact Russia's civil and military nuclear projects.",
-            "effet_zh": "扰乱罗萨原子能公司的运输可能影响俄罗斯的民用和军用核项目。",
+            "secteur_fr": "Transport maritime",
+            "secteur_en": "Maritime transport",
+            "secteur_zh": "海上运输",
+            "effet_fr": "Une instabilité dans cette zone pourrait entraîner des surcoûts logistiques et des retards dans les livraisons, affectant les chaînes d’approvisionnement mondiales.",
+            "effet_en": "Instability in this area could lead to higher logistics costs and delays in deliveries, impacting global supply chains.",
+            "effet_zh": "该地区的不稳定可能导致更高的物流成本和交付延误，影响全球供应链。",
             "hausse": false
           },
           {
-            "secteur_fr": "Marché maritime et assurances",
-            "secteur_en": "Maritime market and insurance",
-            "secteur_zh": "航运市场与保险",
-            "effet_fr": "L'augmentation des attaques en mer Noire pourrait faire monter les primes d'assurance maritime et décourager le commerce.",
-            "effet_en": "Increased attacks in the Black Sea could drive up maritime insurance premiums and discourage trade.",
-            "effet_zh": "黑海袭击增加可能推高航运保险费率并抑制贸易。",
+            "secteur_fr": "Énergie (pétrole)",
+            "secteur_en": "Energy (oil)",
+            "secteur_zh": "能源（石油）",
+            "effet_fr": "Une perturbation des routes maritimes pourrait faire monter les prix du pétrole, impactant les économies dépendantes des importations énergétiques.",
+            "effet_en": "Disruptions to maritime routes could drive up oil prices, impacting economies reliant on energy imports.",
+            "effet_zh": "海上航线中断可能推高石油价格，影响依赖能源进口的经济体。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-02T16:00:14.691238"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-04T22:11:01.606988"
+      },
       {
         "id": "iran_466188",
         "titre": "Bourse américaine atteint un record grâce à l'Iran",
@@ -5952,127 +6011,68 @@
           }
         ],
         "created_at": "2026-08-02T12:02:44.052067"
-      },
-      {
-        "id": "iran_627113",
-        "titre": "L'armée iranienne recherche trois pilotes disparus",
-        "titre_en": "Iranian army searches for three missing pilots",
-        "titre_zh": "伊朗军方寻找三名失踪飞行员",
-        "titre_ru": "Иранская армия разыскивает трёх пилотов после миссии против США",
-        "titre_fa": "ارتش ایران در جستجوی سرنوشت سه خلبان پس از ماموریتی علیه نیروهای آمریکایی",
-        "titre_ar": "الجيش الإيراني يبحث عن مصير ثلاثة طيارين بعد مهمة استهدفت القوات الأمريكية",
-        "titre_original": "Iranian army seeks fate of three pilots after mission targeting US forces",
-        "resume": "L'Iran tente de localiser trois pilotes portés disparus après une mission militaire ciblant des forces américaines. Cette opération s'inscrit dans un contexte de tensions croissantes entre Téhéran et Washington. Les autorités iraniennes n'ont pas encore communiqué sur les causes ou les résultats de cette mission.",
-        "resume_en": "Iran is trying to locate three missing pilots after a military mission targeting US forces. This operation occurs amid rising tensions between Tehran and Washington. Iranian authorities have not yet disclosed the causes or outcomes of the mission.",
-        "resume_zh": "伊朗试图在针对美军的军事行动后寻找三名失踪飞行员。此次行动发生在德黑兰与华盛顿紧张局势加剧之际。伊朗当局尚未披露行动的原因或结果。",
-        "resume_ru": "Иранская армия продолжает поиски трёх пропавших пилотов, которые участвовали в операции против американских сил. Это подчеркивает сложность и возможные скрытые издержки военных действий на фоне обострения напряжённости между США и Ираном. Власти не комментируют детали миссии, что вызывает дополнительные вопросы.",
-        "resume_fa": "ارتش ایران در جستجوی سرنوشت سه خلبان گمشده است که در ماموریتی علیه نیروهای آمریکایی شرکت داشتند. این موضوع پیچیدگی‌ها و هزینه‌های پنهان عملیات‌های نظامی در شرایط تشدید تنش‌های ایران و آمریکا را نشان می‌دهد. مقامات از ارائه جزئیات خودداری کرده‌اند که ابهامات بیشتری ایجاد می‌کند.",
-        "resume_ar": "الجيش الإيراني يواصل البحث عن مصير ثلاثة طيارين مفقودين شاركوا في مهمة استهدفت القوات الأمريكية. ويبرز هذا الأمر تعقيدات والتكاليف الخفية للعمليات العسكرية في ظل تصاعد التوترات بين الولايات المتحدة وإيران. ولم تعلق السلطات على تفاصيل المهمة، مما أثار تساؤلات إضافية.",
-        "analyse_detaillee": "Cette crise s'inscrit dans un contexte de tensions historiques entre l'Iran et les États-Unis, remontant à la révolution islamique de 1979 et aux sanctions économiques imposées depuis. Les enjeux principaux incluent la souveraineté iranienne face aux pressions américaines et la gestion des représailles militaires. Les causes profondes résident dans la rivalité géopolitique régionale et la course aux armements. À court terme, cette situation pourrait entraîner des escalades militaires ou des négociations secrètes pour éviter un conflit ouvert. À moyen terme, les tensions pourraient affecter la stabilité du Golfe persique et les routes commerciales stratégiques. À long terme, une escalade incontrôlée pourrait redessiner les alliances au Moyen-Orient. Les acteurs clés sont l'Iran, les États-Unis, Israël et les pays du Golfe, chacun défendant des intérêts divergents.",
-        "analyse_en": "This crisis is part of a historical context of tensions between Iran and the United States, dating back to the 1979 Islamic Revolution and subsequent economic sanctions. The main stakes include Iran's sovereignty against US pressures and the management of military retaliation. The root causes lie in regional geopolitical rivalry and the arms race. In the short term, this situation could lead to military escalation or secret negotiations to avoid open conflict. In the medium term, tensions could affect the stability of the Persian Gulf and strategic trade routes. In the long term, uncontrolled escalation could reshape alliances in the Middle East. Key actors are Iran, the United States, Israel, and Gulf countries, each defending divergent interests.",
-        "analyse_zh": "这场危机是伊朗与美国历史紧张局势的一部分，可追溯至1979年伊斯兰革命及之后的经济制裁。主要影响包括伊朗主权面对美国压力以及军事报复的管理。深层原因在于地区地缘政治竞争与军备竞赛。短期内，此局势可能导致军事升级或秘密谈判以避免公开冲突。中期来看，紧张局势可能影响波斯湾稳定与战略贸易路线。长期而言，失控的升级可能重塑中东联盟。主要行为者包括伊朗、美国、以色列与海湾国家，各自维护不同利益。",
-        "analyse_ru": "Контекст операции связан с обострением отношений между Ираном и США, особенно после серии взаимных угроз и санкций. Причины поисков пилотов могут включать как боевые потери, так и возможные технические сбои или диверсии. Последствия неясности судьбы экипажей могут усилить внутриполитическое давление на иранское руководство и повлиять на переговорные позиции Тегерана. Перспективы зависят от результатов расследования: если подтвердится гибель пилотов, это может спровоцировать ответные меры Ирана. Позиции сторон остаются жёсткими: США продолжают угрозы, а Иран демонстрирует решимость в защите своих интересов.",
-        "analyse_fa": "زمینه این عملیات به تشدید روابط بین ایران و آمریکا بازمی‌گردد، به ویژه پس از تهدیدات متقابل و تحریم‌ها. دلایل جستجوی خلبانان می‌تواند شامل تلفات رزمی، نقص فنی یا حتی اقدامات خرابکارانه باشد. پیامدهای عدم روشن شدن سرنوشت خلبانان می‌تواند فشار سیاسی داخلی بر حکومت ایران را افزایش دهد و بر موضع مذاکراتی تهران تأثیر بگذارد. چشم‌اندازها به نتایج تحقیقات بستگی دارد: اگر مرگ خلبانان تأیید شود، ممکن است واکنش‌های تلافی‌جویانه ایران را به دنبال داشته باشد. موضع بازیگران همچنان سخت است: آمریکا به تهدیدات خود ادامه می‌دهد و ایران در دفاع از منافع خود مصمم نشان می‌دهد.",
-        "analyse_ar": "يرتبط سياق العملية بتوتر العلاقات بين إيران والولايات المتحدة، خاصة بعد التهديدات المتبادلة والعقوبات. قد تشمل أسباب البحث عن الطيارين خسائر قتالية أو أعطال فنية أو حتى أعمال تخريب. قد تؤدي عدم وضوح مصير الطيارين إلى زيادة الضغط السياسي الداخلي على القيادة الإيرانية وتأثير على موقف طهران التفاوضي. ترتبط الآفاق بنتائج التحقيقات: إذا تم تأكيد مقتل الطيارين، فقد يؤدي ذلك إلى ردود فعل انتقامية من إيران. остаются المواقف صارمة: تواصل الولايات المتحدة التهديدات، بينما تظهر إيران تصميمها على الدفاع عن مصالحها.",
-        "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-army-missing-pilots-us-forces-mission/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01063715/iran-army-tank-800x420.jpeg",
-        "date": "2026-08-01",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Assurances maritimes",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "L'escalade des tensions pourrait perturber l'approvisionnement en pétrole du Golfe persique, entraînant une hausse des prix.",
-            "effet_en": "Escalating tensions could disrupt Persian Gulf oil supplies, leading to price increases.",
-            "effet_zh": "紧张局势升级可能扰乱波斯湾石油供应，导致价格上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurances maritimes",
-            "secteur_en": "Maritime insurance",
-            "secteur_zh": "海运保险",
-            "effet_fr": "L'augmentation des risques géopolitiques pourrait faire grimper les primes d'assurance pour les navires traversant la région.",
-            "effet_en": "Rising geopolitical risks could drive up insurance premiums for ships transiting the region.",
-            "effet_zh": "地缘政治风险上升可能推高穿越该地区船只的保险费率。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-02T10:41:08.608432"
       }
     ]
   },
   "politique": [
     {
-      "id": "pol_env_961083",
-      "titre": "Daikin utilise un PFAS controversé près de Lyon",
-      "titre_en": "Daikin to use controversial PFAS near Lyon",
-      "titre_zh": "大金公司在里昂附近使用有争议PFAS",
-      "titre_ru": "Daikin использует новый PFAS, разлагающийся в TFA",
-      "titre_fa": "دایکین از PFAS جدیدی استفاده می‌کند که به TFA تجزیه می‌شود",
-      "titre_ar": "دايكين ستستخدم مادة PFAS جديدة تتحلل إلى TFA",
-      "titre_original": "INFO FRANCE 3 : Daikin va utiliser un nouveau PFAS qui se dégrade en TFA, polluant éternel susceptible d'être \"toxique pour la reproduction\"",
-      "resume": "Daikin, industriel japonais, annonce l'utilisation d'un nouveau PFAS sur son site de la vallée de la chimie, au sud de Lyon. Ce composé se dégrade en TFA, un polluant éternel classé toxique pour la reproduction. La région, déjà touchée par des contaminations aux polluants éternels, s'inquiète des risques sanitaires et environnementaux.",
-      "resume_en": "Daikin, a Japanese industrial giant, plans to use a new PFAS at its site in the Lyon chemical valley. This compound degrades into TFA, a forever chemical deemed toxic for reproduction. The region, already affected by PFAS pollution, fears further health and environmental risks.",
-      "resume_zh": "日本工业巨头大金公司计划在里昂化工谷的工厂使用一种新型PFAS。这种化合物降解为TFA，一种被认定为生殖毒性的永久性化学物质。该地区已饱受PFAS污染之苦，担心健康和环境风险进一步加剧。",
-      "resume_ru": "Японская компания Daikin объявила о начале использования нового типа PFAS на своём предприятии южнее Лиона. Это вещество разлагается в TFA — токсичное соединение, известное как «вечный загрязнитель». Экологи предупреждают о возможных рисках для репродуктивного здоровья.",
-      "resume_fa": "شرکت ژاپنی دایکین اعلام کرد که از ماده PFAS جدیدی در کارخانه خود در جنوب لیون استفاده خواهد کرد. این ماده به TFA تجزیه می‌شود که یک آلاینده پایدار و سمی است. کارشناسان نسبت به خطرات احتمالی آن برای سلامت تولید مثل هشدار داده‌اند.",
-      "resume_ar": "أعلنت شركة دايكن اليابانية عن استخدام مادة PFAS جديدة في مصنعها جنوب ليون. تتحلل هذه المادة إلى TFA، وهو ملوث دائم وسام. يحذر الخبراء من مخاطرها المحتملة على الصحة الإنجابية.",
-      "analyse_detaillee": "Les PFAS, ou 'polluants éternels', sont des substances chimiques persistantes utilisées depuis les années 1950 dans l'industrie. Leur accumulation dans les sols et les eaux pose un défi environnemental majeur, notamment dans la vallée de la chimie, un pôle historique de la chimie française. Daikin justifie son choix par des normes réglementaires moins strictes que dans d'autres pays, mais les associations locales dénoncent un manque de transparence. À court terme, cette décision pourrait aggraver la pollution des nappes phréatiques, déjà surveillées pour leurs taux élevés de PFAS. À moyen terme, les risques sanitaires pour les populations locales, notamment les femmes enceintes, pourraient s'accroître. À long terme, la réputation de la région comme territoire industriel durable pourrait être compromise. Les acteurs locaux, dont les élus et les associations, appellent à une régulation plus stricte, tandis que Daikin mise sur l'innovation pour réduire son impact environnemental.",
-      "analyse_en": "PFAS, or 'forever chemicals,' are persistent chemicals used since the 1950s in industry. Their accumulation in soil and water poses a major environmental challenge, particularly in the Lyon chemical valley, a historic hub of French chemistry. Daikin defends its choice by citing less stringent regulations than in other countries, but local groups denounce a lack of transparency. In the short term, this decision could worsen groundwater pollution, already monitored for high PFAS levels. In the medium term, health risks for local populations, especially pregnant women, may increase. Long-term, the region's reputation as a sustainable industrial territory could be at stake. Local stakeholders, including officials and NGOs, demand stricter regulation, while Daikin relies on innovation to mitigate its environmental footprint.",
-      "analyse_zh": "PFAS（永久性化学物质）是自20世纪50年代起在工业中使用的持久性化合物。其在土壤和水中的积累构成重大环境挑战，特别是在里昂化工谷这一法国化工重镇。大金公司以其他国家监管标准更严为由辩护，但当地团体批评其缺乏透明度。短期内，此决定可能加剧已被监测到PFAS超标的地下水污染。中期来看，当地居民（尤其是孕妇）的健康风险可能上升。长期而言，该地区作为可持续工业区的声誉可能受损。当地利益相关者（包括官员和非政府组织）呼吁更严格监管，而大金公司则依赖创新减少环境影响。",
-      "analyse_ru": "Использование нового PFAS компанией Daikin в регионе, уже пострадавшем от загрязнения «вечными химикатами», вызывает обеспокоенность экологов. Причина внедрения связана с поиском альтернатив традиционным PFAS, но новое соединение разлагается в TFA — токсичный метаболит, способный накапливаться в окружающей среде. Последствия могут включать ухудшение экологической ситуации в долине Роны и угрозу здоровью местных жителей. Перспективы зависят от регулирования и контроля со стороны властей. Позиция производителя подчеркивает необходимость инноваций, тогда как экологические организации требуют полного запрета PFAS.",
-      "analyse_fa": "استفاده شرکت دایکین از PFAS جدید در منطقه‌ای که پیش از این با آلودگی «مواد شیمیایی ابدی» دست و پنجه نرم می‌کرد، نگرانی‌های زیست‌محیطی را برانگیخته است. دلیل این اقدام جستجوی جایگزینی برای PFASهای سنتی است، اما ترکیب جدید به TFA تجزیه می‌شود که یک آلاینده سمی و پایدار است. پیامدها می‌تواند شامل تشدید آلودگی در دره رون و تهدید سلامت ساکنان محلی باشد. چشم‌انداز این مسئله به سیاست‌گذاری و نظارت دولت‌ها بستگی دارد. موضع شرکت بر لزوم نوآوری تأکید دارد، در حالی که سازمان‌های زیست‌محیطی خواستار ممنوعیت کامل PFAS هستند.",
-      "analyse_ar": "أدى قرار شركة دايكن اليابانية باستخدام مادة PFAS جديدة في منطقة جنوب ليون، التي تعانى أصلاً من تلوث «المواد الكيميائية الأبدية»، إلى إثارة قلق الخبراء البيئيين. تأتي هذه الخطوة في إطار البحث عن بدائل للمواد PFAS التقليدية، لكن المركب الجديد يتحلل إلى TFA، وهو ملوث سام ومستدام يمكن أن يتراكم في البيئة. من العواقب المحتملة تفاقم الوضع البيئي في وادي الرون وتهديد صحة السكان المحليين. ترتبط الآفاق بمدى التنظيم والمراقبة من قبل السلطات. تؤكد الشركة على ضرورة الابتكار، بينما تطالب المنظمات البيئية بحظر كامل للمواد PFAS.",
+      "id": "pol_env_770983",
+      "titre": "Pollution de l'eau à La Clusaz : hydrocarbures détectés",
+      "titre_en": "Water pollution in La Clusaz: hydrocarbons detected",
+      "titre_zh": "拉克卢萨水污染：检测到碳氢化合物",
+      "titre_ru": "В нескольких районах Ла-Клюза обнаружено загрязнение воды",
+      "titre_fa": "آلودگی آب در چند منطقه از لا کلواز شناسایی شد",
+      "titre_ar": "تم اكتشاف تلوث المياه في عدة مناطق من لا كلوزا",
+      "titre_original": "\"Une forte odeur d’hydrocarbures a été détectée\" : une pollution de l'eau touche plusieurs secteurs de La Clusaz",
+      "resume": "Samedi 1er août, une pollution aux hydrocarbures a été signalée dans plusieurs secteurs de La Clusaz (Haute-Savoie). Les autorités ont demandé aux habitants de ne pas consommer l'eau du robinet par précaution. Les causes de cette pollution font actuellement l'objet d'une enquête.",
+      "resume_en": "On August 1st, hydrocarbon pollution was detected in several areas of La Clusaz (Haute-Savoie). Authorities advised residents not to drink tap water as a precaution. The causes of the pollution are currently under investigation.",
+      "resume_zh": "8月1日，拉克卢萨（上萨瓦省）多个地区检测到碳氢化合物污染。当局建议居民谨慎饮用自来水。污染原因目前正在调查中。",
+      "resume_ru": "В субботу, 1 августа, в нескольких районах Ла-Клюза (Верхняя Савойя) было зафиксировано загрязнение воды. Жителям пострадавших районов рекомендовано не использовать водопроводную воду для питья. Причина загрязнения пока не установлена, ведутся расследования.",
+      "resume_fa": "روز شنبه ۱ اوت، آلودگی آب در چند منطقه از لا کلواز (او-ساوآی) شناسایی شد. به ساکنان این مناطق توصیه شده است از آب لوله‌کشی برای نوشیدن استفاده نکنند. علت آلودگی هنوز مشخص نشده و تحقیقات در حال انجام است.",
+      "resume_ar": "تم اكتشاف تلوث المياه في عدة مناطق من لا كلوزا (أوت سافوا العليا) يوم السبت 1 أغسطس. تم توجيه السكان بعدم شرب مياه الصنبور. لم يتم تحديد سبب التلوث بعد، ولا تزال التحقيقات جارية.",
+      "analyse_detaillee": "La pollution aux hydrocarbures à La Clusaz s'inscrit dans un contexte de vigilance accrue sur la qualité de l'eau en France, notamment après des scandales sanitaires passés comme celui de l'eau contaminée au plomb à Paris. Les enjeux principaux concernent la santé publique et la confiance des citoyens envers les autorités locales. Les causes profondes pourraient être liées à des fuites industrielles, des déchets mal gérés ou des activités agricoles intensives. À court terme, les risques sanitaires immédiats incluent des troubles digestifs ou des irritations cutanées. À moyen terme, une dégradation durable de la ressource en eau pourrait affecter l'attractivité touristique de la région. Sur le long terme, cette pollution pourrait renforcer les réglementations environnementales locales et nationales. Les acteurs locaux, comme la mairie et les associations écologistes, appellent à une transparence totale et à des mesures correctives rapides. Les autorités sanitaires et environnementales collaborent pour identifier la source de la contamination.",
+      "analyse_en": "The hydrocarbon pollution in La Clusaz follows a broader context of heightened vigilance over water quality in France, after past scandals like the lead-contaminated water crisis in Paris. The main stakes involve public health and citizens' trust in local authorities. Root causes may include industrial leaks, improper waste management, or intensive agricultural activities. In the short term, immediate health risks include digestive disorders or skin irritations. Medium-term consequences could involve a lasting degradation of the water supply, impacting the region's tourism appeal. Long-term prospects may lead to stricter local and national environmental regulations. Local actors, such as the town hall and environmental associations, demand full transparency and swift corrective measures. Health and environmental authorities are working together to trace the contamination source.",
+      "analyse_zh": "拉克卢萨的碳氢化合物污染发生在法国对水质监管日益严格的背景下，此前巴黎曾爆发铅污染水危机等丑闻。主要影响涉及公共健康和民众对当地政府的信任。深层原因可能包括工业泄漏、废物处理不当或集约化农业活动。短期内，健康风险包括消化系统紊乱或皮肤刺激。中期后果可能导致水资源持续恶化，影响该地区旅游业吸引力。长期来看，此次污染可能推动地方和国家层面的环保法规收紧。当地政府和环保组织呼吁完全透明化并采取快速纠正措施。卫生和环境部门正合作追踪污染源。",
+      "analyse_ru": "Загрязнение воды в Ла-Клюза может быть связано с утечкой углеводородов, что представляет серьезную угрозу для экологии и здоровья местных жителей. Причины могут включать промышленные аварии, нелегальные сбросы или износ инфраструктуры. Последствия могут быть долгосрочными: от отравления до загрязнения почвы и грунтовых вод. Власти должны оперативно выявить источник загрязнения и принять меры по очистке. Экологические организации требуют прозрачности и строгого контроля за источниками загрязнения.",
+      "analyse_fa": "آلودگی آب در لا کلواز ممکن است ناشی از نشت هیدروکربن‌ها باشد که تهدیدی جدی برای محیط زیست و سلامت ساکنان محسوب می‌شود. دلایل احتمالی شامل حوادث صنعتی، دفع غیرقانونی زباله‌ها یا فرسودگی زیرساخت‌ها است. پیامدهای آن می‌تواند بلندمدت باشد: از مسمومیت گرفته تا آلودگی خاک و آب‌های زیرزمینی. مقامات باید سریعاً منبع آلودگی را شناسایی و اقدامات پاکسازی را انجام دهند. سازمان‌های زیست‌محیطی خواستار شفافیت و کنترل دقیق منابع آلودگی هستند.",
+      "analyse_ar": "يعود تلوث المياه في لا كلوزا إلى تسرب الهيدروكربورات، مما يشكل تهديداً خطيراً للبيئة وصحة السكان. الأسباب المحتملة تشمل حوادث صناعية أو تصريفات غير قانونية أو تدهور البنية التحتية. قد تكون العواقب طويلة الأمد، من التسمم إلى تلوث التربة والمياه الجوفية. يجب على السلطات تحديد مصدر التلوث بسرعة واتخاذ إجراءات لتنظيفه. تطالب المنظمات البيئية بالشفافية وضوابط صارمة على مصادر التلوث.",
       "categorie": "Environnement",
       "source": "Franceinfo.fr",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/info-france-3-daikin-va-utiliser-un-nouveau-pfas-qui-se-degrade-en-tfa-polluant-eternel-susceptible-d-etre-toxique-pour-la-reproduction-3395197.html",
-      "image": "https://france3-regions.franceinfo.fr/image/S20XHG34JF1Lcx_Fr1G3bJPl-nw/930x620/regions/2026/07/31/6a6cb9820a8b7373462996.jpg",
-      "date": "2026-08-01",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/une-forte-odeur-d-hydrocarbures-a-ete-detectee-une-pollution-de-l-eau-touche-plusieurs-secteurs-de-la-clusaz-3395713.html",
+      "image": "https://france3-regions.franceinfo.fr/image/sFua0BuwfvgfiaYsueAOjjLCoI0/930x620/regions/2026/08/02/6a6f030d36fd1716503938.jpg",
+      "date": "2026-08-02",
       "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Assurance responsabilité civile environnementale",
-          "hausse": true
+          "label": "▼ Tourisme local",
+          "hausse": false
         },
         {
-          "label": "▼ Marché des obligations vertes",
+          "label": "▼ Agriculture locale",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance responsabilité civile environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques liés à la pollution aux PFAS, rendant les contrats plus coûteux pour les industriels.",
-          "effet_en": "Insurers may raise premiums to cover PFAS pollution risks, making contracts more expensive for industrial firms.",
-          "effet_zh": "保险公司可能提高保费以覆盖PFAS污染风险，令工业企业合同成本上升。",
-          "hausse": true
+          "secteur_fr": "Tourisme local",
+          "secteur_en": "Local tourism",
+          "secteur_zh": "当地旅游业",
+          "effet_fr": "La pollution pourrait dissuader les touristes de visiter La Clusaz, affectant directement les revenus des hébergements et restaurants.",
+          "effet_en": "The pollution could deter tourists from visiting La Clusaz, directly impacting accommodation and restaurant revenues.",
+          "effet_zh": "污染可能阻止游客造访拉克卢萨，直接影响住宿和餐饮业收入。",
+          "hausse": false
         },
         {
-          "secteur_fr": "Marché des obligations vertes",
-          "secteur_en": "Green bonds market",
-          "secteur_zh": "绿色债券市场",
-          "effet_fr": "Les investisseurs pourraient réduire leur exposition aux obligations émises par des entreprises impliquées dans des controverses environnementales comme Daikin.",
-          "effet_en": "Investors may reduce exposure to bonds issued by firms involved in environmental controversies like Daikin.",
-          "effet_zh": "投资者可能减少对涉及环境争议企业（如大金公司）发行债券的投资。",
+          "secteur_fr": "Agriculture locale",
+          "secteur_en": "Local agriculture",
+          "secteur_zh": "当地农业",
+          "effet_fr": "Les exploitations agricoles pourraient subir des restrictions d'irrigation, menaçant les récoltes et la qualité des produits.",
+          "effet_en": "Local farms may face irrigation restrictions, threatening harvests and product quality.",
+          "effet_zh": "当地农场可能面临灌溉限制，威胁收成和产品质量。",
           "hausse": false
         }
       ],
-      "created_at": "2026-08-04T20:23:38.490467",
+      "created_at": "2026-08-04T22:11:22.907275",
       "sous_categorie": "environnement"
     },
     {
@@ -6376,6 +6376,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_961083",
+      "titre": "Daikin utilise un PFAS controversé près de Lyon",
+      "titre_en": "Daikin to use controversial PFAS near Lyon",
+      "titre_zh": "大金公司在里昂附近使用有争议PFAS",
+      "titre_ru": "Daikin использует новый PFAS, разлагающийся в TFA",
+      "titre_fa": "دایکین از PFAS جدیدی استفاده می‌کند که به TFA تجزیه می‌شود",
+      "titre_ar": "دايكين ستستخدم مادة PFAS جديدة تتحلل إلى TFA",
+      "titre_original": "INFO FRANCE 3 : Daikin va utiliser un nouveau PFAS qui se dégrade en TFA, polluant éternel susceptible d'être \"toxique pour la reproduction\"",
+      "resume": "Daikin, industriel japonais, annonce l'utilisation d'un nouveau PFAS sur son site de la vallée de la chimie, au sud de Lyon. Ce composé se dégrade en TFA, un polluant éternel classé toxique pour la reproduction. La région, déjà touchée par des contaminations aux polluants éternels, s'inquiète des risques sanitaires et environnementaux.",
+      "resume_en": "Daikin, a Japanese industrial giant, plans to use a new PFAS at its site in the Lyon chemical valley. This compound degrades into TFA, a forever chemical deemed toxic for reproduction. The region, already affected by PFAS pollution, fears further health and environmental risks.",
+      "resume_zh": "日本工业巨头大金公司计划在里昂化工谷的工厂使用一种新型PFAS。这种化合物降解为TFA，一种被认定为生殖毒性的永久性化学物质。该地区已饱受PFAS污染之苦，担心健康和环境风险进一步加剧。",
+      "resume_ru": "Японская компания Daikin объявила о начале использования нового типа PFAS на своём предприятии южнее Лиона. Это вещество разлагается в TFA — токсичное соединение, известное как «вечный загрязнитель». Экологи предупреждают о возможных рисках для репродуктивного здоровья.",
+      "resume_fa": "شرکت ژاپنی دایکین اعلام کرد که از ماده PFAS جدیدی در کارخانه خود در جنوب لیون استفاده خواهد کرد. این ماده به TFA تجزیه می‌شود که یک آلاینده پایدار و سمی است. کارشناسان نسبت به خطرات احتمالی آن برای سلامت تولید مثل هشدار داده‌اند.",
+      "resume_ar": "أعلنت شركة دايكن اليابانية عن استخدام مادة PFAS جديدة في مصنعها جنوب ليون. تتحلل هذه المادة إلى TFA، وهو ملوث دائم وسام. يحذر الخبراء من مخاطرها المحتملة على الصحة الإنجابية.",
+      "analyse_detaillee": "Les PFAS, ou 'polluants éternels', sont des substances chimiques persistantes utilisées depuis les années 1950 dans l'industrie. Leur accumulation dans les sols et les eaux pose un défi environnemental majeur, notamment dans la vallée de la chimie, un pôle historique de la chimie française. Daikin justifie son choix par des normes réglementaires moins strictes que dans d'autres pays, mais les associations locales dénoncent un manque de transparence. À court terme, cette décision pourrait aggraver la pollution des nappes phréatiques, déjà surveillées pour leurs taux élevés de PFAS. À moyen terme, les risques sanitaires pour les populations locales, notamment les femmes enceintes, pourraient s'accroître. À long terme, la réputation de la région comme territoire industriel durable pourrait être compromise. Les acteurs locaux, dont les élus et les associations, appellent à une régulation plus stricte, tandis que Daikin mise sur l'innovation pour réduire son impact environnemental.",
+      "analyse_en": "PFAS, or 'forever chemicals,' are persistent chemicals used since the 1950s in industry. Their accumulation in soil and water poses a major environmental challenge, particularly in the Lyon chemical valley, a historic hub of French chemistry. Daikin defends its choice by citing less stringent regulations than in other countries, but local groups denounce a lack of transparency. In the short term, this decision could worsen groundwater pollution, already monitored for high PFAS levels. In the medium term, health risks for local populations, especially pregnant women, may increase. Long-term, the region's reputation as a sustainable industrial territory could be at stake. Local stakeholders, including officials and NGOs, demand stricter regulation, while Daikin relies on innovation to mitigate its environmental footprint.",
+      "analyse_zh": "PFAS（永久性化学物质）是自20世纪50年代起在工业中使用的持久性化合物。其在土壤和水中的积累构成重大环境挑战，特别是在里昂化工谷这一法国化工重镇。大金公司以其他国家监管标准更严为由辩护，但当地团体批评其缺乏透明度。短期内，此决定可能加剧已被监测到PFAS超标的地下水污染。中期来看，当地居民（尤其是孕妇）的健康风险可能上升。长期而言，该地区作为可持续工业区的声誉可能受损。当地利益相关者（包括官员和非政府组织）呼吁更严格监管，而大金公司则依赖创新减少环境影响。",
+      "analyse_ru": "Использование нового PFAS компанией Daikin в регионе, уже пострадавшем от загрязнения «вечными химикатами», вызывает обеспокоенность экологов. Причина внедрения связана с поиском альтернатив традиционным PFAS, но новое соединение разлагается в TFA — токсичный метаболит, способный накапливаться в окружающей среде. Последствия могут включать ухудшение экологической ситуации в долине Роны и угрозу здоровью местных жителей. Перспективы зависят от регулирования и контроля со стороны властей. Позиция производителя подчеркивает необходимость инноваций, тогда как экологические организации требуют полного запрета PFAS.",
+      "analyse_fa": "استفاده شرکت دایکین از PFAS جدید در منطقه‌ای که پیش از این با آلودگی «مواد شیمیایی ابدی» دست و پنجه نرم می‌کرد، نگرانی‌های زیست‌محیطی را برانگیخته است. دلیل این اقدام جستجوی جایگزینی برای PFASهای سنتی است، اما ترکیب جدید به TFA تجزیه می‌شود که یک آلاینده سمی و پایدار است. پیامدها می‌تواند شامل تشدید آلودگی در دره رون و تهدید سلامت ساکنان محلی باشد. چشم‌انداز این مسئله به سیاست‌گذاری و نظارت دولت‌ها بستگی دارد. موضع شرکت بر لزوم نوآوری تأکید دارد، در حالی که سازمان‌های زیست‌محیطی خواستار ممنوعیت کامل PFAS هستند.",
+      "analyse_ar": "أدى قرار شركة دايكن اليابانية باستخدام مادة PFAS جديدة في منطقة جنوب ليون، التي تعانى أصلاً من تلوث «المواد الكيميائية الأبدية»، إلى إثارة قلق الخبراء البيئيين. تأتي هذه الخطوة في إطار البحث عن بدائل للمواد PFAS التقليدية، لكن المركب الجديد يتحلل إلى TFA، وهو ملوث سام ومستدام يمكن أن يتراكم في البيئة. من العواقب المحتملة تفاقم الوضع البيئي في وادي الرون وتهديد صحة السكان المحليين. ترتبط الآفاق بمدى التنظيم والمراقبة من قبل السلطات. تؤكد الشركة على ضرورة الابتكار، بينما تطالب المنظمات البيئية بحظر كامل للمواد PFAS.",
+      "categorie": "Environnement",
+      "source": "Franceinfo.fr",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/info-france-3-daikin-va-utiliser-un-nouveau-pfas-qui-se-degrade-en-tfa-polluant-eternel-susceptible-d-etre-toxique-pour-la-reproduction-3395197.html",
+      "image": "https://france3-regions.franceinfo.fr/image/S20XHG34JF1Lcx_Fr1G3bJPl-nw/930x620/regions/2026/07/31/6a6cb9820a8b7373462996.jpg",
+      "date": "2026-08-01",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile environnementale",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des obligations vertes",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques liés à la pollution aux PFAS, rendant les contrats plus coûteux pour les industriels.",
+          "effet_en": "Insurers may raise premiums to cover PFAS pollution risks, making contracts more expensive for industrial firms.",
+          "effet_zh": "保险公司可能提高保费以覆盖PFAS污染风险，令工业企业合同成本上升。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des obligations vertes",
+          "secteur_en": "Green bonds market",
+          "secteur_zh": "绿色债券市场",
+          "effet_fr": "Les investisseurs pourraient réduire leur exposition aux obligations émises par des entreprises impliquées dans des controverses environnementales comme Daikin.",
+          "effet_en": "Investors may reduce exposure to bonds issued by firms involved in environmental controversies like Daikin.",
+          "effet_zh": "投资者可能减少对涉及环境争议企业（如大金公司）发行债券的投资。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-08-04T20:23:38.490467",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_457707",
       "titre": "Haemers Technologies répare les sols contaminés",
       "titre_en": "Haemers Technologies cleans contaminated soils",
@@ -6613,66 +6673,6 @@
         }
       ],
       "created_at": "2026-08-04T10:38:19.118426",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_422949",
-      "titre": "Trump approuve des pesticides cancérigènes",
-      "titre_en": "Trump approves carcinogenic pesticides",
-      "titre_zh": "特朗普批准致癌农药",
-      "titre_ru": "Решение администрации Трампа тревожит учёных",
-      "titre_fa": "تصمیم دولت ترامپ دانشمندان را نگران کرد",
-      "titre_ar": "قرار إدارة ترامب يقلق العلماء",
-      "titre_original": "Un choix de l'administration Trump inquiète scientifiques et chercheurs: \"Des preuves qui suggèrent un potentiel cancérigène\"",
-      "resume": "L'administration Trump a récemment approuvé plusieurs nouveaux pesticides, suscitant l'inquiétude des scientifiques et associations environnementales. Ces substances pourraient être des PFAS, des composés chimiques persistants et toxiques. Les experts craignent des risques accrus pour la santé publique et l'environnement.",
-      "resume_en": "The Trump administration recently approved several new pesticides, raising concerns among scientists and environmental groups. These substances may be PFAS, persistent and toxic chemical compounds. Experts fear increased risks to public health and the environment.",
-      "resume_zh": "特朗普政府最近批准了几种新农药，引发科学家和环保组织的担忧。这些物质可能是PFAS，一种持久且有毒的化学化合物。专家担心对公众健康和环境的风险增加。",
-      "resume_ru": "Администрация США одобрила несколько новых пестицидов, что вызвало обеспокоенность учёных и экологов. Они утверждают, что эти вещества могут быть опасными канцерогенами. Эксперты предупреждают о возможных долгосрочных последствиях для здоровья и окружающей среды.",
-      "resume_fa": "دولت آمریکا چند سم جدید را تأیید کرد که باعث نگرانی دانشمندان و محیط‌بانان شد. آنها معتقدند این مواد شیمیایی می‌توانند سرطان‌زا باشند. کارشناسان نسبت به پیامدهای بلندمدت برای سلامت و محیط زیست هشدار می‌دهند.",
-      "resume_ar": "أقرّت إدارة أمريكية عدة مبيدات جديدة أثارت قلق العلماء والمنظمات البيئية.他们认为 هذه المواد قد تكون مسرطنة. يحذّر الخبراء من عواقب صحية وبيئية طويلة الأمد.",
-      "analyse_detaillee": "L'approbation de ces pesticides s'inscrit dans une politique environnementale controversée de l'administration Trump, marquée par un assouplissement des régulations. Les PFAS, surnommés 'produits chimiques éternels', sont déjà pointés du doigt pour leur persistance dans l'environnement et leurs effets cancérigènes avérés. Cette décision pourrait affaiblir les normes de sécurité alimentaire et sanitaire aux États-Unis, déjà critiquées par l'OMS. À court terme, les agriculteurs et consommateurs pourraient être exposés à des risques accrus de cancers et maladies chroniques. À moyen terme, une contamination généralisée des sols et eaux est probable, avec des coûts de dépollution élevés. À long terme, cette politique pourrait nuire à la réputation des États-Unis en matière de protection environnementale et sanitaire. Les scientifiques et ONG appellent à un moratoire, tandis que l'industrie agrochimique défend ces approbations au nom de la compétitivité économique.",
-      "analyse_en": "The approval of these pesticides aligns with the Trump administration's controversial environmental policy, characterized by relaxed regulations. PFAS, dubbed 'forever chemicals,' are already criticized for their environmental persistence and proven carcinogenic effects. This decision could weaken food and health safety standards in the U.S., already criticized by the WHO. In the short term, farmers and consumers may face increased risks of cancer and chronic diseases. In the medium term, widespread soil and water contamination is likely, with high cleanup costs. Long-term, this policy could harm the U.S.'s reputation in environmental and health protection. Scientists and NGOs call for a moratorium, while the agrochemical industry defends these approvals in the name of economic competitiveness.",
-      "analyse_zh": "批准这些农药符合特朗普政府放宽监管的争议性环境政策。被称为“永远化学品”的PFAS因其在环境中的持久性和已证实的致癌作用而备受批评。此决定可能削弱美国的食品和健康安全标准，这些标准已受到世卫组织的批评。短期内，农民和消费者可能面临癌症和慢性病风险增加。中期内，土壤和水污染可能广泛蔓延，清理成本高昂。长期来看，此政策可能损害美国在环境和健康保护方面的声誉。科学家和非政府组织呼吁暂停批准，而农化行业则以经济竞争力为由捍卫这些批准。",
-      "analyse_ru": "Контекст решения связан с политикой администрации Трампа, которая ослабила регуляторные нормы в области химических веществ. Причины обеспокоенности учёных кроются в том, что одобренные пестициды могут содержать PFAS — опасные соединения, известные как «вечные химикаты». Последствия могут быть катастрофическими: загрязнение почвы и воды, рост онкологических заболеваний. Перспективы зависят от позиции следующих администраций и общественного давления. Позиции сторон разделились: производители химикатов поддерживают решение, а учёные и экологи требуют ужесточения контроля.",
-      "analyse_fa": "زمینه این تصمیم به سیاست‌های دولت ترامپ بازمی‌گردد که مقررات مربوط به مواد شیمیایی را تضعیف کرد. نگرانی دانشمندان از این است که سموم تأییدشده حاوی PFAS باشند، ترکیبات خطرناکی که به «شیمیایی‌های ابدی» معروفند. پیامدها می‌تواند فاجعه‌بار باشد: آلودگی خاک و آب، افزایش سرطان. چشم‌انداز به موضع دولت‌های آینده و فشارهای اجتماعی بستگی دارد. مواضع طرف‌ها متفاوت است: تولیدکنندگان مواد شیمیایی از این تصمیم حمایت می‌کنند، در حالی که دانشمندان و محیط‌بانان خواستار سخت‌گیری بیشتر هستند.",
-      "analyse_ar": "يرتبط السياق بسياسات إدارة ترامب التي خففت من الضوابط التنظيمية للمواد الكيميائية. أسباب القلق تكمن في أن المبيدات المعتمدة قد تحتوي على PFAS، مركبات خطيرة تُعرف بـ«المواد الكيميائية الأبدية». قد تكون العواقب كارثية: تلوث التربة والمياه وزيادة الأمراض السرطانية. ترتبط الآفاق بموقف الإدارات القادمة والضغط الشعبي. مواقف الأطراف متضاربة: يدعم منتجو المواد الكيميائية القرار، بينما يطالب العلماء والبيئيون بتشديد الرقابة.",
-      "categorie": "Environnement",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/actu/monde/2026/08/03/un-choix-de-ladministration-trump-inquiete-scientifiques-et-chercheurs-des-preuves-qui-suggerent-un-potentiel-cancerigene-FF6LPCGFVJDM5EY6IDRARTOBZE/",
-      "image": "https://www.dhnet.be/resizer/v2/KZKCWJJVYVEEBLOJA6RO23XKRA.jpg?auth=de04807d9518dac95f60d2c06c48ac20a4789aee906b8e5efdb8e3c37f35b832&width=1200&height=630&quality=85&focal=4320%2C2880",
-      "date": "2026-08-03",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Secteur agroalimentaire",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des assurances",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Secteur agroalimentaire",
-          "secteur_en": "Agri-food sector",
-          "secteur_zh": "农业食品行业",
-          "effet_fr": "L'approbation de ces pesticides pourrait réduire les coûts de production pour les agriculteurs mais augmenter les risques de contamination des cultures et des chaînes d'approvisionnement.",
-          "effet_en": "The approval of these pesticides could lower production costs for farmers but increase risks of crop and supply chain contamination.",
-          "effet_zh": "批准这些农药可能降低农民的生产成本，但增加农作物和供应链污染的风险。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des assurances",
-          "secteur_en": "Insurance market",
-          "secteur_zh": "保险市场",
-          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter en raison des risques accrus de maladies liées à l'exposition aux PFAS.",
-          "effet_en": "Insurers may see premiums rise due to increased risks of PFAS-related diseases.",
-          "effet_zh": "由于PFAS相关疾病风险增加，保险公司可能面临保费上涨。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-08-04T07:39:21.700539",
       "sous_categorie": "environnement"
     }
   ]
