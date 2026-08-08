@@ -1,7 +1,66 @@
 {
-  "last_updated": "08/08/2026 à 05h42",
+  "last_updated": "08/08/2026 à 06h51",
   "articles": {
     "monde": [
+      {
+        "id": "monde_214482",
+        "titre": "Un groupe cybercriminel actif depuis 2020 identifié",
+        "titre_en": "Cybercrime group active since 2020 linked to Redis attacks",
+        "titre_zh": "网络犯罪组织自2020年起活跃，与Redis攻击相关",
+        "titre_ru": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+        "titre_fa": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+        "titre_ar": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+        "titre_original": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+        "resume": "Une analyse révèle que le groupe TeamPCP mène des cyberattaques depuis 2020, ciblant des infrastructures exposées. Ces attaques ont évolué vers des campagnes de supply chain. Les experts soulignent la sophistication croissante des méthodes employées.",
+        "resume_en": "An analysis reveals that the TeamPCP group has conducted cyberattacks since 2020, targeting exposed infrastructures. These attacks have evolved into supply chain campaigns. Experts highlight the increasing sophistication of the methods used.",
+        "resume_zh": "一项分析显示，TeamPCP组织自2020年起发动网络攻击，针对暴露的基础设施。这些攻击已演变为供应链活动。专家强调所用方法日益复杂。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les cyberattaques par supply chain sont devenues une menace majeure pour les entreprises et les États. TeamPCP illustre l'évolution des tactiques des cybercriminels, passant de cibles directes à des attaques indirectes via des fournisseurs. Historiquement, les groupes comme TeamPCP profitent des failles de sécurité non corrigées pour infiltrer des réseaux. À court terme, les entreprises pourraient subir des pertes financières et des fuites de données sensibles. À moyen terme, une réglementation plus stricte sur la cybersécurité est probable. À long terme, la dépendance aux technologies numériques pourrait rendre les économies vulnérables. Les États et les entreprises doivent collaborer pour renforcer les défenses. Les assurances cyber pourraient devenir plus coûteuses. La course entre attaquants et défenseurs s'intensifie.",
+        "analyse_en": "Supply chain cyberattacks have become a major threat to businesses and states. TeamPCP exemplifies the evolution of cybercriminal tactics, shifting from direct targets to indirect attacks via suppliers. Historically, groups like TeamPCP exploit unpatched security flaws to infiltrate networks. In the short term, companies could face financial losses and sensitive data leaks. In the medium term, stricter cybersecurity regulations are likely. Long-term, reliance on digital technologies could make economies vulnerable. States and businesses must collaborate to strengthen defenses. Cyber insurance could become more expensive. The race between attackers and defenders is intensifying.",
+        "analyse_zh": "供应链网络攻击已成为企业和国家的主要威胁。TeamPCP展现了网络犯罪分子战术的演变，从直接目标转向通过供应商进行间接攻击。历史上，TeamPCP等组织利用未修复的安全漏洞渗透网络。短期内，企业可能面临财务损失和敏感数据泄露。中期来看，更严格的网络安全法规可能出台。长期而言，对数字技术的依赖可能使经济变得脆弱。各国和企业必须合作加强防御。网络保险可能变得更加昂贵。攻击者与防御者之间的竞争正在加剧。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Cybersécurité",
+        "source": "Internet",
+        "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1700-e365/TeamPCP.jpg",
+        "date": "2026-08-07",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des assurances cyber",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des technologies de l'information",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des assurances cyber",
+            "secteur_en": "Cyber insurance market",
+            "secteur_zh": "网络保险市场",
+            "effet_fr": "L'augmentation des attaques pourrait entraîner une hausse des primes et une réduction de la couverture pour les entreprises.",
+            "effet_en": "The rise in attacks could lead to higher premiums and reduced coverage for businesses.",
+            "effet_zh": "攻击增加可能导致保费上涨，企业覆盖范围缩小。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des technologies de l'information",
+            "secteur_en": "Information technology sector",
+            "secteur_zh": "信息技术行业",
+            "effet_fr": "Les entreprises IT pourraient voir leurs coûts de sécurité exploser en raison de la sophistication accrue des attaques.",
+            "effet_en": "IT companies could see their security costs skyrocket due to the increased sophistication of attacks.",
+            "effet_zh": "IT企业可能因攻击手段日益复杂而面临安全成本飙升。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-08T06:51:24.067745"
+      },
       {
         "id": "monde_164953",
         "titre": "Prix du pétrole en hausse après attaques Houthis",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-07T06:09:28.660582"
-      },
-      {
-        "id": "monde_617551",
-        "titre": "Effondrement d'une maison en Inde : 6 morts",
-        "titre_en": "House collapse in India kills 6, one survivor critical",
-        "titre_zh": "印度房屋倒塌致6人死亡",
-        "titre_ru": "Обрушение дома в Индии унесло жизни 6 человек",
-        "titre_fa": "فروریختن خانه در هند جان ۶ نفر را گرفت",
-        "titre_ar": "انهيار منزل في الهند يودي بحياة 6 أشخاص",
-        "titre_original": "Pratapgarh house collapse kills 6 of family, lone survivor critically injured",
-        "resume": "Six membres d'une famille ont péri jeudi matin lorsque le toit de leur vieille maison s'est effondré sous les fortes pluies. Les voisins, alertés, ont appelé les secours qui ont extrait une survivante grièvement blessée. Les intempéries en Inde deviennent de plus en plus fréquentes.",
-        "resume_en": "Six family members died Thursday morning when the roof of their old house collapsed due to heavy rainfall. Neighbors alerted rescue teams, who rescued a critically injured survivor. Extreme weather events in India are becoming increasingly frequent.",
-        "resume_zh": "周四上午，由于暴雨，一栋老房子的屋顶倒塌，导致六名家庭成员死亡。邻居报警后，救援队救出了一名重伤幸存者。印度的极端天气事件日益频繁。",
-        "resume_ru": "В индийском городе Пратапгарх обрушился старый дом, похоронив под обломками шесть членов семьи. Единственный выживший находится в критическом состоянии. Соседи вызвали спасателей, которые пытались извлечь пострадавших.",
-        "resume_fa": "در شهر پرتاپ‌گره هند، سقف خانه قدیمی فرو ریخت و شش عضو خانواده را زیر آوار مدفون کرد. تنها بازمانده در وضعیت بحرانی به سر می‌برد. همسایگان آتشنشان‌ها را فراخواندند تا مجروحان را نجات دهند.",
-        "resume_ar": "انهارت منزل قديم في مدينة پرتابغره الهندية، مما أودى بحياة ستة أفراد من عائلة تحت الأنقاض. الناجي الوحيد في حالة حرجة. استدعت الجيران فرق الإنقاذ التي حاولت إخراج الضحايا.",
-        "analyse_detaillee": "L'Inde, pays en développement, subit de plein fouet les effets du changement climatique avec des précipitations de plus en plus intenses. Les infrastructures, souvent vétustes, ne résistent pas à ces aléas météorologiques. Les pertes humaines et matérielles risquent d'augmenter si aucune mesure d'adaptation n'est prise. À court terme, les autorités locales doivent renforcer les systèmes d'alerte et de secours. À moyen terme, des investissements dans des logements résistants et des infrastructures durables sont nécessaires. À long terme, l'Inde devra intégrer des politiques climatiques ambitieuses pour protéger sa population. Les populations rurales et urbaines défavorisées sont les plus vulnérables. Le gouvernement indien, bien que conscient du problème, manque souvent de moyens pour y faire face efficacement.",
-        "analyse_en": "India, a developing country, is severely affected by climate change, with increasingly intense rainfall. Infrastructure, often outdated, cannot withstand these weather hazards. Human and material losses are likely to rise if no adaptation measures are taken. In the short term, local authorities must strengthen warning and rescue systems. In the medium term, investments in resilient housing and sustainable infrastructure are necessary. In the long term, India will need to implement ambitious climate policies to protect its population. Rural and urban underprivileged populations are the most vulnerable. The Indian government, while aware of the issue, often lacks the means to address it effectively.",
-        "analyse_zh": "印度作为发展中国家，正在经历气候变化的严重影响，降雨日益强烈。基础设施通常陈旧，无法抵御这些气象灾害。如果不采取适应措施，人员和财产损失可能会增加。短期内，地方当局必须加强预警和救援系统。中期来看，需要投资于抗灾住房和可持续基础设施。长期而言，印度需要实施雄心勃勃的气候政策来保护其人口。农村和城市贫困人口是最脆弱的群体。印度政府虽然意识到问题，但往往缺乏有效应对的手段。",
-        "analyse_ru": "Контекст инцидента связан с последствиями сильных дождей и изношенной инфраструктурой в регионе. Причины обрушения крыши обусловлены как природными факторами, так и отсутствием своевременного ремонта. Последствия трагедии включают гибель людей и критические состояния выживших. Перспективы зависят от улучшения строительных норм и систем оповещения. Позиции властей и местных жителей различны: власти обещают расследование, а жители требуют более строгого контроля за состоянием зданий.",
-        "analyse_fa": "زمینه این حادثه به پیامدهای بارش‌های شدید و فرسودگی زیرساخت‌ها در منطقه بازمی‌گردد. دلایل فروپاشی سقف هم عوامل طبیعی و هم عدم تعمیر به موقع است. پیامدهای فاجعه شامل مرگ افراد و وضعیت بحرانی بازماندگان است. چشم‌انداز به بهبود قوانین ساخت و ساز و سیستم‌های هشدار بستگی دارد. موضع مقامات و ساکنان متفاوت است: مقامات وعده تحقیق می‌دهند، در حالی که ساکنان خواستار کنترل دقیق‌تر وضعیت ساختمان‌ها هستند.",
-        "analyse_ar": "يرتبط السياق بآثار الأمطار الغزيرة وتدهور البنية التحتية في المنطقة. أسباب انهيار السقف تعود إلى عوامل طبيعية وغياب الصيانة في الوقت المناسب. عواقب المأساة تشمل وفاة أشخاص وحالة حرجة للناجين. الآفاق تعتمد على تحسين قوانين البناء وأنظمة الإنذار. تختلف مواقف السلطات والسكان: تعد السلطات بإجراء تحقيق، بينما يطالب السكان بمراقبة أكثر صرامة لحالة المباني.",
-        "categorie": "Catastrophe naturelle / Société",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/allahabad/pratapgarh-house-collapse-kills-6-of-family-lone-survivor-critically-injured/articleshow/132979452.cms",
-        "image": "https://static.toiimg.com/thumb/msid-132979466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-08-06",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Assurance habitation",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur de la construction",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance habitation",
-            "secteur_en": "Home insurance",
-            "secteur_zh": "房屋保险",
-            "effet_fr": "Les sinistres liés aux intempéries pourraient augmenter les primes d'assurance et réduire l'accessibilité pour les populations modestes.",
-            "effet_en": "Weather-related claims could raise insurance premiums and reduce accessibility for low-income populations.",
-            "effet_zh": "天气相关的理赔可能会提高保险费用，并降低低收入人群的可及性。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur de la construction",
-            "secteur_en": "Construction sector",
-            "secteur_zh": "建筑行业",
-            "effet_fr": "Les normes de construction devront évoluer pour intégrer des critères de résistance aux intempéries.",
-            "effet_en": "Construction standards will need to evolve to include weather resistance criteria.",
-            "effet_zh": "建筑标准需要纳入抗灾标准。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-07T02:45:55.667036"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_307084",
+        "titre": "La Corée du Sud salue les règles de Trump sur le polysilicium",
+        "titre_en": "South Korea welcomes Trump's polysilicon import rules",
+        "titre_zh": "韩国欢迎特朗普多晶硅进口规则",
+        "titre_ru": "South Korea welcomes Trump polysilicon rules as boost to non-China suppliers",
+        "titre_fa": "South Korea welcomes Trump polysilicon rules as boost to non-China suppliers",
+        "titre_ar": "South Korea welcomes Trump polysilicon rules as boost to non-China suppliers",
+        "titre_original": "South Korea welcomes Trump polysilicon rules as boost to non-China suppliers",
+        "resume": "Les nouvelles règles américaines sur l'importation de polysilicium et produits solaires pourraient réduire la dépendance à la Chine. La Corée du Sud y voit une opportunité pour ses fournisseurs locaux. Les experts anticipent des répercussions sur les marchés énergétiques et technologiques.",
+        "resume_en": "New U.S. import rules on polysilicon and solar products could reduce reliance on China. South Korea sees this as an opportunity for its local suppliers. Experts anticipate repercussions on energy and technology markets.",
+        "resume_zh": "美国新的多晶硅和太阳能产品进口规则可能减少对中国的依赖。韩国视之为本地供应商的机遇。专家预期能源和技术市场将受到影响。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions sino-américaines ont poussé Washington à renforcer son autonomie stratégique dans les secteurs critiques comme les semi-conducteurs et les énergies renouvelables. Historiquement, la Chine domine la production de polysilicium, essentiel pour les panneaux solaires. À court terme, les règles de Trump pourraient perturber les chaînes d'approvisionnement existantes et augmenter les coûts pour les fabricants américains. À moyen terme, cela stimulerait les investissements dans les énergies propres en dehors de la Chine. À long terme, une nouvelle géographie industrielle pourrait émerger, avec des gagnants et des perdants. Les acteurs asiatiques comme la Corée du Sud et le Japon pourraient en profiter. L'Europe, déjà engagée dans la transition verte, pourrait aussi tirer parti de cette dynamique. Les entreprises chinoises pourraient subir des pertes de parts de marché. La guerre commerciale s'étend ainsi aux technologies vertes.",
+        "analyse_en": "Sino-American tensions have pushed Washington to strengthen its strategic autonomy in critical sectors like semiconductors and renewable energies. Historically, China dominates polysilicon production, essential for solar panels. In the short term, Trump's rules could disrupt existing supply chains and increase costs for U.S. manufacturers. In the medium term, this would boost investments in clean energy outside China. Long-term, a new industrial geography could emerge, with winners and losers. Asian actors like South Korea and Japan could benefit. Europe, already committed to the green transition, could also take advantage of this dynamic. Chinese companies could suffer market share losses. The trade war is thus extending to green technologies.",
+        "analyse_zh": "中美紧张局势推动华盛顿加强在半导体和可再生能源等关键领域的战略自主权。历史上，中国主导多晶硅生产，这是太阳能面板的关键原料。短期内，特朗普的规则可能扰乱现有供应链并增加美国制造商的成本。中期来看，这将推动中国以外清洁能源投资。长期而言，可能出现新的工业格局，有人受益有人受损。韩国、日本等亚洲行为体可能受益。已致力于绿色转型的欧洲也可能从中获利。中国企业可能面临市场份额损失。贸易战正扩展至绿色技术领域。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "Digitimes",
+        "url": "https://www.digitimes.com/news/a20260807PD240/polysilicon-low-priced-solar-tariffs-usa.html",
+        "image": "https://img.digitimes.com/newsshow/20260807pd240_files/1_b.jpg",
+        "date": "2026-08-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des énergies renouvelables",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des semi-conducteurs",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des énergies renouvelables",
+            "secteur_en": "Renewable energy market",
+            "secteur_zh": "可再生能源市场",
+            "effet_fr": "La demande en polysilicium non chinois pourrait augmenter, stimulant les investissements dans de nouvelles capacités de production.",
+            "effet_en": "Demand for non-Chinese polysilicon could rise, boosting investments in new production capacities.",
+            "effet_zh": "非中国多晶硅需求可能上升，推动新生产能力投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des semi-conducteurs",
+            "secteur_en": "Semiconductor sector",
+            "secteur_zh": "半导体行业",
+            "effet_fr": "Les fabricants américains pourraient devoir diversifier leurs approvisionnements, augmentant les coûts à court terme.",
+            "effet_en": "U.S. manufacturers may need to diversify their supplies, increasing costs in the short term.",
+            "effet_zh": "美国制造商可能需要多元化供应，短期内增加成本。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-08T06:51:24.067757"
+      },
       {
         "id": "usa_530864",
         "titre": "10 000 soldats testent drones et IA dans le désert",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-07T06:09:28.660628"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_842290",
-        "titre": "Carney se moque de Trump après un bug",
-        "titre_en": "Carney mocks Trump after teleprompter glitch",
-        "titre_zh": "卡尼在提词器故障后嘲笑特朗普",
-        "titre_ru": "Премьер-министр Канады высмеял Трампа из-за сбоя телесуфлёра",
-        "titre_fa": "نخست‌وزیر کانادا ترامپ را به خاطر مشکل دستگاه سخنرانی مسخره کرد",
-        "titre_ar": "رئيس وزراء كندا يسخر من ترامب بسبب خلل في جهاز القراءة",
-        "titre_original": "Canada PM Mark Carney mocks Trump after facing teleprompter glitch",
-        "resume": "Le Premier ministre canadien Mark Carney a fait une remarque humoristique sur Donald Trump après un problème technique lors d'un discours. Il a évoqué l'absence de complot derrière la panne, en référence aux théories de Trump sur les dysfonctionnements des machines électorales.",
-        "resume_en": "Canadian Prime Minister Mark Carney made a humorous remark about Donald Trump after a technical issue during a speech. He dismissed conspiracy theories behind the malfunction, referencing Trump's claims about voting machine malfunctions.",
-        "resume_zh": "加拿大总理马克·卡尼在演讲时遇到技术问题后，幽默地评论了唐纳德·特朗普。他驳斥了关于故障背后存在阴谋的说法，影射特朗普关于投票机故障的言论。",
-        "resume_ru": "Премьер-министр Канады Марк Карни пошутил над Дональдом Трампом во время сбоя телесуфлёра. Он заявил, что не считает это заговором, обыграв известные обвинения Трампа в адрес СМИ. Выступление прошло в атмосфере лёгкого юмора.",
-        "resume_fa": "نخست‌وزیر کانادا مارک کارنی در حین مشکل دستگاه سخنرانی ترامپ را دست انداخت. او گفت که این را توطئه نمی‌داند و به اتهامات ترامپ علیه رسانه‌ها اشاره کرد. سخنرانی در فضایی طنزآمیز برگزار شد.",
-        "resume_ar": "سخر رئيس وزراء كندا مارك كارني من دونالد ترامب أثناء خلل في جهاز القراءة. وقال إنه لا يعتبر ذلك مؤامرة، مشيراً إلى اتهامات ترامب الموجهة لوسائل الإعلام. جرت الفعالية في جو من الدعابة الخفيفة.",
-        "analyse_detaillee": "Les relations entre le Canada et les États-Unis sous l'administration Trump ont souvent été tendues, notamment sur les questions commerciales et environnementales. Mark Carney, ancien gouverneur de la Banque d'Angleterre, incarne une approche diplomatique plus mesurée que son prédécesseur. Cette anecdote illustre la volonté du Canada de se distancier des excès rhétoriques de l'ère Trump. À court terme, cette posture pourrait renforcer l'image du Canada comme partenaire stable. À moyen terme, cela pourrait influencer les négociations commerciales bilatérales. À long terme, cela pourrait redéfinir les alliances transatlantiques. Les États-Unis restent le partenaire économique incontournable du Canada, mais Ottawa cherche à diversifier ses partenariats. Les médias internationaux pourraient amplifier cette anecdote pour souligner les divergences entre les deux pays.",
-        "analyse_en": "Canada-US relations under the Trump administration were often strained, particularly on trade and environmental issues. Mark Carney, former Governor of the Bank of England, embodies a more measured diplomatic approach than his predecessor. This anecdote highlights Canada's desire to distance itself from the rhetorical excesses of the Trump era. In the short term, this stance could strengthen Canada's image as a stable partner. In the medium term, it could influence bilateral trade negotiations. In the long term, it could redefine transatlantic alliances. The US remains Canada's indispensable economic partner, but Ottawa is seeking to diversify its partnerships. International media may amplify this anecdote to highlight the two countries' differences.",
-        "analyse_zh": "在特朗普政府时期，加拿大与美国的关系常常紧张，特别是在贸易和环境问题上。马克·卡尼作为前英格兰银行行长，体现了一种比前任更为审慎的外交方式。这个轶事凸显了加拿大试图与特朗普时代的言论过激保持距离的意愿。短期内，这一立场可能增强加拿大作为稳定伙伴的形象。中期来看，这可能影响双边贸易谈判。长期而言，这可能重新定义跨大西洋联盟。美国仍是加拿大不可或缺的经济伙伴，但渥太华正在寻求多元化其合作伙伴。国际媒体可能放大这个轶事，以凸显两国的分歧。",
-        "analyse_ru": "Контекст ситуации связан с политической напряжённостью между США и Канадой, особенно на фоне торговых споров. Причины шутки Карни обусловлены как личными амбициями, так и стремлением укрепить имидж Канады. Последствия могут включать улучшение отношений или обострение конфликта. Перспективы зависят от реакции американской стороны и общественного мнения. Позиции сторон различны: Карни демонстрирует уверенность, а Трамп традиционно реагирует эмоционально.",
-        "analyse_fa": "زمینه این موقعیت به تنش‌های سیاسی میان آمریکا و کانادا، به ویژه در زمینه اختلافات تجاری، بازمی‌گردد. دلایل شوخی کارنی به جاه‌طلبی‌های شخصی و تلاش برای تقویت تصویر کانادا مربوط است. پیامدها می‌تواند بهبود روابط یا تشدید درگیری باشد. چشم‌انداز به واکنش طرف آمریکایی و افکار عمومی بستگی دارد. موضع بازیگران متفاوت است: کارنی اعتماد به نفس نشان می‌دهد، در حالی که ترامپ به طور سنتی عاطفی واکنش نشان می‌دهد.",
-        "analyse_ar": "يرتبط السياق بالتوترات السياسية بين الولايات المتحدة وكندا، خاصة في ظل خلافات تجارية. أسباب مزحة كارني تعود إلى الطموحات الشخصية وسعيه لتعزيز صورة كندا. قد تشمل العواقب تحسين العلاقات أو تصعيد الصراع. الآفاق تعتمد على رد الفعل الأمريكي والرأي العام. تختلف مواقف الأطراف: أظهر كارني ثقة، بينما يتفاعل ترامب تقليدياً بعاطفية.",
-        "categorie": "Politique internationale / Humour",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/canada-pm-mark-carney-mocks-trump-after-facing-teleprompter-glitch/articleshow/132979480.cms",
-        "image": "https://img.etimg.com/thumb/msid-132979483,width-1200,height-630,imgsize-68568,overlay-economictimes/articleshow.jpg",
-        "date": "2026-08-06",
-        "pays": "usa",
+        "id": "chine_940593",
+        "titre": "La dirigeante taïwanaise simule une frappe de décapitation",
+        "titre_en": "Taiwan's leader boards armored vehicle to escape mock strike",
+        "titre_zh": "台湾领导人登上装甲车躲避模拟斩首袭击",
+        "titre_ru": "Taiwan’s leader boards armored vehicle to escape mock ‘decapitation strike’",
+        "titre_fa": "Taiwan’s leader boards armored vehicle to escape mock ‘decapitation strike’",
+        "titre_ar": "Taiwan’s leader boards armored vehicle to escape mock ‘decapitation strike’",
+        "titre_original": "Taiwan’s leader boards armored vehicle to escape mock ‘decapitation strike’",
+        "resume": "La présidente taïwanaise et ses hauts responsables ont simulé une réponse à une frappe visant à éliminer la direction politique de l'île. Cet exercice s'inscrit dans un contexte de tensions croissantes avec la Chine. Les autorités insistent sur la nécessité de se préparer à des scénarios extrêmes.",
+        "resume_en": "Taiwan's president and top officials simulated a response to a strike aimed at eliminating the island's political leadership. This drill occurs amid rising tensions with China. Authorities emphasize the need to prepare for extreme scenarios.",
+        "resume_zh": "台湾总统及高级官员模拟应对针对该岛政治领导层的袭击。此演练发生在中国与台湾紧张局势加剧之际。当局强调需为极端情况做准备。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La Chine considère Taïwan comme une province rebelle et n'exclut pas l'usage de la force pour en prendre le contrôle. Cet exercice reflète une stratégie de dissuasion face aux menaces chinoises, notamment après les manœuvres militaires répétées autour de l'île. Les États-Unis, alliés de Taïwan, soutiennent ces préparatifs sans s'engager militairement. À court terme, cela pourrait renforcer les tensions régionales et déclencher des réactions diplomatiques. À moyen terme, une escalade militaire reste possible, surtout si la Chine intensifie ses pressions. À long terme, la question de l'indépendance ou de la réunification avec la Chine reste un sujet explosif. Les acteurs clés, comme les États-Unis et le Japon, pourraient être entraînés dans un conflit. La communauté internationale observe avec inquiétude cette escalade.",
+        "analyse_en": "China considers Taiwan a rebel province and does not rule out using force to take control. This drill reflects a deterrence strategy against Chinese threats, especially after repeated military maneuvers around the island. The U.S., Taiwan's ally, supports these preparations without committing militarily. In the short term, this could heighten regional tensions and trigger diplomatic reactions. In the medium term, military escalation remains possible, especially if China intensifies pressure. Long-term, the question of independence or reunification with China remains explosive. Key actors like the U.S. and Japan could be drawn into a conflict. The international community watches this escalation with concern.",
+        "analyse_zh": "中国视台湾为叛乱省份，不排除使用武力控制该岛。此次演练反映出对中国威胁的威慑策略，特别是在环岛军事演习频繁之后。美国作为台湾盟友支持这些准备，但未承诺军事介入。短期内，这可能加剧地区紧张局势并引发外交反应。中期来看，若中国加大压力，军事升级仍有可能。长期而言，台湾独立或与中国统一的问题仍是爆炸性话题。美国、日本等关键行为体可能被卷入冲突。国际社会忧虑地关注这一升级。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/07/asia/taiwan-presidential-drills-intl-hnk-ml",
+        "image": "https://s.yimg.com/lo/mysterio/api/1fabb128e6732a7876bbd70e66ddf14e7b7d7df838789796efe2ac706e29e447/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc107c6df4b00b6dea4ed4b7a9c127503",
+        "date": "2026-08-07",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Diplomatie publique",
+            "label": "▲ Marché des assurances maritimes",
             "hausse": true
           },
           {
-            "label": "▼ Marchés financiers",
+            "label": "▼ Secteur technologique taïwanais",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Diplomatie publique",
-            "secteur_en": "Public diplomacy",
-            "secteur_zh": "公共外交",
-            "effet_fr": "Cette anecdote pourrait renforcer l'image du Canada comme acteur diplomatique subtil et indépendant.",
-            "effet_en": "This anecdote could strengthen Canada's image as a subtle and independent diplomatic actor.",
-            "effet_zh": "这个轶事可能增强加拿大作为微妙且独立外交行为者的形象。",
+            "secteur_fr": "Marché des assurances maritimes",
+            "secteur_en": "Maritime insurance market",
+            "secteur_zh": "海事保险市场",
+            "effet_fr": "Les tensions accrues pourraient faire monter les primes d'assurance pour les navires traversant le détroit de Taïwan.",
+            "effet_en": "Increased tensions could drive up insurance premiums for ships crossing the Taiwan Strait.",
+            "effet_zh": "紧张局势加剧可能推高穿越台湾海峡船只的保险费率。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marchés financiers",
-            "secteur_en": "Financial markets",
-            "secteur_zh": "金融市场",
-            "effet_fr": "Les tensions diplomatiques pourraient influencer les investissements canadiens aux États-Unis.",
-            "effet_en": "Diplomatic tensions could influence Canadian investments in the US.",
-            "effet_zh": "外交紧张可能影响加拿大对美国的投资。",
+            "secteur_fr": "Secteur technologique taïwanais",
+            "secteur_en": "Taiwanese technology sector",
+            "secteur_zh": "台湾科技行业",
+            "effet_fr": "Les entreprises taïwanaises pourraient subir des perturbations logistiques et une hausse des coûts de sécurité.",
+            "effet_en": "Taiwanese companies could face logistical disruptions and increased security costs.",
+            "effet_zh": "台湾企业可能面临物流中断和安全成本上升。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-07T02:45:55.667048"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-08T06:51:24.067723"
+      },
       {
         "id": "chine_140024",
         "titre": "Pays du Pacifique échouent à condamner test de missile chinois",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-06T07:38:42.717788"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_502542",
-        "titre": "So-Young nomme un nouveau directeur financier",
-        "titre_en": "So-Young Appoints New CFO",
-        "titre_zh": "So-Young任命新CFO",
-        "titre_ru": "So-Young назначила нового финансового директора",
-        "titre_fa": "So-Young مدیر مالی جدید منصوب کرد",
-        "titre_ar": "So-Young تعين مديرًا ماليًا جديدًا",
-        "titre_original": "So-Young Announces Appointment of Chief Financial Officer",
-        "resume": "So-Young International, leader des plateformes de soins esthétiques en Chine, annonce la nomination de son nouveau directeur financier. Cette décision vise à renforcer la gouvernance et la transparence financière. L'entreprise est cotée au Nasdaq.",
-        "resume_en": "So-Young International, China's leading aesthetic treatment platform, announces the appointment of its new Chief Financial Officer. This move aims to strengthen financial governance and transparency. The company is listed on the Nasdaq.",
-        "resume_zh": "So-Young International是中国领先的美容治疗平台，宣布任命新任首席财务官。此举旨在加强财务治理和透明度。该公司在纳斯达克上市。",
-        "resume_ru": "Компания So-Young International Inc. объявила о назначении нового финансового директора. Это решение было принято для укрепления позиций на рынке эстетических услуг в Китае. Новый CFO будет отвечать за финансовую стратегию и развитие платформы.",
-        "resume_fa": "شرکت So-Young International Inc. انتصاب مدیر مالی جدید را اعلام کرد. این تصمیم برای تقویت موقعیت در بازار خدمات زیبایی در چین اتخاذ شد. مدیر مالی جدید مسئول استراتژی مالی و توسعه پلتفرم خواهد بود.",
-        "resume_ar": "أعلنت شركة So-Young International Inc. عن تعيين مدير مالي جديد. اتخذ هذا القرار لتعزيز المركز في سوق الخدمات التجميلية في الصين. المدير المالي الجديد مسؤول عن الاستراتيجية المالية وتطوير المنصة.",
-        "analyse_detaillee": "Cette nomination s'inscrit dans un contexte de croissance rapide du secteur des soins esthétiques en Chine, stimulé par une demande accrue pour les traitements non invasifs. Historiquement, le marché chinois a été marqué par des scandales liés à la qualité des soins et à la transparence financière, comme l'affaire des cliniques illégales en 2018. Les enjeux principaux incluent la crédibilité de So-Young face aux investisseurs et la conformité aux réglementations boursières américaines. Les causes profondes résident dans la nécessité de rassurer les actionnaires après des années de forte expansion. À court terme, cette nomination pourrait améliorer la confiance des investisseurs et stabiliser le cours de l'action. À moyen terme, elle pourrait faciliter l'accès à de nouveaux financements pour des acquisitions ou des innovations. À long terme, elle pourrait positionner So-Young comme un acteur majeur dans un secteur en pleine consolidation. Les acteurs, comme les régulateurs boursiers et les concurrents, observent cette évolution de près. Cette décision reflète aussi la volonté de la Chine de renforcer la gouvernance des entreprises cotées à l'étranger.",
-        "analyse_en": "This appointment comes amid rapid growth in China's aesthetic treatment sector, driven by increased demand for non-invasive procedures. Historically, the Chinese market has been marred by scandals related to care quality and financial transparency, such as the illegal clinics scandal in 2018. The main stakes include So-Young's credibility with investors and compliance with U.S. stock exchange regulations. The root causes lie in the need to reassure shareholders after years of rapid expansion. In the short term, this appointment could boost investor confidence and stabilize the stock price. In the medium term, it could facilitate access to new financing for acquisitions or innovations. In the long term, it could position So-Young as a major player in a consolidating sector. Actors like stock regulators and competitors are closely watching this development. This decision also reflects China's efforts to strengthen governance in companies listed abroad.",
-        "analyse_zh": "此次任命发生在中国美容治疗行业快速增长的背景下，需求激增推动了非侵入性治疗的发展。历史上，中国市场因护理质量和财务透明度问题屡遭丑闻，如2018年的非法诊所丑闻。主要影响包括So-Young在投资者中的信誉以及对美国证券监管的合规性。深层原因在于在多年快速扩张后需要安抚股东。短期内，此任命可能提升投资者信心并稳定股价。中期来看，可能为收购或创新提供新的融资渠道。长期而言，可能使So-Young成为整合中的行业重要参与者。证券监管机构和竞争对手等行为者密切关注这一发展。此决定也反映了中国加强在海外上市公司治理的意愿。",
-        "analyse_ru": "Контекст назначения связан с расширением бизнеса компании и усилением конкурентоспособности на рынке эстетических услуг. Причины включают необходимость оптимизации финансовых процессов и привлечения инвестиций. Последствия могут привести к росту капитализации и улучшению имиджа компании. Перспективы предполагают развитие технологий и расширение клиентской базы. Позиции сторон: акционеры заинтересованы в росте стоимости, а руководство — в устойчивом развитии.",
-        "analyse_fa": "زمینه انتصاب به گسترش کسب‌وکار شرکت و تقویت رقابت‌پذیری در بازار خدمات زیبایی مربوط می‌شود. دلایل شامل نیاز به بهینه‌سازی فرآیندهای مالی و جذب سرمایه‌گذاری است. پیامدها می‌تواند منجر به افزایش سرمایه‌گذاری و بهبود تصویر شرکت شود. چشم‌اندازها شامل توسعه فناوری‌ها و گسترش پایگاه مشتریان است. موضع بازیگران: سهامداران به رشد ارزش علاقه‌مندند، در حالی که مدیریت به توسعه پایدار توجه دارد.",
-        "analyse_ar": "سياق التعيين متعلق بتوسع أعمال الشركة وتعزيز القدرة التنافسية في سوق الخدمات التجميلية. الأسباب تشمل الحاجة إلى تحسين العمليات المالية وجذب الاستثمارات. العواقب قد تؤدي إلى زيادة رأس المال وتحسين صورة الشركة. الآفاق تشمل تطوير التقنيات وتوسيع قاعدة العملاء. مواقف الأطراف: يهتم المساهمون بالنمو في القيمة، بينما تركز الإدارة على التنمية المستدامة.",
-        "categorie": "Économie",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/so-young-announces-appointment-of-chief-financial-officer-302842215.html",
-        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
-        "date": "2026-08-04",
-        "pays": "chine",
+        "id": "russie_553412",
+        "titre": "Les États-Unis craignent une incursion limitée de Poutine en OTAN",
+        "titre_en": "U.S. intel warns Putin may test NATO with limited incursion",
+        "titre_zh": "美情报显示普京可能对北约进行有限入侵测试",
+        "titre_ru": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+        "titre_fa": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+        "titre_ar": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+        "titre_original": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+        "resume": "Les services de renseignement américains estiment que la Russie pourrait tenter une incursion limitée sur le territoire d'un membre de l'OTAN. Cette hypothèse vise à tester la réaction de l'Alliance atlantique. La guerre en Ukraine et les tensions géopolitiques alimentent ces craintes.",
+        "resume_en": "U.S. intelligence services believe Russia could attempt a limited incursion into NATO territory. This scenario aims to test the alliance's response. The war in Ukraine and geopolitical tensions fuel these fears.",
+        "resume_zh": "美国情报部门认为俄罗斯可能尝试对北约领土进行有限入侵。这一情景旨在测试联盟的反应。乌克兰战争和地缘政治紧张局势助长了这些担忧。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Depuis la fin de la Guerre froide, l'OTAN a étendu son influence vers l'Est, ce qui a irrité Moscou. Historiquement, la Russie a toujours considéré les pays baltes et la Pologne comme faisant partie de sa sphère d'influence. Une incursion limitée pourrait servir de test pour évaluer la cohésion de l'Alliance. À court terme, cela pourrait déclencher une crise diplomatique majeure et des sanctions accrues. À moyen terme, l'OTAN pourrait renforcer sa présence militaire en Europe de l'Est. À long terme, une escalade vers un conflit direct reste improbable mais pas impossible. Les pays baltes et la Pologne seraient les plus exposés. Les États-Unis et l'Europe devraient coordonner leur réponse pour éviter une fragmentation de l'Alliance. La dissuasion nucléaire russe ajoute une dimension complexe à ce scénario. La guerre en Ukraine a déjà montré la volatilité du Kremlin.",
+        "analyse_en": "Since the end of the Cold War, NATO has expanded its influence eastward, irritating Moscow. Historically, Russia has always considered the Baltic states and Poland part of its sphere of influence. A limited incursion could serve as a test to assess the alliance's cohesion. In the short term, this could trigger a major diplomatic crisis and increased sanctions. In the medium term, NATO could strengthen its military presence in Eastern Europe. Long-term, an escalation into direct conflict remains unlikely but not impossible. The Baltic states and Poland would be the most exposed. The U.S. and Europe would need to coordinate their response to avoid fracturing the alliance. Russia's nuclear deterrence adds a complex dimension to this scenario. The war in Ukraine has already shown the volatility of the Kremlin.",
+        "analyse_zh": "自冷战结束以来，北约向东扩展影响力，令莫斯科恼火。历史上，俄罗斯一直视波罗的海国家和波兰为其势力范围的一部分。有限入侵可能作为测试，评估联盟的凝聚力。短期内，这可能引发重大外交危机和更多制裁。中期来看，北约可能加强在东欧的军事存在。长期而言，直接冲突升级仍不太可能，但并非不可能。波罗的海国家和波兰将面临最大风险。美国和欧洲需协调应对，避免联盟分裂。俄罗斯的核威慑为这一情景增添了复杂因素。乌克兰战争已显示克里姆林宫的反复无常。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184888480",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-08-07",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des soins esthétiques en Chine",
+            "label": "▲ Marché des matières premières énergétiques",
             "hausse": true
           },
           {
-            "label": "▲ Secteur des marchés financiers (Nasdaq)",
+            "label": "▲ Secteur de la défense européenne",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des soins esthétiques en Chine",
-            "secteur_en": "China's aesthetic treatment sector",
-            "secteur_zh": "中国美容治疗行业",
-            "effet_fr": "Cette nomination pourrait renforcer la confiance des investisseurs et accélérer la consolidation du secteur.",
-            "effet_en": "This appointment could boost investor confidence and accelerate sector consolidation.",
-            "effet_zh": "此任命可能增强投资者信心，并加速行业整合。",
+            "secteur_fr": "Marché des matières premières énergétiques",
+            "secteur_en": "Energy commodities market",
+            "secteur_zh": "能源大宗商品市场",
+            "effet_fr": "Une crise géopolitique pourrait entraîner une volatilité accrue des prix du gaz et du pétrole, affectant les marchés mondiaux.",
+            "effet_en": "A geopolitical crisis could lead to increased volatility in gas and oil prices, impacting global markets.",
+            "effet_zh": "地缘政治危机可能导致天然气和石油价格波动加剧，影响全球市场。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur des marchés financiers (Nasdaq)",
-            "secteur_en": "Financial markets sector (Nasdaq)",
-            "secteur_zh": "金融市场行业（纳斯达克）",
-            "effet_fr": "Une gouvernance renforcée pourrait attirer davantage d'investisseurs institutionnels sur le Nasdaq.",
-            "effet_en": "Stronger governance could attract more institutional investors to Nasdaq.",
-            "effet_zh": "更强的治理可能吸引更多机构投资者进入纳斯达克。",
+            "secteur_fr": "Secteur de la défense européenne",
+            "secteur_en": "European defense sector",
+            "secteur_zh": "欧洲国防行业",
+            "effet_fr": "Les pays européens pourraient augmenter leurs budgets militaires, stimulant la demande pour les équipements de défense.",
+            "effet_en": "European countries could increase their military budgets, boosting demand for defense equipment.",
+            "effet_zh": "欧洲国家可能增加军事预算，推动国防装备需求。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-05T21:06:44.075636"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-08T06:51:24.067767"
+      },
       {
         "id": "russie_605311",
         "titre": "Poutine pourrait tester la résolution de l'OTAN",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-06T07:38:42.717812"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_456952",
-        "titre": "Ukraine : frappes russes sur Kiev et sa région font 14 morts",
-        "titre_en": "Ukraine: Russian strikes kill 14 in Kyiv and region",
-        "titre_zh": "乌克兰：俄军袭击基辅及周边地区致14人死亡",
-        "titre_ru": "Удары России по Киеву: погибли не менее 14 человек",
-        "titre_fa": "حمله روسیه به کی‌یف: دست‌کم ۱۴ کشته",
-        "titre_ar": "ضربات روسيا كييف: مقتل 14 شخصاً على الأقل",
-        "titre_original": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 14",
-        "resume": "Quatorze personnes ont été tuées lors de frappes russes nocturnes sur Kiev et sa région. Les missiles ont ciblé des bâtiments résidentiels et des entrepôts, intensifiant la campagne militaire contre l'Ukraine. Cette escalade survient dans un contexte de tensions persistantes.",
-        "resume_en": "Fourteen people were killed in overnight Russian strikes on Kyiv and surrounding areas. Missiles hit residential buildings and warehouses, escalating the military campaign against Ukraine. This intensification occurs amid ongoing tensions.",
-        "resume_zh": "基辅及周边地区夜间遭俄军袭击，造成14人死亡。导弹袭击了住宅楼和仓库，加剧了对乌克兰的军事行动。这一升级发生在持续紧张局势之中。",
-        "resume_ru": "В результате массированных ракетных ударов России по Киеву и окрестностям ночью погибли не менее 14 человек. Взрывы разрушили жилые дома и склады, что стало частью новой волны атак на Украину. Российские власти заявили, что целью были военные объекты, но пострадали гражданские районы.",
-        "resume_fa": "در پی حملات موشکی گسترده روسیه به کی‌یف و حومه شب گذشته، دست‌کم ۱۴ نفر کشته شدند. انفجارها ساختمان‌های مسکونی و انبارها را تخریب کرد و بخشی از موج جدید حملات علیه اوکراین بود. مقامات روسیه مدعی شدند اهداف نظامی مورد هدف قرار گرفته بودند، اما مناطق مسکونی آسیب دیدند.",
-        "resume_ar": "أدى القصف الصاروخي الروسي الكثيف على كييف والمناطق المحيطة بها ليلاً إلى مقتل 14 شخصاً على الأقل. دمرت الانفجارات مباني سكنية ومستودعات، كجزء من موج جديد من الهجمات على أوكرانيا. أعلنت السلطات الروسية أن الأهداف كانت عسكرية، لكن المناطق المدنية تأثرت.",
-        "analyse_detaillee": "Les frappes russes sur l'Ukraine s'inscrivent dans le prolongement de l'invasion lancée en février 2022, marquant une escalade dans une guerre qui dure depuis plus de deux ans. Historiquement, le conflit trouve ses racines dans les tensions post-soviétiques et les ambitions géopolitiques de Moscou pour maintenir son influence en Europe de l'Est. Les frappes récentes visent à affaiblir la résistance ukrainienne et à tester la capacité de défense de Kiev face à une armée russe en pleine réorganisation. À court terme, ces attaques pourraient entraîner une hausse des dépenses militaires ukrainiennes et une mobilisation accrue des alliés occidentaux pour fournir des systèmes de défense aérienne. À moyen terme, une intensification des combats pourrait déstabiliser davantage la région, avec des répercussions sur les économies locales et les chaînes d'approvisionnement énergétique. À long terme, la persistance du conflit risque de redessiner les alliances géopolitiques en Europe, avec un possible renforcement de l'OTAN et une réévaluation des stratégies de sécurité collective. Les acteurs principaux, la Russie et l'Ukraine, restent campés sur leurs positions, tandis que les États-Unis et l'UE cherchent à soutenir Kiev sans déclencher une guerre directe avec Moscou. Les marchés financiers réagissent par une volatilité accrue, notamment dans les secteurs de l'énergie et de la défense.",
-        "analyse_en": "Russian strikes on Ukraine follow the February 2022 invasion, escalating a war now over two years old. Historically, the conflict stems from post-Soviet tensions and Moscow's geopolitical ambitions to maintain influence in Eastern Europe. Recent strikes aim to weaken Ukrainian resistance and test Kiev's defense capabilities amid Russia's military reorganization. In the short term, these attacks could increase Ukrainian military spending and prompt Western allies to accelerate air defense system deliveries. Medium-term, intensified fighting may destabilize the region further, impacting local economies and energy supply chains. Long-term, the conflict's persistence could reshape European geopolitical alliances, potentially strengthening NATO and reassessing collective security strategies. Key actors, Russia and Ukraine, remain entrenched, while the U.S. and EU support Kiev without direct war with Moscow. Financial markets react with increased volatility, particularly in energy and defense sectors.",
-        "analyse_zh": "俄罗斯对乌克兰的袭击是2022年2月入侵的延续，使这场持续两年多的战争进一步升级。历史上，冲突根源于后苏联时期的紧张局势以及莫斯科维护其在东欧影响力的地缘政治野心。最近的袭击旨在削弱乌克兰抵抗力量，并测试基辅在俄罗斯军队重组背景下的防御能力。短期内，这些袭击可能导致乌克兰军事支出增加，并促使西方盟友加速提供防空系统。中期来看，加剧的战斗可能进一步破坏该地区稳定，影响当地经济和能源供应链。长期来看，冲突的持续可能重塑欧洲地缘政治联盟，可能加强北约并重新评估集体安全战略。主要行为者俄罗斯和乌克兰仍然立场坚定，而美国和欧盟在不与莫斯科直接开战的情况下支持基辅。金融市场对能源和国防等行业的波动性反应加剧。",
-        "analyse_ru": "Нападение на Киев стало частью эскалации конфликта, начавшейся после неудачных мирных переговоров и обострения боевых действий. Причины таких ударов лежат в стратегии России по ослаблению украинской инфраструктуры и морального духа населения. Последствия включают рост числа жертв среди мирного населения и усиление международного давления на Москву. Перспективы зависят от возможности возобновления переговоров или дальнейшего обострения конфликта. Позиции сторон остаются непримиримыми: Украина обвиняет Россию в терроризме, а Москва оправдывает атаки как ответ на поддержку Запада Киева.",
-        "analyse_fa": "حمله به کی‌یف بخشی از تشدید درگیری‌ها پس از شکست مذاکرات صلح و تشدید جنگ بود. دلایل چنین حملات در استراتژی روسیه برای تضعیف زیرساخت‌های اوکراین و روحیه مردم نهفته است. پیامدها شامل افزایش تلفات غیرنظامیان و فشار بین‌المللی بیشتر بر مسکو است. چشم‌انداز به امکان از سرگیری مذاکرات یا تشدید بیشتر درگیری‌ها بستگی دارد. مواضع بازیگران غیرقابل مصالحه باقی مانده است: اوکراین روسیه را به تروریسم متهم می‌کند، در حالی که مسکو حملات را به عنوان پاسخی به حمایت غرب از کی‌یف توجیه می‌کند.",
-        "analyse_ar": "جاءت الضربة على كييف كجزء من تصعيد الصراع بعد فشل المفاوضات السلمية وتشديد الأعمال القتالية. وتكمن أسباب هذه الهجمات في استراتيجية روسيا لإضعاف البنية التحتية الأوكرانية ومعنويات السكان. تشمل العواقب زيادة عدد الضحايا المدنيين والضغط الدولي المتزايد على موسكو. ترتبط الآفاق بفرصة استئناف المفاوضات أو تصعيد الصراع أكثر. остаются المواقف متشددة: تتهم أوكرانيا روسيا بالإرهاب، بينما تبرر موسكو الهجمات رداً على دعم الغرب لكييف.",
+        "id": "iran_346227",
+        "titre": "Un accord sur le détroit d'Ormuz jugé irréalisable par l'industrie",
+        "titre_en": "Proposed Hormuz Strait deal deemed unworkable by shipping industry",
+        "titre_zh": "霍尔木兹海峡协议被航运业判定为不可行",
+        "titre_ru": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
+        "titre_fa": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
+        "titre_ar": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
+        "titre_original": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
+        "resume": "Un accord entre l'Iran et Oman visant à donner à Téhéran le contrôle des navires entrant dans le golfe Persique est jugé irréalisable. Les sanctions américaines et les restrictions d'assurance compliquent son application. Les acteurs du secteur maritime expriment leurs doutes.",
+        "resume_en": "An agreement between Iran and Oman to give Tehran control over ships entering the Persian Gulf is deemed unworkable. U.S. sanctions and insurance restrictions complicate its implementation. Maritime industry actors express doubts.",
+        "resume_zh": "伊朗与阿曼达成协议，赋予德黑兰对进入波斯湾船只的控制权，但被判定为不可行。美国制裁和保险限制使其实施复杂化。航运业从业者表达怀疑。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le détroit d'Ormuz est une artère stratégique pour le commerce mondial du pétrole, reliant le golfe Persique à l'océan Indien. Historiquement, l'Iran a menacé à plusieurs reprises de bloquer le détroit en cas de conflit. Cet accord s'inscrit dans une stratégie iranienne pour renforcer son influence régionale. À court terme, les tensions pourraient perturber les flux commerciaux et augmenter les coûts d'assurance pour les navires. À moyen terme, les pays du Golfe pourraient chercher des routes alternatives, comme le détroit de Bab-el-Mandeb. À long terme, une escalade militaire reste possible si l'Iran tente de faire appliquer cet accord par la force. Les États-Unis et leurs alliés, comme l'Arabie saoudite, s'opposeraient fermement à une telle mesure. L'Europe, dépendante du pétrole du Golfe, serait également affectée. La communauté internationale pourrait imposer de nouvelles sanctions. La stabilité de la région reste fragile.",
+        "analyse_en": "The Strait of Hormuz is a strategic artery for global oil trade, connecting the Persian Gulf to the Indian Ocean. Historically, Iran has repeatedly threatened to block the strait in case of conflict. This agreement aligns with Iran's strategy to strengthen its regional influence. In the short term, tensions could disrupt trade flows and increase insurance costs for ships. In the medium term, Gulf countries might seek alternative routes, such as the Bab-el-Mandeb Strait. Long-term, military escalation remains possible if Iran attempts to enforce this agreement by force. The U.S. and its allies, like Saudi Arabia, would strongly oppose such a measure. Europe, dependent on Gulf oil, would also be affected. The international community could impose new sanctions. The region's stability remains fragile.",
+        "analyse_zh": "霍尔木兹海峡是全球石油贸易的战略要道，连接波斯湾与印度洋。历史上，伊朗多次威胁在冲突情况下封锁海峡。该协议符合伊朗加强地区影响力的战略。短期内，紧张局势可能扰乱贸易流通，增加船只保险成本。中期来看，海湾国家可能寻找替代路线，如曼德海峡。长期而言，若伊朗试图通过武力执行该协议，军事升级仍有可能。美国及其盟友如沙特阿拉伯将强烈反对这一措施。依赖海湾石油的欧洲也将受到影响。国际社会可能实施新制裁。该地区稳定性仍脆弱。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-14/a-78238963",
-        "image": "https://static.dw.com/image/78238961_6.jpg",
-        "date": "2026-08-05",
-        "pays": "russie",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/07/880681.htm",
+        "image": "https://www.insurancejournal.com/app/uploads/2026/07/ships-sit-anchored-near-muscat-oman-getty-scaled.jpg",
+        "date": "2026-08-07",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de la défense",
+            "label": "▲ Marché du transport maritime",
             "hausse": true
           },
           {
-            "label": "▼ Marché de l'énergie",
-            "hausse": false
+            "label": "▲ Secteur de l'assurance maritime",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "Les entreprises de défense occidentales et ukrainiennes pourraient voir une hausse des commandes militaires, stimulant leurs revenus.",
-            "effet_en": "Western and Ukrainian defense companies may see increased military orders, boosting revenues.",
-            "effet_zh": "西方和乌克兰国防公司可能会看到军事订单增加，收入增长。",
+            "secteur_fr": "Marché du transport maritime",
+            "secteur_en": "Maritime transport market",
+            "secteur_zh": "海运市场",
+            "effet_fr": "Les compagnies maritimes pourraient augmenter leurs tarifs pour couvrir les risques accrus liés au passage du détroit.",
+            "effet_en": "Shipping companies could raise their rates to cover the increased risks of passing through the strait.",
+            "effet_zh": "航运公司可能提高运费以覆盖通过海峡的风险增加。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché de l'énergie",
-            "secteur_en": "Energy market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "Les tensions géopolitiques pourraient entraîner une volatilité accrue des prix du pétrole et du gaz, affectant les économies européennes.",
-            "effet_en": "Geopolitical tensions could drive increased volatility in oil and gas prices, impacting European economies.",
-            "effet_zh": "地缘政治紧张局势可能导致石油和天然气价格波动加剧，影响欧洲经济。",
-            "hausse": false
+            "secteur_fr": "Secteur de l'assurance maritime",
+            "secteur_en": "Maritime insurance sector",
+            "secteur_zh": "海事保险行业",
+            "effet_fr": "Les assureurs pourraient exclure certaines zones ou augmenter significativement les primes pour les navires traversant le golfe Persique.",
+            "effet_en": "Insurers could exclude certain areas or significantly increase premiums for ships crossing the Persian Gulf.",
+            "effet_zh": "保险公司可能排除某些区域或大幅提高穿越波斯湾船只的保费。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-06T04:11:51.296264"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-08T06:51:24.067776"
+      },
       {
         "id": "iran_191016",
         "titre": "Frappes Houthis au Yémen alimentent craintes de guerre",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-07T06:09:28.660637"
-      },
-      {
-        "id": "iran_96678",
-        "titre": "Baisse du prix du pétrole sous 80$",
-        "titre_en": "Oil price drops below $80 amid Iran-Oman deal",
-        "titre_zh": "油价跌破80美元",
-        "titre_ru": "Цена на нефть упала ниже $80 из-за сделки Ирана и Омана",
-        "titre_fa": "قیمت نفت زیر ۸۰ دلار به دلیل توافق ایران و عمان",
-        "titre_ar": "سعر النفط ينخفض إلى أقل من 80 دولار بسبب اتفاق إيران وعمان",
-        "titre_original": "Oil Price Today (August 6): Crude oil dips below $80 on hopes Iran-Oman deal could end Iran war. What are experts saying?",
-        "resume": "Le prix du pétrole a légèrement baissé jeudi après des négociations en cours entre l'Iran et Oman. Les observateurs surveillent de près un éventuel traité de paix entre les États-Unis et l'Iran. Ce traité pourrait permettre un accès accru au détroit d'Ormuz, crucial pour le transport pétrolier.",
-        "resume_en": "Oil prices slightly declined on Thursday following ongoing negotiations between Iran and Oman. Analysts are closely watching a potential US-Iran peace treaty. This treaty could grant increased access to the Strait of Hormuz, vital for oil transport.",
-        "resume_zh": "周四，随着伊朗和阿曼之间的谈判进行，油价略有下跌。分析师密切关注美伊和平条约的可能性。该条约可能增加对霍尔木兹海峡的访问权，这对石油运输至关重要。",
-        "resume_ru": "Цены на нефть снизились в четверг на фоне прогресса в переговорах. Эксперты связывают это с возможным подписанием мирного договора между США и Ираном. Это может открыть доступ к стратегически важному Ормузскому проливу.",
-        "resume_fa": "قیمت نفت روز پنجشنبه به دلیل پیشرفت مذاکرات کاهش یافت. کارشناسان این موضوع را به احتمال امضای پیمان صلح آمریکا و ایران مرتبط می‌دانند. این امر می‌تواند دسترسی به تنگه هرمز را تسهیل کند.",
-        "resume_ar": "انخفضت أسعار النفط يوم الخميس بسبب تقدم المفاوضات. ويرى الخبراء أن هذا مرتبط باحتمال توقيع معاهدة سلام بين الولايات المتحدة وإيران. قد يفتح هذا الباب للوصول إلى مضيق هرمز الاستراتيجي.",
-        "analyse_detaillee": "L'Iran, quatrième producteur de l'OPEP, joue un rôle clé dans la stabilité des prix du pétrole. Les tensions géopolitiques récurrentes dans la région, notamment avec les États-Unis, ont souvent perturbé l'approvisionnement énergétique mondial. Une levée des sanctions ou un accord de paix pourrait relancer les exportations iraniennes, augmentant l'offre sur le marché. À court terme, une baisse des prix pourrait soutenir la demande mondiale, mais fragiliser les économies dépendantes des revenus pétroliers. À moyen terme, une stabilisation de la région pourrait attirer des investissements étrangers dans le secteur énergétique iranien. À long terme, cela pourrait redéfinir les alliances énergétiques au Moyen-Orient. Les États-Unis et l'Iran restent les acteurs centraux, tandis que l'Arabie saoudite et la Chine observent avec prudence.",
-        "analyse_en": "Iran, the fourth-largest OPEC producer, plays a crucial role in global oil price stability. Recurring geopolitical tensions in the region, particularly with the US, have often disrupted global energy supplies. A lifting of sanctions or a peace deal could boost Iranian exports, increasing supply in the market. In the short term, lower prices could support global demand but weaken economies reliant on oil revenues. In the medium term, regional stabilization could attract foreign investment in Iran's energy sector. Long-term, this could reshape energy alliances in the Middle East. The US and Iran remain key players, while Saudi Arabia and China watch cautiously.",
-        "analyse_zh": "伊朗作为OPEC第四大生产国，在全球油价稳定中扮演关键角色。该地区持续的地缘政治紧张局势，特别是与美国的冲突，常常扰乱全球能源供应。解除制裁或达成和平协议可能推动伊朗出口，增加市场供应。短期内，油价下跌可能刺激全球需求，但削弱依赖石油收入的经济体。中期来看，地区稳定可能吸引外资进入伊朗能源部门。长期而言，这可能重塑中东能源联盟。美国和伊朗仍是核心参与者，而沙特阿拉伯和中国则谨慎观望。",
-        "analyse_ru": "Контекст ситуации связан с геополитической напряженностью на Ближнем Востоке, где Иран играет ключевую роль в поставках нефти. Причины снижения цен обусловлены надеждами на дипломатическое урегулирование конфликта, что может снять санкции и увеличить экспорт. Последствия могут включать стабилизацию рынка и снижение геополитических рисков. Перспективы зависят от исхода переговоров и реакции других стран-экспортеров. Позиции сторон различны: США стремятся к ослаблению влияния Ирана, а Тегеран рассчитывает на снятие ограничений.",
-        "analyse_fa": "زمینه این وضعیت به تنش‌های ژئوپلیتیکی خاورمیانه بازمی‌گردد که ایران نقش کلیدی در عرضه نفت دارد. دلایل کاهش قیمت‌ها امید به حل دیپلماتیک درگیری است که می‌تواند تحریم‌ها را لغو و صادرات را افزایش دهد. پیامدها شامل ثبات بازار و کاهش ریسک‌های ژئوپلیتیکی خواهد بود. چشم‌انداز به نتیجه مذاکرات و واکنش کشورهای صادرکننده دیگر بستگی دارد. موضع بازیگران متفاوت است: آمریکا به دنبال تضعیف نفوذ ایران است، در حالی که تهران امیدوار به لغو تحریم‌هاست.",
-        "analyse_ar": "يرتبط السياق بالتوترات الجيوسياسية في الشرق الأوسط، حيث تلعب إيران دوراً رئيسياً في إمدادات النفط. أسباب انخفاض الأسعار ترتبط بآمال في تسوية دبلوماسية للصراع، مما قد يرفع العقوبات ويزيد التصدير. العواقب تشمل استقرار السوق وتقليل المخاطر الجيوسياسية. الآفاق تعتمد على نتائج المفاوضات وردود فعل الدول المصدرة الأخرى. مواقف الأطراف مختلفة: تسعى الولايات المتحدة إلى تقليل نفوذ إيران، بينما تأمل طهران في رفع القيود.",
-        "categorie": "Économie / Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-6-crude-oil-dips-below-80-on-hopes-iran-oman-deal-could-end-iran-war-what-are-experts-saying/articleshow/132979497.cms",
-        "image": "https://img.etimg.com/thumb/msid-132979527,width-1200,height-630,imgsize-148126,overlay-etmarkets/articleshow.jpg",
-        "date": "2026-08-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des énergies renouvelables",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Une baisse des prix pourrait réduire les revenus des pays producteurs mais stimuler la demande mondiale.",
-            "effet_en": "Lower prices could reduce revenues for producing countries but boost global demand.",
-            "effet_zh": "油价下跌可能减少生产国收入，但刺激全球需求。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des énergies renouvelables",
-            "secteur_en": "Renewable energy sector",
-            "secteur_zh": "可再生能源行业",
-            "effet_fr": "Une stabilisation des prix du pétrole pourrait ralentir les investissements dans les énergies alternatives.",
-            "effet_en": "Stable oil prices could slow investments in alternative energy sources.",
-            "effet_zh": "油价稳定可能减缓对替代能源的投资。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-07T02:45:55.667012"
       }
     ]
   },
