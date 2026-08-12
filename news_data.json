@@ -1,7 +1,66 @@
 {
-  "last_updated": "12/08/2026 à 06h14",
+  "last_updated": "12/08/2026 à 08h17",
   "articles": {
     "monde": [
+      {
+        "id": "monde_304090",
+        "titre": "Intel lève 20 milliards de dollars en bourse",
+        "titre_en": "Intel raises $20 billion in share offering",
+        "titre_zh": "英特尔通过股票发行筹资200亿美元",
+        "titre_ru": "Intel привлекает $20 млрд на расширение производства чипов",
+        "titre_fa": "اینتل ۲۰ میلیارد دلار برای گسترش تولید تراشه‌ها جمع‌آوری کرد",
+        "titre_ar": "جذب إنتل 20 مليار دولار لتوسيع إنتاج الرقائق",
+        "titre_original": "Intel raises US$20 billion from upsized share offering",
+        "resume": "Intel a levé 20 milliards de dollars via une augmentation de capital pour financer son expansion dans les semi-conducteurs. Cette opération intervient alors que le groupe rebondit en Bourse. Le secteur des puces électroniques est en pleine mutation.",
+        "resume_en": "Intel raised $20 billion through a share offering to fund its expansion in semiconductors. The move comes as the company rebounds on the stock market. The chip industry is undergoing rapid transformation.",
+        "resume_zh": "英特尔通过股票发行筹资200亿美元用于扩大半导体业务。此举正值该公司股市反弹之际。芯片行业正经历快速变革。",
+        "resume_ru": "Компания Intel успешно провела дополнительное размещение акций, собрав 20 миллиардов долларов. Средства будут направлены на расширение бизнеса контрактного производства чипов. Это решение принято на фоне восстановления стоимости акций компании.",
+        "resume_fa": "اینتل با عرضه سهام خود موفق به جذب ۲۰ میلیارد دلار شد. این سرمایه برای گسترش کسب‌وکار تولید تراشه به‌صورت قراردادی استفاده خواهد شد. این اقدام در شرایطی انجام می‌شود که ارزش سهام این شرکت در حال بهبود است.",
+        "resume_ar": "نجحت شركة إنتل في جمع 20 مليار دولار من خلال طرح أسهم إضافي. ستُخصص هذه الأموال لتوسيع أعمالها في مجال تصنيع الرقائق بموجب العقود. تم اتخاذ هذا القرار في ظل انتعاش أسعار أسهم الشركة.",
+        "analyse_detaillee": "Intel, géant historique des semi-conducteurs, traverse une période de transition depuis plusieurs années, marquée par la concurrence accrue de TSMC et Nvidia. La levée de fonds s'inscrit dans une stratégie de relance face à la domination asiatique dans la fabrication de puces. Historiquement, les États-Unis dominaient ce secteur, mais la mondialisation a redistribué les cartes. Les enjeux principaux incluent la souveraineté technologique et la réduction de la dépendance aux chaînes d'approvisionnement asiatiques. À court terme, cette injection de capitaux permettra à Intel de moderniser ses usines et de rattraper son retard. À moyen terme, le succès dépendra de sa capacité à innover face à des concurrents mieux positionnés. À long terme, les États-Unis pourraient retrouver une position dominante si les investissements publics et privés se poursuivent. Les acteurs clés incluent le gouvernement américain, qui soutient le secteur via des subventions, et les concurrents asiatiques, qui maintiennent une avance technologique.",
+        "analyse_en": "Intel, a historic semiconductor giant, has been in a transition period for several years, facing increased competition from TSMC and Nvidia. The fundraising aligns with a revival strategy amid Asia's dominance in chip manufacturing. Historically, the U.S. led this sector, but globalization has reshaped the landscape. Key stakes include technological sovereignty and reducing dependence on Asian supply chains. In the short term, this capital injection will enable Intel to modernize its factories and catch up. In the medium term, success will depend on its ability to innovate against better-positioned competitors. In the long term, the U.S. could regain a dominant position if public and private investments continue. Key actors include the U.S. government, which supports the sector through subsidies, and Asian competitors, who maintain a technological edge.",
+        "analyse_zh": "作为半导体行业的历史巨头，英特尔近年来面临来自台积电和英伟达的激烈竞争，正处于转型期。此次融资符合其在亚洲芯片制造业领先背景下的复兴战略。美国曾长期主导该行业，但全球化重新分配了竞争格局。主要挑战包括技术主权和减少对亚洲供应链的依赖。短期内，这笔资金将帮助英特尔现代化其工厂并缩小差距。中期来看，成功取决于其在竞争对手技术优势面前的创新能力。长期而言，如果美国持续投入公共和私人资金，可能重新夺回主导地位。关键行为者包括通过补贴支持行业的美国政府，以及保持技术领先的亚洲竞争对手。",
+        "analyse_ru": "Intel сталкивается с жёсткой конкуренцией со стороны азиатских производителей, таких как TSMC и Samsung. Расширение контрактного производства позволяет компании диверсифицировать доходы и снизить зависимость от потребительского рынка. Вложения в новые технологии, включая 3-нанометровые чипы, помогут укрепить позиции на рынке. Однако высокие затраты на НИОКР и геополитические риски могут создать проблемы. Эксперты считают, что успех стратегии зависит от скорости внедрения инноваций и эффективности управления.",
+        "analyse_fa": "اینتل با رقابت شدیدی از سوی تولیدکنندگان آسیایی مانند TSMC و سامسونگ مواجه است. گسترش تولید قراردادی به شرکت امکان می‌دهد تا درآمدهای خود را متنوع کرده و وابستگی به بازار مصرف‌کننده را کاهش دهد. سرمایه‌گذاری در فناوری‌های جدید، از جمله تراشه‌های 3 نانومتری، به تقویت موقعیت اینتل در بازار کمک خواهد کرد. با این حال، هزینه‌های بالای تحقیق و توسعه و ریسک‌های ژئوپلیتیکی ممکن است چالش‌هایی ایجاد کنند. کارشناسان معتقدند موفقیت استراتژی به سرعت نوآوری و کارایی مدیریت بستگی دارد.",
+        "analyse_ar": "تواجه إنتل منافسة شديدة من منتجي آسيا مثل TSMC وسامسونج. يسمح التوسع في الإنتاج بموجب العقود للشركة بتنوع مصادر دخلها وتقليل الاعتماد على السوق الاستهلاكية. ستساعد الاستثمارات في التقنيات الجديدة، بما في ذلك الرقائق 3 نانومتر، في تعزيز مكانتها في السوق. ومع ذلك، قد تشكل التكاليف المرتفعة للبحث والتطوير والمخاطر الجيوسياسية تحديات. يعتقد الخبراء أن نجاح الاستراتيجية يعتمد على سرعة الابتكار وكفاءة الإدارة.",
+        "categorie": "Économie et Technologie",
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/business/intel-raises-us20-billion-from-expanded-stock-sale",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/11e7f4c30ebd3ba9b67f682cbb998f7300d9dc5c1f886d40b40486a96d2811b4",
+        "date": "2026-08-11",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Secteur des semi-conducteurs",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché boursier technologique américain",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des semi-conducteurs",
+            "secteur_en": "Semiconductor industry",
+            "secteur_zh": "半导体行业",
+            "effet_fr": "La levée de fonds permettra à Intel de renforcer ses capacités de production et de rattraper son retard face à la concurrence asiatique.",
+            "effet_en": "The fundraising will enable Intel to bolster its production capabilities and catch up with Asian competitors.",
+            "effet_zh": "此次融资将使英特尔增强生产能力，缩小与亚洲竞争对手的差距。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché boursier technologique américain",
+            "secteur_en": "U.S. tech stock market",
+            "secteur_zh": "美国科技股市场",
+            "effet_fr": "Le rebond d'Intel a contribué à une hausse générale des valeurs technologiques américaines cette semaine.",
+            "effet_en": "Intel's rebound contributed to a broad rise in U.S. tech stocks this week.",
+            "effet_zh": "英特尔的反弹本周推动了美国科技股普遍上涨。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-12T08:17:07.347157"
+      },
       {
         "id": "monde_815707",
         "titre": "Les Houthis lancent des attaques de missiles au Yémen",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-11T03:43:56.594553"
-      },
-      {
-        "id": "monde_689350",
-        "titre": "Les Lions de Détroit testent Trevon Diggs",
-        "titre_en": "Detroit Lions evaluate Trevon Diggs",
-        "titre_zh": "底特律雄狮测试特雷文·迪格斯",
-        "titre_ru": "Детройт Лайонс тестируют Тревона Диггса",
-        "titre_fa": "لیونز دیترویت در تمرین با تروون دیگز شرکت کرد",
-        "titre_ar": "لايونز ديترويت تستضيف تريڤون دايغس في تجربة تدريبية",
-        "titre_original": "Detroit Lions host former All-Pro cornerback Trevon Diggs for workout",
-        "resume": "Les Lions de Détroit organisent un essai pour l'ancien All-Pro Trevon Diggs, cornerback réputé pour ses interceptions. Son profil pourrait renforcer une défense déjà solide. La franchise cherche à combler des lacunes défensives.",
-        "resume_en": "The Detroit Lions are holding a workout for former All-Pro cornerback Trevon Diggs, known for his interceptions. His profile could strengthen an already solid defense. The franchise aims to address defensive gaps.",
-        "resume_zh": "底特律雄狮正在为前全明星跑卫特雷文·迪格斯举行试训，他以截球闻名。他的加入可能会增强已经稳固的防守。该球队旨在弥补防守漏洞。",
-        "resume_ru": "Клуб НФЛ «Детройт Лайонс» организовал тренировочную сессию для бывшего звёздного корнербека Тревона Диггса. Диггс, который в 2021 году был включён в символическую сборную лучших игроков, имеет больше перехватов за карьеру, чем все текущие корнербеки «Лайонс» вместе взятые. Это может усилить защиту команды.",
-        "resume_fa": "تیم فوتبال آمریکایی «لیونز دیترویت» تمرینی با تروون دیگز، مدافع سابق آل-پرو برگزار کرد. دیگز که در سال ۲۰۲۱ به تیم آل-پرو انتخاب شد، تعداد بیشتری از перехватов را نسبت به تمام مدافعان فعلی لیونز دارد. این می‌تواند دفاع تیم را تقویت کند.",
-        "resume_ar": "استضاف فريق كرة القدم الأمريكية «ديترويت لايونز» تريڤون دايغس، الظهير الخلفي السابق، في جلسة تدريبية. دايغس، الذي تم اختياره ضمن فريق «آل-پرو» في عام 2021، لديه عدد أكبر من الاعتراضات من جميع الظهيرين الخلفي الحاليين للفريق مجتمعة. قد يعزز هذا دفاع الفريق.",
-        "analyse_detaillee": "Trevon Diggs, sélectionné au deuxième tour de la draft 2020 par les Cowboys de Dallas, s'est rapidement imposé comme l'un des meilleurs intercepteurs de la NFL, avec 20 interceptions en quatre saisons. Son profil correspond aux besoins des Lions, qui cherchent à renforcer leur secondary après des saisons mitigées. Les enjeux sont doubles : sportif, avec l'objectif de se qualifier pour les playoffs, et économique, car un joueur de ce calibre pourrait revaloriser l'image de la franchise. À court terme, son intégration pourrait améliorer les performances défensives et booster le moral de l'équipe. À moyen terme, si les résultats suivent, les Lions pourraient attirer davantage de talents via des transferts ou des drafts. À long terme, une défense solide est essentielle pour construire une équipe compétitive dans une ligue aussi exigeante que la NFL. Les acteurs principaux incluent les Lions, en quête de renouveau, les Cowboys, qui pourraient envisager un échange, et les autres équipes de la NFC North, concurrentes directes. La NFL, en pleine expansion commerciale, voit d'un bon œil l'arrivée de joueurs expérimentés pour dynamiser le spectacle.",
-        "analyse_en": "Trevon Diggs, a second-round pick in the 2020 NFL Draft by the Dallas Cowboys, quickly established himself as one of the league's top interceptors with 20 picks in four seasons. His profile fits the Lions' needs as they seek to strengthen their secondary after mixed seasons. The stakes are twofold: sports-wise, with the goal of qualifying for the playoffs, and economically, as a player of his caliber could enhance the franchise's image. In the short term, his integration could improve defensive performance and boost team morale. In the medium term, if results follow, the Lions could attract more talent through trades or drafts. In the long term, a solid defense is essential to build a competitive team in a league as demanding as the NFL. Key actors include the Lions, seeking renewal, the Cowboys, who may consider a trade, and other NFC North teams, direct competitors. The NFL, in the midst of commercial expansion, welcomes experienced players to enhance the spectacle.",
-        "analyse_zh": "特雷文·迪格斯是达拉斯牛仔队在2020年NFL选秀第二轮选中的球员，迅速成为联盟顶级截球手之一，四个赛季完成20次截球。他的特点符合雄狮队的需求，后者在经历了几个不稳定的赛季后寻求加强防守端。挑战既有体育层面（争夺季后赛资格）也有经济层面（一位优秀球员可能提升球队形象）。短期内，他的加入可能提升防守表现并振奋士气。中期来看，如果成绩有所提升，雄狮队可能通过交易或选秀吸引更多天才。长期而言，在NFL这样竞争激烈的联盟中，稳固的防守是构建竞争力球队的关键。主要参与者包括寻求重振的雄狮队、可能考虑交易的牛仔队以及NFC北区的其他竞争对手。正处于商业扩张期的NFL乐见经验丰富球员的加入，以增强比赛观赏性。",
-        "analyse_ru": "Контекст ситуации связан с поиском «Детройт Лайонс» способов укрепить оборону перед предстоящим сезоном. Причины приглашения Диггса очевидны: его опыт и статистика говорят о высоком уровне мастерства. Последствия этой тренировки могут проявиться в улучшении результатов команды на поле. Перспективы зависят от того, подпишет ли клуб контракт с игроком. Позиции сторон: клуб заинтересован в усилении состава, а сам Диггс может рассчитывать на возвращение в НФЛ.",
-        "analyse_fa": "زمینه این اقدام به دنبال تقویت دفاع تیم «لیونز دیترویت» قبل از فصل آینده است. دلایل دعوت از دیگز روشن است: تجربه و آمار او نشان‌دهنده سطح بالای مهارت اوست. پیامدهای این تمرین می‌تواند بهبود نتایج تیم در زمین بازی باشد. چشم‌اندازها به بستن قرارداد با بازیکن بستگی دارد. موضع تیم جستجوی بازیکنان با کیفیت است، در حالی که دیگز ممکن است به بازگشت به لیگ NFL امیدوار باشد.",
-        "analyse_ar": "سياق هذا الإجراء يأتي في إطار تعزيز دفاع فريق «ديترويت لايونز» قبل الموسم القادم. أسباب دعوة دايغس واضحة: خبرته وإحصائياته تشير إلى مستوى عالٍ من المهارة. قد تظهر عواقب هذه الجلسة في تحسين نتائج الفريق على أرض الملعب. الآفاق تعتمد على ما إذا كان الفريق سيوقع عقدًا مع اللاعب. موقف الفريق يسعى لتعزيز صفوفه، بينما قد يأمل دايغس في العودة إلى دوري NFL.",
-        "categorie": "Sport",
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/sports/nfl/lions/2026/08/09/trevon-diggs-detroit-lions-cornerback-free-agency/91237140007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/9c2b895e41d7970904c3bef16a0a0be9150773c14c6553511a7ed0a23dbd97fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit-free-press%2Fdaeb6aa9903563cef382761c178c0ffd",
-        "date": "2026-08-10",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des transferts NFL",
-            "hausse": true
-          },
-          {
-            "label": "▲ Sponsoring sportif",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts NFL",
-            "secteur_en": "NFL transfer market",
-            "secteur_zh": "NFL转会市场",
-            "effet_fr": "Un contrat avec Diggs pourrait augmenter la valeur marchande des Lions et attirer d'autres talents via des échanges ou des signatures libres.",
-            "effet_en": "A contract with Diggs could increase the Lions' market value and attract other talents through trades or free-agent signings.",
-            "effet_zh": "与迪格斯的合同可能提升雄狮队的市场价值，并通过交易或自由球员签约吸引其他人才。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Sponsoring sportif",
-            "secteur_en": "Sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Une performance renforcée avec Diggs pourrait attirer davantage de sponsors pour les Lions, augmentant leurs revenus publicitaires.",
-            "effet_en": "Improved performance with Diggs could attract more sponsors for the Lions, increasing their advertising revenue.",
-            "effet_zh": "在迪格斯加入后表现提升可能吸引更多赞助商，增加广告收入。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-11T01:38:17.666042"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_91190",
+        "titre": "Le CLARITY Act en vote décisif en septembre",
+        "titre_en": "CLARITY Act faces critical September vote",
+        "titre_zh": "《CLARITY法案》将于9月进行关键投票",
+        "titre_ru": "Закон о прозрачности крипторынка может быть принят в сентябре",
+        "titre_fa": "قانون شفافیت بازار رمزارزها در سپتامبر به رای گذاشته می‌شود",
+        "titre_ar": "قانون وضوح سوق العملات الرقمية قد يُعرض للتصويت في سبتمبر",
+        "titre_original": "CLARITY Act Faces Critical September Vote as U.S. Crypto Regulation Hangs in the Balance",
+        "resume": "Le CLARITY Act, qui vise à encadrer le marché des cryptomonnaies, sera soumis au Sénat américain en septembre. Son adoption pourrait clarifier le cadre réglementaire pour les actifs numériques. Les acteurs du secteur attendent ce vote avec impatience.",
+        "resume_en": "The CLARITY Act, aimed at regulating the cryptocurrency market, will go before the U.S. Senate in September. Its adoption could clarify the regulatory framework for digital assets. Industry players are eagerly awaiting this vote.",
+        "resume_zh": "旨在规范加密货币市场的《CLARITY法案》将于9月提交美国参议院审议。其通过可能为数字资产明确监管框架。行业参与者对此投票翘首以盼。",
+        "resume_ru": "Законопроект Digital Asset Market Clarity Act готовится к голосованию в Сенате США в сентябре. Его принятие может определить будущее регулирования криптовалют в стране. От результата голосования зависит развитие рынка цифровых активов.",
+        "resume_fa": "لایحه Digital Asset Market Clarity Act برای رای‌گیری در سنا در ماه سپتامبر آماده می‌شود. تصویب آن می‌تواند آینده تنظیم مقررات رمزارزها در ایالات متحده را تعیین کند. نتیجه رای‌گیری بر توسعه بازار دارایی‌های دیجیتال تأثیر خواهد گذاشت.",
+        "resume_ar": "يُعد مشروع قانون Digital Asset Market Clarity Act جاهزاً للتصويت في مجلس الشيوخ الأمريكي في سبتمبر. قد يحدد اعتماده مستقبل تنظيم العملات الرقمية في البلاد. سيعتمد تطور سوق الأصول الرقمية على نتيجة التصويت.",
+        "analyse_detaillee": "Le marché des cryptomonnaies, apparu au début des années 2010, reste marqué par une régulation floue et des scandales financiers répétés. Le CLARITY Act s'inscrit dans une volonté historique des États-Unis de structurer ce secteur, après des années de débats sur sa légitimité. Les enjeux principaux incluent la protection des investisseurs et la lutte contre le blanchiment d'argent. Les causes profondes de cette régulation tardive résident dans la nature décentralisée et transnationale des cryptomonnaies, échappant aux cadres traditionnels. À court terme, l'adoption du texte pourrait rassurer les marchés et attirer davantage d'investisseurs institutionnels. À moyen terme, une régulation claire pourrait favoriser l'innovation tout en limitant les risques systémiques. À long terme, les États-Unis pourraient devenir un hub mondial pour les actifs numériques si le cadre est attractif. Les acteurs incluent les régulateurs fédéraux, les entreprises du secteur comme Coinbase, et les opposants à une régulation trop stricte, craignant un étouffement de l'innovation.",
+        "analyse_en": "The cryptocurrency market, which emerged in the early 2010s, remains plagued by unclear regulation and repeated financial scandals. The CLARITY Act reflects the U.S.'s long-standing effort to structure this sector after years of debate over its legitimacy. Key stakes include investor protection and combating money laundering. The root causes of this delayed regulation lie in the decentralized and transnational nature of cryptocurrencies, which defy traditional frameworks. In the short term, adopting the bill could reassure markets and attract more institutional investors. In the medium term, clear regulation could foster innovation while limiting systemic risks. In the long term, the U.S. could become a global hub for digital assets if the framework is attractive. Key actors include federal regulators, sector companies like Coinbase, and opponents of overly strict regulation, who fear stifling innovation.",
+        "analyse_zh": "起源于21世纪初的加密货币市场长期面临监管模糊和反复的金融丑闻。作为美国多年努力规范该行业的成果，《CLARITY法案》在其合法性争议多年后应运而生。主要挑战包括保护投资者和打击洗钱。这一监管滞后的深层原因在于加密货币的去中心化和跨国特性，超出了传统框架。短期内，法案通过可能稳定市场并吸引更多机构投资者。中期来看，明确的监管框架既能促进创新，又能限制系统性风险。长期而言，如果监管框架具有吸引力，美国可能成为全球数字资产中心。关键行为者包括联邦监管机构、Coinbase等行业企业，以及反对过于严格监管的一方，他们担心这会扼杀创新。",
+        "analyse_ru": "Принятие закона может создать чёткие правила для криптовалютных компаний, что привлечёт институциональных инвесторов. Однако жёсткие требования могут вытеснить мелких игроков с рынка. США стремится занять лидирующие позиции в глобальном регулировании цифровых активов. Конгресс рассматривает возможность гармонизации законов с международными стандартами. Эксперты отмечают, что от результата голосования зависит не только рынок США, но и глобальная индустрия.",
+        "analyse_fa": "تصویب این قانون می‌تواند قوانین روشنی برای شرکت‌های رمزارزی ایجاد کند و سرمایه‌گذاران نهادی را جذب نماید. با این حال، الزامات سخت‌گیرانه ممکن است بازیگران کوچک را از بازار خارج کند. ایالات متحده در تلاش است تا جایگاه پیشرو در تنظیم مقررات جهانی دارایی‌های دیجیتال را به دست آورد. کنگره در حال بررسی امکان هماهنگی قوانین با استانداردهای بین‌المللی است. کارشناسان معتقدند نتیجه رای‌گیری نه تنها بر بازار ایالات متحده، بلکه بر صنعت جهانی نیز تأثیر خواهد گذاشت.",
+        "analyse_ar": "قد يخلق اعتماد القانون قواعد واضحة لشركات العملات الرقمية، مما يجذب المستثمرين المؤسسي. ومع ذلك، قد تؤدي المتطلبات الصارمة إلى إخراج اللاعبين الصغار من السوق. تسعى الولايات المتحدة لاحتلال موقع رائد في التنظيم العالمي للأصول الرقمية. ينظر الكونجرس في إمكانية تنسيق القوانين مع المعايير الدولية. يعتقد الخبراء أن نتيجة التصويت لن تؤثر فقط على السوق الأمريكية، بل على الصناعة العالمية.",
+        "categorie": "Économie et Régulation",
+        "source": "Bitcoinfoundation.org",
+        "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-faces-critical-september-vote-as-u-s-crypto-regulation-hangs-in-the-balance/",
+        "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/CLARITY-Act-Faces-Critical-September-Vote-as-U.S.-Crypto-Regulation-Hangs-in-the-Balance-2.webp",
+        "date": "2026-08-11",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des cryptomonnaies",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur bancaire traditionnel",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des cryptomonnaies",
+            "secteur_en": "Cryptocurrency market",
+            "secteur_zh": "加密货币市场",
+            "effet_fr": "Une régulation claire pourrait attirer davantage d'investisseurs institutionnels et stabiliser les prix des cryptomonnaies.",
+            "effet_en": "Clear regulation could attract more institutional investors and stabilize cryptocurrency prices.",
+            "effet_zh": "明确的监管框架可能吸引更多机构投资者，稳定加密货币价格。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur bancaire traditionnel",
+            "secteur_en": "Traditional banking sector",
+            "secteur_zh": "传统银行业",
+            "effet_fr": "Les banques traditionnelles pourraient voir leur rôle évoluer face à l'émergence de services financiers décentralisés.",
+            "effet_en": "Traditional banks may see their role evolve in the face of decentralized financial services.",
+            "effet_zh": "传统银行可能在去中心化金融服务兴起背景下面临角色转变。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-12T08:17:07.347168"
+      },
       {
         "id": "usa_661504",
         "titre": "Trump s'oppose à la destitution d'Infantino",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-11T03:43:56.594515"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_602877",
-        "titre": "El-Sayed s'entretient avec Obama pour unifier les démocrates",
-        "titre_en": "El-Sayed meets Obama to unite Michigan Democrats",
-        "titre_zh": "埃尔-赛义德与奥巴马会面统一密歇根民主党",
-        "titre_ru": "Эль-Сайед обсудил с Обамой объединение демократов Мичигана",
-        "titre_fa": "ال‌سعید با اوباما درباره وحدت دموکرات‌های میشیگان گفتگو کرد",
-        "titre_ar": "التقى السعيد بأوباما لمناقشة توحيد الديمقراطيين في ميشيغان",
-        "titre_original": "El-Sayed spoke with Obama as Michigan Democrats look to unite after a bitter Senate primary",
-        "resume": "Abdul El-Sayed, candidat au Sénat du Michigan, a discuté avec Barack Obama pour tenter de rassembler les démocrates après une primaire sénatoriale amère. Il espère que l'ancien président pourrait le soutenir publiquement. La division menace la cohésion du parti.",
-        "resume_en": "Abdul El-Sayed, Michigan Senate candidate, spoke with Barack Obama to try to unite Democrats after a bitter Senate primary. He hopes the former president might publicly endorse him. Party division threatens cohesion.",
-        "resume_zh": "密歇根州参议院候选人阿卜杜勒·埃尔-赛义德与巴拉克·奥巴马会面，试图在激烈的参议院初选后团结民主党人。他希望前总统能公开支持他。党内分裂威胁着团结。",
-        "resume_ru": "Кандидат в сенат от демократов Мичигана Абдул Эль-Сайед заявил, что обсудил с бывшим президентом США Бараком Обамой возможность объединения партии после напряжённой предварительной кампании. Эль-Сайед надеется, что Обама поддержит его кандидатуру и выступит на его стороне.",
-        "resume_fa": "نامزد دموکرات سنای میشیگان، عبدال السعید، گفت که با باراک اوباما، رئیس‌جمهور سابق آمریکا، درباره امکان اتحاد حزب پس از یک رقابت سخت در انتخابات مقدماتی گفتگو کرده است. السعید امیدوار است که اوباما از او حمایت کند و در کمپین او شرکت کند.",
-        "resume_ar": "أعلن مرشح الديمقراطيين لمجلس الشيوخ عن ولاية ميشيغان عبدال السعيد أنه ناقش مع الرئيس الأمريكي السابق باراك أوباما إمكانية توحيد الحزب بعد حملة تمهيدية صعبة. يأمل السعيد أن يدعم أوباما ترشحه ويشارك في حملته الانتخابية.",
-        "analyse_detaillee": "Abdul El-Sayed, médecin et ancien directeur du département de la santé du Michigan, est une figure progressiste du Parti démocrate, souvent en désaccord avec l'establishment du parti. Sa primaire serrée contre la candidate soutenue par les démocrates traditionnels, Gretchen Whitmer, a révélé des fractures au sein du parti. Barack Obama, bien que discret depuis 2016, reste une figure influente capable de mobiliser l'électorat modéré. À court terme, son soutien pourrait donner un avantage symbolique à El-Sayed face à ses détracteurs internes. À moyen terme, une unification réussie pourrait renforcer la position des démocrates dans un État clé pour les prochaines élections. À long terme, cette dynamique pourrait influencer l'orientation idéologique du parti, entre progressisme et modération. Les enjeux sont électoraux, avec la nécessité de reconquérir les électeurs indépendants, et idéologiques, car le Michigan est un État pivot dans la stratégie nationale démocrate. Les acteurs principaux incluent El-Sayed, Obama, les factions modérées et progressistes du parti, ainsi que les républicains locaux cherchant à exploiter les divisions. La question illustre les tensions internes au Parti démocrate entre pragmatisme et radicalité, dans un contexte de polarisation accrue de la vie politique américaine.",
-        "analyse_en": "Abdul El-Sayed, a physician and former Michigan health director, is a progressive figure within the Democratic Party, often at odds with the establishment. His tight primary against Gretchen Whitmer, the establishment-backed candidate, exposed fractures within the party. Barack Obama, though low-profile since 2016, remains an influential figure capable of mobilizing moderate voters. In the short term, his endorsement could give El-Sayed a symbolic edge over internal critics. In the medium term, successful unification could strengthen Democrats' position in a key state for upcoming elections. In the long term, this dynamic could shape the party's ideological direction, between progressivism and moderation. The stakes are electoral, with the need to win back independent voters, and ideological, as Michigan is a pivotal state in the national Democratic strategy. Key actors include El-Sayed, Obama, the party's moderate and progressive factions, and local Republicans seeking to exploit divisions. The issue highlights internal tensions within the Democratic Party between pragmatism and radicalism, amid heightened political polarization in the U.S.",
-        "analyse_zh": "阿卜杜勒·埃尔-赛义德是一位医生兼密歇根州前卫生局长，是民主党内的进步派人物，常与党内建制派意见不合。他在与民主党建制派支持的候选人格雷琴·惠特默的激烈初选中暴露了党内分裂。巴拉克·奥巴马尽管自2016年以来低调，仍是一位能够动员中间选民的有影响力人物。短期内，他的支持可能为埃尔-赛义德提供对内批评者的象征性优势。中期来看，成功的团结可能加强民主党在即将到来的选举中在关键州的地位。长期而言，这种动态可能影响该党的意识形态方向，在进步主义与温和主义之间。挑战既有选举层面（需要重新赢得独立选民）也有意识形态层面（密歇根州是民主党全国战略中的关键州）。主要参与者包括埃尔-赛义德、奥巴马、党内温和派和进步派以及试图利用分裂的当地共和党人。这一问题凸显了民主党内在极化加剧的美国政治背景下，务实主义与激进主义之间的内部分裂。",
-        "analyse_ru": "Контекст ситуации связан с внутренними разногласиями в Демократической партии Мичигана после острой предварительной кампании. Причины обращения к Обаме могут быть связаны с его авторитетом и способностью мобилизовать сторонников. Последствия такого объединения могут укрепить позиции демократов на предстоящих выборах. Перспективы зависят от поддержки Обамы и реакции избирателей. Позиции сторон: Эль-Сайед стремится к единству, Обама может сыграть роль миротворца, а оппоненты пытаются сохранить разногласия.",
-        "analyse_fa": "زمینه این مسئله به اختلافات داخلی در حزب دموکرات میشیگان پس از یک رقابت سخت در انتخابات مقدماتی مربوط می‌شود. دلایل تماس با اوباما ممکن است به اعتبار او و توانایی‌اش در بسیج طرفداران مربوط باشد. پیامدهای چنین اتحادی می‌تواند موقعیت دموکرات‌ها را در انتخابات آینده تقویت کند. چشم‌اندازها به حمایت اوباما و واکنش رأی‌دهندگان بستگی دارد. موضع بازیگران: السعید به دنبال اتحاد است، اوباما ممکن است نقش میانجی را ایفا کند، و رقبا تلاش می‌کنند اختلافات را حفظ کنند.",
-        "analyse_ar": "سياق هذه المسألة يتعلق بالخلافات الداخلية في الحزب الديمقراطي بولاية ميشيغان بعد حملة تمهيدية حادة. قد ترتبط أسباب الاتصال بأوباما بسمعته وقدرته على تحشيد المؤيدين. قد تعزز عواقب مثل هذا الاتحاد موقف الديمقراطيين في الانتخابات القادمة. الآفاق تعتمد على دعم أوباما ورد فعل الناخبين. مواقف الأطراف: يسعى السعيد إلى الوحدة، وقد يلعب أوباما دور الوسيط، بينما يحاول المنافسون الحفاظ على الخلافات.",
-        "categorie": "Politique",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/el-sayed-spoke-obama-michigan-democrats-unite-after-135499529",
-        "image": "https://i.abcnewsfe.com/a/5e6f1d78-6578-4bbf-9a30-6ee2ec9c11d4/wirestory_723a1c44a2e2ebf713f176fafb23021e_16x9.jpg?w=1600",
-        "date": "2026-08-10",
-        "pays": "usa",
+        "id": "chine_218819",
+        "titre": "Amap lance des services de VTC pour touristes",
+        "titre_en": "Amap launches ride-hailing for international tourists",
+        "titre_zh": "高德地图推出国际游客打车服务",
+        "titre_ru": "Amap запускает такси для иностранных туристов в Китае",
+        "titre_fa": "آمپ سرویس تاکسی برای گردشگران خارجی در چین راه‌اندازی کرد",
+        "titre_ar": "أطلقت أماب خدمة سيارات الأجرة للسياح الأجانب في الصين",
+        "titre_original": "Amap Brings Ride-Hailing to International Visitors in China",
+        "resume": "Amap, filiale d'Alibaba, a lancé une version internationale de son application incluant des services de VTC pour les touristes étrangers. Cette initiative vise à faciliter les déplacements en Chine. La plateforme cible particulièrement les visiteurs en provenance d'Asie et d'Europe.",
+        "resume_en": "Amap, Alibaba's subsidiary, has launched an international version of its app featuring ride-hailing services for foreign tourists. The initiative aims to simplify travel in China. The platform specifically targets visitors from Asia and Europe.",
+        "resume_zh": "阿里巴巴旗下的高德地图推出了包含国际游客打车服务的国际版应用。该举措旨在简化在中国的出行。平台特别针对来自亚洲和欧洲的游客。",
+        "resume_ru": "Платформа Amap, принадлежащая Alibaba, представила международную версию приложения с услугами такси. Теперь иностранные туристы могут заказывать автомобили через приложение Amap Global. Сервис доступен в Китае с августа 2026 года.",
+        "resume_fa": "پلتفرم آمپ متعلق به علی‌بابا نسخه بین‌المللی اپلیکیشن خود را با خدمات تاکسی معرفی کرد. اکنون گردشگران خارجی می‌توانند از طریق اپلیکیشن آمپ گلوبال خودرو رزرو کنند. این سرویس از اوت 2026 در چین در دسترس است.",
+        "resume_ar": "أطلقت منصة أماب التابعة لمجموعة علي بابا الإصدار الدولي لتطبيقها مع خدمات سيارات الأجرة. يمكن للسياح الأجانب الآن حجز السيارات عبر تطبيق أماب غلوبال. يتوفر هذا الخدمة في الصين اعتباراً من أغسطس 2026.",
+        "analyse_detaillee": "La Chine, première destination touristique mondiale, cherche à moderniser son infrastructure pour accueillir davantage de visiteurs internationaux. Amap, leader des services de localisation en Chine, étend son modèle à l'international pour capitaliser sur la reprise post-pandémie. Historiquement, le secteur du tourisme chinois a été perturbé par les restrictions sanitaires et géopolitiques. Les enjeux principaux incluent l'amélioration de l'expérience touristique et la diversification des services numériques. Les causes profondes de cette initiative résident dans la volonté de réduire la dépendance au cash et d'intégrer les touristes dans l'écosystème numérique chinois. À court terme, cette offre pourrait attirer plus de visiteurs et booster les revenus du secteur. À moyen terme, une adoption massive des services numériques pourrait transformer les habitudes de consommation des touristes. À long terme, la Chine pourrait devenir un modèle pour les services touristiques numériques en Asie. Les acteurs incluent Alibaba, qui renforce son influence dans les services locaux, et les plateformes concurrentes comme Didi, qui pourraient suivre cette tendance.",
+        "analyse_en": "China, the world's top tourist destination, is modernizing its infrastructure to attract more international visitors. Amap, China's leading location-based services provider, is expanding its model internationally to capitalize on the post-pandemic recovery. Historically, China's tourism sector has been disrupted by health and geopolitical restrictions. Key stakes include improving the tourist experience and diversifying digital services. The root causes of this initiative lie in the desire to reduce cash dependency and integrate tourists into China's digital ecosystem. In the short term, this offering could attract more visitors and boost sector revenues. In the medium term, widespread adoption of digital services could transform tourist consumption habits. In the long term, China could become a model for digital tourism services in Asia. Key actors include Alibaba, which is strengthening its influence in local services, and rival platforms like Didi, which may follow this trend.",
+        "analyse_zh": "作为全球第一大旅游目的地，中国正在现代化其基础设施以吸引更多国际游客。作为中国领先的位置服务提供商，高德地图正在将其模式扩展至国际市场，以抓住疫情后复苏的机遇。中国旅游业长期受到卫生和地缘政治限制的干扰。主要挑战包括改善游客体验和丰富数字服务。此举背后的深层原因在于减少现金依赖，并将游客纳入中国数字生态系统。短期内，这一服务可能吸引更多游客并提升行业收入。中期来看，数字服务的广泛采用可能改变游客的消费习惯。长期而言，中国可能成为亚洲数字旅游服务的典范。关键行为者包括加强在本地服务影响力的阿里巴巴，以及可能跟进的竞争对手平台如滴滴。",
+        "analyse_ru": "Запуск международной версии приложения Amap Global расширяет возможности для иностранных туристов в Китае. Это способствует развитию туризма и укреплению позиций Alibaba на рынке услуг. Однако конкуренция с другими платформами, такими как Didi, может создать вызовы. Китай стремится к цифровизации всех сфер жизни, включая транспорт. Эксперты считают, что успех сервиса зависит от удобства интерфейса и охвата городов.",
+        "analyse_fa": "راه‌اندازی نسخه بین‌المللی اپلیکیشن آمپ گلوبال فرصت‌های جدیدی را برای گردشگران خارجی در چین فراهم می‌کند. این اقدام به توسعه گردشگری و تقویت جایگاه علی‌بابا در بازار خدمات کمک می‌کند. با این حال، رقابت با پلتفرم‌هایی مانند دیدی ممکن است چالش‌هایی ایجاد کند. چین در تلاش است تا تمام جنبه‌های زندگی، از جمله حمل‌ونقل، را دیجیتالی کند. کارشناسان معتقدند موفقیت سرویس به سهولت استفاده از رابط کاربری و پوشش شهرهای مختلف بستگی دارد.",
+        "analyse_ar": "أدى إطلاق الإصدار الدولي لتطبيق أماب غلوبال إلى توسيع فرص السياح الأجانب في الصين. يساهم هذا في تطوير السياحة وتعزيز مكانة مجموعة علي بابا في سوق الخدمات. ومع ذلك، قد تشكل المنافسة مع منصات أخرى مثل ديدي تحديات. تسعى الصين إلى digitalización جميع جوانب الحياة، بما في ذلك النقل. يعتقد الخبراء أن نجاح الخدمة يعتمد على سهولة واجهة المستخدم وتغطيتها للمدن.",
+        "categorie": "Économie et Technologie",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/amap-brings-ride-hailing-to-international-visitors-in-china-302848163.html",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-08-11",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Financement des campagnes électorales",
+            "label": "▲ Secteur du tourisme numérique",
             "hausse": true
           },
           {
-            "label": "▲ Sondages électoraux",
-            "hausse": true
+            "label": "▼ Plateformes de mobilité locale",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Financement des campagnes électorales",
-            "secteur_en": "Campaign financing",
-            "secteur_zh": "竞选资金",
-            "effet_fr": "Un soutien d'Obama pourrait attirer davantage de dons des donateurs modérés et des grandes fortunes démocrates, renforçant la trésorerie d'El-Sayed.",
-            "effet_en": "An Obama endorsement could attract more donations from moderate donors and major Democratic figures, boosting El-Sayed's campaign funds.",
-            "effet_zh": "奥巴马的支持可能吸引更多中间派捐助者和民主党大亨的捐款，增强埃尔-赛义德的竞选资金。",
+            "secteur_fr": "Secteur du tourisme numérique",
+            "secteur_en": "Digital tourism sector",
+            "secteur_zh": "数字旅游行业",
+            "effet_fr": "L'ajout de services de VTC sur Amap Global pourrait augmenter la fréquentation touristique et les revenus liés aux déplacements en Chine.",
+            "effet_en": "Adding ride-hailing services to Amap Global could boost tourist visits and revenues from travel in China.",
+            "effet_zh": "在Amap Global上增加打车服务可能提升游客访问量和中国旅行相关收入。",
             "hausse": true
           },
           {
-            "secteur_fr": "Sondages électoraux",
-            "secteur_en": "Electoral polls",
-            "secteur_zh": "选举民调",
-            "effet_fr": "Une unification sous l'égide d'Obama pourrait améliorer les intentions de vote pour El-Sayed, réduisant l'écart avec ses adversaires républicains.",
-            "effet_en": "Unification under Obama's aegis could improve voting intentions for El-Sayed, narrowing the gap with Republican opponents.",
-            "effet_zh": "在奥巴马的支持下实现团结可能提升埃尔-赛义德的投票意向，缩小与共和党对手的差距。",
-            "hausse": true
+            "secteur_fr": "Plateformes de mobilité locale",
+            "secteur_en": "Local mobility platforms",
+            "secteur_zh": "本地出行平台",
+            "effet_fr": "Les concurrents comme Didi pourraient développer des offres similaires pour ne pas perdre de parts de marché face à Amap.",
+            "effet_en": "Competitors like Didi may develop similar offerings to avoid losing market share to Amap.",
+            "effet_zh": "竞争对手如滴滴可能推出类似服务，以避免在市场份额上输给高德。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-11T01:38:17.666064"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-12T08:17:07.347178"
+      },
       {
         "id": "chine_118614",
         "titre": "Bindra évoque son or olympique de 2008",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-10T23:34:20.892280"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_134297",
-        "titre": "Drone saoudien abattu près du détroit d'Ormuz",
-        "titre_en": "Saudi drone downed near Strait of Hormuz",
-        "titre_zh": "沙特无人机在霍尔木兹海峡附近被击落",
-        "titre_ru": "Саудовский дрон производства Китая сбит у Ормуза",
-        "titre_fa": "پرواز پهپاد ساخت چین عربستان در تنگه هرمز سرنگون شد",
-        "titre_ar": "إسقاط طائرة مسيرة سعودية الصنع صينية near مضيق هرمز",
-        "titre_original": "Chinese-made Saudi drone downed near Strait of Hormuz amid rising tensions",
-        "resume": "Un drone saoudien de fabrication chinoise a été abattu près du détroit d'Ormuz, une zone stratégique pour le transport pétrolier. Cet incident survient dans un contexte de tensions géopolitiques croissantes. Il souligne les risques de militarisation accrue dans la région.",
-        "resume_en": "A Chinese-made Saudi drone was downed near the Strait of Hormuz, a strategic area for oil transport. This incident occurs amid rising geopolitical tensions. It highlights the risks of increased militarization in the region.",
-        "resume_zh": "一架中国制造的沙特无人机在霍尔木兹海峡附近被击落，该地区是石油运输的战略要地。这一事件发生在日益紧张的地缘政治背景下。它凸显了该地区军事化加剧的风险。",
-        "resume_ru": "В районе Ормузского пролива сбит саудовский дрон китайского производства. Инцидент произошёл на фоне роста напряжённости в регионе. Это подчеркивает риски милитаризации и нестабильности.",
-        "resume_fa": "یک پهپاد ساخت چین متعلق به عربستان در نزدیکی تنگه هرمز سرنگون شد. این حادثه در شرایط افزایش تنش در منطقه رخ داد. این موضوع بر خطرات نظامی‌سازی و بی‌ثباتی تأکید دارد.",
-        "resume_ar": "تم إسقاط طائرة مسيرة سعودية الصنع من إنتاج الصين بالقرب من مضيق هرمز. وقع الحادث في ظل تصاعد التوترات الإقليمية. ويبرز هذا الخطر التسلح وعدم الاستقرار.",
-        "analyse_detaillee": "L'incident illustre l'escalade des tensions au Moyen-Orient, notamment entre l'Iran et ses adversaires régionaux. La présence de drones chinois dans l'équipement saoudien reflète l'expansion des ventes d'armes de Pékin. À court terme, cela pourrait déclencher des représailles militaires. À moyen terme, les pays de la région pourraient accélérer leurs programmes d'armement. Long terme, cela pourrait redessiner les alliances militaires en Asie et au Moyen-Orient. Les acteurs clés incluent l'Arabie saoudite, l'Iran, la Chine et les États-Unis. La stabilité de l'approvisionnement pétrolier mondial est menacée. La Chine renforce son influence géopolitique via ses exportations d'armes.",
-        "analyse_en": "The incident illustrates the escalation of tensions in the Middle East, particularly between Iran and its regional adversaries. The presence of Chinese-made drones in Saudi equipment reflects Beijing's expansion of arms sales. In the short term, this could trigger military retaliation. In the medium term, regional countries may accelerate their armament programs. Long-term, this could reshape military alliances in Asia and the Middle East. Key actors include Saudi Arabia, Iran, China, and the United States. The stability of global oil supply is threatened. China is strengthening its geopolitical influence through arms exports.",
-        "analyse_zh": "该事件表明中东紧张局势升级，特别是伊朗与其地区对手之间。沙特装备中中国制造无人机的存在反映了北京武器出口的扩张。短期内，这可能引发军事报复。中期来看，地区国家可能加速军备计划。长期而言，这可能重塑亚洲和中东的军事联盟。关键参与者包括沙特、伊朗、中国和美国。全球石油供应的稳定受到威胁。中国正通过武器出口加强其地缘政治影响力。",
-        "analyse_ru": "Сбитый дрон мог использоваться для разведки или ударов, что указывает на эскалацию конфликта. Китай активно поставляет вооружения в регион, что вызывает обеспокоенность США и их союзников. Инцидент у Ормуза угрожает безопасности глобальных нефтяных маршрутов. Нестабильность в регионе может привести к новым вооружённым столкновениям.",
-        "analyse_fa": "این پهپاد ممکن است برای جاسوسی یا حملات استفاده می‌شده، که نشان‌دهنده تشدید درگیری است. چین به طور فعال تسلیحات به منطقه ارسال می‌کند، موضوعی که آمریکا و متحدانش را نگران کرده است. حادثه در تنگه هرمز امنیت مسیرهای نفتی جهانی را تهدید می‌کند. بی‌ثباتی منطقه ممکن است به درگیری‌های مسلحانه جدید منجر شود.",
-        "analyse_ar": "ربما استُخدمت الطائرة المسيرة التي تم إسقاطها في التجسس أو الضربات، مما يشير إلى تصعيد الصراع. وتزود الصين المنطقة بالأسلحة بشكل نشط، مما يثير قلق الولايات المتحدة وحلفائها. ويهدد الحادث في مضيق هرمز أمن طرق النفط العالمية. وقد تؤدي عدم الاستقرار الإقليمي إلى مواجهات مسلحة جديدة.",
+        "id": "russie_308679",
+        "titre": "L'Ukraine à l'épreuve après 40 jours de campagne",
+        "titre_en": "Ukraine struggles after 40-day campaign",
+        "titre_zh": "乌克兰40天战役后陷入困境",
+        "titre_ru": "40-дневная кампания Украины не приблизила войну к завершению",
+        "titre_fa": "کارزار 40 روزه اوکراین به پایان جنگ نزدیک نشد",
+        "titre_ar": "لم تقرب الحملة الأوكرانية التي استمرت 40 يوماً الحرب من نهايتها",
+        "titre_original": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+        "resume": "La campagne ukrainienne de 40 jours face à la Russie n'a pas permis de rapprocher la fin du conflit. Les défenses aériennes ukrainiennes s'affaiblissent face aux frappes russes. Les stocks de missiles de défense s'épuisent rapidement.",
+        "resume_en": "Ukraine's 40-day campaign against Russia has not brought the conflict closer to an end. Ukrainian air defenses are weakening against Russian strikes. Missile defense stocks are rapidly depleting.",
+        "resume_zh": "乌克兰对俄罗斯的40天战役未能让冲突接近终结。乌克兰防空系统在俄罗斯打击下不断削弱。防空导弹库存迅速耗尽。",
+        "resume_ru": "Украинская 40-дневная наступательная кампания не принесла ожидаемых результатов. Киев столкнулся с мощным ответным ударом российских войск. Дефицит зенитных ракетных систем ещё больше осложняет положение украинской армии.",
+        "resume_fa": "کارزار تهاجمی 40 روزه اوکراین به نتایج مورد انتظار نرسید. کی‌یف با واکنش شدید نیروهای روسی مواجه شد. کمبود سامانه‌های دفاع هوایی وضعیت ارتش اوکراین را دشوارتر کرده است.",
+        "resume_ar": "لم تحقق الحملة الهجومية الأوكرانية التي استمرت 40 يوماً النتائج المتوقعة. واجهت كييف رداً قوياً من القوات الروسية. أدى نقص أنظمة الدفاع الجوي إلى تفاقم وضع الجيش الأوكراني.",
+        "analyse_detaillee": "La guerre en Ukraine, entrée dans sa troisième année, s'inscrit dans une longue histoire de tensions entre Kiev et Moscou remontant à l'annexion de la Crimée en 2014. Les enjeux principaux restent la souveraineté territoriale et l'intégrité de l'Ukraine face à l'expansionnisme russe. Les causes profondes incluent la rivalité géopolitique entre l'OTAN et la Russie, ainsi que les ambitions impérialistes de Moscou. À court terme, l'épuisement des stocks de missiles ukrainiens pourrait affaiblir davantage sa capacité de défense. À moyen terme, une escalade des frappes russes pourrait forcer Kiev à négocier sous pression. À long terme, la reconstruction de l'Ukraine dépendra de l'issue du conflit et du soutien international. Les acteurs clés incluent l'OTAN, qui soutient Kiev militairement, et la Russie, déterminée à maintenir son influence. L'UE joue un rôle diplomatique et économique crucial, tandis que les États-Unis restent un pilier de l'aide militaire.",
+        "analyse_en": "The war in Ukraine, now in its third year, is rooted in a long history of tensions between Kiev and Moscow dating back to the 2014 annexation of Crimea. The main stakes remain Ukraine's territorial sovereignty and integrity against Russian expansionism. Root causes include the geopolitical rivalry between NATO and Russia, as well as Moscow's imperial ambitions. In the short term, the depletion of Ukrainian missile stocks could further weaken its defense capabilities. In the medium term, an escalation of Russian strikes could force Kiev to negotiate under pressure. In the long term, Ukraine's reconstruction will depend on the conflict's outcome and international support. Key actors include NATO, which supports Kiev militarily, and Russia, determined to maintain its influence. The EU plays a crucial diplomatic and economic role, while the U.S. remains a pillar of military aid.",
+        "analyse_zh": "乌克兰战争进入第三年，其根源可追溯到2014年克里米亚被吞并后基辅与莫斯科的长期紧张关系。主要争端仍是乌克兰领土主权与俄罗斯扩张主义的对抗。深层原因包括北约与俄罗斯的地缘政治竞争，以及莫斯科的帝国野心。短期内，乌克兰导弹库存耗尽可能进一步削弱其防御能力。中期来看，俄罗斯打击升级可能迫使基辅在压力下谈判。长期而言，乌克兰重建将取决于冲突结果和国际支持。关键行为者包括军事支持基辅的北约、坚持维护影响力的俄罗斯。欧盟在外交和经济上扮演关键角色，而美国则是军事援助的支柱。",
+        "analyse_ru": "Украинская армия столкнулась с серьёзными проблемами из-за нехватки боеприпасов и современных систем ПВО. Российские войска, напротив, демонстрируют устойчивость и способность наносить массированные удары. Западные партнёры Украины медленно реагируют на запросы о дополнительной военной помощи. В долгосрочной перспективе это может привести к затягиванию конфликта и усилению позиций России на переговорах. Эксперты считают, что без кардинального изменения ситуации на фронте, война может перейти в фазу позиционной борьбы.",
+        "analyse_fa": "ارتش اوکراین با کمبود مهمات و سیستم‌های دفاع هوایی مدرن مواجه است. از سوی دیگر، نیروهای روسی توانایی خود را در اجرای حملات گسترده نشان می‌دهند. شرکای غربی اوکراین با تأخیر به درخواست‌های کمک نظامی پاسخ می‌دهند. در بلندمدت، این موضوع می‌تواند منجر به طولانی شدن درگیری و تقویت موضع روسیه در مذاکرات شود. کارشناسان معتقدند بدون تغییر اساسی در جبهه، جنگ ممکن است به مرحله جنگ موضعی تبدیل شود.",
+        "analyse_ar": "واجهت القوات الأوكرانية مشاكل خطيرة بسبب نقص الذخائر وأنظمة الدفاع الجوي الحديثة. في المقابل، أظهرت القوات الروسية قدرة على شن هجمات واسعة النطاق. يستجيب الشركاء الغربيون لأوكرانيا ببطء على طلبات المساعدة العسكرية الإضافية. على المدى الطويل، قد يؤدي ذلك إلى إطالة أمد الصراع وتعزيز موقف روسيا في المفاوضات. يعتقد الخبراء أنه بدون تغيير جوهري في الجبهة، قد يتحول الصراع إلى مرحلة حرب المواقع.",
         "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/chinese-made-saudi-drone-downed-near-strait-of-hormuz-amid-rising-tensions/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/09173129/p-vessels-in-the-strait-of-hormuz-as-seen-from-musandam-oman-32-1-800x420.jpeg",
-        "date": "2026-08-09",
-        "pays": "chine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-06-18T100031Z_1196535788_RC26WLAENOCS_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1786433709.jpg?resize=1920%2C1440",
+        "date": "2026-08-11",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur pétrolier et énergie",
-            "hausse": true
+            "label": "▼ Défense aérienne ukrainienne",
+            "hausse": false
           },
           {
-            "label": "▲ Marché des armes et défense",
+            "label": "▲ Secteur de l'armement occidental",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur pétrolier et énergie",
-            "secteur_en": "Oil and energy sector",
-            "secteur_zh": "石油与能源行业",
-            "effet_fr": "Les tensions pourraient perturber les approvisionnements pétroliers et faire monter les prix de l'énergie.",
-            "effet_en": "Tensions could disrupt oil supplies and drive up energy prices.",
-            "effet_zh": "紧张局势可能扰乱石油供应并推高能源价格。",
-            "hausse": true
+            "secteur_fr": "Défense aérienne ukrainienne",
+            "secteur_en": "Ukrainian air defense",
+            "secteur_zh": "乌克兰防空系统",
+            "effet_fr": "L'épuisement des stocks de missiles a réduit la capacité de l'Ukraine à contrer les frappes aériennes russes, augmentant sa vulnérabilité.",
+            "effet_en": "The depletion of missile stocks has reduced Ukraine's ability to counter Russian airstrikes, increasing its vulnerability.",
+            "effet_zh": "导弹库存耗尽削弱了乌克兰对抗俄罗斯空袭的能力，增加了其脆弱性。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché des armes et défense",
-            "secteur_en": "Arms market and defense",
-            "secteur_zh": "军火市场与国防",
-            "effet_fr": "La demande en drones et systèmes de défense pourrait augmenter, bénéficiant aux industries chinoises et occidentales.",
-            "effet_en": "Demand for drones and defense systems could rise, benefiting Chinese and Western industries.",
-            "effet_zh": "对无人机和防御系统的需求可能上升，惠及中国和西方企业。",
+            "secteur_fr": "Secteur de l'armement occidental",
+            "secteur_en": "Western arms industry",
+            "secteur_zh": "西方军火工业",
+            "effet_fr": "La demande accrue en missiles et systèmes de défense a stimulé les commandes pour les industries occidentales de l'armement.",
+            "effet_en": "Increased demand for missiles and defense systems has boosted orders for Western arms industries.",
+            "effet_zh": "对导弹和防空系统需求激增推动了西方军火工业的订单增长。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-10T21:40:30.656628"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-12T08:17:07.347145"
+      },
       {
         "id": "russie_363177",
         "titre": "La Pologne exige que l'Ukraine affronte son passé nazi",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-10T20:41:41.723647"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_227255",
-        "titre": "La Syrie valide le maintien des bases russes",
-        "titre_en": "Syria agrees to keep Russian military bases",
-        "titre_zh": "叙利亚同意保留俄罗斯军事基地",
-        "titre_ru": "Сирия и Россия согласовали статус российских баз",
-        "titre_fa": "سوریه و روسیه بر سرنوشت پایگاه‌های روسی به توافق رسیدند",
-        "titre_ar": "سوريا وروسيا تتوصلان إلى اتفاق بشأن مصير القواعد الروسية",
-        "titre_original": "Syria reaches deal with Moscow on fate of Russian bases",
-        "resume": "La Syrie a conclu un accord avec Moscou pour officialiser le maintien des bases militaires russes sur son territoire. Cet arrangement renforce la présence russe au Moyen-Orient. Les discussions portaient sur la durée et les conditions d'occupation des bases.",
-        "resume_en": "Syria reached an agreement with Moscow to formalize the presence of Russian military bases on its territory. This deal strengthens Russia's foothold in the Middle East. Discussions focused on the duration and conditions of the bases' occupation.",
-        "resume_zh": "叙利亚与莫斯科达成协议，正式确认俄罗斯军事基地在其领土上的存在。这项协议巩固了俄罗斯在中东的立足点。谈判主要围绕基地的驻留期限和条件进行。",
-        "resume_ru": "Сирия и Россия заключили соглашение о статусе российских военных баз на территории Сирии. Документ определяет условия их присутствия и использования. Сделка укрепляет военное сотрудничество между двумя странами. Переговоры велись на фоне региональной нестабильности.",
-        "resume_fa": "سوریه و روسیه به توافقی درباره وضعیت پایگاه‌های نظامی روسیه در خاک سوریه دست یافتند. این توافق شرایط حضور و استفاده از این پایگاه‌ها را مشخص می‌کند. این معامله همکاری نظامی دو کشور را تقویت می‌کند. مذاکرات در شرایط بی‌ثباتی منطقه‌ای انجام شد.",
-        "resume_ar": "توصلت سوريا وروسيا إلى اتفاق بشأن وضع القواعد العسكرية الروسية في الأراضي السورية. يحدد هذا الاتفاق شروط وجودها واستخدامها. يعزز هذا الصفقة التعاون العسكري بين البلدين. جرت المفاوضات في ظل عدم استقرار إقليمي.",
-        "analyse_detaillee": "Cet accord s'inscrit dans la stratégie russe de maintien d'une influence durable au Moyen-Orient, notamment depuis la guerre en Ukraine. Historiquement, la Russie a toujours cherché à sécuriser des bases stratégiques pour étendre son influence, comme en Syrie depuis 2015. Les enjeux principaux incluent la consolidation de la présence militaire russe et la lutte contre les groupes djihadistes. Les causes profondes résident dans la rivalité avec les États-Unis et la Turquie pour le contrôle de la région. À court terme, cela pourrait renforcer la position de Bachar al-Assad. À moyen terme, la Russie pourrait étendre ses capacités logistiques en Syrie. À long terme, cette présence pourrait devenir permanente, modifiant l'équilibre géopolitique régional. Les acteurs concernés incluent la Russie, la Syrie, l'Iran et Israël. Les marchés de l'armement et de l'énergie pourraient aussi être impactés par cette stabilisation.",
-        "analyse_en": "This agreement aligns with Russia's strategy of maintaining lasting influence in the Middle East, especially since the war in Ukraine. Historically, Russia has sought to secure strategic bases to extend its influence, such as in Syria since 2015. Main stakes include consolidating Russia's military presence and combating jihadist groups. Root causes lie in rivalry with the U.S. and Turkey for control of the region. In the short term, this could strengthen Bashar al-Assad's position. In the medium term, Russia could expand its logistical capabilities in Syria. In the long term, this presence could become permanent, altering the regional geopolitical balance. Key actors include Russia, Syria, Iran, and Israel. The arms and energy markets could also be impacted by this stabilization.",
-        "analyse_zh": "这项协议符合俄罗斯在中东维持持久影响力的战略，特别是在乌克兰战争以来。历史上，俄罗斯一直试图确保战略基地以扩大影响力，如自2015年以来在叙利亚的存在。主要影响包括巩固俄罗斯的军事存在和打击圣战组织。深层原因在于与美国和土耳其争夺该地区控制权的竞争。短期内，这可能加强巴沙尔·阿萨德的地位。中期来看，俄罗斯可能扩大其在叙利亚的后勤能力。长期而言，这种存在可能变得永久性，改变地区地缘政治平衡。相关行动者包括俄罗斯、叙利亚、伊朗和以色列。武器和能源市场也可能因这一稳定局面而受到影响。",
-        "analyse_ru": "Соглашение между Сирией и Россией о статусе российских баз является важным шагом в укреплении военного альянса двух стран. Документ закрепляет правовые основы присутствия российских войск в Сирии, что особенно актуально на фоне геополитических напряжений на Ближнем Востоке. Причины заключения соглашения могут включать необходимость поддержания стабильности в регионе и сохранение влияния России. Последствия включают усиление позиций Москвы в Сирии и возможное изменение баланса сил в регионе. Перспективы зависят от выполнения условий соглашения и реакции международного сообщества. Позиции сторон: Россия видит в этом укрепление безопасности, тогда как Сирия получает гарантии военной поддержки.",
-        "analyse_fa": "توافق سوریه و روسیه درباره وضعیت پایگاه‌های روسی گامی مهم در تقویت اتحاد نظامی دو کشور است. این سند پایه‌های قانونی حضور نیروهای روسی در سوریه را تثبیت می‌کند که در شرایط تنش‌های ژئوپلیتیکی خاورمیانه بسیار حائز اهمیت است. دلایل این توافق می‌تواند شامل نیاز به حفظ ثبات منطقه‌ای و حفظ نفوذ روسیه باشد. پیامدهای آن شامل تقویت موضع مسکو در سوریه و احتمال تغییر توازن قدرت در منطقه است. چشم‌انداز این مسئله به اجرای شرایط توافق و واکنش جامعه بین‌المللی بستگی دارد. مواضع طرفین: روسیه این توافق را تقویت امنیت می‌داند، در حالی که سوریه تضمین‌های حمایت نظامی دریافت می‌کند.",
-        "analyse_ar": "إن اتفاق سوريا وروسيا بشأن وضع القواعد الروسية يشكل خطوة مهمة في تعزيز التحالف العسكري بين البلدين. يرسخ هذا الاتفاق الأسس القانونية لوجود القوات الروسية في سوريا، وهو أمر بالغ الأهمية في ظل التوترات الجيوسياسية في الشرق الأوسط. قد تشمل أسباب هذا الاتفاق ضرورة الحفاظ على الاستقرار الإقليمي والحفاظ على نفوذ روسيا. تشمل العواقب تعزيز موقف موسكو في سوريا واحتمال تغيير توازن القوى في المنطقة. آفاق هذا الوضع تعتمد على تنفيذ شروط الاتفاق وردود الفعل الدولية. مواقف الأطراف: ترى روسيا في هذا الاتفاق تعزيزاً للأمن، بينما تحصل سوريا على ضمانات الدعم العسكري.",
-        "categorie": "Géopolitique",
-        "source": "Times of Malta",
-        "url": "https://timesofmalta.com/article/syria-reaches-deal-moscow-fate-russian-bases.1132536",
-        "image": "https://cdn-attachments.timesofmalta.com/db651bdb949b95a81215b2f487edbc6931dadc26-1786292414-85be991d-1200x630.jpg",
-        "date": "2026-08-09",
-        "pays": "russie",
+        "id": "iran_536537",
+        "titre": "Santos en hausse avec tensions au Moyen-Orient",
+        "titre_en": "Santos shares rise amid Middle East tensions",
+        "titre_zh": "中东紧张局势推动桑托斯股价上涨",
+        "titre_ru": "Акции Santos выросли на фоне роста цен на нефть",
+        "titre_fa": "سهام سانتوس به دلیل افزایش قیمت نفت رشد کرد",
+        "titre_ar": "أسهم سانتوس ترتفع مع ارتفاع أسعار النفط",
+        "titre_original": "Santos Shares Gain As Middle East Tensions Push Oil And Gas Prices Sharply Higher This Full Trading Week",
+        "resume": "Les actions de Santos Ltd ont progressé de 5,36 % cette semaine grâce à la hausse des prix du pétrole et du gaz. Cette dynamique s'inscrit dans un contexte de tensions accrues dans le détroit d'Ormuz. L'Australie suit cette tendance avec un rebond des valeurs énergétiques.",
+        "resume_en": "Santos Ltd shares surged 5.36% this week amid rising oil and gas prices. This trend is driven by heightened tensions in the Strait of Hormuz. Australia's energy stocks also rallied in response.",
+        "resume_zh": "桑托斯有限公司股价本周上涨5.36%，受油气价格上涨推动。这一趋势源于霍尔木兹海峡紧张局势加剧。澳大利亚能源股也随之反弹。",
+        "resume_ru": "Акции австралийской компании Santos Ltd выросли на 5,36% на этой неделе. Рост был вызван повышением цен на нефть и газ из-за напряжённой обстановки в Ормузском проливе. Это способствовало общему росту энергетического сектора на ASX.",
+        "resume_fa": "سهام شرکت استرالیایی سانتوس 5.36 درصد در این هفته افزایش یافت. این رشد به دلیل افزایش قیمت نفت و گاز ناشی از تنش‌ها در تنگه هرمز بود. این موضوع منجر به رشد کلی بخش انرژی در بورس استرالیا شد.",
+        "resume_ar": "ارتفعت أسهم شركة سانتوس الأسترالية بنسبة 5.36% هذا الأسبوع. جاء هذا الارتفاع بسبب زيادة أسعار النفط والغاز نتيجة التوترات في مضيق هرمز. مما أدى إلى ارتفاع قطاع الطاقة في بورصة أستراليا.",
+        "analyse_detaillee": "Les tensions géopolitiques au Moyen-Orient, notamment autour du détroit d'Ormuz, rappellent les crises pétrolières des années 1970 et 1990. Les prix de l'énergie sont historiquement sensibles aux conflits dans cette région stratégique. Santos Ltd, acteur clé de l'énergie en Australie, profite de cette dynamique pour renforcer sa valorisation boursière. Les investisseurs anticipent une demande accrue malgré les risques géopolitiques persistants. À court terme, les cours pourraient continuer à fluctuer en fonction des annonces militaires ou diplomatiques. À moyen terme, une stabilisation des approvisionnements pourrait freiner cette hausse. À long terme, la transition énergétique pourrait réduire la dépendance aux hydrocarbures, mais les tensions actuelles ralentissent cette transition. Les acteurs locaux, comme Santos, renforcent leurs positions tandis que les pays consommateurs cherchent à diversifier leurs sources d'approvisionnement.",
+        "analyse_en": "Geopolitical tensions in the Middle East, particularly around the Strait of Hormuz, echo the oil crises of the 1970s and 1990s. Energy prices have historically been sensitive to conflicts in this strategic region. Santos Ltd, a key Australian energy player, is capitalizing on this trend to boost its stock valuation. Investors anticipate sustained demand despite persistent geopolitical risks. In the short term, prices may continue to fluctuate based on military or diplomatic developments. In the medium term, a stabilization of supplies could curb this rise. Long-term, the energy transition could reduce dependence on hydrocarbons, but current tensions are slowing this shift. Local actors like Santos are strengthening their positions, while consumer countries seek to diversify their supply sources.",
+        "analyse_zh": "中东地缘政治紧张局势，特别是霍尔木兹海峡周边冲突，让人回想起20世纪70年代和90年代的石油危机。能源价格历来对该战略地区的冲突高度敏感。作为澳大利亚能源行业的重要参与者，桑托斯有限公司正利用这一趋势提升其股票估值。尽管地缘政治风险持续存在，投资者仍预期需求将保持强劲。短期内，油价可能继续因军事或外交动态而波动。中期来看，供应稳定可能抑制价格上涨。长期而言，能源转型可能减少对碳氢化合物的依赖，但当前紧张局势正在放缓这一进程。当地企业如桑托斯正在巩固地位，而消费国则寻求多元化供应来源。",
+        "analyse_ru": "Напряжённость в Ормузском проливе, через который проходит значительная часть мировых нефтяных поставок, стала ключевым фактором роста цен на энергоносители. Санкционное давление на Иран и военные учения в регионе усиливают нестабильность. Santos Ltd, как один из крупнейших игроков в Австралии, получает выгоду от глобального дефицита предложения. Однако долгосрочные перспективы зависят от стабилизации геополитической обстановки. Эксперты отмечают, что рост цен может быть временным, если конфликт не перерастёт в полномасштабную войну.",
+        "analyse_fa": "تنش‌ها در تنگه هرمز که بخش عمده‌ای از صادرات جهانی نفت از آن عبور می‌کند، عامل اصلی افزایش قیمت انرژی است. فشار تحریم‌ها بر ایران و رزمایش‌های نظامی در منطقه بی‌ثباتی را تشدید کرده‌اند. سانتوس لیمیتد به‌عنوان یکی از بازیگران بزرگ استرالیا از کمبود عرضه جهانی بهره می‌برد. با این حال، چشم‌انداز بلندمدت به ثبات ژئوپلیتیکی بستگی دارد. کارشناسان معتقدند افزایش قیمت‌ها ممکن است موقتی باشد، مگر اینکه درگیری به جنگ تمام‌عیار تبدیل شود.",
+        "analyse_ar": "أدت التوترات في مضيق هرمز، الذي يمر عبره جزء كبير من صادرات النفط العالمية، إلى ارتفاع أسعار الطاقة. عززت العقوبات على إيران والمناورات العسكرية في المنطقة من عدم الاستقرار. تستفيد شركة سانتوس، باعتبارها أحد اللاعبين الكبار في أستراليا، من نقص العرض العالمي. ومع ذلك، تعتمد الآفاق طويلة الأمد على استقرار الوضع الجيوسياسي. يرى الخبراء أن الارتفاع في الأسعار قد يكون مؤقتاً ما لم يتحول الصراع إلى حرب شاملة.",
+        "categorie": "Économie et Géopolitique",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/santos-shares-surge-oil-prices-hormuz-tensions-1873892",
+        "image": "https://d.ibtimes.com.au/en/full/1895624/santos-shares-gain-middle-east-tensions-push-oil.jpg",
+        "date": "2026-08-11",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de l'armement",
+            "label": "▲ Secteur pétrolier et gazier",
             "hausse": true
           },
           {
-            "label": "▼ Marché énergétique",
-            "hausse": false
+            "label": "▲ Marché boursier australien",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de l'armement",
-            "secteur_en": "Arms industry",
-            "secteur_zh": "军火行业",
-            "effet_fr": "La demande en équipements militaires russes pourrait augmenter, stimulant la production et les exportations du secteur.",
-            "effet_en": "Demand for Russian military equipment could rise, boosting production and exports in the sector.",
-            "effet_zh": "对俄罗斯军事装备的需求可能上升，推动该行业的生产和出口。",
+            "secteur_fr": "Secteur pétrolier et gazier",
+            "secteur_en": "Oil and gas sector",
+            "secteur_zh": "石油和天然气行业",
+            "effet_fr": "Les tensions au Moyen-Orient ont directement fait monter les prix du pétrole et du gaz, boostant les actions des entreprises énergétiques comme Santos Ltd.",
+            "effet_en": "Middle East tensions have directly driven up oil and gas prices, boosting energy stocks like Santos Ltd.",
+            "effet_zh": "中东紧张局势直接推高了石油和天然气价格，推动了桑托斯等能源股的上涨。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché énergétique",
-            "secteur_en": "Energy market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "La stabilité en Syrie pourrait faciliter les projets d'exportation de gaz russe vers l'Europe via la Méditerranée.",
-            "effet_en": "Stability in Syria could facilitate Russian gas export projects to Europe via the Mediterranean.",
-            "effet_zh": "叙利亚的稳定可能促进俄罗斯通过地中海向欧洲出口天然气的项目。",
-            "hausse": false
+            "secteur_fr": "Marché boursier australien",
+            "secteur_en": "Australian stock market",
+            "secteur_zh": "澳大利亚股市",
+            "effet_fr": "Le rebond des valeurs énergétiques a entraîné une hausse générale de l'indice boursier australien cette semaine.",
+            "effet_en": "The rally in energy stocks led to a broad rise in the Australian stock market index this week.",
+            "effet_zh": "能源股的反弹本周推动澳大利亚股市指数普遍上涨。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-10T19:55:23.298556"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-12T08:17:07.347110"
+      },
       {
         "id": "iran_778080",
         "titre": "Course pour rouvrir le détroit d'Ormuz",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-10T23:34:20.892312"
-      },
-      {
-        "id": "iran_161907",
-        "titre": "Prix du pétrole en hausse sur l'incertitude du détroit d'Ormuz",
-        "titre_en": "Oil Prices Rise on Hormuz Strait Uncertainty",
-        "titre_zh": "霍尔木兹海峡不确定性推高油价",
-        "titre_ru": "Цены на нефть выросли из-за неопределённости с проливом Ормуз",
-        "titre_fa": "قیمت نفت به دلیل ابهام در تنگه هرمز افزایش یافت",
-        "titre_ar": "ارتفاع أسعار النفط بسبب الغموض حول مضيق هرمز",
-        "titre_original": "Oil rises on uncertainty over reopening of Hormuz",
-        "resume": "Les prix du pétrole ont augmenté en raison des incertitudes autour de la réouverture du détroit d'Ormuz. L'Iran a annoncé qu'un accord avec Oman sur de nouvelles voies maritimes était en phase finale. Ce détroit est crucial pour le transport mondial de pétrole.",
-        "resume_en": "Oil prices rose due to uncertainties over the reopening of the Strait of Hormuz. Iran said a deal with Oman on new shipping lanes was in its final stages. This strait is crucial for global oil transport.",
-        "resume_zh": "由于霍尔木兹海峡重新开放的不确定性，油价上涨。伊朗表示与阿曼就新航道达成的协议已进入最后阶段。该海峡是全球石油运输的关键通道。",
-        "resume_ru": "Цены на нефть выросли на фоне неопределённости с открытием пролива Ормуз. Иран заявил, что соглашение с Оманом о новых судоходных маршрутах находится на завершающей стадии. Эксперты связывают рост цен с геополитическими рисками в регионе.",
-        "resume_fa": "قیمت نفت به دلیل ابهام در بازگشایی تنگه هرمز افزایش یافت. ایران اعلام کرد که توافق با عمان درباره مسیرهای جدید کشتیرانی در مراحل نهایی است. کارشناسان رشد قیمت‌ها را به ریسک‌های ژئوپلیتیکی در منطقه مرتبط می‌دانند.",
-        "resume_ar": "ارتفعت أسعار النفط بسبب الغموض حول إعادة فتح مضيق هرمز. وأعلن إيران أن اتفاقاً مع عمان بشأن مسارات ملاحية جديدة في مراحله النهائية. ويرى الخبراء أن ارتفاع الأسعار مرتبط بالمخاطر الجيوسياسية في المنطقة.",
-        "analyse_detaillee": "Le détroit d'Ormuz, contrôlé par l'Iran, est un point de tension géopolitique depuis des décennies, notamment après la révolution islamique de 1979. Toute perturbation de son trafic peut provoquer des chocs pétroliers, comme en 1980 pendant la guerre Iran-Irak. À court terme, l'incertitude actuelle pourrait maintenir les prix élevés et perturber les chaînes d'approvisionnement. À moyen terme, un accord avec Oman pourrait stabiliser la situation, mais les tensions régionales persistent. À long terme, l'Iran pourrait utiliser ce levier pour influencer les prix mondiaux ou négocier des concessions politiques. Les pays importateurs de pétrole, comme la Chine et l'Inde, cherchent à sécuriser leurs approvisionnements via d'autres routes. Les États-Unis, alliés des pays du Golfe, pourraient renforcer leur présence militaire pour protéger les flux pétroliers. Les entreprises énergétiques pourraient diversifier leurs sources d'approvisionnement pour réduire les risques géopolitiques.",
-        "analyse_en": "The Strait of Hormuz, controlled by Iran, has been a geopolitical flashpoint for decades, especially after the 1979 Islamic Revolution. Any disruption to its traffic can trigger oil shocks, as in 1980 during the Iran-Iraq War. In the short term, current uncertainty could keep prices high and disrupt supply chains. In the medium term, a deal with Oman could stabilize the situation, but regional tensions persist. Long-term, Iran could use this leverage to influence global prices or negotiate political concessions. Oil-importing countries like China and India are seeking to secure supplies via other routes. The U.S., a Gulf ally, may bolster its military presence to protect oil flows. Energy firms might diversify supply sources to mitigate geopolitical risks.",
-        "analyse_zh": "由伊朗控制的霍尔木兹海峡几十年来一直是地缘政治的热点，特别是在1979年伊斯兰革命之后。任何对其交通的干扰都可能引发石油冲击，如1980年伊朗-伊拉克战争期间。短期内，当前的不确定性可能维持高油价并扰乱供应链。中期来看，与阿曼的协议可能稳定局势，但地区紧张局势依然存在。长期而言，伊朗可能利用这一杠杆影响全球价格或谈判政治让步。中国和印度等石油进口国正寻求通过其他路线确保供应。作为海湾盟友，美国可能加强军事存在以保护石油流动。能源公司可能多元化供应来源以减轻地缘政治风险。",
-        "analyse_ru": "Контекст ситуации связан с геополитической напряжённостью на Ближнем Востоке и зависимостью мировых рынков от нефти. Причина роста цен — неопределённость с возобновлением судоходства через Ормуз, ключевой транспортный коридор. Последствия могут включать дестабилизацию энергетического рынка и рост инфляции в странах-потребителях. Перспективы зависят от исхода переговоров между Ираном и Оманом. Позиции сторон: Иран стремится укрепить своё влияние в регионе, а международные игроки опасаются новых санкций или конфликтов.",
-        "analyse_fa": "زمینه این وضعیت به تنش‌های ژئوپلیتیکی خاورمیانه و وابستگی بازارهای جهانی به نفت مربوط می‌شود. دلیل افزایش قیمت‌ها، ابهام در بازگشایی تنگه هرمز به عنوان یک مسیر حیاتی حمل و نقل است. پیامدها می‌تواند شامل بی‌ثباتی بازار انرژی و افزایش تورم در کشورهای مصرف‌کننده باشد. چشم‌اندازها به نتیجه مذاکرات بین ایران و عمان بستگی دارد. موضع بازیگران: ایران سعی در تقویت نفوذ خود در منطقه دارد و بازیگران بین‌المللی از تحریم‌ها یا درگیری‌های جدید بیم دارند.",
-        "analyse_ar": "سياق هذا الوضع مرتبط بالتوترات الجيوسياسية في الشرق الأوسط واعتماد الأسواق العالمية على النفط. سبب ارتفاع الأسعار هو الغموض حول إعادة فتح مضيق هرمز، وهو ممر نقل حيوي. العواقب قد تشمل عدم استقرار سوق الطاقة وارتفاع التضخم في الدول المستهلكة. الآفاق تعتمد على نتيجة المفاوضات بين إيران وعمان. مواقف الأطراف: تسعى إيران لتعزيز نفوذها في المنطقة، بينما تخشى الأطراف الدولية فرض عقوبات جديدة أو نشوب صراعات.",
-        "categorie": "Géopolitique énergétique",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/business/oil-rises-uncertainty-over-reopening-hormuz-6308831",
-        "image": "https://dam.mediacorp.sg/image/upload/s--xsscLXi4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-09T221704Z_1_LYNXMPEM780EE_RTROPTP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG?itok=sl-D8GA8",
-        "date": "2026-08-09",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur maritime et assurances",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "L'incertitude pourrait maintenir les prix élevés et inciter les pays à constituer des stocks stratégiques.",
-            "effet_en": "Uncertainty could keep prices high and prompt countries to build strategic stockpiles.",
-            "effet_zh": "不确定性可能维持高油价，并促使各国建立战略储备。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur maritime et assurances",
-            "secteur_en": "Maritime shipping and insurance sector",
-            "secteur_zh": "航运与保险行业",
-            "effet_fr": "Les primes d'assurance pour le transport maritime pourraient augmenter en raison des risques géopolitiques accrus.",
-            "effet_en": "Maritime transport insurance premiums could rise due to heightened geopolitical risks.",
-            "effet_zh": "由于地缘政治风险加剧，海上运输保险费率可能上涨。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-10T22:36:14.594808"
       }
     ]
   },
