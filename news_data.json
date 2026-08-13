@@ -1,7 +1,66 @@
 {
-  "last_updated": "13/08/2026 à 04h11",
+  "last_updated": "13/08/2026 à 06h16",
   "articles": {
     "monde": [
+      {
+        "id": "monde_659021",
+        "titre": "Python ajoute nullbench à sa bibliothèque PyPI",
+        "titre_en": "Python adds nullbench to PyPI library",
+        "titre_zh": "Python将nullbench添加到PyPI库",
+        "titre_ru": "nullbench добавлен в репозиторий PyPI",
+        "titre_fa": "nullbench به مخزن PyPI اضافه شد",
+        "titre_ar": "تمت إضافة nullbench إلى مستودع PyPI",
+        "titre_original": "nullbench added to PyPI",
+        "resume": "La plateforme PyPI, dédiée aux bibliothèques Python, intègre l'outil nullbench. Cet outil permet de préenregistrer des décisions et de les évaluer contre le hasard. Il évite les biais de rétroaction. Son adoption pourrait améliorer la rigueur des tests statistiques.",
+        "resume_en": "The PyPI platform, dedicated to Python libraries, has integrated the nullbench tool. This tool allows pre-registering decisions and scoring them against chance. It prevents backfill bias. Its adoption could enhance the rigor of statistical testing.",
+        "resume_zh": "专注于Python库的PyPI平台集成了nullbench工具。该工具允许预注册决策并将其与随机性进行评分，避免回填偏见。其采用可能提高统计测试的严谨性。",
+        "resume_ru": "В репозиторий PyPI добавлен новый инструмент nullbench, предназначенный для предварительной регистрации решений и их сравнения со случайными исходами. Разработчики подчеркивают, что не следует использовать его для обратного заполнения данных. Инструмент может быть полезен для тестирования и валидации алгоритмов.",
+        "resume_fa": "ابزاری جدید به نام nullbench به مخزن PyPI اضافه شد که برای ثبت اولیه تصمیمات و مقایسه آنها با نتایج تصادفی طراحی شده است. توسعه‌دهندگان تأکید می‌کنند که نباید از آن برای پر کردن داده‌های از دست رفته استفاده کرد. این ابزار می‌تواند برای تست و اعتبارسنجی الگوریتم‌ها مفید باشد.",
+        "resume_ar": "تمت إضافة أداة جديدة تدعى nullbench إلى مستودع PyPI، مصممة للتسجيل المسبق للقرارات ومقارنتها بالنتائج العشوائية. يحذر المطورون من استخدامها لملء البيانات المفقودة. قد تكون الأداة مفيدة لاختبار وتقييم الخوارزميات.",
+        "analyse_detaillee": "L'ajout de nullbench à PyPI s'inscrit dans une tendance croissante vers la transparence et la reproductibilité en science des données. Historiquement, les biais de publication ont faussé de nombreuses études. Les enjeux portent sur la crédibilité des recherches futures. À court terme, cela pourrait réduire les erreurs méthodologiques dans les projets open source. À moyen terme, cela pourrait influencer les normes académiques et industrielles. À long terme, cela pourrait renforcer la confiance dans les analyses basées sur Python. Les acteurs incluent les développeurs Python, les chercheurs et les entreprises technologiques.",
+        "analyse_en": "The addition of nullbench to PyPI aligns with a growing trend toward transparency and reproducibility in data science. Historically, publication bias has skewed numerous studies. The stakes involve the credibility of future research. Short-term, this could reduce methodological errors in open-source projects. Medium-term, it may influence academic and industry standards. Long-term, it could bolster trust in Python-based analyses. Key actors include Python developers, researchers, and tech companies.",
+        "analyse_zh": "将nullbench添加到PyPI符合数据科学领域日益增长的透明度和可重复性趋势。历史上，出版偏见扭曲了众多研究。关键在于未来研究的可信度。短期内，这可能减少开源项目中的方法论错误。中期来看，可能影响学术和行业标准。长期而言，可能增强对基于Python分析的信任。主要参与者包括Python开发者、研究人员和科技公司。",
+        "analyse_ru": "Добавление nullbench в PyPI отражает растущий интерес к инструментам для автоматизированного тестирования и бенчмаркинга в экосистеме Python. Такой подход позволяет разработчикам оценивать эффективность своих решений ещё на этапе прототипирования, что особенно актуально в условиях быстрого развития ИИ и машинного обучения. Отказ от обратного заполнения данных подчёркивает важность честности и прозрачности в исследованиях. В долгосрочной перспективе такие инструменты могут стать стандартом для сообщества, способствуя повышению качества ПО. Однако их успешное внедрение зависит от активного участия разработчиков и поддержки со стороны сообщества.",
+        "analyse_fa": "افزودن nullbench به PyPI نشان‌دهنده علاقه فزاینده به ابزارهای تست خودکار و معیارسنجی در اکوسیستم پایتون است. این رویکرد به توسعه‌دهندگان اجازه می‌دهد تا کارایی راه‌حل‌های خود را در مرحله نمونه‌سازی ارزیابی کنند، که در شرایط توسعه سریع هوش مصنوعی و یادگیری ماشین بسیار مهم است. خودداری از پر کردن داده‌های از دست رفته بر اهمیت صداقت و شفافیت در تحقیقات تأکید دارد. در بلندمدت، چنین ابزارهایی ممکن است به استانداردی در جامعه تبدیل شوند و به بهبود کیفیت نرم‌افزار کمک کنند. با این حال، موفقیت آنها به مشارکت فعال توسعه‌دهندگان و حمایت جامعه بستگی دارد.",
+        "analyse_ar": "إضافة nullbench إلى PyPI تعكس الاهتمام المتزايد بالأدوات الخاصة بالاختبار التلقائي وتقييم الأداء في نظام بايثون البيئي. تتيح هذه الأداة للمطورين تقييم فعالية حلولهم في مرحلة النماذج الأولية، وهو أمر بالغ الأهمية في ظل التطور السريع للذكاء الاصطناعي وتعلم الآلة. إن رفض ملء البيانات المفقودة يؤكد على أهمية النزاهة والشفافية في الأبحاث. على المدى الطويل، قد تصبح مثل هذه الأدوات معياراً في المجتمع، مما يساهم في تحسين جودة البرامج. ومع ذلك، فإن نجاحها يعتمد على المشاركة النشطة للمطورين والدعم من قبل المجتمع.",
+        "categorie": "Technologie",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/nullbench/",
+        "image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "date": "2026-08-12",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Financement de la recherche open source",
+            "hausse": true
+          },
+          {
+            "label": "▲ Éducation en science des données",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Financement de la recherche open source",
+            "secteur_en": "Open-source research funding",
+            "secteur_zh": "开源研究资金",
+            "effet_fr": "L'adoption de nullbench pourrait attirer davantage de financements vers les projets Python rigoureux, réduisant les fonds alloués aux études biaisées.",
+            "effet_en": "Adoption of nullbench could attract more funding to rigorous Python projects, reducing funds allocated to biased studies.",
+            "effet_zh": "采用nullbench可能吸引更多资金流向严谨的Python项目，减少对有偏见研究的资助。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Éducation en science des données",
+            "secteur_en": "Data science education",
+            "secteur_zh": "数据科学教育",
+            "effet_fr": "L'intégration de nullbench dans les cursus universitaires pourrait améliorer la formation des futurs data scientists en insistant sur la rigueur méthodologique.",
+            "effet_en": "Integrating nullbench into university curricula could enhance data science training by emphasizing methodological rigor.",
+            "effet_zh": "将nullbench纳入大学课程可能通过强调方法论严谨性来提升数据科学家的培训质量。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-13T06:16:16.466896"
+      },
       {
         "id": "monde_204752",
         "titre": "Défaite de Mike Lindell aux primaires du Minnesota",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-11T21:44:31.407368"
-      },
-      {
-        "id": "monde_482375",
-        "titre": "Recrutement : Brayton Feister s'engage pour l'Oregon",
-        "titre_en": "Recruitment: Brayton Feister commits to Oregon",
-        "titre_zh": "招聘：Brayton Feister承诺加入俄勒冈",
-        "titre_ru": "Орегон подпишет перспективного ЛБ Брейтона Фейстера",
-        "titre_fa": "اوریگون با خط‌زن چهارستاره برایتون فایستر تعهد می‌کند",
-        "titre_ar": "أوريغون تلتزم بلاعب الوسط برايتون فايستر من فئة الأربع نجوم",
-        "titre_original": "Oregon target 4-star LB Brayton Feister sets date for commitment",
-        "resume": "Le linebacker Brayton Feister, classé 4 étoiles, finalise sa décision de rejoindre l'université de l'Oregon. Son engagement met fin à une longue période de recrutement intense. Les fans et les médias sportifs attendent désormais sa confirmation officielle.",
-        "resume_en": "Four-star linebacker Brayton Feister is finalizing his commitment to the University of Oregon. His decision ends a long recruitment process. Fans and sports media are awaiting his official confirmation.",
-        "resume_zh": "四星级线卫Brayton Feister即将最终决定加入俄勒冈大学。他的决定结束了漫长的招募过程。球迷和体育媒体正在等待他的正式确认。",
-        "resume_ru": "Четырехзвездный линейныйbacker Брейтон Фейстер, на которого претендует университет Орегона, определил дату официального объявления о своем выборе. Долгий процесс переговоров и визитов подходит к концу. Это решение может повлиять на позиции команды в предстоящем сезоне.",
-        "resume_fa": "بازیگر خط‌زن چهارستاره برایتون فایستر، که دانشگاه اوریگون او را هدف گرفته است، تاریخ اعلام تعهد خود را تعیین کرده است. فرآیند طولانی مذاکرات و بازدیدها به پایان نزدیک می‌شود. این تصمیم می‌تواند بر جایگاه تیم در فصل آینده تأثیر بگذارد.",
-        "resume_ar": "أعلن لاعب الوسط برايتون فايستر، المصنف ضمن النجوم الأربعة، عن موعد التزامه بجامعة أوريغون. تقترب المفاوضات الطويلة والزيارات من نهايتها. قد يؤثر هذا القرار على مركز الفريق في الموسم المقبل.",
-        "analyse_detaillee": "Le recrutement des jeunes talents dans le sport universitaire américain est un enjeu économique et médiatique majeur. Les universités investissent des millions pour attirer les meilleurs joueurs, car leur performance influence directement les revenus publicitaires et les dons. Brayton Feister, considéré comme un atout stratégique, pourrait renforcer l'équipe d'Oregon et booster son prestige sportif. À court terme, son engagement pourrait attirer davantage de sponsors et d'étudiants. À moyen terme, une équipe performante améliore les chances de qualification pour les championnats nationaux, augmentant ainsi les revenus télévisuels. À long terme, cela pourrait renforcer la réputation de l'université et son attractivité académique. Les autres universités concurrentes pourraient revoir leurs stratégies de recrutement. Les joueurs comme Feister deviennent des ambassadeurs pour les marques sportives.",
-        "analyse_en": "Recruiting young talents in American college sports is a major economic and media issue. Universities invest millions to attract top players, as their performance directly influences advertising revenue and donations. Brayton Feister, seen as a strategic asset, could strengthen Oregon's team and boost its sports prestige. In the short term, his commitment could attract more sponsors and students. In the medium term, a high-performing team improves the chances of qualifying for national championships, increasing television revenues. In the long term, this could enhance the university's reputation and academic appeal. Competing universities may revise their recruitment strategies. Players like Feister become ambassadors for sports brands.",
-        "analyse_zh": "在美国大学体育招募年轻人才是一个重要的经济和媒体问题。大学投入数百万吸引顶尖球员，因为他们的表现直接影响广告收入和捐款。被视为战略资产的Brayton Feister可能加强俄勒冈队并提升其体育声誉。短期内，他的承诺可能吸引更多赞助商和学生。中期来看，表现优异的球队提高了参加全国锦标赛的机会，增加了电视收入。长期来看，这可能提升大学的声誉和学术吸引力。竞争对手大学可能会修改招募策略。像Feister这样的球员成为体育品牌的代言人。",
-        "analyse_ru": "Переход Брейтона Фейстера в университет Орегона стал важным событием в студенческом американском футболе. Причины его выбора могут включать спортивную программу, тренерский штаб и академические перспективы. Последствия этого решения могут укрепить позиции команды в национальных рейтингах и повысить интерес к университету. Перспективы Фейстера зависят от его адаптации и развития в новой команде. Позиции других университетов, претендовавших на него, ослабнут, что может повлиять на их набор в будущем сезоне.",
-        "analyse_fa": "انتقال برایتون فایستر به دانشگاه اوریگون یک رویداد مهم در فوتبال آمریکایی دانشجویی محسوب می‌شود. دلایل انتخاب او ممکن است شامل برنامه ورزشی، کادر مربیگری و فرصت‌های تحصیلی باشد. پیامدهای این تصمیم می‌تواند جایگاه تیم را در رده‌بندی‌های ملی تقویت کرده و توجه به دانشگاه را افزایش دهد. چشم‌انداز فایستر به تطبیق و پیشرفت در تیم جدید بستگی دارد. موضع دانشگاه‌های رقیب که او را هدف گرفته بودند، تضعیف خواهد شد و این می‌تواند بر جذب بازیکنان در فصل آینده تأثیر بگذارد.",
-        "analyse_ar": "يعتبر انتقال برايتون فايستر إلى جامعة أوريغون حدثاً مهماً في كرة القدم الأمريكية الجامعية. قد تشمل أسباب اختياره البرنامج الرياضي، الفريق التدريبي والفرص الأكاديمية. قد تعزز عواقب هذا القرار مكانة الفريق في التصنيفات الوطنية وتزيد من الاهتمام بالجامعة. تعتمد آفاق فايستر على تكيفه وتطوره في الفريق الجديد. ستضعف مواقف الجامعات الأخرى التي استهدفته، مما قد يؤثر على عمليات التوظيف في الموسم المقبل.",
-        "categorie": "Sport",
-        "source": "USA Today",
-        "url": "https://duckswire.usatoday.com/story/sports/college/ducks/recruiting/2026/08/10/oregon-football-recruiting-brayton-feister-commitment-date/91246655007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/a153b1a64f30b346c5703ee821eda7603cc66e71154ff3f29f1d03f605f474f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fducks_wire_usa_today_articles_200%2Fed1fb2341ca9986f65ff35a37aa96f62",
-        "date": "2026-08-10",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Secteur du sport universitaire",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur des médias sportifs",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur du sport universitaire",
-            "secteur_en": "College sports sector",
-            "secteur_zh": "大学体育行业",
-            "effet_fr": "L'engagement de Feister pourrait augmenter les revenus publicitaires et les dons pour l'Oregon grâce à une équipe plus compétitive.",
-            "effet_en": "Feister's commitment could increase advertising revenue and donations for Oregon through a more competitive team.",
-            "effet_zh": "Feister的承诺可能通过更具竞争力的球队增加俄勒冈的广告收入和捐款。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des médias sportifs",
-            "secteur_en": "Sports media sector",
-            "secteur_zh": "体育媒体行业",
-            "effet_fr": "Les médias sportifs bénéficieront d'une couverture accrue grâce à l'arrivée d'un joueur star, augmentant leur audience et leurs revenus.",
-            "effet_en": "Sports media will benefit from increased coverage due to the arrival of a star player, boosting audience and revenue.",
-            "effet_zh": "体育媒体将因明星球员的加入而受益于更多报道，从而提升受众和收入。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-11T20:04:14.147226"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_224682",
+        "titre": "Minnesota : GOP choisit Lisa Demuth contre Trump",
+        "titre_en": "Minnesota GOP picks Lisa Demuth over Trump-backed",
+        "titre_zh": "明尼苏达州共和党选择丽莎·德穆特",
+        "titre_ru": "Республиканцы Миннесоты выбирают Лизу Демута против Эми Клобучар",
+        "titre_fa": "جمهوری‌خواهان مینه‌سوتا لیزا دموث را بر مایک لیندل حمایت‌شده ترامپ ترجیح دادند",
+        "titre_ar": "الحزب الجمهوري في مينيسوتا يختار ليزا ديموث على مايك ليندل المدعوم من ترامب",
+        "titre_original": "Minnesota GOP picks Lisa Demuth over Trump-backed Mike Lindell for governor against Democrat Amy Klobuchar - NBC News",
+        "resume": "Le Parti républicain du Minnesota a désigné Lisa Demuth comme candidate au poste de gouverneur pour affronter la démocrate Amy Klobuchar en 2026. Cette décision écarte Mike Lindell, soutenu par Donald Trump. La primaire reflète les tensions internes au GOP entre modérés et trumpistes.",
+        "resume_en": "Minnesota's Republican Party nominated Lisa Demuth as its gubernatorial candidate to challenge Democrat Amy Klobuchar in 2026. Mike Lindell, backed by Donald Trump, was sidelined. The primary highlights GOP divisions between moderates and Trump loyalists.",
+        "resume_zh": "明尼苏达州共和党提名丽莎·德穆特为州长候选人，对阵民主党人艾米·克洛布查。特朗普支持的迈克·林德尔被排除在外。初选反映了共和党内部温和派与特朗普派的分裂。",
+        "resume_ru": "Республиканская партия Миннесоты выбрала Лизу Демута в качестве кандидата на губернаторских выборах 2026 года вместо поддерживаемого Дональдом Трампом Майка Линделла. Демута будет противостоять действующей сенаторке-демократке Эми Клобучар. Это решение может повлиять на политическую динамику в штате перед выборами.",
+        "resume_fa": "حزب جمهوری‌خواه مینه‌سوتا لیزا دموث را به عنوان نامزد خود برای انتخابات فرمانداری ۲۰۲۶ انتخاب کرد و مایک لیندل، حامی ترامپ، را کنار گذاشت. دموث با سناتور دموکرات ایمی کلوبشار رقابت خواهد کرد. این انتخاب می‌تواند تأثیر قابل توجهی بر فضای سیاسی ایالت پیش از انتخابات داشته باشد.",
+        "resume_ar": "اختارت الحزب الجمهوري في ولاية مينيسوتا ليزا ديموث كمرشحة لح governorship عام 2026، متجاوزة على مايك ليندل المدعوم من ترامب. ستواجه ديموث السناتور الديمقراطي آمي كلوبشار. قد يؤثر هذا القرار على المشهد السياسي للولاية قبل الانتخابات.",
+        "analyse_detaillee": "Cette primaire illustre la lutte d'influence au sein du Parti républicain américain entre l'aile modérée et l'extrême droite trumpiste. Historique des tensions internes au GOP, notamment depuis 2016 avec l'ascension de Trump. Les enjeux portent sur l'orientation idéologique du parti pour 2026. La victoire de Demuth pourrait marginaliser davantage les partisans de Trump. À court terme, cela pourrait affaiblir la cohésion du parti face aux démocrates. À moyen terme, cela pourrait redéfinir les stratégies électorales du GOP. À long terme, cela pourrait influencer la dynamique nationale du parti. Les acteurs clés sont les modérés comme Demuth et les trumpistes comme Lindell.",
+        "analyse_en": "This primary highlights the power struggle within the U.S. Republican Party between moderate factions and Trump-aligned extremists. Historically, internal GOP tensions have intensified since Trump's 2016 rise. The stakes involve the party's ideological direction ahead of 2026. Demuth's victory may further marginalize Trump loyalists. Short-term, this could weaken party unity against Democrats. Medium-term, it may reshape GOP electoral strategies. Long-term, it could influence the party's national dynamics. Key actors include moderates like Demuth and Trumpists like Lindell.",
+        "analyse_zh": "此次初选展现了美国共和党内温和派与特朗普派之间的权力斗争。历史上，自2016年特朗普崛起以来，共和党内部紧张局势加剧。关键在于该党在2026年前的意识形态方向。德穆特的胜利可能进一步边缘化特朗普支持者。短期内，这可能削弱共和党在对抗民主党时的团结。中期来看，可能重塑共和党的选举策略。长期而言，可能影响该党的全国动态。主要参与者包括德穆特等温和派和林德尔等特朗普派。",
+        "analyse_ru": "Выбор Лизу Демута вместо Майка Линделла отражает внутренние разногласия в Республиканской партии Миннесоты между сторонниками традиционного консерватизма и радикальными приверженцами Дональда Трампа. Линделл, известный как «миллиардер подушек», был ключевой фигурой в поддержке Трампа, но его эксцентричный имидж мог отпугнуть умеренных избирателей. Демута, напротив, позиционирует себя как более сбалансированный кандидат, что может помочь партии расширить электоральную базу. Конкуренция с Эми Клобучар, одной из самых влиятельных демократов в стране, обещает быть жесткой, особенно учитывая её популярность среди женщин и городского населения. Исход выборов может повлиять на стратегию Республиканской партии в преддверии президентских выборов 2028 года.",
+        "analyse_fa": "انتخاب لیزا دموث به جای مایک لیندل نشان‌دهنده اختلافات درون حزب جمهوری‌خواه مینه‌سوتا میان محافظه‌کاران سنتی و طرفداران تندرو دونالد ترامپ است. لیندل، که به عنوان «میلیاردر بالش» شناخته می‌شود، از حامیان اصلی ترامپ بود، اما شخصیت جنجالی او ممکن است رای‌دهندگان میانه‌رو را از حزب دور کند. دموث اما خود را به عنوان نامزدی متعادل معرفی می‌کند که می‌تواند به حزب کمک کند تا پایگاه رأی خود را گسترش دهد. رقابت با ایمی کلوبشار، یکی از تأثیرگذارترین دموکرات‌های کشور، بسیار سخت خواهد بود، به خصوص با توجه به محبوبیت او میان زنان و ساکنان شهری. نتیجه انتخابات می‌تواند بر استراتژی حزب جمهوری‌خواه در آستانه انتخابات ریاست‌جمهوری ۲۰۲۸ تأثیر بگذارد.",
+        "analyse_ar": "اختيار ليزا ديموث بدلاً من مايك ليندل يعكس الانقسامات الداخلية في الحزب الجمهوري بولاية مينيسوتا بين المحافظين التقليديين وأنصار دونالد ترامب المتشددين. كان ليندل، المعروف بكونه «ملياردير الوسائد»، أحد أبرز داعمي ترامب، لكن شخصيته المثيرة للجدل قد تبعد الناخبين المعتدلين. من ناحية أخرى، ت positioning ديموث نفسها كمرشحة أكثر توازناً، مما قد يساعد الحزب على توسيع قاعدته الانتخابية. منافسة آمي كلوبشار، إحدى أبرز الديمقراطيات في البلاد، ستكون قاسية، لا سيما مع شعبيتها بين النساء والسكان الحضريين. قد يؤثر نتيجة الانتخابات على استراتيجية الحزب الجمهوري قبيل الانتخابات الرئاسية لعام 2028.",
+        "categorie": "Politique intérieure",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184934736",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-08-12",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Financement des campagnes électorales",
+            "hausse": false
+          },
+          {
+            "label": "▼ Médias et communication politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Financement des campagnes électorales",
+            "secteur_en": "Campaign finance",
+            "secteur_zh": "竞选资金",
+            "effet_fr": "La victoire de Demuth pourrait réduire l'influence des donateurs controversés comme Lindell, modifiant les flux financiers des campagnes républicaines.",
+            "effet_en": "Demuth's victory may reduce the influence of controversial donors like Lindell, altering Republican campaign financing flows.",
+            "effet_zh": "德穆特的胜利可能减少像林德尔这样的有争议捐助者的影响力，改变共和党竞选资金流向。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Médias et communication politique",
+            "secteur_en": "Media and political communication",
+            "secteur_zh": "媒体与政治传播",
+            "effet_fr": "Le choix de Demuth pourrait favoriser une couverture médiatique plus équilibrée, réduisant l'impact des figures trumpistes dans les débats publics.",
+            "effet_en": "Demuth's selection could promote more balanced media coverage, reducing the impact of Trump-aligned figures in public debates.",
+            "effet_zh": "德穆特的选择可能促进更平衡的媒体报道，减少特朗普派人物在公共辩论中的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-13T06:16:16.466867"
+      },
       {
         "id": "usa_198744",
         "titre": "L'été de la dégradation de la citoyenneté américaine",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-11T21:44:31.407340"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_546941",
-        "titre": "Trump bloque des milliards pour réparer le réseau électrique",
-        "titre_en": "Trump blocks billions to repair the power grid",
-        "titre_zh": "特朗普阻止数十亿修复电网",
-        "titre_ru": "Трамп блокирует миллиарды на ремонт энергосети США",
-        "titre_fa": "ترامپ میلیاردها دلار کمک به تعمیر شبکه برق را مسدود کرد",
-        "titre_ar": "ترامب يحجب مليارات الدولارات المخصصة لإصلاح شبكة الكهرباء الأمريكية",
-        "titre_original": "Trump is blocking billions of dollars of grants that would fix the grid [Followup]",
-        "resume": "Donald Trump bloque des subventions fédérales destinées à moderniser le réseau électrique américain. Ces fonds, estimés à plusieurs milliards de dollars, visaient à renforcer la résilience face aux pannes et aux cyberattaques. Les États et les entreprises énergétiques dénoncent cette décision.",
-        "resume_en": "Donald Trump is blocking federal grants intended to modernize the U.S. power grid. These funds, estimated at several billion dollars, aimed to enhance resilience against outages and cyberattacks. States and energy companies are criticizing this decision.",
-        "resume_zh": "唐纳德·特朗普正在阻止用于现代化美国电网的联邦拨款。这些资金估计达数十亿美元，目的是增强对停电和网络攻击的韧性。各州和能源公司正在批评这一决定。",
-        "resume_ru": "Президент США Дональд Трамп заблокировал выделение миллиардов долларов на гранты для ремонта энергосети страны. Это решение может привести к ухудшению состояния инфраструктуры. Эксперты предупреждают о рисках для стабильности энергоснабжения.",
-        "resume_fa": "رئیس‌جمهور ایالات متحده دونالد ترامپ میلیاردها دلار کمک مالی برای تعمیر شبکه برق کشور را مسدود کرده است. این تصمیم می‌تواند منجر به بدتر شدن وضعیت زیرساخت‌ها شود. کارشناسان نسبت به خطرات برای ثبات تأمین انرژی هشدار می‌دهند.",
-        "resume_ar": "حجب الرئيس الأمريكي دونالد ترامب مليارات الدولارات المخصصة كمنح لإصلاح شبكة الكهرباء في البلاد. قد يؤدي هذا القرار إلى تدهور حالة البنية التحتية. يحذر الخبراء من مخاطر عدم استقرار إمدادات الطاقة.",
-        "analyse_detaillee": "Le réseau électrique américain, vieillissant et vulnérable, nécessite des investissements massifs pour éviter des pannes majeures comme celle de 2021 au Texas. Trump bloque ces fonds au nom de la réduction des dépenses fédérales, mais cette décision pourrait aggraver les risques de blackouts et de cyberattaques. Historiquement, les infrastructures énergétiques ont toujours été un enjeu géopolitique, notamment face à la montée des tensions avec la Chine et la Russie. À court terme, les États devront trouver des alternatives coûteuses, augmentant la pression sur les consommateurs. À moyen terme, le manque d'investissement pourrait freiner la transition énergétique et les objectifs climatiques. À long terme, cela pourrait affaiblir la compétitivité économique des États-Unis face à la Chine, leader des technologies vertes. Les acteurs locaux, comme les gouverneurs démocrates, s'opposent fermement à cette décision, tandis que les républicains la soutiennent au nom de la rigueur budgétaire.",
-        "analyse_en": "The U.S. power grid, aging and vulnerable, requires massive investments to prevent major outages like the 2021 Texas blackout. Trump is blocking these funds in the name of reducing federal spending, but this decision could worsen the risks of blackouts and cyberattacks. Historically, energy infrastructures have always been a geopolitical issue, especially amid rising tensions with China and Russia. In the short term, states will have to find costly alternatives, increasing pressure on consumers. In the medium term, the lack of investment could slow down the energy transition and climate goals. In the long term, this could weaken U.S. economic competitiveness against China, a leader in green technologies. Local actors, such as Democratic governors, strongly oppose this decision, while Republicans support it in the name of fiscal rigor.",
-        "analyse_zh": "美国电网老化且脆弱，需要大量投资以防止像2021年德克萨斯州大停电这样的重大事故。特朗普以减少联邦支出为名阻止这些资金，但这一决定可能加剧停电和网络攻击的风险。历史上，能源基础设施一直是地缘政治问题，特别是在与中国和俄罗斯的紧张局势加剧之际。短期内，各州将不得不寻找昂贵的替代方案，增加对消费者的压力。中期来看，缺乏投资可能减缓能源转型和气候目标。长期来看，这可能削弱美国在绿色技术领先者中国面前的经济竞争力。民主党州长等地方行为者强烈反对这一决定，而共和党人以财政严格为由支持它。",
-        "analyse_ru": "Блокировка грантов на ремонт энергосети США администрацией Трампа вызвала острую критику со стороны демократов и экспертов. Причины такого решения могут быть связаны с политическими разногласиями или стремлением сократить государственные расходы. Последствия могут включать увеличение аварийных отключений электроэнергии и рост тарифов для потребителей. Перспективы зависят от исхода предстоящих выборов и возможного изменения политики. Позиции сторон разделились: республиканцы поддерживают решение, а демократы требуют его пересмотра.",
-        "analyse_fa": "مسدود کردن کمک‌های مالی برای تعمیر شبکه برق توسط دولت ترامپ با انتقاد شدید دموکرات‌ها و کارشناسان مواجه شده است. دلایل این تصمیم ممکن است به اختلافات سیاسی یا تلاش برای کاهش هزینه‌های دولتی مربوط باشد. پیامدهای آن می‌تواند شامل افزایش قطعی‌های اضطراری برق و بالا رفتن تعرفه‌ها برای مصرف‌کنندگان باشد. چشم‌اندازها به نتیجه انتخابات آینده و تغییر احتمالی سیاست‌ها بستگی دارد. مواضع طرفین تقسیم شده است: جمهوری‌خواهان از این تصمیم حمایت می‌کنند، در حالی که دموکرات‌ها خواستار بازنگری در آن هستند.",
-        "analyse_ar": "أدى حجب المنح المخصصة لإصلاح شبكة الكهرباء الأمريكية من قبل إدارة ترامب إلى انتقاد حاد من قبل الديمقراطيين والخبراء. قد تكون أسباب هذا القرار مرتبطة بخلافات سياسية أو السعي لخفض النفقات الحكومية. قد تشمل العواقب زيادة انقطاعات الكهرباء الطارئة وارتفاع التعرفة للمستهلكين. تعتمد الآفاق على نتائج الانتخابات المقبلة والتغيير المحتمل للسياسات. انقسمت مواقف الأطراف: يدعم الجمهوريون القرار، بينما يطالب الديمقراطيون بمراجعته.",
+        "id": "chine_313183",
+        "titre": "Zhong Yang délocalise sa production en Thaïlande",
+        "titre_en": "Zhong Yang shifts production to Thailand",
+        "titre_zh": "中阳科技将生产转移至泰国",
+        "titre_ru": "Zhong Yang наращивает производство в Таиланде из-за переориентации заказов",
+        "titre_fa": "Zhong Yang تولید خود را در تایلند افزایش می‌دهد به دلیل تغییر سفارش‌ها",
+        "titre_ar": "توسع شركة Zhong Yang إنتاجها في تايلاند بسبب إعادة توجيه الطلبات",
+        "titre_original": "Zhong Yang ramps up Thailand production as drone orders shift from China",
+        "resume": "Le fabricant taïwanais Zhong Yang Technology déplace sa production d'optiques vers la Thaïlande. Cette décision répond à la demande croissante d'alternatives aux composants chinois. Les commandes en provenance d'Europe et des États-Unis redirigées vers l'Asie du Sud-Est.",
+        "resume_en": "Taiwanese optical manufacturer Zhong Yang Technology is shifting production to Thailand. This move responds to rising demand for alternatives to Chinese-made components. Orders from Europe and the U.S. are being redirected to Southeast Asia.",
+        "resume_zh": "台湾光学制造商中阳科技正将生产转移至泰国。此举回应了对中国制造组件替代品的需求增长。来自欧洲和美国的订单正被重新引导至东南亚。",
+        "resume_ru": "Тайваньская компания Zhong Yang Technology, специализирующаяся на оптических линзах, увеличивает производство в Таиланде. Это связано с переориентацией заказов из Европы и США, которые стремятся избежать китайских компонентов. Компания ожидает рост спроса на свою продукцию.",
+        "resume_fa": "شرکت تایوانی Zhong Yang Technology که در زمینه عدسی‌های نوری فعالیت می‌کند، تولید خود را در تایلند افزایش داده است. این امر به دلیل تغییر سفارش‌ها از اروپا و آمریکا است که به دنبال اجتناب از قطعات چینی هستند. این شرکت انتظار دارد تقاضا برای محصولات خود افزایش یابد.",
+        "resume_ar": "قامت شركة تايوانية متخصصة في العدسات البصرية، هي Zhong Yang Technology، بزيادة إنتاجها في تايلاند. ويرجع ذلك إلى إعادة توجيه الطلبات من أوروبا والولايات المتحدة، التي تسعى لتجنب المكونات الصينية. تتوقع الشركة زيادة الطلب على منتجاتها.",
+        "analyse_detaillee": "Cette délocalisation s'inscrit dans un contexte de tensions géopolitiques et de relocalisation des chaînes d'approvisionnement. Historiquement, la Chine dominait la production d'optiques pour drones et équipements médicaux. Les enjeux portent sur la réduction des risques liés à la dépendance à la Chine. À court terme, cela pourrait stabiliser les approvisionnements pour les clients européens et américains. À moyen terme, cela pourrait renforcer l'industrie optique en Thaïlande. À long terme, cela pourrait redessiner la carte mondiale de la production d'optiques. Les acteurs incluent Zhong Yang, les gouvernements thaïlandais et taïwanais, ainsi que les clients occidentaux.",
+        "analyse_en": "This relocation aligns with geopolitical tensions and supply chain reshoring trends. Historically, China dominated optical production for drones and medical equipment. The stakes involve reducing risks tied to China dependency. Short-term, this could stabilize supplies for European and U.S. clients. Medium-term, it may bolster Thailand's optical industry. Long-term, it could redraw the global map of optical production. Key actors include Zhong Yang, Thai and Taiwanese governments, and Western clients.",
+        "analyse_zh": "此次搬迁符合地缘政治紧张局势和供应链回流趋势。历史上，中国主导了无人机和医疗设备光学产品的生产。关键在于减少对中国依赖的风险。短期内，这可能稳定欧洲和美国客户的供应。中期来看，可能增强泰国的光学工业。长期而言，可能重塑全球光学生产格局。主要参与者包括中阳科技、泰国和台湾政府以及西方客户。",
+        "analyse_ru": "Релокация производства Zhong Yang в Таиланд является частью глобального тренда декитайзации, ускоренного геополитическими напряжённостями и торговыми войнами. Европа и США стремятся снизить зависимость от китайских поставок, особенно в стратегических секторах, таких как электроника и оптика. Таиланд, как один из ключевых партнёров в регионе, предлагает выгодные условия для иностранных инвесторов, включая налоговые льготы и развитую инфраструктуру. Для Zhong Yang это возможность сохранить конкурентоспособность на фоне растущих тарифов и ограничений. В долгосрочной перспективе такие шаги могут привести к формированию новых производственных цепочек, менее зависимых от Китая.",
+        "analyse_fa": "انتقال تولید Zhong Yang به تایلند بخشی از روند جهانی «دکاچینی‌سازی» است که تحت تأثیر تنش‌های ژئوپلیتیکی و جنگ‌های تجاری تسریع شده است. اروپا و آمریکا در تلاشند تا وابستگی خود به عرضه‌های چینی را کاهش دهند، به ویژه در بخش‌های استراتژیک مانند الکترونیک و اپتیک. تایلند به عنوان یکی از شرکای کلیدی در منطقه، شرایط مطلوبی برای سرمایه‌گذاران خارجی از جمله معافیت‌های مالیاتی و زیرساخت‌های توسعه‌یافته ارائه می‌دهد. برای Zhong Yang، این فرصت را فراهم می‌کند تا در برابر تعرفه‌های فزاینده و محدودیت‌ها، رقابت‌پذیری خود را حفظ کند. در بلندمدت، چنین اقداماتی می‌تواند منجر به شکل‌گیری زنجیره‌های تولید جدیدی شود که کمتر به چین وابسته باشند.",
+        "analyse_ar": "إن إعادة توطين إنتاج شركة Zhong Yang في تايلاند هي جزء من الاتجاه العالمي «نزع الصفة الصينية» الذي تسارعت وتيرته بسبب التوترات الجيوسياسية وحروب التجارة. تسعى أوروبا والولايات المتحدة إلى تقليل اعتمادها على الإمدادات الصينية، لا سيما في القطاعات الاستراتيجية مثل الإلكترونيات والبصريات. وتايلاند، باعتبارها إحدى الشركاء الرئيسيين في المنطقة، تقدم شروطاً مواتية للمستثمرين الأجانب، بما في ذلك الإعفاءات الضريبية والبنية التحتية المتطورة. بالنسبة لشركة Zhong Yang، تمثل هذه الخطوة فرصة للحفاظ على قدرتها التنافسية في ظل الرسوم الجمركية المتزايدة والقيود المفروضة. على المدى الطويل، قد تؤدي مثل هذه الخطوات إلى تشكيل سلاسل إنتاج جديدة أقل اعتماداً على الصين.",
         "categorie": "Économie",
-        "source": "Fark.com",
-        "url": "https://www.fark.com/comments/14159384/Trump-is-blocking-billions-of-dollars-of-grants-that-would-fix-grid",
-        "image": "https://usrimg-full.fark.net/B/Bz/fark_BzKL7yYr3zytiiYcNhqqrXZzNf0.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1786939200&Signature=1Dvk4Glh0Sf78Jc85RQQRPCTF4E%3D",
-        "date": "2026-08-10",
-        "pays": "usa",
+        "source": "Digitimes",
+        "url": "https://www.digitimes.com/news/a20260810PD227/jmo-optical-lens-production-revenue-europe.html",
+        "image": "https://img.digitimes.com/newsshow/20260810pd227_files/1_b.jpg",
+        "date": "2026-08-12",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Secteur de l'énergie",
-            "hausse": false
+            "label": "▲ Industrie des drones",
+            "hausse": true
           },
           {
-            "label": "▼ Secteur des technologies vertes",
-            "hausse": false
+            "label": "▲ Secteur médical",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de l'énergie",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "Le blocage des subventions pourrait retarder la modernisation du réseau électrique, augmentant les risques de pannes et de cyberattaques.",
-            "effet_en": "Blocking grants could delay the modernization of the power grid, increasing the risks of outages and cyberattacks.",
-            "effet_zh": "阻止拨款可能推迟电网现代化，增加停电和网络攻击的风险。",
-            "hausse": false
+            "secteur_fr": "Industrie des drones",
+            "secteur_en": "Drone industry",
+            "secteur_zh": "无人机行业",
+            "effet_fr": "La production thaïlandaise pourrait réduire les coûts logistiques pour les fabricants européens et américains, stimulant la demande en drones civils et militaires.",
+            "effet_en": "Thai production could lower logistics costs for European and U.S. manufacturers, boosting demand for civilian and military drones.",
+            "effet_zh": "泰国生产可能降低欧洲和美国制造商的物流成本，推动民用和军用无人机需求。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur des technologies vertes",
-            "secteur_en": "Green technology sector",
-            "secteur_zh": "绿色技术行业",
-            "effet_fr": "Le manque d'investissement dans le réseau électrique pourrait freiner le développement des énergies renouvelables et des smart grids.",
-            "effet_en": "The lack of investment in the power grid could slow down the development of renewable energies and smart grids.",
-            "effet_zh": "对电网的投资不足可能减缓可再生能源和智能电网的发展。",
-            "hausse": false
+            "secteur_fr": "Secteur médical",
+            "secteur_en": "Medical sector",
+            "secteur_zh": "医疗行业",
+            "effet_fr": "Les composants optiques thaïlandais pourraient améliorer l'accès aux équipements médicaux en réduisant les délais de livraison pour les hôpitaux occidentaux.",
+            "effet_en": "Thai optical components could improve access to medical equipment by reducing delivery times for Western hospitals.",
+            "effet_zh": "泰国光学组件可能通过缩短西方医院的交货时间，改善医疗设备的获取。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-11T20:04:14.147254"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-13T06:16:16.466908"
+      },
       {
         "id": "chine_983709",
         "titre": "Fonds norvégien investit 1,2 milliard dans SpaceX",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-11T14:24:46.233284"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_452340",
-        "titre": "TSM, gagnant clé de l'infrastructure IA",
-        "titre_en": "TSM, a key AI infrastructure winner",
-        "titre_zh": "台积电，AI基础设施关键赢家",
-        "titre_ru": "Почему TSMC может выиграть от развития ИИ",
-        "titre_fa": "چرا TSMC می‌تواند از رشد هوش مصنوعی بهره‌مند شود",
-        "titre_ar": "لماذا قد تستفيد TSMC من نمو الذكاء الاصطناعي",
-        "titre_original": "Why Taiwan Semiconductor (TSM) Could Be a Top AI Infrastructure Winner",
-        "resume": "Taiwan Semiconductor Manufacturing (TSM) est identifiée comme un acteur majeur de l'infrastructure IA. Une lettre d'investisseurs de Brown Advisory souligne son potentiel. La demande en puces avancées pour l'IA explose, renforçant sa position.",
-        "resume_en": "Taiwan Semiconductor Manufacturing (TSM) is identified as a major AI infrastructure player. An investor letter from Brown Advisory highlights its potential. Demand for advanced AI chips is exploding, strengthening its position.",
-        "resume_zh": "台积电被认定为AI基础设施的主要参与者。Brown Advisory的投资者信函强调其潜力。对先进AI芯片的需求激增，巩固其地位。",
-        "resume_ru": "Компания Brown Advisory в своём отчёте за второй квартал 2026 года выделила TSMC как одного из ключевых игроков в инфраструктуре ИИ. Эксперты отмечают, что TSMC, как крупнейший производитель полупроводников, получит выгоду от роста спроса на чипы для ИИ. Это может укрепить позиции компании на глобальном рынке.",
-        "resume_fa": "شرکت Brown Advisory در گزارش سه‌ماهه دوم 2026، TSMC را به‌عنوان یکی از بازیگران کلیدی در زیرساخت‌های هوش مصنوعی معرفی کرد. کارشناسان معتقدند TSMC به‌عنوان بزرگ‌ترین تولیدکننده نیمه‌رساناها از افزایش تقاضا برای تراشه‌های هوش مصنوعی بهره‌مند خواهد شد. این امر می‌تواند جایگاه این شرکت را در بازار جهانی تقویت کند.",
-        "resume_ar": "أشارت شركة Brown Advisory في تقريرها للربع الثاني من 2026 إلى TSMC باعتبارها أحد اللاعبين الرئيسيين في بنية الذكاء الاصطناعي. يرى الخبراء أن TSMC، كأكبر منتج لأشباه الموصلات، ستستفيد من زيادة الطلب على رقائق الذكاء الاصطناعي. قد يعزز هذا مكانتها في السوق العالمية.",
-        "analyse_detaillee": "TSM bénéficie d'une position dominante dans la fabrication de semi-conducteurs avancés, un secteur stratégique pour l'IA. Historiquement, Taïwan est devenu un acteur clé grâce à des investissements massifs dans les années 1990 et 2000, malgré les tensions géopolitiques avec la Chine. Les enjeux principaux incluent la maîtrise des technologies de pointe et la sécurisation des chaînes d'approvisionnement face aux risques de guerre ou de sanctions. Les causes profondes résident dans la course mondiale à l'innovation technologique, où l'IA représente un marché en croissance exponentielle. À court terme, TSM pourrait voir ses revenus exploser grâce à la demande en puces pour centres de données et dispositifs IA. À moyen terme, son leadership pourrait être consolidé par des partenariats stratégiques avec les géants de la tech américaine et européenne. À long terme, TSM pourrait devenir un acteur incontournable de l'économie mondiale, mais son avenir dépendra de sa capacité à naviguer dans un contexte géopolitique tendu. Les acteurs comme les États-Unis, la Chine et l'UE cherchent à sécuriser leurs approvisionnements en semi-conducteurs, ce qui pourrait influencer les décisions de TSM.",
-        "analyse_en": "TSM benefits from a dominant position in advanced semiconductor manufacturing, a strategic sector for AI. Historically, Taiwan became a key player through massive investments in the 1990s and 2000s, despite geopolitical tensions with China. The main stakes include mastering cutting-edge technologies and securing supply chains amid risks of war or sanctions. The root causes lie in the global race for technological innovation, where AI represents an exponentially growing market. In the short term, TSM could see its revenues explode due to demand for chips for data centers and AI devices. In the medium term, its leadership could be consolidated through strategic partnerships with U.S. and European tech giants. In the long term, TSM could become a key player in the global economy, but its future will depend on its ability to navigate a tense geopolitical context. Actors like the U.S., China, and the EU are seeking to secure their semiconductor supplies, which could influence TSM's decisions.",
-        "analyse_zh": "台积电在先进半导体制造领域占据主导地位，这是AI的战略性行业。历史上，台湾通过上世纪90年代和2000年代的大规模投资成为关键参与者，尽管面临与中国的地缘政治紧张局势。主要影响包括掌握尖端技术和在战争或制裁风险下确保供应链安全。根本原因在于全球对技术创新的竞争，其中AI代表一个指数级增长的市场。短期内，台积电可能因数据中心和AI设备芯片需求激增而收入暴增。中期来看，其领导地位可能通过与美国和欧洲科技巨头的战略合作得到巩固。长期而言，台积电可能成为全球经济的关键参与者，但其未来取决于在紧张地缘政治环境下的应对能力。美国、中国和欧盟等行为体正试图确保其半导体供应，这可能影响台积电的决策。",
-        "analyse_ru": "Контекст связан с бурным развитием рынка искусственного интеллекта и необходимостью создания специализированных чипов. Причины выделения TSMC как лидера обусловлены её технологическим преимуществом и масштабами производства. Последствия могут быть значительными: рост прибыли, расширение доли рынка и влияние на глобальные цепочки поставок. Перспективы зависят от темпов внедрения ИИ и конкуренции с другими производителями, такими как Samsung и Intel. Позиции сторон: инвесторы оптимистичны, аналитики предупреждают о рисках монополизации.",
-        "analyse_fa": "زمینه به توسعه سریع بازار هوش مصنوعی و نیاز به تولید تراشه‌های تخصصی بازمی‌گردد. دلایل برجسته شدن TSMC به عنوان رهبر شامل مزیت‌های فناوری و مقیاس تولید آن است. پیامدها می‌تواند قابل توجه باشد: افزایش سود، گسترش سهم بازار و تأثیر بر زنجیره‌های تأمین جهانی. چشم‌انداز به سرعت پیاده‌سازی هوش مصنوعی و رقابت با تولیدکنندگان دیگر مانند سامسونگ و اینتل بستگی دارد. مواضع بازیگران: سرمایه‌گذاران خوش‌بین هستند، در حالی که تحلیلگران در مورد خطرات انحصار هشدار می‌دهند.",
-        "analyse_ar": "يرتبط السياق بالتطور السريع لسوق الذكاء الاصطناعي والحاجة إلى إنتاج شرائح متخصصة. أسباب تميز TSMC كقائد تشمل مزاياها التكنولوجية وحجم إنتاجها. قد تكون العواقب كبيرة: زيادة الأرباح، توسيع حصة السوق، وتأثير على سلاسل التوريد العالمية. تتوقف الآفاق على سرعة تبني الذكاء الاصطناعي والمنافسة مع منتجين آخرين مثل سامسونج وإنتل. مواقف الأطراف: المتفائلون من المستثمرين، بينما يحذر المحللون من مخاطر الاحتكار.",
-        "categorie": "Économie",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/technology/ai/articles/why-taiwan-semiconductor-tsm-could-125505984.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/692E8585E789E7E1C837702705891E38DF5B56BCB3E2C89823AC557F202D5552/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fdcf08a9dbb7c3de961dd78d32a01adf8",
-        "date": "2026-08-10",
-        "pays": "chine",
+        "id": "russie_669625",
+        "titre": "Disparition d'un historien russo-israélien en Israël",
+        "titre_en": "Disappearance of Russian-Israeli historian in Israel",
+        "titre_zh": "俄以历史学家在以色列失踪",
+        "titre_ru": "Молчание Израиля вызывает вопросы о судьбе российско-израильского историка",
+        "titre_fa": "سکوت اسرائیل درباره ناپدید شدن مورخ روس-اسرائیلی سؤالاتی را برانگیخته است",
+        "titre_ar": "الصمت الإسرائيلي يثير تساؤلات حول اختفاء المؤرخ الروسي الإسرائيلي",
+        "titre_original": "Israeli silence raises questions in disappearance of Russian-Israeli historian",
+        "resume": "Artyom Kirpichenok, historien critique d'Israël, a disparu après son arrivée à l'aéroport Ben Gourion. Les autorités russes ont demandé des explications à Israël. Son cas soulève des questions sur les libertés individuelles dans le contexte géopolitique tendu.",
+        "resume_en": "Artyom Kirpichenok, an outspoken critic of Israel, disappeared after arriving at Ben Gurion Airport. Russian authorities have sought explanations from Israel. His case raises questions about individual freedoms amid geopolitical tensions.",
+        "resume_zh": "批评以色列的历史学家阿尔乔姆·基尔皮琴诺克在抵达本·古里安机场后失踪。俄罗斯当局已向以色列寻求解释。其案件在紧张的地缘政治背景下引发了对个人自由的质疑。",
+        "resume_ru": "51-летний Артём Кирпиченко, гражданин России и Израиля, критик Израиля, пропал 2 августа после прибытия в аэропорт Бен-Гурион. Российский посол в Израиле отправил ноту протеста израильским властям. Отсутствие реакции со стороны Израиля вызывает обеспокоенность.",
+        "resume_fa": "آرتم کیریچنکو، شهروند ۵۱ ساله روسیه و اسرائیل و منتقد رژیم اسرائیل، پس از ورود به فرودگاه بن گوریون در ۲ اوت ناپدید شد. سفیر روسیه در اسرائیل اعتراض رسمی خود را به مقامات اسرائیلی ارسال کرد. سکوت اسرائیل نگرانی‌هایی را برانگیخته است.",
+        "resume_ar": "اختفى أرتيم كيربيتشينوك، المواطن الروسي الإسرائيلي البالغ من العمر 51 عاماً والناقد لإسرائيل، في 2 أغسطس بعد وصوله إلى مطار بن غوريون. أرسل السفير الروسي في إسرائيل مذكرة احتجاج رسمية إلى السلطات الإسرائيلية. يثير صمت إسرائيل قلقاً.",
+        "analyse_detaillee": "La disparition de Kirpichenok s'inscrit dans un contexte de tensions accrues entre la Russie et Israël. Historiquement, les relations entre les deux pays se sont dégradées depuis 2015, notamment sur la question syrienne. Les enjeux portent sur la protection des droits des dissidents russes à l'étranger. À court terme, cela pourrait exacerber les tensions diplomatiques entre Moscou et Tel-Aviv. À moyen terme, cela pourrait affecter les communautés russes en Israël. À long terme, cela pourrait influencer les politiques de sécurité israéliennes envers les ressortissants russes. Les acteurs incluent la Russie, Israël, et les organisations de défense des droits humains.",
+        "analyse_en": "Kirpichenok's disappearance occurs amid heightened tensions between Russia and Israel. Historically, relations between the two countries have deteriorated since 2015, particularly over Syria. The stakes involve protecting the rights of Russian dissidents abroad. Short-term, this could exacerbate diplomatic tensions between Moscow and Tel Aviv. Medium-term, it may affect Russian communities in Israel. Long-term, it could influence Israeli security policies toward Russian nationals. Key actors include Russia, Israel, and human rights organizations.",
+        "analyse_zh": "基尔皮琴诺克的失踪发生在俄罗斯与以色列紧张局势加剧的背景下。历史上，自2015年以来，两国关系因叙利亚问题等因素恶化。关键在于保护海外俄罗斯异见人士的权利。短期内，这可能加剧莫斯科与特拉维夫之间的外交紧张。中期来看，可能影响以色列的俄罗斯社区。长期而言，可能影响以色列对俄罗斯公民的安全政策。主要参与者包括俄罗斯、以色列和人权组织。",
+        "analyse_ru": "Исчезновение Артёма Кирпиченко, известного критика израильской политики, в Израиле вызывает серьёзные подозрения, особенно на фоне его публичных выступлений против израильских властей. Российский МИД оперативно отреагировал, что может указывать на политическую подоплёку дела. Израиль, традиционно позиционирующий себя как демократию с развитыми институтами правопорядка, обычно оперативно реагирует на подобные инциденты. Молчание официальных лиц может быть связано с дипломатическими соображениями или попытками избежать эскалации напряжённости. В любом случае, это дело способно ухудшить и без того сложные российско-израильские отношения, особенно в контексте войны в Украине и поддержки Россией палестинских группировок.",
+        "analyse_fa": "ناپدید شدن آرتم کیریچنکو، منتقد سرشناس سیاست اسرائیل، در این کشور باعث بروز ظن‌های جدی شده است، به ویژه با توجه به اظهارات عمومی او علیه مقامات اسرائیلی. وزارت خارجه روسیه به سرعت واکنش نشان داد که ممکن است حاکی از پشت پرده سیاسی این ماجرا باشد. اسرائیل که خود را به عنوان یک دموکراسی با نهادهای حقوقی توسعه‌یافته معرفی می‌کند، معمولاً به چنین حوادثی سریعاً واکنش نشان می‌دهد. سکوت مقامات رسمی ممکن است به دلایل دیپلماتیک یا تلاش برای جلوگیری از تشدید تنش‌ها باشد. در هر صورت، این ماجرا می‌تواند روابط پیچیده روسیه و اسرائیل را، به ویژه در زمینه جنگ اوکراین و حمایت روسیه از گروه‌های فلسطینی، بدتر کند.",
+        "analyse_ar": "إن اختفاء أرتيم كيربيتشينوك، الناقد المعروف للسياسة الإسرائيلية، يثير شكوكاً خطيرة في إسرائيل، لا سيما في ضوء تصريحاته العامة ضد السلطات الإسرائيلية. وقد ردّت وزارة الخارجية الروسية بسرعة، مما قد يشير إلى خلفية سياسية للقضية. إسرائيل، التي تصف نفسها عادة كديمقراطية ذات مؤسسات قانونية متطورة، عادة ما تتفاعل بسرعة مع مثل هذه الحوادث. silence السلطات الإسرائيلية قد يكون مرتبطاً باعتبارات دبلوماسية أو محاولات لتجنب تصعيد التوترات. وفي كل الأحوال، قد تؤدي هذه القضية إلى تفاقم العلاقات الروسية الإسرائيلية، التي هي بالفعل معقدة، لا سيما في سياق الحرب في أوكرانيا ودعم روسيا للمجموعات الفلسطينية.",
+        "categorie": "Droits humains",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-12-israeli-silence-raises-questions-in-disappearance-of-historian.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Arrested-Jail-Hands.jpg",
+        "date": "2026-08-12",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des semi-conducteurs",
-            "hausse": true
+            "label": "▼ Communautés russes à l'étranger",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur des centres de données",
+            "label": "▼ Diplomatie internationale",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des semi-conducteurs",
-            "secteur_en": "Semiconductor industry",
-            "secteur_zh": "半导体行业",
-            "effet_fr": "La demande accrue en puces pour l'IA pourrait propulser TSM au rang de leader incontesté, avec une hausse significative de ses parts de marché.",
-            "effet_en": "Increased demand for AI chips could propel TSM to undisputed leadership, with a significant rise in market share.",
-            "effet_zh": "对AI芯片的需求激增可能将台积电推上无可争议的领导地位，市场份额大幅上升。",
-            "hausse": true
+            "secteur_fr": "Communautés russes à l'étranger",
+            "secteur_en": "Russian communities abroad",
+            "secteur_zh": "海外俄罗斯社区",
+            "effet_fr": "Cette affaire pourrait inciter les Russes en Israël à réduire leurs activités politiques par crainte de représailles, limitant la liberté d'expression.",
+            "effet_en": "This case could prompt Russians in Israel to reduce political activities out of fear of retaliation, limiting freedom of expression.",
+            "effet_zh": "此案可能促使以色列的俄罗斯人因担心报复而减少政治活动，限制言论自由。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur des centres de données",
-            "secteur_en": "Data center industry",
-            "secteur_zh": "数据中心行业",
-            "effet_fr": "Les centres de données devront investir massivement dans des puces plus performantes, augmentant leurs coûts opérationnels.",
-            "effet_en": "Data centers will need to invest heavily in more powerful chips, increasing their operational costs.",
-            "effet_zh": "数据中心将需大举投资更强大的芯片，增加运营成本。",
+            "secteur_fr": "Diplomatie internationale",
+            "secteur_en": "International diplomacy",
+            "secteur_zh": "国际外交",
+            "effet_fr": "Les tensions accrues pourraient compliquer les négociations entre la Russie et Israël sur des sujets comme la Syrie ou l'énergie.",
+            "effet_en": "Heightened tensions could complicate negotiations between Russia and Israel on issues like Syria or energy.",
+            "effet_zh": "紧张局势加剧可能使俄罗斯与以色列在叙利亚或能源等问题上的谈判复杂化。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-11T13:00:58.166199"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-13T06:16:16.466919"
+      },
       {
         "id": "russie_247554",
         "titre": "Libération d'un ex-marine américain détenu en Russie",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-11T14:24:46.233231"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_282435",
-        "titre": "Ukraine frappe un hub pétrolier russe",
-        "titre_en": "Ukraine strikes Russian oil hub",
-        "titre_zh": "乌克兰袭击俄罗斯石油枢纽",
-        "titre_ru": "Украина нанесла удар по крупному нефтяному хабу России",
-        "titre_fa": "اوکراین حمله‌ای به یک هاب نفتی بزرگ روسیه انجام داد",
-        "titre_ar": "أوكرانيا تضرب أحد أكبر مراكز النفط الروسية",
-        "titre_original": "Ukraine Strikes Another Major Russian Oil Hub",
-        "resume": "Une attaque de drone ukrainien a ciblé Nizhnekamsk, tuant 13 personnes dont un enfant. Les infrastructures pétrolières russes sont de nouveau visées. Cette escalade aggrave les tensions entre les deux pays.",
-        "resume_en": "A Ukrainian drone attack targeted Nizhnekamsk, killing 13 people, including a child. Russian oil infrastructures were hit again. This escalation worsens tensions between the two countries.",
-        "resume_zh": "乌克兰无人机袭击靶向下卡姆斯克，造成13人死亡，包括一名儿童。俄罗斯石油基础设施再次受袭。此升级加剧两国紧张局势。",
-        "resume_ru": "Украинский дрон атаковал город Нижнекамск в Татарстане, где расположен крупный нефтеперерабатывающий завод. В результате погибли 13 человек, включая ребёнка, и пострадали 75. Украинские военные подтвердили проведение операции. Российские власти осудили нападение как террористический акт.",
-        "resume_fa": "یک پهپاد اوکراینی به شهر نیژنکامسک در تاتارستان، که دارای یک پالایشگاه بزرگ نفت است، حمله کرد. در این حمله 13 نفر از جمله یک کودک کشته و 75 نفر زخمی شدند. نیروهای اوکراینی انجام این عملیات را تأیید کردند. مقامات روسی این حمله را به‌عنوان یک اقدام تروریستی محکوم کردند.",
-        "resume_ar": "هاجمت طائرة مسيرة أوكرانية مدينة نيجنيكامسك في تتارستان، حيث تقع مصفاة نفط كبيرة. أسفر الهجوم عن مقتل 13 شخصًا بينهم طفل وإصابة 75 آخرين. أكدت القوات الأوكرانية تنفيذ العملية. أدانت السلطات الروسية الهجوم ووصفته بأنه عمل إرهابي.",
-        "analyse_detaillee": "Cette attaque s'inscrit dans une stratégie ukrainienne de ciblage des infrastructures énergétiques russes, visant à affaiblir son économie de guerre. Historiquement, les conflits en Ukraine ont souvent inclus des frappes sur des sites pétroliers, comme lors de la guerre du Donbass. Les enjeux principaux incluent la réduction des revenus russes liés au pétrole et la pression sur Moscou pour négocier. Les causes profondes résident dans l'impasse militaire et la volonté ukrainienne de forcer un retrait russe. À court terme, cette attaque pourrait perturber la production pétrolière russe, mais à moyen terme, Moscou pourrait renforcer ses défenses et diversifier ses exportations. À long terme, cette escalade pourrait mener à une crise énergétique mondiale si les approvisionnements russes sont durablement affectés. Les acteurs comme l'UE et les États-Unis soutiennent l'Ukraine, tandis que la Russie cherche à isoler Kiev diplomatiquement. Les marchés pétroliers pourraient réagir par une volatilité accrue, avec des répercussions sur les prix du carburant en Europe.",
-        "analyse_en": "This attack is part of a Ukrainian strategy to target Russian energy infrastructures, aiming to weaken its war economy. Historically, conflicts in Ukraine have often included strikes on oil sites, such as during the Donbass war. The main stakes include reducing Russian oil revenues and pressuring Moscow to negotiate. The root causes lie in the military deadlock and Ukraine's desire to force a Russian withdrawal. In the short term, this attack could disrupt Russian oil production, but in the medium term, Moscow could strengthen its defenses and diversify its exports. In the long term, this escalation could lead to a global energy crisis if Russian supplies are permanently affected. Actors like the EU and the U.S. support Ukraine, while Russia seeks to diplomatically isolate Kiev. Oil markets could react with increased volatility, impacting fuel prices in Europe.",
-        "analyse_zh": "此次袭击是乌克兰针对俄罗斯能源基础设施的战略的一部分，目的是削弱其战争经济。历史上，乌克兰冲突常包括对石油设施的打击，如顿巴斯战争期间。主要影响包括减少俄罗斯石油收入和迫使莫斯科谈判。根本原因在于军事僵局和乌克兰迫使俄罗斯撤军的意愿。短期内，此次袭击可能扰乱俄罗斯石油生产，但中期莫斯科可能加强防御并多元化出口。长期来看，如果俄罗斯供应长期受影响，此升级可能导致全球能源危机。欧盟和美国等行为体支持乌克兰，而俄罗斯试图在外交上孤立基辅。油市可能出现波动加剧，影响欧洲燃料价格。",
-        "analyse_ru": "Контекст связан с продолжающейся войной между Украиной и Россией, где Украина активно использует дроны для атак на стратегические объекты. Причины нападения на Нижнекамск могут быть связаны с ослаблением российской инфраструктуры и попыткой дестабилизировать экономику. Последствия включают человеческие жертвы, экономический ущерб и ужесточение мер безопасности. Перспективы зависят от дальнейших действий сторон и международной реакции. Позиции сторон: Украина оправдывает атаки как ответ на российскую агрессию, Россия обвиняет Украину в терроризме.",
-        "analyse_fa": "زمینه به جنگ جاری میان اوکراین و روسیه بازمی‌گردد که در آن اوکراین به‌طور فعال از پهپادها برای حمله به اهداف استراتژیک استفاده می‌کند. دلایل حمله به نیژنکامسک ممکن است به تضعیف زیرساخت‌های روسیه و تلاش برای بی‌ثبات کردن اقتصاد مربوط باشد. پیامدها شامل تلفات انسانی، خسارات اقتصادی و تشدید اقدامات امنیتی است. چشم‌انداز به اقدامات بعدی طرفین و واکنش بین‌المللی بستگی دارد. مواضع بازیگران: اوکراین حملات را به‌عنوان پاسخی به تجاوز روسیه توجیه می‌کند، در حالی که روسیه اوکراین را به تروریسم متهم می‌کند.",
-        "analyse_ar": "يرتبط السياق بالحرب الدائرة بين أوكرانيا وروسيا، حيث تستخدم أوكرانيا الطائرات المسيرة بنشاط للهجوم على أهداف إستراتيجية. قد تكون أسباب الهجوم على نيجنيكامسك مرتبطة بضعف البنية التحتية الروسية ومحاولة زعزعة الاستقرار الاقتصادي. تشمل العواقب خسائر بشرية وأضرارًا اقتصادية وتشديد إجراءات الأمن. تتوقف الآفاق على الإجراءات المستقبلية للطرفين ورد الفعل الدولي. مواقف الأطراف: تبرر أوكرانيا الهجمات ردًا على العدوان الروسي، بينما تتهم روسيا أوكرانيا بالإرهاب.",
+        "id": "iran_435399",
+        "titre": "L'Iran rejoint la Nouvelle Banque de Développement des BRICS",
+        "titre_en": "Iran joins BRICS New Development Bank",
+        "titre_zh": "伊朗加入金砖国家新开发银行",
+        "titre_ru": "Иран вскоре присоединится к Новому банку развития БРИКС",
+        "titre_fa": "ایران به زودی به بانک توسعه جدید بریکس می‌پیوندد",
+        "titre_ar": "إيران ستنضم قريباً إلى بنك التنمية الجديد لبريكس",
+        "titre_original": "Iran Central Bank Says Country Will Soon Join BRICS New Development Bank",
+        "resume": "La Banque centrale d'Iran a annoncé que le pays rejoindra prochainement la Nouvelle Banque de Développement des BRICS. Cette adhésion s'inscrit dans une stratégie d'intégration économique alternative. Elle pourrait faciliter l'accès à des financements hors du système occidental.",
+        "resume_en": "Iran's Central Bank announced the country will soon join the BRICS New Development Bank. This membership aligns with a strategy of alternative economic integration. It could ease access to financing outside the Western system.",
+        "resume_zh": "伊朗央行宣布该国将很快加入金砖国家新开发银行。这一成员资格符合替代性经济一体化战略。它可能有助于获得西方体系外的融资。",
+        "resume_ru": "Глава Центрального банка Ирана Абдолнасер Хеммати заявил 12 августа, что Исламская Республика вскоре присоединится к Новому банку развития БРИКС. Он сделал это заявление на первом заседании министров финансов стран БРИКС. Присоединение укрепит экономические связи Ирана с участниками блока.",
+        "resume_fa": "رئیس بانک مرکزی ایران عبدالناصر همتی در ۱۲ اوت اعلام کرد که جمهوری اسلامی ایران به زودی به بانک توسعه جدید بریکس می‌پیوندد. او این خبر را در نخستین نشست وزیران اقتصاد کشورهای بریکس اعلام کرد. پیوستن به این بانک می‌تواند پیوندهای اقتصادی ایران با اعضای این بلوک را تقویت کند.",
+        "resume_ar": "أعلن رئيس البنك المركزي الإيراني عبدالناصر همتي في 12 أغسطس أن الجمهورية الإسلامية الإيرانية ستنضم قريباً إلى بنك التنمية الجديد لبريكس. وأعلن هذا الخبر خلال الاجتماع الأول لوزراء المالية لدول بريكس. من المتوقع أن يعزز الانضمام إلى هذا البنك الروابط الاقتصادية لإيران مع أعضاء الكتلة.",
+        "analyse_detaillee": "L'adhésion de l'Iran aux BRICS s'inscrit dans une dynamique de contournement des sanctions occidentales. Historiquement, l'Iran a cherché à diversifier ses partenariats économiques depuis les années 1990. Les enjeux portent sur la réduction de la dépendance au dollar et aux institutions financières occidentales. À court terme, cela pourrait renforcer les échanges commerciaux iraniens avec la Chine et la Russie. À moyen terme, cela pourrait accélérer l'adoption du yuan et du rouble dans les transactions régionales. À long terme, cela pourrait redéfinir l'architecture financière mondiale en faveur des pays émergents. Les acteurs incluent l'Iran, la Chine, la Russie, et les institutions financières des BRICS.",
+        "analyse_en": "Iran's BRICS membership aligns with a strategy to bypass Western sanctions. Historically, Iran has sought to diversify economic partnerships since the 1990s. The stakes involve reducing dependence on the dollar and Western financial institutions. Short-term, this could boost Iranian trade with China and Russia. Medium-term, it may accelerate the adoption of the yuan and ruble in regional transactions. Long-term, it could redefine the global financial architecture in favor of emerging economies. Key actors include Iran, China, Russia, and BRICS financial institutions.",
+        "analyse_zh": "伊朗加入金砖国家符合绕过西方制裁的战略。历史上，自1990年代以来，伊朗一直寻求多元化经济伙伴关系。关键在于减少对美元和西方金融机构的依赖。短期内，这可能推动伊朗与中国和俄罗斯的贸易往来。中期来看，可能加速人民币和卢布在地区交易中的采用。长期而言，可能重新定义有利于新兴经济体的全球金融架构。主要参与者包括伊朗、中国、俄罗斯和金砖国家金融机构。",
+        "analyse_ru": "Присоединение Ирана к Новому банку развития БРИКС является важным шагом в рамках стратегии Тегерана по диверсификации экономических партнёрств и снижению зависимости от Запада. Банк, созданный странами БРИКС, предоставляет альтернативные финансовые инструменты, что особенно актуально в условиях санкций США и ЕС. Для Ирана это возможность укрепить связи с Китаем, Россией, Индией и другими участниками блока, которые также сталкиваются с западными ограничениями. В долгосрочной перспективе это может способствовать созданию новой финансовой архитектуры, менее зависимой от доллара США. Однако успех интеграции зависит от способности Ирана адаптироваться к стандартам и требованиям банка.",
+        "analyse_fa": "پیوستن ایران به بانک توسعه جدید بریکس گامی مهم در استراتژی تهران برای تنوع‌بخشی به شراکت‌های اقتصادی و کاهش وابستگی به غرب است. این بانک، که توسط کشورهای بریکس تأسیس شده، ابزارهای مالی جایگزینی ارائه می‌دهد که در شرایط تحریم‌های آمریکا و اتحادیه اروپا بسیار حائز اهمیت است. برای ایران، این فرصت را فراهم می‌کند تا روابط خود را با چین، روسیه، هند و دیگر اعضای این بلوک که با محدودیت‌های غربی مواجه هستند، تقویت کند. در بلندمدت، این اقدام می‌تواند به ایجاد یک معماری مالی جدید، کمتر وابسته به دلار آمریکا، کمک کند. با این حال، موفقیت ایران در ادغام به توانایی این کشور در انطباق با استانداردها و الزامات بانک بستگی دارد.",
+        "analyse_ar": "إن انضمام إيران إلى بنك التنمية الجديد لبريكس هو خطوة مهمة ضمن استراتيجية طهران لتنويع الشراكات الاقتصادية وتقليل الاعتماد على الغرب. يقدم البنك، الذي أنشأته دول بريكس، أدوات مالية بديلة، وهو أمر بالغ الأهمية في ظل العقوبات الأمريكية والأوروبية. بالنسبة لإيران، تمثل هذه الخطوة فرصة لتعزيز العلاقات مع الصين وروسيا والهند وغيرها من أعضاء الكتلة الذين يواجهون أيضاً قيوداً غربية. على المدى الطويل، قد يساهم ذلك في إنشاء بنية مالية جديدة أقل اعتماداً على الدولار الأمريكي. ومع ذلك، فإن نجاح اندماج إيران يعتمد على قدرتها على التكيف مع معايير ومتطلبات البنك.",
         "categorie": "Géopolitique",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/394369/ukraine-strikes-another-major-russian-oil-hub.html",
-        "image": "https://cdn.newser.com/image/1704261-12-20260810075551.jpeg",
-        "date": "2026-08-10",
-        "pays": "russie",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-12-iran-central-bank-soon-join-brics-ndb.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/iran-central-bank-brics-3331-original.jpg",
+        "date": "2026-08-12",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur pétrolier russe",
-            "hausse": false
+            "label": "▲ Système financier alternatif",
+            "hausse": true
           },
           {
-            "label": "▼ Secteur énergétique européen",
-            "hausse": false
+            "label": "▲ Commerce régional",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur pétrolier russe",
-            "secteur_en": "Russian oil sector",
-            "secteur_zh": "俄罗斯石油行业",
-            "effet_fr": "Les attaques pourraient réduire la capacité de production russe, entraînant une baisse des exportations et des revenus pour Moscou.",
-            "effet_en": "Attacks could reduce Russian production capacity, leading to lower exports and revenues for Moscow.",
-            "effet_zh": "袭击可能减少俄罗斯生产能力，导致出口和莫斯科收入下降。",
-            "hausse": false
+            "secteur_fr": "Système financier alternatif",
+            "secteur_en": "Alternative financial system",
+            "secteur_zh": "替代金融体系",
+            "effet_fr": "L'Iran pourrait réduire sa dépendance aux banques occidentales, limitant l'impact des sanctions américaines sur son économie.",
+            "effet_en": "Iran could reduce its dependence on Western banks, limiting the impact of U.S. sanctions on its economy.",
+            "effet_zh": "伊朗可能减少对西方银行的依赖，限制美国制裁对其经济的影响。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur énergétique européen",
-            "secteur_en": "European energy sector",
-            "secteur_zh": "欧洲能源行业",
-            "effet_fr": "L'Europe pourrait subir une hausse des prix de l'énergie si les approvisionnements russes se raréfient, aggravant l'inflation.",
-            "effet_en": "Europe could face higher energy prices if Russian supplies dwindle, worsening inflation.",
-            "effet_zh": "如果俄罗斯供应减少，欧洲可能面临更高的能源价格，加剧通胀。",
-            "hausse": false
+            "secteur_fr": "Commerce régional",
+            "secteur_en": "Regional trade",
+            "secteur_zh": "区域贸易",
+            "effet_fr": "L'adhésion pourrait stimuler les échanges commerciaux entre l'Iran et les membres des BRICS, notamment via des accords en monnaies locales.",
+            "effet_en": "Membership could boost trade between Iran and BRICS members, particularly through local currency agreements.",
+            "effet_zh": "成员资格可能通过本币协议推动伊朗与金砖国家成员之间的贸易。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-11T13:00:58.166209"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-13T06:16:16.466928"
+      },
       {
         "id": "iran_77793",
         "titre": "Guerre américano-israélienne dévaste les femmes iraniennes",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-11T21:44:31.407378"
-      },
-      {
-        "id": "iran_852197",
-        "titre": "Prix du pétrole en hausse après tensions dans le détroit d'Ormuz",
-        "titre_en": "Oil prices surge amid Hormuz Strait tensions",
-        "titre_zh": "霍尔木兹海峡紧张局势导致油价飙升",
-        "titre_ru": "Цены на нефть взлетели из-за неопределённости в Ормузе",
-        "titre_fa": "قیمت نفت به دلیل ابهام در تنگه هرمز افزایش یافت",
-        "titre_ar": "ارتفعت أسعار النفط بسبب عدم اليقين في مضيق هرمز",
-        "titre_original": "Crude Prices Soar as Strait of Hormuz Reopening in Doubt",
-        "resume": "Les prix du pétrole brut et de l'essence ont fortement augmenté après des doutes sur la réouverture du détroit d'Ormuz. Ce passage stratégique, par lequel transite 20% du pétrole mondial, est menacé par les tensions géopolitiques. Les marchés anticipent une perturbation de l'approvisionnement.",
-        "resume_en": "Crude oil and gasoline prices surged after doubts arose about the reopening of the Strait of Hormuz. This strategic passage, through which 20% of the world's oil transits, is threatened by geopolitical tensions. Markets anticipate a supply disruption.",
-        "resume_zh": "在霍尔木兹海峡重新开放的问题出现疑虑后，原油和汽油价格急剧上涨。这个战略通道，全球20%的石油通过此处，受到地缘政治紧张局势的威胁。市场预期供应中断。",
-        "resume_ru": "Цены на нефть и бензин резко выросли в понедельник на фоне опасений по поводу возможного закрытия Ормузского пролива. Нефть WTI подорожала на 5,05%, а бензин RBOB — на 5,03%. Это связано с геополитической напряжённостью в регионе.",
-        "resume_fa": "قیمت نفت و بنزین در روز دوشنبه به دلیل نگرانی‌ها درباره احتمال بسته شدن تنگه هرمز به شدت افزایش یافت. نفت WTI 5.05 درصد و بنزین RBOB 5.03 درصد رشد کردند. این موضوع با تنش‌های ژئوپلیتیکی در منطقه مرتبط است.",
-        "resume_ar": "ارتفعت أسعار النفط والبنزين بشكل حاد يوم الاثنين بسبب المخاوف من احتمال إغلاق مضيق هرمز. ارتفعت أسعار النفط الخام WTI بنسبة 5.05%، بينما ارتفع البنزين RBOB بنسبة 5.03%. ويرتبط هذا الأمر بالتوترات الجيوسياسية في المنطقة.",
-        "analyse_detaillee": "Le détroit d'Ormuz est depuis des décennies un point de tension majeur dans les relations internationales, notamment en raison de son rôle clé dans le transport pétrolier. Les tensions entre l'Iran et les pays occidentaux, ainsi que les attaques récentes contre des navires, ont ravivé les craintes d'un blocage. Historiquement, les crises dans cette région ont toujours provoqué des chocs pétroliers, comme lors de la guerre Iran-Irak dans les années 1980. À court terme, la hausse des prix pourrait peser sur la croissance économique mondiale et augmenter l'inflation. À moyen terme, cela pourrait inciter les pays à diversifier leurs sources d'approvisionnement, réduisant leur dépendance au Moyen-Orient. À long terme, cela pourrait accélérer la transition vers les énergies renouvelables, bien que les pays dépendants du pétrole, comme la Chine, pourraient temporairement augmenter leurs réserves stratégiques. Les États-Unis, producteurs de pétrole, pourraient en profiter pour exporter davantage, tandis que l'Iran, sous sanctions, verrait ses revenus pétroliers augmenter mécaniquement. L'Arabie saoudite et les Émirats arabes unis pourraient jouer un rôle stabilisateur en augmentant leur production.",
-        "analyse_en": "The Strait of Hormuz has been a major point of tension in international relations for decades, notably due to its key role in oil transport. Tensions between Iran and Western countries, as well as recent attacks on ships, have revived fears of a blockade. Historically, crises in this region have always caused oil shocks, as seen during the Iran-Iraq War in the 1980s. In the short term, rising prices could weigh on global economic growth and increase inflation. In the medium term, this could encourage countries to diversify their supply sources, reducing their dependence on the Middle East. In the long term, this could accelerate the transition to renewable energies, although oil-dependent countries like China could temporarily increase their strategic reserves. The U.S., a major oil producer, could benefit by exporting more, while Iran, under sanctions, would see its oil revenues increase mechanically. Saudi Arabia and the United Arab Emirates could play a stabilizing role by increasing production.",
-        "analyse_zh": "霍尔木兹海峡几十年来一直是国际关系的主要紧张点，尤其是由于其在石油运输中的关键作用。伊朗与西方国家之间的紧张局势以及最近对船只的袭击，重新引发了人们对封锁的担忧。历史上，该地区的危机总是引发石油冲击，如20世纪80年代的两伊战争。短期内，价格上涨可能拖累全球经济增长并增加通胀。中期来看，这可能促使各国多元化供应来源，减少对中东的依赖。长期来看，这可能加速向可再生能源的转型，尽管像中国这样的石油依赖国可能会暂时增加其战略储备。作为主要石油生产国的美国可能因此受益，增加出口，而受制裁的伊朗将自动增加其石油收入。沙特阿拉伯和阿拉伯联合酋长国可能通过增加产量发挥稳定作用。",
-        "analyse_ru": "Рост цен на нефть и бензин стал реакцией на геополитические риски, связанные с возможным закрытием Ормузского пролива. Причины такой неопределённости кроются в напряжённости между Ираном и международными партнёрами. Последствия могут включать дефицит топлива и дальнейшее повышение цен на энергоносители. Перспективы зависят от дипломатических усилий и стабилизации обстановки. Позиции стран-экспортёров и импортёров нефти могут измениться в зависимости от развития ситуации.",
-        "analyse_fa": "افزایش قیمت نفت و بنزین واکنشی به ریسک‌های ژئوپلیتیکی مرتبط با احتمال بسته شدن تنگه هرمز بوده است. دلایل چنین عدم اطمینانی به تنش بین ایران و شرکای بین‌المللی بازمی‌گردد. پیامدهای آن می‌تواند شامل کمبود سوخت و افزایش بیشتر قیمت انرژی باشد. چشم‌اندازها به تلاش‌های دیپلماتیک و ثبات اوضاع بستگی دارد. مواضع کشورهای صادرکننده و واردکننده نفت ممکن است بسته به تحولات تغییر کند.",
-        "analyse_ar": "أدى الارتفاع الحاد في أسعار النفط والبنزين إلى رد فعل تجاه المخاطر الجيوسياسية المتعلقة باحتمال إغلاق مضيق هرمز. ترجع أسباب هذا عدم اليقين إلى التوترات بين إيران والشركاء الدوليين. قد تشمل العواقب نقص الوقود وارتفاع أكبر في أسعار الطاقة. تعتمد الآفاق على الجهود الدبلوماسية واستقرار الأوضاع. قد تتغير مواقف الدول المصدرة والمستوردة للنفط بناءً على تطور الأحداث.",
-        "categorie": "Économie",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f6ba83f863694dc3",
-        "image": "https://biztoc.com/cdn/f6ba83f863694dc3_s.webp",
-        "date": "2026-08-10",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Secteur pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur des énergies renouvelables",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier",
-            "secteur_en": "Oil sector",
-            "secteur_zh": "石油行业",
-            "effet_fr": "La hausse des prix pourrait augmenter les revenus des pays exportateurs comme l'Arabie saoudite et la Russie, mais pénaliser les importateurs comme l'Europe.",
-            "effet_en": "Rising prices could boost revenues for oil-exporting countries like Saudi Arabia and Russia but penalize importers like Europe.",
-            "effet_zh": "油价上涨可能增加沙特阿拉伯和俄罗斯等石油出口国的收入，但惩罚欧洲等进口国。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des énergies renouvelables",
-            "secteur_en": "Renewable energy sector",
-            "secteur_zh": "可再生能源行业",
-            "effet_fr": "Les tensions pourraient accélérer les investissements dans les énergies alternatives, réduisant la dépendance au pétrole.",
-            "effet_en": "Tensions could accelerate investments in alternative energies, reducing dependence on oil.",
-            "effet_zh": "紧张局势可能加速对替代能源的投资，减少对石油的依赖。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-11T20:04:14.147288"
       }
     ]
   },
