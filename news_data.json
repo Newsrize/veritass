@@ -1,7 +1,66 @@
 {
-  "last_updated": "13/08/2026 à 10h04",
+  "last_updated": "13/08/2026 à 11h46",
   "articles": {
     "monde": [
+      {
+        "id": "monde_230900",
+        "titre": "Ranchi étend son réseau de bus roses réservés aux femmes",
+        "titre_en": "Ranchi expands women-only Pink Bus network",
+        "titre_zh": "兰契扩大女性专用粉红巴士网络",
+        "titre_ru": "RMC to expand Pink Bus fleet, add new routes",
+        "titre_fa": "RMC to expand Pink Bus fleet, add new routes",
+        "titre_ar": "RMC to expand Pink Bus fleet, add new routes",
+        "titre_original": "RMC to expand Pink Bus fleet, add new routes",
+        "resume": "La municipalité de Ranchi lance un appel d'offres pour six nouveaux bus roses réservés aux femmes. Ces véhicules de 32 places viendront compléter le réseau existant. Les tarifs varieront selon la distance parcourue.",
+        "resume_en": "Ranchi Municipal Corporation has floated a tender for six new 32-seater Pink Buses for women-only routes. These will expand the existing network. Fares will vary by distance.",
+        "resume_zh": "兰契市政公司发布了六辆新32座粉红巴士的招标，用于女性专用线路。这些车辆将扩大现有网络。票价将根据距离而异。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce projet s'inscrit dans une politique plus large de sécurité et d'autonomisation des femmes en Inde, où les transports publics sont souvent perçus comme dangereux. Ranchi, capitale du Jharkhand, rejoint d'autres villes comme Delhi ou Mumbai qui ont adopté des bus réservés aux femmes. Historiquement, ces initiatives visent à répondre à une demande sociale croissante pour des espaces sûrs. À court terme, l'extension du réseau devrait améliorer la mobilité des femmes, réduisant leur dépendance aux transports informels. À moyen terme, cela pourrait encourager une plus grande participation des femmes au marché du travail. À long terme, ce modèle pourrait inspirer d'autres villes indiennes ou même asiatiques. Les acteurs locaux, comme les associations féministes, saluent cette initiative mais demandent des garanties sur la sécurité des conductrices. Les opérateurs privés, qui gèrent ces bus, pourraient voir leurs marges augmenter grâce à une demande stable. Enfin, ce projet reflète une tendance mondiale vers des transports plus inclusifs, bien que son financement reste un défi pour les municipalités.",
+        "analyse_en": "This project aligns with a broader policy of women's safety and empowerment in India, where public transport is often perceived as unsafe. Ranchi, the capital of Jharkhand, joins other cities like Delhi or Mumbai that have adopted women-only buses. Historically, these initiatives respond to growing social demand for safe spaces. In the short term, expanding the network should improve women's mobility, reducing their reliance on informal transport. Medium-term, this could encourage greater female participation in the labor market. Long-term, this model could inspire other Indian or even Asian cities. Local actors, such as feminist associations, welcome this initiative but demand guarantees on the safety of female drivers. Private operators, who manage these buses, could see their margins increase due to stable demand. Finally, this project reflects a global trend toward more inclusive transport, though its funding remains a challenge for municipalities.",
+        "analyse_zh": "该项目符合印度更广泛的女性安全与赋权政策，在印度公共交通常被视为不安全。兰契作为贾坎德邦首府，加入了德里或孟买等已采用女性专用巴士的城市行列。历史上，这些举措回应了对安全空间日益增长的社会需求。短期内，扩大网络应改善女性出行，减少其对非正规交通的依赖。中期来看，这可能鼓励更多女性参与劳动力市场。长期而言，此模式可能为其他印度或亚洲城市提供借鉴。当地行为者如女权组织对该倡议表示欢迎，但要求保障女司机的安全。经营这些巴士的私营运营商可能因稳定需求而增加利润率。最后，该项目反映了全球向更包容交通发展的趋势，尽管其资金对市政当局仍是一个挑战。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Société",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/ranchi/rmc-to-expand-pink-bus-fleet-add-new-routes/articleshow/133181499.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133181496,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-08-12",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Transport public",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur du tourisme local",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Transport public",
+            "secteur_en": "Public transport sector",
+            "secteur_zh": "公共交通行业",
+            "effet_fr": "L'extension du réseau de bus roses pourrait réduire la fréquentation des transports informels, affectant les revenus des opérateurs de rickshaws ou taxis locaux.",
+            "effet_en": "The expansion of the Pink Bus network could reduce ridership in informal transport, impacting revenues for rickshaw or local taxi operators.",
+            "effet_zh": "粉红巴士网络的扩大可能减少非正规交通的使用率，影响人力车或当地出租车运营商的收入。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur du tourisme local",
+            "secteur_en": "Local tourism sector",
+            "secteur_zh": "当地旅游业",
+            "effet_fr": "Une meilleure mobilité des femmes pourrait stimuler le tourisme interne, notamment vers des sites culturels ou commerciaux accessibles en bus.",
+            "effet_en": "Improved women's mobility could boost domestic tourism, particularly to cultural or commercial sites accessible by bus.",
+            "effet_zh": "女性出行便利性提升可能促进国内旅游，特别是前往可乘巴士到达的文化或商业景点。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-13T11:46:19.959783"
+      },
       {
         "id": "monde_619059",
         "titre": "Nouveaux acteurs pour la série Paramount+",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-12T01:48:40.416648"
-      },
-      {
-        "id": "monde_267583",
-        "titre": "Hayden Winks conseille pour les drafts 2026",
-        "titre_en": "Hayden Winks' 2026 fantasy draft picks",
-        "titre_zh": "Hayden Winks 2026选秀建议",
-        "titre_ru": "Лучшие выборы Хейдена для фэнтези-драфта 2026",
-        "titre_fa": "انتخاب‌های مورد علاقه هیندن برای درفت فانتزی 2026",
-        "titre_ar": "أفضل اختيارات هايدن لدور درافت الفانتازي 2026",
-        "titre_original": "Hayden's favorite pick in every round of 2026 fantasy drafts",
-        "resume": "Hayden Winks partage ses choix pour chaque tour des drafts de fantasy football 2026. Ses recommandations visent à optimiser les performances des équipes. Les joueurs ciblés pourraient influencer les stratégies des managers.",
-        "resume_en": "Hayden Winks shares his picks for every round of the 2026 fantasy football drafts. His recommendations aim to optimize team performance. Targeted players could influence managers' strategies.",
-        "resume_zh": "Hayden Winks分享2026年美式足球选秀每轮的选择。他的建议旨在优化球队表现。目标球员可能影响经理们的策略。",
-        "resume_ru": "Хейден Уинкс поделился своими любимыми выборами на каждый раунд драфта фэнтези-лиг на 2026 год. Его рекомендации помогут игрокам составить конкурентоспособную команду. Эксперт подчёркивает важность стратегического подхода при выборе игроков.",
-        "resume_fa": "هایدن وینکس لیست انتخاب‌های مورد علاقه خود را برای هر دور درفت فانتزی 2026 منتشر کرده است. توصیه‌های او به بازیکنان کمک می‌کند تا تیمی رقابتی بسازند. این کارشناس بر اهمیت رویکرد استراتژیک در انتخاب بازیکنان تأکید دارد.",
-        "resume_ar": "شارك هايدن وينكس قائمته باختياراته المفضلة لكل جولة في درافت الفانتازي 2026. تساعد توصياته اللاعبين على بناء فريق تنافسي. يؤكد الخبير على أهمية اتباع نهج استراتيجي عند اختيار اللاعبين.",
-        "analyse_detaillee": "Les drafts de fantasy football sont un phénomène culturel et économique majeur aux États-Unis et en Europe. Les enjeux incluent la gestion des budgets, l'analyse des performances des joueurs et la stratégie d'équipe. Les causes profondes résident dans l'engouement pour le sport et les paris virtuels. À court terme, les choix de Winks pourraient influencer les prix des joueurs sur les plateformes de fantasy. À moyen terme, une popularité accrue pourrait attirer plus d'investisseurs. À long terme, l'évolution des règles du football pourrait modifier les stratégies. Les acteurs clés sont les plateformes de fantasy, les joueurs et les médias sportifs. La position de Winks, expert reconnu, renforce sa crédibilité.",
-        "analyse_en": "Fantasy football drafts are a major cultural and economic phenomenon in the US and Europe. Stakes include budget management, player performance analysis, and team strategy. Root causes lie in the passion for sports and virtual betting. In the short term, Winks' picks could influence player prices on fantasy platforms. Medium-term, increased popularity could attract more investors. Long-term, changes in football rules could alter strategies. Key actors are fantasy platforms, players, and sports media. Winks' position as a recognized expert strengthens his credibility.",
-        "analyse_zh": "美式足球选秀是美国和欧洲的重要文化和经济现象。影响因素包括预算管理、球员表现分析和团队策略。深层原因在于对体育的热情和虚拟赌博。短期内，Winks的选择可能影响选秀平台上的球员价格。中期来看，日益增长的受欢迎程度可能吸引更多投资者。长期而言，足球规则的变化可能改变策略。主要行为者包括选秀平台、球员和体育媒体。Winks作为公认专家的地位增强了其可信度。",
-        "analyse_ru": "Контекст статьи связан с популярностью фэнтези-спорта, который позволяет болельщикам формировать виртуальные команды из реальных игроков. Причины публикации таких рекомендаций обусловлены стремлением экспертов повысить конкурентоспособность игроков и их вовлечённость в процесс. Последствия таких советов могут быть как позитивными — улучшение результатов команд, так и негативными — переоценка игроков. Перспективы развития фэнтези-спорта зависят от интереса болельщиков и качества аналитики. Позиции сторон: эксперты стремятся к объективности, а игроки — к максимальной выгоде.",
-        "analyse_fa": "زمینه این مقاله به محبوبیت ورزش فانتزی بازمی‌گردد که به هواداران اجازه می‌دهد تیم‌های مجازی از بازیکنان واقعی تشکیل دهند. دلایل انتشار چنین توصیه‌هایی به تلاش کارشناسان برای افزایش رقابت‌پذیری بازیکنان و مشارکت آنها در فرآیند مربوط می‌شود. پیامدهای این توصیه‌ها می‌تواند هم مثبت باشد — بهبود نتایج تیم‌ها — و هم منفی — بیش‌ارزیابی بازیکنان. چشم‌انداز توسعه ورزش فانتزی به علاقه هواداران و کیفیت تحلیل‌ها بستگی دارد. موضع بازیگران به این صورت است که کارشناسان به دنبال عینیت هستند و بازیکنان به دنبال حداکثر سود.",
-        "analyse_ar": "يرتبط السياق المقال بشعبية الرياضات الافتراضية، التي تسمح للمشجعين بتشكيل فرق افتراضية من لاعبي реальيين. ترجع أسباب نشر مثل هذه التوصيات إلى سعي الخبراء لزيادة تنافسية اللاعبين ومشاركتهم في العملية. يمكن أن تكون عواقب هذه التوصيات إيجابية — تحسين نتائج الفرق — أو سلبية — المبالغة في تقييم اللاعبين. ترتبط آفاق تطوير الرياضات الافتراضية باهتمام المشجعين وجودة التحليلات. أما مواقف الأطراف، فيسعى الخبراء إلى الموضوعية، بينما يسعى اللاعبون إلى تحقيق أقصى فائدة.",
-        "categorie": "Sport",
-        "source": "Yahoo Entertainment",
-        "url": "https://sports.yahoo.com/article/haydens-favorite-pick-in-every-round-of-2026-fantasy-drafts-233618548.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/5f4d644ef6db4a7cf1023757011cbe330d589d03bbf0a78255a632f2c2a0031d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fpuka-nacua-thumb_9212.png",
-        "date": "2026-08-10",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Plateformes de fantasy sport",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des paris sportifs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Plateformes de fantasy sport",
-            "secteur_en": "Fantasy sports platforms",
-            "secteur_zh": "幻想体育平台",
-            "effet_fr": "Les recommandations de Winks pourraient augmenter le trafic et les revenus des plateformes de fantasy.",
-            "effet_en": "Winks' recommendations could boost traffic and revenue for fantasy platforms.",
-            "effet_zh": "Winks的建议可能增加幻想体育平台的流量和收入。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des paris sportifs",
-            "secteur_en": "Sports betting market",
-            "secteur_zh": "体育博彩市场",
-            "effet_fr": "Les choix de Winks pourraient influencer les tendances de paris sur les joueurs sélectionnés.",
-            "effet_en": "Winks' picks could influence betting trends on selected players.",
-            "effet_zh": "Winks的选择可能影响对选定球员的博彩趋势。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-11T23:39:21.654616"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_177083",
+        "titre": "5 joueurs des Dolphins à surveiller lors d'un entraînement commun",
+        "titre_en": "5 Dolphins players to watch in joint practice with Commanders",
+        "titre_zh": "海豚队5名球员在与指挥官队联合训练中值得关注",
+        "titre_ru": "5 Dolphins to watch in joint practice with Commanders",
+        "titre_fa": "5 Dolphins to watch in joint practice with Commanders",
+        "titre_ar": "5 Dolphins to watch in joint practice with Commanders",
+        "titre_original": "5 Dolphins to watch in joint practice with Commanders",
+        "resume": "Les Miami Dolphins s'entraînent avec les Washington Commanders avant un match amical. Cinq joueurs clés des Dolphins sont sous les projecteurs. Cet entraînement commun permet d'évaluer les performances et les stratégies avant la saison régulière.",
+        "resume_en": "The Miami Dolphins are training with the Washington Commanders ahead of a friendly match. Five key Dolphins players are in the spotlight. This joint practice allows for performance and strategy evaluations before the regular season.",
+        "resume_zh": "迈阿密海豚队在友谊赛前与华盛顿指挥官队进行训练。五名海豚队关键球员受到关注。此次联合训练可在常规赛前评估表现和战略。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cet entraînement commun s'inscrit dans la préparation des deux équipes pour la saison NFL 2024, marquée par des attentes élevées pour les Dolphins. Historiquement, les matchs de pré-saison permettent d'ajuster les tactiques et de tester les nouveaux talents. À court terme, cet échange pourrait révéler des faiblesses défensives chez les Commanders ou des opportunités offensives pour les Dolphins. À moyen terme, les performances observées influenceront les cotes de paris et les attentes des fans. À long terme, une bonne impression lors de ces entraînements peut booster la valeur marchande des joueurs, notamment pour les agents sportifs. Les acteurs clés incluent les entraîneurs, qui cherchent à optimiser leurs systèmes, et les médias, qui amplifient les performances remarquables. Les franchises de la NFL utilisent ces événements pour renforcer leur image commerciale, notamment via les réseaux sociaux. Enfin, cet entraînement reflète la stratégie globale de la ligue pour maintenir l'engagement des supporters avant le coup d'envoi de la saison.",
+        "analyse_en": "This joint practice is part of the preparation for both teams ahead of the 2024 NFL season, with high expectations for the Dolphins. Historically, pre-season games allow for tactical adjustments and new talent testing. In the short term, this exchange could reveal defensive weaknesses in the Commanders or offensive opportunities for the Dolphins. Medium-term, observed performances will influence betting odds and fan expectations. Long-term, a strong impression during these practices can boost players' market value, especially for sports agents. Key actors include coaches, who aim to optimize their systems, and media, which amplifies standout performances. NFL franchises use these events to strengthen their commercial image, particularly through social media. Finally, this practice reflects the league's overall strategy to maintain fan engagement before the season kickoff.",
+        "analyse_zh": "此次联合训练是两队为2024年NFL赛季做准备的一部分，海豚队备受期待。历史上，季前赛让球队调整战术并测试新人。短期内，此次交流可能暴露指挥官队的防守弱点或为海豚队创造进攻机会。中期来看，表现将影响赌注赔率和球迷期望。长期而言，在此类训练中表现出色可能提升球员的市场价值，尤其是经纪人的利益。关键行为者包括寻求优化体系的教练和放大突出表现的媒体。NFL球队利用这些活动通过社交媒体加强商业形象。最后，此次训练反映了联盟在赛季开始前维持球迷参与度的整体战略。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "USA Today",
+        "url": "https://dolphinswire.usatoday.com/story/sports/nfl/dolphins/2026/08/12/dolphins-vs-commanders-joint-practice-5-dolphins-to-watch-wednesday/91268954007/",
+        "image": "https://s.yimg.com/lo/mysterio/api/2d6e06f5be30688f667f15c96e819447019d3c895074b5a56f409c846dc1f2d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmiami_dophins_wire_usa_today_sports_articles_974%2Fe0981b16439b4041bd38efdc7e0400db.jpg",
+        "date": "2026-08-12",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des paris sportifs",
+            "hausse": true
+          },
+          {
+            "label": "▲ Sponsoring et merchandising",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des paris sportifs",
+            "secteur_en": "Sports betting market",
+            "secteur_zh": "体育博彩市场",
+            "effet_fr": "Une performance remarquée lors de cet entraînement pourrait faire monter les cotes des joueurs concernés, influençant les mises des parieurs.",
+            "effet_en": "A standout performance during this practice could drive up the odds for the players involved, influencing bettors' wagers.",
+            "effet_zh": "此次训练中的突出表现可能推高相关球员的赔率，影响下注者的投注。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Sponsoring et merchandising",
+            "secteur_en": "Sponsorship and merchandising sector",
+            "secteur_zh": "赞助与商品行业",
+            "effet_fr": "Les joueurs performants pourraient voir leur valeur commerciale augmenter, entraînant des contrats de sponsoring plus lucratifs ou une hausse des ventes de maillots.",
+            "effet_en": "High-performing players could see their commercial value rise, leading to more lucrative sponsorship deals or increased jersey sales.",
+            "effet_zh": "表现出色的球员可能提升其商业价值，带来更丰厚的赞助合同或球衣销售增长。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-13T11:46:19.959794"
+      },
       {
         "id": "usa_986743",
         "titre": "Démocrates réclament des comptes au VA sur les soins",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-12T01:48:40.416685"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_993192",
-        "titre": "Trump hésite sur la stratégie face à l'Iran",
-        "titre_en": "Trump's shifting strategy on Iran",
-        "titre_zh": "特朗普对伊朗策略摇摆不定",
-        "titre_ru": "Всё идёт отлично! Но всё может измениться",
-        "titre_fa": "همه چیز عالی است! اما ممکن است تغییر کند",
-        "titre_ar": "الأمور تسير على ما يرام! لكن قد تتغير",
-        "titre_original": "Things Are Going Great!",
-        "resume": "Les responsables américains évoquent une possible reprise des frappes militaires contre l'Iran, mais Trump pourrait changer d'avis. Une pause dans les frappes a été observée pour calmer les tensions. La réponse iranienne reste un facteur clé.",
-        "resume_en": "US officials suggest military strikes on Iran could resume, but Trump may change his mind. A pause in strikes was implemented to ease tensions. Iran's response remains a critical factor.",
-        "resume_zh": "美国官员暗示可能会对伊朗发动军事打击，但特朗普可能改变主意。暂停打击是为了缓和紧张局势。伊朗的回应仍是关键因素。",
-        "resume_ru": "Официальные лица США отмечают, что Дональд Трамп может изменить свою стратегию в отношении Ирана, особенно если Тегеран ответит агрессивно. Они считают, что временная приостановка военных ударов может помочь снизить напряжённость. Однако ситуация остаётся нестабильной и зависит от реакции Ирана.",
-        "resume_fa": "مقامات آمریکایی می‌گویند ترامپ ممکن است استراتژی خود در قبال ایران را تغییر دهد، به خصوص اگر تهران واکنش تهاجمی نشان دهد. آنها معتقدند که توقف موقت حملات نظامی می‌تواند به کاهش تنش کمک کند. با این حال، وضعیت همچنان ناپایدار است و به واکنش ایران بستگی دارد.",
-        "resume_ar": "أفادت مصادر أمريكية أن ترامب قد يغير استراتيجيته تجاه إيران، خاصة إذا ردّ النظام الإيراني بشكل عدواني. ويرى المسؤولون أن التوقف المؤقت للهجمات العسكرية قد يساعد في تخفيف حدة التوتر. لكن الوضع لا يزال غير مستقر ويعتمد على رد فعل إيران.",
-        "analyse_detaillee": "La relation entre les États-Unis et l'Iran reste tendue depuis la sortie de l'accord nucléaire en 2018 sous Trump. Les enjeux incluent la stabilité régionale, la sécurité énergétique et la crédibilité américaine. Les causes profondes remontent aux tensions historiques post-révolution iranienne de 1979. À court terme, une escalade militaire pourrait déstabiliser le Moyen-Orient. À moyen terme, une guerre prolongée affecterait les marchés pétroliers. À long terme, une confrontation directe pourrait redéfinir les alliances géopolitiques. Les acteurs clés sont les États-Unis, l'Iran, Israël et les pays du Golfe. La position de Trump, imprévisible, ajoute une dimension supplémentaire.",
-        "analyse_en": "US-Iran relations have been tense since Trump withdrew from the nuclear deal in 2018. Key stakes include regional stability, energy security, and American credibility. Root causes trace back to post-1979 Iranian revolution tensions. In the short term, military escalation could destabilize the Middle East. Medium-term, prolonged conflict would impact oil markets. Long-term, direct confrontation could reshape geopolitical alliances. Key actors are the US, Iran, Israel, and Gulf countries. Trump's unpredictability adds another layer of complexity.",
-        "analyse_zh": "自2018年特朗普退出伊核协议以来，美伊关系持续紧张。主要影响包括地区稳定、能源安全和美国信誉。深层原因可追溯至1979年伊朗革命后的紧张局势。短期内，军事升级可能破坏中东稳定。中期来看，长期冲突将影响石油市场。长期而言，直接对抗可能重塑地缘政治联盟。主要行为者包括美国、伊朗、以色列和海湾国家。特朗普的不可预测性增加了复杂性。",
-        "analyse_ru": "Контекст ситуации связан с нестабильной внешней политикой США при администрации Трампа, которая характеризуется импульсивными решениями и резкими изменениями курса. Причины приостановки военных ударов могут быть связаны с дипломатическими инициативами или стремлением избежать эскалации конфликта. Последствия такой политики могут быть двоякими: с одной стороны, снижение напряжённости, с другой — ослабление позиций США в регионе. Перспективы зависят от реакции Ирана и внутренних решений в США. Позиции сторон остаются противоположными: США стремятся к сдерживанию, а Иран — к укреплению своего влияния.",
-        "analyse_fa": "زمینه این وضعیت به سیاست خارجی ناپایدار آمریکا در دوره ترامپ بازمی‌گردد که با تصمیم‌گیری‌های ناگهانی و تغییرات ناگهانی در استراتژی شناخته می‌شود. دلایل توقف حملات نظامی ممکن است به ابتکارات دیپلماتیک یا تلاش برای جلوگیری از تشدید درگیری‌ها مربوط باشد. پیامدهای این سیاست می‌تواند دوگانه باشد: از یک سو کاهش تنش و از سوی دیگر تضعیف موقعیت آمریکا در منطقه. چشم‌اندازها به واکنش ایران و تصمیمات داخلی آمریکا بستگی دارد. موضع بازیگران به این صورت است که آمریکا به دنبال مهار است و ایران به تقویت نفوذ خود.",
-        "analyse_ar": "يرتبط السياق الحالي بسياسة خارجية غير مستقرة للولايات المتحدة في عهد ترامب، والتي تتميز بقرارات متسرعة وتغييرات حادة في الاستراتيجية. قد ترجع أسباب التوقف المؤقت للهجمات العسكرية إلى مبادرات دبلوماسية أو رغبة في تجنب تصعيد الصراع. يمكن أن تكون عواقب هذه السياسة مزدوجة: من جهة، تخفيف حدة التوتر، ومن جهة أخرى، ضعف موقف الولايات المتحدة في المنطقة. ترتبط الآفاق برد فعل إيران والقرارات الداخلية في الولايات المتحدة. أما مواقف الأطراف، فتسعى الولايات المتحدة إلى احتواء إيران، بينما يسعى النظام الإيراني إلى تعزيز نفوذه.",
-        "categorie": "Géopolitique",
-        "source": "Lawyersgunsmoneyblog.com",
-        "url": "https://www.lawyersgunsmoneyblog.com/2026/08/things-are-going-great",
-        "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/07/Strait_of_Hormuz_and_Musandam_Peninsula_MODIS_2018-12-10.jpg",
-        "date": "2026-08-10",
-        "pays": "usa",
+        "id": "chine_767428",
+        "titre": "Zhu Rongji, héritier des Ming et architecte de la Chine moderne",
+        "titre_en": "Zhu Rongji: Ming descendant who shaped modern China",
+        "titre_zh": "朱镕基：明朝后裔与现代中国的缔造者",
+        "titre_ru": "Zhu Rongji, the rumoured descendant of Ming dynasty founder who helped transform China into a global economic powerhouse",
+        "titre_fa": "Zhu Rongji, the rumoured descendant of Ming dynasty founder who helped transform China into a global economic powerhouse",
+        "titre_ar": "Zhu Rongji, the rumoured descendant of Ming dynasty founder who helped transform China into a global economic powerhouse",
+        "titre_original": "Zhu Rongji, the rumoured descendant of Ming dynasty founder who helped transform China into a global economic powerhouse",
+        "resume": "Zhu Rongji, ancien Premier ministre chinois, a mené des réformes économiques majeures dans les années 1990. Il a restructuré les entreprises d'État et encouragé la propriété privée, accélérant la transformation de la Chine en puissance mondiale. Son héritage économique reste central dans l'histoire contemporaine du pays.",
+        "resume_en": "Zhu Rongji, China's former premier, spearheaded major economic reforms in the 1990s. He restructured state-owned enterprises and promoted private ownership, accelerating China's rise as a global power. His economic legacy remains pivotal in the country's modern history.",
+        "resume_zh": "朱镕基作为中国前总理，在1990年代推动了重大经济改革。他重组国有企业并推动私有化，加速了中国崛起为全球强国。他的经济遗产在现代中国历史中仍具有重要意义。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Zhu Rongji, né en 1928, incarne la transition entre la Chine maoïste et l'ère des réformes de Deng Xiaoping. Ses réformes des entreprises d'État, souvent brutales, ont permis de réduire les pertes financières mais ont aussi accru le chômage urbain. En promouvant la propriété privée, il a jeté les bases du capitalisme d'État actuel. À court terme, ces mesures ont stabilisé l'économie mais ont creusé les inégalités sociales. À moyen terme, elles ont positionné la Chine comme atelier du monde, attirant les investissements étrangers. À long terme, son héritage structure l'économie chinoise, bien que son modèle soit aujourd'hui remis en question face aux tensions commerciales. Les acteurs économiques, notamment les conglomérats publics, ont dû s'adapter à cette nouvelle donne. Les réformes ont aussi influencé les politiques industrielles d'autres pays émergents. Enfin, son rôle dans l'adhésion de la Chine à l'OMC en 2001 reste un jalon historique.",
+        "analyse_en": "Zhu Rongji, born in 1928, embodies China's transition from Maoist China to Deng Xiaoping's reform era. His reforms of state-owned enterprises, often harsh, reduced financial losses but increased urban unemployment. By promoting private ownership, he laid the foundations for today's state capitalism. In the short term, these measures stabilized the economy but deepened social inequalities. In the medium term, they positioned China as the world's factory, attracting foreign investment. Long-term, his legacy shapes China's economy, though his model is now questioned amid trade tensions. Economic actors, particularly state conglomerates, had to adapt to this new reality. His reforms also influenced industrial policies in other emerging countries. Finally, his role in China's WTO accession in 2001 remains a historic milestone.",
+        "analyse_zh": "朱镕基（1928年生）代表了中国从毛泽东时代向邓小平改革时代的过渡。他对国有企业的改革（常常激进）减少了财政损失，但增加了城市失业。通过推动私有化，他奠定了今日国家资本主义的基础。短期内，这些措施稳定了经济，但加深了社会不平等。中期来看，它们将中国定位为世界工厂，吸引了外国投资。长期而言，他的遗产塑造了中国经济，尽管在贸易紧张局势下其模式如今受到质疑。经济行为者，特别是国有集团，不得不适应这一新现实。他的改革还影响了其他新兴国家的工业政策。最后，他于2001年推动中国加入WTO的作用仍是历史性的里程碑。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Histoire économique",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/zhu-rongji-the-rumoured-descendant-of-ming-dynasty-founder-who-helped-transform-china-into-a-global-economic-powerhouse/articleshow/133181346.cms",
+        "image": "https://img.etimg.com/thumb/msid-133181512,width-1200,height-630,imgsize-107942,overlay-economictimes/articleshow.jpg",
+        "date": "2026-08-12",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché pétrolier",
+            "label": "▲ Secteur bancaire",
             "hausse": true
           },
           {
-            "label": "▼ Secteur aéronautique",
+            "label": "▼ Marché immobilier",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Une escalade militaire pourrait faire monter les prix du pétrole en perturbant les approvisionnements.",
-            "effet_en": "Military escalation could drive up oil prices by disrupting supply chains.",
-            "effet_zh": "军事升级可能通过扰乱供应链推高油价。",
+            "secteur_fr": "Secteur bancaire",
+            "secteur_en": "Banking sector",
+            "secteur_zh": "银行业",
+            "effet_fr": "Les réformes de Zhu Rongji ont accru la demande de crédits privés, stimulant les banques commerciales mais aussi leur exposition aux risques.",
+            "effet_en": "Zhu Rongji's reforms increased demand for private credit, boosting commercial banks but also their exposure to risks.",
+            "effet_zh": "朱镕基的改革增加了对私人信贷的需求，推动了商业银行发展，但也增加了其风险敞口。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur aéronautique",
-            "secteur_en": "Aerospace sector",
-            "secteur_zh": "航空航天行业",
-            "effet_fr": "Les tensions accrues pourraient entraîner une hausse des coûts logistiques pour les compagnies aériennes.",
-            "effet_en": "Increased tensions could lead to higher logistics costs for airlines.",
-            "effet_zh": "紧张局势加剧可能导致航空公司物流成本上升。",
+            "secteur_fr": "Marché immobilier",
+            "secteur_en": "Real estate market",
+            "secteur_zh": "房地产市场",
+            "effet_fr": "La promotion de la propriété privée a dynamisé le marché immobilier, créant une bulle spéculative dans les grandes villes.",
+            "effet_en": "The promotion of private ownership revitalized the real estate market, creating a speculative bubble in major cities.",
+            "effet_zh": "推动私有化重振了房地产市场，在大城市形成了投机泡沫。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-11T23:39:21.654592"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-13T11:46:19.959737"
+      },
       {
         "id": "chine_392448",
         "titre": "Tensions frontalières Inde-Chine",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-11T17:07:13.416590"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_81837",
-        "titre": "Deux décès relancent le débat sur la thérapie génique",
-        "titre_en": "Two Deaths Reignite Gene Therapy Debate in China",
-        "titre_zh": "两起死亡事件重燃中国基因治疗争议",
-        "titre_ru": "Две смерти в Китае возобновили дебаты о генной терапии",
-        "titre_fa": "دو مرگ در چین بحث‌های مربوط به ژن‌درمانی را دوباره زنده کرد",
-        "titre_ar": "أعاد وفاتان في الصين الجدل حول العلاج الجيني",
-        "titre_original": "Two Deaths In China Reopen Gene Therapy Debates",
-        "resume": "Deux décès non divulgués lors d'essais de thérapie génique en Chine ont ravivé les inquiétudes sur la sécurité et la transparence des essais cliniques. Ces incidents soulèvent des questions sur la régulation des biotechnologies dans le pays. Ils pourraient freiner l'innovation dans ce domaine.",
-        "resume_en": "Two undisclosed deaths in Chinese gene-editing trials have reignited concerns over clinical trial safety and transparency. These incidents raise questions about biotech regulation in the country. They could hinder innovation in this field.",
-        "resume_zh": "中国基因编辑试验中两起未披露的死亡事件重燃对临床试验安全性和透明度的担忧。这些事件引发对该国生物技术监管的质疑。可能阻碍该领域创新。",
-        "resume_ru": "В Китае произошли две смерти участников клинических испытаний генной терапии, что вызвало новые опасения по поводу безопасности таких исследований. Власти страны не раскрывают подробностей, что усиливает критику в адрес надзора за испытаниями. Этот инцидент может замедлить развитие генной терапии в мире.",
-        "resume_fa": "در چین دو مرگ در آزمایش‌های بالینی ژن‌درمانی رخ داد که نگرانی‌های جدیدی درباره ایمنی این تحقیقات ایجاد کرد. مقامات چینی جزئیات را فاش نمی‌کنند، که انتقاد از نظارت بر آزمایش‌ها را تشدید می‌کند. این حادثه ممکن است توسعه ژن‌درمانی در جهان را کند کند.",
-        "resume_ar": "حدث في الصين وفاتان في تجارب سريرية للعلاج الجيني، مما أثار مخاوف جديدة بشأن سلامة هذه الأبحاث. السلطات الصينية لم تكشف عن تفاصيل، مما عزز الانتقادات الموجهة إلى الإشراف على التجارب. قد يبطئ هذا الحادث تطور العلاج الجيني في العالم.",
-        "analyse_detaillee": "La Chine a longtemps été perçue comme un leader en biotechnologies, mais ces décès rappellent les risques liés aux essais cliniques accélérés. Les enjeux principaux concernent la protection des patients et la crédibilité scientifique du pays. Les causes profondes incluent une course à l'innovation et des lacunes dans la supervision éthique. À court terme, ces incidents pourraient entraîner un moratoire sur certains essais. À moyen terme, ils pourraient renforcer les contrôles réglementaires. À long terme, ils pourraient ralentir l'adoption de nouvelles thérapies. Les acteurs concernés incluent les autorités sanitaires, les investisseurs et les scientifiques.",
-        "analyse_en": "China has long been seen as a leader in biotechnology, but these deaths highlight risks tied to accelerated clinical trials. Key stakes involve patient protection and the country's scientific credibility. Root causes include an innovation race and gaps in ethical oversight. Short-term, these incidents could lead to a moratorium on certain trials. Medium-term, they may strengthen regulatory controls. Long-term, they could slow the adoption of new therapies. Key actors include health authorities, investors, and scientists.",
-        "analyse_zh": "中国长期被视为生物技术领导者，但这些死亡事件凸显加速临床试验的风险。主要影响涉及患者保护和该国科学信誉。深层原因包括创新竞赛和道德监管缺口。短期内，这些事件可能导致某些试验暂停。中期可能加强监管控制。长期可能减缓新疗法采用。相关方包括卫生当局、投资者和科学家。",
-        "analyse_ru": "Случаи смерти в китайских клинических испытаниях генной терапии стали тревожным сигналом для мировой медицинской науки. Причины трагедии связаны с недостаточной прозрачностью и контролем за исследованиями, что вызывает вопросы о безопасности новых методов лечения. Последствия могут включать ужесточение международных стандартов и временное замедление темпов внедрения генной терапии. Перспективы зависят от результатов расследования и реакции регуляторов. Позиции сторон разделились: сторонники инноваций призывают к осторожности, а критики требуют полного запрета на подобные эксперименты.",
-        "analyse_fa": "موارد مرگ در آزمایش‌های بالینی ژن‌درمانی در چین، زنگ خطری برای علم پزشکی جهانی بوده است. دلایل این فاجعه به فقدان شفافیت و کنترل کافی در تحقیقات مربوط می‌شود که سؤالاتی درباره ایمنی روش‌های درمانی جدید ایجاد می‌کند. پیامدهای این حادثه می‌تواند شامل تشدید استانداردهای بین‌المللی و کند شدن موقت پیشرفت‌های ژن‌درمانی باشد. چشم‌اندازها به نتایج تحقیقات و واکنش تنظیم‌کنندگان بستگی دارد. مواضع طرفین متفاوت است: طرفداران نوآوری‌ها خواستار احتیاط هستند، در حالی که منتقدان خواستار ممنوعیت کامل چنین آزمایش‌هایی هستند.",
-        "analyse_ar": "أصبحت حالات الوفاة في التجارب السريرية للعلاج الجيني في الصين إشارة تحذيرية للعلم الطبي العالمي. ترتبط أسباب المأساة بعدم الشفافية والرقابة الكافية على الأبحاث، مما يثير تساؤلات حول سلامة طرق العلاج الجديدة. قد تشمل عواقب هذا الحادث تشديد المعايير الدولية وإبطاء مؤقت لتقدم العلاج الجيني. تعتمد الآفاق على نتائج التحقيق ورد فعل الجهات التنظيمية. تختلف مواقف الأطراف: يدعو مؤيدو الابتكار إلى الحذر، بينما يطالب المعارضون بحظر كامل لهذه التجارب.",
-        "categorie": "Santé / Science",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/williamhaseltine/2026/08/10/two-deaths-in-china-reopen-gene-therapy-debates/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a79f43adb216a3986a74b7b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "date": "2026-08-10",
-        "pays": "chine",
+        "id": "russie_657271",
+        "titre": "L'Ukraine manque de missiles Patriot face à la pression russe",
+        "titre_en": "Ukraine short on Patriot missiles amid Russian pressure",
+        "titre_zh": "乌克兰缺乏爱国者导弹面对俄压力",
+        "titre_ru": "Short on US Patriot missiles, Ukraine looks for alternatives",
+        "titre_fa": "Short on US Patriot missiles, Ukraine looks for alternatives",
+        "titre_ar": "Short on US Patriot missiles, Ukraine looks for alternatives",
+        "titre_original": "Short on US Patriot missiles, Ukraine looks for alternatives",
+        "resume": "L'Ukraine fait face à une pénurie de missiles Patriot, essentiels pour contrer les attaques russes. Kyiv cherche des alternatives locales et européennes, mais leur production prend du temps. La dépendance aux importations aggrave la vulnérabilité du pays face aux frappes balistiques.",
+        "resume_en": "Ukraine faces a shortage of Patriot missiles, crucial to counter Russian attacks. Kyiv is seeking local and European alternatives, but production takes time. Dependence on imports worsens the country's vulnerability to ballistic strikes.",
+        "resume_zh": "乌克兰面临爱国者导弹短缺，这对抗击俄罗斯袭击至关重要。基辅正寻求本地和欧洲替代方案，但生产需要时间。对进口的依赖加剧了该国对弹道导弹打击的脆弱性。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La crise des missiles Patriot s'inscrit dans le prolongement de l'invasion russe de 2022, qui a révélé les faiblesses de la défense ukrainienne. Les États-Unis, principal fournisseur, limitent leurs livraisons pour éviter une escalade, créant une dépendance stratégique. Les alternatives européennes, comme le système IRIS-T, sont prometteuses mais insuffisantes à court terme. À moyen terme, l'Ukraine pourrait développer sa propre industrie de défense, réduisant sa vulnérabilité. À long terme, cette crise pourrait accélérer l'intégration de l'Ukraine à l'OTAN, malgré les réticences de certains membres. La Russie, en ciblant les infrastructures critiques, cherche à épuiser les ressources ukrainiennes. Les acteurs européens, divisés sur le soutien militaire, peinent à coordonner une réponse unifiée. Enfin, cette situation met en lumière les limites de l'aide occidentale face à une guerre prolongée.",
+        "analyse_en": "The Patriot missile crisis stems from Russia's 2022 invasion, exposing Ukraine's defense weaknesses. The U.S., the main supplier, limits deliveries to avoid escalation, creating a strategic dependency. European alternatives like the IRIS-T system are promising but insufficient in the short term. Medium-term, Ukraine could develop its own defense industry, reducing vulnerability. Long-term, this crisis might accelerate Ukraine's NATO integration, despite some members' reluctance. Russia, by targeting critical infrastructure, aims to deplete Ukrainian resources. European actors, divided on military support, struggle to coordinate a unified response. Finally, this situation highlights the limits of Western aid in a prolonged war.",
+        "analyse_zh": "爱国者导弹危机源于2022年俄罗斯入侵，暴露了乌克兰防务的弱点。美国作为主要供应国限制交付以避免升级，形成战略依赖。欧洲替代方案如IRIS-T系统前景可期但短期不足。中期来看，乌克兰可能发展本土防务工业，降低脆弱性。长期而言，这场危机可能加速乌克兰加入北约，尽管某些成员国持保留态度。俄罗斯通过瞄准关键基础设施试图耗尽乌克兰资源。欧洲行为者在军事支持上分歧严重，难以协调统一回应。最后，这场危机凸显了西方援助在长期战争中的局限性。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784",
+        "image": "https://static.dw.com/image/78332858_6.jpg",
+        "date": "2026-08-12",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Marché des biotechnologies",
+            "label": "▼ Défense et armement",
             "hausse": false
           },
           {
-            "label": "▼ Régulation pharmaceutique",
+            "label": "▼ Aide internationale et dette publique",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des biotechnologies",
-            "secteur_en": "Biotech market",
-            "secteur_zh": "生物技术市场",
-            "effet_fr": "Les investisseurs pourraient se montrer plus prudents, retardant les financements dans les startups de thérapie génique.",
-            "effet_en": "Investors may become more cautious, delaying funding for gene therapy startups.",
-            "effet_zh": "投资者可能变得更加谨慎，推迟对基因治疗初创公司的融资。",
+            "secteur_fr": "Défense et armement",
+            "secteur_en": "Defense and armament sector",
+            "secteur_zh": "国防与军备行业",
+            "effet_fr": "La pénurie de missiles Patriot force l'Ukraine à réallouer des budgets vers des solutions locales, réduisant les investissements dans d'autres secteurs clés.",
+            "effet_en": "The Patriot missile shortage forces Ukraine to reallocate budgets toward local solutions, reducing investments in other key sectors.",
+            "effet_zh": "爱国者导弹短缺迫使乌克兰重新分配预算用于本地解决方案，减少对其他关键行业的投资。",
             "hausse": false
           },
           {
-            "secteur_fr": "Régulation pharmaceutique",
-            "secteur_en": "Pharmaceutical regulation",
-            "secteur_zh": "制药监管",
-            "effet_fr": "Les autorités pourraient imposer des audits plus stricts, augmentant les coûts de conformité pour les laboratoires.",
-            "effet_en": "Authorities may impose stricter audits, increasing compliance costs for labs.",
-            "effet_zh": "当局可能实施更严格的审计，增加实验室的合规成本。",
+            "secteur_fr": "Aide internationale et dette publique",
+            "secteur_en": "International aid and public debt",
+            "secteur_zh": "国际援助与公共债务",
+            "effet_fr": "L'augmentation des dépenses militaires, liée à la recherche d'alternatives, creuse le déficit public et alourdit la dette ukrainienne, dépendante des prêts étrangers.",
+            "effet_en": "Increased military spending, tied to the search for alternatives, widens the public deficit and burdens Ukraine's debt, reliant on foreign loans.",
+            "effet_zh": "与寻找替代方案相关的军费增加扩大了公共赤字，加重了乌克兰依赖外国贷款的债务负担。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-11T16:00:44.101616"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-13T11:46:19.959759"
+      },
       {
         "id": "russie_884821",
         "titre": "Poutine menace de saisir des navires européens",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-11T19:01:04.378370"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_616394",
-        "titre": "L'Europe se prépare à une ère de guerre",
-        "titre_en": "Europe Prepares for a New Era of War",
-        "titre_zh": "欧洲准备进入战争新时代",
-        "titre_ru": "Европа готовится к новой эпохе войны",
-        "titre_fa": "اروپا برای عصر جدید جنگ آماده می‌شود",
-        "titre_ar": "أوروبا تستعد لعصر جديد من الحرب",
-        "titre_original": "Why Europe Is Preparing for a New Era of War | WSJ",
-        "resume": "L'Europe se prépare à une nouvelle ère de conflits, poussée par la guerre en Ukraine et les tensions dans l'Arctique. Le Danemark a prolongé la conscription à 11 mois. Cette militarisation reflète une réponse aux menaces perçues de la Russie et de la Chine.",
-        "resume_en": "Europe is bracing for a new era of conflict, driven by the war in Ukraine and Arctic tensions. Denmark extended conscription to 11 months. This militarization reflects responses to perceived threats from Russia and China.",
-        "resume_zh": "欧洲正在为一个新的冲突时代做准备，受乌克兰战争和北极紧张局势推动。丹麦将义务兵役延长至11个月。这种军事化反映了对俄罗斯和中国威胁的回应。",
-        "resume_ru": "Из-за войны в Украине и растущих угроз в Арктике Европа начинает новую фазу военной подготовки. Дания продлила срок службы по призыву до 11 месяцев. Это часть стратегии по укреплению обороны ЕС.",
-        "resume_fa": "به دلیل جنگ در اوکراین و تهدیدات فزاینده در قطب شمال، اروپا وارد مرحله جدیدی از آماده‌سازی نظامی می‌شود. دانمارک دوره خدمت وظیفه را به ۱۱ ماه افزایش داد. این بخشی از استراتژی تقویت دفاع اتحادیه اروپا است.",
-        "resume_ar": "بسبب الحرب في أوكرانيا والمخاطر المتزايدة في القطب الشمالي، تدخل أوروبا مرحلة جديدة من الاستعداد العسكري. مددت الدنمارك فترة التجنيد الإلزامي إلى 11 شهراً.这是欧盟加强防务战略的一部分。",
-        "analyse_detaillee": "La guerre en Ukraine a marqué un tournant dans la politique de sécurité européenne depuis 2022, rappelant les tensions de la Guerre froide. Historiquement, l'Europe a alterné entre périodes de désarmement et de réarmement, notamment après les deux guerres mondiales. Les enjeux incluent la souveraineté européenne, la dissuasion nucléaire et la stabilité régionale. Les causes profondes résident dans l'agressivité russe, la montée de la Chine et l'affaiblissement des alliances transatlantiques. À court terme, cela pourrait entraîner une hausse des budgets de défense et une relocalisation industrielle. À moyen terme, cela risque de fragmenter l'UE sur les questions de sécurité. À long terme, cela pourrait mener à une Europe de la défense autonome ou, au contraire, à une dépendance accrue envers les États-Unis. Les acteurs principaux sont l'UE, la Russie, la Chine, les États-Unis et les pays européens comme la Pologne ou les pays baltes.",
-        "analyse_en": "The Ukraine war marked a turning point in European security policy since 2022, echoing Cold War tensions. Historically, Europe has alternated between disarmament and rearmament periods, notably after the two world wars. Stakes include European sovereignty, nuclear deterrence, and regional stability. Root causes involve Russian aggression, China's rise, and weakening transatlantic alliances. Short-term consequences may include increased defense budgets and industrial relocation. Medium-term risks include EU fragmentation on security issues. Long-term outcomes could lead to an autonomous European defense or increased dependence on the US. Key actors are the EU, Russia, China, the US, and European countries like Poland or the Baltics.",
-        "analyse_zh": "自2022年以来，乌克兰战争标志着欧洲安全政策的转折点，类似于冷战紧张局势。历史上，欧洲在裁军与重整军备之间交替，特别是在两次世界大战后。关键在于欧洲主权、核威慑和地区稳定。根本原因在于俄罗斯的侵略、中国的崛起和跨大西洋联盟的弱化。短期后果可能包括国防预算增加和工业回流。中期风险包括欧盟在安全问题上分裂。长期可能导致欧洲自主防务，或相反加深对美国的依赖。主要行为者包括欧盟、俄罗斯、中国、美国以及波兰等欧洲国家。",
-        "analyse_ru": "Контекст связан с геополитическими изменениями в Европе после российского вторжения в Украину. Причины включают рост военных угроз и необходимость коллективной безопасности. Последствия могут включать увеличение военных бюджетов и изменение стратегий обороны. Перспективы зависят от стабильности в регионе и реакции НАТО. Позиции сторон: Европа усиливает сотрудничество, Россия воспринимает это как угрозу, США поддерживают инициативы ЕС.",
-        "analyse_fa": "زمینه به تغییرات ژئوپلیتیکی در اروپا پس از حمله روسیه به اوکراین مربوط است. دلایل شامل افزایش تهدیدات نظامی و لزوم امنیت جمعی است. پیامدها می‌تواند شامل افزایش بودجه‌های نظامی و تغییر استراتژی‌های دفاعی باشد. چشم‌اندازها به ثبات منطقه و واکنش ناتو بستگی دارد. موضع بازیگران: اروپا همکاری را تقویت می‌کند، روسیه این اقدامات را تهدید تلقی می‌کند، آمریکا از ابتکارات اتحادیه اروپا حمایت می‌کند.",
-        "analyse_ar": "السياق متعلق بالتغيرات الجيوسياسية في أوروبا بعد الغزو الروسي لأوكرانيا. الأسباب تشمل تصاعد التهديدات العسكرية وضرورة الأمن الجماعي. العواقب قد تشمل زيادة الميزانيات العسكرية وتغيير استراتيجيات الدفاع. الآفاق تعتمد على استقرار المنطقة ورد فعل حلف الناتو. مواقف الأطراف: تعزز أوروبا التعاون، ترى روسيا ذلك تهديداً، تدعم الولايات المتحدة مبادرات الاتحاد الأوروبي.",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/432724e9907642cc",
-        "image": "https://biztoc.com/cdn/432724e9907642cc_s.webp",
-        "date": "2026-08-10",
-        "pays": "russie",
+        "id": "iran_996518",
+        "titre": "Le Japon appelle l'Iran à désamorcer les tensions régionales",
+        "titre_en": "Japan urges Iran to de-escalate regional tensions",
+        "titre_zh": "日本敦促伊朗缓和地区紧张局势",
+        "titre_ru": "Takaichi Urges Iran to Ease Tensions in Phone Call With President",
+        "titre_fa": "Takaichi Urges Iran to Ease Tensions in Phone Call With President",
+        "titre_ar": "Takaichi Urges Iran to Ease Tensions in Phone Call With President",
+        "titre_original": "Takaichi Urges Iran to Ease Tensions in Phone Call With President",
+        "resume": "Le Premier ministre japonais Sanae Takaichi a appelé le président iranien Masoud Pezeshkian à réduire les tensions militaires au Moyen-Orient. Cette démarche s'inscrit dans la stratégie japonaise de stabilisation des approvisionnements énergétiques. Le Japon cherche à préserver ses intérêts économiques dans une région instable.",
+        "resume_en": "Japanese Prime Minister Sanae Takaichi called on Iranian President Masoud Pezeshkian to reduce military tensions in the Middle East. This move aligns with Japan's strategy to stabilize energy supplies. Japan aims to protect its economic interests in an unstable region.",
+        "resume_zh": "日本首相高市早苗呼吁伊朗总统马苏德·佩泽希坎降低中东军事紧张局势。此举符合日本稳定能源供应的战略。日本试图在动荡地区保护其经济利益。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le Japon, dépendant à 90% de ses importations énergétiques, voit dans la stabilité du Moyen-Orient une priorité absolue. Les tensions régionales, notamment autour du détroit d'Ormuz, menacent ses approvisionnements en pétrole et gaz. Takaichi, en s'adressant directement à l'Iran, cherche à jouer un rôle de médiateur discret mais efficace. Historiquement, le Japon a toujours évité les conflits directs, privilégiant les solutions diplomatiques. À court terme, cette initiative pourrait apaiser les craintes des marchés et stabiliser les prix de l'énergie. À moyen terme, elle pourrait renforcer les liens économiques entre Tokyo et Téhéran, malgré les sanctions américaines. À long terme, le Japon pourrait développer des partenariats énergétiques alternatifs, réduisant sa dépendance au Moyen-Orient. Les acteurs régionaux, comme l'Arabie saoudite ou Israël, pourraient percevoir cette démarche comme une ingérence. Les États-Unis, alliés du Japon, pourraient aussi voir d'un bon œil cette tentative de modération. Enfin, cette position reflète la volonté japonaise de s'affirmer comme une puissance diplomatique indépendante.",
+        "analyse_en": "Japan, 90% dependent on energy imports, views Middle East stability as an absolute priority. Regional tensions, particularly around the Strait of Hormuz, threaten its oil and gas supplies. Takaichi, by directly addressing Iran, seeks to play a discreet but effective mediating role. Historically, Japan has always avoided direct conflicts, favoring diplomatic solutions. In the short term, this initiative could ease market fears and stabilize energy prices. Medium-term, it could strengthen economic ties between Tokyo and Tehran, despite U.S. sanctions. Long-term, Japan could develop alternative energy partnerships, reducing its dependence on the Middle East. Regional actors like Saudi Arabia or Israel might view this move as interference. The U.S., Japan's ally, could also welcome this attempt at moderation. Finally, this stance reflects Japan's desire to assert itself as an independent diplomatic power.",
+        "analyse_zh": "日本90%依赖能源进口，将中东稳定视为绝对优先事项。地区紧张局势，特别是霍尔木兹海峡周边，威胁其石油和天然气供应。高市通过直接与伊朗对话，试图扮演低调但有效的调解者角色。历史上，日本一直避免直接冲突，偏好外交解决方案。短期内，此举可能缓解市场担忧并稳定能源价格。中期来看，可能加强东京与德黑兰的经济联系，尽管面临美国制裁。长期而言，日本可能发展替代能源合作伙伴关系，降低对中东的依赖。沙特阿拉伯或以色列等地区行为者可能将此举视为干涉。作为日本盟友的美国也可能对这种缓和尝试表示欢迎。最后，这一立场反映了日本作为独立外交大国的意图。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Diplomatie",
+        "source": "Newsonjapan.com",
+        "url": "https://newsonjapan.com/article/150338.php",
+        "image": "https://i2.ytimg.com/vi/IBQVRYVFiUk/maxresdefault.jpg",
+        "date": "2026-08-12",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de la défense européenne",
-            "hausse": true
+            "label": "▼ Marché pétrolier",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur énergétique",
-            "hausse": false
+            "label": "▲ Investissements japonais en Iran",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense européenne",
-            "secteur_en": "European defense sector",
-            "secteur_zh": "欧洲国防行业",
-            "effet_fr": "La hausse des budgets de défense pourrait stimuler l'innovation et la production locale d'armements en Europe.",
-            "effet_en": "Increased defense budgets could boost innovation and local arms production in Europe.",
-            "effet_zh": "国防预算增加可能推动欧洲武器创新和本地生产。",
-            "hausse": true
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Une stabilisation des tensions pourrait réduire la prime de risque sur le pétrole, faisant baisser les prix à l'importation pour le Japon.",
+            "effet_en": "Stabilizing tensions could reduce the risk premium on oil, lowering import prices for Japan.",
+            "effet_zh": "紧张局势的缓解可能降低石油风险溢价，降低日本的进口价格。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur énergétique",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "La militarisation pourrait détourner des fonds initialement alloués à la transition énergétique, ralentissant les investissements dans les énergies renouvelables.",
-            "effet_en": "Militarization could divert funds from energy transition, slowing renewable energy investments.",
-            "effet_zh": "军事化可能挪用原本用于能源转型的资金，减缓可再生能源投资。",
-            "hausse": false
+            "secteur_fr": "Investissements japonais en Iran",
+            "secteur_en": "Japanese investments in Iran",
+            "secteur_zh": "日本在伊朗的投资",
+            "effet_fr": "Une détente pourrait relancer les projets d'infrastructure japonais en Iran, malgré les sanctions américaines, mais avec des risques juridiques accrus.",
+            "effet_en": "A thaw could revive Japanese infrastructure projects in Iran, despite U.S. sanctions, but with heightened legal risks.",
+            "effet_zh": "缓和可能重启日本在伊朗的基础设施项目，尽管面临美国制裁，但法律风险增加。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-11T17:07:13.416599"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-13T11:46:19.959772"
+      },
       {
         "id": "iran_299233",
         "titre": "L'AIE réduit ses prévisions de demande pétrolière",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-12T01:48:40.416674"
-      },
-      {
-        "id": "iran_604546",
-        "titre": "Iran nomme de nouveaux chefs militaires",
-        "titre_en": "Iran appoints new military chiefs",
-        "titre_zh": "伊朗任命新军事指挥官",
-        "titre_ru": "Иран назначает новых военных руководителей на фоне угроз",
-        "titre_fa": "ایران فرماندهان جدید نظامی منصوب می‌کند در بحبوحه تهدیدات",
-        "titre_ar": "إيران تعين قادة عسكريين جدد في ظل التهديدات",
-        "titre_original": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
-        "resume": "Le guide suprême iranien a nommé six nouveaux commandants militaires. Un expert avertit que Téhéran se prépare à une confrontation prolongée. Cette décision signale une escalade des tensions régionales.",
-        "resume_en": "Iran's Supreme Leader has appointed six new military commanders. An expert warns Tehran is preparing for prolonged confrontation. This decision signals escalating regional tensions.",
-        "resume_zh": "伊朗最高领袖任命了六名新军事指挥官。一位专家警告德黑兰正在准备长期对抗。这一决定表明地区紧张局势升级。",
-        "resume_ru": "Верховный лидер Ирана аятолла Али Хаменеи назначил шесть новых военных командиров на фоне обострения отношений с США и Израилем. Эксперт предупреждает, что Тегеран готовится к длительной конфронтации, а не к урегулированию конфликта. Это может привести к дальнейшей эскалации напряжённости в регионе.",
-        "resume_fa": "رهبر معظم ایران آیت‌الله علی خامنه‌ای شش فرمانده نظامی جدید منصوب کرده است در حالی که تنش‌ها با آمریکا و اسرائیل افزایش یافته است. یک کارشناس هشدار می‌دهد که تهران در حال آماده‌سازی برای یک رویارویی طولانی‌مدت است، نه حل و فصل درگیری. این امر می‌تواند به تشدید بیشتر تنش‌ها در منطقه منجر شود.",
-        "resume_ar": "عيّن المرشد الأعلى لإيران آية الله علي خامنئي ستة قادة عسكريين جدد في ظل تصاعد التوترات مع الولايات المتحدة وإسرائيل. يحذر خبير من أن طهران تستعد لمواجهة طويلة الأمد، وليس لحل الصراع. قد يؤدي هذا إلى تصعيد إضافي للتوترات في المنطقة.",
-        "analyse_detaillee": "L'Iran, depuis la révolution islamique de 1979, a développé une stratégie militaire axée sur la dissuasion et les proxys régionaux. Les enjeux incluent la sécurité nationale, l'influence régionale et la résistance aux sanctions. Les causes profondes résident dans l'hostilité historique avec les États-Unis et Israël. À court terme, ces nominations pourraient intensifier les tensions avec Israël et les pays du Golfe. À moyen terme, une course aux armements dans la région pourrait s'accélérer. À long terme, l'Iran pourrait renforcer son axe avec la Russie et la Chine. Les acteurs clés sont l'Iran, Israël, les États-Unis, l'Arabie saoudite et la Russie. La position de l'Iran, en tant que puissance régionale, reste centrale.",
-        "analyse_en": "Since the 1979 Islamic Revolution, Iran has developed a military strategy focused on deterrence and regional proxies. Stakes include national security, regional influence, and resistance to sanctions. Root causes lie in historical hostility with the US and Israel. In the short term, these appointments could intensify tensions with Israel and Gulf countries. Medium-term, an arms race in the region could accelerate. Long-term, Iran could strengthen its axis with Russia and China. Key actors are Iran, Israel, the US, Saudi Arabia, and Russia. Iran's position as a regional power remains central.",
-        "analyse_zh": "自1979年伊斯兰革命以来，伊朗发展了一种以威慑和地区代理为重点的军事战略。影响因素包括国家安全、地区影响力和对制裁的抵抗。深层原因在于与美国和以色列的历史敌对。短期内，这些任命可能加剧与以色列和海湾国家的紧张局势。中期来看，地区军备竞赛可能加速。长期而言，伊朗可能加强与俄罗斯和中国的轴心。主要行为者包括伊朗、以色列、美国、沙特阿拉伯和俄罗斯。伊朗作为地区大国的地位仍然至关重要。",
-        "analyse_ru": "Контекст ситуации связан с геополитической напряжённостью на Ближнем Востоке и стремлением Ирана укрепить свои позиции. Причины назначения новых командиров могут быть обусловлены необходимостью подготовки к возможным военным действиям или сдерживанию внешних угроз. Последствия такой политики могут быть крайне опасными: дальнейшая милитаризация региона, рост числа вооружённых конфликтов. Перспективы зависят от реакции международного сообщества и внутренней стабильности Ирана. Позиции сторон: Иран стремится к доминированию в регионе, а США и Израиль — к сдерживанию его влияния.",
-        "analyse_fa": "زمینه این وضعیت به تنش‌های ژئوپلیتیکی در خاورمیانه و تلاش ایران برای تقویت موقعیت خود بازمی‌گردد. دلایل انتصاب فرماندهان جدید ممکن است به نیاز به آماده‌سازی برای اقدامات نظامی احتمالی یا مهار تهدیدات خارجی مربوط باشد. پیامدهای چنین سیاستی می‌تواند بسیار خطرناک باشد: милиتاریزاسیون بیشتر منطقه و افزایش درگیری‌های مسلحانه. چشم‌اندازها به واکنش جامعه بین‌المللی و ثبات داخلی ایران بستگی دارد. موضع بازیگران به این صورت است که ایران به دنبال تسلط در منطقه است و آمریکا و اسرائیل به دنبال مهار نفوذ آن.",
-        "analyse_ar": "يرتبط السياق الحالي بالتوترات الجيوسياسية في الشرق الأوسط وسعي إيران لتعزيز موقفها. قد ترجع أسباب تعيين القادة الجدد إلى ضرورة الاستعداد لأعمال عسكرية محتملة أو احتواء التهديدات الخارجية. يمكن أن تكون عواقب هذه السياسة خطيرة للغاية: مزيد من العسكرة في المنطقة وزيادة الصراعات المسلحة. ترتبط الآفاق برد الفعل المجتمع الدولي والاستقرار الداخلي في إيران. أما مواقف الأطراف، فتبحث إيران عن الهيمنة في المنطقة، بينما تسعى الولايات المتحدة وإسرائيل إلى احتواء نفوذها.",
-        "categorie": "Géopolitique",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/mohamad-vahidi-iran-irgc.jpg",
-        "date": "2026-08-10",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Secteur pétrolier iranien",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des assurances maritimes",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier iranien",
-            "secteur_en": "Iranian oil sector",
-            "secteur_zh": "伊朗石油行业",
-            "effet_fr": "Une confrontation prolongée pourrait perturber les exportations de pétrole iranien et faire monter les prix mondiaux.",
-            "effet_en": "Prolonged confrontation could disrupt Iranian oil exports and drive up global prices.",
-            "effet_zh": "长期对抗可能扰乱伊朗石油出口并推高全球价格。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des assurances maritimes",
-            "secteur_en": "Maritime insurance market",
-            "secteur_zh": "海上保险市场",
-            "effet_fr": "Les risques accrus pourraient entraîner une hausse des primes d'assurance pour les navires traversant le Golfe.",
-            "effet_en": "Increased risks could lead to higher insurance premiums for ships passing through the Gulf.",
-            "effet_zh": "风险增加可能导致通过海湾的船只保险费率上涨。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-11T23:39:21.654645"
       }
     ]
   },
