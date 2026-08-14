@@ -1,7 +1,66 @@
 {
-  "last_updated": "14/08/2026 à 04h08",
+  "last_updated": "14/08/2026 à 06h14",
   "articles": {
     "monde": [
+      {
+        "id": "monde_93511",
+        "titre": "Cyberattaque : vulnérabilité SharePoint exploitée",
+        "titre_en": "Cyberattack: SharePoint vulnerability exploited",
+        "titre_zh": "网络攻击：SharePoint漏洞被利用",
+        "titre_ru": "Хакеры используют уязвимость SharePoint после публикации PoC",
+        "titre_fa": "هکرها پس از انتشار PoC از آسیب‌پذیری SharePoint سوءاستفاده می‌کنند",
+        "titre_ar": "المخترقون يستغلون ثغرة SharePoint بعد نشر PoC",
+        "titre_original": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+        "resume": "Des attaquants exploitent une faille d'authentification dans Microsoft SharePoint après la publication d'un PoC. Cette vulnérabilité, référencée CVE-2026-55040, permet des accès non autorisés. Les entreprises utilisant SharePoint sont désormais exposées à des risques accrus.",
+        "resume_en": "Attackers are exploiting an authentication bypass flaw in Microsoft SharePoint following the release of a proof-of-concept (PoC). The vulnerability, tracked as CVE-2026-55040, enables unauthorized access. Companies using SharePoint are now at heightened risk.",
+        "resume_zh": "攻击者在微软SharePoint发布概念验证（PoC）后，利用其认证绕过漏洞。编号为CVE-2026-55040的这一漏洞可实现未授权访问。使用SharePoint的企业面临的风险显著增加。",
+        "resume_ru": "Киберпреступники начали активно эксплуатировать уязвимость CVE-2026-55040 в Microsoft SharePoint после публикации доказательства концепции (PoC). Эксперты предупреждают о высоком риске атак на корпоративные сети. Уязвимость позволяет обходить аутентификацию и получать несанкционированный доступ.",
+        "resume_fa": "پس از انتشار کد اثبات مفهومی (PoC)، هکرها شروع به سوءاستفاده از آسیب‌پذیری CVE-2026-55040 در مایکروسافت SharePoint کرده‌اند. کارشناسان نسبت به خطر بالای حملات سایبری علیه شبکه‌های شرکتی هشدار می‌دهند. این آسیب‌پذیری امکان دور زدن احراز هویت و دسترسی غیرمجاز را فراهم می‌کند.",
+        "resume_ar": "بدأ المخترقون باستغلال ثغرة CVE-2026-55040 في مايكروسوفت SharePoint بعد نشر دليل إثبات المفهوم (PoC). يحذر الخبراء من خطر كبير لهجمات سيبرانية على الشبكات المؤسسية. تسمح الثغرة بتجاوز المصادقة والوصول غير المصرح به.",
+        "analyse_detaillee": "La vulnérabilité CVE-2026-55040 dans Microsoft SharePoint illustre l'importance croissante des cybermenaces pour les infrastructures numériques mondiales. Les attaques par authentification contournée ne sont pas nouvelles, mais leur exploitation massive après la publication d'un PoC montre une accélération des risques. Historiquement, Microsoft a souvent été ciblé en raison de sa domination sur le marché des logiciels d'entreprise. À court terme, les entreprises utilisant SharePoint devront appliquer des correctifs urgents pour éviter des fuites de données sensibles. À moyen terme, une hausse des primes d'assurance cyber est probable, ainsi qu'une augmentation des coûts de cybersécurité. Sur le long terme, cette faille pourrait accélérer la migration vers des solutions cloud plus sécurisées ou des alternatives open-source. Les acteurs étatiques, comme la Russie ou la Chine, pourraient exploiter cette faille pour des opérations d'espionnage. Les entreprises privées, notamment dans la finance et la santé, sont les plus exposées. Les régulateurs pourraient imposer des normes plus strictes en matière de cybersécurité. Les éditeurs de logiciels devront renforcer leurs protocoles de test avant les mises à jour.",
+        "analyse_en": "The CVE-2026-55040 vulnerability in Microsoft SharePoint highlights the growing importance of cyber threats to global digital infrastructures. Authentication bypass attacks are not new, but their mass exploitation following a PoC release demonstrates an acceleration of risks. Historically, Microsoft has often been targeted due to its dominance in the enterprise software market. In the short term, companies using SharePoint will need to apply urgent patches to prevent sensitive data leaks. In the medium term, higher cyber insurance premiums and increased cybersecurity costs are likely. In the long term, this flaw could accelerate migration to more secure cloud solutions or open-source alternatives. State actors, such as Russia or China, may exploit this vulnerability for espionage operations. Private companies, particularly in finance and healthcare, are the most exposed. Regulators may impose stricter cybersecurity standards. Software publishers will need to strengthen their testing protocols before updates.",
+        "analyse_zh": "微软SharePoint中的CVE-2026-55040漏洞凸显了网络威胁对全球数字基础设施日益增长的重要性。认证绕过攻击并非新鲜事，但其在概念验证（PoC）发布后的大规模利用表明风险正在加速。历史上，微软因其在企业软件市场的主导地位而频繁成为攻击目标。短期内，使用SharePoint的企业需紧急修补漏洞，以防止敏感数据泄露。中期来看，网络保险费用可能上涨，网络安全成本也将增加。长期而言，这一漏洞可能加速向更安全的云解决方案或开源替代方案迁移。俄罗斯或中国等国家行为体可能利用这一漏洞进行间谍活动。私营企业，尤其是金融和医疗行业，面临的风险最大。监管机构可能会强制实施更严格的网络安全标准。软件发布商需要在更新前加强测试协议。",
+        "analyse_ru": "Публикация доказательства концепции (PoC) для уязвимости CVE-2026-55040 в SharePoint стала катализатором для массовых атак киберпреступников. Эта уязвимость, оценённая как критически важная, позволяет злоумышленникам обходить механизмы аутентификации и получать доступ к конфиденциальным данным. Эксперты отмечают, что атаки могут затронуть не только корпоративные сети, но и государственные учреждения. В условиях растущей цифровизации риск подобных инцидентов многократно возрастает. В долгосрочной перспективе компании вынуждены будут инвестировать в обновление систем безопасности и обучение персонала.",
+        "analyse_fa": "انتشار کد اثبات مفهومی (PoC) برای آسیب‌پذیری CVE-2026-55040 در SharePoint به عنوان کاتالیزوری برای حملات گسترده هکرها عمل کرد. این آسیب‌پذیری، که به عنوان حیاتی ارزیابی شده، به مجرمان سایبری اجازه می‌دهد تا مکانیسم‌های احراز هویت را دور بزنند و به داده‌های محرمانه دسترسی پیدا کنند. کارشناسان هشدار می‌دهند که این حملات می‌توانند不仅 شبکه‌های شرکتی بلکه مؤسسات دولتی را نیز تحت تأثیر قرار دهند. با توجه به افزایش دیجیتالی شدن، خطر چنین حوادثی به طور چشمگیری افزایش یافته است. در بلندمدت، شرکت‌ها مجبور خواهند شد در به‌روزرسانی سیستم‌های امنیتی و آموزش کارکنان سرمایه‌گذاری کنند.",
+        "analyse_ar": "أصبح نشر دليل إثبات المفهوم (PoC) لثغرة CVE-2026-55040 في SharePoint محفزاً للهجمات السيبرانية الجماعية. تُصنّف هذه الثغرة، التي تعتبر حرجة، على أنها تسمح للمجرمين الإلكترونيين بتجاوز آليات المصادقة والوصول إلى البيانات الحساسة. يحذر الخبراء من أن هذه الهجمات قد تؤثر ليس فقط على الشبكات المؤسسية بل أيضاً على المؤسسات الحكومية. في ظل تزايد الرقمنة، تزداد مخاطر مثل هذه الحوادث بشكل كبير. على المدى الطويل، ستضطر الشركات إلى الاستثمار في تحديث أنظمة الأمن وتدريب الموظفين.",
+        "categorie": "Cybersécurité",
+        "source": "Internet",
+        "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1700-e365/poc.jpg",
+        "date": "2026-08-13",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurance cyber",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des logiciels d'entreprise",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance cyber",
+            "secteur_en": "Cyber insurance",
+            "secteur_zh": "网络保险",
+            "effet_fr": "L'augmentation des attaques pourrait entraîner une hausse des primes d'assurance cyber pour les entreprises exposées.",
+            "effet_en": "The rise in attacks could lead to higher cyber insurance premiums for exposed companies.",
+            "effet_zh": "攻击增加可能导致受影响企业的网络保险费用上涨。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des logiciels d'entreprise",
+            "secteur_en": "Enterprise software market",
+            "secteur_zh": "企业软件市场",
+            "effet_fr": "Les failles répétées pourraient pousser les entreprises à migrer vers des solutions alternatives plus sécurisées.",
+            "effet_en": "Repeated vulnerabilities could push companies to migrate to more secure alternative solutions.",
+            "effet_zh": "反复出现的漏洞可能促使企业迁移至更安全的替代解决方案。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-14T06:14:00.726546"
+      },
       {
         "id": "monde_568553",
         "titre": "Medicare for All sauverait 114 000 vies par an",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-12T21:43:34.593463"
-      },
-      {
-        "id": "monde_186962",
-        "titre": "Silicon Labs annonce des résultats records",
-        "titre_en": "Silicon Labs Reports Record Q2 2026 Results",
-        "titre_zh": "Silicon Labs公布2026年Q2创纪录业绩",
-        "titre_ru": "Silicon Labs отчитался за второй квартал 2026 года",
-        "titre_fa": "Silicon Labs گزارش‌های مالی سه‌ماهه دوم ۲۰۲۶ را منتشر کرد",
-        "titre_ar": "Silicon Labs تعلن نتائج الربع الثاني 2026",
-        "titre_original": "Silicon Labs Reports Second Quarter 2026 Results",
-        "resume": "Silicon Labs, leader des technologies IoT sans fil, annonce 228 millions de dollars de revenus pour le deuxième trimestre 2026. L'entreprise affiche une croissance solide de ses bénéfices. Cette performance renforce sa position sur le marché des semi-conducteurs.",
-        "resume_en": "Silicon Labs, a wireless IoT technology leader, reported $228 million in revenue for Q2 2026. The company showed strong earnings growth. This performance solidifies its position in the semiconductor market.",
-        "resume_zh": "无线物联网技术领导者Silicon Labs报告2026年第二季度营收2.28亿美元。公司展现强劲盈利增长。这一业绩巩固了其在半导体市场的地位。",
-        "resume_ru": "Компания Silicon Labs, лидер в области беспроводных IoT-технологий, сообщила о выручке в 228 миллионов долларов за второй квартал 2026 года. Прибыль компании выросла благодаря усилению позиций на рынке низкопотребляющих решений. Аналитики отмечают стабильный рост компании в условиях технологической конкуренции.",
-        "resume_fa": "Silicon Labs، پیشرو در فناوری‌های بی‌سیم اینترنت اشیا، گزارش داد که درآمد ۲۲۸ میلیون دلاری در سه‌ماهه دوم ۲۰۲۶ کسب کرده است. سود شرکت به دلیل تقویت موقعیت در بازار راه‌حل‌های کم‌مصرف افزایش یافت. تحلیلگران رشد پایدار شرکت در رقابت‌های فناوری را برجسته می‌کنند.",
-        "resume_ar": "أعلنت شركة Silicon Labs، الرائدة في تكنولوجيا إنترنت الأشياء اللاسلكية، عن إيرادات بلغت 228 مليون دولار للربع الثاني من عام 2026. ارتفعت أرباح الشركة بفضل تعزيز مكانتها في سوق الحلول منخفضة الاستهلاك. يسلط المحللون الضوء على النمو المستدام للشركة في ظل المنافسة التكنولوجية.",
-        "analyse_detaillee": "Silicon Labs évolue dans un secteur en pleine expansion, porté par la demande croissante en solutions IoT et connectivité sans fil. La croissance des revenus reflète l'adoption massive des technologies low-power dans l'industrie et les objets connectés. Les enjeux principaux incluent la concurrence avec des géants comme Qualcomm ou NXP, ainsi que l'innovation constante pour rester compétitif. Les causes profondes de cette performance résident dans l'augmentation des investissements dans l'automatisation industrielle et les villes intelligentes. À court terme, cette croissance pourrait entraîner une hausse des valorisations boursières et des levées de fonds. À moyen terme, elle pourrait stimuler l'emploi dans le secteur technologique et renforcer l'influence des États-Unis dans les semi-conducteurs. À long terme, Silicon Labs pourrait devenir un acteur incontournable des infrastructures IoT mondiales. Les acteurs comme les investisseurs, les concurrents et les gouvernements surveillent de près cette dynamique.",
-        "analyse_en": "Silicon Labs operates in a rapidly growing sector driven by increasing demand for IoT solutions and wireless connectivity. The revenue growth reflects the massive adoption of low-power technologies in industry and connected devices. Key stakes include competition with giants like Qualcomm or NXP, as well as constant innovation to stay competitive. The root causes of this performance lie in rising investments in industrial automation and smart cities. In the short term, this growth could lead to higher stock valuations and fundraising. In the medium term, it could boost employment in the tech sector and strengthen U.S. influence in semiconductors. In the long term, Silicon Labs could become a key player in global IoT infrastructure. Investors, competitors, and governments are closely monitoring this trend.",
-        "analyse_zh": "Silicon Labs所处的半导体行业正经历快速增长，由物联网解决方案和无线连接需求激增推动。营收增长反映了低功耗技术在工业和智能设备中的广泛应用。主要挑战包括与高通、恩智浦等巨头的竞争以及持续创新以保持竞争力。业绩增长的深层原因在于工业自动化和智慧城市投资的增加。短期内，这一增长可能推高股价和融资活动。中期来看，可能促进科技行业就业并增强美国在半导体领域的影响力。长期而言，Silicon Labs可能成为全球物联网基础设施的关键参与者。投资者、竞争对手和政府密切关注这一趋势。",
-        "analyse_ru": "Компания Silicon Labs, специализирующаяся на низкопотребляющих беспроводных решениях, продемонстрировала устойчивый рост во втором квартале 2026 года. Выручка в 228 миллионов долларов отражает успешную стратегию на фоне глобальной цифровизации и спроса на IoT-устройства. Рост прибыли связан с внедрением инноваций и расширением портфеля продуктов. Эксперты считают, что компания укрепит позиции на рынке благодаря технологическому превосходству. В долгосрочной перспективе Silicon Labs может стать ключевым игроком в эпоху умных городов и промышленного интернета вещей.",
-        "analyse_fa": "Silicon Labs، که در زمینه راه‌حل‌های بی‌سیم کم‌مصرف فعالیت می‌کند، رشد پایداری را در سه‌ماهه دوم ۲۰۲۶ نشان داد. درآمد ۲۲۸ میلیون دلاری این شرکت، استراتژی موفق آن را در زمینه دیجیتالی‌سازی جهانی و تقاضا برای دستگاه‌های اینترنت اشیا منعکس می‌کند. افزایش سود ناشی از نوآوری‌ها و گسترش سبد محصولات است. کارشناسان معتقدند این شرکت با برتری فناوری خود، جایگاه خود را در بازار تقویت خواهد کرد. در بلندمدت، Silicon Labs می‌تواند به بازیگری کلیدی در عصر شهرهای هوشمند و اینترنت اشیا صنعتی تبدیل شود.",
-        "analyse_ar": "أظهرت شركة Silicon Labs، المتخصصة في الحلول اللاسلكية منخفضة الاستهلاك، نموا مستداما في الربع الثاني من عام 2026. يعكس إيراد 228 مليون دولار استراتيجية ناجحة في ظل التحول الرقمي العالمي وطلب متزايد على أجهزة إنترنت الأشياء. يعود ارتفاع الأرباح إلى الابتكارات وتوسيع المحفظة المنتجات. يرى الخبراء أن الشركة ستعزز مكانتها في السوق بفضل التفوق التكنولوجي. على المدى الطويل، قد تصبح Silicon Labs لاعبا رئيسيا في عصر المدن الذكية وإنترنت الأشياء الصناعي.",
-        "categorie": "Économie",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/silicon-labs-reports-second-quarter-2026-results-302848831.html",
-        "image": "https://mmx.prnewswire.com/media/MS756692/Silicon-Labs-Logo.jpg?id=OA2858986&p=facebook",
-        "date": "2026-08-11",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Secteur des semi-conducteurs",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des technologies IoT",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur des semi-conducteurs",
-            "secteur_en": "Semiconductor sector",
-            "secteur_zh": "半导体行业",
-            "effet_fr": "La croissance de Silicon Labs renforce la confiance des investisseurs dans le secteur des semi-conducteurs, stimulant les valorisations et les fusions-acquisitions.",
-            "effet_en": "Silicon Labs' growth boosts investor confidence in the semiconductor sector, driving valuations and mergers and acquisitions.",
-            "effet_zh": "Silicon Labs的增长增强了投资者对半导体行业的信心，推动估值和并购活动。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des technologies IoT",
-            "secteur_en": "IoT technology market",
-            "secteur_zh": "物联网技术市场",
-            "effet_fr": "La performance de Silicon Labs confirme la vitalité du marché des technologies IoT, attirant davantage de capitaux et d'innovations.",
-            "effet_en": "Silicon Labs' performance confirms the vitality of the IoT technology market, attracting more capital and innovation.",
-            "effet_zh": "Silicon Labs的业绩确认了物联网技术市场的活力，吸引更多资本和创新。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-12T20:04:05.401733"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_136974",
+        "titre": "Milito : « Nous sommes sur la bonne voie »",
+        "titre_en": "Milito: 'We're on the right path'",
+        "titre_zh": "米利托：“我们走在正确的道路上”",
+        "titre_ru": "«Мы на правильном пути»: Габриэль Милито о Лиге МХ",
+        "titre_fa": "«در مسیر درستی هستیم»: گابریل میلیتو درباره لیگ ام‌ایکس",
+        "titre_ar": "«نحن على المسار الصحيح»: غابرييل ميليتو عن دوري MX",
+        "titre_original": "“We’re on the right path, and our focus is now on Liga MX.” – Gabriel Milito",
+        "resume": "Gabriel Milito, entraîneur de Guadalajara, se félicite de la victoire contre les Seattle Sounders en Leagues Cup 2026. Il affirme que l'équipe est désormais concentrée sur la Liga MX. Cette performance marque une fin positive de leur campagne dans cette compétition.",
+        "resume_en": "Gabriel Milito, Guadalajara's coach, praised the team's victory over Seattle Sounders in the 2026 Leagues Cup. He stated the team is now focused on the Liga MX. The win marked a positive end to their campaign in the competition.",
+        "resume_zh": "瓜达拉哈拉主教练加布里埃尔·米利托赞扬球队在2026年联赛杯中击败西雅图音速。他表示球队现已将重心转向墨西哥联赛。这场胜利为球队在该项赛事中的征程画上了圆满句号。",
+        "resume_ru": "Победа над «Сиэтл Саундерс» позволила «Гвадалахаре» завершить участие в Кубке Лиг 2026 на позитивной ноте. Главный тренер Габриэль Милито заявил, что команда сосредоточена на предстоящем чемпионате Лиги МХ. Это выступление стало важным шагом для мексиканского клуба.",
+        "resume_fa": "پیروزی مقابل سیاتل ساوندرز به گوادالاخارا اجازه داد تا حضور خود در جام لیگ ۲۰۲۶ را با نتایج مثبت به پایان برساند. سرمربی گابریل میلیتو تأکید کرد که تمرکز تیم روی لیگ ام‌ایکس است. این بازی نقطه عطفی برای باشگاه مکزیکی محسوب می‌شود.",
+        "resume_ar": "سمحت انتصار غوادالاخارا على سياتل ساوندرز بإنهاء مشاركتها في كأس الليغز 2026 بنتائج إيجابية. أكد المدرب غابرييل ميليتو أن تركيز الفريق ينصب على دوري MX القادم. اعتبرت المباراة خطوة مهمة للنادي المكسيكي.",
+        "analyse_detaillee": "Gabriel Milito, ancien joueur argentin devenu entraîneur, dirige désormais le Club Deportivo Guadalajara, l'un des clubs les plus emblématiques du football mexicain. Son équipe a réussi à se qualifier pour les phases finales de la Leagues Cup 2026, une compétition récente mêlant clubs nord-américains et mexicains. Cette victoire contre Seattle Sounders, franchise de MLS, renforce la crédibilité de Milito et de son projet sportif. À court terme, cette performance pourrait attirer de nouveaux investissements ou sponsors pour le club. À moyen terme, une qualification en Liga MX pourrait améliorer le classement du club et son attractivité internationale. Sur le long terme, une stratégie cohérente pourrait permettre à Guadalajara de rivaliser avec les grands clubs mexicains comme Club América ou Monterrey. Les joueurs locaux et les jeunes talents mexicains restent au cœur de cette stratégie. Les supporters, très exigeants, attendent des résultats concrets pour valider cette approche. Les dirigeants du club misent sur une stabilité sportive pour pérenniser cette dynamique.",
+        "analyse_en": "Gabriel Milito, a former Argentine player turned coach, now leads Club Deportivo Guadalajara, one of Mexico's most iconic football clubs. His team successfully qualified for the 2026 Leagues Cup finals, a recent competition blending North American and Mexican clubs. The victory over Seattle Sounders, an MLS franchise, strengthens Milito's credibility and his sporting project. In the short term, this performance could attract new investments or sponsors for the club. In the medium term, qualification in the Liga MX could improve the club's ranking and international appeal. In the long term, a consistent strategy could allow Guadalajara to compete with major Mexican clubs like Club América or Monterrey. Local players and young Mexican talents remain central to this strategy. The demanding supporters expect tangible results to validate this approach. Club executives are banking on sporting stability to sustain this momentum.",
+        "analyse_zh": "加布里埃尔·米利托是前阿根廷球员，现任墨西哥豪门瓜达拉哈拉足球俱乐部主教练。他的球队在2026年联赛杯中成功闯入决赛，这是一项融合北美和墨西哥俱乐部的新兴赛事。击败西雅图音速（MLS球队）进一步提升了米利托及其体育项目的可信度。短期内，这一成绩可能为俱乐部吸引新的投资或赞助商。中期来看，晋级墨西哥联赛可能提升球队排名并增强国际影响力。长期而言，一致的战略可能帮助瓜达拉哈拉与墨西哥顶级俱乐部如美洲队或蒙特雷竞争。本土球员和年轻墨西哥天才是这一战略的核心。要求严格的球迷期待实质性成果来验证这一策略。俱乐部高层则寄望于体育稳定性来巩固这一势头。",
+        "analyse_ru": "Габриэль Милито, известный аргентинский специалист, возглавил мексиканский клуб «Гвадалахара» в непростой период. Победа в матче против американского «Сиэтл Саундерс» не только укрепила моральный дух команды, но и продемонстрировала её готовность к новым вызовам в Лиге МХ. Это выступление может стать основой для амбициозных планов клуба по укреплению позиций в мексиканском футболе. В долгосрочной перспективе успех в Лиге МХ откроет перед «Гвадалахарой» двери в международные турниры, такие как Лига чемпионов КОНКАКАФ. Япония и другие азиатские страны могут рассматривать этот результат как сигнал о росте конкурентоспособности мексиканского футбола.",
+        "analyse_fa": "گابریل میلیتو، مربی آرژانتینی، هدایت باشگاه گوادالاخارا را در دوره‌ای چالش‌برانگیز بر عهده گرفت. پیروزی مقابل سياتل ساوندرز نه تنها روحیه تیم را تقویت کرد، بلکه آمادگی آنها برای چالش‌های لیگ ام‌ایکس را نشان داد. این موفقیت می‌تواند پایه‌ای برای برنامه‌های بلندپروازانه باشگاه برای تقویت جایگاه خود در فوتبال مکزیک باشد. در بلندمدت، موفقیت در لیگ ام‌ایکس می‌تواند درهای جام قهرمانان کونکاکاف را به روی گوادالاخارا بگشاید. کشورهای آسیایی مانند ژاپن ممکن است این نتیجه را به عنوان نشانه‌ای از رشد رقابت‌پذیری فوتبال مکزیک تلقی کنند.",
+        "analyse_ar": "غابرييل ميليتو، المدرب الأرجنتيني، يتولى قيادة نادي غوادالاخارا في فترة صعبة. لم تكن انتصار غوادالاخارا على سياتل ساوندرز تعزيزاً للروح المعنوية فحسب، بل أظهرت استعداد الفريق للتحديات القادمة في دوري MX. يمكن لهذا النجاح أن يكون أساساً للطموحات الطموحة للنادي لتعزيز مكانته في كرة القدم المكسيكية. على المدى الطويل، قد يفتح النجاح في دوري MX أبواب البطولات الدولية مثل دوري أبطال الكونكاكاف أمام غوادالاخارا. قد تنظر دول آسيوية مثل اليابان إلى هذه النتيجة كإشارة على نمو تنافسية كرة القدم المكسيكية.",
+        "categorie": "Sport",
+        "source": "Chivasdecorazon.com.mx",
+        "url": "https://ncache.chivasdecorazon.com.mx/es/noticias/41252/Vamos-por-buen-camino-y-tenemos-el-objetivo-ahora-en-la-Liga-MX.-Gabriel-Milito",
+        "image": "https://s.yimg.com/lo/mysterio/api/4fa6ec65da39dadae056b7284799bbacd38eace27895a45da8fbc87fe68e9329/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclub_deportivo_guadalajara_videos_596%2F18afb61f1cabd5c3b29a39ce37e05952.jpg",
+        "date": "2026-08-13",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Sponsoring sportif",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des transferts",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sponsoring sportif",
+            "secteur_en": "Sports sponsorship",
+            "secteur_zh": "体育赞助",
+            "effet_fr": "Une victoire médiatisée pourrait attirer de nouveaux sponsors et augmenter les revenus publicitaires pour le club.",
+            "effet_en": "A high-profile victory could attract new sponsors and boost advertising revenue for the club.",
+            "effet_zh": "一场备受关注的胜利可能吸引新的赞助商，并提升俱乐部的广告收入。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des transferts",
+            "secteur_en": "Transfer market",
+            "secteur_zh": "转会市场",
+            "effet_fr": "Une bonne performance pourrait augmenter la valeur des joueurs et attirer des offres de clubs européens.",
+            "effet_en": "Strong performances could raise player valuations and attract offers from European clubs.",
+            "effet_zh": "出色的表现可能提升球员身价，并吸引欧洲俱乐部的报价。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-14T06:14:00.726521"
+      },
       {
         "id": "usa_443440",
         "titre": "Netanyahu rejette le plan Trump pour Gaza",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-12T21:43:34.593494"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_741908",
-        "titre": "Candidat démocrate lié à la charia au Michigan",
-        "titre_en": "Michigan Democrat Candidate Linked to Sharia Law",
-        "titre_zh": "密歇根民主党候选人与伊斯兰教法关联",
-        "titre_ru": "Кандидат в сенат США заявил о своей приверженности шариату",
-        "titre_fa": "نامزد سنای آمریکا: تعهد به اجرای شریعت تا پایان عمر",
-        "titre_ar": "مرشح مجلس الشيوخ الأمريكي يعلن التزامه بالشريعة حتى وفاته",
-        "titre_original": "Revealed: El-Sayed Proclaimed 'Obligation' To Follow Sharia Law Until Day He Dies...",
-        "resume": "Abdul El-Sayed, candidat démocrate au Sénat du Michigan, est accusé d'avoir déclaré son obligation de suivre la charia jusqu'à sa mort. Ces déclarations, révélées par des médias, suscitent une polémique politique. Le camp républicain utilise cette affaire pour discréditer son adversaire.",
-        "resume_en": "Abdul El-Sayed, Michigan Democratic Senate candidate, is accused of stating his obligation to follow Sharia law until his death. These remarks, uncovered by media, sparked a political controversy. The Republican camp is using this issue to discredit him.",
-        "resume_zh": "密歇根州民主党参议院候选人Abdul El-Sayed被指控声称有义务遵循伊斯兰教法直到去世。媒体披露的这些言论引发了政治争议。共和党阵营正利用这一问题来抹黑他。",
-        "resume_ru": "Кандидат от демократической партии Абдул Эль-Сайед заявил, что считает для себя священной обязанностью следовать законам шариата до конца жизни. Эти заявления были сделаны в ходе предвыборной кампании в сенат США от штата Мичиган. Эксперты обсуждают возможные последствия таких высказываний для политической карьеры политика.",
-        "resume_fa": "نامزد دموکرات مجلس سنا، عبدال السید، اعلام کرد که پیروی از شریعت را تا پایان عمر خود وظیفه‌ای مقدس می‌داند. این اظهارات در جریان کمپین انتخاباتی سنا از ایالت میشیگان مطرح شد. کارشناسان در مورد پیامدهای احتمالی این اظهارات برای آینده سیاسی او بحث می‌کنند.",
-        "resume_ar": "أعلن المرشح الديمقراطي عبدال السعيد أنه يعتبر التزامه بالشريعة واجبا مقدسا حتى نهاية حياته. تم تقديم هذه التصريحات خلال حملة الانتخابات لمجلس الشيوخ الأمريكي عن ولاية ميشيغان. يناقش الخبراء الآثار المحتملة لهذه التصريحات على مستقبله السياسي.",
-        "analyse_detaillee": "Cette polémique s'inscrit dans un contexte de polarisation politique accrue aux États-Unis, où les questions religieuses et identitaires deviennent des enjeux électoraux majeurs. Les déclarations d'El-Sayed, bien que sorties de leur contexte, alimentent les craintes d'une partie de l'électorat sur l'influence de l'islam politique. Les enjeux principaux incluent la crédibilité des candidats et la perception de leur alignement avec les valeurs américaines traditionnelles. Les causes profondes résident dans la montée des discours anti-immigration et la méfiance envers les minorités religieuses. À court terme, cette affaire pourrait nuire à la campagne d'El-Sayed et renforcer les positions républicaines. À moyen terme, elle pourrait polariser davantage le débat public sur la laïcité et l'intégration. À long terme, elle risque d'exacerber les tensions communautaires et de compliquer les alliances politiques. Les acteurs comme les partis démocrate et républicain, les groupes religieux et les médias jouent un rôle clé dans cette dynamique.",
-        "analyse_en": "This controversy occurs amid heightened political polarization in the U.S., where religious and identity issues have become major electoral stakes. El-Sayed's remarks, though taken out of context, fuel fears among part of the electorate about the influence of political Islam. Key stakes include candidate credibility and perceptions of alignment with traditional American values. Root causes lie in rising anti-immigration rhetoric and distrust toward religious minorities. In the short term, this issue could harm El-Sayed's campaign and strengthen Republican positions. In the medium term, it could further polarize public debate on secularism and integration. In the long term, it risks exacerbating community tensions and complicating political alliances. Actors like the Democratic and Republican parties, religious groups, and media play a key role in this dynamic.",
-        "analyse_zh": "这场争议发生在美国政治极化加剧的背景下，宗教和身份认同问题已成为重要的选举议题。El-Sayed的言论虽被断章取义，却加剧了部分选民对政治伊斯兰影响的担忧。主要挑战包括候选人信誉和其与美国传统价值观的一致性认知。深层原因在于反移民言论的上升和对宗教少数群体的不信任。短期内，此事可能损害El-Sayed的竞选并巩固共和党立场。中期来看，可能进一步极化关于世俗主义和融合的公共辩论。长期而言，可能加剧社区紧张局势并使政治联盟复杂化。民主党和共和党、宗教团体及媒体等各方在这一动态中扮演关键角色。",
-        "analyse_ru": "Заявление Абдула Эль-Сайеда о приверженности шариату вызвало бурную реакцию в американском обществе. В условиях политической поляризации такие высказывания могут как мобилизовать электорат, так и оттолкнуть часть избирателей. Эксперты отмечают, что в США вопросы религии и политики всегда были деликатными, и подобные заявления требуют осторожности. Для демократической партии это может стать как преимуществом, так и риском в борьбе за голоса мусульманских и консервативных избирателей. В долгосрочной перспективе такие высказывания могут повлиять на имидж политика и его шансы на победу.",
-        "analyse_fa": "اظهارات عبدال السعيد درباره تعهد به شریعت واکنش گسترده‌ای در جامعه آمریکایی برانگیخت. در شرایط قطبیت سیاسی، چنین اظهاراتی می‌تواند هم رأی‌دهندگان را بسیج کند و هم بخشی از آنها را دلسرد سازد. کارشناسان خاطرنشان می‌کنند که در ایالات متحده، مسائل دین و سیاست همواره حساس بوده و چنین اظهاراتی نیازمند احتیاط است. برای حزب دموکرات، این موضوع می‌تواند هم مزیت و هم ریسک در رقابت برای جلب آرای مسلمانان و رأی‌دهندگان محافظه‌کار باشد. در بلندمدت، چنین اظهاراتی می‌تواند بر تصویر سیاسی و شانس پیروزی این سیاستمدار تأثیر بگذارد.",
-        "analyse_ar": "أثارت تصريحات عبدال السعيد حول التزامه بالشريعة ردود أفعال واسعة في المجتمع الأمريكي. في ظل الاستقطاب السياسي، قد تكون مثل هذه التصريحات إما حافزا للناخبين أو طاردة لهم. يلاحظ الخبراء أن مسائل الدين والسياسة كانت دائما حساسة في الولايات المتحدة، وأن مثل هذه التصريحات تتطلب الحذر. بالنسبة للحزب الديمقراطي، قد تكون هذه التصريحات ميزة أو مخاطرة في التنافس على أصوات الناخبين المسلمين والمحافظين. على المدى الطويل، قد تؤثر هذه التصريحات على صورة السياسي وفرصه في الفوز.",
-        "categorie": "Politique",
-        "source": "Washington Free Beacon",
-        "url": "https://freebeacon.com/democrats/revealed-el-sayed-proclaimed-obligation-to-follow-sharia-law-until-the-day-he-dies/",
-        "image": "https://freebeacon.com/wp-content/uploads/2026/08/michigan-democratic-senate-primary-winner-abdul-el-sayed-holds-news-co-scaled.jpg",
-        "date": "2026-08-11",
-        "pays": "usa",
+        "id": "chine_578974",
+        "titre": "Russie, Inde et Chine créent de nouvelles routes arctiques",
+        "titre_en": "Russia, India, China forge new Arctic trade routes",
+        "titre_zh": "俄罗斯、印度、中国在北极开辟新贸易路线",
+        "titre_ru": "Россия, Индия и Китай создают новые арктические торговые пути",
+        "titre_fa": "روسیه، هند و چین مسیرهای تجاری جدیدی در اقیانوس منجمد شمالی ایجاد می‌کنند",
+        "titre_ar": "روسيا والهند والصين تبتكر طرق تجارية جديدة في المحيط المتجمد الشمالي",
+        "titre_original": "Russia, India, and China forge new trade routes in the Arctic Sea as Western sanctions lose their bite",
+        "resume": "La Russie, l'Inde et la Chine développent de nouvelles routes commerciales dans l'océan Arctique. Moscou renforce sa présence militaire tout en courtisant les puissances asiatiques. Les sanctions occidentales poussent Moscou à diversifier ses partenariats économiques.",
+        "resume_en": "Russia, India, and China are developing new trade routes in the Arctic Ocean. Moscow is strengthening its military presence while courting Asian economic powers. Western sanctions are pushing Moscow to diversify its economic partnerships.",
+        "resume_zh": "俄罗斯、印度和中国正在北冰洋开发新的贸易路线。莫斯科在加强军事存在的同时，拉拢亚洲经济大国。西方制裁正推动莫斯科多元化其经济伙伴关系。",
+        "resume_ru": "Россия, Индия и Китай укрепляют экономическое сотрудничество в Арктике, создавая новые торговые маршруты. Западные санкции теряют свою эффективность на фоне усиления альянса между этими странами. Россия активно наращивает военное присутствие в регионе.",
+        "resume_fa": "روسیه، هند و چین در حال تقویت همکاری اقتصادی در منطقه قطب شمال و ایجاد مسیرهای تجاری جدید هستند. تحریم‌های غرب در برابر این اتحاد در حال از دست دادن کارایی خود هستند. روسیه به طور فعال حضور نظامی خود در منطقه را افزایش می‌دهد.",
+        "resume_ar": "تعزز روسيا والهند والصين التعاون الاقتصادي في القطب الشمالي من خلال إنشاء طرق تجارية جديدة. تفقد العقوبات الغربية فعاليتها في مواجهة هذا التحالف. تعزز روسيا وجودها العسكري في المنطقة بشكل نشط.",
+        "analyse_detaillee": "Le développement de nouvelles routes commerciales dans l'océan Arctique par la Russie, l'Inde et la Chine marque un tournant géoéconomique majeur, accéléré par les sanctions occidentales contre Moscou. Historiquement, l'Arctique a été un espace marginalisé en raison de son climat hostile, mais le réchauffement climatique en fait désormais une zone stratégique pour le commerce maritime. À court terme, ces routes pourraient réduire les coûts et les temps de transport entre l'Asie et l'Europe, notamment via le passage du Nord-Est. À moyen terme, la Russie pourrait renforcer son contrôle militaire sur ces zones, créant des tensions avec les pays riverains comme le Canada ou la Norvège. Sur le long terme, cette coopération trilatérale pourrait redessiner les flux commerciaux mondiaux, marginalisant partiellement les routes traditionnelles comme le canal de Suez. Les pays asiatiques, en quête de diversification énergétique, pourraient investir massivement dans les infrastructures arctiques. Les États-Unis et l'UE, exclus de ce projet, pourraient réagir en renforçant leur présence militaire dans la région. Les compagnies maritimes internationales devront adapter leurs flottes aux conditions extrêmes de l'Arctique. Les enjeux environnementaux, comme la fonte des glaces, restent un défi majeur pour la viabilité de ces routes.",
+        "analyse_en": "The development of new trade routes in the Arctic Ocean by Russia, India, and China marks a major geoeconomic turning point, accelerated by Western sanctions against Moscow. Historically, the Arctic has been a marginalized space due to its harsh climate, but global warming is now making it a strategic zone for maritime trade. In the short term, these routes could reduce costs and transit times between Asia and Europe, particularly via the Northeast Passage. In the medium term, Russia could strengthen its military control over these areas, creating tensions with neighboring countries like Canada or Norway. In the long term, this trilateral cooperation could reshape global trade flows, partially marginalizing traditional routes like the Suez Canal. Asian countries, seeking energy diversification, could invest heavily in Arctic infrastructure. The United States and the EU, excluded from this project, may react by strengthening their military presence in the region. International shipping companies will need to adapt their fleets to the extreme conditions of the Arctic. Environmental challenges, such as melting ice, remain a major hurdle for the viability of these routes.",
+        "analyse_zh": "俄罗斯、印度和中国在北冰洋开发新的贸易路线，标志着一个重大的地缘经济转折点，这一进程因西方对莫斯科的制裁而加速。历史上，北极因其恶劣气候而被边缘化，但全球变暖正使其成为海上贸易的战略区域。短期内，这些路线可能降低亚洲与欧洲之间的成本和运输时间，特别是通过东北航道。中期来看，俄罗斯可能加强对这些地区的军事控制，与加拿大或挪威等沿岸国家产生紧张局势。长期而言，这一三边合作可能重塑全球贸易流，部分边缘化苏伊士运河等传统航线。寻求能源多元化的亚洲国家可能大举投资北极基础设施。被排除在该项目之外的美国和欧盟可能通过加强在该地区的军事存在来应对。国际航运公司将需要使其船队适应北极的极端条件。环境挑战，如冰川融化，仍是这些航线可行性的主要障碍。",
+        "analyse_ru": "Создание новых торговых маршрутов в Арктике Россией, Индией и Китаем знаменует собой стратегический сдвиг в глобальной экономике. Эти страны стремятся обойти западные санкции и укрепить свои позиции в регионе, богатом природными ресурсами. Россия, в частности, использует Арктику для укрепления военного присутствия, что вызывает обеспокоенность у США и их союзников. Индия и Китай, в свою очередь, видят в этом возможность для расширения торговых связей и доступа к новым рынкам. В долгосрочной перспективе Арктика может стать ключевым регионом для глобальной торговли, особенно если таяние льдов откроет новые возможности для судоходства.",
+        "analyse_fa": "ایجاد مسیرهای تجاری جدید در منطقه قطب شمال توسط روسیه، هند و چین نشان‌دهنده تغییر استراتژیک در اقتصاد جهانی است. این کشورها تلاش می‌کنند تحریم‌های غرب را دور بزنند و موقعیت خود را در منطقه‌ای غنی از منابع طبیعی تقویت کنند. روسیه به ویژه از قطب شمال برای تقویت حضور نظامی استفاده می‌کند که نگرانی‌هایی را در میان ایالات متحده و متحدانش ایجاد کرده است. از سوی دیگر، هند و چین در این فرصت سرمایه‌گذاری می‌کنند تا پیوندهای تجاری خود را گسترش دهند و به بازارهای جدید دسترسی پیدا کنند. در بلندمدت، قطب شمال می‌تواند به منطقه‌ای کلیدی برای تجارت جهانی تبدیل شود، به خصوص اگر ذوب شدن یخ‌ها امکانات جدیدی را برای کشتیرانی فراهم کند.",
+        "analyse_ar": "يمثل إنشاء طرق تجارية جديدة في القطب الشمالي من قبل روسيا والهند والصين تحولاً استراتيجياً في الاقتصاد العالمي. تسعى هذه الدول إلى تجاوز العقوبات الغربية وتعزيز مواقعها في منطقة غنية بالموارد الطبيعية. تستخدم روسيا القطب الشمالي بشكل خاص لتعزيز وجودها العسكري، مما أثار قلقاً لدى الولايات المتحدة وحلفائها. من ناحية أخرى، ترى الهند والصين في هذا فرصة لتوسيع روابطهما التجارية والوصول إلى أسواق جديدة. على المدى الطويل، قد يصبح القطب الشمالي منطقة رئيسية للتجارة العالمية، خاصة إذا فتح ذوبان الجليد فرصاً جديدة للملاحة.",
+        "categorie": "Géopolitique",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-08-13-russia-india-china-forge-new-trade-routes.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/russia-china-relations-bilateral-agreements-trade-turnover-1609-original.jpg",
+        "date": "2026-08-13",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché électoral américain",
+            "label": "▼ Transport maritime",
             "hausse": false
           },
           {
-            "label": "▲ Secteur des médias",
+            "label": "▲ Assurance maritime",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché électoral américain",
-            "secteur_en": "U.S. electoral market",
-            "secteur_zh": "美国选举市场",
-            "effet_fr": "La polémique pourrait influencer les intentions de vote en faveur des républicains, modifiant les équilibres politiques dans des États clés comme le Michigan.",
-            "effet_en": "The controversy could sway voter intentions in favor of Republicans, altering political balances in key states like Michigan.",
-            "effet_zh": "这场争议可能扭转选民倾向，有利于共和党，改变密歇根等关键州的政治平衡。",
+            "secteur_fr": "Transport maritime",
+            "secteur_en": "Maritime transport",
+            "secteur_zh": "海运运输",
+            "effet_fr": "L'ouverture de nouvelles routes arctiques pourrait réduire les coûts logistiques pour les échanges Asie-Europe.",
+            "effet_en": "Opening new Arctic routes could reduce logistics costs for Asia-Europe trade.",
+            "effet_zh": "开辟新的北极航线可能降低亚洲与欧洲贸易的物流成本。",
             "hausse": false
           },
           {
-            "secteur_fr": "Secteur des médias",
-            "secteur_en": "Media sector",
-            "secteur_zh": "媒体行业",
-            "effet_fr": "Les révélations médiatiques amplifient la polarisation et augmentent l'audience, mais risquent aussi de saper la confiance dans les institutions journalistiques.",
-            "effet_en": "Media revelations amplify polarization and boost viewership but risk undermining trust in journalistic institutions.",
-            "effet_zh": "媒体披露加剧了极化并提升收视率，但也可能损害对新闻机构的信任。",
+            "secteur_fr": "Assurance maritime",
+            "secteur_en": "Marine insurance",
+            "secteur_zh": "海运保险",
+            "effet_fr": "Les risques accrus dans l'Arctique pourraient faire monter les primes d'assurance pour les navires empruntant ces routes.",
+            "effet_en": "Increased risks in the Arctic could drive up insurance premiums for ships using these routes.",
+            "effet_zh": "北极风险增加可能推高使用这些航线船只的保险费用。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-12T20:04:05.401762"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-14T06:14:00.726572"
+      },
       {
         "id": "chine_167496",
         "titre": "Intel se relève face à TSMC en semi-conducteurs",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-12T08:17:07.347178"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_118614",
-        "titre": "Bindra évoque son or olympique de 2008",
-        "titre_en": "Bindra reflects on 2008 Olympic gold",
-        "titre_zh": "宾德拉回顾2008年奥运金牌",
-        "titre_ru": "Abhinav Bindra reflects on historic Olympic gold",
-        "titre_fa": "Abhinav Bindra reflects on historic Olympic gold",
-        "titre_ar": "Abhinav Bindra reflects on historic Olympic gold",
-        "titre_original": "Abhinav Bindra reflects on historic Olympic gold",
-        "resume": "Abhinav Bindra, premier Indien à remporter une médaille d'or olympique en individuel, a célébré le 18e anniversaire de sa victoire aux Jeux de Pékin. Il a partagé des réflexions sur son parcours et l'impact de cette médaille sur sa vie. Son histoire inspire les jeunes athlètes indiens.",
-        "resume_en": "Abhinav Bindra, India's first individual Olympic gold medalist, marked the 18th anniversary of his Beijing Games victory. He shared reflections on his journey and the impact of the medal on his life. His story inspires young Indian athletes.",
-        "resume_zh": "阿比纳夫·宾德拉，印度首位奥运会个人金牌得主，纪念他在北京奥运会夺冠18周年。他分享了对自己职业生涯和奖牌对生活影响的反思。他的故事激励着印度年轻运动员。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Abhinav Bindra est devenu une icône du sport indien en remportant l'or en tir à 25 mètres aux Jeux Olympiques de Pékin en 2008. Cette victoire a marqué un tournant pour le sport indien, souvent dominé par le cricket. À court terme, cette médaille a inspiré une génération d'athlètes indiens à se tourner vers d'autres disciplines. À moyen terme, elle a contribué à une augmentation des investissements dans les infrastructures sportives en Inde. À long terme, Bindra est devenu un symbole de persévérance et d'excellence, influençant les politiques sportives nationales. Les acteurs clés incluent Bindra lui-même, le Comité Olympique Indien, le gouvernement indien et les sponsors sportifs. Son héritage dépasse le sport, servant de modèle pour l'éducation et la discipline en Inde. La Chine, hôte des Jeux de 2008, a également tiré des leçons de cette victoire pour renforcer son propre modèle sportif. Cette médaille reste un symbole de fierté nationale pour l'Inde, malgré les défis persistants dans le développement du sport.",
-        "analyse_en": "Abhinav Bindra became an Indian sports icon by winning gold in the 25-meter shooting event at the 2008 Beijing Olympics. This victory marked a turning point for Indian sports, often dominated by cricket. In the short term, this medal inspired a generation of Indian athletes to explore other disciplines. Medium-term, it contributed to increased investments in Indian sports infrastructure. Long-term, Bindra became a symbol of perseverance and excellence, influencing national sports policies. Key actors include Bindra himself, the Indian Olympic Committee, the Indian government, and sports sponsors. His legacy extends beyond sports, serving as a model for education and discipline in India. China, host of the 2008 Games, also drew lessons from this victory to strengthen its own sports model. This medal remains a symbol of national pride for India despite ongoing challenges in sports development.",
-        "analyse_zh": "阿比纳夫·宾德拉在2008年北京奥运会男子25米手枪射击项目中夺冠，成为印度体育的偶像。这一胜利为印度体育带来转折，后者长期被板球主导。短期内，这枚金牌激励了一代印度运动员转向其他项目。中期来看，推动了印度体育基础设施投资的增加。长期而言，宾德拉成为坚韧与卓越的象征，影响国家体育政策。主要参与者包括宾德拉本人、印度奥委会、印度政府和体育赞助商。他的遗产超越体育，成为印度教育与纪律的榜样。作为2008年奥运东道主，中国也从这一胜利中汲取经验以加强自身体育模式。这枚金牌仍是印度民族自豪的象征，尽管体育发展面临持续挑战。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Sport et Société",
-        "source": "Rediff.com",
-        "url": "https://www.rediff.com/sports/report/18-years-ago-today-abhinav-bindra-reflects-on-his-historic-beijing-olympic-gold/20260811.htm",
-        "image": "https://im.rediff.com/1200-630/sports/2026/aug/11abhinav-bindra.jpg",
-        "date": "2026-08-11",
-        "pays": "chine",
+        "id": "russie_324380",
+        "titre": "Poutine provoque le Japon en visitant les îles Kouriles",
+        "titre_en": "Putin angers Japan with visit to Kuril Islands",
+        "titre_zh": "普京访问千岛群岛激怒日本",
+        "titre_ru": "Путин разозлил Японию первым визитом на Курилы",
+        "titre_fa": "پوتین با نخستین سفر به جزایر کوریل ژاپن را خشمگین کرد",
+        "titre_ar": "أغضب بوتين اليابان بزيارته الأولى لجزر الكوريل",
+        "titre_original": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
+        "resume": "Vladimir Poutine effectue la première visite d'un dirigeant russe aux îles Kouriles, revendiquées par le Japon. Tokyo proteste officiellement contre cette provocation territoriale. Les tensions autour de cet archipel, occupé par la Russie depuis 1945, persistent depuis des décennies.",
+        "resume_en": "Vladimir Putin made the first visit by a Russian leader to the Kuril Islands, claimed by Japan. Tokyo officially protested against this territorial provocation. Tensions over this archipelago, occupied by Russia since 1945, have persisted for decades.",
+        "resume_zh": "弗拉基米尔·普京成为首位访问千岛群岛的俄罗斯领导人，该群岛被日本声索。东京正式抗议这一领土挑衅。自1945年被俄罗斯占领以来，这一群岛的紧张局势已持续数十年。",
+        "resume_ru": "Президент России Владимир Путин впервые посетил спорные Курильские острова, что вызвало резкую реакцию Японии. Токио заявил о «сильном протесте» и назвал визит нарушением суверенитета. Острова, контролируемые Россией, являются предметом территориального спора с 1945 года.",
+        "resume_fa": "ولادیمیر پوتین، رئیس‌جمهور روسیه، برای نخستین بار از جزایر مورد مناقشه کوریل بازدید کرد که واکنش شدیدی از سوی ژاپن را در پی داشت. توکیو «اعتراض شدید» خود را اعلام کرد و این سفر را نقض حاکمیت خود دانست. این جزایر که تحت کنترل روسیه هستند، از سال ۱۹۴۵ موضوع اختلاف مرزی بوده‌اند.",
+        "resume_ar": "زار الرئيس الروسي فلاديمير بوتين جزر الكوريل المتنازع عليها لأول مرة، مما أثار رد فعل حاد من اليابان. أعلنت طوكيو «احتجاجاً شديداً» ووصف الزيارة بانتهاك سيادتها. هذه الجزر، التي تسيطر عليها روسيا، كانت موضوع نزاع حدودي منذ عام 1945.",
+        "analyse_detaillee": "La visite de Vladimir Poutine aux îles Kouriles s'inscrit dans une stratégie russe de renforcement de sa souveraineté sur ces territoires disputés depuis la fin de la Seconde Guerre mondiale. Historiquement, l'URSS a occupé ces îles en 1945, expulsant les populations japonaises, et Moscou n'a jamais cédé sur ce point malgré les revendications japonaises. À court terme, cette visite risque d'envenimer les relations déjà tendues entre la Russie et le Japon, déjà affectées par la guerre en Ukraine et les sanctions occidentales. À moyen terme, le Japon pourrait renforcer son alliance militaire avec les États-Unis, notamment via des exercices communs en mer du Japon. Sur le long terme, cette provocation pourrait retarder toute négociation future sur la souveraineté des îles, déjà bloquée depuis des décennies. Les États-Unis, alliés du Japon, pourraient utiliser cette crise pour justifier un renforcement de leur présence militaire en Asie-Pacifique. La Chine, partenaire de la Russie, pourrait adopter une position ambiguë pour ne pas s'aliéner Tokyo. Les populations locales des Kouriles, majoritairement russophones, soutiennent généralement Moscou. Les ressources naturelles de l'archipel, notamment halieutiques et énergétiques, restent un enjeu stratégique pour la Russie.",
+        "analyse_en": "Vladimir Putin's visit to the Kuril Islands is part of a Russian strategy to reinforce its sovereignty over these disputed territories since the end of World War II. Historically, the USSR occupied these islands in 1945, expelling Japanese populations, and Moscow has never relented despite Japanese claims. In the short term, this visit risks worsening already strained relations between Russia and Japan, already affected by the war in Ukraine and Western sanctions. In the medium term, Japan could strengthen its military alliance with the United States, particularly through joint exercises in the Sea of Japan. In the long term, this provocation could delay any future negotiations on the islands' sovereignty, already stalled for decades. The United States, Japan's ally, could use this crisis to justify a stronger military presence in the Asia-Pacific region. China, Russia's partner, may adopt an ambiguous stance to avoid alienating Tokyo. The local populations of the Kurils, mostly Russian-speaking, generally support Moscow. The archipelago's natural resources, particularly fisheries and energy, remain a strategic issue for Russia.",
+        "analyse_zh": "弗拉基米尔·普京访问千岛群岛是俄罗斯自二战结束以来强化对这些有争议领土主权的战略的一部分。历史上，苏联于1945年占领这些群岛，驱逐日本居民，莫斯科尽管面临日本的主权要求，但从未让步。短期内，此次访问可能恶化俄日之间本已紧张的关系，这些关系已因乌克兰战争和西方制裁而受损。中期来看，日本可能加强与美国的军事同盟，特别是在日本海的联合演习。长期而言，这一挑衅可能推迟任何关于群岛主权的未来谈判，这些谈判已因数十年的僵局而受阻。美国作为日本的盟友，可能利用这场危机为其在亚太地区增强军事存在的合理性辩护。作为俄罗斯伙伴的中国可能采取模糊立场，以避免疏远东京。千岛群岛的当地居民，多数为俄语人口，通常支持莫斯科。群岛的自然资源，特别是渔业和能源，对俄罗斯而言仍是战略要地。",
+        "analyse_ru": "Визит Владимира Путина на Курильские острова стал первым за его президентство и вызвал дипломатический скандал с Японией. Япония традиционно претендует на южные острова архипелага, что остаётся основным камнем преткновения в российско-японских отношениях. Путин, вероятно, стремился продемонстрировать контроль Москвы над территорией, особенно на фоне западных санкций. Реакция Японии была ожидаемой, так как любые шаги России в этом регионе воспринимаются как провокация. В долгосрочной перспективе этот инцидент может затормозить переговоры о мирном договоре между странами, которые ведутся десятилетиями.",
+        "analyse_fa": "سفر ولادیمیر پوتین به جزایر کوریل، که نخستین سفر او در دوران ریاست‌جمهوری‌اش بود، منجر به یک بحران دیپلماتیک با ژاپن شد. ژاپن به طور سنتی ادعای مالکیت جزایر جنوبی این مجمع‌الجزایر را دارد که همچنان اصلی‌ترین مانع در روابط روسیه و ژاپن است. پوتین احتمالاً می‌خواست کنترل مسکو بر این منطقه را به نمایش بگذارد، به ویژه در شرایط تحریم‌های غرب. واکنش ژاپن قابل پیش‌بینی بود، زیرا هر اقدام روسیه در این منطقه به عنوان یک تحریک تلقی می‌شود. در بلندمدت، این incident می‌تواند مذاکرات برای یک معاهده صلح بین دو کشور را که دهه‌ها به طول انجامیده است، کند کند.",
+        "analyse_ar": "أصبحت زيارة فلاديمير بوتين إلى جزر الكوريل، الأولى خلال فترة رئاسته، سبباً لأزمة دبلوماسية مع اليابان. تطالب اليابان تقليدياً بجزري الأرخبيل الجنوبيتين، وهو ما يظل العقبة الرئيسية في العلاقات الروسية اليابانية. من المحتمل أن بوتين سعى إلى إظهار سيطرة موسكو على الإقليم، خاصة في ظل العقوبات الغربية. كان رد فعل اليابان متوقعاً، إذ تُنظر أي خطوات روسية في المنطقة على أنها استفزاز. على المدى الطويل، قد يبطئ هذا الحادث المفاوضات بشأن معاهدة سلام بين البلدين، التي استمرت لعقود.",
+        "categorie": "Géopolitique",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/russias-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291",
+        "image": "https://static.dw.com/image/78345790_6.jpg",
+        "date": "2026-08-13",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des paris sportifs",
+            "label": "▲ Marché des armements",
             "hausse": true
           },
           {
-            "label": "▲ Marché des équipements sportifs",
-            "hausse": true
+            "label": "▼ Énergie",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des paris sportifs",
-            "secteur_en": "Sports betting sector",
-            "secteur_zh": "体育博彩行业",
-            "effet_fr": "Les performances indiennes aux Jeux Olympiques stimulent l'intérêt pour les paris sur les athlètes indiens, augmentant les volumes d'affaires dans ce secteur.",
-            "effet_en": "India's Olympic performances boost interest in betting on Indian athletes, increasing business volumes in this sector.",
-            "effet_zh": "印度在奥运会上的表现推动了对印度运动员的博彩兴趣，增加了该行业的业务量。",
+            "secteur_fr": "Marché des armements",
+            "secteur_en": "Arms market",
+            "secteur_zh": "军火市场",
+            "effet_fr": "Le Japon pourrait augmenter ses dépenses militaires et acheter davantage d'équipements américains pour contrer la Russie.",
+            "effet_en": "Japan could increase its military spending and purchase more U.S. equipment to counter Russia.",
+            "effet_zh": "日本可能增加军事开支，购买更多美国装备以对抗俄罗斯。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des équipements sportifs",
-            "secteur_en": "Sports equipment market",
-            "secteur_zh": "体育器材市场",
-            "effet_fr": "L'inspiration générée par Bindra pourrait augmenter la demande en équipements de tir et autres sports, bénéficiant aux fabricants locaux et internationaux.",
-            "effet_en": "The inspiration generated by Bindra could increase demand for shooting and other sports equipment, benefiting local and international manufacturers.",
-            "effet_zh": "宾德拉的榜样作用可能提升对射击和其他体育项目器材的需求，惠及本土和国际制造商。",
-            "hausse": true
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les tensions pourraient perturber les projets d'exportation de gaz russe vers le Japon via des gazoducs en Extrême-Orient.",
+            "effet_en": "Tensions could disrupt Russian gas export projects to Japan via pipelines in the Far East.",
+            "effet_zh": "紧张局势可能扰乱俄罗斯通过远东管道向日本出口天然气的项目。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-12T06:14:09.116672"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-14T06:14:00.726557"
+      },
       {
         "id": "russie_193862",
         "titre": "Poutine visite les îles Kouriles disputées",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-12T17:02:50.567957"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_272492",
-        "titre": "Déficit budgétaire russe en forte hausse malgré les revenus pétroliers",
-        "titre_en": "Russia's budget gap widens despite oil windfall",
-        "titre_zh": "俄预算赤字激增 despite 原油意外收入",
-        "titre_ru": "Российский бюджетный дефицит вырос несмотря на нефтяной бум",
-        "titre_fa": "کمبود بودجه روسیه افزایش یافت علی‌رغم سود نفتی",
-        "titre_ar": "العجز المالي الروسي يتسع رغم الطفرة النفطية",
-        "titre_original": "Russia Budget Gap Spikes Despite Oil Windfall Driven by Iran War",
-        "resume": "Le déficit budgétaire de la Russie a fortement augmenté en 2024, malgré des revenus pétroliers élevés tirés des tensions au détroit d'Ormuz. Les dépenses militaires liées à la guerre en Ukraine s'alourdissent. Le Kremlin peine à maîtriser les finances publiques.",
-        "resume_en": "Russia's budget deficit has sharply widened in 2024, despite high oil revenues driven by tensions in the Strait of Hormuz. Military spending tied to the war in Ukraine is ballooning. The Kremlin is struggling to control public finances.",
-        "resume_zh": "2024年俄罗斯预算赤字急剧扩大，尽管因霍尔木兹海峡紧张局势而获得高额石油收入。与乌克兰战争相关的军费开支激增。克里姆林宫难以控制公共财政。",
-        "resume_ru": "Дефицит российского бюджета резко вырос, несмотря на рекордные доходы от нефти. Причиной стало увеличение военных расходов на войну в Украине. Эксперты связывают это с санкциями и необходимостью поддерживать экономику в условиях изоляции. Правительство пытается сбалансировать бюджет, но сталкивается с трудностями.",
-        "resume_fa": "کمبود بودجه روسیه به شدت افزایش یافت، علی‌رغم درآمدهای نفتی بی‌سابقه. دلیل اصلی، افزایش هزینه‌های نظامی در جنگ اوکراین است. کارشناسان این را به تحریم‌ها و لزوم حمایت از اقتصاد در شرایط انزوا نسبت می‌دهند. دولت تلاش می‌کند بودجه را متعادل کند، اما با چالش‌هایی مواجه است.",
-        "resume_ar": "توسع العجز المالي الروسي بشكل حاد رغم الإيرادات النفطية القياسية. ويعود السبب الرئيسي إلى زيادة النفقات العسكرية في الحرب على أوكرانيا. ويربط الخبراء ذلك بالعقوبات والحاجة إلى دعم الاقتصاد في ظل العزلة. تحاول الحكومة موازنة الميزانية لكنها تواجه صعوبات.",
-        "analyse_detaillee": "La Russie, dont l'économie dépend à plus de 40% des revenus pétroliers et gaziers, fait face à une crise budgétaire structurelle aggravée par la guerre en Ukraine depuis 2022. Les enjeux principaux incluent la gestion d'un déficit croissant malgré des prix du pétrole historiquement élevés (liés aux tensions géopolitiques au Moyen-Orient), la capacité à financer une guerre coûteuse sans recourir à l'endettement massif, et la préservation de la stabilité sociale dans un contexte de sanctions occidentales. Les causes profondes remontent à la dépendance historique aux matières premières, aux réformes économiques incomplètes des années 1990-2000, et à la stratégie de Poutine de militarisation de l'économie pour consolider son pouvoir. À court terme, le déficit pourrait être comblé par des réserves accumulées ou des emprunts internes, mais au prix d'une inflation accrue et d'une pression sur le rouble. À moyen terme, une récession prolongée est probable si les sanctions persistent, avec un déclin des investissements étrangers et une fuite des cerveaux. Long terme, la Russie pourrait être contrainte de réorienter son économie vers des secteurs non énergétiques, mais cette transition semble improbable sans réformes profondes et une levée partielle des sanctions. Les acteurs comme le ministère des Finances, la Banque centrale russe et les oligarques proches du pouvoir doivent arbitrer entre austérité et soutien à l'effort de guerre, tandis que la population subit les conséquences d'une baisse des dépenses sociales et d'une inflation persistante.",
-        "analyse_en": "Russia, whose economy relies on over 40% of oil and gas revenues, faces a structural budget crisis exacerbated by the war in Ukraine since 2022. Key stakes include managing a growing deficit despite historically high oil prices (linked to Middle Eastern geopolitical tensions), the ability to finance a costly war without massive borrowing, and preserving social stability amid Western sanctions. Root causes trace back to historical dependence on raw materials, incomplete economic reforms in the 1990s-2000s, and Putin's strategy of militarizing the economy to consolidate power. In the short term, the deficit could be covered by accumulated reserves or internal borrowing, but at the cost of increased inflation and pressure on the ruble. Medium-term, prolonged recession is likely if sanctions persist, with a decline in foreign investment and brain drain. Long-term, Russia may be forced to reorient its economy toward non-energy sectors, but this transition seems unlikely without deep reforms and partial sanctions relief. Actors like the Ministry of Finance, the Russian Central Bank, and oligarchs close to power must balance austerity with support for the war effort, while the population bears the consequences of reduced social spending and persistent inflation.",
-        "analyse_zh": "俄罗斯经济对石油和天然气收入的依赖超过40%，自2022年乌克兰战争以来，面临结构性预算危机。主要影响包括在中东地缘政治紧张局势推动油价历史高位的情况下，管理不断扩大的赤字、在不大举借债的情况下为昂贵战争提供资金的能力，以及在西方制裁背景下维持社会稳定。深层原因可追溯至对大宗商品的历史依赖、1990-2000年代不完整的经济改革，以及普京为巩固权力而将经济军事化的战略。短期内，赤字可能通过累积储备或内部借贷弥补，但代价是通胀上升和卢布承压。中期来看，如果制裁持续，可能出现长期衰退，外国投资减少，人才外流。长期而言，俄罗斯可能被迫将经济转向非能源部门，但这一转型在缺乏深层改革和部分制裁解除的情况下似乎不太可能。财政部、俄罗斯央行和权贵精英等参与者必须在紧缩与支持战争努力之间权衡，而民众则承受社会支出下降和持续通胀的后果。",
-        "analyse_ru": "Российский бюджет столкнулся с резким увеличением дефицита, несмотря на рекордные доходы от продажи нефти. Контекст этой ситуации связан с военными расходами на войну в Украине, которые выросли многократно. Причины такого роста дефицита кроются в санкционной политике Запада, которая ограничивает доступ России к международным рынкам капитала. Последствия могут быть серьёзными: от девальвации рубля до снижения уровня жизни населения. Перспективы зависят от динамики цен на нефть и успеха военных операций. Позиции сторон разнятся: власти утверждают, что расходы оправданы, а оппозиция обвиняет правительство в неэффективном управлении. В Иране и других странах, зависимых от экспорта нефти, такая ситуация может спровоцировать экономические кризисы.",
-        "analyse_fa": "بودجه روسیه با وجود درآمدهای بی‌سابقه نفتی با کسری فزاینده‌ای مواجه شده است. زمینه این وضعیت به هزینه‌های نظامی در جنگ اوکراین بازمی‌گردد که به شدت افزایش یافته‌اند. دلایل این رشد کسری به سیاست تحریم‌های غرب مربوط می‌شود که دسترسی روسیه به بازارهای بین‌المللی سرمایه را محدود کرده است. پیامدها می‌تواند جدی باشد: از کاهش ارزش روبل تا کاهش سطح زندگی مردم. چشم‌اندازها به نوسانات قیمت نفت و موفقیت عملیات نظامی بستگی دارد. مواضع بازیگران متفاوت است: مقامات دولتی هزینه‌ها را موجه می‌دانند، در حالی که اپوزیسیون دولت را به مدیریت ناکارآمد متهم می‌کند. در ایران و سایر کشورهای وابسته به صادرات نفت، چنین وضعیتی می‌تواند بحران‌های اقتصادی را تشدید کند.",
-        "analyse_ar": "واجه الميزانية الروسية زيادة حادة في العجز رغم الإيرادات النفطية القياسية. ويرتبط سياق هذه الحالة بالنفقات العسكرية في الحرب على أوكرانيا، التي ارتفعت بشكل كبير. الأسباب وراء هذا النمو في العجز تعود إلى سياسة العقوبات الغربية التي تحد من وصول روسيا إلى أسواق رأس المال الدولية. يمكن أن تكون العواقب خطيرة: من انخفاض قيمة الروبل إلى انخفاض مستوى معيشة السكان. ترتبط الآفاق بتقلبات أسعار النفط ونجاح العمليات العسكرية. تختلف مواقف الأطراف: تؤكد السلطات أن النفقات مبررة، بينما تتهم المعارضة الحكومة بإدارة غير فعالة. في إيران والدول الأخرى المعتمدة على صادرات النفط، يمكن أن تؤدي هذه الحالة إلى أزمات اقتصادية.",
-        "categorie": "Géopolitique",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/pmn/business-pmn/russia-budget-gap-spikes-despite-oil-windfall-driven-by-iran-war",
-        "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/budget-gap-russias-budget-deficit-widens-as-kremlin-ramps-u.jpg",
-        "date": "2026-08-11",
-        "pays": "russie",
+        "id": "iran_159956",
+        "titre": "Le pétrole recule après six jours de hausse",
+        "titre_en": "Oil prices fall after six days of gains",
+        "titre_zh": "石油价格连涨六天后下跌",
+        "titre_ru": "Цена на нефть снижается после шестидневного роста",
+        "titre_fa": "قیمت نفت پس از شش روز رشد کاهش یافت",
+        "titre_ar": "تراجعت أسعار النفط بعد ستة أيام من الارتفاع",
+        "titre_original": "Oil edges lower, breaking six-day gain",
+        "resume": "Le prix du baril de pétrole baisse légèrement, mettant fin à une série de six jours de hausse consécutive. Les traders attendent des signes de réouverture du détroit d'Ormuz. Les tensions géopolitiques dans la région restent un facteur clé de volatilité.",
+        "resume_en": "Oil prices fell slightly, ending a six-day streak of consecutive gains. Traders are awaiting signs of the reopening of the Strait of Hormuz. Geopolitical tensions in the region remain a key volatility factor.",
+        "resume_zh": "石油价格略有下跌，结束了连续六天的上涨势头。交易员正在等待霍尔木兹海峡重新开放的迹象。该地区的地缘政治紧张局势仍是价格波动的关键因素。",
+        "resume_ru": "Цены на нефть немного снизились, прервав шестидневную серию роста. Торговцы ожидают сигналов о возможном возобновлении судоходства в Ормузском проливе. Напряжённость в регионе остаётся высокой из-за геополитических рисков.",
+        "resume_fa": "قیمت نفت پس از شش روز افزایش متوالی اندکی کاهش یافت. معامله‌گران در انتظار نشانه‌هایی از ازسرگیری کشتیرانی در تنگه هرمز هستند. تنش‌ها در منطقه به دلیل ریسک‌های ژئوپلیتیکی همچنان بالا است.",
+        "resume_ar": "تراجعت أسعار النفط قليلاً بعد ستة أيام من الارتفاع المتتالي. يتوقع المتداولون علامات على استئناف الملاحة في مضيق هرمز. لا تزال التوترات في المنطقة مرتفعة بسبب المخاطر الجيوسياسية.",
+        "analyse_detaillee": "La baisse récente du prix du pétrole intervient après une période de hausse liée aux tensions géopolitiques dans le golfe Persique, notamment autour du détroit d'Ormuz, une voie maritime stratégique pour le transport du pétrole. Historiquement, ce détroit a été le théâtre de crises majeures, comme le conflit entre l'Iran et l'Occident dans les années 2010. À court terme, la légère baisse pourrait refléter une attente des marchés quant à une désescalade ou à une réouverture progressive du trafic maritime. À moyen terme, si le détroit reste ouvert, les prix pourraient se stabiliser, mais une nouvelle crise pourrait provoquer une flambée des cours. Sur le long terme, la transition énergétique et la réduction de la dépendance au pétrole pourraient limiter l'impact de ces tensions. Les pays producteurs comme l'Arabie saoudite et la Russie pourraient ajuster leur production pour influencer les prix. Les États-Unis, via leurs réserves stratégiques, pourraient aussi jouer un rôle stabilisateur. L'Iran, en tant que puissance régionale, pourrait utiliser cette situation pour négocier des levées de sanctions. Les compagnies pétrolières internationales surveillent de près ces développements pour ajuster leurs stratégies d'investissement.",
+        "analyse_en": "The recent drop in oil prices follows a period of increase driven by geopolitical tensions in the Persian Gulf, particularly around the Strait of Hormuz, a critical maritime route for oil transport. Historically, this strait has been the site of major crises, such as the conflict between Iran and the West in the 2010s. In the short term, the slight decline may reflect market expectations of a de-escalation or gradual reopening of maritime traffic. In the medium term, if the strait remains open, prices could stabilize, but a new crisis could trigger a surge in prices. In the long term, the energy transition and reduced dependence on oil could limit the impact of these tensions. Oil-producing countries like Saudi Arabia and Russia may adjust their production to influence prices. The United States, through its strategic reserves, could also play a stabilizing role. Iran, as a regional power, might use this situation to negotiate sanctions relief. International oil companies are closely monitoring these developments to adjust their investment strategies.",
+        "analyse_zh": "石油价格的近期下跌发生在波斯湾地缘政治紧张局势导致油价上涨之后，特别是围绕霍尔木兹海峡这一石油运输战略要道。历史上，该海峡曾是重大危机的发生地，如2010年代伊朗与西方的冲突。短期内，轻微下跌可能反映市场对局势缓和或海上交通逐步重新开放的预期。中期来看，如果海峡保持开放，油价可能稳定，但新的危机可能引发价格暴涨。长期而言，能源转型和对石油依赖的减少可能限制这些紧张局势的影响。沙特阿拉伯和俄罗斯等产油国可能调整产量以影响价格。美国通过战略储备也可能发挥稳定作用。作为地区大国的伊朗可能利用这一局势谈判解除制裁。国际石油公司密切关注这些发展，以调整其投资战略。",
+        "analyse_ru": "Снижение цен на нефть после шестидневного роста отражает нестабильность на мировом рынке, связанную с геополитическими факторами. Ормузский пролив, через который проходит значительная часть мировых нефтяных поставок, остаётся зоной повышенного риска. Напряжённость между Ираном и западными странами, а также возможные санкции могут нарушить логистику. Торговцы проявляют осторожность, ожидая сигналов о стабилизации обстановки. В долгосрочной перспективе любые изменения в судоходстве через пролив могут привести к резким колебаниям цен на энергоносители.",
+        "analyse_fa": "کاهش قیمت نفت پس از شش روز رشد، ناپایداری در بازار جهانی را که به عوامل ژئوپلیتیکی مرتبط است، نشان می‌دهد. تنگه هرمز، که بخش عمده‌ای از عرضه جهانی نفت از آن عبور می‌کند، همچنان منطقه‌ای با ریسک بالا است. تنش بین ایران و کشورهای غربی، و همچنین تحریم‌های احتمالی، می‌تواند تدارکات را مختل کند. معامله‌گران با احتیاط عمل می‌کنند و منتظر نشانه‌هایی از ثبات هستند. در بلندمدت، هرگونه تغییر در کشتیرانی از طریق تنگه می‌تواند منجر به نوسانات شدید در قیمت انرژی شود.",
+        "analyse_ar": "يعكس تراجع أسعار النفط بعد ستة أيام من الارتفاع عدم الاستقرار في السوق العالمية، المرتبط بالعوامل الجيوسياسية. لا يزال مضيق هرمز، الذي تمر عبره نسبة كبيرة من إمدادات النفط العالمية، منطقة ذات مخاطر متزايدة. تظل التوترات بين إيران والدول الغربية، بالإضافة إلى العقوبات المحتملة، قادرة على تعطيل اللوجستيات. يتصرف المتداولون بحذر، في انتظار علامات الاستقرار. على المدى الطويل، يمكن لأي تغيير في الملاحة عبر المضيق أن يؤدي إلى تقلبات حادة في أسعار الطاقة.",
+        "categorie": "Économie",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/08/13/oil-edges-lower-breaking-six-day-gain/",
+        "image": "https://www.irishtimes.com/resizer/v2/BU3VQIPCWKGPW26XZGHODU5CEQ.jpg?smart=true&auth=8f2dca742ff3b9471d4473bf1a4fe4bd52990ed47458eba53802324477278cab&width=1200&height=630",
+        "date": "2026-08-13",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Budget de l'État russe",
+            "label": "▼ Marché pétrolier",
             "hausse": false
           },
           {
-            "label": "▼ Secteur énergétique russe (Gazprom, Rosneft)",
-            "hausse": false
+            "label": "▲ Assurance maritime",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Budget de l'État russe",
-            "secteur_en": "Russian state budget",
-            "secteur_zh": "俄罗斯国家预算",
-            "effet_fr": "L'élargissement du déficit pourrait forcer le Kremlin à réduire les dépenses sociales ou à augmenter les impôts, aggravant le mécontentement populaire et la pression sur le rouble.",
-            "effet_en": "The widening deficit could force the Kremlin to cut social spending or raise taxes, exacerbating public discontent and pressure on the ruble.",
-            "effet_zh": "",
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Une réouverture du détroit d'Ormuz pourrait augmenter l'offre mondiale de pétrole et faire baisser les prix.",
+            "effet_en": "Reopening the Strait of Hormuz could increase global oil supply and drive prices down.",
+            "effet_zh": "霍尔木兹海峡的重新开放可能增加全球石油供应，推动价格下跌。",
             "hausse": false
           },
           {
-            "secteur_fr": "Secteur énergétique russe (Gazprom, Rosneft)",
-            "secteur_en": "Russian energy sector (Gazprom, Rosneft)",
-            "secteur_zh": "俄罗斯能源行业（俄罗斯天然气工业股份公司、俄罗斯石油公司）",
-            "effet_fr": "Malgré des revenus pétroliers élevés, les entreprises énergétiques russes subissent les sanctions occidentales, limitant leur accès aux technologies et aux marchés internationaux.",
-            "effet_en": "Despite high oil revenues, Russian energy companies face Western sanctions, limiting access to technologies and international markets.",
-            "effet_zh": "",
-            "hausse": false
+            "secteur_fr": "Assurance maritime",
+            "secteur_en": "Marine insurance",
+            "secteur_zh": "海运保险",
+            "effet_fr": "Les tensions persistantes pourraient augmenter les primes d'assurance pour les navires traversant la région.",
+            "effet_en": "Persistent tensions could raise insurance premiums for ships passing through the region.",
+            "effet_zh": "持续的紧张局势可能提高穿越该地区船只的保险费用。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-12T15:59:16.169924"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-14T06:14:00.726565"
+      },
       {
         "id": "iran_7901",
         "titre": "Découverte d'un réseau de pores dans le combustible nucléaire",
@@ -5952,69 +6011,70 @@
           }
         ],
         "created_at": "2026-08-12T21:43:34.593507"
-      },
-      {
-        "id": "iran_609668",
-        "titre": "Douzaine de navires transfèrent du pétrole près du détroit d'Ormuz",
-        "titre_en": "A Dozen Ships Transfer Oil Near the Strait of Hormuz",
-        "titre_zh": "十二艘船在霍尔木兹海峡附近转运石油",
-        "titre_ru": "Дюжина судов перегружает нефть вблизи Ормуза",
-        "titre_fa": "دوازده کشتی در نزدیکی تنگه هرمز نفت جابه‌جا می‌کنند",
-        "titre_ar": "دزينة سفن تنقل النفط قرب مضيق هرمز",
-        "titre_original": "A Dozen Ships Switch Oil Outside Hormuz",
-        "resume": "Douze navires procèdent à des transferts de pétrole en mer d'Oman, près du détroit d'Ormuz. Cette opération contourne les restrictions imposées par les sanctions internationales. Les flux pétroliers restent essentiels pour l'approvisionnement mondial malgré les tensions géopolitiques.",
-        "resume_en": "Twelve ships are transferring oil in the Gulf of Oman, near the Strait of Hormuz. This operation bypasses international sanctions restrictions. Oil flows remain crucial for global supply despite geopolitical tensions.",
-        "resume_zh": "十二艘船在阿曼湾、霍尔木兹海峡附近转运石油。此举规避了国际制裁限制。尽管地缘政治紧张，石油流动对全球供应至关重要。",
-        "resume_ru": "В районе Ормузского пролива продолжается перегрузка нефти с дюжины танкеров. Это ключевой маршрут для транспортировки нефти из стран Персидского залива. Эксперты связывают такие операции с попытками обойти международные санкции и сохранить экспортные потоки.",
-        "resume_fa": "در نزدیکی تنگه هرمز، جابه‌جایی نفت از دوازده کشتی ادامه دارد. این مسیر کلیدی برای حمل نفت از کشورهای خلیج فارس است. کارشناسان این عملیات را با تلاش برای دور زدن تحریم‌های بین‌المللی و حفظ جریان صادرات مرتبط می‌دانند.",
-        "resume_ar": "في منطقة مضيق هرمز، يستمر نقل النفط من اثنتي عشرة ناقلة. هذا الممر الحيوي لنقل النفط من دول الخليج الفارسي. يربط الخبراء هذه العمليات بمحاولات الالتفاف على العقوبات الدولية والحفاظ على تدفقات التصدير.",
-        "analyse_detaillee": "Le détroit d'Ormuz est un point névralgique du commerce pétrolier mondial, reliant le golfe Persique à l'océan Indien. Les transferts de pétrole par des navires en mer d'Oman reflètent une stratégie pour contourner les sanctions imposées à l'Iran, notamment après son invasion de l'Ukraine. Les enjeux principaux incluent la stabilité des prix du pétrole et la sécurité des approvisionnements énergétiques. Les causes profondes résident dans les tensions géopolitiques entre l'Iran et les puissances occidentales, ainsi que dans la dépendance mondiale aux hydrocarbures du Moyen-Orient. À court terme, ces transferts pourraient stabiliser partiellement les marchés énergétiques. À moyen terme, ils risquent d'exacerber les tensions régionales et de pousser les pays importateurs à diversifier leurs sources d'approvisionnement. À long terme, cette situation pourrait accélérer la transition énergétique mondiale. Les acteurs comme l'Iran, les États-Unis, la Chine et les compagnies pétrolières internationales jouent un rôle clé dans cette dynamique.",
-        "analyse_en": "The Strait of Hormuz is a critical chokepoint in global oil trade, connecting the Persian Gulf to the Indian Ocean. Oil transfers by ships in the Gulf of Oman reflect a strategy to bypass sanctions imposed on Iran, particularly after its invasion of Ukraine. Key stakes include oil price stability and energy supply security. Root causes lie in geopolitical tensions between Iran and Western powers, as well as global dependence on Middle Eastern hydrocarbons. In the short term, these transfers could partially stabilize energy markets. In the medium term, they risk exacerbating regional tensions and pushing importing countries to diversify their supply sources. In the long term, this situation could accelerate the global energy transition. Actors like Iran, the U.S., China, and international oil companies play a key role in this dynamic.",
-        "analyse_zh": "霍尔木兹海峡是全球石油贸易的关键咽喉，连接波斯湾与印度洋。在阿曼湾的船只转运反映了规避对伊朗制裁的策略，特别是在其入侵乌克兰之后。主要挑战包括石油价格稳定和能源供应安全。深层原因在于伊朗与西方大国的地缘政治紧张局势，以及全球对中东烃类资源的依赖。短期内，这些转运可能部分稳定能源市场。中期来看，可能加剧地区紧张局势，并促使进口国多元化供应来源。长期而言，这种情况可能加速全球能源转型。伊朗、美国、中国及国际石油公司等各方在这一动态中扮演关键角色。",
-        "analyse_ru": "Перегрузка нефти в Ормузском проливе является частью стратегии стран Персидского залива по сохранению экспортных потоков в условиях санкционного давления. Такие операции позволяют обходить ограничения и поддерживать стабильность на рынке. Однако они также повышают риски экологических катастроф и конфликтов. Международное сообщество неоднозначно реагирует на такие практики, так как они могут нарушать международные нормы. В долгосрочной перспективе это может привести к ужесточению контроля за морскими перевозками в регионе.",
-        "analyse_fa": "جابه‌جایی نفت در تنگه هرمز بخشی از استراتژی کشورهای خلیج فارس برای حفظ جریان‌های صادراتی تحت فشار تحریم‌ها است. چنین عملیاتی امکان دور زدن محدودیت‌ها و حفظ ثبات در بازار را فراهم می‌کند. با این حال، آنها همچنین خطرات فاجعه‌های زیست‌محیطی و درگیری‌ها را افزایش می‌دهند. جامعه بین‌المللی به طور متناقضی به چنین اقداماتی واکنش نشان می‌دهد، زیرا ممکن است هنجارهای بین‌المللی را نقض کنند. در بلندمدت، این موضوع می‌تواند منجر به تشدید کنترل بر حمل و نقل دریایی در منطقه شود.",
-        "analyse_ar": "إن نقل النفط في مضيق هرمز هو جزء من استراتيجية دول الخليج الفارسي للحفاظ على تدفقات التصدير تحت ضغوط العقوبات. تسمح مثل هذه العمليات بالالتفاف على القيود والحفاظ على الاستقرار في السوق. ومع ذلك، فإنها تزيد أيضا من مخاطر الكوارث البيئية والنزاعات. تتفاعل المجتمع الدولي بشكل متناقض مع هذه الممارسات، لأنها قد تنتهك المعايير الدولية. على المدى الطويل، قد يؤدي ذلك إلى تشديد الرقابة على النقل البحري في المنطقة.",
-        "categorie": "Géopolitique",
-        "source": "Rigzone",
-        "url": "https://www.rigzone.com/news/wire/a_dozen_ships_switch_oil_outside_hormuz-11-aug-2026-184349-article/",
-        "image": "https://images.rigzone.com/images/news/articles/A-Dozen-Ships-Switch-Oil-Outside-Hormuz-184349-1200x628.png",
-        "date": "2026-08-11",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier mondial",
-            "hausse": false
-          },
-          {
-            "label": "▲ Secteur maritime",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier mondial",
-            "secteur_en": "Global oil market",
-            "secteur_zh": "全球石油市场",
-            "effet_fr": "Les transferts de pétrole stabilisent partiellement l'offre, limitant les risques de pénurie et les hausses brutales des prix.",
-            "effet_en": "Oil transfers partially stabilize supply, limiting scarcity risks and sharp price increases.",
-            "effet_zh": "石油转运部分稳定供应，降低短缺风险和价格暴涨。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur maritime",
-            "secteur_en": "Maritime sector",
-            "secteur_zh": "航运业",
-            "effet_fr": "L'augmentation des transferts en mer d'Oman stimule l'activité des compagnies maritimes, mais expose les navires à des risques accrus de piraterie ou de conflits.",
-            "effet_en": "Increased transfers in the Gulf of Oman boost maritime companies' activity but expose ships to higher risks of piracy or conflicts.",
-            "effet_zh": "阿曼湾转运增加刺激航运公司活动，但也使船只面临更高的海盗或冲突风险。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-12T20:04:05.401776"
       }
     ]
   },
   "politique": [
+    {
+      "id": "pol_femmes_211781",
+      "titre": "Canicules et harcèlement de rue",
+      "titre_en": "Heatwaves and street harassment",
+      "titre_zh": "热浪与街头骚扰",
+      "titre_ru": "Жара и домогательства на улицах: «Мужчины присваивают женское тело взглядом»",
+      "titre_fa": "گرما و آزار خیابانی: «چگونه مردان با نگاه بدن زنان را تصاحب می‌کنند»",
+      "titre_ar": "الحرارة والتحرش في الشوارع: «كيف يستولي الرجال على أجساد النساء بنظراتهم»",
+      "titre_original": "Canicules et harcèlement de rue : « Je ne supporte pas à quel point les hommes s’accaparent le corps féminin avec le regard »",
+      "resume": "La cinquième vague de canicule en France aggrave les violences faites aux femmes dans l'espace public. Les fortes chaleurs modifient les comportements et accentuent le harcèlement de rue. Les témoignages révèlent une exaspération face à l'appropriation masculine du corps féminin par le regard.",
+      "resume_en": "France's fifth heatwave intensifies violence against women in public spaces. Extreme temperatures alter behaviors and worsen street harassment. Testimonies highlight growing frustration over men's appropriation of women's bodies through gaze.",
+      "resume_zh": "法国第五波热浪加剧了公共空间中针对女性的暴力行为。极端高温改变行为并加剧街头骚扰。证言显示人们对男性通过目光占有女性身体的行为越发愤怒。",
+      "resume_ru": "Пятая волна жары приближается, и высокие температуры меняют привычки использования общественных пространств. Это усугубляет насилие в отношении женщин на улицах. Женщины жалуются на постоянные домогательства, которые становятся ещё невыносимее в жару.",
+      "resume_fa": "پنجمین موج گرما در راه است و دماهای بالا عادات استفاده از فضاهای عمومی را تغییر می‌دهد. این مسئله خشونت علیه زنان در خیابان‌ها را تشدید می‌کند. زنان از آزارهای خیابانی شکایت دارند که در گرما تحمل آن سخت‌تر می‌شود.",
+      "resume_ar": "الموجة الخامسة من الحرارة آتية، ودرجات الحرارة المرتفعة تغير عادات استخدام المساحات العامة. هذا يزيد من العنف ضد النساء في الشوارع. النساء يشتكين من التحرشات التي تصبح لا تطاق في الحر.",
+      "analyse_detaillee": "Le harcèlement de rue en période de canicule s'inscrit dans une histoire de domination masculine systémique dans l'espace public. Les enjeux actuels reflètent une prise de conscience croissante des violences sexistes, mais les solutions restent limitées. Les causes profondes incluent la culture du viol, la minimisation des agressions et l'impunité des harceleurs. À court terme, les femmes adoptent des stratégies d'évitement coûteuses en liberté. À moyen terme, cela renforce les inégalités d'accès à l'espace urbain et aux loisirs. À long terme, cette tendance pourrait accélérer les mobilisations féministes pour des villes plus sûres. Les acteurs politiques promettent des mesures, mais les associations dénoncent un manque d'action concrète. Les forces de l'ordre peinent à adapter leurs réponses aux violences sexistes.",
+      "analyse_en": "Street harassment during heatwaves reflects a historical systemic male domination in public spaces. Current stakes show growing awareness of sexist violence, yet solutions remain limited. Root causes include rape culture, downplaying of assaults, and harasser impunity. Short-term, women adopt costly avoidance strategies. Medium-term, this reinforces inequalities in access to urban spaces and leisure. Long-term, this trend could accelerate feminist mobilizations for safer cities. Political actors promise measures, but associations denounce a lack of concrete action. Law enforcement struggles to adapt responses to sexist violence.",
+      "analyse_zh": "热浪期间的街头骚扰反映了公共空间中男性系统性统治的历史根源。当前的问题显示对性别暴力的意识日益增长，但解决方案仍然有限。深层原因包括强奸文化、对侵犯行为的轻视以及骚扰者的免责。短期内，女性采用避免策略，这限制了她们的自由。中期来看，这加剧了对城市空间和休闲活动的不平等接触。长期来看，这一趋势可能加速女权运动对更安全城市的动员。政治行为者承诺采取措施，但协会谴责缺乏具体行动。执法部门难以调整对性别暴力的应对方式。",
+      "analyse_ru": "Контекст проблемы связан с изменением климата и учащением волн жары, что влияет на социальные взаимодействия. Причины насилия кроются в патриархальных стереотипах и безнаказанности мужчин. Последствия включают психологические травмы, ограничение свободы передвижения женщин и ухудшение качества жизни. Перспективы зависят от усиления правозащитных инициатив и изменения общественного сознания. Позиции сторон разделяются: одни требуют ужесточения законов, другие считают проблему культурной и нуждающейся в воспитательной работе.",
+      "analyse_fa": "زمینه این مسئله با تغییرات اقلیمی و افزایش موج‌های گرما مرتبط است که بر تعاملات اجتماعی تأثیر می‌گذارد. علل خشونت ریشه در کلیشه‌های پدرسالارانه و مصونیت مردان دارد. پیامدها شامل آسیب‌های روانی، محدودیت آزادی حرکت زنان و کاهش کیفیت زندگی است. چشم‌انداز به تلاش‌های حقوق بشری و تغییر آگاهی عمومی بستگی دارد. مواضع بازیگران متفاوت است: برخی خواستار تشدید قوانین هستند، در حالی که دیگران مسئله را فرهنگی می‌دانند و به آموزش نیاز دارد.",
+      "analyse_ar": "سياق المشكلة مرتبط بتغير المناخ وازدياد موجات الحر التي تؤثر على التفاعلات الاجتماعية. الأسباب تكمن في الصور النمطية الأبوية والإفلات من العقاب للرجال. العواقب تشمل الأضرار النفسية، تقييد حرية تنقل النساء، وتدهور جودة الحياة. الآفاق تعتمد على уси уси الجهود الحقوقية وتغيير الوعي العام. مواقف الأطراف متباينة: البعض يطالب بتشديد القوانين، بينما يرى آخرون أن المشكلة ثقافية وتحتاج إلى تربية.",
+      "categorie": "Société",
+      "source": "L'Obs",
+      "url": "https://www.nouvelobs.com/societe/20260813.OBS117373/canicules-et-harcelement-de-rue-je-ne-supporte-pas-a-quel-point-les-hommes-s-accaparent-le-corps-feminin-avec-le-regard.html",
+      "image": "https://focus.nouvelobs.com/2026/08/12/0/0/6000/4000/1200/800/0/0/acab72d_upload-1-x6m0xnpemait-sipa-01046794-000003.jpg",
+      "date": "2026-08-13",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▼ Tourisme urbain",
+          "hausse": false
+        },
+        {
+          "label": "▲ Assurances",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Tourisme urbain",
+          "secteur_en": "Urban tourism",
+          "secteur_zh": "城市旅游业",
+          "effet_fr": "La baisse de fréquentation des espaces publics par les femmes en période de canicule réduit les revenus des commerces et restaurants dépendant de cette clientèle.",
+          "effet_en": "Reduced female presence in public spaces during heatwaves lowers revenues for businesses and restaurants reliant on this clientele.",
+          "effet_zh": "热浪期间女性减少在公共空间的出现，降低了依赖这类客源的商店和餐厅收入。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Assurances",
+          "secteur_en": "Insurance sector",
+          "secteur_zh": "保险行业",
+          "effet_fr": "L'augmentation des signalements de violences sexistes pourrait entraîner une hausse des primes d'assurance pour les femmes et les entreprises exposées.",
+          "effet_en": "Rising reports of sexist violence may lead to higher insurance premiums for women and exposed businesses.",
+          "effet_zh": "性别暴力报告增加可能导致女性和受影响企业的保险费用上涨。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-08-14T06:14:22.177181",
+      "sous_categorie": "femmes"
+    },
     {
       "id": "pol_femmes_895501",
       "titre": "Marche blanche pour Katerina Lukesova",
@@ -6313,66 +6373,6 @@
         }
       ],
       "created_at": "2026-08-09T20:31:07.061176",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_466832",
-      "titre": "Féminicide d'Assia : l'affaire des Buttes-Chaumont",
-      "titre_en": "Assia's Feminicide: Buttes-Chaumont Case",
-      "titre_zh": "阿西亚女权谋杀案：布特查蒙公园案",
-      "titre_ru": "Феминицид Ассии: дело Бют-Шомон",
-      "titre_fa": "قتل زنانه آسیا: پرونده بوته-شومون",
-      "titre_ar": "فيمينيسايد آسية: قضية بوات شومون",
-      "titre_original": "Féminicide d'Assia : retour sur l'affaire des Buttes-Chaumont",
-      "resume": "En février 2023, des employés du parc parisien des Buttes-Chaumont découvrent des sacs-poubelles contenant les restes d'une femme. L'affaire, qualifiée de féminicide, a choqué la France à la veille de la Saint-Valentin. Les investigations ont révélé un crime particulièrement violent et prémédité.",
-      "resume_en": "In February 2023, park employees in Paris's Buttes-Chaumont discovered trash bags containing a woman's remains. The case, labeled a feminicide, shocked France on the eve of Valentine's Day. Investigations revealed a particularly violent and premeditated crime.",
-      "resume_zh": "2023年2月，巴黎布特查蒙公园的员工发现垃圾袋内藏有女性遗骸。该案被定性为女权谋杀案，震惊法国并恰逢情人节前夕。调查显示这是一起极其暴力且有预谋的犯罪。",
-      "resume_ru": "В феврале 2023 года в парке Бют-Шомон в Париже были обнаружены останки женщины в мусорных мешках. Это преступление потрясло Францию накануне Дня святого Валентина. Полиция начала расследование, но дело до сих пор остаётся нераскрытым.",
-      "resume_fa": "در فوریه ۲۰۲۳ میلادی، بقایای جسد یک زن در کیسه‌های زباله در پارک بوته-شومون پاریس کشف شد. این جنایت فرانسه را در آستانه روز ولنتاین به وحشت انداخت. پلیس تحقیقات را آغاز کرد، اما پرونده هنوز حل نشده است.",
-      "resume_ar": "في فبراير 2023، عُثر على بقايا جثة امرأة في أكياس قمامة في حديقة بوات شومون بباريس. صدمت هذه الجريمة فرنسا عشية عيد الحب. بدأت الشرطة التحقيق، لكن القضية لا تزال دون حل.",
-      "analyse_detaillee": "Cette affaire s'inscrit dans un contexte de hausse des féminicides en France, avec plus de 100 cas recensés chaque année. Les violences conjugales et les crimes misogynes restent des enjeux sociétaux majeurs, malgré les lois renforcées comme le Grenelle des violences conjugales en 2019. Les causes profondes incluent la culture patriarcale, l'impunité des agresseurs et le manque de moyens pour les associations d'aide aux victimes. À court terme, cette affaire a relancé le débat sur la protection des femmes et la prévention des violences. À moyen terme, elle pourrait entraîner un durcissement des peines pour féminicides et une meilleure formation des forces de l'ordre. Sur le long terme, elle interroge la capacité de la société à éradiquer ces violences systémiques. Les acteurs politiques, associatifs et médiatiques ont tous pointé du doigt l'urgence d'agir, mais les mesures concrètes peinent à se concrétiser.",
-      "analyse_en": "This case fits into a context of rising feminicides in France, with over 100 cases recorded each year. Domestic violence and misogynistic crimes remain major societal issues, despite strengthened laws like the 2019 Grenelle des violences conjugales. Root causes include patriarchal culture, impunity for aggressors, and insufficient resources for victim support associations. In the short term, this case reignited debates on women's protection and violence prevention. In the medium term, it could lead to harsher penalties for feminicides and better training for law enforcement. Long-term, it questions society's ability to eradicate these systemic violences. Political, associative, and media actors have all emphasized the urgency to act, but concrete measures struggle to materialize.",
-      "analyse_zh": "此案发生在法国女性谋杀案激增的背景下，每年记录的案件超过100起。家庭暴力和仇视女性犯罪仍是重大社会问题，尽管2019年通过了《家庭暴力国民大会》等加强法律。深层原因包括父权文化、施暴者免于惩罚以及对受害者援助协会资源不足。短期内，此案重新引发对女性保护和暴力预防的讨论。中期来看，可能导致对女性谋杀案的更严厉惩罚和警方培训改善。长期而言，它质疑社会根除这些系统性暴力的能力。政治、社团和媒体各方均强调行动的紧迫性，但具体措施仍难以落实。",
-      "analyse_ru": "Дело Бют-Шомон стало символом растущей проблемы феминицидов во Франции. Контекст связан с усилением насилия в отношении женщин, особенно в общественных местах. Причины могут включать гендерное неравенство, неэффективность правоохранительных органов и социальные стереотипы. Последствия — ужесточение мер безопасности и активизация женских движений. Перспективы зависят от политической воли и общественного давления. Позиции сторон разделились: одни требуют ужесточения законов, другие обвиняют власти в бездействии.",
-      "analyse_fa": "پرونده بوته-شومون نماد افزایش قتل‌های زنانه در فرانسه شد. زمینه آن به نابرابری جنسیتی و خشونت علیه زنان در مکان‌های عمومی بازمی‌گردد. علل شامل ناکارآمدی پلیس و نگرش‌های اجتماعی است. پیامدها شامل افزایش امنیت و جنبش‌های فمینیستی است. چشم‌انداز به اراده سیاسی و فشار جامعه بستگی دارد. مواضع متفاوت است: برخی خواستار قوانین سخت‌گیرانه‌تر هستند، برخی دولت را به بی‌عملی متهم می‌کنند.",
-      "analyse_ar": "قضية بوات شومون أصبحت رمزاً لمشكلة متزايدة من الفيمينيسايد في فرنسا. السياق مرتبط بازدياد العنف ضد النساء، خاصة في الأماكن العامة. الأسباب تشمل عدم المساواة بين الجنسين وضعف أجهزة إنفاذ القانون والمفاهيم الاجتماعية. العواقب تتمثل في تشديد إجراءات الأمن وتحركات نسوية نشطة. الآفاق تعتمد على الإرادة السياسية والضغط المجتمعي. مواقف الأطراف متباينة: البعض يطالب بتشديد القوانين، بينما يتهم آخرون السلطات بالتقصير.",
-      "categorie": "Société",
-      "source": "Blast-info.fr",
-      "url": "https://www.blast-info.fr/articles/2026/feminicide-dassia-retour-sur-l-affaire-des-buttes-chaumont-1niJyuCJQtuL5gujCgv3Kw",
-      "image": "https://static.blast-info.fr/stories/2026/open_graph-feminicide-dassia-retour-sur-l-affaire-des-buttes-chaumont-1niJyuCJQtuL5gujCgv3Kw.jpg",
-      "date": "2026-07-27",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ marché de l'assurance",
-          "hausse": true
-        },
-        {
-          "label": "▼ secteur de la sécurité privée",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "marché de l'assurance",
-          "secteur_en": "insurance market",
-          "secteur_zh": "保险市场",
-          "effet_fr": "L'augmentation des féminicides pourrait entraîner une hausse des primes d'assurance habitation et responsabilité civile pour les ménages, en raison du risque accru de réclamations.",
-          "effet_en": "The rise in feminicides could lead to higher home insurance and liability premiums for households due to increased claims risk.",
-          "effet_zh": "女性谋杀案的增加可能因索赔风险上升，导致家庭住房保险和责任保险保费上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "secteur de la sécurité privée",
-          "secteur_en": "private security sector",
-          "secteur_zh": "私人安保行业",
-          "effet_fr": "La demande en services de sécurité privée pourrait croître, notamment pour la protection des femmes vulnérables ou des espaces publics sensibles.",
-          "effet_en": "Demand for private security services could grow, particularly for protecting vulnerable women or sensitive public spaces.",
-          "effet_zh": "对私人安保服务的需求可能增长，特别是保护弱势女性或敏感公共空间。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-07-28T12:54:29.441868",
       "sous_categorie": "femmes"
     },
     {
