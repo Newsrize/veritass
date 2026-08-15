@@ -1,7 +1,66 @@
 {
-  "last_updated": "15/08/2026 à 08h26",
+  "last_updated": "15/08/2026 à 09h25",
   "articles": {
     "monde": [
+      {
+        "id": "monde_111897",
+        "titre": "L'État-entreprise et la gouvernance cybersécurité",
+        "titre_en": "The corporate state and cybersecurity governance",
+        "titre_zh": "企业国家与网络安全治理",
+        "titre_ru": "Роль частных компаний в управлении кибербезопасностью",
+        "titre_fa": "نقش شرکت‌های خصوصی در حکمرانی امنیت سایبری",
+        "titre_ar": "دور الشركات الخاصة في إدارة الأمن السيبراني",
+        "titre_original": "The company state and its discontents: tracing the emergence of private authority in cybersecurity governance",
+        "resume": "Une thèse de 2025 analyse l'émergence de l'autorité privée dans la gouvernance de la cybersécurité. L'étude se concentre sur le rôle des entreprises dans la régulation des risques numériques. Les résultats soulignent les tensions entre acteurs publics et privés.",
+        "resume_en": "A 2025 thesis analyzes the emergence of private authority in cybersecurity governance. The study focuses on the role of corporations in regulating digital risks. Findings highlight tensions between public and private actors.",
+        "resume_zh": "2025年论文分析私营权力在网络安全治理中的兴起。研究关注企业在规范数字风险中的作用。结果显示公私行为者间的紧张关系。",
+        "resume_ru": "В диссертации Silva Dias исследуется рост влияния частных компаний в сфере кибербезопасности. Автор анализирует, как корпорации формируют политику безопасности вместо государств. Работа основана на данных Лондонской школы экономики и политических наук.",
+        "resume_fa": "در رساله Silva Dias به بررسی افزایش نفوذ شرکت‌های خصوصی در حوزه امنیت سایبری پرداخته شده است. نویسنده تحلیل می‌کند که چگونه شرکت‌ها به جای دولت‌ها، سیاست‌های امنیتی را شکل می‌دهند. این پژوهش بر اساس داده‌های مدرسه اقتصاد و علوم سیاسی لندن انجام شده است.",
+        "resume_ar": "تستعرض أطروحة Silva Dias نمو نفوذ الشركات الخاصة في مجال الأمن السيبراني. يحلل المؤلف كيف تشكل الشركات السياسات الأمنية بدلاً من الدول. تستند الدراسة إلى بيانات مدرسة لندن للاقتصاد والعلوم السياسية.",
+        "analyse_detaillee": "Cette thèse s'inscrit dans un contexte de multiplication des cybermenaces, notamment après les attaques majeures contre des infrastructures critiques ces dernières années. L'autorité privée émerge en raison de la lenteur des États à réguler efficacement le cyberespace. Les entreprises technologiques, comme les GAFAM, jouent un rôle croissant dans la définition des normes de sécurité. À court terme, cela pourrait améliorer la résilience des systèmes, mais à moyen terme, cela risque de créer des monopoles privés sur la sécurité numérique. À long terme, cela pourrait redéfinir la souveraineté des États dans le domaine numérique. Les États tentent de reprendre le contrôle via des régulations comme le RGPD ou le Digital Services Act. Les entreprises, quant à elles, cherchent à influencer ces régulations pour préserver leurs intérêts. Les citoyens pourraient être les grands perdants si cette privatisation de la sécurité numérique s'accentue.",
+        "analyse_en": "This thesis fits into a context of increasing cyber threats, particularly after major attacks on critical infrastructures in recent years. Private authority is emerging due to states' slow pace in effectively regulating cyberspace. Tech corporations like GAFAM are increasingly shaping security standards. In the short term, this could improve system resilience, but in the medium term, it risks creating private monopolies over digital security. Long-term, this could redefine state sovereignty in the digital realm. States are attempting to regain control through regulations like GDPR or the Digital Services Act. Corporations, meanwhile, seek to influence these regulations to protect their interests. Citizens could be the biggest losers if this privatization of digital security intensifies.",
+        "analyse_zh": "这篇论文植根于网络威胁日益增多的背景，特别是近年针对关键基础设施的重大攻击。由于国家在有效规范网络空间方面行动缓慢，私营权力正在兴起。科技企业如GAFAM在制定安全标准方面发挥越来越大的作用。短期内可能提高系统韧性，但中期可能形成私营垄断数字安全的风险。长期可能重新定义国家在数字领域的主权。各国试图通过《通用数据保护条例》或《数字服务法》等法规重新掌控局面。企业则试图影响这些法规以维护自身利益。如果这种数字安全私有化加剧，公民可能成为最大的受害者。",
+        "analyse_ru": "Исследование Silva Dias поднимает актуальную проблему частного влияния на кибербезопасность. В условиях цифровизации государства всё чаще делегируют полномочия частным структурам, что вызывает опасения по поводу прозрачности и подотчётности. Причины такого тренда кроются в технологическом отставании государств и необходимости быстрого реагирования на угрозы. Последствия могут включать монополизацию рынка и снижение государственного контроля. В перспективе потребуется разработка новых механизмов регулирования частной власти в киберпространстве. Позиции сторон варьируются от поддержки частных инициатив до требований ужесточения государственного контроля.",
+        "analyse_fa": "پژوهش Silva Dias مسئله مهم تأثیر شرکت‌های خصوصی بر امنیت سایبری را مطرح می‌کند. در عصر دیجیتالی شدن، دولت‌ها اغلب اختیارات خود را به ساختارهای خصوصی واگذار می‌کنند که نگرانی‌هایی درباره شفافیت و پاسخگویی ایجاد می‌کند. دلایل این روند شامل عقب‌ماندگی فناوری دولت‌ها و نیاز به واکنش سریع به تهدیدات است. پیامدها می‌تواند شامل انحصار بازار و کاهش کنترل دولتی باشد. در آینده، نیاز به تدوین مکانیسم‌های جدیدی برای تنظیم قدرت خصوصی در فضای سایبری وجود خواهد داشت. مواضع مختلف از حمایت از ابتکارات خصوصی تا درخواست کنترل شدیدتر دولتی متغیر است.",
+        "analyse_ar": "تثير أطروحة Silva Dias قضية التأثير المتزايد للشركات الخاصة على الأمن السيبراني. في ظل التحول الرقمي، تتخلى الدول بشكل متزايد عن سلطتها لصالح هيئات خاصة، مما يثير مخاوف بشأن الشفافية والمساءلة. أسباب هذا الاتجاه تشمل التخلف التكنولوجي للدول والحاجة إلى الاستجابة السريعة للتهديدات. قد تشمل العواقب احتكار السوق وانخفاض السيطرة الحكومية. في المستقبل، ستتطلب الحاجة إلى تطوير آليات جديدة لتنظيم السلطة الخاصة في الفضاء السيبراني. تختلف مواقف الأطراف بين دعم المبادرات الخاصة إلى المطالبة بتشديد السيطرة الحكومية.",
+        "categorie": "Technologie et société",
+        "source": "Lse.ac.uk",
+        "url": "https://researchonline.lse.ac.uk/id/eprint/140427/",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+        "date": "2026-08-14",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Secteur des assurances cyber",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur des technologies de défense",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des assurances cyber",
+            "secteur_en": "Cyber insurance sector",
+            "secteur_zh": "网络保险行业",
+            "effet_fr": "L'augmentation des risques numériques pourrait entraîner une hausse des primes d'assurance cyber, rendant les couvertures plus coûteuses pour les entreprises.",
+            "effet_en": "Increased digital risks could lead to higher cyber insurance premiums, making coverage more expensive for businesses.",
+            "effet_zh": "数字风险增加可能导致网络保险费用上涨，使企业覆盖成本更高。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des technologies de défense",
+            "secteur_en": "Defense technology sector",
+            "secteur_zh": "国防技术行业",
+            "effet_fr": "Les États pourraient investir davantage dans les solutions de cybersécurité souveraines pour réduire leur dépendance aux acteurs privés.",
+            "effet_en": "States may invest more in sovereign cybersecurity solutions to reduce dependence on private actors.",
+            "effet_zh": "各国可能加大对主权网络安全解决方案的投资，以减少对私营行为者的依赖。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-15T09:25:19.936966"
+      },
       {
         "id": "monde_716179",
         "titre": "Buemi et Di Grassi écrivent l'histoire de la F-E",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-14T13:03:43.888438"
-      },
-      {
-        "id": "monde_509970",
-        "titre": "Kanye Clark excité par son rôle en Floride",
-        "titre_en": "Kanye Clark excited for versatile role in Florida",
-        "titre_zh": "克拉克期待在佛罗里达多面角色",
-        "titre_ru": "Клей Кларк рад новой роли в нападении Флориды",
-        "titre_fa": "کلی کلارک مشتاق به ایفای نقش چندگانه در حمله فلوریدا",
-        "titre_ar": "كلاي كلارك متحمس للعب دور متعدد في هجوم فلوريدا",
-        "titre_original": "STAR Kanye Clark excited to play versatile role in Florida offense",
-        "resume": "Kanye Clark, transfuge de l'UCLA vers l'université de Floride, s'adapte à un nouveau rôle au sein de l'attaque. Il s'exprime sur ses ambitions pour la saison à venir. Son profil polyvalent pourrait être décisif pour les Gators.",
-        "resume_en": "Kanye Clark, who transferred from UCLA to the University of Florida, is embracing a new role in the offense. He shared his ambitions for the upcoming season. His versatility could be crucial for the Gators.",
-        "resume_zh": "从加州大学洛杉矶分校转会至佛罗里达大学的克拉克正在适应新的进攻角色。他分享了对新赛季的雄心壮志。他的多面性可能对Gators队至关重要。",
-        "resume_ru": "Клей Кларк перешел из UCLA в университет Флориды этим летом. Он рассчитывает на важную роль на позиции STAR. Спортсмен поделился своими ожиданиями во время предсезонных сборов.",
-        "resume_fa": "کلی کلارک از دانشگاه یو سی ال ای به فلوریدا منتقل شد. او قرار است نقش مهمی در پست استار داشته باشد. این بازیکن در طول اردوهای پیش فصل درباره انتظارات خود صحبت کرد.",
-        "resume_ar": "انتقل كاي كلارك من جامعة كاليفورنيا لوس أنجلوس إلى فلوريدا هذا الصيف. من المتوقع أن يلعب دوراً مهماً في مركز ستار. تحدث اللاعب خلال معسكر التدريب الخريفي عن توقعاته.",
-        "analyse_detaillee": "Kanye Clark incarne une tendance croissante des transferts inter-universitaires dans le sport universitaire américain, reflétant une logique de performance immédiate. Son rôle de STAR (Special Teams And Receiver) illustre l'évolution tactique des équipes cherchant à maximiser l'impact des joueurs polyvalents. Historiquement, les programmes comme la Floride ont toujours privilégié les profils athlétiques, mais l'accent sur la polyvalence s'intensifie avec l'arrivée de coaches modernes. Les enjeux principaux tournent autour de la cohésion d'équipe et de l'adaptation rapide de Clark à un système offensif différent. À court terme, son intégration pourrait booster les performances offensives des Gators, mais un échec pourrait nuire à sa crédibilité. À moyen terme, son succès pourrait inspirer d'autres transferts similaires, modifiant les dynamiques du recrutement universitaire. Long terme, cela pourrait renforcer la compétitivité de la Floride dans une conférence SEC déjà très exigeante. Les acteurs clés incluent Clark lui-même, l'entraîneur des Gators, et les autres joueurs qui doivent s'adapter à son style.",
-        "analyse_en": "Kanye Clark represents a growing trend of inter-university transfers in American college sports, driven by a logic of immediate performance. His STAR (Special Teams And Receiver) role highlights the tactical evolution of teams seeking to maximize the impact of versatile players. Historically, programs like Florida have always favored athletic profiles, but the emphasis on versatility is intensifying with the arrival of modern coaches. The main stakes revolve around team cohesion and Clark's rapid adaptation to a different offensive system. In the short term, his integration could boost the Gators' offensive performance, but a failure could harm his credibility. In the medium term, his success could inspire other similar transfers, altering recruitment dynamics in college sports. Long-term, this could strengthen Florida's competitiveness in an already demanding SEC conference. Key actors include Clark himself, the Gators' coach, and other players who must adapt to his style.",
-        "analyse_zh": "克拉克代表了美国大学体育中日益增长的跨校转会趋势，这种趋势由即时表现的逻辑驱动。他的STAR（特种部队与接球手）角色凸显了球队最大化多面手球员影响力的战术演变。历史上，佛罗里达等项目一直青睐运动能力强的球员，但随着现代教练的到来，对多面性的重视正在加强。主要影响在于团队凝聚力和克拉克对不同进攻体系的快速适应。短期内，他的融入可能提升Gators队的进攻表现，但失败可能损害他的信誉。中期来看，他的成功可能激发更多类似转会，改变大学体育招募动态。长期而言，这可能增强佛罗里达在竞争激烈的SEC联盟中的竞争力。关键参与者包括克拉克本人、Gators队教练以及其他必须适应其风格的球员。",
-        "analyse_ru": "Переход Кларка из одного университета в другой стал частью масштабной трансферной кампании в студенческом американском футболе. Его новая роль на позиции STAR требует универсальности, что может повысить конкурентоспособность команды Флориды. Причины такого решения включают стремление к новым вызовам и улучшение игровых перспектив. Последствия могут сказаться на результатах команды в предстоящем сезоне. Эксперты отмечают, что подобные переходы часто становятся ключевыми для развития карьеры молодых спортсменов.",
-        "analyse_fa": "انتقال کلارک از دانشگاهی به دانشگاه دیگر بخشی از کمپین انتقالات گسترده در فوتبال آمریکایی دانشگاهی است. نقش جدید او در پست استار نیازمند چندکاره بودن است که می‌تواند رقابت‌پذیری تیم فلوریدا را افزایش دهد. دلایل این تصمیم شامل تمایل به چالش‌های جدید و بهبود چشم‌اندازهای ورزشی است. پیامدهای این انتقال می‌تواند بر نتایج تیم در فصل آینده تأثیر بگذارد. کارشناسان معتقدند چنین انتقال‌هایی اغلب برای پیشرفت شغلی ورزشکاران جوان حیاتی هستند.",
-        "analyse_ar": "انتقال كلارك من جامعة إلى أخرى جزء من حملة انتقالات واسعة في كرة القدم الأمريكية الجامعية. يتطلب دوره الجديد في مركز ستار القدرة على التكيف مع مهام متعددة مما قد يعزز قدرة فريق فلوريدا التنافسية. أسباب هذا القرار تشمل الرغبة في تحديات جديدة وتحسين آفاق اللعب. قد تؤثر النتائج على أداء الفريق في الموسم القادم. يلاحظ الخبراء أن مثل هذه التحركات غالباً ما تكون حاسمة لتطوير مسيرة الرياضيين الشباب.",
-        "categorie": "Sport",
-        "source": "USA Today",
-        "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/08/13/florida-football-kanye-clark-fall-camp-quotes/91268409007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/f3bdcb59e41e6c4b162f8aaa4049addbb971c5117853135b7714977f5b5cf675/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgators_wire_usa_today_articles_447%2F3d1e242310f355c5e9c078acd9374ea4.jpg",
-        "date": "2026-08-13",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des transferts sportifs universitaires",
-            "hausse": true
-          },
-          {
-            "label": "▼ Sponsoring sportif universitaire",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts sportifs universitaires",
-            "secteur_en": "College sports transfer market",
-            "secteur_zh": "大学体育转会市场",
-            "effet_fr": "L'arrivée de Clark pourrait augmenter la valeur marchande des joueurs polyvalents dans le recrutement universitaire.",
-            "effet_en": "Clark's arrival could increase the market value of versatile players in college recruitment.",
-            "effet_zh": "克拉克的加入可能提升大学招募中多面手球员的市场价值。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Sponsoring sportif universitaire",
-            "secteur_en": "College sports sponsorship",
-            "secteur_zh": "大学体育赞助",
-            "effet_fr": "Une performance accrue de Clark pourrait attirer davantage de sponsors pour l'équipe des Gators.",
-            "effet_en": "Clark's improved performance could attract more sponsors to the Gators team.",
-            "effet_zh": "克拉克表现提升可能为Gators队吸引更多赞助商。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-14T11:04:25.119539"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_94414",
+        "titre": "Mémorial de la Seconde Guerre mondiale vandalisé",
+        "titre_en": "WWII Memorial in Washington vandalized",
+        "titre_zh": "华盛顿二战纪念碑被破坏",
+        "titre_ru": "Мемориал Второй мировой войны в Вашингтоне осквернён",
+        "titre_fa": "یادبود جنگ جهانی دوم در واشنگتن تخریب شد",
+        "titre_ar": "تخريب نصب الحرب العالمية الثانية في واشنطن",
+        "titre_original": "World War Two memorial in Washington vandalised with bubbles and graffiti",
+        "resume": "Le mémorial de la Seconde Guerre mondiale à Washington a été vandalisé avec des bulles de savon et des graffitis. Les autorités, dont la Garde nationale, sont intervenues sur place. Les enquêteurs tentent d'identifier les responsables de cette profanation.",
+        "resume_en": "The World War II Memorial in Washington was vandalized with soap bubbles and graffiti. Authorities, including the National Guard, responded to the scene. Investigators are working to identify those responsible for the desecration.",
+        "resume_zh": "华盛顿二战纪念碑遭肥皂泡和涂鸦破坏。当局包括国民警卫队已介入。调查人员正在追查肇事者。",
+        "resume_ru": "Мемориал Второй мировой войны в Вашингтоне был осквернён мыльными пузырями и граффити. Полиция и Национальная гвардия оперативно отреагировали на инцидент. Следователи работают над установлением виновных.",
+        "resume_fa": "یادبود جنگ جهانی دوم در واشنگتن با حباب‌های صابون و گرافیتی تخریب شد. پلیس و گارد ملی به سرعت به این حادثه واکنش نشان دادند. محققان در حال تلاش برای شناسایی عاملان هستند.",
+        "resume_ar": "تم تخريب نصب الحرب العالمية الثانية في واشنطن بالصابون والكتابة على الجدران. استجابت الشرطة وقوات الحرس الوطني بسرعة للحادثة. يعمل المحققون على تحديد المسؤولين.",
+        "analyse_detaillee": "Ce mémorial, inauguré en 2004, symbolise la mémoire des 16 millions d'Américains ayant servi pendant la Seconde Guerre mondiale. Les actes de vandalisme pourraient refléter des tensions sociales ou politiques aux États-Unis, où les divisions mémorielles restent vives. Les graffitis pourraient être liés à des mouvements contestataires ou à des actes isolés de provocation. À court terme, cela pourrait entraîner un renforcement des mesures de sécurité autour des sites historiques. À moyen terme, une polarisation accrue autour des symboles nationaux est possible. À long terme, cela pourrait nuire à la cohésion sociale et à la perception internationale des États-Unis comme nation unie. Le gouvernement américain et les associations d'anciens combattants condamnent fermement ces actes. Les forces de l'ordre privilégient une enquête approfondie pour éviter toute instrumentalisation politique.",
+        "analyse_en": "This memorial, inaugurated in 2004, symbolizes the memory of the 16 million Americans who served during World War II. The vandalism could reflect social or political tensions in the U.S., where memorial divisions remain strong. Graffiti may be linked to protest movements or isolated provocations. In the short term, this could lead to stricter security measures around historical sites. In the medium term, increased polarization around national symbols is possible. Long-term, it could harm social cohesion and the U.S.'s international image as a united nation. The U.S. government and veterans' associations strongly condemn these acts. Law enforcement is prioritizing a thorough investigation to prevent political exploitation.",
+        "analyse_zh": "这座于2004年揭幕的纪念碑象征着1600万参与二战的美国军人。破坏行为可能反映美国社会或政治紧张局势，特别是围绕记忆的分歧仍然强烈。涂鸦可能与抗议运动或零星挑衅行为相关。短期内可能导致对历史遗址安保措施的加强。中期可能加剧围绕国家象征的极化。长期可能损害社会凝聚力及美国作为统一国家的国际形象。美国政府和退伍军人协会强烈谴责这些行为。执法部门优先进行深入调查以避免政治利用。",
+        "analyse_ru": "Осквернение мемориала Второй мировой войны в США вызывает возмущение общественности и властей. Подобные акты вандализма могут быть связаны с политическими протестами или личными мотивами. Последствия включают усиление охраны памятников и ужесточение наказаний за вандализм. В перспективе власти США могут усилить меры безопасности вокруг культурных объектов. Позиция администрации направлена на защиту исторической памяти и уважение к жертвам войны.",
+        "analyse_fa": "تخریب یادبود جنگ جهانی دوم در آمریکا واکنش‌های گسترده‌ای را در پی داشته است. این اقدام می‌تواند ناشی از اعتراضات سیاسی یا دلایل شخصی باشد. پیامدهای آن شامل افزایش امنیت و مجازات‌های شدیدتر برای تخریب اماکن تاریخی است. در آینده، دولت آمریکا ممکن است اقدامات امنیتی بیشتری را در اطراف این مکان‌ها اعمال کند. موضع دولت بر حفظ یاد و خاطره قربانیان جنگ متمرکز است.",
+        "analyse_ar": "أدى تخريب نصب الحرب العالمية الثانية في الولايات المتحدة إلى غضب شعبي وسلطوي. قد يكون هذا الفعل ناتجاً عن احتجاجات سياسية أو دوافع شخصية. تشمل العواقب تعزيز الحراسة والعقوبات المشددة على التخريب. في المستقبل، قد تزيد السلطات الأمريكية من إجراءات الأمنية حول المعالم الثقافية. موقف الحكومة يركز على حماية الذاكرة التاريخية واحترام ضحايا الحرب.",
+        "categorie": "Sécurité et conflits",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/world-war-two-memorial-in-washington-vandalised-with-bubbles-and-graffiti/articleshow/133235109.cms",
+        "image": "https://img.etimg.com/thumb/msid-133235709,width-1200,height-630,imgsize-120878,overlay-economictimes/articleshow.jpg",
+        "date": "2026-08-14",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur du tourisme culturel",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur de l'assurance",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur du tourisme culturel",
+            "secteur_en": "Cultural tourism sector",
+            "secteur_zh": "文化旅游行业",
+            "effet_fr": "La dégradation du mémorial pourrait dissuader les touristes de visiter les sites historiques américains, réduisant les revenus liés au tourisme culturel.",
+            "effet_en": "The degradation of the memorial could deter tourists from visiting U.S. historical sites, reducing revenue from cultural tourism.",
+            "effet_zh": "纪念碑的破坏可能阻止游客参观美国历史遗址，减少文化旅游收入。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur de l'assurance",
+            "secteur_en": "Insurance sector",
+            "secteur_zh": "保险行业",
+            "effet_fr": "Les actes de vandalisme pourraient entraîner une hausse des primes d'assurance pour les sites culturels et historiques, augmentant les coûts de protection.",
+            "effet_en": "Acts of vandalism could lead to higher insurance premiums for cultural and historical sites, increasing protection costs.",
+            "effet_zh": "破坏行为可能导致文化和历史遗址的保险费用上涨，增加保护成本。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-15T09:25:19.936922"
+      },
       {
         "id": "usa_20444",
         "titre": "Trois exécutions en une journée aux États-Unis",
@@ -2406,65 +2465,6 @@
           }
         ],
         "created_at": "2026-08-14T13:03:43.888450"
-      },
-      {
-        "id": "usa_31033",
-        "titre": "L'Iran prolonge la guerre jusqu'à l'élection de Trump",
-        "titre_en": "Iran vows to prolong war until Trump out of office",
-        "titre_zh": "伊朗誓言战争延续至特朗普下台",
-        "titre_ru": "Иран обещает продлить войну до ухода Трампа",
-        "titre_fa": "ایران جنگ را تا خروج ترامپ تمدید خواهد کرد",
-        "titre_ar": "إيران تعد بتمديد الحرب حتى خروج ترامب",
-        "titre_original": "Iran updates: Tehran vows to prolong war until Trump is out of office",
-        "resume": "Un rapport du Pentagone estime que le blocus américain a coûté 4,8 milliards de dollars de revenus pétroliers à l'Iran. Téhéran menace de prolonger le conflit tant que Trump reste en fonction. La situation aggrave les tensions au Moyen-Orient.",
-        "resume_en": "A Pentagon report estimates the U.S. blockade cost Iran $4.8 billion in oil revenue. Tehran threatens to prolong the conflict as long as Trump remains in office. The situation is escalating tensions in the Middle East.",
-        "resume_zh": "五角大楼报告估计美国封锁使伊朗损失48亿美元石油收入。德黑兰威胁只要特朗普在任就延长冲突。局势加剧了中东紧张局势。",
-        "resume_ru": "По оценке Пентагона, первая блокада США нанесла Ирану ущерб в 4,8 миллиарда долларов от экспорта нефти. Тегеран заявил, что продолжит военные действия до смены президента США. Эксперты связывают это с внутренней политикой Ирана.",
-        "resume_fa": "بر اساس ارزیابی پنتاگون، اولین محاصره آمریکا باعث خسارت 4.8 میلیارد دلاری به ایران از محل صادرات نفت شد. تهران اعلام کرد که تا تغییر رئیس‌جمهور آمریکا به جنگ ادامه خواهد داد. کارشناسان این را به سیاست داخلی ایران مرتبط می‌دانند.",
-        "resume_ar": "وفقاً لتقييم البنتاغون، تسببت الحصار الأول الأمريكي في خسائر قدرها 4.8 مليار دولار لإيران من صادرات النفط. أعلن طهران أنه سيواصل الحرب حتى تغيير رئيس الولايات المتحدة. يربط الخبراء ذلك بالسياسة الداخلية الإيرانية.",
-        "analyse_detaillee": "La menace iranienne de prolonger la guerre jusqu'à la fin du mandat de Trump s'inscrit dans un contexte de tensions géopolitiques persistantes au Moyen-Orient, marqué par des décennies de rivalités entre Washington et Téhéran. Historiquement, les sanctions américaines contre l'Iran remontent à la révolution islamique de 1979, mais leur intensification sous Trump a atteint un niveau sans précédent avec le retrait de l'accord nucléaire en 2018. Les enjeux principaux incluent la stabilité régionale, la sécurité énergétique mondiale, et la crédibilité des États-Unis dans leur politique de pression maximale. Les causes profondes résident dans l'échec des négociations diplomatiques, la radicalisation des factions au pouvoir en Iran, et la perception d'une faiblesse américaine sous l'administration Trump. À court terme, cette stratégie iranienne pourrait aggraver les crises humanitaires en Syrie, au Yémen ou en Irak, tout en poussant Téhéran à renforcer ses alliances avec la Russie et la Chine. À moyen terme, cela pourrait conduire à une escalade militaire directe ou à des cyberattaques ciblées contre les infrastructures américaines. Long terme, une guerre prolongée risquerait de destabiliser davantage le golfe Persique, avec des répercussions sur les marchés énergétiques mondiaux. Les acteurs clés incluent l'administration Trump, le régime iranien, les alliés régionaux (Arabie saoudite, Israël), et les puissances internationales (Russie, Chine) cherchant à exploiter cette crise.",
-        "analyse_en": "Iran's threat to prolong the war until Trump leaves office fits into a context of persistent geopolitical tensions in the Middle East, marked by decades of rivalry between Washington and Tehran. Historically, U.S. sanctions against Iran date back to the 1979 Islamic Revolution, but their intensification under Trump reached unprecedented levels with the withdrawal from the nuclear deal in 2018. The main stakes include regional stability, global energy security, and the credibility of the United States in its maximum pressure policy. The root causes lie in the failure of diplomatic negotiations, the radicalization of factions in power in Iran, and the perception of American weakness under the Trump administration. In the short term, this Iranian strategy could worsen humanitarian crises in Syria, Yemen, or Iraq, while pushing Tehran to strengthen its alliances with Russia and China. In the medium term, this could lead to direct military escalation or targeted cyberattacks against U.S. infrastructure. Long-term, a prolonged war risks further destabilizing the Persian Gulf, with repercussions on global energy markets. Key actors include the Trump administration, the Iranian regime, regional allies (Saudi Arabia, Israel), and international powers (Russia, China) seeking to exploit this crisis.",
-        "analyse_zh": "伊朗威胁在特朗普任期内延长战争符合中东持续地缘政治紧张的背景，这种紧张由华盛顿与德黑兰数十年的对抗所标记。历史上，美国对伊朗的制裁始于1979年伊斯兰革命，但在特朗普执政下，随着2018年退出核协议，制裁强度达到了前所未有的水平。主要影响包括地区稳定、全球能源安全以及美国在其最大压力政策中的信誉。深层原因在于外交谈判的失败、伊朗当权派的激进化以及对特朗普政府下美国弱点的认知。短期内，伊朗的这一策略可能加剧叙利亚、也门或伊拉克的人道主义危机，同时推动德黑兰加强与俄罗斯和中国的联盟。中期来看，这可能导致直接军事升级或针对美国基础设施的网络攻击。长期而言，持续战争可能进一步破坏波斯湾稳定，对全球能源市场产生影响。关键参与者包括特朗普政府、伊朗政权、地区盟友（沙特阿拉伯、以色列）以及试图利用这场危机的国际大国（俄罗斯、中国）。",
-        "analyse_ru": "Заявление Ирана о продолжении войны до ухода Трампа отражает внутренние политические процессы в стране. Экономические санкции США, включая блокаду, серьезно ударили по иранской экономике, особенно по нефтяному сектору. Причины такой позиции включают стремление Тегерана сохранить влияние в регионе и отвлечь внимание от внутренних проблем. Последствия могут привести к дальнейшей эскалации конфликта и усилению напряженности. Перспективы зависят от исхода президентских выборов в США и реакции международного сообщества.",
-        "analyse_fa": "اعلام ایران درباره تمدید جنگ تا خروج ترامپ بازتابی از فرآیندهای سیاسی داخلی این کشور است. تحریم‌های اقتصادی آمریکا از جمله محاصره، ضربه شدیدی به اقتصاد ایران به ویژه بخش نفت وارد کرده است. دلایل چنین موضعی شامل تلاش تهران برای حفظ نفوذ در منطقه و منحرف کردن توجه از مشکلات داخلی است. پیامدها می‌تواند منجر به تشدید درگیری و افزایش تنش‌ها شود. چشم‌اندازها به نتیجه انتخابات ریاست‌جمهوری آمریکا و واکنش جامعه بین‌المللی بستگی دارد.",
-        "analyse_ar": "تعكس تصريحات إيران بشأن تمديد الحرب حتى خروج ترامب العمليات السياسية الداخلية في البلاد. أدت العقوبات الاقتصادية الأمريكية بما في ذلك الحصار إلى ضربات قاسية للاقتصاد الإيراني لا سيما قطاع النفط. الأسباب وراء هذا الموقف تشمل سعي طهران للحفاظ على نفوذها الإقليمي وتشتيت الانتباه عن المشكلات الداخلية. قد تؤدي العواقب إلى تصعيد الصراع وزيادة التوترات. تعتمد الآفاق على نتائج الانتخابات الرئاسية الأمريكية وردود الفعل الدولية.",
-        "categorie": "Géopolitique",
-        "source": "Newsnationnow.com",
-        "url": "https://www.newsnationnow.com/world/iran-vows-prolong-war-until-trump-leaves/",
-        "image": "https://s.yimg.com/lo/mysterio/api/bfed8a6943340cd119e5d12095a3d4c191c15e106e6e952c1677d3352fed23a2/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F527ea36d2146d708a65c877d6b28130d.png",
-        "date": "2026-08-13",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier mondial",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur de l'armement américain",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier mondial",
-            "secteur_en": "Global oil market",
-            "secteur_zh": "全球石油市场",
-            "effet_fr": "Le blocus américain pourrait réduire l'offre iranienne sur le marché, faisant monter les prix du pétrole à court terme.",
-            "effet_en": "The U.S. blockade could reduce Iranian supply on the market, driving up oil prices in the short term.",
-            "effet_zh": "美国封锁可能减少伊朗在市场上的供应，短期内推高石油价格。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur de l'armement américain",
-            "secteur_en": "U.S. arms industry",
-            "secteur_zh": "美国军火工业",
-            "effet_fr": "Une escalade des tensions pourrait augmenter les commandes militaires, bénéficiant aux grands groupes de défense américains.",
-            "effet_en": "An escalation of tensions could increase military orders, benefiting major U.S. defense contractors.",
-            "effet_zh": "紧张局势升级可能增加军事订单，惠及美国主要国防承包商。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-14T11:04:25.119574"
       }
     ],
     "chine": [
@@ -3651,6 +3651,65 @@
     ],
     "russie": [
       {
+        "id": "russie_344958",
+        "titre": "Japon condamne la visite de Poutine aux îles Kouriles",
+        "titre_en": "Japan condemns Putin's visit to disputed Kuril Islands",
+        "titre_zh": "日本谴责普京访问争议千岛群岛",
+        "titre_ru": "Премьер Японии осудил визит Путина на спорные острова",
+        "titre_fa": "نخست‌وزیر ژاپن دیدار پوتین از جزایر مورد مناقشه را محکوم کرد",
+        "titre_ar": "رئيس وزراء اليابان يدين زيارة بوتين للجزر المتنازع عليها",
+        "titre_original": "Japan PM says Putin’s visit to disputed islands ‘absolutely unacceptable’",
+        "resume": "Le Premier ministre japonais a qualifié la visite de Vladimir Poutine aux îles Kouriles de « absolument inacceptable ». Les médias russes ont rapporté cette visite historique. Le Japon revendique ces îles depuis la fin de la Seconde Guerre mondiale.",
+        "resume_en": "Japan's Prime Minister called Vladimir Putin's visit to the Kuril Islands 'absolutely unacceptable.' Russian state media reported the historic visit. Japan has claimed the islands since the end of World War II.",
+        "resume_zh": "日本首相称弗拉基米尔·普京访问千岛群岛「绝对不可接受」。俄罗斯官方媒体报道了此次历史性访问。日本自二战结束以来一直主张对这些岛屿的主权。",
+        "resume_ru": "Премьер-министр Японии Санаэ Такаити назвала визит Владимира Путина на спорные Курильские острова «абсолютно неприемлемым». Российские СМИ сообщили о первом в истории визите Путина на эти острова. Япония продолжает претендовать на их возвращение.",
+        "resume_fa": "نخست‌وزیر ژاپن، سانه تاکایچی، دیدار ولادیمیر پوتین از جزایر مورد مناقشه کوریل را «به طور کامل غیرقابل قبول» خواند. رسانه‌های روسی از نخستین دیدار پوتین از این جزایر در تاریخ خبر دادند. ژاپن همچنان خواستار بازپس‌گیری این جزایر است.",
+        "resume_ar": "أدان رئيس وزراء اليابان سانه تاكاييتشي زيارة فلاديمير بوتين للجزر الكوريلية المتنازع عليها بأنها «غير مقبولة على الإطلاق». أفادت وسائل الإعلام الروسية عن الزيارة التاريخية الأولى لبوتين لهذه الجزر. لا تزال اليابان تطالب باستعادتها.",
+        "analyse_detaillee": "Les îles Kouriles, situées entre le Japon et la Russie, sont un sujet de contentieux depuis 1945, lorsque l'URSS en a pris le contrôle à la fin de la Seconde Guerre mondiale. Le Japon revendique quatre des îles pour des raisons historiques et territoriales. Cette visite de Poutine, la première d'un dirigeant russe, est perçue comme une provocation majeure par Tokyo. À court terme, cela pourrait entraîner un rappel des ambassadeurs et une escalade diplomatique. À moyen terme, cela risque de compromettre les négociations en cours sur un traité de paix entre les deux pays. À long terme, cela pourrait renforcer les alliances du Japon avec les États-Unis et l'OTAN contre la Russie. La Chine, alliée de la Russie, pourrait aussi être indirectement affectée par cette tension. La Russie, en consolidant sa présence militaire dans la région, cherche à affirmer sa souveraineté. Le Japon, quant à lui, pourrait renforcer sa défense dans les îles du Nord.",
+        "analyse_en": "The Kuril Islands, located between Japan and Russia, have been a source of contention since 1945, when the USSR took control at the end of World War II. Japan claims four of the islands for historical and territorial reasons. Putin's visit, the first by a Russian leader, is seen as a major provocation by Tokyo. In the short term, this could lead to ambassador recalls and diplomatic escalation. In the medium term, it risks undermining ongoing negotiations for a peace treaty between the two countries. Long-term, this could strengthen Japan's alliances with the U.S. and NATO against Russia. China, Russia's ally, could also be indirectly affected by this tension. Russia, by consolidating its military presence in the region, seeks to assert its sovereignty. Japan, for its part, may strengthen its defenses in the Northern Islands.",
+        "analyse_zh": "千岛群岛位于日本与俄罗斯之间，自1945年苏联在二战结束时接管以来一直是争议焦点。日本基于历史和领土原因主张对其中四个岛屿的主权。普京此次访问是俄罗斯领导人首次访问，被东京视为重大挑衅。短期内可能导致召回大使和外交升级。中期可能破坏两国间和平条约谈判。长期可能加强日本与美国和北约对抗俄罗斯的联盟。中国作为俄罗斯盟友也可能间接受到此紧张局势影响。俄罗斯通过巩固地区军事存在寻求主权宣示。日本则可能加强北方四岛的防御。",
+        "analyse_ru": "Визит Путина на Курильские острова стал новым этапом в территориальном споре между Россией и Японией. Действия России могут быть расценены как попытка укрепить позиции на спорных территориях перед переговорами. Япония, в свою очередь, использует дипломатические каналы для защиты своих интересов. Последствия могут включать обострение отношений и усиление военного присутствия в регионе. В перспективе возможны новые раунды переговоров, но без уступок с обеих сторон. Позиции сторон остаются жёсткими: Россия не готова уступать, а Япония не отказывается от претензий.",
+        "analyse_fa": "دیدار پوتین از جزایر کوریل مرحله جدیدی در مناقشه ارضی بین روسیه و ژاپن است. اقدامات روسیه ممکن است به عنوان تلاش برای تقویت موقعیت خود در این سرزمین‌های مورد مناقشه پیش از مذاکرات تلقی شود. ژاپن نیز از کانال‌های دیپلماتیک برای دفاع از منافع خود استفاده می‌کند. پیامدها می‌تواند شامل تشدید روابط و افزایش حضور نظامی در منطقه باشد. در آینده، مذاکرات جدیدی ممکن است برگزار شود، اما بدون واگذاری از سوی هیچ یک از طرفین. مواضع طرفین همچنان سخت است: روسیه حاضر به واگذاری نیست و ژاپن از ادعاهای خود دست برنمی‌دارد.",
+        "analyse_ar": "أصبحت زيارة بوتين للجزر الكوريلية مرحلة جديدة في النزاع الإقليمي بين روسيا واليابان. قد تُفهم إجراءات روسيا على أنها محاولة لتعزيز موقفها في هذه الأراضي المتنازع عليها قبل المفاوضات. من جانبها، تستخدم اليابان القنوات الدبلوماسية للدفاع عن مصالحها. قد تشمل العواقب تصعيد العلاقات وزيادة الوجود العسكري في المنطقة. في المستقبل، قد تُجرى جولات جديدة من المفاوضات، لكن دون تنازلات من الجانبين. لا تزال مواقف الطرفين صارمة: روسيا غير مستعدة للتنازل واليابان لا تتنازل عن مطالباتها.",
+        "categorie": "Géopolitique",
+        "source": "Thechronicle.com.gh",
+        "url": "https://thechronicle.com.gh/japan-pm-says-putins-visit-to-disputed-islands-absolutely-unacceptable/",
+        "image": "https://thechronicle.com.gh/wp-content/uploads/2026/08/Russias-President-Vladimir-Putin-tastes-caviar-as-he-visits-Iturup-known-in-Japan-as-Etorofu.jpg",
+        "date": "2026-08-14",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Secteur de la défense japonaise",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur énergétique russe",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la défense japonaise",
+            "secteur_en": "Japanese defense sector",
+            "secteur_zh": "日本国防行业",
+            "effet_fr": "Cette visite pourrait accélérer les dépenses militaires japonaises, notamment dans les îles contestées, renforçant la demande pour des équipements de défense.",
+            "effet_en": "This visit could accelerate Japanese military spending, particularly in the disputed islands, increasing demand for defense equipment.",
+            "effet_zh": "此次访问可能加速日本军事支出，特别是在有争议的岛屿上，增加对国防装备的需求。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur énergétique russe",
+            "secteur_en": "Russian energy sector",
+            "secteur_zh": "俄罗斯能源行业",
+            "effet_fr": "Une escalade des tensions pourrait perturber les projets énergétiques russes dans la région, notamment les infrastructures gazières.",
+            "effet_en": "An escalation of tensions could disrupt Russian energy projects in the region, particularly gas infrastructure.",
+            "effet_zh": "紧张局势升级可能扰乱俄罗斯在该地区的能源项目，特别是天然气基础设施。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-15T09:25:19.936976"
+      },
+      {
         "id": "russie_51269",
         "titre": "L'OTAN abat un drone en Lettonie",
         "titre_en": "NATO jets shoot down drone in Latvian airspace",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-14T08:15:11.001894"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_324380",
-        "titre": "Poutine provoque le Japon en visitant les îles Kouriles",
-        "titre_en": "Putin angers Japan with visit to Kuril Islands",
-        "titre_zh": "普京访问千岛群岛激怒日本",
-        "titre_ru": "Путин разозлил Японию первым визитом на Курилы",
-        "titre_fa": "پوتین با نخستین سفر به جزایر کوریل ژاپن را خشمگین کرد",
-        "titre_ar": "أغضب بوتين اليابان بزيارته الأولى لجزر الكوريل",
-        "titre_original": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
-        "resume": "Vladimir Poutine effectue la première visite d'un dirigeant russe aux îles Kouriles, revendiquées par le Japon. Tokyo proteste officiellement contre cette provocation territoriale. Les tensions autour de cet archipel, occupé par la Russie depuis 1945, persistent depuis des décennies.",
-        "resume_en": "Vladimir Putin made the first visit by a Russian leader to the Kuril Islands, claimed by Japan. Tokyo officially protested against this territorial provocation. Tensions over this archipelago, occupied by Russia since 1945, have persisted for decades.",
-        "resume_zh": "弗拉基米尔·普京成为首位访问千岛群岛的俄罗斯领导人，该群岛被日本声索。东京正式抗议这一领土挑衅。自1945年被俄罗斯占领以来，这一群岛的紧张局势已持续数十年。",
-        "resume_ru": "Президент России Владимир Путин впервые посетил спорные Курильские острова, что вызвало резкую реакцию Японии. Токио заявил о «сильном протесте» и назвал визит нарушением суверенитета. Острова, контролируемые Россией, являются предметом территориального спора с 1945 года.",
-        "resume_fa": "ولادیمیر پوتین، رئیس‌جمهور روسیه، برای نخستین بار از جزایر مورد مناقشه کوریل بازدید کرد که واکنش شدیدی از سوی ژاپن را در پی داشت. توکیو «اعتراض شدید» خود را اعلام کرد و این سفر را نقض حاکمیت خود دانست. این جزایر که تحت کنترل روسیه هستند، از سال ۱۹۴۵ موضوع اختلاف مرزی بوده‌اند.",
-        "resume_ar": "زار الرئيس الروسي فلاديمير بوتين جزر الكوريل المتنازع عليها لأول مرة، مما أثار رد فعل حاد من اليابان. أعلنت طوكيو «احتجاجاً شديداً» ووصف الزيارة بانتهاك سيادتها. هذه الجزر، التي تسيطر عليها روسيا، كانت موضوع نزاع حدودي منذ عام 1945.",
-        "analyse_detaillee": "La visite de Vladimir Poutine aux îles Kouriles s'inscrit dans une stratégie russe de renforcement de sa souveraineté sur ces territoires disputés depuis la fin de la Seconde Guerre mondiale. Historiquement, l'URSS a occupé ces îles en 1945, expulsant les populations japonaises, et Moscou n'a jamais cédé sur ce point malgré les revendications japonaises. À court terme, cette visite risque d'envenimer les relations déjà tendues entre la Russie et le Japon, déjà affectées par la guerre en Ukraine et les sanctions occidentales. À moyen terme, le Japon pourrait renforcer son alliance militaire avec les États-Unis, notamment via des exercices communs en mer du Japon. Sur le long terme, cette provocation pourrait retarder toute négociation future sur la souveraineté des îles, déjà bloquée depuis des décennies. Les États-Unis, alliés du Japon, pourraient utiliser cette crise pour justifier un renforcement de leur présence militaire en Asie-Pacifique. La Chine, partenaire de la Russie, pourrait adopter une position ambiguë pour ne pas s'aliéner Tokyo. Les populations locales des Kouriles, majoritairement russophones, soutiennent généralement Moscou. Les ressources naturelles de l'archipel, notamment halieutiques et énergétiques, restent un enjeu stratégique pour la Russie.",
-        "analyse_en": "Vladimir Putin's visit to the Kuril Islands is part of a Russian strategy to reinforce its sovereignty over these disputed territories since the end of World War II. Historically, the USSR occupied these islands in 1945, expelling Japanese populations, and Moscow has never relented despite Japanese claims. In the short term, this visit risks worsening already strained relations between Russia and Japan, already affected by the war in Ukraine and Western sanctions. In the medium term, Japan could strengthen its military alliance with the United States, particularly through joint exercises in the Sea of Japan. In the long term, this provocation could delay any future negotiations on the islands' sovereignty, already stalled for decades. The United States, Japan's ally, could use this crisis to justify a stronger military presence in the Asia-Pacific region. China, Russia's partner, may adopt an ambiguous stance to avoid alienating Tokyo. The local populations of the Kurils, mostly Russian-speaking, generally support Moscow. The archipelago's natural resources, particularly fisheries and energy, remain a strategic issue for Russia.",
-        "analyse_zh": "弗拉基米尔·普京访问千岛群岛是俄罗斯自二战结束以来强化对这些有争议领土主权的战略的一部分。历史上，苏联于1945年占领这些群岛，驱逐日本居民，莫斯科尽管面临日本的主权要求，但从未让步。短期内，此次访问可能恶化俄日之间本已紧张的关系，这些关系已因乌克兰战争和西方制裁而受损。中期来看，日本可能加强与美国的军事同盟，特别是在日本海的联合演习。长期而言，这一挑衅可能推迟任何关于群岛主权的未来谈判，这些谈判已因数十年的僵局而受阻。美国作为日本的盟友，可能利用这场危机为其在亚太地区增强军事存在的合理性辩护。作为俄罗斯伙伴的中国可能采取模糊立场，以避免疏远东京。千岛群岛的当地居民，多数为俄语人口，通常支持莫斯科。群岛的自然资源，特别是渔业和能源，对俄罗斯而言仍是战略要地。",
-        "analyse_ru": "Визит Владимира Путина на Курильские острова стал первым за его президентство и вызвал дипломатический скандал с Японией. Япония традиционно претендует на южные острова архипелага, что остаётся основным камнем преткновения в российско-японских отношениях. Путин, вероятно, стремился продемонстрировать контроль Москвы над территорией, особенно на фоне западных санкций. Реакция Японии была ожидаемой, так как любые шаги России в этом регионе воспринимаются как провокация. В долгосрочной перспективе этот инцидент может затормозить переговоры о мирном договоре между странами, которые ведутся десятилетиями.",
-        "analyse_fa": "سفر ولادیمیر پوتین به جزایر کوریل، که نخستین سفر او در دوران ریاست‌جمهوری‌اش بود، منجر به یک بحران دیپلماتیک با ژاپن شد. ژاپن به طور سنتی ادعای مالکیت جزایر جنوبی این مجمع‌الجزایر را دارد که همچنان اصلی‌ترین مانع در روابط روسیه و ژاپن است. پوتین احتمالاً می‌خواست کنترل مسکو بر این منطقه را به نمایش بگذارد، به ویژه در شرایط تحریم‌های غرب. واکنش ژاپن قابل پیش‌بینی بود، زیرا هر اقدام روسیه در این منطقه به عنوان یک تحریک تلقی می‌شود. در بلندمدت، این incident می‌تواند مذاکرات برای یک معاهده صلح بین دو کشور را که دهه‌ها به طول انجامیده است، کند کند.",
-        "analyse_ar": "أصبحت زيارة فلاديمير بوتين إلى جزر الكوريل، الأولى خلال فترة رئاسته، سبباً لأزمة دبلوماسية مع اليابان. تطالب اليابان تقليدياً بجزري الأرخبيل الجنوبيتين، وهو ما يظل العقبة الرئيسية في العلاقات الروسية اليابانية. من المحتمل أن بوتين سعى إلى إظهار سيطرة موسكو على الإقليم، خاصة في ظل العقوبات الغربية. كان رد فعل اليابان متوقعاً، إذ تُنظر أي خطوات روسية في المنطقة على أنها استفزاز. على المدى الطويل، قد يبطئ هذا الحادث المفاوضات بشأن معاهدة سلام بين البلدين، التي استمرت لعقود.",
+        "id": "iran_1393",
+        "titre": "Priorité américaine : pétrole bon marché malgré la guerre",
+        "titre_en": "U.S. priority: cheap oil despite Iran war tensions",
+        "titre_zh": "美方优先：伊朗战争下廉价石油",
+        "titre_ru": "США приоритезируют дешёвое топливо в войне с Ираном",
+        "titre_fa": "آمریکا اولویت سوخت ارزان را در جنگ با ایران اعلام کرد",
+        "titre_ar": "أولوية النفط الرخيص في الحرب الأمريكية الإيرانية",
+        "titre_original": "Vance Says Cheap Oil and Gas Is Top U.S. Priority in Iran War",
+        "resume": "Le vice-président américain JD Vance a déclaré que la priorité des États-Unis dans le conflit avec l'Iran était de maintenir des prix bas du pétrole et du gaz. Les tensions persistent entre les deux pays. Les États-Unis maintiennent leur embargo sur l'Iran.",
+        "resume_en": "U.S. Vice President JD Vance stated that the priority in the conflict with Iran is to keep oil and gas prices low. Tensions between the two countries persist. The U.S. continues its embargo on Iran.",
+        "resume_zh": "美国副总统JD Vance表示，与伊朗冲突的首要任务是维持低油价。两国紧张局势持续。美国继续对伊朗实施封锁。",
+        "resume_ru": "Вице-президент США JD Vance заявил, что низкие цены на бензин являются главным приоритетом администрации во время войны с Ираном. США продолжают блокаду Ирана, несмотря на затяжной кризис. Администрация стремится избежать роста цен на энергоносители.",
+        "resume_fa": "معاون رئیس‌جمهور آمریکا، جی‌دی ونس، اعلام کرد که قیمت پایین بنزین اولویت اصلی دولت در جنگ با ایران است. آمریکا علی‌رغم بحران مداوم، تحریم‌های خود علیه ایران را ادامه می‌دهد. دولت تلاش می‌کند از افزایش قیمت انرژی جلوگیری کند.",
+        "resume_ar": "أعلن نائب رئيس الولايات المتحدة جاي دي فانس أن أسعار البنزين المنخفضة هي الأولوية الرئيسية للإدارة في الحرب مع إيران. تواصل الولايات المتحدة الحصار على إيران رغم الأزمة المطولة. تسعى الإدارة إلى منع ارتفاع أسعار الطاقة.",
+        "analyse_detaillee": "Les tensions entre les États-Unis et l'Iran remontent à la révolution islamique de 1979 et aux crises diplomatiques ultérieures. La priorité américaine sur les prix de l'énergie reflète la dépendance économique des États-Unis aux importations pétrolières et la nécessité de stabiliser les marchés. À court terme, cela pourrait éviter une flambée des prix à la pompe, mais risquerait d'aggraver les tensions régionales. À moyen terme, une escalade militaire ou des cyberattaques pourrait perturber les chaînes d'approvisionnement énergétique mondiales. À long terme, cela pourrait accélérer la transition énergétique américaine vers des sources alternatives. L'Iran, isolé économiquement, pourrait renforcer ses alliances avec la Russie et la Chine. Les États-Unis, tout en cherchant à affaiblir l'Iran, doivent éviter une crise pétrolière mondiale. Les marchés financiers surveillent de près l'évolution de ce conflit.",
+        "analyse_en": "Tensions between the U.S. and Iran date back to the 1979 Islamic Revolution and subsequent diplomatic crises. The U.S. focus on energy prices reflects its economic dependence on oil imports and the need to stabilize markets. In the short term, this could prevent pump price surges but risk escalating regional tensions. In the medium term, military escalation or cyberattacks could disrupt global energy supply chains. Long-term, this could accelerate the U.S. energy transition toward alternative sources. Iran, economically isolated, may strengthen ties with Russia and China. The U.S., while seeking to weaken Iran, must avoid a global oil crisis. Financial markets are closely monitoring the conflict's evolution.",
+        "analyse_zh": "美伊紧张局势可追溯至1979年伊斯兰革命及随后的外交危机。美国对能源价格的关注反映其对石油进口的经济依赖及稳定市场的需求。短期内可能避免油价暴涨，但可能加剧地区紧张。中期可能因军事升级或网络攻击扰乱全球能源供应链。长期可能加速美国向替代能源转型。伊朗在经济孤立下可能加强与俄罗斯和中国的联盟。美国在试图削弱伊朗的同时，必须避免全球石油危机。金融市场密切关注冲突发展。",
+        "analyse_ru": "Заявление вице-президента США JD Vance о приоритете низких цен на топливо в войне с Ираном отражает экономические и политические реалии. США стремятся избежать социальных волнений из-за роста цен на бензин, что может подорвать поддержку администрации. Блокада Ирана остаётся ключевым инструментом давления, но вызывает критику международного сообщества. Последствия могут включать усиление санкций и ответные меры Тегерана. В перспективе США могут искать компромиссные решения для стабилизации рынка энергоносителей.",
+        "analyse_fa": "اظهارات معاون رئیس‌جمهور آمریکا درباره اولویت سوخت ارزان در جنگ با ایران، واقعیت‌های اقتصادی و سیاسی را نشان می‌دهد. آمریکا تلاش دارد از نارضایتی‌های اجتماعی ناشی از افزایش قیمت بنزین جلوگیری کند. تحریم‌های ایران همچنان ابزار اصلی فشار است، اما انتقادهای بین‌المللی را به دنبال دارد. پیامدها می‌تواند شامل تشدید تحریم‌ها و واکنش‌های متقابل از سوی ایران باشد. در آینده، آمریکا ممکن است به دنبال راه‌حل‌های سازشکارانه برای ثبات بازار انرژی باشد.",
+        "analyse_ar": "أكد نائب رئيس الولايات المتحدة على أولوية أسعار الوقود المنخفضة في الحرب مع إيران، مما يعكس الحقائق الاقتصادية والسياسية. تحاول الولايات المتحدة تجنب الاحتجاجات الاجتماعية بسبب ارتفاع أسعار البنزين، مما قد يهدد دعم الإدارة. الحصار على إيران لا يزال أداة ضغط رئيسية، لكنه يواجه انتقادات دولية. قد تشمل العواقب تشديد العقوبات وردود فعل طهران. في المستقبل، قد تبحث الولايات المتحدة عن حلول توفيقية لاستقرار سوق الطاقة.",
         "categorie": "Géopolitique",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/russias-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291",
-        "image": "https://static.dw.com/image/78345790_6.jpg",
-        "date": "2026-08-13",
-        "pays": "russie",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Vance-Says-Cheap-Oil-and-Gas-Is-Top-US-Priority-in-Iran-War.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-14_2miy4zxlcg.jpg",
+        "date": "2026-08-14",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des armements",
-            "hausse": true
+            "label": "▼ Secteur pétrolier",
+            "hausse": false
           },
           {
-            "label": "▼ Énergie",
-            "hausse": false
+            "label": "▲ Secteur des technologies énergétiques",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des armements",
-            "secteur_en": "Arms market",
-            "secteur_zh": "军火市场",
-            "effet_fr": "Le Japon pourrait augmenter ses dépenses militaires et acheter davantage d'équipements américains pour contrer la Russie.",
-            "effet_en": "Japan could increase its military spending and purchase more U.S. equipment to counter Russia.",
-            "effet_zh": "日本可能增加军事开支，购买更多美国装备以对抗俄罗斯。",
-            "hausse": true
+            "secteur_fr": "Secteur pétrolier",
+            "secteur_en": "Oil sector",
+            "secteur_zh": "石油行业",
+            "effet_fr": "Une stabilisation des prix pourrait soutenir la croissance économique américaine mais fragiliserait les producteurs de pétrole à haut coût.",
+            "effet_en": "Stabilizing prices could support U.S. economic growth but weaken high-cost oil producers.",
+            "effet_zh": "稳定价格可能支持美国经济增长，但会削弱高成本石油生产商。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy sector",
-            "secteur_zh": "能源行业",
-            "effet_fr": "Les tensions pourraient perturber les projets d'exportation de gaz russe vers le Japon via des gazoducs en Extrême-Orient.",
-            "effet_en": "Tensions could disrupt Russian gas export projects to Japan via pipelines in the Far East.",
-            "effet_zh": "紧张局势可能扰乱俄罗斯通过远东管道向日本出口天然气的项目。",
-            "hausse": false
+            "secteur_fr": "Secteur des technologies énergétiques",
+            "secteur_en": "Energy technology sector",
+            "secteur_zh": "能源技术行业",
+            "effet_fr": "Les tensions pourraient accélérer les investissements dans les énergies renouvelables et les technologies de substitution.",
+            "effet_en": "Tensions could accelerate investments in renewable energy and alternative technologies.",
+            "effet_zh": "紧张局势可能加速对可再生能源和替代技术的投资。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-14T06:14:00.726557"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-15T09:25:19.936953"
+      },
       {
         "id": "iran_735878",
         "titre": "Trafic maritime en chute dans le détroit d'Ormuz",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-14T08:15:11.001836"
-      },
-      {
-        "id": "iran_159956",
-        "titre": "Le pétrole recule après six jours de hausse",
-        "titre_en": "Oil prices fall after six days of gains",
-        "titre_zh": "石油价格连涨六天后下跌",
-        "titre_ru": "Цена на нефть снижается после шестидневного роста",
-        "titre_fa": "قیمت نفت پس از شش روز رشد کاهش یافت",
-        "titre_ar": "تراجعت أسعار النفط بعد ستة أيام من الارتفاع",
-        "titre_original": "Oil edges lower, breaking six-day gain",
-        "resume": "Le prix du baril de pétrole baisse légèrement, mettant fin à une série de six jours de hausse consécutive. Les traders attendent des signes de réouverture du détroit d'Ormuz. Les tensions géopolitiques dans la région restent un facteur clé de volatilité.",
-        "resume_en": "Oil prices fell slightly, ending a six-day streak of consecutive gains. Traders are awaiting signs of the reopening of the Strait of Hormuz. Geopolitical tensions in the region remain a key volatility factor.",
-        "resume_zh": "石油价格略有下跌，结束了连续六天的上涨势头。交易员正在等待霍尔木兹海峡重新开放的迹象。该地区的地缘政治紧张局势仍是价格波动的关键因素。",
-        "resume_ru": "Цены на нефть немного снизились, прервав шестидневную серию роста. Торговцы ожидают сигналов о возможном возобновлении судоходства в Ормузском проливе. Напряжённость в регионе остаётся высокой из-за геополитических рисков.",
-        "resume_fa": "قیمت نفت پس از شش روز افزایش متوالی اندکی کاهش یافت. معامله‌گران در انتظار نشانه‌هایی از ازسرگیری کشتیرانی در تنگه هرمز هستند. تنش‌ها در منطقه به دلیل ریسک‌های ژئوپلیتیکی همچنان بالا است.",
-        "resume_ar": "تراجعت أسعار النفط قليلاً بعد ستة أيام من الارتفاع المتتالي. يتوقع المتداولون علامات على استئناف الملاحة في مضيق هرمز. لا تزال التوترات في المنطقة مرتفعة بسبب المخاطر الجيوسياسية.",
-        "analyse_detaillee": "La baisse récente du prix du pétrole intervient après une période de hausse liée aux tensions géopolitiques dans le golfe Persique, notamment autour du détroit d'Ormuz, une voie maritime stratégique pour le transport du pétrole. Historiquement, ce détroit a été le théâtre de crises majeures, comme le conflit entre l'Iran et l'Occident dans les années 2010. À court terme, la légère baisse pourrait refléter une attente des marchés quant à une désescalade ou à une réouverture progressive du trafic maritime. À moyen terme, si le détroit reste ouvert, les prix pourraient se stabiliser, mais une nouvelle crise pourrait provoquer une flambée des cours. Sur le long terme, la transition énergétique et la réduction de la dépendance au pétrole pourraient limiter l'impact de ces tensions. Les pays producteurs comme l'Arabie saoudite et la Russie pourraient ajuster leur production pour influencer les prix. Les États-Unis, via leurs réserves stratégiques, pourraient aussi jouer un rôle stabilisateur. L'Iran, en tant que puissance régionale, pourrait utiliser cette situation pour négocier des levées de sanctions. Les compagnies pétrolières internationales surveillent de près ces développements pour ajuster leurs stratégies d'investissement.",
-        "analyse_en": "The recent drop in oil prices follows a period of increase driven by geopolitical tensions in the Persian Gulf, particularly around the Strait of Hormuz, a critical maritime route for oil transport. Historically, this strait has been the site of major crises, such as the conflict between Iran and the West in the 2010s. In the short term, the slight decline may reflect market expectations of a de-escalation or gradual reopening of maritime traffic. In the medium term, if the strait remains open, prices could stabilize, but a new crisis could trigger a surge in prices. In the long term, the energy transition and reduced dependence on oil could limit the impact of these tensions. Oil-producing countries like Saudi Arabia and Russia may adjust their production to influence prices. The United States, through its strategic reserves, could also play a stabilizing role. Iran, as a regional power, might use this situation to negotiate sanctions relief. International oil companies are closely monitoring these developments to adjust their investment strategies.",
-        "analyse_zh": "石油价格的近期下跌发生在波斯湾地缘政治紧张局势导致油价上涨之后，特别是围绕霍尔木兹海峡这一石油运输战略要道。历史上，该海峡曾是重大危机的发生地，如2010年代伊朗与西方的冲突。短期内，轻微下跌可能反映市场对局势缓和或海上交通逐步重新开放的预期。中期来看，如果海峡保持开放，油价可能稳定，但新的危机可能引发价格暴涨。长期而言，能源转型和对石油依赖的减少可能限制这些紧张局势的影响。沙特阿拉伯和俄罗斯等产油国可能调整产量以影响价格。美国通过战略储备也可能发挥稳定作用。作为地区大国的伊朗可能利用这一局势谈判解除制裁。国际石油公司密切关注这些发展，以调整其投资战略。",
-        "analyse_ru": "Снижение цен на нефть после шестидневного роста отражает нестабильность на мировом рынке, связанную с геополитическими факторами. Ормузский пролив, через который проходит значительная часть мировых нефтяных поставок, остаётся зоной повышенного риска. Напряжённость между Ираном и западными странами, а также возможные санкции могут нарушить логистику. Торговцы проявляют осторожность, ожидая сигналов о стабилизации обстановки. В долгосрочной перспективе любые изменения в судоходстве через пролив могут привести к резким колебаниям цен на энергоносители.",
-        "analyse_fa": "کاهش قیمت نفت پس از شش روز رشد، ناپایداری در بازار جهانی را که به عوامل ژئوپلیتیکی مرتبط است، نشان می‌دهد. تنگه هرمز، که بخش عمده‌ای از عرضه جهانی نفت از آن عبور می‌کند، همچنان منطقه‌ای با ریسک بالا است. تنش بین ایران و کشورهای غربی، و همچنین تحریم‌های احتمالی، می‌تواند تدارکات را مختل کند. معامله‌گران با احتیاط عمل می‌کنند و منتظر نشانه‌هایی از ثبات هستند. در بلندمدت، هرگونه تغییر در کشتیرانی از طریق تنگه می‌تواند منجر به نوسانات شدید در قیمت انرژی شود.",
-        "analyse_ar": "يعكس تراجع أسعار النفط بعد ستة أيام من الارتفاع عدم الاستقرار في السوق العالمية، المرتبط بالعوامل الجيوسياسية. لا يزال مضيق هرمز، الذي تمر عبره نسبة كبيرة من إمدادات النفط العالمية، منطقة ذات مخاطر متزايدة. تظل التوترات بين إيران والدول الغربية، بالإضافة إلى العقوبات المحتملة، قادرة على تعطيل اللوجستيات. يتصرف المتداولون بحذر، في انتظار علامات الاستقرار. على المدى الطويل، يمكن لأي تغيير في الملاحة عبر المضيق أن يؤدي إلى تقلبات حادة في أسعار الطاقة.",
-        "categorie": "Économie",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/business/markets/2026/08/13/oil-edges-lower-breaking-six-day-gain/",
-        "image": "https://www.irishtimes.com/resizer/v2/BU3VQIPCWKGPW26XZGHODU5CEQ.jpg?smart=true&auth=8f2dca742ff3b9471d4473bf1a4fe4bd52990ed47458eba53802324477278cab&width=1200&height=630",
-        "date": "2026-08-13",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier",
-            "hausse": false
-          },
-          {
-            "label": "▲ Assurance maritime",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Une réouverture du détroit d'Ormuz pourrait augmenter l'offre mondiale de pétrole et faire baisser les prix.",
-            "effet_en": "Reopening the Strait of Hormuz could increase global oil supply and drive prices down.",
-            "effet_zh": "霍尔木兹海峡的重新开放可能增加全球石油供应，推动价格下跌。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Assurance maritime",
-            "secteur_en": "Marine insurance",
-            "secteur_zh": "海运保险",
-            "effet_fr": "Les tensions persistantes pourraient augmenter les primes d'assurance pour les navires traversant la région.",
-            "effet_en": "Persistent tensions could raise insurance premiums for ships passing through the region.",
-            "effet_zh": "持续的紧张局势可能提高穿越该地区船只的保险费用。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-14T06:14:00.726565"
       }
     ]
   },
