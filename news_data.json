@@ -1,7 +1,66 @@
 {
-  "last_updated": "17/08/2026 à 09h40",
+  "last_updated": "17/08/2026 à 10h31",
   "articles": {
     "monde": [
+      {
+        "id": "monde_715687",
+        "titre": "Pourquoi diviser le vaccin ROR est une mauvaise idée",
+        "titre_en": "Why splitting MMR vaccine is a bad idea",
+        "titre_zh": "为什么分开接种麻腮风疫苗是坏主意",
+        "titre_ru": "Why experts say splitting up MMR vaccine is a bad idea",
+        "titre_fa": "Why experts say splitting up MMR vaccine is a bad idea",
+        "titre_ar": "Why experts say splitting up MMR vaccine is a bad idea",
+        "titre_original": "Why experts say splitting up MMR vaccine is a bad idea",
+        "resume": "Des immunologistes et experts en vaccins rejettent l'idée de diviser le vaccin ROR en doses séparées. Une nouvelle ordonnance exécutive aux États-Unis pousse cette approche, jugée scientifiquement infondée. Cette mesure pourrait compromettre l'immunité collective et augmenter les risques de flambées épidémiques.",
+        "resume_en": "Immunologists and vaccine experts reject the idea of splitting the MMR vaccine into separate doses. A new U.S. executive order is pushing this approach, deemed scientifically unfounded. This measure could undermine herd immunity and increase the risk of epidemic outbreaks.",
+        "resume_zh": "免疫学家和疫苗专家拒绝将麻腮风疫苗分开接种的想法。美国的一项新行政命令正在推动这一做法，但被认为缺乏科学依据。此举可能削弱群体免疫，增加疫情暴发风险。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La vaccination combinée ROR (rougeole, oreillons, rubéole) existe depuis les années 1970 et est recommandée par l'OMS pour son efficacité et sa sécurité. Les experts craignent qu'une division des doses ne réduise l'observance vaccinale, déjà fragilisée par les mouvements anti-vaccins. Historiquement, les États-Unis ont toujours privilégié les vaccins combinés pour des raisons logistiques et économiques. Les enjeux principaux incluent la protection des populations vulnérables et la prévention des épidémies. Les causes profondes de cette mesure restent floues, mais pourraient refléter une pression politique plutôt que sanitaire. À court terme, une baisse de la couverture vaccinale pourrait entraîner des résurgences de maladies évitables. À moyen terme, cela pourrait affaiblir la confiance dans les programmes de vaccination nationaux. À long terme, le risque est une recrudescence de maladies infantiles graves. Les acteurs, comme les CDC et l'OMS, s'opposent fermement à cette initiative.",
+        "analyse_en": "The combined MMR (measles, mumps, rubella) vaccine has existed since the 1970s and is recommended by the WHO for its effectiveness and safety. Experts fear that splitting doses could reduce vaccine compliance, already weakened by anti-vaccine movements. Historically, the U.S. has always favored combined vaccines for logistical and economic reasons. The main stakes include protecting vulnerable populations and preventing epidemics. The root causes of this measure remain unclear but may reflect political pressure rather than health concerns. In the short term, a decline in vaccination coverage could lead to resurgences of preventable diseases. In the medium term, this could weaken trust in national vaccination programs. In the long term, the risk is a resurgence of serious childhood diseases. Key actors, such as the CDC and WHO, strongly oppose this initiative.",
+        "analyse_zh": "麻腮风（麻疹、腮腺炎、风疹）联合疫苗自1970年代起就已存在，并被世卫组织推荐，因其安全有效。专家担心分开接种可能降低疫苗依从性，而反疫苗运动已在削弱这一依从性。历史上，美国一直因物流和经济原因偏好联合疫苗。主要影响包括保护脆弱人群和预防流行病。该措施的深层原因仍不明确，但可能反映政治压力而非健康需求。短期内，疫苗覆盖率下降可能导致可预防疾病卷土重来。中期来看，这可能削弱对国家疫苗计划的信任。长期风险则是严重儿童疾病的再次流行。CDC和世卫组织等主要机构强烈反对这一举措。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Santé publique",
+        "source": "WAPT Jackson",
+        "url": "https://www.wapt.com/article/mmr-vaccine-trump-executive-order/73433515",
+        "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1126559054.jpg?crop=1.00xw%3A0.852xh%3B0%2C0&resize=1200%3A*",
+        "date": "2026-08-16",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Programmes de vaccination nationaux",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur pharmaceutique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Programmes de vaccination nationaux",
+            "secteur_en": "National vaccination programs",
+            "secteur_zh": "国家疫苗接种计划",
+            "effet_fr": "La division du vaccin ROR pourrait compliquer la logistique des programmes nationaux, augmentant les coûts et réduisant l'efficacité des campagnes.",
+            "effet_en": "Splitting the MMR vaccine could complicate the logistics of national programs, increasing costs and reducing the effectiveness of vaccination campaigns.",
+            "effet_zh": "分开接种麻腮风疫苗可能使国家计划的物流复杂化，增加成本并降低疫苗接种运动的有效性。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur pharmaceutique",
+            "secteur_en": "Pharmaceutical sector",
+            "secteur_zh": "制药行业",
+            "effet_fr": "Les laboratoires pourraient voir leurs ventes de vaccins individuels augmenter, mais au prix d'une fragmentation des approvisionnements et d'une baisse de la demande globale.",
+            "effet_en": "Pharmaceutical companies might see increased sales of individual vaccines, but at the cost of fragmented supply chains and reduced overall demand.",
+            "effet_zh": "制药公司可能会看到单独疫苗销量增加，但代价是供应链碎片化和整体需求下降。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-17T10:31:05.899903"
+      },
       {
         "id": "monde_249892",
         "titre": "États-Unis mettent fin au TPS pour quatre pays africains",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-16T13:30:53.821986"
-      },
-      {
-        "id": "monde_113336",
-        "titre": "Bhayshul Tuten, wildcard du fantasy football 2026",
-        "titre_en": "Bhayshul Tuten: Fantasy Football Wildcard 2026",
-        "titre_zh": "Bhayshul Tuten：2026年幻想足球的不确定因素",
-        "titre_ru": "Фэнтези-футбол 2026: Бхайшал Тутен — главный тёмный конь",
-        "titre_fa": "چشم‌انداز فانتزی فوتبال ۲۰۲۶: بهایشل توتن کارت برنده است",
-        "titre_ar": "توقعات الفانتازي لكرة القدم 2026: بهيشول توتن أحد أبرز المفاجآت",
-        "titre_original": "Bhayshul Tuten Fantasy Outlook 2026: Jaguars RB Is One of Fantasy Football’s Biggest Wild Cards",
-        "resume": "Bhayshul Tuten a été une valeur sûre en tant que choix tardif lors des drafts de fantasy football l'an dernier. Son potentiel pour dépasser Travis Etienne, alors incertain, avait attiré l'attention. La saison 2026 pourrait confirmer ou infirmer son statut de wildcard.",
-        "resume_en": "Bhayshul Tuten was a late-round sleeper pick in last year's fantasy football drafts. His potential to surpass Travis Etienne, then unreliable, made him intriguing. The 2026 season could confirm or disprove his wildcard status.",
-        "resume_zh": "Bhayshul Tuten去年在幻想足球选秀中是一个晚期的潜在选择。他超越当时表现不稳定的Travis Etienne的潜力让他备受关注。2026赛季可能会确认或否定他的不确定性地位。",
-        "resume_ru": "В прошлом сезоне Бхайшал Тутен стал одной из самых интригующих фигур в фэнтези-футболе. Его потенциал превзойти тогда ещё слабого Тревиса Эттьена вызвал интерес у многих игроков. В 2026 году его статус может стать ещё более неопределённым.",
-        "resume_fa": "در فصل گذشته، بهایشل توتن یکی از گزینه‌های هیجان‌انگیز در درفت‌های فانتزی فوتبال بود. توانایی او برای پیشی گرفتن از تراویس اتین، که در آن زمان عملکرد ضعیفی داشت، توجه بسیاری را جلب کرد. در سال 2026، وضعیت او می‌تواند حتی مبهم‌تر شود.",
-        "resume_ar": "في الموسم الماضي، كان بهيشول توتن أحد الخيارات المثيرة في مسودات الفانتازي لكرة القدم. وقد لفتت قدرته على التفوق على ترافيس إتيان، الذي كان أداؤه当时 ضعيفاً، انتباه الكثيرين. وفي عام 2026، قد تصبح وضعيته أكثر غموضاً.",
-        "analyse_detaillee": "Le fantasy football, popularisé dans les années 2000, repose sur l'analyse statistique et l'intuition des joueurs. Bhayshul Tuten incarne cette logique de pari risqué, où une blessure ou un changement d'entraîneur peut tout bouleverser. Son statut de wildcard reflète l'incertitude inhérente aux sports américains, où les performances individuelles sont imprévisibles. À court terme, sa valeur dépendra de sa santé et de la confiance de son coach. À moyen terme, une saison réussie pourrait le propulser parmi les tops picks. Long terme, il pourrait devenir un symbole des joueurs à haut risque/haute récompense. Les acteurs (ligues, médias, bookmakers) misent sur son potentiel pour dynamiser les marchés. Son impact économique reste limité, mais son influence sur les stratégies de draft est réelle. Enfin, cette dynamique illustre l'évolution des paris sportifs vers des modèles plus interactifs.",
-        "analyse_en": "Fantasy football, popularized in the 2000s, relies on statistical analysis and player intuition. Bhayshul Tuten embodies this high-risk, high-reward logic, where injuries or coaching changes can disrupt everything. His wildcard status reflects the inherent uncertainty in American sports, where individual performances are unpredictable. In the short term, his value will depend on his health and his coach's trust. In the medium term, a successful season could propel him among the top picks. Long-term, he could become a symbol of high-risk, high-reward players. Stakeholders (leagues, media, bookmakers) are betting on his potential to energize markets. His economic impact remains limited, but his influence on draft strategies is real. Finally, this dynamic illustrates the evolution of sports betting toward more interactive models.",
-        "analyse_zh": "幻想足球在2000年代开始流行，依赖于统计分析和玩家直觉。Bhayshul Tuten体现了这种高风险高回报的逻辑，伤病或教练变动可能彻底改变一切。他的不确定性地位反映了美国体育固有的不确定性，个人表现难以预测。短期内，他的价值取决于健康状况和教练的信任。中期来看，一个成功的赛季可能将他推向顶级选秀。长期而言，他可能成为高风险高回报球员的象征。相关方（联盟、媒体、博彩公司）押注他的潜力以激活市场。他的经济影响有限，但对选秀策略的影响是真实的。最后，这一动态展示了体育博彩向更互动模式的演变。",
-        "analyse_ru": "Фэнтези-футбол — это игра, где даже игроки с нестабильной репутацией могут стать ключевыми фигурами. Бхайшал Тутен, ранее считавшийся аутсайдером, теперь рассматривается как потенциальный лидер благодаря своей динамике и возможностям. Его успех зависит от множества факторов: травм, тактики команды и уровня конкуренции. В 2026 году аналитики прогнозируют рост его значимости, но риски остаются высокими. Для фанатов это шанс получить неожиданный бонус, но и угроза провала.",
-        "analyse_fa": "فانتزی فوتبال، بازی است که حتی بازیکنان با شهرت متزلزل می‌توانند به چهره‌های کلیدی تبدیل شوند. بهایشل توتن، که پیش‌تر به‌عنوان یک بازیکن حاشیه‌ای شناخته می‌شد، اکنون به دلیل پویایی و توانایی‌هایش به‌عنوان یک رهبر بالقوه در نظر گرفته می‌شود. موفقیت او به عوامل متعددی بستگی دارد: مصدومیت‌ها، استراتژی تیم و سطح رقابت. در سال 2026، تحلیلگران رشد اهمیت او را پیش‌بینی می‌کنند، اما ریسک‌ها همچنان بالا هستند. برای هواداران، این فرصتی برای کسب امتیاز غیرمنتظره است، اما همچنین تهدیدی برای شکست.",
-        "analyse_ar": "الفانتازي لكرة القدم هي لعبة يمكن أن يتحول فيها حتى اللاعبون ذوو السمعة غير المستقرة إلى شخصيات رئيسية. ببهيشول توتن، الذي كان يُعتبر سابقاً لاعباً هامشياً، يُنظر إليه الآن باعتباره قائد محتمل بفضل ديناميكيته وقدراته. يعتمد نجاحه على عوامل عديدة: الإصابات، استراتيجية الفريق ومستوى المنافسة. وفي عام 2026، يتوقع المحللون زيادة أهمية دوره، لكن المخاطر لا تزال مرتفعة. بالنسبة للمشجعين، هذه فرصة للحصول على نقاط مفاجئة، لكنها أيضاً تهديد بالفشل.",
-        "categorie": "Sport",
-        "source": "Pro Football Network",
-        "url": "https://www.profootballnetwork.com/fantasy-football/bhayshul-tuten-fantasy-outlook-2026/?utm_medium=rss&amp;utm_source=nordot",
-        "image": "https://s.yimg.com/lo/mysterio/api/d1cf2538ef9c03c44579f31abd07605d9582be0eae4c9a8b83d5f380e892374a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F6eeeee0c9942881bbcb1c26bdc346d45.jpg",
-        "date": "2026-08-15",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des paris sportifs",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur des médias sportifs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des paris sportifs",
-            "secteur_en": "Sports betting market",
-            "secteur_zh": "体育博彩市场",
-            "effet_fr": "Une performance exceptionnelle de Tuten pourrait stimuler les mises sur les joueurs à haut risque, dynamisant ainsi le secteur.",
-            "effet_en": "An exceptional performance by Tuten could boost bets on high-risk players, energizing the sector.",
-            "effet_zh": "Tuten的出色表现可能推动对高风险球员的投注，从而激活该行业。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des médias sportifs",
-            "secteur_en": "Sports media sector",
-            "secteur_zh": "体育媒体行业",
-            "effet_fr": "Les médias pourraient relancer des émissions ou articles sur les joueurs à potentiel, augmentant l'engagement des fans.",
-            "effet_en": "Media outlets could revive shows or articles on high-potential players, increasing fan engagement.",
-            "effet_zh": "媒体可能重新推出关于潜力球员的节目或文章，增加粉丝参与度。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-16T12:36:10.753437"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_505464",
+        "titre": "Trump envisage plus de pression économique sur l'Iran",
+        "titre_en": "Trump weighs more economic pressure on Iran",
+        "titre_zh": "特朗普考虑对伊朗施加更多经济压力",
+        "titre_ru": "Trump weighs more economic pressure on Iran: What are his options?",
+        "titre_fa": "Trump weighs more economic pressure on Iran: What are his options?",
+        "titre_ar": "Trump weighs more economic pressure on Iran: What are his options?",
+        "titre_original": "Trump weighs more economic pressure on Iran: What are his options?",
+        "resume": "Donald Trump envisage de nouvelles sanctions économiques contre l'Iran, ciblant son secteur pétrolier clandestin et ses avoirs en cryptomonnaies. Ces mesures s'ajoutent aux restrictions déjà en place depuis 2018. L'objectif affiché est de limiter les revenus iraniens et d'affaiblir son influence régionale.",
+        "resume_en": "Donald Trump is considering new economic sanctions against Iran, targeting its shadow oil fleet and cryptocurrency assets. These measures follow restrictions already in place since 2018. The stated goal is to limit Iranian revenues and weaken its regional influence.",
+        "resume_zh": "唐纳德·特朗普正在考虑对伊朗实施新的经济制裁，针对其影子石油船队和加密货币资产。这些措施是对自2018年以来已实施限制的补充。公开目标是限制伊朗收入并削弱其地区影响力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les sanctions contre l'Iran remontent à la révolution islamique de 1979, mais se sont intensifiées sous l'administration Trump avec le retrait de l'accord nucléaire en 2018. Les enjeux principaux incluent la limitation des capacités militaires iraniennes et la réduction de son influence au Moyen-Orient. Les causes profondes sont géopolitiques : les États-Unis cherchent à affaiblir un rival régional tout en protégeant leurs alliés comme Israël et l'Arabie saoudite. À court terme, ces sanctions pourraient perturber les flux pétroliers iraniens et déstabiliser davantage son économie déjà fragile. À moyen terme, cela pourrait pousser l'Iran à renforcer ses alliances avec la Russie et la Chine, contournant les restrictions occidentales. À long terme, le risque est une escalade militaire ou une crise humanitaire en Iran. Les acteurs comme l'UE, opposée à ces sanctions, pourraient renforcer leurs mécanismes de contournement. Les entreprises américaines et européennes, déjà affectées, pourraient subir des représailles économiques.",
+        "analyse_en": "Sanctions against Iran date back to the 1979 Islamic Revolution but intensified under the Trump administration with the withdrawal from the nuclear deal in 2018. The main stakes include limiting Iran's military capabilities and reducing its influence in the Middle East. The root causes are geopolitical: the U.S. seeks to weaken a regional rival while protecting allies like Israel and Saudi Arabia. In the short term, these sanctions could disrupt Iranian oil flows and further destabilize its already fragile economy. In the medium term, this could push Iran to strengthen its alliances with Russia and China, bypassing Western restrictions. In the long term, the risk is military escalation or a humanitarian crisis in Iran. Actors like the EU, opposed to these sanctions, may strengthen their bypass mechanisms. U.S. and European companies, already affected, could face economic retaliation.",
+        "analyse_zh": "对伊朗的制裁始于1979年伊斯兰革命，但在特朗普政府时期因2018年退出核协议而加剧。主要影响包括限制伊朗军事能力和削弱其中东影响力。深层原因是地缘政治：美国试图削弱地区对手，同时保护以色列和沙特等盟友。短期内，这些制裁可能扰乱伊朗石油流动，进一步 destabilize其已脆弱的经济。中期来看，这可能迫使伊朗加强与俄罗斯和中国的联盟，绕过西方限制。长期风险则是军事升级或伊朗人道主义危机。反对这些制裁的欧盟等行为体可能加强其绕过机制。已受影响的美国和欧洲企业可能面临经济报复。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/trump-weighs-more-economic-pressure-on-iran-what-are-his-options-126081600377_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/09/thumb/fitandfill/1200X628/1780995787-3121.JPG",
+        "date": "2026-08-16",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur pétrolier iranien",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des cryptomonnaies",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur pétrolier iranien",
+            "secteur_en": "Iranian oil sector",
+            "secteur_zh": "伊朗石油行业",
+            "effet_fr": "Les sanctions ciblant la flotte pétrolière clandestine pourraient réduire les exportations iraniennes de 20 à 30%, aggravant les difficultés économiques du pays.",
+            "effet_en": "Sanctions targeting the shadow oil fleet could reduce Iranian exports by 20 to 30%, worsening the country's economic difficulties.",
+            "effet_zh": "针对影子石油船队的制裁可能使伊朗出口减少20%至30%，加剧该国的经济困难。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des cryptomonnaies",
+            "secteur_en": "Cryptocurrency market",
+            "secteur_zh": "加密货币市场",
+            "effet_fr": "Le gel de 500 milliards de dollars en cryptomonnaies iraniennes pourrait perturber les échanges internationaux et pousser Téhéran à développer des alternatives locales.",
+            "effet_en": "Freezing $500 billion in Iranian-linked cryptocurrencies could disrupt international transactions and push Tehran to develop local alternatives.",
+            "effet_zh": "冻结5000亿美元伊朗相关加密货币可能扰乱国际交易，并推动德黑兰发展本地替代方案。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-17T10:31:05.899962"
+      },
       {
         "id": "usa_18963",
         "titre": "Iran menace les États-Unis sur le détroit d'Ormuz",
@@ -2406,65 +2465,6 @@
           }
         ],
         "created_at": "2026-08-16T13:30:53.822025"
-      },
-      {
-        "id": "usa_444673",
-        "titre": "Commanders : incertitudes en attaque à Washington",
-        "titre_en": "Commanders: Uncertainty in Washington's offense",
-        "titre_zh": "指挥官队：华盛顿进攻端的不确定性",
-        "titre_ru": "Неопределённость в линии приёма «Командерс»",
-        "titre_fa": "ابهام در پست وایدرسیو واشینگتن کماندورز",
-        "titre_ar": "الغموض في صفوف مستقبل واشنطن كومانديرز",
-        "titre_original": "Commanders' unofficial depth chart reveals questions at wide receiver",
-        "resume": "La profondeur non officielle des Commanders révèle des lacunes persistantes au poste de receveur. Cette situation crée des doutes sur la capacité de l'équipe à performer en attaque. La franchise doit trouver des solutions avant le début de la saison.",
-        "resume_en": "The Washington Commanders' unofficial depth chart reveals persistent gaps at the wide receiver position. This situation raises doubts about the team's offensive performance. The franchise must find solutions before the season begins.",
-        "resume_zh": "华盛顿指挥官队的非官方深度图显示，外接手位置存在持续缺口。这种情况引发了对球队进攻能力的质疑。该球队必须在赛季开始前找到解决方案。",
-        "resume_ru": "Неофициальная глубина команды «Вашингтон Коммандерс» показала нестабильность в линии приёма. Вопросы остаются даже после летних тренировок. Многие игроки не оправдали ожиданий, что создаёт проблемы для нападения.",
-        "resume_fa": "عمق تیمی واشینگتن کماندورز عدم ثبات در پست وایدرسیو را نشان می‌دهد. حتی پس از تمرینات تابستانی، ابهامات باقی مانده است. بسیاری از بازیکنان انتظارات را برآورده نکرده‌اند که مشکلاتی را برای حمله ایجاد کرده است.",
-        "resume_ar": "أظهرت قائمة فريق واشنطن كومانديرز غير الرسمية عدم استقرار في صفوف المستقبلين. لا تزال هناك تساؤلات حتى بعد التدريبات الصيفية. لم يفي العديد من اللاعبين بالتوقعات، مما يخلق مشاكل للهجوم.",
-        "analyse_detaillee": "La NFL, ligue majeure de football américain, est marquée par une forte compétition où chaque détail compte. Les Commanders, franchise historique, traversent une période de reconstruction après des années de médiocrité. Le manque de receveurs fiables reflète des erreurs de recrutement et une stratégie incertaine. À court terme, cela pourrait handicaper leur attaque et réduire leurs chances de playoffs. À moyen terme, une mauvaise saison aggraverait leur instabilité financière et sportive. Long terme, cela menace leur attractivité auprès des fans et des sponsors. Les acteurs (direction, entraîneurs, joueurs) sont sous pression pour redresser la barre. Les solutions passent par des recrutements ciblés ou des échanges risqués. Enfin, cette situation illustre les défis des franchises en reconstruction dans un sport ultra-compétitif.",
-        "analyse_en": "The NFL, a major American football league, is marked by fierce competition where every detail matters. The Commanders, a historic franchise, are going through a rebuilding period after years of mediocrity. The lack of reliable receivers reflects recruitment errors and an uncertain strategy. In the short term, this could cripple their offense and reduce their playoff chances. In the medium term, a poor season would worsen their financial and sporting instability. Long-term, this threatens their appeal to fans and sponsors. Stakeholders (management, coaches, players) are under pressure to turn things around. Solutions involve targeted recruitments or risky trades. Finally, this situation illustrates the challenges faced by rebuilding franchises in an ultra-competitive sport.",
-        "analyse_zh": "NFL是美国橄榄球的顶级联盟，竞争激烈，每个细节都至关重要。作为历史悠久的球队，指挥官队在多年平庸后正处于重建期。缺乏可靠的外接手反映了招聘错误和不确定的策略。短期内，这可能削弱他们的进攻能力，降低季后赛机会。中期来看，一个糟糕的赛季会加剧他们的财务和竞技不稳定性。长期而言，这威胁到他们对球迷和赞助商的吸引力。相关方（管理层、教练、球员）面临重振旗鼓的压力。解决方案包括有针对性的招聘或冒险交易。最后，这种情况展示了在超级竞争性体育中重建球队面临的挑战。",
-        "analyse_ru": "Линия приёма — это один из ключевых элементов любой команды НФЛ, и неопределённость в этом сегменте может серьёзно повлиять на результаты сезона. «Вашингтон Коммандерс» столкнулись с проблемой, когда игроки, на которых возлагались большие надежды, не оправдали их. Это может привести к пересмотру тактики команды и поиску новых талантов. В долгосрочной перспективе такая нестабильность угрожает конкурентоспособности клуба. Для болельщиков это означает необходимость ждать и надеяться на улучшения.",
-        "analyse_fa": "خط حمله یکی از عناصر کلیدی هر تیم در لیگ NFL است و عدم قطعیت در این بخش می‌تواند به‌طور جدی بر نتایج فصل تأثیر بگذارد. واشینگتن کماندورز با مسئله‌ای مواجه شده‌اند که بازیکنان مورد انتظار نتوانسته‌اند انتظارات را برآورده کنند. این می‌تواند منجر به بازنگری در استراتژی تیم و جستجوی استعدادهای جدید شود. در بلندمدت، چنین ناپایداری تهدیدی برای رقابت‌پذیری باشگاه است. برای هواداران، این به معنای صبر و امید به بهبودها است.",
-        "analyse_ar": "خط الاستقبال هو أحد العناصر الرئيسية في أي فريق في دوري NFL، ويمكن أن يؤثر عدم الاستقرار في هذا القسم بشكل خطير على نتائج الموسم. واجهت واشنطن كومانديرز مشكلة لم يتمكن فيها اللاعبون الذين كانوا يُتوقع منهم الكثير من تلبية التوقعات. وقد يؤدي هذا إلى إعادة النظر في استراتيجية الفريق والبحث عن مواهب جديدة. على المدى الطويل، يشكل هذا عدم الاستقرار تهديداً للمنافسة. بالنسبة للمشجعين، هذا يعني الانتظار والأمل في التحسن.",
-        "categorie": "Sport",
-        "source": "USA Today",
-        "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2026/08/15/commanders-depth-chart-reveals-questions-wide-receiver/91312813007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/7e367dd5fe25d189bc7b85353dc17588baf25007b691277dde7f45ce0328af7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_football_wire_usa_today_sports_articles_166%2F9470b64223841978b53b98b2fdf6a3c2.jpg",
-        "date": "2026-08-15",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché des transferts NFL",
-            "hausse": true
-          },
-          {
-            "label": "▼ Sponsoring sportif",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts NFL",
-            "secteur_en": "NFL transfer market",
-            "secteur_zh": "NFL转会市场",
-            "effet_fr": "Les Commanders pourraient être contraints d'investir massivement dans des receveurs, stimulant ainsi le marché des transferts.",
-            "effet_en": "The Commanders may be forced to invest heavily in receivers, boosting the transfer market.",
-            "effet_zh": "指挥官队可能被迫大举投资外接手，从而推动转会市场。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Sponsoring sportif",
-            "secteur_en": "Sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Une saison décevante pourrait réduire l'attractivité des sponsors, impactant les revenus publicitaires de la franchise.",
-            "effet_en": "A disappointing season could reduce sponsor appeal, impacting the franchise's advertising revenue.",
-            "effet_zh": "一个令人失望的赛季可能降低赞助商的吸引力，影响球队的广告收入。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-16T12:36:10.753466"
       }
     ],
     "chine": [
@@ -3651,6 +3651,65 @@
     ],
     "russie": [
       {
+        "id": "russie_693791",
+        "titre": "Un drone russe abattu par l'OTAN en Roumanie",
+        "titre_en": "NATO shoots down Russian drone over Romania",
+        "titre_zh": "北约在罗马尼亚上空击落俄罗斯无人机",
+        "titre_ru": "NATO fighter jet shoots down drone over Romania",
+        "titre_fa": "NATO fighter jet shoots down drone over Romania",
+        "titre_ar": "NATO fighter jet shoots down drone over Romania",
+        "titre_original": "NATO fighter jet shoots down drone over Romania",
+        "resume": "Un drone, identifié comme russe, a été abattu par un chasseur de l'OTAN au-dessus de l'espace aérien roumain. Cet incident survient dans un contexte de tensions accrues entre l'OTAN et la Russie. Les autorités roumaines et l'OTAN ont confirmé l'événement sans fournir de détails supplémentaires.",
+        "resume_en": "A drone, identified as Russian, was shot down by a NATO fighter over Romanian airspace. This incident occurs amid rising tensions between NATO and Russia. Romanian authorities and NATO have confirmed the event without providing further details.",
+        "resume_zh": "一架被认定为俄罗斯的无人机在罗马尼亚领空被北约战斗机击落。此事件发生在北约与俄罗斯紧张局势加剧的背景下。罗马尼亚当局和北约已证实此事，但未提供进一步细节。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L'incident s'inscrit dans une escalade des tensions entre l'OTAN et la Russie depuis l'invasion de l'Ukraine en 2022. Les enjeux principaux incluent la sécurité des pays frontaliers de l'OTAN, comme la Roumanie, et la crédibilité de la dissuasion collective. Les causes profondes remontent à l'élargissement de l'OTAN vers l'Est après la guerre froide, perçu par Moscou comme une menace. À court terme, cet incident pourrait entraîner des mesures de renforcement militaire de l'OTAN en Europe de l'Est. À moyen terme, cela pourrait accélérer la course aux armements et une militarisation accrue de la région. À long terme, le risque est une nouvelle guerre froide ou un conflit direct entre l'OTAN et la Russie. Les acteurs comme les États-Unis, principal soutien de l'OTAN, pourraient renforcer leur présence militaire en Europe. La Russie, de son côté, pourrait intensifier ses cyberattaques ou des provocations similaires. L'UE, divisée sur la réponse à apporter, pourrait adopter une position plus unie pour éviter une escalade.",
+        "analyse_en": "The incident is part of an escalation in tensions between NATO and Russia since the 2022 invasion of Ukraine. The main stakes include the security of NATO's neighboring countries, such as Romania, and the credibility of collective deterrence. The root causes date back to NATO's post-Cold War expansion eastward, perceived by Moscow as a threat. In the short term, this incident could lead to NATO military reinforcements in Eastern Europe. In the medium term, it could accelerate the arms race and increased militarization of the region. In the long term, the risk is a new Cold War or direct conflict between NATO and Russia. Key actors like the U.S., NATO's main supporter, could strengthen its military presence in Europe. Russia, for its part, might intensify cyberattacks or similar provocations. The EU, divided on the response, could adopt a more united stance to avoid escalation.",
+        "analyse_zh": "该事件是自2022年俄罗斯入侵乌克兰以来北约与俄罗斯紧张局势升级的一部分。主要影响包括北约东部邻国（如罗马尼亚）的安全及集体威慑的可信度。深层原因可追溯到冷战后北约东扩，被莫斯科视为威胁。短期内，此事件可能导致北约在东欧加强军事部署。中期来看，可能加速军备竞赛和该地区军事化加剧。长期风险则是新冷战或北约与俄罗斯直接冲突。美国作为北约主要支持者，可能加强在欧洲的军事存在。俄罗斯则可能加强网络攻击或类似挑衅。在应对立场上分裂的欧盟可能采取更团结的立场以避免升级。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sécurité internationale",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/nato-fighter-jet-shoot-drone-romania/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/08/16/GettyImages-1247669339-scaled.jpg",
+        "date": "2026-08-16",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Dépenses militaires de l'OTAN",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur aérospatial russe",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Dépenses militaires de l'OTAN",
+            "secteur_en": "NATO military spending",
+            "secteur_zh": "北约军费开支",
+            "effet_fr": "L'incident pourrait pousser les pays membres de l'OTAN à augmenter leurs budgets de défense, notamment en Europe de l'Est, pour renforcer la dissuasion face à la Russie.",
+            "effet_en": "The incident could push NATO member countries to increase their defense budgets, particularly in Eastern Europe, to strengthen deterrence against Russia.",
+            "effet_zh": "该事件可能促使北约成员国增加国防预算，特别是在东欧，以加强对俄罗斯的威慑。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur aérospatial russe",
+            "secteur_en": "Russian aerospace sector",
+            "secteur_zh": "俄罗斯航空航天行业",
+            "effet_fr": "La perte du drone pourrait révéler des failles technologiques dans les systèmes russes, affectant la réputation de Roscosmos et des industries de défense.",
+            "effet_en": "The loss of the drone could reveal technological flaws in Russian systems, affecting the reputation of Roscosmos and defense industries.",
+            "effet_zh": "无人机的损失可能暴露俄罗斯系统中的技术缺陷，影响罗科斯莫斯和国防工业的声誉。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-17T10:31:05.899982"
+      },
+      {
         "id": "russie_570379",
         "titre": "Ukrainien torturé pour un aveu de terrorisme en Russie",
         "titre_en": "Ukrainian tortured into terrorism confession in Russia",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-16T09:26:43.914084"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_791047",
-        "titre": "Russie lance 152 drones contre l'Ukraine",
-        "titre_en": "Russia launches 152 drones at Ukraine",
-        "titre_zh": "俄罗斯向乌克兰发射152架无人机",
-        "titre_ru": "Россия атаковала Украину 152 дронами за ночь",
-        "titre_fa": "روسیه با ۱۵۲ پهپاد شبانه اوکراین را هدف گرفت",
-        "titre_ar": "روسيا تشن هجوماً ليلياً على أوكرانيا بـ152 طائرة مسيرة",
-        "titre_original": "Ukraine: Russia launched 152 drones overnight",
-        "resume": "L'armée ukrainienne a signalé une attaque nocturne russe impliquant 152 drones. Cette frappe survient dans un contexte de tensions persistantes entre les deux pays. Les infrastructures civiles et militaires ukrainiennes restent des cibles privilégiées.",
-        "resume_en": "The Ukrainian army reported a Russian nighttime attack involving 152 drones. This strike occurs amid persistent tensions between the two countries. Ukrainian civilian and military infrastructure remain primary targets.",
-        "resume_zh": "乌克兰军方报告俄罗斯夜间袭击涉及152架无人机。此次袭击发生在两国持续紧张局势下。乌克兰民用和军事基础设施仍是主要目标。",
-        "resume_ru": "ВВС Украины сообщили, что российские силы атаковали страну 152 беспилотниками в ночь на 15 августа. Атака стала частью продолжающихся обстрелов с воздуха. Украинские силы пытаются сбить большинство дронов.",
-        "resume_fa": "نیروی هوایی اوکراین گزارش داد که نیروهای روسی در شب ۱۵ اوت با ۱۵۲ پهپاد به این کشور حمله کردند. این حمله بخشی از حملات مداوم هوایی بود. نیروهای اوکراینی تلاش می‌کنند بیشتر این پهپادها را ساقط کنند.",
-        "resume_ar": "أفادت القوات الجوية الأوكرانية بأن القوات الروسية شنت هجوماً ليلياً على أوكرانيا باستخدام 152 طائرة مسيرة في ليلة 15 أغسطس. وجاءت هذه الهجمة ضمن سلسلة من الغارات الجوية المستمرة. وتسعى القوات الأوكرانية إلى إسقاط معظم هذه الطائرات المسيرة.",
-        "analyse_detaillee": "Le conflit russo-ukrainien, déclenché en 2022, s'inscrit dans une rivalité historique entre Moscou et Kiev remontant à l'ère soviétique. La Russie utilise des drones pour épuiser les défenses ukrainiennes et tester leur résilience. À court terme, ces attaques perturbent les réseaux électriques et les services essentiels en Ukraine. À moyen terme, elles pourraient affaiblir la capacité industrielle ukrainienne et réduire les exportations agricoles. Long terme, une escalade pourrait entraîner une intervention accrue de l'OTAN ou une escalade nucléaire. L'Ukraine, soutenue par l'Occident, et la Russie, isolée économiquement, sont les principaux acteurs. Les civils ukrainiens paient le prix le plus lourd de cette guerre.",
-        "analyse_en": "The Russia-Ukraine conflict, triggered in 2022, stems from a historical rivalry between Moscow and Kiev dating back to the Soviet era. Russia uses drones to exhaust Ukrainian defenses and test their resilience. In the short term, these attacks disrupt power grids and essential services in Ukraine. Medium-term, they could weaken Ukraine's industrial capacity and reduce agricultural exports. Long-term, escalation could lead to increased NATO intervention or nuclear escalation. Ukraine, backed by the West, and Russia, economically isolated, are the main actors. Ukrainian civilians bear the heaviest burden of this war.",
-        "analyse_zh": "2022年爆发的俄乌冲突源于莫斯科与基辅自苏联时代延续的历史对抗。俄罗斯利用无人机消耗乌克兰防线并测试其韧性。短期内，袭击扰乱乌克兰电网和基础服务。中期来看，可能削弱乌克兰工业能力并减少农业出口。长期升级可能导致北约更多干预或核升级。乌克兰（西方支持）与俄罗斯（经济孤立）是主要参与者。乌克兰平民承受战争最沉重代价。",
-        "analyse_ru": "Контекст связан с эскалацией конфликта между Россией и Украиной, где дроны становятся всё более распространённым оружием. Причины таких атак кроются в стремлении России ослабить украинскую инфраструктуру и моральный дух. Последствия могут быть тяжёлыми для мирного населения и критически важной инфраструктуры. Перспективы зависят от международной реакции и военных возможностей Украины. Позиции сторон: Россия продолжает давление, а Украина рассчитывает на поддержку партнёров.",
-        "analyse_fa": "زمینه به تشدید درگیری میان روسیه و اوکراین مربوط است که در آن پهپادها به سلاح رایجی تبدیل شده‌اند. دلایل چنین حملاتی به تلاش روسیه برای تضعیف زیرساخت‌ها و روحیه اوکراین بازمی‌گردد. پیامدها می‌توانند برای غیرنظامیان و زیرساخت‌های حیاتی فاجعه‌بار باشند. چشم‌انداز به واکنش بین‌المللی و توانایی‌های نظامی اوکراین بستگی دارد. موضع بازیگران: روسیه به فشار خود ادامه می‌دهد و اوکراین به حمایت شرکا امیدوار است.",
-        "analyse_ar": "سياق هذا الموضوع يتعلق بتصعيد الصراع بين روسيا وأوكرانيا حيث أصبحت الطائرات المسيرة سلاحاً شائعاً. أسباب هذه الهجمات ترتبط بمحاولة روسيا لإضعاف البنية التحتية الأوكرانية والمعنويات. العواقب قد تكون وخيمة على المدنيين والبنية التحتية الحيوية. الآفاق تعتمد على رد الفعل الدولي وقدرات أوكرانيا العسكرية. مواقف الأطراف: تواصل روسيا ضغوطها بينما تأمل أوكرانيا في دعم شركائها.",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0caa8b5c4a928549",
-        "image": "https://biztoc.com/cdn/0caa8b5c4a928549_s.webp",
-        "date": "2026-08-15",
-        "pays": "russie",
+        "id": "iran_315044",
+        "titre": "L'économie israélienne rebondit malgré la guerre",
+        "titre_en": "Israel’s economy rebounds after Iran war",
+        "titre_zh": "以色列经济在对伊朗战争后反弹",
+        "titre_ru": "Israel’s economy rebounds in Q2 after contraction from Iran war",
+        "titre_fa": "Israel’s economy rebounds in Q2 after contraction from Iran war",
+        "titre_ar": "Israel’s economy rebounds in Q2 after contraction from Iran war",
+        "titre_original": "Israel’s economy rebounds in Q2 after contraction from Iran war",
+        "resume": "L'économie israélienne montre des signes de reprise au deuxième trimestre, portée par son secteur high-tech résilient. Cette croissance reste fragile en raison des tensions géopolitiques persistantes. Les analystes soulignent l'importance de la confiance des consommateurs pour une stabilisation durable.",
+        "resume_en": "Israel's economy shows signs of recovery in the second quarter, driven by its resilient high-tech sector. This growth remains fragile due to persistent geopolitical tensions. Analysts emphasize the importance of consumer confidence for sustainable stabilization.",
+        "resume_zh": "以色列经济在第二季度显示出复苏迹象，得益于其韧性强劲的高科技行业。这种增长因持续的地缘政治紧张局势而仍显脆弱。分析师强调消费者信心对可持续稳定的重要性。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le conflit récent entre Israël et l'Iran s'inscrit dans une longue histoire de tensions régionales remontant aux années 1979 et à la révolution islamique. Les enjeux principaux incluent la stabilité économique d'Israël et sa capacité à maintenir son avance technologique malgré les conflits. Les causes profondes sont géopolitiques : la rivalité avec l'Iran, soutenu par le Hezbollah et le Hamas, menace la sécurité israélienne. À court terme, la reprise économique dépendra de la capacité à maintenir la production high-tech malgré les risques de cyberattaques ou de perturbations logistiques. À moyen terme, une escalade militaire pourrait freiner les investissements étrangers et augmenter les dépenses militaires. À long terme, Israël devra diversifier son économie pour réduire sa dépendance au secteur high-tech, vulnérable aux crises géopolitiques. Les acteurs comme les États-Unis, principal allié, pourraient renforcer leur soutien économique et militaire. L'UE, en revanche, pourrait adopter une position plus prudente pour éviter une escalade régionale.",
+        "analyse_en": "The recent conflict between Israel and Iran is part of a long history of regional tensions dating back to the 1979 Islamic Revolution. The main stakes include Israel's economic stability and its ability to maintain its technological edge despite conflicts. The root causes are geopolitical: the rivalry with Iran, backed by Hezbollah and Hamas, threatens Israeli security. In the short term, economic recovery will depend on maintaining high-tech production despite risks of cyberattacks or logistical disruptions. In the medium term, military escalation could deter foreign investment and increase military spending. In the long term, Israel will need to diversify its economy to reduce dependence on the high-tech sector, which is vulnerable to geopolitical crises. Key actors like the U.S., Israel's main ally, could strengthen economic and military support. The EU, however, may adopt a more cautious stance to avoid regional escalation.",
+        "analyse_zh": "以色列与伊朗的近期冲突是自1979年伊斯兰革命以来长期地区紧张局势的一部分。主要影响包括以色列的经济稳定及其在冲突中保持技术优势的能力。深层原因是地缘政治：与伊朗（由真主党和哈马斯支持）的对抗威胁以色列安全。短期内，经济复苏将取决于在网络攻击或物流中断风险下维持高科技生产的能力。中期来看，军事升级可能吓阻外国投资并增加军费开支。长期来看，以色列需多元化经济，减少对高科技行业的依赖，后者易受地缘政治危机影响。美国作为以色列主要盟友，可能加强经济和军事支持。欧盟则可能采取更谨慎立场，避免地区升级。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/israel-economy-rebounds-q2-iran-war/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/16062213/people-buy-fruit-from-a-street-market-in-haifa-israel-friday-800x420.jpeg",
+        "date": "2026-08-16",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché de l'assurance",
-            "hausse": false
+            "label": "▲ Secteur high-tech israélien",
+            "hausse": true
           },
           {
-            "label": "▲ Secteur technologique",
-            "hausse": true
+            "label": "▼ Consommation intérieure",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché de l'assurance",
-            "secteur_en": "Insurance market",
-            "secteur_zh": "保险市场",
-            "effet_fr": "Les attaques répétées augmentent les demandes d'indemnisation pour les infrastructures endommagées, pesant sur les assureurs locaux et internationaux.",
-            "effet_en": "Repeated attacks increase claims for damaged infrastructure, burdening local and international insurers.",
-            "effet_zh": "频繁袭击增加对受损基础设施的索赔，加重本地和国际保险公司负担。",
-            "hausse": false
+            "secteur_fr": "Secteur high-tech israélien",
+            "secteur_en": "Israel's high-tech sector",
+            "secteur_zh": "以色列高科技行业",
+            "effet_fr": "La résilience du secteur high-tech israélien permet une reprise économique rapide, mais une escalade des tensions pourrait dissuader les investisseurs étrangers.",
+            "effet_en": "The resilience of Israel's high-tech sector enables rapid economic recovery, but escalating tensions could deter foreign investors.",
+            "effet_zh": "以色列高科技行业的韧性使其能够快速实现经济复苏，但紧张局势升级可能吓阻外国投资者。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur technologique",
-            "secteur_en": "Technology sector",
-            "secteur_zh": "科技行业",
-            "effet_fr": "Les cyberattaques associées aux drones pourraient stimuler la demande en solutions de cybersécurité pour les entreprises ukrainiennes.",
-            "effet_en": "Cyberattacks linked to drones could boost demand for cybersecurity solutions among Ukrainian businesses.",
-            "effet_zh": "与无人机相关的网络攻击可能推动乌克兰企业对网络安全解决方案的需求。",
-            "hausse": true
+            "secteur_fr": "Consommation intérieure",
+            "secteur_en": "Domestic consumption",
+            "secteur_zh": "国内消费",
+            "effet_fr": "La reprise économique dépendra de la confiance des consommateurs, actuellement érodée par les incertitudes géopolitiques et les dépenses militaires accrues.",
+            "effet_en": "Economic recovery will depend on consumer confidence, currently eroded by geopolitical uncertainties and increased military spending.",
+            "effet_zh": "经济复苏将取决于消费者信心，目前因地缘政治不确定性和增加的军费开支而受到侵蚀。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-16T08:28:15.117868"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-17T10:31:05.899973"
+      },
       {
         "id": "iran_931109",
         "titre": "Djokovic éliminé à Cincinnati par un outsider",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-16T12:36:10.753492"
-      },
-      {
-        "id": "iran_741192",
-        "titre": "L'Iran intensifie sa propagande anti-USA",
-        "titre_en": "Iran escalates anti-U.S. propaganda",
-        "titre_zh": "伊朗加强反美宣传",
-        "titre_ru": "Иран усиливает пропаганду: «Месть неизбежна» на билбордах",
-        "titre_fa": "ایران جنگ تبلیغاتی را تشدید می‌کند: «انتقام اجتناب‌ناپذیر است»",
-        "titre_ar": "إيران تعزز الحرب الدعائية: «الثأر محتوم» على اللوحات الإعلانية",
-        "titre_original": "‘Revenge is inevitable’: Iran ramps up propaganda war with violent billboards",
-        "resume": "L'Iran multiplie les messages anti-américains via des panneaux publicitaires violents, renforçant sa propagande après la mort de l'ayatollah Khamenei. L'intelligence artificielle joue un rôle clé dans cette campagne. Les tensions régionales s'aggravent.",
-        "resume_en": "Iran is escalating anti-U.S. messaging through violent billboards, intensifying propaganda following the death of Supreme Leader Ayatollah Khamenei. Artificial intelligence plays a key role in this campaign. Regional tensions are worsening.",
-        "resume_zh": "伊朗通过暴力广告牌加强反美宣传，在最高领袖哈梅内伊去世后加强宣传。人工智能在其中发挥关键作用。地区紧张局势正在恶化。",
-        "resume_ru": "Иран усилил антиамериканскую пропаганду после смерти Верховного лидера аятоллы Али Хаменеи. На билбордах по всей стране размещены угрожающие лозунги. В кампании активно используется искусственный интеллект для создания контента.",
-        "resume_fa": "ایران پس از درگذشت رهبر معظم آیت‌الله علی خامنه‌ای، جنگ تبلیغاتی ضدآمریکایی خود را تشدید کرده است. در تابلوهای سراسر کشور، شعارهای تهدیدآمیزی نصب شده است. در این کمپین از هوش مصنوعی برای تولید محتوا استفاده می‌شود.",
-        "resume_ar": "عززت إيران الدعاية المعادية لأمريكا بعد وفاة المرشد الأعلى آية الله علي خامنئي. تم وضع شعارات تهديدية على لوحات إعلانية في جميع أنحاء البلاد. تُستخدم الذكاء الاصطناعي في هذه الحملة لإنشاء المحتوى.",
-        "analyse_detaillee": "L'Iran, depuis la révolution islamique de 1979, utilise la propagande comme outil central de sa politique étrangère pour mobiliser sa population et diaboliser ses adversaires, notamment les États-Unis. Historiquement, cette stratégie s'inscrit dans une logique de résistance face à ce que Téhéran considère comme une hégémonie occidentale. Les enjeux actuels incluent la consolidation du pouvoir interne après la mort de Khamenei, la gestion des sanctions économiques et la recherche d'une légitimité régionale face à des rivaux comme l'Arabie saoudite. Les causes profondes de cette escalade résident dans les tensions géopolitiques persistantes, les ingérences perçues des États-Unis dans la région et la nécessité pour le régime de détourner l'attention des crises économiques internes. À court terme, cette propagande pourrait renforcer le sentiment anti-occidental en Iran et justifier des mesures répressives contre l'opposition. À moyen terme, elle risque d'exacerber les conflits avec les alliés des États-Unis au Moyen-Orient, notamment Israël. À long terme, si cette stratégie persiste, elle pourrait isoler davantage l'Iran sur la scène internationale, tout en renforçant son image de résistance. Les acteurs principaux, comme le Guide suprême, les Gardiens de la révolution et les médias d'État, jouent un rôle clé dans cette dynamique, tandis que la population iranienne reste divisée entre soutien au régime et aspirations démocratiques.",
-        "analyse_en": "Since the 1979 Islamic Revolution, Iran has used propaganda as a central tool in its foreign policy to mobilize its population and demonize its adversaries, particularly the United States. Historically, this strategy is rooted in a logic of resistance against what Tehran perceives as Western hegemony. Current stakes include consolidating internal power after Khamenei's death, managing economic sanctions, and seeking regional legitimacy against rivals like Saudi Arabia. The root causes of this escalation lie in persistent geopolitical tensions, perceived U.S. interference in the region, and the regime's need to divert attention from domestic economic crises. In the short term, this propaganda could strengthen anti-Western sentiment in Iran and justify repressive measures against the opposition. In the medium term, it risks exacerbating conflicts with U.S. allies in the Middle East, particularly Israel. Long-term, if this strategy persists, it could further isolate Iran on the international stage while reinforcing its image of resistance. Key actors, such as the Supreme Leader, the Revolutionary Guards, and state media, play a crucial role in this dynamic, while the Iranian population remains divided between support for the regime and democratic aspirations.",
-        "analyse_zh": "自1979年伊斯兰革命以来，伊朗将宣传作为其外交政策的核心工具，用以动员民众并妖魔化对手，特别是美国。历史上，这一策略根植于对德黑兰所认为的西方霸权的抵抗逻辑。当前的关键问题包括哈梅内伊去世后巩固内部权力、应对经济制裁以及在与沙特阿拉伯等对手竞争中寻求地区合法性。这一升级的深层原因在于持续的地缘政治紧张局势、美国在该地区的干预以及政权需要转移对国内经济危机的注意力。短期内，这种宣传可能加强伊朗国内的反西方情绪，并为镇压反对派提供正当理由。中期来看，它可能加剧与美国在中东的盟友（特别是以色列）的冲突。长期而言，如果这一策略持续，可能进一步孤立伊朗在国际舞台上的地位，同时强化其抵抗形象。主要参与者如最高领袖、伊斯兰革命卫队和国有媒体在其中发挥关键作用，而伊朗民众则在支持政权与民主诉求之间分裂。",
-        "analyse_ru": "Контекст статьи связан с усилением антиамериканской риторики в Иране после смерти Верховного лидера. Причины кроются в политической напряжённости и стремлении укрепить внутреннюю поддержку. Последствия могут обострить отношения между странами. Перспективы зависят от реакции международного сообщества. Позиция Ирана демонстрирует готовность к конфронтации, а США и их союзники должны учитывать эти вызовы.",
-        "analyse_fa": "زمینه این مقاله به تشدید گفتمان ضدآمریکایی در ایران پس از درگذشت رهبر معظم بازمی‌گردد. دلایل اصلی شامل تنش‌های سیاسی و تلاش برای تقویت حمایت داخلی است. پیامدهای این اقدام می‌تواند روابط بین کشورها را تشدید کند. چشم‌اندازها به واکنش جامعه بین‌المللی بستگی دارد. موضع ایران نشان‌دهنده آمادگی برای رویارویی است و ایالات متحده و متحدانش باید این چالش‌ها را در نظر بگیرند.",
-        "analyse_ar": "سياق المقال يتعلق بتعزيز الخطاب المعادي لأمريكا في إيران بعد وفاة المرشد الأعلى. الأسباب تكمن في التوترات السياسية والسعي لتعزيز الدعم الداخلي. قد تؤدي العواقب إلى تصعيد العلاقات بين الدول. الآفاق تعتمد على رد فعل المجتمع الدولي. موقف إيران يدل على الاستعداد للمواجهة، ويجب على الولايات المتحدة وحلفائها مراعاة هذه التحديات.",
-        "categorie": "Géopolitique",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/revenge-inevitable-iran-ramps-propaganda-war-violent-billboards-rcna591867",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-tehran-mb-1232-2f8c36.jpg",
-        "date": "2026-08-15",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Assurances géopolitiques",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché pétrolier",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurances géopolitiques",
-            "secteur_en": "Geopolitical insurance",
-            "secteur_zh": "地缘政治保险",
-            "effet_fr": "L'escalade des tensions pourrait augmenter la demande pour des couvertures d'assurance couvrant les risques liés aux conflits régionaux.",
-            "effet_en": "The escalation of tensions could increase demand for insurance coverage related to regional conflict risks.",
-            "effet_zh": "紧张局势升级可能增加对涵盖地区冲突风险的保险覆盖的需求。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Les tensions accrues pourraient perturber les approvisionnements en pétrole iranien, affectant les prix mondiaux.",
-            "effet_en": "Increased tensions could disrupt Iranian oil supplies, affecting global prices.",
-            "effet_zh": "紧张局势加剧可能扰乱伊朗石油供应，影响全球价格。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-16T09:26:43.914065"
       }
     ]
   },
