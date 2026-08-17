@@ -1,7 +1,66 @@
 {
-  "last_updated": "17/08/2026 à 12h40",
+  "last_updated": "17/08/2026 à 13h38",
   "articles": {
     "monde": [
+      {
+        "id": "monde_790834",
+        "titre": "Top 25 du football américain : la Big Ten domine",
+        "titre_en": "Big Ten Takes Over Top 5 in College Football",
+        "titre_zh": "大十联盟占据大学橄榄球前五",
+        "titre_ru": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
+        "titre_fa": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
+        "titre_ar": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
+        "titre_original": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
+        "resume": "Les prochains classements de football américain universitaire intègrent une domination de la Big Ten dans le top 5. Les projections s'appuient sur les performances passées et les transferts de joueurs clés. Cette tendance pourrait redéfinir les dynamiques de recrutement et de compétition.",
+        "resume_en": "Upcoming college football rankings show the Big Ten dominating the top five. Projections rely on past performances and key player transfers. This trend could reshape recruitment and competition dynamics.",
+        "resume_zh": "即将到来的大学橄榄球排名显示大十联盟在前五名中占据主导地位。预测基于过去的表现和关键球员的转会。这一趋势可能重塑招聘和竞争格局。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le football américain universitaire américain est marqué par une domination historique de la SEC, mais la Big Ten émerge grâce à des investissements massifs dans les infrastructures et le recrutement. Les enjeux incluent la commercialisation croissante du sport et l'équilibre entre tradition et modernité. Les causes profondes résident dans les revenus télévisuels et les partenariats avec les grandes marques. À court terme, les universités de la Big Ten pourraient attirer plus de talents, renforçant leur compétitivité. À moyen terme, cela pourrait marginaliser les conférences moins dotées financièrement. À long terme, une possible fusion ou alliance entre conférences pourrait redéfinir le paysage sportif. Les acteurs comme la NCAA et les sponsors doivent s'adapter à cette nouvelle donne. Les fans et les médias y voient une évolution vers un spectacle plus professionnel.",
+        "analyse_en": "American college football is historically dominated by the SEC, but the Big Ten is emerging due to massive investments in infrastructure and recruitment. Stakes include the growing commercialization of the sport and the balance between tradition and modernity. Root causes lie in television revenues and partnerships with major brands. In the short term, Big Ten universities could attract more talent, strengthening their competitiveness. In the medium term, this could marginalize less financially endowed conferences. In the long term, possible mergers or alliances between conferences could redefine the sports landscape. Actors like the NCAA and sponsors must adapt to this new reality. Fans and media see this as an evolution toward a more professional spectacle.",
+        "analyse_zh": "美国大学橄榄球长期由东南联盟（SEC）主导，但大十联盟（Big Ten）因大规模投资基础设施和招聘而崛起。主要影响包括体育商业化日益增长以及传统与现代化之间的平衡。深层原因在于电视转播收入和与大品牌的合作。短期内，大十联盟大学可能吸引更多天才球员，提升竞争力。中期来看，这可能使财力较弱的联盟边缘化。长期而言，各联盟间的合并或联盟可能重塑体育格局。NCAA和赞助商等各方必须适应这一新现实。球迷和媒体将其视为向更专业化表演的演变。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/",
+        "image": "https://sportshub.cbsistatic.com/i/r/2026/08/16/dc531c37-7f96-46d5-82f9-6f3c29d9421c/thumbnail/1200x675/9e55d7180d4bac7f41ef16100e4e2f1a/ohiostatetomtop25-1024.jpg",
+        "date": "2026-08-16",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des droits télévisuels sportifs",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur des paris sportifs",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des droits télévisuels sportifs",
+            "secteur_en": "Sports TV rights market",
+            "secteur_zh": "体育电视转播权市场",
+            "effet_fr": "La domination de la Big Ten pourrait faire exploser les droits TV pour ses matchs, augmentant les revenus des universités concernées.",
+            "effet_en": "Big Ten's dominance could skyrocket TV rights for its games, increasing revenues for the universities involved.",
+            "effet_zh": "大十联盟的主导地位可能使其比赛的电视转播权价格飙升，增加相关大学的收入。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des paris sportifs",
+            "secteur_en": "Sports betting sector",
+            "secteur_zh": "体育博彩行业",
+            "effet_fr": "L'engouement accru pour la Big Ten pourrait stimuler les paris sur les matchs de cette conférence, boostant les plateformes spécialisées.",
+            "effet_en": "Increased interest in the Big Ten could boost betting on its games, benefiting specialized platforms.",
+            "effet_zh": "对大十联盟的兴趣增加可能推动该联盟比赛的投注，惠及专业平台。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-17T13:38:54.417095"
+      },
       {
         "id": "monde_660516",
         "titre": "Nigel Farage et l'appel à des élections",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-16T17:18:18.462902"
-      },
-      {
-        "id": "monde_435585",
-        "titre": "Le décès tragique d'un professeur de Cambridge",
-        "titre_en": "Tragic death of a Cambridge professor",
-        "titre_zh": "剑桥教授的悲剧离世",
-        "titre_ru": "Трагедия профессора Кембриджа Джейсона Ардей",
-        "titre_fa": "مرگ غم‌انگیز استاد دانشگاه کمبریج جیسون اردی",
-        "titre_ar": "مأساة أستاذ جامعة كامبريدج جيسون أرداي",
-        "titre_original": "The Tragedy of Black Cambridge University Professor, Jason Arday",
-        "resume": "Le professeur Jason Arday, spécialiste de l'autisme à l'Université de Cambridge, est décédé prématurément, laissant une communauté scientifique en deuil. Son ami, Simon Baron-Cohen, a évoqué son parcours exceptionnel et les obstacles qu'il a surmontés. Son héritage scientifique et son engagement pour l'inclusion restent marquants.",
-        "resume_en": "Professor Jason Arday, a Cambridge autism expert, died prematurely, leaving the scientific community in mourning. His friend, Simon Baron-Cohen, highlighted his exceptional journey and the obstacles he overcame. His scientific legacy and commitment to inclusion remain significant.",
-        "resume_zh": "剑桥大学自闭症专家杰森·阿德教授英年早逝，令科学界哀悼。其好友西蒙·巴伦-科恩强调了他非凡的经历及克服的障碍。他的科学遗产和对包容性的承诺仍意义重大。",
-        "resume_ru": "Профессор Кембриджского университета Саймон Барон-Коэн рассказал о трагической смерти своего коллеги, профессора Джейсона Ардей. Он подчеркнул, что Ардей был выдающимся специалистом в области аутизма и внес огромный вклад в науку. Барон-Коэн выразил глубокую скорбь по поводу его ухода.",
-        "resume_fa": "پروفسور سایمون بارون-کوهن از دانشگاه کمبریج درباره مرگ غم‌انگیز همکار خود، پروفسور جیسون اردی، سخن گفت. او تأکید کرد که اردی متخصص برجسته در زمینه اوتیسم بود و سهم بزرگی در علم داشت. بارون-کوهن از درگذشت او ابراز تاسف عمیق کرد.",
-        "resume_ar": "تحدث أستاذ جامعة كامبريدج سايمون بارون-كوهن عن وفاة زميله المأساوية، الأستاذ جيسون أرداي. وأكد أن أرداي كان خبيراً بارزاً في مجال التوحد وقدم مساهمة كبيرة في العلم. عبر بارون-كوهن عن حزنه العميق لوفاته.",
-        "analyse_detaillee": "La mort de Jason Arday s'inscrit dans un contexte de lutte contre les discriminations raciales et sociales dans les universités britanniques, où les minorités restent sous-représentées. Ses travaux sur l'autisme ont marqué la recherche mondiale, mais son parcours personnel illustre les défis rencontrés par les chercheurs issus de milieux défavorisés. À court terme, cette disparition prive la science d'un esprit brillant et d'un militant infatigable pour l'égalité. À moyen terme, elle pourrait inspirer une nouvelle génération de chercheurs issus de milieux modestes à poursuivre des carrières académiques. Sur le long terme, son héritage pourrait renforcer les politiques d'inclusion dans les universités, bien que des obstacles structurels persistent. Les acteurs académiques et politiques sont unanimes sur l'importance de son travail, mais les moyens concrets pour lutter contre les inégalités restent limités. Son décès rappelle aussi l'urgence de mieux soutenir la santé mentale des chercheurs, souvent négligée. Enfin, cette tragédie met en lumière les disparités persistantes dans l'accès à l'excellence académique selon l'origine sociale.",
-        "analyse_en": "Jason Arday's death occurs amid ongoing struggles against racial and social discrimination in British universities, where minorities remain underrepresented. His autism research significantly impacted global science, but his personal journey highlights the challenges faced by researchers from disadvantaged backgrounds. In the short term, his passing deprives science of a brilliant mind and tireless advocate for equality. In the medium term, it could inspire a new generation of researchers from modest backgrounds to pursue academic careers. Long-term, his legacy may strengthen inclusion policies in universities, though structural obstacles persist. Academic and political actors unanimously recognize his work's importance, but concrete measures to combat inequalities remain limited. His death also underscores the urgency of better supporting researchers' mental health, often neglected. Finally, this tragedy highlights persistent disparities in accessing academic excellence based on social origin.",
-        "analyse_zh": "杰森·阿德的离世发生在英国大学反对种族和社会歧视的持续斗争中，少数群体仍然代表不足。他的自闭症研究对全球科学产生了重大影响，但他的个人经历凸显了来自弱势背景的研究人员面临的挑战。短期内，他的离世使科学界失去了一位杰出人才和不懈的平等倡导者。中期来看，它可能激励新一代来自 modest backgrounds 的研究人员追求学术事业。长期而言，他的遗产可能加强大学的包容性政策，尽管结构性障碍依然存在。学术和政治参与者一致认可其工作的重要性，但打击不平等的具体措施仍有限。他的离世也凸显了更好支持研究人员心理健康的紧迫性，这一问题常被忽视。最后，这一悲剧凸显了基于社会出身在获取学术卓越方面的持续差异。",
-        "analyse_ru": "Смерть Джейсона Ардей стала утратой для научного сообщества, особенно в области изучения аутизма. Причины его ухода остаются неизвестными, но его наследие в науке и поддержка коллег подчеркивают важность его работы. Последствия этой трагедии могут включать переосмысление подходов к исследованиям и памяти о его вкладе. Перспективы зависят от того, как научные круги сохранят его наследие. Позиции сторон едины в признании его значимости, но скорбь и уважение к нему остаются главными темами обсуждений.",
-        "analyse_fa": "مرگ جیسون اردی برای جامعه علمی، به ویژه در زمینه مطالعه اوتیسم، یک خسارت بزرگ بود. دلایل مرگ او ناشناخته باقی مانده است، اما میراث او در علم و حمایت همکارانش اهمیت کار او را نشان می‌دهد. پیامدهای این تراژدی می‌تواند شامل بازنگری در رویکردهای تحقیقاتی و یادبود از مشارکت او باشد. چشم‌اندازها به این بستگی دارد که جامعه علمی چگونه میراث او را حفظ کند. مواضع طرفین در قدردانی از اهمیت او یکسان است، اما اندوه و احترام به او موضوعات اصلی گفتگوها باقی می‌مانند.",
-        "analyse_ar": "أصبحت وفاة جيسون أرداي خسارة للمجتمع العلمي، خاصة في مجال دراسة التوحد. لا تزال أسباب وفاته مجهولة، لكن إرثه في العلم ودعم زملائه يسلط الضوء على أهمية عمله. قد تشمل عواقب هذه المأساة إعادة تقييم المناهج البحثية وتخليد ذكرى مساهماته. الآفاق تعتمد على كيفية الحفاظ على إرثه من قبل الأوساط العلمية. المواقف متفقة على الاعتراف بأهميته، لكن الحزن والاحترام له يظلان الموضوعين الرئيسيين للنقاشات.",
-        "categorie": "Société",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4391923/posts",
-        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-        "date": "2026-08-15",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Recherche académique",
-            "hausse": false
-          },
-          {
-            "label": "▲ Financement public de l'éducation",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Recherche académique",
-            "secteur_en": "Academic research",
-            "secteur_zh": "学术研究",
-            "effet_fr": "La disparition d'Arday pourrait ralentir les avancées dans la recherche sur l'autisme, un domaine où son expertise était reconnue mondialement.",
-            "effet_en": "Arday's death could slow progress in autism research, a field where his expertise was globally recognized.",
-            "effet_zh": "阿德的离世可能减缓自闭症研究的进展，这是一个他享誉全球的领域。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Financement public de l'éducation",
-            "secteur_en": "Public education funding",
-            "secteur_zh": "公共教育资金",
-            "effet_fr": "Son héritage pourrait inciter les pouvoirs publics à renforcer les bourses pour les étudiants issus de milieux défavorisés.",
-            "effet_en": "His legacy could prompt public authorities to increase scholarships for students from disadvantaged backgrounds.",
-            "effet_zh": "他的遗产可能促使公共当局增加来自弱势背景学生的奖学金。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-16T16:23:49.379321"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_119307",
+        "titre": "Binface : le vote protestataire à Clacton",
+        "titre_en": "Count Binface: Protest Vote in Clacton By-Election",
+        "titre_zh": "克拉克顿补选中的抗议投票",
+        "titre_ru": "Who voted for Count Binface in the Clacton by-election and why? - BBC",
+        "titre_fa": "Who voted for Count Binface in the Clacton by-election and why? - BBC",
+        "titre_ar": "Who voted for Count Binface in the Clacton by-election and why? - BBC",
+        "titre_original": "Who voted for Count Binface in the Clacton by-election and why? - BBC",
+        "resume": "Le candidat satirique Count Binface a marqué les esprits lors de l'élection partielle de Clacton, sans remporter le siège. Son score reflète un mécontentement croissant envers les partis traditionnels. Les électeurs ont exprimé leur frustration face au système politique britannique.",
+        "resume_en": "Satirical candidate Count Binface made an impact in the Clacton by-election without winning the seat. His score reflects growing discontent with traditional parties. Voters expressed frustration with the British political system.",
+        "resume_zh": "讽刺候选人伯因斯伯爵在克拉克顿补选中引起关注，但未赢得议席。他的得票反映了对传统政党的日益不满。选民对英国政治体制表达了挫败感。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le vote pour Count Binface s'inscrit dans une tradition britannique de candidats satiriques, comme Lord Buckethead ou Raging Loony, qui critiquent le système politique. Les enjeux principaux incluent la défiance envers les partis établis, notamment après le Brexit et les scandales politiques récents. Les causes profondes résident dans un sentiment d'abandon des classes populaires et d'une classe politique déconnectée. À court terme, ce vote protestataire pourrait encourager d'autres candidatures similaires aux prochaines élections. À moyen terme, cela pourrait pousser les partis traditionnels à intégrer davantage de propositions populistes. À long terme, une fragmentation accrue du paysage politique britannique est envisageable. Les acteurs comme Nigel Farage et le Parti réformiste y voient une opportunité pour capitaliser sur ce mécontentement. Les médias et les réseaux sociaux amplifient ce phénomène en normalisant l'humour politique.",
+        "analyse_en": "The vote for Count Binface fits into a British tradition of satirical candidates like Lord Buckethead or Raging Loony, who criticize the political system. Main stakes include distrust of established parties, especially after Brexit and recent political scandals. Root causes lie in a sense of abandonment among working-class voters and a disconnected political class. In the short term, this protest vote could encourage more similar candidacies in future elections. In the medium term, it could push traditional parties to adopt more populist proposals. In the long term, increased fragmentation of the British political landscape is possible. Actors like Nigel Farage and the Reform Party see this as an opportunity to capitalize on this discontent. Media and social networks amplify this phenomenon by normalizing political humor.",
+        "analyse_zh": "对伯因斯伯爵的投票延续了英国讽刺候选人的传统，如巴克海德勋爵或愤怒疯子党，他们批评政治体制。主要影响包括对传统政党的不信任，尤其是在脱欧和近期政治丑闻之后。深层原因在于对工人阶级被遗弃的感受和政治阶层的脱节。短期内，这种抗议投票可能鼓励未来更多类似候选人参选。中期来看，可能推动传统政党采纳更多民粹主义主张。长期而言，英国政治格局可能进一步碎片化。奈杰尔·法拉奇和改革党等行为者将其视为利用这种不满的机会。媒体和社交网络通过使政治幽默常态化来放大这一现象。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Politique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185001014",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-08-16",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des sondages politiques",
+            "hausse": false
+          },
+          {
+            "label": "▲ Financement des partis politiques",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des sondages politiques",
+            "secteur_en": "Political polling market",
+            "secteur_zh": "政治民调市场",
+            "effet_fr": "Les scores inattendus de candidats satiriques pourraient fausser les prévisions des sondages, réduisant leur crédibilité auprès du public.",
+            "effet_en": "Unexpected scores for satirical candidates could skew polling forecasts, reducing their credibility with the public.",
+            "effet_zh": "讽刺候选人的意外得票可能扭曲民调预测，降低其公信力。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Financement des partis politiques",
+            "secteur_en": "Political party financing",
+            "secteur_zh": "政党融资",
+            "effet_fr": "L'émergence de candidats protestataires pourrait inciter les partis traditionnels à réallouer leurs budgets vers des campagnes plus populistes.",
+            "effet_en": "The rise of protest candidates could push traditional parties to reallocate budgets toward more populist campaigns.",
+            "effet_zh": "抗议候选人的兴起可能促使传统政党重新分配预算，转向更民粹主义的竞选活动。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-17T13:38:54.417116"
+      },
       {
         "id": "usa_374385",
         "titre": "Coups de circuit et fascisme",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-16T17:18:18.462877"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_755709",
-        "titre": "Une élue new-yorkaise veut légaliser le vol",
-        "titre_en": "New York lawmaker wants to legalize shoplifting",
-        "titre_zh": "纽约议员提议合法化盗窃",
-        "titre_ru": "Прогрессивный депутат из Бруклина предлагает легализовать кражи",
-        "titre_fa": "نماینده پیشرو بروکلین پیشنهاد قانونی کردن دزدی را داد",
-        "titre_ar": "نائب تقدمي من بروكلين يقترح تشريع السرقة",
-        "titre_original": "Woke Brooklyn lawmaker suggests shoplifting should be LEGALIZED because thieves have 'biological need' for the things they steal",
-        "resume": "Une députée démocrate socialiste de New York propose de dépénaliser le vol de produits essentiels comme le dentifrice ou le savon, invoquant un prétendu « besoin biologique ». Cette prise de position radicale divise l'opinion publique et les responsables politiques. Elle s'inscrit dans un débat plus large sur la justice sociale et la criminalité à New York.",
-        "resume_en": "A socialist Democratic New York lawmaker proposes decriminalizing theft of essentials like toothpaste or soap, citing a supposed 'biological need.' This radical stance sparks public and political division. It reflects a broader debate on social justice and crime in New York.",
-        "resume_zh": "纽约一名社会主义民主党议员提议将盗窃生活必需品（如牙膏或肥皂）合法化，并以所谓的“生理需求”为由。这一激进立场引发公众和政治分歧。它反映了纽约在社会正义与犯罪问题上的更广泛辩论。",
-        "resume_ru": "Прогрессивный депутат от Нью-Йорка Эмили Галлахер предложила легализовать мелкие кражи, утверждая, что у воров есть «биологическая потребность» в украденных товарах. Она считает, что полиция не должна вмешиваться в такие случаи. В пример она привела кражи зубной пасты и мыла.",
-        "resume_fa": "یک نماینده پیشرو از بروکلین به نام امیلی گالاچر پیشنهاد داد که دزدی‌های کوچک قانونی شوند. او ادعا کرد سارقان «نیازی زیستی» به کالاهای دزدیده شده دارند و پلیس نباید در این موارد دخالت کند. او به دزدی خمیردندان و صابون به عنوان مثال اشاره کرد.",
-        "resume_ar": "اقترحت عضوة مجلس ولاية نيويورك التقدمية إيميلي غالاغر تشريع سرقة البضائع الصغيرة، زاعمة أن السارقين لديهم «حاجة بيولوجية» للأشياء المسروقة. وقالت إنه لا ينبغي للشرطة التدخل في مثل هذه الحالات، مشيرة إلى سرقة معجون الأسنان والصابون كأمثلة.",
-        "analyse_detaillee": "Cette proposition s'inscrit dans un contexte de tensions sociales croissantes à New York, où les inégalités économiques exacerbent les tensions autour de la criminalité. Les causes profondes incluent la précarité économique, la hausse des prix des produits de première nécessité et un sentiment d'impunité chez certains voleurs. À court terme, cette mesure pourrait aggraver les tensions entre commerçants et consommateurs, tout en alimentant les débats sur la réforme de la justice pénale. À moyen terme, elle risque de normaliser des comportements déviants et de fragiliser les petits commerces déjà en difficulté. Sur le long terme, elle pourrait inspirer d'autres États américains à adopter des politiques similaires, avec des conséquences imprévisibles sur la sécurité publique. Les acteurs politiques sont profondément divisés : les progressistes y voient une avancée sociale, tandis que les conservateurs dénoncent une atteinte à l'ordre public. Les commerçants, eux, craignent une aggravation de la criminalité et des pertes financières. Cette proposition reflète aussi une polarisation accrue de la société américaine autour des questions de justice et d'égalité.",
-        "analyse_en": "This proposal comes amid growing social tensions in New York, where economic inequalities fuel debates over crime. Root causes include economic precarity, rising prices of essential goods, and a perceived sense of impunity among some thieves. In the short term, this measure could worsen tensions between shopkeepers and consumers while fueling debates on penal justice reform. In the medium term, it risks normalizing deviant behavior and further weakening small businesses already struggling. Long-term, it could inspire other U.S. states to adopt similar policies, with unpredictable consequences for public safety. Political actors are deeply divided: progressives see it as a social advancement, while conservatives condemn it as an attack on public order. Shopkeepers fear worsening crime and financial losses. This proposal also reflects America's heightened polarization over justice and equality issues.",
-        "analyse_zh": "这一提议出现在纽约日益加剧的社会紧张局势中，经济不平等加剧了对犯罪的争论。深层原因包括经济脆弱性、生活必需品价格上涨以及某些窃贼的有罪不罚感。短期内，此举可能加剧商家与消费者间的紧张关系，同时推动刑事司法改革的辩论。中期来看，它可能使偏差行为常态化，进一步削弱本已困难的小型商业。长期而言，它可能激励其他美国州采取类似政策，对公共安全产生不可预测的后果。政治参与者严重分裂：进步派视其为社会进步，保守派则谴责其破坏公共秩序。商家担心犯罪恶化和经济损失。该提议也反映了美国在正义与平等问题上的极化加剧。",
-        "analyse_ru": "Предложение депутата отражает радикальные взгляды левого крыла американской политики, где вопросы социальной справедливости и экономического неравенства часто становятся основой для нестандартных решений. Причины такой инициативы могут быть связаны с ростом преступности на фоне экономических трудностей и недовольством населения полицейскими мерами. Последствия могут включать увеличение числа краж, ослабление правопорядка и критику со стороны правоохранительных органов. Перспективы зависят от реакции общественности и законодателей, но маловероятно, что инициатива получит широкое одобрение. Позиции сторон разделились: сторонники видят в этом шаг к социальной справедливости, а противники — попустительство преступности.",
-        "analyse_fa": "این پیشنهاد بازتاب‌دهنده دیدگاه‌های رادیکال جناح چپ سیاست آمریکا است، جایی که مسائل عدالت اجتماعی و نابرابری اقتصادی اغلب پایه‌ای برای راه‌حل‌های غیرمعمول می‌شوند. دلایل چنین ابتکاری ممکن است به افزایش جرم و جنایت در پس زمینه مشکلات اقتصادی و نارضایتی مردم از اقدامات پلیس مربوط باشد. پیامدها می‌تواند شامل افزایش سرقت‌ها، تضعیف نظم عمومی و انتقاد از سوی نهادهای مجری قانون باشد. چشم‌اندازها به واکنش جامعه و قانون‌گذاران بستگی دارد، اما بعید است که این ابتکار باapproval گسترده مواجه شود. موضع بازیگران تقسیم شده است: حامیان آن را گامی به سوی عدالت اجتماعی می‌دانند، در حالی که مخالفان آن را تساهل در برابر جرم و جنایت تلقی می‌کنند.",
-        "analyse_ar": "يعكس هذا الاقتراح وجهات نظر متطرفة للجناح اليساري في السياسة الأمريكية، حيث تصبح قضايا العدالة الاجتماعية وعدم المساواة الاقتصادية غالباً أساساً للحلول غير التقليدية. قد ترتبط أسباب هذه المبادرة بارتفاع معدلات الجريمة في ظل الصعوبات الاقتصادية واستياء السكان من إجراءات الشرطة. قد تشمل العواقب زيادة عمليات السرقة، وتدهور النظام العام، وانتقاد من قبل هيئات إنفاذ القانون. الآفاق تعتمد على رد فعل الجمهور والمشرعين، لكن من غير المحتمل أن تحظى المبادرة بموافقة واسعة. مواقف الأطراف منقسمة: يرى المؤيدون أنها خطوة نحو العدالة الاجتماعية، بينما يعتبر المعارضون أنها تساهل مع الجريمة.",
-        "categorie": "Politique intérieure",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4391924/posts",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-08-15",
-        "pays": "usa",
+        "id": "chine_848090",
+        "titre": "Ukraine : un drone ukrainien détruit un bombardier russe",
+        "titre_en": "Ukraine Destroys Russian Bomber with $48K Drone",
+        "titre_zh": "乌克兰用4.8万美元无人机摧毁俄轰炸机",
+        "titre_ru": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km",
+        "titre_fa": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km",
+        "titre_ar": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km",
+        "titre_original": "Ukraine built a $48,000 long-range drone after covertly snapping Chinese factory photos, clone destroys Russian Tu-95 bomber — attack drone has 2,000 km",
+        "resume": "L'Ukraine a utilisé un drone MICH 2000, d'une valeur de 48 000 dollars, pour détruire un bombardier stratégique russe Tu-95. Cette attaque a eu lieu à la base aérienne d'Engels-2. Les images des usines chinoises auraient inspiré la conception de ce drone.",
+        "resume_en": "Ukraine used a $48,000 MICH 2000 drone to destroy a Russian Tu-95 strategic bomber. The attack took place at the Engels-2 air base. Images from Chinese factories reportedly inspired the drone's design.",
+        "resume_zh": "乌克兰使用价值4.8万美元的MICH 2000无人机摧毁了俄军战略轰炸机图-95。袭击发生在恩格斯-2空军基地。无人机设计 reportedly 受中国工厂图片启发。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L'utilisation de drones par l'Ukraine marque une évolution dans les conflits modernes, où les technologies low-cost deviennent des armes stratégiques. Les enjeux incluent la capacité de Kiev à compenser son infériorité numérique face à la Russie. Les causes profondes résident dans les sanctions occidentales limitant l'accès aux armements conventionnels. À court terme, cette attaque pourrait inciter Moscou à renforcer ses systèmes de défense aérienne. À moyen terme, cela pourrait accélérer le développement de drones ukrainiens et de contre-mesures russes. À long terme, une course aux armements dans le domaine des drones est probable. La Chine, bien que neutre officiellement, est suspectée de fournir des composants ou des technologies indirectement. Les acteurs comme les États-Unis et l'UE pourraient intensifier leur soutien technologique à l'Ukraine. Les marchés de la défense et des technologies duales en bénéficieront.",
+        "analyse_en": "Ukraine's use of drones marks an evolution in modern conflicts, where low-cost technologies become strategic weapons. Stakes include Kiev's ability to offset its numerical inferiority against Russia. Root causes lie in Western sanctions limiting access to conventional armaments. In the short term, this attack could prompt Moscow to strengthen its air defense systems. In the medium term, it could accelerate the development of Ukrainian drones and Russian countermeasures. In the long term, an arms race in drone technology is likely. China, while officially neutral, is suspected of indirectly providing components or technologies. Actors like the U.S. and E.U. may intensify their technological support to Ukraine. Defense and dual-use technology markets will benefit.",
+        "analyse_zh": "乌克兰使用无人机标志着现代冲突的演变，低成本技术成为战略武器。主要影响包括基辅弥补其对俄罗斯的数量劣势的能力。深层原因在于西方制裁限制常规武器的获取。短期内，此次袭击可能促使莫斯科加强其防空系统。中期来看，可能加速乌克兰无人机和俄罗斯对抗措施的发展。长期而言，无人机技术的军备竞赛可能出现。中国尽管官方中立，但被怀疑间接提供零部件或技术。美国和欧盟等行为者可能加强对乌克兰的技术支持。国防和军民两用技术市场将受益。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Défense",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185001000",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-08-16",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Commerce de détail",
-            "hausse": false
+            "label": "▲ Secteur des drones militaires",
+            "hausse": true
           },
           {
-            "label": "▲ Assurance",
+            "label": "▲ Marché des technologies de contre-mesures aériennes",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Commerce de détail",
-            "secteur_en": "Retail sector",
-            "secteur_zh": "零售业",
-            "effet_fr": "La légalisation du vol pourrait entraîner une hausse des coûts d'assurance et une baisse des marges pour les commerçants, déjà fragilisés par la crise économique.",
-            "effet_en": "Decriminalizing theft could lead to higher insurance costs and reduced profit margins for retailers, already weakened by the economic crisis.",
-            "effet_zh": "将盗窃合法化可能导致零售商保险成本上升，利润率下降，而他们已因经济危机而脆弱不堪。",
-            "hausse": false
+            "secteur_fr": "Secteur des drones militaires",
+            "secteur_en": "Military drone sector",
+            "secteur_zh": "军用无人机行业",
+            "effet_fr": "La démonstration de l'efficacité du MICH 2000 pourrait stimuler la demande pour des drones low-cost et accélérer l'innovation dans ce secteur.",
+            "effet_en": "The MICH 2000's effectiveness could boost demand for low-cost drones and accelerate innovation in this sector.",
+            "effet_zh": "MICH 2000的有效性可能推动对低成本无人机的需求，并加速该行业的创新。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Assurance",
-            "secteur_en": "Insurance sector",
-            "secteur_zh": "保险业",
-            "effet_fr": "Les assureurs pourraient augmenter leurs primes pour couvrir les risques accrus de vols, pénalisant davantage les commerçants.",
-            "effet_en": "Insurers may raise premiums to cover increased theft risks, further penalizing retailers.",
-            "effet_zh": "保险公司可能提高保费以覆盖盗窃风险上升，进一步惩罚零售商。",
+            "secteur_fr": "Marché des technologies de contre-mesures aériennes",
+            "secteur_en": "Air countermeasures technology market",
+            "secteur_zh": "空中对抗技术市场",
+            "effet_fr": "La Russie pourrait investir davantage dans des systèmes de détection et de neutralisation de drones, créant une nouvelle niche économique.",
+            "effet_en": "Russia could invest more in drone detection and neutralization systems, creating a new economic niche.",
+            "effet_zh": "俄罗斯可能在无人机探测和中和系统上投入更多资金，创造一个新的经济细分市场。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-16T16:23:49.379292"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-17T13:38:54.417129"
+      },
       {
         "id": "chine_927155",
         "titre": "La Chine lance une nouvelle série de satellites",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-15T19:21:11.900235"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_599125",
-        "titre": "Film chinois primé à la Mostra de Venise",
-        "titre_en": "Chinese Film Awarded at Venice Film Festival",
-        "titre_zh": "中国电影获威尼斯电影节奖项",
-        "titre_ru": "Китайский режиссёр выбран для Венецианского фестиваля",
-        "titre_fa": "کارگردان چینی برای جشنواره ونیز انتخاب شد",
-        "titre_ar": "مخرج صيني مختار لمهرجان البندقية السينمائي",
-        "titre_original": "Venice: M-Appeal Picks Up Chinese Director Jie Dong’s ‘Zoom In, Zoom Out’ Ahead of Premiere (EXCLUSIVE)",
-        "resume": "Le film 'Zoom In, Zoom Out' du réalisateur chinois Jie Dong a été sélectionné à la Semaine de la critique de Venise. La société M-Appeal a acquis les droits de distribution internationale. Ce projet marque une reconnaissance croissante du cinéma chinois en Europe.",
-        "resume_en": "The film 'Zoom In, Zoom Out' by Chinese director Jie Dong has been selected for the Venice Critics' Week. The M-Appeal company has acquired international distribution rights. This project marks a growing recognition of Chinese cinema in Europe.",
-        "resume_zh": "中国导演董杰的电影《拉近拉远》入选威尼斯评论周。M-Appeal公司已获得国际发行权。这一项目标志着中国电影在欧洲的认可度日益提高。",
-        "resume_ru": "Компания M-Appeal, специализирующаяся на продаже фильмов, приобрела права на дебютный фильм китайского режиссера Jie Dong «Zoom In, Zoom Out». Картина будет представлена на Венецианской неделе критиков. Фильм рассказывает о человеке по имени Ши.",
-        "resume_fa": "شرکت ام-آپیل، فعال در فروش فیلم‌ها، حقوق فیلم آغازین کارگردان چینی جیه دونگ با عنوان «زوم این، زوم آوت» را خریداری کرد. این فیلم در هفته منتقدان ونیز به نمایش در خواهد آمد. داستان فیلم درباره مردی به نام شی است.",
-        "resume_ar": "شركة M-Appeal المتخصصة في بيع الأفلام حصلت على حقوق فيلم «زوم إن، زوم آوت» الأول للمخرج الصيني جيه دونغ. будет سيعرض الفيلم في أسبوع النقاد في مهرجان البندقية. الفيلم يروي قصة رجل يدعى شي.",
-        "analyse_detaillee": "Le cinéma chinois connaît une reconnaissance internationale croissante, notamment depuis les années 2000, avec des réalisateurs comme Jia Zhangke ou Zhang Yimou. La sélection de 'Zoom In, Zoom Out' à la Semaine de la critique de Venise reflète cette tendance, dans un contexte où l'Europe cherche à diversifier ses sources culturelles. M-Appeal, société allemande spécialisée dans les ventes internationales, joue un rôle clé dans la promotion du film, ciblant un public mondial. À court terme, cette sélection pourrait attirer des investissements dans le cinéma chinois et renforcer les partenariats entre l'Europe et la Chine. À moyen terme, une reconnaissance accrue pourrait ouvrir des portes pour d'autres réalisateurs chinois sur les marchés internationaux. À long terme, cela pourrait contribuer à un dialogue culturel plus équilibré, réduisant la domination des productions hollywoodiennes. Les acteurs clés incluent les festivals européens, les distributeurs et les plateformes de streaming, qui voient dans le cinéma chinois une alternative rentable. Les défis persistent, comme les barrières linguistiques ou les différences culturelles, mais l'intérêt croissant des festivals et des salles de cinéma en Europe est un signe encourageant.",
-        "analyse_en": "Chinese cinema has seen growing international recognition since the 2000s, with directors like Jia Zhangke or Zhang Yimou. The selection of 'Zoom In, Zoom Out' for the Venice Critics' Week reflects this trend, in a context where Europe seeks to diversify its cultural sources. M-Appeal, a German company specializing in international sales, plays a key role in promoting the film, targeting a global audience. In the short term, this selection could attract investments in Chinese cinema and strengthen partnerships between Europe and China. In the medium term, increased recognition could open doors for other Chinese directors in international markets. Long-term, this could contribute to a more balanced cultural dialogue, reducing the dominance of Hollywood productions. Key actors include European festivals, distributors, and streaming platforms, which see Chinese cinema as a profitable alternative. Challenges remain, such as language barriers or cultural differences, but the growing interest from European festivals and cinemas is an encouraging sign.",
-        "analyse_zh": "自2000年代以来，中国电影在国际上获得越来越多的认可，涌现出贾樟柯、张艺谋等导演。电影《拉近拉远》入选威尼斯评论周，反映了这一趋势，在欧洲寻求多元化文化来源的背景下。德国专业国际销售公司M-Appeal在推广该片方面发挥关键作用，目标是全球观众。短期内，这一入选可能吸引对中国电影的投资，并加强欧洲与中国之间的合作。中期来看，认可度的提高可能为其他中国导演打开国际市场的大门。长期而言，这可能有助于更平衡的文化对话，减少好莱坞制作的主导地位。关键行为者包括欧洲电影节、发行商和流媒体平台，他们认为中国电影是一个有利可图的选择。挑战依然存在，如语言障碍或文化差异，但欧洲电影节和影院的兴趣日益增长是一个积极信号。",
-        "analyse_ru": "Выбор дебютного фильма китайского режиссера Jie Dong для Венецианской недели критиков отражает растущий интерес к азиатскому кинематографу в Европе. Это может быть связано с глобализацией кинорынка и стремлением фестивалей к разнообразию. Фильм «Zoom In, Zoom Out» исследует темы идентичности и восприятия, что актуально в современном мире. Для M-Appeal это шаг к расширению портфеля азиатских проектов, что может привлечь новых инвесторов. В долгосрочной перспективе это способствует культурному обмену и укреплению связей между Азией и Европой.",
-        "analyse_fa": "انتخاب فیلم آغازین کارگردان چینی جیه دونگ برای هفته منتقدان ونیز، نشان‌دهنده علاقه فزاینده به سینمای آسیایی در اروپا است. این ممکن است به دلیل جهانی‌شدن بازار سینما و تمایل جشنواره‌ها به تنوع باشد. فیلم «زوم این، زوم آوت» به مضامین هویت و ادراک می‌پردازد که در دنیای امروز بسیار مرتبط است. برای M-Appeal، این گامی در جهت گسترش سبد پروژه‌های آسیایی است که می‌تواند سرمایه‌گذاران جدیدی جذب کند. در بلندمدت، این به تبادل فرهنگی و تقویت پیوندهای بین آسیا و اروپا کمک می‌کند.",
-        "analyse_ar": "إن اختيار فيلم المخرج الصيني جيه دونغ الأول لعرضه في أسبوع النقاد بمهرجان البندقية يعكس الاهتمام المتزايد بالسينما الآسيوية في أوروبا. وقد يكون ذلك بسبب عولمة سوق السينما وسعي المهرجانات إلى التنوع. يتناول فيلم «زوم إن، زوم آوت» مواضيع الهوية والإدراك، وهو ما يعدّ ذا صلة في العالم المعاصر. بالنسبة لشركة M-Appeal، هذه خطوة نحو توسيع محفظة المشاريع الآسيوية، مما قد يجذب مستثمرين جدد. على المدى الطويل، هذا يساهم في التبادل الثقافي وتعزيز الروابط بين آسيا وأوروبا.",
-        "categorie": "Culture",
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/global/m-appeal-jie-dongs-zoom-in-zoom-out-venice-1236834666/",
-        "image": "https://variety.com/wp-content/uploads/2026/08/Zoom-In-Zoom-Out.jpg?w=1000&h=563&crop=1",
-        "date": "2026-08-14",
-        "pays": "chine",
+        "id": "russie_484302",
+        "titre": "Drone abattu en Roumanie après intrusion dans l'espace aérien",
+        "titre_en": "Spanish Jet Downs Drone in Romania After Airspace Breach",
+        "titre_zh": "西班牙战机在罗马尼亚击落入侵无人机",
+        "titre_ru": "Spanish jet downs drone in Romania after airspace breach",
+        "titre_fa": "Spanish jet downs drone in Romania after airspace breach",
+        "titre_ar": "Spanish jet downs drone in Romania after airspace breach",
+        "titre_original": "Spanish jet downs drone in Romania after airspace breach",
+        "resume": "Un drone a été abattu par un avion espagnol en Roumanie après avoir violé l'espace aérien roumain. Cet incident s'inscrit dans une série de violations attribuées à la Russie. L'OTAN renforce sa surveillance dans la région pour prévenir de nouvelles incursions.",
+        "resume_en": "A drone was shot down by a Spanish jet in Romania after violating Romanian airspace. This incident is part of a series of breaches attributed to Russia. NATO is increasing surveillance in the region to prevent further incursions.",
+        "resume_zh": "一架西班牙战机在罗马尼亚击落了一架侵犯罗马尼亚领空的无人机。此次事件是一系列被归咎于俄罗斯的入侵事件之一。北约正在加强该地区监视以防止进一步入侵。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les incursions de drones en Europe de l'Est s'intensifient depuis le début de la guerre en Ukraine, reflétant une stratégie russe de pression indirecte sur l'OTAN. Les enjeux incluent la crédibilité de la défense collective de l'Alliance et la stabilité régionale. Les causes profondes résident dans l'escalade des tensions entre Moscou et l'Occident, ainsi que dans les failles des systèmes de détection aérienne. À court terme, ces incidents pourraient justifier un déploiement accru de troupes et de systèmes anti-aériens en Europe de l'Est. À moyen terme, cela pourrait mener à une militarisation accrue de la région, avec des conséquences économiques pour les pays frontaliers. À long terme, une nouvelle course aux armements en Europe est envisageable. Les acteurs comme l'OTAN et l'UE doivent trouver un équilibre entre dissuasion et désescalade. La Roumanie, en tant que membre de l'OTAN, joue un rôle clé dans cette dynamique. Les marchés de la sécurité aérienne et des technologies de surveillance en bénéficieront.",
+        "analyse_en": "Drone incursions in Eastern Europe have intensified since the start of the war in Ukraine, reflecting a Russian strategy of indirect pressure on NATO. Stakes include the credibility of the Alliance's collective defense and regional stability. Root causes lie in escalating tensions between Moscow and the West, as well as gaps in air detection systems. In the short term, these incidents could justify increased troop deployments and anti-air systems in Eastern Europe. In the medium term, this could lead to heightened militarization of the region, with economic consequences for neighboring countries. In the long term, a new arms race in Europe is possible. Actors like NATO and the EU must balance deterrence and de-escalation. Romania, as a NATO member, plays a key role in this dynamic. Markets for air security and surveillance technologies will benefit.",
+        "analyse_zh": "自乌克兰战争开始以来，无人机入侵东欧事件加剧，反映了俄罗斯对北约的间接压力战略。主要影响包括联盟集体防御的可信度和地区稳定。深层原因在于莫斯科与西方紧张局势升级，以及空中探测系统的漏洞。短期内，这些事件可能促使在东欧增加部署军队和防空系统。中期来看，可能导致该地区军事化加剧，对邻国造成经济后果。长期而言，欧洲可能出现新一轮军备竞赛。北约和欧盟等行为者必须在威慑与缓和之间寻找平衡。作为北约成员国，罗马尼亚在此动态中扮演关键角色。空中安全和监视技术市场将受益。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Times of Malta",
+        "url": "https://timesofmalta.com/article/spanish-jet-downs-drone-romania-airspace-breach.1132833",
+        "image": "https://cdn-attachments.timesofmalta.com/e2a675a64066b302cde15e0193e0f71d83cd6e23-1786886855-0bd29292-1200x630.png",
+        "date": "2026-08-16",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur du cinéma indépendant",
+            "label": "▲ Secteur de la défense aérienne",
             "hausse": true
           },
           {
-            "label": "▲ Secteur des plateformes de streaming",
+            "label": "▲ Marché de l'assurance des risques géopolitiques",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur du cinéma indépendant",
-            "secteur_en": "Independent film sector",
-            "secteur_zh": "独立电影行业",
-            "effet_fr": "La sélection du film pourrait attirer des financements supplémentaires pour les réalisateurs chinois émergents et renforcer leur visibilité internationale.",
-            "effet_en": "The film's selection could attract additional funding for emerging Chinese directors and enhance their international visibility.",
-            "effet_zh": "该片的入选可能为新兴中国导演吸引更多资金，并提升其国际知名度。",
+            "secteur_fr": "Secteur de la défense aérienne",
+            "secteur_en": "Air defense sector",
+            "secteur_zh": "防空行业",
+            "effet_fr": "L'augmentation des incursions pourrait pousser les pays européens à moderniser leurs systèmes de défense aérienne, stimulant les investissements dans ce secteur.",
+            "effet_en": "Increased incursions could push European countries to modernize their air defense systems, boosting investments in this sector.",
+            "effet_zh": "入侵事件增加可能促使欧洲国家现代化其防空系统，推动该行业投资。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur des plateformes de streaming",
-            "secteur_en": "Streaming platforms sector",
-            "secteur_zh": "流媒体平台行业",
-            "effet_fr": "Les plateformes pourraient acquérir davantage de films chinois pour répondre à la demande croissante des spectateurs européens.",
-            "effet_en": "Streaming platforms could acquire more Chinese films to meet growing demand from European audiences.",
-            "effet_zh": "流媒体平台可能收购更多中国电影，以满足欧洲观众日益增长的需求。",
+            "secteur_fr": "Marché de l'assurance des risques géopolitiques",
+            "secteur_en": "Geopolitical risk insurance market",
+            "secteur_zh": "地缘政治风险保险市场",
+            "effet_fr": "La multiplication des incidents pourrait faire grimper les primes d'assurance pour les infrastructures critiques en Europe de l'Est.",
+            "effet_en": "The increase in incidents could drive up insurance premiums for critical infrastructure in Eastern Europe.",
+            "effet_zh": "事件增加可能推高东欧关键基础设施的保险费率。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-15T17:20:13.828540"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-17T13:38:54.417139"
+      },
       {
         "id": "russie_437542",
         "titre": "Drones britanniques frappent la Russie",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-16T13:30:53.822034"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_515046",
-        "titre": "Ukraine propose trêve en mer Noire, Russie silencieuse",
-        "titre_en": "Ukraine Proposes Black Sea Truce; Russia Silent",
-        "titre_zh": "乌克兰提议黑海停火，俄罗斯沉默",
-        "titre_ru": "Украина предложила перемирие в Чёрном море",
-        "titre_fa": "اوکراین آتش‌بس موقت در دریای سیاه پیشنهاد کرد",
-        "titre_ar": "أوكرانيا تقترح هدنة مؤقتة في البحر الأسود",
-        "titre_original": "Ukraine offers Black Sea shipping truce; Russia yet to respond : Report",
-        "resume": "L'Ukraine a proposé une trêve temporaire pour cesser les attaques contre les cibles civiles en mer Noire. Ces frappes perturbent gravement le commerce maritime. Moscou n'a pas encore répondu à cette initiative diplomatique.",
-        "resume_en": "Ukraine has proposed a temporary truce to halt attacks on civilian targets in the Black Sea. These strikes severely disrupt maritime trade. Moscow has not yet responded to this diplomatic initiative.",
-        "resume_zh": "乌克兰提议暂时停火，停止对黑海平民目标的袭击。这些袭击严重扰乱海上贸易。莫斯科尚未回应这一外交倡议。",
-        "resume_ru": "Украина предложила временное прекращение атак на гражданские цели в Чёрном море. Это связано с учащением ударов по кораблям и портам, что нарушает торговлю. Россия пока не ответила на инициативу.",
-        "resume_fa": "اوکراین پیشنهاد آتش‌بس موقت در حملات به اهداف غیرنظامی در دریای سیاه را ارائه کرد. این به دلیل افزایش حملات به کشتی‌ها و بنادر است که تجارت را مختل می‌کند. روسیه هنوز به این پیشنهاد پاسخ نداده است.",
-        "resume_ar": "اقترحت أوكرانيا وقفاً مؤقتاً للهجمات على الأهداف المدنية في البحر الأسود. ويرجع ذلك إلى تزايد الضربات على السفن والموانئ، مما يعطل التجارة. ولم ترد روسيا بعد على هذه المبادرة.",
-        "analyse_detaillee": "La mer Noire est un corridor stratégique depuis des siècles, reliant l'Europe à l'Asie via les détroits turcs. Depuis 2022, la guerre en Ukraine a transformé cette zone en un champ de bataille naval et économique. L'Ukraine, en proposant une trêve, cherche à protéger ses exportations de céréales et à réduire les tensions avec les pays riverains. La Russie, de son côté, pourrait y voir une opportunité de consolider son contrôle sur la région. À court terme, une trêve limiterait les pertes économiques pour l'Ukraine et ses alliés. À moyen terme, elle pourrait servir de levier pour des négociations plus larges. Long terme, elle risquerait de légitimer l'influence russe sur les routes commerciales. Les acteurs (OTAN, UE, Turquie) jouent un rôle clé dans les équilibres régionaux. La Chine, via ses routes commerciales, a aussi un intérêt indirect. Enfin, cette proposition reflète la recherche d'un équilibre entre pression militaire et stabilité économique.",
-        "analyse_en": "The Black Sea has been a strategic corridor for centuries, linking Europe to Asia via Turkish straits. Since 2022, the war in Ukraine has turned this area into a naval and economic battleground. Ukraine, by proposing a truce, aims to protect its grain exports and reduce tensions with neighboring countries. Russia, for its part, might see this as an opportunity to consolidate its control over the region. In the short term, a truce would limit economic losses for Ukraine and its allies. In the medium term, it could serve as leverage for broader negotiations. Long-term, it risks legitimizing Russian influence over trade routes. Stakeholders (NATO, EU, Turkey) play a key role in regional balances. China, through its trade routes, also has an indirect interest. Finally, this proposal reflects the search for a balance between military pressure and economic stability.",
-        "analyse_zh": "黑海自几个世纪以来一直是战略走廊，通过土耳其海峡连接欧洲和亚洲。自2022年以来，乌克兰战争将该地区变成了海战和经济战场。乌克兰提议停火，旨在保护其谷物出口并减少与邻国的紧张局势。俄罗斯则可能将其视为巩固对该地区控制的机会。短期内，停火将限制乌克兰及其盟友的经济损失。中期来看，它可能成为更广泛谈判的筹码。长期而言，它可能会合法化俄罗斯对贸易路线的影响。相关方（北约、欧盟、土耳其）在地区平衡中发挥关键作用。中国通过其贸易路线也间接参与其中。最后，这一提议反映了在军事压力与经济稳定之间寻求平衡的努力。",
-        "analyse_ru": "Конфликт в Украине продолжает оказывать давление на региональную безопасность, и предложение о перемирии в Чёрном море может стать важным шагом к снижению напряжённости. Украина стремится защитить гражданские суда и инфраструктуру, но Россия пока не дала чёткого ответа. Если инициатива будет принята, это может облегчить гуманитарные и экономические последствия для региона. Однако, учитывая текущую динамику, маловероятно, что перемирие будет долговременным. Для международного сообщества это шанс для дипломатического вмешательства.",
-        "analyse_fa": "درگیری در اوکراین همچنان فشار بر امنیت منطقه‌ای وارد می‌کند و پیشنهاد آتش‌بس در دریای سیاه می‌تواند گامی مهم برای کاهش تنش باشد. اوکراین تلاش دارد از کشتی‌ها و زیرساخت‌های غیرنظامی محافظت کند، اما روسیه هنوز پاسخی روشن نداده است. اگر این ابتکار پذیرفته شود، می‌تواند پیامدهای انسانی و اقتصادی منطقه را تسهیل کند. با این حال، با توجه به پویایی کنونی، بعید است که آتش‌بس طولانی‌مدت باشد. برای جامعه بین‌المللی، این فرصتی برای مداخله دیپلماتیک است.",
-        "analyse_ar": "لا يزال الصراع في أوكرانيا يضغط على الأمن الإقليمي، وقد يكون اقتراح هدنة في البحر الأسود خطوة مهمة نحو تخفيف حدة التوترات. وتسعى أوكرانيا إلى حماية السفن والبنى التحتية المدنية، لكن روسيا لم تقدم رداً واضحاً بعد. وإذا تم قبول هذه المبادرة، فقد تخفف الآثار الإنسانية والاقتصادية للمنطقة. ومع ذلك، بالنظر إلى الديناميكية الحالية، من غير المرجح أن تكون الهدنة طويلة الأمد. بالنسبة للمجتمع الدولي، هذه فرصة للتدخل الدبلوماسي.",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-offers-black-sea-shipping-truce-russia-yet-to-respond-report/articleshow/133262655.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133262655,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-08-15",
-        "pays": "russie",
+        "id": "iran_449482",
+        "titre": "Pipelines du Moyen-Orient : une alternative au détroit d'Ormuz ?",
+        "titre_en": "Middle Eastern Pipelines: Can They Replace the Strait of Hormuz?",
+        "titre_zh": "中东管道能否取代霍尔木兹海峡？",
+        "titre_ru": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
+        "titre_fa": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
+        "titre_ar": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
+        "titre_original": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
+        "resume": "Les pays du Golfe explorent des projets de pipelines pour contourner le détroit d'Ormuz, stratégique mais vulnérable. Ces infrastructures pourraient redéfinir les routes énergétiques mondiales. Cependant, leur viabilité économique et géopolitique reste incertaine.",
+        "resume_en": "Gulf countries are exploring pipeline projects to bypass the Strait of Hormuz, a strategic but vulnerable chokepoint. These infrastructures could redefine global energy routes. However, their economic and geopolitical viability remains uncertain.",
+        "resume_zh": "海湾国家正在探索管道项目，以绕过战略但脆弱的霍尔木兹海峡。这些基础设施可能重新定义全球能源路线。然而，其经济和地缘政治可行性仍不确定。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le détroit d'Ormuz est depuis des décennies un point de tension majeur entre l'Iran et les pays du Golfe, contrôlant une part majeure du trafic pétrolier mondial. Les enjeux incluent la sécurité énergétique des pays importateurs et la souveraineté des États riverains. Les causes profondes résident dans les sanctions contre l'Iran, qui poussent Téhéran à chercher des alternatives pour exporter son pétrole. À court terme, les projets de pipelines pourraient réduire la dépendance des pays du Golfe envers le détroit, mais leur construction prendra des années. À moyen terme, cela pourrait affaiblir l'influence iranienne dans la région et modifier les alliances énergétiques. À long terme, une nouvelle carte des routes énergétiques mondiales pourrait émerger, avec des conséquences pour les marchés pétroliers. Les acteurs comme l'Arabie saoudite, les Émirats arabes unis et l'Iran devront négocier des compromis pour éviter une escalade. Les entreprises occidentales spécialisées dans les infrastructures énergétiques pourraient en tirer profit. Les marchés du transport maritime et des assurances maritimes seront également impactés.",
+        "analyse_en": "The Strait of Hormuz has been a major tension point between Iran and Gulf countries for decades, controlling a significant share of global oil traffic. Stakes include the energy security of importing countries and the sovereignty of littoral states. Root causes lie in sanctions against Iran, pushing Tehran to seek alternatives for oil exports. In the short term, pipeline projects could reduce Gulf countries' dependence on the strait, but construction will take years. In the medium term, this could weaken Iran's regional influence and alter energy alliances. In the long term, a new map of global energy routes could emerge, with consequences for oil markets. Actors like Saudi Arabia, the UAE, and Iran will need to negotiate compromises to avoid escalation. Western companies specializing in energy infrastructure could benefit. Markets for maritime transport and marine insurance will also be impacted.",
+        "analyse_zh": "霍尔木兹海峡几十年来一直是伊朗与海湾国家之间的主要紧张点，控制着全球石油运输的重要份额。主要影响包括进口国的能源安全和沿岸国家的主权。深层原因在于对伊朗的制裁，迫使德黑兰寻找石油出口的替代方案。短期内，管道项目可能减少海湾国家对海峡的依赖，但建设需要数年时间。中期来看，这可能削弱伊朗在该地区的影响力，并改变能源联盟。长期而言，全球能源路线的新版图可能出现，对石油市场产生影响。沙特阿拉伯、阿联酋和伊朗等行为者需要谈判达成妥协，以避免局势升级。专门从事能源基础设施的西方公司可能从中受益。海上运输和海事保险市场也将受到影响。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Énergie",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
+        "image": "https://www.fairobserver.com/wp-content/uploads/2026/08/map-2.jpg",
+        "date": "2026-08-16",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Commerce maritime mondial",
-            "hausse": true
+            "label": "▼ Marché du transport pétrolier maritime",
+            "hausse": false
           },
           {
-            "label": "▼ Marché de l'énergie",
-            "hausse": false
+            "label": "▲ Secteur des infrastructures énergétiques",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Commerce maritime mondial",
-            "secteur_en": "Global maritime trade",
-            "secteur_zh": "全球海上贸易",
-            "effet_fr": "Une trêve stabiliserait les routes commerciales en mer Noire, réduisant les coûts logistiques pour les exportateurs européens.",
-            "effet_en": "A truce would stabilize trade routes in the Black Sea, reducing logistics costs for European exporters.",
-            "effet_zh": "停火将稳定黑海贸易路线，降低欧洲出口商的物流成本。",
-            "hausse": true
+            "secteur_fr": "Marché du transport pétrolier maritime",
+            "secteur_en": "Maritime oil transport market",
+            "secteur_zh": "海上石油运输市场",
+            "effet_fr": "La réduction du trafic via le détroit d'Ormuz pourrait diminuer la demande pour les pétroliers géants, affectant les armateurs spécialisés.",
+            "effet_en": "Reducing traffic through the Strait of Hormuz could decrease demand for giant oil tankers, impacting specialized shipowners.",
+            "effet_zh": "减少通过霍尔木兹海峡的运输可能降低对巨型油轮的需求，影响专业船东。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché de l'énergie",
-            "secteur_en": "Energy market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "La réduction des tensions pourrait faciliter les exportations de gaz russe vers l'Europe, influençant les prix de l'énergie.",
-            "effet_en": "Reduced tensions could facilitate Russian gas exports to Europe, influencing energy prices.",
-            "effet_zh": "紧张局势缓解可能促进俄罗斯对欧洲的天然气出口，影响能源价格。",
-            "hausse": false
+            "secteur_fr": "Secteur des infrastructures énergétiques",
+            "secteur_en": "Energy infrastructure sector",
+            "secteur_zh": "能源基础设施行业",
+            "effet_fr": "Les projets de pipelines pourraient stimuler les investissements dans les infrastructures énergétiques, bénéficiant aux entreprises de construction et d'ingénierie.",
+            "effet_en": "Pipeline projects could boost investments in energy infrastructure, benefiting construction and engineering firms.",
+            "effet_zh": "管道项目可能推动能源基础设施投资，惠及建筑和工程公司。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-16T12:36:10.753482"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-17T13:38:54.417149"
+      },
       {
         "id": "iran_38963",
         "titre": "Qatar nie avoir capturé des pilotes iraniens",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-16T16:23:49.379352"
-      },
-      {
-        "id": "iran_433821",
-        "titre": "L'Iran et Oman se rapprochent sur les routes maritimes",
-        "titre_en": "Iran and Oman edge closer on Hormuz shipping routes",
-        "titre_zh": "伊朗与阿曼在霍尔木兹航线上更加接近",
-        "titre_ru": "Иран и Оман приближаются к соглашению по маршрутам Hormuz",
-        "titre_fa": "ایران و عمان به توافق در مورد مسیرهای تنگه هرمز نزدیک می‌شوند",
-        "titre_ar": "إيران وعمان تقتربان من اتفاق حول طرق مضيق هرمز",
-        "titre_original": "Iran, Oman edge closer to Hormuz shipping routes deal as war continues",
-        "resume": "L'Iran et Oman négocient un accord visant à sécuriser les routes maritimes du détroit d'Ormuz, crucial pour le transit mondial d'hydrocarbures. Cette initiative intervient dans un contexte de tensions accrues et d'attaques récentes dans la région. Les deux pays cherchent à renforcer leur coopération économique et militaire.",
-        "resume_en": "Iran and Oman are negotiating an agreement to secure the Hormuz Strait shipping routes, crucial for global hydrocarbon transit. This initiative comes amid heightened tensions and recent attacks in the region. Both countries aim to strengthen economic and military cooperation.",
-        "resume_zh": "伊朗与阿曼正在谈判一项协议，以确保霍尔木兹海峡航线安全，该海峡对全球碳氢化合物运输至关重要。此举发生在该地区紧张局势加剧和近期袭击频发的背景下。两国旨在加强经济和军事合作。",
-        "resume_ru": "Иран и Оман ведут переговоры о создании совместного механизма для обеспечения безопасности судоходства в Ормузском проливе. Это происходит на фоне серии нападений на суда в регионе. Соглашение может укрепить позиции Тегерана в переговорах с международными партнёрами. Доля мировых поставок нефти и газа через Hormuz составляет пятую часть.",
-        "resume_fa": "ایران و عمان در حال مذاکره برای ایجاد سازوکاری مشترک جهت تأمین امنیت کشتیرانی در تنگه هرمز هستند. این در حالی است که حملات متعددی به کشتی‌ها در منطقه رخ داده است. توافق احتمالی می‌تواند موضع تهران را در مذاکرات با شرکای بین‌المللی تقویت کند. پنج درصد از عرضه جهانی نفت و گاز از طریق هرمز عبور می‌کند.",
-        "resume_ar": "تجري إيران وعمان مفاوضات لإنشاء آلية مشتركة لضمان أمن الملاحة في مضيق هرمز. يأتي ذلك في ظل سلسلة من الهجمات على السفن في المنطقة. قد يعزز أي اتفاق محتمل موقف طهران في المفاوضات مع الشركاء الدوليين. يمر خمس الإنتاج العالمي من النفط والغاز عبر هرمز.",
-        "analyse_detaillee": "Le détroit d'Ormuz, par lequel transite 20% du pétrole et du gaz mondiaux, est un point de tension géopolitique majeur depuis des décennies. L'accord en négociation entre l'Iran et Oman s'inscrit dans une stratégie de sécurisation des voies maritimes face aux attaques récurrentes attribuées à des acteurs régionaux ou internationaux. Les enjeux incluent la stabilité des approvisionnements énergétiques mondiaux et la réduction des risques de conflit ouvert. À court terme, cet accord pourrait stabiliser les prix de l'énergie en rassurant les marchés. À moyen terme, il pourrait renforcer l'influence iranienne dans le golfe Persique au détriment des alliés traditionnels d'Oman, comme les États-Unis. À long terme, cela pourrait redessiner les alliances régionales et modifier l'équilibre des pouvoirs. Les acteurs principaux sont l'Iran, Oman, les États-Unis, les pays du Golfe et les grandes puissances énergétiques. Les conséquences économiques incluent une possible hausse des investissements dans la sécurité maritime et une diversification des routes commerciales.",
-        "analyse_en": "The Hormuz Strait, through which 20% of global oil and gas transits, has been a major geopolitical flashpoint for decades. The agreement under negotiation between Iran and Oman is part of a strategy to secure maritime routes amid recurring attacks attributed to regional or international actors. The stakes include the stability of global energy supplies and reducing the risk of open conflict. In the short term, this agreement could stabilize energy prices by reassuring markets. In the medium term, it could strengthen Iran's influence in the Persian Gulf at the expense of Oman's traditional allies, such as the United States. Long-term, this could reshape regional alliances and shift the balance of power. Key actors are Iran, Oman, the United States, Gulf countries, and major energy powers. Economic consequences include a possible increase in investments in maritime security and a diversification of trade routes.",
-        "analyse_zh": "霍尔木兹海峡（全球20%石油和天然气由此运输）数十年来一直是地缘政治热点。伊朗与阿曼的协议谈判是为在该地区频繁袭击（多归咎于地区或国际行为者）背景下确保航线安全的策略。核心问题包括全球能源供应稳定和降低公开冲突风险。短期内，此协议可能通过安抚市场来稳定能源价格。中期来看，可能在波斯湾增强伊朗影响力，削弱阿曼传统盟友（如美国）的地位。长期而言，可能重塑地区联盟并改变权力平衡。主要行为者包括伊朗、阿曼、美国、海湾国家和主要能源大国。经济后果包括可能增加对海上安全的投资，并促进贸易路线多元化。",
-        "analyse_ru": "Переговоры между Ираном и Оманом отражают стремление Тегерана укрепить региональную безопасность без участия западных держав, особенно после ужесточения санкций США. Hormuz — ключевой транспортный коридор, и его стабильность критически важна для мировой экономики. Соглашение может стать прецедентом для сотрудничества с другими странами Персидского залива, но вызывает опасения у США и их союзников, которые видят в этом усиление влияния Ирана. Для Омана это шаг к диверсификации внешней политики и снижению зависимости от Запада. В случае успеха, соглашение укрепит позиции Ирана в регионе и усилит его переговорную позицию по ядерной программе.",
-        "analyse_fa": "مذاکرات بین ایران و عمان نشان‌دهنده تلاش تهران برای تقویت امنیت منطقه‌ای بدون مشارکت قدرت‌های غربی، به‌ویژه پس از تشدید تحریم‌های آمریکا است. تنگه هرمز یک走廊 ترابری کلیدی است و ثبات آن برای اقتصاد جهانی حیاتی است. هرگونه توافق می‌تواند الگویی برای همکاری با دیگر کشورهای خلیج فارس باشد، اما نگرانی‌هایی را در میان ایالات متحده و متحدانش ایجاد می‌کند که آن را تقویت نفوذ ایران تلقی می‌کنند. برای عمان، این گامی در جهت تنوع‌بخشی به سیاست خارجی و کاهش وابستگی به غرب است. در صورت موفقیت، توافق موضع ایران در منطقه را تقویت کرده و قدرت چانه‌زنی آن را در مذاکرات برنامه هسته‌ای افزایش خواهد داد.",
-        "analyse_ar": "تعكس المفاوضات بين إيران وعمان سعي طهران لتعزيز الأمن الإقليمي دون مشاركة القوى الغربية، خاصة بعد تشديد العقوبات الأمريكية. مضيق هرمز ممر نقل حيوي، واستقراره أمر حيوي للاقتصاد العالمي. قد يشكل أي اتفاق سابقة للتعاون مع دول الخليج الأخرى، لكنه يثير قلق الولايات المتحدة وحلفائها الذين يرونه تعزيزاً لنفوذ إيران. بالنسبة لعمان، هذه خطوة نحو تنويع السياسة الخارجية وتقليل الاعتماد على الغرب. في حال النجاح، سيعزز الاتفاق موقف إيران في المنطقة ويعزز موقفها التفاوضي بشأن البرنامج النووي.",
-        "categorie": "Géopolitique",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-continues-126081501311_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/06/thumb/fitandfill/1200X628/1780751061-098.jpg",
-        "date": "2026-08-15",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier mondial",
-            "hausse": false
-          },
-          {
-            "label": "▲ Secteur maritime et assurances",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier mondial",
-            "secteur_en": "Global oil market",
-            "secteur_zh": "全球石油市场",
-            "effet_fr": "La sécurisation des routes pourrait réduire les risques de pénurie et stabiliser les prix du pétrole à court terme.",
-            "effet_en": "Securing the routes could reduce supply risks and stabilize oil prices in the short term.",
-            "effet_zh": "确保航线安全可能降低供应风险，短期内稳定石油价格。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur maritime et assurances",
-            "secteur_en": "Maritime sector and insurance",
-            "secteur_zh": "航运业与保险业",
-            "effet_fr": "L'augmentation des risques dans la région pourrait faire monter les primes d'assurance maritime et les coûts de transport.",
-            "effet_en": "Increased risks in the region could drive up maritime insurance premiums and transportation costs.",
-            "effet_zh": "该地区风险上升可能推高海运保险费率和运输成本。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-16T14:21:41.924389"
       }
     ]
   },
