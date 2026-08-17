@@ -1,7 +1,66 @@
 {
-  "last_updated": "17/08/2026 à 19h27",
+  "last_updated": "17/08/2026 à 20h25",
   "articles": {
     "monde": [
+      {
+        "id": "monde_48564",
+        "titre": "NVIDIA investit 3 milliards dans l'énergie pour l'IA",
+        "titre_en": "NVIDIA's $3 Billion Bet on AI Power Grid",
+        "titre_zh": "英伟达斥资30亿投入AI电力基础设施",
+        "titre_ru": "NVIDIA вкладывает $3 млрд в энергосистему для ИИ",
+        "titre_fa": "شرکت انویدیا ۳ میلیارد دلار در زیرساخت‌های انرژی هوش مصنوعی سرمایه‌گذاری می‌کند",
+        "titre_ar": "إنفيديا تستثمر 3 مليارات دولار في شبكة الطاقة الداعمة للذكاء الاصطناعي",
+        "titre_original": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
+        "resume": "NVIDIA investit 3 milliards de dollars pour sécuriser l'alimentation électrique des centres de données dédiés à l'IA. Cette stratégie vise à répondre à la demande croissante en énergie des infrastructures IA. Le géant des puces anticipe une pénurie mondiale d'électricité pour les data centers.",
+        "resume_en": "NVIDIA is investing $3 billion to secure power supply for AI data centers amid rising global energy demand. The chipmaker anticipates a potential electricity shortage for data centers worldwide. This move underscores the critical role of energy infrastructure in AI expansion.",
+        "resume_zh": "英伟达斥资30亿美元确保AI数据中心的电力供应，应对全球能源需求激增。该公司预测数据中心可能面临电力短缺，凸显能源基础设施在AI扩张中的关键作用。",
+        "resume_ru": "Компания NVIDIA объявила о новом стратегическом вложении в инфраструктуру, обеспечивающую работу ИИ-чипов. Речь идет о финансировании энергосистем, которые станут основой для будущих центров обработки данных. Это решение подчеркивает растущую зависимость технологий от стабильных и мощных источников энергии.",
+        "resume_fa": "شرکت انویدیا از سرمایه‌گذاری ۳ میلیارد دلاری در زیرساخت‌های انرژی برای پشتیبانی از تراشه‌های هوش مصنوعی خبر داد. این پروژه شامل تأمین انرژی مراکز داده آینده خواهد بود. این اقدام نشان‌دهنده اهمیت روزافزون منابع انرژی پایدار برای فناوری‌های نوین است.",
+        "resume_ar": "أعلنت شركة إنفيديا عن استثمارها 3 مليارات دولار في بنية تحتية للطاقة تدعم شرائح الذكاء الاصطناعي. يشمل المشروع تمويل أنظمة طاقة لمراكز البيانات المستقبلية. ويبرز هذا القرار الاعتماد المتزايد للتكنولوجيا على مصادر طاقة مستقرة وقوية.",
+        "analyse_detaillee": "NVIDIA, leader des puces graphiques pour l'IA, étend son influence au-delà des semi-conducteurs en ciblant le secteur énergétique. Cette stratégie s'inscrit dans un contexte de transition énergétique mondiale et de course à l'IA, où la consommation électrique des data centers explose. Les enjeux principaux incluent la stabilité des réseaux électriques et la réduction de l'empreinte carbone des infrastructures technologiques. Les causes profondes résident dans l'explosion des besoins en calcul intensif pour l'entraînement des modèles d'IA et l'informatique quantique. À court terme, cette initiative pourrait accélérer la modernisation des réseaux électriques, mais aussi créer des tensions sur les prix de l'énergie. À moyen terme, elle pourrait favoriser l'émergence de partenariats public-privé dans le secteur énergétique. À long terme, cela pourrait redéfinir la géopolitique de l'énergie, avec une dépendance accrue des pays aux infrastructures technologiques. Les acteurs comme les gouvernements, les fournisseurs d'énergie et les régulateurs joueront un rôle clé dans cette transition.",
+        "analyse_en": "NVIDIA, a leader in AI chips, is expanding its influence beyond semiconductors by targeting the energy sector. This strategy aligns with global energy transition trends and the AI race, where data center electricity consumption is skyrocketing. Key stakes include grid stability and reducing the carbon footprint of tech infrastructures. Root causes lie in the explosive demand for high-performance computing for AI training and quantum computing. In the short term, this initiative could accelerate grid modernization but also drive energy price tensions. Medium-term, it may foster public-private partnerships in the energy sector. Long-term, it could reshape energy geopolitics, increasing countries' dependence on tech infrastructures. Governments, energy providers, and regulators will play pivotal roles in this transition.",
+        "analyse_zh": "英伟达作为AI芯片领导者，正将影响力扩展至能源行业，这一战略与全球能源转型和AI竞赛趋势一致。数据中心电力消耗激增是核心挑战，涉及电网稳定性和科技基础设施碳足迹问题。深层原因在于AI模型训练和量子计算对高性能计算的需求激增。短期内可能加速电网现代化，但也可能推高能源价格。中期可能催生能源行业公私合作。长期则可能重塑能源地缘政治，加剧国家对科技基础设施的依赖。政府、能源供应商和监管机构将扮演关键角色。",
+        "analyse_ru": "NVIDIA, лидер в производстве графических процессоров, расширяет свое влияние на рынок искусственного интеллекта, инвестируя в энергетическую инфраструктуру. Причины такого шага кроются в растущем спросе на вычислительные мощности для обучения нейронных сетей и обработки больших данных. Последствия могут включать монополизацию рынка энергоэффективных решений для ИИ, что укрепит позиции компании как ключевого игрока в отрасли. Перспективы проекта зависят от стабильности поставок энергии и технологических инноваций в области чипов. Позиция администрации США, поддерживающей развитие ИИ, может ускорить реализацию таких инициатив.",
+        "analyse_fa": "انویدیا به‌عنوان پیشرو در تولید پردازنده‌های گرافیکی، با سرمایه‌گذاری در زیرساخت‌های انرژی، نفوذ خود در بازار هوش مصنوعی را گسترش می‌دهد. دلایل این اقدام به تقاضای فزاینده برای قدرت محاسباتی در آموزش شبکه‌های عصبی و پردازش داده‌های بزرگ بازمی‌گردد. پیامدهای احتمالی شامل انحصارطلبی در راه‌حل‌های انرژی کارآمد برای هوش مصنوعی و تقویت جایگاه انویدیا به‌عنوان بازیگر اصلی این صنعت خواهد بود. چشم‌انداز پروژه به ثبات تأمین انرژی و نوآوری‌های فناوری در زمینه تراشه‌ها بستگی دارد. موضع دولت آمریکا، که از توسعه هوش مصنوعی حمایت می‌کند، می‌تواند تسریع در اجرای چنین طرح‌هایی را به همراه داشته باشد.",
+        "analyse_ar": "تعتبر إنفيديا، الرائدة في إنتاج معالجات الرسوميات، بتوسيع نفوذها في سوق الذكاء الاصطناعي من خلال الاستثمار في البنية التحتية للطاقة. ترجع أسباب هذه الخطوة إلى الطلب المتزايد على القدرات الحاسوبية لتدريب الشبكات العصبية ومعالجة البيانات الضخمة. قد تشمل العواقب احتكار حلول الطاقة الفعالة للذكاء الاصطناعي وتعزيز مكانة الشركة كلاعب رئيسي في القطاع. ترتبط آفاق المشروع باستقرار توريد الطاقة والتقنيات المبتكرة في مجال الشرائح. قد تسارع مواقف الإدارة الأمريكية، الداعمة لتطوير الذكاء الاصطناعي، تنفيذ مثل هذه المبادرات.",
+        "categorie": "Technologie",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/A44ED6E3F426F53251C698617478E9B0F4BE013818582634BB57235E9A5D0BEC/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa079136e941b43293f25b66228839740.jpg",
+        "date": "2026-08-16",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ secteur de l'énergie",
+            "hausse": true
+          },
+          {
+            "label": "▲ marché des semi-conducteurs",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "secteur de l'énergie",
+            "secteur_en": "energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "L'investissement de NVIDIA pourrait stimuler l'innovation dans les énergies renouvelables et les solutions de stockage pour répondre à la demande des data centers.",
+            "effet_en": "NVIDIA's investment could drive innovation in renewable energy and storage solutions to meet data center demand.",
+            "effet_zh": "英伟达的投资可能推动可再生能源和储能技术创新，以满足数据中心需求。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché des semi-conducteurs",
+            "secteur_en": "semiconductor market",
+            "secteur_zh": "半导体市场",
+            "effet_fr": "La demande accrue en puces IA pourrait renforcer la position dominante de NVIDIA sur le marché des semi-conducteurs.",
+            "effet_en": "Increased AI chip demand could solidify NVIDIA's dominant position in the semiconductor market.",
+            "effet_zh": "AI芯片需求激增可能巩固英伟达在半导体市场的主导地位。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-17T20:25:14.526557"
+      },
       {
         "id": "monde_770585",
         "titre": "Décès de Tommy John, légende du baseball",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-17T01:10:27.749065"
-      },
-      {
-        "id": "monde_626536",
-        "titre": "Elena Delle Donne intronisée au Hall of Fame",
-        "titre_en": "Elena Delle Donne set for Hall of Fame induction",
-        "titre_zh": "埃尔娜·德莱·多内即将入选名人堂",
-        "titre_ru": "Элена Делле Донне войдет в Зал славы баскетбола 2026",
-        "titre_fa": "النا دل دونه برای تالار مشاهیر بسکتبال ۲۰۲۶ آماده می‌شود",
-        "titre_ar": "إلينا ديل دوني ستُخلّد في قاعة مشاهير كرة السلة 2026",
-        "titre_original": "Elena Delle Donne thinks of 'little Elena' ahead of Hall of Fame induction",
-        "resume": "La basketteuse américaine Elena Delle Donne sera intronisée au Naismith Basketball Hall of Fame en août 2026. Cette reconnaissance honore une carrière marquée par des performances exceptionnelles. Elle évoque avec émotion son parcours face à des défis personnels.",
-        "resume_en": "American basketball player Elena Delle Donne will be inducted into the Naismith Basketball Hall of Fame in August 2026. This honor recognizes a career defined by outstanding achievements. She reflects emotionally on her journey amid personal challenges.",
-        "resume_zh": "美国篮球运动员埃尔娜·德莱·多内将于2026年8月入选奈史密斯篮球名人堂。这一荣誉表彰了她出色的职业生涯。她动情地回顾了面对个人挑战的历程。",
-        "resume_ru": "Элена Делле Донне будет увековечена в Зале славы баскетбола имени Нейсмита в 2026 году. Церемония состоится 15 августа в Спрингфилде, штат Массачусетс. Спортсменка выразила благодарность своей семье, особенно младшей сестре, которая вдохновила её на путь к успеху.",
-        "resume_fa": "النا دل دونه به تالار مشاهیر بسکتبال نایسمیت در سال ۲۰۲۶ راه خواهد یافت. مراسم معرفی در ۱۵ اوت در اسپرینگفیلد، ماساچوست برگزار می‌شود. او از خانواده‌اش، به ویژه خواهر کوچک‌ترش که الهام‌بخش او بوده، تشکر کرد.",
-        "resume_ar": "ستُخلّد إلينا ديل دوني في قاعة مشاهير كرة السلة نيسميث لعام 2026. ستُقام الحفل في 15 أغسطس في سبرينغفيلد، ماساتشوستس. expressed gratitude to her family, especially her younger sister who inspired her journey.",
-        "analyse_detaillee": "Elena Delle Donne incarne une génération de sportives ayant brisé des barrières dans le basketball féminin. Son intronisation reflète l'évolution des mentalités autour du sport et du handicap. Les enjeux principaux incluent la visibilité des athlètes féminines et la reconnaissance des parcours atypiques. Les causes profondes remontent à son refus de sacrifier sa santé pour le sport, défiant les normes traditionnelles. À court terme, cette distinction pourrait inspirer d'autres athlètes. À moyen terme, elle renforce l'image du basketball féminin comme discipline exigeante et inclusive. À long terme, elle pourrait influencer les politiques de recrutement dans le sport professionnel. Les acteurs, dont la WNBA et les fédérations, y voient un levier pour promouvoir l'égalité des chances.",
-        "analyse_en": "Elena Delle Donne represents a generation of female athletes who broke barriers in women's basketball. Her induction reflects evolving attitudes toward sports and disability. Key stakes include visibility for female athletes and recognition of unconventional careers. Root causes trace back to her refusal to sacrifice health for sport, defying traditional norms. In the short term, this distinction could inspire other athletes. Medium-term, it strengthens the image of women's basketball as demanding and inclusive. Long-term, it may influence recruitment policies in professional sports. Stakeholders, including the WNBA and federations, see it as a lever for promoting equal opportunities.",
-        "analyse_zh": "埃尔娜·德莱·多内代表了在女子篮球领域打破藩篱的一代运动员。她的入选反映了对体育和残障问题态度的演变。主要影响包括提升女性运动员的可见度和认可非传统职业生涯。深层原因可追溯到她拒绝为体育牺牲健康，挑战传统规范。短期内，这一荣誉可能激励其他运动员。中期来看，它强化了女子篮球作为高要求且包容性运动的形象。长期而言，可能影响职业体育的招聘政策。利益相关者，包括WNBA和各联合会，将其视为促进机会平等的杠杆。",
-        "analyse_ru": "Элена Делле Донне — одна из самых ярких звёзд женского баскетбола, известная не только спортивными достижениями, но и социальной активностью. Её включение в Зал славы символизирует признание вклада женщин в развитие баскетбола. Контекст церемонии важен, так как она проходит в преддверии Олимпиады 2024 года, что подчёркивает глобальное значение женского спорта. Причины успеха Делле Донне кроются в её уникальной истории: она отказалась от стипендии в университете ради поддержки младшей сестры с инвалидностью. Последствия такого решения стали вдохновением для многих, а её карьера доказала, что талант и решимость могут преодолеть любые барьеры. Перспективы для женского баскетбола в США выглядят позитивно, так как подобные истории способствуют росту популярности спорта среди молодёжи.",
-        "analyse_fa": "النا دل دونه یکی از برجسته‌ترین ستاره‌های بسکتبال زنان است که علاوه بر دستاوردهای ورزشی، فعال اجتماعی نیز به شمار می‌رود. ورود او به تالار مشاهیر نمادی از قدردانی از نقش زنان در توسعه بسکتبال است. زمینه این رویداد در آستانه المپیک ۲۰۲۴ اهمیت ویژه‌ای دارد، چرا که بر اهمیت جهانی ورزش زنان تأکید می‌کند. دلایل موفقیت او به تصمیم منحصر‌به‌فردش بازمی‌گردد: او بورسیه دانشگاهی را رد کرد تا از خواهر کوچک‌ترش با معلولیت مراقبت کند. پیامد این تصمیم الهام‌بخش بسیاری شد و حرفه او ثابت کرد که استعداد و اراده می‌تواند هر مانعی را از سر راه بردارد. چشم‌انداز بسکتبال زنان در آمریکا روشن است، زیرا چنین داستان‌هایی به رشد محبوبیت این ورزش در میان جوانان کمک می‌کنند.",
-        "analyse_ar": "إلينا ديل دوني هي واحدة من أبرز نجوم كرة السلة النسائية، المعروفة ليس فقط بإنجازاتها الرياضية بل بنشاطها الاجتماعي. إنضمامها إلى قاعة المشاهير هو اعتراف بمساهمة النساء في تطوير كرة السلة. السياق مهم لأن الحفل يقام قبل أولمبياد 2024، مما يبرز الأهمية العالمية لرياضة النساء. أسباب نجاحها تكمن في قرارها الفريد: رفضها لمنحة جامعية لدعم شقيقتها الصغرى ذات الإعاقة. تبعات هذا القرار ألهمت الكثيرين، وأثبتت مسيرتها أن الموهبة والإرادة يمكنهما تجاوز أي عوائق. آفاق كرة السلة النسائية في الولايات المتحدة تبدو إيجابية، حيث تساهم مثل هذه القصص في زيادة شعبية الرياضة بين الشباب.",
-        "categorie": "Sport",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/sports/basketball/2026/08/15/elena-delle-donne-basketball-hall-of-fame-induction/91281331007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/d0372764a7a372a9d5b3c1d26249250421164a32b57f17b03d6bd43b6320b8a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fd0e4462ba066d1257b948ce2e89708c5.jpg",
-        "date": "2026-08-15",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Sponsoring sportif",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des droits TV",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sponsoring sportif",
-            "secteur_en": "Sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Les marques associées au basketball féminin pourraient augmenter leurs investissements pour capitaliser sur cette visibilité accrue.",
-            "effet_en": "Brands linked to women's basketball may increase investments to capitalize on this heightened visibility.",
-            "effet_zh": "与女子篮球相关的品牌可能会增加投资，以利用这一提升的可见度。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des droits TV",
-            "secteur_en": "TV rights market",
-            "secteur_zh": "电视转播权市场",
-            "effet_fr": "Les droits de diffusion des matchs de la WNBA pourraient voir leur valeur augmenter grâce à l'engouement généré par cette intronisation.",
-            "effet_en": "WNBA game broadcast rights could see their value rise due to the buzz generated by this induction.",
-            "effet_zh": "WNBA比赛转播权可能因这一入选引发的热潮而价值上升。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-16T23:19:01.223212"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_671458",
+        "titre": "Trump rencontre les PDG des crypto et marchés prédictifs",
+        "titre_en": "Trump Meets Crypto and Prediction Market CEOs",
+        "titre_zh": "特朗普会见加密货币和预测市场CEO",
+        "titre_ru": "Белый дом встречается с лидерами криптовалют и рынков прогнозов",
+        "titre_fa": "کاخ سفید با مدیران ارزهای دیجیتال و بازارهای پیش‌بینی دیدار می‌کند",
+        "titre_ar": "البيت الأبيض يعقد اجتماعاً مع قادة العملات الرقمية وأسواق التنبؤات",
+        "titre_original": "White House Convenes Meeting With Crypto and Prediction Market CEOs",
+        "resume": "Le gouvernement Trump organise une réunion avec des dirigeants du secteur crypto et des marchés prédictifs. Cette initiative vise à discuter de la régulation future de ces industries. La rencontre inclut des figures majeures comme Sam Bankman-Fried et Vitalik Buterin.",
+        "resume_en": "The Trump administration is hosting a meeting with crypto and prediction market executives to discuss future regulations. Key figures like Sam Bankman-Fried and Vitalik Buterin are expected to attend. The gathering reflects growing U.S. interest in digital asset oversight.",
+        "resume_zh": "特朗普政府召集加密货币和预测市场高管会议，讨论未来监管政策。包括Sam Bankman-Fried和Vitalik Buterin在内的重要人物将出席。此次会议反映了美国对数字资产监管的日益重视。",
+        "resume_ru": "Администрация Дональда Трампа организовала встречу с руководителями криптовалютных компаний и рынков прогнозов. В мероприятии, запланированном на среду, ожидается участие президента США. Цель встречи — обсуждение регулирования и будущего цифровых активов.",
+        "resume_fa": "دولت دونالد ترامپ نشستی با مدیران شرکت‌های ارز دیجیتال و بازارهای پیش‌بینی برگزار کرد. این دیدار که برای روز چهارشنبه برنامه‌ریزی شده بود، با حضور رئیس‌جمهور آمریکا برگزار شد. هدف از این نشست، گفتگو درباره مقررات‌گذاری و آینده دارایی‌های دیجیتال بود.",
+        "resume_ar": "نظمت إدارة دونالد ترامب اجتماعاً مع قادة شركات العملات الرقمية وأسواق التنبؤات. عُقد هذا الاجتماع يوم الأربعاء بحضور الرئيس الأمريكي. هدفت الجلسة إلى مناقشة التنظيمات المستقبلية للأصول الرقمية.",
+        "analyse_detaillee": "Cette réunion s'inscrit dans un contexte de polarisation croissante autour des cryptomonnaies aux États-Unis, entre innovation technologique et risques financiers. Historiquement, les marchés prédictifs et les crypto-actifs ont été perçus comme des outils de spéculation ou de fraude, mais leur adoption institutionnelle récente change la donne. Les enjeux principaux incluent la protection des investisseurs, la lutte contre le blanchiment d'argent et la stabilité financière. Les causes profondes résident dans l'essor fulgurant des actifs numériques et leur intégration dans les portefeuilles d'investissement traditionnels. À court terme, cette rencontre pourrait accélérer l'adoption de cadres réglementaires plus stricts, mais aussi créer des incertitudes pour les acteurs du secteur. À moyen terme, elle pourrait favoriser l'émergence de normes internationales, bien que les États-Unis cherchent à maintenir leur leadership. À long terme, cela pourrait redéfinir la finance décentralisée et son rôle dans l'économie mondiale. Les acteurs incluent les régulateurs fédéraux, les États comme le Wyoming ou le Texas, et les géants technologiques comme Coinbase ou Binance.",
+        "analyse_en": "This meeting occurs amid growing polarization in the U.S. over cryptocurrencies, balancing technological innovation and financial risks. Historically, prediction markets and crypto-assets were seen as speculative tools, but their recent institutional adoption is shifting perceptions. Key stakes include investor protection, anti-money laundering efforts, and financial stability. Root causes lie in the explosive growth of digital assets and their integration into traditional investment portfolios. In the short term, this gathering could hasten stricter regulatory frameworks but also create uncertainty for sector players. Medium-term, it may foster international standards, though the U.S. aims to maintain its leadership. Long-term, it could redefine decentralized finance and its role in the global economy. Actors include federal regulators, states like Wyoming or Texas, and tech giants like Coinbase or Binance.",
+        "analyse_zh": "此次会议发生在美国对加密货币日益两极分化的背景下，平衡技术创新与金融风险。预测市场和加密资产曾被视为投机工具，但其近期机构采用正在改变认知。核心问题包括投资者保护、反洗钱和金融稳定。深层原因在于数字资产的爆炸性增长及其在传统投资组合中的整合。短期内可能加速严格监管框架的出台，但也可能为行业参与者带来不确定性。中期可能推动国际标准的形成，尽管美国试图维持其领导地位。长期则可能重新定义去中心化金融及其在全球经济中的角色。参与者包括联邦监管机构、怀俄明州或德克萨斯州等州级机构，以及Coinbase或Binance等科技巨头。",
+        "analyse_ru": "Встреча в Белом доме подчеркивает растущее внимание властей США к криптовалютной индустрии и рынкам прогнозов. Причины организации такого мероприятия связаны с необходимостью разработки четких регуляторных рамок для цифровых активов, которые остаются в правовом вакууме. Последствия могут включать ужесточение контроля над рынком или, напротив, создание благоприятных условий для инноваций. Перспективы зависят от политической воли администрации и реакции рынка на возможные изменения. Позиции сторон разнятся: криптосообщество выступает за либерализацию, а регуляторы — за ужесточение контроля.",
+        "analyse_fa": "این دیدار در کاخ سفید اهمیت فزاینده دولت آمریکا به صنعت ارزهای دیجیتال و بازارهای پیش‌بینی را نشان می‌دهد. دلایل برگزاری چنین نشستی به لزوم تدوین چارچوب‌های قانونی روشن برای دارایی‌های دیجیتال، که هنوز در هاله‌ای از ابهام حقوقی قرار دارند، بازمی‌گردد. پیامدهای احتمالی می‌تواند شامل سخت‌گیری بیشتر در نظارت بر بازار یا، برعکس، ایجاد شرایط مساعد برای نوآوری باشد. چشم‌انداز این اقدام به اراده سیاسی دولت و واکنش بازار به تغییرات احتمالی بستگی دارد. مواضع بازیگران متفاوت است: جامعه ارزهای دیجیتال از آزادی بیشتر حمایت می‌کند، در حالی که تنظیم‌کنندگان به سخت‌گیری تمایل دارند.",
+        "analyse_ar": "تسلط اجتماع البيت الأبيض على قادة العملات الرقمية وأسواق التنبؤات على اهتمام متزايد للسلطات الأمريكية بقطاع العملات الرقمية. ترجع أسباب تنظيم مثل هذا الاجتماع إلى ضرورة وضع أطر تنظيمية واضحة للأصول الرقمية، التي لا تزال في فراغ قانوني. قد تشمل العواقب تشديد الرقابة على السوق أو، على العكس، خلق ظروف مواتية للابتكار. ترتبط آفاق هذا الإجراء بالإرادة السياسية للإدارة وردود فعل السوق على التغييرات المحتملة. تختلف مواقف الأطراف: تدعم مجتمع العملات الرقمية التحرر، بينما يسعى المنظمون إلى تشديد الرقابة.",
+        "categorie": "Économie",
+        "source": "pymnts.com",
+        "url": "https://www.pymnts.com/cryptocurrency/2026/white-house-convenes-meeting-with-crypto-and-prediction-market-ceos/",
+        "image": "https://www.pymnts.com/wp-content/uploads/2026/08/white-house-crypto-meet-1.jpg",
+        "date": "2026-08-16",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ marché des cryptomonnaies",
+            "hausse": true
+          },
+          {
+            "label": "▼ secteur des marchés prédictifs",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "marché des cryptomonnaies",
+            "secteur_en": "cryptocurrency market",
+            "secteur_zh": "加密货币市场",
+            "effet_fr": "Une régulation plus claire pourrait légitimer le marché et attirer davantage d'investisseurs institutionnels.",
+            "effet_en": "Clearer regulation could legitimize the market and attract more institutional investors.",
+            "effet_zh": "更清晰的监管可能使市场合法化，并吸引更多机构投资者。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "secteur des marchés prédictifs",
+            "secteur_en": "prediction markets sector",
+            "secteur_zh": "预测市场行业",
+            "effet_fr": "Les discussions pourraient aboutir à des règles encadrant les paris sur des événements futurs, limitant les risques de manipulation.",
+            "effet_en": "Discussions may lead to rules governing bets on future events, limiting manipulation risks.",
+            "effet_zh": "讨论可能导致对未来事件赌注的监管规则，限制操纵风险。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-17T20:25:14.526582"
+      },
       {
         "id": "usa_878757",
         "titre": "Bill Cassidy accuse RFK Jr. de tromperie",
@@ -2406,65 +2465,6 @@
           }
         ],
         "created_at": "2026-08-17T01:10:27.749107"
-      },
-      {
-        "id": "usa_378247",
-        "titre": "Lindor offre la victoire aux Mets en 9e manche",
-        "titre_en": "Lindor's walk-off secures Mets' dramatic win",
-        "titre_zh": "林多尔绝杀帮助大都会队逆转",
-        "titre_ru": "Фрэнсиско Линдор выигрывает матч за Нью-Йорк Метс",
-        "titre_fa": "فرانسیسکو لیندور با ضربه پایانی، متز را به پیروزی رساند",
-        "titre_ar": "فرانسيسكو ليندور يفوز بلقطة النهاية مع فريق نيويورك ميتس",
-        "titre_original": "Francisco Lindor's walk-off completes dramatic comeback as Mets beat Nationals 5-4",
-        "resume": "Les Mets de New York ont réalisé un retour spectaculaire contre les Nationals de Washington. Francisco Lindor a frappé un RBI décisif en 9e manche pour sceller la victoire 5-4. Cette performance renforce les espoirs de playoffs pour l'équipe.",
-        "resume_en": "The New York Mets staged a dramatic comeback against the Washington Nationals. Francisco Lindor hit a walk-off RBI in the ninth inning to secure a 5-4 victory. The performance boosts the team's playoff hopes.",
-        "resume_zh": "纽约大都会队在与华盛顿国民队的比赛中上演了戏剧性的逆转。弗朗西斯科·林多尔在第九局击出制胜打点，帮助球队以5-4获胜。这一表现增强了球队进入季后赛的希望。",
-        "resume_ru": "Нью-Йорк Метс одержали победу над Вашингтон Нэшионалс со счётом 5:4. Решающий момент пришёлся на девятый иннинг, где Линдор выбил победный RBI. Команда смогла отыграться после отставания в счёте, продемонстрировав волю к победе.",
-        "resume_fa": "مِتزهای نیویورک با نتیجه ۵ بر ۴ بر نَشِنالز واشنگتن غلبه کردند. ضربه پایانی در نهمین اینینگ توسط لیندور به ثمر رسید. تیم پس از عقب‌افتادن در امتیاز، توانست با اراده‌ای قوی به پیروزی دست یابد.",
-        "resume_ar": "فاز فريق نيويورك ميتس على واشنطن ناشونالز بنتيجة 5-4. جاءت الضربة الفاصلة في الشوط التاسع من قبل ليندور. تمكنت الفريق من التعافي بعد التأخر في النقاط، مما أظهر إرادة قوية للفوز.",
-        "analyse_detaillee": "Cette victoire illustre la résilience des Mets, une équipe souvent en difficulté cette saison. Francisco Lindor, star de l'équipe, confirme son statut de joueur clé malgré des performances inconstantes. Les enjeux principaux incluent la qualification pour les playoffs et la stabilité financière du club. Les causes profondes remontent à une gestion sportive erratique et des blessures récurrentes. À court terme, cette victoire pourrait relancer la dynamique de l'équipe. À moyen terme, elle influence le moral des supporters et les recettes de billetterie. À long terme, elle pourrait déterminer la stratégie de recrutement pour la prochaine saison. Les acteurs, dont la direction et les fans, y voient un tournant possible. Les médias locaux amplifient l'impact symbolique de cette performance.",
-        "analyse_en": "This victory highlights the Mets' resilience, a team often struggling this season. Francisco Lindor, the team's star, reaffirms his status as a key player despite inconsistent performances. Key stakes include playoff qualification and the club's financial stability. Root causes trace back to erratic sports management and recurring injuries. In the short term, this win could reignite the team's momentum. Medium-term, it boosts fan morale and ticket sales. Long-term, it may shape recruitment strategies for the next season. Stakeholders, including management and fans, see it as a potential turning point. Local media amplify the symbolic impact of this performance.",
-        "analyse_zh": "这一胜利凸显了大都会队的韧性，该队本赛季表现不佳。球队明星弗朗西斯科·林多尔尽管表现不稳定，但再次确认了其核心球员地位。主要影响包括季后赛资格和俱乐部的财务稳定。深层原因可归结为动荡的体育管理和反复的伤病问题。短期内，这一胜利可能重振球队士气。中期来看，它提升了球迷的情绪和票务收入。长期而言，可能决定下赛季的招聘策略。利益相关者，包括管理层和球迷，将其视为可能的转折点。当地媒体放大了这一表现的象征意义。",
-        "analyse_ru": "Победа Нью-Йорк Метс над Вашингтон Нэшионалс стала важным событием в сезоне MLB, так как продемонстрировала способность команды преодолевать трудности. Контекст матча был напряжённым: Метс уступали по ходу игры, но смогли вырвать победу в последнем иннинге. Причина успеха кроется в мастерстве Фрэнсиско Линдора, который стал героем матча. Последствия этой победы могут укрепить позиции Метс в турнирной таблице и повысить моральный дух команды. Перспективы для команды зависят от стабильности в оставшихся матчах сезона. Позиция сторон: Метс доказали, что способны на большее, а Нэшионалс должны пересмотреть стратегию защиты.",
-        "analyse_fa": "پیروزی متزهای نیویورک بر نشنالز واشنگتن رویدادی مهم در فصل MLB بود، زیرا توانایی تیم در غلبه بر مشکلات را نشان داد. زمینه بازی بسیار تنش‌زا بود: متزها در بیشتر بازی عقب بودند اما توانستند در آخرین اینینگ پیروز شوند. دلیل موفقیت در مهارت فرانسیسکو لیندور نهفته است که قهرمان بازی شد. پیامد این پیروزی می‌تواند جایگاه متزها در جدول رده‌بندی را تقویت کند و روحیه تیم را بالا ببرد. چشم‌انداز تیم به ثبات در باقی مانده بازی‌های فصل بستگی دارد. موضع بازیگران: متزها ثابت کردند که توانایی بیشتری دارند، در حالی که نشنالز باید استراتژی دفاعی خود را بازنگری کنند.",
-        "analyse_ar": "كانت فوز نيويورك ميتس على واشنطن ناشونالز حدثاً مهماً في موسم MLB، حيث أظهرت قدرة الفريق على التغلب على الصعوبات. كان سياق المباراة متوتراً: تأخر ميتس معظم الوقت لكنهم تمكنوا من الفوز في الشوط الأخير. تكمن أسباب النجاح في مهارة فرانسيسكو ليندور، الذي كان بطل المباراة. قد تؤدي هذه النتيجة إلى تعزيز مكانة ميتس في جدول الترتيب ورفع الروح المعنوية للفريق. تعتمد آفاق الفريق على الاستقرار في المباريات المتبقية من الموسم. موقف الأطراف: أثبت ميتس أنهم قادرون على المزيد، بينما يجب على ناشونالز إعادة النظر في استراتيجيتهم الدفاعية.",
-        "categorie": "Sport",
-        "source": "SNY.tv",
-        "url": "https://sny.tv/articles/mets-francisco-lindor-walk-off-comeback-win-nationals",
-        "image": "https://s.yimg.com/lo/mysterio/api/040ee89f0d7c3684fcbbb12d194e9901c5dd764199c217c64dcb5961ba34b622/lightyear_networkapi/resizefill_w444_h250%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsny_articles_235%2Fe26d651420cfa0496408cd90cc3b92bf.jpg",
-        "date": "2026-08-15",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Billetterie sportive",
-            "hausse": true
-          },
-          {
-            "label": "▲ Sponsoring local",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Billetterie sportive",
-            "secteur_en": "Sports ticketing",
-            "secteur_zh": "体育票务",
-            "effet_fr": "La victoire pourrait augmenter la demande pour les billets des prochains matchs à domicile, boostant les revenus.",
-            "effet_en": "The win could increase demand for home game tickets, boosting revenue.",
-            "effet_zh": "胜利可能增加主场比赛门票的需求，从而提升收入。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Sponsoring local",
-            "secteur_en": "Local sponsorship",
-            "secteur_zh": "本地赞助",
-            "effet_fr": "Les entreprises locales pourraient renforcer leurs partenariats avec les Mets pour profiter de l'engouement médiatique.",
-            "effet_en": "Local businesses could strengthen partnerships with the Mets to capitalize on the media buzz.",
-            "effet_zh": "本地企业可能会加强与大都会队的合作，以利用媒体热度。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-16T23:19:01.223235"
       }
     ],
     "chine": [
@@ -3651,6 +3651,65 @@
     ],
     "russie": [
       {
+        "id": "russie_328127",
+        "titre": "Film turc sur la gestation pour autrui à Istanbul",
+        "titre_en": "Turkish Film on Surrogacy in Istanbul",
+        "titre_zh": "土耳其电影聚焦伊斯坦布尔代孕",
+        "titre_ru": "Ранняя зима 2025: семейная драма через суррогатное материнство",
+        "titre_fa": "زمستان زودهنگام ۲۰۲۵: داستان عشق و مادر جایگزین در استانبول",
+        "titre_ar": "شتاء مبكر 2025: دراما عائلية عبر الأم البديلة في إسطنبول",
+        "titre_original": "Early Winter 2025 720p HMAX WEB-DL H264-ERBiUM",
+        "resume": "Un film turc raconte l'histoire d'un couple qui recourt à une mère porteuse géorgienne et ukrainienne. L'intrigue explore les tensions culturelles et sociales autour de la gestation pour autrui. Le film met en scène des personnages issus de milieux diversifiés.",
+        "resume_en": "A Turkish film follows a couple turning to a Georgian-Ukrainian surrogate mother in Istanbul. The plot delves into cultural and social tensions surrounding surrogacy. The story features diverse characters from different backgrounds.",
+        "resume_zh": "一部土耳其电影讲述一对夫妇在伊斯坦布尔寻求格鲁吉亚-乌克兰代孕母亲的故事。情节探讨代孕周围的文化和社会紧张局势。故事涉及来自不同背景的多元化角色。",
+        "resume_ru": "Фильм рассказывает о паре из Стамбула, Ферхате и Хандана, которые решают завести ребенка через суррогатное материнство. Их выбор падает на Лию, молодую художницу грузинско-украинского происхождения. После рождения дочери жизнь героев кардинально меняется.",
+        "resume_fa": "این فیلم داستان زوجی از استانبول، فرهات و هاندان، را روایت می‌کند که تصمیم می‌گیرند از طریق مادر جایگزین صاحب فرزند شوند. آنها لیلا، یک هنرمند جوان گرجستانی-اوکراینی را انتخاب می‌کنند. پس از تولد دخترشان، زندگی این زوج دچار تحول اساسی می‌شود.",
+        "resume_ar": "يتناول الفيلم قصة زوج من إسطنبول، فرحات وهاندان، يقرران إنجاب طفل عبر أم بديلة. يختاران ليا، فنانة شابة من أصول جورجية وأوكرانية. بعد ولادة ابنتهما، تتغير حياة البطلين بشكل جذري.",
+        "analyse_detaillee": "Ce film s'inscrit dans un contexte où la Turquie, notamment Istanbul, est devenue une destination majeure pour la gestation pour autrui en raison de sa législation plus souple que dans de nombreux pays européens. Historiquement, la Turquie a servi de pont entre l'Europe et l'Asie pour les questions de santé reproductive, attirant des patients de divers horizons. Les enjeux principaux incluent les questions éthiques, les droits des mères porteuses et les inégalités sociales. Les causes profondes résident dans les différences législatives entre pays, poussant les couples à chercher des solutions à l'étranger. À court terme, ce film pourrait sensibiliser le public turc aux débats sur la gestation pour autrui, mais aussi alimenter des controverses sur l'exploitation des femmes issues de pays en crise. À moyen terme, il pourrait influencer les politiques publiques turques en matière de bioéthique. À long terme, cela pourrait renforcer le rôle de la Turquie comme hub médical régional, tout en soulevant des questions sur la globalisation des services de reproduction. Les acteurs incluent les réalisateurs, les associations féministes, les autorités sanitaires turques et les agences de gestation pour autrui.",
+        "analyse_en": "This film reflects Turkey's, particularly Istanbul's, emergence as a major surrogacy destination due to its more lenient legislation compared to many European countries. Historically, Turkey has served as a bridge between Europe and Asia for reproductive health issues, attracting patients globally. Key stakes include ethical questions, surrogate rights, and social inequalities. Root causes lie in legislative disparities between countries, driving couples to seek solutions abroad. In the short term, this film could raise awareness among the Turkish public about surrogacy debates but also fuel controversies over the exploitation of women from crisis-hit countries. Medium-term, it may influence Turkish public policies on bioethics. Long-term, it could strengthen Turkey's role as a regional medical hub while raising questions about the globalization of reproductive services. Actors include filmmakers, feminist associations, Turkish health authorities, and surrogacy agencies.",
+        "analyse_zh": "这部电影反映了土耳其（尤其是伊斯坦布尔）因立法宽松成为代孕主要目的地的现状，相比许多欧洲国家。历史上，土耳其一直是欧洲与亚洲生殖健康问题的桥梁，吸引全球患者。核心问题包括伦理争议、代孕母亲权利和社会不平等。深层原因在于各国立法差异，迫使夫妇寻求国外解决方案。短期内，该电影可能提高土耳其公众对代孕辩论的认识，但也可能引发对来自危机国家女性剥削的争议。中期可能影响土耳其生物伦理公共政策。长期则可能巩固土耳其作为区域医疗中心的地位，同时引发关于生殖服务全球化的问题。参与者包括导演、女权主义协会、土耳其卫生当局和代孕机构。",
+        "analyse_ru": "Фильм «Ранняя зима 2025» исследует тему суррогатного материнства, которая становится все более актуальной в современном обществе. Контекст картины отражает глобальные тенденции в репродуктивных технологиях и изменении семейных ценностей. Причины выбора такой темы могут быть связаны с ростом спроса на альтернативные методы деторождения и социальными вызовами, такими как бездетность или желание пар однополых. Последствия могут включать как позитивные изменения в восприятии института семьи, так и этические дискуссии о коммерциализации материнства. Перспективы развития темы зависят от культурных и религиозных норм общества. Позиции сторон разнятся: одни поддерживают свободу выбора, другие выступают за ужесточение регулирования.",
+        "analyse_fa": "فیلم «زمستان زودهنگام ۲۰۲۵» به بررسی موضوع مادر جایگزین می‌پردازد که در جامعه امروزی اهمیت فزاینده‌ای یافته است. زمینه این اثر، روندهای جهانی در فناوری‌های تولید مثل و تغییر ارزش‌های خانوادگی را منعکس می‌کند. دلایل انتخاب چنین موضوعی می‌تواند به افزایش تقاضا برای روش‌های جایگزین بچه‌دار شدن و چالش‌های اجتماعی مانند ناباروری یا تمایل زوج‌های همجنس‌گرا مربوط باشد. پیامدهای این فیلم می‌تواند شامل تغییرات مثبت در درک نهاد خانواده و همچنین بحث‌های اخلاقی درباره تجاری‌سازی مادر شدن باشد. چشم‌انداز توسعه این موضوع به هنجارهای فرهنگی و مذهبی جامعه بستگی دارد. مواضع مختلف است: برخی از آزادی انتخاب حمایت می‌کنند، در حالی که دیگران خواستار سخت‌گیری در مقررات هستند.",
+        "analyse_ar": "يتناول فيلم «شتاء مبكر 2025» موضوع الأم البديلة، الذي يكتسب أهمية متزايدة في المجتمع المعاصر. يعكس سياق الفيلم الاتجاهات العالمية في تقنيات الإنجاب وتغير القيم الأسرية. قد ترجع أسباب اختيار هذا الموضوع إلى تزايد الطلب على طرق بديلة لإنجاب الأطفال والتحديات الاجتماعية مثل العقم أو رغبة الأزواج من نفس الجنس. قد تشمل العواقب تغييرات إيجابية في فهم مؤسسة الأسرة بالإضافة إلى مناقشات أخلاقية حول تسليع الأمومة. ترتبط آفاق تطوير هذا الموضوع بالمعايير الثقافية والدينية للمجتمع. تختلف المواقف: يدعم البعض حرية الاختيار بينما يطالب آخرون بتشديد التنظيم.",
+        "categorie": "Culture",
+        "source": "Rlsbb.cc",
+        "url": "https://post.rlsbb.cc/early-winter-2025-720p-hmax-web-dl-h264-erbium/",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-08-16",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ secteur du cinéma turc",
+            "hausse": true
+          },
+          {
+            "label": "▲ marché de la gestation pour autrui",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "secteur du cinéma turc",
+            "secteur_en": "Turkish film industry",
+            "secteur_zh": "土耳其电影行业",
+            "effet_fr": "Le film pourrait renforcer l'image de la Turquie comme destination cinématographique et culturelle, attirant des tournages internationaux.",
+            "effet_en": "The film could enhance Turkey's image as a film and cultural destination, attracting international productions.",
+            "effet_zh": "该电影可能提升土耳其作为电影和文化目的地的形象，吸引国际制作。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "marché de la gestation pour autrui",
+            "secteur_en": "surrogacy market",
+            "secteur_zh": "代孕市场",
+            "effet_fr": "La visibilité médiatique pourrait accroître la demande pour des services de gestation pour autrui en Turquie.",
+            "effet_en": "Media visibility could increase demand for surrogacy services in Turkey.",
+            "effet_zh": "媒体曝光可能增加对土耳其代孕服务的需求。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-17T20:25:14.526593"
+      },
+      {
         "id": "russie_539264",
         "titre": "Frappes meurtrières en Russie et Ukraine",
         "titre_en": "Deadly Strikes in Russia and Ukraine",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-17T01:10:27.749120"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_597275",
-        "titre": "Drones britanniques frappent la Russie et vols massifs au Royaume-Uni",
-        "titre_en": "UK drones strike Russia and mass phone thefts in Britain",
-        "titre_zh": "英国无人机袭击俄罗斯与英国大规模手机盗窃",
-        "titre_ru": "Британские дроны атакуют Россию, а в Британии крадут телефоны",
-        "titre_fa": "پهپادهای بریتانیایی روسیه را هدف قرار دادند و سرقت تلفن‌ها در بریتانیا",
-        "titre_ar": "الطائرات المسيرة البريطانية تضرب روسيا وسرقة الهواتف في بريطانيا",
-        "titre_original": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
-        "resume": "L'Ukraine utilise des drones britanniques pour frapper des cibles en Russie. Parallèlement, 230 téléphones volés par jour au Royaume-Uni font la une des journaux. Ces deux sujets illustrent des crises distinctes mais simultanées.",
-        "resume_en": "Ukraine is using British-made drones to strike targets in Russia. Meanwhile, 230 phones are stolen daily in the UK, dominating the headlines. These two issues highlight distinct but simultaneous crises.",
-        "resume_zh": "乌克兰正在使用英国制造的无人机袭击俄罗斯境内目标。与此同时，英国每天有230部手机被盗，成为头条新闻。这两个问题凸显了截然不同但同时发生的危机。",
-        "resume_ru": "Украина использует британские дроны для атак на территорию России. Британские СМИ сообщают о 230 краж телефонов в день. Эти темы стали главными в воскресных газетах. Дроны стали символом современной войны, а кражи телефонов — проблемой для британской полиции.",
-        "resume_fa": "اوکراین از پهپادهای بریتانیایی برای حمله به خاک روسیه استفاده می‌کند. رسانه‌های بریتانیایی از سرقت روزانه ۲۳۰ تلفن خبر می‌دهند. این موضوعات به تیتر اصلی روزنامه‌های یکشنبه تبدیل شدند. پهپادها به نمادی از جنگ مدرن و سرقت تلفن‌ها به چالشی برای پلیس بریتانیا بدل شده‌اند.",
-        "resume_ar": "تستخدم أوكرانيا الطائرات المسيرة البريطانية لمهاجمة الأراضي الروسية.报道ت وسائل الإعلام البريطانية عن سرقة 230 هاتفًا يوميًا. أصبحت هذه المواضيع العناوين الرئيسية للصحف يوم الأحد. أصبحت الطائرات المسيرة رمزا للحرب الحديثة وسرقة الهواتف مشكلة للشرطة البريطانية.",
-        "analyse_detaillee": "L'utilisation de drones britanniques par l'Ukraine marque une escalade dans la guerre en Ukraine, avec des implications pour les relations OTAN-Russie. Les enjeux principaux incluent la souveraineté territoriale et la sécurité énergétique européenne. Les causes profondes remontent à l'invasion russe de 2022 et à la dépendance européenne au gaz russe. À court terme, ces frappes pourraient intensifier les représailles russes. À moyen terme, elles risquent de polariser davantage les relations internationales. À long terme, elles pourraient redéfinir les stratégies de défense européennes. Les acteurs, dont l'OTAN et l'UE, doivent gérer les risques d'escalade. Parallèlement, les vols de téléphones au Royaume-Uni révèlent une crise sociale et sécuritaire croissante. Cette criminalité affecte la confiance dans les institutions et les entreprises technologiques.",
-        "analyse_en": "Ukraine's use of British drones marks an escalation in the war, with implications for NATO-Russia relations. Key stakes include territorial sovereignty and European energy security. Root causes trace back to Russia's 2022 invasion and Europe's dependence on Russian gas. In the short term, these strikes could intensify Russian retaliation. Medium-term, they risk further polarizing international relations. Long-term, they could redefine European defense strategies. Stakeholders, including NATO and the EU, must manage escalation risks. Meanwhile, phone thefts in the UK reveal a growing social and security crisis. This crime undermines trust in institutions and tech companies.",
-        "analyse_zh": "乌克兰使用英国无人机标志着战争升级，对北约-俄罗斯关系产生影响。主要影响包括领土主权和欧洲能源安全。深层原因可追溯到2022年俄罗斯入侵和欧洲对俄罗斯天然气的依赖。短期内，这些袭击可能加剧俄罗斯的报复行动。中期来看，它们可能进一步极化国际关系。长期而言，可能重新定义欧洲的防御战略。利益相关者，包括北约和欧盟，必须管理升级风险。与此同时，英国的手机盗窃案揭示了日益严重的社会和安全危机。这种犯罪行为削弱了对机构和科技公司的信任。",
-        "analyse_ru": "Использование британских дронов Украиной для атак на Россию стало важной темой в международных новостях. Контекст связан с продолжающимся вооружённым конфликтом и поддержкой Запада Украины. Причина таких атак кроется в стремлении Украины ослабить позиции России и продемонстрировать эффективность западных технологий. Последствия могут включать обострение отношений между Великобританией и Россией, а также усиление санкционного давления. Перспективы зависят от развития конфликта и реакции международного сообщества. Позиции сторон: Украина использует любые доступные средства для защиты своей территории, Великобритания поддерживает Киев, Россия же рассматривает такие атаки как провокации.",
-        "analyse_fa": "استخدام پهپادهای بریتانیایی توسط اوکراین برای حمله به روسیه به موضوع مهمی در اخبار بین‌المللی تبدیل شده است. زمینه این موضوع به درگیری مسلحانه مداوم و حمایت غرب از اوکراین مربوط می‌شود. دلیل چنین حملاتی به تلاش اوکراین برای تضعیف موقعیت روسیه و نشان دادن کارایی فناوری‌های غربی بازمی‌گردد. پیامدهای این اقدامات می‌تواند تشدید روابط بین بریتانیا و روسیه و افزایش فشار تحریم‌ها را شامل شود. چشم‌اندازها به نحوه توسعه درگیری و واکنش جامعه بین‌المللی بستگی دارد. موضع بازیگران: اوکراین از هر وسیله‌ای برای دفاع از خاک خود استفاده می‌کند، بریتانیا از کی‌یف حمایت می‌کند، در حالی که روسیه چنین حملاتی را تحریک‌آمیز تلقی می‌کند.",
-        "analyse_ar": "أصبح استخدام الطائرات المسيرة البريطانية من قبل أوكرانيا لمهاجمة روسيا موضوعاً مهماً في الأخبار الدولية. يرتبط سياق هذا الأمر بالنزاع المسلح المستمر ودعم الغرب لأوكرانيا. تكمن أسباب مثل هذه الهجمات في سعي أوكرانيا لإضعاف موقف روسيا وإظهار فعالية التكنولوجيا الغربية. قد تشمل العواقب تصعيد العلاقات بين بريطانيا وروسيا وزيادة الضغط عبر العقوبات. تعتمد الآفاق على كيفية تطور الصراع ورد فعل المجتمع الدولي. مواقف الأطراف: تستخدم أوكرانيا أي وسيلة للدفاع عن أراضيها، تدعم بريطانيا كييف، بينما تعتبر روسيا مثل هذه الهجمات استفزازية.",
+        "id": "iran_716534",
+        "titre": "Guerre en Iran : les majors pétrolières engrangent 93 milliards",
+        "titre_en": "Iran War: Oil Majors Reap $93 Billion Windfall",
+        "titre_zh": "伊朗战争：石油巨头获利930亿美元",
+        "titre_ru": "Нефтяные гиганты получили $93 млрд прибыли из-за войны в Иране",
+        "titre_fa": "غول‌های نفتی ۹۳ میلیارد دلار سود از جنگ ایران به دست آوردند",
+        "titre_ar": "حصدت كبرى شركات النفط 93 مليار دولار من حرب إيران",
+        "titre_original": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+        "resume": "Les tensions géopolitiques autour du détroit d'Ormuz ont fait flamber les prix du pétrole. Les majors pétrolières occidentales en profitent pour enregistrer des profits records. Cette situation illustre les liens entre conflits et marchés énergétiques.",
+        "resume_en": "Geopolitical tensions around the Strait of Hormuz have driven oil prices to record highs. Western oil majors are capitalizing on this surge to post unprecedented profits. This highlights the intricate link between conflicts and energy markets.",
+        "resume_zh": "霍尔木兹海峡地缘政治紧张局势推动油价飙升至历史高位。西方石油巨头正利用这一势头实现前所未有的利润。这凸显了冲突与能源市场之间的复杂关联。",
+        "resume_ru": "Рост цен на нефть из-за блокады Ормузского пролива принес нефтяным компаниям рекордные прибыли. Высокие цены на энергоносители стимулировали рост доходов крупнейших игроков рынка. Эксперты связывают это с геополитическими рисками и нестабильностью в регионе.",
+        "resume_fa": "افزایش قیمت نفت به دلیل مسدود شدن تنگه هرمز، سود بی‌سابقه‌ای را برای شرکت‌های نفتی به ارمغان آورد. قیمت بالای انرژی، درآمد غول‌های نفتی را به شدت افزایش داد. کارشناسان این موضوع را با ریسک‌های ژئوپلیتیکی و ناپایداری در منطقه مرتبط می‌دانند.",
+        "resume_ar": "أدى ارتفاع أسعار النفط بسبب إغلاق مضيق هرمز إلى تحقيق أرباح قياسية لشركات النفط. عززت أسعار الطاقة المرتفعة إيرادات كبرى اللاعبين في السوق. يربط الخبراء ذلك بالمخاطر الجيوسياسية وعدم الاستقرار في المنطقة.",
+        "analyse_detaillee": "Cette situation s'inscrit dans un contexte historique de dépendance mondiale aux approvisionnements pétroliers en provenance du Moyen-Orient, où le détroit d'Ormuz joue un rôle stratégique. Historiquement, les crises géopolitiques dans la région ont systématiquement entraîné des chocs pétroliers, comme lors des guerres du Golfe ou des tensions irano-américaines. Les enjeux principaux incluent la sécurité énergétique des pays occidentaux, la stabilité des approvisionnements et la géopolitique des ressources. Les causes profondes résident dans la concentration des réserves pétrolières au Moyen-Orient et la vulnérabilité des routes maritimes. À court terme, cette guerre en Iran pourrait maintenir les prix élevés du pétrole, profitant aux majors mais pénalisant les économies dépendantes. À moyen terme, elle pourrait accélérer la transition énergétique en Europe et en Asie, réduisant la dépendance au pétrole moyen-oriental. À long terme, cela pourrait redessiner la carte géopolitique de l'énergie, avec une montée en puissance des producteurs américains ou norvégiens. Les acteurs incluent les pays occidentaux, les majors pétrolières (ExxonMobil, Shell), les pays de l'OPEP et les acteurs régionaux comme l'Iran ou l'Arabie saoudite.",
+        "analyse_en": "This situation reflects a historical context of global dependence on Middle Eastern oil supplies, where the Strait of Hormuz plays a strategic role. Historically, geopolitical crises in the region have consistently led to oil shocks, as seen during the Gulf Wars or Iran-U.S. tensions. Key stakes include Western energy security, supply stability, and resource geopolitics. Root causes lie in the concentration of oil reserves in the Middle East and the vulnerability of maritime routes. In the short term, this Iran war could keep oil prices high, benefiting majors but harming dependent economies. Medium-term, it may accelerate Europe and Asia's energy transition, reducing reliance on Middle Eastern oil. Long-term, it could reshape the geopolitical energy map, with rising U.S. or Norwegian producers. Actors include Western countries, oil majors (ExxonMobil, Shell), OPEC countries, and regional players like Iran or Saudi Arabia.",
+        "analyse_zh": "这一局势反映了全球对中东石油供应的历史依赖背景，霍尔木兹海峡在此扮演战略角色。历史上，该地区地缘政治危机（如海湾战争或伊朗-美国紧张局势）一再导致石油冲击。核心问题包括西方国家的能源安全、供应稳定性和资源地缘政治。深层原因在于中东石油储备的集中和海上航线的脆弱性。短期内，伊朗战争可能维持高油价，惠及石油巨头但损害依赖型经济体。中期可能加速欧洲和亚洲的能源转型，减少对中东石油的依赖。长期则可能重塑能源地缘政治版图，推动美国或挪威等生产国崛起。参与者包括西方国家、石油巨头（埃克森美孚、壳牌）、OPEC国家以及伊朗或沙特阿拉伯等地区行为体。",
+        "analyse_ru": "Рост цен на нефть, вызванный блокадой Ормузского пролива, стал катализатором для увеличения прибылей нефтяных гигантов. Контекст этого явления связан с геополитическими напряжениями на Ближнем Востоке, где Иран играет ключевую роль. Причины роста цен обусловлены не только военными действиями, но и спекуляциями на рынке. Последствия могут включать усиление зависимости стран от импорта нефти и изменение глобальных энергетических потоков. Перспективы развития ситуации зависят от дипломатических усилий и стабильности в регионе. Позиции сторон разнятся: западные страны стремятся ограничить влияние Ирана, тогда как Россия и Китай поддерживают его экономически.",
+        "analyse_fa": "افزایش قیمت نفت ناشی از مسدود شدن تنگه هرمز، به‌عنوان کاتالیزوری برای افزایش سود شرکت‌های نفتی عمل کرد. زمینه این پدیده به تنش‌های ژئوپلیتیکی در خاورمیانه، جایی که ایران نقش کلیدی دارد، مرتبط است. دلایل رشد قیمت‌ها نه تنها به اقدامات نظامی، بلکه به سفته‌بازی در بازار نیز بازمی‌گردد. پیامدهای این موضوع می‌تواند شامل افزایش وابستگی کشورها به واردات نفت و تغییر جریان‌های انرژی جهانی باشد. چشم‌انداز توسعه وضعیت به تلاش‌های دیپلماتیک و ثبات در منطقه بستگی دارد. مواضع مختلف است: کشورهای غربی تلاش می‌کنند تأثیر ایران را محدود کنند، در حالی که روسیه و چین از آن حمایت اقتصادی می‌کنند.",
+        "analyse_ar": "أدى ارتفاع أسعار النفط بسبب إغلاق مضيق هرمز إلى تحفيز أرباح شركات النفط. يرتبط سياق هذا الظاهرة بالتوترات الجيوسياسية في الشرق الأوسط، حيث تلعب إيران دوراً محورياً. ترجع أسباب ارتفاع الأسعار ليس فقط إلى العمليات العسكرية، بل أيضاً إلى المضاربة في السوق. قد تشمل العواقب زيادة اعتماد الدول على استيراد النفط وتغيير تدفقات الطاقة العالمية. ترتبط آفاق تطور الوضع بالجهود الدبلوماسية واستقرار المنطقة. تختلف المواقف: تسعى الدول الغربية إلى الحد من تأثير إيران بينما تدعم روسيا والصين اقتصادها.",
         "categorie": "Géopolitique",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69e0/live/ba051cb0-98f6-11f1-a7ab-8b30adf0800a.jpg",
-        "date": "2026-08-15",
-        "pays": "russie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/01321fc182f51d6a",
+        "image": "https://biztoc.com/cdn/01321fc182f51d6a_s.webp",
+        "date": "2026-08-16",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Défense européenne",
+            "label": "▲ secteur pétrolier occidental",
             "hausse": true
           },
           {
-            "label": "▲ Cybersécurité",
-            "hausse": true
+            "label": "▼ économie des pays importateurs de pétrole",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Défense européenne",
-            "secteur_en": "European defense",
-            "secteur_zh": "欧洲防御",
-            "effet_fr": "Les dépenses militaires en Europe pourraient augmenter pour répondre aux nouvelles menaces liées à l'utilisation de drones.",
-            "effet_en": "Military spending in Europe could rise to address new threats posed by drone use.",
-            "effet_zh": "欧洲军事支出可能会增加，以应对无人机使用带来的新威胁。",
+            "secteur_fr": "secteur pétrolier occidental",
+            "secteur_en": "Western oil sector",
+            "secteur_zh": "西方石油行业",
+            "effet_fr": "Les majors pétrolières enregistrent des profits records grâce à la hausse des prix, renforçant leur pouvoir financier et politique.",
+            "effet_en": "Oil majors are posting record profits due to price surges, strengthening their financial and political clout.",
+            "effet_zh": "石油巨头因价格飙升录得创纪录利润，巩固其金融和政治影响力。",
             "hausse": true
           },
           {
-            "secteur_fr": "Cybersécurité",
-            "secteur_en": "Cybersecurity",
-            "secteur_zh": "网络安全",
-            "effet_fr": "Les vols massifs de téléphones pourraient inciter les entreprises à renforcer leurs investissements en cybersécurité pour protéger les données des utilisateurs.",
-            "effet_en": "Mass phone thefts could push companies to increase cybersecurity investments to protect user data.",
-            "effet_zh": "大规模手机盗窃可能促使企业增加网络安全投资，以保护用户数据。",
-            "hausse": true
+            "secteur_fr": "économie des pays importateurs de pétrole",
+            "secteur_en": "economies of oil-importing countries",
+            "secteur_zh": "石油进口国经济体",
+            "effet_fr": "Les pays dépendants du pétrole subissent une inflation énergétique, pesant sur leur croissance économique et leur pouvoir d'achat.",
+            "effet_en": "Oil-dependent countries face energy inflation, weighing on economic growth and purchasing power.",
+            "effet_zh": "石油依赖国面临能源通胀，拖累经济增长和购买力。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-16T23:19:01.223261"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-17T20:25:14.526602"
+      },
       {
         "id": "iran_655719",
         "titre": "Erdogan demande la réouverture du détroit d'Ormuz",
@@ -5952,65 +6011,6 @@
           }
         ],
         "created_at": "2026-08-16T23:19:01.223253"
-      },
-      {
-        "id": "iran_25397",
-        "titre": "Djokovic éliminé par la chaleur à Cincinnati",
-        "titre_en": "Djokovic eliminated by heat in Cincinnati",
-        "titre_zh": "德约科维奇因高温在辛辛那提出局",
-        "titre_ru": "Джокович проиграл в Цинциннати из-за жары",
-        "titre_fa": "جوکوویچ در سینسیناتی به دلیل گرما باخت",
-        "titre_ar": "خسر جوكوفيتش في سينسيناتي بسبب الحرارة",
-        "titre_original": "Djokovic feels the heat in Cincinnati opening defeat",
-        "resume": "Novak Djokovic a été battu en trois sets par Thiago Tirante à Cincinnati malgré une bonne résistance. La chaleur étouffante du second set a fortement affecté sa performance. Ce revers pourrait marquer la fin de sa saison en cas de retraite.",
-        "resume_en": "Novak Djokovic was beaten in three sets by Thiago Tirante in Cincinnati despite a strong fight. The stifling heat in the second set severely impacted his performance. This loss could mark the end of his season in case of retirement.",
-        "resume_zh": "德约科维奇在辛辛那提以三盘负于蒂亚戈·蒂兰特，尽管顽强抵抗。第二盘的闷热天气严重影响了他的表现。此败可能标志着他赛季的终结（若其退役）。",
-        "resume_ru": "Новак Джокович уступил аргентинцу Тиаго Тиранте в первом матче турнира в Цинциннати. Серб испытывал трудности во втором сете из-за сильной жары и влажности. Этот проигрыш может стать последним для Джоковича в его карьере.",
-        "resume_fa": "نواک جوكوویچ در اولین مسابقه خود در تورنمنت سینسیناتی به تیگو تیرانته آرژانتینی باخت. او در ست دوم به دلیل گرما و رطوبت شدید دچار مشکل شد. این باخت می‌تواند آخرین مسابقه جوكوویچ در دوران حرفه‌ای‌اش باشد.",
-        "resume_ar": "خسر نوفاك جوكوفيتش أمام الأرجنتيني تياغو تيرانتي في أولى مبارياته في بطولة سينسيناتي. عانى الصربي من الحرارة والرطوبة الشديدة في الشوط الثاني. قد تكون هذه الخسارة الأخيرة لجوكوفيتش في مسيرته المهنية.",
-        "analyse_detaillee": "Novak Djokovic, légende du tennis mondial, fait face à des défis physiques croissants avec l'âge. La défaite à Cincinnati, dans des conditions climatiques extrêmes, soulève des questions sur sa capacité à rivaliser avec les jeunes joueurs. Son âge (37 ans) et son calendrier chargé pourraient expliquer cette baisse de performance. À court terme, ce résultat affaiblit sa position dans le classement ATP et menace ses objectifs de Grand Chelem. Moyen terme, Djokovic pourrait revoir sa stratégie d'entraînement pour mieux gérer la chaleur. Long terme, sa retraite progressive redéfinirait l'équilibre du tennis masculin. Les sponsors pourraient réévaluer leurs partenariats en fonction de ses performances. Les fans et médias débattent déjà de son héritage sportif. Les enjeux incluent la transmission du leadership à la nouvelle génération.",
-        "analyse_en": "Novak Djokovic, a global tennis legend, faces growing physical challenges with age. The loss in Cincinnati under extreme weather conditions raises questions about his ability to compete with younger players. His age (37) and packed schedule may explain this performance drop. In the short term, this result weakens his ATP ranking position and threatens his Grand Slam goals. In the medium term, Djokovic may revise his training strategy to better manage heat. Long-term, his gradual retirement would redefine the balance of men's tennis. Sponsors may reassess partnerships based on his performance. Fans and media are already debating his sporting legacy. Stakes include the transfer of leadership to the new generation.",
-        "analyse_zh": "网球传奇德约科维奇（37岁）面临年龄增长带来的身体挑战。在辛辛那提的极端天气下失利，引发其能否与年轻选手竞争的质疑。繁重赛程或是表现下滑的原因。短期内，此结果削弱其ATP排名并威胁大满贯目标。中期可能调整训练策略以更好应对高温。长期来看，其逐步退役将重塑男子网球格局。赞助商可能根据其表现重新评估合作。球迷与媒体已在讨论其体育遗产。关键在于向新一代传承领导地位。",
-        "analyse_ru": "Контекст связан с участием Джоковича в турнире в Цинциннати, где он столкнулся с экстремальными погодными условиями. Причины поражения кроются в его физической неподготовленности к жаре и влажности, что сказалось на его игре. Последствия могут включать пересмотр его расписания на будущие турниры и обсуждение адаптации спортсменов к климату. Перспективы зависят от того, сможет ли Джокович скорректировать свою подготовку или завершит карьеру. Позиция Джоковича и его команды пока не ясна, но такой результат ставит под вопрос его дальнейшее участие в соревнованиях.",
-        "analyse_fa": "زمینه به حضور جوكوویچ در تورنمنت سینسیناتی بازمی‌گردد، جایی که او با شرایط آب و هوایی شدید مواجه شد. دلایل شکست او به عدم آمادگی جسمانی برای گرما و رطوبت برمی‌گردد که بر بازی او تأثیر گذاشت. پیامدها می‌تواند شامل بازنگری در برنامه‌ریزی آینده او و بحث در مورد سازگاری ورزشکاران با آب و هوا باشد. چشم‌اندازها به نحوه تنظیم برنامه‌های او یا پایان دوران حرفه‌ای‌اش بستگی دارد. موضع جوكوویچ و تیمش هنوز مشخص نیست، اما چنین نتیجه‌ای سؤالاتی را درباره مشارکت آینده او مطرح می‌کند.",
-        "analyse_ar": "يرتبط السياق بمشاركة جوكوفيتش في بطولة سينسيناتي، حيث واجه ظروفاً جوية قاسية. تعود أسباب الهزيمة إلى عدم استعداد جوكوفيتش جسدياً للحرارة والرطوبة، مما أثر على أدائه. قد تشمل العواقب مراجعة جدول أعماله في البطولات المستقبلية ومناقشة تكيف الرياضيين مع المناخ. تعتمد الآفاق على ما إذا كان جوكوفيتش سيضبط تحضيراته أو ينهي مسيرته. موقف جوكوفيتش وفريقه غير واضح بعد، لكن مثل هذه النتيجة تثير تساؤلات حول مشاركته المستقبلية.",
-        "categorie": "Sport",
-        "source": "Yahoo Entertainment",
-        "url": "https://sports.yahoo.com/articles/djokovic-feels-heat-cincinnati-opening-220552860.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/832f948b1995d76adce102cd865c8ecc8c75742b5ec702ef416f6fceffd21a68/lightyear_networkapi/resizefill_w768_h511%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9596b54fd46ba6051f55608afbb6cf40.jpg",
-        "date": "2026-08-15",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Sponsoring sportif individuel",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché des paris sportifs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sponsoring sportif individuel",
-            "secteur_en": "Individual sports sponsorship",
-            "secteur_zh": "个人体育赞助",
-            "effet_fr": "Une défaite sous forte chaleur pourrait inciter les sponsors à réduire leur soutien financier à Djokovic, privilégiant des athlètes plus performants.",
-            "effet_en": "A loss under extreme heat could prompt sponsors to reduce financial support for Djokovic, favoring more consistent athletes.",
-            "effet_zh": "在高温下的失利可能促使赞助商减少对德约科维奇的资金支持，转向表现更稳定的运动员。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des paris sportifs",
-            "secteur_en": "Sports betting market",
-            "secteur_zh": "体育博彩市场",
-            "effet_fr": "Les cotes de Djokovic pourraient chuter, influençant les paris et les revenus des bookmakers lors de ses prochains tournois.",
-            "effet_en": "Djokovic's odds could drop, influencing betting and bookmakers' revenues in his upcoming tournaments.",
-            "effet_zh": "德约科维奇的赔率可能下跌，影响其未来比赛的投注和博彩公司收入。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-16T22:20:04.593906"
       }
     ]
   },
