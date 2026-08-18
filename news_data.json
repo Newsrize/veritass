@@ -1,7 +1,66 @@
 {
-  "last_updated": "18/08/2026 à 06h40",
+  "last_updated": "18/08/2026 à 07h37",
   "articles": {
     "monde": [
+      {
+        "id": "monde_276774",
+        "titre": "Un ingénieur indien crée une IA pour repérer les nids-de-poule",
+        "titre_en": "Indian engineer builds AI to detect potholes",
+        "titre_zh": "印度工程师用AI检测坑洼",
+        "titre_ru": "Инженер из Бангалору создал ИИ для поиска ям",
+        "titre_fa": "مهندس بنگلور سیستمی هوشمند برای شناسایی چاله‌ها ساخت",
+        "titre_ar": "مهندس من بنغالورuru ابتكر نظام ذكاء اصطناعي لاكتشاف الحفر",
+        "titre_original": "Bengaluru engineer Gaurav Sen has built an AI system that spots potholes and tracks who must fix them, here's the complete story",
+        "resume": "Un ingénieur de Bengaluru a développé un système d'IA utilisant des caméras embarquées, le GPS et les capteurs des véhicules pour identifier les nids-de-poule. L'outil permet également de tracer les responsables des routes concernées. Cette innovation pourrait améliorer la gestion des infrastructures urbaines.",
+        "resume_en": "A Bengaluru engineer created an AI system using dashcam footage, GPS, and vehicle sensors to detect potholes. The tool also identifies contractors and officials responsible for the affected roads. This innovation could enhance urban infrastructure management.",
+        "resume_zh": "班加罗尔工程师开发了一种使用行车记录仪、GPS和车辆传感器检测坑洼的AI系统。该工具还能识别负责道路维护的承包商和官员。这项创新可能改善城市基础设施管理。",
+        "resume_ru": "Инженер из Бангалору Горав Сен разработал ИИ-систему, которая обнаруживает ямы на дорогах с помощью видеорегистраторов, GPS и датчиков автомобилей. Она также определяет подрядчиков и чиновников, ответственных за ремонт. Проект направлен на повышение безопасности дорожного движения.",
+        "resume_fa": "مهندس بنگلور گوراو سن سیستمی هوشمند ساخته که با استفاده از دوربین‌های داشبورد، جی‌پی‌اس و سنسورهای خودرو، چاله‌های خیابان را شناسایی می‌کند. این سیستم همچنین مسئولان و پیمانکاران مربوطه را مشخص می‌کند. هدف این پروژه بهبود امنیت جاده‌هاست.",
+        "resume_ar": "قام مهندس من بنغالور، غوراف سين، بتطوير نظام ذكاء اصطناعي يكتشف الحفر في الطرق باستخدام كاميرات прибор لوحة القيادة، نظام تحديد المواقع (GPS) ومستشعرات المركبات. كما يتعرف النظام على المقاولين والمسؤولين عن إصلاح هذه الحفر. يهدف المشروع إلى تحسين سلامة الطرق.",
+        "analyse_detaillee": "L'Inde fait face à des défis majeurs en matière d'infrastructures routières, avec des millions de nids-de-poule causant des accidents et des pertes économiques. Ce système d'IA s'inscrit dans une tendance mondiale d'utilisation des technologies pour optimiser la maintenance urbaine. Les enjeux principaux incluent la réduction des coûts de réparation et l'amélioration de la sécurité routière. Les causes profondes résident dans le sous-financement chronique des infrastructures et la corruption dans l'attribution des contrats. À court terme, cette solution pourrait accélérer les réparations et responsabiliser les acteurs locaux. À moyen terme, elle pourrait inspirer d'autres villes indiennes et internationales. À long terme, elle pourrait transformer la gestion des infrastructures en Inde et ailleurs. Les acteurs locaux, comme les municipalités et les entreprises de BTP, devraient adopter cette technologie pour rester compétitifs.",
+        "analyse_en": "India faces major road infrastructure challenges, with millions of potholes causing accidents and economic losses. This AI system aligns with a global trend of using technology to optimize urban maintenance. Key stakes include reducing repair costs and improving road safety. Root causes lie in chronic underfunding of infrastructure and corruption in contract allocation. In the short term, this solution could speed up repairs and hold local actors accountable. In the medium term, it could inspire other Indian and international cities. Long-term, it could transform infrastructure management in India and beyond. Local actors, such as municipalities and construction firms, should adopt this technology to stay competitive.",
+        "analyse_zh": "印度面临严重的道路基础设施问题，数百万个坑洼导致事故和经济损失。这套AI系统符合全球利用技术优化城市维护的趋势。主要挑战包括降低维修成本和提高道路安全。深层原因在于基础设施长期资金不足以及合同分配中的腐败。短期内，该解决方案可能加快维修并追责相关方。中期来看，它可能激励其他印度和国际城市。长期而言，它可能改变印度及其他地区的基础设施管理。地方政府和建筑公司等各方应采用这项技术以保持竞争力。",
+        "analyse_ru": "Контекст: В Индии проблема ям на дорогах стоит остро из-за климата и износа инфраструктуры. Причины: Недостаточный контроль за качеством дорожных работ и коррупция среди подрядчиков. Последствия: Аварии, повреждение автомобилей и угроза жизни пешеходов. Перспективы: Внедрение таких систем может снизить количество ДТП и повысить прозрачность в ремонте дорог. Позиции сторон: Правительство поддерживает инновации, но сталкивается с сопротивлением со стороны коррумпированных чиновников.",
+        "analyse_fa": "زمینه: در هندوستان، چاله‌های خیابان به دلیل آب و هوای نامساعد و فرسودگی زیرساخت‌ها یک مشکل جدی است. علل: نظارت ناکافی بر کیفیت کارهای جاده‌ای و فساد در میان پیمانکاران. پیامدها: تصادفات، آسیب به خودروها و تهدید جان عابران پیاده. چشم‌انداز: اجرای چنین سیستم‌هایی می‌تواند تعداد تصادفات را کاهش داده و شفافیت در تعمیر جاده‌ها را افزایش دهد. موضع بازیگران: دولت از نوآوری‌ها حمایت می‌کند، اما با مقاومت مقامات فاسد مواجه است.",
+        "analyse_ar": "السياق: تعد مشكلة الحفر في الطرق في الهند مشكلة حادة بسبب المناخ وتآكل البنية التحتية. الأسباب: عدم كفاية الرقابة على جودة أعمال الطرق والفساد بين المقاولين. العواقب: حوادث السير، أضرار السيارات، وتهديد سلامة المشاة. الآفاق: يمكن أن يؤدي تطبيق مثل هذه الأنظمة إلى تقليل عدد الحوادث وزيادة الشفافية في إصلاح الطرق. مواقف الأطراف: تدعم الحكومة الابتكارات لكنها تواجه مقاومة من المسؤولين الفاسدين.",
+        "categorie": "Technologie",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/education/news/this-bengaluru-engineer-has-built-an-ai-system-that-spots-potholes-and-tracks-who-must-fix-them/articleshow/133290004.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133290230,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-08-17",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Secteur des infrastructures publiques",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des technologies urbaines",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des infrastructures publiques",
+            "secteur_en": "Public infrastructure sector",
+            "secteur_zh": "公共基础设施行业",
+            "effet_fr": "L'IA pourrait réduire les coûts de maintenance de 30% en optimisant la détection des nids-de-poule et en ciblant les réparations.",
+            "effet_en": "AI could reduce maintenance costs by 30% by optimizing pothole detection and targeting repairs.",
+            "effet_zh": "AI可能通过优化坑洼检测和精准维修，将维护成本降低30%。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des technologies urbaines",
+            "secteur_en": "Urban technology sector",
+            "secteur_zh": "城市技术行业",
+            "effet_fr": "Cette innovation stimule l'émergence de startups spécialisées dans les solutions d'IA pour les villes intelligentes.",
+            "effet_en": "This innovation spurs the emergence of startups specializing in AI solutions for smart cities.",
+            "effet_zh": "这项创新推动了专注于智慧城市AI解决方案的初创企业的兴起。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-18T07:37:21.547415"
+      },
       {
         "id": "monde_600150",
         "titre": "Préparer son jardin pour l'automne dès maintenant",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-17T10:31:05.899903"
-      },
-      {
-        "id": "monde_249892",
-        "titre": "États-Unis mettent fin au TPS pour quatre pays africains",
-        "titre_en": "US ends TPS for four African countries",
-        "titre_zh": "美国终止四个非洲国家临时保护身份",
-        "titre_ru": "США отменяет временную защиту для четырёх африканских стран",
-        "titre_fa": "آمریکا حمایت موقت چهار کشور آفریقایی را پایان داد",
-        "titre_ar": "الولايات المتحدة تنهي الحماية المؤقتة لأربع دول أفريقية",
-        "titre_original": "FULL LIST: US ends temporary protection for four African countries",
-        "resume": "Les États-Unis ont décidé de mettre fin au statut de protection temporaire (TPS) pour les ressortissants de la Somalie, du Soudan du Sud, du Cameroun et de l'Éthiopie. Cette décision affecte des milliers de migrants déjà installés sur le sol américain. Les bénéficiaires disposent d'une période de transition pour organiser leur départ ou leur régularisation.",
-        "resume_en": "The US has ended Temporary Protected Status (TPS) for nationals from Somalia, South Sudan, Cameroon, and Ethiopia. This decision impacts thousands of migrants already living in the US. Beneficiaries have a transition period to organize their departure or legal status.",
-        "resume_zh": "美国终止了对索马里、南苏丹、喀麦隆和埃塞俄比亚国民的临时保护身份（TPS）。这一决定影响了数千名已在美国居住的移民。受益者有一个过渡期来安排离境或合法身份。",
-        "resume_ru": "Соединённые Штаты прекратили действие статуса временной защиты (TPS) для граждан Сомали, Южного Судана, Камеруна и Эфиопии. Это решение может привести к массовым депортациям и ухудшению гуманитарной ситуации. Оно также вызывает протесты со стороны правозащитных организаций.",
-        "resume_fa": "آمریکا حمایت موقت (TPS) شهروندان سومالی، سودان جنوبی، کامرون و اتیوپی را لغو کرد. این تصمیم می‌تواند منجر به اخراج دسته‌جمعی و وخامت اوضاع انسانی شود. همچنین اعتراضات سازمان‌های حقوق بشری را در پی داشته است.",
-        "resume_ar": "أوقفت الولايات المتحدة الحماية المؤقتة (TPS) لمواطني الصومال وجنوب السودان والكاميرون وإثيوبيا. قد يؤدي هذا القرار إلى ترحيل جماعي وتدهور الأوضاع الإنسانية. كما أثار احتجاجات منظمات حقوق الإنسان.",
-        "analyse_detaillee": "Le TPS est un dispositif américain créé en 1990 pour protéger les ressortissants de pays en crise humanitaire ou en conflit. Cette décision s'inscrit dans une politique migratoire restrictive sous l'administration actuelle, alignée sur les priorités de réduction des flux migratoires. Les pays concernés subissent des crises prolongées : guerre civile en Somalie et au Soudan du Sud, instabilité politique au Cameroun, conflits ethniques en Éthiopie. À court terme, les bénéficiaires risquent l'expulsion ou la précarité administrative, avec un impact sur les communautés diasporiques. À moyen terme, les pays d'origine pourraient subir une perte de devises via les transferts d'argent des migrants. À long terme, cette mesure pourrait renforcer les tensions diplomatiques avec les pays africains concernés. Les acteurs locaux, comme les associations de défense des migrants, dénoncent une décision inhumaine, tandis que les partisans de la restriction migratoire y voient une mesure nécessaire pour préserver les emplois américains.",
-        "analyse_en": "TPS is a US program created in 1990 to protect nationals from countries facing humanitarian crises or conflicts. This decision aligns with the current administration's restrictive immigration policy aimed at reducing migration flows. The affected countries face prolonged crises: civil war in Somalia and South Sudan, political instability in Cameroon, ethnic conflicts in Ethiopia. In the short term, beneficiaries risk deportation or administrative precarity, impacting diaspora communities. In the medium term, origin countries may lose remittance income from migrants. Long-term, this measure could strain diplomatic relations with African nations. Local actors, such as migrant advocacy groups, condemn the decision as inhumane, while immigration restriction supporters view it as necessary to protect American jobs.",
-        "analyse_zh": "TPS是美国于1990年设立的保护因人道主义危机或冲突而流离失所者的项目。此决定符合当前政府限制移民流动的政策。受影响国家面临长期危机：索马里和南苏丹内战、喀麦隆政治动荡、埃塞俄比亚种族冲突。短期内，受益者面临被驱逐或行政不稳定风险，影响侨民社区。中期来看，原籍国可能因侨汇减少而受损。长期而言，此举可能加剧与非洲国家的外交紧张。当地行动者如移民维权组织谴责此决定为不人道，而移民限制支持者认为这是保护美国就业的必要措施。",
-        "analyse_ru": "Решение США об отмене TPS связано с улучшением ситуации в этих странах, что позволяет Вашингтону пересмотреть статус защиты. Однако критики указывают на неготовность стран происхождения принять обратно своих граждан, что создаёт риск гуманитарного кризиса. Последствия могут коснуться миллионов мигрантов, уже интегрированных в американское общество. Перспективы зависят от политической воли администрации и реакции международного сообщества. Правозащитники призывают к продлению защиты или предоставлению альтернативных статусов.",
-        "analyse_fa": "تصمیم آمریکا برای لغو TPS به بهبود شرایط در این کشورها مرتبط است و به واشنگتن اجازه می‌دهد تا وضعیت حفاظتی را بازنگری کند. با این حال، منتقدان بر عدم آمادگی کشورهای مبدأ برای پذیرش شهروندان خود تأکید دارند که می‌تواند منجر به بحران انسانی شود. پیامدهای این تصمیم میلیون‌ها مهاجر را تحت تأثیر قرار خواهد داد که در جامعه آمریکا ادغام شده‌اند. چشم‌اندازها به اراده سیاسی دولت و واکنش جامعه بین‌المللی بستگی دارد. فعالان حقوق بشر خواستار تمدید حمایت یا ارائه وضعیت‌های جایگزین هستند.",
-        "analyse_ar": "يرتبط قرار الولايات المتحدة بإنهاء الحماية المؤقتة (TPS) بتحسن الأوضاع في هذه الدول، مما يسمح لواشنطن بإعادة النظر في وضع الحماية. لكن النقاد يشيرون إلى عدم استعداد الدول الأصلية لاستقبال مواطنيها، مما قد يؤدي إلى أزمة إنسانية. ستؤثر العواقب على ملايين المهاجرين الذين اندمجوا في المجتمع الأمريكي. ترتبط الآفاق بالإرادة السياسية للإدارة وردود الفعل الدولية. تدعو منظمات حقوق الإنسان إلى تمديد الحماية أو توفير وضعيات بديلة.",
-        "categorie": "Géopolitique",
-        "source": "The Punch",
-        "url": "https://punchng.com/full-list-us-ends-temporary-protection-for-four-african-countries/",
-        "image": "https://punchng.com/wp-content/uploads/2026/07/AFP__20260715__2286275847__v1__MidRes__PresidentTrumpAddressesPennsylvaniaDefenseAnd_1784226990-1200x630.webp",
-        "date": "2026-08-16",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Transferts d'argent des migrants",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché du travail américain",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Transferts d'argent des migrants",
-            "secteur_en": "Migrant remittances",
-            "secteur_zh": "移民侨汇",
-            "effet_fr": "La fin du TPS pourrait réduire les transferts d'argent vers les pays concernés, affectant leur économie locale.",
-            "effet_en": "Ending TPS may reduce remittances to affected countries, impacting their local economies.",
-            "effet_zh": "终止TPS可能减少对受影响国家的侨汇，影响其本地经济。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché du travail américain",
-            "secteur_en": "US labor market",
-            "secteur_zh": "美国劳动力市场",
-            "effet_fr": "Cette décision pourrait libérer des emplois dans certains secteurs, mais aussi créer des pénuries de main-d'œuvre dans d'autres domaines.",
-            "effet_en": "This decision could free up jobs in some sectors but also create labor shortages in others.",
-            "effet_zh": "此决定可能在某些行业释放就业机会，同时在其他领域造成劳动力短缺。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-17T09:40:01.770377"
       }
     ],
     "france": [
@@ -1286,6 +1286,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_561027",
+        "titre": "Blanche refuse de garantir l'indépendance du DOJ",
+        "titre_en": "Blanche refuses to guarantee DOJ independence",
+        "titre_zh": "布兰奇拒绝保证司法部独立",
+        "titre_ru": "Бланш отказался гарантировать независимость Минюста",
+        "titre_fa": "بلانش از تضمین استقلال وزارت دادگستری خودداری کرد",
+        "titre_ar": "بلانش يرفض التعهد باستقلال وزارة العدل عن البيت الأبيض",
+        "titre_original": "Blanche refuses to pledge DOJ independence from White House - USA Today",
+        "resume": "Blanche, candidat à un poste clé au département de la Justice américain, a refusé de s'engager à garantir l'indépendance de l'institution face à la Maison Blanche. Cette position suscite des inquiétudes sur l'ingérence politique dans la justice. Les démocrates et les républicains s'opposent sur cette question.",
+        "resume_en": "Blanche, a key DOJ nominee, refused to pledge independence for the Justice Department from the White House. This stance raises concerns about political interference in justice. Democrats and Republicans are divided on this issue.",
+        "resume_zh": "布兰奇作为司法部重要提名人，拒绝承诺司法部独立于白宫。这一立场引发了对政治干预司法的担忧。民主党和共和党在这个问题上存在分歧。",
+        "resume_ru": "Кандидат в генеральные прокуроры США Джек Бланш отказался дать гарантию независимости Министерства юстиции от Белого дома. Это вызвало критику со стороны общественности и СМИ. Вопрос о независимости правоохранительных органов стал актуальным на фоне политической напряженности.",
+        "resume_fa": "نامزد تصدی پست دادستان کل ایالات متحده، جک بلانش، از تضمین استقلال وزارت دادگستری از کاخ سفید خودداری کرد. این امر انتقاد رسانه‌ها و افکار عمومی را به دنبال داشته است. مسئله استقلال نهادهای قضایی در شرایط تنش سیاسی اهمیت بیشتری یافته است.",
+        "resume_ar": "رفض المرشح لمنصب النائب العام للولايات المتحدة، جاك بلانش، تقديم تعهد باستقلال وزارة العدل عن البيت الأبيض. أثار هذا الرفض انتقادات واسعة من وسائل الإعلام والجمهور. أصبحت مسألة استقلال أجهزة إنفاذ القانون أكثر إلحاحاً في ظل التوترات السياسية الحالية.",
+        "analyse_detaillee": "La question de l'indépendance du DOJ est cruciale aux États-Unis, surtout depuis les tensions sous l'administration Trump. Historiquement, le DOJ a toujours cherché à préserver son autonomie face au pouvoir exécutif. Les enjeux principaux incluent la protection de l'État de droit et la lutte contre l politicisation de la justice. Les causes profondes résident dans la polarisation politique croissante et la méfiance envers les institutions. À court terme, le refus de Blanche pourrait alimenter les débats sur la réforme du DOJ. À moyen terme, cela pourrait affaiblir la confiance du public dans la justice. À long terme, cela pourrait normaliser l'ingérence politique dans les enquêtes fédérales. Les démocrates défendent une stricte séparation des pouvoirs, tandis que les républicains soutiennent une approche plus flexible. Les associations de défense des droits et les médias jouent un rôle clé dans ce débat.",
+        "analyse_en": "The DOJ's independence is a critical issue in the U.S., especially since tensions under the Trump administration. Historically, the DOJ has sought to preserve its autonomy from the executive branch. Key stakes include protecting the rule of law and combating the politicization of justice. Root causes lie in growing political polarization and institutional distrust. In the short term, Blanche's refusal could fuel debates on DOJ reform. In the medium term, it could erode public trust in justice. Long-term, it could normalize political interference in federal investigations. Democrats advocate for strict separation of powers, while Republicans support a more flexible approach. Rights advocacy groups and media play a key role in this debate.",
+        "analyse_zh": "司法部的独立性在美国是一个关键问题，特别是在特朗普政府时期的紧张局势之后。历史上，司法部一直试图保持其与行政部门的自主权。主要挑战包括保护法治和遏制司法政治化。深层原因在于日益加剧的政治极化和对机构的不信任。短期内，布兰奇的拒绝可能加剧关于司法部改革的辩论。中期来看，这可能削弱公众对司法的信任。长期而言，这可能使政治干预联邦调查常态化。民主党主张严格的权力分离，而共和党支持更灵活的方法。权利倡导团体和媒体在辩论中发挥关键作用。",
+        "analyse_ru": "Контекст: В США независимость Министерства юстиции от политического влияния — ключевой принцип правовой системы. Причины: Политическое давление со стороны администрации Трампа вызывает опасения по поводу объективности расследований. Последствия: Подрыв доверия к правоохранительным органам и судебной системе. Перспективы: Если Бланш не сможет гарантировать независимость, это может привести к дальнейшей поляризации общества. Позиции сторон: Демократы требуют независимости, республиканцы поддерживают президента.",
+        "analyse_fa": "زمینه: در ایالات متحده، استقلال وزارت دادگستری از نفوذ سیاسی، اصل اساسی نظام حقوقی است. علل: فشارهای سیاسی از سوی دولت ترامپ نگرانی‌هایی درباره بی‌طرفی تحقیقات ایجاد کرده است. پیامدها: تضعیف اعتماد به نهادهای قضایی و انتظامی. چشم‌انداز: اگر بلانش نتواند استقلال را تضمین کند، ممکن است منجر به تشدید قطب‌بندی جامعه شود. موضع بازیگران: دموکرات‌ها خواستار استقلال هستند، در حالی که جمهوری‌خواهان از رئیس‌جمهور حمایت می‌کنند.",
+        "analyse_ar": "السياق: في الولايات المتحدة، الاستقلال الكامل لوزارة العدل عن التأثير السياسي هو مبدأ أساسي للنظام القانوني. الأسباب: الضغوط السياسية من إدارة ترامب أثارت مخاوف بشأن حيادية التحقيقات. العواقب: تآكل الثقة في أجهزة إنفاذ القانون والنظام القضائي. الآفاق: إذا لم يتمكن بلانش من ضمان الاستقلال، فقد يؤدي ذلك إلى تفاقم الاستقطاب المجتمعي. مواقف الأطراف: يطالب الديمقراطيون بالاستقلال بينما يدعم الجمهوريون الرئيس.",
+        "categorie": "Politique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185014450",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-08-17",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des obligations d'État américaines",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur des fonds d'investissement éthiques",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des obligations d'État américaines",
+            "secteur_en": "U.S. Treasury bond market",
+            "secteur_zh": "美国国债市场",
+            "effet_fr": "Une perte de confiance dans l'indépendance du DOJ pourrait augmenter la prime de risque sur les obligations d'État, faisant monter les taux d'intérêt.",
+            "effet_en": "A loss of confidence in DOJ independence could increase the risk premium on U.S. Treasury bonds, raising interest rates.",
+            "effet_zh": "对司法部独立性的信任丧失可能会增加美国国债的风险溢价，推高利率。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur des fonds d'investissement éthiques",
+            "secteur_en": "Ethical investment funds sector",
+            "secteur_zh": "道德投资基金行业",
+            "effet_fr": "Les fonds éthiques pourraient réduire leurs investissements dans les entreprises liées au DOJ ou au gouvernement si l'indépendance de la justice est perçue comme menacée.",
+            "effet_en": "Ethical investment funds could reduce investments in companies linked to the DOJ or government if judicial independence is perceived as threatened.",
+            "effet_zh": "如果司法独立性受到威胁，道德投资基金可能会减少对与司法部或政府相关企业的投资。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-18T07:37:21.547444"
+      },
       {
         "id": "usa_643196",
         "titre": "Kushner rencontre Netanyahu après discussion avec le Hamas",
@@ -2406,68 +2465,68 @@
           }
         ],
         "created_at": "2026-08-17T10:31:05.899962"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_18963",
-        "titre": "Iran menace les États-Unis sur le détroit d'Ormuz",
-        "titre_en": "Iran challenges US over Strait of Hormuz",
-        "titre_zh": "伊朗在霍尔木兹海峡挑战美国",
-        "titre_ru": "Иранский парламент обсудит законы о контроле над Ормузским проливом",
-        "titre_fa": "مجلس ایران لایحه‌های نظارت بر تنگه هرمز را بررسی می‌کند",
-        "titre_ar": "البرلمان الإيراني سيناقش قوانين الإشراف على مضيق هرمز",
-        "titre_original": "Iranian Parliament to debate Hormuz Strait oversight bills as top lawmaker mocks Trump's threats",
-        "resume": "L'Iran prépare un débat parlementaire sur des projets de loi renforçant son contrôle sur le détroit d'Ormuz. Téhéran critique les menaces de Donald Trump envers l'Iran. Un corridor maritime commun avec Oman a été finalisé pour sécuriser les échanges commerciaux.",
-        "resume_en": "Iran's parliament is preparing to debate bills strengthening its control over the Strait of Hormuz. Tehran criticizes Donald Trump's threats toward Iran. A joint shipping route with Oman has been finalized to secure trade.",
-        "resume_zh": "伊朗议会准备审议加强对霍尔木兹海峡控制的法案。德黑兰批评唐纳德·特朗普对伊朗的威胁。伊朗与阿曼已敲定一条联合航运路线以确保贸易安全。",
-        "resume_ru": "Иранский парламент рассмотрит законопроекты о контроле над Ормузским проливом. Это происходит на фоне критики в адрес угроз президента США Дональда Трампа. Иран и Оман утвердили совместную карту судоходных маршрутов.",
-        "resume_fa": "مجلس ایران در حال بررسی لایحه‌های نظارت بر تنگه هرمز است. این در حالی است که نمایندگان به تهدیدهای دونالد ترامپ، رئیس‌جمهور آمریکا، انتقاد می‌کنند. ایران و عمان نقشه مشترک مسیرهای کشتیرانی را نهایی کرده‌اند.",
-        "resume_ar": "سيناقش البرلمان الإيراني مشاريع قوانين للإشراف على مضيق هرمز. يأتي ذلك في ظل انتقادات نواب إيرانيين لتهديدات الرئيس الأمريكي دونالد ترامب. وأكدت إيران وعمان خريطة مشتركة للطرق الملاحية.",
-        "analyse_detaillee": "Le détroit d'Ormuz est un point stratégique pour le commerce mondial, avec 20% du pétrole mondial transitant par cette voie. Les tensions entre l'Iran et les États-Unis remontent à la révolution islamique de 1979 et à la crise des otages. Les menaces de Trump, incluant des sanctions économiques et des pressions militaires, ont exacerbé les relations. L'Iran cherche à renforcer sa souveraineté sur ce détroit, perçu comme un levier de pression géopolitique. À court terme, cette escalade pourrait perturber les approvisionnements énergétiques mondiaux. À moyen terme, un conflit ouvert risquerait de destabiliser la région du Golfe. À long terme, une solution diplomatique semble improbable sans concessions majeures des deux côtés. Les acteurs clés incluent l'Iran, les États-Unis, l'Arabie saoudite et les puissances européennes, chacune défendant ses intérêts énergétiques et sécuritaires.",
-        "analyse_en": "The Strait of Hormuz is a critical global trade chokepoint, handling 20% of the world's oil. Tensions between Iran and the US date back to the 1979 Islamic Revolution and the hostage crisis. Trump's threats, including economic sanctions and military pressure, have escalated relations. Iran aims to assert sovereignty over the strait, seen as a geopolitical leverage. In the short term, this escalation could disrupt global energy supplies. In the medium term, open conflict risks destabilizing the Gulf region. Long-term, a diplomatic solution appears unlikely without major concessions from both sides. Key actors include Iran, the US, Saudi Arabia, and European powers, each defending their energy and security interests.",
-        "analyse_zh": "霍尔木兹海峡是全球贸易的关键咽喉，承担着世界20%的石油运输。伊朗与美国的紧张局势可追溯至1979年伊斯兰革命和人质危机。特朗普的威胁，包括经济制裁和军事压力，加剧了两国关系。伊朗试图加强对该海峡的主权控制，视其为地缘政治杠杆。短期内，此升级可能扰乱全球能源供应。中期来看，公开冲突可能破坏海湾地区稳定。长期而言，若双方不做重大让步，外交解决方案似乎遥不可及。主要行为者包括伊朗、美国、沙特阿拉伯和欧洲列强，各自维护其能源和安全利益。",
-        "analyse_ru": "Решение иранского парламента о контроле над Ормузским проливом связано с усилением региональной безопасности и противодействием внешнему давлению. США и их союзники неоднократно угрожали Ирану, что подтолкнуло Тегеран к укреплению контроля над стратегически важным водным путём. Принятие законов может усилить позиции Ирана в переговорах с Западом и региональными игроками. Последствия зависят от реакции международного сообщества и возможных санкций. Перспективы включают как эскалацию напряжённости, так и поиск дипломатических решений.",
-        "analyse_fa": "تصمیم مجلس ایران برای نظارت بر تنگه هرمز به تقویت امنیت منطقه‌ای و مقابله با فشار خارجی مرتبط است. آمریکا و متحدانش بارها به ایران تهدید کرده‌اند که تهران را به تقویت کنترل بر مسیر آبی استراتژیک سوق داده است. تصویب این قوانین می‌تواند موضع ایران در مذاکرات با غرب و بازیگران منطقه‌ای را تقویت کند. پیامدها به واکنش جامعه بین‌المللی و تحریم‌های احتمالی بستگی دارد. چشم‌اندازها شامل تشدید تنش‌ها یا جستجوی راه‌حل‌های دیپلماتیک است.",
-        "analyse_ar": "يرتبط قرار البرلمان الإيراني بالإشراف على مضيق هرمز بتعزيز الأمن الإقليمي ومواجهة الضغوط الخارجية. هددت الولايات المتحدة وحلفاؤها إيران مراراً، مما دفع طهران إلى تعزيز السيطرة على الممر المائي الاستراتيجي. قد يعزز اعتماد إيران في المفاوضات مع الغرب واللاعبين الإقليميين. تعتمد العواقب على ردود الفعل الدولية والعقوبات المحتملة. تشمل الآفاق تصعيد التوترات أو البحث عن حلول دبلوماسية.",
+        "id": "chine_190041",
+        "titre": "Taïwan augmente son budget de défense à un record",
+        "titre_en": "Taiwan raises defense budget to record high",
+        "titre_zh": "台湾将国防预算提升至历史新高",
+        "titre_ru": "Тайвань увеличит военные расходы до $35,2 млрд",
+        "titre_fa": "تایوان بودجه دفاعی خود را به ۳۵ میلیارد دلار افزایش می‌دهد",
+        "titre_ar": "تايوان ترفع ميزانية الدفاع إلى 35.2 مليار دولار",
+        "titre_original": "Taiwan to spend record $35.2B on defense in 2027",
+        "resume": "Le président taïwanais Lai Ching-te a annoncé une hausse record du budget de défense pour 2027, atteignant 1,1 milliard de dollars. Cette décision vise à renforcer la dissuasion face à la menace chinoise croissante. Les tensions dans le détroit de Taïwan s'intensifient depuis plusieurs années.",
+        "resume_en": "Taiwanese President Lai Ching-te announced a record-high defense budget of $1.1 billion for 2027. This move aims to strengthen deterrence against growing Chinese threats. Tensions across the Taiwan Strait have intensified in recent years.",
+        "resume_zh": "台湾总统赖清德宣布2027年国防预算提升至11亿美元的历史新高。这一举措旨在加强对日益增长的中国威胁的威慑。近年来，台湾海峡的紧张局势不断加剧。",
+        "resume_ru": "Президент Тайваня Лай Циндэ объявил о рекордном увеличении военного бюджета на 2027 год. Расходы достигнут $35,2 млрд, что на 10% больше предыдущего года. Это решение связано с угрозой со стороны Китая и необходимостью укрепления обороны.",
+        "resume_fa": "رئیس‌جمهور تایوان، لای چینگ-ته، از افزایش بی‌سابقه بودجه دفاعی برای سال ۲۰۲۷ خبر داد. این بودجه به ۳۵ میلیارد دلار خواهد رسید که ۱۰ درصد بیشتر از سال گذشته است. این تصمیم در واکنش به تهدیدات چین و نیاز به تقویت امنیت اتخاذ شده است.",
+        "resume_ar": "أعلن رئيس تايوان، لاي تشينغ-تي، عن زيادة غير مسبوقة في ميزانية الدفاع لعام 2027. ستصل الميزانية إلى 35.2 مليار دولار، بزيادة 10% عن العام الماضي. اتخذ هذا القرار رداً على التهديدات الصينية وضرورة تعزيز الأمن.",
+        "analyse_detaillee": "Taïwan fait face à une pression militaire croissante de la Chine, qui considère l'île comme une province rebelle. Historiquement, les tensions remontent à la guerre civile chinoise et à la séparation de 1949. Les enjeux principaux incluent la survie de l'autonomie taïwanaise et la stabilité régionale. Les causes profondes résident dans les revendications territoriales chinoises et la volonté de Taïwan de préserver sa souveraineté. À court terme, cette hausse budgétaire pourrait dissuader Pékin de toute action militaire. À moyen terme, elle pourrait inciter la Chine à renforcer ses propres dépenses militaires. À long terme, cela pourrait mener à une course aux armements dans la région. Les États-Unis, principal allié de Taïwan, soutiennent cette initiative, tandis que la Chine la condamne fermement. Les pays voisins, comme le Japon et la Corée du Sud, observent la situation avec inquiétude.",
+        "analyse_en": "Taiwan faces growing military pressure from China, which views the island as a rebel province. Historically, tensions stem from the Chinese civil war and the 1949 separation. Key stakes include Taiwan's survival as an autonomous entity and regional stability. Root causes lie in China's territorial claims and Taiwan's desire to preserve its sovereignty. In the short term, this budget increase could deter Beijing from military action. In the medium term, it could prompt China to boost its own military spending. Long-term, this could lead to an arms race in the region. The U.S., Taiwan's main ally, supports this initiative, while China strongly condemns it. Neighboring countries like Japan and South Korea watch the situation with concern.",
+        "analyse_zh": "台湾面临来自中国日益增长的军事压力，中国将台湾视为叛乱省份。历史上，紧张局势源于中国内战和1949年的分离。主要挑战包括台湾作为自治实体的生存和地区稳定。深层原因在于中国的领土主张和台湾维护主权的意愿。短期内，这一预算增加可能阻止北京采取军事行动。中期来看，它可能促使中国增加自身的军事支出。长期而言，这可能导致该地区的军备竞赛。美国作为台湾的主要盟友支持这一举措，而中国强烈谴责。日本和韩国等邻国则忧心忡忡地关注局势。",
+        "analyse_ru": "Контекст: Тайвань находится в состоянии постоянной геополитической напряженности с Китаем. Причины: Усиление военных угроз со стороны Пекина, включая учения и провокации. Последствия: Рост военных расходов может спровоцировать ответные меры Китая. Перспективы: Тайвань стремится к модернизации армии и укреплению союзов с США и Японией. Позиции сторон: Китай рассматривает это как провокацию, США поддерживают Тайвань как стратегического партнёра.",
+        "analyse_fa": "زمینه: تایوان در تنش ژئوپلیتیکی مداوم با چین قرار دارد. علل: افزایش تهدیدات نظامی از سوی پکن، از جمله رزمایش‌ها و تحریکات. پیامدها: افزایش بودجه نظامی ممکن است واکنش‌های متقابل چین را به دنبال داشته باشد. چشم‌انداز: تایوان در تلاش است تا ارتش خود را مدرن‌سازی کرده و اتحادهای خود با ایالات متحده و ژاپن را تقویت کند. موضع بازیگران: چین این اقدام را تحریک‌آمیز تلقی می‌کند، در حالی که ایالات متحده تایوان را به عنوان شریک استراتژیک حمایت می‌کند.",
+        "analyse_ar": "السياق: تواجه تايوان توترات جيوسياسية مستمرة مع الصين. الأسباب: تصاعد التهديدات العسكرية من بكين، بما في ذلك المناورات والتحركات الاستفزازية. العواقب: قد يؤدي زيادة الإنفاق العسكري إلى ردود فعل من الصين. الآفاق: تسعى تايوان إلى تحديث جيشها وتعزيز تحالفاتها مع الولايات المتحدة واليابان. مواقف الأطراف: تعتبر الصين هذا الأمر استفزازياً، بينما تدعم الولايات المتحدة تايوان كشريك استراتيجي.",
         "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-parliament-to-debate-hormuz-strait-oversight-bills-as-top-lawmaker-mocks-trumps-threats/articleshow/133272841.cms",
-        "image": "https://img.etimg.com/thumb/msid-133272840,width-1200,height-630,imgsize-37844,overlay-economictimes/articleshow.jpg",
-        "date": "2026-08-16",
-        "pays": "usa",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ba21c6b8ab9b6e8c",
+        "image": "https://biztoc.com/cdn/ba21c6b8ab9b6e8c_s.webp",
+        "date": "2026-08-17",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Commerce mondial du pétrole",
+            "label": "▲ Secteur de l'armement asiatique",
             "hausse": true
           },
           {
-            "label": "▲ Marché des assurances maritimes",
+            "label": "▲ Secteur des technologies de cybersécurité",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Commerce mondial du pétrole",
-            "secteur_en": "Global oil trade",
-            "secteur_zh": "全球石油贸易",
-            "effet_fr": "Une escalade des tensions pourrait perturber les approvisionnements en pétrole, faisant flamber les prix.",
-            "effet_en": "Escalating tensions could disrupt oil supplies, driving prices higher.",
-            "effet_zh": "紧张局势升级可能扰乱石油供应，推高价格。",
+            "secteur_fr": "Secteur de l'armement asiatique",
+            "secteur_en": "Asian arms industry",
+            "secteur_zh": "亚洲军火工业",
+            "effet_fr": "La hausse des dépenses militaires taïwanaises pourrait stimuler la demande pour les équipements de défense locaux et internationaux, bénéficiant aux fabricants d'armes.",
+            "effet_en": "Taiwan's increased military spending could boost demand for domestic and international defense equipment, benefiting arms manufacturers.",
+            "effet_zh": "台湾增加的军事支出可能推动对国内外国防装备的需求，惠及军火制造商。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des assurances maritimes",
-            "secteur_en": "Maritime insurance market",
-            "secteur_zh": "海运保险市场",
-            "effet_fr": "L'insécurité accrue dans le détroit pourrait augmenter les primes d'assurance pour les navires transitant par la zone.",
-            "effet_en": "Increased insecurity in the strait could raise insurance premiums for ships transiting the area.",
-            "effet_zh": "该海峡安全形势恶化可能提高过境船只的保险费率。",
+            "secteur_fr": "Secteur des technologies de cybersécurité",
+            "secteur_en": "Cybersecurity technology sector",
+            "secteur_zh": "网络安全技术行业",
+            "effet_fr": "Taïwan, cible de cyberattaques chinoises, pourrait investir davantage dans la cybersécurité, créant des opportunités pour les entreprises spécialisées.",
+            "effet_en": "As a target of Chinese cyberattacks, Taiwan could invest more in cybersecurity, creating opportunities for specialized firms.",
+            "effet_zh": "作为中国网络攻击的目标，台湾可能会在网络安全方面投入更多资金，为专业公司创造机会。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-17T09:40:01.770409"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-18T07:37:21.547456"
+      },
       {
         "id": "chine_507608",
         "titre": "Xi Jinping commémore Jiang Zemin à 100 ans",
@@ -3588,68 +3647,68 @@
           }
         ],
         "created_at": "2026-08-17T02:58:57.868295"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_433224",
-        "titre": "Les États-Unis poussent leurs alliés à choisir entre eux et la Chine",
-        "titre_en": "US urges allies to pick sides in AI race with China",
-        "titre_zh": "美国敦促盟友在AI竞争中选边站",
-        "titre_ru": "США требуют от союзников выбора в гонке ИИ с Китаем",
-        "titre_fa": "آمریکا از متحدانش می‌خواهد در رقابت هوش مصنوعی با چین موضع بگیرند",
-        "titre_ar": "الولايات المتحدة تطالب حلفاءها باختيار موقف في سباق الذكاء الاصطناعي مع الصين",
-        "titre_original": "U.S. to tell allies they must pick sides in AI race with China: Reuters",
-        "resume": "Les États-Unis ont envoyé une lettre à 35 pays signataires d'une déclaration sur l'IA. Washington exige qu'ils choisissent entre les technologies américaines et chinoises. Cette démarche s'inscrit dans une stratégie de containment technologique face à Pékin.",
-        "resume_en": "The United States sent a letter to 35 countries that signed an AI declaration. Washington demands they choose between American and Chinese technologies. This move is part of a strategy to contain China technologically.",
-        "resume_zh": "美国向签署AI宣言的35个国家发送了一封信。华盛顿要求他们在美中技术之间做出选择。这一举动是其对华技术遏制战略的一部分。",
-        "resume_ru": "США готовятся отправить проект письма союзникам с требованием определиться в гонке технологий с Китаем. Документ адресован 35 странам, подписавшим совместное заявление по ИИ в июне. Америка настаивает на выборе между сотрудничеством с США или Китаем.",
-        "resume_fa": "آمریکا در حال آماده‌سازی پیش‌نویس نامه‌ای برای متحدانش است که در آن از آنها می‌خواهد در رقابت فناوری با چین موضع مشخصی بگیرند. این سند به ۳۵ کشوری ارسال می‌شود که در ماه ژوئن بیانیه مشترکی درباره هوش مصنوعی امضا کردند. آمریکا تأکید دارد که باید بین همکاری با آمریکا یا چین یکی را انتخاب کنند.",
-        "resume_ar": "تستعد الولايات المتحدة لإرسال مسودة رسالة إلى حلفائها تطالبهم بتحديد موقفهم في سباق التكنولوجيا مع الصين. يوجه هذا المستند إلى 35 دولة وقعت بياناً مشتركاً حول الذكاء الاصطناعي في يونيو. تؤكد أمريكا على ضرورة الاختيار بين التعاون مع الولايات المتحدة أو الصين.",
-        "analyse_detaillee": "Cette initiative reflète l'escalade des tensions technologiques entre Washington et Pékin. Les enjeux principaux incluent la domination du marché des semi-conducteurs et des technologies émergentes. Les causes profondes remontent à la rivalité géopolitique et économique entre les deux superpuissances. À court terme, cette pression pourrait diviser les alliés et créer des tensions au sein des blocs. À moyen terme, elle accélère la fragmentation des chaînes d'approvisionnement technologiques. À long terme, elle pourrait redéfinir les alliances économiques mondiales. Les acteurs, dont l'UE et les pays asiatiques, doivent arbitrer entre sécurité et opportunités économiques. La Chine y voit une tentative d'isoler son développement technologique. Les États-Unis cherchent à préserver leur avance dans l'innovation.",
-        "analyse_en": "This initiative reflects the escalation of technological tensions between Washington and Beijing. Key stakes include dominance in the semiconductor and emerging technology markets. Root causes trace back to geopolitical and economic rivalry between the two superpowers. In the short term, this pressure could divide allies and create tensions within blocs. Medium-term, it accelerates the fragmentation of technology supply chains. Long-term, it could redefine global economic alliances. Stakeholders, including the EU and Asian countries, must balance security and economic opportunities. China views this as an attempt to isolate its technological development. The US seeks to preserve its innovation lead.",
-        "analyse_zh": "这一举措反映了华盛顿与北京之间技术紧张局势的升级。主要影响包括在半导体和新兴技术市场的主导地位。深层原因可追溯到两个超级大国之间的地缘政治和经济竞争。短期内，这种压力可能分化盟友并引发集团内部紧张。中期来看，它加速了技术供应链的碎片化。长期而言，可能重新定义全球经济联盟。利益相关者，包括欧盟和亚洲国家，必须在安全与经济机遇之间做出权衡。中国将其视为试图孤立其技术发展的举动。美国寻求保持其在创新方面的领先地位。",
-        "analyse_ru": "Письмо США к союзникам отражает растущую напряжённость в технологической гонке между США и Китаем. Контекст связан с усилением конкуренции в области искусственного интеллекта, где обе страны стремятся к лидерству. Причина обращения к союзникам кроется в стремлении США сформировать единый фронт против Китая. Последствия такого давления могут привести к поляризации стран по вопросам технологического сотрудничества. Перспективы зависят от реакции союзников: если они поддержат США, это усилит позиции Америки в глобальной гонке. Позиции сторон: США пытаются мобилизовать союзников, Китай же стремится сохранить нейтралитет или привлечь новых партнёров.",
-        "analyse_fa": "نامه آمریکا به متحدانش بازتاب‌دهنده تنش فزاینده در رقابت فناوری بین آمریکا و چین است. زمینه این موضوع به تقویت رقابت در حوزه هوش مصنوعی مربوط می‌شود، جایی که هر دو کشور در تلاش برای رهبری هستند. دلیل این اقدام آمریکا، تلاش برای تشکیل جبهه‌ای متحد علیه چین است. پیامدهای چنین فشاری می‌تواند منجر به قطب‌بندی کشورها در مسائل همکاری‌های فناوری شود. چشم‌اندازها به واکنش متحدان بستگی دارد: اگر آنها از آمریکا حمایت کنند، موقعیت این کشور در رقابت جهانی تقویت خواهد شد. موضع بازیگران: آمریکا سعی در بسیج متحدان دارد، در حالی که چین تلاش می‌کند بی‌طرفی خود را حفظ کند یا شرکای جدیدی جذب کند.",
-        "analyse_ar": "تعكس رسالة الولايات المتحدة إلى حلفائها التوتر المتزايد في سباق التكنولوجيا بين الولايات المتحدة والصين. يرتبط سياق هذا الأمر بتعزيز المنافسة في مجال الذكاء الاصطناعي، حيث تسعى كلتا الدولتين إلى القيادة. تكمن أسباب هذا الإجراء الأمريكي في محاولة تشكيل جبهة موحدة ضد الصين. قد تؤدي مثل هذه الضغوط إلى تسييس الدول في مسائل التعاون التكنولوجي. تعتمد الآفاق على رد فعل الحلفاء: إذا دعموا الولايات المتحدة، فسيتعزز موقف أمريكا في السباق العالمي. مواقف الأطراف: تحاول الولايات المتحدة تعبئة حلفائها، بينما تسعى الصين إلى الحفاظ على حيادها أو جذب شركاء جدد.",
+        "id": "russie_42039",
+        "titre": "Le chef de la junte birmane en visite officielle en Russie",
+        "titre_en": "Myanmar junta leader visits Russia for talks",
+        "titre_zh": "缅甸军政府领导人访问俄罗斯进行会谈",
+        "titre_ru": "Глава Мьянмы прибыл в Россию для укрепления связей",
+        "titre_fa": "رئیس حکومت نظامی میانمار برای تقویت روابط به روسیه سفر کرد",
+        "titre_ar": "رئيس النظام العسكري في ميانمار يصل إلى روسيا لتعزيز العلاقات",
+        "titre_original": "Myanmar’s Min Aung Hlaing heads to Russia to deepen strategic ties with Moscow",
+        "resume": "Le général Min Aung Hlaing, chef de la junte militaire birmane, s'est rendu en Russie pour des discussions stratégiques avec Vladimir Poutine. Cette visite renforce les liens entre les deux régimes isolés internationalement. La Russie soutient le régime birman malgré les sanctions occidentales.",
+        "resume_en": "Myanmar's military junta leader, General Min Aung Hlaing, visited Russia for strategic talks with Vladimir Putin. This visit strengthens ties between the two internationally isolated regimes. Russia supports Myanmar's regime despite Western sanctions.",
+        "resume_zh": "缅甸军政府领导人敏昂莱将军访问俄罗斯，与弗拉基米尔·普京进行战略会谈。此次访问加强了两个国际孤立政权之间的联系。俄罗斯在西方制裁下仍支持缅甸政权。",
+        "resume_ru": "Глава военного правительства Мьянмы Мьин Аун Хлайн прибыл в Россию с официальным визитом для переговоров с президентом Владимиром Путиным. Цель визита — углубление стратегического сотрудничества между странами. Это первый такой визит за последние годы.",
+        "resume_fa": "رئیس حکومت نظامی ميانمار، مين آنگ هلاينگ، برای مذاکرات با ولادیمیر پوتین به روسیه سفر کرده است. هدف از این دیدار، تقویت همکاری‌های استراتژیک بین دو کشور است. این نخستین سفر از این دست در سال‌های اخیر است.",
+        "resume_ar": "وصل رئيس الحكومة العسكرية في ميانمار، مين أونغ هلاينغ، إلى روسيا في زيارة رسمية للقاء الرئيس فلاديمير بوتين. يهدف الزيارة إلى تعميق التعاون الاستراتيجي بين البلدين. هذه هي الزيارة الأولى من نوعها منذ سنوات.",
+        "analyse_detaillee": "La Russie et la junte birmane entretiennent des relations étroites depuis des décennies, notamment depuis l'isolement de Moscou après la guerre en Ukraine. Historiquement, l'URSS avait soutenu le régime birman pendant la guerre froide. Les enjeux principaux incluent la lutte contre l'influence occidentale et la consolidation des régimes autoritaires. Les causes profondes résident dans le rejet des sanctions internationales et la recherche d'alliances alternatives. À court terme, cette visite pourrait aboutir à des accords militaires ou énergétiques. À moyen terme, elle pourrait renforcer la coopération économique entre les deux pays. À long terme, cela pourrait créer un axe Moscou-Naypyidaw face à l'Occident. La junte birmane cherche à contourner son isolement, tandis que la Russie cherche à étendre son influence en Asie. Les pays occidentaux, déjà critiques envers Moscou, pourraient durcir leur position.",
+        "analyse_en": "Russia and Myanmar's junta have maintained close ties for decades, especially since Moscow's isolation following the Ukraine war. Historically, the USSR supported Myanmar's regime during the Cold War. Key stakes include countering Western influence and consolidating authoritarian regimes. Root causes lie in rejecting international sanctions and seeking alternative alliances. In the short term, this visit could lead to military or energy agreements. In the medium term, it could strengthen economic cooperation between the two countries. Long-term, this could create a Moscow-Naypyidaw axis against the West. Myanmar's junta seeks to bypass its isolation, while Russia aims to expand its influence in Asia. Western countries, already critical of Moscow, could harden their stance.",
+        "analyse_zh": "俄罗斯和缅甸军政府几十年来保持着密切关系，特别是在莫斯科因乌克兰战争而孤立之后。历史上，苏联在冷战期间支持缅甸政权。主要挑战包括抵制西方影响和巩固威权政权。深层原因在于拒绝国际制裁和寻求替代联盟。短期内，此次访问可能达成军事或能源协议。中期来看，它可能加强两国之间的经济合作。长期而言，这可能形成莫斯科-内比都轴心以对抗西方。缅甸军政府试图摆脱孤立，而俄罗斯则寻求在亚洲扩大影响力。西方国家在批评莫斯科的同时，可能会加强其立场。",
+        "analyse_ru": "Контекст: Мьянма находится под санкциями Запада, что вынуждает её искать союзников в Азии и других регионах. Причины: Необходимость поддержки в условиях международной изоляции и экономических трудностей. Последствия: Укрепление связей с Россией может усилить позиции Мьянмы на международной арене. Перспективы: Возможное расширение военного и экономического сотрудничества. Позиции сторон: Россия поддерживает Мьянму как стратегического партнёра, Запад осуждает режим.",
+        "analyse_fa": "زمینه: ميانمار تحت تحريمات غرب قرار دارد و مجبور است به دنبال متحدان در آسيا و مناطق ديگر باشد. علل: نياز به حمايت در شرايط انزواي بين‌المللي و مشکلات اقتصادی. پیامدها: تقویت روابط با روسیه می‌تواند موقعیت ميانمار در arena بین‌المللی را تقویت کند. چشم‌انداز: امکان گسترش همکاری‌های نظامی و اقتصادی. موضع بازیگران: روسیه ميانمار را به عنوان شریک استراتژیک حمایت می‌کند، در حالی که غرب رژیم آن را محکوم می‌کند.",
+        "analyse_ar": "السياق: تواجه ميانمار عقوبات غرب، مما يضطرها إلى البحث عن حلفاء في آسيا ومناطق أخرى. الأسباب: الحاجة إلى الدعم في ظل العزلة الدولية والصعوبات الاقتصادية. العواقب: قد يعزز تعزيز العلاقات مع روسيا من موقف ميانمار على الساحة الدولية. الآفاق: إمكانية توسيع التعاون العسكري والاقتصادي. مواقف الأطراف: تدعم روسيا ميانمار كشريك استراتيجي بينما تدين الدول الغربية النظام.",
         "categorie": "Géopolitique",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108266922-1771439635182-gettyimages-2252028006-tk4l0436_9ooxijtl_w5vt24nj.jpeg?v=1786833866&w=1920&h=1080",
-        "date": "2026-08-15",
-        "pays": "chine",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/myanmars-min-aung-hlaing-heads-russia-deepen-strategic-135700242",
+        "image": "https://i.abcnewsfe.com/a/ac23f6e6-e430-4d89-a9c5-3b4dd21d72ab/wirestory_4faa94549c942c7c9bd8d8d5b9d7163c_16x9.jpg?w=1600",
+        "date": "2026-08-17",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Technologies de pointe",
+            "label": "▲ Secteur de l'armement russe",
             "hausse": true
           },
           {
-            "label": "▼ Marché des capitaux",
-            "hausse": false
+            "label": "▲ Secteur énergétique russe",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies de pointe",
-            "secteur_en": "Cutting-edge technologies",
-            "secteur_zh": "尖端技术",
-            "effet_fr": "Les investissements dans les semi-conducteurs et l'IA pourraient être redirigés vers des acteurs américains, réduisant la dépendance aux technologies chinoises.",
-            "effet_en": "Investments in semiconductors and AI could shift toward US actors, reducing reliance on Chinese technologies.",
-            "effet_zh": "对半导体和人工智能的投资可能转向美国企业，从而减少对中国技术的依赖。",
+            "secteur_fr": "Secteur de l'armement russe",
+            "secteur_en": "Russian arms industry",
+            "secteur_zh": "俄罗斯军火工业",
+            "effet_fr": "La Russie pourrait exporter davantage d'armes vers la Birmanie, contournant les sanctions occidentales et générant des revenus malgré l'isolement.",
+            "effet_en": "Russia could export more weapons to Myanmar, bypassing Western sanctions and generating revenue despite isolation.",
+            "effet_zh": "俄罗斯可能向缅甸出口更多武器，绕过西方制裁并产生收入，尽管面临孤立。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des capitaux",
-            "secteur_en": "Capital markets",
-            "secteur_zh": "资本市场",
-            "effet_fr": "Les restrictions imposées pourraient limiter les flux d'investissement vers la Chine, affectant les valorisations des entreprises technologiques chinoises.",
-            "effet_en": "Imposed restrictions could limit investment flows to China, impacting valuations of Chinese tech firms.",
-            "effet_zh": "实施的限制可能限制对华投资流入，影响中国科技公司的估值。",
-            "hausse": false
+            "secteur_fr": "Secteur énergétique russe",
+            "secteur_en": "Russian energy sector",
+            "secteur_zh": "俄罗斯能源行业",
+            "effet_fr": "La Russie pourrait renforcer ses investissements dans les infrastructures énergétiques birmanes, diversifiant ses partenariats face aux sanctions.",
+            "effet_en": "Russia could increase investments in Myanmar's energy infrastructure, diversifying its partnerships amid sanctions.",
+            "effet_zh": "俄罗斯可能加大对缅甸能源基础设施的投资，在制裁下多元化其合作伙伴。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-16T23:19:01.223245"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-18T07:37:21.547475"
+      },
       {
         "id": "russie_376984",
         "titre": "L'Ukraine abat 106 drones russes en une nuit",
@@ -4770,68 +4829,68 @@
           }
         ],
         "created_at": "2026-08-17T10:31:05.899982"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_570379",
-        "titre": "Ukrainien torturé pour un aveu de terrorisme en Russie",
-        "titre_en": "Ukrainian tortured into terrorism confession in Russia",
-        "titre_zh": "乌克兰人在俄被酷刑逼供恐怖主义罪",
-        "titre_ru": "Россия пытала украинского банкира, обвинив в терроризме",
-        "titre_fa": "روسیه یک بانکدار اوکراینی را برای اعتراف به تروریسم شکنجه کرد",
-        "titre_ar": "روسيا تعذب موظف بنك أوكراني بتهمة الإرهاب",
-        "titre_original": "Ukrainian bank worker tortured into terrorism confession in Russia: NYT",
-        "resume": "Un employé de banque ukrainien a été torturé en Russie pour lui faire avouer des liens avec le terrorisme. Le New York Times révèle cette affaire, aggravant les tensions Russie-Ukraine. Les perspectives de cessez-le-feu s'éloignent.",
-        "resume_en": "A Ukrainian bank worker was tortured in Russia to confess to terrorism links. The New York Times exposed the case, worsening Russia-Ukraine tensions. Ceasefire prospects are fading.",
-        "resume_zh": "一名乌克兰银行员工在俄罗斯被酷刑逼供与恐怖主义有关。纽约时报曝光此案，加剧俄乌紧张局势。停火前景渺茫。",
-        "resume_ru": "Российские власти пытали украинского банковского служащего, чтобы заставить его подписать признание в терроризме. Этот инцидент усилил напряжённость между Россией и Украиной. Эксперты считают, что такие методы подрывают перспективы мирного урегулирования.",
-        "resume_fa": "مقامات روسی یک کارمند بانک اوکراینی را شکنجه کردند تا او را مجبور به امضای اعتراف به تروریسم کنند. این حادثه تنش‌ها بین روسیه و اوکراین را تشدید کرد. کارشناسان معتقدند چنین روش‌هایی چشم‌اندازهای حل صلح‌آمیز را تضعیف می‌کند.",
-        "resume_ar": "تعرضت السلطات الروسية موظف بنك أوكراني للتعذيب لإجباره على التوقيع باعترافه بتهمة الإرهاب. تفاقم هذا الحادث التوترات بين روسيا وأوكرانيا. يرى الخبراء أن مثل هذه الأساليب تقوض آفاق التسوية السلمية.",
-        "analyse_detaillee": "Les tensions Russie-Ukraine remontent à l'annexion de la Crimée en 2014 et au conflit dans le Donbass. La Russie est régulièrement accusée de violations des droits humains, notamment contre les prisonniers ukrainiens. Cette affaire s'inscrit dans une stratégie de pression psychologique et physique pour obtenir des aveux forcés. À court terme, elle risque d'envenimer les relations diplomatiques et de réduire les chances de négociations. À moyen terme, elle pourrait renforcer le soutien occidental à l'Ukraine, notamment en matière d'armement. À long terme, cette escalade pourrait mener à une guerre prolongée ou à une partition durable du territoire ukrainien. Les acteurs incluent la Russie, l'Ukraine, l'UE et les États-Unis, chacun défendant des intérêts géopolitiques et sécuritaires opposés.",
-        "analyse_en": "Russia-Ukraine tensions stem from the 2014 annexation of Crimea and the Donbass conflict. Russia is frequently accused of human rights violations, particularly against Ukrainian prisoners. This case fits a pattern of psychological and physical pressure to extract forced confessions. In the short term, it risks worsening diplomatic relations and reducing negotiation chances. In the medium term, it could strengthen Western support for Ukraine, especially in arms supplies. Long-term, this escalation could lead to prolonged war or a lasting partition of Ukrainian territory. Key actors include Russia, Ukraine, the EU, and the US, each defending opposing geopolitical and security interests.",
-        "analyse_zh": "俄乌紧张局势源于2014年克里米亚吞并和顿巴斯冲突。俄罗斯常被指控侵犯人权，特别是对乌克兰囚犯。此案符合通过心理和肉体压力逼取供词的模式。短期内，它可能恶化外交关系并减少谈判机会。中期来看，可能加强西方对乌克兰的支持，尤其是军备供应。长期而言，此升级可能导致持久战争或乌克兰领土的永久分裂。主要行为者包括俄罗斯、乌克兰、欧盟和美国，各自维护对立的地缘政治和安全利益。",
-        "analyse_ru": "Инцидент с пытками украинского банкира демонстрирует эскалацию методов давления со стороны России в условиях военного конфликта. Такие действия могут быть направлены на получение политических выгод или дестабилизацию Украины. Международное сообщество осуждает подобные методы, что ухудшает имидж России на мировой арене. Последствия включают ужесточение санкций и дальнейшее охлаждение отношений между странами. Перспективы зависят от реакции Запада и позиции Украины в переговорах.",
-        "analyse_fa": "حادثه شکنجه کارمند بانک اوکراینی نشان‌دهنده تشدید روش‌های فشار از سوی روسیه در شرایط جنگ است. چنین اقداماتی ممکن است برای کسب منافع سیاسی یا بی‌ثبات‌سازی اوکراین انجام شود. جامعه بین‌المللی این روش‌ها را محکوم می‌کند که به بدنامی روسیه در سطح جهانی منجر می‌شود. پیامدها شامل تشدید تحریم‌ها و سردی بیشتر روابط بین دو کشور است. چشم‌اندازها به واکنش غرب و موضع اوکراین در مذاکرات بستگی دارد.",
-        "analyse_ar": "يظهر حادث تعذيب موظف البنك الأوكراني تصعيد أساليب الضغط من جانب روسيا في ظل الصراع العسكري. قد تهدف مثل هذه الإجراءات إلى تحقيق مكاسب سياسية أو زعزعة استقرار أوكرانيا. تدين المجتمع الدولي هذه الأساليب، مما يسيء إلى صورة روسيا على الساحة العالمية. تشمل العواقب تشديد العقوبات وجمود العلاقات بين البلدين. ترتبط الآفاق بردود الفعل الغربية وموقف أوكرانيا في المفاوضات.",
+        "id": "iran_163466",
+        "titre": "Le Qatar nie détenir des pilotes iraniens disparus",
+        "titre_en": "Qatar denies holding missing Iranian pilots",
+        "titre_zh": "卡塔尔否认扣押失踪伊朗飞行员",
+        "titre_ru": "Катар отрицает задержание иранских пилотов",
+        "titre_fa": "قطر بازداشت خلبانان ایرانی را تکذیب کرد",
+        "titre_ar": "قطر تنفي احتجاز طيارين إيرانيين",
+        "titre_original": "Qatar Denies Holding Iranian Pilots As Tehran Demands Answers Over Missing Airmen",
+        "resume": "Le Qatar a démenti détenir trois pilotes iraniens disparus après un incident aérien. Téhéran exige des explications et accuse Doha de les retenir contre leur gré. Cette affaire aggrave les tensions déjà vives entre les deux pays.",
+        "resume_en": "Qatar denied holding three missing Iranian pilots after an air incident. Tehran demands answers and accuses Doha of detaining them against their will. This dispute worsens already tense relations between the two countries.",
+        "resume_zh": "卡塔尔否认在一起空中事件后扣押三名失踪的伊朗飞行员。德黑兰要求解释并指责多哈违背他们的意愿扣留他们。这一争端加剧了两国之间原本紧张的关系。",
+        "resume_ru": "Катар опроверг утверждения Ирана о том, что три иранских пилота находятся в заключении в этой стране. Тегеран утверждает, что лётчики были захвачены после крушения их самолёта. Вопрос остаётся неурегулированным, стороны не предоставляют доказательств.",
+        "resume_fa": "قطر ادعای ایران مبنی بر بازداشت سه خلبان ایرانی در این کشور را رد کرد. تهران مدعی است که خلبانان پس از سقوط هواپیمایشان دستگیر شده‌اند. این مسئله همچنان حل‌نشده باقی مانده و طرفین مدارکی ارائه نکرده‌اند.",
+        "resume_ar": "نفت قطر الادعاءات الإيرانية القائلة بأن ثلاثة طيارين إيرانيين محتجزون في البلاد. تدعي طهران أن الطيارين تم القبض عليهم بعد تحطم طائرتهم. لا تزال المسألة دون حل، ولم تقدم أي من الطرفين أدلة.",
+        "analyse_detaillee": "Les relations entre l'Iran et le Qatar sont marquées par des tensions récurrentes, notamment depuis la crise diplomatique de 2017. Historiquement, ces deux pays partagent des liens culturels et économiques, mais leurs divergences politiques compliquent leurs relations. Les enjeux principaux incluent la stabilité régionale et la sécurité aérienne. Les causes profondes résident dans les rivalités géopolitiques au Moyen-Orient et les alliances changeantes. À court terme, cette affaire pourrait entraîner des représailles diplomatiques ou économiques. À moyen terme, elle pourrait fragiliser la coopération dans le golfe Persique. À long terme, cela pourrait renforcer les alliances alternatives dans la région. L'Iran, isolé internationalement, cherche à obtenir des réponses, tandis que le Qatar, soutenu par les États-Unis, maintient sa position. Les pays du Golfe observent la situation avec prudence, craignant une escalade.",
+        "analyse_en": "Iran-Qatar relations have been marked by recurring tensions, especially since the 2017 diplomatic crisis. Historically, the two countries share cultural and economic ties, but political differences complicate their relations. Key stakes include regional stability and air safety. Root causes lie in Middle Eastern geopolitical rivalries and shifting alliances. In the short term, this dispute could lead to diplomatic or economic retaliation. In the medium term, it could weaken cooperation in the Persian Gulf. Long-term, this could strengthen alternative alliances in the region. Isolated internationally, Iran seeks answers, while Qatar, backed by the U.S., maintains its stance. Gulf countries watch the situation cautiously, fearing escalation.",
+        "analyse_zh": "伊朗和卡塔尔的关系因2017年外交危机以来的反复紧张局势而受到影响。历史上，两国在文化和经济上有联系，但政治分歧使他们的关系复杂化。主要挑战包括地区稳定和航空安全。深层原因在于中东地缘政治竞争和不断变化的联盟。短期内，这一争端可能导致外交或经济报复。中期来看，它可能削弱波斯湾的合作。长期而言，这可能加强该地区的替代联盟。在国际上孤立的伊朗寻求答案，而得到美国支持的卡塔尔坚持其立场。海湾国家谨慎观察局势，担心局势升级。",
+        "analyse_ru": "Контекст: Отношения между Ираном и Катаром носят сложный характер из-за геополитических интересов. Причины: Непрозрачность обстоятельств крушения самолёта и отсутствие официальных заявлений. Последствия: Напряжённость в дипломатических отношениях и недоверие между сторонами. Перспективы: Без доказательств и прозрачности ситуация может затянуться. Позиции сторон: Иран требует объяснений, Катар настаивает на отсутствии доказательств.",
+        "analyse_fa": "زمینه: روابط ایران و قطر به دلیل منافع ژئوپلیتیکی پیچیده است. علل: عدم شفافیت در شرایط سقوط هواپیما و فقدان اظهارات رسمی. پیامدها: تشدید تنش‌های دیپلماتیک و بی‌اعتمادی میان طرفین. چشم‌انداز: بدون مدارک و شفافیت، این مسئله ممکن است به درازا بکشد. موضع بازیگران: ایران خواستار توضیحات است، در حالی که قطر بر فقدان مدارک تأکید دارد.",
+        "analyse_ar": "السياق: العلاقات بين إيران وقطر معقدة بسبب المصالح الجيوسياسية. الأسباب: عدم وضوح ظروف تحطم الطائرة وغياب البيانات الرسمية. العواقب: تصاعد التوترات الدبلوماسية وانعدام الثقة بين الطرفين. الآفاق: دون أدلة وشفافية، قد تطول هذه المسألة. مواقف الأطراف: تطالب إيران بتوضيحات بينما تؤكد قطر عدم وجود أدلة.",
         "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukrainian-bank-worker-tortured-into-terrorism-confession-in-russia-nyt/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/16050707/people-form-a-human-chain-to-transfer-supplies-into-kyiv-on--1-800x420.jpeg",
-        "date": "2026-08-16",
-        "pays": "russie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bbae85dca5068251",
+        "image": "https://biztoc.com/cdn/bbae85dca5068251_s.webp",
+        "date": "2026-08-17",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur bancaire ukrainien",
+            "label": "▼ Secteur aérien du Moyen-Orient",
             "hausse": false
           },
           {
-            "label": "▲ Marché des assurances géopolitiques",
-            "hausse": true
+            "label": "▼ Secteur pétrolier et gazier",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur bancaire ukrainien",
-            "secteur_en": "Ukrainian banking sector",
-            "secteur_zh": "乌克兰银行业",
-            "effet_fr": "Cette affaire pourrait dissuader les investisseurs étrangers de s'engager dans le secteur bancaire ukrainien, déjà fragilisé par la guerre.",
-            "effet_en": "This case could deter foreign investors from engaging in the already war-weakened Ukrainian banking sector.",
-            "effet_zh": "此案可能阻止外国投资者进入已被战争削弱的乌克兰银行业。",
+            "secteur_fr": "Secteur aérien du Moyen-Orient",
+            "secteur_en": "Middle Eastern aviation sector",
+            "secteur_zh": "中东航空业",
+            "effet_fr": "Une escalade des tensions pourrait perturber les vols régionaux et augmenter les coûts d'assurance pour les compagnies aériennes.",
+            "effet_en": "An escalation of tensions could disrupt regional flights and increase insurance costs for airlines.",
+            "effet_zh": "紧张局势升级可能扰乱地区航班，并增加航空公司的保险成本。",
             "hausse": false
           },
           {
-            "secteur_fr": "Marché des assurances géopolitiques",
-            "secteur_en": "Geopolitical insurance market",
-            "secteur_zh": "地缘政治保险市场",
-            "effet_fr": "L'escalade des tensions pourrait augmenter les coûts des assurances couvrant les risques liés au conflit ukrainien.",
-            "effet_en": "Escalating tensions could raise insurance costs for policies covering risks related to the Ukrainian conflict.",
-            "effet_zh": "紧张局势升级可能提高涵盖乌克兰冲突风险的保险成本。",
-            "hausse": true
+            "secteur_fr": "Secteur pétrolier et gazier",
+            "secteur_en": "Oil and gas sector",
+            "secteur_zh": "石油和天然气行业",
+            "effet_fr": "Les tensions pourraient affecter les exportations iraniennes de pétrole via le Qatar, perturbant les marchés énergétiques mondiaux.",
+            "effet_en": "Tensions could impact Iran's oil exports via Qatar, disrupting global energy markets.",
+            "effet_zh": "紧张局势可能影响通过卡塔尔的伊朗石油出口，扰乱全球能源市场。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-17T09:40:01.770422"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-18T07:37:21.547466"
+      },
       {
         "id": "iran_997841",
         "titre": "L'Iran accuse le Qatar de détenir des pilotes disparus",
@@ -5952,69 +6011,70 @@
           }
         ],
         "created_at": "2026-08-17T08:41:42.141633"
-      },
-      {
-        "id": "iran_702238",
-        "titre": "La guerre en Iran révèle l'inefficacité des défenses américaines",
-        "titre_en": "Iran war exposes US air defenses' inefficiency",
-        "titre_zh": "伊朗战争暴露美国防空系统低效",
-        "titre_ru": "Война в Иране показала неэффективность ПВО США против современных угроз",
-        "titre_fa": "جنگ ایران کارایی دفاع هوایی آمریکا در برابر تهدیدات مدرن را زیر سؤال برد",
-        "titre_ar": "أثبتت حرب إيران عدم فعالية الدفاعات الجوية الأمريكية أمام التهديدات الحديثة",
-        "titre_original": "Iran War Proves US Air Defenses Inefficient Against Modern Threats",
-        "resume": "Les États arabes ont utilisé des systèmes de défense aérienne américains contre des drones iraniens, jugés inefficaces et coûteux. Des experts critiquent le rapport coût-efficacité de ces intercepteurs face aux menaces modernes. L'Iran a démontré sa capacité à contourner les défenses occidentales.",
-        "resume_en": "Arab states used US air defense systems against Iranian drones, deemed inefficient and costly. Experts criticize the cost-effectiveness of these interceptors against modern threats. Iran demonstrated its ability to bypass Western defenses.",
-        "resume_zh": "阿拉伯国家使用美国防空系统对抗伊朗无人机，被认为低效且成本高昂。专家批评这些拦截器对现代威胁的成本效益。伊朗展示了绕过西方防御的能力。",
-        "resume_ru": "Эксперты Центра анализа мировой торговли вооружениями (CAWAT) заявили, что использование арабскими государствами американских систем ПВО против иранских дронов сравнимо с «стрельбой из пушек по воробьям». Перехватчики слишком дороги для борьбы с такими целями. США обвинили Иран в эскалации напряжённости в регионе.",
-        "resume_fa": "کارشناسان مرکز تحلیل تجارت جهانی تسلیحات (CAWAT) گفتند که استفاده کشورهای عربی از سیستم‌های دفاع هوایی آمریکایی در برابر پهپادهای ایرانی مانند «شلیک توپ به گنجشک» است. موشک‌های رهگیر برای چنین اهدافی بسیار گران هستند. ایالات متحده ایران را به تشدید تنش در منطقه متهم کرد.",
-        "resume_ar": "أفاد خبراء مركز تحليل تجارة الأسلحة العالمية (CAWAT) أن استخدام الدول العربية لأنظمة الدفاع الجوي الأمريكية ضد طائرات إيران المسيرة يشبه «إطلاق المدافع على العصافير». إن صواريخ الاعتراض باهظة الثمن لمثل هذه الأهداف. اتهمت الولايات المتحدة إيران بتأجيج التوترات في المنطقة.",
-        "analyse_detaillee": "Ce conflit s'inscrit dans un contexte de tensions régionales croissantes depuis des décennies, marquées par la rivalité Iran-Arabie saoudite. Les enjeux principaux incluent la sécurité aérienne et la crédibilité des alliances militaires occidentales. Les causes profondes résident dans l'innovation technologique iranienne et l'obsolescence relative des systèmes américains. À court terme, cette inefficacité pourrait pousser les pays arabes à diversifier leurs fournisseurs d'armement. À moyen terme, elle pourrait accélérer le développement de défenses locales ou chinoises. À long terme, elle risque de saper la confiance dans les systèmes de défense américains, favorisant des alliances alternatives. Les acteurs clés sont l'Iran, les États-Unis, l'Arabie saoudite, Israël et la Chine. La Russie pourrait tirer profit de cette situation en vendant ses propres systèmes de défense.",
-        "analyse_en": "This conflict stems from decades of rising regional tensions, notably between Iran and Saudi Arabia. Key stakes include air security and the credibility of Western military alliances. Root causes lie in Iranian technological innovation and the relative obsolescence of US systems. Short-term, this inefficiency may push Arab states to diversify their arms suppliers. Medium-term, it could accelerate the development of local or Chinese defenses. Long-term, it risks undermining confidence in US defense systems, fostering alternative alliances. Key actors are Iran, the US, Saudi Arabia, Israel, and China. Russia may benefit by selling its own defense systems.",
-        "analyse_zh": "这一冲突源于数十年来不断加剧的地区紧张局势，特别是伊朗与沙特阿拉伯之间的对抗。主要争端包括空中安全和西方军事联盟的可信度。深层原因在于伊朗的技术创新和美国系统的相对过时。短期来看，这种低效可能促使阿拉伯国家多元化武器供应商。中期来看，可能加速本地或中国防务的发展。长期来看，可能削弱对美国防务系统的信心，促成替代联盟。主要行为者包括伊朗、美国、沙特阿拉伯、以色列和中国。俄罗斯可能通过出售自有防务系统从中获利。",
-        "analyse_ru": "Контекст конфликта в регионе связан с многолетним противостоянием между Ираном и арабскими государствами, поддерживаемыми США. Причины неэффективности американских систем ПВО объясняются их высокой стоимостью и несоответствием новым угрозам, таким как иранские дроны. Последствия могут привести к пересмотру стратегий безопасности в регионе и поиску альтернативных решений. Перспективы зависят от способности США адаптировать свои системы или разработать новые технологии. Позиции сторон остаются враждебными: Иран продолжает развивать свой арсенал, а США усиливают поддержку своих союзников.",
-        "analyse_fa": "زمینه درگیری در منطقه به تضاد چندساله بین ایران و کشورهای عربی تحت حمایت آمریکا بازمی‌گردد. دلایل ناکارآمدی سیستم‌های دفاع هوایی آمریکا به هزینه بالای آن‌ها و عدم تطابق با تهدیدات جدید مانند پهپادهای ایرانی مربوط می‌شود. پیامدها می‌تواند منجر به بازنگری در استراتژی‌های امنیتی منطقه و جستجوی راه‌حل‌های جایگزین شود. چشم‌اندازها به توانایی آمریکا برای تطبیق سیستم‌ها یا توسعه فناوری‌های جدید بستگی دارد. موضع بازیگران خصمانه باقی مانده است: ایران به توسعه زرادخانه خود ادامه می‌دهد، در حالی که آمریکا حمایت از متحدانش را افزایش می‌دهد.",
-        "analyse_ar": "سياق الصراع في المنطقة يعود إلى الصراع الطويل بين إيران والدول العربية المدعومة من الولايات المتحدة. أسباب عدم فعالية أنظمة الدفاع الجوي الأمريكية ترتبط بتكلفتها العالية وعدم توافقها مع التهديدات الحديثة مثل الطائرات المسيرة الإيرانية. قد تؤدي العواقب إلى مراجعة استراتيجيات الأمن في المنطقة والبحث عن حلول بديلة. الآفاق تعتمد على قدرة الولايات المتحدة على تكييف أنظمة الدفاع أو تطوير تقنيات جديدة. مواقف الأطراف لا تزال عدائية: تواصل إيران تطوير ترسانتها، بينما تعزز الولايات المتحدة دعمها لحلفائها.",
-        "categorie": "Géopolitique",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260816/iran-war-proves-us-air-defenses-inefficient-against-modern-threats-1124585302.html",
-        "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124585302.jpg?11136055161786865522",
-        "date": "2026-08-16",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Secteur de la défense aérienne",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché des drones militaires",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la défense aérienne",
-            "secteur_en": "Air defense sector",
-            "secteur_zh": "防空行业",
-            "effet_fr": "Les ventes de systèmes de défense aérienne américains pourraient chuter, au profit de solutions locales ou chinoises.",
-            "effet_en": "US air defense system sales may decline, benefiting local or Chinese solutions.",
-            "effet_zh": "美国防空系统销售可能下降，受益于本地或中国解决方案。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des drones militaires",
-            "secteur_en": "Military drone market",
-            "secteur_zh": "军用无人机市场",
-            "effet_fr": "La démonstration iranienne pourrait stimuler la demande pour des drones low-cost et des systèmes de contre-mesures électroniques.",
-            "effet_en": "Iran's demonstration could boost demand for low-cost drones and electronic countermeasure systems.",
-            "effet_zh": "伊朗的示范可能推动对低成本无人机和电子对抗系统的需求。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-17T07:52:51.880246"
       }
     ]
   },
   "politique": [
+    {
+      "id": "pol_enfants_147942",
+      "titre": "En Italie, une affiche Apple avec un enfant fait polémique",
+      "titre_en": "Apple's ad with child sparks controversy in Italy",
+      "titre_zh": "意大利苹果广告引发争议",
+      "titre_ru": "В Италии реклама Apple с ребенком вызвала скандал",
+      "titre_fa": "در ایتالیا، تبلیغ اپل با کودک جنجال برانگیخت",
+      "titre_ar": "في إيطاليا، إعلان آبل مع طفل أثار الجدل",
+      "titre_original": "En Italie, une affiche Apple avec un enfant fait polémique",
+      "resume": "À Milan, une affiche publicitaire d'Apple montre un jeune enfant tenant un iPhone couvert d'une substance gluante, avec le slogan 'Tutto ok, è iPhone'. L'autorité italienne de régulation de la publicité a reçu des plaintes dénonçant l'exploitation des enfants et la promotion précoce des écrans. Apple n'a pas encore réagi officiellement à cette polémique.",
+      "resume_en": "In Milan, an Apple advertisement features a young child holding an iPhone covered in a sticky substance with the slogan 'Tutto ok, è iPhone'. Italy's advertising regulator has received complaints about child exploitation and early screen promotion. Apple has not yet officially responded to the controversy.",
+      "resume_zh": "在米兰，苹果的一则广告展示了一个幼儿手持沾满黏性物质的iPhone，广告语为‘一切正常，这是iPhone’。意大利广告监管机构收到了关于儿童剥削和早期屏幕推广的投诉。苹果尚未对此争议做出正式回应。",
+      "resume_ru": "В Милане на рекламном щите компании Apple был изображен маленький ребенок, держащий iPhone, покрытый липким веществом. Под изображением размещен слоган \"Tutto ok, è iPhone\" (\"Все в порядке, это iPhone\"). Реклама вызвала бурную реакцию общественности и властей Италии.",
+      "resume_fa": "در میلان، تبلیغات اپل روی بیلبورد، کودکی کوچک را نشان می‌داد که در دست خود آیفونی پوشیده از ماده‌ای چسبناک نگه داشته است. زیر تصویر، شعار «توتو اوک، ای آیفون» (همه چیز خوبه، این آیفونه) نوشته شده بود. این تبلیغ واکنش‌های گسترده‌ای در میان مردم و مقامات ایتالیا برانگیخت.",
+      "resume_ar": "في ميلانو، عرضت لوحة إعلانية لشركة آبل طفلاً صغيراً يمسك بهاتف آيفون مغطى بمادة لزجة. وكان الشعار المكتوب أسفل الصورة يقول \"توتو أوك، إ إفاون\" (كل شيء على ما يرام، إنه آيفون). أثار الإعلان ردود فعل غاضبة من قبل الجمهور والسلطات الإيطالية.",
+      "analyse_detaillee": "Cette polémique s'inscrit dans un débat plus large sur l'impact des écrans sur les enfants, déjà vif en Europe depuis les années 2010 avec l'essor des smartphones. Les enjeux principaux concernent la protection de l'enfance et la responsabilité des géants technologiques dans la promotion de leurs produits auprès des mineurs. Les causes profondes incluent la stratégie marketing agressive d'Apple ciblant les familles et les enfants, ainsi que l'absence de régulation stricte en Italie sur ce type de publicité. À court terme, Apple pourrait être contraint de retirer l'affiche et de s'excuser pour éviter une crise d'image. À moyen terme, cette affaire pourrait renforcer les pressions pour une législation européenne plus stricte sur la publicité pour les mineurs. À long terme, cela pourrait nuire à la réputation d'Apple auprès des consommateurs soucieux de l'éthique technologique. Les acteurs concernés incluent l'autorité italienne de régulation, les associations de protection de l'enfance et Apple, qui devra probablement adapter sa communication.",
+      "analyse_en": "This controversy is part of a broader debate on the impact of screens on children, already intense in Europe since the 2010s with the rise of smartphones. The main issues involve child protection and the responsibility of tech giants in promoting their products to minors. The root causes include Apple's aggressive marketing strategy targeting families and children, as well as Italy's lack of strict regulation on such advertising. In the short term, Apple may be forced to withdraw the poster and apologize to avoid a PR crisis. In the medium term, this case could strengthen pressure for stricter European legislation on advertising to minors. In the long term, it could harm Apple's reputation among consumers concerned about ethical technology. The actors involved include Italy's regulatory authority, child protection associations, and Apple, which will likely need to adapt its communication.",
+      "analyse_zh": "这场争议是欧洲自2010年代智能手机兴起以来对儿童屏幕影响的更大讨论的一部分。主要问题涉及儿童保护和科技巨头在向未成年人推广产品时的责任。深层原因包括苹果针对家庭和儿童的激进营销策略，以及意大利在这方面缺乏严格监管。短期内，苹果可能被迫撤下广告并道歉以避免公关危机。中期来看，此事可能加强对欧洲限制针对未成年人广告的立法压力。长期而言，这可能损害苹果在关注科技伦理的消费者中的声誉。相关方包括意大利监管机构、儿童保护协会和苹果，后者可能需要调整其沟通策略。",
+      "analyse_ru": "Контекст скандала связан с растущей обеспокоенностью общества по поводу влияния гаджетов на детей. Причиной возмущения стало изображение ребенка, который воспринимается как слишком юный для использования смартфона, что противоречит рекомендациям педиатров. Последствия могут включать ужесточение контроля за рекламой технологических продуктов в Италии, а также ухудшение имиджа Apple среди семейной аудитории. Перспективы развития ситуации зависят от реакции регуляторов и общественного мнения. Позиция Apple пока не озвучена официально, но компания может столкнуться с давлением со стороны защитников прав детей.",
+      "analyse_fa": "زمینه این جنجال به نگرانی فزاینده جامعه درباره تأثیر ابزارهای دیجیتال بر کودکان بازمی‌گردد. علت خشم عمومی، تصویر کودکی بود که به نظر می‌رسید برای استفاده از تلفن هوشمند بسیار کوچک است و با توصیه‌های متخصصان اطفال در تضاد بود. پیامدهای این ماجرا می‌تواند شامل تشدید مقررات تبلیغات محصولات فناوری در ایتالیا و آسیب به شهرت اپل در میان خانواده‌ها باشد. چشم‌انداز آینده به واکنش مقامات و افکار عمومی بستگی دارد. موضع اپل هنوز اعلام نشده، اما این شرکت ممکن است با فشار مدافعان حقوق کودکان مواجه شود.",
+      "analyse_ar": "يرتبط السياق العام للجدل بالقلق المتزايد في المجتمع بشأن تأثير الأجهزة التكنولوجية على الأطفال. وكان السبب وراء الغضب هو صورة طفل صغير يبدو صغيراً جداً لاستخدام الهاتف الذكي، مما يتعارض مع توصيات أطباء الأطفال. وقد تشمل العواقب تشديد الرقابة على الإعلانات التكنولوجية في إيطاليا، بالإضافة إلى إلحاق الضرر بسمعة آبل بين الأسر. تعتمد آفاق تطور الوضع على ردود فعل السلطات والرأي العام. لم تصدر آبل موقفاً رسمياً بعد، لكنها قد تواجه ضغوطاً من المدافعين عن حقوق الطفل.",
+      "categorie": "Société",
+      "source": "Korben.info",
+      "url": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html",
+      "image": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique-1.webp",
+      "date": "2026-08-17",
+      "pays": "pol_enfants",
+      "badges": [
+        {
+          "label": "▼ Ventes de produits Apple en Italie",
+          "hausse": false
+        },
+        {
+          "label": "▲ Investissements dans la R&D éthique",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Ventes de produits Apple en Italie",
+          "secteur_en": "Apple product sales in Italy",
+          "secteur_zh": "苹果产品在意大利的销售",
+          "effet_fr": "La polémique pourrait entraîner une baisse temporaire des ventes d'iPhone en Italie, surtout auprès des parents soucieux de l'éthique.",
+          "effet_en": "The controversy could lead to a temporary decline in iPhone sales in Italy, particularly among parents concerned about ethics.",
+          "effet_zh": "争议可能导致意大利iPhone销售暂时下降，尤其是在关注伦理的父母群体中。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Investissements dans la R&D éthique",
+          "secteur_en": "Investments in ethical R&D",
+          "secteur_zh": "在伦理研发中的投资",
+          "effet_fr": "Apple pourrait augmenter ses budgets en R&D éthique pour améliorer son image et anticiper les régulations futures.",
+          "effet_en": "Apple may increase its ethical R&D budgets to improve its image and anticipate future regulations.",
+          "effet_zh": "苹果可能增加伦理研发预算以改善形象并预见未来监管。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-08-18T07:37:44.370391",
+      "sous_categorie": "enfants"
+    },
     {
       "id": "pol_femmes_595385",
       "titre": "Féminicides et droits des filles afghanes",
