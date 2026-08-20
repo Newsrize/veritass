@@ -1,7 +1,66 @@
 {
-  "last_updated": "20/08/2026 à 20h27",
+  "last_updated": "20/08/2026 à 21h27",
   "articles": {
     "monde": [
+      {
+        "id": "monde_345818",
+        "titre": "Nouvelle IA policière de Flock : surveillance sociale",
+        "titre_en": "Flock’s Police AI: Social Life Surveillance",
+        "titre_zh": "Flock警用AI：社交生活监控",
+        "titre_ru": "Новый ИИ полиции Flock: угроза частной жизни",
+        "titre_fa": "هوش مصنوعی پلیس فلاک: تهدیدی برای حریم خصوصی",
+        "titre_ar": "الذكاء الاصطناعي الجديد للشرطة فلوك: تهديد للخصوصية",
+        "titre_original": "Flock’s New Police AI Can Pull Up Your Whole Social Life From a Single License Plate Number",
+        "resume": "Flock a développé une IA capable de reconstituer le profil social d'une personne à partir d'une plaque d'immatriculation. Cette technologie suscite des inquiétudes quant à la vie privée et aux dérives policières. Wired révèle son caractère intrusif.",
+        "resume_en": "Flock has developed AI that can reconstruct a person's social profile from a license plate. This technology raises privacy concerns and potential police abuses. Wired exposes its invasive nature.",
+        "resume_zh": "Flock开发了一种AI，能通过车牌重建一个人的社交档案。这项技术引发隐私担忧和警察滥权风险。Wired揭露其侵入性。",
+        "resume_ru": "Новый ИИ-инструмент компании Flock позволяет полиции по номеру автомобиля получать доступ ко всей социальной жизни владельца. Это вызывает опасения по поводу нарушения частной жизни и произвольного подозрения. Согласно расследованию Wired, система может превращать обычные передвижения в основания для полицейского расследования.",
+        "resume_fa": "ابزار جدید هوش مصنوعی شرکت فلاک به پلیس اجازه می‌دهد تا با استفاده از شماره پلاک خودرو، به تمام زندگی اجتماعی مالک دسترسی پیدا کند. این امر نگرانی‌هایی درباره نقض حریم خصوصی و ظن‌های خودسرانه ایجاد کرده است. بر اساس تحقیق وایرد، این سیستم می‌تواند حرکت‌های عادی را به دلایل شک suspicion پلیسی تبدیل کند.",
+        "resume_ar": "أداة الذكاء الاصطناعي الجديدة لشركة فلوك تسمح للشرطة بالوصول إلى الحياة الاجتماعية الكاملة للمالك من خلال رقم لوحة السيارة. وهذا يثير مخاوف بشأن انتهاك الخصوصية والاشتباهات التعسفية. ووفقاً لتحقيق وايرد، يمكن للنظام تحويل الحركات العادية إلى أسباب للشكوك البوليسية.",
+        "analyse_detaillee": "Cette technologie s'inscrit dans un contexte de surveillance accrue par l'IA, notamment aux États-Unis où les forces de l'ordre utilisent de plus en plus d'outils prédictifs. Les enjeux principaux concernent la protection des données personnelles et les risques de profilage discriminatoire. Les causes profondes incluent la course aux innovations sécuritaires post-11 septembre et la normalisation des outils de surveillance de masse. À court terme, cette IA pourrait renforcer les arrestations arbitraires et les erreurs judiciaires. À moyen terme, elle risque de créer une société de suspicion généralisée, où chaque déplacement devient un motif de contrôle. À long terme, cela pourrait mener à une standardisation des pratiques autoritaires sous couvert de sécurité. Les acteurs comme les défenseurs des droits civiques s'opposent fermement, tandis que les gouvernements et entreprises technologiques y voient un outil de contrôle efficace. Les entreprises comme Flock bénéficient de contrats juteux avec les forces de l'ordre, ce qui pose un conflit d'intérêts.",
+        "analyse_en": "This technology fits into a broader context of increased AI surveillance, particularly in the US where law enforcement increasingly uses predictive tools. The main stakes involve personal data protection and the risks of discriminatory profiling. Root causes include the post-9/11 security innovation race and the normalization of mass surveillance tools. In the short term, this AI could lead to arbitrary arrests and judicial errors. In the medium term, it risks creating a society of generalized suspicion where every movement becomes grounds for control. In the long term, it could lead to the standardization of authoritarian practices under the guise of security. Actors like civil rights defenders strongly oppose it, while governments and tech companies see it as an effective control tool. Companies like Flock benefit from lucrative contracts with law enforcement, creating a conflict of interest.",
+        "analyse_zh": "这项技术植根于AI监控日益增长的背景，特别是在美国，执法部门越来越多使用预测工具。主要问题涉及个人数据保护和歧视性画像风险。深层原因包括911后的安全创新竞赛和大规模监控工具的常态化。短期内，这类AI可能导致任意逮捕和司法错误。中期看，它可能创造一个普遍怀疑的社会，每次移动都成为控制的理由。长期则可能在安全幌子下标准化专制实践。民权捍卫者强烈反对，而政府和科技公司视其为有效控制工具。Flock等公司从执法合同中获利，形成利益冲突。",
+        "analyse_ru": "Новый ИИ-инструмент Flock вызывает острую критику правозащитников и технологических экспертов. Причины внедрения такой системы связаны с попытками полиции повысить эффективность расследований, но последствия могут быть катастрофическими для гражданских свобод. Перспективы зависят от регулирования: либо система будет ограничена, либо получит широкое распространение. Позиция властей США пока не ясна, но уже есть призывы к ужесточению контроля за такими технологиями. Вопрос остаётся открытым: как балансировать безопасность и частную жизнь.",
+        "analyse_fa": "ابزار جدید هوش مصنوعی فلاک با انتقاد شدید مدافعان حقوق بشر و کارشناسان فناوری مواجه شده است. دلایل استفاده از چنین سیستمی تلاش پلیس برای افزایش کارایی تحقیقات است، اما پیامدهای آن می‌تواند برای آزادی‌های مدنی فاجعه‌بار باشد. چشم‌اندازها به مقررات‌گذاری بستگی دارد: یا سیستم محدود خواهد شد یا به طور گسترده گسترش خواهد یافت. موضع مقامات ایالات متحده هنوز مشخص نیست، اما درخواست‌هایی برای کنترل سخت‌گیرانه‌تر چنین فناوری‌هایی وجود دارد. این سؤال همچنان باز است: چگونه می‌توان امنیت و حریم خصوصی را متعادل کرد.",
+        "analyse_ar": "أداة الذكاء الاصطناعي الجديدة لشركة فلوك تواجه نقداً لاذعاً من المدافعين عن حقوق الإنسان وخبراء التكنولوجيا. أسباب استخدام مثل هذا النظام هي محاولات الشرطة لزيادة فعالية التحقيقات، لكن العواقب قد تكون كارثية على الحريات المدنية. الآفاق تعتمد على التنظيم: إما أن يتم تقييد النظام أو أن ينتشر على نطاق واسع. موقف السلطات الأمريكية غير واضح حتى الآن، لكن هناك مطالب بفرض رقابة أكثر صرامة على مثل هذه التقنيات. يبقى السؤال مفتوحاً: كيف يمكن الموازنة بين الأمن والخصوصية؟",
+        "categorie": "Technologie et société",
+        "source": "Thoughtcatalog.com",
+        "url": "https://thoughtcatalog.com/chris-lavergne/2026/08/flocks-new-police-ai-can-pull-up-your-whole-social-life-from-a-single-license-plate-number/",
+        "image": "https://thoughtcatalog.com/wp-content/uploads/2026/08/flock-s-new-police-ai-can-pull-up-your-whole-social-life-from-a-single-license-p.jpg?w=1536&h=768&crop=1",
+        "date": "2026-08-19",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Secteur de la cybersécurité",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des données personnelles",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la cybersécurité",
+            "secteur_en": "Cybersecurity sector",
+            "secteur_zh": "网络安全行业",
+            "effet_fr": "La demande pour des outils de surveillance et d'analyse de données explose, boostant les revenus des entreprises spécialisées.",
+            "effet_en": "Demand for surveillance and data analysis tools is surging, boosting revenues for specialized companies.",
+            "effet_zh": "对监控和数据分析工具的需求激增，推动专业公司收入增长。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des données personnelles",
+            "secteur_en": "Personal data market",
+            "secteur_zh": "个人数据市场",
+            "effet_fr": "La collecte massive de données par les outils comme Flock alimente un marché noir des informations privées.",
+            "effet_en": "Mass data collection by tools like Flock fuels a black market for private information.",
+            "effet_zh": "Flock等工具的大规模数据收集助长了私人信息黑市。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-20T21:27:13.555668"
+      },
       {
         "id": "monde_873981",
         "titre": "Dette américaine dépasse 40 000 milliards de dollars",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-20T02:56:08.851130"
-      },
-      {
-        "id": "monde_347772",
-        "titre": "Classement NWSL : Gotham FC et Thorns en tête",
-        "titre_en": "NWSL Power Rankings: Gotham FC and Thorns Lead",
-        "titre_zh": "NWSL排名：Gotham FC和Thorns领先",
-        "titre_ru": "Рейтинг NWSL: «Готэм» и «Портленд» лидируют",
-        "titre_fa": "رتبه‌بندی NWSL: گاتام و پورتلند در صدر",
-        "titre_ar": "تصنيفات NWSL: غوثام وبورتلاند في الصدارة",
-        "titre_original": "NWSL Power Rankings (Matchweek 17): Gotham FC goes to eight unbeaten after comeback win, Portland Thorns victorious in Caiya Hanks’ return, Utah Royals’ Miyabi Moriya, Narumi Miura, and Mina Tanaka make history in 3-2 thriller",
-        "resume": "Gotham FC remporte une victoire en remontée pour rester invaincu. Portland Thorns s’impose avec deux buts de Castellanos et Hanks. Utah Royals marque l’histoire avec trois joueuses japonaises dans leur équipe.",
-        "resume_en": "Gotham FC wins a comeback victory to remain unbeaten. Portland Thorns triumph with two goals from Castellanos and Hanks. Utah Royals make history with three Japanese players in their team.",
-        "resume_zh": "Gotham FC在逆转中获胜保持不败。Portland Thorns凭借Castellanos和Hanks的两粒进球获胜。Utah Royals历史性地拥有三名日本球员。",
-        "resume_ru": "В 17-м туре чемпионата NWSL «Готэм» одержал волевую победу, сохранив восьмиматчевую беспроигрышную серию. «Портленд Торнс» выиграл 2:1 в матче с возвращением Кайи Хэнкс. «Юта Ройял» также отличился историческим достижением.",
-        "resume_fa": "در هفته هفدهم لیگ NWSL، تیم گاتام با پیروزی خیره‌کننده، هشت بازی بدون شکست را ثبت کرد. پورتلند تورنرز با بازگشت کایا هنکس، ۲-۱ پیروز شد. تیم یوتا رویال نیز دستاورد تاریخی را به ثبت رساند.",
-        "resume_ar": "في الجولة السابعة عشرة من دوري NWSL، حققت غوثام فوزاً حاسماً، مسجلة ثمانية مباريات دون هزيمة. فازت بورتلاند ثورنرز ۲-۱ في مباراة عودة كايا هانكس. كما حققت يوتا رويال إنجازاً تاريخياً.",
-        "analyse_detaillee": "Le football féminin américain connaît une croissance rapide, portée par des investissements et une médiatisation accrue. Les enjeux incluent l’égalité salariale et la visibilité des athlètes. Les causes profondes sont liées à la lutte pour la reconnaissance du sport féminin. À court terme, cela pourrait booster les audiences et les sponsors. À moyen terme, une meilleure rémunération des joueuses est attendue. À long terme, cela pourrait inspirer d’autres pays. Les acteurs incluent les fédérations, les clubs et les joueuses. Les sponsors voient un potentiel commercial croissant.",
-        "analyse_en": "Women's American football is experiencing rapid growth, driven by increased investment and media coverage. The stakes include equal pay and athlete visibility. The root causes are linked to the fight for recognition of women's sports. In the short term, this could boost audiences and sponsors. In the medium term, better pay for players is expected. In the long term, this could inspire other countries. The actors include federations, clubs, and players. Sponsors see growing commercial potential.",
-        "analyse_zh": "美国女子足球正经历快速增长，由投资和媒体关注推动。关键在于同工同酬和运动员的可见度。深层原因与女子体育认可度的斗争有关。短期内可能提升观众和赞助商数量。中期预计运动员薪酬将改善。长期可能激励其他国家。各方包括联合会、俱乐部和运动员。赞助商看到不断增长的商业潜力。",
-        "analyse_ru": "Контекст турнира NWSL отражает рост популярности женского футбола в США. Причины успеха команд связаны с талантливыми игроками, такими как Мидж Перс и Сэм Керр. Последствия таких побед могут повысить интерес к женскому спорту. Перспективы развития лиги зависят от поддержки болельщиков и спонсоров. Позиции сторон показывают, что женский футбол становится всё более конкурентоспособным.",
-        "analyse_fa": "زمینه برگزاری لیگ NWSL نشان‌دهنده رشد محبوبیت فوتبال زنان در ایالات متحده است. دلایل موفقیت تیم‌ها به بازیکنان بااستعداد مانند میج پرس و سم کر برمی‌گردد. پیامدهای چنین پیروزی‌هایی می‌تواند علاقه به ورزش زنان را افزایش دهد. چشم‌انداز توسعه لیگ به حمایت هواداران و اسپانسرها بستگی دارد. مواضع نشان می‌دهد فوتبال زنان در حال رقابت‌پذیرتر شدن است.",
-        "analyse_ar": "يرتبط سياق دوري NWSL بازده النمو في شعبية كرة القدم النسائية في الولايات المتحدة. ترجع أسباب نجاح الفرق إلى لاعبات موهوبات مثل ميج بيرس وسام كير. قد تؤدي عواقب مثل هذه الانتصارات إلى زيادة الاهتمام بالرياضة النسائية. تتوقف آفاق تطوير الدوري على دعم المشجعين والرعاة. تظهر المواقف أن كرة القدم النسائية أصبحت أكثر تنافسية.",
-        "categorie": "Sport",
-        "source": "Allforxi.com",
-        "url": "https://www.allforxi.com/nwsl/17155/nwsl-power-rankings-matchweek-17-gotham-fc-goes-to-eight-unbeaten-after-comeback-win-portland-thorns-victorious-in-caiya-hanks-return-utah-royals-miyabi-moriya-narumi-miura-an",
-        "image": "https://s.yimg.com/lo/mysterio/api/dbcb0c9ba7fb304ed135294b07b0f2c68dd5d34b138a109d15aa5eb9ad326aca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F0246ae64a8f29ae56455b7ed23501259.jpg",
-        "date": "2026-08-19",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ sponsoring sportif",
-            "hausse": true
-          },
-          {
-            "label": "▲ médias spécialisés",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "sponsoring sportif",
-            "secteur_en": "sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Les performances des équipes pourraient attirer davantage de sponsors internationaux.",
-            "effet_en": "The teams' performances could attract more international sponsors.",
-            "effet_zh": "球队表现可能吸引更多国际赞助商。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "médias spécialisés",
-            "secteur_en": "specialized media",
-            "secteur_zh": "专业媒体",
-            "effet_fr": "La couverture médiatique pourrait augmenter, renforçant l’audience des chaînes sportives.",
-            "effet_en": "Media coverage could increase, boosting the audience of sports channels.",
-            "effet_zh": "媒体报道可能增加，提升体育频道的观众数量。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-20T01:08:04.942665"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_673183",
+        "titre": "Manifestations contre Trump pour les parcs nationaux",
+        "titre_en": "Protests Against Trump’s National Parks Agenda",
+        "titre_zh": "抗议特朗普国家公园政策",
+        "titre_ru": "Защитники парков США против политики Трампа",
+        "titre_fa": "مدافعان پارک‌های آمریکا در برابر سیاست ترامپ",
+        "titre_ar": "مدافعو المتنزهات الأمريكية ضد سياسة ترامب",
+        "titre_original": "National Parks Advocates Plan Day of Protest Against Donald Trump",
+        "resume": "Les défenseurs des parcs nationaux organisent une journée de protestation contre les coupes budgétaires de Trump. Ils exigent plus d'investissements et de protections pour les espaces naturels fédéraux. Cette mobilisation reflète une opposition croissante à sa politique environnementale.",
+        "resume_en": "National park advocates are organizing a day of protest against Trump's budget cuts. They demand greater investment and protection for federal natural spaces. This mobilization reflects growing opposition to his environmental policy.",
+        "resume_zh": "国家公园捍卫者组织抗议日反对特朗普的预算削减。他们要求增加对联邦自然空间的投资和保护。此行动反映对其环保政策的日益反对。",
+        "resume_ru": "Защитники национальных парков США готовятся к масштабным протестам против политики президента Дональда Трампа в отношении охраны природы. Они требуют увеличить финансирование и защиту федеральных заповедников. Акция запланирована на ближайшие дни.",
+        "resume_fa": "مدافعان پارک‌های ملی آمریکا در حال آماده‌سازی برای تظاهرات گسترده علیه سیاست‌های دونالد ترامپ در زمینه حفاظت از محیط زیست هستند. آنها خواستار افزایش بودجه و حفاظت از مناطق حفاظت‌شده فدرال هستند. این اقدام برای روزهای آینده برنامه‌ریزی شده است.",
+        "resume_ar": "يستعد مدافعو المتنزهات الوطنية الأمريكية لتظاهرات واسعة ضد سياسات الرئيس دونالد ترامب المتعلقة بحماية البيئة. وهم يطالبون بزيادة التمويل وحماية المحميات الفيدرالية. وقد تم التخطيط لهذا العمل في الأيام القادمة.",
+        "analyse_detaillee": "Cette mobilisation s'inscrit dans un contexte de tensions environnementales accrues aux États-Unis, où les parcs nationaux sont perçus comme des symboles de préservation face au changement climatique. Les enjeux principaux concernent la préservation des écosystèmes et la lutte contre la dégradation des infrastructures naturelles. Les causes profondes incluent la réduction des budgets fédéraux sous Trump, alignée sur sa politique de dérégulation environnementale. À court terme, ces protestations pourraient ralentir certaines décisions de gestion des parcs. À moyen terme, elles risquent d'exacerber les divisions politiques autour de l'écologie. À long terme, cela pourrait renforcer les mouvements locaux et les initiatives citoyennes de protection. Les acteurs comme les associations environnementales (Sierra Club, National Parks Conservation Association) mènent la mobilisation, tandis que l'administration Trump défend une vision économique prioritaire. Les entreprises du tourisme vert pourraient en profiter si les investissements augmentent.",
+        "analyse_en": "This mobilization fits into a context of heightened environmental tensions in the US, where national parks are seen as symbols of preservation against climate change. The main stakes involve ecosystem preservation and combating the degradation of natural infrastructures. Root causes include Trump's federal budget cuts, aligned with his environmental deregulation policy. In the short term, these protests could slow down certain park management decisions. In the medium term, they risk exacerbating political divisions over ecology. In the long term, this could strengthen local movements and citizen-led protection initiatives. Actors like environmental associations (Sierra Club, National Parks Conservation Association) lead the mobilization, while the Trump administration defends a priority economic vision. Green tourism companies could benefit if investments increase.",
+        "analyse_zh": "此行动植根于美国日益紧张的环境冲突背景，国家公园被视为对抗气候变化的保护象征。主要问题涉及生态系统保护和自然基础设施退化的斗争。深层原因包括特朗普政府的联邦预算削减，与其环境去监管政策一致。短期内，抗议可能减缓某些公园管理决策。中期看，可能加剧生态问题上的政治分歧。长期则可能加强地方运动和公民保护倡议。环保组织（如 Sierra Club、国家公园保护协会）领导行动，而特朗普政府捍卫优先经济视角。如果投资增加，绿色旅游企业可能受益。",
+        "analyse_ru": "Протесты защитников парков отражают растущее недовольство политикой Трампа в области охраны окружающей среды. Причины акции связаны с сокращением бюджета на природоохранные мероприятия и ослаблением регулирования. Последствия могут быть значительными: либо администрация уступит давлению, либо конфликт перейдёт в юридическую плоскость. Перспективы зависят от поддержки общественности и политической воли. Позиции сторон ужесточаются: экологические организации требуют изменений, а сторонники Трампа настаивают на экономической целесообразности его решений.",
+        "analyse_fa": "تظاهرات مدافعان پارک‌ها نارضایتی فزاینده از سیاست‌های ترامپ در زمینه حفاظت از محیط زیست را نشان می‌دهد. دلایل این اقدام به کاهش بودجه برای اقدامات حفاظت از محیط زیست و تضعیف مقررات مربوط می‌شود. پیامدهای آن می‌تواند قابل توجه باشد: یا دولت تسلیم فشارها خواهد شد یا این مناقشه به عرصه حقوقی کشیده خواهد شد. چشم‌اندازها به حمایت عمومی و اراده سیاسی بستگی دارد. مواضع طرفین در حال تشدید است: سازمان‌های زیست محیطی خواستار تغییرات هستند، در حالی که طرفداران ترامپ بر جنبه اقتصادی تصمیمات او تأکید دارند.",
+        "analyse_ar": "تعكس التظاهرات التي يقوم بها مدافعو المتنزهات عدم الرضا المتزايد عن سياسات ترامب في مجال حماية البيئة. ترتبط أسباب هذه الحركة بتقليص الميزانية المخصصة للأنشطة البيئية وتخفيف التنظيمات. وقد تكون العواقب كبيرة: إما أن تستسلم الإدارة للضغوط أو أن يتحول النزاع إلى ساحة قانونية. تعتمد الآفاق على الدعم الشعبي والإرادة السياسية. تتشدد مواقف الأطراف: فالمنظمات البيئية تطالب بالتغييرات، بينما يؤكد أنصار ترامب على الجدوى الاقتصادية لقراراته.",
+        "categorie": "Environnement",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0f49268d9c1d3c96",
+        "image": "https://biztoc.com/cdn/0f49268d9c1d3c96_s.webp",
+        "date": "2026-08-19",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Tourisme vert",
+            "hausse": true
+          },
+          {
+            "label": "▼ Industrie pétrolière",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Tourisme vert",
+            "secteur_en": "Green tourism",
+            "secteur_zh": "绿色旅游",
+            "effet_fr": "Une hausse des investissements fédéraux pourrait dynamiser ce secteur en améliorant les infrastructures des parcs.",
+            "effet_en": "Increased federal investment could boost this sector by improving park infrastructures.",
+            "effet_zh": "联邦投资增加可能通过改善公园基础设施推动该行业发展。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Industrie pétrolière",
+            "secteur_en": "Oil industry",
+            "secteur_zh": "石油行业",
+            "effet_fr": "Les restrictions environnementales pourraient réduire les projets d'exploitation dans les zones protégées, limitant les revenus du secteur.",
+            "effet_en": "Environmental restrictions could reduce exploitation projects in protected areas, limiting sector revenues.",
+            "effet_zh": "环境限制可能减少保护区的开发项目，限制行业收入。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-20T21:27:13.555695"
+      },
       {
         "id": "usa_378477",
         "titre": "Actions South Bow Corp bondissent après Trump",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-20T02:56:08.851159"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_914373",
-        "titre": "Changement d’avion présidentiel à Ankara",
-        "titre_en": "Switching Presidential Planes In Ankara",
-        "titre_zh": "安卡拉总统专机更换",
-        "titre_ru": "Смена президентских самолётов в Анкаре",
-        "titre_fa": "تغییر هواپیماهای ریاست‌جمهوری در آنکارا",
-        "titre_ar": "تغيير الطائرات الرئاسية في أنقرة",
-        "titre_original": "Switching Presidential Planes In Ankara",
-        "resume": "Donald Trump est au cœur d’une nouvelle polémique après un changement de son avion présidentiel en Turquie. L’opposition dénonce une manipulation politique et financière. Les médias américains relancent le débat sur les dépenses publiques.",
-        "resume_en": "Donald Trump is at the center of a new controversy following a change of his presidential plane in Turkey. The opposition accuses political and financial manipulation. US media reignite the debate on public spending.",
-        "resume_zh": "特朗普在土耳其更换总统专机后陷入新争议。反对派指责政治和财务操纵。美国媒体重新引发公共支出辩论。",
-        "resume_ru": "Дональд Трамп продолжает оставаться центром скандалов и фейковых новостей. В Анкаре произошла необычная замена президентских самолётов. Эксперты связывают это с обострением международной напряжённости.",
-        "resume_fa": "دونالد ترامپ همچنان کانون اخبار دروغین و جنجال‌ها است. در آنکارا، تغییر غیرمنتظره‌ای در هواپیماهای ریاست‌جمهوری رخ داد. کارشناسان این اقدام را با تشدید تنش‌های بین‌المللی مرتبط می‌دانند.",
-        "resume_ar": "لا يزال دونالد ترامب محور الأخبار الكاذبة والجدل. في أنقرة، حدث تغيير غير متوقع في الطائرات الرئاسية. ويرى الخبراء أن هذا مرتبط بتوتر العلاقات الدولية.",
-        "analyse_detaillee": "La polémique s’inscrit dans un contexte de tensions politiques aux États-Unis, où Trump reste une figure clivante. Les enjeux portent sur la transparence des dépenses présidentielles et l’utilisation des fonds publics. Les causes profondes incluent la défiance envers les institutions et les accusations de corruption. À court terme, cela pourrait alimenter les tensions partisanes avant les élections. À moyen terme, une enquête pourrait être lancée, affectant la crédibilité de l’administration. À long terme, cela pourrait renforcer la polarisation politique. Les acteurs incluent Trump, l’opposition démocrate et les médias. Les républicains soutiennent généralement le président.",
-        "analyse_en": "The controversy fits into a context of political tensions in the United States, where Trump remains a divisive figure. The stakes involve the transparency of presidential spending and the use of public funds. The root causes include distrust of institutions and accusations of corruption. In the short term, this could fuel partisan tensions ahead of the elections. In the medium term, an investigation could be launched, affecting the administration's credibility. In the long term, this could deepen political polarization. The actors include Trump, the Democratic opposition, and the media. Republicans generally support the president.",
-        "analyse_zh": "争议发生在美国政治紧张的背景下，特朗普仍是一个有争议的人物。关键在于总统支出的透明度和公共资金的使用。深层原因包括对机构的不信任和腐败指控。短期内可能加剧选举前的党派紧张局势。中期可能启动调查，影响政府信誉。长期可能加深政治极化。各方包括特朗普、民主党反对派和媒体。共和党通常支持总统。",
-        "analyse_ru": "Контекст ситуации связан с постоянными обвинениями в адрес Трампа, которые часто оказываются ложными. Причины замены самолётов могут быть связаны с безопасностью или дипломатическими протоколами. Последствия такого шага могут усилить недоверие к американской администрации. Перспективы зависят от реакции международного сообщества. Позиции сторон разделяются: одни видят в этом политический манёвр, другие — необходимую меру безопасности.",
-        "analyse_fa": "زمینه این ماجرا به اتهامات مداوم علیه ترامپ بازمی‌گردد که اغلب کذب از آب درمی‌آیند. دلایل تغییر هواپیماها ممکن است به امنیت یا پروتکل‌های دیپلماتیک مربوط باشد. پیامدهای این اقدام می‌تواند بی‌اعتمادی به دولت آمریکا را افزایش دهد. چشم‌اندازها به واکنش جامعه بین‌المللی بستگی دارد. مواضع بازیگران متفاوت است: برخی این را یک حرکت سیاسی می‌دانند، دیگران آن را اقدامی ضروری برای امنیت می‌شمارند.",
-        "analyse_ar": "يرتبط سياق الأحداث بالاتهامات المتكررة ضد ترامب، التي غالبًا ما تكون كاذبة. قد ترتبط أسباب تغيير الطائرات بالأمن أو البروتوكولات الدبلوماسية. قد تؤدي عواقب هذا الإجراء إلى زيادة عدم الثقة بالإدارة الأمريكية. تتوقف الآفاق على رد فعل المجتمع الدولي. تختلف مواقف الأطراف: يرى البعض أنها maneuver سياسي، بينما يعتبرها آخرون إجراءً أمنياً ضرورياً.",
-        "categorie": "Politique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fa623700a0f443d0",
-        "image": "https://biztoc.com/cdn/fa623700a0f443d0_s.webp",
+        "id": "chine_708309",
+        "titre": "Fraude électorale présumée d'un ressortissant chinois",
+        "titre_en": "Chinese National Accused of Voter Fraud",
+        "titre_zh": "华裔公民被控选举欺诈",
+        "titre_ru": "Китайский гражданин обвиняется в двойном мошенничестве на выборах",
+        "titre_fa": "شهروند چینی به تقلب دوگانه در انتخابات متهم شد",
+        "titre_ar": "مُواطن صيني متهم بالاحتيال الانتخابي المزدوج",
+        "titre_original": "DOJ: Chinese National Cast Illegal Ballot, Then Accused Another of Voter Fraud",
+        "resume": "Un ressortissant chinois aurait voté en se faisant passer pour un autre citoyen avant d'accuser cette personne de fraude. Le ministère de la Justice américain a révélé cette affaire. Ce cas illustre les tensions autour des élections de 2024.",
+        "resume_en": "A Chinese national allegedly voted by impersonating another citizen before accusing them of fraud. The US Justice Department revealed this case. This incident highlights tensions surrounding the 2024 elections.",
+        "resume_zh": "一名华裔公民涉嫌冒充他人投票，随后指控该人欺诈。美国司法部披露此案。此事件凸显2024年选举的紧张局势。",
+        "resume_ru": "Министерство юстиции США обвинило гражданина Китая в том, что он сначала проголосовал за другого человека, а затем сообщил о якобы совершённом этим человеком мошенничестве. Инцидент произошёл во время выборов 2024 года. Подробности дела пока не раскрываются.",
+        "resume_fa": "وزارت دادگستری ایالات متحده یک شهروند چینی را متهم کرده است که ابتدا به نام شخص دیگری رای داده و سپس آن شخص را به تقلب انتخاباتی متهم کرده است. این حادثه در جریان انتخابات 2024 رخ داده است. جزئیات پرونده هنوز فاش نشده است.",
+        "resume_ar": "اتهمت وزارة العدل الأمريكية مواطناً صينياً بأنه صوت أولاً باسم شخص آخر ثم أبلغ عن تزوير الانتخابات من قبل ذلك الشخص. وقع الحادث خلال انتخابات عام 2024. لم تُكشف تفاصيل القضية بعد.",
+        "analyse_detaillee": "Cette affaire s'inscrit dans un contexte de polarisation accrue autour des élections américaines, où les accusations de fraude électorale sont devenues un enjeu politique majeur. Les enjeux principaux concernent l'intégrité du processus électoral et la confiance des citoyens dans les institutions. Les causes profondes incluent la montée des discours anti-immigration et la méfiance envers les minorités ethniques dans le débat politique. À court terme, cette affaire pourrait alimenter les théories du complot et renforcer les divisions partisanes. À moyen terme, elle risque d'inciter à des réformes électorales plus strictes, potentiellement discriminatoires. À long terme, cela pourrait éroder davantage la confiance dans le système démocratique américain. Les acteurs comme le Parti républicain utilisent ces affaires pour justifier des restrictions électorales, tandis que les démocrates dénoncent une instrumentalisation politique. Les entreprises de sécurité électorale et les cabinets d'avocats spécialisés en contentieux électoral pourraient en tirer profit.",
+        "analyse_en": "This case fits into a context of heightened polarization around US elections, where allegations of voter fraud have become a major political issue. The main stakes involve the integrity of the electoral process and citizens' trust in institutions. Root causes include the rise of anti-immigration rhetoric and distrust toward ethnic minorities in political debate. In the short term, this case could fuel conspiracy theories and strengthen partisan divisions. In the medium term, it risks prompting stricter, potentially discriminatory, electoral reforms. In the long term, this could further erode trust in the American democratic system. Actors like the Republican Party use these cases to justify electoral restrictions, while Democrats denounce political instrumentalization. Electoral security companies and law firms specializing in electoral disputes could benefit.",
+        "analyse_zh": "此案植根于美国选举日益两极化的背景，选举欺诈指控已成为重大政治议题。主要问题涉及选举过程的完整性和公民对制度的信任。深层原因包括反移民言论升温和对少数族裔的不信任。短期内，此案可能助长阴谋论并加强党派分歧。中期看，可能推动更严格（潜在歧视性）的选举改革。长期则可能进一步侵蚀对美国民主制度的信任。共和党利用此类案件为限制选举辩护，而民主党谴责其政治工具化。选举安全公司和专门处理选举争议的律师事务所可能受益。",
+        "analyse_ru": "Обвинение в двойном мошенничестве на выборах подчёркивает уязвимость избирательных систем США к иностранному вмешательству. Причины такого поведения могут быть связаны с попытками повлиять на результаты выборов или местью. Последствия могут быть серьёзными: подрыв доверия к избирательному процессу и ужесточение контроля. Перспективы зависят от доказательной базы и реакции властей. Позиция Китая официально не комментируется, но такие инциденты часто используются для критики американской системы выборов.",
+        "analyse_fa": "اتهام به تقلب دوگانه در انتخابات اهمیت آسیب‌پذیری سیستم‌های انتخاباتی ایالات متحده در برابر دخالت خارجی را نشان می‌دهد. دلایل چنین رفتاری ممکن است تلاش برای تأثیرگذاری بر نتایج انتخابات یا انتقام باشد. پیامدهای آن می‌تواند جدی باشد: تضعیف اعتماد به فرایند انتخابات و تشدید کنترل‌ها. چشم‌اندازها به شواهد و واکنش مقامات بستگی دارد. موضع چین به طور رسمیCommented نمی‌شود، اما چنین حوادثی اغلب برای انتقاد از سیستم انتخاباتی آمریکا استفاده می‌شوند.",
+        "analyse_ar": "تؤكد التهمة بالاحتيال الانتخابي المزدوج ضعف أنظمة الانتخابات الأمريكية أمام التدخل الأجنبي. قد ترتبط أسباب هذا السلوك بمحاولات التأثير على نتائج الانتخابات أو الانتقام. وقد تكون العواقب خطيرة: تقويض الثقة في العملية الانتخابية وتشديد الرقابة. تعتمد الآفاق على الأدلة ورد فعل السلطات. لم تعلق الصين رسمياً على هذه الحادثة، لكن غالباً ما تُستخدم مثل هذه الحوادث لنقد النظام الانتخابي الأمريكي.",
+        "categorie": "Politique intérieure",
+        "source": "Daily Signal",
+        "url": "https://www.dailysignal.com/2026/08/19/doj-chinese-national-voter-fraud/",
+        "image": "https://static.dailysignalmedia.org/ChinaVote.gif",
         "date": "2026-08-19",
-        "pays": "usa",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ budget de la Maison Blanche",
-            "hausse": false
+            "label": "▲ Secteur des cabinets d'avocats spécialisés",
+            "hausse": true
           },
           {
-            "label": "▲ marché des assurances aéronautiques",
-            "hausse": true
+            "label": "▼ Industrie des sondages politiques",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "budget de la Maison Blanche",
-            "secteur_en": "White House budget",
-            "secteur_zh": "白宫预算",
-            "effet_fr": "L’impact sur le budget de la Maison Blanche pourrait entraîner des réductions ou des réallocations controversées.",
-            "effet_en": "The impact on the White House budget could lead to controversial reductions or reallocations.",
-            "effet_zh": "对白宫预算的影响可能导致有争议的削减或重新分配。",
-            "hausse": false
+            "secteur_fr": "Secteur des cabinets d'avocats spécialisés",
+            "secteur_en": "Specialized law firms sector",
+            "secteur_zh": "专业律师事务所行业",
+            "effet_fr": "Les litiges électoraux et les enquêtes sur la fraude génèrent une demande accrue pour les services juridiques spécialisés.",
+            "effet_en": "Electoral disputes and fraud investigations generate increased demand for specialized legal services.",
+            "effet_zh": "选举争议和欺诈调查推动对专业法律服务的需求增长。",
+            "hausse": true
           },
           {
-            "secteur_fr": "marché des assurances aéronautiques",
-            "secteur_en": "aeronautical insurance market",
-            "secteur_zh": "航空保险市场",
-            "effet_fr": "Les changements d’avions pourraient augmenter les coûts pour les assureurs spécialisés.",
-            "effet_en": "Changes in aircraft could increase costs for specialized insurers.",
-            "effet_zh": "更换飞机可能增加专业保险公司的成本。",
-            "hausse": true
+            "secteur_fr": "Industrie des sondages politiques",
+            "secteur_en": "Political polling industry",
+            "secteur_zh": "政治民调行业",
+            "effet_fr": "Les affaires de fraude électorale alimentent les débats sur la fiabilité des sondages, stimulant temporairement ce secteur.",
+            "effet_en": "Electoral fraud cases fuel debates on polling reliability, temporarily boosting this sector.",
+            "effet_zh": "选举欺诈案推动对民调可靠性的讨论，短暂刺激该行业。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-20T01:08:04.942644"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-20T21:27:13.555717"
+      },
       {
         "id": "chine_876715",
         "titre": "SoundHound AI ou TSMC : quel titre technologique choisir ?",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-19T23:21:47.680638"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_859768",
-        "titre": "Lufax publie ses résultats financiers 2026",
-        "titre_en": "Lufax reports 2026 financial results",
-        "titre_zh": "陆金所发布2026财报",
-        "titre_ru": "Lufax опубликовал финансовые результаты за второй квартал 2026 года",
-        "titre_fa": "لوفکس گزارش مالی سه‌ماهه دوم 2026 را منتشر کرد",
-        "titre_ar": "لوفاكس يعلن عن نتائجها المالية للربع الثاني من 2026",
-        "titre_original": "Lufax Reports Second Quarter 2026 Financial Results",
-        "resume": "Lufax Holding Ltd a publié ses résultats financiers pour le deuxième trimestre 2026. L'entreprise vise un retour à un rythme normal de reporting. Les actions ont réagi positivement sur les marchés.",
-        "resume_en": "Lufax Holding Ltd reported its financial results for the second quarter of 2026. The company aims to return to a normal reporting cadence. Shares reacted positively on the markets.",
-        "resume_zh": "陆金所发布2026年第二季度财报。公司目标恢复正常报告节奏。股价在市场上积极反应。",
-        "resume_ru": "Компания Lufax Holding Ltd опубликовала финансовые результаты за второй квартал 2026 года. Это важный шаг в рамках плана по возвращению к нормальному графику отчётности. Акции компании торгуются на NYSE и HKEX.",
-        "resume_fa": "شرکت لوفکس هولدینگ گزارش مالی سه‌ماهه دوم سال 2026 را منتشر کرد. این اقدام گامی مهم در اجرای برنامه بازگشت به برنامه عادی گزارش‌دهی است. سهام شرکت در بورس‌های NYSE و HKEX معامله می‌شود.",
-        "resume_ar": "أعلنت شركة لوفاكس هولدينغ ليمتد عن نتائجها المالية للربع الثاني من عام 2026. يمثل هذا خطوة مهمة في إطار خطة العودة إلى وتيرة عادية للإبلاغ المالي. تتداول أسهم الشركة في بورصة نيويورك وبورصة هونغ كونغ.",
-        "analyse_detaillee": "Lufax, acteur majeur du secteur fintech en Chine, traverse une période de restructuration après des difficultés réglementaires. Historiquement, le secteur fintech chinois a connu une croissance rapide mais a été freiné par des régulations strictes. Les enjeux incluent la stabilité financière et la confiance des investisseurs. À court terme, cette publication pourrait renforcer la crédibilité de l'entreprise. À moyen terme, Lufax pourrait étendre ses services pour diversifier ses revenus. À long terme, cela dépendra de l'évolution du cadre réglementaire chinois. Les acteurs principaux sont Lufax, les régulateurs chinois et les investisseurs internationaux.",
-        "analyse_en": "Lufax, a major fintech player in China, is going through a restructuring period after regulatory challenges. Historically, China's fintech sector experienced rapid growth but was slowed by strict regulations. Stakes include financial stability and investor confidence. In the short term, this report could strengthen the company's credibility. In the medium term, Lufax could expand its services to diversify revenue. Long-term, this will depend on the evolution of China's regulatory framework. Key actors are Lufax, Chinese regulators, and international investors.",
-        "analyse_zh": "陆金所作为中国金融科技巨头，在监管困境后进入重组期。历史上，中国金融科技行业快速增长但受严格监管阻碍。关键在于金融稳定与投资者信心。短期内，此报告可能增强公司信誉。中期看，陆金所可能扩展服务以多元化收入。长期取决于中国监管框架演变。主要参与者是陆金所、中国监管机构与国际投资者。",
-        "analyse_ru": "Контекст связан с финансовыми рынками Азии, где Lufax пытается восстановить доверие инвесторов после периодов нестабильности. Причина публикации результатов — стремление компании вернуться к стандартному режиму отчётности. Последствия могут быть положительными: рост доверия к акциям и привлечение новых инвесторов. Перспективы зависят от макроэкономической ситуации в Китае и глобальных трендов. Позиции сторон: инвесторы ожидают прозрачности, а руководство компании стремится стабилизировать финансовое положение.",
-        "analyse_fa": "زمینه به بازارهای مالی آسیا بازمی‌گردد، جایی که لوفکس سعی دارد پس از دوره‌های ناپایداری، اعتماد سرمایه‌گذاران را بازیابد. دلیل انتشار گزارش‌ها، تلاش شرکت برای بازگشت به برنامه عادی گزارش‌دهی است. پیامدهای این اقدام می‌تواند مثبت باشد: افزایش اعتماد به سهام و جذب سرمایه‌گذاران جدید. چشم‌اندازها به وضعیت کلان اقتصادی در چین و روندهای جهانی بستگی دارد. موضع بازیگران: سرمایه‌گذاران انتظار شفافیت دارند، در حالی که مدیریت شرکت سعی دارد وضعیت مالی را تثبیت کند.",
-        "analyse_ar": "يرتبط السياق بأسواق المال الآسيوية، حيث تحاول لوفاكس استعادة ثقة المستثمرين بعد فترات عدم الاستقرار. سبب نشر النتائج هو سعي الشركة للعودة إلى وتيرة عادية للإبلاغ المالي. قد تكون للعواقب آثار إيجابية: زيادة الثقة في الأسهم وجذب مستثمرين جدد. تتوقف الآفاق على الوضع الاقتصادي الكلي في الصين والاتجاهات العالمية. مواقف الأطراف: يتوقع المستثمرون الشفافية، بينما تسعى إدارة الشركة إلى استقرار الوضع المالي.",
-        "categorie": "Finance",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/lufax-reports-second-quarter-2026-financial-results-302854312.html",
-        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
-        "date": "2026-08-18",
-        "pays": "chine",
+        "id": "russie_112508",
+        "titre": "Kyiv frappée par des missiles balistiques",
+        "titre_en": "Kyiv Hit by Ballistic Missiles",
+        "titre_zh": "基辅遭弹道导弹袭击",
+        "titre_ru": "Киев атакован баллистическими ракетами",
+        "titre_fa": "کی‌یف مورد حمله موشک‌های بالستیک قرار گرفت",
+        "titre_ar": "كييف تتعرض لهجوم بصواريخ بالستية",
+        "titre_original": "Kyiv under ballistic missile attack",
+        "resume": "La capitale ukrainienne a subi une attaque de missiles balistiques, selon le maire Vitali Klitschko. Les habitants ont été invités à se réfugier dans les abris. Cette frappe survient dans un contexte de tensions militaires persistantes.",
+        "resume_en": "Ukrainian capital Kyiv was hit by ballistic missiles, according to Mayor Vitali Klitschko. Residents were urged to take shelter. This strike occurs amid persistent military tensions.",
+        "resume_zh": "乌克兰首都基辅遭弹道导弹袭击，据市长维塔利·克利奇科称。居民被要求进入避难所。此次袭击发生在持续军事紧张背景下。",
+        "resume_ru": "Столица Украины Киев подверглась атаке баллистическими ракетами, о чём заявил мэр Виталий Кличко. В городе были слышны взрывы, и власти призывают жителей оставаться в убежищах. Подробности о пострадавших пока не сообщаются.",
+        "resume_fa": "پایتخت اوکراین، کی‌یف، مورد حمله موشک‌های بالستیک قرار گرفت که توسط شهردار ویتالی کلیچکو اعلام شد. در شهر انفجارهایی شنیده شد و مقامات از ساکنان خواستند در پناهگاه‌ها بمانند. جزئیات درباره مجروحان هنوز اعلام نشده است.",
+        "resume_ar": "تعرضت العاصمة الأوكرانية كييف لهجوم بصواريخ بالستية، حسبما أعلن عمدة فيتالى كليتشكو. سُمع انفجارات في المدينة، ودعت السلطات السكان إلى البقاء في الملاجئ. لم تُعلن تفاصيل عن الإصابات حتى الآن.",
+        "analyse_detaillee": "Cette attaque s'inscrit dans le prolongement de la guerre en Ukraine, déclenchée par l'invasion russe de février 2022. Les enjeux principaux concernent la résilience civile face aux frappes répétées et la capacité de l'Ukraine à maintenir son infrastructure vitale. Les causes profondes incluent l'escalade militaire russe pour affaiblir le moral ukrainien et tester les défenses occidentales. À court terme, cette frappe pourrait entraîner des pertes humaines et des dégâts matériels majeurs. À moyen terme, elle risque de renforcer la détermination ukrainienne tout en épuisant les ressources de défense. À long terme, cela pourrait accélérer les négociations de paix ou, au contraire, prolonger le conflit. Les acteurs comme l'OTAN soutiennent l'Ukraine militairement, tandis que la Russie cherche à épuiser ses capacités. Les marchés de l'armement et de la reconstruction bénéficient de cette situation, avec une hausse des commandes.",
+        "analyse_en": "This attack is part of the ongoing war in Ukraine, triggered by Russia's February 2022 invasion. The main stakes involve civilian resilience against repeated strikes and Ukraine's ability to maintain vital infrastructure. Root causes include Russian military escalation to weaken Ukrainian morale and test Western defenses. In the short term, this strike could result in major human losses and material damage. In the medium term, it risks strengthening Ukrainian determination while depleting defense resources. In the long term, this could accelerate peace negotiations or, conversely, prolong the conflict. Actors like NATO support Ukraine militarily, while Russia seeks to exhaust its capabilities. The arms and reconstruction markets benefit from this situation, with increased orders.",
+        "analyse_zh": "此次袭击是乌克兰战争的延续，起因于俄罗斯2022年2月的入侵。主要问题涉及平民对 repeated strikes 的韧性以及乌克兰维持关键基础设施的能力。深层原因包括俄罗斯为削弱乌克兰士气和测试西方防御而进行的军事升级。短期内，此次袭击可能造成重大人员伤亡和物质损失。中期看，可能在消耗防御资源的同时增强乌克兰的决心。长期则可能加速和平谈判或相反延长冲突。北约等行为体军事支持乌克兰，而俄罗斯试图耗尽其能力。军火和重建市场从中受益，订单增加。",
+        "analyse_ru": "Атака на Киев стала частью продолжающегося вооружённого конфликта между Украиной и Россией. Причины таких атак связаны с попытками дестабилизировать ситуацию и ослабить украинскую инфраструктуру. Последствия могут быть тяжёлыми: гибель мирных жителей, разрушение объектов гражданской инфраструктуры. Перспективы зависят от переговоров и международной поддержки Украины. Позиция России официально не комментируется, но такие атаки часто оправдываются как «удары по военным объектам». Вопрос остаётся открытым: как долго будет продолжаться эскалация насилия.",
+        "analyse_fa": "حمله به کی‌یف بخشی از درگیری مسلحانه مداوم بین اوکراین و روسیه است. دلایل چنین حملاتی تلاش برای بی‌ثبات کردن وضعیت و تضعیف زیرساخت‌های اوکراین است. پیامدهای آن می‌تواند شدید باشد: کشته شدن غیرنظامیان و تخریب زیرساخت‌های شهری. چشم‌اندازها به مذاکرات و حمایت بین‌المللی از اوکراین بستگی دارد. موضع روسیه به طور رسمیCommented نمی‌شود، اما چنین حملاتی اغلب به عنوان «ضربات به اهداف نظامی» توجیه می‌شوند. این سؤال همچنان باز است: چه مدت این تشدید خشونت ادامه خواهد داشت.",
+        "analyse_ar": "أصبحت هجمة كييف جزءاً من الصراع المسلح الدائر بين أوكرانيا وروسيا. ترتبط أسباب مثل هذه الهجمات بمحاولات زعزعة الاستقرار وإضعاف البنية التحتية الأوكرانية. وقد تكون العواقب وخيمة: مقتل مدنيين وتدمير مرافق البنية التحتية المدنية. تعتمد الآفاق على المفاوضات والدعم الدولي لأوكرانيا. لم تعلق روسيا رسمياً على هذه الهجمات، لكن غالباً ما تُبرر مثل هذه الهجمات باعتبارها «ضربات على الأهداف العسكرية». يبقى السؤال مفتوحاً: إلى متى ستستمر تصعيد العنف؟",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/879ce29ada3dbdb5",
+        "image": "https://biztoc.com/cdn/879ce29ada3dbdb5_s.webp",
+        "date": "2026-08-19",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Fintech et services financiers",
+            "label": "▲ Industrie de l'armement",
             "hausse": true
           },
           {
-            "label": "▲ Marché boursier chinois",
+            "label": "▲ Marché de la reconstruction",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Fintech et services financiers",
-            "secteur_en": "Fintech and financial services",
-            "secteur_zh": "金融科技与金融服务",
-            "effet_fr": "La publication des résultats pourrait attirer de nouveaux investisseurs dans le secteur fintech chinois.",
-            "effet_en": "The results publication could attract new investors to China's fintech sector.",
-            "effet_zh": "财报发布可能吸引新投资者进入中国金融科技行业。",
+            "secteur_fr": "Industrie de l'armement",
+            "secteur_en": "Arms industry",
+            "secteur_zh": "军火行业",
+            "effet_fr": "Les commandes d'armes et de systèmes de défense augmentent, stimulant la croissance des entreprises du secteur.",
+            "effet_en": "Orders for weapons and defense systems are rising, boosting sector growth.",
+            "effet_zh": "武器和防御系统订单上升，推动行业增长。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché boursier chinois",
-            "secteur_en": "Chinese stock market",
-            "secteur_zh": "中国股票市场",
-            "effet_fr": "La confiance des investisseurs dans les entreprises fintech pourrait s'améliorer.",
-            "effet_en": "Investor confidence in fintech companies could improve.",
-            "effet_zh": "投资者对金融科技公司的信心可能改善。",
+            "secteur_fr": "Marché de la reconstruction",
+            "secteur_en": "Reconstruction market",
+            "secteur_zh": "重建市场",
+            "effet_fr": "Les destructions massives créent une demande croissante pour les matériaux et services de reconstruction.",
+            "effet_en": "Massive destruction creates growing demand for reconstruction materials and services.",
+            "effet_zh": "大规模破坏推动重建材料和服务需求增长。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-19T22:23:36.194007"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-20T21:27:13.555707"
+      },
       {
         "id": "russie_636017",
         "titre": "L'Ukraine lance une attaque massive de drones sur Moscou",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-19T23:21:47.680647"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_230116",
-        "titre": "Drones ukrainiens surpassent le système russe",
-        "titre_en": "Ukrainian drones overwhelm Russian tanks",
-        "titre_zh": "乌克兰无人机压制俄罗斯坦克",
-        "titre_ru": "Украинские дроны преодолевают новую систему защиты танков России",
-        "titre_fa": "پهپادهای اوکراینی سیستم حفاظتی جدید تانک‌های روسیه را شکست دادند",
-        "titre_ar": "الطائرات المسيرة الأوكرانية تتغلب على نظام الحماية النشط الجديد لدبابات روسيا",
-        "titre_original": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
-        "resume": "Les drones ukrainiens ont percé les défenses russes, mettant en échec le nouveau système de protection active des chars. Cette avancée pourrait modifier la dynamique du champ de bataille. Les marchés financiers réagissent avec optimisme.",
-        "resume_en": "Ukrainian drones breached Russian defenses, overwhelming the tanks' new active protection system. This breakthrough could shift battlefield dynamics. Financial markets reacted with optimism.",
-        "resume_zh": "乌克兰无人机突破俄罗斯防线，压制坦克新型主动防护系统。此突破可能改变战场态势。金融市场反应乐观。",
-        "resume_ru": "Украинские беспилотники сумели прорвать новую систему активной защиты российских танков. Это может изменить динамику боевых действий на фронте. Эксперты отмечают рост уверенности Украины и укрепление её позиций.",
-        "resume_fa": "پهپادهای اوکراینی توانستند سیستم حفاظتی فعال جدید تانک‌های روسی را شکست دهند. این اتفاق می‌تواند تعادل battlefield را تغییر دهد. کارشناسان افزایش اعتماد اوکراین و تقویت موقعیت استراتژیک آن را پیش‌بینی می‌کنند.",
-        "resume_ar": "تمكنت الطائرات المسيرة الأوكرانية من اختراق نظام الحماية النشط الجديد لدبابات روسيا. قد يؤدي هذا إلى تغيير ديناميكيات ساحة المعركة. يلاحظ الخبراء ارتفاع ثقة أوكرانيا وتعزيز موقفها الاستراتيجي.",
-        "analyse_detaillee": "La guerre en Ukraine a révélé les limites des systèmes de défense russes, malgré des investissements massifs. Les drones, moins coûteux et plus flexibles, deviennent un atout stratégique pour Kiev. Historiquement, les innovations militaires ont souvent redéfini les rapports de force. Les enjeux incluent la supériorité technologique et la capacité à innover rapidement. À court terme, la Russie pourrait renforcer ses défenses ou développer de nouvelles contre-mesures. À moyen terme, cette avancée pourrait encourager d'autres pays à investir dans des technologies similaires. À long terme, cela pourrait accélérer la course aux armements automatisés. Les acteurs principaux sont l'Ukraine, la Russie et leurs alliés respectifs.",
-        "analyse_en": "The war in Ukraine has exposed the limitations of Russian defense systems despite massive investments. Drones, being cheaper and more flexible, are becoming a strategic asset for Kiev. Historically, military innovations have often redefined power dynamics. The stakes include technological superiority and the ability to innovate quickly. In the short term, Russia may strengthen its defenses or develop new countermeasures. In the medium term, this breakthrough could encourage other countries to invest in similar technologies. Long-term, it could accelerate the race for automated weapons. Key actors are Ukraine, Russia, and their respective allies.",
-        "analyse_zh": "乌克兰战争暴露了俄罗斯防务系统的局限性，尽管投入巨大。无人机成本更低且更灵活，成为基辅的战略资产。历史上，军事创新常重新定义力量对比。关键在于技术优势和快速创新能力。短期内，俄罗斯可能加强防务或开发新对策。中期看，此突破可能促使其他国家投资类似技术。长期而言，或加速自动化武器竞赛。主要参与者是乌克兰、俄罗斯及其盟友。",
-        "analyse_ru": "Контекст ситуации связан с продолжающимися боевыми действиями на Украине, где российские танки оснащены новейшими системами защиты. Причины прорыва кроются в тактической гибкости украинских дронов и их способности обходить защиту. Последствия могут быть значительными: ослабление российской обороны и усиление позиций Украины. Перспективы зависят от того, сумеет ли Россия адаптировать свои технологии или Украина разработает новые контрмеры. Позиции сторон: Россия стремится сохранить преимущество в бронетехнике, а Украина использует инновации для компенсации численного превосходства противника.",
-        "analyse_fa": "زمینه این رویداد به نبردهای جاری در اوکراین بازمی‌گردد، جایی که تانک‌های روسی مجهز به پیشرفته‌ترین سیستم‌های دفاعی هستند. دلایل شکست سیستم‌های دفاعی به انعطاف‌پذیری تاکتیکی پهپادهای اوکراینی و توانایی آنها در دور زدن موانع بازمی‌گردد. پیامدهای این اتفاق می‌تواند بسیار مهم باشد: تضعیف دفاع روسیه و تقویت موقعیت اوکراین. چشم‌اندازها به این بستگی دارد که آیا روسیه بتواند فناوری‌های خود را بهبود بخشد یا اوکراین اقدامات متقابلی را توسعه دهد. موضع بازیگران: روسیه در تلاش است تا برتری خود در زره‌پوش‌ها را حفظ کند، در حالی که اوکراین از نوآوری‌ها برای جبران برتری عددی دشمن استفاده می‌کند.",
-        "analyse_ar": "يرتبط سياق هذا الوضع بالمعارك الدائرة في أوكرانيا، حيث زُوِّدت الدبابات الروسية بأحدث أنظمة الحماية. تكمن أسباب الاختراق في المرونة التكتيكية للطائرات المسيرة الأوكرانية وقدرتها على تجاوز الدفاعات. قد تكون للعواقب آثار كبيرة: ضعف الدفاعات الروسية وتعزيز موقف أوكرانيا. تتوقف الآفاق على ما إذا تمكنت روسيا من تكييف تقنياتها أو طورت أوكرانيا تدابير مضادة جديدة. مواقف الأطراف: تسعى روسيا للحفاظ على ميزة الدبابات، بينما تستخدم أوكرانيا الابتكارات لتعويض التفوق العددي للعدو.",
+        "id": "iran_720367",
+        "titre": "Les Émirats isolent l'Iran par un embargo commercial",
+        "titre_en": "UAE Isolates Iran with Trade Embargo",
+        "titre_zh": "阿联酋通过贸易禁运孤立伊朗",
+        "titre_ru": "ОАЭ присоединяется к международной изоляции Ирана",
+        "titre_fa": "امارات به تلاش‌های جهانی برای منزوی کردن ایران پیوست",
+        "titre_ar": "الإمارات تنضم إلى الجهود العالمية لعزل إيران",
+        "titre_original": "UAE Joins Global Efforts to Isolate Iran",
+        "resume": "Abu Dhabi impose un embargo commercial pour forcer Téhéran à céder sur la scène internationale. Cette mesure s'inscrit dans une stratégie régionale de containment de l'influence iranienne. Les tensions entre les deux pays restent vives.",
+        "resume_en": "Abu Dhabi is imposing a trade embargo to force Tehran to yield on the international stage. This measure is part of a regional strategy to contain Iranian influence. Tensions between the two countries remain high.",
+        "resume_zh": "阿布扎比实施贸易禁运，迫使德黑兰在国际舞台上让步。此举是遏制伊朗影响力的地区战略一部分。两国紧张局势依然高涨。",
+        "resume_ru": "Абу-Даби намерен изолировать Иран с помощью торгового эмбарго, надеясь, что это заставит Тегеран пойти на уступки. Решение связано с напряжёнными отношениями между странами и международными санкциями против Ирана. Последствия могут быть значительными для региональной экономики.",
+        "resume_fa": "ابوظبی قصد دارد با تحریم تجاری، ایران را منزوی کند و امیدوار است که این امر تهران را به پذیرش خواسته‌ها وادارد. این تصمیم با تنش‌های موجود بین دو کشور و تحریم‌های بین‌المللی علیه ایران مرتبط است. پیامدهای آن می‌تواند برای اقتصاد منطقه‌ای بسیار مهم باشد.",
+        "resume_ar": "تنوي أبو ظبي عزل إيران من خلال الحصار التجاري، أملاً في أن يجبر طهران على تقديم تنازلات. ويرتبط هذا القرار بالتوترات القائمة بين البلدين والعقوبات الدولية ضد إيران. وقد تكون العواقب كبيرة على الاقتصاد الإقليمي.",
+        "analyse_detaillee": "Cette initiative s'inscrit dans un contexte de rivalité géopolitique accrue au Moyen-Orient, où les Émirats arabes unis et l'Arabie saoudite cherchent à contrer l'influence iranienne. Les enjeux principaux concernent la stabilité régionale et la réduction de l'influence des milices pro-iraniennes. Les causes profondes incluent la montée des tensions sectaires (sunnites vs chiites) et la course aux alliances stratégiques post-printemps arabes. À court terme, cet embargo pourrait aggraver la crise économique iranienne, déjà sous pression des sanctions américaines. À moyen terme, il risque de renforcer les alliances entre l'Iran et la Russie ou la Chine, créant un axe anti-occidental. À long terme, cela pourrait mener à une escalade militaire ou, au contraire, à des négociations sous pression. Les acteurs comme les États-Unis soutiennent discrètement cette stratégie, tandis que l'Iran dénonce une agression économique. Les pays exportateurs de pétrole du Golfe pourraient bénéficier d'une réorientation des flux commerciaux, tandis que l'Iran souffrirait de pénuries.",
+        "analyse_en": "This initiative fits into a context of heightened geopolitical rivalry in the Middle East, where the UAE and Saudi Arabia seek to counter Iranian influence. The main stakes involve regional stability and reducing the influence of pro-Iranian militias. Root causes include rising sectarian tensions (Sunni vs. Shia) and the post-Arab Spring race for strategic alliances. In the short term, this embargo could worsen Iran's economic crisis, already under pressure from US sanctions. In the medium term, it risks strengthening alliances between Iran, Russia, and China, creating an anti-Western axis. In the long term, this could lead to military escalation or, conversely, negotiations under pressure. Actors like the US discreetly support this strategy, while Iran denounces economic aggression. Gulf oil-exporting countries could benefit from a reorientation of trade flows, while Iran would suffer from shortages.",
+        "analyse_zh": "此举植根于中东日益激烈的地缘政治竞争背景，阿联酋和沙特试图抵消伊朗影响力。主要问题涉及地区稳定和削弱亲伊朗民兵的影响。深层原因包括教派紧张局势上升（逊尼派vs什叶派）和阿拉伯之春后的战略联盟竞赛。短期内，此禁运可能加剧伊朗经济危机（已受美国制裁压力）。中期看，可能加强伊朗与俄罗斯或中国的联盟，形成反西方轴心。长期则可能导致军事升级或相反在压力下进行谈判。美国等行为体暗中支持此战略，而伊朗谴责经济侵略。海湾石油出口国可能从贸易流重新定向中受益，而伊朗将遭受短缺之苦。",
+        "analyse_ru": "Решение ОАЭ присоединиться к международной изоляции Ирана отражает растущее давление на Тегеран со стороны арабских государств. Причины такого шага связаны с ядерной программой Ирана, его региональной политикой и поддержкой террористических группировок. Последствия могут быть разными: либо Иран пойдёт на уступки, либо конфликт перейдёт в экономическую войну. Перспективы зависят от единства международного сообщества и позиции Китая и России. Позиция Ирана традиционно отрицательная, но экономическое давление может заставить его пересмотреть свою политику.",
+        "analyse_fa": "تصمیم امارات برای پیوستن به تلاش‌های جهانی برای منزوی کردن ایران نشان‌دهنده فشار فزاینده بر تهران از سوی کشورهای عربی است. دلایل این اقدام به برنامه هسته‌ای ایران، سیاست منطقه‌ای آن و حمایت از گروه‌های تروریستی مربوط می‌شود. پیامدهای آن می‌تواند متفاوت باشد: یا ایران تن به خواسته‌ها خواهد داد یا این مناقشه به جنگ اقتصادی تبدیل خواهد شد. چشم‌اندازها به وحدت جامعه بین‌المللی و موضع چین و روسیه بستگی دارد. موضع ایران به طور سنتی منفی است، اما فشار اقتصادی ممکن است آن را به بازنگری در سیاست خود وادارد.",
+        "analyse_ar": "يعكس قرار الإمارات بالانضمام إلى الجهود العالمية لعزل إيران الضغط المتزايد على طهران من قبل الدول العربية. ترتبط أسباب هذه الخطوة ببرنامج إيران النووي وسياستها الإقليمية ودعمها للمجموعات الإرهابية. وقد تكون العواقب مختلفة: إما أن تقدم إيران تنازلات أو يتحول النزاع إلى حرب اقتصادية. تعتمد الآفاق على وحدة المجتمع الدولي وموقف الصين وروسيا. الموقف الإيراني تقليدياً سلبي، لكن الضغط الاقتصادي قد يجبرها على إعادة النظر في سياستها.",
         "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-systemfor-now/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/18182036/the-menace-of-misunderstanding-learning-the-wrong-lessons-fr-2-1-800x420.jpeg",
-        "date": "2026-08-18",
-        "pays": "russie",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/08/19/uae-iran-trade-financial-embargo-missile-strikes-war/",
+        "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/IranUAETrade-GettyImages-2264005575.jpg",
+        "date": "2026-08-19",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Défense et armement",
+            "label": "▲ Secteur pétrolier du Golfe",
             "hausse": true
           },
           {
-            "label": "▲ Marchés financiers",
-            "hausse": true
+            "label": "▼ Industrie pharmaceutique iranienne",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Défense et armement",
-            "secteur_en": "Defense and armament",
-            "secteur_zh": "国防与军备",
-            "effet_fr": "Les investissements dans les systèmes de protection active des chars pourraient augmenter, stimulant le secteur.",
-            "effet_en": "Investments in active tank protection systems could rise, boosting the sector.",
-            "effet_zh": "主动坦克防护系统投资可能上升，推动该行业发展。",
+            "secteur_fr": "Secteur pétrolier du Golfe",
+            "secteur_en": "Gulf oil sector",
+            "secteur_zh": "海湾石油行业",
+            "effet_fr": "Les pays du Golfe pourraient capter une partie des exportations iraniennes, augmentant leurs parts de marché.",
+            "effet_en": "Gulf countries could capture some of Iran's exports, increasing their market share.",
+            "effet_zh": "海湾国家可能接管部分伊朗出口，增加市场份额。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marchés financiers",
-            "secteur_en": "Financial markets",
-            "secteur_zh": "金融市场",
-            "effet_fr": "La confiance des investisseurs pourrait se renforcer en raison des avancées ukrainiennes.",
-            "effet_en": "Investor confidence could strengthen due to Ukrainian advances.",
-            "effet_zh": "乌克兰进展可能增强投资者信心。",
-            "hausse": true
+            "secteur_fr": "Industrie pharmaceutique iranienne",
+            "secteur_en": "Iranian pharmaceutical industry",
+            "secteur_zh": "伊朗制药行业",
+            "effet_fr": "L'embargo aggrave les pénuries de médicaments essentiels, paralysant partiellement ce secteur déjà fragile.",
+            "effet_en": "The embargo worsens shortages of essential medicines, partially paralyzing this already fragile sector.",
+            "effet_zh": "禁运加剧基本药品短缺，部分瘫痪本已脆弱的行业。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-19T22:23:36.193944"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-20T21:27:13.555726"
+      },
       {
         "id": "iran_132456",
         "titre": "Opération secrète américaine pour transporter du pétrole via Hormuz",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-19T22:23:36.193997"
-      },
-      {
-        "id": "iran_670381",
-        "titre": "Actions MACOM, Seagate et Entegris en baisse",
-        "titre_en": "MACOM, Seagate, Entegris stocks fall",
-        "titre_zh": "MACOM、希捷、安捷伦股价下跌",
-        "titre_ru": "MACOM, Seagate, and Entegris Stocks Trade Down, What You Need To Know",
-        "titre_fa": "MACOM, Seagate, and Entegris Stocks Trade Down, What You Need To Know",
-        "titre_ar": "MACOM, Seagate, and Entegris Stocks Trade Down, What You Need To Know",
-        "titre_original": "MACOM, Seagate, and Entegris Stocks Trade Down, What You Need To Know",
-        "resume": "Les actions de MACOM, Seagate et Entegris ont chuté en séance matinale. La hausse des taux obligataires américains à 19 ans et le prix élevé du pétrole ont pesé sur les marchés. Les négociations entre les États-Unis et l'Iran n'ont pas abouti.",
-        "resume_en": "MACOM, Seagate, and Entegris stocks fell in the morning session. Rising U.S. 30-year Treasury yields at a 19-year high and elevated oil prices impacted markets. U.S.-Iran negotiations failed to yield a breakthrough.",
-        "resume_zh": "MACOM、希捷和安捷伦股价在早盘下跌。美国30年期国债收益率创19年新高且油价高企，影响了市场。美伊谈判未取得突破。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "La hausse des taux obligataires américains reflète une politique monétaire restrictive de la Fed. Le pétrole reste élevé en raison des tensions géopolitiques, notamment autour de l'Iran. Les négociations nucléaires échouées aggravent l'incertitude économique. À court terme, les secteurs technologiques comme les semi-conducteurs (MACOM) souffrent de la volatilité. Les entreprises de stockage (Seagate) et de composants (Entegris) subissent aussi des pressions. À moyen terme, cela pourrait ralentir les investissements technologiques. Long terme, une stabilisation des prix de l'énergie serait cruciale. Les acteurs clés incluent les banques centrales, les producteurs de pétrole et les gouvernements.",
-        "analyse_en": "Rising U.S. Treasury yields reflect the Fed's restrictive monetary policy. Oil prices remain high due to geopolitical tensions, particularly involving Iran. Failed nuclear negotiations worsen economic uncertainty. In the short term, tech sectors like semiconductors (MACOM) suffer from volatility. Storage (Seagate) and component (Entegris) companies also face pressure. Medium-term, this could slow tech investments. Long-term, stabilizing energy prices would be crucial. Key players include central banks, oil producers, and governments.",
-        "analyse_zh": "美国国债收益率上升反映了美联储的紧缩货币政策。地缘政治紧张局势，尤其是涉及伊朗的局势，导致油价居高不下。失败的核谈判加剧了经济不确定性。短期内，半导体等科技行业（MACOM）因波动性而受苦。存储（希捷）和元器件（安捷伦）公司也面临压力。中期来看，这可能放缓科技投资。长期而言，稳定能源价格至关重要。主要参与者包括央行、石油生产商和政府。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Économie",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e9d39ddcf580a161",
-        "image": "https://biztoc.com/cdn/e9d39ddcf580a161_s.webp",
-        "date": "2026-08-18",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Semi-conducteurs",
-            "hausse": false
-          },
-          {
-            "label": "▼ Stockage de données",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Semi-conducteurs",
-            "secteur_en": "Semiconductors",
-            "secteur_zh": "半导体",
-            "effet_fr": "La volatilité des taux et du pétrole augmente les coûts de production pour les fabricants de puces.",
-            "effet_en": "Rate and oil volatility raises production costs for chip manufacturers.",
-            "effet_zh": "利率和油价波动增加了芯片制造商的生产成本。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Stockage de données",
-            "secteur_en": "Data storage",
-            "secteur_zh": "数据存储",
-            "effet_fr": "Les entreprises de stockage voient leurs marges réduites en raison de la baisse des investissements technologiques.",
-            "effet_en": "Data storage companies see margins shrink due to lower tech investments.",
-            "effet_zh": "数据存储公司因科技投资减少而面临利润收缩。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-19T21:24:53.515905"
       }
     ]
   },
