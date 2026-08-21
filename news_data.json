@@ -1,7 +1,66 @@
 {
-  "last_updated": "21/08/2026 à 06h43",
+  "last_updated": "21/08/2026 à 07h48",
   "articles": {
     "monde": [
+      {
+        "id": "monde_986124",
+        "titre": "CBL International affiche des résultats solides au 1S 2026",
+        "titre_en": "CBL International Reports Strong 1H 2026 Results",
+        "titre_zh": "CBL国际2026年上半年业绩强劲",
+        "titre_ru": "CBL International Reports Strong 1H 2026 Results",
+        "titre_fa": "CBL International Reports Strong 1H 2026 Results",
+        "titre_ar": "CBL International Reports Strong 1H 2026 Results",
+        "titre_original": "CBL International Reports Strong 1H 2026 Results",
+        "resume": "CBL International Limited, société cotée à Nasdaq sous le symbole BANL, annonce des résultats financiers robustes pour le premier semestre 2026. Cette performance reflète la solidité du groupe Banle, dont CBL est le véhicule de cotation. Les investisseurs saluent ces chiffres malgré un contexte économique incertain.",
+        "resume_en": "CBL International Limited (Nasdaq: BANL), the listing vehicle of Banle Group, reported strong financial results for the first half of 2026. The performance highlights the resilience of the Banle Group amid uncertain economic conditions. Investors have responded positively to the announcement.",
+        "resume_zh": "纳斯达克上市公司CBL International Limited（代码：BANL）在2026年上半年报告了强劲的财务业绩。这一表现凸显了Banle集团在不确定经济环境下的韧性。投资者对这一公告反响积极。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "CBL International, en tant que véhicule de cotation, reflète la santé financière du groupe Banle, spécialisé dans les services financiers et les investissements. Ses résultats solides au 1S 2026 s'inscrivent dans un contexte de reprise post-pandémie et de tensions géopolitiques persistantes. Les enjeux principaux incluent la stabilité des marchés boursiers et la confiance des investisseurs. Les causes profondes de cette performance résident dans une gestion rigoureuse et une diversification des actifs. À court terme, cette annonce pourrait renforcer la valorisation de l'action BANL et attirer de nouveaux capitaux. À moyen terme, une croissance soutenue dépendra de la capacité à maintenir cette dynamique dans un environnement économique volatile. À long terme, le groupe pourrait étendre son influence sur les marchés émergents, notamment en Asie. Les acteurs clés, comme les actionnaires et les régulateurs boursiers, surveilleront de près cette performance pour ajuster leurs stratégies.",
+        "analyse_en": "CBL International, as a listing vehicle, reflects the financial health of the Banle Group, which specializes in financial services and investments. Its strong 1H 2026 results come amid a post-pandemic recovery and ongoing geopolitical tensions. The main stakes include stock market stability and investor confidence. The root causes of this performance lie in rigorous management and asset diversification. In the short term, this announcement could boost BANL stock valuation and attract new capital. Over the medium term, sustained growth will depend on maintaining this momentum in a volatile economic environment. Long-term prospects may see the group expand its influence in emerging markets, particularly in Asia. Key actors, such as shareholders and stock market regulators, will closely monitor this performance to adjust their strategies.",
+        "analyse_zh": "作为上市平台，CBL International反映了Banle集团的财务健康状况，该集团专注于金融服务和投资。其2026年上半年的强劲业绩出现在后疫情复苏和持续地缘政治紧张的背景下。主要影响包括股市稳定性和投资者信心。业绩的深层原因在于严格的管理和资产多元化。短期内，这一公告可能提升BANL股价估值并吸引新资本。中期来看，在动荡的经济环境中维持增长动力将决定其持续发展。长期来看，集团可能在新兴市场（尤其是亚洲）扩大影响力。关键参与者如股东和监管机构将密切关注这一业绩以调整策略。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/427889/cbl-international-reports-strong-1h-2026-results",
+        "image": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
+        "date": "2026-08-20",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché boursier (Nasdaq)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur des investissements institutionnels",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier (Nasdaq)",
+            "secteur_en": "Stock market (Nasdaq)",
+            "secteur_zh": "纳斯达克股票市场",
+            "effet_fr": "Les résultats solides de CBL International pourraient renforcer la confiance des investisseurs et stimuler les transactions sur le marché boursier, notamment pour les actions liées aux services financiers.",
+            "effet_en": "CBL International's strong results could bolster investor confidence and boost trading activity in the stock market, particularly for financial services-related stocks.",
+            "effet_zh": "CBL International的强劲业绩可能增强投资者信心，推动股票市场交易活动，特别是金融服务相关股票。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des investissements institutionnels",
+            "secteur_en": "Institutional investment sector",
+            "secteur_zh": "机构投资行业",
+            "effet_fr": "Une performance positive pourrait inciter les fonds institutionnels à réallouer leurs portefeuilles vers des actifs similaires, soutenant ainsi la liquidité du secteur.",
+            "effet_en": "Positive performance could prompt institutional funds to reallocate their portfolios toward similar assets, thereby supporting sector liquidity.",
+            "effet_zh": "优异的业绩可能促使机构基金重新配置投资组合，转向类似资产，从而支持行业流动性。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-21T07:48:35.502780"
+      },
       {
         "id": "monde_102369",
         "titre": "Citation d'Einstein : l'imagination prime le savoir",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-20T10:29:32.033483"
-      },
-      {
-        "id": "monde_67678",
-        "titre": "Étudiant écossais invente un drone médical",
-        "titre_en": "Scottish student builds low-cost medical drone",
-        "titre_zh": "苏格兰学生发明低成本医疗无人机",
-        "titre_ru": "Канав Джайн: шотландский студент создал дешёвый дрон для доставки лекарств",
-        "titre_fa": "کاناو جین: دانشجوی اسکاتلندی که پهپاد ارزان برای ارسال دارو ساخت",
-        "titre_ar": "كاناف جاين: طالب اسكتلندي ابتكر طائرة بدون طيار منخفضة التكلفة لتوصيل الأدوية",
-        "titre_original": "Meet Kanav Jain: Scottish student who built a low-cost autonomous aircraft to deliver medicines to remote communities",
-        "resume": "Kanav Jain, étudiant écossais, a remporté le prix du Jeune Ingénieur de l'Année au Royaume-Uni pour son projet AeroAid. Ce drone autonome et peu coûteux vise à livrer des médicaments dans les zones reculées. Son innovation pourrait révolutionner l'accès aux soins dans les régions isolées.",
-        "resume_en": "Kanav Jain, a Scottish student, won the UK Young Engineer of the Year award for his AeroAid project. This low-cost autonomous drone aims to deliver medicines to remote areas. His innovation could revolutionize healthcare access in isolated regions.",
-        "resume_zh": "苏格兰学生Kanav Jain凭借AeroAid项目获得英国年度青年工程师奖。这款低成本自主无人机旨在向偏远地区运送药品。他的创新可能彻底改变这些地区的医疗服务。",
-        "resume_ru": "Канав Джайн, талантливый шотландский студент, был удостоен престижной премии «Молодой инженер Великобритании года». Он разработал инновационный автономный дрон AeroAid, предназначенный для доставки медицинских грузов в удалённые населённые пункты. Проект направлен на решение проблемы нехватки медицинской помощи в труднодоступных регионах.",
-        "resume_fa": "کاناو جین، دانشجوی بااستعداد اسکاتلندی، جایزه «مهندس جوان سال بریتانیا» را دریافت کرد. او پهپاد خودران ارزان‌قیمت AeroAid را طراحی کرده که برای ارسال دارو به مناطق دورافتاده استفاده می‌شود. این پروژه به حل مشکل دسترسی به مراقبت‌های پزشکی در مناطق صعب‌الوصول کمک می‌کند.",
-        "resume_ar": "حصل كاناف جاين، الطالب الاسكتلندي الموهوب، على جائزة «المهندس الشاب لسنة بريطانيا». وقد ابتكر طائرة بدون طيار مستقلة منخفضة التكلفة تُسمى AeroAid مخصصة لتوصيل الإمدادات الطبية إلى المجتمعات النائية. يهدف المشروع إلى معالجة مشكلة نقص الرعاية الطبية في المناطق البعيدة.",
-        "analyse_detaillee": "Kanav Jain incarne l'innovation technologique portée par les jeunes générations, dans un contexte où l'accès aux soins reste un défi mondial, notamment dans les pays en développement. Son projet répond à un besoin criant de logistique médicale, où les drones pourraient combler les lacunes des infrastructures traditionnelles. Les enjeux principaux incluent la réduction des coûts, l'autonomie des systèmes et l'adaptation aux terrains difficiles. Les causes profondes remontent à l'insuffisance des réseaux de transport dans les zones rurales et aux inégalités d'accès aux soins. À court terme, AeroAid pourrait sauver des vies en accélérant les livraisons, mais son déploiement massif dépendra des financements et des régulations. À moyen terme, une adoption généralisée pourrait inspirer d'autres innovations similaires dans le secteur médical. À long terme, cette technologie pourrait transformer la médecine préventive et d'urgence dans les régions les plus isolées. Les acteurs incluent les gouvernements, les ONG, les investisseurs privés et les institutions de santé publique.",
-        "analyse_en": "Kanav Jain embodies the technological innovation driven by younger generations, in a context where access to healthcare remains a global challenge, particularly in developing countries. His project addresses a critical need for medical logistics, where drones could fill gaps left by traditional infrastructure. The main stakes include cost reduction, system autonomy, and adaptation to difficult terrains. The root causes trace back to insufficient transport networks in rural areas and inequalities in healthcare access. In the short term, AeroAid could save lives by speeding up deliveries, but its widespread deployment will depend on funding and regulations. In the medium term, broad adoption could inspire similar innovations in the medical sector. In the long term, this technology could revolutionize preventive and emergency medicine in the most isolated regions. Key actors include governments, NGOs, private investors, and public health institutions.",
-        "analyse_zh": "Kanav Jain代表了年轻一代推动的技术创新，在医疗服务仍是全球挑战的背景下，特别是在发展中国家。他的项目解决了医疗物流的迫切需求，无人机可能弥补传统基础设施的不足。主要影响包括降低成本、系统自主性以及对复杂地形的适应。深层原因可追溯到农村地区运输网络不足和医疗服务不平等。短期内，AeroAid可能通过加快配送挽救生命，但大规模部署取决于资金和监管。中期来看，广泛采用可能激发医疗领域的其他类似创新。长期而言，这项技术可能彻底改变偏远地区的预防和急诊医疗。主要参与者包括政府、非政府组织、私人投资者和公共卫生机构。",
-        "analyse_ru": "Канав Джайн стал символом молодых инноваторов, способных решать глобальные проблемы с помощью технологий. Его проект AeroAid демонстрирует, как автономные дроны могут революционизировать систему здравоохранения, особенно в регионах с ограниченной инфраструктурой. Награждение «Молодым инженером года» подчёркивает важность поддержки молодых талантов в науке и технике. В будущем такие решения могут получить широкое распространение, особенно в странах с развивающейся экономикой. Однако остаются вопросы о безопасности полётов, регулировании воздушного пространства и стоимости внедрения подобных технологий.",
-        "analyse_fa": "کاناو جین نماد نوآوران جوان است که با استفاده از فناوری، مشکلات جهانی را حل می‌کنند. پروژه AeroAid نشان می‌دهد پهپادهای خودران چگونه می‌توانند نظام سلامت را متحول کنند، به‌ویژه در مناطقی با زیرساخت‌های محدود. دریافت جایزه «مهندس جوان سال» اهمیت حمایت از استعدادهای جوان در علم و فناوری را برجسته می‌کند. در آینده، چنین راه‌حل‌هایی می‌توانند گسترش یابند، به‌خصوص در کشورهای در حال توسعه. با این حال، سؤالاتی درباره امنیت پرواز، مقررات فضای هوایی و هزینه‌های پیاده‌سازی این فناوری‌ها باقی است.",
-        "analyse_ar": "كاناف جاين يمثل رمز المبتكرين الشباب القادرين على حل المشكلات العالمية باستخدام التكنولوجيا. ويظهر مشروع AeroAid كيف يمكن للطائرات بدون طيار المستقلة أن تحدث ثورة في نظام الرعاية الصحية، خاصة في المناطق ذات البنية التحتية المحدودة. ويبرز حصوله على جائزة «المهندس الشاب لسنة بريطانيا» أهمية دعم المواهب الشابة في العلوم والتكنولوجيا. وفي المستقبل، قد تنتشر مثل هذه الحلول على نطاق واسع، خاصة في البلدان النامية. ومع ذلك، لا تزال هناك تساؤلات حول سلامة الطيران وتنظيم المجال الجوي وتكاليف تنفيذ هذه التقنيات.",
-        "categorie": "Innovation technologique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/uk/meet-kanav-jain-the-scottish-student-who-built-a-low-cost-autonomous-aircraft-to-deliver-medicines-to-remote-communities-it-made-him-uk-young-engineer-of-the-year/articleshow/133343547.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133343609,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-08-19",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Secteur de la santé publique",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur des technologies vertes",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la santé publique",
-            "secteur_en": "Public health sector",
-            "secteur_zh": "公共卫生部门",
-            "effet_fr": "L'innovation pourrait réduire les coûts logistiques et améliorer l'accès aux soins dans les zones reculées.",
-            "effet_en": "The innovation could reduce logistics costs and improve healthcare access in remote areas.",
-            "effet_zh": "这项创新可能降低物流成本，改善偏远地区的医疗服务。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des technologies vertes",
-            "secteur_en": "Green technology sector",
-            "secteur_zh": "绿色技术行业",
-            "effet_fr": "Les drones autonomes pourraient inspirer des solutions durables pour d'autres secteurs comme l'agriculture ou l'environnement.",
-            "effet_en": "Autonomous drones could inspire sustainable solutions for other sectors like agriculture or the environment.",
-            "effet_zh": "自主无人机可能为农业或环境等其他行业提供可持续解决方案。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-20T09:33:56.291060"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_815946",
+        "titre": "Une collaboratrice de Trump travaillée sans sécurité au White House",
+        "titre_en": "Natalie Harp worked at White House without security clearance for over a year",
+        "titre_zh": "特朗普助手在白宫工作一年多未获安检",
+        "titre_ru": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says - Forbes",
+        "titre_fa": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says - Forbes",
+        "titre_ar": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says - Forbes",
+        "titre_original": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says - Forbes",
+        "resume": "Natalie Harp, proche collaboratrice de Donald Trump, aurait travaillé au sein de l'administration américaine sans autorisation de sécurité pendant plus d'un an. Selon un rapport, cette situation soulève des questions sur les protocoles de sécurité de la Maison Blanche. Les médias s'interrogent sur les responsabilités de cette collaboratrice et sur les risques encourus.",
+        "resume_en": "Natalie Harp, a close collaborator of Donald Trump, reportedly worked in the US administration without security clearance for over a year. According to a report, this raises questions about White House security protocols. Media outlets are questioning her responsibilities and the risks involved.",
+        "resume_zh": "据报道，唐纳德·特朗普的亲密合作者娜塔莉·哈普在没有安全许可的情况下，在美政府工作了一年多。这一情况引发了对白宫安全协议的质疑。媒体正在追问她的职责和所涉风险。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L'affaire Natalie Harp s'inscrit dans un contexte de tensions politiques accrues aux États-Unis, marqué par une polarisation sans précédent sous l'administration Trump. Les enjeux principaux incluent la sécurité nationale, la transparence des institutions et la confiance du public dans le gouvernement. Les causes profondes résident dans un système de sécurité parfois laxiste, notamment pour les collaborateurs proches du pouvoir, et dans une culture de l'impunité au sein de l'exécutif. À court terme, cette révélation pourrait déclencher des enquêtes internes et des réformes des protocoles de sécurité. À moyen terme, elle pourrait éroder davantage la crédibilité des institutions américaines. À long terme, cette affaire pourrait renforcer les contrôles sur les collaborateurs présidentiels et limiter les abus de pouvoir. Les acteurs clés, comme le Congrès, le FBI et les médias, joueront un rôle déterminant dans la gestion de ce scandale. La Maison Blanche, déjà critiquée pour son opacité, devra justifier ses pratiques.",
+        "analyse_en": "The Natalie Harp case unfolds against a backdrop of heightened political tensions in the United States, marked by unprecedented polarization under the Trump administration. The main stakes include national security, institutional transparency, and public trust in government. The root causes lie in a sometimes lax security system, particularly for close collaborators of the president, and a culture of impunity within the executive branch. In the short term, this revelation could trigger internal investigations and reforms of security protocols. Over the medium term, it could further erode the credibility of US institutions. Long-term prospects suggest this case could strengthen oversight of presidential staff and limit abuses of power. Key actors, such as Congress, the FBI, and the media, will play a decisive role in managing this scandal. The White House, already criticized for its opacity, will need to justify its practices.",
+        "analyse_zh": "娜塔莉·哈普事件发生在美国政治紧张局势加剧的背景下，特别是在特朗普政府任内出现前所未有的两极分化。主要影响包括国家安全、机构透明度和公众对政府的信任。深层原因在于安全系统有时对总统亲密合作者的松懈，以及行政部门内部的免责文化。短期内，这一揭露可能引发内部调查和安全协议改革。中期来看，可能进一步削弱美国机构的公信力。长期来看，此事可能加强对总统工作人员的监督，限制权力滥用。国会、联邦调查局和媒体等关键参与者将在处理这一丑闻中发挥决定性作用。白宫因其不透明性已饱受批评，将需要为其做法辩护。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Politique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185063698",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-08-20",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur de la sécurité nationale américaine",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché de l'emploi dans l'administration publique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la sécurité nationale américaine",
+            "secteur_en": "US national security sector",
+            "secteur_zh": "美国国家安全行业",
+            "effet_fr": "Cette affaire pourrait entraîner un renforcement des contrôles de sécurité pour les collaborateurs présidentiels, augmentant les coûts administratifs et les délais de recrutement.",
+            "effet_en": "This case could lead to stricter security controls for presidential staff, increasing administrative costs and recruitment delays.",
+            "effet_zh": "此事可能导致对总统工作人员的更严格安全控制，增加行政成本和招聘延误。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché de l'emploi dans l'administration publique",
+            "secteur_en": "Public administration job market",
+            "secteur_zh": "公共行政就业市场",
+            "effet_fr": "Les révélations pourraient dissuader certains profils qualifiés de rejoindre l'administration, craignant des risques juridiques ou une réputation entachée.",
+            "effet_en": "The revelations could deter some qualified profiles from joining the administration, fearing legal risks or a tarnished reputation.",
+            "effet_zh": "这些揭露可能使某些合格人才因担心法律风险或名誉受损而不愿加入政府。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-21T07:48:35.502841"
+      },
       {
         "id": "usa_667898",
         "titre": "Les États-Unis ouvrent un couloir secret d'exportation de pétrole",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-20T10:29:32.033460"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_380502",
-        "titre": "Départ d'une figure MAGA et révélations",
-        "titre_en": "MAGA icon quits and exposes White House secrets",
-        "titre_zh": "特朗普支持者离职并揭露白宫内幕",
-        "titre_ru": "Звезда MAGA ушёл в отставку и раскрыл тёмные тайны Белого дома",
-        "titre_fa": "شخصیت برجسته مگا استعفا داد و رازهای تاریک کاخ سفید را فاش کرد",
-        "titre_ar": "رمز مناصري ترامب استقال وكشف أسرار مظلمة للبيت الأبيض",
-        "titre_original": "This MAGA icon quit — and cracked open a hall of White House horrors",
-        "resume": "Une figure emblématique du mouvement MAGA a quitté ses fonctions, révélant des détails troublants sur les coulisses de la Maison Blanche. Son départ a ouvert une boîte de Pandore sur les pratiques controversées de l'administration. Les révélations pourraient avoir des répercussions politiques majeures.",
-        "resume_en": "A prominent figure of the MAGA movement resigned, revealing disturbing details about the inner workings of the White House. His departure has opened a Pandora's box on the controversial practices of the administration. The revelations could have major political repercussions.",
-        "resume_zh": "特朗普支持者运动的重要人物辞职，揭露了白宫内部运作的令人不安细节。他的离职揭开了该政府争议做法的潘多拉盒子。这些揭露可能产生重大政治影响。",
-        "resume_ru": "Бывший сторонник MAGA, известный своими громкими заявлениями на радиошоу Говарда Стерна, неожиданно ушёл в отставку. Он обвинил действующую администрацию в коррупции и нарушениях. Его откровения вызвали скандал и поставили под угрозу репутацию Белого дома.",
-        "resume_fa": "شخصیت برجسته حامی مگا که پیش‌تر در برنامه هاوارد استرن به توهین به زنان می‌پرداخت، ناگهان استعفا داد. او دولت کنونی را متهم به فساد و تخلفات کرد. افشاگری‌های او باعث جنجال شد و اعتبار کاخ سفید را به خطر انداخت.",
-        "resume_ar": "استقال أحد رموز حركة «ماجا» المعروفة بتصريحاته المثيرة على برنامج هوارد ستيرن، واتهم الإدارة الحالية بالفساد وانتهاكات. وكشفاته أثارت فضيحة تهدد سمعة البيت الأبيض.",
-        "analyse_detaillee": "Le mouvement MAGA, associé à l'ère Trump, a marqué la politique américaine par son populisme et ses divisions profondes. Le départ d'une figure clé révèle les tensions internes et les dysfonctionnements au sein de l'administration, reflétant une gouvernance souvent chaotique. Les enjeux principaux tournent autour de la transparence, de l'éthique et de la crédibilité des institutions. Les causes profondes incluent la polarisation politique, la culture du secret et les luttes de pouvoir internes. À court terme, ces révélations pourraient alimenter les enquêtes parlementaires et les médias, sapant la légitimité de l'administration. À moyen terme, elles pourraient renforcer les mouvements de contestation ou, au contraire, polariser davantage l'électorat. À long terme, elles pourraient influencer les réformes des institutions et la perception de la démocratie américaine. Les acteurs incluent les partis politiques, les médias, les juges et l'opinion publique.",
-        "analyse_en": "The MAGA movement, tied to the Trump era, has shaped American politics through its populism and deep divisions. The resignation of a key figure exposes internal tensions and dysfunctions within the administration, reflecting a governance often marked by chaos. The main stakes revolve around transparency, ethics, and the credibility of institutions. The root causes include political polarization, a culture of secrecy, and internal power struggles. In the short term, these revelations could fuel parliamentary investigations and media scrutiny, undermining the administration's legitimacy. In the medium term, they could either strengthen protest movements or further polarize the electorate. In the long term, they might drive institutional reforms and reshape perceptions of American democracy. Key actors include political parties, media, judges, and public opinion.",
-        "analyse_zh": "与特朗普时代相关的MAGA运动通过其民粹主义和深刻分裂塑造了美国政治。一位关键人物的辞职暴露了政府内部的紧张局势和功能失调，反映出一种常常混乱的治理方式。主要影响涉及透明度、道德和机构信誉。深层原因包括政治极化、保密文化和内部权力斗争。短期内，这些揭露可能推动议会调查和媒体审查，削弱政府的合法性。中期来看，它们可能加强抗议运动，或进一步极化选民。长期而言，它们可能推动制度改革并重塑对美国民主的认知。主要参与者包括政党、媒体、法官和公众舆论。",
-        "analyse_ru": "Отставка бывшего сторонника MAGA стала громким событием, так как он был одним из самых ярких представителей консервативного движения в США. Его обвинения в коррупции и нарушениях могут нанести серьёзный удар по репутации администрации, особенно в преддверии выборов. Это также демонстрирует внутренние разногласия внутри лагеря сторонников Трампа. Вопрос о том, насколько его заявления соответствуют действительности, остаётся открытым, но они уже успели вызвать общественный резонанс. В будущем это может повлиять на политическую динамику в стране.",
-        "analyse_fa": "استعفای این شخصیت برجسته مگا، که یکی از چهره‌های اصلی جنبش محافظه‌کارانه آمریکا بود، رویدادی پرسروصدا شد. اتهامات او به فساد و تخلفات می‌تواند ضربه جدی به اعتبار دولت، به‌ویژه در آستانه انتخابات، وارد کند. این اتفاق همچنین اختلافات داخلی در اردوگاه حامیان ترامپ را نشان می‌دهد. این‌که ادعاهای او تا چه حد واقعی هستند، هنوز مشخص نیست، اما آن‌ها توانسته‌اند واکنش‌های گسترده‌ای در جامعه برانگیزند. در آینده، این موضوع می‌تواند بر پویایی سیاسی کشور تأثیر بگذارد.",
-        "analyse_ar": "أصبح استقالة هذا الرمز من حركة «ماجا»، الذي كان واحداً من أبرز وجوه الحركة المحافظة في الولايات المتحدة، حدثاً لافتاً للنظر. وقد تهدد اتهامات الفساد وانتهاكاته سمعة الإدارة، لا سيما في ظل استعداد البلاد للانتخابات. كما كشفت هذه الاستقالة عن خلافات داخلية داخل معسكر أنصار ترامب. ولا يزال من غير الواضح مدى صحة مزاعمه، لكنها نجحت في إثارة ردود فعل واسعة في المجتمع. وقد يؤثر هذا الحدث في الديناميكيات السياسية للبلاد في المستقبل.",
-        "categorie": "Politique intérieure",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/raw-investigates/karoline-leavitt-quit/",
-        "image": "https://www.rawstory.com/media-library/members-of-the-media-work-during-a-meeting-between-u-s-president-donald-trump-and-lebanese-president-joseph-aoun-attended-by-vi.jpg?id=67559669&width=1200&height=600&coordinates=0%2C417%2C0%2C418",
-        "date": "2026-08-19",
-        "pays": "usa",
+        "id": "chine_754010",
+        "titre": "Un film d'animation chinois défie les codes du box-office",
+        "titre_en": "Low-budget Chinese animated film 'Niu Lai' sparks box office revolt",
+        "titre_zh": "低成本动画片《牛赖》引发中国票房革命",
+        "titre_ru": "How a low-budget fever dream sparked a Chinese box office revolt",
+        "titre_fa": "How a low-budget fever dream sparked a Chinese box office revolt",
+        "titre_ar": "How a low-budget fever dream sparked a Chinese box office revolt",
+        "titre_original": "How a low-budget fever dream sparked a Chinese box office revolt",
+        "resume": "Le film d'animation indépendant chinois 'Niu Lai', centré sur un veau attachant, connaît un succès inattendu au box-office. Produit avec un budget modeste, il a su toucher le public malgré des moyens limités. Cette réussite remet en question les stratégies traditionnelles des studios hollywoodiens en Chine.",
+        "resume_en": "The Chinese indie animated film 'Niu Lai', centered on an endearing calf, has achieved unexpected box-office success. Produced on a modest budget, it resonated with audiences despite limited resources. This success challenges traditional Hollywood studio strategies in China.",
+        "resume_zh": "中国独立动画片《牛赖》凭借可爱的小牛形象获得意外的票房成功。该片制作预算有限，却打动了观众。这一成功挑战了好莱坞在中国的传统策略。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le succès de 'Niu Lai' s'inscrit dans un contexte de diversification croissante du cinéma chinois, marqué par une demande accrue pour des contenus locaux et authentiques. Les enjeux principaux incluent la réduction de la dépendance aux blockbusters étrangers et la promotion d'une industrie cinématographique nationale. Les causes profondes résident dans l'émergence d'une classe moyenne urbaine avide de récits culturels accessibles et dans l'essor des plateformes de streaming. À court terme, ce phénomène pourrait encourager d'autres productions indépendantes à innover. À moyen terme, les studios traditionnels pourraient adapter leurs stratégies pour intégrer des éléments locaux. À long terme, la Chine pourrait devenir un leader mondial du cinéma d'animation alternatif. Les acteurs clés, comme les réalisateurs indépendants et les plateformes numériques, jouent un rôle central dans cette transformation.",
+        "analyse_en": "'Niu Lai's' success fits into a context of growing diversification in Chinese cinema, driven by a rising demand for local and authentic content. The main stakes include reducing dependence on foreign blockbusters and promoting a national film industry. The root causes lie in the emergence of an urban middle class eager for accessible cultural narratives and the rise of streaming platforms. In the short term, this phenomenon could encourage other independent productions to innovate. Over the medium term, traditional studios may adapt their strategies to incorporate local elements. Long-term prospects suggest China could become a global leader in alternative animation cinema. Key actors, such as independent directors and digital platforms, are central to this transformation.",
+        "analyse_zh": "《牛赖》的成功反映了中国电影日益多元化的趋势，这种趋势由对本土和真实内容的需求推动。主要影响包括减少对外国大片的依赖和推动民族电影产业发展。深层原因在于新兴城市中产阶层对易于理解的文化叙事的渴望，以及流媒体平台的兴起。短期内，这一现象可能鼓励其他独立制作进行创新。中期来看，传统影业可能调整策略以融入本土元素。长期来看，中国可能成为全球另类动画电影的领导者。独立导演和平台等关键参与者在其中发挥核心作用。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Culture",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/how-a-low-budget-fever-dream-sparked-a-chinese-box-office-revolt/articleshow/133368777.cms",
+        "image": "https://img.etimg.com/thumb/msid-133369034,width-1200,height-630,imgsize-93360,overlay-economictimes/articleshow.jpg",
+        "date": "2026-08-20",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché boursier américain",
-            "hausse": false
+            "label": "▲ Secteur du cinéma indépendant",
+            "hausse": true
           },
           {
-            "label": "▲ Secteur des médias",
+            "label": "▲ Marché du divertissement numérique",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché boursier américain",
-            "secteur_en": "US stock market",
-            "secteur_zh": "美国股票市场",
-            "effet_fr": "Les révélations pourraient accroître la volatilité des marchés en raison de l'incertitude politique et des risques de scandales.",
-            "effet_en": "The revelations could increase market volatility due to political uncertainty and risks of scandals.",
-            "effet_zh": "这些揭露可能因政治不确定性和丑闻风险而增加市场波动。",
-            "hausse": false
+            "secteur_fr": "Secteur du cinéma indépendant",
+            "secteur_en": "Independent film sector",
+            "secteur_zh": "独立电影行业",
+            "effet_fr": "Le succès de 'Niu Lai' pourrait inspirer une vague de financements pour des projets similaires, dynamisant ainsi un secteur longtemps marginalisé.",
+            "effet_en": "'Niu Lai's' success could inspire a wave of funding for similar projects, revitalizing a sector long marginalized.",
+            "effet_zh": "《牛赖》的成功可能激发对类似项目的资金投入，重振长期被边缘化的行业。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur des médias",
-            "secteur_en": "Media sector",
-            "secteur_zh": "媒体行业",
-            "effet_fr": "Les révélations pourraient renforcer l'audience des médias d'investigation et accroître la demande pour des contenus critiques.",
-            "effet_en": "The revelations could boost the audience of investigative media and increase demand for critical content.",
-            "effet_zh": "这些揭露可能提升调查媒体的受众，并增加对批判性内容的需求。",
+            "secteur_fr": "Marché du divertissement numérique",
+            "secteur_en": "Digital entertainment market",
+            "secteur_zh": "数字娱乐市场",
+            "effet_fr": "La viralité du film sur les réseaux sociaux pourrait renforcer l'importance des plateformes numériques dans la distribution et la promotion des contenus culturels.",
+            "effet_en": "The film's virality on social media could strengthen the role of digital platforms in the distribution and promotion of cultural content.",
+            "effet_zh": "该片在社交媒体上的病毒式传播可能加强数字平台在文化内容分发和推广中的作用。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-20T09:33:56.291085"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-21T07:48:35.502805"
+      },
       {
         "id": "chine_716350",
         "titre": "Procès de militants de Tiananmen à Hong Kong",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-20T09:33:56.291103"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_865543",
-        "titre": "AISpeech finaliste de deux catégories aux AV Awards 2026",
-        "titre_en": "AISpeech named AV Awards 2026 finalist in two categories",
-        "titre_zh": "AISpeech获AV Awards 2026两项提名",
-        "titre_ru": "AISpeech вошла в финал премии AV Awards 2026 с двумя категориями",
-        "titre_fa": "AISpeech به عنوان فینالیست دو دسته‌بندی جایزه AV Awards 2026 معرفی شد",
-        "titre_ar": "أعلنت AISpeech عن تأهلها للنهائيات في فئتين بجوائز AV Awards 2026",
-        "titre_original": "A Proud Milestone for AISpeech! Matrix Array Microphone Named AV Awards 2026 Finalist in Two Categories",
-        "resume": "AISpeech, entreprise chinoise spécialisée en IA, a été finaliste dans deux catégories des AV Awards 2026. Son microphone matriciel MA600D est reconnu pour ses innovations technologiques. Cette distinction renforce la position de la Chine dans le secteur de l'IA.",
-        "resume_en": "AISpeech, a Chinese AI company, was named a finalist in two categories at the AV Awards 2026. Its MA600D Matrix Array Microphone was recognized for technological innovations. This accolade strengthens China's position in the AI sector.",
-        "resume_zh": "中国AI公司AISpeech在AV Awards 2026中获两项提名。其MA600D矩阵麦克风因技术创新受到认可。此殊荣巩固了中国在AI领域的地位。",
-        "resume_ru": "Компания AISpeech из Китая объявила, что её флагманский продукт — микрофон MA600D Matrix Array — стал финалистом премии AV Awards 2026 в двух категориях. Это признание подчёркивает технологические достижения компании в области обработки речи с помощью искусственного интеллекта. Награждение состоится в 2026 году.",
-        "resume_fa": "شرکت چینی AISpeech اعلام کرد محصول اصلی آن، میکروفون MA600D Matrix Array، به عنوان فینالیست جایزه AV Awards 2026 در دو دسته‌بندی معرفی شده است. این موفقیت دستاوردهای فناوری شرکت در زمینه پردازش گفتار با هوش مصنوعی را برجسته می‌کند. مراسم اهدای جوایز در سال 2026 برگزار خواهد شد.",
-        "resume_ar": "أعلنت شركة AISpeech الصينية أن منتجها الرائد، الميكروفون MA600D Matrix Array، تأهل للنهائيات في فئتين بجوائز AV Awards 2026. يُسلط هذا الاعتراف الضوء على الإنجازات التكنولوجية للشركة في مجال معالجة الكلام باستخدام الذكاء الاصطناعي. ستُقام مراسم توزيع الجوائز في عام 2026.",
-        "analyse_detaillee": "La Chine investit massivement dans l'intelligence artificielle pour réduire sa dépendance aux technologies étrangères. AISpeech, basée à Suzhou, illustre cette stratégie de souveraineté technologique. Historiquement, le pays a ciblé des secteurs stratégiques comme les semi-conducteurs et les télécoms. À court terme, cette reconnaissance pourrait attirer des investissements étrangers. À moyen terme, elle pourrait accélérer l'adoption de solutions locales dans les entreprises. À long terme, cela pourrait positionner la Chine comme leader mondial de l'IA. Les États-Unis et l'Europe surveillent cette avancée avec méfiance. Les acteurs chinois bénéficient de subventions gouvernementales et d'un marché intérieur vaste.",
-        "analyse_en": "China is heavily investing in artificial intelligence to reduce its dependence on foreign technologies. AISpeech, based in Suzhou, exemplifies this strategy of technological sovereignty. Historically, the country has targeted strategic sectors like semiconductors and telecommunications. In the short term, this recognition could attract foreign investment. In the medium term, it could accelerate the adoption of local solutions in businesses. Long-term, this could position China as a global leader in AI. The U.S. and Europe view this progress with suspicion. Chinese players benefit from government subsidies and a vast domestic market.",
-        "analyse_zh": "中国大力投资人工智能，以减少对外国技术的依赖。总部位于苏州的AISpeech体现了这一技术主权战略。历史上，中国已在半导体和电信等战略领域布局。短期内，此次认可可能吸引外国投资。中期来看，可能加速企业采用本地解决方案。长期而言，可能使中国成为全球AI领导者。美国和欧洲对这一进展持怀疑态度。中国企业受益于政府补贴和广阔的国内市场。",
-        "analyse_ru": "Попадание AISpeech в финал премии AV Awards 2026 свидетельствует о росте интереса к технологиям обработки речи с применением искусственного интеллекта в Китае. Это может усилить позиции компании на глобальном рынке, особенно в условиях конкуренции с американскими и европейскими разработчиками. Успех в номинациях может привлечь дополнительные инвестиции и партнёрские соглашения, что ускорит развитие технологий. Для России, стремящейся к импортозамещению в IT-сфере, это пример успешной локализации инноваций. В долгосрочной перспективе такие достижения способствуют формированию нового технологического уклада в Азии.",
-        "analyse_fa": "ورود AISpeech به مرحله نهایی جایزه AV Awards 2026 نشان‌دهنده افزایش توجه به فناوری‌های پردازش گفتار با هوش مصنوعی در چین است. این می‌تواند جایگاه شرکت را در بازار جهانی، به ویژه در رقابت با توسعه‌دهندگان آمریکایی و اروپایی، تقویت کند. موفقیت در این جوایز ممکن است سرمایه‌گذاری‌ها و توافق‌های شراکتی بیشتری را جذب کند و توسعه فناوری را تسریع کند. برای روسیه که به دنبال جایگزینی واردات در بخش فناوری اطلاعات است، این نمونه‌ای از نوآوری‌های موفق بومی است. در بلندمدت، چنین دستاوردهایی به شکل‌گیری نظام نوین فناوری در آسیا کمک می‌کند.",
-        "analyse_ar": "إن تأهل AISpeech للنهائيات في جوائز AV Awards 2026 يدل على تزايد الاهتمام بتكنولوجيا معالجة الكلام باستخدام الذكاء الاصطناعي في الصين. قد يعزز هذا المكانة العالمية للشركة، لا سيما في المنافسة مع المطورين الأمريكيين والأوروبيين. قد يجذب النجاح في هذه الفئات استثمارات واتفاقيات شراكة إضافية، مما يسرع من تطوير التكنولوجيا. بالنسبة لروسيا، التي تسعى إلى الاستعاضة المحلية في قطاع تكنولوجيا المعلومات، فإن هذا مثال على الابتكارات المحلية الناجحة. على المدى الطويل، ستساهم مثل هذه الإنجازات في تشكيل نظام تكنولوجي جديد في آسيا.",
-        "categorie": "Technologie",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/a-proud-milestone-for-aispeech-matrix-array-microphone-named-av-awards-2026-finalist-in-two-categories-302855061.html",
-        "image": "https://mmx.prnewswire.com/media/MS1972079/20260818222839EDT_image_1.jpg?id=OA2896107&p=facebook",
-        "date": "2026-08-19",
-        "pays": "chine",
+        "id": "russie_574977",
+        "titre": "Frappes russes à Kiev : 12 morts et 33 blessés",
+        "titre_en": "Russian missile strikes kill 12 in Kyiv, wound 33 overnight",
+        "titre_zh": "俄罗斯导弹袭击基辅：12人死亡，33人受伤",
+        "titre_ru": "Russian missile strikes kill 12 in Kyiv, wound 33 overnight: Officials",
+        "titre_fa": "Russian missile strikes kill 12 in Kyiv, wound 33 overnight: Officials",
+        "titre_ar": "Russian missile strikes kill 12 in Kyiv, wound 33 overnight: Officials",
+        "titre_original": "Russian missile strikes kill 12 in Kyiv, wound 33 overnight: Officials",
+        "resume": "Une série de frappes de missiles russes a frappé Kiev dans la nuit de jeudi à vendredi, causant la mort d'au moins 12 personnes et blessant 33 autres. Les autorités locales ont signalé des explosions dans toute la capitale ukrainienne. Ces attaques surviennent dans un contexte de tensions militaires persistantes.",
+        "resume_en": "A series of Russian missile strikes hit Kyiv overnight from Thursday to Friday, killing at least 12 people and injuring 33 others. Local authorities reported explosions across the Ukrainian capital. These attacks occur amid ongoing military tensions.",
+        "resume_zh": "俄罗斯导弹袭击在周四至周五夜间袭击基辅，造成至少12人死亡和33人受伤。当地当局报告了乌克兰首都各地的爆炸。这些袭击发生在持续军事紧张的背景下。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ces frappes s'inscrivent dans le prolongement de l'invasion russe de l'Ukraine, déclenchée en février 2022, et reflètent une escalade des hostilités malgré les tentatives de négociation. Les enjeux principaux incluent la stabilité régionale, la sécurité des civils et la souveraineté ukrainienne. Les causes profondes résident dans l'impasse diplomatique et les objectifs géopolitiques de Moscou visant à affaiblir l'État ukrainien. À court terme, ces attaques pourraient intensifier les tensions et pousser l'Ukraine à renforcer ses défenses. À moyen terme, une escalade militaire pourrait entraîner une crise humanitaire plus large. À long terme, la reconstruction de l'Ukraine dépendra de l'issue du conflit et du soutien international. Les acteurs clés, comme l'OTAN, l'UE et les États-Unis, jouent un rôle crucial dans l'équilibre des forces. La Russie, isolée diplomatiquement, mise sur une guerre d'usure pour faire plier Kiev.",
+        "analyse_en": "These strikes are part of the ongoing Russian invasion of Ukraine, launched in February 2022, and reflect an escalation of hostilities despite diplomatic efforts. The main stakes include regional stability, civilian safety, and Ukrainian sovereignty. The root causes lie in the diplomatic deadlock and Moscow's geopolitical objectives to weaken the Ukrainian state. In the short term, these attacks could intensify tensions and push Ukraine to strengthen its defenses. Over the medium term, a military escalation could lead to a broader humanitarian crisis. Long-term prospects for Ukraine's reconstruction depend on the conflict's outcome and international support. Key actors, such as NATO, the EU, and the United States, play a crucial role in balancing power dynamics. Russia, diplomatically isolated, is betting on a war of attrition to break Kyiv's resistance.",
+        "analyse_zh": "这些袭击是俄罗斯于2022年2月发动的对乌克兰入侵的延续，反映了尽管外交努力但敌对行动升级。主要影响包括地区稳定、平民安全和乌克兰主权。深层原因在于外交僵局和莫斯科旨在削弱乌克兰国家的地缘政治目标。短期内，这些袭击可能加剧紧张局势，迫使乌克兰加强防务。中期来看，军事升级可能导致更广泛的人道主义危机。长期来看，乌克兰的重建取决于冲突结果和国际支持。北约、欧盟和美国等关键参与者在平衡力量对比中发挥关键作用。外交孤立的俄罗斯正在通过消耗战赌基辅屈服。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/russian-missile-strikes-kill-12-in-kyiv-wound-33-overnight-officials-126082000477_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/06/thumb/fitandfill/1200X628/1783323368-6421.JPG",
+        "date": "2026-08-20",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des technologies de l'IA",
+            "label": "▲ Marché de l'assurance des risques de guerre",
             "hausse": true
           },
           {
-            "label": "▲ Marché des microphones professionnels",
+            "label": "▲ Secteur de la défense européenne",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des technologies de l'IA",
-            "secteur_en": "AI technology sector",
-            "secteur_zh": "AI技术行业",
-            "effet_fr": "Cette reconnaissance renforce la crédibilité d'AISpeech et pourrait accélérer ses partenariats commerciaux internationaux.",
-            "effet_en": "This recognition boosts AISpeech's credibility and could accelerate its international business partnerships.",
-            "effet_zh": "此次认可提升了AISpeech的信誉，可能加速其国际商业合作。",
+            "secteur_fr": "Marché de l'assurance des risques de guerre",
+            "secteur_en": "War risk insurance market",
+            "secteur_zh": "战争风险保险市场",
+            "effet_fr": "L'escalade des frappes pourrait entraîner une hausse des primes d'assurance pour les infrastructures critiques en Ukraine et dans les pays voisins, augmentant les coûts opérationnels.",
+            "effet_en": "The escalation of strikes could lead to higher insurance premiums for critical infrastructure in Ukraine and neighboring countries, increasing operational costs.",
+            "effet_zh": "袭击升级可能导致乌克兰及邻国关键基础设施保险费用上涨，增加运营成本。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des microphones professionnels",
-            "secteur_en": "Professional microphone market",
-            "secteur_zh": "专业麦克风市场",
-            "effet_fr": "La distinction pourrait stimuler les ventes de produits haut de gamme d'AISpeech dans ce segment niche.",
-            "effet_en": "The accolade could boost sales of AISpeech's high-end products in this niche segment.",
-            "effet_zh": "此殊荣可能推动AISpeech在该细分市场高端产品的销售。",
+            "secteur_fr": "Secteur de la défense européenne",
+            "secteur_en": "European defense sector",
+            "secteur_zh": "欧洲国防行业",
+            "effet_fr": "Les attaques pourraient accélérer les investissements des États membres de l'UE dans les systèmes de défense aérienne et les équipements militaires, stimulant ainsi le secteur.",
+            "effet_en": "The attacks could accelerate EU member states' investments in air defense systems and military equipment, thereby boosting the sector.",
+            "effet_zh": "袭击可能加速欧盟成员国在防空系统和军事装备上的投资，从而推动该行业发展。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-20T08:36:52.760203"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-21T07:48:35.502817"
+      },
       {
         "id": "russie_873645",
         "titre": "Frappes russes tuent 9 à Kiev et région",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-20T08:36:52.760213"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_778094",
-        "titre": "Instabilité gérée : guerres en Iran et en Ukraine",
-        "titre_en": "Managed Instability: Wars in Iran and Ukraine",
-        "titre_zh": "可控不稳定：伊朗与乌克兰战争",
-        "titre_ru": "Управляемая нестабильность: почему войны с Ираном и Украиной могут затянуться",
-        "titre_fa": "ناپایداری مدیریت‌شده: چرا جنگ‌ها با ایران و اوکراین ممکن است ادامه یابند",
-        "titre_ar": "عدم الاستقرار المدار: لماذا يمكن أن تستمر الحروب مع إيران وأوكرانيا",
-        "titre_original": "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…",
-        "resume": "L'article analyse les similitudes entre les conflits en Iran et en Ukraine, notamment leur capacité à se prolonger indéfiniment. Bien que différents sur le plan opérationnel, ces guerres partagent une logique d'instabilité contrôlée par les acteurs régionaux et internationaux.",
-        "resume_en": "The article analyzes the similarities between the conflicts in Iran and Ukraine, particularly their ability to drag on indefinitely. While operationally different, these wars share a logic of controlled instability by regional and international actors.",
-        "resume_zh": "文章分析了伊朗与乌克兰冲突的相似之处，特别是它们无限期拖延的能力。尽管在行动上不同，这些战争却共享地区与国际行为者控制的不稳定逻辑。",
-        "resume_ru": "Российские эксперты анализируют сходства между войной в Украине и конфликтом с Ираном. Оба конфликта характеризуются длительной неопределенностью и отсутствием явных побед. Эксперты называют это явление «управляемой нестабильностью».",
-        "resume_fa": "کارشناسان روسی شباهت‌های بین جنگ در اوکراین و درگیری با ایران را بررسی می‌کنند. هر دو درگیری با عدم قطعیت طولانی و فقدان پیروزی‌های آشکار مشخص می‌شوند. کارشناسان این پدیده را «ناپایداری مدیریت‌شده» می‌نامند.",
-        "resume_ar": "يحلل الخبراء الروس أوجه التشابه بين الحرب في أوكرانيا والنزاع مع إيران. تتميز كلتا النزاعتين بعدم اليقين الطويل وغياب الانتصارات الواضحة. ويطلق الخبراء على هذه الظاهرة «عدم الاستقرار المدار».",
-        "analyse_detaillee": "Ces conflits s'inscrivent dans un contexte géopolitique marqué par la rivalité entre grandes puissances et la fragmentation des alliances régionales. Historiquement, l'Iran et l'Ukraine ont été des zones de tension entre l'Occident et la Russie, avec des interventions indirectes croissantes. Les enjeux principaux incluent la préservation des sphères d'influence et le contrôle des ressources stratégiques. Les causes profondes résident dans les rivalités de pouvoir, les intérêts économiques et les divisions idéologiques. À court terme, ces guerres pourraient s'intensifier avec des frappes ciblées ou des cyberattaques. À moyen terme, elles pourraient entraîner une militarisation accrue des régions concernées. À long terme, elles risquent de redessiner les équilibres régionaux et globaux. Les acteurs concernés incluent la Russie, l'Iran, les États-Unis, l'UE et les groupes armés locaux.",
-        "analyse_en": "These conflicts are part of a geopolitical context marked by great power rivalry and the fragmentation of regional alliances. Historically, Iran and Ukraine have been zones of tension between the West and Russia, with increasing indirect interventions. The main stakes include preserving spheres of influence and controlling strategic resources. The root causes lie in power rivalries, economic interests, and ideological divisions. In the short term, these wars could escalate with targeted strikes or cyberattacks. In the medium term, they could lead to increased militarization of the regions involved. In the long term, they risk reshaping regional and global balances. The actors involved include Russia, Iran, the United States, the EU, and local armed groups.",
-        "analyse_zh": "这些冲突是大国竞争与地区联盟分裂背景下的产物。历史上，伊朗与乌克兰一直是西方与俄罗斯间的紧张地带，间接干预日益增多。主要影响包括维护势力范围与控制战略资源。深层原因在于权力竞争、经济利益与意识形态分歧。短期内，这些战争可能因精准打击或网络攻击而升级。中期来看，可能导致相关地区军事化加剧。长期而言，可能重塑地区与全球格局。相关方包括俄罗斯、伊朗、美国、欧盟与当地武装组织。",
-        "analyse_ru": "Контекст статьи связан с попытками России объяснить стратегию своих действий на международной арене. Причины «управляемой нестабильности» кроются в нежелании Москвы идти на уступки и стремлении сохранить давление на противников. Последствия могут включать затягивание конфликтов и экономические потери для всех сторон. Перспективы зависят от способности России поддерживать текущий уровень напряженности. Позиции сторон: Россия видит в этом инструмент сдерживания, а Запад стремится к скорейшему разрешению конфликтов.",
-        "analyse_fa": "زمینه مقاله به تلاش روسیه برای توضیح استراتژی اقدامات خود در arena بین‌المللی مربوط می‌شود. دلایل «ناپایداری مدیریت‌شده» در عدم تمایل مسکو به انجام concessions و تمایل به حفظ فشار بر رقبا نهفته است. پیامدها می‌تواند شامل طولانی شدن درگیری‌ها و زیان‌های اقتصادی برای همه طرف‌ها باشد. چشم‌انداز به توانایی روسیه در حفظ سطح کنونی تنش بستگی دارد. موضع بازیگران: روسیه این را ابزاری برای بازدارندگی می‌بیند، در حالی که غرب به دنبال حل سریع درگیری‌ها است.",
-        "analyse_ar": "سياق المقال يتعلق بمحاولات روسيا لتفسير استراتيجية أفعالها على الساحة الدولية. أسباب «عدم الاستقرار المدار» تكمن في عدم رغبة موسكو في تقديم تنازلات والسعي للحفاظ على الضغط على الخصوم. قد تشمل العواقب إطالة الصراعات والخسائر الاقتصادية لجميع الأطراف. أما الآفاق فتعتمد على قدرة روسيا على الحفاظ على مستوى التوتر الحالي. مواقف الأطراف: ترى روسيا في ذلك أداة ردع، بينما يسعى الغرب إلى حل الصراعات في أقرب وقت.",
-        "categorie": "Géopolitique",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/",
-        "image": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46256-3e2ecad99feb.jpg",
-        "date": "2026-08-19",
-        "pays": "russie",
+        "id": "iran_466872",
+        "titre": "Prix du pétrole en hausse en raison des tensions au Moyen-Orient",
+        "titre_en": "Oil prices rise on Middle East supply concerns",
+        "titre_zh": "中东供应担忧推动油价上涨",
+        "titre_ru": "Oil prices gain on Middle East supply concerns",
+        "titre_fa": "Oil prices gain on Middle East supply concerns",
+        "titre_ar": "Oil prices gain on Middle East supply concerns",
+        "titre_original": "Oil prices gain on Middle East supply concerns",
+        "resume": "Les prix du pétrole ont augmenté aujourd'hui en raison des craintes liées à l'impasse dans la guerre entre les États-Unis et Israël contre l'Iran. Ces tensions menacent de perturber l'approvisionnement énergétique du Moyen-Orient. La région, clé pour la production mondiale, voit ses risques géopolitiques s'intensifier.",
+        "resume_en": "Oil prices have risen today due to concerns over the deadlock in the US-Israeli war against Iran. These tensions threaten to disrupt energy supplies from the Middle East, a critical region for global production. Geopolitical risks in the area are intensifying.",
+        "resume_zh": "由于美以对伊朗战争僵局的担忧，油价今日上涨。这些紧张局势威胁到中东这一全球生产关键地区的能源供应。该地区的地缘政治风险正在加剧。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La hausse des prix du pétrole s'inscrit dans un contexte de tensions géopolitiques persistantes au Moyen-Orient, région stratégique pour l'approvisionnement énergétique mondial. Les enjeux principaux incluent la stabilité des prix de l'énergie, la sécurité des approvisionnements et la transition énergétique. Les causes profondes résident dans l'escalade des conflits régionaux, notamment entre l'Iran et ses adversaires, et dans les sanctions économiques qui limitent les exportations pétrolières. À court terme, cette hausse pourrait alimenter l'inflation et peser sur la croissance économique mondiale. À moyen terme, les pays dépendants des importations d'énergie pourraient accélérer leurs stratégies de diversification. À long terme, cette instabilité pourrait accélérer la transition vers les énergies renouvelables, réduisant la dépendance aux hydrocarbures. Les acteurs clés, comme l'OPEP, les États-Unis et la Chine, jouent un rôle déterminant dans l'équilibre du marché.",
+        "analyse_en": "The rise in oil prices is set against a backdrop of persistent geopolitical tensions in the Middle East, a strategic region for global energy supply. The main stakes include energy price stability, supply security, and the energy transition. The root causes lie in the escalation of regional conflicts, particularly between Iran and its adversaries, and in economic sanctions that limit oil exports. In the short term, this increase could fuel inflation and weigh on global economic growth. Over the medium term, energy-importing countries may accelerate their diversification strategies. Long-term prospects suggest this instability could hasten the transition to renewable energy, reducing dependence on hydrocarbons. Key actors, such as OPEC, the United States, and China, play a decisive role in balancing the market.",
+        "analyse_zh": "油价上涨发生在中东地缘政治持续紧张的背景下，该地区是全球能源供应的战略要地。主要影响包括能源价格稳定性、供应安全和能源转型。深层原因在于地区冲突升级（特别是伊朗与对手国之间）以及限制石油出口的经济制裁。短期内，这一上涨可能推高通胀并拖累全球经济增长。中期来看，能源进口国可能加速多元化战略。长期来看，这种不稳定可能加速向可再生能源转型，减少对碳氢化合物的依赖。欧佩克、美国和中国等关键参与者在平衡市场中发挥决定性作用。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "RTE",
+        "url": "https://www.rte.ie/news/business/2026/0820/1588605-world-oil-prices/",
+        "image": "https://www.rte.ie/images/0024ce0d-1600.jpg",
+        "date": "2026-08-20",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marchés de l'énergie",
+            "label": "▲ Marché pétrolier mondial",
             "hausse": true
           },
           {
-            "label": "▲ Secteur de la défense",
+            "label": "▲ Secteur des énergies renouvelables",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marchés de l'énergie",
-            "secteur_en": "Energy Markets",
-            "secteur_zh": "能源市场",
-            "effet_fr": "L'instabilité prolongée pourrait maintenir les prix du pétrole et du gaz à des niveaux élevés, affectant les économies dépendantes des importations.",
-            "effet_en": "Prolonged instability could keep oil and gas prices at high levels, impacting import-dependent economies.",
-            "effet_zh": "持续不稳定可能使石油与天然气价格维持高位，影响依赖进口的经济体。",
+            "secteur_fr": "Marché pétrolier mondial",
+            "secteur_en": "Global oil market",
+            "secteur_zh": "全球石油市场",
+            "effet_fr": "La hausse des prix pourrait renforcer les revenus des pays exportateurs comme l'Arabie saoudite et les Émirats arabes unis, mais aussi accentuer les pressions inflationnistes dans les économies importatrices.",
+            "effet_en": "The price increase could boost revenues for oil-exporting countries like Saudi Arabia and the UAE, while also intensifying inflationary pressures in importing economies.",
+            "effet_zh": "油价上涨可能增加沙特阿拉伯和阿联酋等出口国的收入，同时加剧进口国的通胀压力。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense Sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "Les budgets militaires pourraient augmenter dans les pays voisins, stimulant les industries locales de l'armement.",
-            "effet_en": "Military budgets could rise in neighboring countries, boosting local arms industries.",
-            "effet_zh": "邻国军事预算可能上升，推动当地军火工业。",
+            "secteur_fr": "Secteur des énergies renouvelables",
+            "secteur_en": "Renewable energy sector",
+            "secteur_zh": "可再生能源行业",
+            "effet_fr": "L'instabilité des prix des hydrocarbures pourrait accélérer les investissements dans les énergies vertes, offrant une opportunité de croissance pour les entreprises du secteur.",
+            "effet_en": "The instability in hydrocarbon prices could accelerate investments in green energy, providing a growth opportunity for companies in the sector.",
+            "effet_zh": "碳氢化合物价格的不稳定可能加速对绿色能源的投资，为该行业企业提供增长机遇。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-20T07:40:42.549696"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-21T07:48:35.502829"
+      },
       {
         "id": "iran_32162",
         "titre": "L'Iran exécute un étranger pour répression des manifestations",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-20T04:36:42.629723"
-      },
-      {
-        "id": "iran_966113",
-        "titre": "Émirats imposent embargo commercial à l'Iran",
-        "titre_en": "UAE imposes indefinite trade embargo on Iran",
-        "titre_zh": "阿联酋对伊朗实施无限期贸易禁运",
-        "titre_ru": "ОАЭ вводит неограниченный торговый эмбарго на Иран из-за предполагаемых ракетных атак",
-        "titre_fa": "امارات تحریم تجاری نامحدود علیه ایران به دلیل حمله احتمالی موشکی اعمال کرد",
-        "titre_ar": "تطبق الإمارات حظر تجاري غير محدود على إيران بسبب هجوم صواريخ محتمل",
-        "titre_original": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-        "resume": "Les Émirats arabes unis ont annoncé un embargo commercial illimité contre l'Iran, accusant ce dernier d'attaques par missiles. Téhéran dément ces allégations et évoque une opération sous fausse bannière. Cette décision pourrait aggraver les tensions régionales.",
-        "resume_en": "The UAE announced an indefinite trade embargo on Iran, accusing it of missile attacks. Tehran denies the allegations, calling it a false flag operation. This decision could escalate regional tensions.",
-        "resume_zh": "阿联酋宣布对伊朗实施无限期贸易禁运，指责其发动导弹袭击。德黑兰否认指控，称这是一起“伪旗”行动。此决定可能加剧地区紧张局势。",
-        "resume_ru": "Иран отрицает запуск ракет в сторону ОАЭ и утверждает, что инцидент был «операцией фейковых флагов». Эмбарго вводится в ответ на предполагаемые нарушения безопасности. Это может усугубить напряженность в регионе и повлиять на экономические отношения между странами. Дипломатические каналы уже активизированы для поиска решения конфликта.",
-        "resume_fa": "ایران ادعاهای پرتاب موشک به سمت امارات را انکار کرده و این حادثه را «عملیات پرچم‌های دروغین» می‌داند. تحریم به عنوان پاسخ احتمالی به نقض امنیت اعمال می‌شود. این می‌تواند تنش منطقه‌ای را تشدید کند و بر روابط اقتصادی بین دو کشور تأثیر بگذارد. کانال‌های دیپلماتیک برای یافتن راه‌حل برای این تنش فعال شده‌اند.",
-        "resume_ar": "إن إيران تنفي إطلاق الصواريخ باتجاه الإمارات وتؤكد أن الحادث كان «عملية علماء» (عملية علماء). يتم تطبيق الحظر ردًا على انتهاكات أمنية محتملة. هذا قد يزيد من التوتر في المنطقة ويؤثر على العلاقات الاقتصادية بين البلدين. تم تنشيط قنوات الدبلوماسية بحثًا عن حل للمشكلة.",
-        "analyse_detaillee": "Cet embargo s'inscrit dans un contexte de tensions géopolitiques accrues au Moyen-Orient, notamment entre l'Arabie saoudite et l'Iran. Les enjeux principaux incluent la stabilité énergétique et la sécurité régionale. Les causes profondes résident dans les rivalités sectaires et les conflits d'influence. À court terme, cet embargo pourrait perturber les chaînes d'approvisionnement dans le Golfe. À moyen terme, il risque d'isoler davantage l'Iran économiquement. À long terme, cela pourrait renforcer les alliances militaires entre les pays du Golfe et les États-Unis. Les acteurs clés incluent les Émirats, l'Iran, les États-Unis et l'Arabie saoudite.",
-        "analyse_en": "This embargo is part of a context of heightened geopolitical tensions in the Middle East, particularly between Saudi Arabia and Iran. Key stakes include energy stability and regional security. Root causes lie in sectarian rivalries and influence conflicts. In the short term, this embargo could disrupt supply chains in the Gulf. Medium-term, it risks further isolating Iran economically. Long-term, it could strengthen military alliances between Gulf countries and the US. Key actors include the UAE, Iran, the US, and Saudi Arabia.",
-        "analyse_zh": "此次禁运是在中东地缘政治紧张局势加剧的背景下发生的，特别是在沙特阿拉伯与伊朗之间。主要影响包括能源稳定和地区安全。深层原因在于教派对抗和影响力冲突。短期内，此次禁运可能扰乱海湾地区的供应链。中期来看，它可能进一步在经济上孤立伊朗。长期而言，这可能加强海湾国家与美国之间的军事联盟。关键行为者包括阿联酋、伊朗、美国和沙特阿拉伯。",
-        "analyse_ru": "Эмбарго может быть шагом для давления на Иран в геополитических играх, особенно в контексте региональных конфликтов. Тегеран, вероятно, будет отрицать вину и обвинять западные страны в поддержке саудовских интересов. Это может усилить изоляцию Ирана и осложнить его экономическую ситуацию. В долгосрочной перспективе это может привести к эскалации напряженности с участием других стран региона. Дипломатические усилия будут направлены на предотвращение дальнейшего обострения ситуации.",
-        "analyse_fa": "تحریم می‌تواند یک قدم برای فشار بر ایران در بازی‌های ژئوپولیتیکی، به ویژه در زمینه تنش‌های منطقه‌ای، باشد. تهران احتمالاً از مسئولیت انکار خواهد کرد و غرب را متهم به حمایت از منافع سعودی خواهد کرد. این می‌تواند به عزلت بیشتر ایران و پیچیده‌تر شدن وضعیت اقتصادی آن منجر شود. در بلندمدت، این می‌تواند به تشدید تنش‌ها با شرکت سایر کشورها منطقه‌ای منجر شود. تلاش‌های دیپلماتیک برای جلوگیری از بدتر شدن وضعیت ادامه خواهد یافت.",
-        "analyse_ar": "قد يكون الحظر خطوة لضغط على إيران في الألعاب الجيوسياسية، خاصة في سياق التوترات الإقليمية. ستنفي طهران المسؤولية وتتهم الدول الغربية بدعم مصالح السعودية. هذا قد يزيد من عزلة إيران ويصعب وضعها الاقتصادي. على المدى الطويل، قد يؤدي هذا إلى تصعيد التوتر مع مشاركة دول أخرى في المنطقة. ستستمر الجهود الدبلوماسية لمنع تفاقم الوضع.",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20241231__36RU6CE__v3__MidRes__TopshotUaeNye-1776490877.jpg?resize=1800%2C1200&quality=80",
-        "date": "2026-08-19",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Secteur pétrolier et gazier",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché des assurances maritimes",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier et gazier",
-            "secteur_en": "Oil and gas sector",
-            "secteur_zh": "石油与天然气行业",
-            "effet_fr": "L'embargo pourrait perturber les exportations iraniennes de pétrole, influençant les prix mondiaux de l'énergie.",
-            "effet_en": "The embargo could disrupt Iran's oil exports, influencing global energy prices.",
-            "effet_zh": "禁运可能扰乱伊朗的石油出口，影响全球能源价格。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des assurances maritimes",
-            "secteur_en": "Maritime insurance market",
-            "secteur_zh": "海运保险市场",
-            "effet_fr": "L'escalade des tensions pourrait augmenter les primes d'assurance pour les navires traversant le Golfe.",
-            "effet_en": "Rising tensions could increase insurance premiums for ships passing through the Gulf.",
-            "effet_zh": "紧张局势升级可能提高穿越海湾船只的保险费率。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-20T03:46:43.376068"
       }
     ]
   },
