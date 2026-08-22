@@ -1,7 +1,66 @@
 {
-  "last_updated": "22/08/2026 à 19h21",
+  "last_updated": "22/08/2026 à 20h21",
   "articles": {
     "monde": [
+      {
+        "id": "monde_335481",
+        "titre": "Le DOJ collabore avec un hacker condamné",
+        "titre_en": "Why Is the DOJ Working With a Convicted Hacker?",
+        "titre_zh": "司法部为何与被定罪黑客合作？",
+        "titre_ru": "Почему Минюст США сотрудничает с осуждённым хакером?",
+        "titre_fa": "چرا وزارت دادگستری آمریکا با یک هکر محکوم همکاری می‌کند؟",
+        "titre_ar": "لماذا تعمل وزارة العدل الأمريكية مع شخص مدان باختراق الانتخابات؟",
+        "titre_original": "Why Is the DOJ Working With a Man Convicted of Hacking Election Sites?",
+        "resume": "Le département de la Justice américain aurait embauché David Michael Levin, un hacker condamné pour avoir piraté des sites électoraux, afin de surveiller les élections. Cette décision soulève des questions sur la fiabilité et l'éthique de cette collaboration. Des associations comme Democracy Docket ont dénoncé cette pratique controversée.",
+        "resume_en": "The U.S. Department of Justice appears to have hired David Michael Levin, a convicted hacker of election sites, to monitor elections. This decision raises ethical and reliability concerns. Advocacy groups like Democracy Docket have criticized the move.",
+        "resume_zh": "美国司法部似乎雇佣了被定罪的选举网站黑客David Michael Levin来监督选举。此决定引发了道德和可靠性担忧。倡导组织如Democracy Docket批评了这一举动。",
+        "resume_ru": "Министерство юстиции США, как сообщается, наняло осуждённого хакера для мониторинга выборов. Дэвид Майкл Левин, ранее осуждённый за взлом сайтов выборов, теперь работает в отделе по гражданским правам. Это вызывает обеспокоенность по поводу безопасности избирательного процесса.",
+        "resume_fa": "وزارت دادگستری ایالات متحده reportedly یک هکر محکوم شده را برای نظارت بر انتخابات استخدام کرده است. دیوید مایکل لوین، که قبلاً به هک سایت‌های انتخاباتی محکوم شده بود، اکنون در بخش حقوق مدنی وزارت دادگستری کار می‌کند. این اقدام نگرانی‌هایی درباره امنیت فرایند انتخابات ایجاد کرده است.",
+        "resume_ar": "أفادت التقارير أن وزارة العدل الأمريكية قامت بتعيين شخص مدان باختراق مواقع الانتخابات لمراقبة الانتخابات. ديفيد مايكل ليفين، الذي أدين سابقاً باختراق مواقع الانتخابات، يعمل الآن في قسم الحقوق المدنية بالوزارة. هذا الأمر أثار قلقاً بشأن سلامة العملية الانتخابية.",
+        "analyse_detaillee": "Cette affaire s'inscrit dans un contexte de tensions croissantes autour de la cybersécurité électorale aux États-Unis, exacerbées par les ingérences étrangères lors des dernières élections. Les enjeux principaux concernent la protection des données électorales et la confiance du public dans le processus démocratique. Les causes profondes incluent un manque de personnel qualifié et une approche pragmatique face aux menaces cyber. À court terme, cette décision pourrait discréditer les institutions électorales et alimenter les théories du complot. À moyen terme, elle risque d'affaiblir la légitimité des résultats électoraux et de polariser davantage le débat politique. À long terme, cela pourrait normaliser l'embauche de criminels pour des missions sensibles, sapant les normes éthiques. Les acteurs comme le DOJ et les associations de défense des droits civiques adoptent des positions opposées, reflétant un clivage sur la sécurité versus l'éthique.",
+        "analyse_en": "This case occurs amid growing tensions over U.S. electoral cybersecurity, fueled by foreign interference in recent elections. Key stakes involve protecting electoral data and public trust in democracy. Root causes include a shortage of qualified personnel and a pragmatic approach to cyber threats. In the short term, this decision could discredit electoral institutions and fuel conspiracy theories. Medium-term, it risks weakening the legitimacy of election results and further polarizing political debates. Long-term, it may normalize hiring criminals for sensitive roles, undermining ethical standards. Actors like the DOJ and civil rights groups hold opposing views, reflecting a divide between security and ethics.",
+        "analyse_zh": "此案发生在美国选举网络安全紧张局势加剧的背景下，受到近年选举外国干预的推动。主要影响涉及保护选举数据和公众对民主的信任。深层原因包括缺乏合格人员和对网络威胁的务实态度。短期内，此决定可能损害选举机构信誉并助长阴谋论。中期来看，可能削弱选举结果合法性并加剧政治分裂。长期则可能使雇佣罪犯担任敏感职位常态化，破坏伦理标准。司法部与民权组织等各方立场对立，反映了安全与伦理之间的分歧。",
+        "analyse_ru": "Контекст ситуации связан с участившимися случаями кибератак на избирательные системы в США. Причины найма осуждённого хакера могут объясняться его экспертными знаниями в области кибербезопасности, несмотря на сомнительную репутацию. Последствия такого решения могут быть двоякими: с одной стороны, улучшение защиты систем, с другой — подрыв доверия к честности выборов. Перспективы зависят от того, как общественность и политики отреагируют на этот шаг. Позиции сторон разделились: одни считают это необходимой мерой, другие — опасным прецедентом.",
+        "analyse_fa": "زمینه این ماجرا به افزایش حملات سایبری به سیستم‌های انتخاباتی در ایالات متحده مربوط می‌شود. دلایل استخدام یک هکر محکوم ممکن است به دانش تخصصی او در زمینه امنیت سایبری مربوط باشد، علیرغم سابقه questionable او. پیامدهای این تصمیم می‌تواند دوگانه باشد: از یک سو، بهبود حفاظت از سیستم‌ها و از سوی دیگر، تضعیف اعتماد به سلامت انتخابات. چشم‌اندازها به واکنش جامعه و سیاستمداران به این اقدام بستگی دارد. مواضع بازیگران متفاوت است: برخی آن را اقدامی ضروری می‌دانند و برخی دیگر آن را یک اقدام خطرناک تلقی می‌کنند.",
+        "analyse_ar": "سياق هذه القضية مرتبط بزيادة الهجمات الإلكترونية على الأنظمة الانتخابية في الولايات المتحدة. قد تكون أسباب تعيين شخص مدان باختراق الانتخابات راجعة إلى خبرته في مجال الأمن السيبراني، رغم سمعته المشكوك فيها. العواقب المترتبة على هذا القرار قد تكون مزدوجة: من جهة، تحسين حماية الأنظمة، ومن جهة أخرى، تقويض الثقة في نزاهة الانتخابات. الآفاق تعتمد على رد فعل الجمهور وصناع القرار تجاه هذه الخطوة. مواقف الأطراف مختلفة: البعض يعتبرها خطوة ضرورية، بينما يرى آخرون أنها سابقة خطيرة.",
+        "categorie": "Géopolitique",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/214615/doj-attorney-convicted-hacking-election-sites",
+        "image": "https://images.newrepublic.com/89b7da906b00da8a6aa73b9984f91ba6710f119e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+        "date": "2026-08-21",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Secteur de la cybersécurité",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des actions technologiques",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la cybersécurité",
+            "secteur_en": "Cybersecurity sector",
+            "secteur_zh": "网络安全行业",
+            "effet_fr": "Cette embauche pourrait normaliser l'intégration de profils controversés dans des postes sensibles, fragilisant la crédibilité des acteurs traditionnels de la cybersécurité.",
+            "effet_en": "This hiring could normalize the integration of controversial profiles into sensitive positions, weakening the credibility of traditional cybersecurity actors.",
+            "effet_zh": "此雇佣可能使在敏感岗位任用有争议人士常态化，削弱传统网络安全行业的可信度。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des actions technologiques",
+            "secteur_en": "Technology stock market",
+            "secteur_zh": "科技股市场",
+            "effet_fr": "Les révélations pourraient éroder la confiance des investisseurs dans les entreprises technologiques liées à la sécurité, entraînant des baisses de valorisation.",
+            "effet_en": "The revelations could erode investor confidence in security-related tech firms, leading to valuation declines.",
+            "effet_zh": "此事件可能削弱投资者对安全相关科技公司的信心，导致估值下降。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-22T20:21:08.654659"
+      },
       {
         "id": "monde_461066",
         "titre": "Luka Doncic : les équipes surveillent sa situation",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-21T23:22:43.157582"
-      },
-      {
-        "id": "monde_791935",
-        "titre": "Prédictions pour le calendrier football US 2026",
-        "titre_en": "2026 US football schedule predictions",
-        "titre_zh": "2026年美国足球赛程预测",
-        "titre_ru": "Прогнозы всех матчей в расписании Огайо Стэйт на 2026 год",
-        "titre_fa": "پیش‌بینی نتیجه تمام بازی‌های تیم فوتبال اوهایو استیت در سال ۲۰۲۶",
-        "titre_ar": "توقع نتائج جميع مباريات فريق أوهايو ستايت لكرة القدم في عام 2026",
-        "titre_original": "Predicting Every Game on Ohio State's 2026 Football Schedule",
-        "resume": "L’équipe d’Ohio State affronte un calendrier exceptionnellement difficile en 2026. Les analystes prédisent des résultats serrés pour chaque match. Les fans s’interrogent sur les chances de victoire de l’équipe.",
-        "resume_en": "Ohio State faces an exceptionally tough schedule in 2026. Analysts predict close results for every game. Fans question the team’s chances of victory.",
-        "resume_zh": "俄亥俄州立大学2026赛程极其艰难。分析师预测每场比赛结果接近。球迷质疑球队获胜机会。",
-        "resume_ru": "Бакейс (Огайо Стэйт) столкнутся с одним из самых сложных графиков за время работы под руководством Райана Дей. Аналитики предсказывают результаты каждого матча в регулярном сезоне. Команда должна будет преодолеть сильных соперников, включая лидеров конференции. Прогнозы основаны на текущих статистических данных и прошлых выступлениях. Фанаты ждут от команды победных результатов, чтобы подтвердить статус сильной команды.",
-        "resume_fa": "تیم اوهایو استیت با یکی از سخت‌ترین برنامه‌های فوتبال در دوران مربیگری رایان دی به چالش کشیده می‌شود. تحلیلگران نتیجه هر بازی در فصل عادی را پیش‌بینی کرده‌اند. این تیم باید با رقبای قوی از جمله رهبران کنفرانس روبرو شود. پیش‌بینی‌ها بر اساس داده‌های آماری فعلی و عملکردهای گذشته است. طرفداران منتظر نتایج پیروزی هستند تا نشان دهند این تیم یک تیم قوی است.",
-        "resume_ar": "سيتم مواجه فريق أوهايو ستايت بأحد أصعب الجداول في عهد مدرب رايان داي. يقوم المحللون بتوقع نتائج كل مباراة في الموسم العادي. يجب على الفريق التغلب على منافسين قويين، بما في ذلك قادة المؤتمر. هذه التوقعات مبنية على البيانات الإحصائية الحالية والأداء السابق. ينتظر المعجبين نتائج فائزة لتأكيد مكانة الفريق القوية.",
-        "analyse_detaillee": "Le football américain universitaire est un pilier culturel et économique aux États-Unis, générant des milliards de dollars via les droits TV, les paris sportifs et le merchandising. Le calendrier d’Ohio State en 2026 reflète une tendance récente où les conférences majeures alignent des adversaires de plus en plus coriaces pour attirer l’attention médiatique. Les enjeux principaux incluent la réputation de l’université, les revenus publicitaires et l’attractivité pour les futurs étudiants-athlètes. Les causes profondes de cette difficulté accrue résident dans la professionnalisation du sport universitaire et la recherche de prestige par les universités. À court terme, des résultats décevants pourraient affecter les revenus des sponsors et la fréquentation des stades. À moyen terme, cela pourrait influencer le recrutement des joueurs et la valeur des contrats de diffusion. À long terme, cela pourrait redéfinir les hiérarchies sportives et économiques au sein de la NCAA. Les acteurs clés sont les conférences universitaires, les chaînes de télévision, les sponsors et les universités elles-mêmes.",
-        "analyse_en": "American college football is a cultural and economic cornerstone in the US, generating billions through TV rights, sports betting, and merchandising. Ohio State’s 2026 schedule reflects a recent trend where major conferences schedule increasingly tough opponents to attract media attention. The main stakes include the university’s reputation, advertising revenue, and appeal to future student-athletes. The root causes of this increased difficulty lie in the professionalization of college sports and universities’ pursuit of prestige. In the short term, disappointing results could affect sponsor revenues and stadium attendance. In the medium term, this could influence player recruitment and the value of broadcast contracts. In the long term, this could redefine sports and economic hierarchies within the NCAA. Key actors are college conferences, TV networks, sponsors, and universities themselves.",
-        "analyse_zh": "美国大学橄榄球是美国的文化和经济支柱，通过电视转播权、体育博彩和商品销售创造数十亿美元收入。俄亥俄州立大学2026赛程反映了近期趋势，即主要联盟安排越来越强硬的对手以吸引媒体关注。主要影响包括大学声誉、广告收入和对未来运动员的吸引力。这种困难加剧的深层原因在于大学体育的职业化以及大学对声望的追求。短期内，成绩不佳可能影响赞助商收入和球场上座率。中期来看，这可能影响球员招募和转播合同价值。长期而言，这可能重新定义NCAA内部的体育和经济等级。关键行为者包括大学联盟、电视网络、赞助商和大学本身。",
-        "analyse_ru": "Контекст: Огайо Стэйт — одна из ведущих команд NCAA, но даже сильные команды сталкиваются с трудностями в сложных графиках. Причины: График 2026 года включает матчи с командами из Power Five конференций, что требует высокой подготовки. Последствия: Победы или поражения могут значительно повлиять на рейтинг команды и шансы на участие в турнире. Перспективы: Если команда сможет удержать высокий уровень, это может привести к титулу чемпиона. Позиции сторон: Фанаты ждут побед, тренеры работают над тактическими улучшениями, а соперники готовятся к противостоянию.",
-        "analyse_fa": "زمینه: تیم اوهایو استیت یکی از تیم‌های پیشرو NCAA است، اما حتی تیم‌های قوی با چالش‌های جدی در برنامه‌های سخت روبرو می‌شوند. علل: برنامه سال ۲۰۲۶ شامل بازی‌ها با تیم‌های کنفرانس پاور فایو است که نیاز به آمادگی بالا دارد. پیامدها: پیروزی‌ها یا شکست‌ها می‌تواند بر رتبه‌بندی تیم و شانس حضور در تورنمنت تأثیر بسزایی بگذارد. چشم‌انداز: اگر تیم بتواند سطح بالایی حفظ کند، می‌تواند به قهرمانی دست یابد. موضع بازیگران: طرفداران منتظر پیروزی هستند، مربیان بر بهبود تاکتیکی کار می‌کنند و رقبا برای رقابت آماده می‌شوند.",
-        "analyse_ar": "السياق: فريق أوهايو ستايت من بين أفضل الفرق في NCAA، لكن حتى الفرق القوية تواجه تحديات في الجداول الصعبة. الأسباب: يتضمن الجدول لعام 2026 مباريات مع فرق من مؤتمر Power Five، مما يتطلب استعدادًا عاليًا. العواقب: قد تؤثر الانتصارات أو الهزائم بشكل كبير على تصنيف الفريق وشانسه في البطولة. الآفاق: إذا استطاع الفريق الحفاظ على مستوى عالٍ، قد يؤدي ذلك إلى لقب البطل. مواقف الأطراف: ينتظر المعجدون الانتصارات، بينما يعمل المدربون على تحسين التكتيكات، ويعد المنافسون للمواجهة.",
-        "categorie": "Sport",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/college/ohiostate/news/predicting-every-game-on-ohio-state-s-2026-football-schedule-01m0ggfdbvcv",
-        "image": "https://s.yimg.com/lo/mysterio/api/e803e30b1f2441a3a7314fb74d10e0b92deae53112dba1c3fb71c6cdbb271a81/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fohio_state_buckeyes_on_si_925%2Ff89708786d88084bc2d6b5fc2208ed1d.jpg",
-        "date": "2026-08-20",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Droits télévisuels du sport universitaire",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché des paris sportifs",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Droits télévisuels du sport universitaire",
-            "secteur_en": "College sports TV rights",
-            "secteur_zh": "大学体育电视转播权",
-            "effet_fr": "Des résultats médiocres pourraient réduire l’attractivité des matchs et donc la valeur des droits TV pour les conférences.",
-            "effet_en": "Poor results could reduce game appeal and thus the value of TV rights for conferences.",
-            "effet_zh": "成绩不佳可能降低比赛吸引力，进而降低联盟电视转播权价值。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des paris sportifs",
-            "secteur_en": "Sports betting market",
-            "secteur_zh": "体育博彩市场",
-            "effet_fr": "Un calendrier difficile pourrait augmenter l’incertitude et donc le volume des paris sur les matchs d’Ohio State.",
-            "effet_en": "A tough schedule could increase uncertainty and thus the volume of bets on Ohio State’s games.",
-            "effet_zh": "艰难赛程可能增加不确定性，进而增加对俄亥俄州立大学比赛的投注量。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-21T22:24:34.551888"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_646675",
+        "titre": "Accord commercial Canada-États-Unis critiqué",
+        "titre_en": "Trade deal leaves 'bad outcome' for Canada and U.S.",
+        "titre_zh": "贸易协议对加美均为‘坏结果’",
+        "titre_ru": "Новая торговая сделка США и Канады: кто проиграл?",
+        "titre_fa": "توافق تجاری جدید آمریکا و کانادا: چه کسی بازنده است؟",
+        "titre_ar": "الاتفاق التجاري الجديد بين أمريكا وكندا: من الخاسر؟",
+        "titre_original": "Trade deal to leave ‘bad outcome’ for Canada and U.S., ex-minister says",
+        "resume": "L'ex-ministre canadienne Chrystia Freeland a critiqué l'accord commercial négocié par Mark Carney avec l'administration Trump. Elle estime que les termes sont défavorables pour les deux pays. Freeland suggère que Carney a accepté des conditions moins avantageuses pour réduire l'incertitude économique.",
+        "resume_en": "Former Canadian minister Chrystia Freeland criticized the trade deal negotiated by Mark Carney with the Trump administration. She argues the terms are unfavorable for both countries. Freeland suggests Carney accepted less favorable conditions to reduce economic uncertainty.",
+        "resume_zh": "加拿大前部长Chrystia Freeland批评了Mark Carney与特朗普政府谈判的贸易协议。她认为条款对两国均不利。Freeland暗示Carney接受了较差条件以减少经济不确定性。",
+        "resume_ru": "Бывший министр Канады Кристиа Фриланд заявила, что новая торговая сделка с США может оказаться невыгодной для обеих стран. Она предположила, что Марк Карни согласился на менее выгодные условия ради снижения неопределённости. Эксперты обсуждают долгосрочные последствия для экономик.",
+        "resume_fa": "وزیر سابق کانادا کریستیا فریلند گفت که توافق تجاری جدید با آمریکا ممکن است برای هر دو کشور 'نتیجه بدی' داشته باشد. او ادعا کرد که مارک کارنی شرایط نامساعدتری را پذیرفته تا عدم قطعیت را کاهش دهد. کارشناسان در حال بررسی پیامدهای بلندمدت برای اقتصادهای دو کشور هستند.",
+        "resume_ar": "أفادت وزيرة الخارجية الكندية السابقة كريستيا فريلاند أن الاتفاق التجاري الجديد مع الولايات المتحدة قد يترك 'نتيجة سيئة' لكلا البلدين. وأشارت إلى أن مارك كارني وافق على شروط أقل تفضيلاً مقابل تقليل عدم اليقين. ويناقش الخبراء الآثار طويلة الأمد على اقتصاديات البلدين.",
+        "analyse_detaillee": "Cet accord s'inscrit dans un contexte de tensions commerciales récurrentes entre le Canada et les États-Unis, marquées par des renégociations du traité de l'ALENA sous Trump. Les enjeux principaux concernent la souveraineté économique et la compétitivité industrielle des deux pays. Les causes profondes incluent la dépendance économique du Canada envers les États-Unis et les pressions protectionnistes américaines. À court terme, cet accord pourrait aggraver les déséquilibres commerciaux et réduire les marges des entreprises canadiennes. À moyen terme, il risque de freiner l'innovation et d'accroître la dépendance du Canada envers les chaînes d'approvisionnement américaines. À long terme, cela pourrait redéfinir les relations commerciales nord-américaines, marginalisant le Canada dans les chaînes de valeur mondiales. Les acteurs comme Freeland et Carney incarnent des visions opposées : protectionnisme versus pragmatisme économique. Les entreprises exportatrices et les syndicats adoptent des positions divergentes, reflétant des intérêts sectoriels contradictoires.",
+        "analyse_en": "This deal occurs amid recurring trade tensions between Canada and the U.S., marked by NAFTA renegotiations under Trump. Key stakes involve economic sovereignty and industrial competitiveness for both nations. Root causes include Canada's economic dependence on the U.S. and American protectionist pressures. In the short term, this agreement could worsen trade imbalances and reduce margins for Canadian firms. Medium-term, it risks stifling innovation and increasing Canada's reliance on U.S. supply chains. Long-term, it could redefine North American trade relations, marginalizing Canada in global value chains. Actors like Freeland and Carney embody opposing visions: protectionism versus economic pragmatism. Exporting firms and unions hold divergent positions, reflecting contradictory sectoral interests.",
+        "analyse_zh": "此协议发生在加拿大与美国反复出现贸易紧张局势的背景下，以特朗普时期重新谈判《北美自由贸易协定》为标志。主要影响涉及两国的经济主权和工业竞争力。深层原因包括加拿大对美国的经济依赖和美国的贸易保护主义压力。短期内，此协议可能加剧贸易失衡并减少加拿大企业的利润空间。中期来看，可能抑制创新并增加加拿大对美国供应链的依赖。长期则可能重新定义北美贸易关系，使加拿大在全球价值链中边缘化。Freeland与Carney等各方代表不同立场：贸易保护主义与经济实用主义。出口企业与工会持截然不同的观点，反映了部门利益的矛盾。",
+        "analyse_ru": "Контекст связан с переговорами между США и Канадой по обновлению торговых соглашений, которые стали особенно актуальными после изменений в политике США. Причины заключаются в стремлении США укрепить свои позиции в торговле, что может привести к ущемлению интересов Канады. Последствия могут включать снижение конкурентоспособности канадских товаров и рост зависимости от американского рынка. Перспективы зависят от того, насколько Канада сможет диверсифицировать свои торговые партнёрства. Позиции сторон: США заинтересованы в укреплении своей экономической гегемонии, а Канада пытается сохранить суверенитет в торговле.",
+        "analyse_fa": "زمینه این ماجرا به مذاکرات بین آمریکا و کانادا برای به‌روزرسانی توافقات تجاری مربوط می‌شود که پس از تغییرات در سیاست‌های آمریکا اهمیت بیشتری پیدا کرده است. دلایل این امر به تلاش آمریکا برای تقویت موقعیت خود در تجارت بازمی‌گردد که ممکن است به زیان منافع کانادا تمام شود. پیامدهای این امر می‌تواند شامل کاهش رقابت‌پذیری کالاهای کانادایی و افزایش وابستگی به بازار آمریکا باشد. چشم‌اندازها به توانایی کانادا در تنوع‌بخشی به شرکای تجاری خود بستگی دارد. مواضع بازیگران: آمریکا به دنبال تقویت هژمونی اقتصادی خود است، در حالی که کانادا تلاش می‌کند تا حاکمیت خود در تجارت را حفظ کند.",
+        "analyse_ar": "سياق هذه القضية يتعلق بالمفاوضات بين الولايات المتحدة وكندا لتحديث اتفاقيات التجارة، التي اكتسبت أهمية خاصة بعد التغييرات في سياسات الولايات المتحدة. الأسباب تكمن في سعي الولايات المتحدة لتعزيز موقفها في التجارة، مما قد يؤدي إلى المساس بمصالح كندا. العواقب قد تشمل انخفاض القدرة التنافسية للسلع الكندية وزيادة الاعتماد على السوق الأمريكية. الآفاق تعتمد على مدى قدرة كندا على تنويع شركائها التجاريين. مواقف الأطراف: الولايات المتحدة مهتمة بتعزيز هيمنتها الاقتصادية، بينما تسعى كندا للحفاظ على سيادتها في التجارة.",
+        "categorie": "Économie",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/news/trade-deal-to-leave-bad-outcome-for-canada-ex-minister",
+        "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0822-mg-freeland.jpg",
+        "date": "2026-08-21",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur manufacturier canadien",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des obligations d'État américaines",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur manufacturier canadien",
+            "secteur_en": "Canadian manufacturing sector",
+            "secteur_zh": "加拿大制造业",
+            "effet_fr": "Les entreprises manufacturières canadiennes pourraient subir une baisse de compétitivité face à la concurrence américaine, réduisant leurs parts de marché.",
+            "effet_en": "Canadian manufacturing firms may face reduced competitiveness against U.S. rivals, shrinking their market share.",
+            "effet_zh": "加拿大制造企业可能面临与美国竞争对手竞争力下降，市场份额缩小。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des obligations d'État américaines",
+            "secteur_en": "U.S. Treasury bond market",
+            "secteur_zh": "美国国债市场",
+            "effet_fr": "L'incertitude commerciale pourrait pousser les investisseurs vers les obligations d'État, faisant baisser les rendements malgré les tensions inflationnistes.",
+            "effet_en": "Trade uncertainty could drive investors toward Treasury bonds, lowering yields despite inflationary pressures.",
+            "effet_zh": "贸易不确定性可能推动投资者转向国债，在通胀压力下降低收益率。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-22T20:21:08.654687"
+      },
       {
         "id": "usa_44478",
         "titre": "Pourquoi Trump s'intéresse au prix du bœuf",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-21T23:22:43.157556"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_364968",
-        "titre": "L’Iran et la menace d’une surprise d’octobre",
-        "titre_en": "Iran’s October surprise weapon threat",
-        "titre_zh": "伊朗的“十月惊喜”武器威胁",
-        "titre_ru": "Будьте осторожны: Иран готовит новый «октябрьский сюрприз»",
-        "titre_fa": "حذر از سلاح مخرب ایران: «عجایب اکتبر» جدید",
-        "titre_ar": "حذر من سلاح إيران الأكثر خداعاً: «عجائب أكتوبر» الجديدة",
-        "titre_original": "Beware Iran’s most devious weapon — another ‘October surprise’",
-        "resume": "L’Iran pourrait orchestrer une attaque contre Israël avant les élections américaines de mi-mandat pour influencer le scrutin. Téhéran espère que les États-Unis, divisés, réagiront faiblement. Les républicains pourraient perdre face à cette stratégie.",
-        "resume_en": "Iran may launch an attack on Israel before the US midterm elections to sway the vote. Tehran hopes a divided America will respond weakly. Republicans could lose as a result of this strategy.",
-        "resume_zh": "伊朗可能在美中期选举前对以色列发动袭击以影响选情。德黑兰希望分裂的美国会做出软弱回应。共和党可能因此失利。",
-        "resume_ru": "В идеальном сценарии режима Тегеран должен пережить удар Израиля, сыграть роль жертвы и воспользоваться этим, чтобы республиканцы проиграли на промежуточных выборах. Такой ход может укрепить позиции Ирана на международной арене и ослабить поддержку США. Аналитики предупреждают о возможном использовании Ираном пропаганды и дипломатических маневров для дестабилизации ситуации. Это может стать ключевым фактором в предвыборной борьбе. Источники отмечают, что подобные тактики уже применялись ранее с успехом.",
-        "resume_fa": "در سناریوی ایده‌آل، ایران باید ضربه اسرائیل را تحمل کند، نقش قربانی بازی کند و از این موقعیت برای شکست جمهوری‌خواهان در انتخابات میانه‌رو استفاده نماید. این حرکت می‌تواند قدرت ایران در عرصه بین‌المللی را تقویت و حمایت آمریکا را کاهش دهد. تحلیلگران از استفاده احتمالی ایران از پروپاگاندا و مانهورهای دیپلماتیک برای ناپایداری سیاسی هشدار می‌دهند. این تاکتیک‌ها پیش‌تر با موفقیت به کار گرفته شده‌اند. منابع اشاره می‌کنند که چنین استراتژی‌ها می‌توانند در رقابت‌های انتخاباتی نقش کلیدی ایفا کنند.",
-        "resume_ar": "في السيناريو المثالي، ستتقبل إيران ضربة إسرائيل وتظهر كظاهرة ضحية، ثم تستغل هذا الوضع لانتزاع انتصار الجمهوريين في الانتخابات الوسطى. هذا الخطوة قد تقوي مكانة إيران على الصعيد الدولي وتضعف دعم الولايات المتحدة لها. يحذر المحللون من استخدام إيران للبروباغندا والتحركات الدبلوماسية لخلق عدم استقرار سياسي. هذه التكتيكات قد تم تطبيقها بنجاح في الماضي. تشير المصادر إلى أن مثل هذه الاستراتيجيات قد تكون عاملاً حاسمًا في المنافسة الانتخابية.",
-        "analyse_detaillee": "L’Iran a une longue histoire d’utilisation de proxys pour déstabiliser ses adversaires, notamment Israël et les États-Unis. Cette stratégie s’inscrit dans une logique de guerre hybride où la désinformation et les attaques indirectes jouent un rôle clé. Les enjeux sont élevés car une escalade pourrait perturber les marchés énergétiques mondiaux, déjà tendus. Les causes profondes incluent la pression économique sur l’Iran due aux sanctions américaines et la volonté de Téhéran de renforcer son influence régionale. À court terme, une attaque pourrait provoquer une hausse des prix du pétrole et une volatilité des marchés. À moyen terme, cela pourrait renforcer les tensions géopolitiques en Moyen-Orient et affaiblir la position des États-Unis en tant que médiateur. À long terme, cela pourrait conduire à une course aux armements dans la région ou à une guerre ouverte. Les acteurs principaux sont l’Iran, Israël, les États-Unis et les puissances européennes qui tentent de négocier un nouvel accord nucléaire.",
-        "analyse_en": "Iran has a long history of using proxies to destabilize its adversaries, particularly Israel and the United States. This strategy fits into a hybrid warfare logic where disinformation and indirect attacks play a key role. The stakes are high because an escalation could disrupt global energy markets, already strained. The root causes include economic pressure on Iran due to US sanctions and Tehran’s desire to strengthen its regional influence. In the short term, an attack could drive up oil prices and market volatility. In the medium term, this could heighten geopolitical tensions in the Middle East and weaken the US position as a mediator. In the long term, it could lead to an arms race in the region or open warfare. The main actors are Iran, Israel, the United States, and European powers trying to negotiate a new nuclear deal.",
-        "analyse_zh": "伊朗长期利用代理势力破坏对手，特别是以色列和美国。这种策略属于混合战争逻辑，其中虚假信息和间接袭击扮演关键角色。风险极高，因为升级可能扰乱全球能源市场，后者已处于紧张状态。深层原因包括美国制裁对伊朗的经济压力以及德黑兰试图加强地区影响力。短期内，袭击可能推高油价并引发市场波动。中期来看，这可能加剧中东地缘政治紧张局势，削弱美国作为调解者的地位。长期而言，可能导致地区军备竞赛或公开战争。主要行为者包括伊朗、以色列、美国及试图谈判新核协议的欧洲大国。",
-        "analyse_ru": "Контекст: Иран часто использует тактику «октябрьского сюрприза» для дестабилизации региональных и международных отношений, особенно перед важными выборами. Причины: Тегеран стремится ослабить международное давление и укрепить свою позицию в переговорах с Западом. Последствия: Возможное усиление антиамериканских настроений и рост поддержки радикальных сил в США. Перспективы: Если Иран действительно применит подобную тактику, это может привести к эскалации напряженности в регионе. Позиции сторон: США и Израиль будут вынуждены реагировать на такие шаги, возможно, ужесточив санкции или увеличив военную поддержку.",
-        "analyse_fa": "زمینه: ایران اغلب از تاکتیک «عجایب اکتبر» برای ناپایداری روابط منطقه‌ای و بین‌المللی، به ویژه قبل از انتخابات مهم، استفاده می‌کند. علل: تهران سعی دارد فشار بین‌المللی را کاهش دهد و موقعیت خود در مذاکرات با غرب را تقویت کند. پیامدها: افزایش احساسات ضدآمریکایی و حمایت از گروه‌های رادیکال در آمریکا. چشم‌انداز: اگر ایران به واقعیت این تاکتیک بپردازد، می‌تواند به افزایش تنش در منطقه منجر شود. موضع بازیگران: آمریکا و اسرائیل ممکن است به این اقدامات واکنش نشان دهند، شاید با تشدید تحریم‌ها یا افزایش حمایت نظامی.",
-        "analyse_ar": "السياق: إيران تستخدم عادة تكتيك «عجائب أكتوبر» لخلق عدم استقرار في العلاقات الإقليمية والدولية، خاصة قبل من الانتخابات الهامة. الأسباب: تسعى طهران إلى تخفيف الضغط الدولي وتعزيز موقعها في المفاوضات مع الغرب. العواقب: زيادة المشاعر المعادية للولايات المتحدة ودعم القوى المتطرفة فيها. الآفاق: إذا استعملت إيران هذا التكتيك فعلياً، قد يؤدي إلى تصعيد التوتر في المنطقة. مواقف الأطراف: قد تستجيب الولايات المتحدة وإسرائيل لهذه الخطوات، ربما بتشديد العقوبات أو زيادة الدعم العسكري.",
-        "categorie": "Géopolitique",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/08/20/opinion/beware-irans-most-devious-weapon-a-new-october-surprise/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40438030_c35cb7.jpg?quality=75&strip=all&w=1200",
-        "date": "2026-08-20",
-        "pays": "usa",
+        "id": "chine_904366",
+        "titre": "Rappel massif de véhicules Tesla en Chine",
+        "titre_en": "China's Massive Tesla Vehicle Recall Over Door Handles",
+        "titre_zh": "中国大规模召回特斯拉等车辆",
+        "titre_ru": "Отзыв 4 миллионов автомобилей в Китае из-за дефектов дверных ручек",
+        "titre_fa": "فراخوانی 4 میلیون خودرو در چین به دلیل نقص در دسته درها",
+        "titre_ar": "استدعاء 4 ملايين سيارة في الصين بسبب عيوب مقابض الأبواب",
+        "titre_original": "China's Vehicle Recall Over Door Handles Affects 3M Teslas",
+        "resume": "Les autorités chinoises ont ordonné le rappel de plus de 4 millions de véhicules, principalement des Tesla, en raison de problèmes de sécurité liés aux poignées de porte. Cette décision touche aussi d'autres constructeurs automobiles chinois. Les défauts concernent principalement les systèmes de verrouillage et d'ouverture des portes.",
+        "resume_en": "Chinese authorities ordered the recall of over 4 million vehicles, mostly Teslas, due to safety issues with door handles. The decision also affects other Chinese automakers. Defects primarily involve door locking and opening systems.",
+        "resume_zh": "中国当局下令召回超过400万辆车，主要是特斯拉，因门把手安全问题。此决定也影响其他中国汽车制造商。缺陷主要涉及车门锁止和开启系统。",
+        "resume_ru": "Китайские власти объявили о массовом отзыве более 4 миллионов автомобилей из-за проблем с дверными ручками. В число пострадавших вошли автомобили Tesla и других китайских производителей. Причиной стали опасения по поводу безопасности. Власти требуют немедленного устранения дефектов.",
+        "resume_fa": "مقامات چینی از فراخوانی بیش از 4 میلیون خودرو به دلیل مشکلات مربوط به دسته‌های درها خبر دادند. خودروهای تسلا و سایر تولیدکنندگان چینی در این فراخوانی قرار دارند. علت این امر نگرانی‌های مربوط به ایمنی بوده است. مقامات خواستار رفع فوری این نقص‌ها شده‌اند.",
+        "resume_ar": "أعلنت السلطات الصينية عن استدعاء أكثر من 4 ملايين سيارة بسبب مشاكل في مقابض الأبواب. وشملت هذه الاستدعاءات سيارات تسلا وغيرها من المصنعين الصينيين. وكان السبب وراء ذلك هو المخاوف المتعلقة بالسلامة. وطلبت السلطات إصلاح هذه العيوب على الفور.",
+        "analyse_detaillee": "Ce rappel s'inscrit dans un contexte de renforcement des normes de sécurité automobile en Chine, aligné sur les standards internationaux. Les enjeux principaux concernent la protection des consommateurs et la réputation des marques étrangères sur le marché chinois. Les causes profondes incluent une concurrence accrue entre constructeurs et une pression réglementaire croissante. À court terme, ce rappel pourrait entraîner des pertes financières pour Tesla et ses concurrents, ainsi qu'une baisse temporaire de la demande. À moyen terme, il risque d'affaiblir la confiance des consommateurs chinois envers les véhicules électriques étrangers. À long terme, cela pourrait accélérer l'innovation en matière de sécurité et favoriser les constructeurs locaux mieux adaptés aux exigences chinoises. Les acteurs comme Tesla et les autorités chinoises adoptent des positions contrastées : gestion de crise versus renforcement réglementaire. Les consommateurs et les régulateurs adoptent des attitudes prudentes, reflétant des priorités divergentes.",
+        "analyse_en": "This recall occurs amid China's tightening automotive safety standards, aligning with international norms. Key stakes involve consumer protection and the reputation of foreign brands in the Chinese market. Root causes include intensified competition among automakers and growing regulatory pressure. In the short term, the recall could lead to financial losses for Tesla and competitors, along with a temporary demand dip. Medium-term, it risks eroding Chinese consumer trust in foreign electric vehicles. Long-term, it may accelerate safety innovation and favor local automakers better suited to Chinese requirements. Actors like Tesla and Chinese authorities hold contrasting positions: crisis management versus regulatory enforcement. Consumers and regulators adopt cautious attitudes, reflecting divergent priorities.",
+        "analyse_zh": "此次召回发生在中国加强汽车安全标准的背景下，与国际标准接轨。主要影响涉及消费者保护和外国品牌在中国市场的声誉。深层原因包括汽车制造商间竞争加剧和监管压力上升。短期内，此召回可能导致特斯拉及竞争对手的财务损失，以及需求暂时下降。中期来看，可能削弱中国消费者对外国电动车的信任。长期则可能加速安全创新并有利于更符合中国要求的本土制造商。特斯拉与中国当局等各方立场对立：危机管理与监管强化。消费者与监管机构采取谨慎态度，反映不同优先事项。",
+        "analyse_ru": "Контекст связан с ужесточением требований к безопасности автомобилей в Китае, крупнейшем автомобильном рынке мира. Причины массового отзыва кроются в выявленных дефектах, которые могут привести к авариям. Последствия для производителей могут быть серьёзными: потеря репутации, штрафы и снижение продаж. Перспективы зависят от того, насколько быстро компании смогут устранить дефекты. Позиции сторон: власти Китая стремятся обеспечить безопасность граждан, а производители должны оперативно реагировать на вызовы.",
+        "analyse_fa": "زمینه این ماجرا به تشدید الزامات ایمنی خودروها در چین، بزرگترین بازار خودرو جهان، مربوط می‌شود. دلایل فراخوانی گسترده به نقص‌های شناسایی‌شده‌ای بازمی‌گردد که می‌تواند منجر به تصادفات شود. پیامدهای این امر برای تولیدکنندگان می‌تواند جدی باشد: از دست دادن اعتبار، جریمه‌ها و کاهش فروش. چشم‌اندازها به سرعت واکنش شرکت‌ها در رفع نقص‌ها بستگی دارد. مواضع بازیگران: مقامات چینی در تلاش برای تأمین امنیت شهروندان هستند و تولیدکنندگان باید به چالش‌ها به سرعت واکنش نشان دهند.",
+        "analyse_ar": "سياق هذه القضية يتعلق بتشديد المتطلبات المتعلقة بسلامة السيارات في الصين، أكبر سوق للسيارات في العالم. الأسباب وراء الاستدعاء الجماعي تعود إلى العيوب المكتشفة التي قد تؤدي إلى حوادث. العواقب بالنسبة للمصنعين قد تكون خطيرة: فقدان السمعة، غرامات، وانخفاض المبيعات. الآفاق تعتمد على مدى سرعة قدرة الشركات على إصلاح العيوب. مواقف الأطراف: تسعى السلطات الصينية إلى ضمان سلامة المواطنين، بينما يتعين على المصنعين الاستجابة بسرعة للتحديات.",
+        "categorie": "Industrie",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/395083/chinas-vehicle-recall-over-door-handles-affects-3m-teslas.html",
+        "image": "https://cdn.newser.com/image/1706757-12-20260821151503.jpeg",
+        "date": "2026-08-21",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché pétrolier",
+            "label": "▲ Secteur automobile chinois",
             "hausse": true
           },
           {
-            "label": "▼ Marché boursier américain",
+            "label": "▼ Marché des pièces automobiles",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Une attaque iranienne pourrait provoquer une hausse des prix du pétrole en perturbant l'approvisionnement au Moyen-Orient.",
-            "effet_en": "An Iranian attack could drive up oil prices by disrupting supply in the Middle East.",
-            "effet_zh": "伊朗袭击可能因扰乱中东供应而推高油价。",
+            "secteur_fr": "Secteur automobile chinois",
+            "secteur_en": "Chinese automotive sector",
+            "secteur_zh": "中国汽车行业",
+            "effet_fr": "Les constructeurs automobiles chinois pourraient gagner des parts de marché face à Tesla, renforçant leur position sur le marché des véhicules électriques.",
+            "effet_en": "Chinese automakers could gain market share against Tesla, strengthening their position in the electric vehicle market.",
+            "effet_zh": "中国汽车制造商可能在电动车市场中赢得份额，巩固其地位。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché boursier américain",
-            "secteur_en": "US stock market",
-            "secteur_zh": "美国股票市场",
-            "effet_fr": "L’incertitude géopolitique pourrait entraîner une volatilité accrue des marchés boursiers américains avant les élections.",
-            "effet_en": "Geopolitical uncertainty could lead to increased volatility in US stock markets ahead of the elections.",
-            "effet_zh": "地缘政治不确定性可能在选举前导致美国股市波动加剧。",
+            "secteur_fr": "Marché des pièces automobiles",
+            "secteur_en": "Automotive parts market",
+            "secteur_zh": "汽车零部件市场",
+            "effet_fr": "Les fournisseurs de systèmes de porte pourraient subir une baisse de commandes, affectant leurs revenus et leur trésorerie.",
+            "effet_en": "Door system suppliers may face reduced orders, impacting their revenue and cash flow.",
+            "effet_zh": "车门系统供应商可能面临订单减少，影响收入和现金流。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-21T22:24:34.551860"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-22T20:21:08.654700"
+      },
       {
         "id": "chine_233284",
         "titre": "Indonésie et Chine accélèrent le code de conduite en mer de Chine",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-21T19:25:45.524480"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_484029",
-        "titre": "La Chine évince l'Inde du commerce pétrolier russe",
-        "titre_en": "China squeezes India out of Russia's oil trade",
-        "titre_zh": "中国挤压印度在俄罗斯石油贸易中的份额",
-        "titre_ru": "Китай вытесняет Индию из торговли российской нефтью",
-        "titre_fa": "چینIndia را از تجارت نفت روسیه کنار می‌زند",
-        "titre_ar": "الصين تطرد الهند من تجارة النفط الروسي",
-        "titre_original": "China Is Squeezing India Out of Russia’s Oil Trade",
-        "resume": "La Chine achète davantage de pétrole russe pour remplacer les barils iraniens manquants. Cette dynamique prive l'Inde de certaines cargaisons russes qu'elle importait auparavant. Pékin renforce ainsi son influence dans le commerce énergétique mondial.",
-        "resume_en": "China is buying more Russian oil to replace missing Iranian barrels, squeezing India out of some Russian oil shipments it previously imported. Beijing is thus strengthening its influence in global energy trade.",
-        "resume_zh": "中国正在购买更多俄罗斯石油以替代缺失的伊朗原油，从而挤压印度在其先前进口的俄罗斯石油中的份额。北京正在加强其在全球能源贸易中的影响力。",
-        "resume_ru": "Китай увеличивает импорт российской нефти, замещая иранские баррели. Это создает проблемы для Индии, которая ранее закупала российскую нефть. Китайские морские поставки российской сырой нефти растут, что усиливает его позиции на рынке.",
-        "resume_fa": "چین در حال افزایش واردات نفت روسیه است و جایگزین بشکه‌های ایرانی می‌شود. این موضوع برای هند که پیش‌تر نفت روسیه را خریداری می‌کرد، مشکلاتی ایجاد کرده است. واردات دریایی نفت خام روسیه توسط چین در حال رشد است و موقعیت این کشور در بازار را تقویت می‌کند.",
-        "resume_ar": "تزيد الصين من استيراد النفط الروسي بديلاً للنفط الإيراني. وهذا يخلق مشاكل للهند التي كانت تشتري النفط الروسي سابقاً. تتزايد واردات الصين البحرية للنفط الخام الروسي مما يعزز مكانتها في السوق.",
-        "analyse_detaillee": "Cette dynamique s'inscrit dans un contexte de réorganisation des flux pétroliers mondiaux, marqué par les sanctions occidentales contre l'Iran et la Russie. Historiquement, l'Inde et la Chine ont toujours été des acteurs majeurs dans l'importation de pétrole russe, mais leurs stratégies divergent depuis le conflit en Ukraine. Les enjeux principaux incluent la sécurité énergétique, la réduction de la dépendance aux importations de pétrole du Moyen-Orient et la consolidation de l'influence géopolitique en Eurasie. Les causes profondes résident dans les tensions géopolitiques accrues, les sanctions internationales et la volonté de Pékin de dominer les chaînes d'approvisionnement énergétique. À court terme, cette situation pourrait réduire les revenus pétroliers de l'Inde et augmenter ceux de la Chine. À moyen terme, elle pourrait accélérer la diversification des sources d'approvisionnement pour New Delhi, mais aussi renforcer la dépendance de Moscou envers Pékin. À long terme, cette dynamique pourrait redessiner les alliances énergétiques en Asie et en Eurasie, avec une Chine dominante. Les acteurs clés incluent la Russie, la Chine, l'Inde, les États-Unis et les pays du Moyen-Orient.",
-        "analyse_en": "This trend reflects a reorganization of global oil flows amid Western sanctions on Iran and Russia. Historically, India and China have been major importers of Russian oil, but their strategies have diverged since the Ukraine conflict. Key stakes include energy security, reducing dependence on Middle Eastern oil imports, and consolidating geopolitical influence in Eurasia. Root causes stem from heightened geopolitical tensions, international sanctions, and Beijing's ambition to dominate energy supply chains. In the short term, this situation could reduce India's oil revenues and increase China's. In the medium term, it may accelerate New Delhi's diversification of supply sources but also deepen Moscow's reliance on Beijing. Long-term, this dynamic could reshape energy alliances in Asia and Eurasia, with China as the dominant player. Key actors include Russia, China, India, the U.S., and Middle Eastern countries.",
-        "analyse_zh": "这一趋势反映了在西方对伊朗和俄罗斯制裁背景下全球石油流动的重组。历史上，印度和中国一直是俄罗斯石油的主要进口国，但自乌克兰冲突以来，它们的战略已出现分化。主要影响包括能源安全、减少对中东石油进口的依赖以及巩固欧亚地区的地缘政治影响力。深层原因在于地缘政治紧张局势加剧、国际制裁以及北京试图主导能源供应链的野心。短期内，这种情况可能减少印度的石油收入并增加中国的收入。中期来看，它可能加速新德里多元化供应来源，但也可能加深莫斯科对北京的依赖。长期而言，这一动态可能重塑亚洲和欧亚地区的能源联盟，中国将成为主导力量。主要行为者包括俄罗斯、中国、印度、美国和中东国家。",
-        "analyse_ru": "Рост китайского импорта российской нефти отражает стратегию Пекина по диверсификации энергоресурсов. Причины связаны с санкциями против Ирана и стремлением укрепить позиции на рынке. Последствия могут включать ослабление позиций Индии и усиление зависимости России от Китая. Перспективы зависят от геополитической ситуации и цен на нефть. Позиции сторон: Китай укрепляет экономическое влияние, Россия получает нового ключевого партнера, а Индия теряет позиции.",
-        "analyse_fa": "افزایش واردات نفت روسیه توسط چین استراتژی پکن برای تنوع‌بخشی به منابع انرژی را نشان می‌دهد. دلایل این اقدام به تحریم‌های علیه ایران و تلاش برای تقویت موقعیت در بازار مربوط می‌شود. پیامدها می‌تواند شامل تضعیف موقعیت هند و افزایش وابستگی روسیه به چین باشد. چشم‌اندازها به وضعیت ژئوپلیتیکی و قیمت نفت بستگی دارد. موضع بازیگران: چین نفوذ اقتصادی خود را تقویت می‌کند، روسیه شریک کلیدی جدیدی به دست می‌آورد، و هند موقعیت خود را از دست می‌دهد.",
-        "analyse_ar": "أظهر نمو استيراد الصين للنفط الروسي استراتيجية بكين في تنويع مصادر الطاقة. تأتي الأسباب من العقوبات ضد إيران والسعي لتعزيز المكانة في السوق. قد تشمل العواقب ضعف موقف الهند وزيادة اعتماد روسيا على الصين. ترتبط الآفاق بالوضع الجيوسياسي وأسعار النفط. مواقف الأطراف: تعزز الصين نفوذها الاقتصادي، وتحصل روسيا على شريك رئيسي جديد، بينما تخسر الهند مكانتها.",
+        "id": "russie_233265",
+        "titre": "Frappes russes sur un centre commercial en Ukraine",
+        "titre_en": "Russian Drones Kill 14 in Ukrainian Shopping Mall Strike",
+        "titre_zh": "俄无人机袭击乌克兰商场致14人死亡",
+        "titre_ru": "Российские дроны атаковали торговый центр в Украине: 14 погибших",
+        "titre_fa": "حمله پهپادهای روسی به مرکز خرید در اوکراین: 14 کشته",
+        "titre_ar": "هجمات الطائرات المسيرة الروسية على مركز تجاري في أوكرانيا: 14 قتيلاً",
+        "titre_original": "Russian drones kill 14 people at a shopping mall in a central Ukrainian city, officials say - AP News",
+        "resume": "Quatorze personnes ont été tuées et plus de 100 blessées lors d'une frappe russe sur un centre commercial dans une ville centrale ukrainienne. Les autorités ukrainiennes dénoncent une attaque en 'double tap', ciblant d'abord les secours. Moscou n'a pas encore réagi officiellement à ces accusations.",
+        "resume_en": "Fourteen people were killed and over 100 wounded in a Russian drone strike on a shopping mall in a central Ukrainian city. Ukrainian authorities accuse Russia of a 'double tap' attack, targeting first responders. Moscow has not yet officially responded to these allegations.",
+        "resume_zh": "在对乌克兰中部城市一家购物中心的无人机袭击中，14人死亡，100多人受伤。乌克兰当局指责俄罗斯实施‘双击’袭击，先攻击救援人员。莫斯科尚未对此指控作出正式回应。",
+        "resume_ru": "Российские беспилотники нанесли удар по торговому центру в центральном украинском городе, в результате чего погибли 14 человек. По данным властей, это часть тактики «двойного удара», когда атака повторяется после прибытия спасателей. Ранения получили более 100 человек.",
+        "resume_fa": "پهپادهای روسی به یک مرکز خرید در یک شهر مرکزی اوکراین حمله کردند که منجر به کشته شدن 14 نفر شد. به گفته مقامات، این بخشی از تاکتیک «ضربه دوگانه» است که در آن حمله پس از رسیدن امدادگران تکرار می‌شود. بیش از 100 نفر زخمی شدند.",
+        "resume_ar": "شنّت الطائرات المسيرة الروسية هجوماً على مركز تجاري في مدينة أوكرانية وسط، مما أسفر عن مقتل 14 شخصاً. وفقاً للسلطات، هذا جزء من تكتيك 'الضربة المزدوجة'، حيث تتكرر الهجمة بعد وصول فرق الإنقاذ. أصيب أكثر من 100 شخص بجروح.",
+        "analyse_detaillee": "Cette attaque s'inscrit dans le prolongement de la guerre en Ukraine, marquée par une escalade des frappes russes sur des cibles civiles depuis 2022. Les enjeux principaux concernent la violation du droit international humanitaire et l'escalade du conflit. Les causes profondes incluent la stratégie russe de démoralisation de la population ukrainienne et la recherche de gains territoriaux. À court terme, cette frappe pourrait renforcer la détermination ukrainienne et internationaliser davantage le conflit. À moyen terme, elle risque d'aggraver la crise humanitaire et de pousser davantage de pays à soutenir militairement l'Ukraine. À long terme, cela pourrait normaliser les attaques contre les infrastructures civiles, sapant les normes de guerre. Les acteurs comme l'Ukraine et la Russie adoptent des positions opposées : résistance versus expansionnisme. Les pays occidentaux et les organisations humanitaires condamnent unanimement ces actes, mais peinent à coordonner une réponse efficace.",
+        "analyse_en": "This attack follows the ongoing war in Ukraine, marked by an escalation of Russian strikes on civilian targets since 2022. Key stakes involve violations of international humanitarian law and conflict escalation. Root causes include Russia's strategy to demoralize the Ukrainian population and secure territorial gains. In the short term, this strike could strengthen Ukrainian resolve and further internationalize the conflict. Medium-term, it risks worsening the humanitarian crisis and pushing more countries to militarily support Ukraine. Long-term, it could normalize attacks on civilian infrastructure, undermining war norms. Actors like Ukraine and Russia hold opposing positions: resistance versus expansionism. Western countries and humanitarian organizations uniformly condemn these acts but struggle to coordinate an effective response.",
+        "analyse_zh": "此次袭击是乌克兰战争的延续，自2022年以来俄罗斯对平民目标的袭击升级。主要影响涉及违反国际人道法和冲突升级。深层原因包括俄罗斯瓦解乌克兰民心和获取领土的战略。短期内，此次袭击可能增强乌克兰抵抗决心并进一步国际化冲突。中期来看，可能加剧人道主义危机并推动更多国家军事支持乌克兰。长期则可能使袭击平民基础设施常态化，破坏战争规范。乌克兰与俄罗斯等各方立场对立：抵抗与扩张主义。西方国家与人道主义组织一致谴责这些行为，但难以协调有效回应。",
+        "analyse_ru": "Контекст связан с эскалацией военных действий на Украине, где Россия использует тактику террора против гражданского населения. Причины таких атак объясняются стремлением России дестабилизировать Украину и сломить её волю к сопротивлению. Последствия включают гуманитарную катастрофу, рост числа беженцев и международное осуждение. Перспективы зависят от поддержки Украины со стороны западных партнёров. Позиции сторон: Россия продолжает военную кампанию, а Украина призывает международное сообщество к более жёстким санкциям.",
+        "analyse_fa": "زمینه این ماجرا به تشدید اقدامات نظامی در اوکراین مربوط می‌شود که در آن روسیه از تاکتیک‌های تروریستی علیه غیرنظامیان استفاده می‌کند. دلایل چنین حملاتی به تلاش روسیه برای بی‌ثبات‌سازی اوکراین و شکستن اراده مقاومت آن بازمی‌گردد. پیامدهای این امر شامل فاجعه انسانی، افزایش آوارگان و محکومیت بین‌المللی است. چشم‌اندازها به حمایت اوکراین از سوی شرکای غربی بستگی دارد. مواضع بازیگران: روسیه به ادامه کمپین نظامی خود ادامه می‌دهد، در حالی که اوکراین از جامعه بین‌المللی برای تحریم‌های سخت‌تر درخواست می‌کند.",
+        "analyse_ar": "سياق هذه القضية يتعلق بتصعيد الأعمال العسكرية في أوكرانيا، حيث تستخدم روسيا تكتيكات الإرهاب ضد المدنيين. الأسباب وراء هذه الهجمات ترجع إلى سعي روسيا لزعزعة استقرار أوكرانيا وكسر إرادتها في المقاومة. العواقب تشمل كارثة إنسانية وزيادة عدد اللاجئين والإدانة الدولية. الآفاق تعتمد على دعم أوكرانيا من قبل الشركاء الغربيين. مواقف الأطراف: تواصل روسيا حملتها العسكرية، بينما تدعو أوكرانيا المجتمع الدولي إلى فرض عقوبات أشد.",
         "categorie": "Géopolitique",
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Is-Squeezing-India-Out-of-Russias-Oil-Trade.html",
-        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-20_kq4ingy5s9.jpg",
-        "date": "2026-08-20",
-        "pays": "chine",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185089724",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-08-21",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ marché pétrolier asiatique",
-            "hausse": true
+            "label": "▼ Marché des assurances de guerre",
+            "hausse": false
           },
           {
-            "label": "▲ secteur maritime",
+            "label": "▲ Secteur de la défense ukrainienne",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "marché pétrolier asiatique",
-            "secteur_en": "Asian oil market",
-            "secteur_zh": "亚洲石油市场",
-            "effet_fr": "La Chine pourrait devenir le principal importateur de pétrole russe, marginalisant l'Inde.",
-            "effet_en": "China could become the main importer of Russian oil, marginalizing India.",
-            "effet_zh": "中国可能成为俄罗斯石油的主要进口国，边缘化印度。",
-            "hausse": true
+            "secteur_fr": "Marché des assurances de guerre",
+            "secteur_en": "War insurance market",
+            "secteur_zh": "战争保险市场",
+            "effet_fr": "Les assureurs pourraient augmenter les primes pour les entreprises opérant en Ukraine, reflétant un risque accru de pertes liées aux conflits.",
+            "effet_en": "Insurers may raise premiums for firms operating in Ukraine, reflecting increased risk of conflict-related losses.",
+            "effet_zh": "保险公司可能提高在乌克兰经营企业的保费，反映冲突相关损失风险上升。",
+            "hausse": false
           },
           {
-            "secteur_fr": "secteur maritime",
-            "secteur_en": "maritime shipping sector",
-            "secteur_zh": "航运业",
-            "effet_fr": "L'augmentation des exportations russes vers la Chine pourrait stimuler le trafic maritime en Asie.",
-            "effet_en": "Increased Russian exports to China could boost maritime traffic in Asia.",
-            "effet_zh": "俄罗斯对华出口增加可能促进亚洲航运业。",
+            "secteur_fr": "Secteur de la défense ukrainienne",
+            "secteur_en": "Ukrainian defense sector",
+            "secteur_zh": "乌克兰国防行业",
+            "effet_fr": "Les attaques pourraient stimuler les investissements dans la défense ukrainienne, notamment dans les systèmes de détection et de contre-mesures.",
+            "effet_en": "The attacks could boost investments in Ukrainian defense, particularly in detection and countermeasure systems.",
+            "effet_zh": "袭击可能推动乌克兰国防投资，特别是在探测和反制系统方面。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-21T18:35:13.529582"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-22T20:21:08.654711"
+      },
       {
         "id": "russie_305472",
         "titre": "Frappe russe meurtrière sur un centre commercial en Ukraine",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-21T20:24:40.937625"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_867792",
-        "titre": "Pénuries de carburant en Russie",
-        "titre_en": "Russia faces fuel shortages",
-        "titre_zh": "俄罗斯面临燃料短缺",
-        "titre_ru": "Видео показывают драки из-за дефицита бензина в России",
-        "titre_fa": "فیلم‌هایی از درگیری‌ها بر سر کمبود بنزین در روسیه منتشر شد",
-        "titre_ar": "فيديوهات تظهر مشاجرات بسبب نقص البنزين في روسيا",
-        "titre_original": "Videos Shows Brawls Breaking Out Over Crippling Russian Gas Shortages",
-        "resume": "Des vidéos sur les réseaux sociaux montrent des affrontements entre automobilistes en Russie en raison de graves pénuries de carburant. Ces pénuries sont aggravées par les frappes ukrainiennes sur les infrastructures pétrolières russes. Le Kremlin est sous pression pour résoudre cette crise.",
-        "resume_en": "Social media videos show clashes among drivers in Russia due to severe fuel shortages. These shortages are worsened by Ukrainian strikes on Russian oil facilities. The Kremlin faces pressure to address this crisis.",
-        "resume_zh": "社交媒体视频显示，俄罗斯因严重燃料短缺，司机之间发生冲突。这些短缺因乌克兰对俄罗斯石油设施的袭击而恶化。克里姆林宫面临解决这场危机的压力。",
-        "resume_ru": "В социальных сетях появились видеозаписи массовых драк между автомобилистами из-за нехватки бензина. Дефицит вызван ударами Украины по российским нефтяным объектам. Это создаёт серьёзные проблемы для Кремля.",
-        "resume_fa": "در شبکه‌های اجتماعی ویدئوهایی از درگیری‌های خشونت‌آمیز بین رانندگان به دلیل کمبود بنزین منتشر شد. این کمبود ناشی از حملات اوکراین به تاسیسات نفتی روسیه است و مشکلات جدی برای کرملین ایجاد می‌کند.",
-        "resume_ar": "ظهرت فيديوهات على وسائل التواصل الاجتماعي لمشاجرات عنيفة بين سائقي السيارات بسبب نقص البنزين. هذا النقص ناتج عن ضربات أوكرانيا لمواقع نفطية روسية ويخلق مشاكل خطيرة للكرملين.",
-        "analyse_detaillee": "La Russie, déjà fragilisée par les sanctions internationales et la guerre en Ukraine, subit une nouvelle crise énergétique interne. Les enjeux principaux incluent la stabilité sociale et la capacité du gouvernement à gérer les ressources. Les causes profondes remontent aux frappes ukrainiennes ciblant les infrastructures pétrolières et gazières, ainsi qu'à la gestion inefficace des réserves stratégiques. À court terme, les pénuries pourraient provoquer des émeutes locales et une perte de confiance dans le pouvoir. À moyen terme, cela risque d'affaiblir l'économie russe, déjà en récession, et d'aggraver les tensions sociales. À long terme, la dépendance aux exportations d'énergie pourrait être remise en question, forçant la Russie à diversifier son économie. Les acteurs incluent le gouvernement russe, les oligarques contrôlant les ressources, et la population affectée par la hausse des prix. La communauté internationale observe cette crise, qui pourrait influencer les stratégies énergétiques mondiales.",
-        "analyse_en": "Russia, already weakened by international sanctions and the war in Ukraine, faces a new internal energy crisis. Key stakes include social stability and the government's ability to manage resources. Root causes trace back to Ukrainian strikes on oil and gas infrastructures, as well as inefficient management of strategic reserves. In the short term, shortages could trigger local riots and a loss of trust in the government. In the medium term, this may weaken Russia's already recession-hit economy and exacerbate social tensions. Long-term, dependence on energy exports could be questioned, forcing Russia to diversify its economy. Key actors include the Russian government, oligarchs controlling resources, and the population affected by price hikes. The international community is watching this crisis, which could influence global energy strategies.",
-        "analyse_zh": "俄罗斯在国际制裁和乌克兰战争的双重压力下，正面临一场新的国内能源危机。主要影响包括社会稳定和政府管理资源的能力。深层原因在于乌克兰对俄罗斯石油和天然气基础设施的袭击，以及对战略储备的低效管理。短期内，短缺可能引发地方骚乱和对政府的信任危机。中期来看，这可能削弱俄罗斯本已衰退的经济，并加剧社会紧张局势。长期而言，对能源出口的依赖可能受到质疑，迫使俄罗斯经济多元化。主要参与者包括俄罗斯政府、控制资源的寡头以及因价格上涨而受影响的民众。国际社会正在关注这场危机，它可能影响全球能源战略。",
-        "analyse_ru": "Нехватка бензина в России стала следствием военных действий и санкций, связанных с войной в Украине. Причины включают разрушение инфраструктуры и логистические проблемы. Последствия могут привести к социальным волнениям и политической нестабильности. Перспективы зависят от способности России восстановить нефтяные мощности и стабилизировать рынок. Позиции сторон разделяются: власти обвиняют Украину и Запад в саботаже, а оппозиция критикует неэффективное управление экономикой.",
-        "analyse_fa": "کمبود بنزین در روسیه نتیجه اقدامات نظامی و تحریم‌های مرتبط با جنگ در اوکراین است. دلایل شامل تخریب زیرساخت‌ها و مشکلات لجستیکی می‌شود. پیامدها می‌تواند منجر به ناآرامی‌های اجتماعی و بی‌ثباتی سیاسی شود. چشم‌اندازها به توانایی روسیه در بازسازی ظرفیت‌های نفتی و تثبیت بازار بستگی دارد. مواضع بازیگران متفاوت است: مقامات، اوکراین و غرب را به خرابکاری متهم می‌کنند، در حالی که اپوزیسیون مدیریت ناکارآمد اقتصاد را نقد می‌کند.",
-        "analyse_ar": "أصبح نقص البنزين في روسيا نتيجة للأعمال العسكرية والعقوبات المرتبطة بالحرب في أوكرانيا. الأسباب تشمل تدمير البنية التحتية ومشاكل لوجستية. العواقب قد تؤدي إلى اضطرابات اجتماعية وعدم استقرار سياسي. الآفاق تعتمد على قدرة روسيا على استعادة قدراتها النفطية واستقرار السوق. مواقف الأطراف مختلفة: تتهم السلطات أوكرانيا والغرب بالتخريب، بينما تنتقد المعارضة الإدارة الاقتصادية غير الفعالة.",
-        "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4392527/posts",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-08-20",
-        "pays": "russie",
+        "id": "iran_618909",
+        "titre": "Marché boursier américain en légère hausse",
+        "titre_en": "U.S. Stocks Rise Amid Middle East Tensions",
+        "titre_zh": "美国股市因中东局势上涨",
+        "titre_ru": "Американские акции выросли, но неделя завершилась падением",
+        "titre_fa": "بازار سهام آمریکا رشد کرد، اما هفته با کاهش به پایان رسید",
+        "titre_ar": "ارتفعت الأسهم الأمريكية، لكن الأسبوع انتهى بانخفاض",
+        "titre_original": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
+        "resume": "Les principaux indices boursiers américains ont clôturé en légère hausse vendredi, malgré une semaine globalement en baisse. Les investisseurs surveillent les tensions au Moyen-Orient et l'évolution des rendements obligataires. La croissance du secteur des services a partiellement compensé les craintes géopolitiques.",
+        "resume_en": "Major U.S. stock indexes ended higher on Friday but posted weekly declines. Investors reacted to Middle East tensions and fluctuating bond yields. Stronger services sector growth partially offset geopolitical concerns.",
+        "resume_zh": "美国主要股指周五收高，但本周整体下跌。投资者关注中东紧张局势和波动的债券收益率。服务业增长强劲部分抵消了地缘政治担忧。",
+        "resume_ru": "Основные американские фондовые индексы выросли в пятницу, но завершили неделю с падением. Инвесторы отреагировали на колебания доходности гособлигаций и события на Ближнем Востоке. Рост сектора услуг частично компенсировал потери.",
+        "resume_fa": "شاخص‌های اصلی بازار سهام آمریکا در روز جمعه رشد کردند، اما هفته با کاهش به پایان رسید. سرمایه‌گذاران به نوسانات بازدهی اوراق قرضه دولتی و تحولات خاورمیانه واکنش نشان دادند. رشد بخش خدمات تا حدی زیان‌ها را جبران کرد.",
+        "resume_ar": "ارتفعت مؤشرات الأسهم الرئيسية في الولايات المتحدة يوم الجمعة، لكن الأسبوع انتهى بانخفاض. تفاعل المستثمرون مع تقلبات عائدات السندات الحكومية وتطورات الشرق الأوسط. تعويض نمو قطاع الخدمات جزئياً الخسائر.",
+        "analyse_detaillee": "Cette volatilité s'inscrit dans un contexte de tensions géopolitiques persistantes au Moyen-Orient, exacerbées par les conflits en cours et les sanctions internationales. Les enjeux principaux concernent la stabilité des marchés financiers et la gestion des risques par les investisseurs. Les causes profondes incluent l'incertitude économique mondiale et les politiques monétaires restrictives des banques centrales. À court terme, cette hausse pourrait être temporaire, reflétant une prise de risque accrue malgré les risques géopolitiques. À moyen terme, elle risque de masquer des vulnérabilités structurelles dans les secteurs sensibles aux tensions internationales. À long terme, cela pourrait accélérer la diversification des portefeuilles vers des actifs moins exposés aux conflits régionaux. Les acteurs comme les investisseurs institutionnels et les banques centrales adoptent des stratégies divergentes : recherche de rendement versus prudence. Les entreprises du secteur des services bénéficient d'une dynamique positive, tandis que les secteurs exportateurs subissent des pressions.",
+        "analyse_en": "This volatility occurs amid persistent Middle East geopolitical tensions, fueled by ongoing conflicts and international sanctions. Key stakes involve financial market stability and investor risk management. Root causes include global economic uncertainty and central banks' restrictive monetary policies. In the short term, this rise could be temporary, reflecting increased risk-taking despite geopolitical risks. Medium-term, it risks masking structural vulnerabilities in sectors sensitive to international tensions. Long-term, it could accelerate portfolio diversification toward assets less exposed to regional conflicts. Actors like institutional investors and central banks adopt divergent strategies: yield-seeking versus caution. Service sector firms benefit from positive momentum, while export-oriented sectors face pressures.",
+        "analyse_zh": "此波动发生在中东地缘政治紧张局势持续的背景下，受到当前冲突和国际制裁推动。主要影响涉及金融市场稳定和投资者风险管理。深层原因包括全球经济不确定性和央行的紧缩货币政策。短期内，此上涨可能是暂时的，反映在风险事件中增加风险承担。中期来看，可能掩盖对国际紧张局势敏感行业的结构性脆弱性。长期则可能加速投资组合多元化，转向对地区冲突风险较低的资产。机构投资者与央行等各方采取不同策略：追求收益与谨慎并存。服务业企业受益于积极动能，而出口导向行业面临压力。",
+        "analyse_ru": "Контекст связан с нестабильностью на мировых финансовых рынках, вызванной геополитическими рисками и экономическими факторами. Причины колебаний рынка кроются в неопределённости, связанной с доходностью гособлигаций США и напряжённостью на Ближнем Востоке. Последствия могут включать снижение инвестиционной активности и замедление экономического роста. Перспективы зависят от того, насколько быстро удастся стабилизировать ситуацию. Позиции сторон: инвесторы осторожны, а власти США пытаются сгладить последствия нестабильности.",
+        "analyse_fa": "زمینه این ماجرا به ناپایداری در بازارهای مالی جهانی مربوط می‌شود که ناشی از ریسک‌های ژئوپلیتیکی و عوامل اقتصادی است. دلایل نوسانات بازار به عدم قطعیت مرتبط با بازدهی اوراق قرضه دولتی آمریکا و تنش‌های خاورمیانه بازمی‌گردد. پیامدهای این امر می‌تواند شامل کاهش فعالیت‌های سرمایه‌گذاری و کندی رشد اقتصادی باشد. چشم‌اندازها به سرعت تثبیت وضعیت بستگی دارد. مواضع بازیگران: سرمایه‌گذاران محتاط هستند و مقامات آمریکایی تلاش می‌کنند تا پیامدهای ناپایداری را کاهش دهند.",
+        "analyse_ar": "سياق هذه القضية يتعلق بعدم الاستقرار في الأسواق المالية العالمية، الناجم عن المخاطر الجيوسياسية والعوامل الاقتصادية. الأسباب وراء تقلبات السوق تعود إلى عدم اليقين المرتبط بعائدات السندات الحكومية الأمريكية والتوترات في الشرق الأوسط. العواقب قد تشمل انخفاض النشاط الاستثماري وتباطؤ النمو الاقتصادي. الآفاق تعتمد على مدى سرعة استقرار الوضع. مواقف الأطراف: حذر المستثمرون، بينما تحاول السلطات الأمريكية تخفيف آثار عدم الاستقرار.",
+        "categorie": "Finance",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms",
+        "image": "https://img.etimg.com/thumb/msid-133413503,width-1200,height-630,imgsize-170810,overlay-etmarkets/articleshow.jpg",
+        "date": "2026-08-21",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur énergétique russe",
-            "hausse": false
+            "label": "▲ Secteur des services financiers",
+            "hausse": true
           },
           {
-            "label": "▼ Secteur agricole",
+            "label": "▼ Marché des matières premières énergétiques",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur énergétique russe",
-            "secteur_en": "Russian energy sector",
-            "secteur_zh": "俄罗斯能源行业",
-            "effet_fr": "Les pénuries pourraient réduire la capacité d'exportation de la Russie, affectant ses revenus pétroliers et gaziers déjà en baisse sous les sanctions.",
-            "effet_en": "Shortages could reduce Russia's export capacity, impacting its already declining oil and gas revenues under sanctions.",
-            "effet_zh": "短缺可能降低俄罗斯的出口能力，在制裁下影响其已下降的石油和天然气收入。",
-            "hausse": false
+            "secteur_fr": "Secteur des services financiers",
+            "secteur_en": "Financial services sector",
+            "secteur_zh": "金融服务行业",
+            "effet_fr": "Les banques et assureurs pourraient voir leurs valorisations soutenues par une demande accrue pour des produits de couverture des risques géopolitiques.",
+            "effet_en": "Banks and insurers may see their valuations supported by increased demand for geopolitical risk hedging products.",
+            "effet_zh": "银行和保险公司可能因对地缘政治风险对冲产品需求增加而获得估值支撑。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur agricole",
-            "secteur_en": "Agricultural sector",
-            "secteur_zh": "农业部门",
-            "effet_fr": "La hausse des coûts de transport et d'engrais, liée aux pénuries de carburant, pourrait augmenter les prix des denrées alimentaires et réduire la compétitivité des exportations agricoles.",
-            "effet_en": "Higher fuel costs, linked to shortages, could increase food prices and reduce the competitiveness of agricultural exports.",
-            "effet_zh": "与燃料短缺相关的更高燃料成本可能推高食品价格，并降低农产品出口的竞争力。",
+            "secteur_fr": "Marché des matières premières énergétiques",
+            "secteur_en": "Energy commodities market",
+            "secteur_zh": "能源大宗商品市场",
+            "effet_fr": "Les tensions au Moyen-Orient pourraient faire monter les prix du pétrole, affectant les coûts de production des entreprises industrielles.",
+            "effet_en": "Middle East tensions could drive up oil prices, impacting production costs for industrial firms.",
+            "effet_zh": "中东紧张局势可能推高油价，影响工业企业生产成本。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-21T19:25:45.524472"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-22T20:21:08.654721"
+      },
       {
         "id": "iran_42228",
         "titre": "L'Iran et l'Irak signent un accord de sécurité complet",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-21T17:28:03.678211"
-      },
-      {
-        "id": "iran_117698",
-        "titre": "Blocus naval iranien : 62 navires redirigés",
-        "titre_en": "Iran naval blockade redirects 62 vessels",
-        "titre_zh": "伊朗海上封锁重定向62艘船只",
-        "titre_ru": "Центральное командование США блокирует суда иранских ВМС",
-        "titre_fa": "فرماندهی مرکزی آمریکا کشتی‌های ایرانی را متوقف و منهدم کرد",
-        "titre_ar": "القوات المركزية الأمريكية تعيق السفن الإيرانية وتدمّرها",
-        "titre_original": "US Central Command redirects 62 vessels, disables three as Iran naval blockade intensifies",
-        "resume": "Le Commandement central américain a redirigé 62 navires et désactivé trois navires iraniens dans le cadre du blocus naval contre l'Iran. Cette escalade intervient dans un contexte de tensions régionales croissantes. Les autorités américaines justifient ces actions par la nécessité de faire respecter les sanctions internationales.",
-        "resume_en": "U.S. Central Command redirected 62 vessels and disabled three Iranian ships as part of the naval blockade against Iran. This escalation occurs amid growing regional tensions. U.S. authorities justify these actions by the need to enforce international sanctions.",
-        "resume_zh": "美国中央司令部在对伊朗的海上封锁中重定向了62艘船只并摧毁了三艘伊朗船只。此次升级发生在地区紧张局势加剧的背景下。美国当局以执行国际制裁的必要性为由为这些行动辩护。",
-        "resume_ru": "К августу 2026 года Центральное командование США перенаправило 67 судов, уничтожило три и досматривало два в рамках блокады Ирана. Действия связаны с обострением конфликта в Персидском заливе. США обвиняют Иран в создании угрозы судоходству.",
-        "resume_fa": "تا اوت 2026، فرماندهی مرکزی آمریکا 67 کشتی را منحرف، سه فروند را منهدم و دو فروند را بازرسی کرده است. این اقدامات بخشی از تحریم دریایی علیه ایران است. ایالات متحده ایران را به تهدید امنیت کشتیرانی متهم می‌کند.",
-        "resume_ar": "حتى أغسطس 2026، قامت القوات المركزية الأمريكية بإعادة توجيه 67 سفينة إيرانية وتدمير ثلاث منها وتفتيش اثنتين في إطار الحصار البحري على إيران. ترتبط هذه الإجراءات بتفاقم الصراع في الخليج الفارسي. تتهم الولايات المتحدة إيران بتهديد أمن الملاحة البحرية.",
-        "analyse_detaillee": "Ce blocus s'inscrit dans une longue histoire de tensions entre l'Iran et les États-Unis, remontant à la révolution islamique de 1979 et à la crise des otages. Les enjeux principaux incluent le contrôle des routes maritimes stratégiques du Golfe Persique et la pression sur le régime iranien pour qu'il respecte les sanctions. Les causes profondes résident dans les divergences géopolitiques, notamment sur le programme nucléaire iranien et son influence régionale. À court terme, cette escalade pourrait provoquer des représailles de l'Iran ou de ses alliés, comme le Yémen ou le Liban. À moyen terme, elle risque d'aggraver l'instabilité économique dans la région, affectant les échanges commerciaux. À long terme, cela pourrait mener à une escalade militaire ou à des négociations sous pression. Les acteurs clés sont les États-Unis, l'Iran, les pays du Golfe et la communauté internationale. La position de l'UE et de la Chine, qui tentent de maintenir des canaux diplomatiques, sera déterminante.",
-        "analyse_en": "This blockade is part of a long history of tensions between Iran and the U.S., dating back to the 1979 Islamic Revolution and the hostage crisis. The main stakes include control over the strategic maritime routes of the Persian Gulf and pressure on the Iranian regime to comply with sanctions. Root causes lie in geopolitical divergences, particularly over Iran's nuclear program and its regional influence. In the short term, this escalation could provoke retaliation from Iran or its allies, such as Yemen or Lebanon. Medium-term, it risks worsening economic instability in the region, affecting trade. Long-term, it could lead to military escalation or pressure-driven negotiations. Key actors are the U.S., Iran, Gulf countries, and the international community. The stance of the EU and China, which seek to maintain diplomatic channels, will be decisive.",
-        "analyse_zh": "此次封锁是伊朗与美国长期紧张局势的一部分，可追溯至1979年伊斯兰革命和人质危机。主要影响包括对波斯湾战略海上航线的控制以及迫使伊朗政权遵守制裁。深层原因在于地缘政治分歧，特别是伊朗核计划及其地区影响力。短期内，此次升级可能招致伊朗或其盟友（如也门或黎巴嫩）的报复。中期来看，可能加剧该地区的经济不稳定，影响贸易。长期而言，可能导致军事升级或在压力下进行谈判。关键行为者包括美国、伊朗、海湾国家和国际社会。试图维持外交渠道的欧盟和中国的立场将至关重要。",
-        "analyse_ru": "Контекст связан с усилением военно-морского противостояния в регионе. Причины блокады могут быть связаны с ядерной программой Ирана или поддержкой группировок. Последствия включают рост напряжённости и возможные ответные меры Тегерана. Перспективы зависят от дипломатических усилий и военного баланса. Позиции сторон: США считают блокаду необходимой, Иран называет её агрессией.",
-        "analyse_fa": "زمینه به تشدید رویارویی نظامی-دریایی در منطقه بازمی‌گردد. دلایل تحریم ممکن است به برنامه هسته‌ای ایران یا حمایت از گروه‌ها مربوط باشد. پیامدها شامل افزایش تنش و اقدامات تلافی‌جویانه از سوی تهران است. چشم‌اندازها به تلاش‌های دیپلماتیک و توازن نظامی بستگی دارد. موضع بازیگران: آمریکا تحریم را ضروری می‌داند، ایران آن را تجاوز می‌خواند.",
-        "analyse_ar": "السياق مرتبط بتفاقم المواجهة العسكرية البحرية في المنطقة. الأسباب وراء الحصار قد تتعلق بالبرنامج النووي الإيراني أو دعم الفصائل. العواقب تشمل تصاعد التوترات وردود فعل انتقامية من طهران. الآفاق تعتمد على الجهود الدبلوماسية والتوازن العسكري. مواقف الأطراف: تعتبر الولايات المتحدة الحصار ضروريا، بينما تصفه إيران بالعدوان.",
-        "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/centcom-redirects-67-vessels-iran-naval-blockade/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/20123105/us-central-command-redirects-62-vessels-disables-three-as-ir-800x420.jpeg",
-        "date": "2026-08-20",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Transport maritime international",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur pétrolier",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Transport maritime international",
-            "secteur_en": "International maritime transport",
-            "secteur_zh": "国际海运",
-            "effet_fr": "L'augmentation des tensions pourrait entraîner des surcoûts logistiques et une hausse des primes d'assurance pour les armateurs.",
-            "effet_en": "Rising tensions could lead to higher logistical costs and increased insurance premiums for shipowners.",
-            "effet_zh": "紧张局势升级可能导致更高的物流成本和船东保险费用上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur pétrolier",
-            "secteur_en": "Oil sector",
-            "secteur_zh": "石油行业",
-            "effet_fr": "Les perturbations des routes maritimes pourraient faire flamber les prix du pétrole, affectant les économies dépendantes des importations.",
-            "effet_en": "Disruptions in maritime routes could drive up oil prices, impacting economies dependent on imports.",
-            "effet_zh": "海上航线中断可能推高油价，影响依赖进口的经济体。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-21T16:32:58.094282"
       }
     ]
   },
