@@ -1,7 +1,66 @@
 {
-  "last_updated": "23/08/2026 à 11h19",
+  "last_updated": "23/08/2026 à 12h36",
   "articles": {
     "monde": [
+      {
+        "id": "monde_690119",
+        "titre": "Recherche indienne propose vote par téléphone",
+        "titre_en": "Indian researchers propose phone-based voting",
+        "titre_zh": "印度研究人员提议电话投票",
+        "titre_ru": "ИИТ Патна предложил модель онлайн-голосования с ИИ",
+        "titre_fa": "IIT پتنا مدل رای‌گیری آنلاین با تأیید هویت خودکار پیشنهاد داد",
+        "titre_ar": "اقترح باحثون من IIT باتنا نظام تصويت عبر الهاتف بتحقق ذاتي بالذكاء الاصطناعي",
+        "titre_original": "IIT-P, DoT researchers propose phone-based voting model",
+        "resume": "Des chercheurs de l'IIT Patna ont développé un modèle de vote en ligne utilisant l'IA pour la vérification faciale, une blockchain pour le registre des votes et des QR codes pour garantir la confidentialité. Ce système vise à réduire la coercition et à faciliter l'accès au vote. Il inclut également une option de re-vote pour limiter les pressions extérieures.",
+        "resume_en": "IIT Patna researchers have developed an online voting model using AI for facial verification, a blockchain ledger, and QR codes for private ballot checks. The system aims to reduce coercion and improve voting access. It also includes a re-voting option to mitigate external pressures.",
+        "resume_zh": "印度理工学院帕特纳的研究人员开发了一种在线投票模型，使用AI进行面部验证、区块链记录投票，并通过二维码确保选票私密性。该系统旨在减少胁迫并提高投票便利性。它还包含重新投票选项以减轻外部压力。",
+        "resume_ru": "Исследователи из IIT Патна предложили новую модель онлайн-голосования, использующую технологии искусственного интеллекта для проверки личности по селфи. Система включает блокчейн для ведения реестра голосов и QR-коды для частного подсчёта. Она позволяет переголосовать в случае давления и расширяет доступность выборов.",
+        "resume_fa": "پژوهشگران IIT پتنا مدلی برای رای‌گیری آنلاین با تأیید هویت از طریق عکس سلفی ارائه کردند. این سیستم از فناوری بلاکچین برای ثبت آراء و کدهای QR برای بررسی خصوصی استفاده می‌کند. امکان تجدید نظر در صورت فشار و افزایش دسترسی از مزایای آن است.",
+        "resume_ar": "اقترح باحثون من معهد IIT باتنا نظاماً للتصويت عبر الهاتف يعتمد على الذكاء الاصطناعي للتحقق من الهوية عبر الصور الذاتية. يستخدم النظام تقنية البلوكتشين لتسجيل الأصوات وكود QR للفرز السري. يسمح النظام بإعادة التصويت في حال التعرض للإكراه وزيادة إمكانية الوصول للانتخابات.",
+        "analyse_detaillee": "L'Inde, avec ses 900 millions d'électeurs, cherche des solutions innovantes pour moderniser son système électoral, marqué par des défis comme la faible participation et les fraudes. Ce modèle s'inscrit dans une tendance mondiale de digitalisation du vote, mais soulève des questions sur la cybersécurité et l'inclusion des populations rurales. Les enjeux principaux incluent la transparence, la réduction des coûts logistiques et la lutte contre la coercition électorale. À court terme, ce système pourrait être testé lors d'élections locales, mais son adoption nationale dépendra de la confiance des citoyens et des autorités. À moyen terme, il pourrait inspirer d'autres pays en développement confrontés à des défis similaires. À long terme, une généralisation de ce modèle pourrait transformer la démocratie indienne, mais risquerait d'exacerber les inégalités d'accès aux technologies. Les acteurs politiques, notamment le parti au pouvoir, pourraient y voir un outil de contrôle accru, tandis que les opposants craindront une manipulation des données. Les experts en cybersécurité et les défenseurs des droits numériques joueront un rôle clé dans son évaluation.",
+        "analyse_en": "India, with its 900 million voters, seeks innovative solutions to modernize its electoral system, plagued by challenges like low turnout and fraud. This model aligns with a global trend of digitalizing voting but raises concerns about cybersecurity and rural inclusion. Key stakes include transparency, reducing logistical costs, and combating electoral coercion. In the short term, this system could be tested in local elections, but nationwide adoption depends on public and institutional trust. In the medium term, it could inspire other developing countries facing similar challenges. Long-term, widespread adoption could transform Indian democracy but risk exacerbating inequalities in technology access. Political actors, particularly the ruling party, may see it as a tool for increased control, while opponents fear data manipulation. Cybersecurity experts and digital rights advocates will play a crucial role in its evaluation.",
+        "analyse_zh": "印度拥有9亿选民，正在寻找创新方案来现代化其选举系统，该系统面临低参与率和欺诈等挑战。这一模型符合全球投票数字化趋势，但引发了网络安全和农村包容性的担忧。主要影响包括透明度、降低后勤成本以及打击选举胁迫。短期内，该系统可能在地方选举中试点，但全国推广取决于公众和机构的信任。中期来看，它可能为其他面临类似挑战的发展中国家提供借鉴。长期而言，广泛应用可能改变印度民主，但也可能加剧技术获取不平等。政治行为者，特别是执政党，可能将其视为加强控制的工具，而反对派则担心数据操纵。网络安全专家和数字权利倡导者将在其评估中发挥关键作用。",
+        "analyse_ru": "Контекст разработки связан с глобальными вызовами традиционных систем голосования, включая низкую явку и риски фальсификаций. Причины включают стремление к цифровизации процессов и повышению прозрачности. Последствия внедрения могут включать снижение давления на избирателей и увеличение их участия. Перспективы зависят от технологической готовности инфраструктуры и доверия общества. Позиции сторон разнятся: власти могут поддерживать инновации, а оппозиция — критиковать за уязвимости безопасности.",
+        "analyse_fa": "زمینه این طرح به چالش‌های رای‌گیری سنتی در جهان بازمی‌گردد، از جمله مشارکت پایین و خطر تقلب. دلایل آن شامل تمایل به دیجیتالی‌سازی و افزایش شفافیت است. پیامدهای احتمالی شامل کاهش فشار بر رأی‌دهندگان و افزایش مشارکت می‌شود. چشم‌انداز به آمادگی زیرساخت‌های فناوری و اعتماد عمومی بستگی دارد. موضع بازیگران متفاوت است: دولت‌ها ممکن است از نوآوری حمایت کنند، در حالی که مخالفان به آسیب‌پذیری‌های امنیتی اشاره می‌کنند.",
+        "analyse_ar": "سياق هذا الاقتراح يرتبط بالتحديات التي تواجهها الأنظمة التقليدية للتصويت، بما في ذلك انخفاض الإقبال والمخاطر المتعلقة بالتزوير. الأسباب تكمن في السعي نحو digitalization وزيادة الشفافية. العواقب المحتملة تشمل تقليل الضغط على الناخبين وزيادة مشاركتهم. الآفاق تعتمد على جاهزية البنية التحتية التكنولوجية وثقة المجتمع. مواقف الأطراف متباينة: قد تدعم الحكومات الابتكار، بينما تنتقد المعارضة نقاط الضعف الأمنية.",
+        "categorie": "Technologie et Démocratie",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/patna/iit-p-dot-researchers-propose-phone-based-voting-model/articleshow/133424577.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133424576,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-08-22",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Technologie de vote électronique",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur bancaire",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologie de vote électronique",
+            "secteur_en": "Electronic voting technology sector",
+            "secteur_zh": "电子投票技术行业",
+            "effet_fr": "L'adoption de ce modèle pourrait stimuler l'innovation dans les technologies de vote électronique, attirant des investissements dans les startups spécialisées.",
+            "effet_en": "Adoption of this model could drive innovation in electronic voting technologies, attracting investments in specialized startups.",
+            "effet_zh": "采用该模型可能推动电子投票技术创新，吸引对专业初创公司的投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur bancaire",
+            "secteur_en": "Banking sector",
+            "secteur_zh": "银行业",
+            "effet_fr": "Une intégration accrue des technologies de vérification biométrique et blockchain dans le vote pourrait renforcer leur adoption dans d'autres secteurs comme la banque.",
+            "effet_en": "Increased integration of biometric verification and blockchain technologies in voting could boost their adoption in other sectors like banking.",
+            "effet_zh": "投票中生物识别和区块链技术的更广泛应用可能推动其在银行等其他行业的采用。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-23T12:36:43.167975"
+      },
       {
         "id": "monde_958065",
         "titre": "Des mariages annulés au dernier moment, pourquoi ?",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-22T15:19:48.929952"
-      },
-      {
-        "id": "monde_410559",
-        "titre": "Les Blue Jays ajustent leur rotation avant Yankees",
-        "titre_en": "Blue Jays Adjust Pitching Before Yankees Series",
-        "titre_zh": "蓝鸟队调整投手阵容迎战洋基",
-        "titre_ru": "Блю Джейс решают вопрос с питчером перед серией с Янкис",
-        "titre_fa": "بلو جیز پیش از سری مقابل یانکیز تصمیم‌گیری در مورد پرتاب‌کننده گرفت",
-        "titre_ar": "البلو جيز تتخذ قراراً بشأن الرامي قبل سلسلة ضد اليانكيز",
-        "titre_original": "Blue Jays make pitching decision ahead of Yankees weekend series",
-        "resume": "Les Blue Jays, en lutte pour une place en playoffs, modifient leur rotation de lanceurs avant un match crucial contre les Yankees. Cette décision stratégique vise à maximiser leurs chances de victoire. La série s'annonce décisive pour leur saison.",
-        "resume_en": "The Blue Jays, fighting for a playoff spot, are adjusting their pitching rotation ahead of a crucial matchup against the Yankees. This strategic decision aims to maximize their chances of victory. The series is pivotal for their season.",
-        "resume_zh": "为争夺季后赛席位，蓝鸟队在与洋基队的关键比赛前调整投手轮换。这一战略决定旨在最大化胜算。该系列赛对他们的赛季至关重要。",
-        "resume_ru": "Команда «Торонто Блю Джейс» находится в борьбе за место в плей-офф, поэтому каждое решение, особенно связанное с составом, имеет критическое значение. В преддверии важной серии против «Нью-Йорк Янкис» клуб пересматривает стратегию питчеров. Это может повлиять на шансы команды в чемпионате.",
-        "resume_fa": "تیم تورنتو بلو جیز برای کسب سهمیه پلی‌آف تلاش می‌کند و هر تصمیمی، به‌ویژه در مورد ترکیب تیم، حیاتی است. پیش از سری مهم مقابل نیویورک یانکیز، این تیم در حال بازنگری در استراتژی پرتاب‌کنندگان است. این تصمیم می‌تواند بر شانس‌های تیم در مسابقات تأثیر بگذارد.",
-        "resume_ar": "فريق تورونتو بلو جيز يسعى للحصول على مقعد في التصفيات، لذا كل قرار، خاصة فيما يتعلق بالتشكيلة، بالغ الأهمية. قبيل سلسلة مهمة ضد نيويورك يانكيز، يعيد الفريق النظر في استراتيجية الرماة. قد يؤثر هذا القرار على فرص الفريق في البطولة.",
-        "analyse_detaillee": "Le baseball nord-américain, notamment la MLB, est marqué par une intensification des stratégies sportives et financières depuis les années 2000. Les enjeux actuels incluent la gestion des salaires des joueurs et l'optimisation des performances pour attirer des investissements. Les causes profondes de cette décision résident dans la pression concurrentielle accrue et la nécessité de performer pour maintenir l'intérêt des fans et des sponsors. À court terme, cette rotation pourrait améliorer les résultats immédiats, mais risque de fatiguer les lanceurs. À moyen terme, une bonne série pourrait relancer la dynamique de l'équipe et attirer de nouveaux investisseurs. À long terme, cela pourrait renforcer la réputation de l'équipe comme compétiteur sérieux. Les acteurs incluent la direction des Blue Jays, les joueurs, et les fans. Les Yankees, rivaux historiques, ajoutent une pression supplémentaire.",
-        "analyse_en": "North American baseball, particularly MLB, has seen intensified sports and financial strategies since the 2000s. Current stakes include player salary management and performance optimization to attract investments. The root causes of this decision lie in increased competitive pressure and the need to perform to maintain fan and sponsor interest. In the short term, this rotation could improve immediate results but risks tiring pitchers. In the medium term, a strong series could revive the team's momentum and attract new investors. Long-term, it could bolster the team's reputation as a serious contender. Key actors include the Blue Jays' management, players, and fans. The Yankees, historical rivals, add additional pressure.",
-        "analyse_zh": "北美棒球，尤其是MLB，自2000年代以来一直在强化体育和金融策略。当前的关键在于球员薪资管理和绩效优化以吸引投资。此决定的深层原因在于竞争压力加剧以及为维持球迷和赞助商兴趣而需提升表现。短期内，此轮换可能改善即时成绩，但会增加投手疲劳风险。中期来看，一场强势系列赛可能重振球队动力并吸引新投资者。长期而言，这可能提升球队作为有力竞争者的声誉。主要相关方包括蓝鸟队管理层、球员和球迷。宿敌洋基队则增加了额外压力。",
-        "analyse_ru": "Решение о питчере перед серией с «Янкис» демонстрирует, как тактические ходы могут определить судьбу команды в сезоне. «Блю Джейс» вынуждены балансировать между текущими результатами и долгосрочными перспективами, особенно учитывая конкуренцию в дивизионе. Причины такого решения могут быть связаны с травмами, усталостью игроков или тактическими соображениями тренера. Последствия могут быть как положительными, так и отрицательными, в зависимости от исхода матчей. Перспективы команды зависят от стабильности состава и эффективности решений менеджмента.",
-        "analyse_fa": "تصمیم‌گیری درباره پرتاب‌کننده پیش از سری مقابل یانکیز نشان می‌دهد که چگونه حرکت‌های تاکتیکی می‌تواند سرنوشت تیم را در فصل تعیین کند. بلو جیز باید میان نتایج فعلی و چشم‌اندازهای بلندمدت تعادل برقرار کند، به‌ویژه با توجه به رقابت در بخش خود. دلایل این تصمیم ممکن است به مصدومیت‌ها، خستگی بازیکنان یا ملاحظات تاکتیکی مربی مربوط باشد. پیامدها می‌تواند مثبت یا منفی باشد، بسته به نتیجه بازی‌ها. چشم‌انداز تیم به ثبات ترکیب و کارایی تصمیمات مدیریت بستگی دارد.",
-        "analyse_ar": "إن قرار اختيار الرامي قبل سلسلة اليانكيز يظهر كيف يمكن أن تحدد التحركات التكتيكية مصير الفريق في الموسم. يتعين على البلو جيز الموازنة بين النتائج الحالية والآفاق طويلة الأمد، لا سيما مع المنافسة في قسمهم. قد ترتبط أسباب هذا القرار بالإصابات أو تعب اللاعبين أو اعتبارات تكتيكية للمدرب. قد تكون العواقب إيجابية أو سلبية، بناءً على نتائج المباريات. آفاق الفريق تعتمد على استقرار التشكيلة وفعالية قرارات الإدارة.",
-        "categorie": "Sport",
-        "source": "The Big Lead",
-        "url": "https://www.thebiglead.com/blue-jays-pitching-decision-ahead-yankees-weekend-series/",
-        "image": "https://s.yimg.com/lo/mysterio/api/88a18881504d14ba6e724b3f4a6758f3038ae528d3de81a37658303472d72d25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F8f9dbbe11a0aa9814087304f9df3272e.jpg",
-        "date": "2026-08-21",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Secteur du sport professionnel",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur des médias sportifs",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur du sport professionnel",
-            "secteur_en": "Professional sports sector",
-            "secteur_zh": "职业体育行业",
-            "effet_fr": "Une victoire contre les Yankees pourrait augmenter la valeur marchande de l'équipe et attirer de nouveaux sponsors.",
-            "effet_en": "A win against the Yankees could increase the team's market value and attract new sponsors.",
-            "effet_zh": "战胜洋基队可能提升球队市场价值并吸引新赞助商。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des médias sportifs",
-            "secteur_en": "Sports media sector",
-            "secteur_zh": "体育媒体行业",
-            "effet_fr": "Une série réussie pourrait booster les audiences télévisées et les revenus publicitaires pour les diffuseurs.",
-            "effet_en": "A successful series could boost TV audiences and advertising revenues for broadcasters.",
-            "effet_zh": "一场成功的系列赛可能提升电视观众数量和广告收入。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-22T14:20:08.966387"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_305858",
+        "titre": "Le Canada résiste aux tarifs américains",
+        "titre_en": "Canada resists US tariffs in trade war",
+        "titre_zh": "加拿大抵制美国贸易战关税",
+        "titre_ru": "Карни противостоит Трампу в торговой войне",
+        "titre_fa": "کارنی در جنگ تجاری در برابر ترامپ ایستادگی کرد",
+        "titre_ar": "كارني يواجه ترامب في الحرب التجارية رغم المخاطر",
+        "titre_original": "Carney Stands Up to Trump in Trade War Despite the Risks - The New York Times",
+        "resume": "Le Canada a rejeté les conditions américaines dans les négociations commerciales, déclenchant l'application de tarifs de 50 % par les États-Unis. Les pourparlers entre les deux pays se sont effondrés, aggravant les tensions commerciales. Cette escalade menace les échanges bilatéraux, estimés à des centaines de milliards de dollars.",
+        "resume_en": "Canada rejected US terms in trade negotiations, prompting the US to impose 50% tariffs. Talks between the two countries collapsed, escalating trade tensions. This move threatens bilateral trade, valued at hundreds of billions of dollars.",
+        "resume_zh": "加拿大在贸易谈判中拒绝了美国的条件，促使美国对其实施50%的关税。两国间的谈判破裂，加剧了贸易紧张局势。这一举措威胁到价值数千亿美元的双边贸易。",
+        "resume_ru": "Канада отклонила условия США для торгового соглашения, несмотря на введение 50% тарифов. Переговоры между США и Канадой по торговле сорвались, что угрожает экономическим отношениям. Премьер-министр Канады Джастин Карни заявил о готовности противостоять давлению США.",
+        "resume_fa": "کانادا شروط ایالات متحده برای توافق تجاری را رد کرد، علی‌رغم اعمال تعرفه‌های 50 درصدی. مذاکرات تجاری بین دو کشور شکست خورد و روابط اقتصادی را تهدید می‌کند. نخست‌وزیر کانادا جاستین کارنی اعلام کرد که در برابر فشار آمریکا مقاومت خواهد کرد.",
+        "resume_ar": "رفضت كندا الشروط الأمريكية لاتفاق تجاري رغم فرض رسوم بنسبة 50%. انهارت المفاوضات التجارية بين الولايات المتحدة وكندا مما يهدد العلاقات الاقتصادية. أعلن رئيس وزراء كندا جاستن ترودو готовيته لمواجهة الضغوط الأمريكية.",
+        "analyse_detaillee": "Les tensions commerciales entre le Canada et les États-Unis remontent à des décennies, marquées par des litiges récurrents sur les subventions agricoles et les tarifs douaniers. Ce conflit s'inscrit dans une guerre commerciale plus large initiée par l'administration Trump, qui a ciblé plusieurs partenaires commerciaux sous prétexte de déséquilibres. Les enjeux principaux incluent la protection des industries nationales, notamment l'agriculture et l'automobile, ainsi que la souveraineté économique du Canada. À court terme, les tarifs américains pourraient entraîner une hausse des prix pour les consommateurs canadiens et une baisse des exportations vers les États-Unis. À moyen terme, le Canada pourrait diversifier ses partenariats commerciaux, notamment avec l'UE et l'Asie, mais au prix de coûts logistiques accrus. À long terme, cette crise pourrait affaiblir l'intégration nord-américaine et relancer des débats sur une autonomie stratégique canadienne. Les acteurs clés incluent le gouvernement canadien, qui mise sur la résilience, et les États-Unis, déterminés à protéger leurs industries. Les entreprises des deux côtés de la frontière subissent déjà des pertes, tandis que les consommateurs pourraient payer le prix fort.",
+        "analyse_en": "Trade tensions between Canada and the US date back decades, marked by recurring disputes over agricultural subsidies and tariffs. This conflict is part of a broader trade war initiated by the Trump administration, targeting multiple trade partners under the guise of imbalances. Key stakes include protecting national industries, particularly agriculture and automobiles, as well as Canada's economic sovereignty. In the short term, US tariffs could lead to higher prices for Canadian consumers and reduced exports to the US. In the medium term, Canada may diversify its trade partnerships, particularly with the EU and Asia, but at the cost of increased logistical expenses. Long-term, this crisis could weaken North American integration and reignite debates on Canadian strategic autonomy. Key actors include the Canadian government, which is banking on resilience, and the US, determined to protect its industries. Businesses on both sides of the border are already suffering losses, while consumers may bear the brunt.",
+        "analyse_zh": "加拿大与美国的贸易紧张局势可追溯到几十年前，以农业补贴和关税争端为标志。这一冲突是特朗普政府发起的更广泛贸易战的一部分，该战以所谓的不平衡为由针对多个贸易伙伴。主要影响包括保护本国产业（特别是农业和汽车业）以及加拿大的经济主权。短期内，美国的关税可能导致加拿大消费者价格上涨和对美出口下降。中期来看，加拿大可能会将贸易伙伴多元化，特别是与欧盟和亚洲，但代价是物流成本增加。长期而言，这场危机可能削弱北美一体化，并重新引发关于加拿大战略自主的辩论。关键行为者包括寄望于韧性的加拿大政府和决心保护本国产业的美国。两国边境的企业已蒙受损失，而消费者可能最终买单。",
+        "analyse_ru": "Контекст конфликта связан с политикой администрации Трампа, направленной на пересмотр торговых соглашений в пользу США. Причины включают стремление США защитить внутренние рынки и снизить дефицит торгового баланса. Последствия могут включать рост цен на импортные товары и снижение экономической интеграции. Перспективы зависят от исхода переговоров и реакции других стран. Позиции сторон: США настаивают на выгодных для себя условиях, а Канада стремится сохранить равноправные отношения.",
+        "analyse_fa": "زمینه این درگیری به سیاست‌های دولت ترامپ بازمی‌گردد که هدف آن بازنگری در توافق‌های تجاری به نفع آمریکا است. دلایل شامل حفاظت از بازارهای داخلی و کاهش کسری تجاری است. پیامدهای احتمالی شامل افزایش قیمت کالاهای وارداتی و کاهش یکپارچگی اقتصادی است. چشم‌انداز به نتیجه مذاکرات و واکنش سایر کشورها بستگی دارد. موضع ایالات متحده بر شرایط سودمند خود تأکید دارد، در حالی که کانادا به حفظ روابط برابر تمایل دارد.",
+        "analyse_ar": "يرتبط سياق هذا الصراع بسياسات إدارة ترامب الهادفة إلى إعادة النظر في الاتفاقيات التجارية لصالح الولايات المتحدة. الأسباب تشمل حماية الأسواق المحلية وتقليل عجز الميزان التجاري. العواقب المحتملة تشمل ارتفاع أسعار السلع المستوردة وانخفاض التكامل الاقتصادي. الآفاق تعتمد على نتائج المفاوضات وردود فعل الدول الأخرى. موقف الولايات المتحدة يتمسك بشروطها المربحة، بينما تسعى كندا للحفاظ على علاقات متساوية.",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185100258",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-08-22",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Agriculture",
+            "hausse": false
+          },
+          {
+            "label": "▼ Automobile",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Agriculture",
+            "secteur_en": "Agriculture sector",
+            "secteur_zh": "农业",
+            "effet_fr": "Les tarifs américains pourraient réduire les exportations canadiennes de produits agricoles comme le sirop d'érable et le bœuf, affectant les revenus des agriculteurs.",
+            "effet_en": "US tariffs could reduce Canadian agricultural exports like maple syrup and beef, impacting farmers' incomes.",
+            "effet_zh": "美国关税可能减少加拿大枫糖浆和牛肉等农产品出口，影响农民收入。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Automobile",
+            "secteur_en": "Automotive sector",
+            "secteur_zh": "汽车行业",
+            "effet_fr": "Les tarifs pourraient perturber les chaînes d'approvisionnement intégrées entre le Canada et les États-Unis, augmentant les coûts de production pour les constructeurs.",
+            "effet_en": "Tariffs could disrupt integrated supply chains between Canada and the US, increasing production costs for automakers.",
+            "effet_zh": "关税可能扰乱加拿大和美国之间的集成供应链，增加汽车制造商的生产成本。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-23T12:36:43.168004"
+      },
       {
         "id": "usa_808702",
         "titre": "Poutine attend des élections pour confirmer la stabilité",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-08-22T15:19:48.929939"
-      },
-      {
-        "id": "usa_55063",
-        "titre": "Un juge appelé à bloquer l'inscription de Trump",
-        "titre_en": "Judge Asked To Block Trump Name Inscription",
-        "titre_zh": "法官被要求阻止特朗普名字刻入",
-        "titre_ru": "Судьям предложено запретить упоминание имени Трампа в Центре Кеннеди",
-        "titre_fa": "قاضی خواستار جلوگیری از حکاکی نام ترامپ در مرکز کندی شد",
-        "titre_ar": "القاضي مطالب بمنع نقش اسم ترامب في مركز كينيدي",
-        "titre_original": "Judge Asked To Block Kennedy Center From Inscribing Trump’s Name",
-        "resume": "La représentante Joyce Beatty accuse le Kennedy Center de défier la justice en voulant graver le nom de Donald Trump sur son bâtiment. Elle demande à un juge d'intervenir pour bloquer cette décision. Cette affaire s'inscrit dans un contexte de polarisation politique aux États-Unis.",
-        "resume_en": "Rep. Joyce Beatty accuses the Kennedy Center of defying the court by inscribing Donald Trump's name on its building. She has asked a judge to block the decision. This case reflects the deep political polarization in the U.S.",
-        "resume_zh": "众议员乔伊斯·贝蒂指责肯尼迪中心藐视法庭，试图将唐纳德·特朗普的名字刻在其建筑上。她要求法官阻止这一决定。此案反映了美国深刻的政治极化。",
-        "resume_ru": "Конгрессмен Джойс Битти обвинила Центр Кеннеди в том, что он «играет в курицу с судом», подав иск против планов выгравировать имя президента Дональда Трампа на здании. По её мнению, это решение нарушает установленные правила. Вопрос рассматривается в суде.",
-        "resume_fa": "نماینده کنگره جویس بیتی، مرکز کندی را به «بازی با دادگاه» متهم کرد و با طرح دعوی علیه حکاکی نام ترامپ بر ساختمان، آن را نقض قوانین دانست. این تصمیم در دادگاه در حال بررسی است.",
-        "resume_ar": "اتهمت النائبة جويس بيتي مركز كينيدي باللعب مع المحكمة، بعد أن رفعت دعوى ضد نقش اسم ترامب على المبنى، زاعمة أن القرار ينتهك القوانين. القضية قيد النظر في المحكمة.",
-        "analyse_detaillee": "Cette affaire s'inscrit dans une tradition américaine de débats sur la mémoire historique et les symboles politiques, notamment depuis la guerre de Sécession. Les enjeux portent sur la légitimité des institutions culturelles à honorer des figures controversées. Les causes profondes relèvent de la polarisation politique actuelle et des tensions autour de l'héritage de Trump. À court terme, un blocage judiciaire pourrait apaiser les tensions, mais risquerait d'alimenter les accusations de censure. À moyen terme, cela pourrait renforcer les divisions sur la gestion des symboles nationaux. À long terme, cela pourrait inciter d'autres institutions à revoir leurs critères de commémoration. Les acteurs incluent les républicains, favorables à l'inscription, et les démocrates, qui y voient une provocation. Le Kennedy Center se retrouve au cœur d'un débat plus large sur son rôle dans la société.",
-        "analyse_en": "This case fits into an American tradition of debates over historical memory and political symbols, dating back to the Civil War. The stakes involve the legitimacy of cultural institutions honoring controversial figures. The root causes stem from current political polarization and tensions surrounding Trump's legacy. In the short term, a judicial block could ease tensions but risk fueling accusations of censorship. In the medium term, it could deepen divisions over the management of national symbols. Long-term, it might push other institutions to reassess their commemoration criteria. The actors include Republicans, who support the inscription, and Democrats, who see it as a provocation. The Kennedy Center is at the center of a broader debate about its role in society.",
-        "analyse_zh": "此案属于美国关于历史记忆和政治象征的传统争议，可追溯到南北战争。争议焦点在于文化机构是否有权纪念有争议的政治人物。深层原因在于当前的政治极化以及围绕特朗普遗产的紧张局势。短期内，司法阻止可能缓和紧张局势，但也可能引发审查指控。中期来看，可能加深对国家象征管理的分歧。长期而言，可能促使其他机构重新评估其纪念标准。相关方包括支持铭刻的共和党人和视其为挑衅的民主党人。肯尼迪中心成为社会角色更广泛辩论的核心。",
-        "analyse_ru": "Конфликт вокруг Центра Кеннеди отражает политическую поляризацию в США, где имя Трампа становится символом разногласий. Иск Битти может затянуть процесс, так как суд должен определить, соответствует ли решение центра уставу. Последствия могут быть двоякими: либо имя Трампа так и не появится, либо это вызовет общественный резонанс. Перспективы зависят от позиции судей и политической конъюнктуры. Позиция сторон ясна: Битти выступает против, а центр, вероятно, настаивает на своём праве.",
-        "analyse_fa": "این ماجرا نمایانگر قطب‌بندی سیاسی در آمریکا است، جایی که نام ترامپ به نمادی از اختلافات تبدیل شده. طرح دعوی بیتی می‌تواند روند را به تأخیر اندازد، زیرا دادگاه باید بررسی کند که آیا تصمیم مرکز با اساسنامه مطابقت دارد. پیامدها می‌تواند دوگانه باشد: یا نام ترامپ حکاکی نمی‌شود، یا این اقدام واکنش‌های گسترده‌ای برمی‌انگیزد. چشم‌اندازها به موضع قضات و شرایط سیاسی بستگی دارد. موضع بازیگران مشخص است: بیتی مخالف است و مرکز احتمالاً بر حق خود پافشاری می‌کند.",
-        "analyse_ar": "هذا النزاع يعكس الاستقطاب السياسي في الولايات المتحدة، حيث أصبح اسم ترامب رمزاً للاختلافات. قد يؤخر الدعوى المقدمة من بيتي العملية القضائية، إذ يتعين على المحكمة تحديد ما إذا كان قرار المركز يتوافق مع النظام الأساسي. قد تكون العواقب مزدوجة: إما لن يظهر اسم ترامب، أو سيؤدي ذلك إلى ردود فعل عامة واسعة. الآفاق تعتمد على موقف القضاة والظروف السياسية. مواقف الأطراف واضحة: بيتي معارضة، والمركز على الأرجح يصر على حقه.",
-        "categorie": "Politique intérieure",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/conormurray/2026/08/21/judge-asked-to-block-kennedy-center-from-inscribing-trumps-name/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a885def8f6bd309deb75817/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "date": "2026-08-21",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Secteur culturel et mécénat",
-            "hausse": false
-          },
-          {
-            "label": "▲ Secteur judiciaire",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur culturel et mécénat",
-            "secteur_en": "Cultural sector and patronage",
-            "secteur_zh": "文化产业与赞助",
-            "effet_fr": "L'affaire pourrait décourager les mécènes et institutions culturelles de s'engager dans des projets controversés par crainte de conflits juridiques.",
-            "effet_en": "The case could discourage patrons and cultural institutions from engaging in controversial projects due to fear of legal conflicts.",
-            "effet_zh": "此案可能因担心法律冲突而阻止赞助商和文化机构参与有争议的项目。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur judiciaire",
-            "secteur_en": "Judicial sector",
-            "secteur_zh": "司法部门",
-            "effet_fr": "Une décision judiciaire pourrait renforcer le rôle des tribunaux dans les débats sociétaux, augmentant leur influence sur les institutions publiques.",
-            "effet_en": "A court decision could strengthen the judiciary's role in societal debates, increasing its influence over public institutions.",
-            "effet_zh": "司法裁决可能加强法院在社会辩论中的作用，增强其对公共机构的影响力。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-22T14:20:08.966359"
       }
     ],
     "chine": [
@@ -3710,6 +3710,65 @@
     ],
     "russie": [
       {
+        "id": "russie_691978",
+        "titre": "Échanges de frappes drones et missiles entre Russie et Ukraine",
+        "titre_en": "Russia and Ukraine exchange drone and missile strikes",
+        "titre_zh": "俄乌互相发动无人机和导弹袭击",
+        "titre_ru": "Россия и Украина обмениваются ударами дронов и ракет",
+        "titre_fa": "روسیه و اوکراین در تبادل حملات پهپادی و موشکی قرار گرفتند",
+        "titre_ar": "روسيا وأوكرانيا تتنازعان عبر ضربات طائرات مسيرة وصواريخ",
+        "titre_original": "Russia and Ukraine Trade Drone and Missile Strikes, Killing at Least Five People",
+        "resume": "Des frappes de drones et missiles russes ont tué au moins trois personnes en Ukraine, tandis qu'une attaque ukrainienne sur la région russe de Krasnodar a fait deux morts. Ces échanges surviennent après une frappe ayant visé un village frontalier la veille. Les tensions persistent malgré les appels internationaux à la désescalade.",
+        "resume_en": "Russian drone and missile strikes killed at least three people in Ukraine, while a Ukrainian attack on Russia's Krasnodar region killed two others. These exchanges follow a strike on a border village the day before. Tensions persist despite international calls for de-escalation.",
+        "resume_zh": "俄罗斯的无人机和导弹袭击在乌克兰造成至少3人死亡，而乌克兰对俄罗斯克拉斯诺达尔地区的袭击则导致另外2人死亡。这些交火发生在前一天袭击边境村庄之后。尽管国际社会呼吁降级，紧张局势仍在持续。",
+        "resume_ru": "По данным властей, российские удары дронов и ракет в Украине унесли жизни как минимум трёх человек. На следующий день украинский удар на регион Краснодар России привёл к гибели ещё двух человек. Эти инциденты произошли на фоне продолжающихся боевых действий.",
+        "resume_fa": "به گفته مقامات، حملات پهپادی و موشکی روسیه در اوکراین حداقل سه نفر را کشت. روز بعد، حمله اوکراینی به منطقه کراسنودار روسیه منجر به کشته شدن دو نفر دیگر شد. این حوادث در جریان درگیری‌های مداوم رخ دادند.",
+        "resume_ar": "أفادت السلطات أن غارات الطائرات المسيرة والصواريخ الروسية في أوكرانيا أدت إلى مقتل ثلاثة أشخاص على الأقل. وفي اليوم التالي، أدى هجوم أوكراني على منطقة كراسنودار الروسية إلى مقتل شخصين آخرين. وقعت هذه الحوادث في ظل استمرار الأعمال القتالية.",
+        "analyse_detaillee": "Le conflit entre la Russie et l'Ukraine, qui dure depuis 2014, s'est intensifié en 2022 avec l'invasion à grande échelle de l'Ukraine par la Russie. Ces frappes récentes s'inscrivent dans une stratégie de guerre d'usure, où chaque camp cherche à affaiblir l'autre par des attaques ciblées. Les enjeux principaux incluent le contrôle des territoires occupés, la souveraineté ukrainienne et la stabilité régionale. À court terme, ces échanges pourraient entraîner une escalade militaire et des représailles accrues, risquant d'aggraver la crise humanitaire. À moyen terme, ils pourraient renforcer les positions de négociation de chaque camp avant d'éventuelles discussions de paix. À long terme, une continuation de ces hostilités pourrait mener à une partition durable de l'Ukraine ou à une guerre prolongée aux conséquences dévastatrices. Les acteurs clés sont la Russie, déterminée à maintenir son influence, et l'Ukraine, soutenue par l'Occident, qui refuse toute cession de territoire. Les populations civiles des deux côtés subissent déjà les conséquences, tandis que les sanctions internationales pèsent sur l'économie russe.",
+        "analyse_en": "The conflict between Russia and Ukraine, which has lasted since 2014, escalated in 2022 with Russia's large-scale invasion of Ukraine. These recent strikes are part of a war of attrition strategy, where each side seeks to weaken the other through targeted attacks. Key stakes include control over occupied territories, Ukrainian sovereignty, and regional stability. In the short term, these exchanges could lead to military escalation and increased retaliation, risking a worsening humanitarian crisis. In the medium term, they could strengthen each side's negotiating positions ahead of potential peace talks. Long-term, continued hostilities could lead to a lasting partition of Ukraine or a prolonged war with devastating consequences. Key actors are Russia, determined to maintain its influence, and Ukraine, backed by the West, which refuses any territorial concessions. Civilians on both sides are already suffering the consequences, while international sanctions weigh on the Russian economy.",
+        "analyse_zh": "自2014年以来持续的俄乌冲突在2022年因俄罗斯对乌克兰的大规模入侵而升级。最近的袭击是消耗战策略的一部分，双方通过有针对性的攻击削弱对方。主要影响包括对占领领土的控制、乌克兰主权和地区稳定。短期内，这些交火可能导致军事升级和更多报复，加剧人道主义危机。中期来看，它们可能在潜在和平谈判前强化双方的谈判立场。长期而言，持续的敌对行动可能导致乌克兰的永久分裂或旷日持久的战争，造成毁灭性后果。关键行为者是决心维护影响力的俄罗斯和得到西方支持、拒绝任何领土让步的乌克兰。双方平民已深受其害，而国际制裁正在拖累俄罗斯经济。",
+        "analyse_ru": "Контекст эскалации связан с затяжным вооружённым конфликтом между Россией и Украиной, начавшимся в 2022 году. Причины включают стремление обеих сторон ослабить противника и изменить ход боевых действий. Последствия могут включать рост числа жертв среди гражданского населения и усиление международной напряжённости. Перспективы зависят от исхода переговоров и уровня поддержки сторон. Позиции сторон: Россия обвиняет Украину в провокациях, а Украина обвиняет Россию в агрессии.",
+        "analyse_fa": "زمینه تشدید درگیری‌ها به جنگ طولانی بین روسیه و اوکراین از سال 2022 بازمی‌گردد. دلایل شامل تلاش هر دو طرف برای تضعیف حریف و تغییر روند جنگ است. پیامدهای احتمالی شامل افزایش تلفات غیرنظامیان و تشدید تنش‌های بین‌المللی است. چشم‌انداز به نتیجه مذاکرات و سطح حمایت‌های بین‌المللی بستگی دارد. موضع روسیه اوکراین را به تحریک متهم می‌کند، در حالی که اوکراین روسیه را متهم به تجاوز می‌داند.",
+        "analyse_ar": "يرتبط سياق التصعيد بالحرب الطويلة بين روسيا وأوكرانيا التي بدأت عام 2022. الأسباب تشمل سعي كلا الجانبين لإضعاف الطرف الآخر وتغيير مسار العمليات القتالية. العواقب المحتملة تشمل ارتفاع عدد الضحايا المدنيين وتصاعد التوترات الدولية. الآفاق تعتمد على نتائج المفاوضات ومستوى الدعم الدولي. موقف روسيا يتهم أوكرانيا بالتحريض، بينما تتهم أوكرانيا روسيا بالعدوان.",
+        "categorie": "Géopolitique",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/europe/2026/08/22/russia-and-ukraine-trade-drone-and-missile-strikes-killing-at-least-five-people/",
+        "image": "https://media.breitbart.com/media/2026/08/GettyImages-2291527762-1-640x335.jpg",
+        "date": "2026-08-22",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Défense et armement",
+            "hausse": true
+          },
+          {
+            "label": "▼ Énergie",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense et armement",
+            "secteur_en": "Defense and armament sector",
+            "secteur_zh": "国防与军备行业",
+            "effet_fr": "L'escalade des frappes pourrait stimuler la demande en drones et missiles, bénéficiant aux industries de défense des deux pays.",
+            "effet_en": "The escalation of strikes could boost demand for drones and missiles, benefiting the defense industries of both countries.",
+            "effet_zh": "袭击升级可能刺激对无人机和导弹的需求，惠及两国国防工业。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Énergie",
+            "secteur_en": "Energy sector",
+            "secteur_zh": "能源行业",
+            "effet_fr": "Les attaques sur les infrastructures énergétiques pourraient perturber les approvisionnements en gaz et électricité, affectant les économies des deux pays.",
+            "effet_en": "Attacks on energy infrastructure could disrupt gas and electricity supplies, impacting the economies of both countries.",
+            "effet_zh": "对能源基础设施的袭击可能扰乱天然气和电力供应，影响两国经济。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-23T12:36:43.168016"
+      },
+      {
         "id": "russie_534308",
         "titre": "Drone ukrainien tue un civil en Russie",
         "titre_en": "Ukrainian drone kills civilian in Russia",
@@ -4829,65 +4888,6 @@
           }
         ],
         "created_at": "2026-08-22T14:20:08.966405"
-      },
-      {
-        "id": "russie_378924",
-        "titre": "Poutine peut-il survivre à sa patience ?",
-        "titre_en": "Can the World Survive Putin’s Patience?",
-        "titre_zh": "普京的耐心能否拖垮世界？",
-        "titre_ru": "Может ли мир пережить ошибку Путина?",
-        "titre_fa": "آیا جهان می‌تواند اشتباه نیک‌اندیشانه پوتین را تحمل کند؟",
-        "titre_ar": "هل يمكن للعالم النجاة من خطأ بوتين حسن النية؟",
-        "titre_original": "Can the World Survive Putin’s Well Intentioned Mistake? “The Dangers in Putin’s Patience”",
-        "resume": "Deux experts discutent des risques liés à la stratégie de patience de Vladimir Poutine dans la guerre en Ukraine. Cette approche pourrait aggraver les tensions géopolitiques et prolonger le conflit. Les observateurs s’interrogent sur les motivations derrière ce choix.",
-        "resume_en": "Two experts discuss the risks of Vladimir Putin’s patience strategy in the Ukraine war. This approach could escalate geopolitical tensions and prolong the conflict. Observers question the motivations behind this choice.",
-        "resume_zh": "两位专家讨论弗拉基米尔·普京在乌克兰战争中耐心策略的风险。这种做法可能加剧地缘政治紧张局势并延长冲突。观察家们质疑这一选择背后的动机。",
-        "resume_ru": "Вчера на канадском канале Canadian Prepper мы с Натом обсудили риски, связанные с терпением Путина в условиях расширяющейся войны. Путин предпочитает рисковать, а не быстро побеждать. Это создаёт угрозы для глобальной стабильности.",
-        "resume_fa": "دیروز در برنامه Canadian Prepper با نیت و من درباره خطرات صبر پوتین در جنگی که روز به روز گسترده‌تر می‌شود، بحث کردیم. پوتین ترجیح می‌دهد خطر کند تا اینکه سریع پیروز شود. این موضوع ثبات جهانی را تهدید می‌کند.",
-        "resume_ar": "أمس ناقش أنا ونات في برنامج Canadian Prepper المخاطر الكامنة في صبر بوتين في حرب تتوسع يوماً بعد يوم. يفضل بوتين المخاطرة على تحقيق نصر سريع، مما يهدد الاستقرار العالمي.",
-        "analyse_detaillee": "La stratégie de patience de Poutine s’inscrit dans une logique historique de guerre prolongée, inspirée par des conflits comme celui en Tchétchénie. Les enjeux principaux incluent la préservation du pouvoir interne et l’affaiblissement de l’Ukraine. Les causes profondes résident dans la paranoïa du régime face à l’expansion de l’OTAN et à la perte d’influence russe. À court terme, cette patience pourrait mener à une escalade militaire ou à des représailles économiques accrues. À moyen terme, elle risque de déstabiliser davantage l’Europe de l’Est et d’alourdir les sanctions occidentales. À long terme, si Poutine maintient cette ligne, la Russie pourrait s’isoler davantage sur la scène internationale. Les acteurs clés, comme l’OTAN et l’UE, tentent de contenir cette stratégie sans déclencher une guerre directe. Les États-Unis et leurs alliés cherchent à affaiblir l’économie russe via des sanctions ciblées.",
-        "analyse_en": "Putin’s patience strategy is rooted in a historical pattern of prolonged warfare, reminiscent of conflicts like the one in Chechnya. The main stakes include preserving internal power and weakening Ukraine. The root causes lie in the regime’s paranoia regarding NATO expansion and the loss of Russian influence. In the short term, this patience could lead to military escalation or increased economic retaliation. In the medium term, it risks further destabilizing Eastern Europe and tightening Western sanctions. In the long term, if Putin maintains this approach, Russia could become increasingly isolated on the global stage. Key actors like NATO and the EU are trying to contain this strategy without triggering direct war. The U.S. and its allies aim to weaken the Russian economy through targeted sanctions.",
-        "analyse_zh": "普京的耐心策略根植于长期战争的历史模式，类似于车臣战争等冲突。主要影响包括维护内部权力和削弱乌克兰。深层原因在于该政权对北约扩张和俄罗斯影响力丧失的偏执。短期内，这种耐心可能导致军事升级或加强经济报复。中期来看，它可能进一步破坏东欧稳定并加重西方制裁。长期而言，如果普京坚持这一路线，俄罗斯可能在国际舞台上更加孤立。北约和欧盟等关键行为体试图遏制这一策略，同时避免直接战争。美国及其盟友试图通过针对性制裁削弱俄罗斯经济。",
-        "analyse_ru": "Контекст статьи связан с анализом стратегии Владимира Путина в войне на Украине, где он демонстрирует необычайное терпение. Причины такого поведения могут корениться в его стремлении избежать эскалации конфликта до глобального уровня, а также в расчёте на ослабление поддержки Украины со стороны Запада. Последствия такой тактики могут быть катастрофическими: затягивание войны ведёт к человеческим жертвам, экономическим потерям и геополитической нестабильности. Перспективы зависят от того, сможет ли международное сообщество убедить Путина изменить курс или же конфликт перейдёт в новую фазу. Позиции сторон остаются поляризованными: Запад обвиняет Россию в агрессии, а Москва оправдывает свои действия как защиту национальных интересов.",
-        "analyse_fa": "زمینه این مقاله به بررسی استراتژی ولادیمیر پوتین در جنگ اوکراین مربوط می‌شود، جایی که او صبر غیرمعمولی نشان می‌دهد. دلایل چنین رفتاری ممکن است در تلاش او برای جلوگیری از تشدید درگیری تا سطح جهانی و همچنین محاسبه بر تضعیف حمایت غرب از اوکراین ریشه داشته باشد. پیامدهای این تاکتیک می‌تواند فاجعه‌بار باشد: طولانی شدن جنگ منجر به تلفات انسانی، زیان‌های اقتصادی و بی‌ثباتی ژئوپلیتیکی می‌شود. چشم‌اندازها به این بستگی دارد که آیا جامعه بین‌المللی بتواند پوتین را متقاعد به تغییر مسیر کند یا درگیری وارد فاز جدیدی شود. مواضع طرفین همچنان قطبی هستند: غرب روسیه را به تجاوز متهم می‌کند، در حالی که مسکو اقدامات خود را به عنوان دفاع از منافع ملی توجیه می‌کند.",
-        "analyse_ar": "يتعلق سياق المقال بتحليل استراتيجية فلاديمير بوتين في حرب أوكرانيا، حيث يظهر صبراً غير عادي. قد تكمن أسباب هذا السلوك في سعي بوتين لتجنب تصعيد الصراع إلى مستوى عالمي، بالإضافة إلى حساباته حول إضعاف دعم الغرب لأوكرانيا. قد تكون عواقب هذه التكتيكات كارثية: إطالة أمد الحرب تؤدي إلى خسائر بشرية، خسائر اقتصادية، وعدم استقرار جيوسياسي. الآفاق تعتمد على ما إذا كان المجتمع الدولي سيتمكن من إقناع بوتين بتغيير مساره أو ما إذا سيتحول الصراع إلى مرحلة جديدة. остаются مواقف الأطراف متضاربة: يتهم الغرب روسيا بالعدوان، بينما تبرر موسكو تصرفاتها باعتبارها دفاعاً عن المصالح الوطنية.",
-        "categorie": "Géopolitique",
-        "source": "Globalresearch.ca",
-        "url": "https://www.globalresearch.ca/can-world-survive-putin-well-intentioned-mistake/5937591",
-        "image": "https://www.globalresearch.ca/wp-content/uploads/2024/02/putin.jpg",
-        "date": "2026-08-21",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des céréales",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Les tensions prolongées pourraient faire monter les prix du pétrole en raison des incertitudes sur l'approvisionnement russe.",
-            "effet_en": "Prolonged tensions could drive up oil prices due to uncertainties surrounding Russian supply.",
-            "effet_zh": "持续紧张局势可能因俄罗斯供应不确定性而推高油价。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des céréales",
-            "secteur_en": "Grain market",
-            "secteur_zh": "粮食市场",
-            "effet_fr": "Les perturbations des exportations ukrainiennes et russes pourraient aggraver la crise alimentaire mondiale.",
-            "effet_en": "Disruptions in Ukrainian and Russian grain exports could worsen the global food crisis.",
-            "effet_zh": "乌克兰和俄罗斯粮食出口中断可能加剧全球粮食危机。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-22T13:31:08.534296"
       }
     ],
     "iran": [
