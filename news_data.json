@@ -1,7 +1,66 @@
 {
-  "last_updated": "23/08/2026 à 13h32",
+  "last_updated": "23/08/2026 à 14h22",
   "articles": {
     "monde": [
+      {
+        "id": "monde_801700",
+        "titre": "Maturité des CMBS : un mur de refinancement coûteux",
+        "titre_en": "CMBS Maturity Wall: Costly Refinancing Reset",
+        "titre_zh": "CMBS到期潮：高成本再融资",
+        "titre_ru": "Скрытая угроза: проблемы с рефинансированием CMBS",
+        "titre_fa": "دیوار سررسید وام‌های تجاری و مشکلات بازپرداخت",
+        "titre_ar": "جدار استحقاقات القروض التجارية وأزمة إعادة التمويل",
+        "titre_original": "The CMBS Maturity Wall Hides a Sharp Refinancing Reset",
+        "resume": "Plus de 100 milliards de dollars de dettes CMBS arrivent à échéance dans les neuf prochains mois. Le refinancement coûte désormais 114 points de base de plus que les prêts actuels. Les investisseurs s'inquiètent d'un risque accru de défaut.",
+        "resume_en": "Over $100 billion in CMBS debt matures within the next nine months. Refinancing now costs 114 basis points more than existing loans. Investors fear increased default risks.",
+        "resume_zh": "未来九个月内超过1000亿美元的CMBS债务到期。再融资成本比现有贷款高出114个基点。投资者担心违约风险上升。",
+        "resume_ru": "Объем долговых обязательств CMBS, подлежащих погашению в ближайшие девять месяцев, превышает 100 миллиардов долларов. Стоимость рефинансирования этих кредитов выросла на 114 базисных пунктов по сравнению с текущими ставками. Эксперты предупреждают о риске массовых дефолтов и пересмотра условий кредитования.",
+        "resume_fa": "حجم بدهی‌های CMBS که در ۹ ماه آینده سررسید دارند، از ۱۰۰ میلیارد دلار فراتر رفته است. هزینه بازپرداخت این وام‌ها ۱۱۴ واحد پایه بیشتر از نرخ‌های فعلی شده است. کارشناسان نسبت به خطر نکول‌های گسترده و تغییر شرایط وام‌دهی هشدار می‌دهند.",
+        "resume_ar": "تجاوز قيمة ديون CMBS المستحقة خلال الأشهر التسعة القادمة 100 مليار دولار. ارتفعت تكلفة إعادة تمويل هذه القروض بمقدار 114 نقطة أساس مقارنة بالأسعار الحالية. يحذر الخبراء من خطر التخلف الجماعي وإعادة تقييم شروط الإقراض.",
+        "analyse_detaillee": "Les CMBS (Commercial Mortgage-Backed Securities) ont connu un essor dans les années 2000 avec la titrisation des prêts immobiliers commerciaux. La crise financière de 2008 a révélé leur vulnérabilité, mais leur utilisation s'est poursuivie. Les enjeux actuels concernent la capacité des emprunteurs à refinancer des dettes arrivant à échéance dans un contexte de hausse des taux d'intérêt. Les causes profondes incluent la politique monétaire restrictive des banques centrales et la surévaluation des actifs immobiliers. À court terme, les propriétaires de biens commerciaux pourraient faire face à des difficultés de liquidité, augmentant le risque de défaut. À moyen terme, une vague de saisies et de restructurations pourrait déstabiliser le marché immobilier commercial. À long terme, cela pourrait entraîner une consolidation du secteur et une réduction de l'offre de crédit. Les investisseurs institutionnels, comme les fonds de pension, et les émetteurs de CMBS sont les acteurs les plus exposés. Les régulateurs pourraient intervenir pour assouplir les règles de refinancement.",
+        "analyse_en": "CMBS (Commercial Mortgage-Backed Securities) surged in the 2000s with the securitization of commercial real estate loans. The 2008 financial crisis exposed their vulnerabilities, yet their use persisted. Current stakes involve borrowers' ability to refinance maturing debt amid rising interest rates. Root causes include central banks' restrictive monetary policies and overvalued real estate assets. Short-term, commercial property owners may face liquidity challenges, increasing default risks. Medium-term, a wave of foreclosures and restructurings could destabilize the commercial real estate market. Long-term, this may lead to sector consolidation and reduced credit supply. Institutional investors like pension funds and CMBS issuers are the most exposed actors. Regulators may intervene to ease refinancing rules.",
+        "analyse_zh": "CMBS（商业抵押贷款支持证券）在2000年代随着商业房地产贷款证券化而激增。2008年金融危机暴露了其脆弱性，但其使用仍在继续。当前的核心问题在于借款人在利率上升背景下能否为到期债务再融资。深层原因包括央行的紧缩货币政策和商业地产资产的高估。短期内，商业地产所有者可能面临流动性困难，增加违约风险。中期来看，一波抵押品赎回和重组可能动摇商业房地产市场。长期而言，这可能导致行业整合和信贷供应减少。养老金等机构投资者和CMBS发行方是最受影响的参与者。监管机构可能介入以放宽再融资规则。",
+        "analyse_ru": "CMBS (коммерческие ипотечные ценные бумаги) играют ключевую роль в финансировании недвижимости США. Причины роста проблем связаны с повышением процентных ставок ФРС, что удорожает рефинансирование. Последствия могут включать падение цен на коммерческую недвижимость, сокращение инвестиций и банкротства заемщиков. Перспективы зависят от стабилизации рынка и возможной поддержки со стороны регуляторов. Позиция инвесторов и банков ужесточается, что грозит кризисом ликвидности.",
+        "analyse_fa": "CMBS (اوراق بهادار رهنی تجاری) نقش مهمی در تأمین مالی املاک تجاری در آمریکا دارند. دلایل مشکلات ناشی از افزایش نرخ‌های بهره توسط فدرال رزرو است که بازپرداخت وام‌ها را گران‌تر می‌کند. پیامدها می‌تواند شامل کاهش قیمت املاک تجاری، کاهش سرمایه‌گذاری و ورشکستگی وام‌گیرندگان باشد. چشم‌انداز به ثبات بازار و حمایت احتمالی نهادهای نظارتی بستگی دارد. موضع سرمایه‌گذاران و بانک‌ها در حال تشدید است که خطر بحران نقدینگی را به همراه دارد.",
+        "analyse_ar": "تلعب سندات CMBS (الأوراق المالية الرهن العقاري التجاري) دوراً حيوياً في تمويل العقارات التجارية في الولايات المتحدة. أسباب المشاكل ترتبط بارتفاع أسعار الفائدة من قبل الاحتياطي الفيدرالي، مما يزيد من تكلفة إعادة التمويل. العواقب قد تشمل انخفاض أسعار العقارات التجارية، وانخفاض الاستثمارات والإفلاسات بين المقترضين. الآفاق تعتمد على استقرار السوق والدعم المحتمل من الجهات التنظيمية. موقف المستثمرين والمصارف يتشدد، مما يهدد بأزمة سيولة.",
+        "categorie": "Finance",
+        "source": "Credaily.com",
+        "url": "https://www.credaily.com/briefs/the-cmbs-maturity-wall-hides-a-sharp-refinancing-reset/",
+        "image": "https://s.yimg.com/lo/mysterio/api/EFE4224195C10FC3CB3E6940BC7493B97078B13756EAEFF99428B59DE92C0010/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcre_daily_340%2F759f84f41997615e4a952a8e530649da",
+        "date": "2026-08-22",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Immobilier commercial",
+            "hausse": false
+          },
+          {
+            "label": "▼ Fonds d'investissement immobilier",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Immobilier commercial",
+            "secteur_en": "Commercial real estate",
+            "secteur_zh": "商业房地产",
+            "effet_fr": "Les propriétaires de biens commerciaux verront leurs coûts de financement augmenter, réduisant leur rentabilité et augmentant le risque de défaut.",
+            "effet_en": "Commercial property owners will see their financing costs rise, reducing profitability and increasing default risk.",
+            "effet_zh": "商业地产所有者的融资成本将上升，降低盈利能力并增加违约风险。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Fonds d'investissement immobilier",
+            "secteur_en": "Real estate investment funds",
+            "secteur_zh": "房地产投资基金",
+            "effet_fr": "Les fonds investis dans les CMBS subiront des pertes de valeur, affectant les rendements des investisseurs et la liquidité du marché.",
+            "effet_en": "Funds invested in CMBS will suffer value losses, impacting investor returns and market liquidity.",
+            "effet_zh": "投资于CMBS的基金将遭受价值损失，影响投资者回报和市场流动性。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-23T14:22:00.738757"
+      },
       {
         "id": "monde_690119",
         "titre": "Recherche indienne propose vote par téléphone",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-22T16:22:06.354843"
-      },
-      {
-        "id": "monde_693826",
-        "titre": "Pré-saison des Commanders : 10 joueurs à surveiller",
-        "titre_en": "Commanders preseason: 10 players to watch vs. Lions",
-        "titre_zh": "指挥官队季前赛：10名关键球员",
-        "titre_ru": "10 игроков, за которыми стоит следить в предсезонке",
-        "titre_fa": "10 بازیکنی که باید در پیش‌فصل زیر نظر داشت",
-        "titre_ar": "10 لاعبين يجب متابعتهم في فترة الاستعدادات",
-        "titre_original": "Commanders preseason: Frankie Luvu among 10 players to watch vs. Lions",
-        "resume": "L'entraîneur Dan Quinn a annoncé que plusieurs titulaires joueront lors du match de pré-saison des Commanders contre les Lions. Parmi les joueurs à surveiller figure Frankie Luvu. Cet événement marque le début des préparatifs pour la saison NFL 2024. Les enjeux incluent la cohésion d'équipe et l'évaluation des nouveaux talents.",
-        "resume_en": "Coach Dan Quinn announced that several starters will play in the Commanders' preseason game against the Lions, with Frankie Luvu among the players to watch. This event marks the start of preparations for the 2024 NFL season. Key stakes include team cohesion and evaluating new talent.",
-        "resume_zh": "教练丹·奎恩宣布，多名主力球员将在指挥官队对阵狮子队的季前赛中出场，弗兰基·卢武是备受关注的球员之一。这一事件标志着2024年NFL赛季准备工作的开始。主要影响包括团队凝聚力和新人才的评估。",
-        "resume_ru": "Главный тренер команды «Командерс» Дэн Куинн заявил, что в предсезонном матче против «Лайонс» сыграют многие основные игроки. Среди них выделяется Фрэнки Лува, которого эксперты считают одним из самых перспективных защитников.",
-        "resume_fa": "سرمربی تیم «کماندورز» دن کوین گفت که در بازی پیش‌فصل مقابل «لایونس»، بسیاری از بازیکنان اصلی به میدان خواهند رفت. از میان آنها، فرانکی لووو به عنوان یکی از مدافعان امیدوارکننده شناخته می‌شود.",
-        "resume_ar": "أعلن المدرب الرئيسي لفريق «كوماندوز» دان كوين أن العديد من اللاعبين الأساسيين سيشاركون في مباراة الاستعدادات ضد «الأسود». ومن بينهم فرانكي لوفو، الذي يعتبر من أبرز المدافعين الواعدين.",
-        "analyse_detaillee": "La pré-saison NFL est un moment crucial pour les équipes comme les Commanders, qui cherchent à consolider leur effectif avant le début de la saison régulière. Frankie Luvu, un linebacker, incarne les espoirs de l'équipe en matière de défense, un secteur souvent décisif dans les matchs serrés. Les enjeux principaux incluent la gestion des blessures, l'intégration des rookies et la préparation tactique face à des adversaires comme les Lions. Les causes profondes résident dans la pression financière des franchises, qui doivent performer rapidement pour justifier leurs investissements, et dans la concurrence accrue dans une ligue aussi compétitive que la NFL. À court terme, une bonne performance en pré-saison peut booster le moral des joueurs et des supporters, tandis qu'à moyen terme, une équipe mal préparée risque de perdre des matchs décisifs. À long terme, une gestion efficace des talents peut garantir la pérennité sportive et financière de la franchise. Les acteurs incluent les entraîneurs, qui doivent équilibrer prudence et ambition, les joueurs, qui cherchent à se faire remarquer, et les dirigeants, qui évaluent les performances pour ajuster leur stratégie de recrutement. Les médias et les fans jouent également un rôle en créant une pression supplémentaire.",
-        "analyse_en": "NFL preseason is a critical moment for teams like the Commanders, who aim to solidify their roster before the regular season begins. Frankie Luvu, a linebacker, embodies the team's hopes in defense, a sector often decisive in close games. Key stakes include injury management, rookie integration, and tactical preparation against opponents like the Lions. Root causes lie in the financial pressure on franchises, which must perform quickly to justify their investments, and the increased competition in a league as competitive as the NFL. In the short term, a strong preseason performance can boost player and fan morale, while in the medium term, a poorly prepared team risks losing crucial games. In the long term, effective talent management can ensure the sporting and financial sustainability of the franchise. Key actors include coaches, who must balance caution and ambition, players seeking to stand out, and executives evaluating performances to adjust recruitment strategies. Media and fans also play a role by creating additional pressure.",
-        "analyse_zh": "NFL季前赛对指挥官队等球队至关重要，他们希望在常规赛开始前巩固阵容。弗兰基·卢武作为一名线卫，代表了球队在防守方面的希望，防守在势均力敌的比赛中往往起决定性作用。主要影响包括伤病管理、新秀融入和对阵狮子队等对手的战术准备。深层原因在于球队的财务压力，他们必须快速取得成绩以证明投资的合理性，以及NFL这种高度竞争联盟中竞争的加剧。短期内，季前赛的良好表现可以提振球员和球迷的士气，而中期来看，准备不足的球队可能输掉关键比赛。长期而言，有效的人才管理可以确保球队的体育和财务可持续性。主要行为者包括教练，他们必须在谨慎与雄心之间取得平衡；球员，他们试图脱颖而出；以及高管，他们通过评估表现来调整招聘策略。媒体和球迷也通过施加额外压力发挥作用。",
-        "analyse_ru": "Контекст: начало предсезонной подготовки команд НФЛ к новому сезону. Причины: тренеры стремятся оценить готовность игроков и тактические варианты. Последствия: возможное выявление новых талантов и изменение состава команд. Перспективы: улучшение игровых навыков и командной химии. Позиции сторон: клубы заинтересованы в укреплении состава, а болельщики — в успешных выступлениях.",
-        "analyse_fa": "زمینه: آغاز آماده‌سازی پیش‌فصل تیم‌های ان‌اف‌ال برای فصل جدید. علل: مربیان در تلاشند تا آمادگی بازیکنان و گزینه‌های تاکتیکی را ارزیابی کنند. پیامدها: شناسایی استعدادهای جدید و تغییر ترکیب تیم‌ها. چشم‌انداز: بهبود مهارت‌های بازی و هماهنگی تیمی. موضع بازیگران: باشگاه‌ها به تقویت ترکیب علاقه دارند، در حالی که هواداران به دنبال عملکرد موفق هستند.",
-        "analyse_ar": "السياق: بداية استعدادات ما قبل الموسم لفريق NFL قبل الموسم الجديد. الأسباب: يسعى المدربون لتقييم جاهزية اللاعبين والخيارات التكتيكية. العواقب: اكتشاف مواهب جديدة وتغييرات في التشكيلات. الآفاق: تحسين المهارات واللعب الجماعي. مواقف الأطراف: تهتم الأندية بتعزيز التشكيلات، بينما يسعى المشجعون إلى الأداء الناجح.",
-        "categorie": "Sport",
-        "source": "Hogs Haven",
-        "url": "https://www.hogshaven.com/washington-commanders-analysis/434333/commanders-preseason-frankie-luvu-sonny-styles-jayden-daniels-sonny-styles-antonio-williams-detroit-lions",
-        "image": "https://s.yimg.com/lo/mysterio/api/add8d02ce6257dfea84bc528b41a6c40e606955240c3633f8de5c9a7762a0ccb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc33eff6a264b9d58182761052bf8a537.jpg",
-        "date": "2026-08-21",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des transferts sportifs",
-            "hausse": true
-          },
-          {
-            "label": "▲ Sponsoring et droits TV",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts sportifs",
-            "secteur_en": "Sports transfer market",
-            "secteur_zh": "体育转会市场",
-            "effet_fr": "Une bonne pré-saison peut augmenter la valeur marchande des joueurs performants, facilitant leur recrutement futur.",
-            "effet_en": "A strong preseason can increase the market value of performing players, facilitating future recruitment.",
-            "effet_zh": "季前赛的良好表现可以提高表现优异球员的市场价值，便于未来招募。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Sponsoring et droits TV",
-            "secteur_en": "Sponsorship and TV rights",
-            "secteur_zh": "赞助与电视转播权",
-            "effet_fr": "Les performances en pré-saison influencent la visibilité médiatique et l'attractivité commerciale des équipes.",
-            "effet_en": "Preseason performances influence media visibility and commercial attractiveness of teams.",
-            "effet_zh": "季前赛表现影响球队的媒体曝光度和商业吸引力。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-22T15:19:48.929952"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_166057",
+        "titre": "Négociations commerciales USA-Canada échouent",
+        "titre_en": "US-Canada Trade Talks Collapse",
+        "titre_zh": "美加贸易谈判破裂",
+        "titre_ru": "Переговоры США-Канада сорвались перед дедлайном",
+        "titre_fa": "مذاکرات تجاری آمریکا و کانادا پیش از مهلت مقرر شکست خورد",
+        "titre_ar": "مفاوضات تجارية بين الولايات المتحدة وكندا تفشل قبل الموعد النهائي",
+        "titre_original": "US-Canada Trade Talks Collapse Just Before Deadline, Trump’s 50% Tariffs Take Effect",
+        "resume": "Les négociations commerciales entre les États-Unis et le Canada ont échoué juste avant la date limite, déclenchant des tarifs de 50% sur 20 milliards de dollars de biens canadiens. Les tensions commerciales s'aggravent entre les deux pays alliés. Les tarifs entreront en vigueur immédiatement.",
+        "resume_en": "US-Canada trade negotiations collapsed just before the deadline, triggering 50% tariffs on $20 billion worth of Canadian goods. Trade tensions escalate between the two allied nations. Tariffs take effect immediately.",
+        "resume_zh": "美加贸易谈判在最后期限前破裂，触发对价值200亿美元加拿大商品征收50%关税。两个盟国间的贸易紧张局势加剧。关税立即生效。",
+        "resume_ru": "Переговоры между США и Канадой о торговле сорвались в ночь на пятницу, всего за несколько минут до установленного дедлайна. В результате с полуночи вступили в силу 50% тарифы на канадские товары на сумму около 20 миллиардов долларов. Вашингтон обвинил Оттаву в нежелании идти на компромиссы.",
+        "resume_fa": "مذاکرات تجاری بین آمریکا و کانادا شب گذشته، چند دقیقه قبل از مهلت مقرر، شکست خورد. از نیمه‌شب، تعرفه‌های ۵۰ درصدی بر کالاهای کانادایی به ارزش حدود ۲۰ میلیارد دلار اعمال شد. واشنگتن کانادا را به عدم تمایل به مصالحه متهم کرد.",
+        "resume_ar": "فشلت المفاوضات التجارية بين الولايات المتحدة وكندا مساء الجمعة، قبل دقائق من الموعد النهائي. начиء من منتصف الليل، تم تطبيق رسوم جمركية بنسبة 50% على سلع كندية بقيمة 20 مليار دولار. اتهمت واشنطن أوتاوا بعدم استعدادها للتسوية.",
+        "analyse_detaillee": "Les tensions commerciales entre les États-Unis et le Canada remontent aux années 1980 avec des litiges récurrents sur les subventions agricoles et les droits de douane. Les enjeux actuels portent sur l'équilibre des échanges et la souveraineté industrielle, notamment dans les secteurs de l'acier et de l'aluminium. Les causes profondes incluent la politique protectionniste de Trump et les divergences sur les règles d'origine. À court terme, les tarifs vont augmenter les coûts pour les consommateurs américains et canadiens, perturbant les chaînes d'approvisionnement. À moyen terme, cela pourrait affaiblir la compétitivité des industries touchées et déclencher des représailles. À long terme, une escalade des tensions pourrait redéfinir les alliances commerciales nord-américaines. Le Canada, dépendant des exportations vers les États-Unis, cherche à diversifier ses partenariats, tandis que les États-Unis renforcent leur pression pour réduire le déficit commercial. Les acteurs économiques, notamment les PME et les grands groupes industriels, seront les plus affectés.",
+        "analyse_en": "US-Canada trade tensions date back to the 1980s with recurring disputes over agricultural subsidies and tariffs. Current stakes involve trade balance and industrial sovereignty, particularly in steel and aluminum sectors. Root causes include Trump's protectionist policies and disagreements over rules of origin. In the short term, tariffs will raise costs for American and Canadian consumers, disrupting supply chains. Medium-term, this could weaken the competitiveness of affected industries and trigger retaliation. Long-term, escalating tensions may redefine North American trade alliances. Canada, dependent on exports to the US, seeks to diversify partnerships, while the US strengthens pressure to reduce the trade deficit. Economic actors, especially SMEs and large industrial groups, will be most affected.",
+        "analyse_zh": "美加贸易紧张局势可追溯至20世纪80年代，当时在农业补贴和关税问题上存在反复争端。当前的核心问题涉及贸易平衡和工业主权，特别是钢铁和铝制品行业。深层原因包括特朗普的保护主义政策以及对原产地规则的分歧。短期内，关税将提高美加消费者的成本，扰乱供应链。中期来看，这可能削弱相关行业的竞争力并引发报复。长期而言，紧张局势升级可能重新定义北美贸易联盟。加拿大作为对美出口依赖国，正寻求多元化合作伙伴，而美国则加强压力以减少贸易逆差。经济参与者，尤其是中小企业和大型工业集团，将受到最严重影响。",
+        "analyse_ru": "Контекст конфликта связан с давними торговыми разногласиями между США и Канадой, усугубившимися при администрации Трампа. Причины срыва переговоров кроются в требованиях Вашингтона по изменению условий торговли, включая снижение дефицита и ужесточение правил происхождения товаров. Последствия могут быть серьезными: рост цен на импортные товары, осложнение логистических цепочек и ухудшение отношений между союзниками по НАТО. Перспективы зависят от готовности сторон к компромиссам, но риск эскалации сохраняется. Позиция США подчеркивает приоритет национальных интересов, тогда как Канада настаивает на взаимовыгодных условиях.",
+        "analyse_fa": "زمینه این اختلافات تجاری به تنش‌های دیرینه بین آمریکا و کانادا برمی‌گردد که در دوره ریاست‌جمهوری ترامپ تشدید شد. دلایل شکست مذاکرات شامل خواسته‌های واشنگتن برای تغییر شرایط تجاری، از جمله کاهش کسری تجاری و سخت‌گیری در قوانین مبدأ کالا است. پیامدها می‌تواند شامل افزایش قیمت کالاها، اختلال در زنجیره‌های تأمین و تیره شدن روابط دو کشور به عنوان متحدان ناتو باشد. چشم‌انداز به آمادگی طرفین برای مصالحه بستگی دارد، اما خطر تشدید تنش‌ها همچنان وجود دارد. موضع آمریکا بر منافع ملی تأکید دارد، در حالی که کانادا خواستار شرایط برد-برد است.",
+        "analyse_ar": "يرتبط السياق في هذا النزاع التجاري بالخلافات الطويلة الأمد بين الولايات المتحدة وكندا، والتي تفاقمت خلال إدارة ترامب. أسباب فشل المفاوضات تكمن في مطالب واشنطن بتغيير شروط التجارة، بما في ذلك خفض العجز التجاري وتشديد قواعد المنشأ. العواقب قد تشمل ارتفاع أسعار السلع المستوردة، وتعطيل سلاسل الإمداد، وتدهور العلاقات بين البلدين كحليفين في حلف الناتو. الآفاق تعتمد على استعداد الطرفين للتسوية، لكن خطر التصعيد لا يزال قائماً. موقف الولايات المتحدة يركز على المصالح الوطنية، بينما تصر كندا على شروط مربحة للطرفين.",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/94449fbf23999299",
+        "image": "https://biztoc.com/cdn/94449fbf23999299_s.webp",
+        "date": "2026-08-22",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur manufacturier nord-américain",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marchés financiers",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur manufacturier nord-américain",
+            "secteur_en": "North American manufacturing sector",
+            "secteur_zh": "北美制造业",
+            "effet_fr": "Les tarifs de 50% vont augmenter les coûts de production pour les industries manufacturières dépendantes des composants canadiens, réduisant leur compétitivité à l'export.",
+            "effet_en": "The 50% tariffs will increase production costs for manufacturing industries reliant on Canadian components, reducing their export competitiveness.",
+            "effet_zh": "50%的关税将提高依赖加拿大零部件的制造业生产成本，削弱其出口竞争力。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marchés financiers",
+            "secteur_en": "Financial markets",
+            "secteur_zh": "金融市场",
+            "effet_fr": "L'incertitude commerciale va provoquer une volatilité accrue sur les marchés boursiers nord-américains, affectant les investissements et les valorisations.",
+            "effet_en": "Trade uncertainty will drive increased volatility in North American stock markets, impacting investments and valuations.",
+            "effet_zh": "贸易不确定性将导致北美股市波动加剧，影响投资和估值。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-23T14:22:00.738724"
+      },
       {
         "id": "usa_305858",
         "titre": "Le Canada résiste aux tarifs américains",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-22T16:22:06.354880"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_408773",
-        "titre": "La Maison Blanche attaque Rosie O'Donnell après ses critiques",
-        "titre_en": "White House blasts Rosie O'Donnell after Trump criticism",
-        "titre_zh": "白宫抨击罗斯·奥唐奈对特朗普的批评",
-        "titre_ru": "Белый дом осудил Розу О’Доннелл за критику Трампа",
-        "titre_fa": "کاخ سفید رزا اودانل را پس از انتقاد از ترامپ محکوم کرد",
-        "titre_ar": "البيت الأبيض يدين روزي أودونل بعد انتقادها ترامب",
-        "titre_original": "Trump’s White House Blasts Rosie O’Donnell After ‘Jimmy Kimmel Live’ Hosting Run: A ‘Nasty Woman’ and ‘Total Slob’",
-        "resume": "La Maison Blanche a réagi vivement aux attaques de Rosie O'Donnell contre Donald Trump lors de son passage à l'émission 'Jimmy Kimmel Live'. Elle l'a qualifiée de 'femme méchante' et de 'vraie souillon'. Ces propos s'inscrivent dans un contexte de polarisation politique accrue aux États-Unis. Les médias et l'opinion publique réagissent avec des réactions contrastées.",
-        "resume_en": "The White House strongly reacted to Rosie O'Donnell's attacks on Donald Trump during her guest-hosting stint on 'Jimmy Kimmel Live,' calling her a 'nasty woman' and a 'total slob.' These remarks occur amid heightened political polarization in the U.S. Media and public opinion are reacting with mixed responses.",
-        "resume_zh": "白宫强烈回应罗斯·奥唐奈在《吉米·坎摩尔直播》节目中对唐纳德·特朗普的抨击，称她为‘可恶的女人’和‘彻头彻尾的邋遢女人’。这些言论发生在美国政治极化加剧的背景下。媒体和公众舆论反应不一。",
-        "resume_ru": "Белый дом резко ответил на критику президента Дональда Трампа со стороны Розы О’Доннелл во время её гостевого ведения шоу «Jimmy Kimmel Live». В заявлении администрация назвала её «грубой женщиной» и «неряхой».",
-        "resume_fa": "کاخ سفید پس از انتقاد روزی اودانل از دونالد ترامپ در برنامه «Jimmy Kimmel Live» واکنش تندی نشان داد. در بیانیه‌ای، او را «زن ناخوشایند» و «کثیف» توصیف کردند.",
-        "resume_ar": "رد البيت الأبيض بشدة على انتقادات روزي أودونل للرئيس دونالد ترامب خلال تقديمها برنامج «Jimmy Kimmel Live». وفي بيان، وصفتها الإدارة بأنها «امرأة بذيئة» و«فوضوية».",
-        "analyse_detaillee": "Les tensions entre Donald Trump et les médias, notamment les chaînes satiriques comme ABC, reflètent une polarisation politique croissante aux États-Unis. Rosie O'Donnell, figure médiatique progressiste, incarne l'opposition à Trump, dont la présidence a été marquée par des conflits avec les médias traditionnels et les célébrités critiques. Les enjeux principaux incluent la liberté d'expression, la crédibilité des médias et l'influence des personnalités publiques sur l'opinion. Les causes profondes résident dans la fragmentation médiatique, la montée des réseaux sociaux et la personnalisation de la politique autour de figures comme Trump. À court terme, cette confrontation pourrait renforcer les divisions partisanes et polariser davantage l'électorat. À moyen terme, une escalade des attaques verbales pourrait éroder la confiance dans les institutions médiatiques. À long terme, une normalisation des discours agressifs pourrait banaliser la désinformation et la polarisation. Les acteurs en présence incluent Trump et son camp, qui utilisent ces attaques pour mobiliser leur base, et les médias libéraux, qui y voient une menace pour la démocratie. Les réseaux sociaux amplifient ces dynamiques en créant des bulles informationnelles.",
-        "analyse_en": "Tensions between Donald Trump and media outlets, particularly satirical shows like ABC, reflect growing political polarization in the U.S. Rosie O'Donnell, a progressive media figure, embodies opposition to Trump, whose presidency was marked by conflicts with traditional media and critical celebrities. Key stakes include freedom of speech, media credibility, and the influence of public figures on public opinion. Root causes lie in media fragmentation, the rise of social networks, and the personalization of politics around figures like Trump. In the short term, this confrontation could deepen partisan divisions and further polarize the electorate. In the medium term, escalating verbal attacks could erode trust in media institutions. In the long term, normalizing aggressive rhetoric could trivialize misinformation and polarization. Key actors include Trump and his camp, who use these attacks to mobilize their base, and liberal media, which see it as a threat to democracy. Social networks amplify these dynamics by creating informational bubbles.",
-        "analyse_zh": "唐纳德·特朗普与媒体（特别是像ABC这样的讽刺节目）之间的紧张关系反映了美国日益加剧的政治极化。罗斯·奥唐奈作为进步媒体人物，代表了对特朗普的反对，而特朗普的总统任期充满了与传统媒体和批评名人的冲突。主要影响包括言论自由、媒体公信力以及公众人物对舆论的影响。深层原因在于媒体碎片化、社交媒体的兴起以及围绕特朗普等人物的政治个人化。短期内，这种对抗可能加深党派分歧，进一步极化选民。中期来看，言语攻击升级可能侵蚀对媒体机构的信任。长期而言，将攻击性言论常态化可能淡化虚假信息和极化现象。主要行为者包括特朗普及其阵营，他们利用这些攻击来动员其基本盘，以及自由派媒体，他们认为这是对民主的威胁。社交媒体通过创造信息泡沫放大了这些动态。",
-        "analyse_ru": "Контекст: политическая напряжённость в США на фоне предвыборной кампании. Причины: О’Доннелл, известная своими левыми взглядами, критиковала Трампа за его политику и личность. Последствия: обострение поляризации в обществе и медиапространстве. Перспективы: возможное усиление контроля над высказываниями публичных личностей. Позиции сторон: администрация Трампа защищает его имидж, а оппозиция использует критику для мобилизации сторонников.",
-        "analyse_fa": "زمینه: تنش‌های سیاسی در آمریکا پیش از انتخابات. علل: اودانل، با گرایش‌های چپ، ترامپ را به خاطر سیاست‌ها و شخصیتش مورد انتقاد قرار داد. پیامدها: تشدید قطب‌بندی در جامعه و رسانه‌ها. چشم‌انداز: احتمال افزایش کنترل بر اظهارات چهره‌های عمومی. موضع بازیگران: دولت ترامپ از تصویر او دفاع می‌کند، در حالی که اپوزیسیون از انتقاد برای بسیج طرفداران استفاده می‌کند.",
-        "analyse_ar": "السياق: التوترات السياسية في الولايات المتحدة قبيل الانتخابات. الأسباب: انتقدت أودونل، ذات الميول اليسارية، ترامب بسبب سياساته وشخصيته. العواقب: تصاعد الاستقطاب في المجتمع ووسائل الإعلام. الآفاق: احتمال زيادة الرقابة على تصريحات الشخصيات العامة. مواقف الأطراف: تدافع إدارة ترامب عن صورته، بينما تستخدم المعارضة النقد للتعبئة.",
-        "categorie": "Politique intérieure",
-        "source": "Variety",
-        "url": "https://variety.com/2026/tv/news/trump-white-house-blasts-rosie-odonnell-jimmy-kimmel-live-1236836995/",
-        "image": "https://variety.com/wp-content/uploads/2026/08/rose-trump.jpg?w=1000&h=563&crop=1",
-        "date": "2026-08-21",
-        "pays": "usa",
+        "id": "chine_785462",
+        "titre": "Robot chinois défie le record de Bolt",
+        "titre_en": "Chinese Robot Challenges Bolt’s 100m Record",
+        "titre_zh": "中国机器人挑战博尔特100米纪录",
+        "titre_ru": "Робот из Китая пытался побить рекорд Усейна Болта",
+        "titre_fa": "رباتی چینی تلاش کرد رکورد اوسین بولت را بشکند",
+        "titre_ar": "روبوت صيني يحاول تحطيم رقم أوسين بولت القياسي",
+        "titre_original": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+        "resume": "Un androïde chinois a couru plus vite que le record du monde de Usain Bolt sur 100 mètres lors des Jeux mondiaux des robots. Le fabricant Honor présente cette performance comme une avancée technologique majeure. Les experts soulignent les limites de cette comparaison.",
+        "resume_en": "A Chinese android ran faster than Usain Bolt’s 100m world record at the World Humanoid Robot Games. Manufacturer Honor presents this as a major technological breakthrough. Experts highlight the limitations of this comparison.",
+        "resume_zh": "一款中国仿生机器人在世界仿人机器人运动会上跑出了比博尔特100米世界纪录更快的成绩。制造商荣耀将其视为重大技术突破。专家指出这种比较的局限性。",
+        "resume_ru": "На Всемирных играх человекоподобных роботов в Китае андроид преодолел дистанцию 100 метров быстрее, чем легендарный Усейн Болт. Производитель Honor утверждает, что робот развил скорость 26 км/ч. Эксперты называют это прорывом в робототехнике.",
+        "resume_fa": "در بازی‌های جهانی روبات‌های انسان‌نما در چین، یک آندروید مسافت ۱۰۰ متر را سریع‌تر از اسطوره اوسین بولت دوید. تولیدکننده هونور ادعا می‌کند که ربات با سرعت ۲۶ کیلومتر در ساعت حرکت کرده است. کارشناسان این را پیشرفتی در رباتیک می‌دانند.",
+        "resume_ar": "في الألعاب العالمية للروبوتات شبيهة البشر في الصين، قطع الأندرويد مسافة 100 متر أسرع من أسطورة أوسين بولت. يدعي المُصنّع هونور أن الروبوت حقق سرعة 26 كم/ساعة. يصف الخبراء هذا بأنه اختراق في مجال الروبوتات.",
+        "analyse_detaillee": "La Chine investit massivement dans la robotique et l'intelligence artificielle depuis les années 2010, visant à devenir leader mondial dans ces secteurs. Les enjeux incluent la domination technologique, l'innovation industrielle et la réduction de la dépendance aux importations. Les causes profondes résident dans la stratégie nationale 'Made in China 2025' et la pénurie de main-d'œuvre dans certains secteurs. À court terme, cette performance médiatique pourrait booster l'image de la Chine comme pionnière technologique. À moyen terme, cela pourrait accélérer les investissements dans la robotique humanoïde et ses applications industrielles. À long terme, une généralisation des robots pourrait transformer le marché du travail et réduire les coûts de production. Les acteurs clés incluent le gouvernement chinois, les entreprises technologiques comme Honor, et les concurrents internationaux comme Boston Dynamics. La Chine mise sur cette avancée pour renforcer son soft power et attirer les talents. Les critiques soulignent cependant que les conditions de course ne sont pas comparables à celles d'un athlète humain.",
+        "analyse_en": "China has heavily invested in robotics and AI since the 2010s, aiming to become a global leader in these fields. Stakes include technological dominance, industrial innovation, and reducing import dependency. Root causes lie in the national 'Made in China 2025' strategy and labor shortages in certain sectors. Short-term, this media performance could enhance China's image as a tech pioneer. Medium-term, it may accelerate investments in humanoid robotics and industrial applications. Long-term, widespread robot adoption could transform the labor market and reduce production costs. Key actors include the Chinese government, tech firms like Honor, and international competitors like Boston Dynamics. China leverages this breakthrough to strengthen its soft power and attract talent. Critics note, however, that race conditions are not comparable to those of human athletes.",
+        "analyse_zh": "自2010年代以来，中国大力投资机器人和人工智能，目标成为这些领域的全球领导者。核心问题包括技术主导地位、工业创新和减少进口依赖。深层原因在于国家‘中国制造2025’战略和部分行业劳动力短缺。短期内，这一媒体表现可能提升中国作为科技先锋的形象。中期来看，可能加速对仿人机器人及其工业应用的投资。长期而言，机器人普及可能改变劳动力市场并降低生产成本。主要参与者包括中国政府、荣耀等科技公司以及波士顿动力等国际竞争对手。中国利用这一突破来增强软实力并吸引人才。批评者指出，比赛条件无法与人类运动员相提并论。",
+        "analyse_ru": "Контекст соревнования связан с развитием робототехники в Китае, где власти активно инвестируют в инновации. Причины успеха робота кроются в передовых технологиях, включая искусственный интеллект и материалы нового поколения. Последствия могут включать революцию в спорте, логистике и военной сфере. Перспективы зависят от дальнейших разработок и этики применения таких технологий. Позиция Китая подчеркивает лидерство в технологическом прогрессе, тогда как международное сообщество обсуждает риски и преимущества таких достижений.",
+        "analyse_fa": "زمینه این رقابت به توسعه رباتیک در چین مربوط می‌شود که دولت به شدت در نوآوری سرمایه‌گذاری می‌کند. دلایل موفقیت ربات شامل فناوری‌های پیشرفته، از جمله هوش مصنوعی و مواد نسل جدید است. پیامدها می‌تواند شامل انقلاب در ورزش، لجستیک و حوزه نظامی باشد. چشم‌انداز به پیشرفت‌های آینده و اخلاقیات کاربرد این فناوری‌ها بستگی دارد. موضع چین بر رهبری در پیشرفت تکنولوژیک تأکید دارد، در حالی که جامعه بین‌المللی در مورد مزایا و خطرات چنین دستاوردهایی بحث می‌کند.",
+        "analyse_ar": "يرتبط سياق هذا المنافسة بتطور الروبوتات في الصين، حيث تستثمر الحكومة بكثافة في الابتكار. أسباب نجاح الروبوت تكمن في التقنيات المتقدمة، بما في ذلك الذكاء الاصطناعي والمواد من الجيل الجديد. قد تشمل العواقب ثورة في الرياضة واللوجستيات والمجال العسكري. الآفاق تعتمد على التطورات المستقبلية وأخلاقيات استخدام هذه التقنيات. موقف الصين يركز على القيادة في التقدم التكنولوجي، بينما تناقش المجتمع الدولي المخاطر والمزايا مثل هذه الإنجازات.",
+        "categorie": "Technologie",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
+        "date": "2026-08-22",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Médias traditionnels",
-            "hausse": false
+            "label": "▲ Robotique industrielle",
+            "hausse": true
           },
           {
-            "label": "▲ Réseaux sociaux",
+            "label": "▲ Marché des semi-conducteurs",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Médias traditionnels",
-            "secteur_en": "Traditional media",
-            "secteur_zh": "传统媒体",
-            "effet_fr": "Les attaques contre les médias pourraient réduire leur crédibilité et accélérer leur déclin face aux réseaux sociaux.",
-            "effet_en": "Attacks on traditional media could reduce their credibility and accelerate their decline against social networks.",
-            "effet_zh": "对传统媒体的攻击可能降低其公信力，并加速其相对于社交媒体的衰落。",
-            "hausse": false
+            "secteur_fr": "Robotique industrielle",
+            "secteur_en": "Industrial robotics",
+            "secteur_zh": "工业机器人",
+            "effet_fr": "Cette démonstration pourrait accélérer l'adoption de robots humanoïdes dans les usines chinoises, améliorant l'efficacité et réduisant les coûts de production.",
+            "effet_en": "This demonstration could accelerate the adoption of humanoid robots in Chinese factories, improving efficiency and reducing production costs.",
+            "effet_zh": "这一演示可能加速仿人机器人在中国工厂的应用，提高效率并降低生产成本。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Réseaux sociaux",
-            "secteur_en": "Social media",
-            "secteur_zh": "社交媒体",
-            "effet_fr": "Les réseaux sociaux bénéficient de la polarisation en amplifiant les discours extrêmes et en renforçant les bulles idéologiques.",
-            "effet_en": "Social media benefits from polarization by amplifying extreme discourse and reinforcing ideological bubbles.",
-            "effet_zh": "社交媒体从极化中受益，通过放大极端言论并强化意识形态泡沫。",
+            "secteur_fr": "Marché des semi-conducteurs",
+            "secteur_en": "Semiconductor market",
+            "secteur_zh": "半导体市场",
+            "effet_fr": "Les avancées en robotique stimulent la demande en puces électroniques avancées, renforçant la position des fabricants chinois dans ce secteur stratégique.",
+            "effet_en": "Advances in robotics drive demand for advanced electronic chips, strengthening the position of Chinese manufacturers in this strategic sector.",
+            "effet_zh": "机器人技术进步推动了对先进电子芯片的需求，巩固了中国制造商在这一战略行业的地位。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-22T15:19:48.929939"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-23T14:22:00.738774"
+      },
       {
         "id": "chine_253437",
         "titre": "Un robot bat le record du monde du 100 mètres",
@@ -3647,65 +3706,6 @@
           }
         ],
         "created_at": "2026-08-22T10:22:31.482283"
-      },
-      {
-        "id": "chine_115923",
-        "titre": "CCXI confirme la note AAA d'Afreximbank pour 2024",
-        "titre_en": "CCXI Reaffirms Afreximbank’s AAA Rating for 2024",
-        "titre_zh": "中诚信国际再次确认非洲进出口银行AAA评级",
-        "titre_ru": "CCXI подтверждает рейтинг Afreximbank на уровне AAA",
-        "titre_fa": "CCXI رتبه Afreximbank را برای دومین سال متوالی تایید کرد",
-        "titre_ar": "تؤكد CCXI على تصنيف Afreximbank بمستوى AAA للمرة الثانية على التوالي",
-        "titre_original": "CCXI reaffirms Afreximbank’s AAA/Stable rating for second consecutive year",
-        "resume": "La société chinoise CCXI a confirmé la note AAA avec perspective stable pour Afreximbank pour la deuxième année consécutive. Cette décision souligne la solidité financière de l'institution panafricaine. Elle intervient dans un contexte de renforcement des liens économiques sino-africains.",
-        "resume_en": "Chinese firm CCXI reaffirmed Afreximbank’s AAA rating with a stable outlook for the second consecutive year. This decision highlights the pan-African institution’s financial strength. It comes amid growing Sino-African economic ties.",
-        "resume_zh": "中国公司中诚信国际再次确认非洲进出口银行AAA评级及稳定展望。这一决定凸显了这家泛非机构的财务实力。它发生在中非经济联系日益加强的背景下。",
-        "resume_ru": "Компания China Chengxin International Credit Rating (CCXI) подтвердила рейтинг Afreximbank на уровне AAA с устойчивым прогнозом. Это решение принято уже во второй раз подряд. Высокий рейтинг отражает финансовую стабильность и надёжность банка.",
-        "resume_fa": "شرکت China Chengxin International Credit Rating (CCXI) رتبه Afreximbank را برای دومین سال متوالی در سطح AAA با چشم‌انداز پایدار تایید کرد. این رتبه‌بندی نشان‌دهنده ثبات مالی و اعتبار بالای بانک است.",
-        "resume_ar": "أكدت شركة China Chengxin International Credit Rating (CCXI) تصنيف Afreximbank بمستوى AAA مع نظرة مستقبلية مستقرة للمرة الثانية على التوالي. ويعكس هذا التصنيف الاستقرار المالي والمصداقية العالية للبنك.",
-        "analyse_detaillee": "La confirmation de la note AAA d'Afreximbank par CCXI s'inscrit dans une stratégie chinoise de renforcement de son influence en Afrique. Cette note reflète la stabilité économique et la gestion rigoureuse de l'institution. Les enjeux principaux incluent la facilitation des échanges commerciaux intra-africains et l'attraction d'investissements étrangers. Les causes profondes résident dans la croissance économique africaine et la diversification des partenariats. À court terme, cette notation renforce la confiance des investisseurs internationaux. À moyen terme, elle pourrait accélérer les projets d'infrastructure financés par la Chine. À long terme, elle consolide le rôle d'Afreximbank comme acteur clé du développement africain. Les acteurs clés sont CCXI, Afreximbank, et les États africains partenaires.",
-        "analyse_en": "CCXI’s reaffirmation of Afreximbank’s AAA rating aligns with China’s strategy to strengthen its influence in Africa. The rating reflects the institution’s economic stability and sound management. Key stakes include facilitating intra-African trade and attracting foreign investments. Root causes lie in African economic growth and diversified partnerships. Short-term, the rating boosts international investor confidence. Medium-term, it could accelerate China-funded infrastructure projects. Long-term, it solidifies Afreximbank’s role as a key African development actor. Key players are CCXI, Afreximbank, and partner African states.",
-        "analyse_zh": "中诚信国际再次确认非洲进出口银行AAA评级，符合中国加强在非洲影响力的战略。该评级反映了该机构的经济稳定性和稳健管理。主要影响包括促进非洲内部贸易和吸引外国投资。深层原因在于非洲经济增长和多元化伙伴关系。短期内，该评级增强了国际投资者信心。中期来看，可能加速中国资助的基础设施项目。长期而言，巩固了非洲进出口银行作为非洲发展关键参与者的角色。主要参与者包括中诚信国际、非洲进出口银行和合作伙伴非洲国家。",
-        "analyse_ru": "Контекст подтверждения рейтинга связан с укреплением позиций Afreximbank на международной арене. Причины такого решения обусловлены устойчивыми финансовыми показателями и стратегической ролью банка в Африке. Последствия высокого рейтинга включают улучшение доступа к международным рынкам капитала и снижение стоимости заимствований. Перспективы Afreximbank зависят от глобальной экономической конъюнктуры и внутренних реформ. Позиции сторон — положительные, так как рейтинг укрепляет доверие инвесторов и партнёров.",
-        "analyse_fa": "زمینه تأیید رتبه‌بندی به تقویت جایگاه Afreximbank در arena بین‌المللی مربوط می‌شود. دلایل این تصمیم به شاخص‌های مالی پایدار و نقش استراتژیک بانک در آفریقا بازمی‌گردد. پیامدهای رتبه بالای AAA شامل بهبود دسترسی به بازارهای بین‌المللی سرمایه و کاهش هزینه‌های استقراض است. چشم‌انداز Afreximbank به شرایط اقتصادی جهانی و اصلاحات داخلی بستگی دارد. موضع بازیگران مثبت است، زیرا رتبه‌بندی اعتماد سرمایه‌گذاران و شرکا را تقویت می‌کند.",
-        "analyse_ar": "يرتبط السياق لتأكيد التصنيف بتعزيز مكانة Afreximbank على الساحة الدولية. وتستند أسباب هذا القرار إلى المؤشرات المالية المستقرة والدور الاستراتيجي للبنك في أفريقيا. وتشمل عواقب التصنيف المرتفع من فئة AAA تحسين الوصول إلى أسواق رأس المال الدولية وخفض تكاليف الاقتراض. وتعتمد آفاق Afreximbank على الأوضاع الاقتصادية العالمية والإصلاحات الداخلية. وتكون مواقف الأطراف إيجابية، حيث يعزز التصنيف ثقة المستثمرين والشركاء.",
-        "categorie": "Finance",
-        "source": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/08/ccxi-reaffirms-afreximbanks-aaa-stable-rating-for-second-consecutive-year/",
-        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/10/Afreximbank.jpg",
-        "date": "2026-08-21",
-        "pays": "chine",
-        "badges": [
-          {
-            "label": "▲ Marché obligataire africain",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur bancaire chinois",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché obligataire africain",
-            "secteur_en": "African bond market",
-            "secteur_zh": "非洲债券市场",
-            "effet_fr": "La notation AAA facilite l'accès d'Afreximbank aux marchés obligataires internationaux, réduisant les coûts d'emprunt.",
-            "effet_en": "The AAA rating eases Afreximbank’s access to international bond markets, lowering borrowing costs.",
-            "effet_zh": "AAA评级使非洲进出口银行更容易进入国际债券市场，降低了借贷成本。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur bancaire chinois",
-            "secteur_en": "Chinese banking sector",
-            "secteur_zh": "中国银行业",
-            "effet_fr": "Le renforcement des liens sino-africains stimule les activités des banques chinoises sur le continent.",
-            "effet_en": "Strengthened Sino-African ties boost Chinese banks’ activities on the continent.",
-            "effet_zh": "加强的中非联系推动了中国银行在非洲大陆的业务活动。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-22T09:25:55.416223"
       }
     ],
     "russie": [
@@ -4892,6 +4892,65 @@
     ],
     "iran": [
       {
+        "id": "iran_719265",
+        "titre": "Guerre USA-Iran : bilan des capacités militaires",
+        "titre_en": "US-Iran War: Assessment of Military Capabilities",
+        "titre_zh": "美伊战争：军事能力评估",
+        "titre_ru": "Что показала война с США об иранском вооружении?",
+        "titre_fa": "جنگ با آمریکا چه چیزی درباره توانایی‌های تسلیحاتی ایران آشکار کرد؟",
+        "titre_ar": "ماذا كشفت الحرب مع الولايات المتحدة عن قدرات إيران العسكرية؟",
+        "titre_original": "What did war with the US reveal about Iran’s weapons capabilities?",
+        "resume": "L'Iran affirme que sa production d'armes se poursuit malgré la guerre avec les États-Unis. Les détails restent secrets pour des raisons de sécurité. Les capacités militaires iraniennes suscitent des interrogations sur leur efficacité réelle.",
+        "resume_en": "Iran claims its weapons production continues despite the war with the US. Details remain secret for security reasons. Iranian military capabilities raise questions about their real effectiveness.",
+        "resume_zh": "伊朗声称其武器生产在与美国的战争中仍在继续。出于安全原因，细节仍保密。伊朗的军事能力引发了对其真实效果的质疑。",
+        "resume_ru": "Иран заявил, что производство вооружений продолжается несмотря на военные действия. Власти страны не раскрывают детали, ссылаясь на условия войны. Эксперты отмечают, что конфликт выявил ограниченные возможности Ирана в сравнении с США и их союзниками.",
+        "resume_fa": "ایران اعلام کرد که تولید تسلیحات علی‌رغم درگیری‌های نظامی ادامه دارد. مقامات کشور جزئیات را به دلیل شرایط جنگی فاش نمی‌کنند. کارشناسان معتقدند که این جنگ توانایی‌های محدود ایران در مقایسه با آمریکا و متحدانش را نشان داد.",
+        "resume_ar": "أعلنت إيران أن إنتاج الأسلحة مستمر رغم العمليات العسكرية. لم تكشف السلطات عن تفاصيل، مشيرة إلى ظروف الحرب. يلاحظ الخبراء أن الصراع كشف عن قدرات إيران المحدودة مقارنة بالولايات المتحدة وحلفائها.",
+        "analyse_detaillee": "Les tensions entre l'Iran et les États-Unis remontent à la révolution islamique de 1979 et à la crise des otages. Les enjeux actuels incluent la prolifération nucléaire, l'influence régionale et la sécurité des approvisionnements énergétiques. Les causes profondes résident dans les sanctions économiques américaines et les ambitions géopolitiques de Téhéran. À court terme, la guerre a révélé des lacunes dans la logistique et la maintenance des équipements iraniens. À moyen terme, l'Iran pourrait renforcer son arsenal asymétrique, comme les drones et les missiles balistiques. À long terme, une course aux armements dans la région pourrait s'intensifier, avec des répercussions sur la stabilité du Moyen-Orient. Les acteurs clés incluent l'Iran, les États-Unis, Israël et les pays du Golfe. L'Iran mise sur sa résilience et sa capacité à infliger des pertes malgré les sanctions, tandis que les États-Unis cherchent à contenir son influence. Les pays européens tentent de préserver l'accord nucléaire, mais leur marge de manœuvre est limitée.",
+        "analyse_en": "Tensions between Iran and the US date back to the 1979 Islamic Revolution and the hostage crisis. Current stakes include nuclear proliferation, regional influence, and energy security. Root causes lie in US economic sanctions and Tehran's geopolitical ambitions. Short-term, the war has exposed gaps in Iran's equipment logistics and maintenance. Medium-term, Iran may bolster its asymmetric arsenal, such as drones and ballistic missiles. Long-term, an arms race in the region could intensify, impacting Middle East stability. Key actors include Iran, the US, Israel, and Gulf countries. Iran relies on its resilience and ability to inflict losses despite sanctions, while the US seeks to contain its influence. European countries aim to preserve the nuclear deal but have limited leverage.",
+        "analyse_zh": "伊朗与美国的紧张局势可追溯至1979年伊斯兰革命和人质危机。当前的核心问题包括核扩散、地区影响力和能源安全。深层原因在于美国的经济制裁和德黑兰的地缘政治野心。短期内，战争暴露了伊朗装备后勤和维护的缺陷。中期来看，伊朗可能加强其不对称军事装备，如无人机和弹道导弹。长期而言，地区军备竞赛可能加剧，影响中东稳定。主要参与者包括伊朗、美国、以色列和海湾国家。伊朗依赖其韧性和在制裁下造成损失的能力，而美国试图遏制其影响力。欧洲国家试图维护核协议，但其影响力有限。",
+        "analyse_ru": "Контекст конфликта связан с многолетним противостоянием между США и Ираном, включая санкции и военные столкновения. Причины ограниченных возможностей Ирана кроются в технологических и ресурсных ограничениях, а также в международных санкциях. Последствия войны показали, что Иран не способен противостоять США в прямом военном конфликте, но сохраняет возможности для асимметричных атак. Перспективы зависят от внутренней стабильности Ирана и внешней политики США. Позиция Тегерана подчеркивает необходимость самообеспечения, тогда как Вашингтон стремится к сдерживанию иранского влияния.",
+        "analyse_fa": "زمینه این درگیری به سال‌ها تنش بین آمریکا و ایران، از جمله تحریم‌ها و درگیری‌های نظامی، بازمی‌گردد. دلایل توانایی‌های محدود ایران شامل محدودیت‌های فناوری و منابع، و همچنین تحریم‌های بین‌المللی است. پیامدهای جنگ نشان داد که ایران قادر به مقابله مستقیم با آمریکا در یک درگیری نظامی نیست، اما همچنان توانایی انجام حملات نامتقارن را دارد. چشم‌انداز به ثبات داخلی ایران و سیاست خارجی آمریکا بستگی دارد. موضع تهران بر خودکفایی تأکید دارد، در حالی که واشنگتن به مهار نفوذ ایران می‌پردازد.",
+        "analyse_ar": "يرتبط سياق هذا الصراع بالتوترات الطويلة الأمد بين الولايات المتحدة وإيران، بما في ذلك العقوبات والاشتباكات العسكرية. أسباب القدرات المحدودة لإيران تكمن في القيود التكنولوجية والموارد، وكذلك العقوبات الدولية. أظهرت عواقب الحرب أن إيران غير قادرة على مواجهة الولايات المتحدة في صراع عسكري مباشر، لكنها تحتفظ بقدرات للهجمات غير المتكافئة. الآفاق تعتمد على الاستقرار الداخلي لإيران والسياسة الخارجية الأمريكية. موقف طهران يركز على الاكتفاء الذاتي، بينما تسعى واشنطن إلى احتواء النفوذ الإيراني.",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a89a3b9db3b-1787405241.jpg?resize=1920%2C1440",
+        "date": "2026-08-22",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Défense et industrie militaire",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché de l'énergie",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Défense et industrie militaire",
+            "secteur_en": "Defense and military industry",
+            "secteur_zh": "国防与军事工业",
+            "effet_fr": "Les sanctions et la guerre ont forcé l'Iran à développer une industrie militaire locale, mais avec des technologies moins avancées que ses adversaires.",
+            "effet_en": "Sanctions and war have forced Iran to develop a local military industry, but with less advanced technology than its adversaries.",
+            "effet_zh": "制裁和战争迫使伊朗发展本土军事工业，但技术水平落后于对手。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché de l'énergie",
+            "secteur_en": "Energy market",
+            "secteur_zh": "能源市场",
+            "effet_fr": "Les tensions géopolitiques pourraient perturber les approvisionnements en pétrole du Golfe, faisant flamber les prix mondiaux de l'énergie.",
+            "effet_en": "Geopolitical tensions could disrupt Gulf oil supplies, driving up global energy prices.",
+            "effet_zh": "地缘政治紧张局势可能扰乱海湾石油供应，推高全球能源价格。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-23T14:22:00.738767"
+      },
+      {
         "id": "iran_260340",
         "titre": "Le pétrole flambe après l'échec de l'accord iranien",
         "titre_en": "Oil prices surge as Iran deal collapses",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-22T03:42:10.800506"
-      },
-      {
-        "id": "iran_222133",
-        "titre": "Tensions accrues dans le détroit d'Ormuz : baisse des passages de navires",
-        "titre_en": "Increased tensions in Strait of Hormuz: drop in ship crossings",
-        "titre_zh": "霍尔木兹海峡紧张局势加剧：船只通行减少",
-        "titre_ru": "Переходы судов через пролив Ормуз сократились из-за напряжённости США и Ирана",
-        "titre_fa": "کاهش عبور کشتی‌ها از تنگه هرمز به دلیل تنش‌های آمریکا و ایران",
-        "titre_ar": "انخفضت عبور السفن عبر مضيق هرمز بسبب التوتر بين الولايات المتحدة وإيران",
-        "titre_original": "Ship crossings in Strait of Hormuz drop amid US-Iran tensions: Reuters",
-        "resume": "Le nombre de navires traversant le détroit d'Ormuz a diminué en raison des tensions croissantes entre les États-Unis et l'Iran. Cette baisse reflète les craintes d'une escalade militaire ou d'attaques contre les infrastructures maritimes. Le détroit, qui concentre 20 % du trafic pétrolier mondial, est un point de tension stratégique.",
-        "resume_en": "Ship crossings in the Strait of Hormuz have declined amid rising U.S.-Iran tensions. The drop reflects fears of military escalation or attacks on maritime infrastructure. The strait, handling 20% of global oil traffic, is a critical strategic chokepoint.",
-        "resume_zh": "在美伊紧张局势加剧的背景下，霍尔木兹海峡的船只通行量已下降。这一下降反映了对军事升级或针对海上基础设施袭击的担忧。该海峡处理全球20%的石油运输，是关键的战略要地。",
-        "resume_ru": "Сокращение числа судов, проходящих через пролив Ормуз, отражает рост геополитических напряжённостей между США и Ираном. Это может нарушить глобальные торговые потоки и оказать влияние на рынки энергоносителей. Аналитики связывают это с возможными актами саботажа или угрозами безопасности в регионе.",
-        "resume_fa": "کاهش عبور کشتی‌ها از تنگه هرمز نشان‌دهنده افزایش تنش‌های جغرافیایی سیاسی بین آمریکا و ایران است. این ممکن است جریان‌های تجاری جهانی را مختل کند و تأثیرات خود را بر بازارهای انرژی بگذارد. تحلیلگران این کاهش را با اقدامات احتمالی خرابکاری یا تهدیدات امنیتی در منطقه مرتبط می‌دانند.",
-        "resume_ar": "انخفض عدد السفن المرور عبر مضيق هرمز يعكس ارتفاع التوترات الجيوسياسية بين الولايات المتحدة وإيران. قد يؤدي هذا إلى اضطراب في تدفق التجارة العالمية وتأثير على أسواق الطاقة. يربط المحللون هذا الانخفاض مع أعمال sabotage المحتملة أو التهديدات الأمنية في المنطقة.",
-        "analyse_detaillee": "Le détroit d'Ormuz est un point de passage historique pour le commerce mondial depuis l'Antiquité, reliant le golfe Persique à l'océan Indien. Les tensions actuelles s'inscrivent dans un contexte de rivalité géopolitique entre l'Iran et les États-Unis, exacerbée par les sanctions américaines et les exercices militaires iraniens. Les enjeux principaux incluent la sécurité des approvisionnements énergétiques, la stabilité des prix du pétrole et la liberté de navigation, principe fondamental du droit maritime international. Les causes profondes des tensions actuelles résident dans le retrait américain de l'accord nucléaire en 2018, les ambitions régionales de l'Iran via des proxys, et la militarisation croissante du détroit par Téhéran. À court terme, la baisse des passages pourrait entraîner une hausse des coûts logistiques et une volatilité accrue des prix de l'énergie. À moyen terme, une escalade militaire pourrait perturber les chaînes d'approvisionnement mondiales, notamment pour l'Asie, dépendante du pétrole du Golfe. À long terme, cette situation pourrait accélérer le développement de routes alternatives, comme le corridor Nord-Sud ou les oléoducs terrestres, réduisant la dépendance au détroit. L'Iran, en bloquant partiellement le détroit, cherche à faire pression sur les États-Unis et leurs alliés, tandis que Washington tente de maintenir une présence navale pour garantir la libre circulation. Les pays européens et asiatiques, dépendants du pétrole du Golfe, se retrouvent vulnérables et pourraient diversifier leurs sources d'approvisionnement.",
-        "analyse_en": "The Strait of Hormuz has been a historic global trade chokepoint since antiquity, linking the Persian Gulf to the Indian Ocean. Current tensions stem from a geopolitical rivalry between Iran and the U.S., exacerbated by U.S. sanctions and Iranian military drills. Key stakes include energy supply security, oil price stability, and freedom of navigation—a cornerstone of international maritime law. Root causes of current tensions lie in the U.S. withdrawal from the 2018 nuclear deal, Iran's regional ambitions via proxies, and Tehran's increasing militarization of the strait. In the short term, reduced crossings could drive up logistics costs and energy price volatility. Medium-term, military escalation could disrupt global supply chains, particularly for Asia, dependent on Gulf oil. Long-term, this situation could accelerate the development of alternative routes like the North-South corridor or land pipelines, reducing reliance on the strait. Iran, by partially blocking the strait, aims to pressure the U.S. and its allies, while Washington seeks to maintain a naval presence to ensure free passage. European and Asian countries, reliant on Gulf oil, face vulnerability and may diversify their supply sources.",
-        "analyse_zh": "霍尔木兹海峡自古以来就是全球贸易的战略要道，连接波斯湾与印度洋。当前紧张局势源于伊朗与美国的地缘政治对抗，因美国制裁和伊朗军事演习而加剧。主要影响包括能源供应安全、油价稳定及航行自由——国际海事法的基石。当前紧张局势的深层原因在于美国2018年退出核协议、伊朗通过代理人扩大地区野心及德黑兰对海峡的日益军事化。短期内，通行减少可能推高物流成本和能源价格波动。中期来看，军事升级可能扰乱全球供应链，尤其是对依赖海湾石油的亚洲而言。长期而言，此局势可能加速北-南走廊等替代路线或陆上输油管道的发展，减少对海峡的依赖。伊朗通过部分封锁海峡试图向美国及其盟友施压，而华盛顿则试图维持海军存在以确保自由通行。依赖海湾石油的欧洲和亚洲国家面临脆弱性，可能会多元化供应来源。",
-        "analyse_ru": "Сокращение судоходства через пролив Ормуз сигнализирует о возможном усилении напряжённости между США и Ираном, что может привести к новым санкциям или актам агрессии. Это критически важный регион для мировой торговли, особенно для поставок нефти из Персидского залива. Риск саботажа или нападений на судна может вызвать панику на рынках и привести к росту цен на энергоносители. Международные организации, такие как ООН, могут вмешаться для стабилизации ситуации, но эффективность их действий остаётся под вопросом. США и Иран могут использовать этот регион как поле для давления друг на друга, что может привести к длительному конфликту. В перспективе, это может заставить страны-экспортёры нефти искать альтернативные маршруты поставок.",
-        "analyse_fa": "کاهش عبور کشتی‌ها از تنگه هرمز نشانه‌ای از احتمال افزایش تنش بین آمریکا و ایران است که ممکن است منجر به تحریم‌های جدید یا اقدامات تهاجمی شود. این منطقه حیاتی برای تجارت جهانی، به ویژه برای صادرات نفت از خلیج فارس، است. خطر خرابکاری یا حمله به کشتی‌ها می‌تواند باعث ایجاد پانیک در بازارها و افزایش قیمت انرژی شود. سازمان‌های بین‌المللی مانند سازمان ملل می‌توانند برای استقرار وضعیت مداخله کنند، اما اثربخشی اقدامات آن‌ها همچنان زیر سوال است. آمریکا و ایران ممکن است از این منطقه برای اعمال فشار بر یکدیگر استفاده کنند، که ممکن است منجر به درگیری طولانی‌مدت شود. در آینده، این ممکن است کشورهای صادرکننده نفت را مجبور به جستجوی مسیرهای جایگزین برای صادرات کند.",
-        "analyse_ar": "انخفاض عبور السفن عبر مضيق هرمز يشير إلى احتمال زيادة التوتر بين الولايات المتحدة وإيران، مما قد يؤدي إلى عقوبات جديدة أو أعمال عدوانية. هذه المنطقة حاسمة للتجارة العالمية، خاصة لتصدير النفط من الخليج العربي. خطر sabotage أو هجوم على السفن قد يؤدي إلى حالة من الذعر في الأسواق وزيادة أسعار الطاقة. قد تتدخل المنظمات الدولية مثل الأمم المتحدة لاستقرار الوضع، ولكن فعالية إجراءاتها لا تزال محل شك. قد تستخدم الولايات المتحدة وإيران هذه المنطقة كمنطقة ضغط متبادل، مما قد يؤدي إلى صراع طويل الأمد. في المستقبل، قد يضطر البلدان الصادرة للنفط إلى البحث عن طرق بديلة لتصدير.",
-        "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ship-crossings-in-strait-of-hormuz-drop-amid-us-iran-tensions-reuters/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/20224327/vessels-anchored-at-the-strait-of-hormuz-4-1-800x420.jpeg",
-        "date": "2026-08-21",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché du fret maritime",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur de l'énergie (pétrole et gaz)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché du fret maritime",
-            "secteur_en": "Maritime freight market",
-            "secteur_zh": "海运货运市场",
-            "effet_fr": "La baisse des passages pourrait entraîner une hausse des tarifs de fret maritime, en raison de l'augmentation des risques et des coûts d'assurance pour les armateurs.",
-            "effet_en": "The drop in crossings could lead to higher maritime freight rates due to increased risks and insurance costs for shipowners.",
-            "effet_zh": "通行减少可能因船东面临的风险和保险成本上升而导致海运货运费率上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur de l'énergie (pétrole et gaz)",
-            "secteur_en": "Energy sector (oil and gas)",
-            "secteur_zh": "能源行业（石油与天然气）",
-            "effet_fr": "Une perturbation prolongée des passages pourrait réduire l'offre de pétrole et de gaz en Asie et en Europe, faisant monter les prix et affectant la croissance économique.",
-            "effet_en": "Prolonged disruption of crossings could reduce oil and gas supply to Asia and Europe, driving up prices and impacting economic growth.",
-            "effet_zh": "长期通行中断可能减少对亚洲和欧洲的石油与天然气供应，推高价格并影响经济增长。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-22T02:55:14.341481"
       }
     ]
   },
