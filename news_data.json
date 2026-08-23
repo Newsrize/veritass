@@ -1,7 +1,66 @@
 {
-  "last_updated": "23/08/2026 à 18h28",
+  "last_updated": "23/08/2026 à 19h23",
   "articles": {
     "monde": [
+      {
+        "id": "monde_657102",
+        "titre": "Étude révèle l'étendue du réseau hydrique de la grotte de Mammoth Cave",
+        "titre_en": "Study reveals Mammoth Cave’s extensive underground drainage system",
+        "titre_zh": "研究揭示猛犸洞水系网络广泛性",
+        "titre_ru": "In 1981, researchers mapped Mammoth Cave’s underground drainage; later dye-tracing studies showed about 60% of its aquifer recharge area lies beyond park boundaries",
+        "titre_fa": "In 1981, researchers mapped Mammoth Cave’s underground drainage; later dye-tracing studies showed about 60% of its aquifer recharge area lies beyond park boundaries",
+        "titre_ar": "In 1981, researchers mapped Mammoth Cave’s underground drainage; later dye-tracing studies showed about 60% of its aquifer recharge area lies beyond park boundaries",
+        "titre_original": "In 1981, researchers mapped Mammoth Cave’s underground drainage; later dye-tracing studies showed about 60% of its aquifer recharge area lies beyond park boundaries",
+        "resume": "Des chercheurs ont cartographié en 1981 le système de drainage souterrain de la grotte de Mammoth Cave. Des études ultérieures utilisant des colorants fluorescents ont démontré que 60 % de sa zone de recharge des eaux souterraines se situe en dehors des limites du parc national. Ces découvertes soulignent des connexions hydrologiques transfrontalières et complexes.",
+        "resume_en": "Researchers mapped Mammoth Cave’s underground drainage system in 1981. Later dye-tracing studies revealed that about 60 % of its aquifer recharge area lies beyond the national park’s borders. These findings highlight intricate cross-boundary hydrological connections.",
+        "resume_zh": "研究人员1981年绘制了猛犸洞地下排水系统。后续使用荧光染料的追踪研究显示，其60%的补给区域位于国家公园之外。这些发现揭示了复杂的跨界水文联系。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La grotte de Mammoth Cave, classée au patrimoine mondial de l'UNESCO, est un site géologique unique étudié depuis le XIXe siècle. Les nouvelles données révèlent une vulnérabilité accrue face aux activités humaines en dehors du parc, comme l’urbanisation ou l’agriculture intensive. À court terme, cela pourrait influencer les politiques de gestion de l’eau dans le Kentucky et les États voisins. À moyen terme, cela pourrait accélérer les réglementations transfrontalières pour protéger les aquifères. Long terme, cela pourrait redéfinir les modèles de coopération internationale en matière d’eau souterraine. Les acteurs clés incluent le National Park Service, les scientifiques et les collectivités locales.",
+        "analyse_en": "Mammoth Cave, a UNESCO World Heritage site, has been studied since the 19th century for its geological significance. New data exposes heightened vulnerability to human activities beyond park boundaries, such as urban sprawl and intensive farming. Short-term, this may shape water management policies in Kentucky and neighboring states. Medium-term, it could accelerate cross-border regulations to protect aquifers. Long-term, it may redefine international water cooperation models. Key actors include the National Park Service, researchers, and local communities.",
+        "analyse_zh": "猛犸洞作为联合国教科文组织世界遗产，自19世纪以来就因其地质意义而备受研究。新数据揭示了该洞穴对公园外人类活动（如城市扩张和密集农业）的脆弱性。短期内，这将影响肯塔基州及邻近州的水资源管理政策。中期内，可能加速跨界水文保护法规的制定。长期来看，这可能重新定义国际地下水合作模式。关键利益相关者包括国家公园管理局、研究人员和地方社区。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/science/in-1981-scientists-poured-fluorescent-dye-into-kentucky-sinkholes-to-map-mammoth-caves-hidden-plumbing-they-found-about-60-of-its-aquifer-extended-beyond-park-boundaries/articleshow/133401452.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133401983,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-08-22",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des technologies de traçage environnemental",
+            "hausse": true
+          },
+          {
+            "label": "▲ Investissement dans les infrastructures de protection des aquifères",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des technologies de traçage environnemental",
+            "secteur_en": "Environmental tracing technology market",
+            "secteur_zh": "环境追踪技术市场",
+            "effet_fr": "Les innovations en traçage fluorescent pourraient booster la demande pour des outils de surveillance hydrologique plus précis et durables.",
+            "effet_en": "Fluorescent tracing innovations may drive demand for more precise and sustainable hydrological monitoring tools.",
+            "effet_zh": "荧光追踪技术创新可能推动对更精准和可持续的水文监测工具的需求。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Investissement dans les infrastructures de protection des aquifères",
+            "secteur_en": "Aquifer protection infrastructure investments",
+            "secteur_zh": "地下水保护基础设施投资",
+            "effet_fr": "Les découvertes pourraient inciter les gouvernements à allouer davantage de fonds pour des projets de filtration et de captage souterrain.",
+            "effet_en": "Findings may prompt governments to allocate more funds for underground filtration and capture projects.",
+            "effet_zh": "研究结果可能促使政府增加对地下过滤和捕获项目的资金投入。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-23T19:23:52.578450"
+      },
       {
         "id": "monde_768079",
         "titre": "Espérance de vie et clivages politiques",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-22T21:20:22.179821"
-      },
-      {
-        "id": "monde_335481",
-        "titre": "Le DOJ collabore avec un hacker condamné",
-        "titre_en": "Why Is the DOJ Working With a Convicted Hacker?",
-        "titre_zh": "司法部为何与被定罪黑客合作？",
-        "titre_ru": "Почему Минюст США сотрудничает с осуждённым хакером?",
-        "titre_fa": "چرا وزارت دادگستری آمریکا با یک هکر محکوم همکاری می‌کند؟",
-        "titre_ar": "لماذا تعمل وزارة العدل الأمريكية مع شخص مدان باختراق الانتخابات؟",
-        "titre_original": "Why Is the DOJ Working With a Man Convicted of Hacking Election Sites?",
-        "resume": "Le département de la Justice américain aurait embauché David Michael Levin, un hacker condamné pour avoir piraté des sites électoraux, afin de surveiller les élections. Cette décision soulève des questions sur la fiabilité et l'éthique de cette collaboration. Des associations comme Democracy Docket ont dénoncé cette pratique controversée.",
-        "resume_en": "The U.S. Department of Justice appears to have hired David Michael Levin, a convicted hacker of election sites, to monitor elections. This decision raises ethical and reliability concerns. Advocacy groups like Democracy Docket have criticized the move.",
-        "resume_zh": "美国司法部似乎雇佣了被定罪的选举网站黑客David Michael Levin来监督选举。此决定引发了道德和可靠性担忧。倡导组织如Democracy Docket批评了这一举动。",
-        "resume_ru": "Министерство юстиции США, как сообщается, наняло осуждённого хакера для мониторинга выборов. Дэвид Майкл Левин, ранее осуждённый за взлом сайтов выборов, теперь работает в отделе по гражданским правам. Это вызывает обеспокоенность по поводу безопасности избирательного процесса.",
-        "resume_fa": "وزارت دادگستری ایالات متحده reportedly یک هکر محکوم شده را برای نظارت بر انتخابات استخدام کرده است. دیوید مایکل لوین، که قبلاً به هک سایت‌های انتخاباتی محکوم شده بود، اکنون در بخش حقوق مدنی وزارت دادگستری کار می‌کند. این اقدام نگرانی‌هایی درباره امنیت فرایند انتخابات ایجاد کرده است.",
-        "resume_ar": "أفادت التقارير أن وزارة العدل الأمريكية قامت بتعيين شخص مدان باختراق مواقع الانتخابات لمراقبة الانتخابات. ديفيد مايكل ليفين، الذي أدين سابقاً باختراق مواقع الانتخابات، يعمل الآن في قسم الحقوق المدنية بالوزارة. هذا الأمر أثار قلقاً بشأن سلامة العملية الانتخابية.",
-        "analyse_detaillee": "Cette affaire s'inscrit dans un contexte de tensions croissantes autour de la cybersécurité électorale aux États-Unis, exacerbées par les ingérences étrangères lors des dernières élections. Les enjeux principaux concernent la protection des données électorales et la confiance du public dans le processus démocratique. Les causes profondes incluent un manque de personnel qualifié et une approche pragmatique face aux menaces cyber. À court terme, cette décision pourrait discréditer les institutions électorales et alimenter les théories du complot. À moyen terme, elle risque d'affaiblir la légitimité des résultats électoraux et de polariser davantage le débat politique. À long terme, cela pourrait normaliser l'embauche de criminels pour des missions sensibles, sapant les normes éthiques. Les acteurs comme le DOJ et les associations de défense des droits civiques adoptent des positions opposées, reflétant un clivage sur la sécurité versus l'éthique.",
-        "analyse_en": "This case occurs amid growing tensions over U.S. electoral cybersecurity, fueled by foreign interference in recent elections. Key stakes involve protecting electoral data and public trust in democracy. Root causes include a shortage of qualified personnel and a pragmatic approach to cyber threats. In the short term, this decision could discredit electoral institutions and fuel conspiracy theories. Medium-term, it risks weakening the legitimacy of election results and further polarizing political debates. Long-term, it may normalize hiring criminals for sensitive roles, undermining ethical standards. Actors like the DOJ and civil rights groups hold opposing views, reflecting a divide between security and ethics.",
-        "analyse_zh": "此案发生在美国选举网络安全紧张局势加剧的背景下，受到近年选举外国干预的推动。主要影响涉及保护选举数据和公众对民主的信任。深层原因包括缺乏合格人员和对网络威胁的务实态度。短期内，此决定可能损害选举机构信誉并助长阴谋论。中期来看，可能削弱选举结果合法性并加剧政治分裂。长期则可能使雇佣罪犯担任敏感职位常态化，破坏伦理标准。司法部与民权组织等各方立场对立，反映了安全与伦理之间的分歧。",
-        "analyse_ru": "Контекст ситуации связан с участившимися случаями кибератак на избирательные системы в США. Причины найма осуждённого хакера могут объясняться его экспертными знаниями в области кибербезопасности, несмотря на сомнительную репутацию. Последствия такого решения могут быть двоякими: с одной стороны, улучшение защиты систем, с другой — подрыв доверия к честности выборов. Перспективы зависят от того, как общественность и политики отреагируют на этот шаг. Позиции сторон разделились: одни считают это необходимой мерой, другие — опасным прецедентом.",
-        "analyse_fa": "زمینه این ماجرا به افزایش حملات سایبری به سیستم‌های انتخاباتی در ایالات متحده مربوط می‌شود. دلایل استخدام یک هکر محکوم ممکن است به دانش تخصصی او در زمینه امنیت سایبری مربوط باشد، علیرغم سابقه questionable او. پیامدهای این تصمیم می‌تواند دوگانه باشد: از یک سو، بهبود حفاظت از سیستم‌ها و از سوی دیگر، تضعیف اعتماد به سلامت انتخابات. چشم‌اندازها به واکنش جامعه و سیاستمداران به این اقدام بستگی دارد. مواضع بازیگران متفاوت است: برخی آن را اقدامی ضروری می‌دانند و برخی دیگر آن را یک اقدام خطرناک تلقی می‌کنند.",
-        "analyse_ar": "سياق هذه القضية مرتبط بزيادة الهجمات الإلكترونية على الأنظمة الانتخابية في الولايات المتحدة. قد تكون أسباب تعيين شخص مدان باختراق الانتخابات راجعة إلى خبرته في مجال الأمن السيبراني، رغم سمعته المشكوك فيها. العواقب المترتبة على هذا القرار قد تكون مزدوجة: من جهة، تحسين حماية الأنظمة، ومن جهة أخرى، تقويض الثقة في نزاهة الانتخابات. الآفاق تعتمد على رد فعل الجمهور وصناع القرار تجاه هذه الخطوة. مواقف الأطراف مختلفة: البعض يعتبرها خطوة ضرورية، بينما يرى آخرون أنها سابقة خطيرة.",
-        "categorie": "Géopolitique",
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/214615/doj-attorney-convicted-hacking-election-sites",
-        "image": "https://images.newrepublic.com/89b7da906b00da8a6aa73b9984f91ba6710f119e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-        "date": "2026-08-21",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Secteur de la cybersécurité",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché des actions technologiques",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la cybersécurité",
-            "secteur_en": "Cybersecurity sector",
-            "secteur_zh": "网络安全行业",
-            "effet_fr": "Cette embauche pourrait normaliser l'intégration de profils controversés dans des postes sensibles, fragilisant la crédibilité des acteurs traditionnels de la cybersécurité.",
-            "effet_en": "This hiring could normalize the integration of controversial profiles into sensitive positions, weakening the credibility of traditional cybersecurity actors.",
-            "effet_zh": "此雇佣可能使在敏感岗位任用有争议人士常态化，削弱传统网络安全行业的可信度。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des actions technologiques",
-            "secteur_en": "Technology stock market",
-            "secteur_zh": "科技股市场",
-            "effet_fr": "Les révélations pourraient éroder la confiance des investisseurs dans les entreprises technologiques liées à la sécurité, entraînant des baisses de valorisation.",
-            "effet_en": "The revelations could erode investor confidence in security-related tech firms, leading to valuation declines.",
-            "effet_zh": "此事件可能削弱投资者对安全相关科技公司的信心，导致估值下降。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-22T20:21:08.654659"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_628061",
+        "titre": "Trump propose des négociations rapides sur les tarifs avec le Brésil",
+        "titre_en": "Trump urges quick tariff talks with Brazil",
+        "titre_zh": "特朗普敦促与巴西快速谈判关税",
+        "titre_ru": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says",
+        "titre_fa": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says",
+        "titre_ar": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says",
+        "titre_original": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says",
+        "resume": "Lors d’un appel téléphonique, le président américain Donald Trump a suggéré que les États-Unis et le Brésil organisent des discussions rapides sur les tarifs imposés aux produits brésiliens. Le président Lula a réaffirmé que les négociations restent la meilleure solution pour résoudre le conflit commercial. Les tensions persistent malgré les déclarations diplomatiques.",
+        "resume_en": "During a phone call, U.S. President Donald Trump suggested quick talks on tariffs imposed on Brazilian goods. Brazilian President Lula reiterated that negotiations are the best way to resolve the trade dispute. Tensions remain despite diplomatic statements.",
+        "resume_zh": "在电话会谈中，美国总统特朗普建议美国和巴西尽快就对巴西产品征收的关税进行谈判。巴西总统卢拉重申谈判是解决贸易争端的最佳方式。尽管有外交声明，但紧张局势依然存在。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tarifs américains sur le Brésil, imposés en 2024, visent principalement les produits agricoles comme l’acier et l’aluminium. Ce conflit s’inscrit dans une tendance plus large de protectionnisme américain sous l’administration Trump. Les causes profondes incluent les déséquilibres commerciaux perçus et les pressions des lobbies industriels. À court terme, les exportations brésiliennes pourraient subir des pertes, affectant les secteurs agricoles et miniers. À moyen terme, le Brésil pourrait diversifier ses partenariats commerciaux vers l’Asie ou l’Union européenne. Long terme, cela pourrait renforcer les alliances régionales comme le Mercosur ou le Pacte Pacifique.",
+        "analyse_en": "U.S. tariffs on Brazil, imposed in 2024, target steel and aluminum, reflecting broader Trump-era protectionism. Root causes include perceived trade imbalances and industrial lobby pressures. Short-term, Brazilian exports may face losses, impacting agriculture and mining. Medium-term, Brazil could diversify trade toward Asia or the EU. Long-term, this may strengthen regional alliances like Mercosur or the Pacific Pact.",
+        "analyse_zh": "美国2024年对巴西征收的关税主要针对钢铁和铝，反映了特朗普任期内的保护主义趋势。深层原因包括被认为的贸易失衡和工业利益集团的压力。短期内，巴西出口可能遭受损失，影响农业和矿业部门。中期内，巴西可能将贸易多元化至亚洲或欧盟。长期来看，这可能加强像南方共同市场或太平洋伙伴关系这样的区域联盟。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-told-lula-that-officials-should-meet-soon-to-discuss-tariffs-brazil-says/articleshow/133430600.cms",
+        "image": "https://img.etimg.com/thumb/msid-133430669,width-1200,height-630,imgsize-649345,overlay-economictimes/articleshow.jpg",
+        "date": "2026-08-22",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des matières premières agricoles",
+            "hausse": false
+          },
+          {
+            "label": "▲ Industrie sidérurgique américaine",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des matières premières agricoles",
+            "secteur_en": "Agricultural commodities market",
+            "secteur_zh": "农产品期货市场",
+            "effet_fr": "Les tarifs pourraient entraîner une baisse des prix des produits brésiliens comme la soja ou le bœuf sur les marchés internationaux.",
+            "effet_en": "Tariffs may drive down prices of Brazilian commodities like soy or beef on global markets.",
+            "effet_zh": "关税可能导致巴西大豆或牛肉等商品在全球市场上的价格下跌。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Industrie sidérurgique américaine",
+            "secteur_en": "U.S. steel industry",
+            "secteur_zh": "美国钢铁行业",
+            "effet_fr": "Les tarifs pourraient renforcer la compétitivité de l’industrie sidérurgique américaine face aux importations brésiliennes.",
+            "effet_en": "Tariffs may boost U.S. steel industry competitiveness against Brazilian imports.",
+            "effet_zh": "关税可能增强美国钢铁行业对抗巴西进口的竞争力。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-23T19:23:52.578469"
+      },
       {
         "id": "usa_737008",
         "titre": "Trump attaque ses anciens alliés",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-22T21:20:22.179797"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_646675",
-        "titre": "Accord commercial Canada-États-Unis critiqué",
-        "titre_en": "Trade deal leaves 'bad outcome' for Canada and U.S.",
-        "titre_zh": "贸易协议对加美均为‘坏结果’",
-        "titre_ru": "Новая торговая сделка США и Канады: кто проиграл?",
-        "titre_fa": "توافق تجاری جدید آمریکا و کانادا: چه کسی بازنده است؟",
-        "titre_ar": "الاتفاق التجاري الجديد بين أمريكا وكندا: من الخاسر؟",
-        "titre_original": "Trade deal to leave ‘bad outcome’ for Canada and U.S., ex-minister says",
-        "resume": "L'ex-ministre canadienne Chrystia Freeland a critiqué l'accord commercial négocié par Mark Carney avec l'administration Trump. Elle estime que les termes sont défavorables pour les deux pays. Freeland suggère que Carney a accepté des conditions moins avantageuses pour réduire l'incertitude économique.",
-        "resume_en": "Former Canadian minister Chrystia Freeland criticized the trade deal negotiated by Mark Carney with the Trump administration. She argues the terms are unfavorable for both countries. Freeland suggests Carney accepted less favorable conditions to reduce economic uncertainty.",
-        "resume_zh": "加拿大前部长Chrystia Freeland批评了Mark Carney与特朗普政府谈判的贸易协议。她认为条款对两国均不利。Freeland暗示Carney接受了较差条件以减少经济不确定性。",
-        "resume_ru": "Бывший министр Канады Кристиа Фриланд заявила, что новая торговая сделка с США может оказаться невыгодной для обеих стран. Она предположила, что Марк Карни согласился на менее выгодные условия ради снижения неопределённости. Эксперты обсуждают долгосрочные последствия для экономик.",
-        "resume_fa": "وزیر سابق کانادا کریستیا فریلند گفت که توافق تجاری جدید با آمریکا ممکن است برای هر دو کشور 'نتیجه بدی' داشته باشد. او ادعا کرد که مارک کارنی شرایط نامساعدتری را پذیرفته تا عدم قطعیت را کاهش دهد. کارشناسان در حال بررسی پیامدهای بلندمدت برای اقتصادهای دو کشور هستند.",
-        "resume_ar": "أفادت وزيرة الخارجية الكندية السابقة كريستيا فريلاند أن الاتفاق التجاري الجديد مع الولايات المتحدة قد يترك 'نتيجة سيئة' لكلا البلدين. وأشارت إلى أن مارك كارني وافق على شروط أقل تفضيلاً مقابل تقليل عدم اليقين. ويناقش الخبراء الآثار طويلة الأمد على اقتصاديات البلدين.",
-        "analyse_detaillee": "Cet accord s'inscrit dans un contexte de tensions commerciales récurrentes entre le Canada et les États-Unis, marquées par des renégociations du traité de l'ALENA sous Trump. Les enjeux principaux concernent la souveraineté économique et la compétitivité industrielle des deux pays. Les causes profondes incluent la dépendance économique du Canada envers les États-Unis et les pressions protectionnistes américaines. À court terme, cet accord pourrait aggraver les déséquilibres commerciaux et réduire les marges des entreprises canadiennes. À moyen terme, il risque de freiner l'innovation et d'accroître la dépendance du Canada envers les chaînes d'approvisionnement américaines. À long terme, cela pourrait redéfinir les relations commerciales nord-américaines, marginalisant le Canada dans les chaînes de valeur mondiales. Les acteurs comme Freeland et Carney incarnent des visions opposées : protectionnisme versus pragmatisme économique. Les entreprises exportatrices et les syndicats adoptent des positions divergentes, reflétant des intérêts sectoriels contradictoires.",
-        "analyse_en": "This deal occurs amid recurring trade tensions between Canada and the U.S., marked by NAFTA renegotiations under Trump. Key stakes involve economic sovereignty and industrial competitiveness for both nations. Root causes include Canada's economic dependence on the U.S. and American protectionist pressures. In the short term, this agreement could worsen trade imbalances and reduce margins for Canadian firms. Medium-term, it risks stifling innovation and increasing Canada's reliance on U.S. supply chains. Long-term, it could redefine North American trade relations, marginalizing Canada in global value chains. Actors like Freeland and Carney embody opposing visions: protectionism versus economic pragmatism. Exporting firms and unions hold divergent positions, reflecting contradictory sectoral interests.",
-        "analyse_zh": "此协议发生在加拿大与美国反复出现贸易紧张局势的背景下，以特朗普时期重新谈判《北美自由贸易协定》为标志。主要影响涉及两国的经济主权和工业竞争力。深层原因包括加拿大对美国的经济依赖和美国的贸易保护主义压力。短期内，此协议可能加剧贸易失衡并减少加拿大企业的利润空间。中期来看，可能抑制创新并增加加拿大对美国供应链的依赖。长期则可能重新定义北美贸易关系，使加拿大在全球价值链中边缘化。Freeland与Carney等各方代表不同立场：贸易保护主义与经济实用主义。出口企业与工会持截然不同的观点，反映了部门利益的矛盾。",
-        "analyse_ru": "Контекст связан с переговорами между США и Канадой по обновлению торговых соглашений, которые стали особенно актуальными после изменений в политике США. Причины заключаются в стремлении США укрепить свои позиции в торговле, что может привести к ущемлению интересов Канады. Последствия могут включать снижение конкурентоспособности канадских товаров и рост зависимости от американского рынка. Перспективы зависят от того, насколько Канада сможет диверсифицировать свои торговые партнёрства. Позиции сторон: США заинтересованы в укреплении своей экономической гегемонии, а Канада пытается сохранить суверенитет в торговле.",
-        "analyse_fa": "زمینه این ماجرا به مذاکرات بین آمریکا و کانادا برای به‌روزرسانی توافقات تجاری مربوط می‌شود که پس از تغییرات در سیاست‌های آمریکا اهمیت بیشتری پیدا کرده است. دلایل این امر به تلاش آمریکا برای تقویت موقعیت خود در تجارت بازمی‌گردد که ممکن است به زیان منافع کانادا تمام شود. پیامدهای این امر می‌تواند شامل کاهش رقابت‌پذیری کالاهای کانادایی و افزایش وابستگی به بازار آمریکا باشد. چشم‌اندازها به توانایی کانادا در تنوع‌بخشی به شرکای تجاری خود بستگی دارد. مواضع بازیگران: آمریکا به دنبال تقویت هژمونی اقتصادی خود است، در حالی که کانادا تلاش می‌کند تا حاکمیت خود در تجارت را حفظ کند.",
-        "analyse_ar": "سياق هذه القضية يتعلق بالمفاوضات بين الولايات المتحدة وكندا لتحديث اتفاقيات التجارة، التي اكتسبت أهمية خاصة بعد التغييرات في سياسات الولايات المتحدة. الأسباب تكمن في سعي الولايات المتحدة لتعزيز موقفها في التجارة، مما قد يؤدي إلى المساس بمصالح كندا. العواقب قد تشمل انخفاض القدرة التنافسية للسلع الكندية وزيادة الاعتماد على السوق الأمريكية. الآفاق تعتمد على مدى قدرة كندا على تنويع شركائها التجاريين. مواقف الأطراف: الولايات المتحدة مهتمة بتعزيز هيمنتها الاقتصادية، بينما تسعى كندا للحفاظ على سيادتها في التجارة.",
-        "categorie": "Économie",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/news/trade-deal-to-leave-bad-outcome-for-canada-ex-minister",
-        "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0822-mg-freeland.jpg",
-        "date": "2026-08-21",
-        "pays": "usa",
+        "id": "chine_461449",
+        "titre": "TSMC investit 100 milliards de dollars en Arizona : un pari risqué mais lucratif",
+        "titre_en": "TSMC’s $100B Arizona expansion a high-risk, high-reward bet",
+        "titre_zh": "台积电1000亿美元扩张风险高回报高",
+        "titre_ru": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+        "titre_fa": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+        "titre_ar": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+        "titre_original": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+        "resume": "Taiwan Semiconductor Manufacturing Company (TSMC) annonce un investissement supplémentaire de 100 milliards de dollars dans ses usines d’Arizona, lors de son rapport de résultats du deuxième trimestre. Cette expansion vise à renforcer la production de puces pour les marchés américains et à réduire la dépendance à Taïwan. Les analystes y voient un pari stratégique pour sécuriser la chaîne d’approvisionnement.",
+        "resume_en": "TSMC announced a $100 billion expansion in Arizona during its Q2 earnings report, aiming to boost chip production for U.S. markets and reduce reliance on Taiwan. Analysts see this as a strategic move to secure supply chains.",
+        "resume_zh": "台积电在第二季度财报中宣布，将在亚利桑那州投资1000亿美元扩张，目标是增加美国市场的芯片产量并减少对台湾的依赖。分析师认为这是一个战略性的供应链安全举措。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "TSMC domine 60 % du marché des puces avancées, avec une forte concentration à Taïwan, vulnérable aux tensions géopolitiques. Cette expansion en Arizona répond à la loi américaine CHIPS and Science Act (2022), offrant des incitations fiscales et des subventions. Les risques incluent les coûts logistiques élevés et la concurrence accrue de Samsung ou Intel. À court terme, cela pourrait stabiliser les prix des semi-conducteurs pour les consommateurs. À moyen terme, cela pourrait redéfinir les équilibres géopolitiques en Asie-Pacifique. Long terme, cela pourrait accélérer la délocalisation des chaînes de valeur technologiques.",
+        "analyse_en": "TSMC dominates 60 % of the advanced chip market, with heavy reliance on Taiwan, vulnerable to geopolitical tensions. The Arizona expansion aligns with the U.S. CHIPS Act (2022), offering tax incentives and subsidies. Risks include high logistics costs and intensified competition from Samsung or Intel. Short-term, this may stabilize semiconductor prices for consumers. Medium-term, it could reshape geopolitical balances in Asia-Pacific. Long-term, it may accelerate the relocation of tech value chains.",
+        "analyse_zh": "台积电占据60%的先进芯片市场份额，但对台湾的依赖使其面临地缘政治风险。亚利桑那州的扩张符合美国2022年芯片法案（CHIPS Act），提供税收优惠和补贴。风险包括高昂的物流成本和三星或英特尔的竞争加剧。短期内，这可能稳定消费者的半导体价格。中期内，可能重塑亚太地区的地缘政治平衡。长期来看，这可能加速技术价值链的转移。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Technologie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/671b467d151b36bb",
+        "image": "https://biztoc.com/cdn/671b467d151b36bb_s.webp",
+        "date": "2026-08-22",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Secteur manufacturier canadien",
-            "hausse": false
+            "label": "▲ Marché des semi-conducteurs avancés",
+            "hausse": true
           },
           {
-            "label": "▼ Marché des obligations d'État américaines",
-            "hausse": false
+            "label": "▲ Fonds de capital-risque spécialisés en tech",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur manufacturier canadien",
-            "secteur_en": "Canadian manufacturing sector",
-            "secteur_zh": "加拿大制造业",
-            "effet_fr": "Les entreprises manufacturières canadiennes pourraient subir une baisse de compétitivité face à la concurrence américaine, réduisant leurs parts de marché.",
-            "effet_en": "Canadian manufacturing firms may face reduced competitiveness against U.S. rivals, shrinking their market share.",
-            "effet_zh": "加拿大制造企业可能面临与美国竞争对手竞争力下降，市场份额缩小。",
-            "hausse": false
+            "secteur_fr": "Marché des semi-conducteurs avancés",
+            "secteur_en": "Advanced semiconductors market",
+            "secteur_zh": "先进半导体市场",
+            "effet_fr": "L’investissement de TSMC pourrait réduire les tensions sur l’offre et stabiliser les prix des puces haut de gamme pour les secteurs technologiques.",
+            "effet_en": "TSMC’s investment may ease supply tensions and stabilize prices for high-end chips in tech sectors.",
+            "effet_zh": "台积电的投资可能缓解供应紧张局面，稳定高端芯片在技术领域的价格。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché des obligations d'État américaines",
-            "secteur_en": "U.S. Treasury bond market",
-            "secteur_zh": "美国国债市场",
-            "effet_fr": "L'incertitude commerciale pourrait pousser les investisseurs vers les obligations d'État, faisant baisser les rendements malgré les tensions inflationnistes.",
-            "effet_en": "Trade uncertainty could drive investors toward Treasury bonds, lowering yields despite inflationary pressures.",
-            "effet_zh": "贸易不确定性可能推动投资者转向国债，在通胀压力下降低收益率。",
-            "hausse": false
+            "secteur_fr": "Fonds de capital-risque spécialisés en tech",
+            "secteur_en": "Tech-focused venture capital funds",
+            "secteur_zh": "专注于科技的风险投资基金",
+            "effet_fr": "Les annonces de TSMC pourraient attirer davantage de capitaux vers les startups américaines travaillant sur des technologies de fabrication alternatives.",
+            "effet_en": "TSMC’s announcements may draw more capital into U.S. startups developing alternative fabrication tech.",
+            "effet_zh": "台积电的公告可能吸引更多资金流向开发替代制造技术的美国初创企业。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-22T20:21:08.654687"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-23T19:23:52.578480"
+      },
       {
         "id": "chine_198286",
         "titre": "Musk alerte sur la domination chinoise en IA",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-22T15:19:48.929962"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_602864",
-        "titre": "Grève générale chez Hyundai en Chine",
-        "titre_en": "Hyundai Workers Strike Across Chinese Factories",
-        "titre_zh": "现代汽车中国工厂全面罢工",
-        "titre_ru": "Рабочие Хендэ закрыли заводы из-за забастовки",
-        "titre_fa": "کارگران هیوندای در اعتراض به اعتصاب، کارخانه‌ها را تعطیل کردند",
-        "titre_ar": "عمال هيونداي يغلقون المصانع إضراباً كاملاً",
-        "titre_original": "Hyundai Workers Shut Down Factories In Full-Day Strike",
-        "resume": "Les ouvriers de Hyundai en Chine ont paralysé ses usines lors d'une grève d'une journée pour protester contre les conditions de travail. Cette action s'inscrit dans un contexte de tensions sociales croissantes en Chine. Les revendications portent notamment sur les salaires et la sécurité.",
-        "resume_en": "Hyundai workers in China shut down all factories in a full-day strike to protest working conditions. This action occurs amid rising social tensions in China. Demands focus on wages and safety.",
-        "resume_zh": "现代汽车中国工厂工人举行全天罢工，抗议工作条件。此行动发生在中国社会紧张局势加剧的背景下。诉求集中在工资和安全上。",
-        "resume_ru": "Рабочие завода Hyundai в Китае объявили о полном дне забастовки, что привело к остановке производства. Это связано с недовольством сотрудников условиями труда и заработной платой. Также в новостях: сотрудничество Ford с Geely и отзыв автомобилей в Китае.",
-        "resume_fa": "کارگران کارخانه هیوندای در چین اعتصاب تمام‌روز برگزار کردند که منجر به توقف تولید شد. این اقدام به دلیل نارضایتی از شرایط کار و دستمزدها صورت گرفت. همچنین در اخبار: همکاری جدید فورد با جیلی و فراخوان بزرگ درب خودرو در چین.",
-        "resume_ar": "أعلن عمال مصانع هيونداي في الصين عن إضراب كامل لمدة يوم، مما أدى إلى توقف الإنتاج. جاء هذا الإجراء بسبب عدم الرضا عن ظروف العمل والأجور. كما ورد في الأخبار: تعاون جديد بين فورد وجيلي، واستدعاء واسع لأقفال أبواب السيارات في الصين.",
-        "analyse_detaillee": "La Chine, depuis les réformes économiques des années 1980, a vu émerger une classe ouvrière confrontée à des conditions de travail souvent précaires. Les enjeux actuels incluent la montée des revendications sociales face à la croissance économique inégale. Les causes profondes de cette grève résident dans l'insatisfaction persistante des travailleurs malgré la prospérité apparente des entreprises. À court terme, cette grève pourrait perturber la production et les chaînes d'approvisionnement de Hyundai. À moyen terme, cela pourrait inciter d'autres entreprises à améliorer les conditions de travail pour éviter des conflits similaires. À long terme, cela pourrait accélérer les réformes sociales en Chine. Les acteurs incluent les ouvriers, le gouvernement chinois, et les multinationales comme Hyundai. Le gouvernement pourrait chercher à équilibrer répression et concessions pour maintenir la stabilité.",
-        "analyse_en": "China, since its economic reforms of the 1980s, has seen a working class facing often precarious working conditions. Current stakes include rising social demands amid uneven economic growth. The root causes of this strike lie in persistent worker dissatisfaction despite companies' apparent prosperity. In the short term, the strike could disrupt Hyundai's production and supply chains. In the medium term, it could push other companies to improve working conditions to avoid similar conflicts. Long-term, it could accelerate social reforms in China. Key actors include workers, the Chinese government, and multinationals like Hyundai. The government may seek to balance repression and concessions to maintain stability.",
-        "analyse_zh": "自1980年代经济改革以来，中国出现了面临恶劣工作条件的工人阶层。当前的关键在于在经济增长不均的背景下，社会诉求不断上升。此次罢工的深层原因在于尽管企业表面繁荣，工人仍持续不满。短期内，罢工可能扰乱现代汽车的生产和供应链。中期来看，可能促使其他企业改善工作条件以避免类似冲突。长期而言，可能加速中国的社会改革。主要相关方包括工人、中国政府和现代汽车等跨国公司。政府可能寻求在镇压与让步间取得平衡以维持稳定。",
-        "analyse_ru": "Забастовка на заводах Hyundai в Китае отражает растущее недовольство рабочих условиями труда и низкими зарплатами, что может быть связано с глобальной конкуренцией и давлением на производителей. Это событие может повлиять на цепочки поставок и производственные планы компании. Последствия могут включать потерю прибыли, ухудшение репутации и возможные переговоры с профсоюзами. Перспективы зависят от исхода переговоров и реакции правительства. Позиция сторон: рабочие требуют улучшений, а руководство стремится минимизировать убытки.",
-        "analyse_fa": "اعتصاب در کارخانه‌های هیوندای در چین نارضایتی فزاینده کارگران از شرایط کار و دستمزدهای پایین را نشان می‌دهد که ممکن است با رقابت جهانی و فشار بر تولیدکنندگان مرتبط باشد. این رویداد می‌تواند بر زنجیره‌های تأمین و برنامه‌های تولیدی شرکت تأثیر بگذارد. پیامدها ممکن است شامل زیان مالی، آسیب به شهرت و مذاکرات احتمالی با اتحادیه‌ها باشد. چشم‌اندازها به نتیجه مذاکرات و واکنش دولت بستگی دارد. موضع بازیگران: کارگران خواستار بهبود شرایط هستند و مدیریت تلاش می‌کند زیان‌ها را به حداقل برساند.",
-        "analyse_ar": "الإضراب في مصانع هيونداي في الصين يعكس استياء العمال المتزايد من ظروف العمل والأجور المنخفضة، والذي قد يرتبط بالمنافسة العالمية والضغوط على المنتجين. قد يؤثر هذا الحدث على سلاسل الإمداد وخطط الإنتاج للشركة. قد تشمل العواقب خسائر مالية، تدهور السمعة، ومفاوضات محتملة مع النقابات. الآفاق تعتمد على نتيجة المفاوضات ورد فعل الحكومة. مواقف الأطراف: العمال يطالبون بتحسينات، والإدارة تسعى لتقليل الخسائر.",
-        "categorie": "Économie sociale",
-        "source": "Jalopnik",
-        "url": "https://www.jalopnik.com/2241520/hyundai-workers-shut-down-factories/",
-        "image": "https://www.jalopnik.com/img/gallery/hyundai-workers-shut-down-factories-in-full-day-strike/l-intro-1787321619.jpg",
-        "date": "2026-08-21",
-        "pays": "chine",
+        "id": "russie_303962",
+        "titre": "Attaque russe double à Kryvyi Rih : 16 morts, 22 enfants blessés",
+        "titre_en": "Russian double strike in Kryvyi Rih kills 16, wounds 22 children",
+        "titre_zh": "俄罗斯双重袭击克里维里希 16人死亡22名儿童受伤",
+        "titre_ru": "Russia Kills 16 In ‘Absolutely Cynical And Despicable’ Double Tap Attack On Ukraine Mall",
+        "titre_fa": "Russia Kills 16 In ‘Absolutely Cynical And Despicable’ Double Tap Attack On Ukraine Mall",
+        "titre_ar": "Russia Kills 16 In ‘Absolutely Cynical And Despicable’ Double Tap Attack On Ukraine Mall",
+        "titre_original": "Russia Kills 16 In ‘Absolutely Cynical And Despicable’ Double Tap Attack On Ukraine Mall",
+        "resume": "Une attaque russe en plein jour sur un centre commercial de Kryvyi Rih, ville natale de Zelensky, a fait 16 morts et blessé 22 enfants. Le gouverneur Oleksandr Hanzha a qualifié l’attaque de « cynique et détestable ». Les frappes multiples visent à semer la terreur dans les zones civiles ukrainiennes. L’ONU et l’OTAN ont condamné ces actes.",
+        "resume_en": "A Russian daytime strike on a shopping mall in Kryvyi Rih, Zelensky’s hometown, killed 16 and wounded 22 children. Governor Oleksandr Hanzha called it ‘cynical and despicable.’ The double strike aims to instill terror in Ukrainian civilian areas. The UN and NATO condemned the attacks.",
+        "resume_zh": "俄罗斯在乌克兰总统泽连斯基的家乡克里维里希对一家购物中心进行了白天的双重袭击，造成16人死亡，22名儿童受伤。克里米亚州长奥列克桑德尔·汉扎称此举为‘冷酷无情且可恶’。双重袭击旨在在乌克兰平民区制造恐怖。联合国和北约谴责了这些袭击。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Kryvyi Rih, ville industrielle clé pour l’Ukraine, est un symbole de la résistance face à l’invasion russe depuis 2022. Les frappes ciblées sur des infrastructures civiles visent à affaiblir le moral des Ukrainiens et à justifier une escalade militaire. Les causes profondes incluent la stratégie russe de « guerre totale » et la volonté de contrôler les ressources minières locales. À court terme, cela pourrait accélérer l’exode des populations civiles vers l’ouest. À moyen terme, cela pourrait renforcer les alliances militaires de l’Ukraine avec l’OTAN et les États-Unis. Long terme, cela pourrait prolonger le conflit et augmenter les risques d’une intervention directe de l’OTAN.",
+        "analyse_en": "Kryvyi Rih, a key industrial city for Ukraine, symbolizes resistance since Russia’s 2022 invasion. Targeted strikes on civilian infrastructure aim to weaken Ukrainian morale and justify military escalation. Root causes include Russia’s ‘total war’ strategy and control over local mining resources. Short-term, this may accelerate civilian displacement westward. Medium-term, it could strengthen Ukraine’s military alliances with NATO and the U.S. Long-term, this may prolong the conflict and increase risks of direct NATO intervention.",
+        "analyse_zh": "克里维里希是乌克兰重要的工业城市，自2022年俄罗斯入侵以来象征着抵抗。针对平民基础设施的袭击旨在削弱乌克兰民众的士气并为军事升级提供借口。深层原因包括俄罗斯‘全面战争’战略和控制当地矿产资源的意图。短期内，这可能加速平民向西部撤离。中期内，可能增强乌克兰与北约和美国的军事同盟。长期来看，这可能延长冲突并增加北约直接干预的风险。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/russia-kills-16-absolutely-cynical-despicable-double-tap-attack-ukraine-mall_n_6a89efb4e4b0832f43174eb3",
+        "image": "https://img.huffingtonpost.com/asset/6a89f26b19000090326bb0a3.jpeg?cache=ndgC8CSFhF&ops=1200_630",
+        "date": "2026-08-22",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Secteur automobile",
-            "hausse": false
+            "label": "▲ Marché des assurances contre les risques géopolitiques",
+            "hausse": true
           },
           {
-            "label": "▼ Secteur des investissements étrangers",
+            "label": "▼ Industrie pétrolière et gazière russe",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur automobile",
-            "secteur_en": "Automotive sector",
-            "secteur_zh": "汽车行业",
-            "effet_fr": "La grève pourrait entraîner des retards de production et une hausse des coûts pour Hyundai en Chine, affectant ses marges.",
-            "effet_en": "The strike could lead to production delays and increased costs for Hyundai in China, impacting its margins.",
-            "effet_zh": "罢工可能导致现代汽车中国工厂生产延误和成本上升，影响其利润率。",
-            "hausse": false
+            "secteur_fr": "Marché des assurances contre les risques géopolitiques",
+            "secteur_en": "Geopolitical risk insurance market",
+            "secteur_zh": "地缘政治风险保险市场",
+            "effet_fr": "L’escalade en Ukraine pourrait entraîner une hausse des primes pour les entreprises opérant dans les zones à risque, notamment en Europe de l’Est.",
+            "effet_en": "Escalation in Ukraine may drive up premiums for firms operating in high-risk Eastern European regions.",
+            "effet_zh": "乌克兰冲突升级可能导致东欧高风险地区企业保费上涨。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur des investissements étrangers",
-            "secteur_en": "Foreign investment sector",
-            "secteur_zh": "外国投资行业",
-            "effet_fr": "Une instabilité sociale prolongée pourrait décourager les investisseurs étrangers et freiner les projets d'expansion en Chine.",
-            "effet_en": "Prolonged social instability could discourage foreign investors and slow down expansion projects in China.",
-            "effet_zh": "持续的社会动荡可能阻碍外国投资者并减缓中国的扩张项目。",
+            "secteur_fr": "Industrie pétrolière et gazière russe",
+            "secteur_en": "Russian oil and gas industry",
+            "secteur_zh": "俄罗斯石油和天然气行业",
+            "effet_fr": "Les sanctions occidentales pourraient isoler davantage le secteur, réduisant les investissements étrangers et perturbant les chaînes d’approvisionnement globales.",
+            "effet_en": "Western sanctions may further isolate the sector, reducing foreign investments and disrupting global supply chains.",
+            "effet_zh": "西方制裁可能进一步孤立该行业，减少外资投入并扰乱全球供应链。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-22T14:20:08.966397"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-23T19:23:52.578488"
+      },
       {
         "id": "russie_666080",
         "titre": "Décès de sénatrice républicaine Nancy Kassebaum",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-22T19:21:57.433823"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_338786",
-        "titre": "Micron investit 10 milliards dans un labo IA en Idaho",
-        "titre_en": "Micron invests $10B in AI research lab in Idaho",
-        "titre_zh": "美光在爱达荷州投资100亿美元AI实验室",
-        "titre_ru": "Micron инвестирует $10 млрд в новый AI-лабораторий в Бойсе",
-        "titre_fa": "مایکرون ۱۰ میلیارد دلار در آزمایشگاه هوش مصنوعی سرمایه‌گذاری می‌کند",
-        "titre_ar": "مايكرون تستثمر 10 مليارات دولار في مختبر ذكاء اصطناعي جديد في بويزي",
-        "titre_original": "Micron Unveils $10 Billion AI Memory Research Lab In Boise",
-        "resume": "Micron Technology annonce un investissement de 10 milliards de dollars sur dix ans pour un laboratoire de recherche en Idaho. Ce centre se concentrera sur les mémoires avancées et les systèmes de calcul. Ce projet s'inscrit dans la course mondiale aux semi-conducteurs.",
-        "resume_en": "Micron Technology announced a $10 billion investment over ten years for a research lab in Idaho. The center will focus on advanced memory and computing systems. This project is part of the global race for semiconductors.",
-        "resume_zh": "美光科技宣布在爱达荷州投资100亿美元建设一个为期十年的研究实验室。该中心将专注于先进存储器和计算系统。该项目是全球半导体竞赛的一部分。",
-        "resume_ru": "Компания Micron Technology объявила о планах построить новый исследовательский центр в Бойсе, штат Айдахо, стоимостью $10 млрд. Лаборатория будет специализироваться на передовых технологиях памяти, вычислительных системах и производстве чипов. Проект рассчитан на десятилетие.",
-        "resume_fa": "شرکت مایکرون تکنالوجی از برنامه‌های خود برای ساخت مرکز تحقیقاتی جدید به ارزش ۱۰ میلیارد دلار در بویسه، آیداهو، خبر داد. این آزمایشگاه بر فناوری‌های پیشرفته حافظه، سیستم‌های محاسباتی و تولید تراشه‌ها متمرکز خواهد بود. این پروژه ده ساله است.",
-        "resume_ar": "أعلنت شركة مايكروسوفت تكنولوجي عن خططها لبناء مركز أبحاث جديد بتكلفة 10 مليارات دولار في بويزي، أيداهو. ستركز المختبر على تقنيات الذاكرة المتقدمة، الأنظمة الحاسوبية، وتصنيع الرقائق. المشروع ممتد على مدى عقد من الزمن.",
-        "analyse_detaillee": "Cet investissement reflète la stratégie américaine pour réduire la dépendance aux semi-conducteurs asiatiques, notamment chinois. Les enjeux incluent la souveraineté technologique et la compétitivité face à la Chine et à Taïwan. Les causes profondes remontent à la pénurie de puces de 2020-2021, qui a révélé les vulnérabilités des chaînes d'approvisionnement. À court terme, ce projet créera des emplois et stimulera l'économie locale. À moyen terme, il pourrait renforcer la position de Micron face à ses concurrents comme Samsung ou SK Hynix. À long terme, il pourrait contribuer à une relocalisation partielle de la production de semi-conducteurs aux États-Unis. Les acteurs clés sont Micron, le gouvernement américain via des subventions, et les gouvernements locaux. Les concurrents asiatiques restent une menace majeure.",
-        "analyse_en": "This investment reflects the U.S. strategy to reduce dependence on Asian, particularly Chinese, semiconductors. Stakes include technological sovereignty and competitiveness against China and Taiwan. Root causes trace back to the 2020-2021 chip shortage, which exposed supply chain vulnerabilities. In the short term, this project will create jobs and boost the local economy. In the medium term, it could strengthen Micron's position against competitors like Samsung or SK Hynix. Long-term, it could contribute to a partial reshoring of semiconductor production to the U.S. Key actors include Micron, the U.S. government through subsidies, and local governments. Asian competitors remain a major threat.",
-        "analyse_zh": "该投资反映了美国减少对亚洲（特别是中国）半导体依赖的战略。影响包括技术主权和面对中国及台湾的竞争力。深层原因可追溯到2020-2021年的芯片短缺，暴露了供应链的脆弱性。短期内，该项目将创造就业并刺激当地经济。中期来看，可能增强美光在三星或海力士等竞争对手面前的地位。长期而言，可能有助于美国半导体生产的部分回流。关键行为者包括美光、通过补贴的美国政府和地方政府。亚洲竞争对手仍是主要威胁。",
-        "analyse_ru": "Контекст инвестиций Micron связан с глобальной гонкой технологий и стремлением США укрепить позиции в области искусственного интеллекта и полупроводников. Причины столь масштабных вложений кроются в необходимости разработки новых решений для хранения данных и вычислительных мощностей, что критически важно для развития AI и суперкомпьютеров. Последствия проекта могут укрепить позиции Micron на рынке и стимулировать развитие технологической инфраструктуры в регионе. Перспективы проекта зависят от успешности внедрения инноваций и конкурентоспособности разработок. Позиции сторон: правительство США поддерживает такие инициативы как часть стратегии технологического суверенитета, а конкуренты, такие как Samsung и TSMC, вынуждены отвечать аналогичными мерами.",
-        "analyse_fa": "زمینه سرمایه‌گذاری مایکرون به رقابت جهانی در فناوری و تلاش آمریکا برای تقویت جایگاه خود در حوزه هوش مصنوعی و نیمه‌رساناها بازمی‌گردد. دلایل چنین سرمایه‌گذاری‌های عظیمی به نیاز به توسعه راه‌حل‌های جدید برای ذخیره‌سازی داده‌ها و قدرت محاسباتی برمی‌گردد که برای پیشرفت هوش مصنوعی و ابرکامپیوترها حیاتی است. پیامدهای این پروژه می‌تواند جایگاه مایکرون در بازار را تقویت کند و توسعه زیرساخت‌های فناوری در منطقه را تحریک کند. چشم‌انداز پروژه به موفقیت در پیاده‌سازی نوآوری‌ها و رقابت‌پذیری محصولات بستگی دارد. موضع بازیگران: دولت آمریکا از چنین ابتکاراتی به عنوان بخشی از استراتژی حاکمیت فناوری حمایت می‌کند، در حالی که رقبایی مانند سامسونگ و TSMC مجبور به پاسخگویی با اقدامات مشابه هستند.",
-        "analyse_ar": "سياق استثمار مايكروسوفت تكنولوجي مرتبط بالمنافسة العالمية في مجال التكنولوجيا وسعي الولايات المتحدة لتعزيز مكانتها في الذكاء الاصطناعي وشبه الموصلات. أسباب هذه الاستثمارات الضخمة تعود إلى الحاجة لتطوير حلول جديدة لتخزين البيانات وقدرات الحوسبة، وهو أمر حيوي لتقدم الذكاء الاصطناعي والحاسبات الفائقة. قد تعزز نتائج المشروع مكانة مايكروسوفت في السوق وتحفيز تطوير البنية التحتية التكنولوجية في المنطقة. آفاق المشروع تعتمد على نجاح تطبيق الابتكارات وتنافسية المنتجات. مواقف الأطراف: تدعم الحكومة الأمريكية مثل هذه المبادرات كجزء من استراتيجية السيادة التكنولوجية، بينما вынужден المنافسون مثل سامسونغ و TSMC الرد بإجراءات مماثلة.",
-        "categorie": "Économie",
-        "source": "Slashdot.org",
-        "url": "https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise",
-        "image": "https://a.fsdn.com/sd/topics/business_64.png",
-        "date": "2026-08-21",
-        "pays": "russie",
+        "id": "iran_19525",
+        "titre": "Netanyahu : pas d’État palestinien sous contrôle iranien pendant son mandat",
+        "titre_en": "Netanyahu: No Palestinian state under Iranian control during his term",
+        "titre_zh": "内塔尼亚胡：任内不承认伊朗控制的巴勒斯坦国家",
+        "titre_ru": "Netanyahu: No Palestinian state while I am Israel's PM",
+        "titre_fa": "Netanyahu: No Palestinian state while I am Israel's PM",
+        "titre_ar": "Netanyahu: No Palestinian state while I am Israel's PM",
+        "titre_original": "Netanyahu: No Palestinian state while I am Israel's PM",
+        "resume": "Le Premier ministre israélien Benjamin Netanyahu a réaffirmé qu’il n’y aurait pas d’État palestinien « contrôlé par l’Iran » tant qu’il sera au pouvoir. Cette déclaration intervient dans un contexte de tensions accrues entre Israël et le Hezbollah, soutenu par Téhéran. Les négociations de paix restent bloquées, et les frappes récentes ont exacerbé les tensions régionales.",
+        "resume_en": "Israeli PM Benjamin Netanyahu reaffirmed there will be no Palestinian state ‘controlled by Iran’ during his term. This comes amid heightened tensions between Israel and Hezbollah, backed by Tehran. Peace talks remain stalled, and recent strikes have escalated regional tensions.",
+        "resume_zh": "以色列总理内塔尼亚胡重申，在其任期内不会承认由伊朗控制的巴勒斯坦国家。这一声明出现在以色列和由德黑兰支持的真主党之间紧张关系加剧之际。和平谈判仍然僵持不下，最近的袭击进一步加剧了地区紧张局势。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La position de Netanyahu s’inscrit dans une stratégie plus large de containment de l’influence iranienne au Moyen-Orient, notamment via le soutien à des groupes comme le Hezbollah ou les Houthis. Les causes profondes incluent la rivalité historique entre Israël et l’Iran, exacerbée par la crise nucléaire iranienne et les conflits en Syrie et au Yémen. À court terme, cela pourrait maintenir un statu quo précaire dans les territoires palestiniens. À moyen terme, cela pourrait renforcer les alliances régionales comme l’Axe de la Résistance (Iran, Syrie, Hezbollah). Long terme, cela pourrait prolonger l’instabilité dans la région et retarder toute solution politique durable.",
+        "analyse_en": "Netanyahu’s stance aligns with broader efforts to contain Iranian influence in the Middle East, including support for groups like Hezbollah or the Houthis. Root causes include historical rivalry between Israel and Iran, worsened by Iran’s nuclear crisis and conflicts in Syria and Yemen. Short-term, this may maintain a precarious status quo in Palestinian territories. Medium-term, it could strengthen regional alliances like the Axis of Resistance (Iran, Syria, Hezbollah). Long-term, this may prolong regional instability and delay any lasting political solution.",
+        "analyse_zh": "内塔尼亚胡的立场符合以色列在中东限制伊朗影响力的更广泛战略，特别是针对真主党或胡塞武装等组织的支持。深层原因包括以色列和伊朗之间的历史对抗，以及伊朗核危机和叙利亚、也门冲突的加剧。短期内，这可能维持巴勒斯坦领土的不稳定现状。中期内，可能加强‘抵抗轴心’（伊朗、叙利亚、真主党）等地区联盟。长期来看，这可能延长地区不稳定并推迟任何持久的政治解决方案。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/37b4828f68a70c8f",
+        "image": "https://biztoc.com/cdn/37b4828f68a70c8f_s.webp",
+        "date": "2026-08-22",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur des semi-conducteurs",
-            "hausse": true
+            "label": "▼ Marché des investissements sécuritaires au Moyen-Orient",
+            "hausse": false
           },
           {
-            "label": "▲ Marché boursier technologique",
-            "hausse": true
+            "label": "▼ Industrie pétrolière iranienne",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des semi-conducteurs",
-            "secteur_en": "Semiconductor Sector",
-            "secteur_zh": "半导体行业",
-            "effet_fr": "Cet investissement pourrait renforcer la position de Micron comme leader mondial des mémoires, stimulant l'innovation et la demande en puces avancées.",
-            "effet_en": "This investment could strengthen Micron's position as a global leader in memory chips, driving innovation and demand for advanced semiconductors.",
-            "effet_zh": "该投资可能巩固美光作为全球存储芯片领导者的地位，推动先进半导体的创新和需求。",
-            "hausse": true
+            "secteur_fr": "Marché des investissements sécuritaires au Moyen-Orient",
+            "secteur_en": "Middle East secure investment market",
+            "secteur_zh": "中东安全投资市场",
+            "effet_fr": "Les tensions persistantes pourraient dissuader les investisseurs étrangers de s’engager dans des projets liés à la sécurité ou aux infrastructures en Israël et dans les territoires palestiniens.",
+            "effet_en": "Ongoing tensions may deter foreign investors from engaging in security or infrastructure projects in Israel and Palestinian territories.",
+            "effet_zh": "持续的紧张局势可能阻止外国投资者参与以色列和巴勒斯坦地区的安全或基础设施项目。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché boursier technologique",
-            "secteur_en": "Technology Stock Market",
-            "secteur_zh": "科技股市场",
-            "effet_fr": "L'annonce pourrait booster les actions de Micron et des entreprises liées aux semi-conducteurs, reflétant un regain de confiance des investisseurs.",
-            "effet_en": "The announcement could boost Micron's stock and shares of semiconductor-related companies, reflecting renewed investor confidence.",
-            "effet_zh": "该公告可能推动美光及半导体相关企业股价上涨，反映投资者信心的回升。",
-            "hausse": true
+            "secteur_fr": "Industrie pétrolière iranienne",
+            "secteur_en": "Iranian oil industry",
+            "secteur_zh": "伊朗石油行业",
+            "effet_fr": "Les sanctions américaines et les conflits régionaux pourraient réduire les exportations iraniennes et affecter les revenus du régime, renforçant les pressions économiques internes.",
+            "effet_en": "U.S. sanctions and regional conflicts may reduce Iranian oil exports and affect regime revenues, intensifying internal economic pressures.",
+            "effet_zh": "美国制裁和地区冲突可能减少伊朗石油出口并影响政府收入，加剧国内经济压力。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-22T18:28:36.218491"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-23T19:23:52.578496"
+      },
       {
         "id": "iran_871007",
         "titre": "Égypte et Iran discutent de désescalade régionale",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-22T08:27:51.132550"
-      },
-      {
-        "id": "iran_962373",
-        "titre": "États-Unis intensifient la pression économique",
-        "titre_en": "US Steps Up Economic Pressure on Iran",
-        "titre_zh": "美国加大对伊朗经济压力",
-        "titre_ru": "США усиливают экономическое давление на Иран",
-        "titre_fa": "آمریکا فشار اقتصادی بر ایران را تشدید می‌کند",
-        "titre_ar": "الولايات المتحدة تعزز الضغط الاقتصادي على إيران",
-        "titre_original": "US Steps Up Economic Pressure on Iran | Horizons Middle East & Africa 8/21/2026",
-        "resume": "Les États-Unis préparent une nouvelle stratégie d'isolement économique contre l'Iran, alors que le prix du pétrole connaît une hausse hebdomadaire. Les marchés du Trésor sont également sous pression. Cette escalade intervient dans un contexte de tensions régionales persistantes.",
-        "resume_en": "The US is preparing a new economic isolation strategy against Iran as oil prices surge weekly. Treasury markets are also under pressure. This escalation occurs amid persistent regional tensions.",
-        "resume_zh": "美国正准备对伊朗实施新的经济孤立战略，同时油价每周上涨。国债市场也面临压力。此举发生在地区紧张局势持续之际。",
-        "resume_ru": "США готовят новую стратегию экономической изоляции Ирана на фоне роста цен на нефть. Министерство финансов США усиливает давление на иранские рынки. Новые санкции могут усугубить экономический кризис в стране.",
-        "resume_fa": "آمریکا در حالی که قیمت نفت در حال افزایش است، استراتژی جدیدی برای انزوای اقتصادی ایران تدارک می‌بیند. وزارت خزانه‌داری ایالات متحده فشار بر بازارهای ایرانی را تشدید می‌کند. تحریم‌های جدید ممکن است بحران اقتصادی در کشور را تشدید کند.",
-        "resume_ar": "تستعد الولايات المتحدة لاستراتيجية جديدة للعزل الاقتصادي لإيران وسط ارتفاع أسعار النفط. وتعزز وزارة الخزانة الأمريكية الضغط على الأسواق الإيرانية. قد تؤدي العقوبات الجديدة إلى تفاقم الأزمة الاقتصادية في البلاد.",
-        "analyse_detaillee": "Les sanctions américaines contre l'Iran remontent aux années 1979, après la révolution islamique. Historiquement, ces mesures visaient à affaiblir le régime iranien et à limiter son influence régionale. Les enjeux principaux incluent la stabilité du Moyen-Orient, la sécurité énergétique mondiale et la lutte contre la prolifération nucléaire. Les causes profondes résident dans l'opposition idéologique entre Washington et Téhéran, ainsi que dans la rivalité saoudienne. À court terme, cette pression pourrait aggraver la crise économique iranienne et provoquer des pénuries. À moyen terme, elle pourrait pousser l'Iran à renforcer ses alliances avec la Russie ou la Chine. À long terme, elle pourrait déstabiliser davantage la région ou forcer un changement de régime. Les acteurs incluent les États-Unis, l'UE (divisée sur la question), l'Iran et ses alliés régionaux.",
-        "analyse_en": "US sanctions against Iran date back to 1979, following the Islamic revolution. Historically, these measures aimed to weaken the Iranian regime and limit its regional influence. The main stakes include Middle East stability, global energy security, and nuclear non-proliferation. The root causes lie in the ideological opposition between Washington and Tehran, as well as Saudi rivalry. In the short term, this pressure could worsen Iran's economic crisis and cause shortages. In the medium term, it could push Iran to strengthen alliances with Russia or China. In the long term, it could further destabilize the region or force a regime change. Key actors include the US, the EU (divided on the issue), Iran, and its regional allies.",
-        "analyse_zh": "美国对伊朗的制裁可追溯至1979年伊斯兰革命。历史上，这些措施旨在削弱伊朗政权并限制其地区影响力。主要影响包括中东稳定、全球能源安全和防核扩散。深层原因在于华盛顿与德黑兰的意识形态对立及沙特竞争。短期内，此压力可能加剧伊朗经济危机并引发短缺。中期内，可能迫使伊朗加强与俄罗斯或中国的联盟。长期看，可能进一步破坏地区稳定或导致政权更迭。主要参与者包括美国、欧盟（立场分裂）、伊朗及其地区盟友。",
-        "analyse_ru": "Контекст связан с обострением геополитического противостояния между США и Ираном. Причины усиления давления кроются в стремлении США ограничить влияние Ирана в регионе и ослабить его экономику. Последствия могут включать дальнейшее ухудшение экономической ситуации в Иране и рост социальной напряженности. Перспективы зависят от реакции международного сообщества и возможных переговоров. Позиции сторон разделяются между сторонниками жесткой линии и сторонниками дипломатического решения.",
-        "analyse_fa": "زمینه به تشدید رویارویی ژئوپلیتیکی بین ایالات متحده و ایران مربوط می‌شود. دلایل تشدید فشار در تلاش آمریکا برای محدود کردن نفوذ ایران در منطقه و تضعیف اقتصاد آن نهفته است. پیامدها می‌تواند شامل بدتر شدن بیشتر وضعیت اقتصادی ایران و افزایش تنش‌های اجتماعی باشد. چشم‌اندازها به واکنش جامعه بین‌المللی و مذاکرات احتمالی بستگی دارد. مواضع بازیگران بین طرفداران رویکرد سخت و طرفداران راه‌حل دیپلماتیک تقسیم می‌شود.",
-        "analyse_ar": "السياق يتعلق بتفاقم المواجهة الجيوسياسية بين الولايات المتحدة وإيران. أسباب تعزيز الضغط تكمن في سعي الولايات المتحدة إلى الحد من نفوذ إيران في المنطقة وإضعاف اقتصادها. العواقب قد تشمل تدهوراً أكبر للوضع الاقتصادي في إيران وزيادة حدة التوترات الاجتماعية. الآفاق تعتمد على رد فعل المجتمع الدولي والمفاوضات المحتملة. مواقف الأطراف تتوزع بين مؤيدي الخطوات الصارمة ومؤيدي الحل الدبلوماسي.",
-        "categorie": "Géopolitique, Économie",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ba7d5b895f4ab289",
-        "image": "https://biztoc.com/cdn/ba7d5b895f4ab289_s.webp",
-        "date": "2026-08-21",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur bancaire iranien",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "La hausse des prix pourrait bénéficier aux producteurs concurrents comme l'Arabie saoudite ou les États-Unis.",
-            "effet_en": "Rising prices could benefit rival producers like Saudi Arabia or the US.",
-            "effet_zh": "油价上涨可能使沙特或美国等竞争对手受益。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur bancaire iranien",
-            "secteur_en": "Iranian banking sector",
-            "secteur_zh": "伊朗银行业",
-            "effet_fr": "Les sanctions pourraient asphyxier le système financier iranien, limitant les transactions internationales.",
-            "effet_en": "Sanctions could strangle Iran's financial system, limiting international transactions.",
-            "effet_zh": "制裁可能扼杀伊朗金融体系，限制国际交易。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-22T07:30:54.658463"
       }
     ]
   },
