@@ -1,7 +1,66 @@
 {
-  "last_updated": "24/08/2026 à 08h52",
+  "last_updated": "24/08/2026 à 09h47",
   "articles": {
     "monde": [
+      {
+        "id": "monde_960224",
+        "titre": "Préply : une startup née d’une recherche",
+        "titre_en": "Preply’s billion-dollar rise from tutor search",
+        "titre_zh": "普瑞普：从寻找家教起家的亿级平台",
+        "titre_ru": "Генеральный директор Preply: путь к успеху начался с поиска репетитора",
+        "titre_fa": "مدیرعامل پریپلای: کسب و کار با جستجوی معلم انگلیسی آغاز شد",
+        "titre_ar": "الرئيس التنفيذي لشركة بريبلاي: بداية النجاح جاءت من البحث عن مدرس لغة إنجليزية",
+        "titre_original": "The CEO of $1.2 billion learning platform Preply says it all started with his online search for an English tutor",
+        "resume": "Kirill Bigai, PDG de Préply, une plateforme d’apprentissage en ligne valorisée à 1,2 milliard de dollars, raconte son parcours atypique. Il a dû combiner un job de consultant rémunéré faiblement avec le développement de son entreprise. Son histoire illustre la résilience et l’innovation dans l’éducation numérique. La plateforme, lancée en 2017, connecte élèves et professeurs via des cours en ligne.",
+        "resume_en": "Kirill Bigai, CEO of the $1.2 billion learning platform Preply, shares his unconventional journey. He had to balance a poorly paid consulting gig with building his business. His story highlights resilience and innovation in digital education. The platform, launched in 2017, connects students and tutors via online lessons.",
+        "resume_zh": "普瑞普CEO基里尔·比加伊讲述了这家价值12亿美元在线教育平台的非凡创业史。他曾一边从事微薄报酬的咨询工作，一边发展公司。他的故事展示了数字教育领域的韧性和创新。该平台于2017年上线，通过在线课程连接学生和家教。",
+        "resume_ru": "Кирилл Бигай, сооснователь и генеральный директор платформы Preply, рассказал, как его поиски репетитора английского языка привели к созданию бизнеса стоимостью 1,2 миллиарда долларов. Он делился личным опытом в интервью. Компания специализируется на онлайн-обучении.",
+        "resume_fa": "کیریل بیگای، بنیان‌گذار و مدیرعامل پریپلای، توضیح داد که چگونه جستجوی او برای یافتن معلم خصوصی انگلیسی منجر به ایجاد کسب‌وکاری به ارزش ۱.۲ میلیارد دلار شد. او تجربیات شخصی خود را در مصاحبه‌ای به اشتراک گذاشت. این شرکت بر آموزش آنلاین تمرکز دارد.",
+        "resume_ar": "أفاد كيريل بيغاي، مؤسس شركة بريبلاي والمدير التنفيذي لها، كيف قادته بحثه عن مدرس لغة إنجليزية إلى إنشاء شركة بقيمة 1.2 مليار دولار. شارك في مقابلة بتجربته الشخصية. الشركة متخصصة في التعليم عبر الإنترنت.",
+        "analyse_detaillee": "L’éducation en ligne a connu une croissance exponentielle depuis 2020, accélérée par la pandémie de Covid-19, qui a rendu les cours physiques impossibles. Préply s’inscrit dans cette tendance en capitalisant sur la demande croissante de flexibilité et d’accessibilité. Les causes profondes incluent la mondialisation des compétences et la digitalisation des services. À court terme, la valorisation record reflète la confiance des investisseurs dans le modèle économique. À moyen terme, la concurrence avec des géants comme Coursera ou Duolingo pourrait s’intensifier. Long terme, Préply pourrait devenir un acteur clé dans l’éducation personnalisée et les compétences professionnelles.",
+        "analyse_en": "Online education has seen exponential growth since 2020, accelerated by the Covid-19 pandemic, which made in-person classes impossible. Preply fits this trend by capitalizing on the rising demand for flexibility and accessibility. Deep-rooted causes include the globalization of skills and the digitalization of services. Short-term, the record valuation reflects investor confidence in the business model. Medium-term, competition with giants like Coursera or Duolingo may intensify. Long-term, Preply could become a key player in personalized education and professional skills.",
+        "analyse_zh": "2020年以来，疫情加速了在线教育的指数级增长，使线下课程变得不可能。普瑞普顺应这一趋势，利用对灵活性和可及性需求的增长。深层原因包括技能全球化和服务数字化。短期内，记录级的估值反映了投资者对商业模式的信心。中期内，与科斯拉或杜奥林哥等巨头的竞争可能加剧。长期来看，普瑞普可能成为个性化教育和职业技能领域的关键玩家。",
+        "analyse_ru": "Контекст истории связан с ростом спроса на онлайн-образование во время пандемии. Причины успеха Preply обусловлены удобством платформы и доступностью репетиторов. Последствия включают расширение глобального присутствия компании и конкуренцию на рынке. Перспективы развития связаны с технологическими инновациями и расширением спектра услуг. Позиция основателя подчёркивает важность личного опыта и адаптации к изменениям рынка.",
+        "analyse_fa": "زمینه این داستان به افزایش تقاضا برای آموزش آنلاین در دوران همه‌گیری مربوط است. دلایل موفقیت پریپلای به راحتی استفاده از پلتفرم و دسترسی به معلمان مربوط می‌شود. پیامدها شامل گسترش حضور جهانی شرکت و رقابت در بازار است. چشم‌اندازهای توسعه به نوآوری‌های فناوری و گسترش خدمات بستگی دارد. موضع بنیان‌گذار بر اهمیت تجربه شخصی و سازگاری با تغییرات بازار تأکید می‌کند.",
+        "analyse_ar": "يرتبط السياق بزيادة الطلب على التعليم عبر الإنترنت أثناء الجائحة. أسباب نجاح بريبلاي ترتبط بسهولة استخدام المنصة وتوافر المدرسين. تشمل العواقب التوسع العالمي للشركة والمنافسة في السوق. ترتبط الآفاق بالتطورات التكنولوجية وتوسيع الخدمات. يؤكد موقف المؤسس على أهمية التجربة الشخصية والتكيف مع تغيرات السوق.",
+        "categorie": "Technologie & Éducation",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/08/23/kirill-bigai-ceo-of-1-2-billion-learning-platform-preply-it-all-started-with-online-search-for-english-tutor/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Kirill-Bigai_0503-e1787339810452.jpg?resize=1200,600",
+        "date": "2026-08-23",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Fintech éducatif (plateformes de paiement en ligne)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des compétences linguistiques (tutorat en ligne)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Fintech éducatif (plateformes de paiement en ligne)",
+            "secteur_en": "Educational fintech (online payment platforms)",
+            "secteur_zh": "教育金融科技（在线支付平台）",
+            "effet_fr": "Préply stimule la demande pour des solutions de paiement sécurisées et fractionnées, poussant les acteurs comme Stripe ou PayPal à innover dans ce segment.",
+            "effet_en": "Preply drives demand for secure and fractional payment solutions, pushing players like Stripe or PayPal to innovate in this segment.",
+            "effet_zh": "普瑞普推动了对安全分期支付解决方案的需求，促使像Stripe或PayPal等平台在该领域创新。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des compétences linguistiques (tutorat en ligne)",
+            "secteur_en": "Language skills market (online tutoring)",
+            "secteur_zh": "语言技能市场（在线家教）",
+            "effet_fr": "La valorisation de Préply pourrait attirer des capitaux vers des startups spécialisées dans l’enseignement des langues, augmentant la concurrence et les tarifs des cours.",
+            "effet_en": "Preply’s valuation may attract capital to language-focused startups, increasing competition and tutoring rates.",
+            "effet_zh": "普瑞普的估值可能吸引更多资金流向语言教育类创业公司，增加竞争并提高课程价格。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-08-24T09:47:10.018658"
+      },
       {
         "id": "monde_140981",
         "titre": "Le rôle de la dopamine dans le plaisir et la motivation",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-23T11:19:55.870215"
-      },
-      {
-        "id": "monde_607519",
-        "titre": "La Fed et l’hégémonie américaine en déclin",
-        "titre_en": "The Federal Reserve and the End of US Hegemony",
-        "titre_zh": "美联储与美国霸权的终结",
-        "titre_ru": "Федеральный резерв, Конституция и конец гегемонии США",
-        "titre_fa": "فدرال رزرو، قانون اساسی و پایان هژمونی آمریکا",
-        "titre_ar": "مصرف الاحتياطي الفيدرالي والدستور ونهاية الهيمنة الأمريكية",
-        "titre_original": "Michael Hudson and Steve Keen: The Federal Reserve, the Constitution, and the End of US Hegemony",
-        "resume": "Michael Hudson et Steve Keen analysent le rôle de la Fed dans l’affaiblissement de l’hégémonie américaine. Ils évoquent des crises financières imminentes et un déclin géopolitique. Leur discussion porte sur l’économie mondiale et les déséquilibres structurels.",
-        "resume_en": "Michael Hudson and Steve Keen analyze the Federal Reserve’s role in weakening U.S. hegemony. They warn of imminent financial crises and a geopolitical decline. Their discussion focuses on global economic imbalances and structural flaws.",
-        "resume_zh": "迈克尔·赫德森和史蒂夫·基恩分析美联储在削弱美国霸权中的作用。他们警告即将到来的金融危机和地缘政治衰落。讨论聚焦全球经济失衡和结构性缺陷。",
-        "resume_ru": "Майкл Хадсон и Стив Кин обсуждают финансовые механизмы, подрывающие экономическую мощь США. Они анализируют, как Федеральный резерв и Конституция способствуют упадку американской гегемонии. Эксперты предупреждают о надвигающихся кризисах, связанных с долговой политикой.",
-        "resume_fa": "مایکل هادسون و استیو کین درباره مکانیسم‌های مالی بحث می‌کنند که قدرت اقتصادی آمریکا را تضعیف می‌کنند. آنها بررسی می‌کنند که چگونه فدرال رزرو و قانون اساسی به زوال هژمونی آمریکا کمک می‌کنند. کارشناسان در مورد بحران‌های قریب‌الوقوع ناشی از سیاست بدهی هشدار می‌دهند.",
-        "resume_ar": "يناقش مايكل هدسون وستيف كاين الآليات المالية التي تقوض القوة الاقتصادية للولايات المتحدة. يحلل الخبراء كيف يساهم الاحتياطي الفيدرالي والدستور في تدهور الهيمنة الأمريكية. يحذر الخبراء من الأزمات القادمة المرتبطة بسياسة الديون.",
-        "analyse_detaillee": "La domination du dollar américain, soutenue par la Fed, est au cœur de l’hégémonie des États-Unis depuis 1945. Cependant, les politiques monétaires expansionnistes post-2008 ont accru la dette publique et les inégalités, fragilisant le système. Hudson et Keen soulignent que la dépendance excessive à la dette et à la création monétaire mène à des crises systémiques. À court terme, cela pourrait provoquer des krachs boursiers et des défauts souverains. À moyen terme, une perte de confiance dans le dollar accélérerait la dédollarisation, notamment en Asie et au Moyen-Orient. À long terme, cela pourrait entraîner un multipolarisme monétaire, avec l’euro, le yuan ou des cryptomonnaies jouant un rôle accru. Les acteurs comme la Chine et la Russie poussent déjà pour des alternatives au dollar. Les États-Unis devront soit réformer leur modèle économique, soit subir un déclin relatif.",
-        "analyse_en": "The dominance of the U.S. dollar, backed by the Federal Reserve, has been central to American hegemony since 1945. However, post-2008 expansionary monetary policies have increased public debt and inequality, weakening the system. Hudson and Keen argue that excessive reliance on debt and money creation leads to systemic crises. In the short term, this could trigger stock market crashes and sovereign defaults. Medium-term, a loss of confidence in the dollar would accelerate dedollarization, particularly in Asia and the Middle East. Long-term, this could lead to monetary multipolarity, with the euro, yuan, or cryptocurrencies playing a greater role. Actors like China and Russia are already pushing for alternatives to the dollar. The U.S. will either need to reform its economic model or face relative decline.",
-        "analyse_zh": "自1945年以来，美元霸权（由美联储支撑）一直是美国霸权的核心。然而，2008年后的扩张性货币政策增加了公共债务和不平等，削弱了这一体系。赫德森和基恩认为，过度依赖债务和货币创造导致系统性危机。短期内，这可能引发股市崩盘和主权债务违约。中期看，对美元的信任丧失将加速去美元化，特别是在亚洲和中东。长期而言，这可能导致货币多极化，欧元、人民币或加密货币扮演更重要角色。中国和俄罗斯等行为者已在推动美元替代方案。美国要么改革经济模式，要么面临相对衰落。",
-        "analyse_ru": "Статья затрагивает глобальные экономические тенденции, связанные с ролью Федерального резерва в формировании финансовой политики США. Причины упадка гегемонии кроются в накоплении государственного долга и зависимости от доллара как мировой валюты. Последствия могут привести к перераспределению экономической власти в мире. Перспективы включают возможное падение влияния США и рост альтернативных финансовых систем. Позиции экспертов разделяются: одни видят в этом угрозу, другие — естественный этап развития.",
-        "analyse_fa": "مقاله به روندهای اقتصادی جهانی مرتبط با نقش فدرال رزرو در شکل‌دهی سیاست مالی آمریکا می‌پردازد. دلایل زوال هژمونی در انباشت بدهی دولتی و وابستگی به دلار به عنوان ارز جهانی نهفته است. پیامدها می‌تواند منجر به بازتوزیع قدرت اقتصادی در جهان شود. چشم‌اندازها شامل سقوط احتمالی نفوذ آمریکا و رشد سیستم‌های مالی جایگزین است. مواضع کارشناسان متفاوت است: برخی این را تهدیدی می‌دانند، برخی دیگر مرحله طبیعی از توسعه.",
-        "analyse_ar": "تتناول المقالة الاتجاهات الاقتصادية العالمية المتعلقة بدور الاحتياطي الفيدرالي في تشكيل السياسة المالية الأمريكية. تكمن أسباب تدهور الهيمنة في تراكم الديون الحكومية واعتماد الدولار كعملة عالمية. قد تؤدي العواقب إلى إعادة توزيع السلطة الاقتصادية في العالم. تشمل الآفاق احتمال سقوط نفوذ الولايات المتحدة ونمو الأنظمة المالية البديلة. تختلف مواقف الخبراء: يرى البعض في ذلك تهديداً، بينما يعتبره آخرون مرحلة طبيعية من التطور.",
-        "categorie": "Économie mondiale",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-and-steve-keen-the-federal-reserve-the-constitution-and-the-end-of-us-hegemony.html",
-        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-        "date": "2026-08-22",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marché obligataire américain",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des matières premières",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché obligataire américain",
-            "secteur_en": "U.S. bond market",
-            "secteur_zh": "美国债券市场",
-            "effet_fr": "La hausse des taux d’intérêt et la méfiance envers la dette américaine pourraient provoquer une crise des obligations d’État, augmentant les coûts d’emprunt pour Washington.",
-            "effet_en": "Rising interest rates and distrust in U.S. debt could trigger a sovereign bond crisis, increasing borrowing costs for Washington.",
-            "effet_zh": "利率上升和对美国债务的不信任可能引发主权债券危机，增加华盛顿借贷成本。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des matières premières",
-            "secteur_en": "Commodities sector",
-            "secteur_zh": "大宗商品行业",
-            "effet_fr": "La dédollarisation pourrait réduire la demande en dollars pour les échanges de pétrole et de gaz, faisant chuter les prix et perturbant les économies dépendantes des exportations.",
-            "effet_en": "Dedollarization could reduce dollar demand for oil and gas trade, driving prices down and disrupting economies reliant on commodity exports.",
-            "effet_zh": "去美元化可能减少石油和天然气交易对美元的需求，压低价格并扰乱依赖大宗商品出口的经济体。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-23T10:22:41.006437"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_651003",
+        "titre": "Trump, Sanders et tensions Iran : actualités dominantes",
+        "titre_en": "Trump tariffs, Iran war tensions dominate weekend news",
+        "titre_zh": "特朗普关税、伊朗战争紧张局势主导周末新闻",
+        "titre_ru": "Новости выходных: тарифы Трампа, война с Ираном и конфликт Сандерса с Маском",
+        "titre_fa": "اخبار آخر هفته: تعرفه‌های ترامپ، جنگ با ایران و درگیری ساندرز با ماسک",
+        "titre_ar": "أخبار عطلة نهاية الأسبوع: تعريفة ترامب، حرب مع إيران، وصراع ساندرز مع ماسك",
+        "titre_original": "Trump Tariffs, Iran War and Sanders-Musk Clash: Top Weekend News",
+        "resume": "Les tarifs douaniers de Trump envers le Canada, les pertes américaines en Irak, les critiques de Sanders envers Musk, et les tensions autour de l’Iran ont marqué les actualités du week-end. Ces sujets reflètent les divisions politiques et les défis géopolitiques actuels des États-Unis. Les débats sur l’économie et la sécurité nationale dominent le paysage médiatique.",
+        "resume_en": "Trump’s tariffs on Canada, rising U.S. casualties in Iraq, Sanders’ criticism of Musk, and Iran tensions dominated weekend headlines. These topics highlight U.S. political divisions and current geopolitical challenges. Economic and national security debates dominate the media landscape.",
+        "resume_zh": "特朗普对加拿大的关税、美国在伊拉克的伤亡上升、桑德斯对马斯克的批评，以及伊朗紧张局势主导了周末的新闻头条。这些议题反映了美国政治分裂和当前的地缘政治挑战。经济和国家安全的辩论主导了媒体版面。",
+        "resume_ru": "В выходные заголовки СМИ были посвящены нескольким ключевым темам. Дональд Трамп объявил о введении новых тарифов на импорт из Канады. США столкнулись с ростом потерь среди военнослужащих. Берни Сандерс раскритиковал Илона Маска за его политические взгляды.",
+        "resume_fa": "در آخر هفته، رسانه‌ها به چندین موضوع کلیدی پرداختند. دونالد ترامپ از وضع تعرفه‌های جدید بر واردات از کانادا خبر داد. ایالات متحده با افزایش تلفات نظامی مواجه شد. برنی سندرز ایلان ماسک را به دلیل دیدگاه‌های سیاسی‌اش مورد انتقاد قرار داد.",
+        "resume_ar": "في عطلة نهاية الأسبوع، ركزت وسائل الإعلام على عدة مواضيع رئيسية. أعلن دونالد ترامب عن فرض تعريفة جمركية جديدة على الواردات من كندا. تواجه الولايات المتحدة ارتفاعاً في خسائرها العسكرية. انتقد بيرني ساندرز إيلون ماسك بسبب آرائه السياسية.",
+        "analyse_detaillee": "Les tarifs douaniers de Trump visent à protéger l’industrie américaine, mais ils risquent d’aggraver les tensions commerciales avec le Canada et le Mexique, partenaires clés de l’USMCA. Les pertes en Irak illustrent les limites de la stratégie américaine en Syrie et en Irak, malgré les investissements militaires. Les critiques de Sanders envers Musk soulignent les fractures au sein du parti démocrate sur la régulation technologique. À court terme, ces sujets polarisent l’opinion publique et affaiblissent la cohésion gouvernementale. À moyen terme, ils pourraient influencer les élections de 2024 et la politique étrangère. Long terme, les États-Unis devront réévaluer leur engagement en Moyen-Orient et leur modèle économique face à la concurrence chinoise.",
+        "analyse_en": "Trump’s tariffs aim to protect the U.S. industry but risk escalating trade tensions with Canada and Mexico, key USMCA partners. Casualties in Iraq highlight the limits of U.S. strategy in Syria and Iraq despite military investments. Sanders’ criticism of Musk underscores Democratic fractures on tech regulation. Short-term, these issues polarize public opinion and weaken government cohesion. Medium-term, they may influence the 2024 elections and foreign policy. Long-term, the U.S. will need to reassess its Middle East engagement and economic model against Chinese competition.",
+        "analyse_zh": "特朗普的关税旨在保护美国产业，但可能加剧与加拿大和墨西哥（USMCA关键伙伴）的贸易紧张局势。伊拉克的伤亡展示了美国在叙利亚和伊拉克的军事战略局限，尽管投入了大量军事资源。桑德斯对马斯克的批评凸显民主党在科技监管上的分歧。短期内，这些议题会分化公众意见并削弱政府凝聚力。中期内，它们可能影响2024年的选举和外交政策。长期来看，美国需要重新评估在中东的承诺和面对中国竞争的经济模式。",
+        "analyse_ru": "Контекст новостей связан с внутренней и внешней политикой США на фоне предвыборной кампании. Причины внимания к тарифам обусловлены экономическими последствиями для США и Канады. Последствия могут включать торговые войны и изменения в экономической политике. Перспективы зависят от решений президента и реакции международных партнёров. Позиция Сандерса против Маска отражает разногласия в демократической партии по вопросам технологий и регулирования.",
+        "analyse_fa": "زمینه این اخبار به سیاست داخلی و خارجی ایالات متحده در آستانه انتخابات مربوط است. دلایل توجه به تعرفه‌ها به پیامدهای اقتصادی برای آمریکا و کانادا مربوط می‌شود. پیامدها می‌تواند شامل جنگ‌های تجاری و تغییرات در سیاست اقتصادی باشد. چشم‌اندازها به تصمیمات رئیس‌جمهور و واکنش شرکای بین‌المللی بستگی دارد. موضع ساندرز در برابر ماسک اختلافات در حزب دموکرات در مورد فناوری و مقررات را نشان می‌دهد.",
+        "analyse_ar": "يرتبط السياق بالسياسة الداخلية والخارجية للولايات المتحدة في ظل الحملة الانتخابية. أسباب الاهتمام بالتعريفة ترتبط بالآثار الاقتصادية على أمريكا وكندا. قد تشمل العواقب حروب تجارية وتغييرات في السياسة الاقتصادية. ترتبط الآفاق بقرارات الرئيس وردود الفعل الدولية. يعكس موقف ساندرز ضد ماسك الخلافات داخل الحزب الديمقراطي حول التكنولوجيا والتنظيم.",
+        "categorie": "Géopolitique & Économie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9edf9d0db2665000",
+        "image": "https://biztoc.com/cdn/9edf9d0db2665000_s.webp",
+        "date": "2026-08-23",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des matières premières (acier, aluminium)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Technologie (régulation des GAFAM et IA)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des matières premières (acier, aluminium)",
+            "secteur_en": "Commodities market (steel, aluminum)",
+            "secteur_zh": "大宗商品市场（钢铁、铝）",
+            "effet_fr": "Les tarifs de Trump pourraient faire monter les prix des matières premières pour les partenaires commerciaux, tout en soutenant temporairement les producteurs américains, créant des distorsions commerciales.",
+            "effet_en": "Trump’s tariffs may drive up commodity prices for trading partners while temporarily supporting U.S. producers, creating trade distortions.",
+            "effet_zh": "特朗普的关税可能推高商业伙伴的大宗商品价格，同时暂时支持美国生产商，造成贸易扭曲。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Technologie (régulation des GAFAM et IA)",
+            "secteur_en": "Tech sector (regulation of GAFAM and AI)",
+            "secteur_zh": "科技行业（对GAFAM和人工智能的监管）",
+            "effet_fr": "Les critiques de Sanders pourraient accélérer les débats sur la régulation des géants technologiques et des algorithmes d’IA, influençant les investissements et l’innovation dans le secteur.",
+            "effet_en": "Sanders’ criticism may accelerate debates on regulating tech giants and AI algorithms, impacting sector investments and innovation.",
+            "effet_zh": "桑德斯的批评可能加速对科技巨头和人工智能算法的监管辩论，影响该行业的投资和创新。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-24T09:47:10.018686"
+      },
       {
         "id": "usa_482214",
         "titre": "Elizabeth Warren critique les politiques pro-milliardaires",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-23T11:19:55.870170"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_172792",
-        "titre": "Fin du mythe Russiagate chez les démocrates",
-        "titre_en": "RIP to the Russiagate Liberals",
-        "titre_zh": "民主党人对“通俄门”的告别",
-        "titre_ru": "Смерть либералов из дела «Русская дверь»",
-        "titre_fa": "مرگ لیبرال‌های پرونده «روس‌گیت»",
-        "titre_ar": "وداع الليبراليين في قضية «روسيا غيت»",
-        "titre_original": "RIP to the Russiagate Liberals",
-        "resume": "Les électeurs démocrates rejettent massivement l’idée que la Russie soit responsable des problèmes américains. Les échecs politiques d’Alex Vindman et George Conway symbolisent ce rejet. La théorie du complot Russiagate perd son influence au sein du parti.",
-        "resume_en": "Democratic voters are strongly rejecting the idea that Russia is to blame for America’s problems. The political downfalls of Alex Vindman and George Conway highlight this shift. The Russiagate conspiracy theory is losing its grip within the party.",
-        "resume_zh": "民主党选民强烈拒绝“俄罗斯影响美国问题”的说法。亚历克斯·文德曼和乔治·康威的政治失败凸显了这一转变。阴谋论“通俄门”在党内失去影响力。",
-        "resume_ru": "Поражения Алекса Виндмана и Джорджа Конвея стали символом отторжения демократическими избирателями идеи о вине России в проблемах Америки. Электорат всё чаще склоняется к внутренним причинам кризиса. Это ставит под вопрос будущее «Русской двери» как политической стратегии.",
-        "resume_fa": "شکست الکس وندمن و جرج کانوی نمایانگر رد ایده تقصیر روسیه در مشکلات آمریکا توسط رای‌دهندگان دموکرات است. مردم به دلایل داخلی بحران‌ها توجه بیشتری دارند. این امر آینده استراتژی «روس‌گیت» را زیر سؤال می‌برد.",
-        "resume_ar": "هزائم أليكس فيندمان وجورج كونواي تمثل رفض الناخبين الديمقراطيين لفكرة لوم روسيا في مشاكل أمريكا. يتجه الناخبون نحو الأسباب الداخلية للأزمة بشكل متزايد. هذا يضع مستقبل «روسياغيت» كاستراتيجية سياسية موضع تساؤل.",
-        "analyse_detaillee": "Le Russiagate, né en 2016 après l’élection de Donald Trump, était une théorie selon laquelle la Russie aurait manipulé l’élection américaine via des cyberattaques et des interférences. Cette théorie a dominé le discours politique démocrate pendant des années, alimentant une polarisation accrue avec les républicains. Les échecs de figures comme Vindman, ancien conseiller à la Maison Blanche, et Conway, avocat conservateur, illustrent l’essoufflement de cette narrative. Les électeurs démocrates, lassés par les divisions internes, privilégient désormais des enjeux économiques et sociaux. À court terme, cette évolution pourrait affaiblir la crédibilité des enquêtes sur les interférences étrangères. À moyen terme, elle risque de réduire l’influence des lobbies pro-OTAN au sein du parti. À long terme, cela pourrait favoriser une réorientation de la politique étrangère américaine vers l’Asie plutôt que l’Europe. Les acteurs principaux, comme les médias traditionnels et les think tanks, doivent désormais adapter leur discours pour rester pertinents.",
-        "analyse_en": "Russiagate emerged in 2016 after Donald Trump’s election, alleging Russian manipulation of the U.S. election through cyberattacks and interference. This theory dominated Democratic discourse for years, deepening polarization with Republicans. The failures of figures like Alex Vindman, a former White House advisor, and George Conway, a conservative lawyer, highlight the narrative’s decline. Democratic voters, tired of internal divisions, now prioritize economic and social issues. In the short term, this shift may weaken the credibility of foreign interference investigations. Medium-term, it could reduce the influence of pro-NATO lobbies within the party. Long-term, it may encourage a reorientation of U.S. foreign policy toward Asia rather than Europe. Key actors, including traditional media and think tanks, must now adapt their narratives to stay relevant.",
-        "analyse_zh": "“通俄门”起源于2016年特朗普当选后，指控俄罗斯通过网络攻击和干预操纵美国大选。这一理论多年来主导民主党话语，加剧与共和党的对立。亚历克斯·文德曼（前白宫顾问）和乔治·康威（保守派律师）的失败凸显这一叙事的衰落。民主党选民厌倦内部分裂，如今更关注经济和社会议题。短期内，这一转变可能削弱对外国干预调查的可信度。中期看，可能减弱党内亲北约游说团体的影响力。长期而言，可能推动美国外交政策重心从欧洲转向亚洲。主要行为者如传统媒体和智库需调整叙事以保持相关性。",
-        "analyse_ru": "Контекст статьи связан с политическими последствиями расследования «Русской двери», которое длительное время доминировало в американской повестке. Причины поражений Виндмана и Конвея кроются в изменении общественного мнения, разочарованного внутренними проблемами США. Последствия могут привести к пересмотру стратегий Демократической партии в отношении России. Перспективы показывают усиление изоляционистских настроений среди избирателей. Позиции сторон разделились: одни обвиняют Россию, другие — внутреннюю политику США.",
-        "analyse_fa": "زمینه این مقاله به پیامدهای سیاسی تحقیقات «روس‌گیت» مربوط می‌شود که مدت‌ها بر دستور کار آمریکا تسلط داشت. دلایل شکست وندمن و کانوی در تغییر افکار عمومی نهفته است که از مشکلات داخلی آمریکا ناامید شده‌اند. پیامدها می‌تواند منجر به بازنگری استراتژی‌های حزب دموکرات در قبال روسیه شود. چشم‌اندازها نشان‌دهنده افزایش گرایش‌های انزواگرایانه در میان رای‌دهندگان است. مواضع بازیگران تقسیم شده است: برخی روسیه را مقصر می‌دانند، برخی دیگر سیاست داخلی آمریکا را.",
-        "analyse_ar": "سياق المقال مرتبط بالنتائج السياسية لتحقيقات «روسياغيت»، التي هيمنت طويلاً على الأجندة الأمريكية. أسباب هزائم فيندمان وكونواي تكمن في تغير الرأي العام، الذي خاب أمله من المشاكل الداخلية للولايات المتحدة. العواقب قد تؤدي إلى مراجعة استراتيجيات الحزب الديمقراطي تجاه روسيا. الآفاق تشير إلى تصاعد المشاعر العازلة بين الناخبين. مواقف الأطراف منقسمة: البعض يلوم روسيا، والبعض الآخر السياسة الداخلية الأمريكية.",
-        "categorie": "Politique intérieure",
-        "source": "The Intercept",
-        "url": "https://theintercept.com/2026/08/22/russiagate-resistance-liberals-alex-vindman-angie-nixon/",
-        "image": "https://theintercept.com/wp-content/uploads/2026/08/GettyImages-2291073795-e1787329608236.jpg?fit=1024%2C512&w=1200&h=800",
-        "date": "2026-08-22",
-        "pays": "usa",
+        "id": "chine_958031",
+        "titre": "Robots en compétition aux Jeux Humanoïdes Mondiaux",
+        "titre_en": "Robots compete in boxing, football at World Humanoid Games",
+        "titre_zh": "机器人参加世界人形机器人大赛",
+        "titre_ru": "Соревнования роботов в боксе, футболе и беге в Пекине",
+        "titre_fa": "مسابقات ربات‌ها در بوکس، فوتبال و دو و میدانی در پکن",
+        "titre_ar": "مسابقات الروبوتات في الملاكمة وكرة القدم والجري في بكين",
+        "titre_original": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+        "resume": "La deuxième édition des Jeux Humanoïdes Mondiaux s’est ouverte à Pékin le 26 août, avec des compétitions en boxe, football et sprint pour robots humanoïdes. Cet événement, organisé par l’Université Tsinghua, met en avant les avancées technologiques chinoises en robotique. Les robots participants, développés par des universités et entreprises, rivalisent dans des épreuves simulées de sports humains.",
+        "resume_en": "The second edition of the World Humanoid Games opened in Beijing on August 26, featuring competitions in robot boxing, football, and sprinting. Organized by Tsinghua University, the event showcases China’s technological advancements in robotics. Participating robots, developed by universities and companies, compete in simulated human sports.",
+        "resume_zh": "世界人形机器人大赛第二届于8月26日在北京开幕，包含机器人拳击、足球和短跑比赛。由清华大学主办的赛事展示了中国机器人技术的进步。参赛机器人由大学和企业开发，在模拟人类运动的比赛中竞技。",
+        "resume_ru": "В Пекине стартовали вторые Всемирные игры человекоподобных роботов. Мероприятие продлится пять дней. Роботы соревнуются в боксе, футболе и спринте. Организаторы стремятся продемонстрировать достижения в робототехнике.",
+        "resume_fa": "در پکن، دومین دوره بازی‌های جهانی ربات‌های انسان‌نما آغاز شد. این رویداد پنج روز به طول می‌انجامد. ربات‌ها در بوکس، فوتبال و دو و میدانی با یکدیگر رقابت می‌کنند. برگزارکنندگان به دنبال نمایش پیشرفت‌ها در زمینه رباتیک هستند.",
+        "resume_ar": "انطلقت في بكين فعاليات الدورة الثانية للألعاب العالمية للروبوتات الشبيهة بالبشر. تستمر الفعالية خمسة أيام. تتنافس الروبوتات في الملاكمة وكرة القدم والجري. يسعى المنظمون إلى عرض الإنجازات في مجال الروبوتات.",
+        "analyse_detaillee": "La Chine investit massivement dans la robotique depuis les années 2010, avec pour objectif de dominer les technologies de pointe d’ici 2035. Ces Jeux Humanoïdes illustrent sa stratégie de leadership en IA et en automatisation, face à des concurrents comme les États-Unis ou le Japon. Les causes profondes incluent la pénurie de main-d’œuvre qualifiée et la volonté de réduire la dépendance aux importations technologiques. À court terme, cet événement renforce l’image de Pékin comme innovateur, tout en accélérant les collaborations public-privé. À moyen terme, cela pourrait stimuler l’innovation dans les industries manufacturières et logistiques. Long terme, la Chine vise à exporter ces technologies, tout en préparant une main-d’œuvre adaptée à l’automatisation.",
+        "analyse_en": "China has heavily invested in robotics since the 2010s, aiming to dominate advanced technologies by 2035. The Humanoid Games illustrate its strategy to lead in AI and automation, competing with the U.S. or Japan. Deep-rooted causes include a shortage of skilled labor and the desire to reduce technological dependence. Short-term, the event boosts Beijing’s image as an innovator while accelerating public-private collaborations. Medium-term, it may drive innovation in manufacturing and logistics industries. Long-term, China aims to export these technologies while preparing a workforce adapted to automation.",
+        "analyse_zh": "中国自2010年代以来大力投资机器人技术，目标是到2035年主导高端技术。人形机器人大赛展示了其在人工智能和自动化领域的领导战略，与美国和日本竞争。深层原因包括缺乏高技能劳动力和减少技术进口依赖的需求。短期内，此活动增强了北京作为创新者的形象，并加速公私合作。中期内，可能推动制造业和物流行业的创新。长期来看，中国旨在出口这些技术，同时培养适应自动化的劳动力。",
+        "analyse_ru": "Контекст соревнований связан с развитием технологий и популяризацией робототехники в Китае. Причины проведения игр включают демонстрацию инноваций и привлечение молодёжи к техническим наукам. Последствия могут включать рост интереса к STEM-образованию и инвестиции в отрасль. Перспективы развития зависят от технологического прогресса и государственной поддержки. Позиция Китая как лидера в области технологий подчёркивает важность таких инициатив.",
+        "analyse_fa": "زمینه این مسابقات به توسعه فناوری‌ها و ترویج رباتیک در چین مربوط است. دلایل برگزاری بازی‌ها شامل نمایش نوآوری‌ها و جذب جوانان به علوم فنی است. پیامدها می‌تواند شامل افزایش علاقه به آموزش STEM و سرمایه‌گذاری در این صنعت باشد. چشم‌اندازهای توسعه به پیشرفت‌های فناوری و حمایت دولتی بستگی دارد. موضع چین به‌عنوان رهبر فناوری بر اهمیت چنین ابتکاراتی تأکید می‌کند.",
+        "analyse_ar": "يرتبط السياق بتطور التكنولوجيا والترويج للروبوتات في الصين. تشمل أسباب إقامة الألعاب عرض الابتكارات وجذب الشباب إلى العلوم التقنية. قد تشمل العواقب زيادة الاهتمام بالتعليم في العلوم والتكنولوجيا والاستثمار في القطاع. ترتبط الآفاق بالتقدم التكنولوجي والدعم الحكومي. يؤكد موقف الصين بكونها رائدة في التكنولوجيا على أهمية مثل هذه المبادرات.",
+        "categorie": "Innovation Technologique",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg",
+        "date": "2026-08-23",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Secteur des médias",
-            "hausse": false
+            "label": "▲ Automatisation industrielle (robots collaboratifs)",
+            "hausse": true
           },
           {
-            "label": "▼ Secteur des technologies",
-            "hausse": false
+            "label": "▲ Financement de la R&D en IA (subventions gouvernementales)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des médias",
-            "secteur_en": "Media sector",
-            "secteur_zh": "媒体行业",
-            "effet_fr": "La perte de crédibilité du Russiagate affaiblit les médias traditionnels pro-démocrates, réduisant leur audience et leurs revenus publicitaires.",
-            "effet_en": "The decline of Russiagate weakens pro-Democratic traditional media, reducing their audience and advertising revenue.",
-            "effet_zh": "“通俄门”影响力下降削弱亲民主党传统媒体，减少受众和广告收入。",
-            "hausse": false
+            "secteur_fr": "Automatisation industrielle (robots collaboratifs)",
+            "secteur_en": "Industrial automation (collaborative robots)",
+            "secteur_zh": "工业自动化（协作机器人）",
+            "effet_fr": "Les performances des robots humanoïdes pourraient accélérer l’adoption de robots collaboratifs dans les usines chinoises, réduisant les coûts de main-d’œuvre et augmentant la productivité.",
+            "effet_en": "Humanoid robot performances may accelerate adoption of collaborative robots in Chinese factories, cutting labor costs and boosting productivity.",
+            "effet_zh": "人形机器人的表现可能加速中国工厂对协作机器人的采用，降低劳动力成本并提高生产力。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Secteur des technologies",
-            "secteur_en": "Technology sector",
-            "secteur_zh": "科技行业",
-            "effet_fr": "Les géants du numérique comme Facebook et Twitter pourraient voir leur rôle dans la modération des contenus politiques contesté, ouvrant la voie à de nouvelles régulations.",
-            "effet_en": "Tech giants like Facebook and Twitter may face challenges to their role in moderating political content, paving the way for new regulations.",
-            "effet_zh": "Facebook和Twitter等科技巨头在政治内容审核方面的角色可能受到质疑，推动新监管出台。",
-            "hausse": false
+            "secteur_fr": "Financement de la R&D en IA (subventions gouvernementales)",
+            "secteur_en": "AI R&D funding (government grants)",
+            "secteur_zh": "人工智能研发资金（政府补贴）",
+            "effet_fr": "L’événement pourrait inciter le gouvernement chinois à augmenter les subventions pour la robotique et l’IA, renforçant l’écosystème d’innovation local.",
+            "effet_en": "The event may prompt China’s government to increase grants for robotics and AI, strengthening the local innovation ecosystem.",
+            "effet_zh": "此活动可能促使中国政府增加对机器人和人工智能的补贴，增强本地创新生态系统。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-23T10:22:41.006409"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-24T09:47:10.018668"
+      },
       {
         "id": "chine_400024",
         "titre": "Visite de Rabi Lamichhane au Népal reportée",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-23T08:28:17.400586"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_895564",
-        "titre": "Jeux mondiaux de robots humanoïdes en Chine",
-        "titre_en": "China hosts global humanoid robot games",
-        "titre_zh": "中国举办全球仿人机器人大赛",
-        "titre_ru": "Китай превращает соревнования роботов в стратегическое шоу",
-        "titre_fa": "چین مسابقات ربات‌ها را به نمایشی استراتژیک تبدیل کرد",
-        "titre_ar": "تحول مسابقات الروبوتات في الصين إلى معرض استراتيجي",
-        "titre_original": "China’s robot games evolve from science fair to strategic showcase",
-        "resume": "La Chine a lancé ses Jeux mondiaux de robots humanoïdes à Pékin. L'événement s'étend sur cinq jours et met en avant des innovations technologiques. Wall Street a connu sa pire semaine en un mois en raison de ventes massives d'obligations et de la hausse des prix du pétrole.",
-        "resume_en": "China launched its five-day World Humanoid Robot Games in Beijing. The event highlights technological innovations. Wall Street posted its worst week in over a month amid bond sell-offs and rising oil prices.",
-        "resume_zh": "中国在北京启动为期五天的全球仿人机器人大赛。该活动展示技术创新。华尔街因债券抛售和油价上涨录得一个多月来最差一周表现。",
-        "resume_ru": "Китай открыл пятидневные Всемирные игры человекоподобных роботов в Пекине. Соревнования из научной выставки превратились в стратегическое мероприятие. На фоне этого Wall Street пережила худшую неделю за месяц из-за распродажи облигаций и роста цен на нефть.",
-        "resume_fa": "چین پنج روزه بازی‌های جهانی ربات‌های انسان‌نما را در پکن افتتاح کرد. این مسابقات از یک نمایش علمی به یک رویداد استراتژیک تبدیل شده‌اند. در همین حال، وال‌استریت بدترین هفته خود را در یک ماه اخیر به دلیل فروش اوراق قرضه و افزایش قیمت نفت تجربه کرد.",
-        "resume_ar": "افتتحت الصين فعاليات الألعاب العالمية للروبوتات شبيهة البشر في بكين على مدار خمسة أيام. تحولت هذه المسابقات من معرض علمي إلى حدث استراتيجي. في الوقت نفسه، عانت وول ستريت من أسوأ أسبوع لها في شهر بسبب بيع السندات وارتفاع أسعار النفط.",
-        "analyse_detaillee": "La Chine investit massivement dans les technologies robotiques, notamment pour renforcer son leadership technologique face aux États-Unis et à l'Europe. Ces jeux illustrent sa stratégie de développement de l'intelligence artificielle et de l'automatisation industrielle. À court terme, l'événement pourrait stimuler les partenariats entre entreprises chinoises et internationales. À moyen terme, cela pourrait accélérer l'adoption de robots dans des secteurs comme la santé ou la logistique. À long terme, la Chine pourrait dominer le marché mondial des robots humanoïdes, influençant les normes technologiques. Les acteurs locaux, comme UBTECH ou DJI, y voient une opportunité de visibilité. Les investisseurs étrangers pourraient aussi être attirés par ce secteur en croissance. Cependant, des questions éthiques et sécuritaires persistent autour de l'IA avancée.",
-        "analyse_en": "China is heavily investing in robotic technologies to strengthen its technological leadership against the US and Europe. These games showcase its strategy for developing artificial intelligence and industrial automation. In the short term, the event could foster partnerships between Chinese and international companies. In the medium term, it could accelerate the adoption of robots in sectors like healthcare or logistics. Long-term, China could dominate the global humanoid robot market, influencing technological standards. Local players like UBTECH or DJI see this as an opportunity for visibility. Foreign investors may also be drawn to this growing sector. However, ethical and security concerns persist around advanced AI.",
-        "analyse_zh": "中国正大力投资机器人技术，以在与美国和欧洲的技术领导权竞争中占据优势。此次大赛展示了其发展人工智能和工业自动化的战略。短期内，该活动可能促进中外企业间的合作。中期来看，可能加速机器人在医疗或物流等领域的应用。长期而言，中国可能主导全球仿人机器人市场，影响技术标准。本土企业如优必选或大疆视此为提升知名度的机会。外国投资者也可能被这一增长领域吸引。然而，围绕先进人工智能的伦理和安全问题仍然存在。",
-        "analyse_ru": "Китай активно развивает технологии робототехники, позиционируя себя как лидера в этой области. Всемирные игры человекоподобных роботов стали не только соревнованием, но и демонстрацией технологического прогресса страны. Рост цен на нефть и распродажа облигаций на Wall Street отражают глобальную экономическую нестабильность, что может повлиять на инвестиции в инновации. В будущем Китай намерен усилить позиции в этой сфере, что создаст конкуренцию США и Европе. Это также может привести к новым торговым войнам и технологическим санкциям.",
-        "analyse_fa": "چین به طور فعال در حال توسعه فناوری رباتیک است و خود را به عنوان رهبر این حوزه معرفی می‌کند. بازی‌های جهانی ربات‌های انسان‌نما نه تنها یک رقابت، بلکه نمایشی از پیشرفت‌های تکنولوژیکی این کشور شده‌اند. افزایش قیمت نفت و فروش اوراق قرضه در وال‌استریت نشان‌دهنده بی‌ثباتی اقتصادی جهانی است که می‌تواند بر سرمایه‌گذاری در نوآوری تأثیر بگذارد. در آینده، چین قصد دارد موقعیت خود را در این حوزه تقویت کند که رقابت با آمریکا و اروپا را تشدید خواهد کرد. این موضوع همچنین می‌تواند منجر به جنگ‌های تجاری جدید و تحریم‌های فناوری شود.",
-        "analyse_ar": "تسعى الصين بنشاط إلى تطوير تكنولوجيا الروبوتات، مما يضعها في موقع الريادة في هذا المجال. لم تعد الألعاب العالمية للروبوتات شبيهة البشر مجرد منافسة، بل أصبحت عرضاً للتقدم التكنولوجي للبلاد. يعكس ارتفاع أسعار النفط وبيعه السندات في وول ستريت عدم الاستقرار الاقتصادي العالمي، مما قد يؤثر على الاستثمارات في الابتكار. في المستقبل، تنوي الصين تعزيز مكانتها في هذا المجال، مما سيخلق منافسة مع الولايات المتحدة وأوروبا. قد يؤدي ذلك أيضاً إلى حروب تجارية جديدة وعقوبات تكنولوجية.",
-        "categorie": "Technologie",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6044f279833f7f42",
-        "image": "https://biztoc.com/cdn/6044f279833f7f42_s.webp",
-        "date": "2026-08-22",
-        "pays": "chine",
+        "id": "russie_736839",
+        "titre": "Zelensky rejette élections en guerre",
+        "titre_en": "Zelensky rejects wartime elections",
+        "titre_zh": "泽连斯基拒绝战争期间选举",
+        "titre_ru": "Зеленский отвергает выборы на войне, называя их угрозой Украине",
+        "titre_fa": "زلنسکی انتخابات جنگی را رد کرد و گفت کشور را تقسیم می‌کند",
+        "titre_ar": "زيلينسكي يرفض الانتخابات في زمن الحرب ويقول إنها ستقسم أوكرانيا",
+        "titre_original": "Zelensky rejects wartime elections, says would ‘split’ Ukraine",
+        "resume": "Le président ukrainien Volodymyr Zelensky a déclaré, le 23 août, que des élections pendant l’invasion russe seraient trop risquées et diviseraient le pays. Cette position intervient après des appels de son ancien ministre de la Défense, Oleksiy Reznikov, pour organiser un scrutin. Zelensky souligne les défis logistiques et sécuritaires dans les zones de conflit.",
+        "resume_en": "Ukrainian President Volodymyr Zelensky stated on August 23 that holding elections during Russia’s invasion would be too dangerous and could split Ukraine. This comes after calls from his former defense minister, Oleksiy Reznikov, to organize a vote. Zelensky highlights logistical and security challenges in war-torn areas.",
+        "resume_zh": "乌克兰总统泽连斯基在8月23日表示，在俄罗斯入侵期间举行选举过于危险，可能分裂国家。此举在其前国防部长雷兹尼科夫呼吁举行选举后出现。泽连斯基强调战区的后勤和安全挑战。",
+        "resume_ru": "Президент Украины Владимир Зеленский заявил, что проведение выборов во время войны с Россией слишком опасно. Он подчеркнул, что это может привести к расколу страны. Заявление сделано после призывов бывшего министра обороны к досрочным выборам.",
+        "resume_fa": "رئیس‌جمهور اوکراین ولودیمیر زلنسکی گفت برگزاری انتخابات در زمان جنگ با روسیه بسیار خطرناک است. او تأکید کرد که این کار می‌تواند کشور را تقسیم کند. این اظهارنظر پس از درخواست وزیر دفاع سابق برای انتخابات زودهنگام مطرح شد.",
+        "resume_ar": "أعلن الرئيس الأوكراني فولوديمير زيلينسكي أن إجراء انتخابات أثناء الحرب مع روسيا أمر خطير للغاية. وأكد أن ذلك قد يؤدي إلى انقسام البلاد. جاء التصريح بعد دعوات وزير الدفاع السابق لإجراء انتخابات مبكرة.",
+        "analyse_detaillee": "La guerre en Ukraine, déclenchée en février 2022, a profondément perturbé la stabilité politique du pays, rendant toute élection nationale complexe. Zelensky évite ainsi un risque de fragmentation entre zones occupées et libérées, tout en protégeant l’unité nationale face à l’agression russe. Les causes profondes incluent la méfiance envers les institutions ukrainiennes et la priorité absolue accordée à la survie nationale. À court terme, cette décision renforce la légitimité du gouvernement actuel, mais affaiblit les mécanismes démocratiques. À moyen terme, cela pourrait retarder la reconstruction politique et économique. Long terme, cela interroge la capacité d’Ukraine à restaurer un État de droit après la guerre. Moscou y voit une opportunité de légitimer son occupation, tandis que Kiev mise sur la résilience populaire.",
+        "analyse_en": "The war in Ukraine, triggered in February 2022, has severely disrupted the country’s political stability, making national elections highly complex. Zelensky avoids a risk of fragmentation between occupied and liberated zones, while protecting national unity against Russian aggression. Deep-rooted causes include distrust in Ukrainian institutions and the absolute priority given to national survival. Short-term, this decision strengthens the current government’s legitimacy but weakens democratic mechanisms. Medium-term, it may delay political and economic reconstruction. Long-term, it questions Ukraine’s ability to restore a rule-of-law state post-war. Moscow sees this as an opportunity to legitimize its occupation, while Kiev relies on popular resilience.",
+        "analyse_zh": "2022年2月爆发的乌克兰战争严重破坏了该国政治稳定，使全国选举变得复杂。泽连斯基避免了占领区与解放区分裂的风险，同时保护国家团结应对俄罗斯侵略。深层原因包括对乌克兰机构的不信任以及国家生存的绝对优先权。短期内，这一决定增强了现政府的合法性，但削弱了民主机制。中期内，可能推迟政治和经济重建。长期来看，这质疑了战争后乌克兰恢复法治国家的能力。莫斯科视此为合法化占领的机会，而基辅则依赖民众的韧性。",
+        "analyse_ru": "Контекст ситуации связан с продолжающейся войной между Украиной и Россией, начавшейся в 2022 году. Причины отказа от выборов обусловлены угрозой безопасности и нестабильностью в стране. Последствия могут включать обострение политической напряжённости и международные последствия для поддержки Украины. Перспективы зависят от развития боевых действий и позиции международных партнёров. Позиция Зеленского поддерживается большинством украинских властей, но вызывает критику со стороны оппозиции.",
+        "analyse_fa": "زمینه این وضعیت به جنگ مداوم بین اوکراین و روسیه از سال 2022 برمی‌گردد. دلایل رد انتخابات به تهدیدات امنیتی و ناپایداری داخلی مربوط است. پیامدها می‌تواند شامل تشدید تنش‌های سیاسی و پیامدهای بین‌المللی برای حمایت از اوکراین باشد. چشم‌اندازها به روند جنگ و موضع شرکای بین‌المللی بستگی دارد. موضع زلنسکی توسط اکثر مقامات اوکراینی پشتیبانی می‌شود، اما از سوی اپوزیسیون مورد انتقاد قرار می‌گیرد.",
+        "analyse_ar": "يرتبط السياق بهذه الحرب الدائرة بين أوكرانيا وروسيا منذ عام 2022. أسباب رفض الانتخابات تتعلق بتهديدات الأمن وغياب الاستقرار الداخلي. قد تشمل العواقب تصاعد التوترات السياسية ونتائج دولية لدعم أوكرانيا. الآفاق تعتمد على مسار الحرب وموقف الشركاء الدوليين. موقف زيلينسكي مدعوم من معظم السلطات الأوكرانية لكنه遭 الانتقاد من المعارضة.",
+        "categorie": "Géopolitique",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/zelensky-rejects-wartime-elections-says-would-split-ukraine-225932",
+        "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6a8ac0b47e0533a4eee0a191.jpg",
+        "date": "2026-08-23",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Technologie et innovation",
+            "label": "▲ Marché des obligations souveraines ukrainiennes",
             "hausse": true
           },
           {
-            "label": "▼ Énergie",
-            "hausse": false
+            "label": "▲ Assurance politique et risques géopolitiques",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologie et innovation",
-            "secteur_en": "Technology and innovation",
-            "secteur_zh": "科技与创新",
-            "effet_fr": "Les entreprises chinoises de robotique pourraient attirer davantage d'investissements étrangers grâce à cet événement.",
-            "effet_en": "Chinese robotics companies could attract more foreign investment due to this event.",
-            "effet_zh": "此次活动可能帮助中国机器人企业吸引更多外国投资。",
+            "secteur_fr": "Marché des obligations souveraines ukrainiennes",
+            "secteur_en": "Ukrainian sovereign bond market",
+            "secteur_zh": "乌克兰主权债券市场",
+            "effet_fr": "L’annonce de Zelensky pourrait renforcer la confiance des investisseurs en la stabilité relative du gouvernement, limitant les risques de défaut partiel.",
+            "effet_en": "Zelensky’s statement may boost investor confidence in the government’s relative stability, reducing risks of partial default.",
+            "effet_zh": "泽连斯基的声明可能增强投资者对政府相对稳定性的信心，减少部分违约的风险。",
             "hausse": true
           },
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "La hausse des prix du pétrole, combinée aux tensions commerciales, pourrait peser sur les coûts de production industrielle en Chine.",
-            "effet_en": "Rising oil prices, combined with trade tensions, could weigh on China's industrial production costs.",
-            "effet_zh": "油价上涨与贸易紧张局势叠加，可能增加中国工业生产成本。",
-            "hausse": false
+            "secteur_fr": "Assurance politique et risques géopolitiques",
+            "secteur_en": "Political risk insurance",
+            "secteur_zh": "政治风险保险",
+            "effet_fr": "Les assureurs pourraient revoir à la hausse leurs primes pour couvrir les risques liés aux élections différées et à l’instabilité prolongée.",
+            "effet_en": "Insurers may increase premiums to cover risks associated with delayed elections and prolonged instability.",
+            "effet_zh": "保险公司可能会提高保费以覆盖延迟选举和持续不稳定带来的风险。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-23T06:38:45.633768"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-24T09:47:10.018634"
+      },
       {
         "id": "russie_31675",
         "titre": "Zelensky rejette des élections en temps de guerre",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-23T09:26:57.039342"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_469098",
-        "titre": "Missiles russes frappent Kiev, bilan lourd",
-        "titre_en": "Russian missiles strike Kyiv, heavy toll",
-        "titre_zh": "俄罗斯导弹袭击基辅，伤亡惨重",
-        "titre_ru": "Взрывы в Киеве: Россия наносит ракетные удары по столице Украины",
-        "titre_fa": "انفجارها در کی‌یف: روسیه حملات موشکی به پایتخت اوکراین را انجام داد",
-        "titre_ar": "انفجارات في كييف: روسيا تشن ضربات صاروخية على عاصمة أوكرانيا",
-        "titre_original": "Explosions rock Kyiv as Russia launches ballistic missiles at Ukraine's capital - The Kyiv Independent",
-        "resume": "La capitale ukrainienne, Kiev, a été frappée par des missiles russes, causant des explosions et des victimes civiles. La situation humanitaire se dégrade rapidement. La communauté internationale condamne ces attaques et craint une escalade du conflit.",
-        "resume_en": "Ukrainian capital Kyiv was struck by Russian missiles, causing explosions and civilian casualties. The humanitarian situation is rapidly deteriorating. The international community condemns the attacks and fears escalation of the conflict.",
-        "resume_zh": "乌克兰首都基辅遭俄罗斯导弹袭击，引发爆炸和平民伤亡。人道主义局势迅速恶化。国际社会谴责此次袭击并担心冲突升级。",
-        "resume_ru": "В Киеве прогремели мощные взрывы после ракетного обстрела со стороны России. Количество пострадавших растёт, а ситуация в городе становится всё более напряжённой. Власти Украины обвиняют Москву в преднамеренных атаках на гражданскую инфраструктуру.",
-        "resume_fa": "پس از حملات موشکی روسیه، انفجارهای شدیدی در کی‌یف رخ داد. تعداد مجروحان در حال افزایش است و وضعیت در شهر رو به وخامت می‌گذارد. مقامات اوکراین روسیه را به هدف قرار دادن عمدی زیرساخت‌های غیرنظامی متهم می‌کنند.",
-        "resume_ar": "شهدت كييف انفجارات قوية بعد قصف صاروخي روسي. يتزايد عدد الضحايا وتزداد حدة الوضع في المدينة. تتهم السلطات الأوكرانية موسكو باستهداف متعمد للبنية التحتية المدنية.",
-        "analyse_detaillee": "Cette attaque s’inscrit dans une guerre qui dure depuis plus de deux ans, marquée par des cycles de violence et des tentatives de négociation avortées. Les enjeux principaux incluent la souveraineté ukrainienne, la stabilité européenne et la crédibilité de l’OTAN. Les causes profondes remontent à l’annexion de la Crimée en 2014 et à l’ingérence russe dans l’est de l’Ukraine. À court terme, les frappes pourraient affaiblir le moral ukrainien, mais aussi renforcer la résistance locale. À moyen terme, une intensification des combats et des destructions d’infrastructures est probable. À long terme, ce conflit pourrait redessiner les frontières en Europe de l’Est ou mener à une partition durable de l’Ukraine. Les acteurs clés, comme l’UE, les États-Unis et la Chine, soutiennent l’Ukraine militairement ou économiquement, tandis que la Russie mise sur une usure de l’Occident et une division interne en Ukraine.",
-        "analyse_en": "This attack is part of a war lasting over two years, marked by cycles of violence and failed negotiation attempts. Key stakes include Ukrainian sovereignty, European stability, and NATO's credibility. Root causes date back to Russia's annexation of Crimea in 2014 and its interference in eastern Ukraine. In the short term, strikes could weaken Ukrainian morale but also strengthen local resistance. Medium-term, intensified fighting and infrastructure destruction are likely. Long-term, this conflict could redraw borders in Eastern Europe or lead to a lasting partition of Ukraine. Key actors like the EU, the US, and China support Ukraine militarily or economically, while Russia relies on Western fatigue and internal division in Ukraine.",
-        "analyse_zh": "此次袭击是持续两年多战争的一部分，特征包括暴力循环和失败的谈判尝试。主要影响包括乌克兰主权、欧洲稳定和北约的可信度。深层原因可追溯到2014年俄罗斯吞并克里米亚及其在乌克兰东部的干预。短期内，袭击可能削弱乌克兰士气，但也可能加强当地抵抗。中期来看，战斗加剧和基础设施破坏可能发生。长期而言，此冲突可能重新划定东欧边界，或导致乌克兰长期分裂。欧盟、美国和中国等关键行为体在军事或经济上支持乌克兰，而俄罗斯则依赖西方的疲劳和乌克兰内部分裂。",
-        "analyse_ru": "Атаки России на Киев стали частью продолжающейся войны, которая началась после вторжения в феврале 2022 года. Причины эскалации связаны с неудачами российской армии на фронте и попытками дестабилизировать Украину. Последствия включают гибель мирных жителей, разрушение инфраструктуры и ухудшение гуманитарной ситуации. Перспективы зависят от исхода боевых действий и международной поддержки Украины. Позиция России заключается в оправдании атак как ответ на «угрозы безопасности», тогда как Украина и Запад обвиняют Москву в терроризме и военных преступлениях.",
-        "analyse_fa": "حملات روسیه به کی‌یف بخشی از جنگ مداوم است که پس از تهاجم در فوریه 2022 آغاز شد. دلایل تشدید در ناکامی‌های ارتش روسیه در جبهه و تلاش برای بی‌ثبات کردن اوکراین نهفته است. پیامدهای این حملات شامل کشته شدن غیرنظامیان، تخریب زیرساخت‌ها و وخامت وضعیت انسانی است. چشم‌اندازها به نتیجه جنگ و حمایت بین‌المللی از اوکراین بستگی دارد. موضع روسیهJustification of attacks as a response to «security threats» while Ukraine and the West accuse Moscow of terrorism and war crimes.",
-        "analyse_ar": "أصبحت هجمات روسيا على كييف جزءاً من الحرب المستمرة التي بدأت بعد الغزو في فبراير 2022. تعود أسباب التصعيد إلى إخفاقات الجيش الروسي في الجبهة ومحاولات زعزعة استقرار أوكرانيا. تشمل العواقب مقتل المدنيين وتدمير البنية التحتية وتدهور الوضع الإنساني. ترتبط الآفاق بنتائج المعارك والدعم الدولي لأوكرانيا. موقف روسيا يتمثل في تبرير الهجمات رداً على «تهديدات الأمن»، بينما تتهم أوكرانيا والغرب موسكو بالإرهاب وجرائم الحرب.",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185096812",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-08-22",
-        "pays": "russie",
+        "id": "iran_994562",
+        "titre": "Cyberattaque iranienne paralyse centrale électrique britannique",
+        "titre_en": "Iran-linked hackers cripple UK power plant",
+        "titre_zh": "伊朗黑客攻击英国电力站",
+        "titre_ru": "Иранские хакеры обвинены в атаке на британскую электростанцию",
+        "titre_fa": "هکرهای ایرانی متهم به حمله سایبری به نیروگاه بریتانیا شدند",
+        "titre_ar": "المخترقون الإيرانيون متهمون به شن هجمات سيبرانية على محطة طاقة بريطانية",
+        "titre_original": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+        "resume": "Des hackers liés à l’Iran sont accusés d’avoir mené une cyberattaque contre une centrale électrique britannique, provoquant des perturbations majeures. Cet incident, survenu le 25 août, marque une escalade dans les représailles de Téhéran contre le Royaume-Uni, qui autorise l’utilisation de ses bases par les États-Unis. Les autorités britanniques évoquent une menace croissante pour la sécurité nationale.",
+        "resume_en": "Hackers linked to Iran are accused of launching a cyberattack on a UK power plant, causing major disruptions. The incident, on August 25, marks an escalation in Tehran’s retaliation against the UK, which allows the U.S. to use its bases. British authorities warn of a growing threat to national security.",
+        "resume_zh": "与伊朗相关的黑客被指控于8月25日对英国电力站发动网络攻击，导致严重中断。此事件标志着伊朗对英国的报复升级，后者允许美国使用其基地。英国当局警告国家安全面临日益增长的威胁。",
+        "resume_ru": "Хакеры, связанные с Ираном, обвиняются в кибератаке на британскую электростанцию. Атака привела к её временному отключению. Великобритания обвиняет Тегеран в эскалации кибервойны. Инцидент произошёл на фоне напряжённых отношений между странами.",
+        "resume_fa": "هکرهای مرتبط با ایران متهم به حمله سایبری به یک نیروگاه بریتانیایی شدند. این حمله باعث قطع موقت برق شد. بریتانیا ایران را به تشدید جنگ سایبری متهم می‌کند. این حادثه در شرایط تنش‌های فزاینده بین دو کشور رخ داد.",
+        "resume_ar": "اتهمت مجموعة من المخترقين المرتبطين بإيران بشن هجمات سيبرانية على محطة طاقة بريطانية. أدى الهجوم إلى انقطاع مؤقت للتيار الكهربائي. تتهم بريطانيا طهران بتفاقم حربها السيبرانية. وقع الحادث في ظل تصاعد التوترات بين البلدين.",
+        "analyse_detaillee": "Les cyberattaques iraniennes s’inscrivent dans une stratégie de pression asymétrique, utilisée depuis des décennies pour contourner les sanctions économiques. Le Royaume-Uni, en accueillant des bases américaines, devient une cible symbolique pour Téhéran, qui cherche à affaiblir l’alliance occidentale. Les causes profondes incluent la crise diplomatique post-accord nucléaire (JCPOA) et la rivalité régionale avec l’Arabie saoudite et Israël. À court terme, cette attaque pourrait déclencher des représailles cyber ou militaires, aggravant les tensions. À moyen terme, elle renforce les investissements britanniques dans la cybersécurité critique. Long terme, cela pourrait accélérer une fragmentation des alliances occidentales face à l’Iran.",
+        "analyse_en": "Iran’s cyberattacks fit into an asymmetric pressure strategy used for decades to bypass economic sanctions. The UK, by hosting U.S. bases, becomes a symbolic target for Tehran, aiming to weaken Western alliances. Deep-rooted causes include the post-nuclear deal (JCPOA) diplomatic crisis and regional rivalry with Saudi Arabia and Israel. Short-term, this attack may trigger cyber or military retaliation, escalating tensions. Medium-term, it boosts UK investments in critical cybersecurity. Long-term, it could accelerate Western alliance fragmentation against Iran.",
+        "analyse_zh": "伊朗的网络攻击属于长期使用的不对称压力战略，旨在绕过经济制裁。英国作为美国基地的东道主，成为伊朗象征性的目标，后者试图削弱西方联盟。深层原因包括核协议（JCPOA）后的外交危机和与沙特阿拉伯及以色列的地区竞争。短期内，此攻击可能引发网络或军事报复，加剧紧张局势。中期内，它将增强英国对关键网络安全的投资。长期来看，这可能加速西方联盟在伊朗问题上的分裂。",
+        "analyse_ru": "Контекст инцидента связан с обострением отношений между Великобританией и Ираном из-за поддержки Лондона Вашингтона. Причины атаки могут включать политическую месть и демонстрацию силы. Последствия включают усиление кибербезопасности Великобритании и возможные ответные меры. Перспективы зависят от дипломатических усилий и уровня конфликта. Позиция Ирана отрицает причастность, но Великобритания намерена усилить защиту критической инфраструктуры.",
+        "analyse_fa": "زمینه این حادثه به تشدید روابط بین بریتانیا و ایران به دلیل حمایت لندن از واشنگتن مربوط است. دلایل حمله می‌تواند شامل انتقام سیاسی و نمایش قدرت باشد. پیامدها شامل تقویت امنیت سایبری بریتانیا و اقدامات تلافی‌جویانه احتمالی است. چشم‌اندازها به تلاش‌های دیپلماتیک و سطح درگیری بستگی دارد. موضع ایران انکار دخالت است، اما بریتانیا قصد دارد از زیرساخت‌های حیاتی محافظت کند.",
+        "analyse_ar": "يرتبط السياق بتوتر العلاقات بين بريطانيا وإيران بسبب دعم لندن لواشنطن. قد تشمل أسباب الهجوم الانتقام السياسي وإظهار القوة. تشمل العواقب تعزيز الأمن السيبراني البريطاني وردود فعل محتملة. ترتبط الآفاق بالجهود الدبلوماسية ومستوى الصراع. تنكر إيران تورطها لكن بريطانيا تنوي تعزيز حماية البنية التحتية الحيوية.",
+        "categorie": "Géopolitique & Cybersécurité",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5b696cc771060b12",
+        "image": "https://biztoc.com/cdn/5b696cc771060b12_s.webp",
+        "date": "2026-08-23",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de la défense",
+            "label": "▲ Assurance cyber (secteur des infrastructures critiques)",
             "hausse": true
           },
           {
-            "label": "▲ Secteur humanitaire",
+            "label": "▲ Marché des ransomwares (cybercrime organisé)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense",
-            "secteur_en": "Defense sector",
-            "secteur_zh": "国防行业",
-            "effet_fr": "Les dépenses militaires ukrainiennes et russes vont augmenter, stimulant la production d’armements mais aussi creusant les déficits publics.",
-            "effet_en": "Ukrainian and Russian military spending will rise, boosting arms production but also widening public deficits.",
-            "effet_zh": "乌克兰和俄罗斯的军事支出将增加，推动武器生产，同时加大公共赤字。",
+            "secteur_fr": "Assurance cyber (secteur des infrastructures critiques)",
+            "secteur_en": "Cyber insurance (critical infrastructure sector)",
+            "secteur_zh": "网络保险（关键基础设施行业）",
+            "effet_fr": "L’attaque iranienne pourrait entraîner une hausse des primes pour les assureurs couvrant les centrales électriques et réseaux énergétiques, reflétant une augmentation des risques géopolitiques.",
+            "effet_en": "The Iranian attack may lead to higher premiums for insurers covering power plants and energy grids, reflecting increased geopolitical risks.",
+            "effet_zh": "伊朗的攻击可能导致保险公司为电力站和能源网络提供保险的保费上涨，反映出地缘政治风险的增加。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur humanitaire",
-            "secteur_en": "Humanitarian sector",
-            "secteur_zh": "人道主义行业",
-            "effet_fr": "Les besoins en aide d’urgence et en reconstruction vont exploser, mettant sous pression les budgets internationaux et les ONG.",
-            "effet_en": "Urgent aid and reconstruction needs will surge, straining international budgets and NGOs.",
-            "effet_zh": "紧急援助和重建需求将激增，给国际预算和非政府组织带来压力。",
+            "secteur_fr": "Marché des ransomwares (cybercrime organisé)",
+            "secteur_en": "Ransomware market (organized cybercrime)",
+            "secteur_zh": "赎金软件市场（有组织网络犯罪）",
+            "effet_fr": "L’escalade des cyberattaques d’État pourrait inspirer des groupes criminels à cibler des infrastructures similaires, amplifiant la demande pour des solutions de protection avancées.",
+            "effet_en": "The escalation of state-sponsored cyberattacks may inspire criminal groups to target similar infrastructure, increasing demand for advanced protection solutions.",
+            "effet_zh": "国家赞助的网络攻击升级可能激励犯罪团体攻击类似基础设施，增加对先进保护解决方案的需求。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-23T08:28:17.400596"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-24T09:47:10.018678"
+      },
       {
         "id": "iran_656562",
         "titre": "Cyberattaque iranienne contre une centrale britannique",
@@ -6011,129 +6070,10 @@
           }
         ],
         "created_at": "2026-08-23T03:02:07.588179"
-      },
-      {
-        "id": "iran_240578",
-        "titre": "L'Iran soutient la souveraineté irakienne",
-        "titre_en": "Iran backs Iraq's sovereignty",
-        "titre_zh": "伊朗支持伊拉克主权",
-        "titre_ru": "Иран поддержал суверенитет Ирака в борьбе с вооруженными группировками",
-        "titre_fa": "ایران از حاکمیت عراق در برابر شبه‌نظامیان حمایت کرد",
-        "titre_ar": "إيران تدعم سيادة العراق في مواجهة الفصائل المسلحة",
-        "titre_original": "Iran backs Iraq’s sovereignty as Baghdad seeks to bring militias under state control",
-        "resume": "L'Iran a réaffirmé son soutien à la souveraineté irakienne face aux milices. Bagdad cherche à placer ces groupes sous contrôle étatique. Téhéran a évoqué une coopération économique renforcée avec une délégation irakienne.",
-        "resume_en": "Iran reaffirmed its support for Iraqi sovereignty amid militia tensions. Baghdad aims to bring these groups under state control. Tehran mentioned enhanced economic cooperation with an Iraqi delegation.",
-        "resume_zh": "伊朗在民兵组织紧张局势中重申对伊拉克主权的支持。巴格达试图将这些组织置于国家控制之下。德黑兰提到与伊拉克代表团加强经济合作。",
-        "resume_ru": "Спикер парламента Ирана заявил, что страна поддерживает суверенитет и независимость Ирака. Тегеран подчеркнул важность консенсуса в Ираке для стабильности региона. В ближайшее время ожидается визит иракской бизнес-делегации для укрепления экономического сотрудничества.",
-        "resume_fa": "رئیس مجلس ایران اعلام کرد که کشور از حاکمیت و استقلال عراق حمایت می‌کند. تهران بر اهمیت اجماع در عراق برای ثبات منطقه تأکید کرد. به زودی هیئت تجاری عراقی برای تقویت همکاری‌های اقتصادی به ایران سفر خواهد کرد.",
-        "resume_ar": "أعلن رئيس مجلس إيران أن بلاده تدعم سيادة واستقلال العراق. شدد طهران على أهمية الإجماع في العراق لتحقيق استقرار المنطقة. من المتوقع زيارة وفد تجاري عراقي قريباً لتعزيز التعاون الاقتصادي.",
-        "analyse_detaillee": "Cette situation s'inscrit dans un contexte historique de relations complexes entre l'Iran et l'Irak, marquées par des décennies de tensions et de coopération. Les enjeux principaux incluent la stabilité régionale et la lutte contre l'influence des milices. Les causes profondes remontent aux conflits post-2003 et à l'influence iranienne en Irak. À court terme, cette déclaration pourrait apaiser les tensions internes en Irak. À moyen terme, elle pourrait renforcer les liens économiques entre les deux pays. À long terme, cela pourrait stabiliser la région mais aussi renforcer l'hégémonie iranienne. Les acteurs principaux sont l'Iran, l'Irak, les milices et les puissances régionales.",
-        "analyse_en": "This situation fits into a historical context of complex Iran-Iraq relations, marked by decades of tensions and cooperation. The main stakes include regional stability and the fight against militia influence. The root causes date back to post-2003 conflicts and Iran's influence in Iraq. In the short term, this statement could ease internal tensions in Iraq. In the medium term, it could strengthen economic ties between the two countries. In the long term, it could stabilize the region but also reinforce Iranian hegemony. The key actors are Iran, Iraq, militias, and regional powers.",
-        "analyse_zh": "这一局势发生在伊朗与伊拉克复杂关系的历史背景下，几十年来充满紧张与合作。主要影响包括地区稳定和对民兵组织影响力的斗争。深层原因可追溯到2003年后的冲突及伊朗在伊拉克的影响力。短期内，这一声明可能缓解伊拉克的内部紧张局势。中期来看，它可能加强两国之间的经济联系。长期而言，这可能稳定地区局势，同时也加强伊朗的霸权地位。主要参与者是伊朗、伊拉克、民兵组织和地区大国。",
-        "analyse_ru": "Поддержка Ирана суверенитета Ирака связана с его стремлением укрепить региональную стабильность и избежать дестабилизации. Это заявление может улучшить двусторонние отношения и снизить напряжённость между странами. Последствия включают возможное усиление экономического партнёрства и политического диалога. В перспективе это укрепит позиции Ирана в регионе. Аналитики отмечают, что Тегеран пытается балансировать между поддержкой Ирака и сохранением влияния на местные группировки.",
-        "analyse_fa": "حمایت ایران از حاکمیت عراق به تلاش این کشور برای تقویت ثبات منطقه‌ای و جلوگیری از بی‌ثباتی بازمی‌گردد. این بیانیه می‌تواند روابط دوجانبه را بهبود بخشد و تنش‌ها بین دو کشور را کاهش دهد. پیامدهای آن شامل تقویت احتمالی مشارکت اقتصادی و گفتگوی سیاسی است. در آینده، این امر احتمالاً موضع ایران در منطقه را تقویت خواهد کرد. کارشناسان معتقدند که تهران سعی دارد بین حمایت از عراق و حفظ نفوذ خود بر گروه‌های محلی تعادل برقرار کند.",
-        "analyse_ar": "يرتبط دعم إيران لسيادة العراق بسعيها لتعزيز الاستقرار الإقليمي وتجنب زعزعة الاستقرار. قد يحسن هذا الإعلان العلاقات الثنائية ويقلل من حدة التوترات بين البلدين. تشمل العواقب المحتملة تعزيز التعاون الاقتصادي والحوار السياسي. على المدى البعيد، من المرجح أن يعزز هذا الموقف موقف إيران في المنطقة. يلاحظ المحللون أن طهران تحاول الموازنة بين دعم العراق والحفاظ على نفوذها على الفصائل المحلية.",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-backs-iraqs-sovereignty-as-baghdad-seeks-to-bring-militias-under-state-control/articleshow/133415615.cms",
-        "image": "https://img.etimg.com/thumb/msid-133415614,width-1200,height-630,imgsize-73550,overlay-economictimes/articleshow.jpg",
-        "date": "2026-08-22",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché énergétique",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur bancaire",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché énergétique",
-            "secteur_en": "Energy market",
-            "secteur_zh": "能源市场",
-            "effet_fr": "La coopération économique renforcée pourrait stabiliser les approvisionnements énergétiques entre l'Iran et l'Irak.",
-            "effet_en": "Enhanced economic cooperation could stabilize energy supplies between Iran and Iraq.",
-            "effet_zh": "加强的经济合作可能稳定伊朗与伊拉克之间的能源供应。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur bancaire",
-            "secteur_en": "Banking sector",
-            "secteur_zh": "银行业",
-            "effet_fr": "Les banques irakiennes pourraient bénéficier d'investissements iraniens accrus dans les infrastructures.",
-            "effet_en": "Iraqi banks may benefit from increased Iranian investments in infrastructure.",
-            "effet_zh": "伊拉克银行可能从伊朗在基础设施方面的增加投资中受益。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-23T01:13:35.557470"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_env_470506",
-      "titre": "Et si on interdisait tous les pesticides ?",
-      "titre_en": "What if all pesticides were banned tomorrow?",
-      "titre_zh": "如果明天禁止所有农药？",
-      "titre_ru": "Что если завтра запретить все пестициды?",
-      "titre_fa": "اگر فردا تمام سموم کشاورزی ممنوع شوند؟",
-      "titre_ar": "ماذا لو حظرت المبيدات غدًا؟",
-      "titre_original": "Et si on interdisait demain tous les pesticides ? Chronique d'un enfer pavé de bonnes intentions",
-      "resume": "L'article explore les conséquences d'une interdiction totale des pesticides en France, sous la pression des militants écologistes. Il interroge les risques pour l'agriculture et la sécurité alimentaire. La chronique souligne les bonnes intentions derrière cette idée, mais aussi ses dangers potentiels.",
-      "resume_en": "The article examines the consequences of a total ban on pesticides in France, driven by environmental activists. It questions the risks for agriculture and food security. The column highlights the good intentions behind this idea, but also its potential dangers.",
-      "resume_zh": "文章探讨了在环保活动人士推动下，法国全面禁止农药的后果。它质疑对农业和粮食安全的风险。专栏强调这一想法背后的善意，但也指出其潜在危险。",
-      "resume_ru": "Под давлением активистов идея полного запрета пестицидов набирает популярность в общественных дебатах. Однако внезапный запрет может привести к резкому падению сельскохозяйственного производства и росту цен на продукты питания. Эксперты предупреждают о риске нехватки продовольствия и зависимости от импорта.",
-      "resume_fa": "تحت فشار فعالان محیط زیست، ممنوعیت کامل سموم کشاورزی در بحث‌های عمومی محبوبیت پیدا می‌کند. با این حال، ممنوعیت ناگهانی می‌تواند منجر به کاهش شدید تولید کشاورزی و افزایش قیمت مواد غذایی شود. کارشناسان از خطر کمبود مواد غذایی و وابستگی به واردات هشدار می‌دهند.",
-      "resume_ar": "تحت ضغط النشطاء، حظي حظر المبيدات الكيميائية بشعبية متزايدة في النقاشات العامة. لكن الحظر المفاجئ قد يؤدي إلى انخفاض حاد في الإنتاج الزراعي وارتفاع أسعار المواد الغذائية. يحذر الخبراء من خطر نقص الغذاء والاعتماد على الاستيراد.",
-      "analyse_detaillee": "L'idée d'interdire les pesticides n'est pas nouvelle et s'inscrit dans un débat historique sur l'agriculture durable en France, marqué par des tensions entre écologistes et industriels. Les enjeux principaux incluent la protection de la biodiversité, la santé publique et la compétitivité des agriculteurs. Les causes profondes résident dans la prise de conscience écologique croissante et les scandales sanitaires liés aux produits phytosanitaires. À court terme, une interdiction brutale provoquerait des pénuries alimentaires et une hausse des prix. À moyen terme, cela pourrait accélérer l'innovation vers des alternatives, mais fragiliserait les exploitations non préparées. À long terme, une telle mesure pourrait transformer le modèle agricole français, mais au prix d'un déclin de certaines filières. Les acteurs sont divisés : les écologistes y voient une urgence, tandis que les syndicats agricoles et les industriels alertent sur les risques économiques.",
-      "analyse_en": "The idea of banning pesticides is not new and fits into a historical debate on sustainable agriculture in France, marked by tensions between environmentalists and industrialists. The main stakes include biodiversity protection, public health, and farmers' competitiveness. The root causes lie in growing ecological awareness and health scandals linked to phytosanitary products. In the short term, a sudden ban would cause food shortages and price hikes. In the medium term, it could spur innovation toward alternatives but weaken unprepared farms. In the long term, such a measure could transform France's agricultural model, albeit at the cost of declining sectors. The actors are divided: environmentalists see it as an urgency, while agricultural unions and industrialists warn of economic risks.",
-      "analyse_zh": "全面禁止农药的想法并不新鲜，它植根于法国关于可持续农业的历史辩论，其中环保主义者与工业家之间存在紧张关系。主要影响包括生物多样性保护、公共健康和农民竞争力。深层原因在于对生态意识的日益增长和与植保产品相关的健康丑闻。短期内，突然禁令将导致粮食短缺和价格上涨。中期来看，这可能加速转向替代方案的创新，但会削弱未做好准备的农场。长期而言，此举可能改变法国农业模式，但某些行业将面临衰退。各方立场分歧：环保主义者视其为紧急措施，而农业工会和工业家则警告经济风险。",
-      "analyse_ru": "Контекст вопроса связан с растущим экологическим движением во Франции, требующим ужесточения норм использования химических веществ в сельском хозяйстве. Причины интереса к запрету пестицидов кроются в обеспокоенности общественности последствиями для здоровья и окружающей среды. Последствия могут быть катастрофическими: снижение урожайности, рост цен на продукты и угроза продовольственной безопасности. Перспективы зависят от баланса между экологическими требованиями и экономической стабильностью аграрного сектора. Позиции сторон разделились: экологические организации настаивают на немедленном запрете, а фермеры и агропромышленники предупреждают о рисках для отрасли.",
-      "analyse_fa": "زمینه این بحث به جنبش زیست‌محیطی رو به رشد در فرانسه مربوط می‌شود که خواستار تشدید قوانین استفاده از مواد شیمیایی در کشاورزی است. دلایل گرایش به ممنوعیت سموم کشاورزی نگرانی‌های عمومی درباره تأثیرات آن بر سلامت و محیط زیست است. پیامدهای احتمالی می‌تواند فاجعه‌بار باشد: کاهش بازدهی محصولات، افزایش قیمت مواد غذایی و تهدید امنیت غذایی. چشم‌اندازها به توازن میان خواسته‌های زیست‌محیطی و ثبات اقتصادی بخش کشاورزی بستگی دارد. مواضع بازیگران متفاوت است: سازمان‌های زیست‌محیطی بر ممنوعیت فوری تأکید دارند، در حالی که کشاورزان و صنعتگران کشاورزی از خطرات برای بخش خود هشدار می‌دهند.",
-      "analyse_ar": "يرتبط السياق بهذا النقاش بالحركة البيئية المتنامية في فرنسا، التي تطالب بتشديد القوانين المتعلقة باستخدام المواد الكيميائية في الزراعة. أسباب الاهتمام بحظر المبيدات تكمن في المخاوف العامة بشأن تأثيراتها على الصحة والبيئة. قد تكون العواقب كارثية: انخفاض الغلات وارتفاع أسعار المواد الغذائية وتهديد الأمن الغذائي. ترتبط الآفاق بتوازن بين المتطلبات البيئية والاستقرار الاقتصادي للقطاع الزراعي. تختلف مواقف الأطراف: فبينما تطالب المنظمات البيئية بالحظر الفوري، يحذر المزارعون وصناع الأغذية من المخاطر التي تهدد القطاع.",
-      "categorie": "Environnement",
-      "source": "Atlantico.fr",
-      "url": "https://atlantico.fr/article/rdv/et-si-on-interdisait-demain-tous-les-pesticides-chronique-d-un-enfer-pave-de-bonnes-intentions-agriculture-recoltes-elevage-fruits-legumes-viande-lait-agriculteurs-normes-environnement-terre-a-terre",
-      "image": "https://atlantico.codexcdn.net/assets/asymIRWJQxl0K2ZOY.jpg?width=1600&height=900&quality=75",
-      "date": "2026-08-23",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Agroalimentaire",
-          "hausse": false
-        },
-        {
-          "label": "▼ Marchés financiers",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Agroalimentaire",
-          "secteur_en": "Agri-food sector",
-          "secteur_zh": "农产食品行业",
-          "effet_fr": "Une interdiction brutale des pesticides entraînerait une baisse de la production agricole et une hausse des coûts, menaçant la rentabilité des entreprises du secteur.",
-          "effet_en": "A sudden ban on pesticides would lead to lower agricultural output and higher costs, threatening the profitability of companies in the sector.",
-          "effet_zh": "突然禁止农药将导致农业产量下降和成本上升，威胁该行业企业的盈利能力。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Marchés financiers",
-          "secteur_en": "Financial markets",
-          "secteur_zh": "金融市场",
-          "effet_fr": "Les investisseurs pourraient se détourner des entreprises agricoles et des fournisseurs de pesticides, provoquant une volatilité accrue sur les marchés.",
-          "effet_en": "Investors could shun agricultural companies and pesticide suppliers, leading to increased market volatility.",
-          "effet_zh": "投资者可能避开农业公司和农药供应商，导致市场波动加剧。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-08-24T08:52:18.626338",
-      "sous_categorie": "environnement"
-    },
     {
       "id": "pol_femmes_107152",
       "titre": "Bollène : marche blanche après un féminicide",
@@ -6853,6 +6793,66 @@
       ],
       "created_at": "2026-08-08T15:29:19.254457",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_470506",
+      "titre": "Et si on interdisait tous les pesticides ?",
+      "titre_en": "What if all pesticides were banned tomorrow?",
+      "titre_zh": "如果明天禁止所有农药？",
+      "titre_ru": "Что если завтра запретить все пестициды?",
+      "titre_fa": "اگر فردا تمام سموم کشاورزی ممنوع شوند؟",
+      "titre_ar": "ماذا لو حظرت المبيدات غدًا؟",
+      "titre_original": "Et si on interdisait demain tous les pesticides ? Chronique d'un enfer pavé de bonnes intentions",
+      "resume": "L'article explore les conséquences d'une interdiction totale des pesticides en France, sous la pression des militants écologistes. Il interroge les risques pour l'agriculture et la sécurité alimentaire. La chronique souligne les bonnes intentions derrière cette idée, mais aussi ses dangers potentiels.",
+      "resume_en": "The article examines the consequences of a total ban on pesticides in France, driven by environmental activists. It questions the risks for agriculture and food security. The column highlights the good intentions behind this idea, but also its potential dangers.",
+      "resume_zh": "文章探讨了在环保活动人士推动下，法国全面禁止农药的后果。它质疑对农业和粮食安全的风险。专栏强调这一想法背后的善意，但也指出其潜在危险。",
+      "resume_ru": "Под давлением активистов идея полного запрета пестицидов набирает популярность в общественных дебатах. Однако внезапный запрет может привести к резкому падению сельскохозяйственного производства и росту цен на продукты питания. Эксперты предупреждают о риске нехватки продовольствия и зависимости от импорта.",
+      "resume_fa": "تحت فشار فعالان محیط زیست، ممنوعیت کامل سموم کشاورزی در بحث‌های عمومی محبوبیت پیدا می‌کند. با این حال، ممنوعیت ناگهانی می‌تواند منجر به کاهش شدید تولید کشاورزی و افزایش قیمت مواد غذایی شود. کارشناسان از خطر کمبود مواد غذایی و وابستگی به واردات هشدار می‌دهند.",
+      "resume_ar": "تحت ضغط النشطاء، حظي حظر المبيدات الكيميائية بشعبية متزايدة في النقاشات العامة. لكن الحظر المفاجئ قد يؤدي إلى انخفاض حاد في الإنتاج الزراعي وارتفاع أسعار المواد الغذائية. يحذر الخبراء من خطر نقص الغذاء والاعتماد على الاستيراد.",
+      "analyse_detaillee": "L'idée d'interdire les pesticides n'est pas nouvelle et s'inscrit dans un débat historique sur l'agriculture durable en France, marqué par des tensions entre écologistes et industriels. Les enjeux principaux incluent la protection de la biodiversité, la santé publique et la compétitivité des agriculteurs. Les causes profondes résident dans la prise de conscience écologique croissante et les scandales sanitaires liés aux produits phytosanitaires. À court terme, une interdiction brutale provoquerait des pénuries alimentaires et une hausse des prix. À moyen terme, cela pourrait accélérer l'innovation vers des alternatives, mais fragiliserait les exploitations non préparées. À long terme, une telle mesure pourrait transformer le modèle agricole français, mais au prix d'un déclin de certaines filières. Les acteurs sont divisés : les écologistes y voient une urgence, tandis que les syndicats agricoles et les industriels alertent sur les risques économiques.",
+      "analyse_en": "The idea of banning pesticides is not new and fits into a historical debate on sustainable agriculture in France, marked by tensions between environmentalists and industrialists. The main stakes include biodiversity protection, public health, and farmers' competitiveness. The root causes lie in growing ecological awareness and health scandals linked to phytosanitary products. In the short term, a sudden ban would cause food shortages and price hikes. In the medium term, it could spur innovation toward alternatives but weaken unprepared farms. In the long term, such a measure could transform France's agricultural model, albeit at the cost of declining sectors. The actors are divided: environmentalists see it as an urgency, while agricultural unions and industrialists warn of economic risks.",
+      "analyse_zh": "全面禁止农药的想法并不新鲜，它植根于法国关于可持续农业的历史辩论，其中环保主义者与工业家之间存在紧张关系。主要影响包括生物多样性保护、公共健康和农民竞争力。深层原因在于对生态意识的日益增长和与植保产品相关的健康丑闻。短期内，突然禁令将导致粮食短缺和价格上涨。中期来看，这可能加速转向替代方案的创新，但会削弱未做好准备的农场。长期而言，此举可能改变法国农业模式，但某些行业将面临衰退。各方立场分歧：环保主义者视其为紧急措施，而农业工会和工业家则警告经济风险。",
+      "analyse_ru": "Контекст вопроса связан с растущим экологическим движением во Франции, требующим ужесточения норм использования химических веществ в сельском хозяйстве. Причины интереса к запрету пестицидов кроются в обеспокоенности общественности последствиями для здоровья и окружающей среды. Последствия могут быть катастрофическими: снижение урожайности, рост цен на продукты и угроза продовольственной безопасности. Перспективы зависят от баланса между экологическими требованиями и экономической стабильностью аграрного сектора. Позиции сторон разделились: экологические организации настаивают на немедленном запрете, а фермеры и агропромышленники предупреждают о рисках для отрасли.",
+      "analyse_fa": "زمینه این بحث به جنبش زیست‌محیطی رو به رشد در فرانسه مربوط می‌شود که خواستار تشدید قوانین استفاده از مواد شیمیایی در کشاورزی است. دلایل گرایش به ممنوعیت سموم کشاورزی نگرانی‌های عمومی درباره تأثیرات آن بر سلامت و محیط زیست است. پیامدهای احتمالی می‌تواند فاجعه‌بار باشد: کاهش بازدهی محصولات، افزایش قیمت مواد غذایی و تهدید امنیت غذایی. چشم‌اندازها به توازن میان خواسته‌های زیست‌محیطی و ثبات اقتصادی بخش کشاورزی بستگی دارد. مواضع بازیگران متفاوت است: سازمان‌های زیست‌محیطی بر ممنوعیت فوری تأکید دارند، در حالی که کشاورزان و صنعتگران کشاورزی از خطرات برای بخش خود هشدار می‌دهند.",
+      "analyse_ar": "يرتبط السياق بهذا النقاش بالحركة البيئية المتنامية في فرنسا، التي تطالب بتشديد القوانين المتعلقة باستخدام المواد الكيميائية في الزراعة. أسباب الاهتمام بحظر المبيدات تكمن في المخاوف العامة بشأن تأثيراتها على الصحة والبيئة. قد تكون العواقب كارثية: انخفاض الغلات وارتفاع أسعار المواد الغذائية وتهديد الأمن الغذائي. ترتبط الآفاق بتوازن بين المتطلبات البيئية والاستقرار الاقتصادي للقطاع الزراعي. تختلف مواقف الأطراف: فبينما تطالب المنظمات البيئية بالحظر الفوري، يحذر المزارعون وصناع الأغذية من المخاطر التي تهدد القطاع.",
+      "categorie": "Environnement",
+      "source": "Atlantico.fr",
+      "url": "https://atlantico.fr/article/rdv/et-si-on-interdisait-demain-tous-les-pesticides-chronique-d-un-enfer-pave-de-bonnes-intentions-agriculture-recoltes-elevage-fruits-legumes-viande-lait-agriculteurs-normes-environnement-terre-a-terre",
+      "image": "https://atlantico.codexcdn.net/assets/asymIRWJQxl0K2ZOY.jpg?width=1600&height=900&quality=75",
+      "date": "2026-08-23",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▼ Agroalimentaire",
+          "hausse": false
+        },
+        {
+          "label": "▼ Marchés financiers",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Agroalimentaire",
+          "secteur_en": "Agri-food sector",
+          "secteur_zh": "农产食品行业",
+          "effet_fr": "Une interdiction brutale des pesticides entraînerait une baisse de la production agricole et une hausse des coûts, menaçant la rentabilité des entreprises du secteur.",
+          "effet_en": "A sudden ban on pesticides would lead to lower agricultural output and higher costs, threatening the profitability of companies in the sector.",
+          "effet_zh": "突然禁止农药将导致农业产量下降和成本上升，威胁该行业企业的盈利能力。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Marchés financiers",
+          "secteur_en": "Financial markets",
+          "secteur_zh": "金融市场",
+          "effet_fr": "Les investisseurs pourraient se détourner des entreprises agricoles et des fournisseurs de pesticides, provoquant une volatilité accrue sur les marchés.",
+          "effet_en": "Investors could shun agricultural companies and pesticide suppliers, leading to increased market volatility.",
+          "effet_zh": "投资者可能避开农业公司和农药供应商，导致市场波动加剧。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-08-24T08:52:18.626338",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_663931",
