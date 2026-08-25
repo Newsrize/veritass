@@ -1,7 +1,66 @@
 {
-  "last_updated": "25/08/2026 à 11h26",
+  "last_updated": "25/08/2026 à 12h44",
   "articles": {
     "monde": [
+      {
+        "id": "monde_901266",
+        "titre": "Systèmes de santé manquent de visibilité en temps réel",
+        "titre_en": "Health Systems Lack Real-Time Capacity Visibility",
+        "titre_zh": "医疗系统缺乏实时容量可见性",
+        "titre_ru": "Системы здравоохранения не видят нагрузку в реальном времени",
+        "titre_fa": "سیستم‌های بهداشتی از فشار ظرفیت در زمان واقعی بی‌خبرند",
+        "titre_ar": "أنظمة الرعاية الصحية لا ترى الضغط على القدرات في الوقت الفعلي",
+        "titre_original": "Health Systems Still Lack Real-Time Visibility Into Capacity Strain",
+        "resume": "Les systèmes de santé mondiaux peinent à évaluer en temps réel la pression sur leurs capacités. Une consultation des Académies nationales souligne l'urgence d'améliorer cette visibilité. Cette lacune entrave gravement la préparation aux crises sanitaires.",
+        "resume_en": "Global health systems struggle to assess real-time capacity strain. A National Academies consultation highlights the urgent need for better visibility. This gap severely hampers crisis preparedness efforts.",
+        "resume_zh": "全球医疗系统难以实时评估容量压力。国家科学院咨询强调改善可见性的紧迫需求。这一缺口严重阻碍了危机准备工作。",
+        "resume_ru": "Еженедельная отчетность NHSN соответствует требованиям CMS, но не раскрывает реальную нагрузку на систему здравоохранения. Национальная академия наук США предлагает новую модель оценки, которая могла бы закрыть этот пробел. Эта способность признана приоритетной для подготовки к кризисам.",
+        "resume_fa": "گزارش هفتگی NHSN الزامات CMS را برآورده می‌کند، اما فشار واقعی بر سیستم‌های بهداشتی را نشان نمی‌دهد. آکادمی ملی علوم آمریکا مدلی جدید برای ارزیابی این فشار پیشنهاد داده است. این قابلیت به عنوان اولویت اصلی برای آمادگی در بحران‌ها شناخته شده است.",
+        "resume_ar": "التقرير الأسبوعي لـ NHSN يلبي متطلبات CMS لكنه لا يكشف عن الضغط الحقيقي على أنظمة الرعاية الصحية. تقترح الأكاديمية الوطنية للعلوم الأمريكية نموذج تقييم جديد يمكن أن يغلق هذه الفجوة. تُعتبر هذه القدرة أولوية قصوى للاستعداد للأزمات.",
+        "analyse_detaillee": "Les systèmes de santé mondiaux ont toujours souffert d'un manque de données en temps réel, exacerbé par la pandémie de COVID-19 qui a révélé des failles critiques. La visibilité en temps réel est cruciale pour redistribuer les ressources et éviter les engorgements, comme observé lors des vagues épidémiques. Les causes profondes incluent des infrastructures obsolètes, un manque de coordination entre acteurs et des systèmes de reporting fragmentés. À court terme, cela pourrait entraîner des retards dans les soins et une surmortalité évitable. À moyen terme, une meilleure visibilité permettrait une réponse plus agile aux crises futures. À long terme, cela pourrait transformer la gestion des systèmes de santé en les rendant plus résilients et proactifs. Les acteurs clés, comme l'OMS et les gouvernements, doivent investir dans des technologies de surveillance avancées et harmoniser les protocoles. Les États-Unis, via le NHSN, montrent des limites malgré leurs obligations réglementaires, illustrant le besoin d'innovation.",
+        "analyse_en": "Global health systems have long suffered from a lack of real-time data, a problem exacerbated by the COVID-19 pandemic which exposed critical flaws. Real-time visibility is essential for redistributing resources and preventing bottlenecks, as seen during epidemic waves. Root causes include outdated infrastructure, poor coordination among stakeholders, and fragmented reporting systems. In the short term, this could lead to delayed care and avoidable mortality. Medium-term improvements would enable more agile responses to future crises. Long-term gains could reshape health system management by making them more resilient and proactive. Key actors like the WHO and governments must invest in advanced surveillance technologies and harmonize protocols. The U.S., through NHSN, demonstrates limitations despite regulatory obligations, highlighting the need for innovation.",
+        "analyse_zh": "全球医疗系统长期缺乏实时数据，这一问题在COVID-19疫情期间暴露无遗。实时可见性对资源重新分配和避免瓶颈至关重要，正如疫情期间所见。根本原因包括陈旧的基础设施、参与者间的协调不足以及碎片化的报告系统。短期内，这可能导致延迟护理和可避免的死亡。中期改善将使未来危机应对更加灵活。长期来看，这可能通过提高韧性和主动性重塑医疗系统管理。世卫组织和各国政府等关键行为者必须投资先进监测技术并统一协议。美国通过NHSN展示了局限性，尽管有监管义务，这凸显了创新的必要性。",
+        "analyse_ru": "Проблема отсутствия реальной информации о нагрузке на системы здравоохранения актуальна во многих странах, особенно после пандемии COVID-19. Причина кроется в устаревших методах отчетности, которые не учитывают динамику изменений. Последствия такой ситуации могут быть катастрофическими во время новых вспышек заболеваний. Перспективы улучшения связаны с внедрением цифровых технологий и автоматизированных систем мониторинга. Позиция властей и экспертов сходится на необходимости реформирования существующих подходов.",
+        "analyse_fa": "عدم وجود اطلاعات واقعی درباره فشار بر سیستم‌های بهداشتی پس از همه‌گیری کووید-۱۹ اهمیت بیشتری یافته است. علت اصلی، روش‌های قدیمی گزارش‌دهی است که تغییرات را به موقع منعکس نمی‌کنند. پیامدهای این وضعیت می‌تواند در زمان شیوع بیماری‌های جدید بسیار خطرناک باشد. چشم‌انداز بهبود به فناوری‌های دیجیتال و سیستم‌های پایش خودکار وابسته است. موضع مقامات و کارشناسان بر لزوم اصلاح رویکردهای موجود متمرکز است.",
+        "analyse_ar": "تعدم وجود معلومات حقيقية حول الضغط على أنظمة الرعاية الصحية أصبح قضية ملحة بعد جائحة كوفيد-19. السبب الرئيسي يكمن في طرق الإبلاغ القديمة التي لا تعكس التغيرات في الوقت المناسب. قد تكون عواقب هذه الوضع كارثية خلال تفشي أمراض جديدة. ترتبط آفاق التحسن بتكنولوجيا الرقمية وأنظمة المراقبة الآلية. تتفق مواقف السلطات والخبراء على ضرورة إصلاح النهج الحالية.",
+        "categorie": "Santé publique",
+        "source": "Healthsystemcio.com",
+        "url": "https://healthsystemcio.com/2026/08/24/hospital-capacity-data-gaps/",
+        "image": "https://healthsystemcio.com/wp-content/uploads/2026/05/report-200.png",
+        "date": "2026-08-24",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Financement des infrastructures sanitaires",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marchés de l'assurance santé",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Financement des infrastructures sanitaires",
+            "secteur_en": "Health infrastructure financing",
+            "secteur_zh": "医疗基础设施融资",
+            "effet_fr": "L'absence de visibilité en temps réel limite l'allocation efficace des fonds publics et privés, retardant les investissements nécessaires.",
+            "effet_en": "Lack of real-time visibility hinders efficient allocation of public and private funds, delaying necessary investments.",
+            "effet_zh": "实时可见性缺乏阻碍了公共和私人资金的有效分配，延迟了必要的投资。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marchés de l'assurance santé",
+            "secteur_en": "Health insurance markets",
+            "secteur_zh": "健康保险市场",
+            "effet_fr": "Les assureurs peinent à ajuster leurs primes et couvertures en l'absence de données fiables sur la pression des systèmes de santé.",
+            "effet_en": "Insurers struggle to adjust premiums and coverage without reliable data on health system strain.",
+            "effet_zh": "保险公司在缺乏可靠的医疗系统压力数据下难以调整保费和覆盖范围。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-25T12:44:05.366293"
+      },
       {
         "id": "monde_835770",
         "titre": "Bitcoin dépasse 80 000 $ et une ligne clé",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-24T16:36:01.386550"
-      },
-      {
-        "id": "monde_13530",
-        "titre": "Ure, futur attaquant star de l'Écosse ?",
-        "titre_en": "Is Ure Scotland's next star striker?",
-        "titre_zh": "Ure能否成为苏格兰新星前锋？",
-        "titre_ru": "Севилья ищет нового бомбардира: Урре как кандидат на лидерство",
-        "titre_fa": "سویلای اسپانیا به دنبال مهاجم جدید: اوره آماده رهبری حمله اسکاتلند است",
-        "titre_ar": "إشبيلية تبحث عن مهاجم جديد: أوره مرشح لقيادة هجوم اسكتلندا",
-        "titre_original": "Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?",
-        "resume": "Sevilla FC a confié son numéro 9 à un attaquant écossais peu connu, Billy Ure. Ce choix marque une rupture avec la tradition internationale du club. La question se pose : Ure peut-il devenir le fer de lance de l'attaque écossaise ?",
-        "resume_en": "Sevilla FC has entrusted its number 9 jersey to an unknown Scottish striker, Billy Ure. This choice breaks the club's international tradition. Can Ure become Scotland's leading striker?",
-        "resume_zh": "塞维利亚足球俱乐部将9号球衣交给无名苏格兰前锋比利·尤尔。此举打破俱乐部国际化传统。尤尔能否成为苏格兰锋线核心？",
-        "resume_ru": "Футбольный клуб «Севилья» рассматривает шансы шотландского нападающего Росса Уре стать новым лидером атаки. За последние десять лет клуб привлекал звезд из разных стран, но теперь делает ставку на местного игрока. Это может стать важным шагом для шотландского футбола.",
-        "resume_fa": "باشگاه فوتبال سویلای اسپانیا در حال بررسی شانس راس اوره، مهاجم اسکاتلندی، برای تبدیل شدن به رهبر جدید خط حمله است. در ده سال گذشته، این باشگاه ستارگانی از کشورهای مختلف جذب کرده بود، اما اکنون روی یک بازیکن محلی سرمایه‌گذاری می‌کند. این می‌تواند گامی مهم برای فوتبال اسکاتلند باشد.",
-        "resume_ar": "ينظر نادي إشبيلية الإسباني في فرص المهاجم الإسكتلندي روس أوره ليصبح القائد الجديد للهجوم. على مدى العقد الماضي، استقطب النادي نجومًا من دول مختلفة، لكنه يتجه الآن إلى الاعتماد على لاعب محلي. قد يكون هذا خطوة مهمة لكرة القدم الإسكتلندية.",
-        "analyse_detaillee": "Le transfert de Billy Ure à Sevilla s'inscrit dans une stratégie de renouvellement de l'effectif du club andalou, marqué par des départs de stars internationales. Historiquement, le numéro 9 de Sevilla a été porté par des attaquants de renom comme Youssef En-Nesyri ou Luismi Cruz. Le choix d'un joueur écossais peu expérimenté reflète une prise de risque calculée pour dynamiser l'équipe. À court terme, Ure devra prouver sa valeur en Liga, un championnat exigeant. À moyen terme, sa performance pourrait influencer les sélections nationales écossaises, souvent en quête de talents offensifs. À long terme, ce transfert pourrait ouvrir la voie à d'autres joueurs britanniques en Liga. Les supporters de Sevilla restent sceptiques, tandis que la Fédération écossaise voit en Ure un espoir pour l'avenir.",
-        "analyse_en": "Billy Ure's transfer to Sevilla aligns with the club's strategy to renew its squad, following departures of international stars. Historically, Sevilla's number 9 has been worn by renowned strikers like Youssef En-Nesyri or Luismi Cruz. Choosing an inexperienced Scottish player reflects a calculated risk to energize the team. In the short term, Ure must prove himself in La Liga, a highly competitive league. Medium-term, his performance could boost Scotland's national team, often in search of offensive talents. Long-term, this transfer could pave the way for more British players in La Liga. Sevilla fans remain skeptical, while the Scottish FA sees Ure as a future hope.",
-        "analyse_zh": "比利·尤尔转会塞维利亚符合俱乐部更新阵容的战略，在国际球星离队后。历史上，塞维利亚9号由如恩内斯里或克鲁斯等知名前锋担任。选择无经验苏格兰球员反映为激活球队的谨慎冒险。短期内，尤尔需在竞争激烈的西甲证明自己。中期表现或提升苏格兰国家队（长期缺乏进攻人才）的竞争力。长期可能为更多英超球员进入西甲铺路。塞维利亚球迷仍存疑虑，苏格兰足协则视其为未来希望。",
-        "analyse_ru": "Переход Уре в «Севилью» отражает глобальную тенденцию клубов к поиску талантов из менее традиционных футбольных рынков. Причины включают стремление к диверсификации состава и снижение зависимости от европейских звезд. Последствия могут усилить позиции шотландского футбола на международной арене и повысить интерес к местным лигам. Перспективы зависят от адаптации Уре к испанскому чемпионату и его результативности. Позиции сторон: «Севилья» рискует, но может получить уникальный талант, а шотландский футбол получит шанс на прорыв.",
-        "analyse_fa": "انتقال اوره به سویلای اسپانیا نمایانگر گرایش جهانی باشگاه‌ها به جستجوی استعدادها از بازارهای فوتبال کمتر سنتی است. دلایل آن شامل تلاش برای تنوع‌بخشی به ترکیب تیم و کاهش وابستگی به ستارگان اروپایی است. پیامدها می‌تواند تقویت جایگاه فوتبال اسکاتلند در سطح بین‌المللی و افزایش علاقه به لیگ‌های محلی باشد. چشم‌اندازها به سازگاری اوره با لیگ اسپانیا و عملکرد او بستگی دارد. موضع بازیگران: سویلای اسپانیا ریسک می‌کند، اما ممکن است استعداد منحصر به فردی به دست آورد، در حالی که فوتبال اسکاتلند شانس پیشرفت خواهد داشت.",
-        "analyse_ar": "إن انتقال أوره إلى إشبيلية يعكس الاتجاه العالمي للأندية نحو البحث عن المواهب من أسواق كرة القدم الأقل تقليدية. الأسباب تشمل السعي لتنوع состав الفريق وتقليل الاعتماد على نجوم أوروبا. العواقب قد تشمل تعزيز مكانة كرة القدم الإسكتلندية على الساحة الدولية وزيادة الاهتمام بالبطولات المحلية. الآفاق تعتمد على تكيف أوره مع الدوري الإسباني وأداءه. مواقف الأطراف: تخاطر إشبيلية لكنها قد تحصل على موهبة فريدة، بينما ستتاح لكرة القدم الإسكتلندية فرصة للتقدم.",
-        "categorie": "Sport",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/c86n6d07825o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "image": "https://s.yimg.com/lo/mysterio/api/905b6f9919de51039f40237459946adde6cb62fce3273d8dd8ca813fcb905b7a/lightyear_networkapi/resizefill_w617_h347%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5bfeb210007eae60972c5abdfbb82014.jpg",
-        "date": "2026-08-23",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marché des transferts footballistiques",
-            "hausse": false
-          },
-          {
-            "label": "▲ Sponsoring sportif",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts footballistiques",
-            "secteur_en": "Football transfer market",
-            "secteur_zh": "足球转会市场",
-            "effet_fr": "Ce transfert pourrait inspirer d'autres clubs à recruter des joueurs britanniques moins médiatisés, modifiant les dynamiques du marché.",
-            "effet_en": "This transfer could inspire other clubs to recruit less-publicized British players, altering market dynamics.",
-            "effet_zh": "此转会或激励其他俱乐部签约低调英国球员，改变市场动态。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Sponsoring sportif",
-            "secteur_en": "Sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Une performance réussie d'Ure pourrait augmenter la valeur commerciale de Sevilla et attirer de nouveaux sponsors.",
-            "effet_en": "A successful performance by Ure could increase Sevilla's commercial value and attract new sponsors.",
-            "effet_zh": "尤尔成功表现或提升塞维利亚商业价值并吸引新赞助商。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-24T15:38:34.473420"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_407878",
+        "titre": "Paramount Skydance bloqué par le procureur de Californie",
+        "titre_en": "Paramount Skydance Deal Blocked by California AG",
+        "titre_zh": "加州检察长阻止Paramount Skydance交易",
+        "titre_ru": "Генеральный прокурор Калифорнии отменяет переговоры с Paramount",
+        "titre_fa": "مدعی کل کالیفرنیا مذاکرات با پارامونت را لغو کرد",
+        "titre_ar": "النائب العام لكاليفورنيا يلغي المفاوضات مع باراماونت",
+        "titre_original": "Paramount Skydance \"Playing Games\": CA AG Bonta Calls Off Monday Talks",
+        "resume": "Le procureur général de Californie a annulé les négociations prévues avec Paramount Skydance. Cette décision concerne plusieurs États américains. Le projet de fusion suscite des inquiétudes réglementaires majeures.",
+        "resume_en": "California's Attorney General canceled planned talks with Paramount Skydance, involving multiple U.S. states. The merger proposal faces significant regulatory concerns.",
+        "resume_zh": "加州检察长取消了与Paramount Skydance的计划谈判，涉及多个美国州。该合并提议面临重大监管担忧。",
+        "resume_ru": "Генеральный прокурор Калифорнии Роб Бонта отменил запланированные на понедельник переговоры с компанией Paramount Skydance. Решение связано с неготовностью сторон к конструктивному диалогу. В переговорах также должны были участвовать представители нескольких других штатов.",
+        "resume_fa": "مدعی کل کالیفرنیا، راب بونت، مذاکرات برنامه‌ریزی‌شده با شرکت پارامونت اسکای‌دنس را لغو کرد. این تصمیم به دلیل عدم آمادگی طرفین برای گفتگوی سازنده اتخاذ شد. نمایندگان چندین ایالت دیگر نیز قرار بود در این مذاکرات شرکت کنند.",
+        "resume_ar": "أعلن النائب العام لولاية كاليفورنيا روب بونت إلغاء المفاوضات المقرر عقدها يوم الاثنين مع شركة باراماونت سكاي دانس. اتخذ القرار بسبب عدم استعداد الطرفين للحوار البنّاء. كان من المقرر أن يشارك ممثلون عن عدة ولايات أمريكية أخرى في هذه المفاوضات.",
+        "analyse_detaillee": "La fusion entre Paramount et Skydance s'inscrit dans une tendance de consolidation du secteur des médias américains, marquée par des acquisitions majeures comme celle de 21st Century Fox par Disney. Les enjeux principaux incluent la concentration du pouvoir médiatique et ses impacts sur la diversité des contenus. Les causes profondes résident dans la recherche de synergies financières et la domination des plateformes numériques. À court terme, cette annulation pourrait retarder la finalisation de l'accord et affecter les valorisations boursières des entreprises concernées. À moyen terme, elle pourrait inciter à des restructurations juridiques pour contourner les obstacles réglementaires. À long terme, cela pourrait renforcer les exigences antitrust et limiter les méga-fusions dans le secteur. Les acteurs comme le DOJ et la FTC adoptent une position de plus en plus stricte face aux concentrations médiatiques. Les États fédérés, via leurs procureurs généraux, jouent un rôle croissant dans l'application des règles antitrust.",
+        "analyse_en": "The Paramount-Skydance merger reflects a broader trend of consolidation in the U.S. media sector, exemplified by Disney's acquisition of 21st Century Fox. Key stakes involve media power concentration and its impact on content diversity. Root causes lie in financial synergy-seeking and the dominance of digital platforms. In the short term, this cancellation could delay deal completion and affect stock valuations. Medium-term, it may prompt legal restructurings to bypass regulatory hurdles. Long-term, it could strengthen antitrust enforcement and limit mega-mergers in the sector. Actors like the DOJ and FTC are adopting increasingly strict positions on media concentrations. State attorneys general are playing a growing role in antitrust enforcement.",
+        "analyse_zh": "Paramount与Skydance的合并反映了美国媒体行业整合的更广泛趋势，例如迪士尼收购21世纪福克斯。关键问题涉及媒体权力集中及其对内容多样性的影响。根本原因在于追求财务协同效应和数字平台的主导地位。短期内，此次取消可能推迟交易完成并影响相关公司的股票估值。中期来看，可能促使法律重组以绕过监管障碍。长期而言，可能加强反垄断执法并限制该行业的超大规模并购。司法部和联邦贸易委员会等行为者对媒体集中采取日益严格的立场。州检察长在反垄断执法中发挥着日益重要的作用。",
+        "analyse_ru": "Конфликт между властями Калифорнии и компанией Paramount Skydance может иметь долгосрочные последствия для медиа-рынка США. Причины отмены переговоров кроются в разногласиях по вопросам регулирования и конкуренции. Последствия могут затронуть как потребителей, так и инвесторов. Перспективы разрешения ситуации зависят от готовности сторон к компромиссам. Позиция других штатов, участвующих в переговорах, остается неясной.",
+        "analyse_fa": "درگیری میان مقامات کالیفرنیا و شرکت پارامونت اسکای‌دنس می‌تواند تأثیرات بلندمدتی بر بازار رسانه‌ای آمریکا داشته باشد. دلایل لغو مذاکرات به اختلافات در زمینه مقررات و رقابت بازمی‌گردد. پیامدهای این موضوع می‌تواند مصرف‌کنندگان و سرمایه‌گذاران را تحت تأثیر قرار دهد. چشم‌انداز حل مسئله به آمادگی طرفین برای مصالحه بستگی دارد. موضع سایر ایالت‌های شرکت‌کننده در مذاکرات هنوز نامشخص است.",
+        "analyse_ar": "قد يكون النزاع بين سلطات كاليفورنيا وشركة باراماونت سكاي دانس له آثار بعيدة المدى على سوق الإعلام الأمريكي. ترجع أسباب إلغاء المفاوضات إلى خلافات حول التنظيم والمنافسة. قد تؤثر عواقب هذا الوضع على المستهلكين والمستثمرين. ترتبط آفاق حل الأزمة بمدى استعداد الطرفين للتسوية. لا تزال مواقف الولايات الأخرى المشاركة في المفاوضات غير واضحة.",
+        "categorie": "Économie et régulation",
+        "source": "Bleeding Cool News",
+        "url": "https://bleedingcool.com/tv/paramount-skydance-playing-games-ca-ag-bonta-calls-off-monday-talks/",
+        "image": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-12-Jun-2026-05-46-PM-2057-2000x1125.jpg",
+        "date": "2026-08-24",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des fusions-acquisitions médiatiques",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur des studios de cinéma",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des fusions-acquisitions médiatiques",
+            "secteur_en": "Media M&A market",
+            "secteur_zh": "媒体并购市场",
+            "effet_fr": "L'incertitude réglementaire réduit l'appétit des investisseurs pour les méga-fusions, freinant la liquidité du marché.",
+            "effet_en": "Regulatory uncertainty reduces investor appetite for mega-mergers, dampening market liquidity.",
+            "effet_zh": "监管不确定性降低了投资者对超大规模并购的兴趣，削弱了市场流动性。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur des studios de cinéma",
+            "secteur_en": "Film studio sector",
+            "secteur_zh": "电影制片厂行业",
+            "effet_fr": "Les studios pourraient voir leurs projets de croissance externe compromis, limitant leur capacité à rivaliser avec les géants du streaming.",
+            "effet_en": "Studios may see external growth projects compromised, limiting their ability to compete with streaming giants.",
+            "effet_zh": "电影制片厂可能看到外部增长项目受损，限制其与流媒体巨头竞争的能力。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-25T12:44:05.366320"
+      },
       {
         "id": "usa_350331",
         "titre": "Trump impose des sanctions économiques à l'Iran",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-24T16:36:01.386507"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_161276",
-        "titre": "Johnson veut une course IndyCar annuelle à D.C.",
-        "titre_en": "Johnson pushes for annual IndyCar race in D.C.",
-        "titre_zh": "约翰逊推动华盛顿特区年赛车赛",
-        "titre_ru": "Спикер Палаты представителей США хочет сделать гонку ИндиКар в Д.C. ежегодной",
-        "titre_fa": "رئیس مجلس نمایندگان آمریکا خواستار برگزاری سالانه مسابقه ایندی‌کار در واشنگتن دی‌سی شد",
-        "titre_ar": "رئيس مجلس النواب الأمريكي يريد جعل سباق إنديكار في واشنطن دي سي سنوياً",
-        "titre_original": "House Speaker Mike Johnson wants the D.C. IndyCar race to be annual: 'I'll be pushing for that'",
-        "resume": "Le président de la Chambre des représentants américaine, Mike Johnson, souhaite faire de la course Freedom 250 Grand Prix un événement annuel à Washington D.C. Cette compétition évite actuellement le besoin d'approbation du Congrès. La proposition vise à dynamiser le tourisme local.",
-        "resume_en": "U.S. House Speaker Mike Johnson wants the Freedom 250 Grand Prix to become an annual event in Washington D.C. The race currently bypasses the need for congressional approval. The proposal aims to boost local tourism.",
-        "resume_zh": "美国众议院议长迈克·约翰逊希望将自由250大奖赛打造成华盛顿特区年度赛事。该比赛目前无需国会批准。提议旨在推动当地旅游业。",
-        "resume_ru": "Спикер Палаты представителей США Майк Джонсон заявил, что намерен сделать гонку Freedom 250 Grand Prix в Вашингтоне ежегодной. Это событие было организовано так, чтобы не требовать одобрения Конгресса. Решение может повысить популярность автоспорта в столице США.",
-        "resume_fa": "رئیس مجلس نمایندگان آمریکا، مایک جانسون، اعلام کرد که قصد دارد مسابقه گرند پری freedom 250 در واشنگتن دی‌سی را به یک رویداد سالانه تبدیل کند. این مسابقه به گونه‌ای سازماندهی شده بود که نیازی به تأیید کنگره نداشته باشد. این تصمیم می‌تواند محبوبیت ورزش موتوری در پایتخت آمریکا را افزایش دهد.",
-        "resume_ar": "أعلن رئيس مجلس النواب الأمريكي مايك جونسون رغبته في جعل سباق غراند بريكس Freedom 250 في واشنطن دي سي حدثاً سنوياً. تم تنظيم هذا السباق بطريقة لا تتطلب موافقة الكونغرس. قد يزيد هذا القرار من شعبية رياضة السيارات في عاصمة الولايات المتحدة.",
-        "analyse_detaillee": "La proposition de Mike Johnson s'inscrit dans une stratégie de revitalisation des événements sportifs majeurs à Washington, après des années de déclin relatif face à d'autres métropoles américaines. Historiquement, D.C. a accueilli des courses automobiles dans les années 1950-60, mais celles-ci ont disparu en raison de contraintes logistiques et politiques. Les enjeux incluent la création d'emplois locaux et l'attraction de visiteurs internationaux, avec un impact économique estimé à plusieurs millions de dollars. À court terme, l'organisation annuelle pourrait rencontrer des obstacles bureaucratiques malgré l'évitement actuel du Congrès. À moyen terme, si réussie, la course pourrait s'inscrire dans le calendrier des compétitions majeures comme l'Indy 500. À long terme, elle pourrait positionner D.C. comme une destination incontournable pour le sport automobile. Les acteurs locaux, comme les promoteurs de l'événement et la mairie, y voient une opportunité, tandis que les opposants craignent des perturbations urbaines.",
-        "analyse_en": "Mike Johnson's proposal aligns with a strategy to revitalize major sporting events in Washington, following years of relative decline compared to other U.S. cities. Historically, D.C. hosted auto races in the 1950s-60s, but these disappeared due to logistical and political constraints. Stakes include job creation and attracting international visitors, with an estimated economic impact of several million dollars. In the short term, annual organization could face bureaucratic hurdles despite bypassing Congress. Medium-term, if successful, the race could join the calendar of major competitions like the Indy 500. Long-term, it could position D.C. as a must-visit destination for motorsports. Local actors, such as event promoters and the city council, see an opportunity, while opponents fear urban disruptions.",
-        "analyse_zh": "约翰逊提议符合振兴华盛顿体育赛事的战略，在多年相对衰退后。历史上，华盛顿在1950-60年代举办赛车比赛，后因后勤与政治限制消失。关键在于创造就业与吸引国际游客，预计经济影响达数百万美元。短期内，年度赛事组织或面临官僚障碍（尽管避开国会）。中期若成功，或进入印第安纳波利斯500等顶级赛事日历。长期可能将华盛顿打造成赛车运动必去目的地。当地参与者如赛事推广方与市政府视为机遇，反对者则担心城市混乱。",
-        "analyse_ru": "Инициатива Джонсона направлена на популяризацию автоспорта в США и укрепление имиджа Вашингтона как культурного и спортивного центра. Причины включают стремление к увеличению доходов от туризма и поддержке местных спортивных мероприятий. Последствия могут включать рост интереса к ИндиКар и увеличение инвестиций в инфраструктуру. Перспективы зависят от поддержки других политических деятелей и успешности первых гонок. Позиции сторон: Джонсон продвигает идею, но сталкивается с возможными бюрократическими препятствиями.",
-        "analyse_fa": "ابتکار جانسون با هدف ترویج ورزش موتوری در آمریکا و تقویت تصویر واشنگتن به عنوان یک مرکز فرهنگی و ورزشی است. دلایل آن شامل تلاش برای افزایش درآمد از گردشگری و حمایت از رویدادهای ورزشی محلی است. پیامدها می‌تواند شامل افزایش علاقه به ایندی‌کار و جذب سرمایه‌گذاری در زیرساخت‌ها باشد. چشم‌اندازها به حمایت سایر سیاستمداران و موفقیت مسابقات اولیه بستگی دارد. موضع بازیگران: جانسون این ایده را ترویج می‌کند، اما ممکن است با موانع بوروکراتیک مواجه شود.",
-        "analyse_ar": "تهدف مبادرة جونسون إلى الترويج لرياضة السيارات في الولايات المتحدة وتعزيز صورة واشنطن كمركز ثقافي ورياضي. الأسباب تشمل السعي لزيادة الإيرادات من السياحة ودعم الفعاليات الرياضية المحلية. العواقب قد تشمل زيادة الاهتمام بسباقات إنديكار وجذب استثمارات في البنية التحتية. الآفاق تعتمد على دعم السياسيين الآخرين ونجاح السباقات الأولى. مواقف الأطراف: يروج جونسون للفكرة لكنه قد يواجه عقبات بيروقراطية.",
-        "categorie": "Sport / Politique",
+        "id": "chine_983806",
+        "titre": "Xi Jinping pourrait visiter l'Inde pour le sommet des BRICS",
+        "titre_en": "Xi Jinping Likely to Visit India for BRICS Summit",
+        "titre_zh": "习近平可能出席金砖国家峰会访问印度",
+        "titre_ru": "Вероятен визит Си Цзиньпина в Индию на саммит БРИКС",
+        "titre_fa": "احتمال سفر شی جین‌پینگ به هند برای اجلاس بریکس",
+        "titre_ar": "من المتوقع زيارة شي جين بينغ للهند لحضور قمة بريكس",
+        "titre_original": "China's Xi likely to visit India with big delegation for first time in seven years",
+        "resume": "Le président chinois Xi Jinping devrait se rendre en Inde pour le sommet des BRICS en septembre. Ce serait sa première visite depuis sept ans. Les relations sino-indiennes restent tendues malgré ce rapprochement diplomatique.",
+        "resume_en": "Chinese President Xi Jinping is expected to attend the BRICS summit in India in September, marking his first visit in seven years. Sino-Indian relations remain tense despite this diplomatic rapprochement.",
+        "resume_zh": "中国国家主席习近平预计将于9月出席在印度举行的金砖国家峰会，这是他七年来的首次访问。尽管有此次外交接近，中印关系仍然紧张。",
+        "resume_ru": "Президент Китая Си Цзиньпин, вероятно, посетит Индию в следующем месяце для участия в саммите БРИКС. Это будет его первый визит в Индию за семь лет. Ожидается, что он прибудет с большой делегацией. Встреча может укрепить двусторонние отношения.",
+        "resume_fa": "شی جین‌پینگ، رئیس‌جمهور چین، احتمالاً ماه آینده برای شرکت در اجلاس بریکس به هند سفر خواهد کرد. این نخستین سفر او به هند طی هفت سال گذشته خواهد بود. انتظار می‌رود او با هیئتی بزرگ به این سفر برود. این دیدار می‌تواند روابط دوجانبه را تقویت کند.",
+        "resume_ar": "من المتوقع أن يزور الرئيس الصيني شي جين بينغ الهند الشهر المقبل لحضور قمة بريكس. ستكون هذه الزيارة الأولى له للهند منذ سبع سنوات. من المتوقع أن يصل برفقة وفد كبير. قد تعزز هذه الزيارة العلاقات الثنائية.",
+        "analyse_detaillee": "La visite potentielle de Xi Jinping en Inde s'inscrit dans un contexte de rivalité géopolitique croissante entre Pékin et New Delhi, notamment autour des frontières himalayennes et de l'influence en Asie du Sud. Historiquement, les relations sino-indiennes ont oscillé entre coopération et conflits, avec des tensions récurrentes depuis le conflit de 1962. Les enjeux principaux incluent la gestion des différends frontaliers, la compétition pour l'hégémonie régionale et la rivalité technologique. Les causes profondes résident dans l'expansionnisme chinois en mer de Chine méridionale et en Asie du Sud, ainsi que dans la stratégie indienne de containment face à Pékin. À court terme, cette visite pourrait désamorcer temporairement les tensions et relancer des dialogues bilatéraux. À moyen terme, elle pourrait ouvrir la voie à des accords commerciaux limités, mais les désaccords structurels persisteront. À long terme, cela pourrait renforcer la coopération au sein des BRICS, mais sans résoudre les contentieux bilatéraux. Les acteurs comme les États-Unis et la Russie observent cette dynamique avec intérêt, tandis que le Pakistan reste un acteur clé dans l'équation régionale.",
+        "analyse_en": "Xi Jinping's potential visit to India occurs amid growing geopolitical rivalry between Beijing and New Delhi, particularly over Himalayan borders and influence in South Asia. Historically, Sino-Indian relations have fluctuated between cooperation and conflict, with recurring tensions since the 1962 war. Key stakes include managing border disputes, regional hegemony competition, and technological rivalry. Root causes lie in China's expansionism in the South China Sea and South Asia, as well as India's containment strategy against Beijing. In the short term, this visit could temporarily ease tensions and revive bilateral talks. Medium-term, it may pave the way for limited trade deals, but structural disagreements will persist. Long-term, it could strengthen BRICS cooperation but won't resolve bilateral disputes. Actors like the U.S. and Russia watch this dynamic closely, while Pakistan remains a key player in the regional equation.",
+        "analyse_zh": "习近平可能访问印度发生在北京与新德里之间地缘政治竞争加剧的背景下，特别是在喜马拉雅边界和南亚影响力方面。历史上，中印关系在合作与冲突间波动，自1962年战争以来存在持续紧张。主要问题包括管理边界争端、地区霸权竞争和技术竞争。根本原因在于中国在南海和南亚的扩张主义，以及印度对北京的遏制战略。短期内，此次访问可能暂时缓和紧张局势并重启双边对话。中期来看，可能为有限的贸易协议铺平道路，但结构性分歧将持续。长期而言，这可能加强金砖国家合作，但无法解决双边争端。美国和俄罗斯等行为者密切关注这一动态，而巴基斯坦仍是地区方程中的关键角色。",
+        "analyse_ru": "Визит Си Цзиньпина в Индию на фоне напряженных отношений между странами может иметь важное значение для региональной стабильности. Причины визита связаны с необходимостью укрепления экономического сотрудничества и политического диалога. Последствия могут повлиять на баланс сил в Азии. Перспективы улучшения отношений зависят от готовности обеих сторон к компромиссам. Позиция других участников БРИКС остается ключевым фактором.",
+        "analyse_fa": "سفر شی جین‌پینگ به هند در شرایط تنش‌های کنونی میان دو کشور می‌تواند برای ثبات منطقه‌ای اهمیت داشته باشد. دلایل این سفر به لزوم تقویت همکاری‌های اقتصادی و گفتگوی سیاسی بازمی‌گردد. پیامدهای این موضوع می‌تواند بر توازن قدرت در آسیا تأثیر بگذارد. چشم‌انداز بهبود روابط به آمادگی طرفین برای مصالحه بستگی دارد. موضع سایر اعضای بریکس نیز عاملی کلیدی است.",
+        "analyse_ar": "قد يكون لزيارة شي جين بينغ للهند في ظل التوترات الحالية بين البلدين أهمية بالغة لاستقرار المنطقة. ترتبط أسباب الزيارة بضرورة تعزيز التعاون الاقتصادي والحوار السياسي. قد تؤثر العواقب على توازن القوى في آسيا. ترتبط آفاق تحسين العلاقات بمدى استعداد الطرفين للتسوية. لا يزال موقف أعضاء بريكس الآخرين عاملاً حاسماً.",
+        "categorie": "Géopolitique",
         "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/us/article/house-speaker-mike-johnson-wants-the-dc-indycar-race-to-be-annual-ill-be-pushing-for-that-153424486.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/35d42aa8eb687a2693a77e38818567bf41966b6bbff707b743f428251985e8c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F8256ac0d-ab4a-4f0c-95ce-b82d9ee5687b",
-        "date": "2026-08-23",
-        "pays": "usa",
+        "url": "https://www.yahoo.com/news/world/articles/chinas-xi-likely-visit-india-122857774.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/16ad97ff6e830df47a41f3372926e174b4952298a0808784b91b28fdf5ea8476/lightyear_networkapi/resizefill_w800_h522%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2194930ffdae628a5d2a153f5b018a99.jpg",
+        "date": "2026-08-24",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Tourisme local",
-            "hausse": true
+            "label": "▼ Commerce sino-indien",
+            "hausse": false
           },
           {
-            "label": "▲ Secteur événementiel sportif",
+            "label": "▲ Investissements directs étrangers",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Tourisme local",
-            "secteur_en": "Local tourism",
-            "secteur_zh": "本地旅游业",
-            "effet_fr": "L'événement annuel pourrait augmenter de 15 à 20 % le nombre de visiteurs à Washington, stimulant hôtels et restaurants.",
-            "effet_en": "The annual event could increase Washington visitors by 15-20%, boosting hotels and restaurants.",
-            "effet_zh": "年度赛事或令华盛顿游客增长15-20%，带动酒店与餐饮业。",
-            "hausse": true
+            "secteur_fr": "Commerce sino-indien",
+            "secteur_en": "Sino-Indian trade",
+            "secteur_zh": "中印贸易",
+            "effet_fr": "Une visite de Xi pourrait relancer les échanges commerciaux, mais les déséquilibres structurels et les barrières non tarifaires limiteraient les gains.",
+            "effet_en": "Xi's visit could revive trade exchanges, but structural imbalances and non-tariff barriers would limit gains.",
+            "effet_zh": "习近平的访问可能重振贸易往来，但结构性失衡和非关税壁垒将限制收益。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur événementiel sportif",
-            "secteur_en": "Sports event industry",
-            "secteur_zh": "体育赛事行业",
-            "effet_fr": "La course pourrait générer 50 millions de dollars de revenus pour les organisateurs et les diffuseurs télévisés.",
-            "effet_en": "The race could generate $50 million in revenue for organizers and TV broadcasters.",
-            "effet_zh": "赛事或为组织方与电视转播商带来5000万美元收入。",
+            "secteur_fr": "Investissements directs étrangers",
+            "secteur_en": "Foreign direct investments",
+            "secteur_zh": "外商直接投资",
+            "effet_fr": "Les entreprises chinoises pourraient accélérer leurs investissements en Inde, notamment dans les infrastructures, malgré les risques géopolitiques.",
+            "effet_en": "Chinese firms may accelerate investments in India, particularly in infrastructure, despite geopolitical risks.",
+            "effet_zh": "中国企业可能加速在印度的投资，特别是在基础设施领域，尽管存在地缘政治风险。",
             "hausse": true
           }
         ],
-        "created_at": "2026-08-24T15:38:34.473432"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-25T12:44:05.366340"
+      },
       {
         "id": "chine_97729",
         "titre": "La Chine appelle au dialogue au Moyen-Orient",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-24T14:40:29.377625"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_457977",
-        "titre": "Robots humanoïdes battent le record du 100m",
-        "titre_en": "Humanoid robots break 100m world record",
-        "titre_zh": "人形机器人打破100米世界纪录",
-        "titre_ru": "Китайские роботы побили рекорд Болта на 100 м, но врезались в барьер",
-        "titre_fa": "ربات‌های چینی رکورد ۱۰۰ متر بولت را شکستند، اما به مانع برخورد کردند",
-        "titre_ar": "روبوتات صينية تحطم رقم بولت في 100 متر ثم تصطدم بالحواجز",
-        "titre_original": "Humanoid robots beat Usain Bolt’s 100m record — then crash into the barrier",
-        "resume": "Des robots humanoïdes chinois ont battu le record du monde du 100 mètres, dépassant Usain Bolt. Leurs performances montrent des limites techniques, notamment lors des arrivées chaotiques. Ces avancées soulèvent des questions sur l’avenir de l’IA et de l’automatisation.",
-        "resume_en": "Chinese humanoid robots broke the 100-meter world record, surpassing Usain Bolt. Their performances reveal technical limits, particularly in chaotic finishes. These advances raise questions about the future of AI and automation.",
-        "resume_zh": "中国人形机器人打破了100米世界纪录，超越了尤塞恩·博尔特。它们的表现暴露了技术限制，特别是在混乱的终点。这些进展引发了关于人工智能和自动化未来的思考。",
-        "resume_ru": "Китайские человекоподобные роботы установили новый мировой рекорд в беге на 100 метров, обогнав Усэйна Болта. Однако в финале соревнований они врезались в барьер. Это показало ограниченные возможности современных технологий.",
-        "resume_fa": "ربات‌های انسان‌نما چینی رکورد جهانی ۱۰۰ متر را شکستند و از اوسین بولت پیشی گرفتند. اما در مرحله نهایی به مانع برخورد کردند. این نشان داد که فناوری‌های کنونی هنوز محدودیت‌هایی دارند.",
-        "resume_ar": "حققت الروبوتات الصينية شبيهة البشر رقماً قياسياً عالمياً في سباق 100 متر، متجاوزة رقم أوسين بولت. لكن في النهائي اصطدمت بالحواجز. وهذا أظهر القيود الحالية للتكنولوجيا الحديثة.",
-        "analyse_detaillee": "Cette percée s’inscrit dans la stratégie chinoise de leadership technologique, notamment dans les domaines de l’IA et de la robotique, soutenue par des investissements massifs (programme Made in China 2025). Historiquement, la Chine a toujours visé l’autosuffisance technologique pour réduire sa dépendance aux importations. Les enjeux principaux incluent la compétitivité industrielle, la domination des chaînes de valeur mondiales et les implications éthiques de l’IA. Les causes profondes résident dans la volonté de surpasser les États-Unis et d’autres puissances technologiques. À court terme, ces avancées pourraient stimuler l’innovation mais aussi exacerber les tensions commerciales. À moyen terme, elles pourraient transformer des secteurs comme la logistique, la santé et la défense. À long terme, une domination chinoise dans la robotique pourrait redéfinir l’équilibre géopolitique technologique. Les acteurs clés sont les entreprises chinoises (Unitree, Fourier Intelligence), le gouvernement et les universités.",
-        "analyse_en": "This breakthrough aligns with China’s strategy for technological leadership, particularly in AI and robotics, backed by massive investments (Made in China 2025 program). Historically, China has aimed for technological self-sufficiency to reduce import dependence. Key stakes include industrial competitiveness, dominance over global value chains, and ethical implications of AI. Root causes lie in the desire to surpass the US and other tech powers. In the short term, these advances could boost innovation but also heighten trade tensions. In the medium term, they could transform sectors like logistics, healthcare, and defense. Long-term, Chinese dominance in robotics could redefine the global technological balance. Key actors include Chinese companies (Unitree, Fourier Intelligence), the government, and universities.",
-        "analyse_zh": "这一突破符合中国在人工智能和机器人领域的技术领导战略，并得到大规模投资（中国制造2025计划）的支持。历史上，中国一直致力于技术自给自足，以减少对进口的依赖。主要影响包括产业竞争力、全球价值链主导地位以及人工智能的伦理影响。深层原因在于超越美国和其他科技大国的愿望。短期内，这些进展可能刺激创新，但也可能加剧贸易紧张局势。中期来看，可能改变物流、医疗和国防等行业。长期而言，中国在机器人领域的主导地位可能重新定义全球技术平衡。主要参与者包括中国企业（Unitree、Fourier Intelligence）、政府和大学。",
-        "analyse_ru": "Китайские человекоподобные роботы, участвовавшие в играх World Humanoid Robot Games, удивили мир, превысив рекорд Усэйна Болта на стометровке. Контекст связан с глобальной гонкой технологий в области искусственного интеллекта и робототехники. Причины успеха роботов кроются в интенсивных инвестициях Китая в эту сферу. Последствия включают как прорывы в науке, так и риски неконтролируемого развития технологий. Перспективы зависят от дальнейших исследований и этики применения. Позиция Китая направлена на укрепление технологического лидерства, но критики предупреждают о возможных социальных последствиях.",
-        "analyse_fa": "ربات‌های انسان‌نمای چینی که در بازی‌های جهانی ربات‌های انسان‌نما شرکت کردند، با شکستن رکورد اوسین بولت در دوی ۱۰۰ متر، جهان را شگفت‌زده کردند. زمینه این موفقیت به رقابت جهانی در زمینه هوش مصنوعی و رباتیک مربوط می‌شود. دلایل موفقیت ربات‌ها به سرمایه‌گذاری‌های گسترده چین در این حوزه بازمی‌گردد. پیامدهای آن شامل پیشرفت‌های علمی و همچنین خطرات توسعه کنترل‌نشده فناوری است. چشم‌اندازها به تحقیقات بیشتر و اخلاقیات کاربرد فناوری بستگی دارد. موضع چین بر تقویت رهبری فناوری متمرکز است، اما منتقدان در مورد پیامدهای اجتماعی احتمالی هشدار می‌دهند.",
-        "analyse_ar": "أدهشت الروبوتات الصينية شبيهة البشر، التي شاركت في ألعاب الروبوتات البشرية العالمية، العالم بتجاوزها الرقم القياسي لأوسين بولت في سباق 100 متر. ويرتبط السياق بالمنافسة العالمية في مجال الذكاء الاصطناعي والروبوتات. وتستند أسباب نجاح الروبوتات إلى الاستثمارات الضخمة التي تقوم بها الصين في هذا المجال. ويمكن أن تشمل العواقب اختراقات علمية وكذلك مخاطر التطور غير المنضبط للتكنولوجيا. وتعتمد الآفاق على الأبحاث المستقبلية والأخلاقيات التطبيق. وتركز مواقف الصين على تعزيز القيادة التكنولوجية، لكن يحذر النقاد من العواقب الاجتماعية المحتملة.",
-        "categorie": "Technologie & Innovation",
-        "source": "Notebookcheck.net",
-        "url": "https://www.notebookcheck.net/Humanoid-robots-beat-Usain-Bolt-s-100m-record-then-crash-into-the-barrier.1376193.0.html",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/robot_runing-games_01.jpg",
-        "date": "2026-08-23",
-        "pays": "chine",
+        "id": "russie_712503",
+        "titre": "Poutine salue le rôle de Modi dans l'augmentation du commerce",
+        "titre_en": "Putin Praises Modi's Role in Boosting Russia-India Trade",
+        "titre_zh": "普京赞扬莫迪在提升俄印贸易中的作用",
+        "titre_ru": "Путин высоко оценил вклад Моди в развитие российско-индийской торговли",
+        "titre_fa": "پوتین نقش مودی در رشد تجارت روسیه و هند را تحسین کرد",
+        "titre_ar": "أشاد بوتين بدور مودي في تعزيز التجارة الروسية الهندية",
+        "titre_original": "Putin credits PM Modi for growing Russia-India trade in talks with EAM Jaishankar",
+        "resume": "Vladimir Poutine a reconnu le rôle clé de Narendra Modi dans le renforcement des relations commerciales entre la Russie et l'Inde. Les échanges bilatéraux ont fortement augmenté ces dernières années. Cette dynamique s'inscrit dans un contexte géopolitique en mutation.",
+        "resume_en": "Vladimir Putin acknowledged Narendra Modi's key role in strengthening Russia-India trade ties. Bilateral exchanges have surged in recent years amid shifting geopolitical dynamics.",
+        "resume_zh": "弗拉基米尔·普京承认纳伦德拉·莫迪在加强俄印贸易关系中的关键作用。双边交流近年来激增，背景是地缘政治格局的变化。",
+        "resume_ru": "Президент России Владимир Путин высоко оценил вклад премьер-министра Индии Нарендры Моди в укрепление двусторонних отношений. Он отметил значительный рост товарооборота между странами. Встреча прошла в рамках переговоров с министром иностранных дел Индии С. Джейшанкаром.",
+        "resume_fa": "ولادیمیر پوتین، رئیس‌جمهور روسیه، نقش نارندرا مودی، نخست‌وزیر هند، در تقویت روابط دوجانبه را تحسین کرد. او به رشد قابل توجه حجم تجارت بین دو کشور اشاره نمود. این دیدار در حاشیه مذاکرات با وزیر امور خارجه هند، اس. جایشانکار، برگزار شد.",
+        "resume_ar": "أشاد الرئيس الروسي فلاديمير بوتين بدور رئيس وزراء الهند ناريندرا مودي في تعزيز العلاقات الثنائية. ولفت إلى النمو الكبير في حجم التجارة بين البلدين. جرت هذه المباحثات على هامش اجتماعات مع وزير الخارجية الهندي إس. جايشانكار.",
+        "analyse_detaillee": "Les relations russo-indiennes connaissent un regain depuis l'invasion de l'Ukraine en 2022, alors que l'Inde cherche à diversifier ses approvisionnements énergétiques et militaires. Historiquement, ces deux pays entretiennent des liens stratégiques depuis la Guerre froide, mais les échanges commerciaux restaient limités jusqu'à récemment. Les enjeux principaux incluent la réduction de la dépendance de l'Inde à la Chine et à l'Occident, ainsi que l'accès de la Russie à des marchés alternatifs face aux sanctions occidentales. Les causes profondes résident dans les sanctions imposées à la Russie, poussant Moscou à se tourner vers l'Asie, et dans la stratégie indienne de non-alignement actif. À court terme, cette augmentation du commerce pourrait renforcer la résilience économique des deux pays face aux pressions extérieures. À moyen terme, elle pourrait favoriser des partenariats technologiques et militaires plus poussés. À long terme, cela pourrait redessiner les équilibres géoéconomiques en Eurasie, créant un axe alternatif aux alliances occidentales. Les acteurs comme la Chine observent cette dynamique avec prudence, tandis que les États-Unis tentent de limiter l'influence russe en Inde.",
+        "analyse_en": "Russia-India relations have revived since the 2022 Ukraine invasion, as India seeks to diversify its energy and military supplies. Historically, the two countries maintained strategic ties since the Cold War, but trade remained limited until recently. Key stakes include India's reduced dependence on China and the West, and Russia's access to alternative markets amid Western sanctions. Root causes lie in sanctions imposed on Russia, pushing Moscow toward Asia, and India's active non-alignment strategy. In the short term, increased trade could strengthen both countries' economic resilience against external pressures. Medium-term, it may foster deeper technological and military partnerships. Long-term, this could reshape Eurasian geoeconomic balances, creating an alternative axis to Western alliances. Actors like China watch this dynamic cautiously, while the U.S. seeks to limit Russian influence in India.",
+        "analyse_zh": "自2022年乌克兰战争以来，俄印关系复苏，印度寻求多元化其能源和军事供应。历史上，两国自冷战以来保持战略联系，但贸易往来直到最近才有所增长。主要问题包括印度减少对华和西方的依赖，以及俄罗斯在西方制裁下获得替代市场。根本原因在于对俄罗斯的制裁推动莫斯科转向亚洲，以及印度的积极不结盟战略。短期内，贸易增长可能增强两国对外部压力的经济韧性。中期来看，可能促进更深入的技术和军事合作。长期而言，这可能重塑欧亚地缘经济平衡，形成对西方联盟的替代轴心。中国等行为者谨慎观察这一动态，而美国试图限制俄罗斯在印度的影响力。",
+        "analyse_ru": "Укрепление российско-индийских отношений имеет стратегическое значение для обеих стран на фоне геополитических изменений. Путин подчеркнул, что Моди сыграл ключевую роль в увеличении товарооборота, что важно для экономик обеих стран. Причины роста торговли связаны с санкциями против России и поиском новых партнеров. Последствия могут укрепить позиции России на международной арене. Перспективы дальнейшего сотрудничества зависят от стабильности в регионе и политической воли сторон.",
+        "analyse_fa": "تقویت روابط روسیه و هند در شرایط تغییرات ژئوپلیتیکی اهمیت استراتژیکی برای هر دو کشور دارد. پوتین تأکید کرد که مودی نقش کلیدی در افزایش حجم تجارت ایفا کرده است، موضوعی مهم برای اقتصاد هر دو کشور. دلایل رشد تجارت به تحریم‌های اعمال‌شده علیه روسیه و جستجوی شرکای جدید بازمی‌گردد. پیامدهای این موضوع می‌تواند موقعیت روسیه در arena بین‌المللی را تقویت کند. چشم‌انداز همکاری‌های آینده به ثبات منطقه و اراده سیاسی طرفین بستگی دارد.",
+        "analyse_ar": "لتعزيز العلاقات الروسية الهندية أهمية استراتيجية لكلا البلدين في ظل التغيرات الجيوسياسية. أكد بوتين أن مودي لعب دوراً حاسماً في زيادة حجم التجارة، وهو أمر مهم لاقتصادات البلدين. ترتبط أسباب نمو التجارة بالعقوبات المفروضة على روسيا وسعيها إلى شركاء جدد. قد تعزز العواقب موقف روسيا على الساحة الدولية. ترتبط آفاق التعاون المستقبلي باستقرار المنطقة والإرادة السياسية للطرفين.",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/pays-close-personal-attention-putin-credits-pm-modi-for-growing-russia-india-trade-in-talks-with-eam-jaishankar/articleshow/133466356.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133466450,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-08-24",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur technologique",
-            "hausse": true
+            "label": "▼ Commerce des hydrocarbures",
+            "hausse": false
           },
           {
-            "label": "▼ Marché boursier",
-            "hausse": false
+            "label": "▲ Secteur de la défense",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur technologique",
-            "secteur_en": "Technology sector",
-            "secteur_zh": "科技行业",
-            "effet_fr": "Ces avancées pourraient accélérer les investissements en R&D et positionner la Chine comme leader mondial de la robotique humanoïde, stimulant l’innovation mais aussi la concurrence.",
-            "effet_en": "These advances could accelerate R&D investments and position China as a global leader in humanoid robotics, boosting innovation but also competition.",
-            "effet_zh": "这些进展可能加速研发投资，使中国成为人形机器人领域的全球领导者，推动创新但也加剧竞争。",
-            "hausse": true
+            "secteur_fr": "Commerce des hydrocarbures",
+            "secteur_en": "Hydrocarbon trade",
+            "secteur_zh": "碳氢化合物贸易",
+            "effet_fr": "L'Inde devient un débouché majeur pour le pétrole russe à prix réduit, réduisant les revenus russes mais sécurisant des marchés pour Moscou.",
+            "effet_en": "India is becoming a major outlet for discounted Russian oil, reducing Russian revenues but securing markets for Moscow.",
+            "effet_zh": "印度正成为俄罗斯折扣石油的主要出口市场，减少俄罗斯收入但为莫斯科巩固市场。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché boursier",
-            "secteur_en": "Stock market",
-            "secteur_zh": "股票市场",
-            "effet_fr": "Les actions des entreprises spécialisées en robotique pourraient connaître une forte hausse, mais aussi une volatilité accrue en raison des attentes élevées et des risques technologiques.",
-            "effet_en": "Shares of robotics companies could surge but also face increased volatility due to high expectations and technological risks.",
-            "effet_zh": "机器人公司的股票可能大涨，但也可能因高期望和技术风险而面临更大波动。",
-            "hausse": false
+            "secteur_fr": "Secteur de la défense",
+            "secteur_en": "Defense sector",
+            "secteur_zh": "国防行业",
+            "effet_fr": "Les ventes d'armes russes à l'Inde pourraient augmenter, renforçant la position de Moscou comme fournisseur clé malgré la concurrence occidentale.",
+            "effet_en": "Russian arms sales to India could rise, strengthening Moscow's position as a key supplier despite Western competition.",
+            "effet_zh": "俄罗斯对印度的武器销售可能上升，巩固莫斯科作为主要供应商的地位，尽管面临西方竞争。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-24T13:51:52.033581"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-25T12:44:05.366331"
+      },
       {
         "id": "russie_600131",
         "titre": "France, Royaume-Uni et Allemagne renforcent leur soutien à l'Ukraine",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-24T15:38:34.473452"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_653341",
-        "titre": "Caméras russes détectées dans les radars slovaques",
-        "titre_en": "Russian backdoors found in Slovak speed cameras",
-        "titre_zh": "斯洛伐克测速摄像头发现俄罗斯后门",
-        "titre_ru": "Словакия обнаружила российские бэкдоры в камерах скорости",
-        "titre_fa": "اسلواکی در دوربین‌های سرعت، درب‌های پشتی روسی یافت",
-        "titre_ar": "سلوفاكيا تكتشف أبواب خلفية روسية في كاميرات السرعة",
-        "titre_original": "Slovakia finds Russian backdoor in traffic speed cameras",
-        "resume": "Le service de sécurité slovaque NBU a alerté sur des caméras de vitesse NERO R-ONE contenant des portes dérobées russes. Ces dispositifs, utilisés pour la surveillance routière, posent un risque de cyberespionnage. Le gouvernement slovaque a ordonné leur retrait immédiat.",
-        "resume_en": "Slovakia's NBU security service warned of Russian backdoors in NERO R-ONE speed cameras used for road surveillance. The devices pose cyberespionage risks, prompting the government to order their immediate removal. This incident highlights growing concerns over Russian influence in Central Europe.",
-        "resume_zh": "斯洛伐克国家安全局NBU警告称用于道路监控的NERO R-ONE测速摄像头存在俄罗斯后门。这些设备构成网络间谍风险，政府已下令立即撤除。事件凸显俄在中欧影响力的担忧。",
-        "resume_ru": "Служба национальной безопасности Словакии предупредила об угрозе использования камер NERO R-ONE из-за встроенных российских бэкдоров. Агентство заявило, что эти устройства могут использоваться для кибератак. Эксперты призывают немедленно прекратить их эксплуатацию.",
-        "resume_fa": "سرویس امنیت ملی اسلواکی در مورد تهدید استفاده از دوربین‌های NERO R-ONE به دلیل وجود درب‌های پشتی روسی هشدار داد. این سازمان گفت که این دستگاه‌ها می‌توانند برای حملات سایبری مورد استفاده قرار گیرند. کارشناسان خواستار توقف فوری استفاده از آنها شدند.",
-        "resume_ar": "حذرت خدمة الأمن الوطني السلوفاكية من خطر استخدام كاميرات NERO R-ONE بسبب وجود أبواب خلفية روسية مدمجة. وأكدت الوكالة أن هذه الأجهزة يمكن استخدامها لهجمات إلكترونية. يحث الخبراء على وقف استخدامها فوراً.",
-        "analyse_detaillee": "L'incident révèle une vulnérabilité critique dans les infrastructures critiques slovaques, exploitable par des acteurs étatiques hostiles. Historiquement, la Slovaquie, membre de l'UE et de l'OTAN, a été ciblée par des cyberattaques russes, notamment après son soutien à l'Ukraine. À court terme, le retrait des caméras évitera des fuites de données sensibles, mais créera des coûts logistiques et opérationnels immédiats. À moyen terme, cela pourrait accélérer la modernisation des systèmes de surveillance slovaques avec des technologies occidentales. À long terme, cette affaire pourrait renforcer la coopération cyber entre pays d'Europe centrale et orientale face à la menace russe. La Russie, via des acteurs comme le GRU, cherche à infiltrer les infrastructures critiques pour des opérations d'espionnage ou de sabotage. L'UE et l'OTAN devront renforcer leurs mécanismes de détection des menaces hybrides. La Slovaquie, déjà sous pression géopolitique, devra équilibrer ses relations avec Moscou et Bruxelles.",
-        "analyse_en": "The incident exposes a critical vulnerability in Slovakia's critical infrastructure, exploitable by hostile state actors. Historically, Slovakia, an EU and NATO member, has been targeted by Russian cyberattacks, especially after supporting Ukraine. Short-term, removing the cameras will prevent sensitive data leaks but incur immediate logistical and operational costs. Medium-term, it could accelerate the modernization of Slovakia's surveillance systems with Western technologies. Long-term, the case may strengthen cyber cooperation among Central and Eastern European countries against the Russian threat. Russia, through actors like the GRU, seeks to infiltrate critical infrastructure for espionage or sabotage. The EU and NATO must enhance hybrid threat detection mechanisms. Slovakia, already under geopolitical pressure, must balance relations with Moscow and Brussels.",
-        "analyse_zh": "事件暴露斯洛伐克关键基础设施的严重漏洞，可被敌对国家行为体利用。历史上，作为欧盟和北约成员的斯洛伐克在支持乌克兰后屡遭俄罗斯网络攻击。短期内，撤除摄像头将避免敏感数据泄露，但需承担即时的后勤和运营成本。中期看，可能加速其用西方技术升级监控系统。长期则可能加强中东欧国家在网络安全领域对抗俄罗斯威胁的合作。俄罗斯通过格鲁乌等机构试图渗透关键基础设施进行间谍或破坏活动。欧盟和北约需强化针对混合威胁的检测机制。斯洛伐克在面临地缘政治压力下，需平衡与莫斯科和布鲁塞尔的关系。",
-        "analyse_ru": "Контекст связан с растущим беспокойством Европы по поводу киберугроз со стороны России, особенно после вторжения в Украину. Причины обнаружения бэкдоров могут быть связаны с попытками Москвы получить доступ к европейской инфраструктуре. Последствия использования таких устройств могут включать утечку данных, шпионаж или диверсии. Перспективы зависят от реакции ЕС и Словакии, а также от ужесточения контроля за импортом технологий. Позиции сторон: Словакия и ЕС рассматривают это как угрозу безопасности, а Россия отрицает обвинения.",
-        "analyse_fa": "زمینه این موضوع به نگرانی فزاینده اروپا از تهدیدات سایبری روسیه، به ویژه پس از حمله به اوکراین، مربوط می‌شود. دلایل کشف درب‌های پشتی ممکن است به تلاش مسکو برای دسترسی به زیرساخت‌های اروپایی مربوط باشد. عواقب استفاده از چنین دستگاه‌هایی می‌تواند شامل نشت داده‌ها، جاسوسی یا خرابکاری باشد. چشم‌انداز این ماجرا به واکنش اتحادیه اروپا و اسلواکی و همچنین تشدید کنترل بر واردات فناوری بستگی دارد. مواضع بازیگران: اسلواکی و اتحادیه اروپا این را تهدیدی برای امنیت می‌دانند، در حالی که روسیه اتهامات را رد می‌کند.",
-        "analyse_ar": "يرتبط سياق هذا الموضوع بالقلق المتزايد في أوروبا من التهديدات الإلكترونية الروسية، خاصة بعد الغزو الروسي لأوكرانيا. قد ترجع أسباب اكتشاف الأبواب الخلفية إلى محاولة موسكو الوصول إلى البنية التحتية الأوروبية. قد تشمل عواقب استخدام هذه الأجهزة تسريب البيانات أو التجسس أو التخريب. تتوقف الآفاق على رد فعل الاتحاد الأوروبي وسلوفاكيا، وكذلك تشديد الرقابة على استيراد التكنولوجيا. تختلف مواقف الأطراف: تعتبر سلوفاكيا والاتحاد الأوروبي هذا تهديداً أمنياً، بينما تنفي روسيا الاتهامات.",
-        "categorie": "Cybersécurité",
-        "source": "Risky.biz",
-        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-        "image": "https://risky.biz/static/img/RB-OG-Social.jpg",
-        "date": "2026-08-23",
-        "pays": "russie",
+        "id": "iran_135556",
+        "titre": "Bourse américaine en baisse avant sanctions contre l'Iran",
+        "titre_en": "U.S. Stock Market Falls Ahead of Iran Sanctions",
+        "titre_zh": "美国股市在对伊制裁前下跌",
+        "titre_ru": "Фондовый рынок США падает перед важным экономическим решением",
+        "titre_fa": "بازار سهام آمریکا پیش از تصمیم اقتصادی مهم سقوط کرد",
+        "titre_ar": "انخفض سوق الأسهم الأمريكية قبل قرار اقتصادي مهم",
+        "titre_original": "Stock Market Today: Dow Falls Ahead of 'Economic D-Day'; Alibaba Slides On Offering (Live Coverage)",
+        "resume": "Les marchés américains chutent en prévision de sanctions économiques massives contre l'Iran. Le Dow Jones et d'autres indices reculent fortement. Les investisseurs craignent un choc sur les prix de l'énergie et une escalade géopolitique.",
+        "resume_en": "U.S. markets are falling ahead of massive economic sanctions against Iran. The Dow Jones and other indices are sharply declining. Investors fear energy price shocks and geopolitical escalation.",
+        "resume_zh": "美国市场在对伊朗大规模经济制裁前下跌。道琼斯指数及其他指数急剧下滑。投资者担心能源价格冲击和地缘政治升级。",
+        "resume_ru": "Фьючерсы на индексы Dow Jones и других основных бирж США снизились в понедельник. Это связано с ожиданиями важного экономического решения в отношении Ирана. Компания Alibaba также снизилась из-за предложения акций. Рынки готовятся к масштабным изменениям.",
+        "resume_fa": "قراردادهای آتی شاخص‌های داوجونز و سایر شاخص‌های اصلی بازار سهام آمریکا روز دوشنبه کاهش یافت. این به دلیل انتظار تصمیم اقتصادی مهمی درباره ایران بود. شرکت علی‌بابا نیز به دلیل عرضه سهام سقوط کرد. بازارها در حال آماده شدن برای تغییرات گسترده هستند.",
+        "resume_ar": "انخفضت العقود الآجلة لمؤشرات داو جونز وغيرها من المؤشرات الرئيسية لسوق الأسهم الأمريكية يوم الاثنين. ويرجع ذلك إلى توقع قرار اقتصادي مهم بشأن إيران. كما تراجعت شركة علي بابا بسبب طرح أسهمها. تستعد الأسواق لتغيرات واسعة النطاق.",
+        "analyse_detaillee": "Les sanctions contre l'Iran s'inscrivent dans une longue histoire de tensions géopolitiques entre Téhéran et Washington, remontant à la révolution islamique de 1979. Les enjeux principaux incluent la limitation du programme nucléaire iranien, la réduction de son influence régionale et la sécurisation des approvisionnements énergétiques pour les alliés américains. Les causes profondes résident dans l'opposition idéologique entre les deux pays, les ambitions régionales de l'Iran et la stratégie américaine de containment. À court terme, ces sanctions pourraient provoquer une hausse des prix du pétrole, affectant l'inflation mondiale et les marchés boursiers. À moyen terme, elles pourraient affaiblir l'économie iranienne, mais aussi renforcer son alliance avec la Russie et la Chine. À long terme, cela pourrait redessiner les alliances au Moyen-Orient, avec un possible rapprochement entre l'Arabie saoudite et Israël sous l'égide américaine. Les acteurs comme l'UE, la Chine et la Russie tentent de contourner ces sanctions, tandis que les pays du Golfe voient cette escalade d'un bon œil.",
+        "analyse_en": "Sanctions against Iran are part of a long history of geopolitical tensions between Tehran and Washington, dating back to the 1979 Islamic Revolution. Key stakes include limiting Iran's nuclear program, reducing its regional influence, and securing energy supplies for U.S. allies. Root causes lie in ideological opposition between the two countries, Iran's regional ambitions, and America's containment strategy. In the short term, these sanctions could drive up oil prices, impacting global inflation and stock markets. Medium-term, they may weaken Iran's economy but also strengthen its alliance with Russia and China. Long-term, this could reshape Middle Eastern alliances, potentially fostering a U.S.-backed rapprochement between Saudi Arabia and Israel. Actors like the EU, China, and Russia are trying to bypass these sanctions, while Gulf countries view this escalation favorably.",
+        "analyse_zh": "对伊朗的制裁是德黑兰与华盛顿之间长期地缘政治紧张的一部分，可追溯至1979年伊斯兰革命。主要问题包括限制伊朗核计划、削弱其地区影响力以及确保美国盟友的能源供应。根本原因在于两国的意识形态对立、伊朗的地区野心以及美国的遏制战略。短期内，这些制裁可能推高油价，影响全球通胀和股市。中期来看，可能削弱伊朗经济，但也会加强其与俄罗斯和中国的联盟。长期而言，这可能重塑中东联盟，可能在美国支持下促成沙特与以色列的和解。欧盟、中国和俄罗斯等行为者试图绕过这些制裁，而海湾国家则对这一升级持欢迎态度。",
+        "analyse_ru": "Падение фондового рынка США связано с геополитической напряженностью и ожиданиями санкций против Ирана. Причины снижения индексов кроются в неопределенности экономической политики. Последствия могут затронуть глобальные рынки и экономику США. Перспективы зависят от решений властей и реакции инвесторов. Позиция Ирана и его партнеров остается ключевым фактором.",
+        "analyse_fa": "سقوط بازار سهام آمریکا به تنش‌های ژئوپلیتیکی و انتظار تحریم‌های علیه ایران مربوط است. دلایل کاهش شاخص‌ها به ابهام در سیاست اقتصادی بازمی‌گردد. پیامدهای این موضوع می‌تواند بازارهای جهانی و اقتصاد آمریکا را تحت تأثیر قرار دهد. چشم‌اندازها به تصمیمات مقامات و واکنش سرمایه‌گذاران بستگی دارد. موضع ایران و شرکای آن عاملی کلیدی است.",
+        "analyse_ar": "يرتبط انخفاض سوق الأسهم الأمريكية بالتوترات الجيوسياسية وتوقعات فرض عقوبات على إيران. ترجع أسباب انخفاض المؤشرات إلى عدم اليقين في السياسة الاقتصادية. قد تؤثر العواقب على الأسواق العالمية والاقتصاد الأمريكي. ترتبط الآفاق بقرارات السلطات وردود فعل المستثمرين. لا يزال موقف إيران وشركائها عاملاً حاسماً.",
+        "categorie": "Géopolitique et économie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4815c29b2157a094",
+        "image": "https://biztoc.com/cdn/4815c29b2157a094_s.webp",
+        "date": "2026-08-24",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur des infrastructures critiques",
-            "hausse": false
+            "label": "▲ Marché pétrolier",
+            "hausse": true
           },
           {
-            "label": "▲ Marché de la cybersécurité",
-            "hausse": true
+            "label": "▼ Secteur technologique",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des infrastructures critiques",
-            "secteur_en": "Critical infrastructure sector",
-            "secteur_zh": "关键基础设施行业",
-            "effet_fr": "Les failles de sécurité dans les caméras pourraient permettre des cyberattaques ciblant les systèmes de transport slovaques.",
-            "effet_en": "Security flaws in cameras could enable cyberattacks targeting Slovakia's transport systems.",
-            "effet_zh": "摄像头安全漏洞可能导致针对斯洛伐克交通系统的网络攻击。",
-            "hausse": false
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les sanctions pourraient réduire l'offre iranienne, faisant monter les prix du pétrole et pesant sur la croissance mondiale.",
+            "effet_en": "Sanctions could reduce Iranian supply, driving up oil prices and weighing on global growth.",
+            "effet_zh": "制裁可能减少伊朗供应，推高油价并拖累全球增长。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché de la cybersécurité",
-            "secteur_en": "Cybersecurity market",
-            "secteur_zh": "网络安全市场",
-            "effet_fr": "La demande en solutions de sécurité occidentales pourrait exploser, bénéficiant aux entreprises européennes.",
-            "effet_en": "Demand for Western security solutions could surge, benefiting European firms.",
-            "effet_zh": "对西方安全解决方案的需求可能激增，惠及欧洲企业。",
-            "hausse": true
+            "secteur_fr": "Secteur technologique",
+            "secteur_en": "Technology sector",
+            "secteur_zh": "科技行业",
+            "effet_fr": "Les entreprises technologiques américaines exposées au marché iranien pourraient subir des pertes financières significatives.",
+            "effet_en": "U.S. tech firms exposed to the Iranian market could face significant financial losses.",
+            "effet_zh": "面向伊朗市场的美国科技公司可能面临重大财务损失。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-24T14:40:29.377615"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-25T12:44:05.366348"
+      },
       {
         "id": "iran_140386",
         "titre": "Guerre en Iran : crise accélérée dans le détroit d'Ormuz",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-24T16:36:01.386572"
-      },
-      {
-        "id": "iran_890241",
-        "titre": "L'Iran impose des frais de transit dans le détroit d'Ormuz",
-        "titre_en": "Iran approves transit fees in the Strait of Hormuz",
-        "titre_zh": "伊朗批准霍尔木兹海峡过境费",
-        "titre_ru": "Иран вводит плату за проход судов через Ормузский пролив",
-        "titre_fa": "ایران تعرفه عبور کشتی‌ها از تنگه هرمز را تصویب کرد",
-        "titre_ar": "إيران توافق على رسوم عبور السفن عبر مضيق هرمز",
-        "titre_original": "Iranian parliament committee approves fees for ships in Strait of Hormuz",
-        "resume": "Le comité parlementaire iranien a approuvé des frais pour les navires transitant par le détroit d'Ormuz. Cette décision pourrait perturber les routes maritimes mondiales et faire monter les prix du pétrole. L'Iran justifie cette mesure par la protection de ses eaux territoriales.",
-        "resume_en": "Iran's parliamentary committee approved fees for ships transiting the Strait of Hormuz. This decision could disrupt global shipping routes and raise oil prices. Iran justifies the move as protecting its territorial waters.",
-        "resume_zh": "伊朗议会委员会批准对通过霍尔木兹海峡船只收费。此决定或扰乱全球航运并推高油价。伊朗以保护领海为由正当化该措施。",
-        "resume_ru": "Иранский парламент одобрил законопроект о введении платы за проход судов через Ормузский пролив. Это решение может привести к росту цен на нефть и осложнить международные торговые маршруты. Страны-экспортеры нефти, включая США и Китай, могут отреагировать негативно.",
-        "resume_fa": "مجلس ایران قانون جدیدی را برای دریافت تعرفه از کشتی‌هایی که از تنگه هرمز عبور می‌کنند، تصویب کرد. این تصمیم می‌تواند منجر به افزایش قیمت نفت و مختل کردن مسیرهای تجاری بین‌المللی شود. کشورهای صادرکننده نفت، از جمله آمریکا و چین، ممکن است واکنش منفی نشان دهند.",
-        "resume_ar": "وافق البرلمان الإيراني على مشروع قانون لفرض رسوم على السفن العابرة لمضيق هرمز. قد يؤدي هذا القرار إلى ارتفاع أسعار النفط وتعطيل طرق التجارة الدولية. قد تستجيب الدول المصدرة للنفط، بما في ذلك الولايات المتحدة والصين، بردود فعل سلبية.",
-        "analyse_detaillee": "La décision iranienne s'inscrit dans une stratégie de pression géopolitique face aux sanctions occidentales et à l'isolement économique croissant. Historiquement, le détroit d'Ormuz, par lequel transite 20 % du pétrole mondial, a été un point de tension récurrent entre Téhéran et Washington depuis la révolution islamique de 1979. Les enjeux incluent le contrôle des flux énergétiques et la souveraineté maritime, avec des risques de blocage des routes commerciales. À court terme, les compagnies maritimes pourraient augmenter leurs tarifs pour compenser les frais, impactant les prix à la pompe. À moyen terme, cette mesure pourrait déclencher des représailles économiques ou militaires de la part des États-Unis et de leurs alliés. À long terme, elle pourrait accélérer la diversification des routes commerciales (Afrique, Arctique) et réduire la dépendance au pétrole du Golfe. Les acteurs locaux, comme les Gardiens de la révolution, y voient un outil de dissuasion, tandis que les puissances maritimes (Chine, UE) tentent de négocier des exemptions.",
-        "analyse_en": "Iran's decision aligns with a strategy of geopolitical pressure amid growing Western sanctions and economic isolation. Historically, the Strait of Hormuz, through which 20% of global oil transits, has been a recurring tension point between Tehran and Washington since the 1979 Islamic Revolution. Stakes include control over energy flows and maritime sovereignty, with risks of disrupting trade routes. In the short term, shipping companies may raise tariffs to offset fees, impacting pump prices. Medium-term, this move could trigger economic or military retaliation from the U.S. and allies. Long-term, it could accelerate the diversification of trade routes (Africa, Arctic) and reduce dependence on Gulf oil. Local actors like the Revolutionary Guards see it as a deterrent tool, while maritime powers (China, EU) seek exemptions through negotiations.",
-        "analyse_zh": "伊朗决定符合在西方制裁与日益孤立下施压的地缘政治战略。历史上，霍尔木兹海峡（全球20%石油运输要道）自1979年伊斯兰革命以来一直是德黑兰与华盛顿的紧张点。关键在于控制能源流动与海上主权，并存在扰乱贸易路线风险。短期内，船运公司或提高运费以抵消费用，影响终端油价。中期可能招致美欧经济或军事报复。长期或加速贸易路线多元化（非洲、北极）并降低对海湾石油依赖。本地参与者如伊斯兰革命卫队视其为威慑工具，而海上大国（中国、欧盟）试图通过谈判获取豁免。",
-        "analyse_ru": "Решение Ирана о введении платы за проход через Ормузский пролив является частью его стратегии по усилению контроля над ключевыми морскими путями. Причины включают стремление к увеличению доходов от транзита и давление на международное сообщество в условиях санкций. Последствия могут включать рост цен на энергоносители и обострение геополитической напряженности. Перспективы зависят от реакции США и их союзников, а также от позиции Китая и России. Позиции сторон: Иран укрепляет свой суверенитет, но рискует спровоцировать конфликт с Западом.",
-        "analyse_fa": "تصمیم ایران برای دریافت تعرفه از تنگه هرمز بخشی از استراتژی آن برای تقویت کنترل بر مسیرهای دریایی کلیدی است. دلایل آن شامل تلاش برای افزایش درآمد از ترانزیت و فشار بر جامعه بین‌المللی در شرایط تحریم‌ها است. پیامدها می‌تواند شامل افزایش قیمت انرژی و تشدید تنش‌های ژئوپلیتیکی باشد. چشم‌اندازها به واکنش آمریکا و متحدانش و همچنین موضع چین و روسیه بستگی دارد. موضع بازیگران: ایران حاکمیت خود را تقویت می‌کند، اما خطر درگیری با غرب را به جان می‌خرد.",
-        "analyse_ar": "قرار إيران بفرض رسوم على السفن العابرة لمضيق هرمز هو جزء من استراتيجيتها لتعزيز السيطرة على الممرات البحرية الرئيسية. الأسباب تشمل السعي لزيادة الإيرادات من العبور والضغط على المجتمع الدولي في ظل العقوبات. العواقب قد تشمل ارتفاع أسعار الطاقة وتصعيد التوترات الجيوسياسية. الآفاق تعتمد على رد فعل الولايات المتحدة وحلفائها وكذلك موقف الصين وروسيا. مواقف الأطراف: تعزز إيران سيادتها لكنها تخاطر بتوريط نفسها في صراع مع الغرب.",
-        "categorie": "Géopolitique / Énergie",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-strait-hormuz-transit-fees/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/23113327/drone-view-of-oil-tanker-helga-berthed-at-one-of-iraq-s-sout-800x420.jpeg",
-        "date": "2026-08-23",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché du pétrole",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurances maritimes",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché du pétrole",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Les frais pourraient faire augmenter le prix du baril de 5 à 10 dollars, en raison des perturbations logistiques et des risques géopolitiques.",
-            "effet_en": "Fees could raise oil prices by $5-10 per barrel due to logistical disruptions and geopolitical risks.",
-            "effet_zh": "费用或令油价每桶上涨5-10美元，因后勤扰乱与地缘政治风险。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurances maritimes",
-            "secteur_en": "Maritime insurance",
-            "secteur_zh": "海运保险",
-            "effet_fr": "Les primes d'assurance pour les navires traversant le détroit pourraient augmenter de 20 à 30 %, reflétant les risques accrus.",
-            "effet_en": "Insurance premiums for ships transiting the strait could rise by 20-30%, reflecting increased risks.",
-            "effet_zh": "通过海峡船只的保险费或上涨20-30%，反映风险增加。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-24T15:38:34.473442"
       }
     ]
   },
