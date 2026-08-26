@@ -1,7 +1,66 @@
 {
-  "last_updated": "26/08/2026 à 16h17",
+  "last_updated": "26/08/2026 à 19h00",
   "articles": {
     "monde": [
+      {
+        "id": "monde_675549",
+        "titre": "Trésor américain crée une force pour l'ère post-quantique",
+        "titre_en": "U.S. Treasury launches Post-Quantum Readiness Task Force",
+        "titre_zh": "美国财政部启动后量子准备工作组",
+        "titre_ru": "Казначейство США создаёт группу по подготовке к квантовой эре",
+        "titre_fa": "خزانه‌داری آمریکا تیمی برای آمادگی پسا-کوانتومی تشکیل داد",
+        "titre_ar": "وزارة الخزانة الأمريكية تعلن تشكيل فريق الاستعداد لما بعد الكم",
+        "titre_original": "Treasury Unveils Post-Quantum Readiness Task Force",
+        "resume": "Le département du Trésor américain a annoncé lundi la création d'une initiative publique-privée visant à aider les institutions financières à migrer vers des cryptographies résistantes aux attaques quantiques. Cette mesure s'inscrit dans un contexte de préparation aux risques futurs liés à l'informatique quantique. Les acteurs du secteur sont invités à collaborer pour sécuriser les systèmes avant 2030.",
+        "resume_en": "The U.S. Treasury Department announced a public-private initiative to help financial institutions transition to quantum-resistant cryptography. This move addresses future risks posed by quantum computing. Stakeholders are urged to collaborate to secure systems before 2030.",
+        "resume_zh": "美国财政部宣布成立公私合作倡议，帮助金融机构转向抗量子加密技术。此举应对量子计算带来的未来风险。利益相关者被敦促在2030年前合作确保系统安全。",
+        "resume_ru": "Министерство финансов США объявило о создании публично-частной инициативы для помощи финансовым учреждениям в переходе на новые криптографические стандарты. Группа будет координировать усилия по миграции от устаревших методов шифрования. Это связано с угрозой квантовых компьютеров, способных взломать современные алгоритмы.",
+        "resume_fa": "وزارت خزانه‌داری ایالات متحده از راه‌اندازی یک تیم مشترک دولتی-خصوصی برای کمک به مؤسسات مالی در مهاجرت به استانداردهای رمزنگاری جدید خبر داد. این گروه تلاش‌ها برای انتقال از روش‌های قدیمی رمزگذاری را هماهنگ خواهد کرد. این اقدام به دلیل تهدید رایانه‌های کوانتومی که قادر به شکستن الگوریتم‌های فعلی هستند، انجام می‌شود.",
+        "resume_ar": "أعلنت وزارة الخزانة الأمريكية عن تشكيل فريق مشترك بين القطاعين العام والخاص لمساعدة المؤسسات المالية على التحول إلى معايير التشفير الجديدة. سيتولى الفريق تنسيق الجهود للانتقال من طرق التشفير القديمة. يأتي هذا في ظل تهديد الحواسيب الكمية التي يمكنها اختراق الخوارزميات الحالية.",
+        "analyse_detaillee": "L'annonce s'inscrit dans une course mondiale à la préparation post-quantique, où les États-Unis cherchent à maintenir leur avance technologique face à la Chine et à l'UE. Les enjeux incluent la protection des données financières sensibles et la stabilité des marchés. Les causes profondes résident dans l'accélération des progrès en informatique quantique, capable de casser les cryptos actuelles. À court terme, les institutions financières devront investir massivement dans la modernisation de leurs infrastructures. À moyen terme, une adoption inégale pourrait créer des failles de sécurité exploitables. À long terme, cette transition pourrait redéfinir les standards mondiaux de cybersécurité. Les acteurs comme la Fed et les grandes banques soutiennent l'initiative, tandis que les PME pourraient rencontrer des difficultés financières. La position des États-Unis vise à renforcer leur leadership technologique tout en évitant une crise systémique.",
+        "analyse_en": "The announcement reflects a global race for post-quantum readiness, with the U.S. aiming to maintain its technological edge over China and the EU. Key stakes include protecting sensitive financial data and ensuring market stability. Root causes stem from rapid advancements in quantum computing, which could break current cryptographic systems. In the short term, financial institutions will need massive investments to modernize infrastructure. Medium-term risks include uneven adoption, creating exploitable security gaps. Long-term prospects could redefine global cybersecurity standards. Actors like the Fed and major banks support the initiative, while SMEs may struggle financially. The U.S. position seeks to bolster technological leadership while avoiding systemic crises.",
+        "analyse_zh": "该公告反映了全球在后量子准备方面的竞争，美国试图保持对中国和欧盟的技术优势。关键影响包括保护敏感金融数据和确保市场稳定。深层原因在于量子计算的快速发展，可能破坏当前的加密系统。短期内，金融机构需大量投资现代化基础设施。中期风险包括采用不均，可能产生可被利用的安全漏洞。长期前景可能重新定义全球网络安全标准。美联储和大型银行等参与者支持该倡议，而中小企业可能面临财务困难。美国的立场旨在加强技术领导地位，同时避免系统性危机。",
+        "analyse_ru": "Создание группы по подготовке к квантовой эре отражает растущую обеспокоенность правительства США уязвимостью современных криптографических систем перед угрозой квантовых компьютеров. Причины включают стремительное развитие технологий и необходимость защиты финансовой инфраструктуры. Последствия могут быть глобальными, так как отказ от устаревших стандартов затронет все страны, использующие западные финансовые системы. Перспективы зависят от скорости внедрения новых алгоритмов и международного сотрудничества. Позиции сторон разнятся: частные компании заинтересованы в сохранении конкурентоспособности, а государство стремится к безопасности.",
+        "analyse_fa": "تشکیل تیم آمادگی پسا-کوانتومی نشان‌دهنده نگرانی فزاینده دولت آمریکا از آسیب‌پذیری سیستم‌های رمزنگاری کنونی در برابر تهدید رایانه‌های کوانتومی است. دلایل این اقدام شامل پیشرفت سریع فناوری و لزوم حفاظت از زیرساخت‌های مالی است. پیامدهای آن می‌تواند جهانی باشد، زیرا کنار گذاشتن استانداردهای قدیمی بر تمام کشورهایی که از سیستم‌های مالی غربی استفاده می‌کنند تأثیر خواهد گذاشت. چشم‌اندازها به سرعت پیاده‌سازی الگوریتم‌های جدید و همکاری بین‌المللی بستگی دارد. مواضع بازیگران متفاوت است: شرکت‌های خصوصی به حفظ رقابت‌پذیری علاقه‌مندند، در حالی که دولت به دنبال امنیت است.",
+        "analyse_ar": "تشكيل فريق الاستعداد لما بعد الكم يعكس القلق المتزايد للحكومة الأمريكية من ضعف الأنظمة التشفيرية الحالية أمام تهديد الحواسيب الكمية. الأسباب تشمل التطور التكنولوجي السريع وضرورة حماية البنية التحتية المالية. العواقب قد تكون عالمية، حيث سيؤثر التخلي عن المعايير القديمة على جميع الدول التي تستخدم الأنظمة المالية الغربية. الآفاق تعتمد على سرعة تطبيق الخوارزميات الجديدة والتعاون الدولي. مواقف الأطراف مختلفة: الشركات الخاصة مهتمة بالحفاظ على التنافسية، بينما تسعى الدولة إلى الأمن.",
+        "categorie": "Technologie & Sécurité",
+        "source": "pymnts.com",
+        "url": "https://www.pymnts.com/cybersecurity/2026/treasury-unveils-post-quantum-readiness-task-force/",
+        "image": "https://www.pymnts.com/wp-content/uploads/2022/07/US-Treasury.jpg",
+        "date": "2026-08-25",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Banques commerciales",
+            "hausse": true
+          },
+          {
+            "label": "▼ Fonds d'investissement",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Banques commerciales",
+            "secteur_en": "Commercial banks",
+            "secteur_zh": "商业银行",
+            "effet_fr": "Les banques devront investir massivement dans la migration vers des cryptos post-quantiques, augmentant leurs coûts opérationnels à court terme.",
+            "effet_en": "Banks must invest heavily in migrating to post-quantum cryptography, raising operational costs in the short term.",
+            "effet_zh": "银行必须大量投资迁移至后量子加密技术，短期内增加运营成本。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds d'investissement",
+            "secteur_en": "Investment funds",
+            "secteur_zh": "投资基金",
+            "effet_fr": "Les fonds devront adapter leurs protocoles de sécurité pour protéger les actifs numériques, avec un impact sur leur rentabilité.",
+            "effet_en": "Funds must adapt security protocols to protect digital assets, affecting profitability.",
+            "effet_zh": "基金必须调整安全协议以保护数字资产，影响盈利能力。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-26T19:00:38.389564"
+      },
       {
         "id": "monde_638108",
         "titre": "EPFO verse des aides aux familles des victimes",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-25T17:31:19.750814"
-      },
-      {
-        "id": "monde_15982",
-        "titre": "Ceferin condamne l'investissement privé de la FIFA",
-        "titre_en": "Ceferin condemns FIFA's private investment plan",
-        "titre_zh": "Ceferin 批评 FIFA 私有化计划",
-        "titre_ru": "Президент УЕФА осудил скандал с частными инвестициями в FIFA",
-        "titre_fa": "رئیس یوفا طرح سرمایه‌گذاری خصوصی فیفا را محکوم کرد",
-        "titre_ar": "رئيس الاتحاد الأوروبي لكرة القدم يدين خطة الاستثمار الخاص لفيفا",
-        "titre_original": "UEFA President Aleksander Ceferin condemns Gianni Infantino's FIFA private investment controversy",
-        "resume": "Le président de l'UEFA, Aleksander Ceferin, a critiqué le projet de Gianni Infantino de vendre des parts de compétitions à des fonds d'investissement privés. Ceferin a qualifié ce plan de 'mort', soulignant les risques pour l'intégrité du football. Cette controverse met en lumière les tensions entre les instances dirigeantes du football européen et mondial.",
-        "resume_en": "UEFA President Aleksander Ceferin criticized Gianni Infantino's plan to sell stakes in competitions to private investment firms, calling it 'dead.' Ceferin highlighted risks to football's integrity. The controversy underscores tensions between European and global football governing bodies.",
-        "resume_zh": "欧足联主席亚历山大·切费林批评吉安尼·因凡蒂诺将比赛股份出售给私募基金的计划，称其为‘已死’。切费林强调了对足球完整性的风险。这一争议凸显了欧洲与全球足球管理机构之间的紧张关系。",
-        "resume_ru": "Президент УЕФА Александер Чеферин раскритиковал план главы FIFA Джанни Инфантино по продаже долей в турнирах частным инвесторам. Он заявил, что этот план «умер». Решение вызвало бурную реакцию в футбольном мире, так как может привести к коммерциализации спорта.",
-        "resume_fa": "رئیس یوفا، الکساندر چفرین، طرح جیانی اینفانتینو، رئیس فیفا، برای فروش سهم رقابت‌ها به شرکت‌های سرمایه‌گذاری خصوصی را محکوم کرد. او گفت این طرح «مرده» است. این تصمیم واکنش‌های گسترده‌ای در دنیای فوتبال برانگیخت، زیرا می‌تواند منجر به تجاری‌سازی ورزش شود.",
-        "resume_ar": "انتقد رئيس الاتحاد الأوروبي لكرة القدم ألكسندر تشيفرين خطة رئيس الفيفا جيانني إنفانتينو لبيع حصص في المسابقات إلى شركات استثمار خاصة. وقال إن الخطة «ميتة». أثار القرار ردود فعل واسعة في عالم كرة القدم، لأنه قد يؤدي إلى تسليع الرياضة.",
-        "analyse_detaillee": "Le football européen, représenté par l'UEFA, s'oppose à la FIFA, dirigée par Gianni Infantino, sur la commercialisation croissante du sport. Historiquement, l'UEFA a toujours défendu l'autonomie des clubs et des compétitions européennes face à la FIFA, perçue comme centralisatrice. Les enjeux principaux incluent la préservation de l'intégrité sportive, la lutte contre l'influence des fonds d'investissement et la protection des intérêts des clubs traditionnels. Les causes profondes résident dans la divergence des modèles économiques : l'UEFA privilégie les revenus partagés, tandis que la FIFA cherche à maximiser les profits via des partenariats privés. À court terme, cette opposition pourrait ralentir les projets de la FIFA, mais à moyen terme, une fragmentation du football mondial est possible. À long terme, cela pourrait mener à une réforme des structures de gouvernance du football. Les acteurs clés sont l'UEFA, la FIFA, les clubs européens et les fonds d'investissement.",
-        "analyse_en": "European football, represented by UEFA, opposes FIFA, led by Gianni Infantino, over the increasing commercialization of the sport. Historically, UEFA has defended the autonomy of European clubs and competitions against FIFA, seen as centralizing. Key stakes include preserving sports integrity, combating the influence of investment funds, and protecting traditional clubs' interests. Root causes lie in differing economic models: UEFA favors shared revenues, while FIFA seeks to maximize profits through private partnerships. In the short term, this opposition could slow FIFA's projects, but in the medium term, a fragmentation of world football is possible. Long-term, this could lead to a reform of football governance structures. Key actors are UEFA, FIFA, European clubs, and investment funds.",
-        "analyse_zh": "欧洲足球由欧足联代表，反对由吉安尼·因凡蒂诺领导的国际足联对体育商业化的日益加强。历史上，欧足联一直捍卫欧洲俱乐部和比赛的自治权，反对被视为集权的国际足联。主要影响包括维护体育完整性、抵制投资基金影响以及保护传统俱乐部利益。深层原因在于经济模式的分歧：欧足联倡导收入分享，而国际足联试图通过私人合作伙伴关系最大化利润。短期内，这种对立可能减缓国际足联的项目，但中期可能导致世界足球的分裂。长期来看，这可能推动足球治理结构的改革。主要行为者是欧足联、国际足联、欧洲俱乐部和投资基金。",
-        "analyse_ru": "Скандал вокруг частных инвестиций в FIFA отражает борьбу за контроль над мировым футболом между традиционными структурами и коммерческими интересами. Чеферин, представляющий УЕФА, выступает против планов Инфантино, так как это угрожает независимости футбольных турниров и их финансовой стабильности. FIFA, напротив, стремится привлечь частные инвестиции для увеличения доходов, что может привести к потере контроля над турнирами. Последствия могут быть серьёзными: коммерциализация угрожает спортивной этике и интересам болельщиков. В перспективе возможны судебные разбирательства и изменение устава FIFA.",
-        "analyse_fa": "رسوایی سرمایه‌گذاری خصوصی در فیفا نشان‌دهنده مبارزه برای کنترل فوتبال جهانی بین ساختارهای سنتی و منافع تجاری است. چفرین، به نمایندگی از یوفا، با طرح‌های اینفانتینو مخالفت می‌کند، زیرا این امر استقلال مسابقات فوتبال و ثبات مالی آنها را تهدید می‌کند. فیفا، از سوی دیگر، تلاش می‌کند تا با جذب سرمایه‌گذاری‌های خصوصی، درآمد خود را افزایش دهد که ممکن است منجر به از دست دادن کنترل بر مسابقات شود. پیامدها می‌تواند جدی باشد: تجاری‌سازی اخلاق ورزشی و منافع هواداران را تهدید می‌کند. در آینده، احتمالاً دعاوی حقوقی و تغییر در اساسنامه فیفا وجود دارد.",
-        "analyse_ar": "يثير فضيح الاستثمار الخاص في الفيفا صراعاً للسيطرة على كرة القدم العالمية بين الهياكل التقليدية والمصالح التجارية. يعارض تشيفرين، ممثل الاتحاد الأوروبي، خطط إنفانتينو لأنها تهدد استقلالية البطولات المالية واستقرارها. تسعى الفيفا، من ناحية أخرى، إلى جذب الاستثمارات الخاصة لزيادة الإيرادات، مما قد يؤدي إلى فقدان السيطرة على البطولات. قد تكون العواقب وخيمة: تسليع الأخلاق الرياضية ومصالح المشجعين. في المستقبل، من المحتمل حدوث دعاوى قضائية وتعديلات في نظام الفيفا الأساسي.",
-        "categorie": "Sport",
-        "source": "Alloutsoccer.com",
-        "url": "https://www.alloutsoccer.com/news/uefa-ceferin-condemns-fifa-infantino-1995423",
-        "image": "https://s.yimg.com/lo/mysterio/api/491bbb7fb222bd97b69b6efe36dd61a47c5d0bd9de2f7fd68b08430b29cd32d6/lightyear_networkapi/resizefill_w810_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fall_out_soccer_276%2Fc486d4b18a46a330b82f0c3fd14d2921.jpg",
-        "date": "2026-08-24",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Médias et droits TV",
-            "hausse": false
-          },
-          {
-            "label": "▼ Financement des clubs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Médias et droits TV",
-            "secteur_en": "Media and TV rights",
-            "secteur_zh": "媒体与电视转播权",
-            "effet_fr": "La commercialisation accrue pourrait réduire la valeur des droits TV traditionnels, au profit des fonds d'investissement.",
-            "effet_en": "Increased commercialization could reduce the value of traditional TV rights, benefiting investment funds.",
-            "effet_zh": "商业化加剧可能降低传统电视转播权的价值，受益于投资基金。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Financement des clubs",
-            "secteur_en": "Club financing",
-            "secteur_zh": "俱乐部融资",
-            "effet_fr": "L'arrivée de fonds d'investissement pourrait modifier la structure financière des clubs, avec des risques de surendettement.",
-            "effet_en": "The entry of investment funds could change clubs' financial structures, with risks of over-indebtedness.",
-            "effet_zh": "投资基金的进入可能改变俱乐部的财务结构，存在过度负债的风险。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-25T16:36:09.998159"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_615740",
+        "titre": "Trump affirme que le détroit d'Ormuz est déminé",
+        "titre_en": "Trump claims Strait of Hormuz is demined by Space Force",
+        "titre_zh": "特朗普声称霍尔木兹海峡已扫雷",
+        "titre_ru": "Трамп заявил, что Ормузский пролив разминирован",
+        "titre_fa": "ترامپ مدعی شد تنگه هرمز مین‌روبی شده است",
+        "titre_ar": "ترامب يعلن أن مضيق هرمز تم تطهيره من الألغام",
+        "titre_original": "Trump claims Strait of Hormuz is de-mined — and being watched by Space Force",
+        "resume": "Donald Trump a déclaré que le détroit d'Ormuz était entièrement déminé grâce à une politique de tolérance zéro envers les mines. Il a affirmé que la Space Force surveillait la zone. Cette affirmation intervient dans un contexte de tensions géopolitiques accrues avec l'Iran. Les experts restent sceptiques face à ces déclarations.",
+        "resume_en": "Donald Trump claimed the Strait of Hormuz was fully demined due to a zero-tolerance policy on mines, monitored by Space Force. This statement comes amid rising geopolitical tensions with Iran. Experts remain skeptical of these claims.",
+        "resume_zh": "唐纳德·特朗普声称霍尔木兹海峡因对水雷的零容忍政策而被完全扫雷，并由太空部队监控。此言论发生在与伊朗紧张局势加剧之际。专家对这些说法持怀疑态度。",
+        "resume_ru": "Дональд Трамп заявил, что Ормузский пролив полностью разминирован и находится под наблюдением Космических сил США. Он подчеркнул, что политика США в отношении размещения мин имеет нулевую терпимость. Заявление было сделано на фоне напряжённой обстановки в регионе.",
+        "resume_fa": "دونالد ترامپ ادعا کرد که تنگه هرمز کاملاً از مین‌ها پاکسازی شده و تحت نظارت نیروهای فضایی آمریکا قرار دارد. او تأکید کرد که سیاست آمریکا در مورد استقرار مین‌ها تحمل صفر دارد. این اظهارنظر در شرایط تنش‌آمیز منطقه‌ای مطرح شد.",
+        "resume_ar": "أعلن دونالد ترامب أن مضيق هرمز تم تطهيره بالكامل من الألغام وأنه يخضع لمراقبة قوات الفضاء الأمريكية. وأكد أن سياسة الولايات المتحدة تجاه وضع الألغام تتسم بعدم التسامح مطلقاً. تم تقديم هذا الإعلان في ظل أجواء متوترة في المنطقة.",
+        "analyse_detaillee": "Cette déclaration s'inscrit dans une stratégie de communication agressive de Trump, visant à intimider l'Iran et à renforcer la posture américaine dans la région. Historiquement, le détroit d'Ormuz est un point de tension majeur entre les États-Unis et l'Iran depuis la révolution islamique de 1979. Les enjeux incluent le contrôle des flux pétroliers mondiaux et la crédibilité des alliances américaines au Moyen-Orient. Les causes profondes résident dans la rivalité géopolitique et la course aux ressources énergétiques. À court terme, cette annonce pourrait renforcer la position de Trump face à l'Iran, mais risquerait d'escalader les tensions. À moyen terme, une vérification insuffisante des faits pourrait affaiblir la crédibilité des États-Unis. À long terme, cela pourrait alimenter une course aux armements dans la région. Les acteurs comme l'Iran, l'Arabie saoudite et les États-Unis adoptent des positions opposées. La Space Force, bien que symbolique, renforce l'image d'une supériorité technologique américaine.",
+        "analyse_en": "This statement aligns with Trump's aggressive communication strategy to intimidate Iran and bolster U.S. posture in the region. Historically, the Strait of Hormuz has been a major flashpoint between the U.S. and Iran since the 1979 Islamic Revolution. Key stakes include control over global oil flows and the credibility of U.S. alliances in the Middle East. Root causes stem from geopolitical rivalry and competition for energy resources. In the short term, this announcement could strengthen Trump's stance against Iran but risk escalating tensions. Medium-term, insufficient fact-checking could undermine U.S. credibility. Long-term, it may fuel an arms race in the region. Actors like Iran, Saudi Arabia, and the U.S. hold opposing positions. The Space Force, though symbolic, reinforces the image of U.S. technological superiority.",
+        "analyse_zh": "此声明符合特朗普的强硬沟通策略，旨在威慑伊朗并加强美国在该地区的地位。历史上，霍尔木兹海峡自1979年伊斯兰革命以来一直是美伊之间的主要冲突点。关键影响包括对全球石油流动的控制以及美国在中东盟友的信誉。深层原因在于地缘政治竞争和对能源资源的争夺。短期内，此声明可能加强特朗普对伊朗的立场，但可能升级紧张局势。中期来看，事实核查不足可能削弱美国的信誉。长期而言，这可能助长该地区的军备竞赛。伊朗、沙特阿拉伯和美国等行为者持对立立场。太空部队尽管象征性，但强化了美国技术优势的形象。",
+        "analyse_ru": "Заявление Трампа о разминировании Ормузского пролива может быть попыткой укрепить позиции США в регионе и продемонстрировать военную мощь. Причины такого заявления связаны с геополитическими интересами США и стремлением сдерживать Иран. Последствия могут включать изменение тактики региональных игроков и усиление военного присутствия США. Перспективы зависят от реакции Ирана и других стран региона. Позиции сторон: США демонстрируют силу, а Иран может ответить усилением своей военной активности.",
+        "analyse_fa": "اظهارنظر ترامپ درباره پاکسازی مین‌های تنگه هرمز ممکن است تلاشی برای تقویت موضع آمریکا در منطقه و نمایش قدرت نظامی باشد. دلایل این اظهارنظر به منافع ژئوپلیتیکی آمریکا و تلاش برای مهار ایران مربوط می‌شود. پیامدهای آن می‌تواند شامل تغییر تاکتیک بازیگران منطقه‌ای و افزایش حضور نظامی آمریکا باشد. چشم‌اندازها به واکنش ایران و دیگر کشورهای منطقه بستگی دارد. مواضع بازیگران: آمریکا قدرت خود را نشان می‌دهد، در حالی که ایران ممکن است فعالیت نظامی خود را افزایش دهد.",
+        "analyse_ar": "قد يكون إعلان ترامب بشأن تطهير مضيق هرمز من الألغام محاولة لتعزيز موقف الولايات المتحدة في المنطقة وإظهار القوة العسكرية. الأسباب تتعلق بالمصالح الجيوسياسية للولايات المتحدة وسعيها لاحتواء إيران. العواقب قد تشمل تغيير تكتيكات اللاعبين الإقليميين وتعزيز الحضور العسكري الأمريكي. الآفاق تعتمد على رد فعل إيران والدول الأخرى في المنطقة. مواقف الأطراف: تظهر الولايات المتحدة قوتها، بينما قد تزيد إيران من نشاطها العسكري.",
+        "categorie": "Géopolitique",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/25/us-news/trump-claims-strait-of-hormuz-is-de-mined-and-being-watched-by-space-force/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138471764.jpg?quality=75&strip=all&w=1200",
+        "date": "2026-08-25",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Industrie pétrolière",
+            "hausse": true
+          },
+          {
+            "label": "▼ Assurances maritimes",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie pétrolière",
+            "secteur_en": "Oil industry",
+            "secteur_zh": "石油工业",
+            "effet_fr": "Une confirmation de la déminage renforcerait la stabilité des approvisionnements pétroliers, réduisant les risques géopolitiques pour les marchés.",
+            "effet_en": "Confirmation of demining would stabilize oil supplies, reducing geopolitical risks for markets.",
+            "effet_zh": "确认扫雷将稳定石油供应，降低市场的地缘政治风险。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Assurances maritimes",
+            "secteur_en": "Maritime insurance",
+            "secteur_zh": "海运保险",
+            "effet_fr": "Une réduction des risques de mines pourrait diminuer les primes d'assurance pour les navires transitant par le détroit.",
+            "effet_en": "Reduced mine risks could lower insurance premiums for ships transiting the strait.",
+            "effet_zh": "减少水雷风险可能降低通过海峡船只的保险费率。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-26T19:00:38.389590"
+      },
       {
         "id": "usa_350869",
         "titre": "Confiance des consommateurs américains au plus bas",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-25T17:31:19.750839"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_654890",
-        "titre": "Trump accuse les sondages de sa chute dans les sondages",
-        "titre_en": "Trump blames polls for his plummeting ratings",
-        "titre_zh": "特朗普指责民调导致支持率暴跌",
-        "titre_ru": "Панический Трамп выдвигает абсурдные обвинения на фоне падения рейтингов",
-        "titre_fa": "ترامپ در بحران افت محبوبیت اتهامات عجیبی مطرح کرد",
-        "titre_ar": "ترامب في ذعر من تراجع شعبيته يوجه اتهامات غريبة",
-        "titre_original": "Panicked Trump hurls bizarre accusation as approval rating craters",
-        "resume": "Donald Trump a réagi avec panique aux sondages montrant une chute historique de sa popularité dans les 50 États. Son taux d'approbation est passé sous la barre des 40 %, alimentant les spéculations sur sa capacité à remporter l'élection de 2024. Les accusations de fraude électorale et les divisions internes au Parti républicain aggravent la situation.",
-        "resume_en": "Donald Trump panicked over polls showing a historic drop in his popularity across all 50 states. His approval rating fell below 40%, fueling speculation about his 2024 election chances. Allegations of electoral fraud and internal Republican divisions worsen the situation.",
-        "resume_zh": "唐纳德·特朗普对民调数据感到恐慌，这些数据显示他在所有50个州的支持率暴跌。他的支持率跌破40%，引发了关于他能否赢得2024年大选的猜测。选举舞弊指控和共和党内部分裂加剧了局势。",
-        "resume_ru": "Президент США Дональд Трамп обвинил опросы общественного мнения в искажении данных после того, как его рейтинг упал ниже 40% во всех 50 штатах. 80-летний политик находится под давлением из-за низких показателей одобрения. Его обвинения вызвали бурную реакцию в СМИ и среди оппонентов.",
-        "resume_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، پس از آنکه محبوبیت او در تمام ۵۰ ایالت به زیر ۴۰ درصد رسید، نظرسنجی‌ها را متهم به تحریف داده‌ها کرد. این سیاستمدار ۸۰ ساله تحت فشار قرار گرفته است. اتهامات او واکنش گسترده رسانه‌ها و رقبا را برانگیخت.",
-        "resume_ar": "اتهم الرئيس الأمريكي دونالد ترامب استطلاعات الرأي بتشويه البيانات بعد أن انخفضت شعبيته إلى أقل من 40% في جميع الولايات الخمسين. هذا السياسي البالغ من العمر 80 عاماً يواجه ضغوطاً كبيرة. أثارت اتهاماته ردود فعل واسعة في وسائل الإعلام وفي صفوف المعارضين.",
-        "analyse_detaillee": "La chute de Donald Trump dans les sondages s'inscrit dans un contexte de polarisation politique croissante aux États-Unis, où les divisions entre démocrates et républicains s'accentuent depuis les années 2010. Historiquement, les présidents en fin de mandat ou en campagne pour un second mandat voient leur popularité fluctuer, mais la situation actuelle est aggravée par des scandales personnels, des accusations de corruption et une gestion controversée de la pandémie de COVID-19. Les enjeux principaux incluent la crédibilité des institutions démocratiques, la confiance dans les médias et la polarisation de l'électorat. Les causes profondes résident dans l'incapacité de Trump à élargir son électorat au-delà de sa base fidèle, ainsi que dans les divisions internes au Parti républicain. À court terme, cette chute pourrait affaiblir sa campagne et encourager des candidats républicains modérés à se présenter. À moyen terme, cela pourrait redessiner les dynamiques du Parti républicain, avec un possible virage vers un leadership plus modéré. À long terme, cela pourrait influencer les stratégies électorales futures, en mettant l'accent sur des thèmes plus consensuels. Les acteurs clés sont Trump, le Parti républicain, les médias et l'électorat américain.",
-        "analyse_en": "Donald Trump's poll collapse occurs amid growing political polarization in the US, where divisions between Democrats and Republicans have deepened since the 2010s. Historically, presidents in their final term or running for re-election see fluctuating popularity, but the current situation is worsened by personal scandals, corruption allegations, and controversial COVID-19 management. Key stakes include the credibility of democratic institutions, trust in media, and voter polarization. Root causes lie in Trump's inability to expand his electorate beyond his loyal base and internal Republican divisions. In the short term, this drop could weaken his campaign and encourage moderate Republican candidates to run. In the medium term, it could reshape Republican dynamics, possibly toward a more moderate leadership. Long-term, this could influence future electoral strategies, emphasizing more consensual themes. Key actors are Trump, the Republican Party, media, and the American electorate.",
-        "analyse_zh": "唐纳德·特朗普在民调中的崩溃发生在美国政治极化加剧的背景下，自2010年代以来民主党与共和党的分歧不断加深。历史上，总统在任期末或竞选连任时支持率会波动，但当前局势因个人丑闻、腐败指控和COVID-19争议管理而恶化。主要影响包括民主制度的可信度、对媒体的信任以及选民极化。深层原因在于特朗普无法扩大其忠实选民基础，以及共和党内部分裂。短期内，这一崩溃可能削弱其竞选，并鼓励共和党温和派候选人参选。中期可能重塑共和党动态，可能转向更温和的领导层。长期来看，这可能影响未来选举策略，强调更多共识主题。主要行为者是特朗普、共和党、媒体和美国选民。",
-        "analyse_ru": "Падение рейтинга Трампа до уровня ниже 40% во всех штатах отражает недовольство американцев его политикой, особенно в экономике и социальной сфере. Его обвинения в адрес опросов — попытка переложить ответственность за собственные провалы на внешние факторы. Это может усилить поляризацию общества и подорвать доверие к институтам власти. В перспективе такие заявления могут ухудшить его шансы на переизбрание, так как избиратели всё чаще обращают внимание на объективные данные. Также это ослабляет позиции Республиканской партии перед выборами.",
-        "analyse_fa": "افت محبوبیت ترامپ به زیر ۴۰ درصد در تمام ایالت‌ها نارضایتی آمریکایی‌ها از سیاست‌های او، به ویژه در حوزه اقتصاد و مسائل اجتماعی، را نشان می‌دهد. اتهام او به نظرسنجی‌ها تلاشی برای انتقال مسئولیت شکست‌های خود به عوامل خارجی است. این امر می‌تواند قطب‌بندی جامعه را تشدید کرده و اعتماد به نهادهای قدرت را تضعیف کند. در آینده، چنین اظهاراتی ممکن است شانس او را برای انتخاب مجدد کاهش دهد، زیرا رأی‌دهندگان بیشتر به داده‌های عینی توجه می‌کنند. همچنین این امر موقعیت حزب جمهوری‌خواه را قبل از انتخابات تضعیف می‌کند.",
-        "analyse_ar": "يعكس تراجع شعبية ترامب إلى أقل من 40% في جميع الولايات عدم رضا الأميركيين عن سياساته، لا سيما في الاقتصاد والشؤون الاجتماعية. اتهامه لاستطلاعات الرأي محاولة لنقل مسؤولية إخفاقاته إلى عوامل خارجية. قد يؤدي هذا إلى تفاقم الاستقطاب المجتمعي وتقويض الثقة في مؤسسات السلطة. في المستقبل، قد تؤدي مثل هذه التصريحات إلى تدهور فرصه في إعادة انتخابه، حيث يولي الناخبون المزيد من الاهتمام للبيانات الموضوعية. كما يضعف هذا موقف الحزب الجمهوري قبل الانتخابات.",
-        "categorie": "Politique",
-        "source": "Raw Story",
-        "url": "https://www.rawstory.com/trump-fake-polls/",
-        "image": "https://www.rawstory.com/media-library/u-s-president-donald-trump-speaks-to-the-media-before-boarding-air-force-one-at-joint-base-andrews-in-maryland-u-s-en-route.jpg?id=67659533&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-        "date": "2026-08-24",
-        "pays": "usa",
+        "id": "chine_740802",
+        "titre": "EVA Air réduit ses émissions avec Microsoft et Formosa",
+        "titre_en": "EVA Air partners with Microsoft and Formosa to cut emissions",
+        "titre_zh": "长荣航空与微软、台塑合作减排",
+        "titre_ru": "EVA Air подписала соглашение о сокращении выбросов",
+        "titre_fa": "ایوا ایر با همکاری مایکروسافت و دیگران برای کاهش انتشار کربن همکاری کرد",
+        "titre_ar": "إيفا إير توقع اتفاقية مع مايكروسوفت وشركات أخرى للحد من الانبعاثات",
+        "titre_original": "EVA Air Collaborates with AIT Worldwide Logistics, Microsoft and Formosa Petrochemical Corporation to Deliver 15,000 Metric Tons of Scope 3 Emissions Reductions",
+        "resume": "EVA Air a signé un accord avec AIT Worldwide Logistics, Microsoft et Formosa Petrochemical pour réduire ses émissions de Scope 3 de 15 000 tonnes métriques. Cette collaboration vise à optimiser la logistique et les chaînes d'approvisionnement. L'initiative s'inscrit dans une stratégie de décarbonation du secteur aérien.",
+        "resume_en": "EVA Air signed an agreement with AIT Worldwide Logistics, Microsoft, and Formosa Petrochemical to reduce Scope 3 emissions by 15,000 metric tons. The collaboration aims to optimize logistics and supply chains. The initiative aligns with the aviation sector's decarbonization strategy.",
+        "resume_zh": "长荣航空与AIT环球物流、微软和台塑石化签署协议，减少15,000公吨的范围三排放。此合作旨在优化物流和供应链。该倡议符合航空业脱碳战略。",
+        "resume_ru": "Авиакомпания EVA Air заключила меморандум о взаимопонимании с AIT Worldwide Logistics, Microsoft и Formosa Petrochemical Corporation. Цель — сокращение выбросов Scope 3 на 15 000 метрических тонн. Соглашение направлено на устойчивое развитие и снижение углеродного следа.",
+        "resume_fa": "شرکت هواپیمایی ایوا ایر با شرکت‌های AIT Worldwide Logistics، مایکروسافت و شرکت پتروشیمی فرموسا توافق‌نامه‌ای برای کاهش ۱۵ هزار تنی انتشار کربن امضا کرد. هدف این توافق، توسعه پایدار و کاهش ردپای کربنی است.",
+        "resume_ar": "وقعت شركة إيفا إير memorandum تفاهم مع AIT Worldwide Logistics ومايكروسوفت وشركة فرموزا للبتروكيماويات لخفض 15 ألف طن متري من انبعاثات النطاق 3. يهدف الاتفاق إلى التنمية المستدامة وتقليل البصمة الكربونية.",
+        "analyse_detaillee": "Cette initiative s'inscrit dans un contexte mondial de pression accrue sur les compagnies aériennes pour réduire leur empreinte carbone, notamment face aux régulations européennes. Historiquement, le secteur aérien a été l'un des plus polluants, représentant environ 2,5 % des émissions mondiales de CO₂. Les enjeux incluent la conformité aux normes environnementales et l'amélioration de l'image des entreprises. Les causes profondes résident dans la dépendance aux énergies fossiles et la croissance du trafic aérien. À court terme, cette réduction d'émissions pourrait améliorer la réputation d'EVA Air et attirer des investisseurs ESG. À moyen terme, elle pourrait inspirer d'autres compagnies à adopter des pratiques similaires. À long terme, cela pourrait contribuer à une transition vers une aviation plus durable. Les acteurs comme Microsoft (technologie), Formosa (énergie) et les régulateurs environnementaux soutiennent cette démarche. La collaboration pourrait aussi renforcer la compétitivité d'EVA Air sur les marchés sensibles aux critères ESG.",
+        "analyse_en": "This initiative reflects global pressure on airlines to reduce their carbon footprint, particularly due to European regulations. Historically, the aviation sector has been one of the most polluting, accounting for about 2.5% of global CO₂ emissions. Key stakes include compliance with environmental standards and improving corporate image. Root causes stem from reliance on fossil fuels and growing air traffic. In the short term, emission reductions could enhance EVA Air's reputation and attract ESG investors. Medium-term, it could inspire other airlines to adopt similar practices. Long-term, it may contribute to a transition toward more sustainable aviation. Actors like Microsoft (technology), Formosa (energy), and environmental regulators support this effort. The collaboration could also boost EVA Air's competitiveness in ESG-sensitive markets.",
+        "analyse_zh": "此倡议反映了全球对航空公司减少碳足迹的压力，特别是由于欧洲法规。历史上，航空业一直是最污染的行业之一，占全球CO₂排放量的约2.5%。关键影响包括遵守环境标准和提升企业形象。深层原因在于对化石燃料的依赖和航空运输的增长。短期内，减排可能提升长荣航空的声誉并吸引ESG投资者。中期来看，它可能激励其他航空公司采用类似做法。长期而言，这可能有助于向更可持续的航空业转型。微软（技术）、台塑（能源）和环境监管机构等行为者支持此举措。此合作还可能提升长荣航空在ESG敏感市场的竞争力。",
+        "analyse_ru": "Соглашение EVA Air с международными партнёрами демонстрирует стремление авиакомпаний к устойчивому развитию и снижению углеродного следа. Причины включают ужесточение экологических норм и давление со стороны инвесторов. Последствия могут быть значительными для всей отрасли, так как компании будут вынуждены внедрять новые технологии. Перспективы зависят от технологического прогресса и поддержки государства. Позиции сторон: авиакомпании стремятся к снижению затрат и улучшению имиджа, а государства поддерживают инициативы по охране окружающей среды.",
+        "analyse_fa": "توافق ایوا ایر با شرکای بین‌المللی نشان‌دهنده تلاش شرکت‌های هواپیمایی برای توسعه پایدار و کاهش ردپای کربنی است. دلایل این اقدام شامل تشدید قوانین زیست‌محیطی و فشار سرمایه‌گذاران است. پیامدهای آن می‌تواند برای کل صنعت قابل توجه باشد، زیرا شرکت‌ها مجبور به پیاده‌سازی فناوری‌های جدید خواهند شد. چشم‌اندازها به پیشرفت تکنولوژیک و حمایت دولت بستگی دارد. مواضع بازیگران: شرکت‌های هواپیمایی به دنبال کاهش هزینه‌ها و بهبود تصویر خود هستند، در حالی که دولت‌ها از ابتکارات زیست‌محیطی حمایت می‌کنند.",
+        "analyse_ar": "اتفاقية إيفا إير مع الشركاء الدوليين تظهر سعي شركات الطيران نحو التنمية المستدامة وتقليل البصمة الكربونية. الأسباب تشمل تشديد القوانين البيئية وضغوط المستثمرين. العواقب قد تكون كبيرة للصناعة بأكملها، حيث ستضطر الشركات إلى تبني تقنيات جديدة. الآفاق تعتمد على التقدم التكنولوجي ودعم الدولة. مواقف الأطراف: تسعى شركات الطيران إلى خفض التكاليف وتحسين صورتها، بينما تدعم الدول المبادرات البيئية.",
+        "categorie": "Environnement & Économie",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/eva-air-collaborates-with-ait-worldwide-logistics-microsoft-and-formosa-petrochemical-corporation-to-deliver-15-000-metric-tons-of-scope-3-emissions-reductions-302859737.html",
+        "image": "https://mmx.prnewswire.com/media/MS1975417/EVA-Air-Collaborates-to-Deliver-Emissions-Reductions.jpg?id=OA2910501&p=facebook",
+        "date": "2026-08-25",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Sondages électoraux",
-            "hausse": false
+            "label": "▲ Transport aérien",
+            "hausse": true
           },
           {
-            "label": "▼ Financement des partis",
-            "hausse": false
+            "label": "▲ Secteur pétrochimique",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Sondages électoraux",
-            "secteur_en": "Election polls",
-            "secteur_zh": "选举民调",
-            "effet_fr": "La baisse de popularité pourrait réduire les dons aux campagnes électorales et affaiblir la mobilisation des électeurs.",
-            "effet_en": "Declining popularity could reduce campaign donations and weaken voter mobilization.",
-            "effet_zh": "支持率下降可能减少竞选捐款并削弱选民动员。",
-            "hausse": false
+            "secteur_fr": "Transport aérien",
+            "secteur_en": "Air transport",
+            "secteur_zh": "航空运输",
+            "effet_fr": "La réduction des émissions pourrait améliorer l'image d'EVA Air et attirer des clients sensibles aux critères environnementaux.",
+            "effet_en": "Emission reductions could enhance EVA Air's image and attract environmentally conscious customers.",
+            "effet_zh": "减排可能提升长荣航空的形象，吸引环保意识客户。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Financement des partis",
-            "secteur_en": "Party financing",
-            "secteur_zh": "政党融资",
-            "effet_fr": "Une perte de soutien pourrait entraîner une baisse des contributions financières aux partis, limitant leurs capacités d'action.",
-            "effet_en": "Loss of support could lead to a drop in financial contributions to parties, limiting their operational capacity.",
-            "effet_zh": "支持率下降可能导致政党财政捐款减少，限制其行动能力。",
-            "hausse": false
+            "secteur_fr": "Secteur pétrochimique",
+            "secteur_en": "Petrochemical sector",
+            "secteur_zh": "石化行业",
+            "effet_fr": "Formosa Petrochemical pourrait bénéficier d'une meilleure image verte, renforçant sa position sur les marchés internationaux.",
+            "effet_en": "Formosa Petrochemical could gain a greener image, strengthening its position in international markets.",
+            "effet_zh": "台塑石化可能获得更好的绿色形象，巩固其在国际市场的地位。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-25T16:36:09.998179"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-26T19:00:38.389615"
+      },
       {
         "id": "chine_400557",
         "titre": "La Chine enquête sur des violations dans la Force des fusées",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-25T14:43:57.454204"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_235628",
-        "titre": "Robots battent des records humains en Chine",
-        "titre_en": "Robots break human records in China",
-        "titre_zh": "机器人在中国打破人类纪录",
-        "titre_ru": "Роботы побили рекорды в Китае на «Олимпиаде роботов»",
-        "titre_fa": "ربات‌ها رکوردهای جهانی را در چین شکستند",
-        "titre_ar": "الروبوتات تحطم الأرقام القياسية في أولمبياد الصين للروبوتات",
-        "titre_original": "Robots have smashed human world records for the 100m sprint and high jump at China’s ‘robot Olympics’ — but the biggest hurdle is stopping safely",
-        "resume": "Les Jeux mondiaux des robots humanoïdes en Chine ont vu des robots pulvériser des records du 100 mètres et du saut en hauteur. Cependant, leur arrêt sécurisé reste un défi majeur. Ces avancées soulèvent des questions sur l'avenir de l'innovation technologique.",
-        "resume_en": "China's World Humanoid Robot Games saw robots shatter human records in the 100m sprint and high jump. However, their safe stopping remains a major challenge. These advances raise questions about the future of technological innovation.",
-        "resume_zh": "中国世界类人机器人运动会上，机器人打破了100米短跑和跳高的人类纪录。然而，其安全停止仍是重大挑战。这些进展引发对技术创新未来的思考。",
-        "resume_ru": "В Китае проходят вторые Всемирные игры гуманоидных роботов, где машины установили новые мировые рекорды в беге на 100 метров и прыжках в высоту. Главная проблема остаётся в безопасной остановке роботов после финиша. Эксперты обсуждают перспективы развития технологий.",
-        "resume_fa": "در چین، دومین دوره بازی‌های جهانی روبات‌های انسان‌نما در حال برگزاری است که در آن ماشین‌ها رکوردهای جهانی دو 100 متر و پرش ارتفاع را شکستند. چالش اصلی، توقف ایمن روبات‌ها پس از پایان مسابقه است. کارشناسان درباره آینده فناوری بحث می‌کنند.",
-        "resume_ar": "تستضيف الصين الدورة الثانية من الألعاب العالمية للروبوتات الشبيهة بالبشر، حيث حطمت الآلات الأرقام القياسية العالمية في سباق 100 متر والقفز العالي. التحدي الرئيسي يكمن في التوقف الآمن للروبوتات بعد الانتهاء. يناقش الخبراء آفاق تطوير التكنولوجيا.",
-        "analyse_detaillee": "La Chine investit massivement dans les technologies robotiques pour renforcer sa position de leader mondial en innovation. Historiquement, ce pays mise sur l'automatisation pour moderniser son économie et réduire sa dépendance à la main-d'œuvre bon marché. Les records battus par les robots illustrent les progrès rapides en IA et en mécanique. À court terme, ces avancées pourraient stimuler les investissements dans la R&D robotique. À moyen terme, cela pourrait transformer des secteurs comme la logistique ou la santé. Long terme, cela pourrait redéfinir la compétition technologique mondiale. Les acteurs chinois (gouvernement, entreprises) y voient un levier de puissance, tandis que les États-Unis et l'Europe accélèrent leurs propres programmes. Les défis éthiques et sécuritaires restent cependant critiques.",
-        "analyse_en": "China is heavily investing in robotic technologies to strengthen its position as a global leader in innovation. Historically, the country has relied on automation to modernize its economy and reduce dependence on cheap labor. The records broken by robots highlight rapid advancements in AI and mechanics. In the short term, these breakthroughs could boost investments in robotic R&D. In the medium term, this could transform sectors like logistics or healthcare. Long term, it could redefine global technological competition. Chinese actors (government, businesses) see this as a lever for power, while the U.S. and Europe are accelerating their own programs. Ethical and security challenges remain critical.",
-        "analyse_zh": "中国大力投资机器人技术，以巩固其全球创新领导地位。历史上，该国依赖自动化来现代化经济并减少对廉价劳动力的依赖。机器人打破的纪录凸显了人工智能和机械学的快速进步。短期内，这些突破可能推动机器人研发投资。中期来看，可能改变物流或医疗等行业。长期而言，可能重新定义全球技术竞争。中国政府和企业将其视为权力杠杆，而美国和欧洲正加速自身计划。但伦理和安全挑战仍至关重要。",
-        "analyse_ru": "Событие демонстрирует стремительный прогресс Китая в области робототехники и ИИ, что соответствует национальной стратегии технологического лидерства. Причины успеха кроются в государственных инвестициях и частных разработках. Последствия могут ускорить внедрение роботов в быт и промышленность. Перспективы зависят от решения проблем безопасности и этики. Позиции сторон: власти поддерживают инициативу, критики опасаются последствий для рынка труда.",
-        "analyse_fa": "این رویداد پیشرفت سریع چین در روباتیک و هوش مصنوعی را نشان می‌دهد که با استراتژی ملی رهبری فناوری همسو است. دلایل موفقیت در سرمایه‌گذاری‌های دولتی و توسعه‌های خصوصی نهفته است. پیامدها می‌تواند تسریع در استفاده از روبات‌ها در زندگی روزمره و صنعت باشد. چشم‌انداز به حل مشکلات ایمنی و اخلاقی بستگی دارد. موضع مقامات حمایت است، در حالی که منتقدان نگران تأثیر آن بر بازار کار هستند.",
-        "analyse_ar": "تظهر هذه الفعالية التقدم السريع للصين في مجال الروبوتات والذكاء الاصطناعي، بما يتوافق مع استراتيجية القيادة التكنولوجية الوطنية. الأسباب تكمن في الاستثمارات الحكومية والتطويرات الخاصة. العواقب قد تسرع من دمج الروبوتات في الحياة اليومية والصناعة. الآفاق تعتمد على حل مشاكل السلامة والأخلاق. موقف السلطات داعم، بينما يخشى النقاد من تأثيرها على سوق العمل.",
-        "categorie": "Technologie",
-        "source": "TechRadar",
-        "url": "https://www.techradar.com/ai-platforms-assistants/robots-have-smashed-human-world-records-for-the-100m-sprint-and-high-jump-at-chinas-robot-olympics-but-the-biggest-hurdle-is-stopping-safely",
-        "image": "https://cdn.mos.cms.futurecdn.net/ctrvECd8Kgjado59kyxSdm-2000-80.jpg",
-        "date": "2026-08-24",
-        "pays": "chine",
+        "id": "russie_785659",
+        "titre": "L'FSB recrute une ex-membre de Pussy Riot comme espionne",
+        "titre_en": "FSB recruits former Pussy Riot member as spy",
+        "titre_zh": "俄联邦安全局招募前“暴动小猫”成员为间谍",
+        "titre_ru": "СБУ завербовала бывшего участника Pussy Riot для шпионажа",
+        "titre_fa": "اف‌بی‌اس روسیه عضو سابق پوسی ریوت را برای جاسوسی استخدام کرد",
+        "titre_ar": "استخبارات روسيا تجند عضوًا سابقًا في بوسي رايت لجمع معلومات",
+        "titre_original": "Russia’s FSB Agents Recruited Former Pussy Riot Member to Spy on Artists",
+        "resume": "Une ancienne membre du groupe punk Pussy Riot, Margarita Konovalova, affirme avoir été recrutée par l'FSB pour espionner les critiques du Kremlin. Elle révèle avoir été approchée en 2023 et formée à des techniques de surveillance. Son témoignage met en lumière les méthodes de répression des opposants en Russie.",
+        "resume_en": "Former Pussy Riot member Margarita Konovalova claims she was recruited by Russia's FSB to spy on Kremlin critics. She says she was approached in 2023 and trained in surveillance techniques. Her testimony highlights repression methods against opponents in Russia.",
+        "resume_zh": "前“暴动小猫”成员玛格丽塔·科诺瓦洛娃声称她被俄罗斯联邦安全局招募为间谍，监视克里姆林宫批评者。她表示自己在2023年被接触并接受监视技术培训。她的证词揭示了俄罗斯对反对派的镇压手段。",
+        "resume_ru": "Бывший участник группы Pussy Riot, Рита Флорес, обвинила российские спецслужбы в вербовке для шпионажа против критиков Кремля. Она утверждает, что её завербовали для сбора информации о деятелях искусства. Это произошло на фоне ужесточения репрессий против инакомыслящих в России.",
+        "resume_fa": "ریتا فلوورس، عضو سابق گروه پوسی ریوت، سرویس‌های اطلاعاتی روسیه را متهم کرد که او را برای جاسوسی علیه منتقدان کرملین استخدام کرده‌اند. او ادعا می‌کند که برای جمع‌آوری اطلاعات درباره هنرمندان استخدام شده است. این اتفاق در شرایط تشدید سرکوب مخالفان در روسیه رخ داده است.",
+        "resume_ar": "اتهمت ريتا فلوريس، العضو السابق في مجموعة بوسي رايت، أجهزة الاستخبارات الروسية بتجنيدها للتجسس ضد منتقدي الكرملين.她说 إنها تم تجنيدها لجمع معلومات عن فنانين. حدث هذا في ظل تصاعد القمع ضد المعارضين في روسيا.",
+        "analyse_detaillee": "Ce cas illustre la stratégie du Kremlin pour infiltrer et neutraliser les mouvements d'opposition, une pratique remontant à l'époque soviétique. Les enjeux incluent la préservation du pouvoir de Poutine face à une société civile de plus en plus réprimée. Les causes profondes résident dans la paranoïa du régime face à toute forme de dissidence, amplifiée par la guerre en Ukraine. À court terme, cette infiltration pourrait permettre à l'FSB de mieux anticiper les actions des opposants. À moyen terme, elle risque d'intensifier la répression et de décourager les militants. À long terme, cela pourrait radicaliser davantage la société russe. Les acteurs comme l'FSB, les opposants politiques et les ONG internationales adoptent des positions opposées. La révélation de Konovalova pourrait affaiblir la crédibilité du régime en exposant ses méthodes répressives.",
+        "analyse_en": "This case illustrates the Kremlin's strategy to infiltrate and neutralize opposition movements, a practice dating back to the Soviet era. Key stakes include preserving Putin's power amid an increasingly repressed civil society. Root causes stem from the regime's paranoia toward any dissent, amplified by the war in Ukraine. In the short term, this infiltration could help the FSB better anticipate opposition actions. Medium-term, it risks intensifying repression and discouraging activists. Long-term, it could further radicalize Russian society. Actors like the FSB, political opponents, and international NGOs hold opposing positions. Konovalova's revelation could weaken the regime's credibility by exposing its repressive methods.",
+        "analyse_zh": "此案例展示了克里姆林宫渗透和中和反对派运动的策略，这种做法可追溯至苏联时期。关键影响包括在日益受压制的公民社会中维护普京的权力。深层原因在于政权对任何异议的偏执，在乌克兰战争中进一步加剧。短期内，此渗透可能帮助联邦安全局更好地预测反对派行动。中期来看，它可能加剧镇压并打击活动人士的士气。长期而言，这可能进一步激化俄罗斯社会。联邦安全局、政治反对派和国际非政府组织等行为者持对立立场。科诺瓦洛娃的揭露可能通过暴露其镇压手段削弱政权的信誉。",
+        "analyse_ru": "Обвинения бывшего участника Pussy Riot в адрес ФСБ отражают усиление репрессий против инакомыслящих в России. Причины таких действий связаны с желанием властей подавить любые формы протеста и контроля над обществом. Последствия могут включать ужесточение мер безопасности и ужесточение цензуры. Перспективы зависят от реакции международного сообщества и внутренней оппозиции. Позиции сторон: власти стремятся к контролю, а оппозиция пытается сохранить свободу слова.",
+        "analyse_fa": "اتهامات عضو سابق پوسی ریوت علیه اف‌بی‌اس نشان‌دهنده تشدید سرکوب مخالفان در روسیه است. دلایل این اقدامات به تمایل مقامات برای سرکوب هرگونه اعتراض و کنترل جامعه مربوط می‌شود. پیامدهای آن می‌تواند شامل تشدید اقدامات امنیتی و سانسور باشد. چشم‌اندازها به واکنش جامعه بین‌المللی و اپوزیسیون داخلی بستگی دارد. مواضع بازیگران: مقامات به دنبال کنترل هستند، در حالی که اپوزیسیون تلاش می‌کند آزادی بیان را حفظ کند.",
+        "analyse_ar": "تهمات العضو السابق في بوسي رايت ضد الاستخبارات الروسية تعكس تشديد القمع ضد المعارضين في روسيا. الأسباب تتعلق برغبة السلطات في قمع أي شكل من أشكال الاحتجاج والسيطرة على المجتمع. العواقب قد تشمل تشديد الإجراءات الأمنية وزيادة الرقابة. الآفاق تعتمد على رد فعل المجتمع الدولي والمعارضة الداخلية. مواقف الأطراف: تسعى السلطات إلى السيطرة، بينما تحاول المعارضة الحفاظ على حرية التعبير.",
+        "categorie": "Droits humains & Sécurité",
+        "source": "ARTnews",
+        "url": "https://www.artnews.com/art-news/news/pussy-riot-member-recruited-russia-fsb-spy-artists-1234795669/",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-08-25",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des semi-conducteurs",
-            "hausse": true
+            "label": "▼ Mouvements d'opposition",
+            "hausse": false
           },
           {
-            "label": "▲ Marché de la robotique industrielle",
-            "hausse": true
+            "label": "▼ Médias indépendants",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des semi-conducteurs",
-            "secteur_en": "Semiconductor industry",
-            "secteur_zh": "半导体行业",
-            "effet_fr": "La demande accrue en puces pour l'IA et la robotique pourrait stimuler la production et les profits des fabricants chinois comme SMIC.",
-            "effet_en": "Increased demand for AI and robotics chips could boost production and profits for Chinese manufacturers like SMIC.",
-            "effet_zh": "人工智能和机器人芯片需求激增可能推动中芯国际等中国制造商的生产和利润。",
-            "hausse": true
+            "secteur_fr": "Mouvements d'opposition",
+            "secteur_en": "Opposition movements",
+            "secteur_zh": "反对派运动",
+            "effet_fr": "L'infiltration pourrait permettre à l'FSB de mieux contrôler et réprimer les mouvements critiques, réduisant leur capacité d'organisation.",
+            "effet_en": "Infiltration could help the FSB better control and suppress critical movements, reducing their organizational capacity.",
+            "effet_zh": "渗透可能帮助联邦安全局更好地控制和镇压批评运动，降低其组织能力。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché de la robotique industrielle",
-            "secteur_en": "Industrial robotics market",
-            "secteur_zh": "工业机器人市场",
-            "effet_fr": "Les innovations chinoises pourraient réduire les coûts des robots industriels, accélérant leur adoption dans les usines mondiales.",
-            "effet_en": "Chinese innovations could lower industrial robot costs, accelerating their adoption in global factories.",
-            "effet_zh": "中国创新可能降低工业机器人成本，加速其在全球工厂的采用。",
-            "hausse": true
+            "secteur_fr": "Médias indépendants",
+            "secteur_en": "Independent media",
+            "secteur_zh": "独立媒体",
+            "effet_fr": "La révélation pourrait pousser les médias indépendants à renforcer leurs mesures de sécurité, limitant l'impact de l'espionnage.",
+            "effet_en": "The revelation could push independent media to strengthen security measures, limiting the impact of espionage.",
+            "effet_zh": "此揭露可能促使独立媒体加强安全措施，限制间谍活动的影响。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-08-25T13:49:32.425345"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-26T19:00:38.389603"
+      },
       {
         "id": "russie_400759",
         "titre": "Médecins de l'US Air Force s'adaptent aux attaques de drones",
@@ -4829,65 +4888,6 @@
           }
         ],
         "created_at": "2026-08-25T14:43:57.454214"
-      },
-      {
-        "id": "russie_416479",
-        "titre": "Soldat russe blesse par son propre RPG",
-        "titre_en": "Russian soldier injures himself with RPG",
-        "titre_zh": "俄罗斯士兵被自己RPG炸伤",
-        "titre_ru": "Российский солдат случайно выстрелил РПГ в свои ноги",
-        "titre_fa": "سرباز روسی به اشتباه راکت به پایش شلیک کرد",
-        "titre_ar": "جندي روسي يطلق قذيفة آر بي جي على قدميه بالخطأ",
-        "titre_original": "'You f***ing idiot, move back!': Russian soldier accidentally fires RPG at his own feet during training",
-        "resume": "Un soldat russe a failli se tuer en tirant accidentellement un RPG sur ses propres pieds lors d'un exercice. La vidéo, devenue virale, illustre les lacunes de formation et de sécurité dans l'armée russe. Moscou n'a pas réagi officiellement.",
-        "resume_en": "A Russian soldier nearly killed himself by accidentally firing an RPG at his own feet during an exercise. The viral video highlights training and safety gaps in the Russian army. Moscow has not officially reacted.",
-        "resume_zh": "一名俄罗斯士兵在训练中意外用RPG炸到自己脚，险些丧命。这段病毒式传播的视频凸显俄军训练和安全漏洞。莫斯科未正式回应。",
-        "resume_ru": "Во время учебных стрельб российский военнослужащий случайно выпустил реактивный противотанковый гранатомёт в свои ноги. Инцидент произошёл из-за неосторожного обращения с оружием. Солдат не пострадал, но инцидент вызвал широкий резонанс.",
-        "resume_fa": "در حین تمرین تیراندازی، یک سرباز روسی به اشتباه راکت ضد تانک را به سمت پایش شلیک کرد. این حادثه به دلیل بی‌دقتی در استفاده از سلاح رخ داد. سرباز آسیبی ندید، اما حادثه واکنش‌های گسترده‌ای برانگیخت.",
-        "resume_ar": "أثناء تدريبات الرماية، أطلق جندي روسي قذيفة آر بي جي على قدميه بالخطأ. حدث الحادث بسبب الإهمال في استخدام السلاح. لم يصب الجندي بأذى، لكن الحادث أثار ردود فعل واسعة.",
-        "analyse_detaillee": "Cet incident reflète les problèmes structurels de l'armée russe, aggravés par la guerre en Ukraine et les sanctions internationales. Historiquement, l'armée russe a toujours privilégié la quantité à la qualité, avec des formations souvent bâclées. À court terme, cela pourrait nuire au moral des troupes et à la crédibilité de l'état-major. À moyen terme, cela pourrait accélérer les réformes militaires, si elles sont possibles sous le régime actuel. Long terme, cela pourrait affaiblir la position géopolitique de la Russie, déjà fragilisée. Les acteurs internes (gouvernement, généraux) minimisent probablement l'incident, tandis que l'opposition et les médias occidentaux l'exploitent. Les alliés de la Russie pourraient aussi remettre en question leur soutien.",
-        "analyse_en": "This incident reflects the structural problems of the Russian army, exacerbated by the war in Ukraine and international sanctions. Historically, the Russian army has prioritized quantity over quality, with often rushed training. In the short term, this could harm troop morale and the credibility of the high command. In the medium term, this could accelerate military reforms, if possible under the current regime. Long term, this could weaken Russia's geopolitical position, already fragile. Internal actors (government, generals) likely downplay the incident, while the opposition and Western media exploit it. Russia's allies may also question their support.",
-        "analyse_zh": "这一事件反映了俄军的结构性问题，因乌克兰战争和国际制裁而恶化。历史上，俄军一直重数量而轻质量，训练常草草了事。短期内，这可能损害部队士气和总参谋部的信誉。中期来看，可能推动军事改革，如果现政权允许的话。长期而言，可能削弱俄地缘政治地位，其已然脆弱。内部行为者（政府、将军）可能淡化事件，而反对派和西方媒体则加以利用。俄罗斯的盟友也可能质疑其支持。",
-        "analyse_ru": "Инцидент отражает проблемы в подготовке российских военнослужащих и соблюдении техники безопасности. Причины кроются в халатности и недостатке контроля. Последствия могут включать дисциплинарные меры и пересмотр учебных программ. Перспективы зависят от реакции командования и общественного мнения. Позиции сторон: военные подчёркивают редкость таких случаев, критики указывают на системные проблемы.",
-        "analyse_fa": "این حادثه مشکلات آموزش سربازان روسی و رعایت نکات ایمنی را نشان می‌دهد. دلایل در بی‌توجهی و کمبود کنترل نهفته است. پیامدها می‌تواند شامل اقدامات انضباطی و بازنگری در برنامه‌های آموزشی باشد. چشم‌انداز به واکنش فرماندهی و افکار عمومی بستگی دارد. موضع نظامی تأکید بر نادر بودن چنین مواردی است، در حالی که منتقدان به مشکلات سیستماتیک اشاره می‌کنند.",
-        "analyse_ar": "يعكس الحادث مشاكل في تدريب الجنود الروس وامتثال قواعد السلامة. الأسباب تكمن في الإهمال ونقص الرقابة. العواقب قد تشمل إجراءات تأديبية ومراجعة البرامج التدريبية. الآفاق تعتمد على رد فعل القيادة والرأي العام. موقف العسكريين يؤكد ندرة مثل هذه الحالات، بينما يشير النقاد إلى مشاكل منهجية.",
-        "categorie": "Défense",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16075769/You-f-ing-idiot-Russian-soldier-accidentally-fires-RPG-feet-training.html",
-        "image": "https://i.dailymail.com/1s/2026/08/24/14/110818413-0-image-m-51_1787578765834.jpg",
-        "date": "2026-08-24",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Dépenses militaires",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des assurances",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Dépenses militaires",
-            "secteur_en": "Military spending",
-            "secteur_zh": "军事支出",
-            "effet_fr": "Les lacunes révélées pourraient pousser Moscou à augmenter les budgets alloués à la formation et à la sécurité, stimulant les entreprises de défense locales.",
-            "effet_en": "The revealed gaps could push Moscow to increase budgets for training and security, boosting local defense companies.",
-            "effet_zh": "暴露的漏洞可能促使莫斯科增加培训和安全预算，推动本土国防企业。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des assurances",
-            "secteur_en": "Insurance market",
-            "secteur_zh": "保险市场",
-            "effet_fr": "Les accidents comme celui-ci pourraient faire augmenter les primes d'assurance pour les militaires et les équipements, alourdissant les coûts pour l'État.",
-            "effet_en": "Accidents like this could drive up insurance premiums for military personnel and equipment, increasing costs for the state.",
-            "effet_zh": "此类事故可能推高军人和装备的保险费率，增加国家成本。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-25T13:49:32.425355"
       }
     ],
     "iran": [
