@@ -1,7 +1,66 @@
 {
-  "last_updated": "30/08/2026 à 20h36",
+  "last_updated": "30/08/2026 à 23h12",
   "articles": {
     "monde": [
+      {
+        "id": "monde_841171",
+        "titre": "Conversations ChatGPT utilisées comme preuves judiciaires",
+        "titre_en": "ChatGPT conversations used as court evidence",
+        "titre_zh": "ChatGPT对话被用作法庭证据",
+        "titre_ru": "Чат-логи ChatGPT стали публичными записями суда",
+        "titre_fa": "گفتگوی چت‌جی‌پی‌تی به عنوان سوابق دادگاه ثبت شد",
+        "titre_ar": "سجلات دردشة ChatGPT تدخل السجلات العامة بعد عرضها في المحكمة",
+        "titre_original": "ChatGPT conversations enter public record after court presentation",
+        "resume": "Les logs de conversations avec ChatGPT sont désormais présentés comme preuves devant les tribunaux, soulevant des questions sur la confidentialité des données. Cette pratique interroge l'absence de cadre juridique clair pour réguler l'utilisation de l'IA dans les procédures judiciaires. Les experts alertent sur les risques de manipulation ou d'erreurs dans les données utilisées.",
+        "resume_en": "ChatGPT conversation logs are now being presented as evidence in court cases, raising concerns about data privacy. This practice highlights the lack of clear legal frameworks governing AI use in judicial proceedings. Experts warn of risks of manipulation or errors in the data used.",
+        "resume_zh": "ChatGPT对话记录现已被作为法庭证据提交，引发数据隐私问题。这一做法凸显了缺乏明确的法律框架来规范司法程序中AI的使用。专家警告数据可能被操纵或存在错误。",
+        "resume_ru": "Впервые в судебной практике разговоры с ИИ ChatGPT были представлены в качестве доказательств и вошли в публичные записи. Это вызвало обеспокоенность по поводу конфиденциальности данных пользователей. Эксперты призывают к разработке более чётких правовых норм и стандартов обработки информации.",
+        "resume_fa": "برای نخستین بار مکالمات با هوش مصنوعی چت‌جی‌پی‌تی به عنوان شواهد در دادگاه ارائه شدند و وارد سوابق عمومی شدند. این امر نگرانی‌هایی درباره حریم خصوصی کاربران ایجاد کرده است. کارشناسان خواستار تدوین قوانین و استانداردهای روشن‌تر در زمینه حفاظت از داده‌ها هستند.",
+        "resume_ar": "لأول مرة، تم تقديم محادثات مع الذكاء الاصطناعي ChatGPT كدليل في المحكمة ودخلت السجلات العامة. أثار هذا قلقاً بشأن خصوصية بيانات المستخدمين. يدعو الخبراء إلى وضع معايير وقوانين أوضح لحماية البيانات.",
+        "analyse_detaillee": "L'utilisation de l'IA dans les procédures judiciaires marque une évolution technologique majeure, mais elle s'inscrit dans un vide juridique persistant concernant la protection des données personnelles. Historiquement, les preuves numériques ont toujours posé des défis en termes de fiabilité, comme en témoignent les affaires de deepfakes ou de faux documents. Les enjeux principaux incluent la protection de la vie privée, la transparence des algorithmes et la responsabilité en cas d'erreur. Les causes profondes résident dans l'adoption rapide de technologies sans régulation adaptée, ainsi que dans la difficulté à authentifier des données générées par IA. À court terme, cela pourrait entraîner des rejets de preuves ou des contestations judiciaires accrues. À moyen terme, une réglementation plus stricte pourrait émerger, imposant des audits algorithmiques et des normes de transparence. À long terme, cela pourrait redéfinir la notion de preuve légale, intégrant des critères techniques pour évaluer la fiabilité des données. Les acteurs concernés sont les tribunaux, les législateurs, les entreprises technologiques comme OpenAI, et les défenseurs des droits numériques. L'UE, avec son Règlement Général sur la Protection des Données (RGPD), pourrait jouer un rôle clé dans l'établissement de normes internationales.",
+        "analyse_en": "The use of AI in judicial proceedings represents a major technological shift but occurs within a persistent legal void regarding personal data protection. Historically, digital evidence has always posed challenges in terms of reliability, as seen in deepfake or forged document cases. The main stakes include privacy protection, algorithmic transparency, and accountability in case of errors. The root causes lie in the rapid adoption of technologies without adequate regulation, as well as the difficulty in authenticating AI-generated data. In the short term, this could lead to evidence rejections or increased legal challenges. In the medium term, stricter regulation could emerge, imposing algorithmic audits and transparency standards. Long-term, this could redefine the notion of legal evidence, integrating technical criteria to assess data reliability. Key actors include courts, legislators, tech companies like OpenAI, and digital rights advocates. The EU, with its General Data Protection Regulation (GDPR), could play a pivotal role in establishing international standards.",
+        "analyse_zh": "AI在司法程序中的应用代表重大技术转变，但却在个人数据保护方面长期存在法律空白。历史上，数字证据在可靠性方面一直面临挑战，如深度伪造或伪造文件案例。主要影响包括隐私保护、算法透明度与错误责任。深层原因在于技术快速采用缺乏适当监管，以及难以验证AI生成数据的真实性。短期内，这可能导致证据被驳回或诉讼争议增加。中期来看，可能出现更严格的监管，强制算法审计与透明度标准。长期而言，这可能重新定义法律证据概念，纳入技术标准评估数据可靠性。相关行为者包括法院、立法者、OpenAI等科技公司及数字权利倡导者。欧盟凭借《通用数据保护条例》（GDPR）可能在制定国际标准中发挥关键作用。",
+        "analyse_ru": "Контекст связан с развитием технологий и их интеграцией в правовую систему. Причины использования ИИ в судах обусловлены стремлением к объективности и автоматизации процессов. Последствия могут включать утечку данных, нарушение прав пользователей и недоверие к ИИ. Перспективы зависят от регулирования и этики применения технологий. Позиции сторон: суды хотят эффективности, пользователи — защиты, а разработчики — ясных правил.",
+        "analyse_fa": "زمینه به توسعه فناوری‌ها و ادغام آنها در سیستم حقوقی مربوط می‌شود. دلایل استفاده از هوش مصنوعی در دادگاه‌ها به دنبال دستیابی به عینیت و خودکارسازی فرآیندها است. پیامدها ممکن است شامل نشت داده‌ها، نقض حقوق کاربران و بی‌اعتمادی به هوش مصنوعی باشد. چشم‌انداز به تنظیم مقررات و اخلاقیات کاربرد فناوری بستگی دارد. موضع بازیگران: دادگاه‌ها به دنبال کارایی هستند، کاربران به دنبال حفاظت، و توسعه‌دهندگان به دنبال قوانین روشن.",
+        "analyse_ar": "يرتبط السياق بتطور التكنولوجيا ودمجها في النظام القانوني. أسباب استخدام الذكاء الاصطناعي في المحاكم ترتبط بالسعي نحو الموضوعية وأتمتة العمليات. العواقب قد تشمل تسرب البيانات وانتهاك حقوق المستخدمين وانعدام الثقة في الذكاء الاصطناعي. الآفاق تعتمد على التنظيم والأخلاقيات في استخدام التكنولوجيا. مواقف الأطراف: تسعى المحاكم إلى الفعالية، ويسعى المستخدمون إلى الحماية، ويسعى المطورون إلى قواعد واضحة.",
+        "categorie": "Technologie",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/chatgpt-conversations-court-public-record/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/29190408/library-chatgpt-conversations-enter-public-record-after-court-pr-800x450.png",
+        "date": "2026-08-29",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurance et responsabilité civile",
+            "hausse": true
+          },
+          {
+            "label": "▼ Technologie et innovation",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance et responsabilité civile",
+            "secteur_en": "Insurance and liability",
+            "secteur_zh": "保险与责任保险",
+            "effet_fr": "Les assureurs pourraient voir une hausse des litiges liés à l'utilisation de preuves générées par IA, entraînant une augmentation des primes pour les entreprises technologiques.",
+            "effet_en": "Insurers may face a rise in disputes related to AI-generated evidence, leading to higher premiums for tech companies.",
+            "effet_zh": "保险公司可能面临因AI生成证据引发的诉讼增加，导致科技公司保费上涨。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Technologie et innovation",
+            "secteur_en": "Technology and innovation",
+            "secteur_zh": "科技与创新",
+            "effet_fr": "Les entreprises développant des outils d'IA pourraient subir une pression réglementaire accrue, ralentissant l'innovation dans certains secteurs.",
+            "effet_en": "AI tool developers may face increased regulatory pressure, slowing innovation in certain sectors.",
+            "effet_zh": "AI工具开发商可能面临更大监管压力，在某些领域减缓创新。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-30T23:12:17.923617"
+      },
       {
         "id": "monde_784835",
         "titre": "Les Ravens libèrent un quarterback en pré-saison",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-08-26T12:48:53.982415"
-      },
-      {
-        "id": "monde_52722",
-        "titre": "Trump accuse l’Iran de ne pas payer ses armées",
-        "titre_en": "Trump accuses Iran of unpaid military segments",
-        "titre_zh": "特朗普指责伊朗未支付军队部分费用",
-        "titre_ru": "Потери инвесторов CCB: Coastal Financial подозревают в мошенничестве",
-        "titre_fa": "زیان‌های سرمایه‌گذاران CCB: Coastal Financial متهم به کلاهبرداری است",
-        "titre_ar": "خسائر مستثمري CCB: اتهامات بتزوير خدمات Coastal Financial المصرفية",
-        "titre_original": "CCB Investor Losses: Coastal Financial Banking Services Issues and Corresponding 43% Stock Drop Trigger Securities Class Action for Investors",
-        "resume": "Donald Trump a affirmé que l’Iran ne paie pas une partie importante de son armée, soulignant une prétendue faiblesse économique du régime. Ses déclarations interviennent dans un contexte de tensions persistantes entre Washington et Téhéran. Cette allégation pourrait relancer les débats sur la stabilité financière et militaire iranienne.",
-        "resume_en": "US President Donald Trump claimed Iran fails to pay large segments of its military, highlighting alleged economic weaknesses in the regime. His remarks come amid ongoing tensions between Washington and Tehran. The allegation may reignite discussions on Iran’s financial and military stability.",
-        "resume_zh": "特朗普声称伊朗未支付其军队部分费用，暗示伊朗经济实力薄弱。此言论在美伊紧张局势持续的背景下出现，可能再次引发对伊朗经济和军事稳定性的讨论。",
-        "resume_ru": "Компания BFA Law расследует возможное мошенничество с ценными бумагами со стороны Coastal Financial Corporation. Поводом стали заявления о финансовых показателях и качестве кредитов в сегменте банковских услуг. Акции компании упали на 43%, что привело к групповому иску инвесторов.",
-        "resume_fa": "شرکت حقوقی BFA در حال بررسی احتمال کلاهبرداری اوراق بهادار توسط Coastal Financial Corporation است. این بررسی به دلیل اظهارات در مورد عملکرد مالی و کیفیت اعتباری خدمات بانکی این شرکت انجام می‌شود. سهام شرکت 43 درصد سقوط کرده و منجر به طرح دعوای جمعی سرمایه‌گذاران شده است.",
-        "resume_ar": "تقوم شركة BFA Law بالتحقيق في احتمال حدوث تزوير في الأوراق المالية من قبل شركة Coastal Financial Corporation. جاء التحقيق بسبب تصريحات حول الأداء المالي وجودة الائتمان في قطاع الخدمات المصرفية. انخفضت أسهم الشركة بنسبة 43% مما أدى إلى رفع دعوى جماعية من قبل المستثمرين.",
-        "analyse_detaillee": "Les accusations de Trump s’inscrivent dans une stratégie de pression diplomatique et économique contre l’Iran, héritée de la politique étrangère américaine depuis les années 1970. Les tensions actuelles reflètent une rivalité géopolitique centrée sur le contrôle des ressources régionales et la lutte contre l’influence iranienne. Les causes profondes incluent les sanctions américaines et les divergences idéologiques entre les deux pays. À court terme, ces déclarations pourraient intensifier les cyberattaques et les provocations mutuelles. À moyen terme, elles pourraient affaiblir davantage les alliances régionales pro-iraniennes. Long terme, cela pourrait accélérer une fragmentation du Moyen-Orient en blocs rivaux. Les États-Unis cherchent à isoler l’Iran, tandis que Téhéran maintient une posture de résistance face à l’hégémonie américaine.",
-        "analyse_en": "Trump’s claims align with a long-standing US strategy of diplomatic and economic pressure on Iran, rooted in Cold War-era geopolitical rivalries. Current tensions stem from competing regional influence and the struggle against Iranian expansionism. Root causes include US sanctions and ideological clashes. Short-term, this could escalate cyber warfare and mutual provocations. Medium-term, it may further weaken pro-Iranian regional alliances. Long-term, it risks accelerating Middle Eastern fragmentation into rival blocs. The US aims to isolate Iran, while Tehran maintains a stance of resistance against US hegemony.",
-        "analyse_zh": "特朗普的指控延续了美国自冷战以来对伊朗施压的外交策略，反映了美伊在地区影响力和意识形态对抗上的长期对峙。当前紧张局势源于双方在资源控制和反伊朗势力扩张上的竞争。深层原因包括美国制裁和意识形态冲突。短期内，此言论可能加剧网络战和双边挑衅。中期内，可能进一步削弱亲伊朗地区联盟。长期来看，可能加速中东分裂为敌对阵营。美国试图孤立伊朗，而伊朗则坚持抵抗美国霸权的立场。",
-        "analyse_ru": "Контекст ситуации связан с расследованием возможного мошенничества в финансовой отчетности Coastal Financial. Причины падения акций кроются в подозрениях о фальсификации данных о кредитном качестве и финансовой устойчивости. Последствия могут включать крупные штрафы и потерю доверия инвесторов. Перспективы зависят от результатов расследования и судебных решений. Позиции сторон разделились: инвесторы требуют компенсаций, а компания отрицает обвинения.",
-        "analyse_fa": "زمینه این ماجرا به بررسی احتمال کلاهبرداری در گزارش‌های مالی Coastal Financial بازمی‌گردد. دلایل سقوط سهام به اتهامات دستکاری در داده‌های مربوط به کیفیت اعتباری و ثبات مالی برمی‌گردد. پیامدها می‌تواند شامل جریمه‌های سنگین و از دست دادن اعتماد سرمایه‌گذاران باشد. چشم‌اندازها به نتایج تحقیقات و تصمیمات دادگاه بستگی دارد. موضع بازیگران متفاوت است: سرمایه‌گذاران خواستار جبران خسارت هستند، در حالی که شرکت اتهامات را رد می‌کند.",
-        "analyse_ar": "سياق هذه القضية يتعلق بالتحقيق في احتمال حدوث تزوير في التقارير المالية لشركة Coastal Financial. أسباب انخفاض الأسهم تعود إلى اتهامات بتزوير البيانات المتعلقة بجودة الائتمان والاستقرار المالي. العواقب قد تشمل غرامات كبيرة وفقدان ثقة المستثمرين. الآفاق تعتمد على نتائج التحقيقات والأحكام القضائية. مواقف الأطراف مختلفة: يطالب المستثمرون بالتعويضات بينما تنفي الشركة التهم.",
-        "categorie": "Géopolitique",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/ccb-investor-losses-coastal-financial-banking-services-issues-and-corresponding-43-stock-drop-trigger-securities-class-action-for-investors-302858904.html",
-        "image": "https://mmx.prnewswire.com/media/MS1804470/Bleichmar-Fonti-Auld-LLP-Logo.jpg?id=OA2907443&p=facebook",
-        "date": "2026-08-25",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Secteur des sanctions économiques américaines",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché pétrolier international",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur des sanctions économiques américaines",
-            "secteur_en": "US economic sanctions sector",
-            "secteur_zh": "美国经济制裁领域",
-            "effet_fr": "Ces accusations pourraient renforcer les sanctions américaines contre l’Iran, aggravant sa crise financière et son isolement diplomatique.",
-            "effet_en": "These claims may intensify US sanctions on Iran, worsening its financial crisis and diplomatic isolation.",
-            "effet_zh": "此言论可能加剧美国对伊朗的制裁，加重其经济危机和外交孤立。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché pétrolier international",
-            "secteur_en": "Global oil market",
-            "secteur_zh": "全球石油市场",
-            "effet_fr": "Les tensions accrues pourraient perturber les flux pétroliers et faire monter les prix, affectant les économies dépendantes.",
-            "effet_en": "Escalating tensions may disrupt oil flows and drive up prices, impacting dependent economies.",
-            "effet_zh": "升级的紧张局势可能扰乱石油流通并推高价格，影响依赖石油的经济体。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-08-26T11:29:52.766258"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_136161",
+        "titre": "Problèmes de communication du candidat El-Sayed",
+        "titre_en": "El-Sayed's communication issues worsen",
+        "titre_zh": "候选人埃尔-赛义德沟通问题恶化",
+        "titre_ru": "Проблемы с коммуникацией кандидата в сенат США",
+        "titre_fa": "مشکل ارتباطی نامزد سنا در آمریکا بدتر شد",
+        "titre_ar": "تزداد مشكلة المرشح لمجلس الشيوخ الأمريكي سوءاً",
+        "titre_original": "Abdul El-Sayed’s Messaging Problem Gets Worse",
+        "resume": "Abdul El-Sayed, candidat démocrate au Sénat du Michigan, est critiqué pour ses réponses évasives aux questions directes des médias. Ses détracteurs lui reprochent un manque de clarté sur des sujets clés comme l'économie ou la santé. Cette situation affaiblit sa crédibilité auprès des électeurs et des donateurs.",
+        "resume_en": "Abdul El-Sayed, Michigan Democrat Senate candidate, faces criticism for evasive answers to direct media questions. Critics accuse him of lacking clarity on key issues like the economy or healthcare. This situation weakens his credibility with voters and donors.",
+        "resume_zh": "密歇根州民主党参议院候选人阿卜杜勒·埃尔-赛义德因对媒体直接提问的回避答案受到批评。批评者指责他在经济或医疗等关键问题上缺乏清晰度。这种情况削弱了他对选民和捐助者的信誉。",
+        "resume_ru": "Кандидат в сенат от демократов Абдул Эль-Сайед продолжает получать критику за неспособность дать чёткие ответы на прямые вопросы. Его выступления часто уходят в сторону, что вызывает недовольство избирателей. Эксперты связывают это с недостатками в предвыборной кампании.",
+        "resume_fa": "نامزد دموکرات سنا، عبدال السید، به دلیل عدم توانایی در پاسخگویی مستقیم به سؤالات، همچنان مورد انتقاد قرار می‌گیرد. سخنرانی‌های او اغلب به حاشیه می‌رود و باعث نارضایتی رأی‌دهندگان می‌شود. کارشناسان این مسئله را به ضعف در کمپین انتخاباتی نسبت می‌دهند.",
+        "resume_ar": "يواصل المرشح الديمقراطي لمجلس الشيوخ عبدال السعيد التعرض للنقد بسبب عدم قدرته على تقديم إجابات واضحة على الأسئلة المباشرة. غالبًا ما تنحرف خطاباته عن المسار، مما يسبب استياء الناخبين. ويربط الخبراء ذلك بالضعف في الحملة الانتخابية.",
+        "analyse_detaillee": "Abdul El-Sayed, figure montante du Parti démocrate, incarne une nouvelle génération de candidats progressistes aux États-Unis, mais son manque de clarté reflète des tensions internes au parti. Historiquement, les candidats démocrates dans des États swing comme le Michigan doivent naviguer entre modération et progressisme pour séduire un électorat diversifié. Les enjeux principaux incluent la capacité à mobiliser la base progressiste tout en évitant de s'aliéner les modérés. Les causes profondes de ses problèmes de communication résident dans une stratégie de campagne trop théorique, manquant de messages concrets et accessibles. À court terme, cela pourrait entraîner une baisse des intentions de vote et une perte de soutien financier. À moyen terme, une réorientation de sa communication vers des thèmes locaux et tangibles pourrait être nécessaire pour regagner en crédibilité. À long terme, cela pourrait influencer la stratégie des partis pour les prochaines élections, privilégiant des profils plus pragmatiques. Les acteurs concernés sont les électeurs démocrates, les donateurs, les médias locaux et nationaux, ainsi que les stratèges du parti. Son adversaire républicain pourrait exploiter ces faiblesses pour consolider son avance.",
+        "analyse_en": "Abdul El-Sayed, a rising figure in the Democratic Party, embodies a new generation of progressive candidates in the US, but his lack of clarity reflects internal tensions within the party. Historically, Democratic candidates in swing states like Michigan must navigate between moderation and progressivism to appeal to a diverse electorate. The main stakes include the ability to mobilize the progressive base while avoiding alienating moderates. The root causes of his communication issues lie in a campaign strategy that is too theoretical, lacking concrete and accessible messages. In the short term, this could lead to a drop in voting intentions and a loss of financial support. In the medium term, a shift in his communication toward local and tangible themes may be necessary to regain credibility. Long-term, this could influence party strategies for upcoming elections, favoring more pragmatic profiles. Key actors include Democratic voters, donors, local and national media, and party strategists. His Republican opponent could exploit these weaknesses to solidify his lead.",
+        "analyse_zh": "阿卜杜勒·埃尔-赛义德作为民主党的新兴人物，代表美国进步派候选人的新一代，但其沟通模糊反映了党内紧张局势。历史上，密歇根州等摇摆州的民主党候选人必须在温和与进步主义之间平衡，以吸引多样化选民。主要影响包括动员进步派基础同时避免疏远温和派的能力。其沟通问题的深层原因在于过于理论化的竞选策略，缺乏具体且易懂的信息。短期内，这可能导致选票意向下降和资金支持流失。中期来看，可能需要将沟通重心转向本地与具体议题以重建信誉。长期而言，这可能影响党派未来选举策略，倾向更务实的候选人。相关行为者包括民主党选民、捐助者、地方与全国媒体及党派策略师。其共和党对手可能利用这些弱点巩固领先优势。",
+        "analyse_ru": "Контекст связан с предвыборной гонкой в США и борьбой за голоса избирателей. Причины проблем кандидата кроются в неэффективной стратегии коммуникации и неготовности к публичным дебатам. Последствия могут включать потерю поддержки электората и снижение шансов на победу. Перспективы зависят от способности команды скорректировать кампанию. Позиции сторон: кандидат обвиняет медиа, эксперты — его команду, а избиратели ждут ясности.",
+        "analyse_fa": "زمینه به رقابت‌های انتخاباتی در آمریکا و تلاش برای جلب آرای رأی‌دهندگان مربوط می‌شود. دلایل مشکلات نامزد به استراتژی ناکارآمد ارتباطات و عدم آمادگی برای مناظرات عمومی بازمی‌گردد. پیامدها ممکن است شامل از دست دادن حمایت رأی‌دهندگان و کاهش شانس پیروزی باشد. چشم‌انداز به توانایی تیم برای اصلاح کمپین بستگی دارد. موضع بازیگران: نامزد رسانه‌ها را مقصر می‌داند، کارشناسان تیم او را، و رأی‌دهندگان به دنبال وضوح هستند.",
+        "analyse_ar": "يرتبط السياق بالمنافسة الانتخابية في الولايات المتحدة والسعي لجمع أصوات الناخبين. أسباب مشاكل المرشح ترتبط باستراتيجية اتصال غير فعالة وعدم الاستعداد للمناظرات العامة. العواقب قد تشمل فقدان دعم الناخبين وانخفاض فرص الفوز. الآفاق تعتمد على قدرة الفريق على تعديل الحملة. مواقف الأطراف: يتهم المرشح وسائل الإعلام، والخبراء فريقه، والناخبون ينتظرون الوضوح.",
+        "categorie": "Politique intérieure",
+        "source": "Legalinsurrection.com",
+        "url": "https://legalinsurrection.com/2026/08/abdul-el-sayeds-messaging-problem-gets-worse/",
+        "image": "https://legalinsurrection.com/wp-content/uploads/2026/08/Abdul-El-Sayed-1-e1786024480641.jpg",
+        "date": "2026-08-29",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Financement des campagnes électorales",
+            "hausse": false
+          },
+          {
+            "label": "▼ Médias et communication politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Financement des campagnes électorales",
+            "secteur_en": "Campaign financing",
+            "secteur_zh": "竞选资金",
+            "effet_fr": "Les donateurs pourraient réduire leurs contributions en raison des incertitudes sur la capacité d'El-Sayed à convaincre, affectant sa capacité à rivaliser avec son adversaire républicain.",
+            "effet_en": "Donors may reduce contributions due to uncertainties about El-Sayed's ability to persuade, impacting his ability to compete with his Republican opponent.",
+            "effet_zh": "捐助者可能因埃尔-赛义德说服能力的不确定性而减少捐款，影响其与共和党对手竞争的能力。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Médias et communication politique",
+            "secteur_en": "Media and political communication",
+            "secteur_zh": "媒体与政治沟通",
+            "effet_fr": "Les médias pourraient accentuer leur couverture critique de sa campagne, réduisant son exposition positive et limitant son impact sur l'opinion publique.",
+            "effet_en": "Media could increase critical coverage of his campaign, reducing positive exposure and limiting his impact on public opinion.",
+            "effet_zh": "媒体可能加强对其竞选的批评报道，减少正面曝光并限制其对舆论的影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-08-30T23:12:17.923627"
+      },
       {
         "id": "usa_557043",
         "titre": "Un juge invalide les déportations d'étudiants basées sur discours",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-08-26T12:48:53.982392"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_284263",
-        "titre": "Primaires américaines : Graham vs Norman en finale",
-        "titre_en": "US primaries: Graham vs Norman runoff",
-        "titre_zh": "美国初选：格雷厄姆对抗诺曼",
-        "titre_ru": "Трамп обвинил Иран в невыплате зарплат военным",
-        "titre_fa": "ترامپ: ایران حقوق بخش‌هایی از ارتش را پرداخت نمی‌کند",
-        "titre_ar": "ترامب: إيران لا تدفع رواتب أجزاء من جيشها",
-        "titre_original": "Trump: Iran not paying big segments of its army",
-        "resume": "Darline Graham et Ralph Norman s’affrontent lors du scrutin sénatorial de Caroline du Sud, dans un contexte de polarisation politique croissante. Ce duel reflète les divisions internes au Parti républicain sur les questions sociétales et économiques. Les enjeux incluent aussi les tensions régionales, notamment avec l’Iran, où de nouvelles sanctions sont envisagées.",
-        "resume_en": "Darline Graham and Ralph Norman face off in South Carolina’s Senate runoff, amid rising political polarization. Their clash highlights internal Republican divisions on social and economic issues. Stakes include regional tensions, particularly with Iran, where new sanctions are under consideration.",
-        "resume_zh": "达琳·格雷厄姆和拉尔夫·诺曼在南卡罗来纳州参议院补选中对决，背景是日益严重的政治两极分化。这场较量反映了共和党内部在社会和经济问题上的分歧。竞选议题还包括地区紧张局势，特别是与伊朗的关系，后者可能面临新的制裁。",
-        "resume_ru": "Президент США Дональд Трамп заявил, что «неудачная» Исламская Республика Иран не платит зарплаты значительным частям своей армии. Это заявление прозвучало на фоне обострения отношений между Вашингтоном и Тегераном. Подробности ситуации пока не раскрываются.",
-        "resume_fa": "رئیس‌جمهور ایالات متحده دونالد ترامپ اعلام کرد که جمهوری اسلامی ایران «ناکام» بخش‌های بزرگی از ارتش خود را حقوق نمی‌دهد. این اظهارنظر در شرایط تشدید روابط بین واشنگتن و تهران مطرح شد. جزئیات بیشتری در مورد این موضوع منتشر نشده است.",
-        "resume_ar": "أعلن رئيس الولايات المتحدة دونالد ترامب أن الجمهورية الإسلامية الإيرانية «الفاشلة» لا تدفع رواتب أجزاء كبيرة من جيشها. جاء هذا التصريح في ظل تصاعد حدة العلاقات بين واشنطن وطهران. لم يتم الكشف عن تفاصيل إضافية حول هذه المسألة حتى الآن.",
-        "analyse_detaillee": "Cette élection sénatoriale s’inscrit dans une dynamique de radicalisation politique aux États-Unis, marquée par la montée des conservateurs et des populistes. Les enjeux locaux (éducation, santé) se mêlent aux tensions géopolitiques, comme les sanctions contre l’Iran, qui divisent même les républicains. Les causes profondes incluent le mécontentement face aux politiques migratoires et économiques de Biden. Court terme, le vainqueur pourrait influencer les votes sur les budgets militaires et les relations internationales. Moyen terme, cela pourrait renforcer ou affaiblir les factions pro- et anti-interventionnistes au Congrès. Long terme, cette polarisation pourrait fragiliser les institutions démocratiques. Les deux candidats représentent des visions opposées : Graham incarne un conservatisme modéré, tandis que Norman défend un nationalisme plus radical.",
-        "analyse_en": "This Senate race reflects growing political polarization in the US, driven by the rise of conservative and populist factions. Local issues (education, healthcare) intersect with geopolitical tensions, like Iran sanctions, which even divide Republicans. Root causes include dissatisfaction with Biden’s immigration and economic policies. Short-term, the winner may shape votes on military budgets and foreign policy. Medium-term, it could strengthen or weaken pro- and anti-interventionist factions in Congress. Long-term, polarization may undermine democratic institutions. Graham embodies moderate conservatism, while Norman advocates a more radical nationalism.",
-        "analyse_zh": "这场参议院选举反映了美国日益严重的政治两极分化，由保守派和民粹主义者的崛起推动。地方议题（教育、医疗）与地缘政治紧张局势（如伊朗制裁）交织，甚至分裂了共和党内部。深层原因包括对拜登移民和经济政策的不满。短期内，获胜者可能影响军费预算和外交政策的投票。中期内，这可能加强或削弱国会内的干预主义和反干预主义派系。长期来看，这种分裂可能削弱民主制度。格雷厄姆代表温和保守主义，而诺曼则倡导更激进的民族主义。",
-        "analyse_ru": "Заявление Трампа о невыплате зарплат военным в Иране является частью его риторики в отношении Тегерана. Контекст связан с давлением США на Иран через санкции и дипломатические мaneвры. Причины такого утверждения могут быть политическими, так как Трамп часто критикует Иран. Последствия могут усилить напряженность в регионе и спровоцировать новые санкции. Перспективы зависят от реакции Ирана и международного сообщества. Позиции сторон остаются враждебными: США обвиняют Иран в нестабильности, а Тегеран отрицает обвинения.",
-        "analyse_fa": "اظهارنظر ترامپ درباره عدم پرداخت حقوق نظامی در ایران بخشی از گفتمان او در قبال تهران است. زمینه این موضوع به فشارهای ایالات متحده بر ایران از طریق تحریم‌ها و مانورهای دیپلماتیک بازمی‌گردد. دلایل چنین ادعایی می‌تواند سیاسی باشد، زیرا ترامپ اغلب ایران را مورد انتقاد قرار می‌دهد. پیامدها می‌تواند تشدید تنش‌ها در منطقه و تحمیل تحریم‌های جدید باشد. چشم‌اندازها به واکنش ایران و جامعه بین‌المللی بستگی دارد. موضع بازیگران همچنان خصمانه است: ایالات متحده ایران را به بی‌ثباتی متهم می‌کند، در حالی که تهران این اتهامات را رد می‌کند.",
-        "analyse_ar": "إدلاء ترامب بخصوص عدم دفع رواتب الجيش في إيران هو جزء من خطابه تجاه طهران. السياق مرتبط بالضغوط الأمريكية على إيران من خلال العقوبات والمناورات الدبلوماسية. قد تكون الأسباب سياسية، حيث ينتقد ترامب إيران بشكل متكرر. العواقب قد تؤدي إلى تصعيد التوترات في المنطقة وفرض عقوبات جديدة. الآفاق تعتمد على رد فعل إيران والمجتمع الدولي. مواقف الأطراف لا تزال عدائية: تتهم الولايات المتحدة إيران بعدم الاستقرار بينما تنفي طهران هذه الاتهامات.",
-        "categorie": "Politique intérieure",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8b8a6d8df7bbafed",
-        "image": "https://biztoc.com/cdn/8b8a6d8df7bbafed_s.webp",
-        "date": "2026-08-25",
-        "pays": "usa",
+        "id": "chine_18913",
+        "titre": "Audits papier nécessaires pour machines électorales",
+        "titre_en": "Paper audits needed for election machines",
+        "titre_zh": "选举机器需进行纸质审计",
+        "titre_ru": "Необходимость бумажных проверок в машинах для голосования",
+        "titre_fa": "لزوم حسابرسی کاغذی در دستگاه‌های رأی‌گیری چین‌ساخت",
+        "titre_ar": "ضرورة التدقيق الورقي في آلات التصويت المصنوعة في الصين",
+        "titre_original": "Paper Audits Are Necessary When China-Made Parts Are Embedded in Election Machines",
+        "resume": "Des composants fabriqués en Chine dans des machines de vote américaines soulèvent des inquiétudes sur la sécurité électorale. Les experts recommandent des audits papier pour vérifier l'intégrité des résultats. Cette situation met en lumière la dépendance des États-Unis envers des technologies étrangères sensibles.",
+        "resume_en": "Chinese-made components in US voting machines raise concerns about election security. Experts recommend paper audits to verify result integrity. This highlights the US's dependence on sensitive foreign technologies.",
+        "resume_zh": "美国投票机中的中国制造组件引发选举安全担忧。专家建议进行纸质审计以验证结果完整性。这凸显美国对敏感外国技术的依赖。",
+        "resume_ru": "Эксперты настаивают на обязательных бумажных проверках в машинах для голосования, содержащих компоненты китайского производства. Это связано с рисками кибератак и манипуляций на выборах. В США уже зафиксированы случаи использования таких систем в округах.",
+        "resume_fa": "کارشناسان بر لزوم حسابرسی‌های کاغذی در دستگاه‌های رأی‌گیری حاوی قطعات ساخت چین تأکید دارند. این امر به دلیل خطرات حملات سایبری و دستکاری در انتخابات است. در آمریکا مواردی از استفاده از چنین سیستم‌هایی در شهرستان‌ها ثبت شده است.",
+        "resume_ar": "يؤكد الخبراء على ضرورة التدقيقات الورقية الإلزامية في آلات التصويت التي تحتوي على مكونات صينية الصنع. ويرتبط ذلك بمخاطر الهجمات السيبرانية والتزوير في الانتخابات. وقد سُجلت حالات استخدام مثل هذه الأنظمة في المقاطعات الأمريكية.",
+        "analyse_detaillee": "La dépendance des États-Unis envers des composants électroniques chinois, notamment dans les infrastructures électorales, s'inscrit dans un contexte de rivalité technologique et géopolitique croissante. Historiquement, les machines de vote électroniques ont été critiquées pour leur vulnérabilité aux piratages, comme lors des élections de 2016. Les enjeux principaux incluent la protection de la démocratie contre les interférences étrangères et la souveraineté technologique. Les causes profondes résident dans la mondialisation des chaînes d'approvisionnement, la réduction des coûts et la domination chinoise dans la fabrication de semi-conducteurs. À court terme, des audits papier pourraient ralentir le dépouillement des votes et augmenter les coûts électoraux. À moyen terme, cela pourrait accélérer les investissements dans des technologies locales et des normes de cybersécurité renforcées. À long terme, cela pourrait conduire à une relocalisation partielle de la production de composants critiques, réduisant la dépendance aux chaînes d'approvisionnement étrangères. Les acteurs concernés sont les États américains, le gouvernement fédéral, les fabricants de machines de vote, les entreprises technologiques chinoises et les agences de cybersécurité. L'UE et d'autres démocraties pourraient aussi adopter des mesures similaires pour sécuriser leurs processus électoraux.",
+        "analyse_en": "The US's reliance on Chinese-made electronic components, particularly in electoral infrastructure, occurs within a context of growing technological and geopolitical rivalry. Historically, electronic voting machines have faced criticism for their vulnerability to hacking, as seen in the 2016 elections. The main stakes include protecting democracy from foreign interference and technological sovereignty. The root causes lie in the globalization of supply chains, cost reduction, and China's dominance in semiconductor manufacturing. In the short term, paper audits could slow vote counting and increase election costs. In the medium term, this could accelerate investments in local technologies and strengthened cybersecurity standards. Long-term, this could lead to partial reshoring of critical component production, reducing dependence on foreign supply chains. Key actors include US states, the federal government, voting machine manufacturers, Chinese tech companies, and cybersecurity agencies. The EU and other democracies could also adopt similar measures to secure their electoral processes.",
+        "analyse_zh": "美国对中国制造电子组件（特别是选举基础设施）的依赖，发生在日益加剧的技术与地缘政治竞争背景下。历史上，电子投票机因易受黑客攻击而受到批评，如2016年选举所示。主要影响包括保护民主免受外国干预与技术主权。深层原因在于供应链全球化、成本降低及中国在半导体制造中的主导地位。短期内，纸质审计可能减缓选票计票并增加选举成本。中期来看，这可能加速对本地技术与强化网络安全标准的投资。长期而言，可能导致关键组件生产的部分回流，减少对外国供应链的依赖。相关行为者包括美国各州、联邦政府、投票机制造商、中国科技公司及网络安全机构。欧盟与其他民主国家也可能采取类似措施以确保选举进程安全。",
+        "analyse_ru": "Контекст связан с угрозами безопасности выборов в США и зависимости от иностранных технологий. Причины необходимости бумажных проверок обусловлены недоверием к электронным системам и риском внешнего вмешательства. Последствия могут включать фальсификации, судебные разбирательства и потерю доверия к институтам власти. Перспективы зависят от законодательных изменений и технологических решений. Позиции сторон: власти США требуют прозрачности, производители защищают технологии, а эксперты настаивают на независимых проверках.",
+        "analyse_fa": "زمینه به تهدیدات امنیت انتخابات در آمریکا و وابستگی به فناوری‌های خارجی مربوط می‌شود. دلایل لزوم حسابرسی‌های کاغذی به بی‌اعتمادی به سیستم‌های الکترونیکی و خطر دخالت خارجی بازمی‌گردد. پیامدها ممکن است شامل تقلب، دعاوی قضایی و از دست دادن اعتماد به نهادهای قدرت باشد. چشم‌انداز به تغییرات قانونی و راه‌حل‌های فناوری بستگی دارد. موضع بازیگران: مقامات آمریکایی خواستار شفافیت هستند، تولیدکنندگان از فناوری‌ها دفاع می‌کنند و کارشناسان بر حسابرسی‌های مستقل تأکید دارند.",
+        "analyse_ar": "يرتبط السياق بتهديدات أمن الانتخابات في الولايات المتحدة والاعتماد على التقنيات الأجنبية. أسباب ضرورة التدقيقات الورقية ترتبط بعدم الثقة في الأنظمة الإلكترونية وخطر التدخل الخارجي. العواقب قد تشمل التزوير والدعاوى القضائية وفقدان الثقة في مؤسسات السلطة. الآفاق تعتمد على التغييرات التشريعية والحلول التكنولوجية. مواقف الأطراف: تطالب السلطات الأمريكية بالشفافية، ويدافع المصنعون عن تقنياتهم، ويؤكد الخبراء على التدقيقات المستقلة.",
+        "categorie": "Sécurité nationale",
+        "source": "Joehoft.com",
+        "url": "https://joehoft.com/paper-audits-are-necessary-when-china-made-parts/",
+        "image": "https://joehoft.com/wp-content/uploads/2026/08/Dominion-cartons-from-China-1200x630.jpg",
+        "date": "2026-08-29",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Financement des campagnes électorales",
-            "hausse": true
+            "label": "▼ Cybersécurité",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur des relations internationales",
-            "hausse": false
+            "label": "▲ Industrie des semi-conducteurs",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Financement des campagnes électorales",
-            "secteur_en": "Electoral campaign financing",
-            "secteur_zh": "选举活动资金筹集",
-            "effet_fr": "Les dons de lobbies liés à l’énergie ou à la défense pourraient influencer les positions des candidats sur les sanctions contre l’Iran.",
-            "effet_en": "Lobby donations tied to energy or defense may shape candidates’ stances on Iran sanctions.",
-            "effet_zh": "能源或国防行业的游说团体捐款可能影响候选人对伊朗制裁的立场。",
-            "hausse": true
+            "secteur_fr": "Cybersécurité",
+            "secteur_en": "Cybersecurity",
+            "secteur_zh": "网络安全",
+            "effet_fr": "Les audits papier pourraient réduire les risques de piratage des machines de vote, mais augmenter les coûts opérationnels pour les États et les comtés.",
+            "effet_en": "Paper audits could reduce the risk of voting machine hacking but increase operational costs for states and counties.",
+            "effet_zh": "纸质审计可能降低投票机被黑客攻击的风险，但会增加各州和县的运营成本。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur des relations internationales",
-            "secteur_en": "International relations sector",
-            "secteur_zh": "国际关系领域",
-            "effet_fr": "Le vainqueur pourrait adopter une ligne plus dure ou plus souple envers l’Iran, impactant les alliances régionales et les négociations nucléaires.",
-            "effet_en": "The winner may take a harder or softer stance on Iran, affecting regional alliances and nuclear negotiations.",
-            "effet_zh": "获胜者可能采取更强硬或更温和的伊朗政策，影响地区盟友和核谈判。",
-            "hausse": false
+            "secteur_fr": "Industrie des semi-conducteurs",
+            "secteur_en": "Semiconductor industry",
+            "secteur_zh": "半导体行业",
+            "effet_fr": "La demande accrue pour des composants locaux pourrait stimuler l'innovation et la production aux États-Unis, réduisant la dépendance à la Chine.",
+            "effet_en": "Increased demand for local components could boost innovation and production in the US, reducing dependence on China.",
+            "effet_zh": "对本地组件需求增加可能刺激美国创新与生产，减少对中国的依赖。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-26T11:29:52.766283"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-08-30T23:12:17.923636"
+      },
       {
         "id": "chine_870774",
         "titre": "Un homme sculpte une maison dans une montagne",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-08-26T04:39:32.906846"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_143806",
-        "titre": "Amendements énergétiques boostent le stockage en Taïwan",
-        "titre_en": "Energy law amendments lift AIDC storage demand in Taiwan",
-        "titre_zh": "能源法修正案提升台湾AI数据中心存储需求",
-        "titre_ru": "Поправки в энергетическое законодательство увеличили спрос на хранилища данных в Тайване",
-        "titre_fa": "اصلاحات قانون انرژی تقاضای ذخیره‌سازی داده‌های هوش مصنوعی در تایوان را افزایش داد",
-        "titre_ar": "تعديلات قانون الطاقة تزيد من طلب مراكز تخزين البيانات في تايوان",
-        "titre_original": "Energy law amendments lift AIDC storage demand in Taiwan",
-        "resume": "Les centres de données IA à Taïwan devront de plus en plus s'appuyer sur le stockage énergétique pour répondre à leurs besoins de réponse rapide et de stabilisation du réseau. Cette tendance est renforcée par des amendements récents à la loi sur l'énergie. Recharge Power, un acteur local, souligne l'importance croissante de cette technologie.",
-        "resume_en": "AI data centers in Taiwan will increasingly rely on energy storage for fast response and grid stability due to recent energy law amendments. Recharge Power, a local company, highlights the growing importance of this technology. The shift reflects broader trends in sustainable energy infrastructure.",
-        "resume_zh": "台湾AI数据中心因能源法修正案将更多依赖储能技术以满足快速响应和电网稳定需求。本地企业Recharge Power强调该技术的重要性。这一转变反映了可持续能源基础设施的更广泛趋势。",
-        "resume_ru": "Поправки в законе о энергетике Тайваня стимулируют рост спроса на хранилища данных для центров обработки искусственного интеллекта. Это связано с необходимостью быстрого реагирования и стабилизации энергосети. Компания Recharge Power отмечает увеличение инвестиций в такие системы.",
-        "resume_fa": "اصلاحات در قانون انرژی تایوان تقاضا برای ذخیره‌سازی داده‌های مراکز هوش مصنوعی را افزایش داده است. این امر به دلیل نیاز به واکنش سریع و پایداری شبکه برق است. شرکت Recharge Power بر افزایش سرمایه‌گذاری در این حوزه تأکید می‌کند.",
-        "resume_ar": "أدت تعديلات قانون الطاقة في تايوان إلى زيادة الطلب على أنظمة تخزين بيانات مراكز الذكاء الاصطناعي. ويرجع ذلك إلى الحاجة إلى استجابة سريعة واستقرار الشبكة الكهربائية. отмечает شركة Recharge Power زيادة الاستثمارات في هذا المجال.",
-        "analyse_detaillee": "Taïwan, confronté à une croissance exponentielle de ses centres de données IA, cherche à sécuriser son approvisionnement énergétique face à une demande électrique croissante. Les amendements à la loi sur l'énergie visent à intégrer davantage de solutions de stockage pour éviter les blackouts et optimiser l'intégration des énergies renouvelables. Historiquement dépendante des importations d'énergie, l'île mise sur l'innovation pour réduire sa vulnérabilité géopolitique. Les enjeux principaux incluent la réduction des coûts opérationnels et l'amélioration de la résilience du réseau face aux cyberattaques. À court terme, les acteurs locaux comme Recharge Power devraient voir leur activité exploser, tandis que les grands fournisseurs d'énergie devront adapter leurs infrastructures. À moyen terme, cette transition pourrait attirer des investissements étrangers dans les technologies vertes. À long terme, Taïwan pourrait devenir un modèle régional en matière de stockage énergétique pour les data centers. Les acteurs taïwanais collaborent avec des partenaires internationaux pour accélérer cette transition.",
-        "analyse_en": "Taiwan, facing exponential growth in AI data centers, is seeking to secure its energy supply amid rising electricity demand. Recent energy law amendments aim to integrate more storage solutions to prevent blackouts and optimize renewable energy integration. Historically dependent on energy imports, the island is leveraging innovation to reduce geopolitical vulnerability. Key stakes include lowering operational costs and enhancing grid resilience against cyberattacks. In the short term, local players like Recharge Power are expected to see a surge in activity, while major energy providers must adapt their infrastructure. Medium-term, this transition could attract foreign investments in green technologies. Long-term, Taiwan could emerge as a regional model for energy storage in data centers. Local actors are collaborating with international partners to accelerate this shift.",
-        "analyse_zh": "面对AI数据中心的指数级增长，台湾正寻求确保其能源供应以应对日益增长的电力需求。近期的能源法修正案旨在整合更多储能解决方案，以防止停电并优化可再生能源整合。作为历史上依赖能源进口的岛屿，台湾正通过创新减少地缘政治脆弱性。主要挑战包括降低运营成本和提升电网对网络攻击的韧性。短期内，本地企业如Recharge Power预计将迎来业务激增，而大型能源供应商则需调整基础设施。中期来看，此转型可能吸引外国在绿色技术方面的投资。长期而言，台湾可能成为数据中心储能领域的区域典范。本地企业正与国际伙伴合作加速这一转变。",
-        "analyse_ru": "Контекст поправок связан с глобальным переходом к цифровизации и ростом потребления энергии центрами обработки данных. Причины включают необходимость снижения нагрузки на энергосеть и повышения надежности. Последствия могут привести к ускоренному развитию технологий хранения энергии в регионе. Перспективы зависят от государственной поддержки и инвестиций в инфраструктуру. Позиции сторон разделяются между энергетическими компаниями, заинтересованными в новых рынках, и регуляторами, стремящимися к балансу между инновациями и устойчивостью.",
-        "analyse_fa": "زمینه این اصلاحات به انتقال جهانی به دیجیتالی شدن و افزایش مصرف انرژی مراکز داده مربوط می‌شود. دلایل شامل نیاز به کاهش بار شبکه برق و افزایش قابلیت اطمینان است. پیامدها می‌تواند منجر به توسعه سریع فناوری‌های ذخیره‌سازی انرژی در منطقه شود. چشم‌اندازها به حمایت دولتی و سرمایه‌گذاری در زیرساخت‌ها بستگی دارد. موضع بازیگران بین شرکت‌های انرژی، علاقه‌مند به بازارهای جدید، و تنظیم‌کنندگان، که به دنبال تعادل بین نوآوری و پایداری هستند، تقسیم می‌شود.",
-        "analyse_ar": "يرتبط سياق هذه التعديلات بالتحول العالمي نحو الرقمنة وزيادة استهلاك الطاقة لمراكز البيانات. الأسباب تشمل الحاجة إلى تقليل عبء الشبكة الكهربائية وزيادة الموثوقية. قد تؤدي العواقب إلى تسارع تطوير تقنيات تخزين الطاقة في المنطقة. الآفاق تعتمد على الدعم الحكومي والاستثمار في البنية التحتية. مواقف الأطراف تتوزع بين شركات الطاقة المهتمة بالسوق الجديدة والمنظمين الساعين إلى التوازن بين الابتكار والاستدامة.",
-        "categorie": "Technologie et Énergie",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260825PD207/aidc-demand-taiwan-data-revenue.html",
-        "image": "https://img.digitimes.com/newsshow/20260825pd207_files/1_b.jpg",
-        "date": "2026-08-25",
-        "pays": "chine",
+        "id": "russie_410663",
+        "titre": "Russie menace une usine de drones britannique",
+        "titre_en": "Russia threatens UK drone factory",
+        "titre_zh": "俄罗斯威胁英国无人机工厂",
+        "titre_ru": "Россия угрожает атаковать британский дронзавод",
+        "titre_fa": "روسیه تهدید به حمله به کارخانه پهپاد بریتانیا",
+        "titre_ar": "روسيا تهدد بالهجوم على مصنع طائرات بدون طيار بريطاني",
+        "titre_original": "Russia is poised to attack a British drone factory and missile company, ex-Kremlin chief warns - as he described the UK as 'evil number one'",
+        "resume": "Un ancien haut responsable du Kremlin avertit que la Russie envisage une attaque hybride contre une usine britannique de drones et une entreprise de missiles. Cette menace survient dans un contexte de tensions accrues entre Moscou et Londres. L'attaque pourrait prendre la forme de sabotage ou d'incendie criminel plutôt que d'une frappe militaire directe.",
+        "resume_en": "A former Kremlin chief warns Russia is considering a hybrid attack on a British drone factory and missile company. This threat comes amid rising tensions between Moscow and London. The attack could involve sabotage or arson rather than a direct military strike.",
+        "resume_zh": "前克里姆林宫高官警告称俄罗斯正考虑对英国无人机工厂和导弹公司发动混合攻击。这一威胁发生在莫斯科与伦敦紧张关系加剧的背景下。攻击可能涉及破坏或纵火，而非直接军事打击。",
+        "resume_ru": "Бывший глава Кремля предупредил, что высшие эшелоны российского правительства рассматривают возможность гибридной атаки на британский завод по производству дронов и ракетную компанию. Вместо прямого военного удара речь может идти о диверсиях или поджогах. Великобританию в Москве называют «злым номер один».",
+        "resume_fa": "مشاور سابق پوتین هشدار داد که مقامات ارشد دولت روسیه در حال بررسی حمله ترکیبی به کارخانه پهپاد و شرکت موشکی بریتانیا هستند. به جای حمله نظامی مستقیم، احتمال خرابکاری یا آتش‌سوزی مطرح است. بریتانیا در مسکو به عنوان «شیطان شماره یک» توصیف می‌شود.",
+        "resume_ar": "حذر مستشار سابق بوتين من أن الحكومة الروسية العليا تنظر في شن هجوم هجين على مصنع طائرات بدون طيار بريطاني وشركة صواريخ. بدلاً من الضربة العسكرية المباشرة، يُحتمل اللجوء إلى التخريب أو الحرائق. وتوصف بريطانيا في موسكو بـ«الشر رقم واحد».",
+        "analyse_detaillee": "La Russie a historiquement utilisé des attaques hybrides pour déstabiliser ses adversaires sans engager une guerre ouverte, comme lors de l'empoisonnement de Sergueï Skripal en 2018. Les enjeux principaux incluent la dissuasion stratégique et la projection de puissance sans escalade militaire directe. Les causes profondes résident dans la volonté de Moscou de tester la résilience occidentale face à des menaces non conventionnelles. À court terme, une attaque pourrait perturber la production militaire britannique et renforcer la paranoïa sécuritaire en Europe. À moyen terme, cela pourrait accélérer les investissements dans la cybersécurité et la protection des infrastructures critiques. À long terme, une escalade des tensions hybrides pourrait normaliser ce type d'agression, affaiblissant les normes internationales. Les acteurs clés sont le Kremlin, qui cherche à diviser l'OTAN, et le Royaume-Uni, qui doit renforcer ses défenses sans provoquer une crise majeure. L'UE et les États-Unis pourraient aussi être entraînés dans une réponse coordonnée.",
+        "analyse_en": "Russia has historically used hybrid attacks to destabilize adversaries without engaging in open warfare, such as the 2018 poisoning of Sergei Skripal. The main stakes include strategic deterrence and projecting power without direct military escalation. The root causes lie in Moscow's desire to test Western resilience against unconventional threats. In the short term, an attack could disrupt British military production and heighten security paranoia in Europe. In the medium term, this could accelerate investments in cybersecurity and critical infrastructure protection. Long-term, escalating hybrid tensions could normalize such aggression, weakening international norms. Key actors are the Kremlin, seeking to divide NATO, and the UK, which must bolster defenses without provoking a major crisis. The EU and the US could also be drawn into a coordinated response.",
+        "analyse_zh": "俄罗斯历史上常用混合攻击手段破坏对手稳定，而无需发动公开战争，如2018年对谢尔盖·斯克里帕尔的毒害事件。主要影响包括战略威慑与不直接升级军事冲突的权力投射。深层原因在于莫斯科希望测试西方对非常规威胁的抵御能力。短期内，攻击可能扰乱英国军事生产，并加剧欧洲安全焦虑。中期来看，这可能加速网络安全与关键基础设施保护的投资。长期而言，混合攻击升级可能使此类侵略行为常态化，削弱国际规范。主要行为者是试图分裂北约的克里姆林宫与必须加强防务但避免引发重大危机的英国。欧盟和美国也可能被卷入协调应对。",
+        "analyse_ru": "Контекст ситуации связан с обострением отношений между Россией и Великобританией на фоне поддержки Лондона Украины. Причины угрозы кроются в стремлении Москвы оказать давление на Лондон через критически важные объекты, что может привести к дестабилизации региона. Последствия гибридной атаки могут включать санкции, ответные меры и эскалацию конфликта. Перспективы зависят от реакции Запада и готовности России к переговорам. Позиции сторон: Россия демонстрирует силу, Великобритания укрепляет оборону, а НАТО рассматривает возможные ответные шаги.",
+        "analyse_fa": "زمینه این تهدیدات به تشدید روابط روسیه و بریتانیا پس از حمایت لندن از اوکراین بازمی‌گردد. دلایل حمله احتمالی به دنبال فشار مسکو بر لندن از طریق اهداف استراتژیک است که می‌تواند منجر به بی‌ثباتی منطقه شود. پیامدهای چنین حمله‌ای ممکن است تحریم‌ها، اقدامات تلافی‌جویانه و تشدید درگیری باشد. چشم‌انداز به واکنش غرب و آمادگی روسیه برای مذاکرات بستگی دارد. موضع بازیگران: روسیه در حال نمایش قدرت است، بریتانیا دفاع خود را تقویت می‌کند و ناتو به دنبال اقدامات احتمالی پاسخ است.",
+        "analyse_ar": "يرتبط السياق بتوتر العلاقات بين روسيا وبريطانيا في ظل دعم لندن لأوكرانيا. أسباب التهديد تكمن في محاولة موسكو الضغط على لندن عبر أهداف استراتيجية، مما قد يؤدي إلى زعزعة الاستقرار الإقليمي. عواقب مثل هذه الهجمة قد تشمل عقوبات وردود فعل وانتشار الصراع. الآفاق تعتمد على رد فعل الغرب واستعداد روسيا للمفاوضات. مواقف الأطراف: روسيا تظهر قوتها، بريطانيا تعزز دفاعها، وتحالف الناتو يبحث في خطوات محتملة للرد.",
+        "categorie": "Géopolitique",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16090129/Russia-attack-British-drone-factory-missile-Kremlin-warns-described-UK-evil.html",
+        "image": "https://i.dailymail.com/1s/2026/08/29/22/110932081-0-image-m-36_1788038758776.jpg",
+        "date": "2026-08-29",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des énergies renouvelables",
+            "label": "▲ Défense et aérospatial",
             "hausse": true
           },
           {
-            "label": "▼ Marché des infrastructures énergétiques",
+            "label": "▼ Marchés financiers",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des énergies renouvelables",
-            "secteur_en": "Renewable energy sector",
-            "secteur_zh": "可再生能源行业",
-            "effet_fr": "L'augmentation de la demande en stockage énergétique stimule les investissements dans les énergies renouvelables, notamment solaire et éolien, pour alimenter les data centers.",
-            "effet_en": "Rising energy storage demand drives investments in renewable energy, particularly solar and wind, to power data centers.",
-            "effet_zh": "储能需求增长推动可再生能源（特别是太阳能和风能）投资，为数据中心供电。",
+            "secteur_fr": "Défense et aérospatial",
+            "secteur_en": "Defense and aerospace",
+            "secteur_zh": "国防与航空航天",
+            "effet_fr": "Une attaque pourrait perturber la chaîne d'approvisionnement des drones militaires britanniques, affectant les contrats de défense et la production d'équipements stratégiques.",
+            "effet_en": "An attack could disrupt the supply chain of British military drones, impacting defense contracts and the production of strategic equipment.",
+            "effet_zh": "攻击可能扰乱英国军用无人机供应链，影响国防合同与战略装备生产。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des infrastructures énergétiques",
-            "secteur_en": "Energy infrastructure market",
-            "secteur_zh": "能源基础设施市场",
-            "effet_fr": "Les entreprises spécialisées dans les infrastructures énergétiques voient une opportunité de modernisation des réseaux électriques taïwanais pour répondre aux besoins des data centers.",
-            "effet_en": "Energy infrastructure companies see an opportunity to modernize Taiwan's power grids to meet data center demands.",
-            "effet_zh": "能源基础设施企业看到了现代化台湾电网以满足数据中心需求的机会。",
+            "secteur_fr": "Marchés financiers",
+            "secteur_en": "Financial markets",
+            "secteur_zh": "金融市场",
+            "effet_fr": "L'incertitude géopolitique pourrait entraîner une volatilité accrue sur les marchés européens, notamment dans les secteurs liés à la défense et à l'énergie.",
+            "effet_en": "Geopolitical uncertainty could lead to increased volatility in European markets, particularly in defense and energy-related sectors.",
+            "effet_zh": "地缘政治不确定性可能导致欧洲市场波动加剧，特别是国防与能源相关行业。",
             "hausse": false
           }
         ],
-        "created_at": "2026-08-26T03:03:59.005074"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-08-30T23:12:17.923593"
+      },
       {
         "id": "russie_934412",
         "titre": "La Russie aurait pu utiliser l'arme nucléaire en Ukraine",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-08-26T08:41:47.438749"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_264297",
-        "titre": "La Russie exige des garanties contre les actions hostiles de l'OTAN",
-        "titre_en": "Russia demands guarantees against NATO's hostile actions",
-        "titre_zh": "俄罗斯要求保证北约不采取敌对行动",
-        "titre_ru": "Россия требует гарантий прекращения враждебных действий НАТО",
-        "titre_fa": "روسیه خواستار تضمین توقف اقدامات خصمانه ناتو شد",
-        "titre_ar": "روسيا تطالب بضمانات بوقف الأعمال العدائية لحلف الناتو",
-        "titre_original": "Russia Needs Guarantees That All NATO Hostile Actions Will Stop - Medvedev",
-        "resume": "Dmitri Medvedev, membre du Conseil de sécurité russe, exige que l'OTAN cesse toute action hostile envers la Russie. Moscou considère l'élargissement de l'OTAN comme une menace existentielle. La Russie demande des garanties écrites pour éviter une confrontation militaire.",
-        "resume_en": "Dmitry Medvedev, a member of Russia's Security Council, demands that NATO cease all hostile actions against Russia. Moscow views NATO's expansion as an existential threat. Russia is seeking written guarantees to prevent military confrontation.",
-        "resume_zh": "俄罗斯安全理事会成员德米特里·梅德韦杰夫要求北约停止对俄罗斯采取任何敌对行动。莫斯科将北约的扩张视为生存威胁。俄罗斯正寻求书面保证以防止军事对抗。",
-        "resume_ru": "Заместитель председателя Совета безопасности России Дмитрий Медведев заявил, что расширение НАТО представляет угрозу для Москвы. Он подчеркнул необходимость получения гарантий, что Россия не будет подвергаться нападению. Медведев также отметил, что любые враждебные действия должны быть прекращены.",
-        "resume_fa": "دمیتری مدودف، معاون رئیس شورای امنیت روسیه، اعلام کرد که گسترش ناتو تهدیدی برای مسکو است. وی بر لزوم دریافت تضمین‌هایی مبنی بر عدم حمله به روسیه تأکید کرد. مدودف همچنین گفت که هرگونه اقدام خصمانه باید متوقف شود.",
-        "resume_ar": "أعلن دميتري ميدفيديف، نائب رئيس مجلس الأمن الروسي، أن توسع حلف الناتو يشكل تهديداً لموسكو. وأكد ضرورة الحصول على ضمانات بعدم تعرض روسيا للهجوم. كما أشار ميدفيديف إلى ضرورة وقف أي أعمال عدائية.",
-        "analyse_detaillee": "La demande de garanties de la Russie s'inscrit dans un contexte de tensions croissantes avec l'OTAN depuis la fin de la Guerre froide. L'élargissement de l'Alliance atlantique vers l'Est, notamment l'adhésion de pays comme la Pologne ou les États baltes, est perçu à Moscou comme une provocation directe. Historiquement, la Russie a toujours vu l'OTAN comme une menace, depuis la création de l'Alliance en 1949. À court terme, cette position pourrait renforcer la rhétorique anti-occidentale du Kremlin et justifier une militarisation accrue. À moyen terme, l'absence de garanties pourrait pousser la Russie à renforcer ses alliances avec des pays comme la Chine ou l'Iran. À long terme, cette dynamique pourrait mener à une nouvelle course aux armements ou à une fragmentation des relations internationales. Les pays européens, divisés sur la question, pourraient adopter des positions divergentes face à Moscou. Les États-Unis, sous une administration pro-OTAN, pourraient rejeter ces demandes, aggravant les tensions. La société civile russe, déjà sous pression, pourrait subir une nouvelle vague de propagande anti-occidentale.",
-        "analyse_en": "Russia's demand for guarantees is part of a context of growing tensions with NATO since the end of the Cold War. The Alliance's eastward expansion, particularly the accession of countries like Poland or the Baltic states, is seen in Moscow as a direct provocation. Historically, Russia has always viewed NATO as a threat since the Alliance's creation in 1949. In the short term, this stance could reinforce the Kremlin's anti-Western rhetoric and justify increased militarization. In the medium term, the lack of guarantees could push Russia to strengthen its alliances with countries like China or Iran. Long-term, this dynamic could lead to a new arms race or a fragmentation of international relations. European countries, divided on the issue, may adopt divergent positions toward Moscow. The US, under a pro-NATO administration, could reject these demands, worsening tensions. Russian civil society, already under pressure, could face a new wave of anti-Western propaganda.",
-        "analyse_zh": "俄罗斯要求保证的立场是冷战结束以来与北约日益紧张局势的一部分。北约向东扩张，特别是波兰或波罗的海国家的加入，在莫斯科被视为直接挑衅。历史上，自1949年北约成立以来，俄罗斯一直将其视为威胁。短期内，这一立场可能加强克里姆林宫的反西方言论，并为军事化加速提供理由。中期来看，缺乏保证可能促使俄罗斯加强与中国或伊朗等国的联盟。长期来看，这种动态可能导致新一轮军备竞赛或国际关系的分裂。在该问题上存在分歧的欧洲国家可能对莫斯科采取不同立场。在美国亲北约政府下，可能会拒绝这些要求，加剧紧张局势。俄罗斯公民社会在压力下可能面临新一波反西方宣传。",
-        "analyse_ru": "Заявление Медведева отражает растущую обеспокоенность России по поводу расширения НАТО на восток, что воспринимается в Москве как прямое военное и политическое давление. Контекст связан с историческим восприятием России угрозы со стороны Запада, особенно после распада СССР. Причины таких требований кроются в стремлении Москвы обезопасить свои границы и сохранить влияние в регионе. Последствия могут быть двоякими: либо НАТО пойдет на уступки и начнет переговоры, либо конфликт обострятся, что приведет к новому витку гонки вооружений. Перспективы зависят от позиции США и Европы, которые могут либо пойти на компромисс, либо ужесточить свою политику. Позиция России остается жесткой, так как она рассматривает расширение альянса как нарушение международных соглашений.",
-        "analyse_fa": "بیانیه مدودف نگرانی فزاینده روسیه نسبت به گسترش ناتو به شرق را منعکس می‌کند، که در مسکو به عنوان فشار نظامی و سیاسی مستقیم تلقی می‌شود. زمینه به درک تاریخی روسیه از تهدید غرب، به ویژه پس از فروپاشی شوروی، بازمی‌گردد. دلایل چنین درخواست‌هایی در تلاش مسکو برای تأمین امنیت مرزها و حفظ نفوذ در منطقه نهفته است. پیامدها می‌تواند دوگانه باشد: یا ناتو به مصالحه پرداخته و مذاکرات آغاز می‌شود، یا تنش‌ها تشدید شده و به مسابقه تسلیحاتی جدید منجر می‌شود. چشم‌انداز به موضع ایالات متحده و اروپا بستگی دارد که ممکن است یا به سازش پرداخته یا سیاست خود را تشدید کنند. موضع روسیه سختگیرانه باقی خواهد ماند، زیرا گسترش این ائتلاف را نقض توافقات بین‌المللی می‌داند.",
-        "analyse_ar": "تعكس تصريحات ميدفيديف القلق المتزايد لروسيا إزاء توسع حلف الناتو شرقاً، والذي يُنظر إليه في موسكو على أنه ضغط عسكري وسياسي مباشر. السياق مرتبط بالفهم التاريخي لروسيا للتهديد الغربي، خاصة بعد تفكك الاتحاد السوفيتي. تكمن أسباب مثل هذه المطالب في سعي موسكو لضمان أمن حدودها والحفاظ على نفوذها في المنطقة. قد تكون العواقب مزدوجة: إما أن يتجه حلف الناتو إلى التنازلات ويبدأ المفاوضات، أو تتفاقم الصراعات مما يؤدي إلى جولة جديدة من سباق التسلح. الآفاق تعتمد على موقف الولايات المتحدة وأوروبا، اللتين قد تلجآن إما إلى التفاوض أو تشديد سياستهما. سيبقى موقف روسيا صارماً، إذ تعتبر توسع الحلف انتهاكاً للاتفاقيات الدولية.",
-        "categorie": "Géopolitique",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260825/russia-needs-guarantees-that-all-nato-hostile-actions-will-stop---medvedev-1124626056.html",
-        "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124626056.jpg?11176667431787643195",
-        "date": "2026-08-25",
-        "pays": "russie",
+        "id": "iran_767926",
+        "titre": "Guerre en Iran alourdit la facture énergétique mondiale",
+        "titre_en": "Iran war hikes global energy import bill",
+        "titre_zh": "伊朗战争推高全球能源进口账单",
+        "titre_ru": "Война в Иране увеличила глобальные расходы на энергоносители",
+        "titre_fa": "جنگ در ایران ۳۳۰ میلیارد دلار به هزینه‌های جهانی انرژی افزود",
+        "titre_ar": "الحرب في إيران أضافت 330 مليار دولار إلى فاتورة الطاقة العالمية",
+        "titre_original": "Iran War Adds $330 Billion to Global Energy Import Bill",
+        "resume": "Le conflit en Iran a ajouté 330 milliards de dollars à la facture des importations mondiales d'énergie entre mars et août. Le pétrole représente près de la moitié de cette hausse, affectant particulièrement les pays dépendants des importations. Cette situation aggrave les tensions sur les marchés énergétiques déjà volatils.",
+        "resume_en": "The conflict in Iran has added $330 billion to global energy import bills between March and August. Oil accounts for nearly half of this increase, particularly impacting countries reliant on imports. This situation exacerbates tensions in already volatile energy markets.",
+        "resume_zh": "伊朗冲突在3月至8月间使全球能源进口账单增加了3300亿美元。石油占这一增幅近一半，特别影响依赖进口的国家。这种情况加剧了本已动荡的能源市场紧张局势。",
+        "resume_ru": "Война в Иране с марта по август 2024 года добавила 330 миллиардов долларов к глобальным расходам на импорт нефти, топлива и сжиженного газа. Почти половина этой суммы пришлась на сырую нефть. Эксперты связывают рост цен с геополитической нестабильностью и сокращением поставок.",
+        "resume_fa": "جنگ در ایران از مارس تا اوت ۲۰۲۴ میلادی ۳۳۰ میلیارد دلار به هزینه‌های جهانی واردات نفت، سوخت و گاز مایع افزود. نزدیک به نیمی از این مبلغ مربوط به نفت خام بود. کارشناسان افزایش قیمت‌ها را به بی‌ثباتی ژئوپلیتیکی و کاهش عرضه نسبت می‌دهند.",
+        "resume_ar": "أضافت الحرب في إيران من مارس إلى أغسطس 2024 ما مجموعه 330 مليار دولار إلى فاتورة استيراد النفط والوقود والغاز المسال عالمياً. nearly نصف هذا المبلغ كان للنفط الخام. ويربط الخبراء ارتفاع الأسعار بعدم الاستقرار الجيوسياسي وتقليص الإمدادات.",
+        "analyse_detaillee": "Le conflit en Iran s'inscrit dans un contexte de tensions géopolitiques prolongées au Moyen-Orient, où les crises régionales ont souvent des répercussions mondiales sur les prix de l'énergie. Historiquement, les chocs pétroliers des années 1970 et la guerre Iran-Irak dans les années 1980 ont démontré l'impact des conflits régionaux sur les marchés énergétiques. Les enjeux principaux incluent la stabilité des approvisionnements, la sécurité énergétique des pays importateurs et la transition vers des énergies renouvelables. Les causes profondes résident dans la dépendance mondiale aux hydrocarbures, la spéculation sur les marchés et les sanctions internationales contre l'Iran. À court terme, cette hausse des prix pourrait entraîner une inflation accrue et une réduction de la croissance économique dans les pays importateurs. À moyen terme, cela pourrait accélérer les investissements dans les énergies alternatives et la diversification des sources d'approvisionnement. À long terme, cela pourrait renforcer les efforts pour réduire la dépendance aux énergies fossiles, bien que les contraintes géopolitiques rendent cette transition complexe. Les acteurs concernés sont les pays importateurs (UE, États-Unis, Asie), les producteurs de pétrole (Arabie saoudite, Russie), les entreprises énergétiques et les institutions financières. L'AIE et l'OPEP jouent un rôle clé dans la régulation des marchés, tandis que les tensions pourraient pousser à une coopération énergétique accrue entre démocraties.",
+        "analyse_en": "The conflict in Iran occurs within a context of prolonged geopolitical tensions in the Middle East, where regional crises often have global repercussions on energy prices. Historically, the oil shocks of the 1970s and the Iran-Iraq War in the 1980s demonstrated the impact of regional conflicts on energy markets. The main stakes include supply stability, energy security for importing countries, and the transition to renewable energies. The root causes lie in global dependence on hydrocarbons, market speculation, and international sanctions against Iran. In the short term, this price hike could lead to increased inflation and reduced economic growth in importing countries. In the medium term, this could accelerate investments in alternative energies and diversification of supply sources. Long-term, this could strengthen efforts to reduce dependence on fossil fuels, though geopolitical constraints make this transition complex. Key actors include importing countries (EU, US, Asia), oil producers (Saudi Arabia, Russia), energy companies, and financial institutions. The IEA and OPEC play a key role in regulating markets, while tensions could push for increased energy cooperation among democracies.",
+        "analyse_zh": "伊朗冲突发生在中东长期地缘政治紧张背景下，地区危机常对全球能源价格产生连锁反应。历史上，20世纪70年代的石油危机与1980年代的两伊战争证明了地区冲突对能源市场的影响。主要影响包括供应稳定性、进口国能源安全及向可再生能源转型。深层原因在于全球对碳氢化合物的依赖、市场投机及对伊朗的国际制裁。短期内，价格上涨可能导致进口国通胀加剧与经济增长放缓。中期来看，可能加速对替代能源与供应来源多样化的投资。长期而言，可能加强减少对化石燃料依赖的努力，尽管地缘政治约束使这一转型复杂。相关行为者包括进口国（欧盟、美国、亚洲）、石油生产国（沙特阿拉伯、俄罗斯）、能源公司与金融机构。国际能源署（IEA）与欧佩克在调节市场中发挥关键作用，而紧张局势可能推动民主国家间的能源合作加强。",
+        "analyse_ru": "Контекст связан с геополитическими конфликтами и их влиянием на мировые рынки энергоносителей. Причины роста цен обусловлены сокращением поставок из Ирана и нестабильностью в регионе. Последствия включают инфляцию, давление на экономики стран-потребителей и изменение энергетической политики. Перспективы зависят от дипломатических решений и стабилизации на Ближнем Востоке. Позиции сторон: Иран обвиняет Запад в давлении, страны-потребители ищут альтернативы, а производители нефти извлекают выгоду из роста цен.",
+        "analyse_fa": "زمینه به درگیری‌های ژئوپلیتیکی و تأثیر آنها بر بازارهای جهانی انرژی مربوط می‌شود. دلایل افزایش قیمت‌ها به کاهش عرضه از ایران و بی‌ثباتی در منطقه بازمی‌گردد. پیامدها شامل تورم، فشار بر اقتصاد کشورهای مصرف‌کننده و تغییر سیاست انرژی است. چشم‌انداز به راه‌حل‌های دیپلماتیک و ثبات در خاورمیانه بستگی دارد. موضع بازیگران: ایران غرب را به فشار متهم می‌کند، کشورهای مصرف‌کننده به دنبال جایگزین هستند و تولیدکنندگان نفت از افزایش قیمت‌ها بهره می‌برند.",
+        "analyse_ar": "يرتبط السياق بالنزاعات الجيوسياسية وتأثيرها على أسواق الطاقة العالمية. أسباب ارتفاع الأسعار ترتبط بتقليص الإمدادات من إيران وعدم الاستقرار في المنطقة. العواقب تشمل التضخم وضغط على اقتصادات الدول المستهلكة وتغيير السياسة الطاقوية. الآفاق تعتمد على الحلول الدبلوماسية واستقرار الشرق الأوسط. مواقف الأطراف: تتهم إيران الغرب بالضغط، وتسعى الدول المستهلكة إلى بدائل، ويستفيد منتجو النفط من ارتفاع الأسعار.",
+        "categorie": "Économie",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/energy/articles/iran-war-adds-330-billion-230000013.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/592857f98d9a2e248f0a2472fea037b91323361302299032a19a2e3d9b6f9d7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F747685161dd3b5a0977c356888dbd37d.jpg",
+        "date": "2026-08-29",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur de la défense russe",
+            "label": "▲ Marché pétrolier",
             "hausse": true
           },
           {
-            "label": "▼ Relations économiques Russie-UE",
-            "hausse": false
+            "label": "▲ Énergies renouvelables",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la défense russe",
-            "secteur_en": "Russian defense sector",
-            "secteur_zh": "俄罗斯国防行业",
-            "effet_fr": "La demande de garanties pourrait accélérer les dépenses militaires russes et renforcer la production d'armements.",
-            "effet_en": "The demand for guarantees could accelerate Russian military spending and strengthen arms production.",
-            "effet_zh": "对保证的要求可能加速俄罗斯军事支出并加强武器生产。",
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "La hausse des prix du pétrole pourrait entraîner une augmentation des coûts de transport et de production, pesant sur les marges des entreprises et la consommation des ménages.",
+            "effet_en": "Higher oil prices could lead to increased transport and production costs, weighing on corporate margins and household consumption.",
+            "effet_zh": "油价上涨可能导致运输与生产成本增加，拖累企业利润与家庭消费。",
             "hausse": true
           },
           {
-            "secteur_fr": "Relations économiques Russie-UE",
-            "secteur_en": "Russia-EU economic relations",
-            "secteur_zh": "俄罗斯-欧盟经济关系",
-            "effet_fr": "Les tensions pourraient aggraver les sanctions économiques et réduire les échanges commerciaux entre la Russie et l'Union européenne.",
-            "effet_en": "Tensions could worsen economic sanctions and reduce trade between Russia and the European Union.",
-            "effet_zh": "紧张局势可能加剧经济制裁并减少俄罗斯与欧盟之间的贸易。",
-            "hausse": false
+            "secteur_fr": "Énergies renouvelables",
+            "secteur_en": "Renewable energies",
+            "secteur_zh": "可再生能源",
+            "effet_fr": "Les investissements dans les énergies vertes pourraient être stimulés par la volatilité des prix de l'énergie fossile, accélérant la transition énergétique.",
+            "effet_en": "Investments in green energies could be boosted by the volatility of fossil fuel prices, accelerating the energy transition.",
+            "effet_zh": "化石燃料价格波动可能刺激对绿色能源的投资，加速能源转型。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-08-26T07:45:31.222254"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-08-30T23:12:17.923644"
+      },
       {
         "id": "iran_60852",
         "titre": "L'Iran lie la mise en œuvre d'un accord avec Oman aux États-Unis",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-08-26T10:34:00.136465"
-      },
-      {
-        "id": "iran_490637",
-        "titre": "Bourses en hausse, pétrole en baisse face à la menace iranienne",
-        "titre_en": "Stocks rise and oil slips amid Iran threat",
-        "titre_zh": "股市上涨，油价下跌因伊朗威胁",
-        "titre_ru": "Акции растут, нефть дешевеет на фоне угроз Ирану",
-        "titre_fa": "سهام افزایش یافت و نفت کاهش یافت به دلیل تهدید ایران",
-        "titre_ar": "الأسهم ترتفع والنفط يتراجع مع تهديد إيران",
-        "titre_original": "Stocks rise and oil slips as traders eye Iran threat, Nvidia results",
-        "resume": "Les marchés financiers ont réagi positivement aux annonces américaines visant à asphyxier économiquement l'Iran. Le prix du pétrole a légèrement baissé en raison des tensions géopolitiques. Les entreprises technologiques ont subi des pressions après une journée difficile à Wall Street.",
-        "resume_en": "Financial markets reacted positively to US plans for Iran's economic strangulation. Oil prices dipped slightly amid geopolitical tensions. Tech firms faced pressure after a tough day on Wall Street.",
-        "resume_zh": "金融市场对美国计划扼杀伊朗经济做出积极反应。地缘政治紧张局势下，油价略有下跌。科技公司在华尔街艰难交易日后面临压力。",
-        "resume_ru": "Во вторник мировые рынки продемонстрировали рост акций, в то время как цены на нефть снизились. Инвесторы оценивали план США по «экономическому удушению» Ирана. Технологические компании испытывали давление после падения на Уолл-стрит.",
-        "resume_fa": "در روز سه‌شنبه بازارهای جهانی شاهد افزایش سهام و کاهش قیمت نفت بودند. سرمایه‌گذاران برنامه آمریکا برای «خفه کردن اقتصادی» ایران را ارزیابی کردند. شرکت‌های فناوری تحت فشار بودند پس از روز منفی در وال‌استریت.",
-        "resume_ar": "في يوم الثلاثاء، ارتفعت الأسهم بينما تراجعت أسعار النفط. قام المستثمرون بتقييم خطة الولايات المتحدة لـ«الاختناق الاقتصادي» لإيران. عانت شركات التكنولوجيا من الضغوط بعد يوم سلبي في وول ستريت.",
-        "analyse_detaillee": "Les tensions entre les États-Unis et l'Iran remontent à la révolution islamique de 1979, avec des sanctions économiques récurrentes depuis. La stratégie américaine actuelle vise à affaiblir le régime iranien via des mesures financières ciblées. Les marchés anticipent une stabilisation ou une escalade, selon les interprétations. À court terme, les secteurs pétrolier et technologique sont les plus exposés aux fluctuations. À moyen terme, une crise énergétique pourrait émerger si les tensions s'aggravent. Les investisseurs privilégient les valeurs refuges comme l'or ou les actions défensives. À long terme, une guerre commerciale prolongée pourrait redessiner les chaînes d'approvisionnement mondiales. L'UE et la Chine adoptent des positions prudentes pour éviter une crise énergétique majeure.",
-        "analyse_en": "US-Iran tensions date back to the 1979 Islamic revolution, with recurring economic sanctions since then. The current US strategy aims to weaken Iran's regime through targeted financial measures. Markets anticipate either stabilization or escalation, depending on interpretations. In the short term, oil and tech sectors are most exposed to fluctuations. Medium-term, an energy crisis could emerge if tensions worsen. Investors favor safe havens like gold or defensive stocks. Long-term, prolonged trade war could reshape global supply chains. The EU and China adopt cautious stances to avoid a major energy crisis.",
-        "analyse_zh": "美伊紧张局势可追溯至1979年伊斯兰革命，此后美国多次实施经济制裁。当前美国战略意在通过针对性金融措施削弱伊朗政权。市场预期或稳定或升级，取决于解读。短期内，石油和科技板块最易受波动影响。中期来看，若紧张局势恶化，能源危机可能出现。投资者青睐黄金等避险资产或防御性股票。长期而言，持久贸易战可能重塑全球供应链。欧盟和中国采取谨慎立场以避免重大能源危机。",
-        "analyse_ru": "Контекст ситуации связан с геополитическими напряжениями между США и Ираном, что влияет на мировые энергетические рынки. Причины падения цен на нефть кроются в ожиданиях ужесточения санкций против Ирана, что может сократить предложение нефти на рынке. Последствия могут включать рост цен на бензин в США и Европе, а также усиление давления на иранскую экономику. Перспективы зависят от реакции других стран на американскую политику и возможных контрмер Ирана. Позиции сторон: США стремятся ослабить Иран через экономические меры, в то время как Тегеран может ответить усилением военного давления или поиском новых торговых партнеров.",
-        "analyse_fa": "زمینه این وضعیت به تنش‌های ژئوپلیتیکی بین آمریکا و ایران مربوط می‌شود که بر بازارهای جهانی انرژی تأثیر می‌گذارد. دلایل کاهش قیمت نفت به انتظارات از تشدید تحریم‌ها علیه ایران بازمی‌گردد که می‌تواند عرضه نفت را کاهش دهد. پیامدها ممکن است شامل افزایش قیمت بنزین در آمریکا و اروپا و فشار بیشتر بر اقتصاد ایران باشد. چشم‌اندازها به واکنش سایر کشورها به سیاست آمریکا و اقدامات متقابل ایران بستگی دارد. موضع بازیگران: آمریکا تلاش می‌کند از طریق اقدامات اقتصادی ایران را تضعیف کند، در حالی که تهران ممکن است با افزایش فشار نظامی یا جستجوی شرکای تجاری جدید پاسخ دهد.",
-        "analyse_ar": "يرتبط السياق الحالي بالتوترات الجيوسياسية بين الولايات المتحدة وإيران، مما يؤثر على أسواق الطاقة العالمية. أسباب تراجع أسعار النفط تكمن في توقعات تشديد العقوبات ضد إيران، مما قد يقلل من المعروض النفطي في السوق. قد تشمل العواقب ارتفاع أسعار البنزين في الولايات المتحدة وأوروبا، بالإضافة إلى زيادة الضغط على الاقتصاد الإيراني. الآفاق تعتمد على رد فعل الدول الأخرى تجاه السياسة الأمريكية والإجراءات الإيرانية المحتملة. مواقف الأطراف: تسعى الولايات المتحدة إلى إضعاف إيران من خلال تدابير اقتصادية، بينما قد ترد طهران بزيادة الضغط العسكري أو البحث عن شركاء تجاريين جدد.",
-        "categorie": "Économie & Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/50d3550441574002",
-        "image": "https://biztoc.com/cdn/50d3550441574002_s.webp",
-        "date": "2026-08-25",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marchés actions",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché pétrolier",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marchés actions",
-            "secteur_en": "Stock markets",
-            "secteur_zh": "股票市场",
-            "effet_fr": "Les marchés actions ont progressé grâce à l'optimisme lié aux sanctions contre l'Iran, perçues comme un moyen de stabiliser la région.",
-            "effet_en": "Stock markets rose due to optimism over sanctions against Iran, seen as a way to stabilize the region.",
-            "effet_zh": "股票市场因对制裁伊朗的乐观情绪而上涨，后者被视为稳定地区局势的手段。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Le prix du pétrole a légèrement reculé en raison des craintes d'une perturbation des approvisionnements en cas d'escalade militaire.",
-            "effet_en": "Oil prices dipped slightly due to fears of supply disruptions in case of military escalation.",
-            "effet_zh": "油价因担心军事升级导致供应中断而略有下跌。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-08-26T08:41:47.438697"
       }
     ]
   },
