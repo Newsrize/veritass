@@ -1,5 +1,5 @@
 {
-  "last_updated": "05/09/2026 à 05h18",
+  "last_updated": "05/09/2026 à 10h00",
   "articles": {
     "monde": [
       {
@@ -6075,6 +6075,66 @@
   },
   "politique": [
     {
+      "id": "pol_env_652113",
+      "titre": "Rugy : pesticide acétamipride sans danger ?",
+      "titre_en": "Rugy: Acetamipride pesticide 'harmless'?",
+      "titre_zh": "鲁吉：乙酰甲胺磷无害？",
+      "titre_ru": "Selon François de Rugy, l'acétamipride \"ne présente pas de danger\" pour la santé\" : le revirement d'un ancien ministre de la Transition écologique",
+      "titre_fa": "Selon François de Rugy, l'acétamipride \"ne présente pas de danger\" pour la santé\" : le revirement d'un ancien ministre de la Transition écologique",
+      "titre_ar": "Selon François de Rugy, l'acétamipride \"ne présente pas de danger\" pour la santé\" : le revirement d'un ancien ministre de la Transition écologique",
+      "titre_original": "Selon François de Rugy, l'acétamipride \"ne présente pas de danger\" pour la santé\" : le revirement d'un ancien ministre de la Transition écologique",
+      "resume": "Ancien ministre de la Transition écologique, François de Rugy a récemment affirmé que l’acétamipride, un néonicotinoïde controversé, ne présentait aucun danger pour la santé humaine. Cette déclaration contraste avec son passé militant contre les pesticides, révélant une possible influence des lobbies agricoles ou des contradictions politiques. Les associations écologistes dénoncent une volte-face inquiétante, tandis que les producteurs agricoles y voient une légitimation de leurs pratiques.",
+      "resume_en": "Former Ecology Transition Minister François de Rugy recently claimed that acetamipride, a controversial neonicotinoid pesticide, poses no health risk to humans. This statement contradicts his past advocacy against pesticides, suggesting potential lobbying influence or political contradictions. Environmental groups condemn the U-turn as alarming, while farmers see it as validation of their practices.",
+      "resume_zh": "前生态过渡部长鲁吉最近声称，受争议的氯吡咯威（乙酰甲胺磷）对人类健康无害。这一说法与其过去反对农药的立场形成鲜明对比，可能反映出农业利益集团的影响或政治上的矛盾。环保组织谴责这一转变令人担忧，而农民则视之为对其行为的认可。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "François de Rugy, figure emblématique de l’écologie sous Macron, a bâti sa réputation sur la lutte contre les pesticides, notamment via la loi Labbé (2014) restreignant leur usage. Son revirement sur l’acétamipride, classé comme perturbateur endocrinien par l’UE, révèle une tension entre engagement initial et pressions économiques, notamment du secteur viticole et agricole. Les lobbies, comme la FNSEA, ont souvent influencé les décisions réglementaires, exploitant des failles juridiques ou des délais d’évaluation. À court terme, cette déclaration affaiblit la crédibilité des autorités sanitaires et pourrait retarder des mesures plus strictes, comme le moratoire sur les néonicotinoïdes. À moyen terme, elle risque de normaliser l’usage de pesticides controversés, au détriment de la biodiversité et de la santé publique. Long terme, cela pourrait renforcer les divisions politiques entre écologistes et agriculteurs, tout en encourageant les multinationales agrochimiques à contourner les régulations. Les acteurs comme Greenpeace ou la Fondation Nicolas Hulot dénoncent une trahison, tandis que les syndicats agricoles saluent une 'prise de conscience' des risques réels, bien que minimisés.",
+      "analyse_en": "François de Rugy, a prominent figure in France’s ecology movement under Macron, built his reputation fighting pesticides, notably through the 2014 Labbé Law restricting their use. His reversal on acetamipride, classified as an endocrine disruptor by the EU, exposes a conflict between his initial stance and economic pressures, particularly from the wine and agricultural sectors. Lobby groups like FNSEA often influence regulatory decisions, exploiting legal loopholes or evaluation delays. Short-term, this statement undermines the credibility of health authorities and may delay stricter measures, such as a neonicotinoid ban. Medium-term, it risks normalizing controversial pesticides, harming biodiversity and public health. Long-term, this could deepen political divisions between environmentalists and farmers while encouraging agrochemical multinationals to bypass regulations. Actors like Greenpeace or the Nicolas Hulot Foundation condemn this as betrayal, while agricultural unions praise a 'realization' of risks—though downplayed.",
+      "analyse_zh": "鲁吉作为马宏政府时期生态运动的标志性人物，曾以反对农药为己任，特别是通过2014年的拉贝法案限制其使用。他对乙酰甲胺磷的立场转变（欧盟将其列为内分泌干扰物）暴露了其初始立场与经济压力之间的矛盾，特别是来自葡萄酒和农业部门的影响。像法国农业联合会（FNSEA）这样的利益集团经常通过法律漏洞或评估延误影响监管决定。短期内，这一声明削弱了卫生当局的可信度，可能推迟更严格的措施，如禁用氯吡咯威。中期内，它可能正常化对争议性农药的使用，损害生物多样性和公众健康。长期来看，这可能加剧环保人士和农民之间的政治分歧，同时鼓励农化跨国公司绕过监管。环保组织如绿色和平或尼古拉·胡洛基金会谴责这是背叛，而农民联合会则称这是对‘实际风险’的‘认知’，尽管被低估了。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Santé publique",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/selon-francois-de-rugy-l-acetamipride-ne-presente-pas-de-danger-pour-la-sante-le-revirement-d-un-ancien-ministre-de-la-transition-ecologique_8175839.html",
+      "image": "https://loremflickr.com/800/450/pollution,environment",
+      "date": "2026-09-04",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▼ Assurance agricole et responsabilité civile",
+          "hausse": false
+        },
+        {
+          "label": "▲ Marché des biotechnologies agricoles",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et responsabilité civile",
+          "secteur_en": "Agricultural insurance and liability insurance",
+          "secteur_zh": "农业保险和公众责任保险",
+          "effet_fr": "La réhabilitation de l’acétamipride pourrait réduire les primes d’assurance pour les exploitants agricoles, mais augmenter les risques de litiges en cas de contamination avérée.",
+          "effet_en": "The revalidation of acetamipride may lower insurance premiums for farmers but increase litigation risks in cases of proven contamination.",
+          "effet_zh": "乙酰甲胺磷的‘平反’可能降低农民的保险费用，但增加污染确认后的诉讼风险。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Marché des biotechnologies agricoles",
+          "secteur_en": "Agricultural biotechnology market",
+          "secteur_zh": "农业生物技术市场",
+          "effet_fr": "Les entreprises développant des alternatives aux pesticides pourraient voir leur croissance ralentie, tandis que les géants comme Bayer ou Syngenta pourraient capitaliser sur la légitimation de solutions chimiques.",
+          "effet_en": "Companies developing pesticide alternatives may see slowed growth, while giants like Bayer or Syngenta could profit from the legitimization of chemical solutions.",
+          "effet_zh": "研发农药替代品的企业可能增长放缓，而拜耳或辛格塔等巨头则可能从化学解决方案的‘合法化’中获利。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-05T10:00:35.355594",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_299495",
       "titre": "Violences de genre : l'État accusé d'inaction",
       "titre_en": "Gender violence: State accused of inaction",
@@ -7092,66 +7152,6 @@
         }
       ],
       "created_at": "2026-08-29T19:14:11.904142",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_711410",
-      "titre": "Camille Étienne, lobbyiste écologiste de 28 ans",
-      "titre_en": "Camille Étienne, 28-year-old eco-lobbyist",
-      "titre_zh": "卡米耶·埃蒂安，28岁环保游说者",
-      "titre_ru": "600 000 подписчиков, скандалы и лоббизм: путь Камиль Этьенн",
-      "titre_fa": "600 هزار دنبال‌کننده، اقدامات جنجالی و لابی‌گری: مسیر کامیل اتین",
-      "titre_ar": "600 ألف مشترك، أعمال جريئة ولوبي: مسيرة كاميل إتيان",
-      "titre_original": "600 000 abonnés, des coups d’éclat et du lobbying : le parcours de Camille Étienne, surnommée la « Greta Thunberg française »",
-      "resume": "À 28 ans, Camille Étienne, surnommée la «Greta Thunberg française», compte 600 000 abonnés et utilise des méthodes de lobbying pour défendre l'intérêt général. Son parcours mêle coups d'éclat médiatiques et actions concrètes en faveur de l'écologie. Elle incarne une nouvelle génération de militants qui bousculent les codes traditionnels de l'engagement.",
-      "resume_en": "At 28, Camille Étienne, dubbed the 'French Greta Thunberg,' has 600,000 subscribers and employs lobbying tactics to advocate for the common good. Her journey combines media stunts and concrete ecological actions. She represents a new generation of activists challenging traditional engagement norms.",
-      "resume_zh": "28岁的卡米耶·埃蒂安被称为“法国格蕾塔·通贝里”，拥有60万订阅者，并利用游说手段捍卫公共利益。她的经历结合了媒体炒作和具体的生态行动。她代表了一代新的活动家，挑战传统参与模式。",
-      "resume_ru": "В свои 28 лет Камиль Этьенн, прозванная «французской Гретой Тунберг», переосмысливает методы политического лоббизма в пользу общего блага. Она уже одержала несколько значимых побед для экологических и промышленных секторов. Её подход сочетает медийные скандалы с эффективным лоббированием.",
-      "resume_fa": "کامیل اتین، ۲۸ ساله، که به «گرتا تونبرگ فرانسه» معروف است، روش‌های لابی‌گری سیاسی را برای منافع عمومی بازتعریف می‌کند. او تاکنون پیروزی‌های چشمگیری برای صنایع و محیط زیست به دست آورده است. رویکرد او ترکیبی از اقدامات جنجالی و لابی‌گری مؤثر است.",
-      "resume_ar": "كاميل إتيان، البالغة من العمر 28 عاماً والملقبة بـ«غريتا تونبرغ الفرنسية»، تعيد تعريف أساليب اللوبي السياسي لصالح الصالح العام. وقد حققت بالفعل انتصارات ملموسة لصالح الصناعات والبيئة. يجمع نهجها بين الأعمال الجريئة واللوبينغ الفعال.",
-      "analyse_detaillee": "Camille Étienne s'inscrit dans la lignée des militants écologistes français des années 2010, comme ceux du mouvement Alternatiba ou des Soulèvements de la Terre. Son approche du lobbying, souvent critiquée pour son manque de transparence, est ici détournée pour servir une cause environnementale, marquant une rupture avec les pratiques traditionnelles. Les enjeux principaux tournent autour de la transition écologique et de la nécessité de peser sur les décisions politiques et industrielles. Les causes profondes incluent l'urgence climatique et la défiance envers les institutions, poussant les jeunes générations à agir en dehors des cadres classiques. À court terme, ses actions pourraient accélérer des régulations favorables à l'écologie, comme des lois sur les énergies renouvelables. À moyen terme, son influence pourrait redéfinir les stratégies de plaidoyer des ONG et des mouvements sociaux. À long terme, elle pourrait inspirer une nouvelle forme de militantisme hybride, mêlant activisme et expertise. Les acteurs traditionnels, comme les lobbies industriels ou les partis politiques, voient en elle une menace ou une opportunité selon leurs intérêts.",
-      "analyse_en": "Camille Étienne follows in the footsteps of French ecological activists from the 2010s, such as those from the Alternatiba movement or the Soulèvements de la Terre. Her lobbying approach, often criticized for its lack of transparency, is here repurposed to serve an environmental cause, marking a break with traditional practices. The main stakes revolve around ecological transition and the need to influence political and industrial decisions. The root causes include the climate emergency and distrust of institutions, pushing younger generations to act outside traditional frameworks. In the short term, her actions could accelerate regulations favorable to ecology, such as laws on renewable energies. In the medium term, her influence could redefine advocacy strategies for NGOs and social movements. In the long term, she could inspire a new form of hybrid activism, blending activism and expertise. Traditional actors, such as industrial lobbies or political parties, see her as either a threat or an opportunity depending on their interests.",
-      "analyse_zh": "卡米耶·埃蒂安延续了2010年代法国生态活动家的脚步，如Alternatiba运动或“土地起义”组织的成员。她的游说方法，通常因缺乏透明度而受到批评，却在此被重新用于服务环保事业，标志着对传统做法的突破。主要影响围绕生态转型和对政治与工业决策施加影响的必要性。深层原因包括气候紧急状况和对机构的不信任，推动年轻一代在传统框架之外行动。短期内，她的行动可能加速有利于生态的法规出台，如可再生能源法。中期来看，她的影响可能重新定义NGO和社会运动的倡导策略。长期而言，她可能启发一种新型混合激进主义，结合 activism 与专业知识。传统行为者，如工业游说团体或政党，视她为威胁或机遇，取决于自身利益。",
-      "analyse_ru": "Камиль Этьенн представляет новое поколение активистов, которые используют медийные скандалы и лоббизм для достижения целей. Её успех в 28 лет объясняется гибкостью в адаптации традиционных методов лоббирования под современные вызовы, такие как климатическая политика. Последствия её деятельности могут ускорить принятие экологических законов во Франции, но вызывают споры среди консервативных политиков. Перспективы её влияния зависят от способности удерживать внимание публики и сотрудничать с властями. Позиции сторон разделяются: экологические организации поддерживают её, а промышленные лоббисты видят в ней угрозу.",
-      "analyse_fa": "کامیل اتین نماد نسل جدید فعالان است که از اقدامات جنجالی و لابی‌گری برای رسیدن به اهداف خود استفاده می‌کنند. موفقیت او در ۲۸ سالگی ناشی از انعطاف‌پذیری در تطبیق روش‌های سنتی لوبینگ با چالش‌های مدرن مانند سیاست‌های زیست‌محیطی است. پیامدهای فعالیت او می‌تواند تصویب قوانین زیست‌محیطی در فرانسه را تسریع کند، اما در میان سیاستمداران محافظه‌کار بحث برانگیز است. چشم‌انداز تأثیر او به توانایی او در جلب توجه عمومی و همکاری با مقامات بستگی دارد. مواضع طرف‌ها متفاوت است: سازمان‌های زیست‌محیطی از او حمایت می‌کنند، در حالی که لابی‌های صنعتی او را تهدیدی می‌دانند.",
-      "analyse_ar": "تمثل كاميل إتيان جيلاً جديداً من الناشطين الذين يستخدمون الأعمال الجريئة واللوبينغ لتحقيق أهدافهم. يرجع نجاحها في سن 28 عاماً إلى مرونتها في تكييف أساليب Lobbying التقليدية مع التحديات الحديثة مثل السياسات المناخية. قد تسارع نتائج نشاطها من اعتماد القوانين البيئية في فرنسا، لكنها تثير جدلاً بين السياسيين المحافظين. آفاق تأثيرها تعتمد على قدرتها في جذب انتباه الجمهور والتعاون مع السلطات. تختلف مواقف الأطراف: تدعمها المنظمات البيئية، بينما تعتبرها جماعات اللوبي الصناعي تهديداً.",
-      "categorie": "Environnement",
-      "source": "Challenges",
-      "url": "https://www.challenges.fr/entreprise/green-economie/600-000-abonnes-des-coups-declat-et-du-lobbying-le-parcours-de-camille-etienne-surnommee-la-greta-thunberg-francaise_645365",
-      "image": "https://www.challenges.fr/_ipx/f_jpg&enlarge_true&s_1200x630/cha/static/2026-08/59854.HR_1.png%3FVersionId=xY9U1sTANI.1sBS9iffQshUC3Sh.sx6Q",
-      "date": "2026-08-28",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Secteur des énergies fossiles",
-          "hausse": false
-        },
-        {
-          "label": "▼ Secteur bancaire et assurantiel",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Secteur des énergies fossiles",
-          "secteur_en": "Fossil fuel sector",
-          "secteur_zh": "化石燃料行业",
-          "effet_fr": "Ses actions pourraient accélérer la sortie des subventions aux énergies fossiles et renforcer les investissements dans les énergies renouvelables.",
-          "effet_en": "Her actions could accelerate the phase-out of fossil fuel subsidies and boost investments in renewable energies.",
-          "effet_zh": "她的行动可能加速取消化石燃料补贴，并推动可再生能源投资。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Secteur bancaire et assurantiel",
-          "secteur_en": "Banking and insurance sector",
-          "secteur_zh": "银行和保险行业",
-          "effet_fr": "Son influence pourrait pousser les banques et assureurs à désinvestir des projets climaticides et à financer des initiatives vertes.",
-          "effet_en": "Her influence could push banks and insurers to divest from climate-damaging projects and finance green initiatives.",
-          "effet_zh": "她的影响可能推动银行和保险公司撤资破坏气候的项目，并资助绿色倡议。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-08-29T10:49:22.379488",
       "sous_categorie": "environnement"
     }
   ]
