@@ -1,5 +1,5 @@
 {
-  "last_updated": "06/09/2026 à 10h18",
+  "last_updated": "06/09/2026 à 13h58",
   "articles": {
     "monde": [
       {
@@ -6075,6 +6075,66 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_652153",
+      "titre": "Cerimedo : roi des trolls arrêté",
+      "titre_en": "Cerimedo’s Downfall: Trumpist Troll King Arrested",
+      "titre_zh": "塞里梅多：极右网络暴力之王被捕",
+      "titre_ru": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
+      "titre_fa": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
+      "titre_ar": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
+      "titre_original": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
+      "resume": "Consultant politique argentin lié à l’extrême droite, Fernando Cerimedo, surnommé le « roi des trolls », est poursuivi en Bolivie pour tentative de féminicide. Son arrestation révèle les liens entre désinformation et radicalisation politique en Amérique latine. Cette affaire pourrait redéfinir les dynamiques de la droite trumpiste dans la région.",
+      "resume_en": "Argentinian political consultant Fernando Cerimedo, dubbed the 'king of trolls,' is facing charges in Bolivia for attempted femicide. His arrest exposes ties between disinformation and political radicalization in Latin America. The case may reshape right-wing Trumpist dynamics in the region.",
+      "resume_zh": "阿根廷极右政治顾问塞里梅多被指控在玻利维亚犯有企图杀害女性罪。其被捕揭露了拉美地区虚假信息与政治极端化之间的联系。此案可能重塑该地区特朗普派右翼势力的格局。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Fernando Cerimedo incarne une nouvelle forme de militantisme numérique, où la désinformation et les réseaux sociaux servent d’armes politiques. Son implication dans des campagnes pro-Trump en Amérique latine s’inscrit dans une stratégie de déstabilisation des gouvernements progressistes, comme en Bolivie. Les causes profondes incluent le vide démocratique post-2008 et l’exploitation des fractures sociales par des acteurs transnationaux. À court terme, son arrestation pourrait affaiblir les réseaux de financement de l’extrême droite, mais aussi déclencher des représailles en ligne. À moyen terme, les plateformes numériques pourraient être contraintes de réguler davantage les contenus politiques. Long terme, cette affaire pourrait accélérer la polarisation ou, au contraire, forcer une refonte des alliances politiques en Amérique latine. Les États-Unis et l’Argentine observent cette affaire avec prudence, tandis que les mouvements féministes boliviens y voient une victoire symbolique contre la violence machiste.",
+      "analyse_en": "Fernando Cerimedo embodies a new form of digital militancy, where disinformation and social media serve as political weapons. His involvement in pro-Trump campaigns in Latin America fits a strategy to destabilize progressive governments, as seen in Bolivia. Root causes include post-2008 democratic vacuums and the exploitation of social fractures by transnational actors. Short-term, his arrest may weaken far-right funding networks but could also trigger online retaliation. Medium-term, digital platforms may be forced to tighten political content regulation. Long-term, this case could accelerate polarization or, conversely, push Latin American political alliances to reform. The U.S. and Argentina monitor the situation cautiously, while Bolivian feminist movements see it as a symbolic victory against machist violence.",
+      "analyse_zh": "塞里梅多代表了一种新型数字化激进主义，虚假信息和社交媒体成为政治武器。他参与特朗普支持者在拉美的活动，旨在颠覆进步派政府，如玻利维亚。深层原因包括2008年后民主真空和跨国势力利用社会裂痕。短期内，其被捕可能削弱极右翼资金网络，但也可能引发网络反击。中期内，数字平台可能被迫加强政治内容监管。长期来看，此案可能加剧极化或推动拉美政治联盟重塑。美国和阿根廷谨慎观察，而玻利维亚女权运动视之为对男性暴力的象征性胜利。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Géopolitique",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/international/050926/la-chute-de-fernando-cerimedo-roi-des-trolls-et-tete-de-pont-trumpiste-en-amerique-latine",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/09/04/260904-img-en-amerique-latine-la-chute-du-roi-des-trolls-devoile-les-coulisses-de-la-desinformation-d-extreme-droite.jpg",
+      "date": "2026-09-05",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▼ Financement des campagnes politiques en ligne",
+          "hausse": false
+        },
+        {
+          "label": "▲ Plateformes de réseaux sociaux (Meta, X/Twitter)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Financement des campagnes politiques en ligne",
+          "secteur_en": "Online political campaign financing",
+          "secteur_zh": "在线政治竞选资金",
+          "effet_fr": "Son arrestation pourrait réduire les flux financiers illicites vers les mouvements d’extrême droite en Amérique latine, fragilisant leurs capacités de désinformation.",
+          "effet_en": "His arrest may cut illicit financial flows to far-right movements in Latin America, weakening their disinformation capabilities.",
+          "effet_zh": "其被捕可能减少流向拉美极右派的非法资金，削弱其虚假信息能力。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Plateformes de réseaux sociaux (Meta, X/Twitter)",
+          "secteur_en": "Social media platforms (Meta, X/Twitter)",
+          "secteur_zh": "社交媒体平台（Meta、X/Twitter）",
+          "effet_fr": "Les poursuites contre Cerimedo pourraient accélérer les pressions réglementaires sur ces plateformes pour mieux modérer les contenus politiques extrémistes.",
+          "effet_en": "Prosecutions against Cerimedo may speed up regulatory pressures on these platforms to better moderate extremist political content.",
+          "effet_zh": "对塞里梅多的起诉可能加速对这些平台的监管压力，要求更严格过滤极端政治内容。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-06T13:58:42.686544",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_61020",
       "titre": "Féminicide de Sonia Bellina : violences persistantes",
       "titre_en": "Sonia Bellina murder: persistent gender violence",
@@ -6372,66 +6432,6 @@
         }
       ],
       "created_at": "2026-08-20T18:37:57.579481",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_595385",
-      "titre": "Féminicides et droits des filles afghanes",
-      "titre_en": "Femicides and Afghan girls' rights",
-      "titre_zh": "女性谋杀案与阿富汗女孩权利",
-      "titre_ru": "Феминицид, права афганских девушек, женский ЧМ",
-      "titre_fa": "فمینی‌ساید، حقوق دختران افغانستان، جام جهانی زنان",
-      "titre_ar": "العنف ضد النساء، حقوق الفتيات الأفغانيات، كأس العالم النسائي",
-      "titre_original": "Féminicide, droit des filles afghanes, CAN féminine… : le récap’ info de la semaine des Grenades",
-      "resume": "Cette semaine, les Grenades abordent les féminicides en Belgique, le droit des filles afghanes à l'éducation et les enjeux de la Coupe du monde féminine. L'arrestation de Marc Dutroux en 1996 rappelle les violences faites aux femmes. La situation des Afghanes sous les talibans est également mise en lumière.",
-      "resume_en": "This week, Les Grenades covers femicides in Belgium, Afghan girls' right to education, and the challenges of the Women's World Cup. Marc Dutroux's 1996 arrest highlights violence against women. The situation of Afghan women under the Taliban is also highlighted.",
-      "resume_zh": "本周，《Les Grenades》报道比利时的女性谋杀案、阿富汗女孩的受教育权以及女子世界杯的挑战。1996年马尔克·杜特鲁的逮捕凸显了针对女性的暴力。阿富汗女性在塔利班统治下的处境也备受关注。",
-      "resume_ru": "На этой неделе в центре внимания оказались несколько важных тем, связанных с правами женщин. В частности, обсуждались случаи феминицида, права афганских девушек на образование и участие в женском чемпионате мира по футболу. Также были подняты вопросы о насилии над женщинами и необходимости защиты их прав.",
-      "resume_fa": "این هفته موضوعاتی مانند فمینی‌ساید، حقوق دختران افغانستان برای تحصیل و حضور در جام جهانی فوتبال زنان مورد توجه قرار گرفت. همچنین درباره خشونت علیه زنان و لزوم حمایت از حقوق آنان بحث شد.",
-      "resume_ar": "هذا الأسبوع، تم تسليط الضوء على قضايا مثل العنف ضد النساء، وحقوق الفتيات الأفغانيات في التعليم والمشاركة في كأس العالم لكرة القدم للسيدات. كما نوقشت مسألة العنف ضد النساء وضرورة حماية حقوقهن.",
-      "analyse_detaillee": "Le féminicide reste un fléau persistant en Europe, comme le rappelle l'affaire Dutroux. En Afghanistan, les talibans ont systématiquement privé les filles d'éducation depuis 2021, aggravant les inégalités de genre. La Coupe du monde féminine met en lumière les progrès et les résistances dans le sport. Ces sujets soulèvent des questions sur la protection des droits humains et l'égalité. Les mouvements féministes en Europe et en Afghanistan luttent pour des changements structurels. À court terme, les féminicides continuent de choquer l'opinion publique. À moyen terme, l'éducation des filles en Afghanistan pourrait s'améliorer avec une pression internationale accrue. À long terme, une prise de conscience globale est nécessaire pour éradiquer ces violences.",
-      "analyse_en": "Femicide remains a persistent scourge in Europe, as the Dutroux case reminds us. In Afghanistan, the Taliban have systematically deprived girls of education since 2021, worsening gender inequalities. The Women's World Cup highlights progress and resistance in sports. These issues raise questions about human rights protection and equality. Feminist movements in Europe and Afghanistan are fighting for structural change. In the short term, femicides continue to shock public opinion. In the medium term, girls' education in Afghanistan could improve with increased international pressure. In the long term, a global awareness is needed to eradicate these violences.",
-      "analyse_zh": "女性谋杀案仍是欧洲的顽疾，杜特鲁案提醒我们这一点。在阿富汗，塔利班自2021年起系统性剥夺女孩受教育权，加剧了性别不平等。女子世界杯凸显了体育领域的进步与阻力。这些问题引发了关于人权保护与平等的讨论。欧洲和阿富汗的女权运动正为结构性变革而斗争。短期内，女性谋杀案继续震惊公众。中期来看，随着国际压力加大，阿富汗女孩教育可能改善。长期而言，全球意识觉醒是消除这些暴力的关键。",
-      "analyse_ru": "Контекст этой недели связан с глобальными проблемами защиты прав женщин. Феминицид остается острой проблемой во многих странах, включая Афганистан, где права девушек на образование были значительно ущемлены после прихода талибов к власти. Женский чемпионат мира по футболу стал символом борьбы за равноправие в спорте. Причины таких проблем кроются в патриархальных традициях, политической нестабильности и отсутствии эффективных механизмов защиты прав женщин. Последствия включают ухудшение социального положения женщин, рост насилия и ограничение их возможностей. Перспективы зависят от международного давления и внутренних реформ, а позиции сторон варьируются от поддержки прав женщин до их отрицания под религиозными или культурными предлогами.",
-      "analyse_fa": "زمینه این هفته به مشکلات جهانی حقوق زنان مربوط می‌شود. فمینی‌ساید همچنان در بسیاری از کشورها، از جمله افغانستان، که حقوق دختران در تحصیل پس از روی کار آمدن طالبان به شدت محدود شده، یک مسئله حاد است. جام جهانی فوتبال زنان به نمادی برای مبارزه با برابری در ورزش تبدیل شده است. دلایل این مشکلات در سنت‌های پدرسالارانه، ناپایداری سیاسی و فقدان مکانیزم‌های مؤثر حمایت از حقوق زنان نهفته است. پیامدها شامل بدتر شدن وضعیت اجتماعی زنان، افزایش خشونت و محدودیت فرصت‌های آنان است. چشم‌اندازها به فشارهای بین‌المللی و اصلاحات داخلی بستگی دارد، در حالی که مواضع بازیگران از حمایت حقوق زنان تا انکار آن تحت بهانه‌های مذهبی یا فرهنگی متغیر است.",
-      "analyse_ar": "يتعلق السياق هذا الأسبوع بالقضايا العالمية لحقوق النساء. لا يزال العنف ضد النساء مشكلة حادة في العديد من الدول، بما في ذلك أفغانستان، حيث تم تقييد حقوق الفتيات في التعليم بشدة بعد وصول طالبان إلى السلطة. أصبح كأس العالم لكرة القدم للسيدات رمزاً للنضال من أجل المساواة في الرياضة. تكمن أسباب هذه المشاكل في التقاليد الأبوية وعدم الاستقرار السياسي وغياب آليات فعالة لحماية حقوق النساء. تشمل العواقب تدهور الوضع الاجتماعي للنساء وزيادة العنف وتقييد فرصهن. تعتمد الآفاق على الضغوط الدولية والإصلاحات الداخلية، بينما تتنوع مواقف الأطراف بين دعم حقوق النساء وإنكارها تحت ذرائع دينية أو ثقافية.",
-      "categorie": "Droits humains",
-      "source": "RTBF",
-      "url": "https://www.rtbf.be/article/feminicide-droit-des-filles-afghanes-can-feminine-le-recap-info-de-la-semaine-des-grenades-11770576",
-      "image": "https://static-content.rtbf.be/article/image/1920x1080/0/6/b/6fc5a530b6b69ce13fa46ef190b16af3.jpg",
-      "date": "2026-08-14",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Secteur de l'assurance",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché de l'éducation privée",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Secteur de l'assurance",
-          "secteur_en": "Insurance sector",
-          "secteur_zh": "保险行业",
-          "effet_fr": "La médiatisation des féminicides pourrait augmenter les primes d'assurance pour les femmes, reflétant un risque perçu accru.",
-          "effet_en": "The media coverage of femicides could raise insurance premiums for women, reflecting a perceived increased risk.",
-          "effet_zh": "女性谋杀案的媒体报道可能推高女性保险费率，反映出感知风险的上升。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché de l'éducation privée",
-          "secteur_en": "Private education market",
-          "secteur_zh": "私立教育市场",
-          "effet_fr": "L'interdiction de l'éducation pour les filles en Afghanistan pourrait stimuler la demande pour des écoles privées internationales.",
-          "effet_en": "The ban on girls' education in Afghanistan could boost demand for international private schools.",
-          "effet_zh": "阿富汗禁止女孩受教育可能刺激国际私立学校的需求。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-08-15T20:22:11.355001",
       "sous_categorie": "femmes"
     },
     {
