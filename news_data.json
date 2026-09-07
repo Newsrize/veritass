@@ -1,7 +1,66 @@
 {
-  "last_updated": "07/09/2026 à 08h09",
+  "last_updated": "07/09/2026 à 14h50",
   "articles": {
     "monde": [
+      {
+        "id": "monde_677960",
+        "titre": "Moghalu : cartographie africaine et prospérité",
+        "titre_en": "Moghalu: Africa’s map correction won’t ensure prosperity",
+        "titre_zh": "莫加鲁：非洲地图修正不会带来繁荣",
+        "titre_ru": "Correcting Africa’s map won’t bring prosperity – Moghalu",
+        "titre_fa": "Correcting Africa’s map won’t bring prosperity – Moghalu",
+        "titre_ar": "Correcting Africa’s map won’t bring prosperity – Moghalu",
+        "titre_original": "Correcting Africa’s map won’t bring prosperity – Moghalu",
+        "resume": "L’ancien gouverneur adjoint de la Banque centrale nigériane, Kingsley Moghalu, salue une résolution de l’ONU promouvant des cartes plus fidèles à la taille réelle de l’Afrique. Il souligne que cette représentation géographique ne suffira pas à elle seule pour stimuler le développement économique du continent. Ses propos soulèvent des questions sur les attentes géopolitiques et économiques liées à cette initiative.",
+        "resume_en": "Former Nigerian Central Bank Deputy Governor Kingsley Moghalu welcomes a UN resolution advocating more accurate maps of Africa’s size. He argues that this geographical correction alone won’t bring prosperity to the continent. His remarks highlight geopolitical and economic expectations tied to this initiative.",
+        "resume_zh": "尼日利亚央行前副行长莫加鲁支持联合国促进更准确反映非洲大小的地图决议。他表示，仅仅地图修正不会带来非洲的繁荣。他的言论凸显了这一举措背后的地缘政治和经济期望。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Depuis les colonisations européennes, les cartes sous-estimaient systématiquement la taille de l’Afrique, renforçant des stéréotypes de sous-développement. Aujourd’hui, cette correction reflète une prise de conscience des inégalités historiques et des dynamiques de pouvoir global. Cependant, les défis structurels (corruption, dépendance aux matières premières, instabilité politique) persistent. À court terme, cette initiative pourrait booster le tourisme et les investissements en image de marque. À moyen terme, elle pourrait influencer les politiques éducatives et les représentations culturelles. Long terme, elle dépendra de la capacité des États africains à capitaliser sur cette visibilité pour attirer des capitaux. Les acteurs clés incluent l’ONU (symbolique), les gouvernements africains (opportunités économiques) et les médias internationaux (narratifs dominants).",
+        "analyse_en": "Since European colonization, maps systematically underestimated Africa’s size, reinforcing stereotypes of underdevelopment. Today’s correction reflects awareness of historical inequalities and global power dynamics. Yet, structural challenges (corruption, commodity dependence, political instability) remain. Short-term, this initiative may boost tourism and branding investments. Medium-term, it could influence educational policies and cultural narratives. Long-term prospects hinge on African states’ ability to leverage visibility for capital attraction. Key actors include the UN (symbolic role), African governments (economic opportunities), and global media (dominant narratives).",
+        "analyse_zh": "自欧洲殖民以来，地图长期低估非洲的实际面积，强化了落后的刻板印象。这次修正反映了对历史不平等和全球权力格局的认知。然而，腐败、对初级产品的依赖和政治不稳定等结构性问题依然存在。短期内，这一举措可能刺激旅游和品牌投资。中期内，它可能影响教育政策和文化叙事。长期前景取决于非洲国家利用这一曝光机会吸引资本的能力。关键利益相关者包括联合国（象征性作用）、非洲政府（经济机遇）和全球媒体（主导叙事）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/09/correcting-africas-map-wont-bring-prosperity-moghalu/",
+        "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/05/Moghalu.jpg",
+        "date": "2026-09-06",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Tourisme et investissements directs étrangers (IDE)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marchés financiers africains (Bourses régionales)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Tourisme et investissements directs étrangers (IDE)",
+            "secteur_en": "Tourism and foreign direct investment (FDI)",
+            "secteur_zh": "旅游业和外国直接投资（FDI）",
+            "effet_fr": "Une meilleure représentation géographique pourrait attirer des touristes et des investisseurs sensibles à l’image du continent, dynamisant les secteurs liés.",
+            "effet_en": "Improved geographical representation may attract tourism and investors focused on Africa’s image, boosting related sectors.",
+            "effet_zh": "更准确的地图可能吸引关注非洲形象的游客和投资者，推动相关行业发展。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marchés financiers africains (Bourses régionales)",
+            "secteur_en": "African financial markets (regional stock exchanges)",
+            "secteur_zh": "非洲金融市场（区域证券交易所）",
+            "effet_fr": "Les investisseurs pourraient réévaluer les actifs africains, influençant les cours boursiers et la liquidité des marchés locaux.",
+            "effet_en": "Investors may reassess African assets, impacting stock prices and local market liquidity.",
+            "effet_zh": "投资者可能重新评估非洲资产，影响股价和本地市场流动性。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-07T14:49:33.077391"
+      },
       {
         "id": "monde_435943",
         "titre": "Banque centrale européenne : hausse des taux annoncée cette semaine",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-02T12:34:13.301676"
-      },
-      {
-        "id": "monde_585425",
-        "titre": "Gap Inc. relève ses prévisions malgré des ventes en baisse",
-        "titre_en": "Gap Inc. raises outlook despite falling sales",
-        "titre_zh": "盖璞公司销售下滑但上调预期",
-        "titre_ru": "Gap Inc. улучшает прогнозы despite падения продаж",
-        "titre_fa": "Gap Inc. علیرغم کاهش فروش، چشم‌انداز خود را بهبود بخشید",
-        "titre_ar": "Gap Inc. تحسن توقعاتها رغم تراجع المبيعات",
-        "titre_original": "Gap Inc. (GAP) Raises Its Outlook Even As Old Navy Stumbles",
-        "resume": "Gap Inc. a publié des résultats contrastés pour le trimestre clos le 27 août : ses ventes totales ont chuté de 2%, mais l'entreprise a relevé ses prévisions annuelles. La performance d'Old Navy, en difficulté, contraste avec celle de ses autres marques. Les investisseurs restent prudents face à l'incertitude économique.",
-        "resume_en": "Gap Inc. reported mixed results for the quarter ending August 27: total sales fell by 2%, but the company raised its full-year outlook. Old Navy's struggles contrast with the performance of its other brands. Investors remain cautious amid economic uncertainty.",
-        "resume_zh": "盖璞公司公布了截至8月27日的季度业绩：总销售额下降2%，但公司上调了全年展望。Old Navy的困境与其他品牌的表现形成对比。投资者在经济不确定性下保持谨慎。",
-        "resume_ru": "Компания Gap Inc. опубликовала противоречивые финансовые результаты за третий квартал. Общий объём продаж снизился на 2%, однако руководство повысило прогнозы на весь год. Аналитики связывают это с успешной стратегией ребрендинга и расширением ассортимента.",
-        "resume_fa": "شرکت Gap Inc. نتایج مالی متناقضی را برای سه‌ماهه سوم منتشر کرد. فروش کلی این شرکت 2 درصد کاهش یافت، اما مدیریت چشم‌انداز سالانه خود را بهبود بخشید. کارشناسان این امر را به استراتژی موفق بازسازی برند و گسترش سبد محصولات نسبت می‌دهند.",
-        "resume_ar": "أصدرت شركة Gap Inc. نتائج مالية متضاربة للربع الثالث. انخفضت المبيعات الإجمالية بنسبة 2%، لكن الإدارة عززت توقعاتها السنوية. يربط المحللون ذلك باستراتيجية ناجحة لإعادة الت branding وتوسيع تشكيلة المنتجات.",
-        "analyse_detaillee": "Gap Inc. illustre les défis du secteur de la mode face à la transformation des habitudes de consommation, notamment avec la montée de l'e-commerce. Historiquement, Old Navy a été un pilier de la croissance du groupe, mais sa performance récente reflète une saturation du marché américain. La décision de relever les prévisions malgré des ventes en baisse suggère une confiance dans la résilience des autres marques comme Banana Republic ou Athleta. À court terme, cette stratégie pourrait rassurer les actionnaires, mais à moyen terme, le groupe devra innover pour contrer la concurrence des marques low-cost et des plateformes en ligne. À long terme, la survie de Gap dépendra de sa capacité à s'adapter aux nouvelles tendances, comme la mode durable. Les acteurs comme H&M ou Zara surveilleront de près cette évolution. La position des consommateurs, de plus en plus sensibles aux prix et à l'éthique, sera déterminante.",
-        "analyse_en": "Gap Inc. highlights the challenges faced by the fashion industry amid shifting consumer habits, particularly with the rise of e-commerce. Historically, Old Navy has been a growth driver for the group, but its recent performance reflects saturation in the US market. The decision to raise forecasts despite falling sales suggests confidence in the resilience of other brands like Banana Republic or Athleta. In the short term, this strategy could reassure shareholders, but in the medium term, the group will need to innovate to counter competition from low-cost brands and online platforms. In the long term, Gap's survival will depend on its ability to adapt to new trends, such as sustainable fashion. Players like H&M or Zara will closely watch this evolution. The position of consumers, increasingly sensitive to price and ethics, will be decisive.",
-        "analyse_zh": "盖璞公司凸显了时尚行业在消费习惯转变面前的挑战，特别是随着电子商务的兴起。历史上，Old Navy一直是该集团的增长引擎，但其近期表现反映了美国市场的饱和。尽管销售下滑但仍上调预期的决定表明对Banana Republic或Athleta等其他品牌韧性的信心。短期内，这一策略可能安抚股东，但中期来看，集团需要创新以应对低成本品牌和在线平台的竞争。长期而言，盖璞的生存将取决于其适应新趋势（如可持续时尚）的能力。H&M或Zara等品牌将密切关注这一发展。越来越注重价格和道德的消费者立场将至关重要。",
-        "analyse_ru": "Контекст ситуации связан с кризисом в розничной торговле, вызванным пандемией и изменением потребительских предпочтений. Причины улучшения прогнозов могут объясняться успешной адаптацией компании к новым реалиям, включая цифровизацию и фокус на онлайн-продажах. Последствия могут включать рост акций и укрепление позиций бренда на рынке. Перспективы зависят от устойчивости тренда и реакции конкурентов. Позиции сторон показывают, что инвесторы оценивают стратегию компании положительно, несмотря на краткосрочные трудности.",
-        "analyse_fa": "زمینه این وضعیت به بحران در خرده‌فروشی مربوط می‌شود که ناشی از همه‌گیری و تغییر ترجیحات مصرف‌کنندگان است. دلایل بهبود چشم‌اندازها ممکن است به سازگاری موفق شرکت با واقعیت‌های جدید، از جمله دیجیتالی‌سازی و تمرکز بر فروش آنلاین، مربوط باشد. پیامدها می‌تواند شامل رشد سهام و تقویت موقعیت برند در بازار باشد. چشم‌اندازها به پایداری روند و واکنش رقبا بستگی دارد. موضع بازیگران نشان می‌دهد که سرمایه‌گذاران استراتژی شرکت را مثبت ارزیابی می‌کنند، علی‌رغم مشکلات کوتاه‌مدت.",
-        "analyse_ar": "يرتبط سياق هذا Situation بأزمة في تجارة التجزئة ناجمة عن الجائحة وتغير تفضيلات المستهلكين. قد تفسر الأسباب وراء تحسين التوقعات التكيف الناجح للشركة مع الحقائق الجديدة، بما في ذلك التحول الرقمي والتركيز على المبيعات عبر الإنترنت. قد تشمل العواقب نمو الأسهم وتعزيز مكانة العلامة التجارية في السوق. ترتبط الآفاق باستدامة الاتجاه وردود فعل المنافسين. تظهر مواقف الأطراف أن المستثمرين يقيمون استراتيجية الشركة بشكل إيجابي، على الرغم من الصعوبات قصيرة الأجل.",
-        "categorie": "Économie",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/gap-inc-gap-raises-outlook-073906168.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/cfa0c8db744e285bd58d58665d0395ad33382537eb0b28d288b255e94a8b0a7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F84c7631926174c0063fc11aab5b720ba.jpg",
-        "date": "2026-09-01",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Secteur de la distribution spécialisée",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur de l'e-commerce",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la distribution spécialisée",
-            "secteur_en": "Specialized retail sector",
-            "secteur_zh": "专业零售行业",
-            "effet_fr": "La stratégie de Gap pourrait inspirer d'autres acteurs du secteur à miser sur des marques premium pour compenser les pertes dans le segment grand public.",
-            "effet_en": "Gap's strategy could inspire other players in the sector to focus on premium brands to offset losses in the mass-market segment.",
-            "effet_zh": "盖璞的策略可能激励其他行业参与者专注于高端品牌，以弥补大众市场的损失。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur de l'e-commerce",
-            "secteur_en": "E-commerce sector",
-            "secteur_zh": "电子商务行业",
-            "effet_fr": "La baisse des ventes physiques de Gap pourrait accélérer sa transition vers le numérique, renforçant la domination des géants comme Amazon ou Shein.",
-            "effet_en": "Gap's decline in physical sales could accelerate its transition to digital, strengthening the dominance of giants like Amazon or Shein.",
-            "effet_zh": "盖璞实体销售的下滑可能加速其向数字化转型，巩固亚马逊或希音等巨头的主导地位。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-02T07:44:32.929326"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_812037",
+        "titre": "Républicains coincés par Trump en élections",
+        "titre_en": "Republicans stuck with Trump’s ‘me-me-me’ midterms",
+        "titre_zh": "共和党人在中期选举中被困于特朗普的‘我我我’",
+        "titre_ru": "Republicans Feel ‘Stuck’ With Trump’s ‘Me, Me, Me’ Midterms",
+        "titre_fa": "Republicans Feel ‘Stuck’ With Trump’s ‘Me, Me, Me’ Midterms",
+        "titre_ar": "Republicans Feel ‘Stuck’ With Trump’s ‘Me, Me, Me’ Midterms",
+        "titre_original": "Republicans Feel ‘Stuck’ With Trump’s ‘Me, Me, Me’ Midterms",
+        "resume": "Les républicains, selon Axios, hésitent à s’éloigner de Trump malgré ses défauts perçus (corruption, incompétence, déclin cognitif). Leur peur de perdre des électeurs les pousse à rester fidèles à leur ‘leader’, risquant une défaite cuisante aux élections de mi-mandat. Cette dynamique reflète une crise identitaire au sein du parti.",
+        "resume_en": "Republicans, per Axios, hesitate to distance themselves from Trump despite his perceived flaws (corruption, incompetence, cognitive decline). Fear of losing voters keeps them loyal, risking a midterm defeat. This dynamic reflects an identity crisis within the party.",
+        "resume_zh": "根据Axios，共和党人尽管对特朗普的缺点（腐败、无能、认知下降）有所认知，仍然犹豫是否要与之决裂。害怕失去选民使他们依然忠于‘领袖’，可能在中期选举中遭遇惨败。这种动态反映了党内的身份危机。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La loyauté des républicains envers Trump s’inscrit dans une stratégie de polarisation politique initiée depuis 2016. Les ‘lemmings’ évoqués soulignent une soumission à la base électorale radicalisée, au détriment de la modération. Les conséquences immédiates incluent une perte de crédibilité internationale et une fragmentation interne. À moyen terme, cela pourrait affaiblir la cohésion du parti face à des candidats démocrates unifiés. Long terme, cela dépendra de la capacité des républicains à réinventer leur discours sans perdre leur électorat. Les acteurs clés sont Trump (leader charismatique mais controversé), les médias conservateurs (amplification du récit), et l’électorat de base (fidélité à l’identité partisane).",
+        "analyse_en": "Republicans’ loyalty to Trump stems from a 2016-initiated political polarization strategy. The ‘lemmings’ metaphor highlights submission to a radicalized electorate, at the expense of moderation. Immediate consequences include lost international credibility and internal party fragmentation. Medium-term, this could weaken Republican cohesion against unified Democratic candidates. Long-term prospects depend on Republicans’ ability to reinvent their narrative without losing their base. Key actors include Trump (controversial but charismatic leader), conservative media (amplifying the narrative), and the base electorate (loyalty to party identity).",
+        "analyse_zh": "共和党人对特朗普的忠诚源于2016年以来的政治极化战略。‘群体效应’的比喻突显了对激进选民的屈服，以牺牲温和立场为代价。短期影响包括国际信誉下降和党内分裂。中期内，这可能削弱共和党在面对统一的民主党候选人时的凝聚力。长期前景取决于共和党重塑议程的能力，而不失去其核心选民。关键利益相关者包括特朗普（具有争议但具有魅力的领袖）、保守派媒体（放大叙事）和核心选民（对党派身份的忠诚）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Crooksandliars.com",
+        "url": "https://crooksandliars.com/2026/09/republicans-feel-stuck-trump-s-me-me-me",
+        "image": "https://crooksandliars.com/files/primary_image/26/09/trump_for_0900526_2.jpg",
+        "date": "2026-09-06",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché politique et lobbying",
+            "hausse": false
+          },
+          {
+            "label": "▼ Financement des campagnes électorales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché politique et lobbying",
+            "secteur_en": "Political market and lobbying",
+            "secteur_zh": "政治市场和游说",
+            "effet_fr": "La polarisation réduit l’attractivité des candidats modérés, limitant les financements et les soutiens institutionnels pour les républicains pragmatiques.",
+            "effet_en": "Polarization reduces the appeal of moderate candidates, limiting funding and institutional support for pragmatic Republicans.",
+            "effet_zh": "极化减少了温和候选人的吸引力，限制了对务实共和党人的资金和机构支持。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Financement des campagnes électorales",
+            "secteur_en": "Electoral campaign financing",
+            "secteur_zh": "选举活动资金",
+            "effet_fr": "Les dons pourraient se concentrer sur les candidats ultra-conservateurs, marginalisant ceux qui tentent de se démarquer de Trump.",
+            "effet_en": "Donations may focus on ultra-conservative candidates, marginalizing those trying to distance themselves from Trump.",
+            "effet_zh": "捐款可能集中在极端保守派候选人身上，边缘化那些试图与特朗普决裂的候选人。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-07T14:49:33.077428"
+      },
       {
         "id": "usa_192978",
         "titre": "Démocrates contre le 'Trump-a-palooza' : convention en réponse",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-09-02T12:34:13.301702"
-      },
-      {
-        "id": "usa_564855",
-        "titre": "Xi Jinping multiplie les voyages diplomatiques pour Trump",
-        "titre_en": "Xi Jinping's diplomatic travels focus on Trump ahead of US election",
-        "titre_zh": "习近平外交行程聚焦特朗普",
-        "titre_ru": "Самый загруженный за 7 лет визит Си Цзиньпина к Трамп",
-        "titre_fa": "پرمشغله‌ترین سفر ۷ ساله شی جین‌پینگ به دیدار ترامپ",
-        "titre_ar": "أكثر زيارات شي جين بينغ الخارجية ازدحاما في 7 سنوات لزيارة ترامب",
-        "titre_original": "Xi’s busiest travel itinerary in seven years is all about Trump",
-        "resume": "Le président chinois Xi Jinping entame son voyage le plus chargé en sept ans, visitant l'Asie centrale et l'Égypte avant un sommet des BRICS en Inde. Ces déplacements sont perçus comme une tentative de renforcer l'influence de Pékin face à Washington. Les tensions sino-américaines, notamment sur le commerce et la technologie, restent vives.",
-        "resume_en": "Chinese President Xi Jinping is embarking on his busiest foreign travel schedule in seven years, visiting Central Asia and Egypt before a BRICS summit in India. These trips are seen as an attempt to bolster Beijing's influence against Washington. US-China tensions, particularly over trade and technology, remain high.",
-        "resume_zh": "中国国家主席习近平正在展开七年来最繁忙的外交行程，访问中亚和埃及后将出席在印度举行的金砖国家峰会。这些出访被视为加强北京对抗华盛顿影响力的尝试。中美紧张局势，特别是在贸易和技术领域，仍然高涨。",
-        "resume_ru": "Президент Китая Си Цзиньпин отправляется в свой самый насыщенный за последние семь лет зарубежный вояж. В рамках поездки он посетит Центральную Азию и Египет, а также планирует участие в саммите БРИКС в Индии. Визит может укрепить позиции Китая на международной арене.",
-        "resume_fa": "رئیس‌جمهور چین شی جین‌پینگ در حال انجام پرمشغله‌ترین سفر خارجی خود در هفت سال گذشته است. او در این سفر از آسیای مرکزی و مصر دیدن خواهد کرد و همچنین در نشست بریکس در هند شرکت خواهد کرد. این سفر می‌تواند موقعیت چین در arena بین‌المللی را تقویت کند.",
-        "resume_ar": "يتوجه الرئيس الصيني شي جين بينغ إلى أكثر جولاته الخارجية ازدحاما في سبع سنوات. خلال الزيارة، سيزور آسيا الوسطى ومصر، كما يخطط للمشاركة في قمة بريكس في الهند. قد يعزز هذا الزيارة مكانة الصين على الساحة الدولية.",
-        "analyse_detaillee": "Les déplacements de Xi Jinping s'inscrivent dans un contexte de rivalité sino-américaine croissante, marquée par des tensions commerciales et technologiques depuis l'administration Trump. Historiquement, la Chine a toujours cherché à étendre son influence en Asie centrale, une région riche en ressources naturelles. Ce voyage pourrait être une réponse aux initiatives américaines en Indo-Pacifique, comme le Quad. À court terme, ces visites pourraient renforcer les alliances de la Chine avec des pays comme le Kazakhstan ou l'Égypte. À moyen terme, cela pourrait accélérer la formation d'un bloc économique alternatif aux institutions occidentales. À long terme, si la rivalité persiste, cela pourrait mener à une bipolarisation des relations internationales. Les acteurs comme l'Inde et la Russie observeront ces mouvements avec attention. La position de l'Europe, tiraillée entre les deux puissances, sera également cruciale.",
-        "analyse_en": "Xi Jinping's travels are set against a backdrop of growing US-China rivalry, marked by trade and technology tensions since the Trump administration. Historically, China has sought to expand its influence in Central Asia, a region rich in natural resources. This trip could be a response to US initiatives in the Indo-Pacific, such as the Quad. In the short term, these visits could strengthen China's alliances with countries like Kazakhstan or Egypt. In the medium term, this could accelerate the formation of an economic bloc alternative to Western institutions. In the long term, if rivalry persists, it could lead to a bipolarization of international relations. Actors like India and Russia will watch these moves closely. Europe's position, torn between the two powers, will also be crucial.",
-        "analyse_zh": "习近平的出访是在中美竞争加剧的背景下进行的，自特朗普政府以来，贸易和技术紧张局势持续。历史上，中国一直试图在资源丰富的中亚地区扩大影响力。此行可能是对美国在印太地区倡议（如四方安全对话）的回应。短期内，这些访问可能加强中国与哈萨克斯坦或埃及等国的联盟。中期来看，这可能加速形成一个替代西方机构的经济集团。长期而言，如果竞争持续，可能导致国际关系的两极化。印度和俄罗斯等行为者将密切关注这些动向。欧洲在两大国之间左右为难的立场也将至关重要。",
-        "analyse_ru": "Контекст визита связан с попытками Китая укрепить свои позиции в условиях глобальной конкуренции с США. Причины столь активной дипломатии объясняются стремлением Пекина diversify партнёрские связи и снизить зависимость от Запада. Последствия могут включать усиление влияния Китая в регионах Центральной Азии и Африки. Перспективы зависят от результатов переговоров и реакции США. Позиции сторон показывают, что Китай стремится к многовекторной дипломатии, в то время как США пытаются сдерживать его влияние.",
-        "analyse_fa": "زمینه این سفر به تلاش‌های چین برای تقویت موقعیت خود در رقابت جهانی با ایالات متحده مربوط می‌شود. دلایل این دیپلماسی فعال، تمایل پکن برای تنوع بخشیدن به شراکت‌ها و کاهش وابستگی به غرب است. پیامدها می‌تواند شامل افزایش نفوذ چین در آسیای مرکزی و آفریقا باشد. چشم‌اندازها به نتایج مذاکرات و واکنش آمریکا بستگی دارد. موضع بازیگران نشان می‌دهد که چین به دنبال دیپلماسی چندجانبه است، در حالی که آمریکا تلاش می‌کند نفوذ آن را مهار کند.",
-        "analyse_ar": "يرتبط سياق هذه الزيارة بمحاولات الصين لتعزيز مكانتها في ظل المنافسة العالمية مع الولايات المتحدة. تفسر الأسباب وراء هذه الدبلوماسية النشطة رغبة بكين في تنويع شراكاتها وتقليل الاعتماد على الغرب. قد تشمل العواقب زيادة نفوذ الصين في آسيا الوسطى وأفريقيا. ترتبط الآفاق بنتائج المفاوضات وردود فعل الولايات المتحدة. تظهر مواقف الأطراف أن الصين تسعى إلى دبلوماسية متعددة الأقطاب، بينما تحاول الولايات المتحدة احتواء نفوذها.",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/xis-busiest-travel-itinerary-in-seven-years-is-all-about-trump/articleshow/133672900.cms",
-        "image": "https://img.etimg.com/thumb/msid-133672929,width-1200,height-630,imgsize-51788,overlay-economictimes/articleshow.jpg",
-        "date": "2026-09-01",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Secteur technologique chinois",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur énergétique kazakh",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur technologique chinois",
-            "secteur_en": "Chinese technology sector",
-            "secteur_zh": "中国科技行业",
-            "effet_fr": "Les tensions sino-américaines pourraient accélérer l'autonomie technologique de la Chine, notamment dans les semi-conducteurs et l'IA, réduisant sa dépendance aux importations américaines.",
-            "effet_en": "US-China tensions could accelerate China's technological autonomy, particularly in semiconductors and AI, reducing its dependence on US imports.",
-            "effet_zh": "中美紧张局势可能加速中国在半导体和人工智能等领域的技术自主，减少对美国进口的依赖。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur énergétique kazakh",
-            "secteur_en": "Kazakhstan energy sector",
-            "secteur_zh": "哈萨克斯坦能源行业",
-            "effet_fr": "Les investissements chinois dans les infrastructures énergétiques kazakhes pourraient s'intensifier, renforçant la dépendance économique de Nur-Sultan envers Pékin.",
-            "effet_en": "Chinese investments in Kazakh energy infrastructure could intensify, strengthening Nur-Sultan's economic dependence on Beijing.",
-            "effet_zh": "中国在哈萨克斯坦能源基础设施的投资可能加强，使努尔苏丹更加依赖北京。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-02T07:44:32.929315"
       }
     ],
     "chine": [
@@ -3710,6 +3710,65 @@
     ],
     "russie": [
       {
+        "id": "russie_912144",
+        "titre": "Kushner et Witkoff négocient paix en Ukraine",
+        "titre_en": "Kushner and Witkoff negotiate Ukraine peace",
+        "titre_zh": "库什纳和威特科夫在乌克兰谈判和平",
+        "titre_ru": "Witkoff, Kushner hold talks with Zelensky in Kyiv",
+        "titre_fa": "Witkoff, Kushner hold talks with Zelensky in Kyiv",
+        "titre_ar": "Witkoff, Kushner hold talks with Zelensky in Kyiv",
+        "titre_original": "Witkoff, Kushner hold talks with Zelensky in Kyiv",
+        "resume": "Les envoyés américains Steve Witkoff et Jared Kushner se rendent à Kiev pour discuter avec Zelensky d’une issue à la guerre contre la Russie. Leur visite intervient après une rencontre avec Poutine, suggérant une approche diplomatique simultanée. Les négociations soulèvent des espoirs de désescalade, mais aussi des défis géopolitiques majeurs.",
+        "resume_en": "U.S. envoys Steve Witkoff and Jared Kushner travel to Kyiv to discuss ending the war with Russia with Zelensky. Their visit follows a meeting with Putin, indicating parallel diplomatic efforts. Negotiations raise hopes for de-escalation but also major geopolitical challenges.",
+        "resume_zh": "美国特使史蒂夫·威特科夫和贾雷德·库什纳前往基辅与泽连斯基讨论结束与俄罗斯的战争。此行在与普京会晤后进行，表明同时进行外交努力。谈判带来了缓解紧张局势的希望，但也面临重大的地缘政治挑战。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette initiative s’inscrit dans un contexte de guerre prolongée depuis février 2022, où les négociations directes entre Moscou et Kiev ont échoué. Les États-Unis jouent un rôle de médiateur, cherchant à éviter une escalade régionale ou nucléaire. Les causes profondes incluent les revendications territoriales russes et la résistance ukrainienne à l’annexion. Court terme, les discussions pourraient ralentir les offensives militaires, mais risquent de révéler des divergences irréconciliables. À moyen terme, une solution pacifique dépendra de la capacité de la Russie à accepter des compromis et de l’Occident à soutenir l’Ukraine sans prolonger le conflit. Long terme, cela pourrait redéfinir l’ordre géopolitique en Europe de l’Est. Les acteurs clés sont Zelensky (résistance ukrainienne), Poutine (stratégie russe), Biden (soutien occidental) et l’OTAN (sécurité collective).",
+        "analyse_en": "This initiative follows a prolonged war since February 2022, where direct negotiations between Moscow and Kyiv have failed. The U.S. acts as a mediator, aiming to prevent regional or nuclear escalation. Root causes include Russia’s territorial claims and Ukraine’s resistance to annexation. Short-term, discussions may slow military offensives but risk exposing irreconcilable divergences. Medium-term, a peaceful solution depends on Russia’s willingness to compromise and the West’s ability to support Ukraine without prolonging the conflict. Long-term, this could redefine Eastern Europe’s geopolitical order. Key actors include Zelensky (Ukrainian resistance), Putin (Russian strategy), Biden (Western support), and NATO (collective security).",
+        "analyse_zh": "这一举措发生在2022年2月以来持续的战争背景下，莫斯科和基辅之间的直接谈判已失败。美国充当调解者，试图避免地区或核扩散。深层原因包括俄罗斯的领土要求和乌克兰对并吞的抵抗。短期内，谈判可能减缓军事攻势，但可能暴露无法调和的分歧。中期内，和平解决方案取决于俄罗斯接受妥协的意愿和西方支持乌克兰而不延长冲突的能力。长期来看，这可能重新定义东欧的地缘政治格局。关键利益相关者包括泽连斯基（乌克兰抵抗）、普京（俄罗斯战略）、拜登（西方支持）和北约（集体安全）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2af24f875ceae806",
+        "image": "https://biztoc.com/cdn/2af24f875ceae806_s.webp",
+        "date": "2026-09-06",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier et gazier (Russie/Ukraine)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Finance et sanctions internationales",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier et gazier (Russie/Ukraine)",
+            "secteur_en": "Oil and gas markets (Russia/Ukraine)",
+            "secteur_zh": "石油和天然气市场（俄罗斯/乌克兰）",
+            "effet_fr": "Les négociations pourraient influencer les prix de l’énergie, avec un risque de volatilité si les livraisons russes sont perturbées ou relancées.",
+            "effet_en": "Negotiations may impact energy prices, with volatility risks if Russian deliveries are disrupted or resumed.",
+            "effet_zh": "谈判可能影响能源价格，如果俄罗斯的供应中断或恢复，可能带来波动风险。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Finance et sanctions internationales",
+            "secteur_en": "Finance and international sanctions",
+            "secteur_zh": "金融和国际制裁",
+            "effet_fr": "Une trêve pourrait assouplir temporairement les sanctions, mais une paix durable nécessiterait une refonte des régulations financières pour la Russie.",
+            "effet_en": "A truce may temporarily ease sanctions, but lasting peace would require restructuring financial regulations for Russia.",
+            "effet_zh": "停火可能暂时放宽制裁，但持久和平需要重新调整俄罗斯的金融监管。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-07T14:49:33.077440"
+      },
+      {
         "id": "russie_26581",
         "titre": "Envoyés américains en Ukraine : espoirs de négociations après Moscou",
         "titre_en": "US envoys head to Ukraine talks post-Moscow meeting",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-02T12:34:13.301714"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_670674",
-        "titre": "Premier ministre pakistanais court vers Poutine au sommet de l'OCS",
-        "titre_en": "Pakistani PM rushes to Putin at SCO Summit in Kyrgyzstan",
-        "titre_zh": "巴基斯坦总理在上合组织峰会上冲向普京",
-        "titre_ru": "Пакистанский премьер бежит к Путину на саммите ШОС",
-        "titre_fa": "نخست‌وزیر پاکستان برای دیدار با پوتین به سمت او دوید",
-        "titre_ar": "رئيس وزراء باكستان يجري لمقابلة بوتين في قمة منظمة شنغهاي",
-        "titre_original": "‘Wait for me!’? Pakistan PM Shehbaz Sharif runs to meet Russian President Vladimir Putin at SCO Summit in Bishkek: Watch viral video",
-        "resume": "Une vidéo virale montre le Premier ministre pakistanais Shehbaz Sharif se précipiter vers le président russe Vladimir Poutine après une photo de groupe lors du sommet de l'OCS à Bichkek. Ce geste symbolique a suscité des réactions en ligne. Les relations entre le Pakistan et la Russie, traditionnellement limitées, semblent évoluer vers une coopération renforcée.",
-        "resume_en": "A viral video shows Pakistani Prime Minister Shehbaz Sharif rushing toward Russian President Vladimir Putin after a group photo at the SCO Summit in Bishkek. The symbolic gesture sparked online reactions. Pakistan-Russia relations, traditionally limited, appear to be shifting toward stronger cooperation.",
-        "resume_zh": "一段病毒式传播的视频显示巴基斯坦总理夏巴兹·谢里夫在比什凯克上合组织峰会的集体合影后冲向俄罗斯总统普京。这一象征性举动引发了网络反响。巴基斯坦与俄罗斯的关系，长期以来有限，似乎正朝着更强合作的方向发展。",
-        "resume_ru": "Видео с саммита ШОС в Бишкеке показывает, как пакистанский премьер-министр Шехбаз Шариф стремительно направляется к президенту России Владимиру Путину после групповой фотографии. Этот момент стал вирусным в социальных сетях. Эксперты обсуждают возможные причины столь необычного поведения лидера Пакистана.",
-        "resume_fa": "فیلمی از نشست سازمان همکاری شانگهای در بیشکک نشان می‌دهد که نخست‌وزیر پاکستان، شهباز شریف، پس از عکس گروهی رهبران، به سرعت به سمت ولادیمیر پوتین، رئیس‌جمهور روسیه، می‌دود. این لحظه در شبکه‌های اجتماعی وایرال شد. کارشناسان دلایل احتمالی این رفتار غیرمعمول را بررسی می‌کنند.",
-        "resume_ar": "أظهرت فيديو من قمة منظمة شنغهاي في بيشكيك أن رئيس وزراء باكستان شهباز شريف يجري بسرعة نحو الرئيس الروسي فلاديمير بوتين بعد التصوير الجماعي للقادة. انتشر هذا المشهد على نطاق واسع في وسائل التواصل الاجتماعي. يناقش الخبراء الأسباب المحتملة لهذا السلوك غير المعتاد.",
-        "analyse_detaillee": "Le sommet de l'OCS à Bichkek s'inscrit dans un contexte de tensions géopolitiques accrues, notamment entre l'Occident et la Russie. Le Pakistan, traditionnellement aligné sur les États-Unis, cherche à diversifier ses partenariats pour des raisons économiques et stratégiques. La course de Sharif vers Poutine peut être interprétée comme un signe de rapprochement, reflétant une volonté d'équilibrer ses relations internationales. Historiquement, le Pakistan a toujours cherché à jouer un rôle de médiateur entre les grandes puissances. Ce geste pourrait aussi être une tentative de sécuriser des investissements russes dans des projets d'infrastructure. À court terme, cette vidéo pourrait renforcer la perception d'une alliance émergente entre Islamabad et Moscou. À moyen terme, cela pourrait influencer les dynamiques régionales en Asie centrale, où la Russie cherche à consolider son influence. À long terme, si cette coopération se confirme, elle pourrait redéfinir les équilibres géopolitiques en Asie du Sud. Les acteurs principaux, comme la Chine et les États-Unis, surveilleront de près cette évolution.",
-        "analyse_en": "The SCO Summit in Bishkek takes place amid heightened geopolitical tensions, particularly between the West and Russia. Pakistan, traditionally aligned with the US, is seeking to diversify its partnerships for economic and strategic reasons. Sharif's rush toward Putin can be seen as a sign of rapprochement, reflecting a desire to balance its international relations. Historically, Pakistan has always sought to play a mediating role between great powers. This gesture could also be an attempt to secure Russian investments in infrastructure projects. In the short term, this video could strengthen the perception of an emerging alliance between Islamabad and Moscow. In the medium term, it could influence regional dynamics in Central Asia, where Russia is trying to consolidate its influence. In the long term, if this cooperation is confirmed, it could redefine geopolitical balances in South Asia. Key actors like China and the US will closely monitor this development.",
-        "analyse_zh": "比什凯克的上合组织峰会发生在东西方与俄罗斯之间地缘政治紧张局势加剧的背景下。传统上亲美的巴基斯坦正试图通过多元化伙伴关系来寻求经济和战略利益。夏巴兹·谢里夫冲向普京的举动可以被视为接近的信号，反映出平衡国际关系的意愿。历史上，巴基斯坦一直试图在大国之间扮演调解者角色。这一举动也可能是为了确保俄罗斯在基础设施项目中的投资。短期内，这段视频可能强化巴基斯坦与俄罗斯新兴联盟的认知。中期来看，这可能影响中亚地区的动态，俄罗斯正试图在那里巩固影响力。长期而言，如果这种合作得到确认，可能重新定义南亚的地缘政治平衡。中美等主要行为者将密切关注这一发展。",
-        "analyse_ru": "Контекст ситуации связан с геополитическими интересами Пакистана и России, особенно в свете напряжённых отношений с Индией и США. Причины столь активного подхода могут объясняться стремлением укрепить двусторонние связи или обсудить экономические проекты, такие как газопровод. Последствия этого жеста могут усилить позиции Пакистана в регионе и повысить его значимость для России. Перспективы зависят от результатов переговоров и реакции международного сообщества. Позиции сторон показывают, что Россия и Пакистан заинтересованы в расширении сотрудничества, несмотря на давление Запада.",
-        "analyse_fa": "زمینه این رویداد به منافع ژئوپلیتیکی پاکستان و روسیه مربوط می‌شود، به ویژه در شرایط تنش با هند و ایالات متحده. دلایل این رویکرد فعال ممکن است تقویت روابط دوجانبه یا مذاکره درباره پروژه‌های اقتصادی مانند خط لوله گاز باشد. پیامدهای این حرکت می‌تواند موقعیت پاکستان در منطقه را تقویت کرده و اهمیت آن را برای روسیه افزایش دهد. چشم‌اندازها به نتایج مذاکرات و واکنش جامعه بین‌المللی بستگی دارد. موضع بازیگران نشان می‌دهد که روسیه و پاکستان به گسترش همکاری‌ها علاقه‌مند هستند، علی‌رغم فشار غرب.",
-        "analyse_ar": "يرتبط سياق هذا الحدث بالمصالح الجيوسياسية لباكستان وروسيا، خاصة في ظل التوترات مع الهند والولايات المتحدة. قد تفسر الأسباب وراء هذا النهجActive رغبة في تعزيز العلاقات الثنائية أو مناقشة مشاريع اقتصادية مثل خط أنابيب الغاز. قد تؤدي عواقب هذه الخطوة إلى تعزيز مكانة باكستان في المنطقة وزيادة أهميتها بالنسبة لروسيا. ترتبط الآفاق بنتائج المفاوضات وردود الفعل الدولية. تظهر مواقف الأطراف أن روسيا وباكستان مهتمتان بتوسيع التعاون رغم الضغوط الغربية.",
+        "id": "iran_258849",
+        "titre": "Hegseth suspecte de paranoïa sur fuites Pentagon",
+        "titre_en": "Hegseth accused of paranoia over Pentagon leaks",
+        "titre_zh": "赫格塞特疑似对五角大楼泄密过度警惕",
+        "titre_ru": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
+        "titre_fa": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
+        "titre_ar": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
+        "titre_original": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
+        "resume": "Pete Hegseth, figure conservatrice américaine, fait l’objet de polémiques après des tests de détection de mensonges menés en août sur des personnels militaires et civils. Les enquêteurs ciblent particulièrement les fuites liées à la guerre en Iran. Ses méthodes sont jugées excessives par certains observateurs.",
+        "resume_en": "Conservative figure Pete Hegseth faces controversy after August lie detector tests on military and civilian personnel. Investigators focus on leaks related to the Iran war. His methods are deemed excessive by some observers.",
+        "resume_zh": "美国保守派人物彼得·赫格塞特因八月对军事和文职人员进行的谎言测试而引发争议。调查人员主要关注与伊朗战争相关的泄密事件。一些观察者认为他的方法过于极端。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les polémiques autour des tests de polygraphe rappellent les tensions persistantes entre transparence et sécurité nationale aux États-Unis. Hegseth incarne une frange de la droite américaine prônant une approche sécuritaire radicale, souvent perçue comme contre-productive. Les fuites sur la guerre en Iran révèlent des divisions internes au Pentagone et une méfiance croissante envers les médias. Court terme, cela pourrait renforcer les contrôles d’accès et les audits internes. À moyen terme, cela pourrait fragiliser la confiance dans les institutions militaires. Long terme, cela illustre un climat politique de défiance généralisée. Les acteurs incluent le Pentagone (pression interne), les médias (débats sur la désinformation) et l’opposition politique (critiques sur les méthodes).",
+        "analyse_en": "Controversies over lie detector tests echo persistent U.S. tensions between transparency and national security. Hegseth embodies a hardline right-wing faction advocating radical security measures, often seen as counterproductive. Leaks on the Iran war expose internal Pentagon divisions and growing distrust of media. Short-term, this may tighten access controls and internal audits. Medium-term, it could erode trust in military institutions. Long-term, it reflects a climate of generalized political distrust. Key actors include the Pentagon (internal pressure), media (debates on disinformation), and political opposition (critiques on methods).",
+        "analyse_zh": "关于谎言测试的争议反映了美国在国家安全与透明度之间长期存在的紧张关系。赫格塞特代表美国右翼极端派别，主张激进的安全措施，常被视为反效果。关于伊朗战争的泄密揭示了五角大楼内部的分裂和对媒体日益增长的不信任。短期内，这可能加强入场控制和内部审计。中期内，可能削弱对军事机构的信任。长期来看，这反映了政治普遍的不信任氛围。关键利益相关者包括五角大楼（内部压力）、媒体（关于虚假信息的辩论）和政治反对派（对方法的批评）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/wait-for-me-pakistan-pm-shehbaz-sharif-runs-to-meet-russian-president-vladimir-putin-at-sco-summit-in-bishkek-watch-viral-video/articleshow/133672739.cms",
-        "image": "https://img.etimg.com/thumb/msid-133672994,width-1200,height-630,imgsize-70323,overlay-economictimes/articleshow.jpg",
-        "date": "2026-09-01",
-        "pays": "russie",
+        "source": "Crooksandliars.com",
+        "url": "https://crooksandliars.com/2026/09/pete-hegseth-so-paranoid-he-s-polygraphing",
+        "image": "https://crooksandliars.com/files/primary_image/26/09/54605970351_296eb0177b_k_2.jpg",
+        "date": "2026-09-06",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Secteur énergétique russe",
-            "hausse": true
+            "label": "▼ Sécurité nationale et renseignement (DHS, NSA)",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur textile pakistanais",
+            "label": "▼ Médias et communication gouvernementale",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur énergétique russe",
-            "secteur_en": "Russian energy sector",
-            "secteur_zh": "俄罗斯能源行业",
-            "effet_fr": "Un rapprochement Pakistan-Russie pourrait accélérer les projets d'exportation de gaz russe vers l'Asie du Sud via le Pakistan, renforçant la position de Moscou sur le marché énergétique mondial.",
-            "effet_en": "A Pakistan-Russia rapprochement could accelerate Russian gas export projects to South Asia via Pakistan, strengthening Moscow's position in the global energy market.",
-            "effet_zh": "巴基斯坦与俄罗斯的接近可能加速通过巴基斯坦向南亚出口俄罗斯天然气的项目，巩固莫斯科在全球能源市场的地位。",
-            "hausse": true
+            "secteur_fr": "Sécurité nationale et renseignement (DHS, NSA)",
+            "secteur_en": "National security and intelligence (DHS, NSA)",
+            "secteur_zh": "国家安全与情报（国土安全部、国家安全局）",
+            "effet_fr": "Les tests de détection de mensonges pourraient intensifier les contrôles sur les employés sensibles, augmentant les coûts administratifs et réduisant la productivité.",
+            "effet_en": "Lie detector tests may heighten scrutiny of sensitive personnel, increasing administrative costs and reducing productivity.",
+            "effet_zh": "谎言测试可能加强对敏感人员的监控，增加行政成本并降低生产力。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur textile pakistanais",
-            "secteur_en": "Pakistani textile sector",
-            "secteur_zh": "巴基斯坦纺织行业",
-            "effet_fr": "Une coopération renforcée avec la Russie pourrait ouvrir de nouveaux marchés pour les exportations textiles pakistanaises, dynamisant un secteur clé de l'économie locale.",
-            "effet_en": "Enhanced cooperation with Russia could open new markets for Pakistani textile exports, boosting a key sector of the local economy.",
-            "effet_zh": "与俄罗斯的合作加强可能为巴基斯坦纺织品出口开辟新市场，推动当地经济的关键行业。",
+            "secteur_fr": "Médias et communication gouvernementale",
+            "secteur_en": "Media and government communications",
+            "secteur_zh": "媒体和政府传播",
+            "effet_fr": "Les accusations de paranoïa pourraient alimenter les débats sur la désinformation et la crédibilité des sources officielles, affectant la confiance publique.",
+            "effet_en": "Accusations of paranoia may fuel debates on disinformation and the credibility of official sources, impacting public trust.",
+            "effet_zh": "疑似过度警惕的指控可能助长关于虚假信息和官方信源可信度的辩论，影响公众信任。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-02T07:44:32.929291"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-07T14:49:33.077415"
+      },
       {
         "id": "iran_405951",
         "titre": "Attaques américaines en Iran : un mariage et une tour détruits",
@@ -6011,127 +6070,68 @@
           }
         ],
         "created_at": "2026-09-01T23:02:00.566781"
-      },
-      {
-        "id": "iran_819829",
-        "titre": "Chevron profite de la hausse du pétrole iranien",
-        "titre_en": "Chevron Benefits from Rising Iranian Oil Prices",
-        "titre_zh": "雪佛龙受益于伊朗原油价格上涨",
-        "titre_ru": "Chevron выросла на 2,3% на фоне роста цен на нефть",
-        "titre_fa": "شرکت شِورون ۲.۳ درصد رشد کرد به دلیل افزایش قیمت نفت",
-        "titre_ar": "ارتفعت شيفرون ٢.٣% مع ارتفاع أسعار النفط",
-        "titre_original": "Chevron Jumps 2.3% as $90 Oil Meets Refining Pressure",
-        "resume": "Chevron a vu son action progresser de 2,3 % après une hausse des prix du pétrole Brent, liée aux tensions accrues entre les États-Unis et l'Iran. La pression sur les raffineries pourrait cependant limiter les gains à long terme.",
-        "resume_en": "Chevron's stock rose 2.3% following a Brent crude price increase due to escalating U.S.-Iran tensions. Refinery pressures, however, may limit long-term gains.",
-        "resume_zh": "由于美伊紧张局势升级，布伦特原油价格上涨，雪佛龙股价上涨2.3%。然而，炼油厂的压力可能限制长期收益。",
-        "resume_ru": "Акции Chevron выросли на 2,3% до 206,355 долларов после повышения цен на нефть Brent на фоне эскалации конфликта между США и Ираном. Компания, занимающаяся добычей и переработкой нефти, воспользовалась давлением на рынке. Эскалация напряжённости в регионе поддерживает высокие цены на энергоносители.",
-        "resume_fa": "سهام شرکت شِورون پس از افزایش قیمت نفت برنت به دلیل تشدید تنش بین آمریکا و ایران، ۲.۳ درصد رشد کرد و به ۲۰۶.۳۵۵ دلار رسید. این شرکت نفتی و گازی از فشار بازار بهره‌برداری کرد. تشدید تنش در منطقه باعث حفظ قیمت‌های بالای انرژی شد.",
-        "resume_ar": "ارتفعت أسهم شيفرون ٢.٣% لتصل إلى ٢٠٦.٣٥٥ دولاراً بعد ارتفاع سعر نفط برنت بسبب تصاعد التوترات بين الولايات المتحدة وإيران. استفادت الشركة النفطية من الضغط في السوق. أدى تصاعد حدة التوترات الإقليمية إلى الحفاظ على أسعار الطاقة المرتفعة.",
-        "analyse_detaillee": "Les tensions géopolitiques entre les États-Unis et l'Iran ont un impact direct sur les marchés pétroliers mondiaux, comme en témoigne la hausse récente des prix du Brent. Chevron, géant intégré du pétrole, bénéficie de cette volatilité à court terme, mais les raffineries font face à des défis structurels, comme la transition énergétique. Historiquement, les crises au Moyen-Orient ont toujours perturbé l'approvisionnement en pétrole, mais aujourd'hui, la demande mondiale et les politiques climatiques ajoutent une complexité nouvelle. Les enjeux principaux incluent la stabilité des prix et la sécurité énergétique. Les causes profondes résident dans les sanctions américaines contre l'Iran, qui limitent l'offre, et dans la dépendance mondiale aux énergies fossiles. À court terme, Chevron pourrait enregistrer des profits records, mais à moyen terme, les coûts de raffinage et les réglementations environnementales pourraient peser. À long terme, la transition vers les énergies renouvelables pourrait réduire la dépendance au pétrole, mais l'Iran reste un acteur clé pour les marchés asiatiques. Les acteurs comme Chevron doivent donc diversifier leurs investissements, tandis que les gouvernements cherchent à sécuriser leurs approvisionnements.",
-        "analyse_en": "U.S.-Iran tensions directly impact global oil markets, as seen in the recent Brent price surge. Chevron, an integrated oil giant, benefits from this volatility short-term, but refineries face structural challenges like the energy transition. Historically, Middle East crises have disrupted oil supply, but today, global demand and climate policies add new complexity. Key stakes include price stability and energy security. Root causes lie in U.S. sanctions on Iran, limiting supply, and global dependence on fossil fuels. Short-term, Chevron may record record profits, but medium-term, refining costs and environmental regulations could weigh. Long-term, the shift to renewables may reduce oil dependence, but Iran remains key for Asian markets. Actors like Chevron must diversify investments, while governments seek secure supplies.",
-        "analyse_zh": "美伊紧张局势直接影响全球石油市场，如布伦特油价近期上涨所示。作为综合性石油巨头，雪佛龙短期受益于这种波动，但炼油厂面临结构性挑战，如能源转型。历史上，中东危机一直扰乱石油供应，但如今全球需求和气候政策增加了新的复杂性。主要影响包括价格稳定性和能源安全。深层原因在于美国对伊朗的制裁限制供应，以及全球对化石燃料的依赖。短期内，雪佛龙可能录得创纪录利润，但中期炼油成本和环保法规可能产生压力。长期来看，向可再生能源转型可能减少对石油的依赖，但伊朗仍是亚洲市场的关键角色。雪佛龙等企业必须多元化投资，而各国政府则寻求确保供应安全。",
-        "analyse_ru": "Рост акций Chevron стал реакцией на геополитическую напряжённость в регионе Персидского залива, где конфликт между США и Ираном влияет на мировые цены на нефть. Причины роста компании связаны с её интегрированной структурой, которая позволяет ей извлекать выгоду из высоких цен как на сырьё, так и на переработку. Последствия для рынка могут быть двойственными: с одной стороны, компании получают дополнительные доходы, с другой — высокие цены на энергоносители угрожают экономическому росту. В перспективе Chevron продолжит укреплять позиции, но риски санкций и политической нестабильности остаются высокими. Позиция Ирана как ключевого игрока на рынке нефти усиливает его влияние на глобальные энергетические рынки.",
-        "analyse_fa": "رشد سهام شِورون واکنشی به تنش‌های ژئوپلیتیکی در منطقه خلیج فارس بود، جایی که درگیری بین آمریکا و ایران بر قیمت‌های جهانی نفت تأثیر می‌گذارد. دلایل رشد این شرکت به ساختار یکپارچه آن بازمی‌گردد که امکان بهره‌برداری از قیمت‌های بالای مواد خام و پالایش را فراهم می‌کند. پیامدهای این امر برای بازار می‌تواند دوگانه باشد: از یک سو، شرکت‌ها درآمدهای بیشتری کسب می‌کنند، از سوی دیگر، قیمت‌های بالای انرژی تهدیدی برای رشد اقتصادی است. در آینده، شِورون به تقویت موقعیت خود ادامه خواهد داد، اما ریسک‌های تحریم‌ها و ناپایداری سیاسی همچنان بالا است. موضع ایران به‌عنوان بازیگر کلیدی در بازار نفت، تأثیر آن بر بازارهای انرژی جهانی را تقویت می‌کند.",
-        "analyse_ar": "أصبحت زيادة أسهم شيفرون رد فعل على التوترات الجيوسياسية في منطقة الخليج الفارسي، حيث تؤثر الصراعات بين الولايات المتحدة وإيران على أسعار النفط العالمية. ترتبط أسباب نمو الشركة به هيكلها المتكامل، الذي يسمح لها بالاستفادة من ارتفاع أسعار المواد الخام والتكرير. قد تكون لعواقب هذا الأمر على السوق آثار مزدوجة: من ناحية، تحقق الشركات إيرادات إضافية، ومن ناحية أخرى، تهدد أسعار الطاقة المرتفعة النمو الاقتصادي. في المستقبل، ستواصل شيفرون تعزيز موقفها، لكن مخاطر العقوبات وعدم الاستقرار السياسي لا تزال مرتفعة. موقف إيران كلاعب رئيسي في سوق النفط يعزز تأثيرها على أسواق الطاقة العالمية.",
-        "categorie": "Énergie",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e7bc1b1b31adcd19",
-        "image": "https://biztoc.com/cdn/e7bc1b1b31adcd19_s.webp",
-        "date": "2026-08-31",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Secteur pétrolier intégré",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des énergies renouvelables",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier intégré",
-            "secteur_en": "Integrated oil sector",
-            "secteur_zh": "综合石油行业",
-            "effet_fr": "Chevron profite de la hausse des prix du Brent, mais les coûts de raffinage et les réglementations environnementales pourraient réduire ses marges à moyen terme.",
-            "effet_en": "Chevron benefits from Brent price hikes, but refining costs and environmental regulations may squeeze margins medium-term.",
-            "effet_zh": "雪佛龙受益于布伦特油价上涨，但炼油成本和环保法规可能在中期挤压其利润率。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des énergies renouvelables",
-            "secteur_en": "Renewable energy market",
-            "secteur_zh": "可再生能源市场",
-            "effet_fr": "La volatilité des prix du pétrole pourrait accélérer les investissements dans les énergies alternatives, réduisant la dépendance aux hydrocarbures.",
-            "effet_en": "Oil price volatility could accelerate investments in alternative energies, reducing hydrocarbon dependence.",
-            "effet_zh": "石油价格波动可能加速对替代能源的投资，减少对碳氢化合物的依赖。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-01T17:37:38.741706"
       }
     ]
   },
   "politique": [
     {
-      "id": "pol_env_218596",
-      "titre": "Riverains défient Oullins sur PFAS",
-      "titre_en": "Neighbors challenge PFAS in Oullins",
-      "titre_zh": "邻居挑战乌尔朗PFAS问题",
-      "titre_ru": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
-      "titre_fa": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
-      "titre_ar": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
-      "titre_original": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
-      "resume": "Des habitants d’Oullins et Pierre-Bénite, où doit être construit le village olympique pour les JO d’hiver 2030, lancent un appel pour interdire les PFAS, substances toxiques omniprésentes. Leur mobilisation s’inscrit dans une lutte plus large contre la pollution industrielle et les risques sanitaires liés aux Jeux. Cette initiative révèle les tensions croissantes entre développement sportif et protection environnementale en France.",
-      "resume_en": "Residents of Oullins and Pierre-Bénite, where the Olympic village for the 2030 Winter Games is to be built, are calling for a ban on PFAS, toxic substances widely used. Their campaign highlights growing tensions between sports development and environmental protection in France. This mobilization underscores the risks of industrial pollution linked to major events.",
-      "resume_zh": "乌尔朗和皮埃尔-贝尼特的居民发起倡议，要求禁止使用有毒的PFAS化合物，这些化合物在即将建设的2030年冬季奥运会村中广泛存在。他们的行动反映了法国在体育发展与环境保护之间的日益紧张关系。此举暴露了大型赛事背后的工业污染风险和健康隐患。",
+      "id": "pol_env_497623",
+      "titre": "Record de demandes au fonds pesticides",
+      "titre_en": "Record pesticide claims in 2025",
+      "titre_zh": "农药受害者赔偿基金申请创纪录",
+      "titre_ru": "Plus de 1 000 personnes ont demandé à bénéficier du fonds d'indemnisation des victimes de pesticides en 2025, un nombre record",
+      "titre_fa": "Plus de 1 000 personnes ont demandé à bénéficier du fonds d'indemnisation des victimes de pesticides en 2025, un nombre record",
+      "titre_ar": "Plus de 1 000 personnes ont demandé à bénéficier du fonds d'indemnisation des victimes de pesticides en 2025, un nombre record",
+      "titre_original": "Plus de 1 000 personnes ont demandé à bénéficier du fonds d'indemnisation des victimes de pesticides en 2025, un nombre record",
+      "resume": "En 2025, plus de 1 000 personnes ont sollicité le fonds d’indemnisation des victimes de pesticides, un chiffre historique. Les demandes proviennent majoritairement d’agriculteurs exposés professionnellement, avec 20 cas impliquant des enfants exposés in utero. Ce phénomène reflète une prise de conscience accrue des risques sanitaires liés aux pesticides.",
+      "resume_en": "In 2025, over 1,000 people applied for compensation from the pesticide victims fund, a record number. Most claims come from professionally exposed farmers, with 20 cases involving children exposed prenatally. This surge highlights growing awareness of pesticide-related health risks.",
+      "resume_zh": "2025年，超过1000人申请农药受害者赔偿基金，创下历史新高。申请者主要是职业暴露的农民，其中20例涉及胎儿期暴露的儿童。这一趋势反映了公众对农药健康风险的日益关注。",
       "resume_ru": "",
       "resume_fa": "",
       "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, surnommées ‘polluants éternels’, sont des substances chimiques persistantes depuis leur invention dans les années 1950, utilisées dans les revêtements antiadhésifs et les mousses anti-incendie. Leur présence massive dans les sols lyonnais, notamment autour des zones industrielles, pose un risque sanitaire avéré (cancers, troubles hormonaux), aggravé par les projets olympiques. Les riverains dénoncent un manque de transparence des organisateurs sur les mesures de dépollution, tandis que l’État hésite entre pression économique (emplois liés aux JO) et obligations réglementaires (loi anti-PFAS de 2023). À court terme, cette mobilisation pourrait retarder les travaux ou imposer des coûts supplémentaires, mais à moyen terme, elle pourrait accélérer une prise de conscience nationale sur les alternatives industrielles. Les acteurs locaux (mairies, associations) s’unissent pour exiger des audits indépendants, tandis que les industriels, comme Solvay ou 3M, restent silencieux sur leurs engagements futurs. Sans solution globale, le risque est une contamination durable des sols, compromettant la crédibilité écologique des JO 2030.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, are persistent substances since their invention in the 1950s, used in non-stick coatings and firefighting foams. Their widespread presence in Lyon’s soils, especially near industrial zones, poses a proven health risk (cancers, hormonal disorders), exacerbated by Olympic plans. Residents accuse organizers of a lack of transparency on depollution measures, while the state balances economic pressure (JO-related jobs) with regulatory obligations (2023 PFAS law). Short-term, this mobilization may delay construction or add costs, but medium-term, it could speed up national awareness of industrial alternatives. Local actors (municipalities, NGOs) unite to demand independent audits, while companies like Solvay or 3M remain silent on future commitments. Without a systemic solution, the risk is lasting soil contamination, undermining the ecological credibility of the 2030 Winter Games.",
-      "analyse_zh": "PFAS化合物，又称‘永久性污染物’，自上世纪50年代发明以来广泛用于防粘涂层和灭火泡沫，其持久性导致在法国里昂工业区土壤中大量存在。这些化合物已被证明对健康造成严重威胁（癌症、内分泌紊乱），而奥运会村的建设进一步加剧了污染风险。居民指责组织者在土壤净化措施上的透明度不足，而政府则在经济压力（奥运会带来的就业）与法规执行（2023年PFAS禁令）之间犹豫不决。短期内，此举可能推迟工程进度或增加成本，但中期内可能加速法国对工业替代品的认知转变。当地政府和环保组织联合要求独立审计，但像索尔维或3M等企业对未来承诺保持沉默。若无全面解决方案，PFAS污染将长期存在，严重损害2030年冬季奥运会的环保形象。",
+      "analyse_detaillee": "Depuis les années 1990, les controverses autour des pesticides ont régulièrement alimenté les débats publics, notamment après des scandales comme celui du glyphosate ou des études liant ces substances à des cancers. Le record de 2025 s’inscrit dans un contexte de renforcement des réglementations européennes (REACH, interdiction progressive de certains néonicotinoïdes) et de pressions sociétales croissantes. Les causes profondes incluent l’intensification des pratiques agricoles, l’absence de protection adéquate des travailleurs et une méconnaissance persistante des effets à long terme. À court terme, cette hausse de demandes pourrait saturer les mécanismes d’indemnisation et retarder les paiements, aggravant la précarité des victimes. À moyen terme, cela pourrait accélérer les réformes législatives, comme une extension des droits des travailleurs ou une obligation de transparence pour les fabricants. Long terme, une transition vers des alternatives moins toxiques semble inévitable, mais son adoption dépendra des investissements publics et privés. Les agriculteurs, bien que premiers concernés, restent divisés entre nécessité économique et santé, tandis que les associations environnementales saluent ce signal d’alerte, et les lobbies agrochimiques minimisent les risques.",
+      "analyse_en": "Since the 1990s, pesticide controversies have repeatedly fueled public debates, particularly after scandals like glyphosate or studies linking these chemicals to cancer. The 2025 record reflects a context of strengthened EU regulations (REACH, phased bans on neonicotinoids) and growing societal pressure. Root causes include intensified agricultural practices, inadequate worker protections, and persistent ignorance of long-term effects. Short-term, this surge could overwhelm compensation mechanisms, delaying payouts and worsening victims’ precarity. Medium-term, it may accelerate legislative reforms, such as extending workers’ rights or mandating transparency for manufacturers. Long-term, a shift toward less toxic alternatives seems inevitable, but its adoption hinges on public and private investments. Farmers, though primarily affected, remain divided between economic necessity and health concerns, while environmental groups welcome this alarm signal, and agrochemical lobbies downplay the risks.",
+      "analyse_zh": "自上世纪90年代以来，农药争议不断引发公众讨论，特别是在除草剂（如百草枯）和农药与癌症关联研究曝光后。2025年的申请创纪录，背景是欧盟加强监管（REACH法规、逐步禁用某些杀虫剂）和社会压力增大。深层原因包括农业集约化、农民缺乏有效防护以及对长期影响的认知不足。短期内，申请激增可能导致赔偿机制饱和，拖延支付，加剧受害者的经济困境。中期内，这可能加速立法改革，如扩大农民权益保护或强制化学企业公开信息。长期来看，向低毒替代品转型势在必行，但实施需依赖公私部门的投资。农民虽然首当其冲，但在经济需求与健康之间仍存在分歧，环保组织欢迎这一警示，而农化行业利益集团则轻描淡写风险。",
       "analyse_ru": "",
       "analyse_fa": "",
       "analyse_ar": "",
-      "categorie": "Environnement",
+      "categorie": "Environnement/Santé publique",
       "source": "Franceinfo.fr",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/pour-les-jo-d-hiver-2030-des-riverains-lancent-un-defi-no-pfas-a-oullins-pierre-benite-3412079.html",
-      "image": "https://france3-regions.franceinfo.fr/image/fP8We0753v9zZeextTVdo_1DpFA/930x620/regions/2026/09/05/6a9c24f51f8e3676624572.jpg",
-      "date": "2026-09-05",
+      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/plus-de-1-000-personnes-ont-demande-a-beneficier-du-fonds-d-indemnisation-des-victimes-de-pesticides-en-2025-un-nombre-record_8179640.html",
+      "image": "https://www.franceinfo.fr/pictures/P6kViVJBDTdimvh3Nxn7oAohccA/0x53:1024x629/1500x843/2026/09/06/6a9d3acf2bec0506785442.jpg",
+      "date": "2026-09-06",
       "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Assurance responsabilité environnementale",
+          "label": "▲ Assurance responsabilité civile professionnelle (RC Pro) agricole",
           "hausse": true
         },
         {
-          "label": "▲ Marché des technologies vertes",
-          "hausse": true
+          "label": "▼ Fonds de solidarité pour les victimes d’agrochimie",
+          "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance responsabilité environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les primes pourraient exploser en cas de litiges liés aux PFAS, forçant les promoteurs immobiliers à intégrer des clauses de dépollution coûteuses dans les contrats.",
-          "effet_en": "Premiums may skyrocket due to PFAS-related lawsuits, forcing real estate developers to include expensive depollution clauses in contracts.",
-          "effet_zh": "PFAS相关诉讼可能导致环境责任保险费用飙升，迫使房地产开发商在合同中增加昂贵的净化条款。",
+          "secteur_fr": "Assurance responsabilité civile professionnelle (RC Pro) agricole",
+          "secteur_en": "Agricultural professional liability insurance (PLI)",
+          "secteur_zh": "农业职业责任保险（PLI）",
+          "effet_fr": "Les demandes massives pourraient entraîner une hausse des primes et des exclusions de couverture pour les assurances liées aux pesticides, rendant l’accès à l’assurance plus coûteux pour les agriculteurs.",
+          "effet_en": "Massive claims may lead to higher premiums and coverage exclusions for pesticide-related insurance, making agricultural insurance more expensive for farmers.",
+          "effet_zh": "大量索赔可能导致农药相关保险费用上涨，甚至拒保，使农民保险成本增加。",
           "hausse": true
         },
         {
-          "secteur_fr": "Marché des technologies vertes",
-          "secteur_en": "Green technology market",
-          "secteur_zh": "绿色技术市场",
-          "effet_fr": "La demande en alternatives sans PFAS pourrait dynamiser les startups spécialisées dans les revêtements biosourcés ou les filtres à charbon actif.",
-          "effet_en": "Demand for PFAS-free alternatives may boost startups focused on bio-based coatings or activated carbon filters.",
-          "effet_zh": "无PFAS替代品的需求可能推动生物基涂料或活性炭过滤器等绿色科技初创公司发展。",
-          "hausse": true
+          "secteur_fr": "Fonds de solidarité pour les victimes d’agrochimie",
+          "secteur_en": "Solidarity fund for agrochemical victims",
+          "secteur_zh": "农药受害者互助基金",
+          "effet_fr": "Ce fonds, déjà sous tension, pourrait voir ses ressources épuisées plus rapidement, retardant les indemnisations et nécessitant des renégociations budgétaires urgentes.",
+          "effet_en": "This already strained fund may deplete its resources faster, delaying compensations and requiring urgent budget renegotiations.",
+          "effet_zh": "该基金资金压力加大，可能提前耗尽，导致赔偿延迟，并需紧急调整预算。",
+          "hausse": false
         }
       ],
-      "created_at": "2026-09-07T08:09:31.631129",
+      "created_at": "2026-09-07T14:50:27.040985",
       "sous_categorie": "environnement"
     },
     {
@@ -6855,6 +6855,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_218596",
+      "titre": "Riverains défient Oullins sur PFAS",
+      "titre_en": "Neighbors challenge PFAS in Oullins",
+      "titre_zh": "邻居挑战乌尔朗PFAS问题",
+      "titre_ru": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
+      "titre_fa": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
+      "titre_ar": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
+      "titre_original": "Pour les JO d'hiver 2030, des riverains lancent un défi \"No PFAS\" à Oullins-Pierre-Bénite",
+      "resume": "Des habitants d’Oullins et Pierre-Bénite, où doit être construit le village olympique pour les JO d’hiver 2030, lancent un appel pour interdire les PFAS, substances toxiques omniprésentes. Leur mobilisation s’inscrit dans une lutte plus large contre la pollution industrielle et les risques sanitaires liés aux Jeux. Cette initiative révèle les tensions croissantes entre développement sportif et protection environnementale en France.",
+      "resume_en": "Residents of Oullins and Pierre-Bénite, where the Olympic village for the 2030 Winter Games is to be built, are calling for a ban on PFAS, toxic substances widely used. Their campaign highlights growing tensions between sports development and environmental protection in France. This mobilization underscores the risks of industrial pollution linked to major events.",
+      "resume_zh": "乌尔朗和皮埃尔-贝尼特的居民发起倡议，要求禁止使用有毒的PFAS化合物，这些化合物在即将建设的2030年冬季奥运会村中广泛存在。他们的行动反映了法国在体育发展与环境保护之间的日益紧张关系。此举暴露了大型赛事背后的工业污染风险和健康隐患。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les PFAS, surnommées ‘polluants éternels’, sont des substances chimiques persistantes depuis leur invention dans les années 1950, utilisées dans les revêtements antiadhésifs et les mousses anti-incendie. Leur présence massive dans les sols lyonnais, notamment autour des zones industrielles, pose un risque sanitaire avéré (cancers, troubles hormonaux), aggravé par les projets olympiques. Les riverains dénoncent un manque de transparence des organisateurs sur les mesures de dépollution, tandis que l’État hésite entre pression économique (emplois liés aux JO) et obligations réglementaires (loi anti-PFAS de 2023). À court terme, cette mobilisation pourrait retarder les travaux ou imposer des coûts supplémentaires, mais à moyen terme, elle pourrait accélérer une prise de conscience nationale sur les alternatives industrielles. Les acteurs locaux (mairies, associations) s’unissent pour exiger des audits indépendants, tandis que les industriels, comme Solvay ou 3M, restent silencieux sur leurs engagements futurs. Sans solution globale, le risque est une contamination durable des sols, compromettant la crédibilité écologique des JO 2030.",
+      "analyse_en": "PFAS, dubbed ‘forever chemicals’, are persistent substances since their invention in the 1950s, used in non-stick coatings and firefighting foams. Their widespread presence in Lyon’s soils, especially near industrial zones, poses a proven health risk (cancers, hormonal disorders), exacerbated by Olympic plans. Residents accuse organizers of a lack of transparency on depollution measures, while the state balances economic pressure (JO-related jobs) with regulatory obligations (2023 PFAS law). Short-term, this mobilization may delay construction or add costs, but medium-term, it could speed up national awareness of industrial alternatives. Local actors (municipalities, NGOs) unite to demand independent audits, while companies like Solvay or 3M remain silent on future commitments. Without a systemic solution, the risk is lasting soil contamination, undermining the ecological credibility of the 2030 Winter Games.",
+      "analyse_zh": "PFAS化合物，又称‘永久性污染物’，自上世纪50年代发明以来广泛用于防粘涂层和灭火泡沫，其持久性导致在法国里昂工业区土壤中大量存在。这些化合物已被证明对健康造成严重威胁（癌症、内分泌紊乱），而奥运会村的建设进一步加剧了污染风险。居民指责组织者在土壤净化措施上的透明度不足，而政府则在经济压力（奥运会带来的就业）与法规执行（2023年PFAS禁令）之间犹豫不决。短期内，此举可能推迟工程进度或增加成本，但中期内可能加速法国对工业替代品的认知转变。当地政府和环保组织联合要求独立审计，但像索尔维或3M等企业对未来承诺保持沉默。若无全面解决方案，PFAS污染将长期存在，严重损害2030年冬季奥运会的环保形象。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Franceinfo.fr",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/pour-les-jo-d-hiver-2030-des-riverains-lancent-un-defi-no-pfas-a-oullins-pierre-benite-3412079.html",
+      "image": "https://france3-regions.franceinfo.fr/image/fP8We0753v9zZeextTVdo_1DpFA/930x620/regions/2026/09/05/6a9c24f51f8e3676624572.jpg",
+      "date": "2026-09-05",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité environnementale",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des technologies vertes",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les primes pourraient exploser en cas de litiges liés aux PFAS, forçant les promoteurs immobiliers à intégrer des clauses de dépollution coûteuses dans les contrats.",
+          "effet_en": "Premiums may skyrocket due to PFAS-related lawsuits, forcing real estate developers to include expensive depollution clauses in contracts.",
+          "effet_zh": "PFAS相关诉讼可能导致环境责任保险费用飙升，迫使房地产开发商在合同中增加昂贵的净化条款。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des technologies vertes",
+          "secteur_en": "Green technology market",
+          "secteur_zh": "绿色技术市场",
+          "effet_fr": "La demande en alternatives sans PFAS pourrait dynamiser les startups spécialisées dans les revêtements biosourcés ou les filtres à charbon actif.",
+          "effet_en": "Demand for PFAS-free alternatives may boost startups focused on bio-based coatings or activated carbon filters.",
+          "effet_zh": "无PFAS替代品的需求可能推动生物基涂料或活性炭过滤器等绿色科技初创公司发展。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-07T08:09:31.631129",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_958841",
       "titre": "Cosori lance airfryer Iconic Dual sans PFAS",
       "titre_en": "Cosori unveils PFAS-free Iconic Dual air fryer",
@@ -7092,66 +7152,6 @@
         }
       ],
       "created_at": "2026-09-04T16:46:05.700371",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_578317",
-      "titre": "Acétamipride : candidats divisés sur pesticide controversé",
-      "titre_en": "Acetamipride: Candidates divided over controversial pesticide",
-      "titre_zh": "乙酰甲胺磷：候选人对争议农药意见分歧",
-      "titre_ru": "Autoriser ou interdire l'acétamipride ? On a demandé aux principaux candidats à la présidentielle leur avis sur son utilisation",
-      "titre_fa": "Autoriser ou interdire l'acétamipride ? On a demandé aux principaux candidats à la présidentielle leur avis sur son utilisation",
-      "titre_ar": "Autoriser ou interdire l'acétamipride ? On a demandé aux principaux candidats à la présidentielle leur avis sur son utilisation",
-      "titre_original": "Autoriser ou interdire l'acétamipride ? On a demandé aux principaux candidats à la présidentielle leur avis sur son utilisation",
-      "resume": "Franceinfo et *Complément d’enquête* ont sondé les positions des principaux candidats à la présidentielle sur l’acétamipride, pesticide réintroduit en urgence par le Parlement malgré ses risques sanitaires et environnementaux. Ce débat reflète les tensions entre agriculture intensive et protection des écosystèmes, ainsi que les divisions politiques sur la régulation chimique. Les réponses des candidats révèlent des clivages entre écologistes, libéraux et modérés sur la souveraineté alimentaire et les normes européennes.",
-      "resume_en": "Franceinfo and *Complément d’enquête* surveyed the positions of major presidential candidates regarding acetamipride, a pesticide reintroduced under emergency measures by Parliament despite health and environmental risks. The debate highlights tensions between intensive agriculture and ecosystem protection, as well as political divisions over chemical regulation. Candidates’ responses expose rifts between environmentalists, liberals, and moderates on food sovereignty and EU standards.",
-      "resume_zh": "法新社和《调查报告》调查了总统候选人对乙酰甲胺磷这一化学农药的态度，该农药在议会紧急通过后重新引入，尽管存在健康和环境风险。此争议反映了集约农业与生态保护之间的紧张关系，以及政党在化学法规和欧盟标准上的分歧。候选人的回应暴露出生态主义者、自由派和温和派在粮食主权问题上的立场差异。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "L’acétamipride, interdit en 2015 pour ses effets neurotoxiques sur les abeilles et les humains, a été réautorisé en 2023 via une dérogation parlementaire sous pression des lobbies agricoles, illustrant la fragilité des normes environnementales face aux intérêts économiques. Ce pesticide, utilisé massivement en viticulture, cristallise les enjeux de la transition agroécologique et de la dépendance aux produits chimiques dans un contexte de crise climatique. Les causes profondes incluent le manque de alternatives économiques pour les agriculteurs et la lenteur des institutions à réformer les autorisations, malgré les alertes scientifiques répétées. À court terme, sa réintroduction pourrait aggraver les problèmes de santé publique et de biodiversité, notamment via des effets cumulatifs avec d’autres néonicotinoïdes. À moyen terme, cela pourrait renforcer les mouvements anti-OGM et pro-agroécologie, tout en affaiblissant la crédibilité de l’UE sur ses engagements verts. Long terme, une régulation plus stricte semble inévitable, mais dépendra des élections et de la capacité des candidats à concilier productivité et durabilité. Les écologistes (comme Mélenchon ou Jadot) prônent un interdiction totale, tandis que les candidats centristes (Macron, Pécresse) défendent un encadrement strict mais pragmatique, reflétant une fracture générationnelle et idéologique.",
-      "analyse_en": "Acetamipride, banned in 2015 for its neurotoxic effects on bees and humans, was reauthorized in 2023 via a parliamentary emergency measure under pressure from agricultural lobbies, exposing the fragility of environmental regulations against economic interests. This pesticide, heavily used in viticulture, embodies the stakes of agroecological transition and dependency on chemicals amid a climate crisis. Root causes include the lack of economically viable alternatives for farmers and institutional sluggishness in reforming approvals despite repeated scientific warnings. Short-term, its reintroduction may worsen public health and biodiversity issues, particularly through cumulative effects with other neonicotinoids. Medium-term, this could strengthen anti-GMO and pro-agroecology movements while undermining the EU’s credibility on green commitments. Long-term, stricter regulation seems inevitable but hinges on elections and candidates’ ability to balance productivity with sustainability. Ecologists (like Mélenchon or Jadot) advocate for a total ban, while centrist candidates (Macron, Pécresse) support strict but pragmatic oversight, reflecting generational and ideological divides.",
-      "analyse_zh": "乙酰甲胺磷于2015年因对蜜蜂和人类神经毒性被禁用，但2023年议会在农业利益集团压力下紧急批准重新使用，暴露出环保法规在经济利益面前的脆弱性。该农药广泛应用于葡萄种植，集中反映了生态农业转型和化学依赖的矛盾，以及气候危机背景下的农业政策挑战。深层原因包括农民缺乏经济可行的替代品，以及行政机构对科学警告反应迟缓。短期内，重新使用可能加剧公共健康和生物多样性问题，特别是与其他杀虫剂的累积效应。中期内，这可能加强反转基因和生态农业运动，同时削弱欧盟在绿色承诺上的信誉。长期来看，更严格的监管势在必行，但取决于选举结果和候选人平衡产量与可持续性的能力。生态主义者（如梅朗雄或雅德）主张全面禁用，而中间派候选人（马克龙、佩克雷斯）则倡导严格但务实的管控，反映了代际和意识形态的分歧。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
-      "image": "https://www.franceinfo.fr/pictures/6f26GUTkDVkFKH25_ySk3L0-C6Q/0x43:3796x2179/1500x843/2026/09/01/6a96d344e3aa0210315825.jpg",
-      "date": "2026-09-03",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance agricole et réassurance",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des intrants agricoles (pesticides, engrais)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance agricole et réassurance",
-          "secteur_en": "Agricultural insurance and reinsurance",
-          "secteur_zh": "农业保险和再保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’exposition accrue aux risques sanitaires et réglementaires liés à l’acétamipride, poussant les assureurs à réévaluer leurs modèles de couverture.",
-          "effet_en": "Premiums may rise due to increased exposure to health and regulatory risks tied to acetamipride, forcing insurers to reassess their coverage models.",
-          "effet_zh": "由于乙酰甲胺磷带来的健康和法规风险增加，保险费可能上涨，迫使保险公司重新评估其保障模式。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des intrants agricoles (pesticides, engrais)",
-          "secteur_en": "Agricultural inputs market (pesticides, fertilizers)",
-          "secteur_zh": "农业投入品市场（农药、化肥）",
-          "effet_fr": "La demande pour des alternatives biologiques ou moins toxiques pourrait se développer, mais à court terme, la réautorisation pourrait stabiliser les prix des pesticides conventionnels, malgré les critiques environnementales.",
-          "effet_en": "Demand for organic or less toxic alternatives may grow, but short-term, the reauthorization could stabilize conventional pesticide prices despite environmental backlash.",
-          "effet_zh": "对生物或低毒替代品的需求可能增长，但短期内，重新批准可能稳定传统农药的价格，尽管面临环保反对。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-04T07:56:25.152963",
       "sous_categorie": "environnement"
     }
   ]
