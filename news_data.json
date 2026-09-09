@@ -1,7 +1,66 @@
 {
-  "last_updated": "09/09/2026 à 03h11",
+  "last_updated": "09/09/2026 à 08h40",
   "articles": {
     "monde": [
+      {
+        "id": "monde_193008",
+        "titre": "Allemagne : montée des extrêmes droits",
+        "titre_en": "Germany’s far-right surge alarms Europe",
+        "titre_zh": "德国右翼势力上升引发欧洲警惕",
+        "titre_ru": "German vote shows rise of far-right in Europe, but it hasn’t been a steady march",
+        "titre_fa": "German vote shows rise of far-right in Europe, but it hasn’t been a steady march",
+        "titre_ar": "German vote shows rise of far-right in Europe, but it hasn’t been a steady march",
+        "titre_original": "German vote shows rise of far-right in Europe, but it hasn’t been a steady march",
+        "resume": "La victoire d’un parti d’extrême droite dans une élection régionale allemande a suscité l’inquiétude en Europe. Bien que ce ne soit pas une progression linéaire, cette avancée marque une normalisation inquiétante des idées populistes. Les analystes craignent une contagion dans d’autres pays européens.",
+        "resume_en": "A far-right party’s victory in a German regional election has alarmed Europe. Though not a steady march, this advance signals an unsettling normalization of populist ideas. Analysts fear contagion across other European nations.",
+        "resume_zh": "德国一党在州选中获胜，引发欧洲警惕。尽管不是稳步增长，但这一进展标志着民粹主义思想的不安定正常化。分析师担心这种趋势会蔓延到其他欧洲国家。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L’Allemagne, berceau des idéologies extrêmes au XXe siècle, voit aujourd’hui resurgir des discours xénophobes et nationalistes, portés par des crises migratoires et économiques. Les causes profondes incluent le sentiment d’abandon des classes populaires et une défiance croissante envers les élites politiques. À court terme, cette montée pourrait fragiliser la coalition gouvernementale et accélérer les tensions sociales. À moyen terme, elle pourrait influencer les élections européennes de 2024 et affaiblir l’unité de l’UE face aux défis migratoires. Long terme, une radicalisation durable pourrait redessiner le paysage politique européen, avec un risque de fragmentation des valeurs démocratiques. L’UE et les pays voisins surveillent cette évolution, craignant un effet domino. Les partis traditionnels, comme la CDU ou les sociaux-démocrates, doivent réinventer leur discours pour contrer cette vague.",
+        "analyse_en": "Germany, the cradle of extreme ideologies in the 20th century, now sees a resurgence of xenophobic and nationalist discourse fueled by migration and economic crises. Root causes include a sense of abandonment among the working class and growing distrust of political elites. Short-term, this rise may weaken the governing coalition and accelerate social tensions. Medium-term, it could influence the 2024 European elections and weaken EU unity on migration challenges. Long-term, sustained radicalization may redraw the European political landscape, risking fragmentation of democratic values. The EU and neighboring countries monitor this trend, fearing a domino effect. Traditional parties like the CDU or social democrats must reinvent their messaging to counter this wave.",
+        "analyse_zh": "德国作为20世纪极端意识形态的发源地，如今再次出现排外和民族主义言论，这些言论由移民和经济危机推动。深层原因包括工人阶级的被遗弃感和对政治精英日益增长的不信任。短期内，这一上升可能削弱现有政府联盟并加剧社会紧张局势。中期内，它可能影响2024年欧洲议会选举，并削弱欧盟应对移民挑战的团结。长期来看，持续的激进化可能重塑欧洲政治格局，并带来民主价值观分裂的风险。欧盟和邻国密切关注这一趋势，担心效应蔓延。传统政党如基民盟或社会民主党必须重新塑造其议程，以应对这一浪潮。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/german-vote-shows-rise-europe-hasnt-steady-march-136266267",
+        "image": "https://i.abcnewsfe.com/a/05fb5790-e3a7-4717-abc0-b4b9268073b5/wirestory_53f5134e828e6666f2f12486b1c280c1_16x9.jpg?w=1600",
+        "date": "2026-09-08",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché financier des partis politiques",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur des médias et désinformation",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché financier des partis politiques",
+            "secteur_en": "Political party financial markets",
+            "secteur_zh": "政党金融市场",
+            "effet_fr": "La montée des extrêmes droits pourrait attirer des financements privés et des dons étrangers, perturbant l’équilibre des campagnes électorales.",
+            "effet_en": "The rise of far-right parties may attract private funding and foreign donations, disrupting the balance of election campaigns.",
+            "effet_zh": "右翼势力上升可能吸引私人资金和外国捐款，扰乱选举竞选的平衡。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur des médias et désinformation",
+            "secteur_en": "Media and disinformation sector",
+            "secteur_zh": "媒体和虚假信息领域",
+            "effet_fr": "Les discours extrêmes amplifient les réseaux de désinformation, affaiblissant la crédibilité des médias traditionnels et favorisant les bulles informationnelles.",
+            "effet_en": "Extreme rhetoric amplifies disinformation networks, weakening the credibility of traditional media and promoting information bubbles.",
+            "effet_zh": "极端言论放大了虚假信息网络，削弱了传统媒体的可信度，并促进信息泡沫。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-09T08:39:34.779077"
+      },
       {
         "id": "monde_883217",
         "titre": "Évaluations des joueuses US à la Coupe du Monde féminine",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-03T14:53:25.291864"
-      },
-      {
-        "id": "monde_567411",
-        "titre": "Un champignon transforme les fourmis en zombies",
-        "titre_en": "Fungus turns ants into real-life zombies",
-        "titre_zh": "真菌将蚂蚁变成“僵尸”",
-        "titre_ru": "Учёные нашли грибок, превращающий муравьёв в «зомби»",
-        "titre_fa": "دانشمندان قارچی یافتند که مورچه‌ها را به «مرده متحرک» تبدیل می‌کند",
-        "titre_ar": "العلماء يكتشفون فطراً يحول النمل إلى «زومبي»",
-        "titre_original": "Scientists found a fungus that turns ants into ‘zombies’, forcing them to bite leaves and die so the parasite can spread",
-        "resume": "Des scientifiques ont découvert un champignon capable de manipuler le comportement des fourmis pour se reproduire. L'infection pousse les fourmis à mordre des feuilles avant de mourir. Ce phénomène illustre l'évolution des parasites pour contrôler leurs hôtes.",
-        "resume_en": "Scientists discovered a fungus that manipulates ant behavior to reproduce. The infection forces ants to bite leaves before dying. This phenomenon highlights parasite evolution to control hosts.",
-        "resume_zh": "科学家发现了一种能操纵蚂蚁行为以繁殖的真菌。感染迫使蚂蚁咬叶子后死亡。这一现象展示了寄生虫进化以控制宿主的能力。",
-        "resume_ru": "Учёные обнаружили грибок, который заражает муравьёв и превращает их в «зомби». Паразит контролирует поведение насекомых, заставляя их кусать листья перед смертью. Это помогает грибу распространять споры на земле, где они могут прорасти.",
-        "resume_fa": "دانشمندان موفق به کشف قارچی شدند که با آلوده کردن مورچه‌ها، آن‌ها را به «مرده متحرک» تبدیل می‌کند. این انگل رفتار حشرات را کنترل کرده و آن‌ها را مجبور می‌کند قبل از مرگ، برگ‌ها را گاز بگیرند. این فرایند به قارچ کمک می‌کند تا هاگ‌های خود را در زمین پراکنده کند.",
-        "resume_ar": "اكتشف العلماء فطراً يصيب النمل ويحولها إلى «زومبي». يتحكم الطفيلي بسلوك الحشرات، مما يجبرها على عض الأوراق قبل موتها. ويساعد هذا الفطر على نشر أبواغه في التربة، حيث يمكنها الإنبات.",
-        "analyse_detaillee": "Ce phénomène, observé dans les forêts tropicales, illustre l'adaptation extrême des parasites pour assurer leur survie. Les champignons comme Ophiocordyceps, étudiés depuis le XIXe siècle, montrent une coévolution complexe avec leurs hôtes. À court terme, cette découverte pourrait inspirer des recherches en biologie synthétique ou en lutte biologique contre les ravageurs. À moyen terme, elle soulève des questions éthiques sur l'utilisation de tels mécanismes en agriculture ou en médecine. À long terme, elle pourrait révéler de nouveaux modèles de transmission de maladies chez l'homme. Les enjeux incluent la compréhension des réseaux trophiques et la préservation des écosystèmes. Les acteurs comme les écologistes et les biologistes moléculaires collaborent pour étudier ces interactions. Cette recherche met en lumière l'importance de la biodiversité pour l'équilibre naturel.",
-        "analyse_en": "This phenomenon, observed in tropical forests, illustrates extreme parasite adaptation for survival. Fungi like Ophiocordyceps, studied since the 19th century, show complex co-evolution with hosts. In the short term, this discovery could inspire synthetic biology or biological pest control research. Medium-term, it raises ethical questions about using such mechanisms in agriculture or medicine. Long-term, it could reveal new disease transmission models in humans. Stakes include understanding trophic networks and ecosystem preservation. Actors like ecologists and molecular biologists collaborate to study these interactions. This research highlights biodiversity's importance for natural balance.",
-        "analyse_zh": "这种在热带雨林中观察到的现象展示了寄生虫为生存而进行的极端适应。自19世纪以来研究的真菌如虫草属，显示了与宿主的复杂共同进化。短期内，这一发现可能激发合成生物学或生物防治害虫的研究。中期来看，它引发了在农业或医学中使用此类机制的伦理问题。长期来看，它可能揭示人类疾病传播的新模式。重点包括理解食物网和生态系统保护。生态学家和分子生物学家等行为体合作研究这些相互作用。这项研究凸显了生物多样性对自然平衡的重要性。",
-        "analyse_ru": "Открытие такого гриба расширяет понимание паразитарных стратегий в природе и их эволюции. Причины возникновения таких механизмов связаны с необходимостью выживания паразита за счёт хозяина. Последствия для экосистемы могут быть значительными, так как гриб способен сокращать численность муравьёв, влияя на пищевые цепочки. Перспективы исследований включают изучение возможностей применения таких грибов в биологической борьбе с вредителями. Позиции учёных разделяются: одни видят в этом угрозу биоразнообразию, другие — уникальный пример адаптации.",
-        "analyse_fa": "این کشف درک ما از استراتژی‌های انگلی در طبیعت و تکامل آن‌ها را گسترش می‌دهد. دلایل پیدایش چنین مکانیسم‌هایی به نیاز به بقای انگل از طریق میزبان بازمی‌گردد. پیامدهای این پدیده برای اکوسیستم می‌تواند قابل توجه باشد، زیرا قارچ قادر است جمعیت مورچه‌ها را کاهش داده و بر زنجیره‌های غذایی تأثیر بگذارد. چشم‌انداز تحقیقات شامل بررسی امکان استفاده از چنین قارچ‌هایی در مبارزه بیولوژیک با آفات است. مواضع دانشمندان متفاوت است: برخی این پدیده را تهدیدی برای تنوع زیستی می‌دانند، در حالی که دیگران آن را نمونه‌ای منحصر به فرد از سازگاری می‌شناسند.",
-        "analyse_ar": "يوسع هذا الاكتشاف فهمنا للاستراتيجيات الطفيلية في الطبيعة وتطورها. ترتبط أسباب ظهور مثل هذه الآليات بضرورة بقاء الطفيلي من خلال المضيف. قد تكون للعواقب البيئية لهذا الفطر أهمية كبيرة، إذ يمكنه تقليل أعداد النمل مما يؤثر على السلاسل الغذائية. перспектива الأبحاث تشمل دراسة إمكانية استخدام مثل هذه الفطريات في المكافحة البيولوجية للآفات. تختلف مواقف العلماء: يرى البعض أن هذا يشكل تهديداً للتنوع البيولوجي، بينما يعتبره آخرون مثالاً فريداً للتكيف.",
-        "categorie": "Science",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/science/scientists-found-a-fungus-that-turns-ants-into-zombies-forcing-them-to-bite-leaves-and-die-so-the-parasite-can-spread/articleshow/133706888.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133707103,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-02",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Biotechnologies",
-            "hausse": true
-          },
-          {
-            "label": "▼ Agriculture",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Biotechnologies",
-            "secteur_en": "Biotechnology",
-            "secteur_zh": "生物技术",
-            "effet_fr": "Les avancées en biologie synthétique pourraient accélérer le développement de nouveaux traitements ou de pesticides écologiques inspirés de ces mécanismes naturels.",
-            "effet_en": "Advances in synthetic biology could accelerate the development of new treatments or ecological pesticides inspired by these natural mechanisms.",
-            "effet_zh": "合成生物学的进步可能加速基于这些自然机制的新型治疗或生态农药的开发。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Agriculture",
-            "secteur_en": "Agriculture",
-            "secteur_zh": "农业",
-            "effet_fr": "Les recherches pourraient mener à des méthodes de lutte biologique contre les ravageurs, réduisant l'usage de pesticides chimiques.",
-            "effet_en": "Research could lead to biological pest control methods, reducing chemical pesticide use.",
-            "effet_zh": "研究可能带来生物防治害虫的方法，减少化学农药的使用。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-03T10:42:51.934487"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_544238",
+        "titre": "Trump propose subventions massives aux parents",
+        "titre_en": "Trump drafts huge childcare subsidies",
+        "titre_zh": "特朗普拟推巨额育儿补贴",
+        "titre_ru": "World's richest country plans to pay parents Rs 8.5 lakh to stay at home",
+        "titre_fa": "World's richest country plans to pay parents Rs 8.5 lakh to stay at home",
+        "titre_ar": "World's richest country plans to pay parents Rs 8.5 lakh to stay at home",
+        "titre_original": "World's richest country plans to pay parents Rs 8.5 lakh to stay at home",
+        "resume": "L’administration Trump étudie un projet permettant aux couples avec un parent au foyer de toucher près de 8,5 lakh de roupies par an via un fonds fédéral existant. Cette mesure vise à encourager le retour à des modèles familiaux traditionnels. Les détails restent flous, mais le montant équivaut à une aide financière significative pour les ménages.",
+        "resume_en": "The Trump administration is reportedly drafting a plan allowing married couples with a stay-at-home parent to claim nearly ₹8.5 lakh annually from an existing federal childcare fund. The move aims to promote traditional family models. Details are vague, but the amount represents substantial financial aid for households.",
+        "resume_zh": "特朗普政府正在起草一项计划，允许有家庭主妇的夫妇每年从现有的联邦育儿基金中获得近85万卢比的补贴。这一举措旨在推动传统家庭模式。细节模糊，但这笔金额对家庭来说是巨大的财政支持。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette proposition s’inscrit dans une tendance conservatrice américaine visant à redéfinir les rôles genrés et à réduire la dépendance à l’État-providence. Elle reflète aussi une opposition croissante aux politiques progressistes en matière de garde d’enfants et de conciliation vie professionnelle/vie familiale. Les causes profondes incluent une crise démographique et une polarisation politique accrue, où les républicains cherchent à contrer les politiques démocrates perçues comme trop interventionnistes. À court terme, cette mesure pourrait diviser l’opinion publique et renforcer les clivages idéologiques. À moyen terme, elle pourrait influencer les élections de 2024 en mobilisant l’électorat conservateur. Long terme, elle pourrait transformer les dynamiques familiales et économiques aux États-Unis, avec un impact sur l’emploi féminin et la croissance économique. Les démocrates y verront une régression sociale, tandis que les républicains y voient un retour à des valeurs traditionnelles.",
+        "analyse_en": "This proposal aligns with a conservative American trend aimed at redefining gender roles and reducing reliance on welfare-state policies. It also reflects growing opposition to progressive childcare and work-life balance policies. Root causes include demographic decline and heightened political polarization, with Republicans seeking to counter what they perceive as overly interventionist Democratic policies. Short-term, this measure may further divide public opinion and deepen ideological rifts. Medium-term, it could influence the 2024 elections by mobilizing conservative voters. Long-term, it may reshape U.S. family and economic dynamics, impacting female employment and economic growth. Democrats will see it as a social regression, while Republicans view it as a return to traditional values.",
+        "analyse_zh": "这一提议符合美国保守派重新定义性别角色并减少对福利国家依赖的趋势。它也反映了对进步派育儿和工作生活平衡政策日益增长的反对。深层原因包括人口衰退和政治极化加剧，共和党试图抵制他们认为过于干预的民主党政策。短期内，这一措施可能进一步分裂公众意见并加剧意识形态分歧。中期内，它可能影响2024年的选举，通过动员保守派选民。长期来看，它可能重塑美国的家庭和经济动态，影响女性就业和经济增长。民主党会认为这是社会倒退，而共和党则认为这是回归传统价值观。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie sociale",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/worlds-richest-country-plans-to-pay-parents-rs-8-5-lakh-to-stay-at-home/articleshow/133915114.cms",
+        "image": "https://img.etimg.com/thumb/msid-133915459,width-1200,height-630,imgsize-117028,overlay-economictimes/articleshow.jpg",
+        "date": "2026-09-08",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Fonds fédéraux de protection sociale",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché du travail (emploi féminin)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Fonds fédéraux de protection sociale",
+            "secteur_en": "Federal social protection funds",
+            "secteur_zh": "联邦社会保护基金",
+            "effet_fr": "Cette mesure pourrait vider partiellement les fonds existants, augmentant les pressions budgétaires sur l’État fédéral.",
+            "effet_en": "This measure may partially deplete existing funds, increasing federal budgetary pressures.",
+            "effet_zh": "这一措施可能部分耗尽现有基金，增加联邦预算压力。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché du travail (emploi féminin)",
+            "secteur_en": "Labor market (female employment)",
+            "secteur_zh": "劳动力市场（女性就业）",
+            "effet_fr": "Encourager le modèle traditionnel pourrait réduire l’emploi féminin et limiter la participation des femmes à la main-d’œuvre.",
+            "effet_en": "Promoting traditional models may reduce female employment and limit women’s workforce participation.",
+            "effet_zh": "推动传统模式可能减少女性就业并限制她们参与劳动力市场。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-09T08:39:34.779066"
+      },
       {
         "id": "usa_739690",
         "titre": "Iran recalibre sa posture face aux bases américaines",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-09-03T14:53:25.291837"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_550101",
-        "titre": "Trump évite une guerre avec l'Iran avant les midterms",
-        "titre_en": "Trump aides delay Iran war to protect midterms",
-        "titre_zh": "特朗普助手推迟伊朗战争以保护中期选举",
-        "titre_ru": "Ноябрь — приоритет: помощники Трампа сдерживают войну с Ираном до выборов",
-        "titre_fa": "«نوامبر اولویت است»: دستیاران ترامپ تلاش می‌کنند جنگ با ایران را تا انتخابات میان‌دوره‌ای کنترل کنند",
-        "titre_ar": "«نوفمبر أولوية»: مساعدي ترامب يسعون لاحتواء حرب إيران حتى الانتخابات النصفية",
-        "titre_original": "'November is a priority’: Donald Trump aides push to contain Iran war until midterm elections",
-        "resume": "Les conseillers de Donald Trump cherchent à éviter une escalade militaire avec l'Iran avant les élections de mi-mandat de novembre. L'administration mise sur une pression économique pour obtenir des concessions de Téhéran. Des échanges de frappes récentes ont accru les tensions sans déclencher de conflit ouvert.",
-        "resume_en": "Donald Trump's advisors are pushing to prevent military escalation with Iran before the November midterm elections. The administration relies on economic pressure to secure concessions from Tehran. Recent exchanges of strikes have heightened tensions without triggering an open conflict.",
-        "resume_zh": "特朗普的顾问正在推动在11月中期选举前避免与伊朗发生军事升级。政府依赖经济压力来迫使德黑兰让步。最近的交火加剧了紧张局势，但尚未引发公开冲突。",
-        "resume_ru": "Помощники Дональда Трампа стремятся предотвратить эскалацию конфликта с Ираном до ноябрьских промежуточных выборов в США. Администрация продолжает оказывать экономическое давление на Тегеран, чтобы добиться уступок. Недавние обмены ударами между сторонами не привели к полномасштабной войне, но напряжённость сохраняется.",
-        "resume_fa": "دستیاران دونالد ترامپ تلاش می‌کنند تا پیش از انتخابات میان‌دوره‌ای نوامبر از تشدید جنگ با ایران جلوگیری کنند. دولت آمریکا همچنان با اعمال فشار اقتصادی بر تهران به دنبال کسب امتیازاتی است. تبادل حملات اخیر میان دو طرف به جنگ گسترده‌ای منجر نشده، اما تنش‌ها ادامه دارد.",
-        "resume_ar": "يسعى مساعدي دونالد ترامب منع تصعيد الصراع مع إيران قبل الانتخابات النصفية الأمريكية في نوفمبر. وتسعى الإدارة الأمريكية إلى ممارسة ضغوط اقتصادية على طهران للحصول على تنازلات. وتبادل الضربات الأخير بين الطرفين لم يؤد إلى حرب شاملة، لكن التوترات مستمرة.",
-        "analyse_detaillee": "Les tensions entre les États-Unis et l'Iran remontent à la révolution islamique de 1979 et à la crise des otages. La stratégie actuelle de Trump s'inscrit dans une logique de containment pour éviter un conflit coûteux avant les élections. Les sanctions économiques, déjà en place depuis 2018, visent à affaiblir le régime iranien sans recourir à la force. Une guerre ouverte aurait des répercussions sur les marchés pétroliers et les chaînes d'approvisionnement mondiales. À moyen terme, l'Iran pourrait renforcer ses alliances avec la Russie et la Chine pour contourner les sanctions. À long terme, une escalade incontrôlée pourrait déstabiliser le Moyen-Orient et menacer les intérêts américains. Les acteurs comme l'UE et la Russie tentent de jouer un rôle de médiateur pour éviter une confrontation directe.",
-        "analyse_en": "US-Iran tensions date back to the 1979 Islamic Revolution and the hostage crisis. Trump's current strategy follows a containment logic to avoid a costly conflict before the elections. Economic sanctions, already in place since 2018, aim to weaken the Iranian regime without resorting to force. An open war would impact global oil markets and supply chains. In the medium term, Iran could strengthen ties with Russia and China to bypass sanctions. Long-term, an uncontrolled escalation could destabilize the Middle East and threaten US interests. Actors like the EU and Russia are trying to mediate to prevent direct confrontation.",
-        "analyse_zh": "美伊紧张局势可追溯至1979年伊斯兰革命和人质危机。特朗普的当前策略遵循遏制逻辑，以避免在选举前发生代价高昂的冲突。自2018年以来实施的经济制裁旨在削弱伊朗政权而无需诉诸武力。一场公开战争将影响全球石油市场和供应链。中期来看，伊朗可能加强与俄罗斯和中国的联盟以规避制裁。长期来看，失控的升级可能破坏中东稳定并威胁美国利益。欧盟和俄罗斯等行为体正试图斡旋以防止直接对抗。",
-        "analyse_ru": "Контекст ситуации связан с приближающимися промежуточными выборами в США, где администрация Трампа стремится избежать крупного военного конфликта, способного повлиять на рейтинг республиканцев. Причины сдерживания войны коренятся в политических рисках: война с Ираном может отвлечь внимание избирателей от внутренних проблем и усилить критику в адрес президента. Последствия эскалации могли бы включать рост цен на нефть, дестабилизацию региона и усиление позиций Ирана в регионе. Перспективы зависят от того, удастся ли США сохранить экономическое давление без перехода к военным действиям. Позиции сторон остаются антагонистическими: США требуют изменения политики Ирана, а Тегеран настаивает на снятии санкций.",
-        "analyse_fa": "زمینه این وضعیت به انتخابات میان‌دوره‌ای آمریکا در نوامبر بازمی‌گردد، جایی که دولت ترامپ تلاش دارد از وقوع جنگ گسترده‌ای جلوگیری کند که می‌تواند بر محبوبیت جمهوری‌خواهان تأثیر بگذارد. دلایل کنترل جنگ ریشه در ریسک‌های سیاسی دارد: جنگ با ایران ممکن است توجه افکار عمومی را از مشکلات داخلی منحرف کند و انتقادها از ترامپ را تشدید کند. پیامدهای احتمالی تشدید درگیری می‌تواند شامل افزایش قیمت نفت، بی‌ثباتی منطقه‌ای و تقویت موقعیت ایران در خاورمیانه باشد. چشم‌انداز آینده به این بستگی دارد که آیا آمریکا بتواند فشار اقتصادی را بدون ورود به جنگ حفظ کند. مواضع طرفین همچنان متضاد است: آمریکا خواستار تغییر سیاست‌های ایران است، در حالی که تهران بر لغو تحریم‌ها پافشاری می‌کند.",
-        "analyse_ar": "يرتبط السياق الحالي بالانتخابات النصفية الأمريكية في نوفمبر، حيث تسعى إدارة ترامب تجنب حرب واسعة قد تؤثر على حظوظ الجمهوريين. أسباب كبح الصراع تكمن في المخاطر السياسية: حرب مع إيران قد تشتت انتباه الناخبين عن القضايا الداخلية وتعزز النقد ضد الرئيس. من شأن التصعيد أن يؤدي إلى ارتفاع أسعار النفط، وزيادة عدم الاستقرار الإقليمي، وتعزيز موقف إيران في المنطقة. перспектива المستقبل تعتمد على ما إذا كانت الولايات المتحدة ستتمكن من الحفاظ على الضغوط الاقتصادية دون اللجوء إلى العمل العسكري. مواقف الأطراف لا تزال متعارضة: تطالب الولايات المتحدة إيران بتغيير سياساتها، بينما يصر طهران على رفع العقوبات.",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/november-is-a-priority-donald-trump-aides-push-to-contain-iran-war-until-midterm-elections/articleshow/133706799.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133707203,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-02",
-        "pays": "usa",
+        "id": "chine_136633",
+        "titre": "Iran augmente prix de l’essence malgré crise",
+        "titre_en": "Iran raises fuel prices amid economic crisis",
+        "titre_zh": "伊朗经济危机中提高汽油价格",
+        "titre_ru": "PTE Request for WooCommerce and more",
+        "titre_fa": "PTE Request for WooCommerce and more",
+        "titre_ar": "PTE Request for WooCommerce and more",
+        "titre_original": "PTE Request for WooCommerce and more",
+        "resume": "L’Iran a encore augmenté les prix de l’essence pour les motoristes, dans un contexte de revenus en baisse et de régime de subventions coûteux. Le gouvernement incite les citoyens à réduire leur consommation. Les premières tranches de carburant restent subventionnées, mais les hausses successives pèsent sur le pouvoir d’achat.",
+        "resume_en": "Iran has raised fuel prices again for motorists as the government struggles with declining revenues and an expensive subsidy regime. Authorities urge citizens to cut back on consumption. Initial fuel tiers remain subsidized, but successive hikes strain purchasing power.",
+        "resume_zh": "伊朗再次提高汽油价格，政府在收入下降和昂贵补贴体系下苦苦支撑。当局敦促公民减少消费。初始燃油等级仍然有补贴，但连续加价压缩了购买力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L’Iran, dépendant à 90% des exportations pétrolières, subit une crise économique aggravée par les sanctions américaines et la chute des prix du brut. Les hausses de prix visent à réduire la pression sur les finances publiques, mais risquent de déclencher des tensions sociales. À court terme, les protestations pourraient s’intensifier, surtout dans les zones rurales où le pouvoir d’achat est déjà faible. À moyen terme, ces mesures pourraient accélérer l’inflation et affaiblir davantage la monnaie nationale, le rial. Long terme, l’Iran pourrait être poussé vers une réforme structurelle de son économie, mais toute libéralisation du secteur pétrolier reste politiquement risquée. Les États-Unis et l’UE surveillent ces évolutions, cherchant à exploiter les faiblesses iraniennes pour renforcer les pressions diplomatiques. Le régime iranien, divisé entre réformistes et conservateurs, doit trouver un équilibre entre stabilité interne et survie économique.",
+        "analyse_en": "Iran, which relies 90% on oil exports, faces an economic crisis exacerbated by U.S. sanctions and falling crude prices. Price hikes aim to reduce pressure on public finances but risk sparking social unrest. Short-term, protests may intensify, especially in rural areas where purchasing power is already low. Medium-term, these measures could accelerate inflation and further weaken the national currency, the rial. Long-term, Iran may be pushed toward structural economic reforms, but any liberalization of the oil sector remains politically risky. The U.S. and EU monitor these developments, seeking to exploit Iran’s vulnerabilities to strengthen diplomatic pressure. Iran’s regime, divided between reformists and conservatives, must balance internal stability with economic survival.",
+        "analyse_zh": "伊朗90%依赖石油出口，面临美国制裁和原油价格下跌加剧的经济危机。提高油价旨在减轻财政压力，但可能引发社会不稳定。短期内，抗议可能在购买力已经低下的农村地区加剧。中期内，这些措施可能加速通胀并进一步削弱里亚尔货币。长期来看，伊朗可能被迫进行经济结构改革，但任何石油部门的自由化都具有政治风险。美国和欧盟密切关注这些动态，试图利用伊朗的弱点加强外交压力。伊朗政府在改革派和保守派之间分裂，必须在内部稳定和经济生存之间寻求平衡。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie et géopolitique",
+        "source": "Wordpress.org",
+        "url": "https://make.wordpress.org/polyglots/2026/09/08/pte-request-for-woocommerce-and-more/",
+        "image": "https://s.w.org/images/home/wordpress-default-ogimage.png",
+        "date": "2026-09-08",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
+            "label": "▼ Marché pétrolier international",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur technologique",
+            "label": "▼ Secteur bancaire et change (rial iranien)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Une escalade militaire pourrait faire flamber les prix du pétrole, perturbant les économies occidentales déjà fragilisées par l'inflation.",
-            "effet_en": "Military escalation could spike oil prices, disrupting already fragile Western economies hit by inflation.",
-            "effet_zh": "军事升级可能推高油价，扰乱已因通胀而脆弱的西方经济。",
-            "hausse": true
+            "secteur_fr": "Marché pétrolier international",
+            "secteur_en": "Global oil market",
+            "secteur_zh": "全球石油市场",
+            "effet_fr": "Les hausses de prix iraniennes pourraient influencer les cours mondiaux, surtout si la demande reste faible et les stocks élevés.",
+            "effet_en": "Iran’s price hikes may influence global markets, particularly if demand remains low and stocks are high.",
+            "effet_zh": "伊朗的油价上涨可能影响全球市场，特别是在需求低迷和库存充足的情况下。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur technologique",
-            "secteur_en": "Technology sector",
-            "secteur_zh": "科技行业",
-            "effet_fr": "Les tensions géopolitiques pourraient ralentir les investissements dans les semi-conducteurs, essentiels pour les industries américaines et asiatiques.",
-            "effet_en": "Geopolitical tensions could slow investments in semiconductors, critical for US and Asian industries.",
-            "effet_zh": "地缘政治紧张局势可能减缓对半导体的投资，这对美国和亚洲行业至关重要。",
+            "secteur_fr": "Secteur bancaire et change (rial iranien)",
+            "secteur_en": "Banking and exchange sector (Iranian rial)",
+            "secteur_zh": "银行和汇率领域（伊朗里亚尔）",
+            "effet_fr": "La dévaluation du rial et l’inflation pourraient accélérer la fuite des capitaux et affaiblir davantage le système bancaire déjà fragilisé.",
+            "effet_en": "Depreciation of the rial and inflation may accelerate capital flight and further weaken the already fragile banking system.",
+            "effet_zh": "里亚尔贬值和通胀可能加速资本外逃，并进一步削弱已经脆弱的银行体系。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-03T10:42:51.934461"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-09-09T08:39:34.779087"
+      },
       {
         "id": "chine_427388",
         "titre": "Californie et Taïwan renforcent leur collaboration technologique",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-09-02T02:57:54.858228"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_560598",
-        "titre": "McKinsey et la vision économique controversée de la Chine",
-        "titre_en": "McKinsey's Contrarian Economic View on China",
-        "titre_zh": "麦肯锡对华经济的逆向观点",
-        "titre_ru": "Контрарное экономическое видение McKinsey от CNBC: конец эпохи для иностранных корпораций?",
-        "titre_fa": "دیدگاه اقتصادی مخالف مک‌کینزی از CNBC: پایان عصر برای شرکت‌های خارجی در چین؟",
-        "titre_ar": "الرؤية الاقتصادية المعارضة لشركة ماكينزي من CNBC: نهاية حقبة الشركات الأجنبية في الصين؟",
-        "titre_original": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
-        "resume": "La newsletter CNBC 'The China Connection' révèle que McKinsey adopte une vision économique atypique sur la Chine. Les entreprises occidentales perdent leur avantage historique dans le pays. Cette analyse contredit les prévisions optimistes des années 2010.",
-        "resume_en": "CNBC's 'The China Connection' newsletter highlights McKinsey's unconventional economic view on China. Western firms are losing their historical edge in the country. This analysis contradicts the optimistic forecasts of the 2010s.",
-        "resume_zh": "CNBC的《中国连接》新闻简报强调麦肯锡对华经济的非传统观点。西方企业正在失去其在中国的历史优势。这一分析与2010年代的乐观预测相矛盾。",
-        "resume_ru": "Рассылка CNBC «The China Connection» анализирует спад преимуществ американских и европейских корпораций в Китае. McKinsey выражает скептицизм по поводу долгосрочных перспектив иностранного бизнеса. Экономические вызовы и политические риски становятся ключевыми факторами оттока компаний.",
-        "resume_fa": "خبرنامه CNBC «The China Connection» به تحلیل کاهش مزیت شرکت‌های آمریکایی و اروپایی در چین می‌پردازد. مک‌کینزی نسبت به چشم‌انداز بلندمدت کسب‌وکارهای خارجی بدبین است. چالش‌های اقتصادی و ریسک‌های سیاسی به عوامل اصلی خروج شرکت‌ها تبدیل شده‌اند.",
-        "resume_ar": "تحليل نشرة CNBC «The China Connection» انخفاض مزايا الشركات الأمريكية والأوروبية في الصين. تشكك ماكينزي في الآفاق طويلة الأمد للأعمال الأجنبية. أصبحت التحديات الاقتصادية والمخاطر السياسية عوامل رئيسية لخروج الشركات.",
-        "analyse_detaillee": "La Chine, depuis son ouverture économique dans les années 1980, est devenue un acteur incontournable pour les multinationales occidentales. Les années 2000 et 2010 ont vu une croissance fulgurante des investissements étrangers, portée par l'idée d'un marché chinois inépuisable. Cependant, depuis 2020, les tensions géopolitiques, les politiques de 'dual circulation' et les restrictions réglementaires ont érodé cet avantage. Les causes profondes incluent la montée du nationalisme économique chinois et la volonté de réduire la dépendance aux technologies étrangères. À court terme, cette perte d'avantage pourrait entraîner des restructurations coûteuses pour les entreprises occidentales. À moyen terme, une réorientation des chaînes d'approvisionnement vers l'Asie du Sud-Est ou l'Inde est probable. À long terme, cela pourrait redessiner la carte des investissements mondiaux. Les acteurs clés incluent les gouvernements chinois et occidentaux, les multinationales et les institutions financières. McKinsey, en adoptant cette vision, se positionne comme un acteur influent dans la réévaluation des stratégies économiques. Enfin, cette tendance pourrait accélérer l'innovation locale en Chine, réduisant la dépendance aux importations.",
-        "analyse_en": "China, since its economic opening in the 1980s, has become a key player for Western multinationals. The 2000s and 2010s saw a surge in foreign investments, driven by the idea of an inexhaustible Chinese market. However, since 2020, geopolitical tensions, 'dual circulation' policies, and regulatory restrictions have eroded this advantage. Root causes include China's rising economic nationalism and its goal to reduce dependence on foreign technologies. In the short term, this loss of advantage could lead to costly restructurings for Western firms. Medium-term, a shift in supply chains toward Southeast Asia or India is likely. Long-term, this could reshape the global investment map. Key actors include Chinese and Western governments, multinationals, and financial institutions. McKinsey, by adopting this view, positions itself as an influential player in re-evaluating economic strategies. Finally, this trend could accelerate local innovation in China, reducing import dependence.",
-        "analyse_zh": "自20世纪80年代经济开放以来，中国已成为西方跨国公司的关键参与者。2000年代和2010年代见证了外国投资的激增，推动力是对中国市场无穷无尽的想象。然而，自2020年以来，地缘政治紧张局势、\"双循环\"政策和监管限制削弱了这一优势。深层原因包括中国经济民族主义的兴起及其减少对外国技术依赖的意愿。短期内，这一优势丧失可能导致西方企业进行高成本重组。中期来看，供应链可能转向东南亚或印度。长期而言，这可能重塑全球投资版图。主要参与者包括中外政府、跨国公司和金融机构。麦肯锡通过采纳这一观点，将自己定位为重新评估经济战略的重要参与者。最后，这一趋势可能加速中国的本土创新，减少对进口的依赖。",
-        "analyse_ru": "Рассылка CNBC «The China Connection» отражает растущие опасения иностранных инвесторов в Китае. McKinsey, как один из ведущих консалтинговых гигантов, выражает скептицизм относительно устойчивости иностранного бизнеса в условиях ужесточения регулирования и геополитической напряжённости. Американские и европейские корпорации сталкиваются с новыми вызовами, включая торговые войны, требования о локализации производства и ужесточение контроля за данными. Это может привести к пересмотру стратегий присутствия на китайском рынке. В долгосрочной перспективе такие тенденции способствуют усилению конкуренции со стороны китайских компаний, которые получают поддержку государства.",
-        "analyse_fa": "خبرنامه «The China Connection» CNBC نگرانی‌های فزاینده سرمایه‌گذاران خارجی در چین را منعکس می‌کند. مک‌کینزی، به‌عنوان یکی از بزرگ‌ترین شرکت‌های مشاوره‌ای، نسبت به پایداری کسب‌وکارهای خارجی در شرایط تشدید مقررات و تنش‌های ژئوپلیتیکی بدبین است. شرکت‌های آمریکایی و اروپایی با چالش‌های جدیدی از جمله جنگ‌های تجاری، الزامات بومی‌سازی تولید و سخت‌گیری در کنترل داده‌ها مواجه هستند. این امر می‌تواند منجر به بازنگری در استراتژی‌های حضور در بازار چین شود. در بلندمدت، چنین روندهایی به تقویت رقابت از سوی شرکت‌های چینی، که از حمایت دولت برخوردارند، کمک می‌کند.",
-        "analyse_ar": "تعكس نشرة CNBC «The China Connection» المخاوف المتزايدة للمستثمرين الأجانب في الصين. تشكك ماكينزي، بوصفها واحدة من أكبر شركات الاستشارات، في استدامة الأعمال الأجنبية في ظل تشديد التنظيمات والتوترات الجيوسياسية. تواجه الشركات الأمريكية والأوروبية تحديات جديدة، بما في ذلك الحروب التجارية والمتطلبات المحلية لعمليات الإنتاج وتشديد الرقابة على البيانات. قد يؤدي ذلك إلى مراجعة استراتيجيات الوجود في السوق الصينية. على المدى الطويل، من شأن هذه الاتجاهات تعزيز المنافسة من قبل الشركات الصينية، التي تحظى بدعم الدولة.",
+        "id": "russie_845056",
+        "titre": "Putin à l’Inde pour le sommet BRICS",
+        "titre_en": "Putin attends BRICS summit in India",
+        "titre_zh": "普京出席印度BRICS峰会",
+        "titre_ru": "Vladimir Putin to attend BRICS Summit in India, hold bilateral talks with PM Modi: Kremlin",
+        "titre_fa": "Vladimir Putin to attend BRICS Summit in India, hold bilateral talks with PM Modi: Kremlin",
+        "titre_ar": "Vladimir Putin to attend BRICS Summit in India, hold bilateral talks with PM Modi: Kremlin",
+        "titre_original": "Vladimir Putin to attend BRICS Summit in India, hold bilateral talks with PM Modi: Kremlin",
+        "resume": "Vladimir Putin participera au sommet BRICS en Inde, où il tiendra des entretiens bilatéraux avec Narendra Modi. Moscou appuie l’invitation de nouveaux membres, renforçant son influence dans le groupe. Ces discussions pourraient marquer un tournant dans les relations Russie-Inde face aux tensions géopolitiques.",
+        "resume_en": "Russian President Vladimir Putin will attend the BRICS summit in India, holding bilateral talks with Prime Minister Narendra Modi. Moscow supports inviting new members, boosting its influence in the bloc. These discussions may signal a shift in Russia-India relations amid geopolitical tensions.",
+        "resume_zh": "普京将出席印度BRICS峰会，与莫迪举行双边会谈。俄罗斯支持邀请新成员，增强在集团中的影响力。这些会谈可能标志着俄印关系在地缘政治紧张局势下的转折点。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le BRICS, créé en 2006, reflète une alliance émergente entre pays du Sud global pour contrer l’hégémonie occidentale. La présence de Putin en Inde s’inscrit dans une stratégie de diversification des partenariats post-sanctions. Les tensions avec l’Occident poussent Moscou à renforcer les liens avec New Delhi, notamment sur les enjeux énergétiques et technologiques. À court terme, ces échanges pourraient stabiliser les relations bilatérales, mais à moyen terme, ils pourraient fragiliser davantage la position de la Russie face aux alliances occidentales. Long terme, le BRICS pourrait devenir un contrepoids économique majeur, mais son succès dépendra de sa capacité à intégrer de nouveaux membres sans s’aliéner les puissances traditionnelles. La Chine et l’Inde jouent des rôles clés : Pékin cherche à dominer le groupe, tandis que New Delhi évite toute dépendance excessive. Les États-Unis et l’UE surveillent ces dynamiques avec méfiance, craignant une fragmentation du système international.",
+        "analyse_en": "BRICS, founded in 2006, represents an emerging alliance among Global South nations to counter Western dominance. Putin’s attendance in India reflects a strategy to diversify partnerships post-sanctions. Tensions with the West push Moscow to strengthen ties with New Delhi, particularly on energy and technological fronts. Short-term, these talks may stabilize bilateral relations, but medium-term, they could further isolate Russia from Western alliances. Long-term, BRICS could become a major economic counterbalance, but its success hinges on integrating new members without alienating traditional powers. China and India play pivotal roles: Beijing aims to dominate the bloc, while New Delhi avoids over-reliance. The U.S. and EU closely monitor these dynamics, fearing a fragmentation of the international system.",
+        "analyse_zh": "BRICS成立于2006年，代表南方国家联盟抵制西方主导地位。普京出席印度峰会体现了在制裁后多元化伙伴关系的战略。西方与俄罗斯的紧张关系推动莫斯科加强与新德里的合作，特别是在能源和技术领域。短期内，这些会谈可能稳定双边关系，但中期可能进一步孤立俄罗斯与西方盟友。长期来看，BRICS可能成为主要的经济对抗力量，但其成功取决于能够吸纳新成员而不激怒传统大国。中国和印度扮演关键角色：北京力图主导集团，而新德里避免过度依赖。美国和欧盟密切关注这些动态，担心国际体系分裂。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/31/cnbc-china-connection-newsletter-mckinseys-contrarian-view-economy.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108355583-1787890083073-gettyimages-2291559432-img_6618.jpeg?v=1787890103&w=1920&h=1080",
-        "date": "2026-08-31",
-        "pays": "chine",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/vladimir-putin-to-attend-brics-summit-in-india-hold-bilateral-talks-with-pm-modi-kremlin/articleshow/133916646.cms",
+        "image": "https://img.etimg.com/thumb/msid-133916805,width-1200,height-630,imgsize-134108,overlay-economictimes/articleshow.jpg",
+        "date": "2026-09-08",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Secteur technologique",
-            "hausse": false
+            "label": "▲ Marché pétrolier et gazier",
+            "hausse": true
           },
           {
-            "label": "▼ Marché boursier asiatique",
+            "label": "▼ Secteur technologique (cybersécurité et IA)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur technologique",
-            "secteur_en": "Technology sector",
-            "secteur_zh": "科技行业",
-            "effet_fr": "La réduction des investissements étrangers pourrait freiner l'innovation technologique en Chine, poussant les entreprises locales à accélérer leurs propres développements.",
-            "effet_en": "Reduced foreign investment could slow technological innovation in China, pushing local firms to accelerate their own developments.",
-            "effet_zh": "外国投资减少可能减缓中国的技术创新，推动本土企业加速自主研发。",
-            "hausse": false
+            "secteur_fr": "Marché pétrolier et gazier",
+            "secteur_en": "Oil and gas market",
+            "secteur_zh": "石油和天然气市场",
+            "effet_fr": "Les discussions avec l’Inde pourraient relancer les échanges énergétiques, compensant partiellement les pertes liées aux sanctions occidentales.",
+            "effet_en": "Talks with India may revive energy trade, partially offsetting losses from Western sanctions.",
+            "effet_zh": "与印度的会谈可能重启能源贸易，部分弥补西方制裁带来的损失。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché boursier asiatique",
-            "secteur_en": "Asian stock market",
-            "secteur_zh": "亚洲股票市场",
-            "effet_fr": "La baisse des investissements occidentaux pourrait entraîner une volatilité accrue sur les marchés asiatiques, affectant les valorisations des entreprises locales.",
-            "effet_en": "Declining Western investments could lead to increased volatility in Asian markets, affecting local firms' valuations.",
-            "effet_zh": "西方投资减少可能导致亚洲市场波动加剧，影响本土企业估值。",
+            "secteur_fr": "Secteur technologique (cybersécurité et IA)",
+            "secteur_en": "Technology sector (cybersecurity and AI)",
+            "secteur_zh": "技术领域（网络安全和人工智能）",
+            "effet_fr": "La coopération sur l’IA et la cybersécurité pourrait affaiblir les alliances technologiques occidentales dominées par les États-Unis.",
+            "effet_en": "Cooperation on AI and cybersecurity may weaken Western tech alliances dominated by the U.S.",
+            "effet_zh": "在人工智能和网络安全领域的合作可能削弱由美国主导的西方技术联盟。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-01T23:02:00.566766"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-09-09T08:39:34.779046"
+      },
       {
         "id": "russie_995632",
         "titre": "Poutine commente les élections allemandes et l’ascension de l’AfD",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-03T14:53:25.291885"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_222023",
-        "titre": "L'UE dénonce une attaque de drones attribuée à la Russie",
-        "titre_en": "EU condemns alleged Russian drone attack",
-        "titre_zh": "欧盟谴责疑似俄罗斯无人机袭击",
-        "titre_ru": "ЕС называет предполагаемый заговор с дронами «государственным терроризмом»",
-        "titre_fa": "اتحادیه اروپا حمله پهپادی روسیه را «تروریسم دولتی» می‌نامد",
-        "titre_ar": "الاتحاد الأوروبي يصف مؤامرة الطائرات المسيرة الروسية بـ«الإرهاب الحكومي»",
-        "titre_original": "EU's Kallas calls alleged Russian drone plot 'state sponsored terrorism' as Europe mulls a response - AP News",
-        "resume": "L'UE qualifie d'acte de «terrorisme d'État» une attaque de drones en Allemagne, attribuée à la Russie. Moscou nie toute implication et menace de représailles. L'Europe envisage des sanctions supplémentaires contre Moscou.",
-        "resume_en": "The EU calls a drone attack in Germany an act of 'state terrorism,' blaming Russia. Moscow denies involvement and threatens retaliation. Europe considers further sanctions against Moscow.",
-        "resume_zh": "欧盟称德国的一起无人机袭击为“国家恐怖主义”行为，指责俄罗斯。莫斯科否认参与并威胁报复。欧洲考虑对莫斯科实施进一步制裁。",
-        "resume_ru": "Глава ЕС Каяс Каллас назвала предполагаемый заговор с использованием дронов в Германии «государственным терроризмом». Европа рассматривает ответные меры против России. Российское посольство в Германии было вызвано для объяснений по поводу инцидента в Лейпциге.",
-        "resume_fa": "کایا کالاس، رئیس اتحادیه اروپا، حمله پهپادی برنامه‌ریزی‌شده در آلمان را «تروریسم دولتی» توصیف کرد. اروپا در حال بررسی اقدامات متقابل علیه روسیه است. سفارت روسیه در آلمان برای توضیح درباره حادثه لایپزیگ احضار شد.",
-        "resume_ar": "وصف كايا كالاس، رئيس الاتحاد الأوروبي، المؤامرة المزعومة باستخدام طائرات مسيرة في ألمانيا بـ«الإرهاب الحكومي». تنظر أوروبا في اتخاذ إجراءات مضادة ضد روسيا. تم استدعاء السفارة الروسية في ألمانيا لتقديم توضيحات بشأن الحادث في لايبزيغ.",
-        "analyse_detaillee": "Cette attaque s'inscrit dans un contexte de tensions accrues entre la Russie et l'Occident depuis l'invasion de l'Ukraine en 2022. Les drones, utilisés comme armes asymétriques, permettent à Moscou de déstabiliser l'Europe sans déclencher une guerre ouverte. À court terme, cette escalade pourrait renforcer la coopération militaire européenne, notamment via l'OTAN. À moyen terme, la Russie pourrait intensifier ses cyberattaques ou des opérations sous fausse bannière pour semer la division. À long terme, une guerre hybride prolongée affaiblirait la stabilité économique et politique de l'UE. Les acteurs comme la Pologne et les pays baltes poussent pour une réponse ferme, tandis que l'Allemagne et la France tentent de préserver le dialogue. Les sanctions économiques pourraient cibler davantage le secteur énergétique russe, déjà fragilisé. La crédibilité de l'UE en tant que puissance géopolitique est en jeu.",
-        "analyse_en": "This attack fits into a context of heightened tensions between Russia and the West since the 2022 invasion of Ukraine. Drones, used as asymmetric weapons, allow Moscow to destabilize Europe without triggering an open war. In the short term, this escalation could strengthen European military cooperation, particularly via NATO. Medium-term, Russia could intensify cyberattacks or false-flag operations to sow division. Long-term, prolonged hybrid warfare would weaken EU economic and political stability. Actors like Poland and the Baltic states push for a firm response, while Germany and France try to preserve dialogue. Economic sanctions could further target Russia's already weakened energy sector. The EU's credibility as a geopolitical power is at stake.",
-        "analyse_zh": "此次袭击是在2022年入侵乌克兰以来俄罗斯与西方紧张局势加剧的背景下发生的。无人机作为不对称武器，使莫斯科能够在不引发公开战争的情况下破坏欧洲。短期内，此次升级可能加强欧洲军事合作，特别是通过北约。中期来看，俄罗斯可能加强网络攻击或伪旗行动以制造分裂。长期来看，长期的混合战争将削弱欧盟的经济和政治稳定。波兰和波罗的海国家等行为体推动强硬回应，而德国和法国试图维护对话。经济制裁可能进一步针对俄罗斯已被削弱的能源部门。欧盟作为地缘政治力量的信誉岌岌可危。",
-        "analyse_ru": "Инцидент с дронами в Германии стал новым витком в обострении отношений между ЕС и Россией. Причины обвинения России в «государственном терроризме» связаны с попыткой дестабилизировать Европу через скрытые атаки. Последствия могут включать ужесточение санкций и сокращение дипломатических контактов. Перспективы зависят от доказательной базы и реакции других стран. Позиции сторон: ЕС видит в этом угрозу безопасности, а Россия отрицает причастность, обвиняя Запад в разжигании истерии.",
-        "analyse_fa": "حادثه پهپادی در آلمان مرحله جدیدی از تشدید روابط بین اتحادیه اروپا و روسیه را رقم زده است. دلایل اتهام روسیه به «تروریسم دولتی» به تلاش برای بی‌ثبات‌سازی اروپا از طریق حملات پنهانی بازمی‌گردد. پیامدهای این حادثه می‌تواند شامل تشدید تحریم‌ها و کاهش تماس‌های دیپلماتیک باشد. چشم‌انداز آینده به شواهد موجود و واکنش سایر کشورها بستگی دارد. مواضع طرفین: اتحادیه اروپا این حمله را تهدیدی برای امنیت می‌داند، در حالی که روسیه هرگونه دخالت را رد کرده و غرب را متهم به دامن زدن به هیجانات می‌کند.",
-        "analyse_ar": "أصبح حادث الطائرات المسيرة في ألمانيا حلقة جديدة في تصاعد حدة العلاقات بين الاتحاد الأوروبي وروسيا. ترتبط أسباب اتهام روسيا بـ«الإرهاب الحكومي» بمحاولة زعزعة استقرار أوروبا من خلال هجمات خفية. قد تشمل العواقب تشديد العقوبات وتقليص الاتصالات الدبلوماسية. перспектива المستقبل تعتمد على الأدلة المتاحة ورد فعل الدول الأخرى. مواقف الأطراف: يرى الاتحاد الأوروبي أن هذا يشكل تهديداً للأمن، بينما تنفي روسيا أي تورط وتتهم الغرب بتأجيج الهستيريا.",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185365500",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-09-02",
-        "pays": "russie",
+        "id": "iran_576312",
+        "titre": "Demande de traduction WooCommerce en chinois",
+        "titre_en": "Request for WooCommerce Chinese translation",
+        "titre_zh": "请求中文翻译WooCommerce插件",
+        "titre_ru": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+        "titre_fa": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+        "titre_ar": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+        "titre_original": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+        "resume": "Un membre de la communauté Polyglots a soumis des suggestions de traduction pour des plugins WooCommerce en chinois (Taïwan). Il demande une revue et un accès PTE pour contribuer davantage. Ce type de demande reflète l’importance croissante des marchés asiatiques pour les solutions e-commerce.",
+        "resume_en": "A Polyglots community member submitted translation suggestions for WooCommerce plugins in Chinese (Taiwan). They seek review and PTE access to contribute further. Such requests highlight the growing importance of Asian markets for e-commerce solutions.",
+        "resume_zh": "Polyglots社区成员提交了WooCommerce插件中文（台湾）翻译建议，并要求审核和PTE访问权限以进一步贡献。此类需求反映了亚洲市场对电商解决方案日益增长的重要性。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "WooCommerce, plateforme dominante pour le e-commerce mondial, vise une expansion massive en Asie, où le marché taïwanais représente une niche stratégique. Les traductions locales sont cruciales pour adapter l’interface aux habitudes culturelles et linguistiques, renforçant ainsi l’inclusion numérique. Cette demande illustre aussi la compétition accrue entre les acteurs chinois (comme Alibaba) et occidentaux pour dominer le secteur. À court terme, une meilleure localisation pourrait attirer plus de petits commerçants taïwanais vers WooCommerce. À moyen terme, cela pourrait influencer les politiques de localisation d’autres plateformes comme Shopify ou Magento. Long terme, la maîtrise des langues locales par les géants du numérique sera un facteur clé pour conquérir les marchés asiatiques. Les gouvernements locaux, comme celui de Taïwan, pourraient encourager ces initiatives pour stimuler l’économie numérique. Les entreprises occidentales doivent aussi rivaliser avec les solutions chinoises, souvent plus adaptées aux spécificités locales.",
+        "analyse_en": "WooCommerce, the dominant global e-commerce platform, aims for massive expansion in Asia, where the Taiwanese market represents a strategic niche. Local translations are crucial to adapt the interface to cultural and linguistic habits, enhancing digital inclusion. This request also reflects increased competition between Western actors (like WooCommerce) and Chinese ones (such as Alibaba) to dominate the sector. Short-term, better localization may attract more Taiwanese small businesses to WooCommerce. Medium-term, this could influence localization policies of other platforms like Shopify or Magento. Long-term, mastery of local languages by tech giants will be a key factor in conquering Asian markets. Local governments, like Taiwan’s, may encourage such initiatives to boost the digital economy. Western firms must also compete with Chinese solutions, often better adapted to local specifics.",
+        "analyse_zh": "WooCommerce作为全球主导的电商平台，正致力于在亚洲市场扩张，其中台湾市场是一个战略性的细分领域。本地化翻译对于适应文化和语言习惯至关重要，从而增强数字包容性。这一需求也反映了西方（如WooCommerce）和中国（如阿里巴巴）电商巨头之间的激烈竞争。短期内，更好的本地化可能吸引更多台湾小商户使用WooCommerce。中期内，这可能影响Shopify或Magento等其他平台的本地化政策。长期来看，数字巨头对本地语言的掌握将成为征服亚洲市场的关键因素。像台湾这样的地方政府可能会鼓励这些举措以刺激数字经济。西方企业也必须与更适应本地特点的中国解决方案竞争。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Technologie et marché numérique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f9dab0a631a45c41",
+        "image": "https://biztoc.com/cdn/f9dab0a631a45c41_s.webp",
+        "date": "2026-09-08",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur bancaire",
-            "hausse": false
+            "label": "▲ Marché des solutions e-commerce en Asie",
+            "hausse": true
           },
           {
-            "label": "▲ Énergie",
-            "hausse": true
+            "label": "▼ Secteur des technologies de traduction automatique",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur bancaire",
-            "secteur_en": "Banking sector",
-            "secteur_zh": "银行业",
-            "effet_fr": "Les sanctions pourraient isoler davantage les banques russes du système financier international, limitant leurs transactions et augmentant les coûts de financement.",
-            "effet_en": "Sanctions could further isolate Russian banks from the international financial system, limiting transactions and increasing financing costs.",
-            "effet_zh": "制裁可能进一步将俄罗斯银行与国际金融系统隔离，限制交易并增加融资成本。",
-            "hausse": false
+            "secteur_fr": "Marché des solutions e-commerce en Asie",
+            "secteur_en": "Asia e-commerce solutions market",
+            "secteur_zh": "亚洲电商解决方案市场",
+            "effet_fr": "Une meilleure localisation pourrait augmenter la part de marché de WooCommerce face à des concurrents comme Alibaba ou JD.com.",
+            "effet_en": "Better localization may boost WooCommerce’s market share against competitors like Alibaba or JD.com.",
+            "effet_zh": "更好的本地化可能提升WooCommerce在阿里巴巴或京东等竞争对手面前的市场份额。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Énergie",
-            "secteur_en": "Energy",
-            "secteur_zh": "能源",
-            "effet_fr": "Les restrictions sur les exportations russes de gaz et de pétrole pourraient faire monter les prix en Europe, aggravant la crise énergétique déjà existante.",
-            "effet_en": "Restrictions on Russian gas and oil exports could drive up prices in Europe, worsening the existing energy crisis.",
-            "effet_zh": "对俄罗斯天然气和石油出口的限制可能推高欧洲价格，恶化现有的能源危机。",
-            "hausse": true
+            "secteur_fr": "Secteur des technologies de traduction automatique",
+            "secteur_en": "Automated translation tech sector",
+            "secteur_zh": "自动翻译技术领域",
+            "effet_fr": "Les demandes de traduction manuelle pourraient ralentir l’adoption de solutions automatisées, limitant les gains d’efficacité pour les plateformes.",
+            "effet_en": "Manual translation requests may slow the adoption of automated solutions, limiting efficiency gains for platforms.",
+            "effet_zh": "手动翻译需求可能减缓自动化解决方案的采用，限制平台效率提升。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-03T10:42:51.934509"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-09T08:39:34.779096"
+      },
       {
         "id": "iran_402381",
         "titre": "Iran augmente les prix de l’essence pour ses gros consommateurs",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-09-03T00:57:59.157310"
-      },
-      {
-        "id": "iran_228505",
-        "titre": "L'Iran revendique des frappes de drones sur une base américaine",
-        "titre_en": "Iran claims drone strikes on US base in Bahrain",
-        "titre_zh": "伊朗声称对巴林美军基地发动无人机袭击",
-        "titre_ru": "Сообщения о ракетных ударах Ирана по базе США в Бахрейне",
-        "titre_fa": "گزارش‌هایی از حملات پهپادی ایران به پایگاه آمریکا در بحرین",
-        "titre_ar": "تقارير عن ضربات إيرانية بطائرات مسيرة على قاعدة أمريكية في البحرين",
-        "titre_original": "Reports in Iran of drone strikes on a US base in Bahrain",
-        "resume": "Les médias iraniens rapportent des frappes de drones contre une base américaine à Bahreïn. Aucune confirmation officielle n'a été donnée pour l'instant. Cette escalade survient dans un contexte de tensions régionales accrues.",
-        "resume_en": "Iranian media report drone strikes on a US base in Bahrain. No official confirmation has been provided yet. This escalation occurs amid heightened regional tensions.",
-        "resume_zh": "伊朗媒体报道对巴林美军基地的无人机袭击。目前尚无官方确认。此次升级发生在地区紧张局势加剧的背景下。",
-        "resume_ru": "Иранские СМИ сообщили о ночных ракетных ударах по американской военной базе в Бахрейне. По данным телеканала «Аль-Алам», атака была осуществлена с применением беспилотников. В то же время Reuters не подтвердил эту информацию, ссылаясь на отсутствие официальных источников.",
-        "resume_fa": "رسانه‌های ایرانی گزارش دادند که حملات شبانه‌ای با پهپاد به پایگاه نظامی آمریکا در بحرین انجام شده است. به گفته شبکه «العلام»، این حمله با استفاده از پهپادهای مسلح صورت گرفته است. با این حال، رویترز این گزارش را تأیید نکرده و به نبود منابع رسمی اشاره کرده است.",
-        "resume_ar": "أفادت وسائل إعلام إيرانية بوقوع هجمات ليلية بطائرات مسيرة على قاعدة عسكرية أمريكية في البحرين. وذكرت قناة «العلام» أن الهجوم تم باستخدام طائرات مسيرة مسلحة. ومع ذلك، لم تؤكد رويترز هذا التقرير، مشيرة إلى عدم وجود مصادر رسمية.",
-        "analyse_detaillee": "Les tensions entre l'Iran et les États-Unis remontent à la révolution islamique de 1979 et à la crise des otages. Les enjeux actuels incluent la sécurité des intérêts américains au Moyen-Orient et la stabilité régionale. Les causes profondes résident dans les rivalités géopolitiques et les programmes nucléaires controversés. À court terme, ces frappes pourraient déclencher des représailles militaires ou des sanctions économiques. À moyen terme, cela pourrait aggraver l'instabilité au Yémen et en Syrie. À long terme, une escalade pourrait menacer les accords de sécurité dans le golfe Persique. Les acteurs principaux sont l'Iran, les États-Unis, Bahreïn et les puissances régionales comme l'Arabie saoudite et Israël.",
-        "analyse_en": "Tensions between Iran and the US date back to the 1979 Islamic Revolution and the hostage crisis. Current stakes include the security of US interests in the Middle East and regional stability. Root causes lie in geopolitical rivalries and controversial nuclear programs. Short-term, these strikes could trigger military retaliation or economic sanctions. Medium-term, this could worsen instability in Yemen and Syria. Long-term, escalation could threaten security agreements in the Persian Gulf. Key actors are Iran, the US, Bahrain, and regional powers like Saudi Arabia and Israel.",
-        "analyse_zh": "伊朗与美国的紧张局势可追溯至1979年伊斯兰革命和人质危机。当前影响包括美国在中东利益的安全和地区稳定。深层原因在于地缘政治对抗和备受争议的核计划。短期内，此次袭击可能引发军事报复或经济制裁。中期来看，可能加剧也门和叙利亚的动荡。长期而言，升级可能威胁波斯湾的安全协议。主要参与者是伊朗、美国、巴林以及沙特阿拉伯和以色列等地区大国。",
-        "analyse_ru": "Контекст этих сообщений связан с обострением напряжённости между Ираном и США на фоне ядерных переговоров и региональных конфликтов. Причины атак могут быть связаны с попыткой Ирана продемонстрировать свою военную мощь или ответить на предыдущие инциденты. Последствия для региона могут быть серьёзными, так как любое военное столкновение способно спровоцировать масштабный конфликт. Перспективы зависят от реакции США и международного сообщества. Позиции сторон: Иран отрицает или подтверждает атаки в зависимости от контекста, США демонстрируют сдержанность, а международные наблюдатели призывают к деэскалации.",
-        "analyse_fa": "زمینه این گزارش‌ها به تشدید تنش بین ایران و آمریکا در پی مذاکرات هسته‌ای و درگیری‌های منطقه‌ای بازمی‌گردد. دلایل این حملات ممکن است به تلاش ایران برای نمایش قدرت نظامی خود یا پاسخ به حوادث قبلی مربوط باشد. پیامدهای این مسئله برای منطقه می‌تواند جدی باشد، زیرا هرگونه درگیری نظامی می‌تواند منجر به یک بحران گسترده شود. چشم‌انداز آینده به واکنش آمریکا و جامعه بین‌المللی بستگی دارد. موضع بازیگران: ایران بسته به شرایط، حملات را انکار یا تأیید می‌کند، آمریکا خویشتن‌داری نشان می‌دهد و ناظران بین‌المللی خواستار کاهش تنش هستند.",
-        "analyse_ar": "يرتبط سياق هذه التقارير بتوتر العلاقات بين إيران والولايات المتحدة في ظل المفاوضات النووية والصراعات الإقليمية. قد ترجع أسباب هذه الهجمات إلى محاولة إيران لإظهار قوتها العسكرية أو الرد على حوادث سابقة. يمكن أن تكون للعواقب الإقليمية لهذه الهجمات خطورة كبيرة، حيث أن أي صراع عسكري يمكن أن يؤدي إلى أزمة واسعة النطاق. تعتمد الآفاق على رد فعل الولايات المتحدة والمجتمع الدولي. مواقف الأطراف: تنفي إيران أو تؤكد الهجمات حسب السياق، بينما تظهر الولايات المتحدة ضبط النفس، ويدعو المراقبون الدوليون إلى تخفيف حدة التوتر.",
-        "categorie": "Géopolitique",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/flashes/692791",
-        "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
-        "date": "2026-09-01",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Défense régionale",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Défense régionale",
-            "secteur_en": "Regional defense",
-            "secteur_zh": "地区防御",
-            "effet_fr": "Les frappes pourraient renforcer les dépenses militaires des pays du Golfe, stimulant les industries de l'armement.",
-            "effet_en": "The strikes could increase military spending in Gulf countries, boosting arms industries.",
-            "effet_zh": "袭击可能增加海湾国家的军事支出，推动军火工业。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Une escalade pourrait perturber les approvisionnements énergétiques, faisant flamber les prix du pétrole.",
-            "effet_en": "Escalation could disrupt energy supplies, driving up oil prices.",
-            "effet_zh": "升级可能扰乱能源供应，推高石油价格。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-02T22:23:25.139425"
       }
     ]
   },
