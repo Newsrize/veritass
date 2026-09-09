@@ -1,7 +1,66 @@
 {
-  "last_updated": "09/09/2026 à 13h27",
+  "last_updated": "09/09/2026 à 17h35",
   "articles": {
     "monde": [
+      {
+        "id": "monde_435122",
+        "titre": "Montée de l’extrême droite en Allemagne inquiète la Pologne",
+        "titre_en": "Germany’s far-right rise alarms Poland",
+        "titre_zh": "德国右翼势力上升令波兰忧心",
+        "titre_ru": "Far right’s rise in rapidly re-arming Germany gives Poland cause for concern",
+        "titre_fa": "Far right’s rise in rapidly re-arming Germany gives Poland cause for concern",
+        "titre_ar": "Far right’s rise in rapidly re-arming Germany gives Poland cause for concern",
+        "titre_original": "Far right’s rise in rapidly re-arming Germany gives Poland cause for concern",
+        "resume": "L’ascension de partis d’extrême droite en Allemagne, comme l’AfD, suscite des craintes en Pologne, où le Premier ministre Tusk dénonce une menace pour la stabilité européenne. Les tensions historiques entre les deux pays, notamment autour de la Seconde Guerre mondiale, resurgissent dans le débat politique. Ce revirement pourrait redéfinir les alliances géopolitiques en Europe de l’Est.",
+        "resume_en": "The rise of far-right parties in Germany, such as the AfD, alarms Poland, where Prime Minister Tusk warns of a threat to European stability. Historical tensions between the two countries, particularly regarding World War II, resurface in political discourse. This shift could redefine geopolitical alliances in Eastern Europe.",
+        "resume_zh": "德国极右党势力上升，如AfD党，令波兰忧心，总理图斯警告欧洲稳定受到威胁。两国历史上的紧张关系，特别是二战问题，在政治辩论中再次浮现。这一变化可能重新定义东欧的地缘政治同盟。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les relations germano-polonaises, marquées par des décennies de tensions post-Seconde Guerre mondiale, restent fragiles malgré l’intégration européenne. L’AfD, parti eurosceptique et nationaliste, exploite les peurs migratoires et économiques pour gagner en influence. À court terme, cela pourrait intensifier les discours anti-UE et les divisions internes en Allemagne. À moyen terme, cela pourrait affaiblir la cohésion de l’UE face à des crises comme la guerre en Ukraine. Long terme, cela pourrait relancer un cycle de méfiance historique entre les deux nations, avec des répercussions sur les investissements et la sécurité régionale.",
+        "analyse_en": "German-Polish relations, marked by decades of post-WWII tensions, remain fragile despite European integration. The AfD, an eurosceptic and nationalist party, exploits fears of migration and economic instability to gain influence. Short-term, this could intensify anti-EU rhetoric and internal divisions in Germany. Medium-term, it may weaken EU cohesion in facing crises like the war in Ukraine. Long-term, it could reignite a historical cycle of mistrust between the two nations, affecting investments and regional security.",
+        "analyse_zh": "德波关系因二战后的数十年紧张局势而脆弱，尽管欧洲一体化进程仍在进行。极右党AfD利用移民和经济不稳定的恐惧扩大影响力。短期内，这可能加剧反欧盟言论和德国内部分裂。中期内，可能削弱欧盟在乌克兰战争等危机中的凝聚力。长期来看，可能重启两国间的历史不信任循环，影响投资和区域安全。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/alternative-for-germany-afd-poland-military/",
+        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/08/GettyImages-2293192861-scaled.jpg",
+        "date": "2026-09-08",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marchés financiers des pays de l’UE",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur de la défense et de la sécurité",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marchés financiers des pays de l’UE",
+            "secteur_en": "EU countries' financial markets",
+            "secteur_zh": "欧盟国家金融市场",
+            "effet_fr": "L’instabilité politique en Allemagne pourrait réduire la confiance des investisseurs dans les actifs européens, affectant les rendements obligataires et les cours boursiers.",
+            "effet_en": "Political instability in Germany may reduce investor confidence in European assets, impacting bond yields and stock prices.",
+            "effet_zh": "德国的政治不稳定可能降低投资者对欧洲资产的信心，影响债券收益率和股票价格。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur de la défense et de la sécurité",
+            "secteur_en": "Defense and security sector",
+            "secteur_zh": "国防和安全领域",
+            "effet_fr": "Les tensions accrues pourraient relancer les dépenses militaires en Pologne et dans les pays voisins, stimulant les contrats d’armement et les investissements en cybersécurité.",
+            "effet_en": "Increased tensions may restart military spending in Poland and neighboring countries, boosting arms contracts and cybersecurity investments.",
+            "effet_zh": "加剧的紧张局势可能促使波兰及邻国重启军费开支，推动军火合同和网络安全投资增长。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-09T17:34:52.342487"
+      },
       {
         "id": "monde_193008",
         "titre": "Allemagne : montée des extrêmes droits",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-03T18:22:16.820886"
-      },
-      {
-        "id": "monde_235987",
-        "titre": "Disparités dans les enquêtes judiciaires en Inde",
-        "titre_en": "Disparities in Indian judicial inquiries",
-        "titre_zh": "印度司法调查差异",
-        "titre_ru": "Власти Махараштры обвинили в двойных стандартах",
-        "titre_fa": "مقامات ماهاراشترا به استانداردهای دوگانه متهم شدند",
-        "titre_ar": "اتهام السلطات في ماهاراشترا بمعايير مزدوجة",
-        "titre_original": "‘FIR for removing PM photo, but none over Ajit Pawar crash’: Supriya Sule targets Maharashtra govt",
-        "resume": "Supriya Sule critique le gouvernement du Maharashtra pour avoir ouvert une enquête rapide contre Amit Thackeray, mais aucune action judiciaire n'a été engagée après un crash aérien mortel. Elle dénonce l'inaction concernant la mort de son cousin Ajit Pawar. Les tensions politiques s'intensifient.",
-        "resume_en": "Supriya Sule criticizes the Maharashtra government for swiftly filing an FIR against Amit Thackeray while no action was taken after a fatal air crash. She condemns the inaction over her cousin Ajit Pawar's death. Political tensions are escalating.",
-        "resume_zh": "Supriya Sule批评马哈拉施特拉邦政府迅速对Amit Thackeray提起FIR，而致命空难后却未采取任何行动。她谴责对其表亲Ajit Pawar之死的不作为。政治紧张局势升级。",
-        "resume_ru": "Суприя Суле обвинила правительство Махараштры в двойных стандартах при расследовании инцидентов. Она указала на быстрое возбуждение дела против Амита Тхакерая, но отсутствие реакции на авиакатастрофу, в которой погиб её двоюродный брат Ажит Павар. Политики требуют прозрачности в расследованиях.",
-        "resume_fa": "سوپریا سوله مقامات ماهاراشترا را به داشتن استانداردهای دوگانه در رسیدگی به پرونده‌ها متهم کرد. او به سرعت تشکیل پرونده علیه آmit تهاکری و عدم واکنش به سقوط هواپیمایی که پسر عمویش آجیت پوار در آن کشته شد، اشاره کرد. سیاستمداران خواستار شفافیت در تحقیقات شدند.",
-        "resume_ar": "اتهمت سوپريا سولي السلطات في ماهاراشترا بمعايير مزدوجة في التحقيقات. وأشارت إلى سرعة تشكيل قضية ضد أميت ثاكيراي وعدم وجود رد فعل على حادث تحطم طائرة قتل فيه ابن عمها أجيت بوار. وطالب السياسيون بالشفافية في التحقيقات.",
-        "analyse_detaillee": "Cette affaire illustre les tensions politiques au sein du Maharashtra, un État clé en Inde. Les disparités dans les enquêtes judiciaires révèlent des biais possibles selon l'appartenance politique des personnes impliquées. Historiquement, l'Inde a connu des scandales où des enquêtes ont été instrumentalisées pour des raisons partisanes. À court terme, cette controverse pourrait affaiblir la crédibilité du gouvernement local. À moyen terme, elle risque d'exacerber les divisions communautaires et politiques. Les partis d'opposition, comme le NCP, pourraient exploiter cette affaire pour mobiliser leur base. À long terme, une justice perçue comme inégale pourrait saper la confiance dans les institutions démocratiques. Les acteurs internationaux surveillent ces développements pour évaluer la stabilité politique de l'Inde.",
-        "analyse_en": "This case highlights political tensions in Maharashtra, a key Indian state. Disparities in judicial inquiries reveal possible biases based on the political affiliation of those involved. Historically, India has seen scandals where investigations were weaponized for partisan reasons. In the short term, this controversy could weaken the local government's credibility. Medium-term, it risks exacerbating communal and political divisions. Opposition parties like the NCP may exploit this issue to mobilize their base. Long-term, perceived unequal justice could undermine trust in democratic institutions. International actors are monitoring these developments to assess India's political stability.",
-        "analyse_zh": "这一事件凸显马哈拉施特拉邦（印度重要邦）的政治紧张局势。司法调查的差异显示可能存在基于涉事人政治 affiliation 的偏见。历史上，印度曾有过调查被党派利用的丑闻。短期内，这一争议可能削弱地方政府的公信力。中期来看，它可能加剧社区和政治分裂。反对党如NCP可能利用此事动员其基础。长期来看，司法不平等可能破坏对民主制度的信任。国际行为体正在关注这些发展以评估印度的政治稳定性。",
-        "analyse_ru": "Обвинения Суприи Суле в адрес правительства Махараштры отражают растущее недоверие к властям в Индии. Причина двойных стандартов может крыться в политической предвзятости, так как Амит Тхакерай связан с правящей партией. Последствия таких действий могут подорвать доверие к правоохранительным органам. Перспективы зависят от независимого расследования, которое может либо подтвердить обвинения, либо опровергнуть их. Позиции сторон ужесточаются, что грозит дальнейшей поляризацией общества.",
-        "analyse_fa": "اتهامات سوپريا سولي به مقامات ماهاراشترا نشان‌دهنده بی‌اعتمادی فزاینده به دولت در هند است. علت استانداردهای دوگانه ممکن است به تعصب سیاسی بازگردد، زیرا آmit تهاکری با حزب حاکم ارتباط دارد. پیامدهای چنین اقداماتی می‌تواند اعتماد به نهادهای انتظامی را подрыزد. چشم‌اندازها به تحقیقات مستقل بستگی دارد که می‌تواند اتهامات را تأیید یا رد کند. مواضع طرفین در حال تشدید است که می‌تواند منجر به قطب‌بندی بیشتر جامعه شود.",
-        "analyse_ar": "تهمات سوپريا سولي ضد السلطات في ماهاراشترا تعكس عدم الثقة المتزايد في الحكومة الهندية. وقد يكون سبب المعايير المزدوجة تحيزاً سياسياً، حيث يرتبط أميت ثاكيراي بالحزب الحاكم. وقد تؤدي عواقب هذه الأفعال إلى تقويض الثقة في أجهزة إنفاذ القانون. وتعتمد الآفاق على التحقيقات المستقلة التي قد تؤكد أو تنفي الاتهامات. وتتشدد مواقف الأطراف، مما قد يؤدي إلى مزيد من الاستقطاب في المجتمع.",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/thane/fir-for-removing-pm-photo-but-none-over-ajit-pawar-crash-supriya-sule-targets-maharashtra-govt/articleshow/133713754.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133713930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-02",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Secteur judiciaire",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché politique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur judiciaire",
-            "secteur_en": "Judicial sector",
-            "secteur_zh": "司法行业",
-            "effet_fr": "La perception d'une justice à deux vitesses risque de saper la confiance dans les institutions judiciaires.",
-            "effet_en": "The perception of a two-tier justice system risks undermining trust in judicial institutions.",
-            "effet_zh": "双重司法体系的认知可能破坏对司法机构的信任。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché politique",
-            "secteur_en": "Political market",
-            "secteur_zh": "政治市场",
-            "effet_fr": "Les tensions pourraient influencer les prochaines élections locales et nationales en Maharashtra.",
-            "effet_en": "Tensions could influence upcoming local and national elections in Maharashtra.",
-            "effet_zh": "紧张局势可能影响马哈拉施特拉邦即将到来的地方和全国选举。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-03T14:53:25.291864"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_751125",
+        "titre": "La Maison-Blanche crée un clone de Tetris, irritant la société propriétaire",
+        "titre_en": "White House Tetris clone sparks legal tensions",
+        "titre_zh": "白宫制作特里斯克隆版引发法律争议",
+        "titre_ru": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+        "titre_fa": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+        "titre_ar": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+        "titre_original": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+        "resume": "L’administration Trump a développé un jeu d’arcade inspiré de Tetris pour ses campagnes de propagande, déclenchant une polémique juridique. La société Tetris Company a dénoncé une violation de ses droits intellectuels, estimant que le gouvernement américain contourne les licences officielles. Ce conflit révèle les tensions entre propriété intellectuelle et usage public des œuvres culturelles.",
+        "resume_en": "The Trump administration created a Tetris-inspired arcade game for propaganda purposes, sparking legal controversy. The Tetris Company accused the U.S. government of infringing intellectual property rights by bypassing official licensing. The dispute highlights tensions between intellectual property laws and public use of cultural assets.",
+        "resume_zh": "特朗普政府为宣传目的开发了一款特里斯风格的街机游戏，引发法律争议。特里斯公司指控美国政府侵犯知识产权，绕过了官方许可。此争端凸显知识产权法与公共文化资产使用之间的紧张关系。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le Tetris, créé en URSS dans les années 1980, est devenu un symbole culturel mondial protégé par des droits stricts depuis 2013. L’usage gouvernemental de jeux dérivés soulève des questions sur la souveraineté intellectuelle et la commercialisation des œuvres. Les États-Unis, habitués à une approche libérale des brevets, voient ici une limite à leur pouvoir exécutif. À court terme, cela pourrait mener à des poursuites ou des négociations forcées avec la société russe. À moyen terme, cela pourrait influencer les lois sur la propriété intellectuelle dans le secteur du divertissement. Long terme, cela pourrait renforcer les alliances entre créateurs et États pour mieux protéger leurs œuvres.",
+        "analyse_en": "Tetris, created in the USSR in the 1980s, became a global cultural icon protected by strict intellectual property rights since 2013. Governmental use of derivative games raises questions about intellectual sovereignty and the commercialization of cultural works. The U.S., accustomed to a liberal patent approach, faces a limit to its executive power here. Short-term, this could lead to lawsuits or forced negotiations with the Russian company. Medium-term, it may influence intellectual property laws in the entertainment sector. Long-term, it could strengthen alliances between creators and states to better protect their works.",
+        "analyse_zh": "特里斯于上世纪80年代在苏联问世，成为全球文化符号，自2013年起受严格知识产权保护。政府使用衍生游戏引发对知识产权主权和文化作品商业化的质疑。美国长期以来对专利持自由态度，此事暴露其行政权力的边界。短期内可能导致与俄罗斯公司的诉讼或强制谈判。中期内可能影响娱乐行业的知识产权法规。长期来看，可能促使创作者与国家联手更好保护作品。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185530732",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-09-08",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Droit d'auteur et propriété intellectuelle",
+            "hausse": true
+          },
+          {
+            "label": "▼ Industrie du divertissement numérique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Droit d'auteur et propriété intellectuelle",
+            "secteur_en": "Copyright and intellectual property rights",
+            "secteur_zh": "版权和知识产权",
+            "effet_fr": "Ce conflit pourrait entraîner une hausse des litiges juridiques et des coûts pour les institutions publiques utilisant des œuvres protégées sans licence.",
+            "effet_en": "This dispute may increase legal disputes and costs for public institutions using protected works without proper licensing.",
+            "effet_zh": "此争端可能导致公共机构未经许可使用受版权保护作品的法律纠纷和成本上升。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Industrie du divertissement numérique",
+            "secteur_en": "Digital entertainment industry",
+            "secteur_zh": "数字娱乐产业",
+            "effet_fr": "Les créateurs pourraient renforcer leurs exigences en matière de redevances pour les usages gouvernementaux ou institutionnels, impactant les budgets publics.",
+            "effet_en": "Creators may strengthen their royalty demands for governmental or institutional use, affecting public budgets.",
+            "effet_zh": "创作者可能加强对政府或机构使用的版税要求，影响公共预算。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-09T17:34:52.342466"
+      },
       {
         "id": "usa_544238",
         "titre": "Trump propose subventions massives aux parents",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-09-03T18:22:16.820912"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_327580",
-        "titre": "Hausse des commandes industrielles en juillet",
-        "titre_en": "US factory orders rise in July",
-        "titre_zh": "美国工厂订单七月上升",
-        "titre_ru": "Рост заказов на заводы США превысил прогнозы в июле",
-        "titre_fa": "افزایش سفارش‌های کارخانه‌ای آمریکا در ژوئیه از انتظارات فراتر رفت",
-        "titre_ar": "ارتفاع طلب المصانع الأمريكية في يوليو يتجاوز التوقعات",
-        "titre_original": "Rise in US factory orders beats expectations in July",
-        "resume": "Les commandes industrielles américaines ont augmenté de 0,9 % en juillet, après une baisse révisée de 0,2 % en juin. Cette hausse est portée par la demande en avions civils et pièces détachées. Les analystes soulignent un rebond de la production manufacturière.",
-        "resume_en": "US factory orders rose by 0.9% in July, reversing a revised 0.2% decline in June. The increase was driven by demand for civilian aircraft and parts. Analysts highlight a rebound in manufacturing production.",
-        "resume_zh": "美国七月工厂订单增长0.9%，扭转了六月修正后的0.2%下降。增长主要由民用飞机及零部件需求推动。分析师指出制造业生产出现反弹。",
-        "resume_ru": "В июле заказы на американские заводы выросли на 0,9%, что стало неожиданностью для аналитиков. Основной вклад в рост внесли заказы на гражданские самолёты и комплектующие. Это может свидетельствовать о восстановлении промышленного сектора после спада.",
-        "resume_fa": "در ماه ژوئیه، سفارش‌های کارخانه‌های آمریکا ۰.۹ درصد افزایش یافت که فراتر از پیش‌بینی‌ها بود. تقاضا برای هواپیماهای غیرنظامی و قطعات آن نقش مهمی در این رشد داشت. این امر می‌تواند نشانه‌ای از بهبود بخش صنعتی پس از رکود باشد.",
-        "resume_ar": "في يوليو، ارتفعت طلبات المصانع الأمريكية بنسبة 0.9%، متجاوزة التوقعات. ساهمت طلبات الطائرات المدنية والأجزاء بشكل كبير في هذا الارتفاع. وقد يشير ذلك إلى تعافي القطاع الصناعي بعد تراجع سابق.",
-        "analyse_detaillee": "Cette hausse des commandes industrielles s'inscrit dans un contexte de reprise post-pandémie et de tensions géopolitiques affectant les chaînes d'approvisionnement. Les commandes d'avions civils reflètent une demande mondiale soutenue, notamment en Asie. À court terme, cette croissance pourrait soutenir l'emploi dans le secteur manufacturier américain. À moyen terme, une demande accrue pourrait entraîner des pressions inflationnistes si l'offre ne suit pas. Les acteurs industriels, comme Boeing, bénéficient de cette dynamique. Les investisseurs surveillent les indicateurs de confiance des entreprises. À long terme, cette tendance pourrait renforcer la résilience de l'industrie américaine face à la concurrence internationale.",
-        "analyse_en": "This rise in industrial orders follows a post-pandemic recovery and geopolitical tensions disrupting supply chains. Civilian aircraft orders reflect strong global demand, particularly in Asia. In the short term, this growth could support employment in the US manufacturing sector. Medium-term, increased demand may lead to inflationary pressures if supply fails to keep up. Industry players like Boeing benefit from this trend. Investors are closely monitoring business confidence indicators. Long-term, this trend could strengthen the resilience of US industry against international competition.",
-        "analyse_zh": "工业订单增长是在疫情后复苏和地缘政治紧张局势扰乱供应链的背景下出现的。民用飞机订单反映了全球尤其是亚洲地区的强劲需求。短期内，这一增长可能支持美国制造业就业。中期来看，需求增加可能在供应跟不上时引发通胀压力。波音等行业参与者从中受益。投资者密切关注企业信心指标。长期来看，这一趋势可能增强美国工业对国际竞争的韧性。",
-        "analyse_ru": "Рост заказов на заводы США в июле стал важным индикатором восстановления экономики после спада. Основной причиной роста стали заказы на гражданские самолёты, что связано с восстановлением авиаперевозок после пандемии. Это может положительно сказаться на занятости и инвестициях в промышленность. Однако сохраняются риски из-за нестабильности глобальных цепочек поставок. Эксперты отмечают, что такой рост может быть временным, если не будет поддержки со стороны внутреннего спроса.",
-        "analyse_fa": "رشد سفارش‌های کارخانه‌ای آمریکا در ژوئیه نشانه مهمی از بهبود اقتصادی پس از رکود است. دلیل اصلی این رشد، سفارش‌های هواپیماهای غیرنظامی است که با احیای صنعت هوانوردی پس از همه‌گیری مرتبط است. این امر می‌تواند تأثیر مثبتی بر اشتغال و سرمایه‌گذاری در صنعت داشته باشد. با این حال، خطرات ناشی از ناپایداری زنجیره‌های تأمین جهانی همچنان وجود دارد. کارشناسان معتقدند که این رشد ممکن است موقتی باشد مگر اینکه حمایت از تقاضای داخلی صورت گیرد.",
-        "analyse_ar": "يعتبر ارتفاع طلبات المصانع الأمريكية في يوليو مؤشراً مهماً على تعافي الاقتصاد بعد التراجع. السبب الرئيسي لهذا الارتفاع هو طلبات الطائرات المدنية، التي ترتبط بإحياء صناعة الطيران بعد الجائحة. وقد يكون لهذا تأثير إيجابي على التوظيف والاستثمار في القطاع الصناعي. ومع ذلك، لا تزال هناك مخاطر ناجمة عن عدم استقرار سلاسل التوريد العالمية. يلاحظ الخبراء أن هذا الارتفاع قد يكون مؤقتاً ما لم يتم دعم الطلب المحلي.",
+        "id": "chine_17886",
+        "titre": "TSMC bat son record boursier malgré la hausse des stocks de puces",
+        "titre_en": "TSMC stock surges past early buy point",
+        "titre_zh": "台积电股价突破买入点位",
+        "titre_ru": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
+        "titre_fa": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
+        "titre_ar": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
+        "titre_original": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
+        "resume": "Les actions de TSMC, leader mondial des puces semiconductrices, ont grimpé de 2,51 % après avoir dépassé son point d’achat initial à 436 $. Ce rebond reflète la demande persistante pour les composants électroniques, malgré les défis de la chaîne d’approvisionnement. L’analyse IBD souligne une tendance haussière soutenue par le rallye des actions technologiques.",
+        "resume_en": "TSMC’s stock, the world’s leading semiconductor manufacturer, surged 2.51% after surpassing its early buy point at $436. The rally reflects sustained demand for electronic components despite supply chain challenges. IBD analysis highlights a bullish trend driven by the tech stock rally.",
+        "resume_zh": "台积电股价，全球半导体制造领导者，在突破436美元的早期买入点后上涨2.51%。这轮反弹反映了对电子元件持续的需求，尽管供应链面临挑战。IBD分析指出，技术股的牛市推动了这一看涨趋势。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "TSMC domine le marché des puces depuis les années 1990, avec une dépendance croissante à la demande asiatique, notamment chinoise. La pénurie mondiale de semi-conducteurs, aggravée par la guerre en Ukraine, a forcé les entreprises à stocker massivement, soutenant les prix. À court terme, cette hausse pourrait attirer plus d’investisseurs dans le secteur tech, mais aussi déclencher des régulations accrues sur les monopoles. À moyen terme, la Chine pourrait intensifier ses efforts pour réduire sa dépendance à TSMC via des investissements locaux. Long terme, l’innovation en IA et en 5G pourrait maintenir TSMC en tête, mais aussi accélérer la fragmentation géopolitique des chaînes d’approvisionnement.",
+        "analyse_en": "TSMC has dominated the semiconductor market since the 1990s, with growing dependence on Asian demand, particularly from China. The global chip shortage, worsened by the Ukraine war, forced companies to stockpile aggressively, supporting prices. Short-term, this surge may attract more investors to the tech sector but could also trigger stricter regulations on monopolies. Medium-term, China may intensify efforts to reduce dependence on TSMC through local investments. Long-term, AI and 5G innovation could keep TSMC ahead but also accelerate geopolitical fragmentation of supply chains.",
+        "analyse_zh": "台积电自上世纪90年代以来主导半导体市场，对亚洲需求（特别是中国）依赖日益增强。全球芯片短缺，因乌克兰战争恶化，迫使企业大量囤货，支持价格上涨。短期内，这一涨势可能吸引更多投资者进入科技行业，但也可能引发对垄断的更严格监管。中期内，中国可能加大力度减少对台积电的依赖，通过本土投资实现。长期来看，人工智能和5G创新可能让台积电保持领先，但也可能加速供应链的地缘政治分裂。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Économie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/rise-in-us-factory-orders-beats-expectations-in-july/articleshow/133713951.cms",
-        "image": "https://img.etimg.com/thumb/msid-133714012,width-1200,height-630,imgsize-95146,overlay-economictimes/articleshow.jpg",
-        "date": "2026-09-02",
-        "pays": "usa",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c2b2a50e11a67fb2",
+        "image": "https://biztoc.com/cdn/c2b2a50e11a67fb2_s.webp",
+        "date": "2026-09-08",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Secteur aéronautique",
+            "label": "▲ Marché des semi-conducteurs",
             "hausse": true
           },
           {
-            "label": "▼ Marché des matières premières",
+            "label": "▼ Technologies de l’information et de la communication (TIC)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur aéronautique",
-            "secteur_en": "Aerospace sector",
-            "secteur_zh": "航空航天行业",
-            "effet_fr": "La hausse des commandes d'avions civils stimule les carnets de commandes des grands constructeurs comme Boeing et Airbus.",
-            "effet_en": "The increase in civilian aircraft orders boosts order books for major manufacturers like Boeing and Airbus.",
-            "effet_zh": "民用飞机订单增长推动波音和空客等主要制造商的订单簿。",
+            "secteur_fr": "Marché des semi-conducteurs",
+            "secteur_en": "Semiconductor market",
+            "secteur_zh": "半导体市场",
+            "effet_fr": "La hausse des actions de TSMC reflète une confiance accrue dans la reprise de la demande en puces, bénéficiant aux fabricants de composants électroniques et aux fournisseurs de matières premières.",
+            "effet_en": "TSMC’s stock surge reflects increased confidence in chip demand recovery, benefiting electronic component manufacturers and raw material suppliers.",
+            "effet_zh": "台积电股价上涨反映了对芯片需求复苏的信心，惠及电子元件制造商和原材料供应商。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des matières premières",
-            "secteur_en": "Commodities market",
-            "secteur_zh": "大宗商品市场",
-            "effet_fr": "La demande accrue en métaux et composants industriels pourrait faire monter les prix des matières premières.",
-            "effet_en": "Increased demand for metals and industrial components could drive up commodity prices.",
-            "effet_zh": "对金属和工业部件需求增加可能推高大宗商品价格。",
+            "secteur_fr": "Technologies de l’information et de la communication (TIC)",
+            "secteur_en": "Information and Communication Technology (ICT)",
+            "secteur_zh": "信息与通信技术（ICT）",
+            "effet_fr": "Les investissements dans les infrastructures TIC pourraient être stimulés par la demande en puces, mais aussi par les coûts accrus liés à la sécurité des données et à la souveraineté numérique.",
+            "effet_en": "Investments in ICT infrastructure may be boosted by chip demand but also by increased costs related to data security and digital sovereignty.",
+            "effet_zh": "信息通信技术基础设施投资可能因芯片需求而增加，但数据安全和数字主权成本也会上升。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-03T14:53:25.291837"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-09-09T17:34:52.342498"
+      },
       {
         "id": "chine_136633",
         "titre": "Iran augmente prix de l’essence malgré crise",
@@ -3647,65 +3706,6 @@
           }
         ],
         "created_at": "2026-09-02T07:44:32.929336"
-      },
-      {
-        "id": "chine_754190",
-        "titre": "Exposition de Hong Kong : forte hausse des pré-inscriptions",
-        "titre_en": "Hong Kong Expo: 25% jump in buyer pre-registrations",
-        "titre_zh": "香港展会：买家预注册激增25%",
-        "titre_ru": "Рост предварительных заявок на выставку в Гонконге на 25%",
-        "titre_fa": "افزایش 25 درصدی پیش‌ثبت‌نام‌ها برای نمایشگاه هنگ کنگ",
-        "titre_ar": "ارتفاع 25% في التسجيلات المسبقة لمعرض هونغ كونغ",
-        "titre_original": "October 2026 Global Sources Hong Kong Shows: 25% Jump in Buyer Pre-registration as Europe, North America Lead the Surge",
-        "resume": "L'exposition Global Sources de Hong Kong en octobre 2026 enregistre une hausse de 25% des pré-inscriptions d'acheteurs, principalement en Europe et en Amérique du Nord. Cette tendance reflète une complexification des décisions d'approvisionnement et une recherche de diversification des sources.",
-        "resume_en": "The Global Sources Hong Kong Expo in October 2026 sees a 25% increase in buyer pre-registrations, mainly from Europe and North America. This trend reflects a growing complexity in procurement decisions and a search for diversified sourcing.",
-        "resume_zh": "2026年10月香港环球资源展会买家预注册增长25%，主要来自欧洲和北美。此趋势反映采购决策复杂化和寻求供应多元化。",
-        "resume_ru": "В Гонконге в октябре 2026 года ожидается значительный рост предварительных заявок на международную выставку Global Sources. По сравнению с прошлым годом количество заявок выросло на 25%, что связано с увеличением спроса из Европы и Северной Америки. Организаторы отмечают усложнение процесса принятия решений о закупках.",
-        "resume_fa": "در اکتبر 2026، نمایشگاه بین‌المللی Global Sources در هنگ کنگ با افزایش چشمگیری در پیش‌ثبت‌نام‌ها مواجه خواهد شد. تعداد ثبت‌نام‌ها 25 درصد نسبت به سال گذشته افزایش یافته است که به دلیل تقاضای بیشتر از اروپا و آمریکای شمالی است. برگزارکنندگان بر پیچیده‌تر شدن فرآیند تصمیم‌گیری برای خریدها تأکید می‌کنند.",
-        "resume_ar": "من المتوقع في أكتوبر 2026 في هونغ كونغ ارتفاع كبير في التسجيلات المسبقة للمعرض الدولي Global Sources. ارتفعت عدد التسجيلات بنسبة 25% مقارنة بالعام الماضي بسبب زيادة الطلب من أوروبا وأمريكا الشمالية. يسلط المنظمون الضوء على تعقيد عملية اتخاذ قرارات الشراء.",
-        "analyse_detaillee": "Cette exposition s'inscrit dans un contexte de tensions commerciales entre la Chine et l'Occident, poussant les entreprises à sécuriser leurs approvisionnements. Les enjeux principaux incluent la résilience des chaînes d'approvisionnement et la réduction de la dépendance à la Chine. Les causes profondes résident dans les politiques de délocalisation et les risques géopolitiques. À court terme, cette hausse des pré-inscriptions pourrait renforcer la position de Hong Kong comme hub commercial. À moyen terme, elle pourrait accélérer l'adoption de technologies d'approvisionnement automatisé. À long terme, elle pourrait redessiner les flux commerciaux mondiaux. Les acteurs principaux sont les entreprises européennes et américaines, ainsi que les autorités hongkongaises. La Chine pourrait réagir en renforçant ses propres expositions commerciales.",
-        "analyse_en": "This expo takes place in a context of trade tensions between China and the West, pushing companies to secure their supplies. The main stakes include supply chain resilience and reducing dependence on China. The root causes lie in relocation policies and geopolitical risks. In the short term, this increase in pre-registrations could strengthen Hong Kong's position as a trade hub. In the medium term, it could accelerate the adoption of automated sourcing technologies. In the long term, it could reshape global trade flows. The main actors are European and American companies, as well as Hong Kong authorities. China could react by strengthening its own trade expos.",
-        "analyse_zh": "此展会发生在中国与西方贸易紧张背景下，推动企业确保供应链安全。主要影响包括供应链韧性和减少对华依赖。深层原因在于外包政策和地缘政治风险。短期内，预注册增长可能巩固香港作为贸易枢纽的地位。中期内，可能加速自动化采购技术采用。长期内，可能重塑全球贸易流。主要参与者是欧洲和美国企业以及香港当局。中国可能通过加强自身展会应对。",
-        "analyse_ru": "Рост предварительных заявок на выставку в Гонконге свидетельствует о восстановлении международной торговли после пандемии. Причины увеличения спроса связаны с экономическим восстановлением Европы и Северной Америки. Последствия могут включать укрепление позиций Китая как торгового хаба и изменение структуры глобальных поставок. Перспективы зависят от стабильности экономической ситуации и геополитических факторов. Позиции сторон варьируются от оптимизма бизнес-сообщества до осторожности аналитиков, учитывающих возможные риски.",
-        "analyse_fa": "افزایش ثبت‌نام‌های پیشین برای نمایشگاه در هنگ کنگ نشان‌دهنده بهبود تجارت بین‌المللی پس از همه‌گیری است. دلایل افزایش تقاضا به بهبود اقتصادی اروپا و آمریکای شمالی مربوط می‌شود. پیامدها می‌تواند شامل تقویت جایگاه چین به عنوان یک مرکز تجاری و تغییر ساختار تأمین جهانی باشد. چشم‌اندازها به ثبات وضعیت اقتصادی و عوامل ژئوپلیتیکی بستگی دارد. موضع بازیگران از خوش‌بینی جامعه کسب و کار تا احتیاط تحلیلگران که به ریسک‌های احتمالی توجه دارند، متفاوت است.",
-        "analyse_ar": "يشير ارتفاع التسجيلات المسبقة لمعرض في هونغ كونغ إلى انتعاش التجارة الدولية بعد الجائحة. ترتبط أسباب زيادة الطلب بتعافي اقتصادات أوروبا وأمريكا الشمالية. قد تشمل العواقب تعزيز مكانة الصين كلاعب تجاري رئيسي وتغيير هيكل الإمدادات العالمية. الآفاق تعتمد على استقرار الوضع الاقتصادي والعوامل الجيوسياسية. تختلف مواقف الأطراف بين التفاؤل في أوساط الأعمال وحذر المحللين الذين يراعون المخاطر المحتملة.",
-        "categorie": "Économie et commerce international",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/october-2026-global-sources-hong-kong-shows-25-jump-in-buyer-pre-registration-as-europe-north-america-lead-the-surge-302865589.html",
-        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
-        "date": "2026-09-01",
-        "pays": "chine",
-        "badges": [
-          {
-            "label": "▲ Secteur de la logistique",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des technologies d'approvisionnement",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la logistique",
-            "secteur_en": "Logistics sector",
-            "secteur_zh": "物流行业",
-            "effet_fr": "L'augmentation des pré-inscriptions pourrait stimuler la demande en services logistiques spécialisés pour les expositions.",
-            "effet_en": "The increase in pre-registrations could boost demand for specialized logistics services for expos.",
-            "effet_zh": "预注册增长可能推动展会专业物流服务需求。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des technologies d'approvisionnement",
-            "secteur_en": "Procurement technology market",
-            "secteur_zh": "采购技术市场",
-            "effet_fr": "Les entreprises pourraient investir davantage dans des solutions technologiques pour optimiser leurs chaînes d'approvisionnement.",
-            "effet_en": "Companies could invest more in technological solutions to optimize their supply chains.",
-            "effet_zh": "企业可能加大投资技术解决方案，优化供应链。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-02T02:57:54.858228"
       }
     ],
     "russie": [
@@ -6075,6 +6075,126 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_534146",
+      "titre": "CVC élargit son panel judiciaire",
+      "titre_en": "CVC expands judicial panel",
+      "titre_zh": "CVC扩大司法成员范围",
+      "titre_ru": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
+      "titre_fa": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
+      "titre_ar": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
+      "titre_original": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
+      "resume": "La Chambre de prise en charge des violences conjugales (CVC) de Reims a intégré un nouveau membre, Mathieu, après cinq ans de traitement judiciaire des cas de violence conjugale. Ce changement intervient dans un contexte où les victimes, comme celle enfermée dans une chambre, peinent à obtenir justice. L’institution cherche à renforcer son approche pour mieux accompagner les plaignantes.",
+      "resume_en": "Reims’ Domestic Violence Handling Chamber (CVC) added a new member, Mathieu, after five years of judicial processing of domestic violence cases. Victims, including one locked in a room, struggle for justice, prompting the institution to enhance its support mechanisms. The move aims to better assist complainants in a persistent systemic issue.",
+      "resume_zh": "雷姆的家庭暴力处理室（CVC）新增成员马修，经过五年对家庭暴力案件的司法处理。受害者，包括被关在房间的女性，难以获得公正，促使机构加强支持措施。这一举措旨在更好地协助投诉者，应对长期存在的系统性问题。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La violence conjugale en France reste un fléau structurel, avec près de 200 000 victimes annuelles selon les chiffres officiels. Les retards procéduraux et l’isolement des victimes, souvent aggravés par des mécanismes de culpabilisation, expliquent les difficultés d’accès à la justice. Les réformes judiciaires récentes, comme la création des CVC, visent à accélérer les procédures, mais leur efficacité dépend de la formation des magistrats et de la coordination avec les associations. À court terme, cette intégration pourrait améliorer la crédibilité des enquêtes, mais le manque de moyens humains persiste. À moyen terme, une meilleure prévention et éducation pourraient réduire les récidives, tandis que les perspectives long terme reposent sur une transformation culturelle profonde. Les associations féministes saluent cette évolution, mais critiquent l’insuffisance des sanctions pénales contre les auteurs.",
+      "analyse_en": "Domestic violence in France remains a structural issue, with nearly 200,000 victims annually according to official data. Procedural delays and victim isolation, often worsened by blame mechanisms, explain access-to-justice challenges. Recent judicial reforms, like the creation of CVCs, aim to speed up proceedings but depend on magistrates’ training and coordination with NGOs. Short-term, this addition may boost investigation credibility, but human resource shortages remain. Medium-term, better prevention and education could reduce recidivism, while long-term prospects hinge on deep cultural change. Feminist groups welcome the move but criticize insufficient penalties for perpetrators.",
+      "analyse_zh": "法国家庭暴力仍是结构性问题，每年近20万受害者。司法程序拖延和受害者孤立，常因罪责归咎加剧，导致难以获得公正。近期司法改革如CVC成立旨在加速程序，但效果取决于法官培训和与NGO的协同。短期内，新成员加入可能提升调查可信度，但人手不足依然存在。中期内，更好预防教育可减少重犯率，长期前景则依赖文化深层变革。女性主义组织称赞这一进展，但批评对施暴者的刑事惩罚不足。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains et justice",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/regions/charleroi/courcelles/2026/09/08/cinq-annees-de-violence-conjugale-jugee-devant-la-justice-carolo-mathieu-integre-la-cvc-M67WWSPWGNFLBLEIE57NBVY4SA/",
+      "image": "https://www.lavenir.net/resizer/v2/4QDYQUOOEBGYVJNP526DMAMJR4.jpg?auth=85a285661fc4b6d79651ddc96a016abf7a62f524245dd043ae6201d8fc93fc2b&width=1200&height=630&quality=85&focal=549%2C366",
+      "date": "2026-09-08",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile (RC)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds de solidarité pour les victimes (FSV)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile (RC)",
+          "secteur_en": "Civil liability insurance (CLI)",
+          "secteur_zh": "民事责任保险（RC）",
+          "effet_fr": "Les victimes de violences conjugales pourraient voir leurs primes d’assurance augmenter en raison de l’augmentation des réclamations liées à des négligences ou agressions non couvertes initialement.",
+          "effet_en": "Victims of domestic violence may face higher insurance premiums due to increased claims for negligence or assaults initially not covered.",
+          "effet_zh": "家庭暴力受害者可能因未初步覆盖的疏忽或攻击索赔增加，导致保险费用上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de solidarité pour les victimes (FSV)",
+          "secteur_en": "Solidarity Fund for Victims (FSV)",
+          "secteur_zh": "受害者互助基金（FSV）",
+          "effet_fr": "Le FSV pourrait être sollicité davantage pour indemniser les victimes, mais son budget limité pourrait entraîner des retards dans les paiements ou des réductions des montants alloués.",
+          "effet_en": "The FSV may be increasingly called upon to compensate victims, but its limited budget could lead to payment delays or reduced payout amounts.",
+          "effet_zh": "互助基金可能被更频繁用于赔偿受害者，但有限的预算可能导致支付延迟或减少赔偿金额。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-09-09T17:35:52.770516",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_297422",
+      "titre": "Bruxelles cache pollution souterraine massive",
+      "titre_en": "Brussels hides severe soil pollution",
+      "titre_zh": "布鲁塞尔隐瞒严重土壤污染",
+      "titre_ru": "Enquête. Sols bruxellois : pollution sous-estimée",
+      "titre_fa": "Enquête. Sols bruxellois : pollution sous-estimée",
+      "titre_ar": "Enquête. Sols bruxellois : pollution sous-estimée",
+      "titre_original": "Enquête. Sols bruxellois : pollution sous-estimée",
+      "resume": "À Bruxelles, des siècles de dépôts sauvages de déchets industriels ont contaminé les sols avec des métaux lourds, des PFAS et des pesticides, sans que leur étendue ne soit pleinement connue. Les autorités locales peinent à évaluer l’ampleur de la pollution et ses risques pour la santé publique. Cette situation révèle un manque criant de transparence et de moyens pour gérer un héritage toxique.",
+      "resume_en": "In Brussels, decades of illegal industrial waste dumping have polluted soils with heavy metals, PFAS, and pesticides, yet the full extent remains unknown. Local authorities struggle to assess pollution risks and their public health impacts. This highlights a severe lack of transparency and resources to address a toxic legacy.",
+      "resume_zh": "布鲁塞尔数世纪来的工业废物非法倾倒污染了土壤，含有重金属、PFAS和农药，但污染范围未被充分掌握。当地政府难以评估污染风险及对公众健康的影响。这暴露出透明度和资源严重不足，无法处理有毒遗产。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La pollution des sols à Bruxelles s’inscrit dans une histoire industrielle marquée par l’absence de réglementations strictes avant les années 1980, période où les déchets toxiques étaient souvent rejetés sans contrôle. Les PFAS, surnommés « substances éternelles », persistent dans l’environnement pendant des siècles et contaminent les nappes phréatiques, menaçant l’approvisionnement en eau potable. Les conséquences à court terme incluent des risques sanitaires accrus pour les populations locales, notamment via la consommation d’aliments cultivés sur sols pollués. À moyen terme, les coûts de dépollution pourraient atteindre des milliards d’euros, pesant sur les budgets municipaux déjà fragiles. Les perspectives long terme dépendent de l’adoption de politiques européennes strictes et de financements internationaux pour les pays en retard. Les ONG environnementales dénoncent l’inertie des autorités, tandis que les industriels historiques refusent toute responsabilité sans preuves juridiques.",
+      "analyse_en": "Brussels’ soil pollution stems from an industrial history with lax regulations before the 1980s, when toxic waste was often dumped without oversight. PFAS, dubbed ‘forever chemicals,’ persist for centuries, contaminating groundwater and threatening drinking water supplies. Short-term consequences include heightened health risks for locals, particularly from consuming crops grown on polluted soil. Medium-term, remediation costs could reach billions, straining already fragile municipal budgets. Long-term prospects hinge on strict EU policies and international funding for lagging countries. Environmental NGOs condemn authorities’ inaction, while historical industries deny liability without legal proof.",
+      "analyse_zh": "布鲁塞尔土壤污染源于工业历史中20世纪80年代前缺乏严格法规，当时有毒废物常被随意倾倒。PFAS（永久性化学物质）可在环境中持续数世纪，污染地下水，威胁饮用水安全。短期内，当地居民健康风险上升，特别是通过食用在污染土壤中种植的农作物。中期内，清理成本可能高达数十亿欧元，加重本已脆弱的市政预算。长期前景取决于欧盟严格政策和国际资金支持落后国家。环保组织谴责当局的消极态度，而历史工业企业则在缺乏法律证据下拒绝承担责任。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement et santé publique",
+      "source": "Medor.coop",
+      "url": "https://medor.coop/magazines/medor-n44-automne-2026/sols-pollution-bruxelles-environnement-pfas-metaux-lourds-dechets-pesticides-industrie-inventaire-carte-region/",
+      "image": "https://medor.coop/media/images/doublepage_V2l.2e16d0ba.fill-1200x630.jpg",
+      "date": "2026-09-08",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance environnementale (pollution)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché immobilier (valeurs foncières)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance environnementale (pollution)",
+          "secteur_en": "Environmental insurance (pollution)",
+          "secteur_zh": "环境污染保险",
+          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter en raison de la hausse des risques liés à la pollution des sols, notamment pour les zones industrielles et résidentielles exposées.",
+          "effet_en": "Insurers may face higher premiums due to increased soil pollution risks, particularly in industrial and residential areas exposed to contamination.",
+          "effet_zh": "保险公司可能因土壤污染风险上升而提高保费，特别是在暴露于污染的工业和居民区。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché immobilier (valeurs foncières)",
+          "secteur_en": "Real estate market (land values)",
+          "secteur_zh": "房地产市场（土地价值）",
+          "effet_fr": "Les propriétés situées sur des sols pollués pourraient perdre jusqu’à 30 % de leur valeur, affectant les investisseurs et les propriétaires, tout en compliquant les transactions immobilières.",
+          "effet_en": "Properties on polluted soil could lose up to 30 % of their value, impacting investors and homeowners while complicating real estate transactions.",
+          "effet_zh": "位于污染土壤上的房产价值可能下降30%，影响投资者和业主，并使房地产交易复杂化。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-09-09T17:35:52.770538",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_805309",
       "titre": "Meurtre conjugal : huile bouillante tue un médecin",
       "titre_en": "Spousal murder: boiling oil kills doctor",
@@ -6372,66 +6492,6 @@
         }
       ],
       "created_at": "2026-09-03T05:33:56.256042",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_699875",
-      "titre": "Fernando Cerimedo, accusé de féminicide",
-      "titre_en": "Fernando Cerimedo, accused of femicide",
-      "titre_zh": "费尔南多·塞里梅多被控杀害女性",
-      "titre_ru": "Кто такой Фернандо Серимедо, «мужчина MAGA в Латинской Америке»?",
-      "titre_fa": "فرناندو سریمدو کیست، «مرد مگا در آمریکای لاتین»؟",
-      "titre_ar": "من هو فرناندو سريميدو، «الرجل ماغا» في أمريكا اللاتينية؟",
-      "titre_original": "Qui est Fernando Cerimedo, “homme Maga en Amérique latine” et accusé de tentative de féminicide ?",
-      "resume": "Fernando Cerimedo, consultant en communication numérique, est accusé d’avoir commandité une tentative de féminicide en Bolivie. Il est proche des dirigeants d’extrême droite latino-américains, dont le président bolivien Rodrigo Paz. Son rôle dans la radicalisation politique en Amérique latine est mis en cause.",
-      "resume_en": "Fernando Cerimedo, a digital communication consultant, is accused of orchestrating an attempted femicide in Bolivia. He is close to far-right leaders in Latin America, including Bolivian President Rodrigo Paz. His role in political radicalization in the region is questioned.",
-      "resume_zh": "费尔南多·塞里梅多是一名数字通信顾问，被控在玻利维亚策划了一起针对女性的谋杀未遂案。他与拉美极右翼领导人关系密切，包括玻利维亚总统罗德里戈·帕斯。其在该地区政治激进化中的角色受到质疑。",
-      "resume_ru": "Фернандо Серимедо, консультант по цифровым коммуникациям, обвиняется в заказе попытки феминицида. Он работал с лидерами ультраправых в Латинской Америке, включая президента Боливии Родриго Паса. Его обвиняют в причастности к нападению на активистку.",
-      "resume_fa": "فرناندو سریمدو، مشاور ارتباطات دیجیتال رهبران راست افراطی آمریکای لاتین از جمله رئیس‌جمهور بولیوی، رودریگو پاس، متهم به دستور قتل یک زن است. او به تلاش برای قتل یک فعال حقوق زنان متهم شده است.",
-      "resume_ar": "فرناندو سريميدو، مستشار الاتصالات الرقمية للقيادات اليمينية المتطرفة في أمريكا اللاتينية، من بينهم الرئيس البوليفي رودريغو باز، متهم بتلقيه أمر محاولة قتل امرأة. كما يتهم بالضلوع في الاعتداء على ناشطة نسوية.",
-      "analyse_detaillee": "Fernando Cerimedo incarne une tendance croissante de l’extrême droite latino-américaine, où les discours misogynes et violents gagnent du terrain. Son lien avec des dirigeants au pouvoir, comme Rodrigo Paz, révèle une instrumentalisation de la communication pour diffuser des idéologies radicales. Les accusations de féminicide soulèvent des questions sur l’impunité des élites politiques dans la région. À court terme, cette affaire pourrait renforcer les mobilisations féministes en Amérique latine. À moyen terme, elle risque d’alimenter les tensions politiques et sociales, déjà fragilisées par des crises économiques. À long terme, elle pourrait influencer les dynamiques électorales en faveur des mouvements progressistes. Les acteurs politiques boliviens et latino-américains se divisent entre ceux qui le soutiennent et ceux qui dénoncent un système corrompu. Les organisations de défense des droits des femmes appellent à une justice indépendante.",
-      "analyse_en": "Fernando Cerimedo embodies a growing trend in Latin American far-right politics, where misogynistic and violent rhetoric is gaining ground. His ties to leaders in power, such as Rodrigo Paz, reveal the instrumentalization of communication to spread radical ideologies. The femicide accusations raise questions about the impunity of political elites in the region. In the short term, this case could strengthen feminist mobilizations in Latin America. In the medium term, it risks fueling political and social tensions, already weakened by economic crises. In the long term, it could influence electoral dynamics in favor of progressive movements. Bolivian and Latin American political actors are divided between those who support him and those who denounce a corrupt system. Women's rights organizations are calling for independent justice.",
-      "analyse_zh": "费尔南多·塞里梅多代表了拉美极右翼日益增长的趋势，其仇视女性和暴力言论不断抬头。他与掌权领导人（如罗德里戈·帕斯）的关系显示出通信工具被用于传播激进意识形态。针对女性的谋杀指控引发了对该地区政治精英免于惩罚的质疑。短期内，此案可能加强拉美女权运动。中期来看，它可能加剧已被经济危机削弱的政治和社会紧张局势。长期而言，它可能推动有利于进步运动的选举动态。玻利维亚和拉美政治行为者分为支持者和谴责腐败制度者。女性权利组织呼吁独立司法。",
-      "analyse_ru": "Фернандо Серимедо представляет собой фигуру, связывающую ультраправые движения США и Латинской Америки. Его обвинения в попытке феминицида отражают растущую поляризацию в регионе, где женское движение сталкивается с сопротивлением консервативных сил. Последствия скандала могут усилить протесты против насилия в отношении женщин и подорвать позиции ультраправых. Перспективы зависят от исхода судебного процесса и реакции международного сообщества. Позиции сторон разделились: одни видят в этом политическую расправу, другие — справедливое наказание за преступление.",
-      "analyse_fa": "فرناندو سریمدو نماد ارتباط جنبش‌های راست افراطی آمریکا و آمریکای لاتین است. اتهامات او در تلاش برای قتل یک زن، بازتابی از قطب‌بندی فزاینده در منطقه است، جایی که جنبش زنان با مقاومت نیروهای محافظه‌کار روبرو است. پیامدهای این رسوایی می‌تواند اعتراضات علیه خشونت علیه زنان را تشدید کند و موقعیت راست‌های افراطی را تضعیف کند. چشم‌اندازها به نتیجه دادگاه و واکنش جامعه بین‌المللی بستگی دارد. مواضع بازیگران متفاوت است: برخی این را یک انتقام سیاسی می‌دانند و برخی دیگر آن را مجازات عادلانه یک جنایت می‌شمارند.",
-      "analyse_ar": "فرناندو سريميدو يمثل شخصية تربط بين الحركات اليمينية المتطرفة في الولايات المتحدة وأمريكا اللاتينية. اتهامات محاولة قتل امرأة تعكس تصاعد الاستقطاب في المنطقة، حيث تواجه الحركة النسائية مقاومة القوى المحافظة. قد تؤدي تداعيات الفضيحة إلى تصاعد الاحتجاجات ضد العنف ضد النساء وتضعف موقف اليمين المتطرف. ترتبط الآفاق بقرار المحكمة وردود الفعل الدولية. تختلف مواقف الأطراف: يرى البعض أنها انتقام سياسي، بينما يعتبرها آخرون عقاباً عادلاً على جريمة.",
-      "categorie": "Politique",
-      "source": "Courrier International",
-      "url": "https://www.courrierinternational.com/article/argentine-qui-est-fernando-cerimedo-homme-maga-en-amerique-latine-et-accuse-de-tentative-de-feminicide_262835",
-      "image": "https://focus.courrierinternational.com/2026/08/22/0/0/5500/3666/1200/630/60/0/6953a88_ftp-1-g2ay3voifasn-2026-08-22t042104z-1187288395-rc2a3naw3gbt-rtrmadp-3-bolivia-crime.JPG",
-      "date": "2026-08-27",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▼ Secteur des médias numériques",
-          "hausse": false
-        },
-        {
-          "label": "▼ Secteur de la justice",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Secteur des médias numériques",
-          "secteur_en": "Digital media sector",
-          "secteur_zh": "数字媒体行业",
-          "effet_fr": "L’affaire pourrait entraîner une régulation accrue des plateformes numériques utilisées pour diffuser des discours de haine.",
-          "effet_en": "The case could lead to stricter regulation of digital platforms used to spread hate speech.",
-          "effet_zh": "此案可能导致对传播仇恨言论的数字平台加强监管。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Secteur de la justice",
-          "secteur_en": "Judicial sector",
-          "secteur_zh": "司法行业",
-          "effet_fr": "La crédibilité des institutions judiciaires boliviennes est remise en question, risquant d’éroder la confiance des citoyens.",
-          "effet_en": "The credibility of Bolivian judicial institutions is questioned, risking erosion of public trust.",
-          "effet_zh": "玻利维亚司法机构的公信力受到质疑，可能侵蚀公众信任。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-08-29T03:31:57.038831",
       "sous_categorie": "femmes"
     },
     {
@@ -7092,66 +7152,6 @@
         }
       ],
       "created_at": "2026-09-06T16:46:45.823078",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_805002",
-      "titre": "Acétamipride : fake news sur un pesticide réautorisé",
-      "titre_en": "Acetamipride: debunking pesticide fake news",
-      "titre_zh": "乙酰甲胺磷：假新闻解析",
-      "titre_ru": "Является ли ацетамиприд в ошейниках от блох для собак опасным?",
-      "titre_fa": "آکتیامپرید، سمی موجود در گردن‌بندهای ضد کپک‌دار سگ‌ها؟",
-      "titre_ar": "هل يوجد مبيد حشري في عقال الكلاب ضد القمل؟",
-      "titre_original": "L'acétamipride, un pesticide présent dans les colliers antipuces des chiens ? \"Complément d'enquête\" a remonté l'itinéraire d'une fake news",
-      "resume": "L’acétamipride, un pesticide récent en France, est au cœur d’une polémique après la diffusion d’une fake news affirmant sa présence dans les colliers antipuces. Les autorités sanitaires rassurent en précisant qu’il est déjà présent dans de nombreux foyers, notamment via des produits ménagers. Cette désinformation illustre les risques de panique collective face aux substances chimiques controversées.",
-      "resume_en": "Acetamipride, a recently reauthorized pesticide in France, is at the center of controversy after fake news claimed its presence in dog flea collars. Health authorities reassure that it is already found in many households, mainly through household products. This misinformation highlights the risks of collective panic over controversial chemicals.",
-      "resume_zh": "乙酰甲胺磷是法国近期重新批准的农药，因假新闻称其存在于狗驱虫项圈而引发争议。卫生当局表示，它已广泛存在于家庭中，主要通过家庭清洁产品。这种误导性信息展示了对化学物质争议的集体恐慌风险。",
-      "resume_ru": "Популярное средство от блох для собак содержит ацетамиприд — вещество, которое недавно было повторно разрешено в России. Однако появились слухи о его опасности, особенно после распространения фейковой новости. Эксперты успокаивают: этот пестицид безопасен, так как уже давно присутствует в быту, включая бытовую химию и другие продукты.",
-      "resume_fa": "یک ماده شیمیایی به نام آکتیامپرید که در گردن‌بندهای ضد کپک‌دار سگ‌ها وجود دارد، اخیراً در ایران مجوز مجدد دریافت کرده است. اما خبرهای نادرست در مورد خطر این ماده پخش شده است. متخصصان اطمینان می‌دهند که این سم کشاورزی بی‌خطر است، زیرا از قبل در خانه‌ها، از جمله مواد شیمیایی خانگی و محصولات دیگر، وجود دارد.",
-      "resume_ar": "المادة الكيميائية الأسيتاميبريد، التي توجد في عقال الكلاب ضد القمل، تم إعادة ترخيصها مؤخرًا في فرنسا. لكن هناك أخبار مزيفة حول خطورتها، خاصة بعد انتشار أخبار كاذبة. يؤكد الخبراء أن هذا المبيد الحشري آمن، لأنه موجود بالفعل في المنازل، بما في ذلك المنتجات المنزلية الأخرى.",
-      "analyse_detaillee": "L’acétamipride, interdit en 2018 pour ses risques neurotoxiques, a été réautorisé en 2024 sous conditions strictes, reflétant une tension entre sécurité sanitaire et pression économique. La fake news exploite l’incompréhension publique sur les pesticides résiduels et les normes européennes, souvent perçues comme laxistes. À court terme, cette désinformation pourrait freiner l’adoption du produit par les consommateurs et les éleveurs. À moyen terme, elle pourrait renforcer les contrôles sur les allégations environnementales des produits chimiques. Long terme, elle souligne la nécessité d’une communication transparente sur les risques réels et les seuils de sécurité. Les associations écologistes dénoncent une réautorisation trop rapide, tandis que les lobbies agricoles défendent son utilité économique.",
-      "analyse_en": "Acetamipride, banned in 2018 for neurotoxic risks, was reauthorized in 2024 under strict conditions, reflecting a tension between health safety and economic pressure. The fake news exploits public misunderstanding of pesticide residues and perceived lax EU standards. Short-term, this misinformation could deter consumer and breeder adoption of the product. Medium-term, it may strengthen controls on environmental claims of chemicals. Long-term, it highlights the need for transparent communication on real risks and safety thresholds. Environmental groups condemn a too-quick reauthorization, while agricultural lobbies defend its economic utility.",
-      "analyse_zh": "乙酰甲胺磷因神经毒性风险于2018年禁用，2024年在严格条件下重新批准，反映了健康安全与经济压力的紧张关系。假新闻利用公众对农药残留和欧盟标准的误解，后者常被视为宽松。短期内，这种误导可能阻碍消费者和养殖者采用该产品。中期内，它可能加强对化学品环境声明的监管。长期来看，它凸显了透明沟通实质风险和安全门槛的必要性。环保组织谴责重新批准过快，而农业利益集团则强调其经济价值。",
-      "analyse_ru": "Ацетамиприд — это не новый пестицид, а вещество, которое уже давно используется в сельском хозяйстве и бытовой химии. Его повторное разрешение в России вызвало панику из-за фейковых новостей, но эксперты подчеркивают, что опасность преувеличена. На самом деле, это вещество присутствует в повседневной жизни, и его воздействие на человека минимально при соблюдении инструкций. Однако, распространение ложной информации может вызвать ненужную тревогу у владельцев домашних животных. Важно отличать реальные данные от слухов, чтобы не принимать необоснованных мер предосторожности. В будущем необходимо усилить контроль за распространением подобных фейковых новостей, чтобы избежать паники среди населения.",
-      "analyse_fa": "آکتیامپرید یک سم قدیمی است که در کشاورزی و مواد شیمیایی خانگی به کار می‌رود. مجوز مجدد آن در ایران باعث ایجاد نگرانی شد، اما متخصصان تأکید می‌کنند که خطر آن بیش از حد ارزیابی شده است. در واقع، این ماده در زندگی روزمره وجود دارد و تأثیر آن بر انسان در صورت رعایت دستورالعمل‌ها بسیار کم است. اما پخش خبرهای نادرست می‌تواند نگرانی غیرضروری در مالکان حیوانات خانگی ایجاد کند. مهم است که بین داده‌های واقعی و افواهای نادرست تمایز قائل شویم تا اقدامات احتیاطی غیرموجهی انجام ندهیم. در آینده، کنترل بیشتر بر پخش چنین خبرهای نادرست ضروری است تا از ایجاد پانیک در جامعه جلوگیری شود.",
-      "analyse_ar": "الأسيتاميبريد ليس مادة كيميائية جديدة، بل هو مركب موجود منذ فترة طويلة في الزراعة والمنتجات المنزلية. إعادة ترخيصه في فرنسا أثارت الذعر بسبب الأخبار الكاذبة، لكن الخبراء يؤكدون أن الخطر مبالغ فيه. في الواقع، هذا المركب موجود في الحياة اليومية، وتأثيره على الإنسان ضئيل عند اتباع التعليمات. لكن انتشار أخبار مزيفة قد يسبب قلقًا غير ضروري لدى مالكي الحيوانات الأليفة. من المهم التمييز بين البيانات الحقيقية والأخبار الكاذبة لتجنب اتخاذ تدابير احترازية غير مبررة. في المستقبل، يجب تعزيز الرقابة على انتشار مثل هذه الأخبار الكاذبة لتجنب الذعر في المجتمع.",
-      "categorie": "Environnement",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-l-acetamipride-un-pesticide-present-dans-les-colliers-antipuces-des-chiens-complement-d-enquete-a-remonte-l-itineraire-d-une-fake-news_8173373.html",
-      "image": "https://www.franceinfo.fr/pictures/fBdOsFDCkUwjy4_OIXBurl_mvnA/0x0:1920x1080/1500x843/2026/09/03/6a992cd38c142465243896.jpg",
-      "date": "2026-09-03",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Marché des pesticides agricoles",
-          "hausse": false
-        },
-        {
-          "label": "▲ Assurances responsabilité environnementale",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Marché des pesticides agricoles",
-          "secteur_en": "Agricultural pesticide market",
-          "secteur_zh": "农药市场",
-          "effet_fr": "La désinformation pourrait entraîner une baisse temporaire des ventes, mais les acteurs du secteur misent sur la réautorisation pour relancer la confiance.",
-          "effet_en": "Misinformation may cause a temporary drop in sales, but industry actors bet on reauthorization to restore consumer trust.",
-          "effet_zh": "误导信息可能导致暂时销售下滑，但行业参与者依赖重新批准来恢复消费者信心。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurances responsabilité environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient renforcer les clauses de couverture pour les produits chimiques controversés, augmentant les coûts pour les entreprises.",
-          "effet_en": "Insurers may tighten coverage clauses for controversial chemicals, raising costs for companies.",
-          "effet_zh": "保险公司可能加强对争议化学品的理赔条款，提高企业成本。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-05T13:24:36.867635",
       "sous_categorie": "environnement"
     }
   ]
