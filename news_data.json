@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/09/2026 à 10h41",
+  "last_updated": "10/09/2026 à 14h51",
   "articles": {
     "monde": [
       {
@@ -6075,66 +6075,6 @@
   },
   "politique": [
     {
-      "id": "pol_enfants_840131",
-      "titre": "IA et protection des enfants",
-      "titre_en": "AI and Child Protection",
-      "titre_zh": "人工智能与儿童保护",
-      "titre_ru": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "titre_fa": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "titre_ar": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "titre_original": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "resume": "L’article interroge sur les défis posés par l’intelligence artificielle pour la protection de l’enfance, entre opportunités technologiques et risques de manipulation ou d’exploitation. Il souligne l’urgence de réguler sans étouffer l’innovation, notamment dans un contexte où les enfants grandissent immergés dans des écosystèmes numériques. Les enjeux éthiques, juridiques et éducatifs sont au cœur des débats.",
-      "resume_en": "The article examines the challenges AI poses for child protection, balancing technological opportunities with risks of manipulation or exploitation. It highlights the need for regulation without stifling innovation, as children grow up immersed in digital ecosystems. Ethical, legal, and educational stakes dominate the discussions.",
-      "resume_zh": "文章探讨人工智能对儿童保护带来的挑战，平衡技术机遇与被操控或滥用的风险。强调在儿童成长于数字生态系统中，需要监管但不扼杀创新。伦理、法律和教育问题成为讨论焦点。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Depuis les années 2000, l’essor des technologies numériques a transformé les dynamiques éducatives et sociales, mais l’IA accélère ces mutations en automatisant les interactions et les données personnelles des mineurs. Les principaux enjeux concernent la protection contre les contenus toxiques, la vie privée et la dépendance aux algorithmes, souvent exploités par des acteurs malveillants ou des plateformes peu scrupuleuses. Les causes profondes incluent un cadre légal fragmenté (RGPD incomplet pour les mineurs) et un manque de sensibilisation des parents et enseignants. À court terme, on observe une augmentation des cas de cyberharcèlement et d’exposition précoce à des contenus inappropriés, tandis que les écoles peinent à intégrer des outils pédagogiques sécurisés. À moyen terme, les risques de déshumanisation des relations sociales et de biais algorithmiques dans l’éducation pourraient marginaliser les plus vulnérables. Long terme, une régulation européenne stricte (comme le *Digital Services Act*) et l’émergence de modèles éducatifs hybrides pourraient rééquilibrer les pouvoirs, mais dépendent de la coopération entre États et acteurs privés. Les ONG prônent une approche centrée sur l’enfant, tandis que les géants tech défendent leur rôle d’innovation, créant un conflit permanent entre sécurité et liberté.",
-      "analyse_en": "Since the 2000s, the rise of digital technologies has reshaped educational and social dynamics, but AI has accelerated these changes by automating interactions and processing minors' personal data. Key stakes involve protecting children from toxic content, privacy violations, and algorithmic addiction, often exploited by malicious actors or unscrupulous platforms. Root causes include fragmented legal frameworks (incomplete GDPR for minors) and a lack of parental and teacher awareness. Short-term, cyberbullying cases and early exposure to inappropriate content have surged, while schools struggle to adopt secure educational tools. Medium-term, risks of dehumanizing social relationships and algorithmic bias in education could marginalize the most vulnerable. Long-term, stricter EU regulations (like the *Digital Services Act*) and hybrid educational models might rebalance power, but depend on cooperation between states and private actors. NGOs advocate for child-centered approaches, while tech giants defend their innovation role, creating an ongoing conflict between security and freedom.",
-      "analyse_zh": "2000年以来，数字技术的兴起改变了教育和社会互动，但人工智能加速了这一进程，通过自动化与未成年人相关的互动和个人数据处理。主要挑战包括保护儿童免受有害内容、隐私泄露和算法成瘾的影响，这些往往被恶意行为者或不负责任的平台利用。深层原因包括法律框架碎片化（GDPR对未成年人保护不足）和家长、教师缺乏意识。短期内，网络欺凌案件和过早接触不适内容增加，学校难以采用安全的教育工具。中期内，人际关系去人性化和教育算法偏见可能边缘化最脆弱群体。长期来看，欧盟更严格的监管（如《数字服务法》）和混合教育模式可能重新平衡权力，但需依赖国家与私营部门的合作。非政府组织倡导以儿童为中心的方法，而科技巨头则强调创新角色，在安全与自由之间形成持续冲突。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Technologie & Société",
-      "source": "JDN",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554279-quelle-protection-de-l-enfance-a-l-ere-de-l-intelligence-artificielle/",
-      "image": "https://img-0.journaldunet.com/rvX0dUOP8stsR8rim48Pz8SEqMo=/1500x/smart/8fa0d008111e4a0fbe6f8dfe83c58f2a/user-jdn/39543448-jade-charlotte-caboche.jpg",
-      "date": "2026-09-09",
-      "pays": "pol_enfants",
-      "badges": [
-        {
-          "label": "▲ Assurances cyber (protection des données enfants)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Fintech éducative (prêts étudiants IA)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances cyber (protection des données enfants)",
-          "secteur_en": "Cyber insurance (child data protection)",
-          "secteur_zh": "网络保险（儿童数据保护）",
-          "effet_fr": "Les assureurs cyber voient leurs primes augmenter pour couvrir les risques liés aux fuites de données d’enfants, poussant les familles à souscrire des contrats plus chers ou à adopter des mesures préventives coûteuses.",
-          "effet_en": "Cyber insurers face rising premiums to cover child data breach risks, forcing families to pay higher fees or invest in expensive preventive measures.",
-          "effet_zh": "网络保险公司因儿童数据泄露风险而提高保费，迫使家庭支付更高费用或投资昂贵的预防措施。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fintech éducative (prêts étudiants IA)",
-          "secteur_en": "Edtech loans (AI-driven student financing)",
-          "secteur_zh": "教育科技贷款（基于AI的学生融资）",
-          "effet_fr": "Les plateformes de prêt éducatif utilisant l’IA pour évaluer les risques des étudiants voient leur activité ralentie par les régulateurs, craignant une surendettement des mineurs via des algorithmes opaques.",
-          "effet_en": "Edtech lending platforms using AI to assess student risks face slowed growth as regulators fear opaque algorithms may lead minors into unsustainable debt.",
-          "effet_zh": "使用AI评估学生风险的教育科技贷款平台因算法不透明而受到监管限制，担心导致未成年人过度负债。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-10T10:41:41.010986",
-      "sous_categorie": "enfants"
-    },
-    {
       "id": "pol_femmes_694897",
       "titre": "Condamné pour violences conjugales, il rejoint la CVC",
       "titre_en": "Convicted of domestic violence, joins CVC",
@@ -6493,6 +6433,66 @@
       ],
       "created_at": "2026-09-06T13:58:42.686544",
       "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_enfants_840131",
+      "titre": "IA et protection des enfants",
+      "titre_en": "AI and Child Protection",
+      "titre_zh": "人工智能与儿童保护",
+      "titre_ru": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
+      "titre_fa": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
+      "titre_ar": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
+      "titre_original": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
+      "resume": "L’article interroge sur les défis posés par l’intelligence artificielle pour la protection de l’enfance, entre opportunités technologiques et risques de manipulation ou d’exploitation. Il souligne l’urgence de réguler sans étouffer l’innovation, notamment dans un contexte où les enfants grandissent immergés dans des écosystèmes numériques. Les enjeux éthiques, juridiques et éducatifs sont au cœur des débats.",
+      "resume_en": "The article examines the challenges AI poses for child protection, balancing technological opportunities with risks of manipulation or exploitation. It highlights the need for regulation without stifling innovation, as children grow up immersed in digital ecosystems. Ethical, legal, and educational stakes dominate the discussions.",
+      "resume_zh": "文章探讨人工智能对儿童保护带来的挑战，平衡技术机遇与被操控或滥用的风险。强调在儿童成长于数字生态系统中，需要监管但不扼杀创新。伦理、法律和教育问题成为讨论焦点。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Depuis les années 2000, l’essor des technologies numériques a transformé les dynamiques éducatives et sociales, mais l’IA accélère ces mutations en automatisant les interactions et les données personnelles des mineurs. Les principaux enjeux concernent la protection contre les contenus toxiques, la vie privée et la dépendance aux algorithmes, souvent exploités par des acteurs malveillants ou des plateformes peu scrupuleuses. Les causes profondes incluent un cadre légal fragmenté (RGPD incomplet pour les mineurs) et un manque de sensibilisation des parents et enseignants. À court terme, on observe une augmentation des cas de cyberharcèlement et d’exposition précoce à des contenus inappropriés, tandis que les écoles peinent à intégrer des outils pédagogiques sécurisés. À moyen terme, les risques de déshumanisation des relations sociales et de biais algorithmiques dans l’éducation pourraient marginaliser les plus vulnérables. Long terme, une régulation européenne stricte (comme le *Digital Services Act*) et l’émergence de modèles éducatifs hybrides pourraient rééquilibrer les pouvoirs, mais dépendent de la coopération entre États et acteurs privés. Les ONG prônent une approche centrée sur l’enfant, tandis que les géants tech défendent leur rôle d’innovation, créant un conflit permanent entre sécurité et liberté.",
+      "analyse_en": "Since the 2000s, the rise of digital technologies has reshaped educational and social dynamics, but AI has accelerated these changes by automating interactions and processing minors' personal data. Key stakes involve protecting children from toxic content, privacy violations, and algorithmic addiction, often exploited by malicious actors or unscrupulous platforms. Root causes include fragmented legal frameworks (incomplete GDPR for minors) and a lack of parental and teacher awareness. Short-term, cyberbullying cases and early exposure to inappropriate content have surged, while schools struggle to adopt secure educational tools. Medium-term, risks of dehumanizing social relationships and algorithmic bias in education could marginalize the most vulnerable. Long-term, stricter EU regulations (like the *Digital Services Act*) and hybrid educational models might rebalance power, but depend on cooperation between states and private actors. NGOs advocate for child-centered approaches, while tech giants defend their innovation role, creating an ongoing conflict between security and freedom.",
+      "analyse_zh": "2000年以来，数字技术的兴起改变了教育和社会互动，但人工智能加速了这一进程，通过自动化与未成年人相关的互动和个人数据处理。主要挑战包括保护儿童免受有害内容、隐私泄露和算法成瘾的影响，这些往往被恶意行为者或不负责任的平台利用。深层原因包括法律框架碎片化（GDPR对未成年人保护不足）和家长、教师缺乏意识。短期内，网络欺凌案件和过早接触不适内容增加，学校难以采用安全的教育工具。中期内，人际关系去人性化和教育算法偏见可能边缘化最脆弱群体。长期来看，欧盟更严格的监管（如《数字服务法》）和混合教育模式可能重新平衡权力，但需依赖国家与私营部门的合作。非政府组织倡导以儿童为中心的方法，而科技巨头则强调创新角色，在安全与自由之间形成持续冲突。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Technologie & Société",
+      "source": "JDN",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1554279-quelle-protection-de-l-enfance-a-l-ere-de-l-intelligence-artificielle/",
+      "image": "https://img-0.journaldunet.com/rvX0dUOP8stsR8rim48Pz8SEqMo=/1500x/smart/8fa0d008111e4a0fbe6f8dfe83c58f2a/user-jdn/39543448-jade-charlotte-caboche.jpg",
+      "date": "2026-09-09",
+      "pays": "pol_enfants",
+      "badges": [
+        {
+          "label": "▲ Assurances cyber (protection des données enfants)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fintech éducative (prêts étudiants IA)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances cyber (protection des données enfants)",
+          "secteur_en": "Cyber insurance (child data protection)",
+          "secteur_zh": "网络保险（儿童数据保护）",
+          "effet_fr": "Les assureurs cyber voient leurs primes augmenter pour couvrir les risques liés aux fuites de données d’enfants, poussant les familles à souscrire des contrats plus chers ou à adopter des mesures préventives coûteuses.",
+          "effet_en": "Cyber insurers face rising premiums to cover child data breach risks, forcing families to pay higher fees or invest in expensive preventive measures.",
+          "effet_zh": "网络保险公司因儿童数据泄露风险而提高保费，迫使家庭支付更高费用或投资昂贵的预防措施。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fintech éducative (prêts étudiants IA)",
+          "secteur_en": "Edtech loans (AI-driven student financing)",
+          "secteur_zh": "教育科技贷款（基于AI的学生融资）",
+          "effet_fr": "Les plateformes de prêt éducatif utilisant l’IA pour évaluer les risques des étudiants voient leur activité ralentie par les régulateurs, craignant une surendettement des mineurs via des algorithmes opaques.",
+          "effet_en": "Edtech lending platforms using AI to assess student risks face slowed growth as regulators fear opaque algorithms may lead minors into unsustainable debt.",
+          "effet_zh": "使用AI评估学生风险的教育科技贷款平台因算法不透明而受到监管限制，担心导致未成年人过度负债。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-09-10T10:41:41.010986",
+      "sous_categorie": "enfants"
     },
     {
       "id": "pol_enfants_750149",
