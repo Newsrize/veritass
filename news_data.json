@@ -1,7 +1,66 @@
 {
-  "last_updated": "09/09/2026 à 22h58",
+  "last_updated": "10/09/2026 à 00h53",
   "articles": {
     "monde": [
+      {
+        "id": "monde_530480",
+        "titre": "Ancien joueur des Giants signe avec les Padres",
+        "titre_en": "Former Giants player signs with Padres",
+        "titre_zh": "前巨人队球员签约教父队",
+        "titre_ru": "2-Year San Francisco Giants Player Signs New Deal With San Diego Padres",
+        "titre_fa": "2-Year San Francisco Giants Player Signs New Deal With San Diego Padres",
+        "titre_ar": "2-Year San Francisco Giants Player Signs New Deal With San Diego Padres",
+        "titre_original": "2-Year San Francisco Giants Player Signs New Deal With San Diego Padres",
+        "resume": "Un ancien joueur des San Francisco Giants a signé un contrat discret avec les San Diego Padres après deux saisons. Ce transfert marque une rotation dans les effectifs des ligues majeures de baseball. Les détails financiers restent flous, mais cela reflète une dynamique de marché où les clubs ajustent leurs équipes.",
+        "resume_en": "A former San Francisco Giants player quietly signed with the San Diego Padres after two seasons. The transfer highlights roster adjustments in Major League Baseball. Financial details remain vague, but it reflects market dynamics where teams reshuffle their squads.",
+        "resume_zh": "前旧金山巨人队球员在两年后悄然签约旧金山教父队。这笔转会反映了大联盟球队调整阵容的动态。财务细节模糊，但体现了球队重组市场的常态。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les transferts discrets dans le baseball majeur illustrent une stratégie de gestion des coûts et de rotation des talents. Les clubs privilégient souvent des contrats courts pour éviter les engagements financiers lourds. Ce phénomène s’inscrit dans une tendance plus large de professionnalisation des ligues sportives, où la flexibilité prime. À court terme, cela peut affecter la compétitivité des équipes concernées, mais à long terme, cela permet une meilleure gestion des ressources humaines. Les joueurs, eux, cherchent à maximiser leur valeur sur un marché où la concurrence est féroce. Les médias et les fans y voient souvent des signes de manque de cohésion, alors que les dirigeants y voient une optimisation stratégique. Les ligues sportives américaines, comme la NBA ou la NFL, adoptent des modèles similaires pour équilibrer performance et rentabilité.",
+        "analyse_en": "Discreet MLB transfers reflect cost management and player rotation strategies. Teams often favor short-term contracts to avoid heavy financial commitments. This trend aligns with broader sports league professionalization, where flexibility is key. Short-term, it may impact team competitiveness, but long-term, it optimizes human resource management. Players seek to maximize value in a fiercely competitive market. Media and fans often interpret this as a lack of cohesion, while executives see it as strategic optimization. U.S. sports leagues like the NBA and NFL adopt similar models to balance performance and profitability.",
+        "analyse_zh": "大联盟中默默的转会反映了球队成本管理和球员轮换的策略。球队通常青睐短期合同以避免沉重的财务承诺。这一趋势与体育联盟专业化进程一致，灵活性至关重要。短期内，这可能影响球队的竞争力，但长期来看，有助于人力资源的优化。球员则试图在激烈竞争的市场上最大化自身价值。媒体和球迷常将其视为团队不团结的迹象，而管理层则视为战略性优化。美国体育联盟如NBA和NFL采用类似模式平衡表现与盈利性。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "Heavy.com",
+        "url": "https://heavy.com/sports/mlb/san-francisco-giants/2-year-giants-player-signs-padres/",
+        "image": "https://s.yimg.com/lo/mysterio/api/641048f763a2bcf34b75fec34df2dcfa33f09f2d7035dd3311cde55bfbeb54c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F8ef4f0f6ae5044c233ff5a557f06be02.jpg",
+        "date": "2026-09-09",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché des droits TV et sponsoring sportif",
+            "hausse": false
+          },
+          {
+            "label": "▲ Investissements en développement de jeunes talents",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des droits TV et sponsoring sportif",
+            "secteur_en": "TV rights and sports sponsorship market",
+            "secteur_zh": "电视转播权和体育赞助市场",
+            "effet_fr": "Les rotations d’effectifs influencent la valeur perçue des joueurs, impactant directement les contrats de sponsoring et les droits TV.",
+            "effet_en": "Roster rotations affect players' perceived value, directly impacting sponsorship deals and TV rights contracts.",
+            "effet_zh": "阵容轮换影响球员的市场价值，直接影响赞助合同和电视转播权的价格。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Investissements en développement de jeunes talents",
+            "secteur_en": "Investments in youth talent development",
+            "secteur_zh": "青年球员培养投资",
+            "effet_fr": "Les clubs pourraient recentrer leurs budgets sur les académies pour compenser les coûts variables des transferts adultes.",
+            "effet_en": "Teams may refocus budgets on academies to offset variable costs of adult transfers.",
+            "effet_zh": "球队可能将预算重点转向青训基地以弥补成年球员转会的不确定成本。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-10T00:53:26.038775"
+      },
       {
         "id": "monde_702422",
         "titre": "Porsche 911 Turbo S cabriolet 5 000 miles",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-03T23:48:05.016091"
-      },
-      {
-        "id": "monde_992094",
-        "titre": "Hommage à Messi dans tout le championnat argentin",
-        "titre_en": "Messi honored across Argentine football league",
-        "titre_zh": "阿根廷联赛全面向梅西致敬",
-        "titre_ru": "Лионель Месси будет чествоваться в чемпионате Аргентины",
-        "titre_fa": "لیونل مسی در لیگ آرژانتین تجلیل خواهد شد",
-        "titre_ar": "ليونيل ميسي سيُكرم في دوري الأرجنتين",
-        "titre_original": "Lionel Messi to be honored across Argentine league following national team retirement",
-        "resume": "L’AFA a annoncé un hommage national à Lionel Messi après sa retraite internationale. Tous les matchs du championnat argentin seront interrompus pour une minute d’applaudissements. Cette décision reflète l’impact culturel et sportif de Messi sur l’Argentine.",
-        "resume_en": "The Argentine Football Association (AFA) announced a national tribute to Lionel Messi following his international retirement. All matches in the Argentine league will be paused for a minute of applause. This reflects Messi’s cultural and sporting impact on Argentina.",
-        "resume_zh": "阿根廷足协（AFA）宣布在梅西退出国家队后举行全国致敬活动。阿根廷联赛所有比赛将暂停一分钟鼓掌。这反映了梅西对阿根廷的文化和体育影响。",
-        "resume_ru": "Аргентинская футбольная ассоциация (AFA) объявила о чествовании Лионеля Месси во всех матчах чемпионата страны. Это решение принято после его ухода из национальной сборной. Все матчи лиги будут приостановлены для проведения церемонии.",
-        "resume_fa": "فدراسیون فوتبال آرژانتین (AFA) از تجلیل لیونل مسی در تمام مسابقات لیگ این کشور خبر داد. این تصمیم پس از بازنشستگی او از تیم ملی اتخاذ شد. تمام مسابقات لیگ برای برگزاری مراسم متوقف خواهند شد.",
-        "resume_ar": "أعلنت رابطة كرة القدم الأرجنتينية (AFA) عن تكريم ليونيل ميسي في جميع مباريات دوري البلاد. تم اتخاذ هذا القرار بعد اعتزاله من المنتخب الوطني. سيتم تعليق جميع مباريات الدوري لإجراء الحفلات.",
-        "analyse_detaillee": "Lionel Messi, figure emblématique du football mondial, quitte l’équipe nationale argentine après une carrière exceptionnelle. Son héritage dépasse le sport, incarnant l’identité nationale argentine et inspirant des générations. Les hommages organisés par l’AFA soulignent son rôle central dans la culture populaire. À court terme, cette décision renforce la cohésion sociale et la fierté nationale. À moyen terme, elle pourrait stimuler l’engagement des jeunes dans le football. À long terme, Messi restera une icône, mais son absence pourrait créer un vide générationnel. Les clubs et la FIFA devront gérer cette transition, tandis que les médias exploiteront son image pour des contenus émotionnels.",
-        "analyse_en": "Lionel Messi, a global football icon, has retired from the Argentine national team after an exceptional career. His legacy extends beyond sports, embodying Argentine national identity and inspiring generations. The AFA’s tributes highlight his central role in popular culture. Short-term, this decision strengthens social cohesion and national pride. Medium-term, it could boost youth engagement in football. Long-term, Messi will remain an icon, but his absence may create a generational gap. Clubs and FIFA must manage this transition, while media will leverage his image for emotional content.",
-        "analyse_zh": "作为全球足球偶像，梅西在辉煌生涯后退出阿根廷国家队。他的遗产超越体育，体现阿根廷民族认同并激励一代人。阿根廷足协的致敬活动凸显其在大众文化中的核心作用。短期内，此决定增强社会凝聚力和民族自豪感。中期可能激发青年投身足球。长期而言，梅西将成为传奇，但其退出可能造成代际空白。俱乐部和国际足联需管理这一过渡，媒体则会利用其形象制作情感内容。",
-        "analyse_ru": "Контекст связан с завершением карьеры Лионеля Месси в сборной Аргентины после победы на чемпионате мира 2022 года. Причины чествования включают его вклад в развитие аргентинского футбола и статус легенды. Последствия могут усилить интерес к местной лиге и повысить её популярность. Перспективы включают возможные коммерческие проекты Месси в Аргентине. Позиции сторон: AFA поддерживает инициативу, а болельщики выражают благодарность за вклад Месси.",
-        "analyse_fa": "زمینه این موضوع به پایان دوران بازی لیونل مسی در تیم ملی آرژانتین پس از قهرمانی در جام جهانی 2022 بازمی‌گردد. دلایل تجلیل شامل سهم او در توسعه فوتبال آرژانتین و جایگاه او به عنوان یک افسانه است. پیامدها ممکن است علاقه به لیگ محلی را افزایش دهد و محبوبیت آن را بالا ببرد. چشم‌اندازها شامل پروژه‌های تجاری احتمالی مسی در آرژانتین است. موضع بازیگران: AFA از این ابتکار حمایت می‌کند و هواداران قدردانی خود را از سهم مسی ابراز می‌کنند.",
-        "analyse_ar": "سياق هذا الموضوع يعود إلى نهاية مسيرة ليونيل ميسي في المنتخب الوطني الأرجنتيني بعد فوزه بكأس العالم 2022. أسباب التكريم تشمل مساهمته في تطوير كرة القدم الأرجنتينية ووضعه كأسطورة. قد تزيد العواقب من الاهتمام بالدوري المحلي ورفع شعبيته. الآفاق تشمل المشاريع التجارية المحتملة لميسي في الأرجنتين. مواقف الأطراف: تدعم AFA المبادرة ويعبر المشجعون عن تقديرهم لمساهمات ميسي.",
-        "categorie": "Sport",
-        "source": "Worldsoccertalk.com",
-        "url": "https://worldsoccertalk.com/news/lionel-messi-to-be-honored-across-argentine-league-following-national-team-retirement/",
-        "image": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/09/02171722/messi-19-1200x740.webp",
-        "date": "2026-09-02",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Sponsoring sportif",
-            "hausse": true
-          },
-          {
-            "label": "▲ Médias sportifs",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sponsoring sportif",
-            "secteur_en": "Sports sponsorship",
-            "secteur_zh": "体育赞助",
-            "effet_fr": "Les marques associées à Messi pourraient voir leur valeur augmenter grâce à l’émotion collective.",
-            "effet_en": "Brands linked to Messi may see increased value due to collective emotion.",
-            "effet_zh": "与梅西相关的品牌可能因集体情感而增值。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Médias sportifs",
-            "secteur_en": "Sports media",
-            "secteur_zh": "体育媒体",
-            "effet_fr": "Les audiences et revenus publicitaires des médias couvrant le football argentin devraient exploser.",
-            "effet_en": "Audiences and advertising revenues for media covering Argentine football are expected to surge.",
-            "effet_zh": "报道阿根廷足球的媒体收视率和广告收入预计将激增。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-03T21:34:45.409658"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_885085",
+        "titre": "Trump impose de nouveaux droits face aux tarifs canadiens",
+        "titre_en": "Trump imposes new tariffs after Canada’s retaliation",
+        "titre_zh": "特朗普因加拿大报复征税而加征关税",
+        "titre_ru": "More price hikes courtesy of the affordability president",
+        "titre_fa": "More price hikes courtesy of the affordability president",
+        "titre_ar": "More price hikes courtesy of the affordability president",
+        "titre_original": "More price hikes courtesy of the affordability president",
+        "resume": "Donald Trump a riposté aux tarifs canadiens en instaurant de nouvelles taxes sur les exportations américaines, aggravant les tensions commerciales. Ces mesures s’inscrivent dans un cycle de représailles entre Washington et Ottawa depuis 2018. Les analystes craignent une escalade protectionniste affectant les chaînes d’approvisionnement transfrontalières.",
+        "resume_en": "Donald Trump retaliated against Canada’s tariffs by imposing new taxes on U.S. exports, deepening trade tensions. This follows a cycle of retaliation since 2018 between Washington and Ottawa. Experts warn of escalating protectionism disrupting cross-border supply chains.",
+        "resume_zh": "特朗普因加拿大报复性关税而对美国出口征收新税，加剧了美加贸易摩擦。此举延续了自2018年以来美加之间的报复循环。专家担忧保护主义升级将破坏跨境供应链。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Depuis 2018, les tensions commerciales entre les États-Unis et le Canada reflètent une stratégie protectionniste plus large de l’administration Trump, ciblant notamment l’acier et l’aluminium. Les tarifs actuels visent à protéger les industries locales, mais risquent de déclencher une guerre commerciale régionale. À court terme, les consommateurs et les entreprises américaines paieront le prix fort via des coûts accrus. À moyen terme, les investissements transfrontaliers pourraient se raréfier, affectant les secteurs manufacturiers. Long terme, une fragmentation des chaînes d’approvisionnement pourrait émerger, nuisant à la compétitivité globale. Le Canada, bien que vulnérable, pourrait durcir ses propres mesures, tandis que l’UE pourrait observer avant d’agir. Les marchés financiers, déjà volatils, pourraient réagir négativement aux signaux de risque accru.",
+        "analyse_en": "Since 2018, U.S.-Canada trade tensions reflect a broader protectionist strategy under Trump, targeting steel and aluminum. Current tariffs aim to protect domestic industries but risk triggering a regional trade war. Short-term, U.S. consumers and businesses will bear higher costs. Medium-term, cross-border investments may decline, hurting manufacturing sectors. Long-term, supply chain fragmentation could emerge, harming global competitiveness. Canada, though vulnerable, may retaliate further, while the EU may wait before acting. Financial markets, already volatile, could react negatively to increased risk signals.",
+        "analyse_zh": "自2018年以来，美加贸易摩擦反映了特朗普政府更广泛的保护主义策略，主要针对钢铁和铝材。目前的关税旨在保护国内产业，但可能引发区域性贸易战。短期内，美国消费者和企业将承担更高成本。中期内，跨境投资可能减少，影响制造业。长期来看，供应链分裂可能出现，损害全球竞争力。加拿大尽管脆弱，但可能进一步报复，而欧盟可能观望再行动。金融市场已经波动，可能对风险信号做出负面反应。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Lawyersgunsmoneyblog.com",
+        "url": "https://www.lawyersgunsmoneyblog.com/2026/09/more-price-hikes-courtesy-of-the-affordability-president",
+        "image": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/09/Gordie_Howe_International_Bridge_from_Black_Oak_Park_Windsor_Ontario_2025-06-07_04.jpg",
+        "date": "2026-09-09",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des matières premières industrielles (acier, aluminium)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Bourse américaine (indices S&P 500, Nasdaq)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des matières premières industrielles (acier, aluminium)",
+            "secteur_en": "Industrial commodities market (steel, aluminum)",
+            "secteur_zh": "工业原材料市场（钢铁、铝材）",
+            "effet_fr": "Les tarifs supplémentaires pourraient faire bondir les prix de l’acier et de l’aluminium, pénalisant les industries dépendantes comme la construction et l’automobile.",
+            "effet_en": "New tariffs may spike steel and aluminum prices, hurting construction and automotive industries reliant on these materials.",
+            "effet_zh": "新关税可能推高钢铁和铝材价格，损害依赖这些原材料的建筑和汽车行业。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Bourse américaine (indices S&P 500, Nasdaq)",
+            "secteur_en": "U.S. stock market (S&P 500, Nasdaq)",
+            "secteur_zh": "美国股市（标普500、纳斯达克）",
+            "effet_fr": "L’incertitude commerciale pourrait peser sur les valorisations, surtout pour les secteurs exportateurs comme la tech et les biens de consommation.",
+            "effet_en": "Trade uncertainty may weigh on valuations, particularly for export-dependent sectors like tech and consumer goods.",
+            "effet_zh": "贸易不确定性可能压低估值，特别是对出口依赖型行业如科技和消费品。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-10T00:53:26.038749"
+      },
       {
         "id": "usa_478729",
         "titre": "Cour suprême examine règles vote par correspondance de Trump",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-09-03T23:48:05.016066"
-      },
-      {
-        "id": "usa_488927",
-        "titre": "Google évite le démantèlement dans l'ad tech",
-        "titre_en": "Google avoids ad tech breakup in antitrust case",
-        "titre_zh": "谷歌在广告技术反垄断案中避免拆分",
-        "titre_ru": "Google избежал развала рекламных технологий",
-        "titre_fa": "گوگل از تجزیه فناوری تبلیغاتی فرار کرد",
-        "titre_ar": "غوغل يتجنب تفكيك تكنولوجيا الإعلانات",
-        "titre_original": "Google escapes ad tech breakup in third Big Tech antitrust loss for US - Reuters",
-        "resume": "Un juge américain a rejeté la demande de démantèlement de Google dans le secteur de la publicité en ligne. Cette décision marque la troisième défaite des autorités antitrust contre les géants de la tech aux États-Unis. Google conserve ainsi son monopole sur les outils publicitaires.",
-        "resume_en": "A US judge ruled against breaking up Google’s advertising tech monopoly, marking the third antitrust loss for regulators against Big Tech. Google retains its dominant position in online advertising tools.",
-        "resume_zh": "美国法官裁定不拆分谷歌的广告技术垄断，这是监管机构在反垄断诉讼中第三次败诉。谷歌保住了在线广告工具的主导地位。",
-        "resume_ru": "Google избежал принудительного разделения своей монополии в области рекламных технологий. Американский судья отклонил требование о разделении компании. Это третье антимонопольное поражение для США в деле против Big Tech.",
-        "resume_fa": "گوگل از تجزیه اجباری فناوری تبلیغاتی خود فرار کرد. قاضی آمریکایی درخواست تجزیه شرکت را رد کرد. این سومین شکست ضد انحصار آمریکا در برابر شرکت‌های بزرگ فناوری بود.",
-        "resume_ar": "تمكنت غوغل من تجزئة إجبارية لتقنيات الإعلانات الخاصة بها. رفض قاض أمريكي طلب التفكيك. هذه ثالث خسارة لمكافحة الاحتكار في الولايات المتحدة ضد شركات التكنولوجيا الكبرى.",
-        "analyse_detaillee": "Cette décision s’inscrit dans une série de revers pour les autorités antitrust américaines, qui peinent à réguler les géants du numérique malgré des preuves de pratiques anticoncurrentielles. Le secteur de la publicité en ligne, dominé par Google, est crucial pour l’économie numérique, avec des revenus dépassant 200 milliards de dollars annuels. Les enjeux portent sur la concentration du pouvoir économique et l’innovation, tandis que les régulateurs manquent de moyens pour contrer ces monopoles. À court terme, Google renforce sa position, mais les critiques sur les pratiques abusives persistent. À moyen terme, cette décision pourrait encourager d’autres entreprises à adopter des stratégies similaires. À long terme, elle risque d’affaiblir la confiance dans les institutions antitrust. Les acteurs comme le DOJ et les concurrents (Meta, Amazon) restent en tension, tandis que les consommateurs subissent des coûts indirects.",
-        "analyse_en": "This ruling follows a series of setbacks for US antitrust authorities, struggling to regulate Big Tech despite evidence of anticompetitive practices. The online advertising sector, dominated by Google, is vital to the digital economy, generating over $200 billion annually. The stakes involve economic power concentration and innovation, while regulators lack the tools to counter these monopolies. In the short term, Google strengthens its position, but criticism of abusive practices persists. Medium-term, this decision may encourage other firms to adopt similar strategies. Long-term, it risks undermining trust in antitrust institutions. Actors like the DOJ and competitors (Meta, Amazon) remain in tension, while consumers face indirect costs.",
-        "analyse_zh": "这一裁决是美国反垄断当局一系列挫折的延续，尽管存在反竞争行为的证据，但他们仍难以监管大型科技公司。在线广告行业由谷歌主导，对数字经济至关重要，年收入超过2000亿美元。关键在于经济权力集中和创新问题，而监管机构缺乏手段对抗这些垄断。短期内，谷歌巩固了地位，但对其滥用行为的批评依然存在。中期来看，此决定可能鼓励其他公司采用类似策略。长期而言，它可能削弱对反垄断机构的信任。司法部和竞争对手（Meta、亚马逊）仍处于紧张状态，而消费者面临间接成本。",
-        "analyse_ru": "Контекст дела связан с антимонопольным расследованием против Google, начатым Министерством юстиции США. Причины решения судьи могут быть связаны с недостаточными доказательствами монополистической практики или юридическими нюансами. Последствия этого решения укрепляют позиции Google на рынке рекламных технологий, но могут усилить критику в адрес антимонопольных органов. Перспективы включают возможные апелляции или новые иски. Позиции сторон: Google защищает свои интересы, а власти США продолжают бороться с монополиями в технологическом секторе.",
-        "analyse_fa": "زمینه این پرونده به تحقیقات ضد انحصار علیه گوگل توسط وزارت دادگستری ایالات متحده بازمی‌گردد. دلایل تصمیم قاضی ممکن است به فقدان شواهد کافی برای انحصارطلبی یا جنبه‌های حقوقی مربوط باشد. پیامدهای این تصمیم موقعیت گوگل در بازار فناوری تبلیغاتی را تقویت می‌کند، اما ممکن است انتقاد از نهادهای ضد انحصار را افزایش دهد. چشم‌اندازها شامل احتمال تجدیدنظر یا شکایت‌های جدید است. موضع بازیگران: گوگل از منافع خود دفاع می‌کند و مقامات ایالات متحده به مبارزه با انحصارها در بخش فناوری ادامه می‌دهند.",
-        "analyse_ar": "سياق هذه القضية يعود إلى التحقيقات ضد الاحتكار ضد غوغل من قبل وزارة العدل الأمريكية. قد تكون أسباب قرار القاضي مرتبطة بعدم كفاية الأدلة على الممارسات الاحتكارية أو الجوانب القانونية. عواقب هذا القرار تعزز موقف غوغل في سوق تكنولوجيا الإعلانات، لكنها قد تزيد من الانتقادات الموجهة إلى الجهات المناهضة للاحتكار. الآفاق تشمل احتمال الاستئناف أو الدعاوى القضائية الجديدة. مواقف الأطراف: تدافع غوغل عن مصالحها بينما تواصل السلطات الأمريكية مكافحة الاحتكار في قطاع التكنولوجيا.",
-        "categorie": "Économie / Technologie",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185380410",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-09-02",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Publicité en ligne",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marchés financiers",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Publicité en ligne",
-            "secteur_en": "Online advertising",
-            "secteur_zh": "在线广告",
-            "effet_fr": "Google conserve son monopole, limitant la concurrence et potentiellement augmentant les coûts pour les annonceurs.",
-            "effet_en": "Google retains its monopoly, restricting competition and potentially increasing costs for advertisers.",
-            "effet_zh": "谷歌保持垄断地位，限制竞争并可能增加广告商成本。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marchés financiers",
-            "secteur_en": "Financial markets",
-            "secteur_zh": "金融市场",
-            "effet_fr": "La décision rassure les investisseurs sur la stabilité des géants tech, soutenant les valorisations boursières.",
-            "effet_en": "The ruling reassures investors about Big Tech stability, supporting stock valuations.",
-            "effet_zh": "裁决让投资者对大型科技公司的稳定性放心，支撑股票估值。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-03T21:34:45.409633"
       }
     ],
     "chine": [
@@ -3710,6 +3710,65 @@
     ],
     "russie": [
       {
+        "id": "russie_47261",
+        "titre": "Putine et Modi discutent énergie et défense",
+        "titre_en": "Putin meets Modi on energy and defense",
+        "titre_zh": "普京与莫迪讨论能源与防务",
+        "titre_ru": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+        "titre_fa": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+        "titre_ar": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+        "titre_original": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
+        "resume": "La Russie a dénoncé les tarifs américains à 100% sur l’huile russe comme 'illégaux', tout en confirmant un sommet avec le Premier ministre indien Narendra Modi. Les discussions porteront sur l’énergie et la défense, secteurs clés pour Moscou. Ce dialogue s’inscrit dans une stratégie de diversification des partenariats post-sanctions.",
+        "resume_en": "Russia condemned U.S. 100% tariffs on Russian oil as 'illegal,' confirming a summit with Indian PM Narendra Modi. Discussions will focus on energy and defense, key sectors for Moscow. This dialogue reflects a post-sanctions strategy to diversify partnerships.",
+        "resume_zh": "俄罗斯谴责美国对俄石油征收100%关税为‘非法’，并确认与印度总理莫迪举行峰会。讨论将围绕能源和防务两大领域，对莫斯科至关重要。此举反映了俄在制裁后多元化伙伴关系的战略。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les relations Russie-Inde, forgées depuis les années 1950, reposent sur une complémentarité énergétique et stratégique. Moscou cherche à contourner les sanctions occidentales via Delhi, tandis que New Delhi diversifie ses approvisionnements en pétrole. À court terme, cette alliance renforce la résilience énergétique de la Russie, mais expose l’Inde à des risques géopolitiques accrus. À moyen terme, les investissements conjoints dans les infrastructures énergétiques pourraient se multiplier. Long terme, cette dynamique pourrait marginaliser l’influence occidentale en Asie du Sud. La Chine, partenaire clé de Moscou, y voit une opportunité de renforcer son propre réseau d’alliances. Les États-Unis, déjà sous pression, pourraient durcir leurs sanctions pour isoler davantage la Russie.",
+        "analyse_en": "Russia-India relations, forged since the 1950s, are built on energy and strategic complementarity. Moscow seeks to bypass Western sanctions through Delhi, while New Delhi diversifies its oil supplies. Short-term, this alliance boosts Russia’s energy resilience but exposes India to greater geopolitical risks. Medium-term, joint investments in energy infrastructure may increase. Long-term, this dynamic could marginalize Western influence in South Asia. China, a key Moscow partner, sees this as an opportunity to strengthen its own alliance network. The U.S., already under pressure, may tighten sanctions to further isolate Russia.",
+        "analyse_zh": "俄印关系自上世纪五十年代以来建立在能源和战略互补基础上。莫斯科试图通过新德里绕过西方制裁，而印度则多元化其石油进口来源。短期内，这一联盟增强了俄罗斯的能源韧性，但让印度面临更大的地缘政治风险。中期内，联合能源基础设施投资可能增加。长期来看，这一动态可能削弱西方在南亚的影响力。中国作为莫斯科的关键伙伴，看到了加强自身联盟网络的机会。美国已经面临压力，可能进一步加强制裁以进一步孤立俄罗斯。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133947542,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-09-09",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier international (prix et approvisionnement)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Secteur des technologies de défense et cyber",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier international (prix et approvisionnement)",
+            "secteur_en": "Global oil market (prices and supply)",
+            "secteur_zh": "全球石油市场（价格和供应）",
+            "effet_fr": "La diversification des achats indiens vers la Russie pourrait stabiliser les prix à court terme, mais risquerait de créer des tensions avec les pays du Golfe à long terme.",
+            "effet_en": "India’s diversification of oil purchases from Russia may stabilize prices short-term but could create long-term tensions with Gulf nations.",
+            "effet_zh": "印度从俄罗斯进口石油的多元化可能在短期内稳定价格，但长期可能与波斯湾国家产生紧张关系。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur des technologies de défense et cyber",
+            "secteur_en": "Defense and cyber technology sector",
+            "secteur_zh": "防务和网络技术领域",
+            "effet_fr": "Les accords énergétiques pourraient ouvrir la voie à des collaborations technologiques, renforçant l’autonomie stratégique de la Russie face à l’Occident.",
+            "effet_en": "Energy deals may pave the way for tech collaborations, enhancing Russia’s strategic autonomy against the West.",
+            "effet_zh": "能源协议可能为技术合作铺平道路，增强俄罗斯在对抗西方方面的战略自主性。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-10T00:53:26.038785"
+      },
+      {
         "id": "russie_845056",
         "titre": "Putin à l’Inde pour le sommet BRICS",
         "titre_en": "Putin attends BRICS summit in India",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-03T18:22:16.820945"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_433288",
-        "titre": "Frappes russes sur des centres logistiques près de Kiev",
-        "titre_en": "Russian strikes hit logistics centers near Kiev",
-        "titre_zh": "俄军袭击基辅附近后勤中心",
-        "titre_ru": "Россия нанесла удар по трём логистическим центрам под Киевом",
-        "titre_fa": "روسیه سه مرکز لجستیکی در نزدیکی کی‌یف را بمباران کرد",
-        "titre_ar": "روسيا تضرب ثلاثة مراكز لوجستية قرب كييف",
-        "titre_original": "Russian Forces Strike Three Logistics Centers in Kiev Region — MoD",
-        "resume": "Le ministère russe de la Défense affirme avoir frappé trois centres logistiques dans la région de Kiev. Ces attaques visent à perturber les approvisionnements ukrainiens. La situation humanitaire dans la région reste tendue.",
-        "resume_en": "The Russian Ministry of Defense claims to have struck three logistics centers in the Kiev region. These attacks aim to disrupt Ukrainian supplies. The humanitarian situation in the region remains tense.",
-        "resume_zh": "俄罗斯国防部声称袭击了基辅地区的三个后勤中心。这些袭击旨在扰乱乌克兰供应。该地区人道主义局势仍然紧张。",
-        "resume_ru": "Российские войска нанесли удар по трём логистическим центрам в Киевской области. Министерство обороны России заявило, что цели были военными объектами. Атаки последовали после обострения боевых действий на фронте. Власти Украины осудили нападения как нарушение международного права.",
-        "resume_fa": "نیروهای روسی سه مرکز لجستیکی در منطقه کی‌یف را بمباران کردند. وزارت دفاع روسیه اعلام کرد که اهداف، اهداف نظامی بودند. این حملات پس از تشدید درگیری‌ها در خط مقدم انجام شد. مقامات اوکراینی این حملات را نقض حقوق بین‌الملل محکوم کردند.",
-        "resume_ar": "ضربت القوات الروسية ثلاثة مراكز لوجستية في منطقة كييف. وأكدت وزارة الدفاع الروسية أن الأهداف كانت أهدافاً عسكرية. وجاءت هذه الهجمات بعد تصعيد الاشتباكات على الجبهة. أدانت السلطات الأوكرانية هذه الهجمات باعتبارها انتهاكاً للقانون الدولي.",
-        "analyse_detaillee": "Ces frappes s'inscrivent dans une stratégie russe visant à affaiblir l'infrastructure logistique ukrainienne depuis le début du conflit en 2022. Historiquement, les centres logistiques sont des cibles clés dans les guerres modernes pour asphyxier l'économie ennemie. Les enjeux principaux incluent la capacité de l'Ukraine à maintenir ses lignes d'approvisionnement malgré les attaques. Les causes profondes résident dans l'escalade du conflit et la volonté russe de forcer un avantage militaire. À court terme, ces frappes pourraient réduire la capacité ukrainienne à mener des opérations militaires. À moyen terme, elles pourraient exacerber les pénuries de biens essentiels en Ukraine. À long terme, une guerre prolongée pourrait entraîner une crise humanitaire durable. Les acteurs internationaux, comme l'UE et les États-Unis, continuent de soutenir l'Ukraine militairement et économiquement.",
-        "analyse_en": "These strikes are part of a Russian strategy to weaken Ukraine's logistics infrastructure since the conflict began in 2022. Historically, logistics centers have been key targets in modern wars to strangle the enemy's economy. Main stakes include Ukraine's ability to maintain supply lines despite attacks. Root causes lie in the escalation of the conflict and Russia's desire to force a military advantage. In the short term, these strikes could reduce Ukraine's capacity to conduct military operations. Medium-term, they could exacerbate shortages of essential goods in Ukraine. Long-term, a prolonged war could lead to a lasting humanitarian crisis. International actors like the EU and the US continue to support Ukraine militarily and economically.",
-        "analyse_zh": "这些袭击是俄罗斯自2022年冲突开始以来削弱乌克兰后勤基础设施战略的一部分。历史上，后勤中心一直是现代战争中扼杀敌方经济的关键目标。主要影响包括乌克兰在袭击下维持补给线的能力。深层原因在于冲突升级和俄罗斯试图强制军事优势的意愿。短期内，这些袭击可能削弱乌克兰进行军事行动的能力。中期来看，它们可能加剧乌克兰基本商品短缺。长期来看，持久战争可能导致持续的人道主义危机。欧盟和美国等国际行为体继续在军事和经济上支持乌克兰。",
-        "analyse_ru": "Удары по логистическим центрам под Киевом стали частью стратегии России по дестабилизации тыловой инфраструктуры Украины. Причины таких атак могут быть связаны с попытками ослабить украинские войска и нарушить их снабжение. Последствия могут включать обострение гуманитарной ситуации и усиление миграционного кризиса. Перспективы зависят от реакции международного сообщества и возможности переговоров. Позиции сторон остаются непримиримыми, что грозит затягиванием конфликта.",
-        "analyse_fa": "حملات به مراکز لجستیکی در نزدیکی کی‌یف بخشی از استراتژی روسیه برای بی‌ثبات‌سازی زیرساخت‌های پشتیبان اوکراین است. دلایل چنین حملاتی ممکن است تلاش برای تضعیف نیروهای اوکراینی و مختل کردن تأمین آنها باشد. پیامدها می‌تواند شامل تشدید وضعیت انسانی و افزایش بحران مهاجرت باشد. چشم‌اندازها به واکنش جامعه بین‌المللی و امکان مذاکرات بستگی دارد. مواضع طرفین همچنان غیرقابل مصالحه است که می‌تواند منجر به تداوم درگیری شود.",
-        "analyse_ar": "أصبحت ضربات المراكز اللوجستية قرب كييف جزءاً من استراتيجية روسيا لزعزعة استقرار البنية التحتية الخلفية لأوكرانيا. وقد تكون أسباب هذه الهجمات مرتبطة بمحاولات إضعاف القوات الأوكرانية وتعطيل توريدها. وقد تشمل العواقب تفاقم الوضع الإنساني وزيادة أزمة الهجرة. وتعتمد الآفاق على رد المجتمع الدولي وإمكانية المفاوضات. остаются مواقف الأطراف غير قابلة للتسوية، مما قد يؤدي إلى إطالة أمد الصراع.",
-        "categorie": "Géopolitique",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260902/russian-forces-strike-three-logistics-centers-in-kiev-region--mod-1124665437.html",
-        "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124665437.jpg?11243997321788360499",
-        "date": "2026-09-02",
-        "pays": "russie",
+        "id": "iran_419683",
+        "titre": "Brent approche 100$ : tensions U.S.-Iran aggravent les craintes",
+        "titre_en": "Brent nears $100: U.S.-Iran tensions escalate supply fears",
+        "titre_zh": "布伦特原油接近100美元：美伊紧张升级加剧供应忧虑",
+        "titre_ru": "Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries",
+        "titre_fa": "Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries",
+        "titre_ar": "Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries",
+        "titre_original": "Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worries",
+        "resume": "Les prix du pétrole Brent ont grimpé près de 100$ la barre, poussés par les frappes réciproques entre les États-Unis et l’Iran. Les craintes de perturbations supplémentaires dans le golfe Persique ont alimenté cette hausse. Les marchés anticipent une volatilité accrue en cas d’escalade militaire.",
+        "resume_en": "Brent crude prices neared $100 as reciprocal strikes between the U.S. and Iran escalated supply concerns. Markets anticipate heightened volatility in case of further military escalation.",
+        "resume_zh": "布伦特原油价格接近100美元，受美伊互相袭击推动，波斯湾供应中断的担忧加剧。市场预计如果军事升级，波动性将进一步加大。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions entre les États-Unis et l’Iran, récurrentes depuis la révolution de 1979, s’enracinent dans des divergences idéologiques et géopolitiques. Les frappes récentes s’inscrivent dans un cycle de provocations, où chaque partie cherche à tester la réaction de l’autre. À court terme, les prix du pétrole pourraient atteindre des sommets historiques, pénalisant les économies importatrices comme la Chine ou l’Inde. À moyen terme, les pays du Golfe pourraient être incités à augmenter leur production pour compenser les pertes iraniennes. Long terme, une guerre ouverte risquerait de déclencher une crise économique mondiale, avec des répercussions sur les marchés financiers et les chaînes d’approvisionnement globales. L’Iran, isolé diplomatiquement, mise sur la résilience de son économie et son réseau d’alliances régionales (Hezbollah, milices irakiennes). Les États-Unis, bien que déterminés, pourraient hésiter à engager une guerre totale par crainte des conséquences économiques.",
+        "analyse_en": "U.S.-Iran tensions, recurring since the 1979 revolution, stem from ideological and geopolitical divergences. Recent strikes fit into a cycle of provocations, with each side testing the other’s reaction. Short-term, oil prices may hit historic highs, hurting importer economies like China or India. Medium-term, Gulf nations may boost production to offset Iranian losses. Long-term, open war could trigger a global economic crisis, affecting financial markets and global supply chains. Iran, diplomatically isolated, relies on economic resilience and regional alliances (Hezbollah, Iraqi militias). The U.S., though determined, may hesitate to escalate to full war due to economic consequences.",
+        "analyse_zh": "美伊紧张自1979年伊朗革命以来反复发生，根源在于意识形态和地缘政治分歧。最近的袭击属于挑衅循环，每一方都在测试对方的反应。短期内，石油价格可能创下历史新高，损害中国和印度等进口国经济。中期内，波斯湾国家可能增加产量以弥补伊朗损失。长期来看，全面战争可能引发全球经济危机，影响金融市场和全球供应链。伊朗在外交上孤立，依赖经济韧性和地区盟友（真主党、伊拉克民兵）支持。美国尽管决心坚定，但可能因经济后果而犹豫不决是否升级至全面战争。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie/Énergie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c4a2ee3795064eae",
+        "image": "https://biztoc.com/cdn/c4a2ee3795064eae_s.webp",
+        "date": "2026-09-09",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur de la logistique",
-            "hausse": false
+            "label": "▲ Marché des matières premières énergétiques (pétrole, gaz)",
+            "hausse": true
           },
           {
-            "label": "▲ Marché de l'aide humanitaire",
-            "hausse": true
+            "label": "▼ Bourse des matières premières (indices comme CRB)",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur de la logistique",
-            "secteur_en": "Logistics sector",
-            "secteur_zh": "物流行业",
-            "effet_fr": "Les frappes pourraient perturber les chaînes d'approvisionnement et augmenter les coûts de transport en Ukraine.",
-            "effet_en": "Strikes could disrupt supply chains and increase transport costs in Ukraine.",
-            "effet_zh": "袭击可能扰乱供应链并增加乌克兰运输成本。",
-            "hausse": false
+            "secteur_fr": "Marché des matières premières énergétiques (pétrole, gaz)",
+            "secteur_en": "Energy commodities market (oil, gas)",
+            "secteur_zh": "能源商品市场（石油、天然气）",
+            "effet_fr": "Les tensions géopolitiques pourraient faire exploser les prix du pétrole, affectant les budgets énergétiques des États et les coûts industriels mondiaux.",
+            "effet_en": "Geopolitical tensions may spike oil prices, impacting national energy budgets and global industrial costs.",
+            "effet_zh": "地缘政治紧张可能推高石油价格，影响国家能源预算和全球工业成本。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché de l'aide humanitaire",
-            "secteur_en": "Humanitarian aid market",
-            "secteur_zh": "人道主义援助市场",
-            "effet_fr": "L'augmentation des besoins humanitaires pourrait entraîner une hausse des financements internationaux pour l'Ukraine.",
-            "effet_en": "Increased humanitarian needs could lead to a rise in international funding for Ukraine.",
-            "effet_zh": "人道主义需求增加可能导致国际对乌克兰资金投入上升。",
-            "hausse": true
+            "secteur_fr": "Bourse des matières premières (indices comme CRB)",
+            "secteur_en": "Commodities exchange (indices like CRB)",
+            "secteur_zh": "大宗商品交易所（如CRB指数）",
+            "effet_fr": "Les indices des matières premières pourraient enregistrer des mouvements erratiques, avec une surperformance des énergies fossiles et une baisse des métaux industriels en cas de récession.",
+            "effet_en": "Commodities indices may experience erratic movements, with fossil fuels outperforming and industrial metals declining in case of recession.",
+            "effet_zh": "大宗商品指数可能出现波动，化石能源可能表现强势，而工业金属在衰退期间可能下跌。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-03T14:53:25.291885"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-10T00:53:26.038795"
+      },
       {
         "id": "iran_259687",
         "titre": "Houthistes et Arabie saoudite au bord de la guerre",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-09-03T10:42:51.934499"
-      },
-      {
-        "id": "iran_413526",
-        "titre": "Guerre USA-Iran : frappes aériennes en représailles",
-        "titre_en": "US-Iran conflict escalates with air strikes",
-        "titre_zh": "美伊冲突升级：空袭互相报复",
-        "titre_ru": "США и Иран обмениваются авиаударами: вспышка новой войны",
-        "titre_fa": "جنگ دوباره میان آمریکا و ایران: تبادل حملات هوایی",
-        "titre_ar": "اندلاع الحرب مجدداً بين الولايات المتحدة وإيران: تبادل الضربات الجوية",
-        "titre_original": "US-Iran war flares again as sides exchange air strikes",
-        "resume": "L'Iran a riposté contre des sites américains en Jordanie, Bahreïn et Irak après des frappes ciblant des installations des Gardiens de la Révolution. Les tensions entre les deux pays s'intensifient depuis des années. Les États-Unis justifient leurs actions par la lutte contre le terrorisme.",
-        "resume_en": "Iran retaliated against US sites in Jordan, Bahrain, and Iraq following strikes on Revolutionary Guard facilities. Tensions between the two nations have escalated over years. The US claims its actions target terrorism.",
-        "resume_zh": "伊朗在约旦、巴林和伊拉克对美国目标进行报复性打击，此前美国袭击了伊朗革命卫队设施。两国紧张局势多年持续升级。美国声称行动针对恐怖主义。",
-        "resume_ru": "Иран нанёс ответные авиаудары по американским объектам в Иордании, Бахрейне и Ираке после того, как США заявили о нанесении ударов по объектам Корпуса стражей исламской революции. Конфликт между странами обострился на фоне давних геополитических противоречий. В регионе нарастает напряжённость, угрожающая стабильности.",
-        "resume_fa": "ایران پس از آنکه آمریکا اعلام کرد به تأسیسات سپاه پاسداران حمله کرده، به اهدافی در اردن، بحرین و عراق حمله هوایی کرد. تنش‌ها میان دو کشور دوباره بالا گرفته است. در منطقه تنش‌ها در حال افزایش است و ثبات را تهدید می‌کند.",
-        "resume_ar": "شنّ إيران ضربات جوية انتقامية على مواقع أمريكية في الأردن والبحرين والعراق بعد أن أعلنت الولايات المتحدة استهدافها لمواقع الحرس الثوري الإسلامي. تصاعد الصراع بين البلدين وسط خلافات جيوسياسية طويلة الأمد. تتصاعد التوترات في المنطقة مهددة الاستقرار.",
-        "analyse_detaillee": "Les tensions USA-Iran remontent à la révolution islamique de 1979 et à la crise des otages. Les frappes actuelles s'inscrivent dans un cycle de représailles après des années de sanctions et d'affrontements indirects. Les enjeux incluent la stabilité régionale, l'influence géopolitique et la sécurité énergétique. À court terme, les marchés pétroliers pourraient subir des fluctuations en raison des risques d'escalade. À moyen terme, une guerre ouverte pourrait perturber les routes commerciales critiques. À long terme, une escalade pourrait redessiner les alliances au Moyen-Orient. Les États-Unis et l'Iran adoptent des positions intransigeantes, chacun cherchant à affaiblir l'autre. Les pays européens tentent de jouer un rôle de médiateur, mais leur influence reste limitée.",
-        "analyse_en": "US-Iran tensions date back to the 1979 Islamic Revolution and hostage crisis. Current strikes follow years of sanctions and indirect conflicts. Key stakes include regional stability, geopolitical influence, and energy security. Short-term, oil markets may fluctuate due to escalation risks. Medium-term, open war could disrupt critical trade routes. Long-term, escalation may reshape Middle Eastern alliances. Both the US and Iran adopt uncompromising stances, aiming to weaken each other. European countries attempt mediation but have limited influence.",
-        "analyse_zh": "美伊紧张局势可追溯至1979年伊斯兰革命和人质危机。当前空袭是多年制裁和间接冲突后的报复。主要影响包括地区稳定、地缘政治影响和能源安全。短期内，油价可能因升级风险波动。中期来看，公开战争可能扰乱关键贸易路线。长期而言，冲突升级可能重塑中东联盟。美伊双方立场强硬，试图削弱对方。欧洲国家试图调解但影响有限。",
-        "analyse_ru": "Контекст конфликта между США и Ираном уходит корнями в десятилетия противостояния, включая ядерную программу Тегерана и поддержку региональных союзников. Причины обострения кроются в недавних взаимных обвинениях в агрессии и нарушении суверенитета. Последствия могут быть катастрофическими: эскалация может привести к региональной войне с участием других государств. Перспективы зависят от дипломатических усилий или дальнейшего военного противостояния. Позиции сторон остаются непримиримыми: США требуют сдерживания Ирана, а Тегеран настаивает на выводе американских войск из региона.",
-        "analyse_fa": "زمینه درگیری آمریکا و ایران به دهه‌ها تنش بازمی‌گردد، از جمله برنامه هسته‌ای تهران و حمایت از متحدان منطقه‌ای. دلایل تشدید در اتهامات متقابل به تجاوز و نقض حاکمیت نهفته است. پیامدها می‌تواند فاجعه‌بار باشد: تشدید می‌تواند به جنگ منطقه‌ای با مشارکت سایر کشورها منجر شود. چشم‌انداز به تلاش‌های دیپلماتیک یا ادامه تقابل نظامی بستگی دارد. موضع بازیگران غیرقابل مصالحه باقی مانده است: آمریکا خواستار مهار ایران است و تهران بر خروج نیروهای آمریکایی از منطقه پافشاری می‌کند.",
-        "analyse_ar": "يرجع سياق الصراع بين الولايات المتحدة وإيران إلى عقود من المواجهة، بما في ذلك البرنامج النووي لطهران ودعمها للحلفاء الإقليميين. تكمن أسباب التصعيد في الاتهامات المتبادلة بالعدوان وانتهاك السيادة. قد تكون العواقب كارثية: يمكن أن يؤدي التصعيد إلى حرب إقليمية تشارك فيها دول أخرى. ترتبط الآفاق بالجهود الدبلوماسية أو استمرار المواجهة العسكرية. مواقف الأطراف остаются غير قابلة للتسوية: تطالب الولايات المتحدة باحتواء إيران، بينما يصر طهران على خروج القوات الأمريكية من المنطقة.",
-        "categorie": "Géopolitique",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/09/02/iran-us-war-latest-news/",
-        "image": "https://www.irishtimes.com/resizer/v2/F5EUUUAW66YDAG77ZXAOSNKYCU.jpg?smart=true&auth=9bd362732d97dc26ffdb4e786f97a07df4571c0a534c384695decb7615b0dd7c&width=1200&height=630",
-        "date": "2026-09-02",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des devises",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier",
-            "secteur_en": "Oil market",
-            "secteur_zh": "石油市场",
-            "effet_fr": "Les tensions pourraient faire monter les prix du pétrole en raison des risques d'interruption des approvisionnements.",
-            "effet_en": "Tensions may drive up oil prices due to supply disruption risks.",
-            "effet_zh": "紧张局势可能因供应中断风险推高油价。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des devises",
-            "secteur_en": "Currency market",
-            "secteur_zh": "外汇市场",
-            "effet_fr": "L'instabilité pourrait affaiblir les monnaies régionales comme le dinar irakien ou le rial iranien.",
-            "effet_en": "Instability may weaken regional currencies like the Iraqi dinar or Iranian rial.",
-            "effet_zh": "动荡可能削弱伊拉克第纳尔或伊朗里亚尔等地区货币。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-03T05:33:36.043191"
       }
     ]
   },
