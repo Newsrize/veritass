@@ -1,7 +1,66 @@
 {
-  "last_updated": "11/09/2026 à 13h16",
+  "last_updated": "11/09/2026 à 17h34",
   "articles": {
     "monde": [
+      {
+        "id": "monde_244919",
+        "titre": "Koepka rejoint TGL : révélation de ses motivations réelles",
+        "titre_en": "Koepka reveals true reason for TGL move",
+        "titre_zh": "科普卡加盟TGL背后真实原因曝光",
+        "titre_ru": "Brooks Koepka confirms the real reason why he agreed to join TGL",
+        "titre_fa": "Brooks Koepka confirms the real reason why he agreed to join TGL",
+        "titre_ar": "Brooks Koepka confirms the real reason why he agreed to join TGL",
+        "titre_original": "Brooks Koepka confirms the real reason why he agreed to join TGL",
+        "resume": "Brooks Koepka, champion de golf, confirme avoir rejoint le Motor City Golf Club de TGL en 2027 après son départ de la PGA Tour en 2022 pour LIV Golf. Son engagement s’inscrit dans une dynamique de rivalité croissante entre circuits professionnels, avec des implications financières et médiatiques majeures. Ce choix reflète une stratégie de maximisation des revenus et de visibilité à l’international.",
+        "resume_en": "Golf champion Brooks Koepka confirms joining TGL’s Motor City Golf Club in 2027 after leaving the PGA Tour in 2022 to join LIV Golf. His move underscores the growing rivalry between professional golf circuits, with significant financial and media implications. The decision aims to maximize revenue and global visibility.",
+        "resume_zh": "高尔夫冠军布鲁克斯·科普卡确认将于2027年加盟TGL的底特律高尔夫俱乐部，此举发生在其2022年离开PGA巡回赛后加入LIV高尔夫之后。这一选择反映了职业高尔夫赛事间日益激烈的竞争，具有重大的财务和媒体影响。此决定旨在最大化收入和全球知名度。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La rivalité entre LIV Golf et PGA Tour s’inscrit dans une guerre économique et médiatique initiée en 2022 par des investisseurs saoudiens. Les enjeux incluent la redistribution des revenus publicitaires et la captation des meilleurs joueurs, avec des conséquences immédiates sur les sponsors traditionnels. À moyen terme, cela pourrait fragmenter davantage le marché du golf professionnel et réduire la valeur des contrats télévisuels. À long terme, cette dynamique pourrait transformer durablement l’industrie, avec une concentration accrue des droits médiatiques autour des circuits les plus lucratifs.",
+        "analyse_en": "The rivalry between LIV Golf and the PGA Tour stems from a 2022 economic and media war initiated by Saudi investors. Stakes include the redistribution of advertising revenue and the poaching of top players, with immediate impacts on traditional sponsors. In the medium term, this could further fragment the professional golf market and reduce the value of TV contracts. Long-term, the trend may permanently reshape the industry, concentrating media rights around the most lucrative circuits.",
+        "analyse_zh": "LIV高尔夫与PGA巡回赛的竞争源于2022年沙特投资者发起的经济和媒体战争。核心问题包括广告收入重新分配和挖走顶级球员，对传统赞助商产生即时影响。中期内，这可能进一步分裂职业高尔夫市场并降低电视合同价值。长期来看，这一趋势可能永久改变行业格局，将媒体版权集中在最具盈利能力的赛事上。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport-Économie",
+        "source": "HITC - Football, Gaming, Movies, TV, Music",
+        "url": "https://www.hitc.com/brooks-koepka-confirms-the-real-reason-why-he-agreed-to-join-tgl/",
+        "image": "https://s.yimg.com/lo/mysterio/api/79a9991e15da5539424f15bb45b28cf358aa52a8febb56d720ab98b7e0fea034/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F070d547065a97e559b484b67ff262a9a.jpg",
+        "date": "2026-09-10",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché des droits télévisuels du golf",
+            "hausse": false
+          },
+          {
+            "label": "▲ Investissements publicitaires en sport",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des droits télévisuels du golf",
+            "secteur_en": "Golf TV rights market",
+            "secteur_zh": "高尔夫电视版权市场",
+            "effet_fr": "La fragmentation des circuits pourrait entraîner une baisse des enchères pour les droits télévisuels, réduisant les revenus des chaînes traditionnelles comme ESPN.",
+            "effet_en": "The fragmentation of circuits may lead to lower bidding for TV rights, reducing revenues for traditional broadcasters like ESPN.",
+            "effet_zh": "赛事分裂可能导致电视版权竞拍降价，减少ESPN等传统电视台的收入。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Investissements publicitaires en sport",
+            "secteur_en": "Sports advertising investments",
+            "secteur_zh": "体育广告投资",
+            "effet_fr": "Les marques pourraient se recentrer sur les circuits à forte audience, comme LIV Golf, au détriment des tournois traditionnels moins médiatisés.",
+            "effet_en": "Brands may focus on high-audience circuits like LIV Golf, at the expense of less media-covered traditional tournaments.",
+            "effet_zh": "品牌可能集中在观众规模大的赛事如LIV高尔夫上，而忽视传统但媒体曝光较少的赛事。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-11T17:33:19.580962"
+      },
       {
         "id": "monde_602776",
         "titre": "Les Houthis progressent le long de la côte sud-yéménite",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-06T05:31:45.926531"
-      },
-      {
-        "id": "monde_43107",
-        "titre": "Chris Paul dénonce un traitement « indigne »",
-        "titre_en": "Chris Paul calls treatment ‘disrespectful’",
-        "titre_zh": "克里斯·保罗称遭遇「不尊重」",
-        "titre_ru": "Пол отправлен домой из Клипперс: «Самое неуважительное»",
-        "titre_fa": "پال در حال بازگشت از کلایپرز: «یک از بدترین رفتارهای من»",
-        "titre_ar": "بول يعيد إلى المنزل من كليبرز: «أشد ما تعرضت له من عدم الاحترام»",
-        "titre_original": "Chris Paul on Clippers sending him home: 'One of the most disrespectful things that I've endured'",
-        "resume": "Le meneur des Clippers, Chris Paul, a qualifié de « l’une des choses les plus irrespectueuses » son renvoi à domicile par son équipe. Les tensions entre le joueur et la direction des Clippers ont éclaté après des désaccords sur sa place dans l’équipe et son rôle. Cette crise révèle des fractures internes au sein d’une franchise en quête de stabilité après des saisons difficiles.",
-        "resume_en": "Clippers guard Chris Paul called his team’s decision to send him home ‘one of the most disrespectful things’ he’s endured. Tensions erupted after disagreements over his role and position within the team. The crisis exposes internal fractures in a franchise struggling for stability after a tough season.",
-        "resume_zh": "克里夫兰骑士队控球后卫克里斯·保罗称球队将他遣返回家是「他遭遇过最不尊重的事之一」。球员与球队管理层之间的紧张关系因对其角色和位置的分歧而爆发。这场危机揭示了一个在艰难赛季后寻求稳定的球队内部的裂痕。",
-        "resume_ru": "Центровой баскетболист Крис Пол раскритиковал решение владельцев «Лос-Анджелес Клипперс» отправить его в отпуск без зарплаты. Он назвал это «самым неуважительным» в своей карьере. По словам игрока, его действия не соответствовали поведению, которое ожидалось от лидера команды.",
-        "resume_fa": "کریس پل، بازیکن مرکزی بسکتبال، تصمیم مالکان کلایپرز لس آنجلس را برای فرستادن او به تعطیلات بدون حقوق انتقاد کرد. او این را «یک از بدترین رفتارهای من» نامید. پل گفت که رفتار او با انتظار تیم از یک رهبر مطابقت ندارد.",
-        "resume_ar": "ناقم كريست بول، لاعب الوسط في كرة السلة، قرار مالكي كليبرز بارساله إلى المنزل بدون راتب. وصفه بأنه «أشد ما تعرضت له من عدم الاحترام». قال بول أن تصرفاته لم تتوافق مع توقعات فريقه من قائد الفريق.",
-        "analyse_detaillee": "Cette affaire s’inscrit dans une tradition NBA où les tensions entre joueurs et management sont fréquentes, souvent liées à des enjeux financiers ou sportifs. Chris Paul, figure historique de la ligue, incarne une génération de joueurs exigeants en termes de reconnaissance et de conditions contractuelles. Les Clippers, en pleine reconstruction, pourraient voir leur image affectée par ce conflit, surtout après des saisons marquées par l’instabilité. À court terme, cela pourrait influencer les négociations futures avec d’autres stars. À moyen terme, la franchise devra clarifier sa vision stratégique pour éviter de nouveaux conflits. Long terme, cette crise pourrait accélérer une refonte des relations employeur-employé dans le sport professionnel, avec une demande croissante de transparence. Les joueurs défendent leur autonomie, tandis que les franchises cherchent à équilibrer performance et contrôle.",
-        "analyse_en": "This incident reflects a long-standing NBA trend where player-management tensions are common, often tied to financial or sporting disputes. Chris Paul, a league legend, represents a generation of players demanding recognition and fair contracts. The Clippers, mid-rebuild, could see their brand damaged by this conflict, especially after seasons marked by instability. Short-term, this may impact future negotiations with other stars. Mid-term, the franchise must clarify its strategic vision to avoid further clashes. Long-term, this crisis could accelerate a restructuring of employer-employee relations in pro sports, with growing demands for transparency. Players advocate for autonomy, while franchises seek to balance performance and control.",
-        "analyse_zh": "此事反映了NBA中球员与管理层之间频繁的紧张关系，通常与财务或体育议题相关。克里斯·保罗作为联盟传奇人物，代表了一代要求认可和公平合同的球员。正处于重建阶段的骑士队可能因这场冲突而受到品牌影响，特别是在经历多个不稳定赛季后。短期内，这可能影响未来与其他明星球员的谈判。中期内，球队必须明确其战略方向以避免进一步冲突。长期来看，这场危机可能加速职业体育中雇主-雇员关系的改革，并推动对透明度的更高需求。球员主张自主权，而球队则试图在绩效和控制之间取得平衡。",
-        "analyse_ru": "Конфликт Пола с руководством «Клипперс» отражает растущие проблемы в НБА с управлением и культурой команд. Игрокы часто сталкиваются с давлением со стороны владельцев и тренеров, особенно в условиях финансовых ограничений лиги. Крис Пол, известный своей профессиональностью, стал жертвой внутренних разногласий, что может повлиять на его мотивацию. В долгосрочной перспективе это может усилить дискуссии о роли игроков в принятии решений. Случай Пола служит примером того, как даже звезды могут столкнуться с несправедливостью в системе.",
-        "analyse_fa": "این درگیری پل با مدیریت کلایپرز نشان‌دهنده مشکلات در حال رشد در ان‌بی‌ای در مورد مدیریت و فرهنگ تیم‌ها است. بازیکنان اغلب با فشار مالکان و مربیان مواجه می‌شوند، به ویژه در شرایط محدودیت‌های مالی لیگ. پل، که به حرفه‌ای بودن معروف است، قربانی اختلافات داخلی شده و ممکن است این موضوع بر انگیزه او تأثیر بگذارد. در بلندمدت، این موضوع می‌تواند به بحث‌های بیشتر در مورد نقش بازیکنان در تصمیم‌گیری‌ها منجر شود. داستان پل مثالی است از اینکه حتی ستارگان نیز ممکن است با ناعادلانه بودن سیستم مواجه شوند.",
-        "analyse_ar": "الصراع بين بول وإدارة كليبرز يعكس المشاكل المتزايدة في إن بي أي فيما يتعلق بالقيادة والثقافة الفريقية. يواجه اللاعبين ضغطًا من مالكي الفرق ومدربيهم، خاصة في ظل قيود مالية في الدوري. بول، معروف باحترافيته، أصبح ضحية الخلافات الداخلية، ما قد يؤثر على دافعيته. على المدى الطويل، قد يزيد هذا من المناقشات حول دور اللاعبين في اتخاذ القرارات. قصة بول مثال على أن حتى النجوم قد يواجهون عدم العدالة في النظام.",
-        "categorie": "Sport",
-        "source": "Hoops Hype",
-        "url": "https://www.hoopshype.com/story/sports/nba/2026/09/04/chris-paul-on-clippers-sending-him-home-one-of-the-most-disrespectful-things-that-ive-endured/91617972007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/b98b4ad76cea62ed7761bcf01e4bcf5cfac337b5275da09aea9d19d034545d40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhoops_hype_usa_today_sports_articles_974%2F7029dd2c1c343dfe8ce46842d6b26dcc.png",
-        "date": "2026-09-04",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marché des transferts et valorisation des joueurs",
-            "hausse": false
-          },
-          {
-            "label": "▲ Assurances sportives et litiges contractuels",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des transferts et valorisation des joueurs",
-            "secteur_en": "Player transfer market and valuation",
-            "secteur_zh": "球员转会市场及估值",
-            "effet_fr": "Les tensions avec Chris Paul pourraient influencer la perception de sa valeur marchande et retarder les négociations pour son futur contrat ou transfert.",
-            "effet_en": "Tensions with Chris Paul may affect his market value perception and delay negotiations for his future contract or transfer.",
-            "effet_zh": "与克里斯·保罗的紧张关系可能影响其市场价值的认知，并推迟其未来合同或转会的谈判。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Assurances sportives et litiges contractuels",
-            "secteur_en": "Sports insurance and contract disputes",
-            "secteur_zh": "体育保险及合同纠纷",
-            "effet_fr": "Les assureurs pourraient revoir leurs couvertures pour les contrats sportifs en cas de multiplication des conflits similaires, augmentant les coûts pour les franchises.",
-            "effet_en": "Insurers may reassess coverage for sports contracts if similar disputes multiply, increasing costs for franchises.",
-            "effet_zh": "如果类似冲突增多，保险公司可能重新评估体育合同的保障，导致球队成本上升。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-05T22:42:54.195718"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_258495",
+        "titre": "Cour d'appel inflige une défaite à Trump sur le vote par correspondance",
+        "titre_en": "Appeals court defeats Trump on mail voting",
+        "titre_zh": "上诉法院击败特朗普邮寄投票案",
+        "titre_ru": "Appeals Court Hands Trump A Loss On Mail Voting",
+        "titre_fa": "Appeals Court Hands Trump A Loss On Mail Voting",
+        "titre_ar": "Appeals Court Hands Trump A Loss On Mail Voting",
+        "titre_original": "Appeals Court Hands Trump A Loss On Mail Voting",
+        "resume": "Une cour d'appel américaine a rejeté une demande de Donald Trump concernant les restrictions sur le vote par correspondance, malgré une décision en cours à la Cour suprême sur le même dossier. Ce jugement intervient dans un contexte de tensions persistantes autour des élections et des réformes électorales aux États-Unis. La décision pourrait influencer les prochaines élections présidentielles de 2024 et les débats sur la démocratie participative.",
+        "resume_en": "An appeals court in the US has ruled against Donald Trump’s challenge to mail-in voting restrictions, even as the Supreme Court is considering the same case. The decision comes amid ongoing disputes over election integrity and voting reforms. It may impact the 2024 presidential elections and broader debates on democratic participation.",
+        "resume_zh": "美国上诉法院驳回了特朗普关于邮寄投票限制的诉求，尽管最高法院正在审理同一案件。此判决发生在美国选举完整性和选举改革争议持续的背景下。它可能影响2024年总统选举及民主参与的更广泛辩论。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce jugement s’inscrit dans une série de contentieux judiciaires liés aux élections américaines, remontant aux controverses de 2020. Les enjeux portent sur la légitimité des procédures électorales et la confiance dans les institutions, avec des conséquences immédiates sur les stratégies politiques des partis. À moyen terme, cela pourrait renforcer les divisions partisanes et accélérer les réformes électorales controversées. À long terme, cela interroge la stabilité du système démocratique américain face aux manipulations potentielles. Les républicains, comme Trump, y voient une attaque contre leurs intérêts, tandis que les démocrates y voient une victoire pour l’accès universel au vote.",
+        "analyse_en": "This ruling fits into a broader pattern of election-related legal battles dating back to the controversies of 2020. The stakes involve the legitimacy of electoral processes and trust in institutions, with immediate political repercussions for both parties. In the medium term, it may deepen partisan divisions and push for controversial electoral reforms. Long-term, it raises questions about the stability of the US democratic system against potential manipulations. Republicans, including Trump, view it as an attack on their interests, while Democrats see it as a victory for universal voting access.",
+        "analyse_zh": "此判决属于美国选举争议系列案件，源自2020年的争端。核心问题涉及选举程序的合法性和对制度的信任，对政党战略产生即时影响。中期内，可能加剧党派分裂并推动争议性选举改革。长期来看，这质疑美国民主体系在面对潜在操控时的稳定性。共和党人如特朗普视之为对其利益的攻击，而民主党则视之为普选权的胜利。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-mail-in-voting_n_6aa2e8aee4b0b2af35a4dbfd",
+        "image": "https://img.huffingtonpost.com/asset/6aa2e8ec170000d0ee20109c.jpeg?cache=COHpVcwtNj&ops=1200_630",
+        "date": "2026-09-10",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des assurances électorales",
+            "hausse": true
+          },
+          {
+            "label": "▼ Fonds de campagne politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des assurances électorales",
+            "secteur_en": "Election insurance market",
+            "secteur_zh": "选举保险市场",
+            "effet_fr": "Les incertitudes juridiques pourraient inciter les assureurs à revoir leurs couvertures et tarifs pour les élections futures, augmentant les coûts pour les candidats.",
+            "effet_en": "Legal uncertainties may prompt insurers to adjust coverage and premiums for future elections, increasing costs for candidates.",
+            "effet_zh": "法律不确定性可能促使保险公司调整未来选举的保障和保费，增加候选人的成本。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds de campagne politique",
+            "secteur_en": "Political campaign funds",
+            "secteur_zh": "政治竞选基金",
+            "effet_fr": "Les candidats pourraient réallouer des ressources vers des stratégies juridiques plutôt que des campagnes terrain, réduisant les investissements dans les infrastructures électorales locales.",
+            "effet_en": "Candidates may reallocate resources toward legal strategies instead of ground campaigns, reducing investments in local electoral infrastructure.",
+            "effet_zh": "候选人可能将资源重新分配到法律战略上，而不是地面宣传，减少对地方选举基础设施的投资。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-11T17:33:19.580945"
+      },
       {
         "id": "usa_525196",
         "titre": "Juge fédéral autorise audience pour outrage en Missouri",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-09-06T05:31:45.926543"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_320102",
-        "titre": "Juge bloque restrictions postales de Trump",
-        "titre_en": "Judge blocks Trump’s mail ballot restrictions",
-        "titre_zh": "法官阻止特朗普邮寄选票限制",
-        "titre_ru": "Суд продлил запрет на ограничения почтовых бюллетеней Трампа",
-        "titre_fa": "دادگاه محدودیت‌های پست‌بالوت ترمپ را به حالت تعلیق درآورد",
-        "titre_ar": "قاضي يطول حظر ترمب على ballots البريدية بشكل غير محدود",
-        "titre_original": "How Trump's attempt to restrict mail ballots is being challenged in court",
-        "resume": "Un juge fédéral a prolongé indéfiniment son ordre bloquant la mise en œuvre de nouvelles restrictions sur les bulletins de vote par correspondance proposées par l’administration Trump. Ces mesures visaient à imposer aux États l’utilisation de bulletins scannables. Le dossier soulève des questions sur l’accès démocratique et les méthodes de vote pendant les élections futures.",
-        "resume_en": "A federal judge indefinitely extended her order blocking the Trump administration’s new restrictions on mail-in ballots. The plan required states to use scannable ballots, raising concerns about democratic access and voting methods in upcoming elections. The case highlights ongoing legal battles over election integrity and voter rights.",
-        "resume_zh": "一名联邦法官无限期延长了阻止特朗普政府实施邮寄选票新限制的命令。该计划要求各州使用可扫描选票，引发了关于民主参与和未来选举投票方式的担忧。此案反映了选举公正和选民权利方面的持续法律争端。",
-        "resume_ru": "Федеральный суд бессрочно продлил запрет на реализацию администрацией Трампа новых ограничений на голосование по почте. План предполагал обязательное использование сканируемых бюллетеней для всех штатов. Судья отклонила попытку президента ужесточить правила, что вызвало протесты сторонников изменения избирательной системы.",
-        "resume_fa": "یک قاضی فدرال به طور نامحدود حکم خود برای جلوگیری از اجرای محدودیت‌های جدید ترمپ بر روی رای‌دهی پست‌بالوت را تمدید کرد. طرح ترمپ الزام استفاده از کارت‌های رای قابل اسکن برای همه ایالت‌ها را شامل می‌شد. قاضی از اجرای این محدودیت‌ها جلوگیری کرد که باعث اعتراض طرفداران تغییر در سیستم انتخاباتی شد.",
-        "resume_ar": "أطالت قاضي فدرالي حظره مؤقتا على تنفيذ إدارة ترمب لقيود جديدة على ballots البريدية. كان الخطة تتطلب من الولايات استخدام بطاقات قابلة للقراءة بالاسكان. رفضت القاضي تنفيذ هذه القيود، ما أدى إلى احتجاجات من مؤيدي تغيير نظام الانتخابات.",
-        "analyse_detaillee": "Ce litige s’inscrit dans une longue histoire de débats sur la légitimité des votes par correspondance, popularisés pendant la pandémie de Covid-19. Les restrictions proposées par Trump visent à réduire les risques de fraude perçue, mais elles pourraient marginaliser les électeurs vulnérables ou éloignés. À court terme, cela pourrait renforcer les divisions politiques en alimentant les théories du complot sur les élections. À moyen terme, les États pourraient adapter leurs lois pour contourner ces restrictions, tandis que les partis démocrates pourraient intensifier leurs campagnes pour protéger le vote à distance. Long terme, cela pourrait redéfinir les dynamiques électorales aux États-Unis, avec un possible durcissement des règles dans certains États conservateurs. Les démocrates y voient une attaque contre les droits civiques, tandis que les républicains défendent une approche sécuritaire, malgré les critiques sur son caractère partisan.",
-        "analyse_en": "This legal battle stems from decades of debate over mail-in voting legitimacy, accelerated during the Covid-19 pandemic. Trump’s restrictions aim to curb perceived fraud risks but may disenfranchise vulnerable or distant voters. Short-term, this could exacerbate political divisions by fueling election conspiracy theories. Mid-term, states may adjust their laws to bypass these restrictions, while Democrats could escalate advocacy for remote voting protections. Long-term, this could reshape U.S. electoral dynamics, with potential stricter rules in conservative states. Democrats view it as a civil rights attack, while Republicans defend it as a security measure, despite partisan criticism.",
-        "analyse_zh": "此法律争端源于长期围绕邮寄选票合法性的争议，特别是在新冠疫情期间被推广。特朗普的限制措施旨在减少被认为的作弊风险，但可能剥夺脆弱或远程选民的投票权。短期内，这可能加剧政治分裂，助长选举阴谋论。中期内，各州可能调整法律以绕过这些限制，而民主党可能加强保护远程投票的运动。长期来看，这可能重塑美国选举动态，保守州可能实施更严格的规则。民主党视之为对公民权利的攻击，而共和党则认为这是一种安全措施，尽管存在党派批评。",
-        "analyse_ru": "Решение суда стало очередным этапом в длительной юридической битве вокруг избирательных прав в США. Трамп пытался использовать административные рычаги для снижения доверия к почтовому голосованию, что особенно актуально перед выборами 2024 года. Критики называют такие меры попыткой дискредитации легитимности результатов, особенно в штатах с высокой долей демократов. Ожидается, что апелляционные инстанции могут пересмотреть решение, учитывая политическую поляризацию. В долгосрочной перспективе это может усилить споры о реформе избирательной системы, особенно после скандалов с выборами 2020 года.",
-        "analyse_fa": "این حکم دادگاه مرحله دیگری از درگیری حقوقی طولانی مدت در مورد حق رای در ایالات متحده است. ترمپ سعی داشت از ابزارهای اجرایی برای کاهش اعتماد به رای‌دهی پست‌بالوت استفاده کند، که در پیش از انتخابات سال ۲۰۲۴ بسیار مهم است. منتقدان این اقدامات را تلاش برای بی‌اعتمادی به مشروعیت نتایج انتخابات، به ویژه در ایالت‌هایی با درصد بالایی از دموکرات‌ها می‌دانند. انتظار می‌رود دادگاه‌های تجدیدنظر این حکم را بررسی کنند، در حالی که قطبیت سیاسی نقش مهمی دارد. در بلندمدت، این موضوع می‌تواند به بحث‌های بیشتر در مورد اصلاحات سیستم انتخاباتی منجر شود، به ویژه پس از اسکاندال انتخابات سال ۲۰۲۰.",
-        "analyse_ar": "قضائية هذا القرار جزء من مراحل طويلة من المنازعات القانونية حول حقوق التصويت في الولايات المتحدة. حاول ترمب استخدام أدوات إدارية لتقليل الثقة في التصويت البريدية، وهو أمر مهم بشكل خاص قبل الانتخابات لعام 2024. ينتقدون هذه الإجراءات بأنها محاولة لتخريب شرعية النتائج، خاصة في الولايات التي لديها نسبة عالية من الديمقراطيين. من المتوقع أن تنظر المحاكم الاستئنافية في هذا الحكم، مع وجود قطبية سياسية واضحة. على المدى الطويل، قد يزيد هذا من المناقشات حول إصلاح نظام الانتخابات، خاصة بعد فضيحة الانتخابات لعام 2020.",
+        "id": "chine_612411",
+        "titre": "Enquête demandée sur liens présumés de femme McConnell avec le CCP",
+        "titre_en": "Investigation demanded over McConnell wife’s alleged CCP ties",
+        "titre_zh": "麦康奈尔夫人与中共疑似联系引发调查要求",
+        "titre_ru": "‘Suspected Chinese spy’: Probe demanded after Mitch McConnell’s wife reportedly revealed to have CCP ties",
+        "titre_fa": "‘Suspected Chinese spy’: Probe demanded after Mitch McConnell’s wife reportedly revealed to have CCP ties",
+        "titre_ar": "‘Suspected Chinese spy’: Probe demanded after Mitch McConnell’s wife reportedly revealed to have CCP ties",
+        "titre_original": "‘Suspected Chinese spy’: Probe demanded after Mitch McConnell’s wife reportedly revealed to have CCP ties",
+        "resume": "La femme de Mitch McConnell, sénateur républicain, est accusée d’avoir des liens avec le Parti communiste chinois (CCP), déclenchant des appels à une enquête officielle. Les tensions géopolitiques entre les États-Unis et la Chine s’intensifient, avec des implications pour les relations diplomatiques et les investissements américains en Chine. Ce scandale pourrait aussi affecter les campagnes électorales et la perception de la loyauté des élites politiques américaines.",
+        "resume_en": "The wife of Mitch McConnell, a Republican senator, is accused of having ties to the Chinese Communist Party (CCP), sparking calls for an official investigation. US-China geopolitical tensions are escalating, with implications for diplomatic relations and US investments in China. The scandal may also impact election campaigns and perceptions of American political elites' loyalty.",
+        "resume_zh": "美国参议员麦康奈尔夫人被指与中国共产党（CCP）有联系，引发要求官方调查的呼声。中美地缘政治紧张关系加剧，影响外交关系和美国在华投资。这场丑闻还可能影响选举竞选和美国政治精英的忠诚度认知。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce scandale s’inscrit dans une série de révélations sur les influences étrangères dans la politique américaine, remontant aux affaires comme celle de Hunter Biden. Les enjeux incluent la souveraineté nationale et la transparence des élites, avec des conséquences immédiates sur la crédibilité des républicains. À moyen terme, cela pourrait renforcer les lois sur le lobbying et les déclarations d’intérêts, tandis que la Chine pourrait intensifier ses efforts de désinformation pour discréditer ses détracteurs. Long-term, cette affaire pourrait accélérer une refonte des relations sino-américaines, avec une possible délocalisation des investissements stratégiques.",
+        "analyse_en": "This scandal fits into a series of revelations about foreign influences in US politics, dating back to cases like Hunter Biden. Stakes include national sovereignty and elite transparency, with immediate impacts on Republican credibility. In the medium term, this could strengthen lobbying laws and conflict-of-interest disclosures, while China may ramp up disinformation efforts to discredit its critics. Long-term, the affair could accelerate a reshaping of US-China relations, with possible relocations of strategic investments.",
+        "analyse_zh": "这起丑闻属于美国政治中外国影响力曝光系列，追溯至如Hunter拜登案件。核心问题包括国家主权和精英透明度，对共和党的信誉产生即时影响。中期内，这可能加强游说法规和利益冲突披露，而中国可能加大对批评者的舆论攻势。长期来看，此事可能加速重塑中美关系，并导致战略投资的地理转移。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/how-trumps-attempt-to-restrict-mail-ballots-is-being-challenged-in-court",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/mailvote-1024x683.jpg",
-        "date": "2026-09-04",
-        "pays": "usa",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/09/suspected-chinese-spy-probe-demanded-after-mitch-mcconnells/",
+        "image": "https://www.wnd.com/wp-content/uploads/2026/07/mitch-mcconnell-elaine-chao-20260727-jpg-1200x630.jpg",
+        "date": "2026-09-10",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché des services électoraux et technologies de vote",
+            "label": "▼ Marché des investissements américains en Chine",
             "hausse": false
           },
           {
-            "label": "▲ Assurances électorales et litiges juridiques",
+            "label": "▲ Fonds de lobbying et influence politique",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des services électoraux et technologies de vote",
-            "secteur_en": "Election services and voting technology market",
-            "secteur_zh": "选举服务及投票技术市场",
-            "effet_fr": "Les incertitudes juridiques pourraient ralentir les investissements dans les systèmes de vote électroniques et les infrastructures de vote à distance.",
-            "effet_en": "Legal uncertainties may slow investments in electronic voting systems and remote voting infrastructure.",
-            "effet_zh": "法律不确定性可能减缓对电子投票系统和远程投票基础设施的投资。",
+            "secteur_fr": "Marché des investissements américains en Chine",
+            "secteur_en": "US investments market in China",
+            "secteur_zh": "美国在华投资市场",
+            "effet_fr": "Les investisseurs pourraient reporter leurs projets en Chine au profit d’autres destinations asiatiques comme le Vietnam ou l’Inde, réduisant les flux financiers vers le pays.",
+            "effet_en": "Investors may delay projects in China in favor of other Asian destinations like Vietnam or India, reducing financial flows to the country.",
+            "effet_zh": "投资者可能将中国项目推迟至越南或印度等其他亚洲目的地，减少对中国的资金流入。",
             "hausse": false
           },
           {
-            "secteur_fr": "Assurances électorales et litiges juridiques",
-            "secteur_en": "Election insurance and legal disputes sector",
-            "secteur_zh": "选举保险及法律纠纷行业",
-            "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques accrus liés aux contestations électorales prolongées.",
-            "effet_en": "Insurers may raise premiums to cover increased risks from prolonged election disputes.",
-            "effet_zh": "保险公司可能提高保费以覆盖因选举争议延长带来的风险。",
+            "secteur_fr": "Fonds de lobbying et influence politique",
+            "secteur_en": "Lobbying funds and political influence",
+            "secteur_zh": "游说基金与政治影响力",
+            "effet_fr": "Les dépenses en lobbying pourraient exploser pour les entreprises et individus ciblés par des accusations similaires, avec un impact sur la régulation des activités étrangères aux États-Unis.",
+            "effet_en": "Lobbying spending may surge for companies and individuals targeted by similar accusations, affecting the regulation of foreign activities in the US.",
+            "effet_zh": "游说开支可能激增，针对类似指控的企业和个人，影响美国对外活动的监管。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-05T22:42:54.195693"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-09-11T17:33:19.580983"
+      },
       {
         "id": "chine_465918",
         "titre": "Croissance chinoise en 2025 : défis économiques et géopolitiques",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-09-03T00:57:59.157373"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_380502",
-        "titre": "Les États-Unis pressent le G20 de réduire les déséquilibres",
-        "titre_en": "US urges G20 to cut trade imbalances",
-        "titre_zh": "美国敦促G20减少贸易失衡",
-        "titre_ru": "США призывает G20 сократить дисбаланс торговли и сосредоточиться на Китае",
-        "titre_fa": "آمریکا از G20 می‌خواهد ناترازی تجاری را کاهش دهند و بر چین تمرکز کنند",
-        "titre_ar": "الولايات المتحدة تحث مجموعة العشرين على خفض الاختلالات التجارية والتركيز على الصين",
-        "titre_original": "US urges G20 to cut trade imbalances, focus on China",
-        "resume": "Le secrétaire au Trésor américain Bessent a appelé les membres du G20 à protéger leurs économies des importations chinoises. Cette demande s'inscrit dans un contexte de tensions commerciales persistantes entre Washington et Pékin. Les pays du G20 sont invités à adopter des mesures protectionnistes ciblées.",
-        "resume_en": "US Treasury Secretary Bessent urged G20 members to protect their economies from Chinese imports amid ongoing trade tensions with Beijing. The call highlights growing concerns over trade imbalances and unfair competition. G20 countries are expected to consider protective measures.",
-        "resume_zh": "美国财政部长贝森特敦促G20成员国保护经济免受中国进口产品冲击。此举在中美贸易紧张局势下提出，凸显对贸易失衡和不公平竞争的担忧。各国可能考虑采取保护措施。",
-        "resume_ru": "Министр финансов США Стивен Мнучин призвал страны G20 принять меры для защиты своих экономик от китайского импорта. Он подчеркнул необходимость сокращения торговых дисбалансов, которые, по его мнению, создаёт Китай. США требуют от партнёров по альянсу более решительных действий.",
-        "resume_fa": "وزیر خزانه‌داری آمریکا از کشورهای گروه بیست خواست تا برای محافظت از اقتصادهای خود در برابر واردات چینی اقدامات بیشتری انجام دهند. او بر لزوم کاهش ناترازی‌های تجاری تأکید کرد که به عقیده او توسط چین ایجاد می‌شود. ایالات متحده از شرکای خود در این ائتلاف خواسته است که اقدامات قاطع‌تری انجام دهند.",
-        "resume_ar": "حث وزير الخزانة الأمريكي الدول العشرين على اتخاذ إجراءات لحماية اقتصاداتها من الواردات الصينية. وشدد على ضرورة خفض الاختلالات التجارية التي، في رأيه، تخلقها الصين. تطالب الولايات المتحدة شركاءها في التحالف باتخاذ إجراءات أكثر حزما.",
-        "analyse_detaillee": "Les tensions commerciales entre les États-Unis et la Chine remontent aux années 2010 avec l'imposition de tarifs douaniers par l'administration Trump. Les enjeux principaux incluent la protection des industries locales et la réduction du déficit commercial américain. Les causes profondes résident dans la stratégie industrielle chinoise, accusée de dumping et de subventions déloyales. À court terme, les pays du G20 pourraient renforcer leurs barrières douanières, risquant une escalade protectionniste. À moyen terme, cela pourrait fragmenter le commerce mondial et ralentir la croissance économique. À long terme, une guerre commerciale prolongée pourrait redessiner les chaînes d'approvisionnement mondiales. Les États-Unis adoptent une position agressive, tandis que la Chine pourrait riposter par des mesures ciblées. L'Europe, divisée, tente de trouver un équilibre entre ses alliés américains et ses intérêts économiques avec la Chine.",
-        "analyse_en": "US-China trade tensions date back to the 2010s with tariffs imposed by the Trump administration. Key stakes include protecting local industries and reducing America's trade deficit. Root causes lie in China's industrial strategy, accused of dumping and unfair subsidies. Short-term, G20 countries may strengthen customs barriers, risking a protectionist escalation. Medium-term, this could fragment global trade and slow economic growth. Long-term, prolonged trade war may reshape global supply chains. The US adopts an aggressive stance, while China may retaliate with targeted measures. Europe, divided, seeks a balance between its US allies and economic interests with China.",
-        "analyse_zh": "中美贸易紧张局势始于2010年代特朗普政府征收关税。主要影响包括保护本土产业和减少美国贸易逆差。深层原因在于中国的产业战略，被指责存在倾销和不公平补贴。短期内，G20国家可能加强关税壁垒，冒险升级贸易保护主义。中期来看，这可能分裂全球贸易并减缓经济增长。长期而言，持久的贸易战可能重塑全球供应链。美国采取强硬立场，而中国可能针对性报复。欧洲因分歧而在美中间寻求平衡。",
-        "analyse_ru": "Контекст ситуации связан с растущим торговым дефицитом США с Китаем, который достиг рекордных масштабов в последние годы. Причины дисбаланса кроются в неравных условиях торговли, субсидировании китайских предприятий и манипуляциях с валютой. Последствия для США включают ослабление внутренних производств и рост безработицы в отдельных отраслях. Перспективы зависят от того, сумеют ли страны G20 договориться о единых правилах или США прибегнут к односторонним мерам, таким как тарифы. Позиции сторон: США требуют изменений, Китай отрицает обвинения, а другие страны G20 пытаются балансировать между партнёрством с Китаем и давлением со стороны США.",
-        "analyse_fa": "زمینه این موضوع به کسری تجاری فزاینده آمریکا با چین در سال‌های اخیر بازمی‌گردد که به رکوردهای بی‌سابقه‌ای رسیده است. دلایل ناترازی شامل شرایط نابرابر تجارت، یارانه‌دهی به شرکت‌های چینی و دستکاری ارز است. پیامدهای این مسئله برای آمریکا شامل تضعیف تولیدات داخلی و افزایش بیکاری در برخی بخش‌ها می‌شود. چشم‌انداز آینده به این بستگی دارد که آیا کشورهای گروه بیست می‌توانند به توافق مشترکی دست یابند یا آمریکا به اقدامات یکجانبه مانند تعرفه‌ها متوسل خواهد شد. موضع بازیگران: آمریکا خواستار تغییرات است، چین اتهامات را رد می‌کند و سایر کشورهای گروه بیست تلاش می‌کنند میان همکاری با چین و فشار از سوی آمریکا تعادل برقرار کنند.",
-        "analyse_ar": "يرتبط السياق في هذه المسألة بالعجز التجاري المتزايد للولايات المتحدة مع الصين، والذي وصل إلى مستويات قياسية في السنوات الأخيرة. الأسباب وراء هذا الاختلال تشمل ظروف التجارة غير المتكافئة والدعم الحكومي للشركات الصينية والتدخل في أسعار الصرف. أما العواقب بالنسبة للولايات المتحدة فتشمل تدهور الصناعات المحلية وارتفاع معدلات البطالة في بعض القطاعات. الآفاق المستقبلية تعتمد على ما إذا كانت دول مجموعة العشرين ستتمكن من التوصل إلى اتفاق مشترك أو ما إذا ستلجأ الولايات المتحدة إلى إجراءات أحادية مثل فرض الرسوم الجمركية. مواقف الأطراف: تطالب الولايات المتحدة بالتغييرات، وتنفي الصين التهم، بينما تحاول دول مجموعة العشرين الأخرى الموازنة بين التعاون مع الصين والضغط من جانب الولايات المتحدة.",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-31T151944Z_2070103316_RC2P9NAANYYY_RTRMADP_3_G20-FINANCE-1788214890.jpg?resize=1920%2C1440",
-        "date": "2026-09-01",
-        "pays": "chine",
+        "id": "russie_741374",
+        "titre": "Rapport Anthropic sur la détection des abus d’IA en septembre 2026",
+        "titre_en": "Anthropic report on AI misuse detection in September 2026",
+        "titre_zh": "2026年9月安索普人工智能滥用检测报告",
+        "titre_ru": "Detecting and countering misuse of AI: September 2026",
+        "titre_fa": "Detecting and countering misuse of AI: September 2026",
+        "titre_ar": "Detecting and countering misuse of AI: September 2026",
+        "titre_original": "Detecting and countering misuse of AI: September 2026",
+        "resume": "Un rapport d’Anthropic, publié en septembre 2026, analyse les méthodes pour détecter et contrer l’utilisation malveillante des technologies d’IA. Ce document, discuté sur des plateformes comme Hacker News, souligne les risques croissants liés à la désinformation et aux cyberattaques automatisées. Il intervient dans un contexte de montée des préoccupations géopolitiques autour de l’IA, notamment entre États-Unis et Chine.",
+        "resume_en": "Anthropic’s September 2026 report examines methods to detect and counter malicious uses of AI technologies. The document, discussed on platforms like Hacker News, highlights growing risks related to disinformation and automated cyberattacks. It comes amid rising geopolitical concerns over AI, particularly between the US and China.",
+        "resume_zh": "安索普公司2026年9月发布的报告分析了检测和应对人工智能恶意使用的方法。该文档在Hacker News等平台上讨论，强调了虚假信息和自动化网络攻击日益增长的风险。这发生在全球范围内对人工智能的关注不断上升的背景下，特别是美国和中国之间的地缘政治问题。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les abus d’IA s’inscrivent dans une escalade technologique initiée dès les années 2010, avec des applications militaires et civiles croisées. Les enjeux incluent la souveraineté numérique et la cybersécurité, où la Russie, malgré ses sanctions, cherche à développer des contre-mesures autonomes. Les conséquences immédiates concernent les infrastructures critiques, tandis que la guerre des talents en IA pourrait accélérer l’exode des experts vers des pays moins restrictifs. À long terme, cela pourrait mener à une course aux armements technologiques asymétriques, avec des acteurs comme la Chine et les États-Unis en tête.",
+        "analyse_en": "AI misuse reflects a technological escalation starting in the 2010s, with military and civilian cross-applications. Stakes include digital sovereignty and cybersecurity, where Russia, despite sanctions, seeks to develop autonomous countermeasures. Immediate consequences affect critical infrastructure, while the AI talent war may accelerate the exodus of experts to less restrictive countries. Long-term, this could lead to an asymmetric technological arms race, with China and the US leading the pack.",
+        "analyse_zh": "人工智能滥用反映了2010年代以来的技术升级，涉及军事和民用交叉应用。核心问题包括数字主权和网络安全，俄罗斯尽管面临制裁，仍试图开发自主反制措施。短期内，这将影响关键基础设施，而人工智能人才竞争可能加速专家流向限制较少的国家。长期来看，这可能导致不对称技术军备竞赛，中国和美国处于领先地位。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Technologie-Sécurité",
+        "source": "Anthropic.com",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+        "date": "2026-09-10",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Commerce international",
-            "hausse": false
+            "label": "▲ Cybersécurité et défense numérique",
+            "hausse": true
           },
           {
-            "label": "▼ Marchés financiers",
-            "hausse": false
+            "label": "▲ Marché des technologies de désinformation",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Commerce international",
-            "secteur_en": "International trade",
-            "secteur_zh": "国际贸易",
-            "effet_fr": "Les tensions accrues pourraient réduire les exportations chinoises vers les pays du G20, perturbant les chaînes d'approvisionnement mondiales.",
-            "effet_en": "Increased tensions may reduce Chinese exports to G20 countries, disrupting global supply chains.",
-            "effet_zh": "紧张局势加剧可能减少中国对G20国家的出口，扰乱全球供应链。",
-            "hausse": false
+            "secteur_fr": "Cybersécurité et défense numérique",
+            "secteur_en": "Cybersecurity and digital defense",
+            "secteur_zh": "网络安全与数字防御",
+            "effet_fr": "Les entreprises russes pourraient investir massivement dans des outils de détection d’IA pour protéger leurs infrastructures critiques, augmentant la demande en solutions locales.",
+            "effet_en": "Russian firms may heavily invest in AI detection tools to protect critical infrastructure, boosting demand for local solutions.",
+            "effet_zh": "俄罗斯企业可能大量投资于人工智能检测工具以保护关键基础设施，增加对本土解决方案的需求。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marchés financiers",
-            "secteur_en": "Financial markets",
-            "secteur_zh": "金融市场",
-            "effet_fr": "L'incertitude commerciale pourrait entraîner une volatilité accrue sur les marchés boursiers, affectant les investissements étrangers.",
-            "effet_en": "Trade uncertainty could lead to increased volatility in stock markets, impacting foreign investments.",
-            "effet_zh": "贸易不确定性可能导致股市波动加剧，影响外国投资。",
-            "hausse": false
+            "secteur_fr": "Marché des technologies de désinformation",
+            "secteur_en": "Disinformation technology market",
+            "secteur_zh": "虚假信息技术市场",
+            "effet_fr": "Les acteurs malveillants pourraient adapter leurs méthodes pour contourner les nouvelles mesures de détection, créant un marché noir pour des outils plus sophistiqués.",
+            "effet_en": "Malicious actors may adapt their methods to bypass new detection measures, creating a black market for more sophisticated tools.",
+            "effet_zh": "恶意行为者可能调整方法以绕过新的检测措施，形成黑市需求更复杂的工具。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-09-02T22:23:25.139369"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-09-11T17:33:19.580973"
+      },
       {
         "id": "russie_504181",
         "titre": "Delhi renforce sécurité pour sommet BRICS avec drones et IA",
@@ -4829,65 +4888,6 @@
           }
         ],
         "created_at": "2026-09-04T07:55:40.171959"
-      },
-      {
-        "id": "russie_114240",
-        "titre": "UE et OTAN renforcent la pression sur la Russie",
-        "titre_en": "EU and NATO increase pressure on Russia",
-        "titre_zh": "欧盟和北约加大对俄罗斯的压力",
-        "titre_ru": "ЕС и НАТО усиливают давление на Россию после эскалации в Германии",
-        "titre_fa": "اتحادیه اروپا و ناتو پس از تشدید تنش در آلمان فشار بر روسیه را افزایش می‌دهند",
-        "titre_ar": "الاتحاد الأوروبي وحلف الناتو يعززان الضغط على روسيا بعد التصعيد في ألمانيا",
-        "titre_original": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany - BBC",
-        "resume": "L'UE et l'OTAN ont annoncé un durcissement de leurs sanctions contre la Russie après une nouvelle escalade en Allemagne. Des attaques par drones et des actes de sabotage sont au cœur des tensions. L'Allemagne enquête sur plusieurs cas de sabotage présumés.",
-        "resume_en": "The EU and NATO announced tougher sanctions against Russia following a new escalation in Germany. Drone attacks and sabotage acts are central to the tensions. Germany is investigating several alleged sabotage cases.",
-        "resume_zh": "欧盟和北约在德国新一轮升级后宣布对俄罗斯实施更严厉制裁。无人机袭击和破坏行动是紧张局势的核心。德国正在调查多起涉嫌破坏案件。",
-        "resume_ru": "Европейский союз и НАТО объявили о намерении ужесточить санкции против России после серии инцидентов в Германии. Эти события связывают с предполагаемой причастностью российских спецслужб. Германия начала расследование случаев саботажа, что усилило дипломатическое давление.",
-        "resume_fa": "اتحادیه اروپا و ناتو اعلام کردند پس از مجموعه‌ای از حوادث در آلمان قصد دارند تحریم‌های خود علیه روسیه را تشدید کنند. این رویدادها به ارتباط احتمالی با سرویس‌های اطلاعاتی روسیه نسبت داده می‌شوند. آلمان تحقیقات خود را در مورد موارد خرابکاری آغاز کرده است که فشار دیپلماتیک را افزایش داده است.",
-        "resume_ar": "أعلن الاتحاد الأوروبي وحلف الناتو عن نيتهم تشديد العقوبات ضد روسيا بعد سلسلة من الحوادث في ألمانيا. تُنسب هذه الأحداث إلى تورط محتمل للمخابرات الروسية. بدأت ألمانيا تحقيقاتها في حالات التخريب، مما عزز الضغط الدبلوماسي.",
-        "analyse_detaillee": "Cette escalade s'inscrit dans le contexte de la guerre en Ukraine, où la Russie est accusée de mener des opérations hybrides en Europe. Historiquement, les tensions entre la Russie et l'Occident remontent à la guerre froide, avec des périodes de détente comme les années 1990. À court terme, les sanctions pourraient affaiblir l'économie russe, déjà fragilisée par la guerre. À moyen terme, elles risquent de renforcer l'isolement diplomatique de Moscou et d'accélérer la militarisation de l'Europe de l'Est. À long terme, une nouvelle guerre froide pourrait émerger, avec une course aux armements et une division du monde en blocs rivaux. Les acteurs comme l'Allemagne, cible de plusieurs attaques, et la France, qui cherche à maintenir un dialogue, jouent un rôle clé. Les États-Unis, en tant que leader de l'OTAN, renforcent leur présence en Europe, tandis que la Chine observe la situation avec prudence, cherchant à tirer profit des divisions occidentales.",
-        "analyse_en": "This escalation fits into the context of the war in Ukraine, where Russia is accused of conducting hybrid operations in Europe. Historically, tensions between Russia and the West date back to the Cold War, with periods of détente like the 1990s. In the short term, sanctions could weaken the Russian economy, already strained by the war. In the medium term, they risk deepening Moscow's diplomatic isolation and accelerating the militarization of Eastern Europe. Long-term, a new Cold War could emerge, with an arms race and a divided world into rival blocs. Actors like Germany, targeted by several attacks, and France, seeking to maintain dialogue, play a key role. The US, as NATO's leader, is strengthening its presence in Europe, while China is cautiously observing the situation, seeking to benefit from Western divisions.",
-        "analyse_zh": "此次升级是乌克兰战争背景下的一部分，俄罗斯被指控在欧洲进行混合行动。历史上，俄罗斯与西方的紧张局势可追溯到冷战，20世纪90年代曾有缓和时期。短期内，制裁可能削弱俄罗斯经济，该经济已因战争而脆弱。中期来看，制裁可能加深莫斯科的外交孤立，并加速东欧的军事化。长期而言，可能出现新冷战，伴随军备竞赛和世界分裂为对立集团。德国（多次遭袭）和法国（试图维持对话）等行动者发挥关键作用。作为北约领导者的美国正在加强在欧洲的存在，而中国则谨慎观察局势，试图从西方分裂中获利。",
-        "analyse_ru": "Контекст ситуации связан с обострением отношений между Россией и Западом на фоне конфликта на Украине и серии инцидентов в Европе. Причины ужесточения давления обусловлены подозрениями в причастности России к саботажу и дестабилизации обстановки. Последствия могут включать новые санкции, сокращение экономических связей и дальнейшее охлаждение отношений. Перспективы зависят от реакции России и возможных переговоров. Позиции сторон очевидны: Запад обвиняет Москву в агрессивной политике, Россия отрицает обвинения и называет действия Запада несправедливыми.",
-        "analyse_fa": "زمینه این اقدام به تشدید روابط بین روسیه و غرب در پی جنگ اوکراین و مجموعه‌ای از حوادث در اروپا مربوط می‌شود. دلایل افزایش فشار به ظن involvement روسیه در اقدامات خرابکارانه و بی‌ثبات‌سازی اوضاع بازمی‌گردد. پیامدهای این اقدام می‌تواند شامل تحریم‌های جدید، کاهش پیوندهای اقتصادی و تشدید تنش‌ها باشد. چشم‌اندازها به واکنش روسیه و مذاکرات احتمالی بستگی دارد. موضع بازیگران مشخص است: غرب روسیه را به سیاست تهاجمی متهم می‌کند، در حالی که روسیه اتهامات را رد کرده و اقدامات غرب را ناعادلانه توصیف می‌کند.",
-        "analyse_ar": "يتمحور سياق هذا الوضع في تصاعد حدة العلاقات بين روسيا والغرب في أعقاب الحرب في أوكرانيا وسلسلة من الحوادث في أوروبا. تأتي أسباب تشديد الضغط إلى الاشتباه في تورط روسيا في أعمال تخريب وزعزعة الاستقرار. قد تشمل العواقب عقوبات جديدة، وتقليص الروابط الاقتصادية، وزيادة التوترات. ترتبط الآفاق بردود فعل روسيا والمفاوضات المحتملة. مواقف الأطراف واضحة: يتهم الغرب روسيا بسياسة عدوانية، بينما تنفي روسيا الاتهامات وتصف إجراءات الغرب بأنها غير عادلة.",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185385588",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-09-03",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▼ Secteur bancaire européen",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché de l'armement",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur bancaire européen",
-            "secteur_en": "European banking sector",
-            "secteur_zh": "欧洲银行业",
-            "effet_fr": "Les sanctions pourraient compliquer les transactions financières avec la Russie, augmentant les coûts de conformité pour les banques.",
-            "effet_en": "Sanctions could complicate financial transactions with Russia, increasing compliance costs for banks.",
-            "effet_zh": "制裁可能使与俄罗斯的金融交易复杂化，增加银行的合规成本。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché de l'armement",
-            "secteur_en": "Arms market",
-            "secteur_zh": "军火市场",
-            "effet_fr": "Les tensions pourraient stimuler la demande en équipements militaires, bénéficiant aux industriels européens et américains.",
-            "effet_en": "Tensions could boost demand for military equipment, benefiting European and American manufacturers.",
-            "effet_zh": "紧张局势可能刺激军事装备需求，惠及欧洲和美国制造商。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-04T03:00:04.895421"
       }
     ],
     "iran": [
