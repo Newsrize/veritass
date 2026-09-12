@@ -1,7 +1,66 @@
 {
-  "last_updated": "12/09/2026 à 18h59",
+  "last_updated": "12/09/2026 à 21h19",
   "articles": {
     "monde": [
+      {
+        "id": "monde_181442",
+        "titre": "Bypass VPN Android expose failles de sécurité critiques",
+        "titre_en": "Android VPN bypass exposes critical security flaws",
+        "titre_zh": "安卓VPN绕过漏洞曝光安全隐患",
+        "titre_ru": "Android NAT-T keepalive offload bypasses VPN lockdown",
+        "titre_fa": "Android NAT-T keepalive offload bypasses VPN lockdown",
+        "titre_ar": "Android NAT-T keepalive offload bypasses VPN lockdown",
+        "titre_original": "Android NAT-T keepalive offload bypasses VPN lockdown",
+        "resume": "Une étude technique révèle une faille dans le protocole NAT-T sur Android, permettant de contourner les restrictions VPN imposées par certains opérateurs ou gouvernements. Cette vulnérabilité pourrait être exploitée pour espionner les communications chiffrées ou rediriger le trafic. Les développeurs et les régulateurs doivent agir rapidement pour colmater cette brèche avant qu’elle ne soit exploitée massivement.",
+        "resume_en": "A technical report highlights a flaw in Android’s NAT-T protocol, enabling VPN restrictions to be bypassed by operators or governments. This vulnerability could be abused to spy on encrypted traffic or redirect data flows. Developers and regulators must act swiftly to patch the gap before widespread exploitation.",
+        "resume_zh": "一份技术报告揭示了安卓NAT-T协议中的漏洞，允许绕过运营商或政府设置的VPN限制。此漏洞可能被滥用监控加密通信或重定向数据流。开发者和监管机构必须迅速修补漏洞，以防止大规模滥用。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette faille s’inscrit dans une série de vulnérabilités récurrentes affectant les infrastructures numériques, souvent exploitées par des acteurs étatiques ou criminels. Les enjeux principaux concernent la vie privée et la souveraineté des données, avec des risques accrus pour les utilisateurs de smartphones et les entreprises. Les causes profondes incluent la complexité croissante des protocoles réseau et le manque de transparence des fabricants. À court terme, les cybercriminels pourraient cibler les utilisateurs vulnérables, tandis que les gouvernements pourraient renforcer la surveillance. À moyen terme, cette faille pourrait accélérer l’adoption de normes de sécurité plus strictes. Long terme, elle pourrait influencer les politiques de cybersécurité globales et les investissements dans la R&D.",
+        "analyse_en": "This flaw is part of recurring vulnerabilities in digital infrastructure, often exploited by state actors or criminals. Key stakes involve privacy and data sovereignty, with heightened risks for smartphone users and corporations. Root causes include the growing complexity of network protocols and manufacturer opacity. Short-term, cybercriminals may target vulnerable users, while governments may ramp up surveillance. Medium-term, this flaw could accelerate stricter security standards adoption. Long-term, it may shape global cybersecurity policies and R&D investments.",
+        "analyse_zh": "此漏洞属于数字基础设施反复出现的漏洞，常被国家行为者或犯罪分子利用。主要影响涉及隐私和数据主权，智能手机用户和企业面临更高风险。深层原因包括网络协议复杂性增加和制造商缺乏透明度。短期内，网络犯罪分子可能针对易受攻击的用户，政府可能加强监控。中期内，此漏洞可能加速采用更严格的安全标准。长期来看，它可能影响全球网络安全政策和研发投资。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Cybersécurité",
+        "source": "Supuk.ch",
+        "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+        "image": "https://supuk.ch/images/headers/android-natt-keepalive-post.jpg",
+        "date": "2026-09-11",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Secteur des télécommunications (opérateurs mobiles)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Assurance cyber (cyber insurance)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des télécommunications (opérateurs mobiles)",
+            "secteur_en": "Telecommunications sector (mobile operators)",
+            "secteur_zh": "电信行业（移动运营商）",
+            "effet_fr": "Les opérateurs pourraient subir des pertes financières liées à la fraude ou à la perte de confiance des utilisateurs, tout en devant investir massivement dans la sécurisation de leurs infrastructures.",
+            "effet_en": "Operators may face financial losses from fraud or user distrust, while needing to heavily invest in securing their infrastructure.",
+            "effet_zh": "运营商可能因欺诈或用户不信任而遭受财务损失，同时需要大量投资于基础设施的安全加固。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Assurance cyber (cyber insurance)",
+            "secteur_en": "Cyber insurance",
+            "secteur_zh": "网络保险",
+            "effet_fr": "La demande en assurances cyber pourrait exploser, poussant les assureurs à ajuster leurs tarifs et couvertures face à ce type de risques émergents.",
+            "effet_en": "Demand for cyber insurance may surge, forcing insurers to adjust rates and coverage for emerging risks like this.",
+            "effet_zh": "网络保险需求可能激增，迫使保险公司调整费率和覆盖范围以应对新兴风险。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-12T21:19:38.752646"
+      },
       {
         "id": "monde_879004",
         "titre": "Plongée dans les grottes préhistoriques : une quête de l’humanité perdue",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-07T02:59:08.982096"
-      },
-      {
-        "id": "monde_422168",
-        "titre": "Pete Hegseth rejette rumeurs de limogeage",
-        "titre_en": "Hegseth dismisses firing rumors",
-        "titre_zh": "赫格塞特否认解雇传言",
-        "titre_ru": "Пит Хэгсет резко отреагировал на слухи о увольнении ключевого сотрудника министерства обороны",
-        "titre_fa": "پیتر هگست به شدت به شایعات دربارهٔ اخراج همکار ارشد وزارت جنگ پاسخ داد",
-        "titre_ar": "بيتر هاجستيث يرد بشدة على rumors حول خططه لإقالة زميله الرئيسي في وزارة الحرب",
-        "titre_original": "Pete Hegseth furiously snaps back against rumors he's looking to fire top Department of War colleague: 'His leadership is historic'",
-        "resume": "Pete Hegseth, figure conservatrice américaine, a vigoureusement rejeté les spéculations selon lesquelles il envisageait de licencier Steve Feinberg, haut responsable du 'Department of War'. Il a souligné l’historique leadership de ce dernier. Cet échange reflète les tensions internes au sein des cercles politiques conservateurs.",
-        "resume_en": "Conservative figure Pete Hegseth fiercely denied rumors he planned to fire Steve Feinberg, a top 'Department of War' official, praising his leadership. The exchange highlights internal tensions within conservative political circles.",
-        "resume_zh": "美国保守派人物赫格塞特强烈否认解雇‘战争部’高官费恩伯格的传言，称其领导历史性。此事反映了保守派政治内部的紧张关系。",
-        "resume_ru": "Пит Хэгсет отверг слухи о том, что он планирует уволить топ-менеджера министерства обороны Стивена Файнберга. Он назвал критику в свой адрес «историческим лидерством» и обвинил СМИ в искажении фактов. Конфликт может усилиться в преддверии предвыборной кампании. Хэгсет ранее был известен своими резкими высказываниями по политическим вопросам.",
-        "resume_fa": "پیتر هگست به شایعات مبنی بر قصد اخراج استیو فاینبرگ، مدیر ارشد وزارت جنگ، پاسخ داد و آن را رد کرد. او از انتقادها به خود به عنوان «رهبری تاریخی» دفاع کرد و به رسانه‌ها در توهین به حقایق اتهام زد. این درگیری ممکن است در پیش از کمپین انتخاباتی شدت بگیرد. هگست پیشتر به دلیل اظهارنظرهای تند سیاسی شناخته شده بود.",
-        "resume_ar": "ردّ بيتر هاجستيث على rumors حول خططه لإقالة ستيف فاينبرغ، رئيس قسم وزارة الحرب، وأكد على أن «قيادته تاريخية». اتهم وسائل الإعلام بتشويه الحقائق، مما قد يزيد من توتر العلاقات قبل الانتخابات. كان هاجستيث معروفًا سابقًا بعباراته القوية في السياسات.",
-        "analyse_detaillee": "Ce conflit s’inscrit dans une dynamique plus large de fragmentation des élites conservatrices américaines, notamment après les élections de 2020. Les enjeux portent sur le contrôle des institutions et la légitimité des figures comme Feinberg, perçues comme trop modérées ou alignées sur l’establishment. Les causes profondes incluent les divisions idéologiques au sein du mouvement conservateur et une quête de visibilité médiatique. À court terme, cela pourrait affaiblir la cohésion du camp républicain, tandis que les médias exploiteront le sujet pour alimenter les polémiques. À moyen terme, cela pourrait accélérer la radicalisation de certains groupes conservateurs.",
-        "analyse_en": "This conflict reflects broader fragmentation among American conservative elites, particularly post-2020 elections. Stakes involve control over institutions and the legitimacy of figures like Feinberg, seen as too moderate or aligned with the establishment. Root causes include ideological divisions within conservatism and a quest for media visibility. Short-term, this may weaken Republican cohesion, while media outlets will amplify the controversy. Medium-term, it could accelerate the radicalization of some conservative factions.",
-        "analyse_zh": "此冲突反映了美国保守派精英在2020年后选举后的分裂。核心问题涉及对机构的控制和像费恩伯格这样的人物的合法性，后者被视为过于温和或与精英阶层同流合污。深层原因包括保守派内部的意识形态分裂和争夺媒体关注度。短期内，这可能削弱共和党的凝聚力，而媒体将放大争议。中期内，可能加速保守派某些派系的激进化。",
-        "analyse_ru": "Конфликт Хэгсета с Файнбергом отражает растущие внутренние трения в администрации, где политические амбиции и идеологические разногласия часто перерастают в публичные скандалы. Увольнение ключевого сотрудника может стать сигналом для оппозиции о слабости правительства, особенно если это произойдет перед выборами. СМИ играют ключевую роль в формировании общественного мнения, и их отчеты могут усилить или ослабить давление на Хэгсета. В перспективе это может повлиять на поддержку его политических инициатив. Важно отметить, что подобные скандалы часто используются оппонентами для дискредитации политиков.",
-        "analyse_fa": "درگیری هگست با فاینبرگ نشان‌دهنده افزایش تنش‌های داخلی در دولت است، جایی که آمبیشیون سیاسی و اختلافات ایدئولوژیک اغلب به اسکاندال‌های عمومی تبدیل می‌شوند. اخراج یک مدیر ارشد ممکن است برای مخالفان نشانه‌ای از ضعف دولت باشد، به ویژه اگر این اتفاق در پیش از انتخابات رخ دهد. رسانه‌ها نقش کلیدی در شکل‌گیری نظر عمومی دارند و گزارش‌های آن‌ها می‌تواند فشار بر هگست را افزایش یا کاهش دهد. در آینده، این ممکن است بر حمایت از برنامه‌های سیاسی او تأثیر بگذارد. باید توجه داشت که چنین اسکاندال‌هایی اغلب توسط مخالفان برای بی‌اعتمادی به سیاستمداران استفاده می‌شود.",
-        "analyse_ar": "الصراع بين هاجستيث وفاينبرغ يعكس زيادة التوتر الداخلي في الإدارة، حيث تتحول الطموحات السياسية والاختلافات الأيديولوجية غالبًا إلى سكاندالات عامة. قد يكون إقالة موظف رئيسي إشارة للمعارضة حول ضعف الحكومة، خاصة قبل الانتخابات. وسائل الإعلام تلعب دورًا حاسمًا في تشكيل الرأي العام، وقد يزيد أو يقلل من الضغط على هاجستيث. في المستقبل، قد يؤثر هذا على دعم مبادراته السياسية. يجب ملاحظة أن مثل هذه السكاندالات غالبًا ما تستخدم من قبل المعارضين لفضح السياسيين.",
-        "categorie": "Géopolitique",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16108349/pete-hegseth-rumor-department-war-deputy-secretary-feinberg-fired.html",
-        "image": "https://i.dailymail.com/1s/2026/09/05/23/111075363-0-image-m-36_1788648874805.jpg",
-        "date": "2026-09-05",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Financement des campagnes politiques conservatrices",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché des sondages d’opinion",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Financement des campagnes politiques conservatrices",
-            "secteur_en": "Conservative political campaign funding",
-            "secteur_zh": "",
-            "effet_fr": "Les tensions internes pourraient réduire les dons des contributeurs craignant une instabilité stratégique au sein du parti.",
-            "effet_en": "Internal tensions may reduce donations from contributors fearing strategic instability within the party.",
-            "effet_zh": "内部矛盾可能减少对害怕党内战略不稳定的捐助者的捐款。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des sondages d’opinion",
-            "secteur_en": "Opinion polling market",
-            "secteur_zh": "",
-            "effet_fr": "Les instituts de sondage capitaliseront sur ce sujet pour vendre des analyses polarisées et attirer des clients en quête de données exploitables.",
-            "effet_en": "Polling firms will leverage this topic to sell polarized analyses and attract clients seeking exploitable data.",
-            "effet_zh": "民意调查机构将利用此事推销极化分析，吸引寻找可操作数据的客户。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-06T23:30:33.006736"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_277734",
+        "titre": "Trump annonce un ‘dividende Trump’ de 5 000 dollars",
+        "titre_en": "Trump unveils $5,000 ‘Trump Dividend’ plan",
+        "titre_zh": "特朗普宣布5000美元‘特朗普红利’计划",
+        "titre_ru": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
+        "titre_fa": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
+        "titre_ar": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
+        "titre_original": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
+        "resume": "Donald Trump réaffirme son projet de verser un dividende annuel de 5 000 dollars aux Américains, financé par des « trillions de dollars de développement économique ». Les critiques soulignent l’absence de détails sur les sources de financement, tandis que les marchés anticipent une hausse des tensions fiscales. Ce plan s’inscrit dans une stratégie électorale visant à relancer l’économie avant les prochaines élections.",
+        "resume_en": "Donald Trump reaffirms his plan to distribute a $5,000 annual dividend to Americans, funded by ‘trillions of dollars of economic development.’ Critics question the lack of clarity on funding sources, while markets brace for fiscal tensions. The move aligns with electoral strategy to boost the economy ahead of upcoming elections.",
+        "resume_zh": "特朗普再次宣布向美国公民每年发放5000美元的‘红利’，声称资金来自‘数万亿美元的经济发展’。批评者质疑资金来源不明确，市场担忧财政紧张加剧。这一举措旨在选举前刺激经济增长。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce projet s’inscrit dans une tradition populiste américaine, où les promesses de redistribution directe visent à mobiliser l’électorat. Les causes profondes incluent la frustration économique post-pandémie et la polarisation politique, exacerbée par les inégalités. À court terme, les marchés pourraient réagir avec volatilité, tandis que les agences de notation pourraient rehausser les risques souverains. À moyen terme, le financement incertain pourrait déclencher des débats sur la dette publique et les priorités budgétaires. Long terme, cela pourrait renforcer les divisions partisanes ou, au contraire, forcer une réforme fiscale structurelle. Les républicains y voient un levier électoral, tandis que les démocrates y perçoivent une menace pour la stabilité économique.",
+        "analyse_en": "This plan echoes American populist traditions, where direct redistribution promises aim to mobilize voters. Root causes stem from post-pandemic economic frustration and political polarization, worsened by inequality. Short-term, markets may react with volatility, while rating agencies could flag sovereign risks. Medium-term, unclear funding could spark debates on public debt and budget priorities. Long-term, it may deepen partisan divides or force structural fiscal reforms. Republicans see it as an electoral tool, while Democrats view it as a threat to economic stability.",
+        "analyse_zh": "该计划延续了美国民粹主义传统，通过直接分配资金吸引选民支持。深层原因包括疫情后的经济不满和政治极化，加剧了贫富差距。短期内，市场可能出现波动，主权债务评级机构可能提高风险警示。中期内，资金来源不明确可能引发公共债务和预算优先事项的争议。长期来看，这可能加剧党派分裂，或者迫使进行结构性财政改革。共和党视其为选举工具，民主党则认为这是对经济稳定的威胁。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/09/when-i-say-something-i-mean-it-president/",
+        "image": "https://www.wnd.com/wp-content/uploads/2024/06/Donald-Trump-thumbs-up-1200x630.jpg",
+        "date": "2026-09-11",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché boursier (Wall Street)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Dette publique américaine",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché boursier (Wall Street)",
+            "secteur_en": "Stock market (Wall Street)",
+            "secteur_zh": "股票市场（华尔街）",
+            "effet_fr": "Les annonces de Trump pourraient provoquer une hausse initiale des actions liées aux secteurs cycliques, mais aussi une incertitude sur les politiques futures.",
+            "effet_en": "Trump’s announcements may initially boost cyclical stocks but also create uncertainty about future policies.",
+            "effet_zh": "特朗普的宣布可能短期内拉动周期性股票上涨，但也会增加对未来政策的不确定性。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Dette publique américaine",
+            "secteur_en": "US public debt",
+            "secteur_zh": "美国公共债务",
+            "effet_fr": "Le financement de ce dividende pourrait aggraver les déséquilibres budgétaires et relancer les débats sur la soutenabilité de la dette.",
+            "effet_en": "Funding this dividend could worsen budget imbalances and reignite debates on debt sustainability.",
+            "effet_zh": "资助这项红利可能加剧预算失衡，并重新点燃关于债务可持续性的讨论。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-12T21:19:38.752620"
+      },
       {
         "id": "usa_398929",
         "titre": "Promesse de 5 000 dollars par Trump : critique bipartite lors du congrès républicain",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-09-07T02:59:08.982108"
-      },
-      {
-        "id": "usa_256816",
-        "titre": "Éboulement de plafond au Kennedy Center",
-        "titre_en": "Ceiling collapse at Kennedy Center",
-        "titre_zh": "肯尼迪中心天花板坠落事故",
-        "titre_ru": "Часть потолка Центра Кеннеди обрушилась во время сильного дождя",
-        "titre_fa": "قطعه‌ای از سقف مرکز کنیدی در باران شدید سقوط کرد",
-        "titre_ar": "قطعة من سقف مركز كينيدي تساقطت خلال الأمطار الغزيرة",
-        "titre_original": "Chunk of Kennedy Center's ceiling falls during heavy rains",
-        "resume": "Un morceau du plafond du Kennedy Center s’est effondré vendredi soir lors d’intenses pluies à Washington. Personne n’a été blessé, mais des débris et de la poussière ont été laissés dans le Grand Foyer. Cet incident soulève des questions sur l’entretien des infrastructures culturelles majeures.",
-        "resume_en": "A section of the ceiling at the Kennedy Center collapsed Friday night during heavy rain in Washington. No one was injured, but debris and dust were left in the Grand Foyer. The incident raises concerns about maintenance of major cultural infrastructure.",
-        "resume_zh": "华盛顿肯尼迪中心天花板在暴雨中坠落，造成无人伤亡，但留下了碎片和灰尘。此事件引发了对大型文化基础设施维护的质疑。",
-        "resume_ru": "Во время сильного дождя в Вашингтоне вечером в пятницу обрушилась часть потолка в Гранд-Фойе Центра Кеннеди. Никто не пострадал, но на полу остались обломки и пыль. Инцидент вызвал опасения по поводу безопасности здания.",
-        "resume_fa": "در شب پنج‌شنبه در حین باران شدید، بخشی از سقف مرکز کنیدی در فویه بزرگ سقوط کرد. هیچ زخمی گزارش نشد، اما قطعات و گرد و غبار روی زمین باقی ماند. این حادثه نگرانی‌هایی در مورد امنیت ساختمان ایجاد کرد.",
-        "resume_ar": "سقط جزء من سقف مركز كينيدي في الفويه الكبرى خلال الأمطار الغزيرة في ليلة الجمعة. لم يصب أحد بجروح، لكن بقايا وأتربة توزعت على الأرض. هذا الحادث أثار مخاوف بشأن سلامة المبنى.",
-        "analyse_detaillee": "Le Kennedy Center, symbole culturel américain, illustre les défis de la préservation des monuments historiques face aux aléas climatiques. Les causes profondes incluent un manque de budgets dédiés à la rénovation préventive et une sous-estimation des risques liés aux intempéries. À court terme, des fermetures temporaires et des coûts de réparation élevés sont à prévoir, tandis que la réputation de l’institution pourrait subir un coup. À moyen terme, cela pourrait accélérer les réformes de maintenance dans les lieux culturels publics. Les acteurs concernés, comme le gouvernement fédéral ou les donateurs privés, devront assumer leur responsabilité financière et technique.",
-        "analyse_en": "The Kennedy Center, a cultural symbol of the U.S., highlights the challenges of preserving historic monuments amid climate-related risks. Root causes include insufficient budgets for preventive renovations and underestimating weather-related hazards. Short-term consequences include temporary closures and high repair costs, potentially damaging the institution’s reputation. Medium-term, this could push for maintenance reforms in public cultural sites. Federal or private donors will need to address financial and technical accountability.",
-        "analyse_zh": "肯尼迪中心作为美国文化象征，展现了历史建筑在气候变化下的维护挑战。深层原因包括预防性翻修预算不足和对天气风险的低估。短期内，可能导致临时关闭和高昂的修复成本，影响机构声誉。中期内，这可能加速公共文化场所的维护改革。联邦政府或私人捐助者需要承担财务和技术责任。",
-        "analyse_ru": "Обрушение потолка в культурном центре страны — редкое явление, особенно во время сильных осадков, что указывает на возможные проблемы с конструкцией или износом материалов. Такие инциденты могут подорвать доверие публики к безопасности общественных мест, особенно после пандемии, когда посещаемость культурных объектов возросла. Власти должны провести немедственное расследование для выявления причин и предотвращения повторения. С другой стороны, Центр Кеннеди — символ американской культуры, и его репутация может пострадать, если не будут приняты меры. В перспективе это может повлиять на бюджетные решения и планы по реконструкции здания.",
-        "analyse_fa": "سقوط سقف در مرکز فرهنگی کشور در حین باران شدید، رویدادی نادر است که ممکن است نشان‌دهنده مشکلات ساختاری یا فرسودگی مواد باشد. چنین حوادثی می‌تواند اعتماد عمومی به امنیت مکان‌های عمومی را زیر سؤال ببرد، به ویژه پس از پاندمی که بازدید از مکان‌های فرهنگی افزایش یافت. مسئولان باید تحقیق فوری انجام دهند تا علت را شناسایی و از تکرار آن جلوگیری کنند. از سوی دیگر، مرکز کنیدی نمادی از فرهنگ آمریکایی است و اگر اقدامات لازم انجام نشود، اعتبار آن ممکن است آسیب ببیند. در آینده، این ممکن است بر تصمیمات بودجه‌ای و برنامه‌های بازسازی ساختمان تأثیر بگذارد.",
-        "analyse_ar": "سقوط جزء من سقف مركز ثقافي في الولايات المتحدة خلال الأمطار الغزيرة هو حدث نادر، والذي قد يشير إلى مشاكل بنيوية أو تدهور المواد. مثل هذه الحوادث قد تضر بالثقة العامة بسلامة الأماكن العامة، خاصة بعد من جائحة حيث زادت زيارات المواقع الثقافية. يجب على السلطات إجراء تحقيق فوري لتحديد أسباب الحادث وتجنب تكراره. من ناحية أخرى، مركز كينيدي هو رمز للثقافة الأمريكية، وقد تتأثر سمعة المركز إذا لم تتخذ تدابير مناسبة. في المستقبل، قد يؤثر هذا على قرارات الميزانية وخطط ترميم المبنى.",
-        "categorie": "Culture/Infrastructures",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/121715de91b6a641",
-        "image": "https://biztoc.com/cdn/995/og.png",
-        "date": "2026-09-05",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Assurance responsabilité civile des événements culturels",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des rénovations patrimoniales",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance responsabilité civile des événements culturels",
-            "secteur_en": "Cultural event liability insurance",
-            "secteur_zh": "",
-            "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse en raison de l’augmentation des risques climatiques et des sinistres liés aux infrastructures.",
-            "effet_en": "Insurers may increase premiums due to rising climate-related risks and infrastructure-related claims.",
-            "effet_zh": "保险公司可能因气候风险和基础设施事故增加而提高保费。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des rénovations patrimoniales",
-            "secteur_en": "Heritage renovation market",
-            "secteur_zh": "",
-            "effet_fr": "La demande en services de rénovation pourrait exploser, profitant aux entreprises spécialisées mais saturant temporairement le secteur.",
-            "effet_en": "Demand for renovation services may surge, benefiting specialized firms but temporarily overwhelming the sector.",
-            "effet_zh": "翻修需求激增，有利于专业公司但可能短期内饱和市场。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-06T23:30:33.006709"
       }
     ],
     "chine": [
@@ -3710,6 +3710,65 @@
     ],
     "russie": [
       {
+        "id": "russie_51497",
+        "titre": "Guerre en Ukraine : tensions géopolitiques et crises économiques",
+        "titre_en": "Ukraine war: geopolitical tensions and economic crises",
+        "titre_zh": "乌克兰战争：地缘政治紧张与经济危机",
+        "titre_ru": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
+        "titre_fa": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
+        "titre_ar": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
+        "titre_original": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
+        "resume": "Les frappes US-Iran ont fait monter le prix du pétrole au-dessus de 100 dollars, tandis que l’AfD progresse en Allemagne et que l’Ukraine fait face à de nouveaux scandales de corruption. La Russie renforce ses liens avec l’Inde, dans un contexte de tensions accrues autour de l’Ukraine. Ces dynamiques illustrent la fragmentation croissante des alliances et les répercussions économiques globales de la guerre.",
+        "resume_en": "US-Iran strikes pushed oil prices above $100, while Germany’s AfD gains traction and Ukraine faces new corruption scandals. Russia deepens ties with India amid heightened tensions over Ukraine. These dynamics reflect growing alliance fragmentation and global economic fallout from the war.",
+        "resume_zh": "美国-伊朗袭击使石油价格突破100美元，德国的AfD党势力上升，乌克兰面临新的腐败丑闻。俄罗斯在乌克兰紧张局势加剧背景下加深与印度的关系。这些动态展示了联盟日益分裂和战争带来的全球经济影响。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette période marque une escalade des conflits indirects, où les tensions régionales (Moyen-Orient) et locales (Ukraine) s’entremêlent avec des dynamiques électorales européennes. Les causes profondes incluent la quête de ressources énergétiques et la redéfinition des alliances post-Guerre froide. À court terme, les prix de l’énergie pourraient rester volatils, tandis que l’Ukraine pourrait voir son gouvernement affaibli par les scandales. À moyen terme, l’Europe pourrait renforcer son autonomie énergétique, mais au prix d’une polarisation politique accrue. Long terme, cette fragmentation pourrait accélérer la multipolarité géopolitique et la recherche de nouveaux équilibres économiques.",
+        "analyse_en": "This phase marks an escalation of indirect conflicts, where regional (Middle East) and local (Ukraine) tensions intertwine with European electoral dynamics. Root causes include energy resource competition and post-Cold War alliance redefinition. Short-term, energy prices may remain volatile, while Ukraine’s government could be weakened by scandals. Medium-term, Europe may boost energy autonomy at the cost of heightened political polarization. Long-term, this fragmentation could accelerate geopolitical multipolarity and the search for new economic balances.",
+        "analyse_zh": "这一时期标志着间接冲突的升级，地区性（中东）和局部性（乌克兰）紧张局势与欧洲选举动态交织。深层原因包括能源资源竞争和冷战后联盟的重新定义。短期内，能源价格可能保持波动，乌克兰政府可能因丑闻而削弱。中期内，欧洲可能加强能源自给，但代价是政治极化加剧。长期来看，这种分裂可能加速地缘政治多极化和寻找新的经济平衡。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645510-rt-top-stories-iran-germany-ukraine/",
+        "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aa42e0485f5405803735ff7.png",
+        "date": "2026-09-11",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier (OPEP+)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Bourse de Moscou (MOEX)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier (OPEP+)",
+            "secteur_en": "Oil market (OPEC+)",
+            "secteur_zh": "石油市场（OPEC+）",
+            "effet_fr": "Les tensions géopolitiques ont provoqué une hausse brutale des prix, bénéficiant aux producteurs mais aggravant l’inflation pour les consommateurs.",
+            "effet_en": "Geopolitical tensions caused a sharp price spike, benefiting producers but worsening inflation for consumers.",
+            "effet_zh": "地缘政治紧张导致石油价格暴涨，对生产商有利但加剧了消费者的通胀压力。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Bourse de Moscou (MOEX)",
+            "secteur_en": "Moscow Stock Exchange (MOEX)",
+            "secteur_zh": "莫斯科证券交易所（MOEX）",
+            "effet_fr": "Les sanctions et l’incertitude économique ont entraîné une baisse des investissements étrangers et une dépréciation du rouble.",
+            "effet_en": "Sanctions and economic uncertainty led to reduced foreign investment and ruble depreciation.",
+            "effet_zh": "制裁和经济不确定性导致外资减少和卢布贬值。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-12T21:19:38.752657"
+      },
+      {
         "id": "russie_15711",
         "titre": "Sanders propose un fonds souverain pour contrôler l’IA aux États-Unis",
         "titre_en": "Sanders proposes US sovereign wealth fund to regulate AI superintelligence",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-05T22:42:54.195729"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_661980",
-        "titre": "Juge autorise poursuite contre Sinema sous loi 'homewrecker'",
-        "titre_en": "Juge autorise poursuite contre Sinema sous loi 'homewrecker'",
-        "titre_zh": "法官裁定西纳可因‘家庭破坏者’法受到起诉",
-        "titre_ru": "Суд разрешил судебный иск к Керстен Синеме по закону «разрушитель семей» Северной Каролины",
-        "titre_fa": "دادگاه اجازه داد به کیرستن سینما به دلیل قانون «خرابکار خانوادگی» کارولینای شمالی دعوی شود",
-        "titre_ar": "أقرت محكمة دعوى ضد كيرستين سينما بموجب قانون «مدمّر العائلات» في نورث كارولينا",
-        "titre_original": "Judge Rules Kyrsten Sinema Can Be Sued Under North Carolina's 'Homewrecker' Law",
-        "resume": "Un juge de Caroline du Nord a statué que l’ancienne sénatrice américaine Kyrsten Sinema peut être poursuivie sous une loi controversée visant les relations extraconjugales. Ce jugement pourrait ouvrir la voie à des poursuites similaires contre des figures politiques. La loi, critiquée pour son caractère rétroactif, soulève des questions sur la liberté personnelle et la justice punitive.",
-        "resume_en": "A North Carolina judge ruled that former U.S. Senator Kyrsten Sinema can be sued under a controversial 'homewrecker' law targeting extramarital affairs. This ruling could pave the way for similar lawsuits against political figures. The law, criticized for its retroactive nature, raises questions about personal freedom and punitive justice.",
-        "resume_zh": "北卡罗来纳州法官裁定，前美国参议员基尔斯滕·西纳可因‘家庭破坏者’法受到起诉。这一裁决可能为针对政治人物的类似诉讼开辟道路。该法案因其事后追溯性而受到批评，引发了个人自由和惩罚性司法的问题。",
-        "resume_ru": "Суд в Северной Каролине принял решение, что бывший сенатор США Керстен Синема может быть привлечена к ответственности по закону о «разрушении семей». Это связано с её отношениями с членом её охранной службы. Такое решение может вызвать широкий общественный резонанс.",
-        "resume_fa": "دادگاه کارولینای شمالی تصمیم گرفت که کیرستن سینما، سناگر سابق آمریکا، می‌تواند به دلیل رابطه‌اش با یک عضو از تیم امنیتی‌اش، به موجب قانون «خرابکار خانوادگی» به دادگاه کشیده شود. این تصمیم ممکن است موجی از واکنش عمومی ایجاد کند.",
-        "resume_ar": "أقرت محكمة نورث كارولينا بإمكانية دعوى ضد كيرستين سينما، السيناتور السابقة الأمريكية، بموجب قانون «مدمّر العائلات» بسبب علاقتها بعضو في فريقها الأمني. قد يؤدي هذا القرار إلى موج من ردود الفعل العامة.",
-        "analyse_detaillee": "La loi 'homewrecker' de Caroline du Nord, adoptée en 2023, s’inscrit dans une tendance conservatrice américaine visant à renforcer les valeurs traditionnelles. Son application rétroactive contre Sinema, liée à une relation de 2021, révèle une instrumentalisation politique de la justice. Les causes profondes incluent la polarisation idéologique et la quête de légitimité par les républicains locaux. À court terme, ce jugement pourrait encourager des poursuites contre d’autres personnalités publiques, créant un précédent dangereux. À moyen terme, les États pourraient suivre cet exemple, exacerbant les tensions sociales. Long terme, cette loi pourrait être réformée ou abolie sous pression médiatique et juridique. Les acteurs clés sont les plaignants (stratégiques), Sinema (défensive), et les médias (amplificateurs).",
-        "analyse_en": "North Carolina’s 'homewrecker' law, passed in 2023, reflects an American conservative trend to reinforce traditional values. Its retroactive application against Sinema, tied to a 2021 relationship, reveals political instrumentalization of justice. Root causes include ideological polarization and local Republicans’ quest for legitimacy. Short-term, this ruling may encourage lawsuits against other public figures, setting a dangerous precedent. Medium-term, other states could follow suit, escalating social tensions. Long-term, this law may be reformed or abolished under media and legal pressure. Key actors include plaintiffs (strategic), Sinema (defensive), and media (amplifiers).",
-        "analyse_zh": "北卡罗来纳州的‘家庭破坏者’法案于2023年通过，反映了美国保守派强化传统价值观的趋势。该法案对2021年西纳的关系采取事后追溯应用，暴露了政治对司法的操控。深层原因包括意识形态分裂和当地共和党人寻求合法性的需求。短期内，这一裁决可能鼓励针对其他公众人物的诉讼，创造危险先例。中期内，其他州可能效仿，加剧社会紧张局势。长期来看，该法案可能在媒体和法律压力下被修订或废除。关键人物包括原告（策略性）、西纳（防御性）和媒体（放大者）。",
-        "analyse_ru": "Закон «разрушитель семей» в Северной Каролине, принятый в 2011 году, направлен на защиту браков от вмешательства третьих лиц, особенно в случаях, когда это может привести к разрыву отношений. Синема, известная своими либеральными взглядами, может столкнуться с критикой за то, что её действия якобы нарушают традиционные семейные ценности. Это решение может усилить поляризацию в обществе, особенно в контексте текущих политических дебатов. В будущем подобные законы могут стать инструментом давления на политиков с нестандартными жизненными позициями. Позиция Синемы, скорее всего, будет защищать её адвокаты, утверждая, что закон нарушает её конституционные права.",
-        "analyse_fa": "قانون «خرابکار خانوادگی» در کارولینای شمالی که در سال ۲۰۱۱ تصویب شد، برای محافظت از ازدواج‌ها در برابر مداخله اشخاص سوم، به ویژه در مواردی که ممکن است منجر به شکست رابطه شود، طراحی شده است. سینما، که با نظرات لیبرال خود شناخته می‌شود، ممکن است با انتقاد روبرو شود که اقدامات او به ارزش‌های خانوادگی سنتی آسیب می‌رساند. این تصمیم می‌تواند به قطبی‌سازی بیشتر در جامعه کمک کند، به ویژه در زمینه مناقشات سیاسی فعلی. در آینده، چنین قوانین ممکن است به ابزار فشار بر سیاستمداران با موقعیت‌های زندگی غیرمعمول تبدیل شوند. موضع سینما احتمالاً توسط وکلایشان دفاع خواهد شد، ادعا می‌کنند که قانون حقوق اساسی او را نقض می‌کند.",
-        "analyse_ar": "قانون «مدمّر العائلات» في نورث كارولينا، الذي تم تبنيه عام 2011، مصمم لحماية الزواج من التدخلات الخارجية، خاصة عندما قد يؤدي ذلك إلى انهيار العلاقات. سينما، المعروفة بمواقفها الليبرالية، قد تواجه انتقادات بسبب ادعاءات أن أفعالها تنتهك القيم العائلية التقليدية. قد يزيد هذا القرار من قطبية المجتمع، خاصة في سياق المناقشات السياسية الحالية. في المستقبل، قد تصبح مثل هذه القوانين أداة ضغط على السياسيين الذين لديهم مواقف غير تقليدية في الحياة. من المتوقع أن تدافع عن سينما محاموها، مشيرين إلى أن القانون ينتهك حقوقها الدستورية.",
-        "categorie": "Droit/Politique",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/kyrsten-sinema-north-carolina-homewrecker-law_n_6a9b2d94e4b0e51a2d92ecbf",
-        "image": "https://img.huffingtonpost.com/asset/6a9b2d96170000ef2ad4494a.jpeg?cache=jmVvy31TmD&ops=1200_630",
-        "date": "2026-09-04",
-        "pays": "russie",
+        "id": "iran_436216",
+        "titre": "Crise pétrolière en Iran : pénuries et hausse des prix",
+        "titre_en": "Iran faces oil shortages and price surges",
+        "titre_zh": "伊朗石油短缺：供应危机与价格飙升",
+        "titre_ru": "Gas Stations in Iran Begin to Run Dry",
+        "titre_fa": "Gas Stations in Iran Begin to Run Dry",
+        "titre_ar": "Gas Stations in Iran Begin to Run Dry",
+        "titre_original": "Gas Stations in Iran Begin to Run Dry",
+        "resume": "L’Iran subit une grave pénurie de carburant, aggravée par la hausse des prix et la réduction des quotas mensuels. Les dommages aux raffineries, le blocus américain et les sanctions internationales compliquent la situation. Les manifestations dans les rues reflètent le mécontentement croissant face à la gestion économique et aux tensions régionales.",
+        "resume_en": "Iran faces severe fuel shortages, worsened by price hikes and reduced monthly quotas. Damage to refineries, US sanctions, and international blockades exacerbate the crisis. Street protests highlight growing discontent over economic mismanagement and regional tensions.",
+        "resume_zh": "伊朗面临严重的燃料短缺，价格上涨和月度配额减少加剧了危机。炼油厂受损、美国制裁和国际封锁进一步恶化局势。街头抗议反映了对经济管理和地区紧张局势的日益不满。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette crise s’inscrit dans une dynamique de sanctions prolongées et de dépendance énergétique, aggravée par les conflits régionaux. Les causes profondes incluent la corruption endémique, l’inefficacité des institutions et la pression externe. À court terme, les pénuries pourraient déclencher des émeutes et une fuite des capitaux. À moyen terme, le gouvernement pourrait être contraint de libéraliser partiellement l’économie ou de chercher des alliés alternatifs. Long terme, cette situation pourrait accélérer le déclin du régime ou, au contraire, renforcer son autoritarisme en réprimant toute opposition.",
+        "analyse_en": "This crisis stems from prolonged sanctions and energy dependency, worsened by regional conflicts. Root causes include endemic corruption, institutional inefficiency, and external pressure. Short-term, shortages may trigger riots and capital flight. Medium-term, the government may be forced to partially liberalize the economy or seek alternative allies. Long-term, this could accelerate regime decline or, conversely, strengthen authoritarianism by crushing dissent.",
+        "analyse_zh": "这一危机源于长期制裁和能源依赖，加剧了地区冲突。深层原因包括深层腐败、机构低效和外部压力。短期内，短缺可能引发骚乱和资本外逃。中期内，政府可能被迫部分自由化经济或寻求替代盟友。长期来看，这可能加速政权衰落，或者通过镇压反对派加强独裁统治。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/396310/gas-stations-in-iran-begin-to-run-dry.html",
+        "image": "https://cdn.newser.com/image/1711214-12-20260911161000.jpeg",
+        "date": "2026-09-11",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Assurance responsabilité civile des personnalités publiques",
-            "hausse": true
+            "label": "▼ Riyad (marché pétrolier OPEP)",
+            "hausse": false
           },
           {
-            "label": "▼ Médias et influence sur les débats politiques",
+            "label": "▼ Téhéran (secteur bancaire et transactions financières)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Assurance responsabilité civile des personnalités publiques",
-            "secteur_en": "Public figures’ liability insurance",
-            "secteur_zh": "公众人物责任保险",
-            "effet_fr": "Les coûts juridiques élevés pourraient inciter les personnalités à souscrire des assurances plus coûteuses ou à limiter leurs relations personnelles pour éviter les risques.",
-            "effet_en": "High legal costs may push public figures to purchase more expensive insurance or limit personal relationships to avoid risks.",
-            "effet_zh": "高昂的法律成本可能促使公众人物购买更贵的保险，或限制个人关系以避免风险。",
-            "hausse": true
+            "secteur_fr": "Riyad (marché pétrolier OPEP)",
+            "secteur_en": "Riyadh (OPEC oil market)",
+            "secteur_zh": "利雅得（OPEC石油市场）",
+            "effet_fr": "L’Iran, membre de l’OPEP, voit sa capacité à influencer les prix réduite par les sanctions, tandis que l’Arabie saoudite pourrait profiter de la situation pour renforcer son leadership.",
+            "effet_en": "Iran, an OPEC member, sees its pricing influence diminished by sanctions, while Saudi Arabia may exploit the situation to strengthen its leadership.",
+            "effet_zh": "伊朗作为OPEC成员，其影响价格的能力因制裁而削弱，而沙特阿拉伯可能利用这一局面加强其领导地位。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Médias et influence sur les débats politiques",
-            "secteur_en": "Media influence on political discourse",
-            "secteur_zh": "媒体对政治辩论的影响",
-            "effet_fr": "Les révélations médiatisées pourraient amplifier les polémiques et influencer les élections, surtout dans les États conservateurs.",
-            "effet_en": "Media revelations could amplify controversies and influence elections, particularly in conservative states.",
-            "effet_zh": "媒体曝光可能放大争议，并影响选举，特别是在保守州份。",
+            "secteur_fr": "Téhéran (secteur bancaire et transactions financières)",
+            "secteur_en": "Tehran (banking and financial transactions)",
+            "secteur_zh": "德黑兰（银行和金融交易）",
+            "effet_fr": "Les sanctions américaines limitent les transactions internationales et poussent l’Iran vers des systèmes alternatifs comme le système de paiement SWIFT ou des cryptomonnaies.",
+            "effet_en": "US sanctions limit international transactions, pushing Iran toward alternative systems like SWIFT or cryptocurrencies.",
+            "effet_zh": "美国制裁限制了国际交易，迫使伊朗转向SWIFT替代系统或加密货币。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-05T20:57:38.348824"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-12T21:19:38.752667"
+      },
       {
         "id": "iran_648303",
         "titre": "Secrétaire naval américain : l’Iran a « explosé » une base américaine en Arabie Saoudite",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-09-04T03:00:04.895411"
-      },
-      {
-        "id": "iran_91164",
-        "titre": "Prix du pétrole en hausse après frappes américano-iraniennes",
-        "titre_en": "Oil prices rise after US-Iran strikes",
-        "titre_zh": "美伊袭击后油价上涨",
-        "titre_ru": "Цена на нефть выросла на 1% после ударов США и Ирана",
-        "titre_fa": "پس از حملات آمریکا و ایران، قیمت نفت ۱ درصد افزایش یافت",
-        "titre_ar": "ارتفعت أسعار النفط بنسبة 1% بعد الضربات الأمريكية الإيرانية",
-        "titre_original": "Oil: Another 1% rise after US–Iran strikes, brent climbs above $95",
-        "resume": "Les frappes américaines contre l'Iran ont provoqué une hausse de 1% du prix du pétrole, le baril de Brent dépassant les 95 dollars. Les craintes de perturbations dans le détroit d'Ormuz, voie majeure pour le transport pétrolier, alimentent cette hausse. Les marchés énergétiques restent sous haute tension.",
-        "resume_en": "US strikes against Iran caused a 1% rise in oil prices, with Brent crude exceeding $95 per barrel. Fears of disruptions in the Strait of Hormuz, a major oil transport route, are driving this increase. Energy markets remain on high alert.",
-        "resume_zh": "美国对伊朗的袭击导致油价上涨1%，布伦特原油超过每桶95美元。对霍尔木兹海峡（主要石油运输通道）中断的担忧推动了这一涨势。能源市场仍处于高度紧张状态。",
-        "resume_ru": "После ударов США и Ирана цена на нефть Brent выросла на 1% и превысила 95 долларов за баррель. Новые эскалации в регионе вызывают опасения по поводу сбоев в поставках нефти через Ормузский пролив. Энергетические рынки реагируют на напряженность.",
-        "resume_fa": "پس از حملات آمریکا و ایران، قیمت نفت برنت ۱ درصد افزایش یافت و به بیش از ۹۵ دلار در هر بشکه رسید. تشدید تنش‌ها در منطقه نگرانی‌هایی درباره اختلال در عرضه نفت از طریق تنگه هرمز ایجاد کرده است. بازارهای انرژی به این تنش‌ها واکنش نشان می‌دهند.",
-        "resume_ar": "بعد الضربات الأمريكية الإيرانية، ارتفعت أسعار نفط برنت بنسبة 1% لتتجاوز 95 دولاراً للبرميل. أثارت التصعيدات الجديدة في المنطقة مخاوف بشأن اضطرابات في إمدادات النفط عبر مضيق هرمز. استجابت أسواق الطاقة لهذه التوترات.",
-        "analyse_detaillee": "Cette escalade s'inscrit dans un contexte de tensions géopolitiques récurrentes au Moyen-Orient, où l'Iran et les États-Unis s'affrontent indirectement depuis des décennies. Historiquement, toute perturbation dans le détroit d'Ormuz a des répercussions immédiates sur les prix du pétrole mondial. À court terme, cette hausse pourrait persister tant que les craintes de blocage persistent. À moyen terme, cela pourrait inciter les pays importateurs à diversifier leurs sources d'approvisionnement. Sur le long terme, cela pourrait accélérer la transition vers les énergies renouvelables, réduisant la dépendance au pétrole. Les acteurs clés incluent l'OPEP, les États-Unis, l'Iran et la Chine. La situation illustre la vulnérabilité des chaînes d'approvisionnement énergétiques mondiales. Enfin, cela pourrait influencer les politiques énergétiques des grandes puissances.",
-        "analyse_en": "This escalation is part of a context of recurring geopolitical tensions in the Middle East, where Iran and the United States have been indirectly confronting each other for decades. Historically, any disruption in the Strait of Hormuz has immediate repercussions on global oil prices. In the short term, this increase could persist as long as fears of a blockade remain. In the medium term, this could encourage importing countries to diversify their supply sources. Long-term, this could accelerate the transition to renewable energies, reducing dependence on oil. Key actors include OPEC, the United States, Iran, and China. The situation highlights the vulnerability of global energy supply chains. Finally, this could influence the energy policies of major powers.",
-        "analyse_zh": "这一升级是中东长期地缘政治紧张局势的一部分，伊朗和美国几十年来一直间接对抗。历史上，霍尔木兹海峡的任何中断都会立即影响全球油价。短期内，只要对封锁的担忧持续，油价可能继续上涨。中期来看，这可能促使进口国多元化供应来源。长期而言，这可能加速向可再生能源转型，减少对石油的依赖。关键参与者包括欧佩克、美国、伊朗和中国。此事凸显了全球能源供应链的脆弱性。最后，这可能影响主要大国的能源政策。",
-        "analyse_ru": "Рост цен на нефть стал прямым следствием эскалации конфликта между США и Ираном. Причины напряженности связаны с геополитическими интересами и борьбой за влияние в регионе. Последствия могут привести к дестабилизации энергетических рынков и росту инфляции. Перспективы зависят от дипломатических усилий и возможных переговоров. Позиции сторон: США настаивают на своей позиции, а Иран угрожает ответными мерами.",
-        "analyse_fa": "افزایش قیمت نفت نتیجه مستقیم تشدید درگیری بین آمریکا و ایران است. دلایل تنش‌ها به منافع ژئوپلیتیکی و مبارزه برای نفوذ در منطقه بازمی‌گردد. پیامدهای این اقدام می‌تواند منجر به بی‌ثباتی بازارهای انرژی و افزایش تورم شود. چشم‌اندازها به تلاش‌های دیپلماتیک و مذاکرات احتمالی بستگی دارد. مواضع متفاوت است: آمریکا بر موضع خود پافشاری می‌کند، در حالی که ایران تهدید به اقدامات متقابل می‌کند.",
-        "analyse_ar": "أدى ارتفاع أسعار النفط إلى تصعيد الصراع بين الولايات المتحدة وإيران. تعود أسباب التوترات إلى المصالح الجيوسياسية والنضال من أجل النفوذ في المنطقة. قد تؤدي العواقب إلى زعزعة استقرار أسواق الطاقة وارتفاع التضخم. آفاق الأمر تعتمد على الجهود الدبلوماسية والمفاوضات المحتملة. هناك مواقف متباينة: تصر الولايات المتحدة على موقفها، بينما تهدد إيران بردود فعل.",
-        "categorie": "Énergie",
-        "source": "Protothema.gr",
-        "url": "https://en.protothema.gr/2026/09/03/oil-another-1-rise-after-us-iran-strikes-brent-climbs-above-95/",
-        "image": "https://en.protothema.gr/wp-content/uploads/2026/09/260316115003_petrelaio-oil.jpeg-1.jpg",
-        "date": "2026-09-02",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Secteur pétrolier",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur des transports",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur pétrolier",
-            "secteur_en": "Oil sector",
-            "secteur_zh": "石油行业",
-            "effet_fr": "La hausse des prix pourrait stimuler les investissements dans les énergies alternatives, réduisant la dépendance au pétrole.",
-            "effet_en": "The price increase could boost investments in alternative energies, reducing dependence on oil.",
-            "effet_zh": "油价上涨可能促进对替代能源的投资，减少对石油的依赖。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des transports",
-            "secteur_en": "Transport sector",
-            "secteur_zh": "运输行业",
-            "effet_fr": "L'augmentation des coûts énergétiques pourrait entraîner une hausse des prix des billets d'avion et des frets maritimes.",
-            "effet_en": "Rising energy costs could lead to higher airfare and maritime freight prices.",
-            "effet_zh": "能源成本上升可能导致机票和海运运费价格上涨。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-03T23:48:05.016121"
       }
     ]
   },
