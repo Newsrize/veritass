@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/09/2026 à 23h00",
+  "last_updated": "12/09/2026 à 01h02",
   "articles": {
     "monde": [
       {
@@ -6075,6 +6075,66 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_687311",
+      "titre": "Féminicide en Haute-Garonne : récidive d’un condamné",
+      "titre_en": "Garonne femicide: convicted man suspected again",
+      "titre_zh": "法国高卢瓦省再现女性被害案",
+      "titre_ru": "Haute-Garonne. Un homme déjà condamné en 2002 probablement auteur d'un nouveau féminicide",
+      "titre_fa": "Haute-Garonne. Un homme déjà condamné en 2002 probablement auteur d'un nouveau féminicide",
+      "titre_ar": "Haute-Garonne. Un homme déjà condamné en 2002 probablement auteur d'un nouveau féminicide",
+      "titre_original": "Haute-Garonne. Un homme déjà condamné en 2002 probablement auteur d'un nouveau féminicide",
+      "resume": "Une femme de 40 ans a été retrouvée morte, tirée à la tête par son mari, déjà condamné en 2002 pour le meurtre d’une ex-compagne. Elle avait porté plainte fin juillet pour violences psychologiques, sans protection judiciaire suffisante. Ce nouveau drame souligne l’urgence de renforcer les mesures de prévention contre les récidives violentes.",
+      "resume_en": "A 40-year-old woman was found dead, shot in the head by her husband, previously convicted in 2002 for killing an ex-partner. She had filed a complaint in July for psychological abuse, without adequate legal protection. This tragedy highlights the urgent need to strengthen prevention measures against violent recidivism.",
+      "resume_zh": "一名40岁女性被其丈夫枪杀身亡，该男子曾于2002年因杀害前妻而被判刑。她于7月底因遭受心理暴力提起诉讼，但缺乏足够的司法保护。此次惨案再次凸显防止暴力重犯的紧迫性。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Ce féminicide en Haute-Garonne illustre une tendance alarmante de récidive chez les auteurs de violences conjugales, malgré des condamnations antérieures. Les mécanismes de protection judiciaire, souvent jugés insuffisants, échouent à dissuader les agresseurs réitératifs, révélant des failles dans les politiques publiques. Les violences conjugales, souvent minimisées ou banalisées, s’enracinent dans des dynamiques de pouvoir et de domination masculine persistantes. À court terme, ce drame pourrait relancer les débats sur la législation et les peines renforcées pour les récidivistes. À moyen terme, une pression accrue sur les services sociaux et policiers est attendue pour mieux identifier les risques. Longtemps, une culture de l’impunité et du silence entoure ces crimes, nécessitant une mobilisation sociétale sans précédent. Les associations féministes appellent à des mesures radicales, tandis que les institutions peinent à concilier fermeté et réinsertion des condamnés.",
+      "analyse_en": "This femicide in Haute-Garonne highlights an alarming trend of recidivism among domestic violence offenders, despite prior convictions. Judicial protection mechanisms, often deemed insufficient, fail to deter repeat offenders, exposing gaps in public policy. Domestic violence, frequently minimized or normalized, is rooted in persistent power and patriarchal dominance dynamics. Short-term, this tragedy may reignite debates on legislation and harsher penalties for repeat offenders. In the medium term, increased pressure on social and police services is expected to better identify risks. Long-term, a culture of impunity and silence surrounds these crimes, requiring unprecedented societal mobilization. Feminist groups call for radical measures, while institutions struggle to balance firmness with the reintegration of convicts.",
+      "analyse_zh": "法国高卢瓦省的这起女性被害案暴露了暴力犯罪者重犯率居高不下的问题，尽管其曾因前罪被判刑。司法保护机制常被认为不足，无法阻止重犯，反映出公共政策的漏洞。家庭暴力往往被轻视或正常化，根源在于长期存在的男性主导和权力动态。短期内，此案可能重新引发立法和对重犯加重惩罚的讨论。中期内，社会和警方服务将面临更大压力，以更好地识别风险。长期来看，这种犯罪背后的宽恕和沉默文化需要全社会的大力反对。女性主义组织呼吁采取激进措施，而相关机构则在严厉与犯罪者重新融入之间难以取得平衡。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Société & Justice",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/09/10/un-homme-deja-condamne-en-2002-probablement-auteur-d-un-nouveau-feminicide",
+      "image": "https://cdn-s-www.ledauphine.com/images/ADBB4E9E-139C-423C-93E5-64AB74FBA64B/FB1200/photo-1789060735.jpg",
+      "date": "2026-09-10",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile (dommages corporels)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds de prévention des violences conjugales (État)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile (dommages corporels)",
+          "secteur_en": "Civil liability insurance (bodily harm)",
+          "secteur_zh": "人身伤害责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des risques liés aux violences conjugales non prévenues, pesant sur les assurés et les assureurs.",
+          "effet_en": "Premiums may rise due to increased risks from unchecked domestic violence, burdening both insured parties and insurers.",
+          "effet_zh": "由于未能预防家庭暴力导致的风险增加，保费可能上涨，给被保险人和保险公司带来负担。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de prévention des violences conjugales (État)",
+          "secteur_en": "Domestic violence prevention funds (State)",
+          "secteur_zh": "国家家庭暴力预防基金",
+          "effet_fr": "Les budgets pourraient être réalloués vers des mesures de surveillance renforcée et des hébergements d’urgence, réduisant les marges de manœuvre pour d’autres programmes sociaux.",
+          "effet_en": "Budgets may be reallocated to enhanced monitoring and emergency shelters, reducing flexibility for other social programs.",
+          "effet_zh": "预算可能重新分配用于加强监控和紧急住宿，从而减少其他社会项目的灵活性。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-09-12T01:02:24.615910",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_694897",
       "titre": "Condamné pour violences conjugales, il rejoint la CVC",
       "titre_en": "Convicted of domestic violence, joins CVC",
@@ -6372,66 +6432,6 @@
         }
       ],
       "created_at": "2026-09-08T10:38:25.932217",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_652153",
-      "titre": "Cerimedo : roi des trolls arrêté",
-      "titre_en": "Cerimedo’s Downfall: Trumpist Troll King Arrested",
-      "titre_zh": "塞里梅多：极右网络暴力之王被捕",
-      "titre_ru": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
-      "titre_fa": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
-      "titre_ar": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
-      "titre_original": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
-      "resume": "Consultant politique argentin lié à l’extrême droite, Fernando Cerimedo, surnommé le « roi des trolls », est poursuivi en Bolivie pour tentative de féminicide. Son arrestation révèle les liens entre désinformation et radicalisation politique en Amérique latine. Cette affaire pourrait redéfinir les dynamiques de la droite trumpiste dans la région.",
-      "resume_en": "Argentinian political consultant Fernando Cerimedo, dubbed the 'king of trolls,' is facing charges in Bolivia for attempted femicide. His arrest exposes ties between disinformation and political radicalization in Latin America. The case may reshape right-wing Trumpist dynamics in the region.",
-      "resume_zh": "阿根廷极右政治顾问塞里梅多被指控在玻利维亚犯有企图杀害女性罪。其被捕揭露了拉美地区虚假信息与政治极端化之间的联系。此案可能重塑该地区特朗普派右翼势力的格局。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Fernando Cerimedo incarne une nouvelle forme de militantisme numérique, où la désinformation et les réseaux sociaux servent d’armes politiques. Son implication dans des campagnes pro-Trump en Amérique latine s’inscrit dans une stratégie de déstabilisation des gouvernements progressistes, comme en Bolivie. Les causes profondes incluent le vide démocratique post-2008 et l’exploitation des fractures sociales par des acteurs transnationaux. À court terme, son arrestation pourrait affaiblir les réseaux de financement de l’extrême droite, mais aussi déclencher des représailles en ligne. À moyen terme, les plateformes numériques pourraient être contraintes de réguler davantage les contenus politiques. Long terme, cette affaire pourrait accélérer la polarisation ou, au contraire, forcer une refonte des alliances politiques en Amérique latine. Les États-Unis et l’Argentine observent cette affaire avec prudence, tandis que les mouvements féministes boliviens y voient une victoire symbolique contre la violence machiste.",
-      "analyse_en": "Fernando Cerimedo embodies a new form of digital militancy, where disinformation and social media serve as political weapons. His involvement in pro-Trump campaigns in Latin America fits a strategy to destabilize progressive governments, as seen in Bolivia. Root causes include post-2008 democratic vacuums and the exploitation of social fractures by transnational actors. Short-term, his arrest may weaken far-right funding networks but could also trigger online retaliation. Medium-term, digital platforms may be forced to tighten political content regulation. Long-term, this case could accelerate polarization or, conversely, push Latin American political alliances to reform. The U.S. and Argentina monitor the situation cautiously, while Bolivian feminist movements see it as a symbolic victory against machist violence.",
-      "analyse_zh": "塞里梅多代表了一种新型数字化激进主义，虚假信息和社交媒体成为政治武器。他参与特朗普支持者在拉美的活动，旨在颠覆进步派政府，如玻利维亚。深层原因包括2008年后民主真空和跨国势力利用社会裂痕。短期内，其被捕可能削弱极右翼资金网络，但也可能引发网络反击。中期内，数字平台可能被迫加强政治内容监管。长期来看，此案可能加剧极化或推动拉美政治联盟重塑。美国和阿根廷谨慎观察，而玻利维亚女权运动视之为对男性暴力的象征性胜利。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Géopolitique",
-      "source": "Mediapart",
-      "url": "https://www.mediapart.fr/journal/international/050926/la-chute-de-fernando-cerimedo-roi-des-trolls-et-tete-de-pont-trumpiste-en-amerique-latine",
-      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/09/04/260904-img-en-amerique-latine-la-chute-du-roi-des-trolls-devoile-les-coulisses-de-la-desinformation-d-extreme-droite.jpg",
-      "date": "2026-09-05",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▼ Financement des campagnes politiques en ligne",
-          "hausse": false
-        },
-        {
-          "label": "▲ Plateformes de réseaux sociaux (Meta, X/Twitter)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Financement des campagnes politiques en ligne",
-          "secteur_en": "Online political campaign financing",
-          "secteur_zh": "在线政治竞选资金",
-          "effet_fr": "Son arrestation pourrait réduire les flux financiers illicites vers les mouvements d’extrême droite en Amérique latine, fragilisant leurs capacités de désinformation.",
-          "effet_en": "His arrest may cut illicit financial flows to far-right movements in Latin America, weakening their disinformation capabilities.",
-          "effet_zh": "其被捕可能减少流向拉美极右派的非法资金，削弱其虚假信息能力。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Plateformes de réseaux sociaux (Meta, X/Twitter)",
-          "secteur_en": "Social media platforms (Meta, X/Twitter)",
-          "secteur_zh": "社交媒体平台（Meta、X/Twitter）",
-          "effet_fr": "Les poursuites contre Cerimedo pourraient accélérer les pressions réglementaires sur ces plateformes pour mieux modérer les contenus politiques extrémistes.",
-          "effet_en": "Prosecutions against Cerimedo may speed up regulatory pressures on these platforms to better moderate extremist political content.",
-          "effet_zh": "对塞里梅多的起诉可能加速对这些平台的监管压力，要求更严格过滤极端政治内容。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-06T13:58:42.686544",
       "sous_categorie": "femmes"
     },
     {
