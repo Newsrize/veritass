@@ -1,7 +1,66 @@
 {
-  "last_updated": "15/09/2026 à 16h19",
+  "last_updated": "15/09/2026 à 20h02",
   "articles": {
     "monde": [
+      {
+        "id": "monde_665612",
+        "titre": "Guerre au Bab al-Mandeb : risque de pénurie pétrolière mondiale",
+        "titre_en": "Bab al-Mandeb conflict threatens global oil supply",
+        "titre_zh": "巴布曼德布海峡冲突威胁全球石油供应",
+        "titre_ru": "‘Chaos On the Ground’: Fox Reports On Escalating Battle Threatening to Further Choke Global Oil Supply",
+        "titre_fa": "‘Chaos On the Ground’: Fox Reports On Escalating Battle Threatening to Further Choke Global Oil Supply",
+        "titre_ar": "‘Chaos On the Ground’: Fox Reports On Escalating Battle Threatening to Further Choke Global Oil Supply",
+        "titre_original": "‘Chaos On the Ground’: Fox Reports On Escalating Battle Threatening to Further Choke Global Oil Supply",
+        "resume": "Un conflit armé menace le détroit stratégique du Bab al-Mandeb, par où transite 12 % du pétrole mondial. Fox News alerte sur un chaos potentiel aggravant déjà les tensions géopolitiques en mer Rouge. Les risques de blocage pourraient déclencher une crise énergétique sans précédent.",
+        "resume_en": "An armed conflict threatens the strategic Bab al-Mandeb Strait, through which 12% of global oil passes. Fox News warns of potential chaos worsening existing geopolitical tensions in the Red Sea. Blockage risks could trigger an unprecedented energy crisis.",
+        "resume_zh": "一场军事冲突威胁着战略性的巴布曼德布海峡，该海峡运输着全球12%的石油。福克斯新闻警告称潜在的混乱将加剧红海地区现有的地缘政治紧张局势。封锁风险可能引发前所未有的能源危机。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le détroit du Bab al-Mandeb, contrôlé historiquement par des acteurs comme l’Arabie saoudite ou les Houthis, est un goulot d’étranglement énergétique depuis des décennies. Les enjeux actuels incluent la rivalité Iran-Saoudite et les interventions occidentales en mer Rouge. Les causes profondes sont la surexploitation des ressources pétrolières et la dépendance géopolitique des pays exportateurs. À court terme, une fermeture partielle pourrait faire bondir les prix du baril et paralyser les économies industrielles. À moyen terme, cela accélérerait la transition énergétique, mais aussi les tensions régionales. Long terme, cela pourrait redessiner les alliances énergétiques mondiales. Les acteurs clés sont l’Iran, l’Arabie saoudite, les États-Unis et la Chine, chacun cherchant à sécuriser ses approvisionnements.",
+        "analyse_en": "The Bab al-Mandeb Strait, historically controlled by actors like Saudi Arabia or the Houthis, has been an energy bottleneck for decades. Current stakes include the Iran-Saudi rivalry and Western interventions in the Red Sea. Root causes involve the over-exploitation of oil resources and geopolitical dependence of exporting nations. Short-term, partial closure could send oil prices skyrocketing and paralyze industrial economies. Medium-term, this would accelerate energy transition but also regional tensions. Long-term, it could redraw global energy alliances. Key actors include Iran, Saudi Arabia, the U.S., and China, all vying to secure their supplies.",
+        "analyse_zh": "巴布曼德布海峡历史上由沙特阿拉伯或胡塞武装控制，多年来一直是能源瓶颈。当前的影响包括伊朗与沙特的对抗以及西方在红海的干预。深层原因包括对石油资源的过度开采和出口国的地缘政治依赖。短期内部分封锁可能导致原油价格暴涨和工业经济瘫痪。中期内，这将加速能源转型，但也加剧地区紧张局势。长期来看，这可能重新绘制全球能源同盟。关键利益相关者包括伊朗、沙特阿拉伯、美国和中国，他们都在争夺供应安全。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/chaos-on-the-ground-fox-reports-on-escalating-battle-threatening-to-further-choke-global-oil-supply/",
+        "image": "https://www.mediaite.com/wp-content/uploads/2026/09/houthis.jpg",
+        "date": "2026-09-14",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier et produits dérivés",
+            "hausse": true
+          },
+          {
+            "label": "▲ Transport maritime et assurance maritime",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier et produits dérivés",
+            "secteur_en": "Oil market and derivatives",
+            "secteur_zh": "石油市场和衍生品",
+            "effet_fr": "Les prix du brut pourraient dépasser les $150/barril en cas de blocage prolongé, provoquant une récession mondiale.",
+            "effet_en": "Oil prices could exceed $150 per barrel in case of prolonged blockage, triggering a global recession.",
+            "effet_zh": "如果封锁持续，原油价格可能超过每桶150美元，引发全球经济衰退。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Transport maritime et assurance maritime",
+            "secteur_en": "Maritime transport and marine insurance",
+            "secteur_zh": "海运和海上保险",
+            "effet_fr": "Les primes d’assurance maritime pourraient quadrupler, rendant les routes commerciales dans la région inabordables pour de nombreux armateurs.",
+            "effet_en": "Marine insurance premiums could quadruple, making commercial routes in the region unaffordable for many shipowners.",
+            "effet_zh": "海上保险费用可能翻四倍，使该地区的商业航线对许多船东变得难以承受。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-15T20:01:41.299270"
+      },
       {
         "id": "monde_421552",
         "titre": "Dirigeants écossais, gallois et nord-irlandais unis pour l'autodétermination",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-08T18:20:23.706732"
-      },
-      {
-        "id": "monde_162393",
-        "titre": "Fédération belge du football exige des réponses sur Balogun",
-        "titre_en": "Belgian FA demands answers on Balogun’s World Cup case",
-        "titre_zh": "比利时足协要求解释巴洛贡案",
-        "titre_ru": "Федерация Бельгии требует разъяснений по игре Балогуна на ЧМ",
-        "titre_fa": "فدراسیون فوتبال بلژیک پاسخگویی در مورد حضور بالاگون در جام جهانی را می‌خواهد",
-        "titre_ar": "اتحاد بلجيكا لكرة القدم يطلب توضيحات حول مشاركة بالوغون في كأس العالم",
-        "titre_original": "Belgian FA still wants Balogun ban answers",
-        "resume": "La Fédération belge de football maintient sa demande d’explications concernant la participation de Folarin Balogun lors du Mondial 2022, malgré les justifications avancées. Ce cas soulève des questions sur les contrôles sanitaires et les règles antidopage en football international. L’incident pourrait avoir des répercussions sur la crédibilité des instances dirigeantes du sport.",
-        "resume_en": "Belgium’s football federation insists on answers regarding Folarin Balogun’s participation in the 2022 World Cup, despite provided justifications. The case raises concerns about international football’s medical checks and anti-doping rules. It may impact the credibility of governing football bodies.",
-        "resume_zh": "比利时足协坚持要求解释巴洛贡在2022年世界杯期间参赛的问题，尽管有相关解释。此案引发了国际足联医疗检查和禁药规则的质疑，可能影响足联管理机构的信誉。",
-        "resume_ru": "Федерация футбола Бельгии заявила, что продолжает требовать объяснений по поводу допуска Фоларина Балогуна к матчу на чемпионате мира. Вопрос вызывает споры, так как игрок был дисквалифицирован ранее. Официальные лица настаивают на прозрачности решений.",
-        "resume_fa": "فدراسیون فوتبال بلژیک همچنان پاسخگویی در مورد حضور فولارین بالاگون در جام جهانی را می‌خواهد. این موضوع پس از اخراج قبلی بازیکن مورد بحث قرار گرفته است. مسئولان بر شفافیت تصمیمات خود تأکید می‌کنند.",
-        "resume_ar": "طلبت اتحاد بلجيكا لكرة القدم توضيحات حول مشاركة اللاعب فولارين بالوغون في كأس العالم مستمرة. هذا الأمر أثار جدلاً بعد منعه سابقاً. المسؤولون يؤكدون على شفافية القرارات.",
-        "analyse_detaillee": "Ce scandale intervient dans un contexte de défiance croissante envers les fédérations sportives, notamment après les affaires de corruption et de laxisme sanitaire révélées ces dernières années. Les enjeux portent sur la transparence des contrôles antidopage et la cohérence des règles entre compétitions majeures. Les causes profondes incluent un manque de coordination entre les instances internationales et nationales, ainsi qu’une pression accrue sur les joueurs pour performer. À court terme, cela pourrait entraîner des sanctions disciplinaires ou des modifications des protocoles médicaux. À moyen terme, les fédérations pourraient renforcer leurs audits internes et externaliser davantage les contrôles. Long terme, une réforme globale des règles antidopage en football est envisageable, avec une implication accrue des joueurs et des syndicats. La FIFA et l’UEFA sont sous pression pour clarifier leur position, tandis que les médias et les associations de fans exigeront des garanties supplémentaires.",
-        "analyse_en": "This scandal occurs amid growing distrust in sports federations, following corruption and lax medical oversight scandals in recent years. The stakes involve transparency in anti-doping controls and consistency of rules across major competitions. Root causes include a lack of coordination between international and national bodies, along with pressure on players to perform. Short-term, this may lead to disciplinary sanctions or changes in medical protocols. Medium-term, federations could strengthen internal audits and outsource more controls. Long-term, a global reform of football’s anti-doping rules is possible, with greater player and union involvement. FIFA and UEFA face pressure to clarify their stance, while media and fan groups demand additional guarantees.",
-        "analyse_zh": "此事件发生在国际足联和欧足联信誉持续受损的背景下，特别是在近年曝光的腐败和医疗监管松懈丑闻后。主要影响在于反兴奋剂检查的透明度和各大赛规则的一致性。深层原因包括国际和国内机构间协调不足，以及对球员表现的巨大压力。短期内可能导致纪律处罚或医疗程序的修订。中期内，联合会可能加强内部审计并外包更多检查。长期来看，足球反兴奋剂规则的全面改革或成为现实，球员和工会将发挥更大作用。FIFA和欧足联面临解释立场的压力，而媒体和球迷组织则要求提供更多保证。",
-        "analyse_ru": "Контекст: Бельгия обвиняет организаторов ЧМ в недопустимой дискриминации, так как Балогун был дисквалифицирован за нарушение правил. Причины: возможное давление на судей или игнорирование решений FIFA. Последствия: ухудшение отношений между странами, риск повторения подобных инцидентов. Перспективы: FIFA может быть вынуждена пересмотреть решения, если доказательства нарушений появятся. Позиции сторон: Бельгия настаивает на справедливости, FIFA отказывается комментировать без официального расследования.",
-        "analyse_fa": "زمینه: بلژیک از سازماندهی جام جهانی اتهام عدم عدالت را به دلیل اخراج بالاگون مطرح کرده است. علل: احتمال فشار بر داوران یا نادیده گرفتن تصمیمات فیفا. پیامدها: تخریب روابط بین کشورها و خطر تکرار این اتفاقات. چشم‌انداز: فیفا ممکن است در صورت ارائه مدارک، تصمیمات خود را بازبینی کند. موضع بازیگران: بلژیک بر عدالت تأکید دارد، فیفا بدون تحقیق رسمی از پاسخگویی خودداری می‌کند.",
-        "analyse_ar": "السياق: اتهمت بلجيكا بتنظيم كأس العالم بالتمييز غير المقبول بسبب منع بالوغون. الأسباب: احتمال ضغط على الحكام أو تجاهل قرارات الفيفا. العواقب: تدهور العلاقات بين الدول وخطر تكرار مثل هذه الحوادث. الآفاق: قد تكون الفيفا مضطرة لإعادة النظر في قراراتها إذا ظهرت أدلة على الانتهاكات. مواقف الأطراف: تطالب بلجيكا بالعدالة، في حين ترفض الفيفا التعليق دون تحقيق رسمي.",
-        "categorie": "Sport/Gouvernance",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/cx2z03nnmnko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "image": "https://s.yimg.com/lo/mysterio/api/81a71c00c4b68560f6cc6a92b507db83b4e5e3d6085ba0a7d8e6a69e86578e13/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fad6cef71c737de050b75ff4b277b5d5f.jpg",
-        "date": "2026-09-07",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des assurances sportives",
-            "hausse": true
-          },
-          {
-            "label": "▼ Investissements en sponsoring sportif",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances sportives",
-            "secteur_en": "Sports insurance market",
-            "secteur_zh": "",
-            "effet_fr": "Les fédérations pourraient voir leurs primes d’assurance augmenter en raison de risques accrus de litiges juridiques liés aux contrôles antidopage.",
-            "effet_en": "Federations may face higher insurance premiums due to increased legal disputes over anti-doping controls.",
-            "effet_zh": "联合会可能因反兴奋剂检查引发的法律纠纷风险上升，导致保险费用增加。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Investissements en sponsoring sportif",
-            "secteur_en": "Sports sponsorship investments",
-            "secteur_zh": "",
-            "effet_fr": "Les sponsors pourraient réduire leurs engagements financiers si la crédibilité des compétitions est remise en question par des affaires similaires.",
-            "effet_en": "Sponsors may cut financial commitments if the credibility of competitions is undermined by similar scandals.",
-            "effet_zh": "赞助商可能会减少资金投入，如果类似丑闻进一步损害赛事的可信度。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-08T10:37:45.091057"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_449869",
+        "titre": "Centre Kennedy menacé de fermeture sans nom Trump",
+        "titre_en": "Kennedy Center at risk of closure without Trump’s name",
+        "titre_zh": "肯尼迪中心可能因无特朗普姓名而关闭",
+        "titre_ru": "WATCH: Kennedy Center says it could close as soon as Tuesday unless Trump’s name is there",
+        "titre_fa": "WATCH: Kennedy Center says it could close as soon as Tuesday unless Trump’s name is there",
+        "titre_ar": "WATCH: Kennedy Center says it could close as soon as Tuesday unless Trump’s name is there",
+        "titre_original": "WATCH: Kennedy Center says it could close as soon as Tuesday unless Trump’s name is there",
+        "resume": "Le Kennedy Center, institution culturelle emblématique, menace de fermer dès mardi si le président Trump ne voit pas son nom associé à ses locaux. Cette ultimatum révèle une instrumentalisation politique des institutions publiques par l’administration actuelle. Les dirigeants craignent un effondrement financier en l’absence de soutien politique immédiat.",
+        "resume_en": "The Kennedy Center, a landmark cultural institution, risks closure by Tuesday unless President Trump’s name is added to its facilities. This ultimatum exposes political manipulation of public institutions by the current administration. Leaders fear financial collapse without immediate political support.",
+        "resume_zh": "肯尼迪中心作为文化标志性机构，可能因特朗普姓名未被纳入而于周二关闭。这一最后通牒揭示了当前政府对公共机构的政治操控。领导层担心缺乏即时政治支持将导致财政崩溃。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le Kennedy Center, créé en 1971 sous Kennedy, incarne l’héritage culturel américain et la diplomatie culturelle. Cette crise révèle une polarisation politique extrême où les institutions sont utilisées comme leviers de légitimité ou de pression. Les causes profondes incluent la financiarisation croissante des arts et la dépendance aux dons privés, aggravée par les divisions partisanes. À court terme, une fermeture entraînerait des pertes d’emplois dans le secteur culturel et une perte d’influence diplomatique. À moyen terme, cela pourrait accélérer la privatisation des espaces culturels aux États-Unis. Long terme, cela interroge la survie des institutions publiques indépendantes face aux caprices politiques. Les acteurs clés sont le président Trump, les donateurs privés et les employés du centre, divisés entre loyauté institutionnelle et réalités financières.",
+        "analyse_en": "Founded in 1971 under Kennedy, the Center symbolizes American cultural heritage and diplomatic soft power. This crisis highlights extreme political polarization, where institutions are weaponized for legitimacy or leverage. Root causes include the growing financialization of arts and reliance on private donations, exacerbated by partisan divisions. Short-term, closure would lead to job losses in the cultural sector and diplomatic influence erosion. Medium-term, it could accelerate the privatization of public cultural spaces in the U.S. Long-term, it questions the survival of independent public institutions against political whims. Key actors include President Trump, private donors, and center employees, torn between institutional loyalty and financial realities.",
+        "analyse_zh": "肯尼迪中心于1971年由肯尼迪总统创立，象征着美国文化遗产和软实力外交。此次危机反映了政治极化加剧，公共机构被用作合法性或施压的工具。深层原因包括文化领域的金融化和对私人捐款的依赖，加剧了党派分裂。短期内关闭将导致文化行业失业和外交影响力下降。中期可能加速美国公共文化空间的私有化。长期来看，这质疑了公共独立机构在政治任性面前的生存能力。关键利益相关者包括特朗普总统、私人捐助者和中心员工，他们在机构忠诚和财务现实之间犹豫不决。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/136431794/",
+        "image": "https://i.abcnewsfe.com/a/37232bff-5faa-4dcc-9802-7bc4fe641e92/260914_abcnl_2p_travers_hpMain_16x9.jpg?w=992",
+        "date": "2026-09-14",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Secteur des dons et mécénat culturel",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché de l’art et des biens culturels",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des dons et mécénat culturel",
+            "secteur_en": "Cultural donations and patronage sector",
+            "secteur_zh": "文化捐赠和赞助行业",
+            "effet_fr": "Les dons privés, déjà fragilisés par les tensions politiques, pourraient s’effondrer si le centre est associé à une figure aussi controversée que Trump.",
+            "effet_en": "Private donations, already strained by political tensions, could collapse if the center is linked to a figure as controversial as Trump.",
+            "effet_zh": "私人捐款在政治紧张下已经脆弱，如果中心与特朗普这样的争议人物联系在一起，可能会崩溃。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché de l’art et des biens culturels",
+            "secteur_en": "Art and cultural assets market",
+            "secteur_zh": "艺术品和文化资产市场",
+            "effet_fr": "La valeur des œuvres liées au centre pourrait s’effondrer, affectant les collectionneurs et les galeries partenaires.",
+            "effet_en": "The value of works associated with the center could plummet, impacting collectors and partner galleries.",
+            "effet_zh": "与中心相关的艺术品价值可能暴跌，影响收藏家和合作画廊。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-15T20:01:41.299249"
+      },
       {
         "id": "usa_933310",
         "titre": "EPA de Trump prépare un assouplissement massif des règles climatiques",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-09-08T18:20:23.706714"
-      },
-      {
-        "id": "usa_72193",
-        "titre": "Trump ordonne examen pour étiquettes d’origine sur la viande bovine",
-        "titre_en": "Trump orders review for US beef country-of-origin labels",
-        "titre_zh": "特朗普命令审查美国牛肉原产地标签",
-        "titre_ru": "Трамп рассматривает обязательные метки происхождения для импортного мяса",
-        "titre_fa": "ترامپ بررسی برچسب‌های مبدأ تولید برای گوشت وارداتی را آغاز کرده است",
-        "titre_ar": "ترمب يدرس فرض علامات أصل للماشية المستوردة",
-        "titre_original": "Trump eyes origin labels on imported beef",
-        "resume": "Le président américain Donald Trump a lancé une revue visant à rendre obligatoire l’étiquetage de l’origine des viandes bovines vendues aux États-Unis. Cette mesure, annoncée vendredi, pourrait relancer les tensions commerciales avec le Canada et le Mexique. Elle s’inscrit dans une politique protectionniste plus large, cherchant à soutenir les producteurs locaux.",
-        "resume_en": "US President Donald Trump has ordered a review to make mandatory country-of-origin labeling for beef sold in the US. Announced Friday, this move could reignite trade tensions with Canada and Mexico. It aligns with broader protectionist policies aimed at supporting domestic producers.",
-        "resume_zh": "美国总统特朗普下令审查美国销售的牛肉原产地标签强制性实施。这一措施可能重新点燃与加拿大和墨西哥的贸易摩擦，符合支持本土生产者的更广泛保护主义政策。",
-        "resume_ru": "Президент США Дональд Трамп распорядился провести проверку, которая может привести к обязательному указанию страны происхождения для мяса на полках американских магазинов. Об этом было объявлено 4 сентября. Это шаг может повлиять на торговлю с Канадой и Мексикой. Цель — защитить американских фермеров.",
-        "resume_fa": "دонаلد ترامپ دستور بررسی‌ای صادر کرد که ممکن است منجر به الزام برچسب‌گذاری مبدأ تولید گوشت در فروشگاه‌های آمریکا شود. این خبر در ۴ سپتامبر اعلام شد. این اقدام ممکن است بر تجارت با کانادا و مکزیک تأثیر بگذارد. هدف، حمایت از کشاورزان آمریکایی است.",
-        "resume_ar": "أمر الرئيس الأمريكي دونالد ترمب بإجراء مراجعة قد تؤدي إلى فرض علامات أصل للماشية في محلات الولايات المتحدة. تم الإعلان عن هذا في 4 سبتمبر. قد يؤثر هذا الخطوة على التجارة مع كندا والمكسيك. الغرض هو حماية المزارعين الأمريكيين.",
-        "analyse_detaillee": "Cette initiative s’inscrit dans une tradition protectionniste américaine, remontant aux années 1930 avec le Smoot-Hawley Tariff Act, mais aussi dans un contexte actuel de montée des nationalismes économiques. Les enjeux incluent la protection des agriculteurs américains face à la concurrence étrangère, notamment mexicaine et canadienne. Les causes profondes sont liées à la pression des lobbies agricoles et à une rhétorique populiste anti-globalisation. À court terme, cela pourrait déclencher des représailles tarifaires de la part du Canada et du Mexique. À moyen terme, les accords commerciaux comme l’USMCA pourraient être révisés, avec un risque de fragmentation des chaînes d’approvisionnement. Long terme, cette mesure pourrait renforcer les tendances déglobalisation et favoriser une relocalisation partielle des industries agroalimentaires. Les États-Unis devront gérer les réactions de l’OMC, tandis que les pays exportateurs devront diversifier leurs marchés.",
-        "analyse_en": "This move aligns with America’s protectionist tradition, dating back to the 1930s Smoot-Hawley Tariff Act, but also reflects current economic nationalism trends. Stakes include protecting US farmers from foreign competition, particularly from Mexico and Canada. Root causes stem from agricultural lobby pressures and anti-globalization populist rhetoric. Short-term, this may trigger retaliatory tariffs from Canada and Mexico. Medium-term, trade deals like USMCA could be revised, risking supply chain fragmentation. Long-term, this could strengthen deglobalization trends and partially relocate agri-food industries. The US must manage WTO reactions, while exporting countries must diversify their markets.",
-        "analyse_zh": "这一举措符合美国自1930年代《斯穆特-霍利关税法》以来的保护主义传统，也反映了当前经济民族主义的上升趋势。主要影响在于保护美国农民免受墨西哥和加拿大等国的竞争。深层原因包括农业利益集团的压力和反全球化的民粹主义言论。短期内，可能触发加拿大和墨西哥的报复性关税。中期内，美国-墨西哥-加拿大协定（USMCA）可能被修订，供应链分散化风险增加。长期来看，这一措施可能加强去全球化趋势，并促进部分农业食品产业回流。美国需要应对世贸组织的反应，而出口国则需要多元化市场。",
-        "analyse_ru": "Контекст: США уже ввели подобные правила для мяса птицы и свинины, но не для говядины. Причины: защита внутреннего рынка от дешевой импортной продукции, особенно из Канады и Мексики. Последствия: возможные торговые войны, так как страны-экспортеры могут ввести контрмеры. Перспективы: если мера пройдет, это может укрепить позиции американских производителей. Позиции сторон: Трамп поддерживает фермеров, в то время как экспортеры мяса опасаются потери рынка.",
-        "analyse_fa": "زمینه: ایالات متحده قبلا قوانین مشابهی را برای گوشت مرغ و خوک اعمال کرده بود، اما برای گاو گوشت چنین کاری انجام نشده است. علل: حفاظت از بازار داخلی در برابر محصولات ارزان وارداتی، به ویژه از کانادا و مکزیک. پیامدها: احتمال جنگ‌های تجاری، زیرا کشورها صادرکننده ممکن است اقدامات معکوس انجام دهند. چشم‌انداز: اگر این اقدام تصویب شود، می‌تواند موقعیت تولیدکنندگان آمریکایی را تقویت کند. موضع بازیگران: ترامپ از کشاورزان حمایت می‌کند، در حالی که صادرکنندگان گوشت از خطر از دست دادن بازار نگران هستند.",
-        "analyse_ar": "السياق: فرضت الولايات المتحدة بالفعل مثل هذه القواعد على الدواجن واللحوم الخنزيرية، ولكن لم تفرضها على اللحوم البقرية. الأسباب: حماية السوق المحلية من المنتجات المستوردة الرخيصة، خاصة من كندا والمكسيك. العواقب: احتمال نشوب حروب تجارية، حيث قد تستجيب الدول الصادرة بمكاسب معاكسة. الآفاق: إذا تم تمرير هذه الخطوة، قد تقوي وضع المزارعين الأمريكيين. مواقف الأطراف: يدعم ترمب المزارعين، بينما يخشى الصادروين من فقدان السوق.",
-        "categorie": "Économie/Commerce",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ea40a65f46f7c934",
-        "image": "https://biztoc.com/cdn/ea40a65f46f7c934_s.webp",
-        "date": "2026-09-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché des produits laitiers et viandes",
-            "hausse": true
-          },
-          {
-            "label": "▼ Finance et investissements agricoles",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des produits laitiers et viandes",
-            "secteur_en": "Dairy and meat products market",
-            "secteur_zh": "",
-            "effet_fr": "Les producteurs américains pourraient voir leurs marges bénéficiaires augmenter grâce à une demande accrue pour des produits locaux, mais les exportateurs étrangers pourraient subir une baisse des ventes.",
-            "effet_en": "US producers may see higher profit margins due to increased demand for local products, while foreign exporters could face declining sales.",
-            "effet_zh": "美国生产者可能因本土产品需求增加而提高利润边际，但外国出口商可能面临销售下降。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Finance et investissements agricoles",
-            "secteur_en": "Agricultural finance and investments",
-            "secteur_zh": "",
-            "effet_fr": "Les investisseurs pourraient se détourner des secteurs agroalimentaires internationaux en faveur de projets locaux, réduisant les flux de capitaux vers les pays exportateurs.",
-            "effet_en": "Investors may shift away from international agri-food sectors toward local projects, reducing capital flows to exporting countries.",
-            "effet_zh": "投资者可能从国际农业食品领域转向本土项目，减少对出口国的资本流入。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-08T10:37:45.091097"
       }
     ],
     "chine": [
@@ -3710,6 +3710,65 @@
     ],
     "russie": [
       {
+        "id": "russie_663855",
+        "titre": "Menaces nucléaires de Poutine commencent à porter leurs fruits",
+        "titre_en": "Putin’s nuclear threats backfiring on neighbors",
+        "titre_zh": "普京核威胁开始对邻国产生反作用",
+        "titre_ru": "Putin's Nuclear Threats Are Starting To Backfire",
+        "titre_fa": "Putin's Nuclear Threats Are Starting To Backfire",
+        "titre_ar": "Putin's Nuclear Threats Are Starting To Backfire",
+        "titre_original": "Putin's Nuclear Threats Are Starting To Backfire",
+        "resume": "Vladimir Poutine, détenant l’arsenal nucléaire le plus important au monde, voit ses menaces nuire à sa crédibilité. La Lituanie a récemment modifié sa constitution pour se préparer à une éventuelle crise. Cette réaction en chaîne révèle une perte d’influence russe dans les Balkans et en Europe de l’Est.",
+        "resume_en": "Vladimir Putin, holding the world’s largest nuclear arsenal, sees his threats undermining his credibility. Lithuania recently amended its constitution to prepare for potential crises. This chain reaction reveals a loss of Russian influence in the Balkans and Eastern Europe.",
+        "resume_zh": "拥有世界上最大核武库的普京，其威胁开始损害其威信。立陶宛最近修改宪法以应对潜在危机。这一连锁反应揭示了俄罗斯在巴尔干和东欧影响力的下降。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La Russie, héritière de l’URSS, a longtemps utilisé la menace nucléaire comme outil de dissuasion géopolitique, notamment sous Gorbatchev ou Poutine. Les récents conflits en Ukraine ont montré une escalade des tensions, où les menaces nucléaires sont devenues un levier de pression plutôt qu’un outil de stabilité. Les causes profondes incluent la paranoïa sécuritaire de Moscou et la dépendance à l’image d’une puissance invincible. À court terme, les voisins comme la Lituanie ou la Pologne renforcent leurs alliances avec l’OTAN, affaiblissant la position russe. À moyen terme, cela pourrait accélérer la fragmentation de l’espace post-soviétique. Long terme, cela interroge la viabilité même du modèle autoritaire russe face à une Europe unie. Les acteurs clés sont la Russie, l’OTAN, l’Ukraine et les États baltes, tous cherchant à sécuriser leurs frontières.",
+        "analyse_en": "Russia, the heir to the USSR, has long used nuclear threats as a geopolitical deterrent tool, notably under Gorbachev or Putin. Recent conflicts in Ukraine have shown an escalation of tensions, where nuclear threats have become a lever of pressure rather than a stability tool. Root causes include Moscow’s security paranoia and dependence on the image of an invincible power. Short-term, neighbors like Lithuania or Poland are strengthening their NATO alliances, weakening Russia’s position. Medium-term, this could accelerate the fragmentation of the post-Soviet space. Long-term, it questions the viability of Russia’s authoritarian model against a united Europe. Key actors include Russia, NATO, Ukraine, and the Baltic states, all seeking to secure their borders.",
+        "analyse_zh": "俄罗斯作为苏联的继承者，长期以来将核威胁作为地缘政治威慑工具，特别是在戈尔巴乔夫或普京时期。乌克兰近期冲突显示出紧张局势升级，核威胁已从稳定工具转变为施压手段。深层原因包括莫斯科的安全偏执和对不败力量形象的依赖。短期内，邻国如立陶宛或波兰加强与北约的联盟，削弱俄罗斯的地位。中期内，这可能加速后苏联空间的分裂。长期来看，这质疑俄罗斯专制模式在统一欧洲面前的可行性。关键利益相关者包括俄罗斯、北约、乌克兰和波罗的海国家，他们都在争夺边境安全。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8925aaa4495bf02e",
+        "image": "https://biztoc.com/cdn/8925aaa4495bf02e_s.webp",
+        "date": "2026-09-14",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur de la dissuasion nucléaire et sécurité stratégique",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des armements et industrie de défense",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur de la dissuasion nucléaire et sécurité stratégique",
+            "secteur_en": "Nuclear deterrence and strategic security sector",
+            "secteur_zh": "核威慑和战略安全行业",
+            "effet_fr": "La crédibilité des menaces nucléaires russes s’effrite, poussant les alliés occidentaux à renforcer leurs défenses et à marginaliser Moscou dans les dialogues de sécurité.",
+            "effet_en": "Russia’s nuclear threat credibility is eroding, prompting Western allies to bolster defenses and marginalize Moscow in security dialogues.",
+            "effet_zh": "俄罗斯核威慑的可信度下降，迫使西方盟友加强防御并将莫斯科边缘化于安全对话中。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des armements et industrie de défense",
+            "secteur_en": "Arms market and defense industry",
+            "secteur_zh": "军火市场和国防工业",
+            "effet_fr": "Les sanctions occidentales pourraient accélérer le développement de technologies alternatives en Russie, mais aussi isoler davantage son secteur militaire des innovations globales.",
+            "effet_en": "Western sanctions could accelerate Russia’s development of alternative technologies but also further isolate its military sector from global innovations.",
+            "effet_zh": "西方制裁可能加速俄罗斯开发替代技术，但也会进一步将其军工部门与全球创新隔离。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-15T20:01:41.299288"
+      },
+      {
         "id": "russie_781965",
         "titre": "Ukraine propose trêve énergétique avec Moscou, attend réponse",
         "titre_en": "Ukraine proposes energy truce with Russia, awaits Moscow’s response",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-07T14:49:33.077440"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_26581",
-        "titre": "Envoyés américains en Ukraine : espoirs de négociations après Moscou",
-        "titre_en": "US envoys head to Ukraine talks post-Moscow meeting",
-        "titre_zh": "美国使团赴乌克兰谈判后莫斯科会晤",
-        "titre_ru": "Американские послы уезжают из Москвы после встречи с Путиным с надеждой на продуктивные переговоры в Украине",
-        "titre_fa": "سفیران آمریکایی پس از دیدار با پوتین از مسکو با امید به مذاکرات موثر در اوکراین خارج می‌شوند",
-        "titre_ar": "السفارات الأمريكية تترك موسكو بعد مناقشة مع بوتين مع أمل في مفاوضات منتجة في أوكرانيا",
-        "titre_original": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "resume": "Deux envoyés américains, Steve Witkoff et Jared Kushner, quittent Moscou après des discussions avec Poutine, avec l’espoir de négociations « aussi productives » en Ukraine. Cette dynamique reflète les tentatives de relancer un dialogue indirect entre Washington et Kiev, malgré les blocages persistants. Les médias soulignent l’importance de ces échanges pour éviter une escalade militaire supplémentaire.",
-        "resume_en": "US envoys Steve Witkoff and Jared Kushner leave Moscow after talks with Putin, hoping for ‘equally productive’ negotiations in Ukraine. This move reflects efforts to restart indirect dialogue between Washington and Kiev, despite persistent deadlocks. Media emphasize the importance of these exchanges to prevent further military escalation.",
-        "resume_zh": "美国特使史蒂夫·维特科夫和贾ред·库什纳离开莫斯科后与普京会谈，希望在乌克兰进行同样富有成效的谈判。这一举动反映了美俄间接对话重启的努力，尽管存在持续僵局。媒体强调这些交流避免军事升级的重要性。",
-        "resume_ru": "Стив Уиткофф и Джаред Кушер покинули Москву после встречи с Владимиром Путиным, выразив надежду на успешные переговоры в Киеве. Дипломаты обсудили возможные шаги для деэскалации конфликта на Украине и поиска компромиссов. Россия, по словам источников, остаётся настороженной в отношении западных инициатив, но открыта для диалога. В Киеве ожидают, что американские посредники смогут повлиять на ход переговоров.",
-        "resume_fa": "استیو ویتکوف و جارد کوشنر پس از دیدار با ولادیمیر پوتین از مسکو خارج شدند و امیدوارند به مذاکرات موثر در کیف به نتیجه برسند. دیپلمات‌ها در مورد گام‌های احتمالی برای کاهش تنش در اوکراین و یافتن تعاریف مشترک بحث کردند. روسیه، بر اساس منابع، همچنان نسبت به پیشنهادهای غربی احتیاط دارد، اما برای گفتگو باز است. در کیف انتظار می‌رود که مذاکره‌کنندگان آمریکایی بتوانند بر جریان مذاکرات تأثیر بگذارند.",
-        "resume_ar": "استيف ويتكوف وجاريد كوشنر تركوا موسكو بعد مناقشة مع بوتين مع أمل في مفاوضات منتجة في كييف. بحث الدبلوماسيين حول الخطوات المحتملة لتخفيف التوتر في أوكرانيا والبحث عن تعاريف مشتركة. روسيا، وفقًا للمصادر، ما زالت حذرًا تجاه المبادرات الغربية، ولكن مفتوحة للحوار. في كييف، يتوقع أن يتمكن المفاوضون الأمريكيين من التأثير على سير المفاوضات.",
-        "analyse_detaillee": "Les relations entre la Russie et les États-Unis ont connu des hauts et des bas depuis la guerre froide, avec des périodes de détente (comme les accords START) et des crises (comme la guerre en Géorgie ou en Syrie). Cette nouvelle tentative de dialogue intervient après deux ans de guerre en Ukraine, où Moscou cherche à légitimer son invasion via des « réformes » territoriales. Les causes profondes incluent la méfiance mutuelle, les intérêts géostratégiques en Europe de l’Est et la dépendance énergétique européenne à la Russie. À court terme, ces négociations pourraient permettre un cessez-le-feu local ou des échanges de prisonniers, mais sans avancée majeure sur les frontières. À moyen terme, si les pourparlers échouent, la Russie pourrait intensifier ses frappes sur les infrastructures ukrainiennes, tandis que l’Occident pourrait durcir les sanctions ou fournir plus d’armes. À long terme, l’Ukraine pourrait devenir un État divisé ou un nouveau front dans une guerre plus large impliquant la Chine. Les États-Unis et l’UE cherchent à éviter une victoire russe, tandis que Moscou mise sur l’épuisement occidental et la division interne en Ukraine.",
-        "analyse_en": "US-Russia relations have fluctuated since the Cold War, with periods of détente (like START agreements) and crises (such as wars in Georgia or Syria). This new dialogue attempt follows two years of war in Ukraine, where Moscow seeks to legitimize its invasion via ‘territorial reforms.’ Root causes include mutual distrust, geostrategic interests in Eastern Europe, and Europe’s energy dependence on Russia. Short-term, talks may yield local ceasefires or prisoner exchanges but no major border concessions. Medium-term, if negotiations fail, Russia could escalate strikes on Ukrainian infrastructure, while the West may tighten sanctions or arm Ukraine further. Long-term, Ukraine could become a divided state or a broader front involving China. The US and EU aim to prevent a Russian victory, while Moscow bets on Western exhaustion and Ukrainian internal divisions.",
-        "analyse_zh": "美俄关系自冷战以来波动起伏，有缓和期（如《新削减战略武器条约》）也有危机（如格鲁吉亚或叙利亚战争）。此次对话尝试发生在乌克兰战争两年后，俄罗斯试图通过‘领土改革’合法化入侵。深层原因包括相互不信任、欧洲东部地缘战略利益和欧洲对俄罗斯能源的依赖。短期内，谈判可能带来局部停火或战俘交换，但不会在边界问题上取得重大突破。中期内，如果谈判失败，俄罗斯可能加强对乌克兰基础设施的打击，而西方可能加强制裁或提供更多武器。长期来看，乌克兰可能成为一个分裂国家或更广泛的战场，涉及中国。美国和欧盟试图避免俄罗斯胜利，而莫斯科则赌西方疲惫和乌克兰内部分裂。",
-        "analyse_ru": "Встреча американских послов с Путиным стала важным шагом в попытке сдвинуть переговорный процесс по Украине с мёртвой точки. Россия, несмотря на внешнюю готовность к диалогу, продолжает настаивать на своих условиях, включая гарантии безопасности и отказ от дальнейшего расширения НАТО. США, в свою очередь, стремятся убедить Москву в необходимости реальных шагов по демилитаризации и выводу войск. Однако, учитывая предыдущие провалы в переговорах, scepticism остаётся высоким. Если стороны не найдут компромисс по ключевым вопросам, риск эскалации конфликта сохранится. В Киеве надеются, что американские посредники смогут убедить Россию в необходимости переговоров без предварительных условий.",
-        "analyse_fa": "دیدار سفیران آمریکایی با پوتین یک گام مهم در تلاش برای حرکت مذاکرات در مورد اوکراین از نقطه مرده بود. روسیه، با وجود آمادگی ظاهری برای گفتگو، همچنان بر شرایط خود، از جمله تضمینات امنیت و عدم گسترش ناتو، اصرار دارد. آمریکا از سوی دیگر سعی دارد به مسکو نشان دهد که اقدامات واقعی برای دهمیلیتاریزه کردن و خروج نیروهای نظامی ضروری است. با این حال، با توجه به شکست‌های قبلی در مذاکرات، شک و تردید همچنان بالا است. اگر طرفین در مورد سوالات کلیدی به تعاریف مشترک نرسند، خطر افزایش تنش باقی خواهد ماند. در کیف امیدوارند که مذاکره‌کنندگان آمریکایی بتوانند روسیه را به این باور برساند که مذاکرات بدون شرایط پیشین ضروری است.",
-        "analyse_ar": "كان لقاء السفارات الأمريكية مع بوتين خطوة مهمة في محاولة تحريك عملية المفاوضات حول أوكرانيا من نقطة الموت. روسيا، رغم استعدادها الظاهري للحوار، تستمر في التأكيد على شروطها، بما في ذلك ضمانات الأمن وإلغاء توسيع الناتو. من ناحية أخرى، يسعى الولايات المتحدة إلى إقناع موسكو بضرورة اتخاذ خطوات حقيقية لتخفيف التسلح وإخراج القوات. ومع ذلك، مع فشل المفاوضات السابقة، فإن الشكوك ما زالت عالية. إذا لم يجد الطرفان تعاريف مشتركة حول الأسئلة الرئيسية، فإن خطر تصعيد الصراع سيبقى. في كييف، يتوقع أن يتمكن المفاوضون الأمريكيين من إقناع روسيا بضرورة المفاوضات دون شروط مسبقة.",
-        "categorie": "Géopolitique",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
-        "date": "2026-09-06",
-        "pays": "russie",
+        "id": "iran_327957",
+        "titre": "Factures de chauffage au fioul en hausse de 31% cet hiver",
+        "titre_en": "Heating oil bills to surge 31% this winter due to Iran war",
+        "titre_zh": "伊朗战争导致今冬取暖油价格上涨31%",
+        "titre_ru": "Heating Oil Bills Could Jump 31% This Winter As Iran War Drives Up Prices",
+        "titre_fa": "Heating Oil Bills Could Jump 31% This Winter As Iran War Drives Up Prices",
+        "titre_ar": "Heating Oil Bills Could Jump 31% This Winter As Iran War Drives Up Prices",
+        "titre_original": "Heating Oil Bills Could Jump 31% This Winter As Iran War Drives Up Prices",
+        "resume": "Les ménages chauffés au fioul devront débourser près de 2 300 € cette saison, alors que le baril dépasse les $100. La guerre en cours avec l’Iran alimente la flambée des prix de l’énergie. Cette hausse s’inscrit dans un contexte de tensions géopolitiques persistantes au Moyen-Orient.",
+        "resume_en": "Households heating with oil will spend nearly $2,300 this season as crude prices exceed $100. The ongoing war with Iran is fueling energy price surges. This increase reflects persistent geopolitical tensions in the Middle East.",
+        "resume_zh": "使用燃油取暖的家庭今季度将支付近2300欧元，而原油价格已超过每桶100美元。与伊朗的战争推高了能源价格。这一上涨反映了中东地区持续的地缘政治紧张局势。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le fioul, dépendant des cours pétroliers, subit les répercussions des conflits régionaux depuis des décennies, comme lors de la guerre Iran-Irak. Les tensions actuelles avec Israël et les sanctions occidentales contre Téhéran ont exacerbé l’instabilité des approvisionnements. Les causes profondes incluent la spéculation financière sur les matières premières et la dépendance énergétique de l’Europe. À court terme, les ménages européens subissent une hausse des factures, tandis que les États pétroliers renforcent leur pouvoir de négociation. À moyen terme, cela pourrait accélérer la transition énergétique en Europe. Long terme, cela pourrait redéfinir les alliances énergétiques mondiales et la souveraineté européenne. Les acteurs clés sont l’Iran, les pays du Golfe, l’UE et les géants pétroliers.",
+        "analyse_en": "Heating oil, dependent on oil prices, has suffered from regional conflicts for decades, as seen during the Iran-Iraq war. Current tensions with Israel and Western sanctions on Tehran have worsened supply instability. Root causes include financial speculation on commodities and Europe’s energy dependence. Short-term, European households face rising bills, while oil-producing states gain negotiating power. Medium-term, this could accelerate Europe’s energy transition. Long-term, it may redefine global energy alliances and European sovereignty. Key actors include Iran, Gulf states, the EU, and oil giants.",
+        "analyse_zh": "燃油价格依赖于石油市场，多年来受到地区冲突影响，如伊朗伊拉克战争。目前与以色列的紧张局势和西方对伊朗的制裁加剧了供应不稳定。深层原因包括对大宗商品的金融投机和欧洲的能源依赖。短期内，欧洲家庭面临高昂的取暖费用，而石油出口国增强了谈判能力。中期内，这可能加速欧洲的能源转型。长期来看，这可能重新定义全球能源同盟和欧洲的主权。关键利益相关者包括伊朗、海湾国家、欧盟和石油巨头。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/09/14/heating-oil-costs-winter-neada-iran-war",
+        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2019/01/Thermostat_Shutterstock.jpg",
+        "date": "2026-09-14",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des matières premières énergétiques (gaz, pétrole)",
+            "label": "▲ Marché des énergies fossiles",
             "hausse": true
           },
           {
-            "label": "▼ Bourse de Moscou (MOEX)",
+            "label": "▼ Secteur immobilier et chauffage résidentiel",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des matières premières énergétiques (gaz, pétrole)",
-            "secteur_en": "Energy commodities market (gas, oil)",
-            "secteur_zh": "能源大宗商品市场（天然气、石油）",
-            "effet_fr": "Les négociations pourraient influencer les prix du gaz européen, soit en réduisant les livraisons russes (hausse des prix), soit en relançant des accords de fourniture (stabilisation).",
-            "effet_en": "Talks may impact European gas prices—either by reducing Russian supplies (driving up costs) or restarting supply deals (stabilizing markets).",
-            "effet_zh": "谈判可能影响欧洲天然气价格，要么减少俄罗斯供应（推高成本），要么重启供应协议（稳定市场）。",
+            "secteur_fr": "Marché des énergies fossiles",
+            "secteur_en": "Fossil fuel market",
+            "secteur_zh": "化石能源市场",
+            "effet_fr": "Les prix du fioul pourraient atteindre des niveaux records, poussant les consommateurs vers des alternatives plus chères comme le gaz ou l’électricité.",
+            "effet_en": "Heating oil prices could hit record levels, driving consumers toward more expensive alternatives like gas or electricity.",
+            "effet_zh": "燃油价格可能创下新高，迫使消费者转向更昂贵的天然气或电力替代品。",
             "hausse": true
           },
           {
-            "secteur_fr": "Bourse de Moscou (MOEX)",
-            "secteur_en": "Moscow Stock Exchange (MOEX)",
-            "secteur_zh": "莫斯科证券交易所（MOEX）",
-            "effet_fr": "En cas d’échec des négociations, les sanctions occidentales pourraient s’intensifier, provoquant une chute des actions russes et une fuite des capitaux vers des marchés plus stables.",
-            "effet_en": "If talks fail, Western sanctions may tighten, causing a crash in Russian stocks and capital flight to safer markets.",
-            "effet_zh": "如果谈判失败，西方制裁可能加剧，导致俄罗斯股市崩盘和资本外逃至更稳定的市场。",
+            "secteur_fr": "Secteur immobilier et chauffage résidentiel",
+            "secteur_en": "Housing and residential heating sector",
+            "secteur_zh": "房地产和居民供暖行业",
+            "effet_fr": "Les propriétaires pourraient réduire leurs investissements dans les systèmes de chauffage au fioul, accélérant la transition vers des solutions plus durables mais coûteuses.",
+            "effet_en": "Homeowners may cut investments in oil heating systems, accelerating the shift toward more sustainable but expensive solutions.",
+            "effet_zh": "房主可能减少对燃油供暖系统的投资，加速向更可持续但成本更高的解决方案转型。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-07T02:59:08.982118"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-15T20:01:41.299280"
+      },
       {
         "id": "iran_2614",
         "titre": "Pilote américain s’échappe après chute d’un F-15E abattu par l’Iran",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-09-07T02:59:08.982066"
-      },
-      {
-        "id": "iran_890555",
-        "titre": "Explosion de citernier tue au moins 10 en Iran",
-        "titre_en": "Fuel tanker blast kills at least 10 in Iran",
-        "titre_zh": "伊朗油罐车爆炸致10死",
-        "titre_ru": "Взрыв цистерны с топливом на западе Ирана унес жизни 10 человек",
-        "titre_fa": "انفجار تانکر سوخت در غرب ایران ۱۰ نفر را کشت",
-        "titre_ar": "تفجير شاحنة الوقود في غرب إيران أسفر عن مقتل 10 أشخاص",
-        "titre_original": "Fuel tanker blast in western Iran kills at least 10",
-        "resume": "Une explosion survenue sur la route Hamedan-Sanandaj en Iran a fait au moins dix morts et six blessés, selon les autorités locales. Cet incident survient dans un contexte de tensions économiques et de sanctions internationales persistantes. La cause exacte reste à déterminer, mais les accidents routiers impliquant des produits inflammables sont fréquents dans la région.",
-        "resume_en": "An explosion on Iran’s Hamedan-Sanandaj highway killed at least 10 people and injured six, officials say. The incident occurs amid ongoing economic tensions and international sanctions. The exact cause remains unclear, but road accidents involving flammable products are common in the area.",
-        "resume_zh": "伊朗哈麦丹-桑贾尔高速公路上发生油罐车爆炸，造成至少10人死亡、6人受伤。此事故发生在持续的经济紧张和国际制裁背景下。具体原因尚未明确，但该地区涉及易燃品的道路事故频发。",
-        "resume_ru": "Взрыв на трассе Хамедан-Сананджад унес жизни как минимум десяти человек и ранил еще шесть. Причины инцидента пока не установлены, но власти обещают провести полное расследование. Аварии на дорогах в Иране часто связаны с плохим состоянием дорог и неисправной техникой.",
-        "resume_fa": "انفجار تانکر سوخت در جاده هامدان-سنندج حداقل ده نفر را کشت و شش نفر دیگر زخمی شدند. علت این حادثه هنوز مشخص نشده است، اما مسئولان تحقیق کامل را وعده داده‌اند. حوادث جاده‌ای در ایران اغلب به دلیل وضعیت بد جاده‌ها و خرابی وسایل نقلیه رخ می‌دهند.",
-        "resume_ar": "تفجير شاحنة الوقود على طريق هامدان-سنندج أسفر عن مقتل 10 شخص على الأقل وإصابة ستة آخرين. أسباب الحادث لم يتم تحديدها بعد، لكن السلطات وعدت بإجراء تحقيق شامل. معظم حوادث الطرق في إيران ترتبط بحالة سيئة للطرق والأجهزة غير الصالحة للخدمة.",
-        "analyse_detaillee": "L’Iran traverse une crise économique aggravée par les sanctions américaines et la chute des revenus pétroliers, ce qui fragilise ses infrastructures routières et logistiques. Les causes profondes incluent la corruption endémique, le manque d’investissements dans les transports et une gestion désorganisée des risques industriels. À court terme, cela pourrait déclencher des manifestations locales contre l’insécurité routière, tandis que les médias officiels minimiseront l’incident pour éviter une crise politique. À moyen terme, cela pourrait accélérer la dépendance aux importations de carburant, aggravant le déficit commercial.",
-        "analyse_en": "Iran faces an economic crisis exacerbated by U.S. sanctions and falling oil revenues, weakening its road and logistics infrastructure. Root causes include endemic corruption, lack of transport investments, and poor industrial risk management. Short-term, this may trigger local protests against road safety, while official media will downplay the incident to avoid political fallout. Medium-term, it could accelerate reliance on fuel imports, worsening the trade deficit.",
-        "analyse_zh": "伊朗因美国制裁和石油收入下降面临经济危机，削弱了道路和物流基础设施。深层原因包括腐败、交通投资不足和工业风险管理不善。短期内，可能引发当地反道路安全的抗议，而官方媒体将回避此事以避免政治危机。中期内，可能加速对燃料进口的依赖，恶化贸易赤字。",
-        "analyse_ru": "Трагедия на дорогах Ирана — печальная регулярность, которая требует системных решений, а не временных мер. Плохое состояние автодорог и отсутствие контроля за перевозками топлива создают условия для подобных катастроф. Власти должны инвестировать в инфраструктуру и ужесточить правила безопасности для перевозчиков. В противном случае риск повторения таких инцидентов останется высоким. Также важно учитывать фактор человеческого фактора — многие аварии происходят из-за нарушений правил дорожного движения.",
-        "analyse_fa": "این حادثه در جاده‌های ایران یک اتفاق تکراری و ناگوار است که نیاز به راهکارهای سیستماتیک دارد، نه اقدامات موقت. وضعیت بد جاده‌ها و عدم کنترل بر حمل و نقل سوخت شرایطی را برای چنین فاجعه‌هایی فراهم می‌کند. مسئولان باید در ساخت و ساز زیرساخت‌ها سرمایه‌گذاری کنند و قوانین ایمنی حمل و نقل را سخت‌گیرانه‌تر کنند. در غیر این صورت، خطر تکرار این حوادث همچنان بالا خواهد بود. همچنین باید به عامل انسانی توجه کرد، زیرا بسیاری از حوادث به دلیل نقض قوانین ترافیک رخ می‌دهند.",
-        "analyse_ar": "هذه الكارثة على الطرق الإيرانية هي واقعية مأساوية تتطلب حلول نظامية، وليس تدابير مؤقتة. حالة سيئة للطرق وعدم تحكم في نقل الوقود يخلقان ظروفًا لحدوث مثل هذه الكوارث. يجب على السلطات استثمار البنية التحتية وتشديد قوانين السلامة لناقلي الوقود. وإلا، سيبقى خطر تكرار مثل هذه الحوادث مرتفعًا. أيضًا، يجب أخذ عامل الإنسان في الاعتبار، حيث تحدث العديد من الحوادث بسبب انتهاك قوانين المرور.",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9c98ccbe-1788647628.jpg?resize=1920%2C1440",
-        "date": "2026-09-05",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Assurance transport de matières dangereuses",
-            "hausse": true
-          },
-          {
-            "label": "▼ Bourse de Téhéran (TEF)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance transport de matières dangereuses",
-            "secteur_en": "Hazardous materials transport insurance",
-            "secteur_zh": "",
-            "effet_fr": "Les assureurs iraniens pourraient augmenter les primes pour couvrir les risques accrus liés aux infrastructures vieillissantes et aux sanctions.",
-            "effet_en": "Iranian insurers may raise premiums to cover increased risks from aging infrastructure and sanctions.",
-            "effet_zh": "伊朗保险公司可能因老化基础设施和制裁风险增加而提高保费。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Bourse de Téhéran (TEF)",
-            "secteur_en": "Tehran Stock Exchange (TEF)",
-            "secteur_zh": "",
-            "effet_fr": "La volatilité des marchés financiers iraniens pourrait s’intensifier, affectant les investisseurs étrangers déjà réticents à s’engager dans un environnement instable.",
-            "effet_en": "Financial market volatility in Iran may intensify, impacting foreign investors already hesitant to engage in an unstable environment.",
-            "effet_zh": "伊朗金融市场波动可能加剧，影响对不稳定环境犹豫不决的外国投资者。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-06T23:30:33.006747"
       }
     ]
   },
