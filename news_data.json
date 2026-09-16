@@ -1,7 +1,66 @@
 {
-  "last_updated": "15/09/2026 à 22h54",
+  "last_updated": "16/09/2026 à 01h07",
   "articles": {
     "monde": [
+      {
+        "id": "monde_723124",
+        "titre": "Les subventions au carburant n’étaient pas le vrai problème économique du Nigeria",
+        "titre_en": "Fuel subsidies never Nigeria’s core economic issue",
+        "titre_zh": "尼日利亚汽油补贴非核心经济问题",
+        "titre_ru": "Subsidy was never Nigeria’s problem",
+        "titre_fa": "Subsidy was never Nigeria’s problem",
+        "titre_ar": "Subsidy was never Nigeria’s problem",
+        "titre_original": "Subsidy was never Nigeria’s problem",
+        "resume": "Un éditorial conteste l’idée que les subventions au carburant soient la principale cause des difficultés économiques nigérianes. L’auteur souligne le faible niveau de recettes fiscales et compare les données historiques de croissance pour démontrer que d’autres facteurs structurels pèsent davantage. Le débat s’inscrit dans un contexte de réformes économiques controversées et de pression populaire contre les aides publiques.",
+        "resume_en": "An opinion piece argues that Nigeria’s fuel subsidies were never the core economic problem. The author highlights low tax revenue and historical growth data to show structural issues carry more weight. The discussion arises amid controversial economic reforms and public pressure against subsidies.",
+        "resume_zh": "一篇评论文章认为尼日利亚的汽油补贴从未是核心经济问题。作者强调低税收和历史增长数据，表明结构性问题更为关键。讨论在经济改革争议和公众反对补贴的背景下展开。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Depuis les années 1980, le Nigeria dépend de subventions énergétiques pour apaiser les tensions sociales, masquant ainsi des failles fiscales chroniques. Les causes profondes incluent une administration inefficace, une économie informelle dominante et une dépendance aux revenus pétroliers volatils. À court terme, l’absence de subventions pourrait déclencher des émeutes ou une hausse des prix, aggravant l’inflation déjà à 25%. À moyen terme, une réforme fiscale mal gérée risquerait d’exacerber les inégalités, tandis que le secteur privé pourrait fuir face à l’incertitude. Long terme, une diversification économique est indispensable pour réduire la dépendance aux matières premières, mais nécessite des investissements massifs et une gouvernance transparente. Les acteurs clés sont le gouvernement nigérian, sous pression populaire, et les institutions financières internationales, réticentes à soutenir des réformes perçues comme brutales.",
+        "analyse_en": "Since the 1980s, Nigeria has relied on energy subsidies to ease social unrest, masking chronic fiscal failures. Root causes include an inefficient bureaucracy, a dominant informal economy, and volatile oil revenue dependence. Short-term, subsidy removal could trigger riots or price spikes, worsening inflation already at 25%. Medium-term, poorly managed fiscal reforms risk deepening inequalities, while private sector flight may exacerbate instability. Long-term, economic diversification is critical to reduce commodity dependence, but requires massive investments and transparent governance. Key actors include the Nigerian government, under public pressure, and international financial institutions, wary of reforms seen as harsh.",
+        "analyse_zh": "自上世纪80年代以来，尼日利亚通过能源补贴缓解社会不稳定，掩盖了长期的财政缺陷。深层原因包括低效的行政体系、庞大的非正式经济和对波动性石油收入的依赖。短期内，取消补贴可能引发骚乱或价格飙升，进一步恶化已达25%的通胀。中期内，不当的财政改革可能加剧贫富差距，私营部门撤离则会加剧不稳定。长期来看，经济多元化是减少对大宗商品依赖的关键，但需要大规模投资和透明的治理。主要利益相关者包括面临公众压力的尼日利亚政府和对改革持谨慎态度的国际金融机构。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Punch",
+        "url": "https://punchng.com/subsidy-was-never-nigerias-problem/",
+        "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/14233807/Adi_1789425487.webp",
+        "date": "2026-09-15",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Secteur pétrolier et gazier",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché financier et système bancaire",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur pétrolier et gazier",
+            "secteur_en": "Oil and gas sector",
+            "secteur_zh": "石油和天然气行业",
+            "effet_fr": "La suppression des subventions pourrait entraîner une chute brutale de la demande locale et une baisse des revenus fiscaux liés à ce secteur.",
+            "effet_en": "Subsidy removal could trigger a sharp drop in domestic demand and reduced tax revenues from this sector.",
+            "effet_zh": "取消补贴可能导致国内需求骤降和税收收入减少。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché financier et système bancaire",
+            "secteur_en": "Financial markets and banking system",
+            "secteur_zh": "金融市场和银行体系",
+            "effet_fr": "L’incertitude économique pourrait réduire la confiance des investisseurs et limiter l’accès au crédit pour les entreprises.",
+            "effet_en": "Economic uncertainty may reduce investor confidence and limit business access to credit.",
+            "effet_zh": "经济不确定性可能降低投资者信心并限制企业获得贷款。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-16T01:07:21.566885"
+      },
       {
         "id": "monde_259941",
         "titre": "Vidéo choquante : voiture sur piste cyclable californienne",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-09T08:39:34.779077"
-      },
-      {
-        "id": "monde_883217",
-        "titre": "Évaluations des joueuses US à la Coupe du Monde féminine",
-        "titre_en": "USA Women’s World Cup players’ grades",
-        "titre_zh": "美国女足世界杯球员评分分析",
-        "titre_ru": "Оценки игроков женского чемпионата мира: как Кэтилин Кларк и Чельси Грей прошли групповой этап",
-        "titre_fa": "نمرات بازیکنان جام جهانی زنان: چگونه کتیلین کلارک و چلسی گری در مرحله گروهی پیش رفتند",
-        "titre_ar": "درجات لاعبات كأس العالم للسيدات: كيف نجت كيتلين كلارك و تشلسي غري في مرحلة المجموعات",
-        "titre_original": "Women's World Cup player grades: How Caitlin Clark, Chelsea Gray and the rest of Team USA fared in group stage",
-        "resume": "Jackie Young a brillé lors de ce test, tandis que certaines vétéranes ont à peine réussi. L’article analyse les performances de l’équipe américaine lors de la phase de groupes. Les joueuses comme Caitlin Clark et Chelsea Gray ont marqué les esprits.",
-        "resume_en": "Jackie Young aced the test, but some veterans barely passed. The article assesses USA’s group stage performance, highlighting standout players like Caitlin Clark and Chelsea Gray.",
-        "resume_zh": "杰基·杨在测试中表现出色，但一些老将勉强及格。文章分析了美国女足小组赛的表现，强调了凯特琳·克拉克和切尔西·格雷等球员的亮点。",
-        "resume_ru": "Джеки Янг блестяще справилась с тестом, но несколько ветеранов еле-еле сдали его. Команда США показала сильные выступления на групповом этапе, однако некоторые опытные игроки не смогли достичь высоких результатов. Это вызвало обсуждение о необходимости адаптации тактики и подготовки для дальнейших матчей.",
-        "resume_fa": "جکی یانگ به خوبی آزمون را پشت سر گذاشت، اما چند بازیکن veteran با مشکل مواجه شدند. تیم آمریکا در مرحله گروهی عملکرد خوبی داشت، اما برخی از بازیکنان با تجربه نتوانستند نتایج بالایی کسب کنند. این موضوع بحثی در مورد نیاز به تغییر تاکتیک و آمادگی برای بازی‌های آینده ایجاد کرد.",
-        "resume_ar": "نجحت جاكي يونغ في الاختبار، بينما نجت بعض اللاعبات الخبرات بالكاد. أظهرت فريق الولايات المتحدة أداءً قويًا في مرحلة المجموعات، لكن بعض اللاعبات الخبرات لم يستطعن تحقيق نتائج عالية. هذا أثار نقاشًا حول الحاجة إلى تعديل التكتيكات والتدريب لمباريات المستقبل.",
-        "analyse_detaillee": "Ce tournoi s’inscrit dans une dynamique de domination historique des États-Unis en football féminin, avec 4 titres mondiaux consécutifs. Les enjeux portent sur la relève générationnelle et la pression médiatique sur les jeunes talents comme Clark. Les causes profondes incluent un système de formation structuré et un investissement massif dans le sport féminin. À court terme, ces évaluations influenceront les sélections pour les phases finales. À moyen terme, elles pourraient renforcer la cohésion d’équipe pour les Jeux Olympiques de 2024. Long terme, cela dépendra de la capacité à maintenir cet équilibre entre expérience et innovation. Les médias et la fédération américaine (US Soccer) jouent un rôle clé dans cette valorisation des performances.",
-        "analyse_en": "This tournament reflects the USA’s long-standing dominance in women’s football, with four consecutive World Cup titles. The stakes involve generational transition and media pressure on young stars like Clark. Deep-rooted causes include a structured training system and heavy investment in women’s sports. Short-term, these grades will impact squad selections for the knockout stages. Medium-term, they may strengthen team cohesion ahead of the 2024 Olympics. Long-term success hinges on balancing experience and innovation. Media and US Soccer play pivotal roles in shaping these performance narratives.",
-        "analyse_zh": "这场比赛体现了美国女足在女子足球领域的长期主导地位，连续四次夺得世界杯冠军。主要影响在于青年球员的接班和媒体对克拉克等新星的压力。深层原因包括完善的训练体系和对女子足球的大力投资。短期内，这些评分将影响淘汰赛阶段的阵容选择。中期内，它们可能增强2024年奥运会前的团队凝聚力。长期前景取决于经验与创新的平衡。媒体和美国足协在塑造这些表现评价中扮演关键角色。",
-        "analyse_ru": "Женский чемпионат мира по баскетболу стал важным этапом для американской сборной, где молодые игроки, такие как Кэтилин Кларк, продемонстрировали высокий уровень мастерства. Однако неравномерные результаты ветеранов, включая Чельси Грей, указывают на возможные проблемы с мотивацией или физической формой. Это может повлиять на общую стратегию команды на дальнейших стадиях турнира. С одной стороны, молодые игроки обещают будущее, с другой — опытные игроки должны сохранить свою эффективность. Контекст также включает давление со стороны болельщиков и ожидания победы, что может усилить стресс для команды.",
-        "analyse_fa": "جام جهانی زنان بسکتبال یک مرحله مهم برای تیم آمریکا بود که در آن بازیکنان جوان مانند کتیلین کلارک مهارت بالایی را نشان دادند. اما نتایج ناهموار بازیکنان veteran مانند چلسی گری نشانگر مشکلات احتمالی در زمینه انگیزه یا شرایط جسمانی آن‌ها است. این ممکن است بر استراتژی کلی تیم در مراحل بعدی مسابقات تأثیر بگذارد. از یک سو، بازیکنان جوان آینده‌ای را نشان می‌دهند، اما از سوی دیگر، بازیکنان با تجربه باید توانایی خود را حفظ کنند. زمینه این موضوع شامل فشار طرفداران و انتظارات پیروزی است که می‌تواند استرس تیم را افزایش دهد.",
-        "analyse_ar": "كأس العالم للسيدات لكرة السلة يمثل مرحلة هامة لفريق الولايات المتحدة، حيث أظهرت لاعبات مثل كيتلين كلارك مستوى عالي من المهارة. ومع ذلك، فإن النتائج غير المتسقة للاعبات الخبرات مثل تشلسي غري تشير إلى مشاكل محتملة في التحفيز أو الحالة البدنية. هذا قد يؤثر على الاستراتيجية العامة للفريق في المراحل القادمة من البطولة. من ناحية، تPromise اللاعبات الشابات المستقبل، لكن من ناحية أخرى، يجب على اللاعبات الخبرات الحفاظ على فعاليتهن. السياق يشمل ضغط المتابعين والتوقعات بالفوز، والتي قد تزيد من ضغط الفريق.",
-        "categorie": "Sport",
-        "source": "CBS Sports",
-        "url": "https://www.cbssports.com/wnba/news/womens-fiba-world-cup-team-usa-grades-caitlin-clark-chelsea-gray/",
-        "image": "https://sportshub.cbsistatic.com/i/r/2026/09/07/14154dd3-cdb0-43a0-9c96-1e2dc1c21c0c/thumbnail/1200x675/5b4a90beb60ee4f8293709b68678c5b3/caitlin-clark-rhyne-howard-team-usa.png",
-        "date": "2026-09-07",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des droits TV et sponsoring sportif",
-            "hausse": true
-          },
-          {
-            "label": "▲ Investissements dans les académies de football féminin",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des droits TV et sponsoring sportif",
-            "secteur_en": "TV rights and sports sponsorship market",
-            "secteur_zh": "电视转播权和体育赞助市场",
-            "effet_fr": "Les performances des joueuses américaines pourraient renforcer les contrats de sponsoring et les droits TV, boostant les revenus des clubs et fédérations.",
-            "effet_en": "Top performances may strengthen sponsorship deals and TV rights, increasing revenues for clubs and federations.",
-            "effet_zh": "美国球员的表现可能增强赞助合同和电视转播权，提升俱乐部和联合会的收入。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Investissements dans les académies de football féminin",
-            "secteur_en": "Investments in women’s football academies",
-            "secteur_zh": "女子足球学院的投资",
-            "effet_fr": "Les évaluations positives pourraient inciter à des financements accrus pour former la prochaine génération de talents.",
-            "effet_en": "Positive grades may spur increased funding for developing future talent pipelines.",
-            "effet_zh": "积极的评价可能刺激对培养下一代球员的资金投入。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-08T23:51:52.762985"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_953358",
+        "titre": "Entraînement offensif de l’Utah State sous Fisch",
+        "titre_en": "Utah State’s offensive training focus",
+        "titre_zh": "犹他州大学进攻训练重点",
+        "titre_ru": "Jedd Fisch Addresses UW Offensive Line, Run Game",
+        "titre_fa": "Jedd Fisch Addresses UW Offensive Line, Run Game",
+        "titre_ar": "Jedd Fisch Addresses UW Offensive Line, Run Game",
+        "titre_original": "Jedd Fisch Addresses UW Offensive Line, Run Game",
+        "resume": "L’entraîneur Jedd Fisch souligne l’importance d’améliorer le jeu au sol pour transformer l’offensive de l’Utah State en une machine offensive redoutable. Il insiste sur la complémentarité des joueurs et la nécessité d’une approche stratégique pour exploiter les faiblesses de la défense adverse. Ce commentaire intervient après une victoire contre l’Utah, marquant une étape dans la reconstruction de l’équipe.",
+        "resume_en": "Coach Jedd Fisch emphasizes the need to improve the running game to turn Utah State’s offense into a dominant force. He stresses player complementarity and strategic exploitation of defensive weaknesses. The remarks follow a win over Utah, marking progress in team rebuilding.",
+        "resume_zh": "教练杰德·菲什强调需要提升地面进攻，将犹他州大学的进攻打造成强大的攻击机器。他强调球员的互补性和战术利用对手防守弱点。这番言论在击败犹他队后发表，标志着球队重建的进展。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le football américain universitaire est un écosystème compétitif où les stratégies offensives évoluent constamment pour contrer les défenses adaptatives. Fisch mise sur un jeu au sol pour compenser les limites physiques de son équipe, une approche typique des programmes moins dotés financièrement. Les conséquences immédiates incluent une pression accrue sur les quarterbacks et une dépendance accrue aux running backs, ce qui peut augmenter les risques d’injuries. À moyen terme, cette stratégie pourrait renforcer la cohésion d’équipe et améliorer les performances globales, mais nécessite une adaptation constante des tactiques. Long terme, Utah State devra concilier cette philosophie avec les attentes des fans et les contraintes budgétaires. Les acteurs clés sont Fisch, les joueurs clés comme les running backs, et les rivaux régionaux comme BYU ou Boise State.",
+        "analyse_en": "College football is a competitive ecosystem where offensive strategies constantly evolve to counter adaptive defenses. Fisch relies on a ground game to offset his team’s physical limitations, a common approach for less financially endowed programs. Short-term, this puts more pressure on quarterbacks and increases reliance on running backs, raising injury risks. Medium-term, it could strengthen team cohesion and overall performance but requires constant tactical adaptation. Long-term, Utah State must balance this philosophy with fan expectations and budget constraints. Key actors include Fisch, star players like running backs, and regional rivals like BYU or Boise State.",
+        "analyse_zh": "大学美式足球是一个竞争激烈的生态系统，进攻战术不断演变以应对适应性防守。菲什依赖地面进攻来弥补球队体能上的不足，这是资金较少的项目常见的策略。短期内，这会增加对四分卫的压力，并增加对跑卫的依赖，从而提高受伤风险。中期内，这种战术可能增强球队凝聚力和整体表现，但需要不断调整战术。长期来看，犹他州大学必须平衡这种理念与球迷期望和预算限制。主要利益相关者包括菲什、关键球员如跑卫，以及地区对手如BYU或波伊西州立大学。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sports",
+        "source": "Yahoo Entertainment",
+        "url": "https://sports.yahoo.com/articles/jedd-fisch-addresses-uw-offensive-010221351.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/95810a068fd0941f58eb70154780ef8c46de9f406996bd22e919ec8f6edeb2f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Fc1199ee8f05b2bb1548ffaa5cf2cc1cf.jpg",
+        "date": "2026-09-15",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des talents sportifs (NCAA)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Sponsoring et partenariats locaux",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des talents sportifs (NCAA)",
+            "secteur_en": "College sports talent market (NCAA)",
+            "secteur_zh": "大学体育人才市场（NCAA）",
+            "effet_fr": "La stratégie offensive pourrait attirer des joueurs polyvalents mais limiter les opportunités pour les spécialistes des passes aériennes.",
+            "effet_en": "The offensive strategy may attract versatile players but limit opportunities for passing specialists.",
+            "effet_zh": "进攻战术可能吸引多面手球员，但限制了空中传球专家的机会。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Sponsoring et partenariats locaux",
+            "secteur_en": "Local sponsorship and partnerships",
+            "secteur_zh": "当地赞助和合作伙伴关系",
+            "effet_fr": "Les sponsors pourraient réduire leurs investissements si les résultats sportifs ne suivent pas les attentes liées à cette nouvelle approche tactique.",
+            "effet_en": "Sponsors may reduce investments if sports results fail to meet expectations tied to this tactical shift.",
+            "effet_zh": "如果运动成绩未能满足与战术转变相关的预期，赞助商可能减少投资。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-16T01:07:21.566905"
+      },
       {
         "id": "usa_469457",
         "titre": "Carney vante le Canada comme partenaire fiable",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-09-09T08:39:34.779066"
-      },
-      {
-        "id": "usa_739690",
-        "titre": "Iran recalibre sa posture face aux bases américaines",
-        "titre_en": "Iran recalibrates stance toward US bases",
-        "titre_zh": "伊朗调整对美军基地的态度",
-        "titre_ru": "Иран пересматривает позицию по американским кораблям и базам",
-        "titre_fa": "ایران موضع خود نسبت به کشتی‌های و پایگاه‌های آمریکایی را بازنگری می‌کند",
-        "titre_ar": "إيران تعدل موقفها تجاه السفن والقواعد الأمريكية",
-        "titre_original": "Iran says posture toward US warships, bases recalibrated",
-        "resume": "Un conseiller proche du guide suprême iranien, Moshen Rezaee, annonce un réajustement opérationnel envers les navires et bases américaines. Cette déclaration suit des tensions persistantes dans la région. Les risques d’escalade militaire restent élevés malgré les déclarations de modération.",
-        "resume_en": "Iran’s Supreme Leader’s advisor, Moshen Rezaee, says Tehran has ‘fundamentally recalibrated’ its operational posture toward US warships and bases, warning of further measures. Tensions in the region persist amid heightened risks of military escalation.",
-        "resume_zh": "伊朗最高领袖顾问莫申·雷扎伊宣布，伊朗对美军舰艇和基地的“操作姿态”发生根本性调整，警告将采取进一步措施。地区紧张局势持续升级，军事升级风险加大。",
-        "resume_ru": "Близкий советник верховного лидера Ирана Мошен Резаи заявил, что Тегеран кардинально изменил операционную позицию в отношении американских военных объектов. Он предупредил о возможных дальнейших мерах в ответ на действия США. Это может означать усиление напряженности в регионе Персидского залива. Такое заявление вызвало обеспокоенность в Вашингтоне и среди союзников США в регионе.",
-        "resume_fa": "موشن رضائی، مشاور نزدیک رهبر عالی ایران، گفت که تهران «به‌طور بنیادی» موضع عملی خود نسبت به کشتی‌های و پایگاه‌های نظامی آمریکا را تغییر داده است. او از اقدامات بیشتر در پاسخ به اقدامات آمریکا هشدار داد. این ممکن است به افزایش تنش در منطقه خلیج فارس منجر شود. این اعلامیه نگرانی در واشنگتن و میان متحدان آمریکا در منطقه ایجاد کرده است.",
-        "resume_ar": "أعلن مستشار قريب لقيادة إيران العليا، موشن رضاوي، أن طهران «تعدّل بشكل أساسي» موقفها التشغيلي تجاه السفن والقواعد العسكرية الأمريكية. حذّر من اتخاذ إجراءات إضافية رداً على إجراءات الولايات المتحدة. هذا قد يؤدي إلى زيادة التوتر في منطقة الخليج العربي. هذا الإعلان أثار قلق في واشنطن ومن بين الحلفاء الأمريكيين في المنطقة.",
-        "analyse_detaillee": "Cette annonce s’inscrit dans un contexte de tensions géopolitiques chroniques entre l’Iran et les États-Unis depuis la révolution islamique de 1979. Les enjeux actuels incluent la stabilité régionale, notamment après les attaques contre des navires pétroliers en 2019 et les tensions autour du nucléaire. Les causes profondes sont liées à la politique d’isolement imposée par les sanctions américaines et à la rhétorique belliciste des deux camps. À court terme, cela pourrait provoquer des représailles américaines ou une escalade dans le Golfe. À moyen terme, cela pourrait affaiblir les efforts diplomatiques en cours, comme les négociations sur le nucléaire. Long terme, cela renforce la fragmentation géopolitique de la région et pourrait accélérer une course aux armements.",
-        "analyse_en": "This statement follows decades of geopolitical tensions between Iran and the US since the 1979 Islamic Revolution. Current stakes include regional stability, particularly after 2019 attacks on oil tankers and nuclear tensions. Root causes stem from US sanctions and belligerent rhetoric. Short-term, this may trigger US retaliation or Gulf escalation. Medium-term, it could undermine ongoing diplomatic efforts, like nuclear negotiations. Long-term, it deepens regional geopolitical fragmentation and may accelerate an arms race.",
-        "analyse_zh": "这一声明源于伊朗伊斯兰革命以来与美国长达数十年的地缘政治紧张关系。当前的影响包括地区稳定性，特别是2019年石油轮袭击事件和核问题后的紧张局势。深层原因包括美国实施的制裁和双方的战争言论。短期内，这可能导致美国报复或波斯湾升级。中期内，它可能破坏正在进行的外交努力，如核谈判。长期来看，这加剧了地区地缘政治分裂，可能加速军备竞赛。",
-        "analyse_ru": "Заявление Ирана о пересмотре позиции по отношению к американским военным объектам является логическим ответом на эскалацию напряженности в регионе, включая действия США в Персидском заливе. Это может быть реакцией на новые санкции или военные маневры, которые Тегеран считает угрозой своей безопасности. В то же время, такое заявление может спровоцировать цепочку ответных мер со стороны США и их союзников, что усугубит ситуацию. Контекст также включает геополитические интересы Ирана в регионе и стремление укрепить свою позицию перед лицом давления. США и их союзники, вероятно, будут искать дипломатические пути для деэскалации, но риск военного конфликта остается высоким.",
-        "analyse_fa": "اعلان ایران در مورد بازنگری موضع نسبت به پایگاه‌های نظامی آمریکا در پاسخ به افزایش تنش در منطقه، شامل اقدامات ایالات متحده در خلیج فارس، منطقی است. این ممکن است به عنوان واکنش به تحریم‌های جدید یا تمرینات نظامی باشد که تهران آن را تهدید برای امنیت خود می‌داند. با این حال، این اعلامیه می‌تواند باعث ایجاد زنجیره‌ای از اقدامات پاسخگویی از سوی ایالات متحده و متحدان آن شود که وضعیت را بدتر می‌کند. زمینه این موضوع شامل منافع ژئوپولیتیکی ایران در منطقه و تلاش برای تقویت موقعیت خود در برابر فشار است. ایالات متحده و متحدان آن احتمالاً به دنبال راه‌های دیپلماتیک برای کاهش تنش هستند، اما خطر درگیری نظامی همچنان بالا است.",
-        "analyse_ar": "إعلان إيران عن تعديل موقفها تجاه القواعد العسكرية الأمريكية هو رد منطقي على تصعيد التوتر في المنطقة، بما في ذلك إجراءات الولايات المتحدة في الخليج العربي. قد يكون رداً على العقوبات الجديدة أو تمارين عسكرية تعتبرها طهران تهديداً لسلامتها. ومع ذلك، قد يؤدي هذا الإعلان إلى سلسلة من الإجراءات المضادة من قبل الولايات المتحدة وحلفائها، مما سيشدد الوضع. السياق يشمل المصالح الجيوسياسية لإيران في المنطقة والحرص على تعزيز موقعها أمام الضغط. ستبحث الولايات المتحدة وحلفاؤها عن طرق دبلوماسية لتقليل التوتر، لكن خطر الصراع العسكري لا يزال مرتفعاً.",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4090d3b275909285",
-        "image": "https://biztoc.com/cdn/4090d3b275909285_s.webp",
-        "date": "2026-09-07",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier et sanctions financières",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurance maritime et transport de pétrole",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier et sanctions financières",
-            "secteur_en": "Oil market and financial sanctions",
-            "secteur_zh": "石油市场和金融制裁",
-            "effet_fr": "Les tensions accrues pourraient perturber les prix du pétrole et renforcer les pressions sur les banques internationales évitant les transactions avec l’Iran.",
-            "effet_en": "Escalating tensions may disrupt oil prices and increase pressure on international banks avoiding Iranian transactions.",
-            "effet_zh": "升级的紧张局势可能扰乱石油价格，并加大对避免与伊朗交易的国际银行的压力。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurance maritime et transport de pétrole",
-            "secteur_en": "Maritime insurance and oil transport",
-            "secteur_zh": "海运保险和石油运输",
-            "effet_fr": "Les risques accrus pourraient entraîner une hausse des primes d’assurance pour les navires naviguant dans le Golfe ou transportant du pétrole iranien.",
-            "effet_en": "Increased risks may lead to higher insurance premiums for ships navigating the Gulf or carrying Iranian oil.",
-            "effet_zh": "加大的风险可能导致在波斯湾航行或运输伊朗石油的船舶保险费用上涨。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-08T23:51:52.763013"
       }
     ],
     "chine": [
@@ -3710,6 +3710,65 @@
     ],
     "russie": [
       {
+        "id": "russie_464952",
+        "titre": "Perspectives militaires ukrainiennes s’assombrissent face aux pénuries",
+        "titre_en": "Ukraine’s war outlook darkens amid shortages",
+        "titre_zh": "乌克兰战争前景因短缺变得暗淡",
+        "titre_ru": "Ukraine's war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+        "titre_fa": "Ukraine's war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+        "titre_ar": "Ukraine's war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+        "titre_original": "Ukraine's war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+        "resume": "Kyiv fait face à une crise multidimensionnelle : pénuries budgétaires, supériorité aérienne russe et corruption interne aggravent sa capacité à résister. Les allégations de détournements et les divisions politiques affaiblissent davantage la cohésion nationale. Cette situation critique interroge sur la durabilité de la résistance ukrainienne face à une Russie mieux équipée.",
+        "resume_en": "Kyiv faces a multidimensional crisis: budget shortages, Russian air superiority, and internal corruption undermine its resistance capacity. Allegations of embezzlement and political divisions further weaken national cohesion. This critical situation questions Ukraine’s ability to sustain resistance against better-equipped Russia.",
+        "resume_zh": "基辅面临多重危机：预算短缺、俄罗斯空中优势和内部腐败削弱了其抵抗能力。挪用资金和政治分裂进一步削弱了民族凝聚力。这种严峻局面质疑乌克兰在面对装备更好的俄罗斯时维持抵抗的能力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Depuis 2014, l’Ukraine dépend des aides occidentales pour son effort de guerre, créant une vulnérabilité structurelle face à des sanctions russes asymétriques. Les causes profondes incluent une économie en ruine, une bureaucratie corrompue et une dépendance aux livraisons d’armes occidentales, souvent retardées. À court terme, les pénuries de munitions et de fonds pourraient forcer Kyiv à négocier ou à recourir à des alliances non conventionnelles. À moyen terme, une fragmentation politique pourrait accélérer la chute du gouvernement Zelensky, tandis que la Russie pourrait exploiter ces faiblesses pour des offensives ciblées. Long terme, une défaite ukrainienne ouvrirait la voie à une réintégration forcée dans l’orbite russe, avec des conséquences géopolitiques majeures pour l’OTAN et l’UE. Les acteurs clés sont la Russie, l’OTAN (via les livraisons d’armes), et les élites ukrainiennes divisées.",
+        "analyse_en": "Since 2014, Ukraine has relied on Western aid for its war effort, creating structural vulnerability to asymmetric Russian sanctions. Root causes include a devastated economy, a corrupt bureaucracy, and dependence on delayed Western arms deliveries. Short-term, ammunition and funding shortages may force Kyiv into negotiations or unconventional alliances. Medium-term, political fragmentation could accelerate Zelensky’s government collapse, while Russia could exploit weaknesses for targeted offensives. Long-term, a Ukrainian defeat could lead to forced reintegration into Russia’s sphere, with major geopolitical consequences for NATO and the EU. Key actors include Russia, NATO (via arms deliveries), and divided Ukrainian elites.",
+        "analyse_zh": "自2014年以来，乌克兰依赖西方援助进行战争，在面对俄罗斯不对称制裁时结构性脆弱。深层原因包括经济破产、腐败的官僚体系和对西方武器延误交付的依赖。短期内，弹药和资金短缺可能迫使基辅进行谈判或寻求非传统盟友。中期内，政治分裂可能加速泽连斯基政府垮台，而俄罗斯可能利用这些弱点发动针对性进攻。长期来看，乌克兰的失败可能导致其被强行纳入俄罗斯势力范围，对北约和欧盟产生重大地缘政治影响。主要利益相关者包括俄罗斯、北约（通过武器交付）和分裂的乌克兰精英。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4395537/posts",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-09-15",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Secteur financier et gestion des fonds d’urgence",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des cryptomonnaies et sanctions internationales",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur financier et gestion des fonds d’urgence",
+            "secteur_en": "Financial sector and emergency fund management",
+            "secteur_zh": "金融部门和紧急基金管理",
+            "effet_fr": "Les pénuries budgétaires pourraient entraîner un gel des dépenses militaires et une dépendance accrue aux prêts internationaux à taux élevés.",
+            "effet_en": "Budget shortages may freeze military spending and increase reliance on high-interest international loans.",
+            "effet_zh": "预算短缺可能冻结军事开支并增加对高息国际贷款的依赖。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des cryptomonnaies et sanctions internationales",
+            "secteur_en": "Cryptocurrency markets and international sanctions",
+            "secteur_zh": "加密货币市场和国际制裁",
+            "effet_fr": "Les sanctions pourraient isoler l’Ukraine des échanges financiers traditionnels, poussant vers une adoption accrue des cryptos pour contourner les restrictions.",
+            "effet_en": "Sanctions may isolate Ukraine from traditional financial exchanges, pushing toward increased crypto adoption to bypass restrictions.",
+            "effet_zh": "制裁可能将乌克兰排除在传统金融交易之外，推动其增加加密货币采用以绕过限制。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-16T01:07:21.566914"
+      },
+      {
         "id": "russie_422530",
         "titre": "Procureur ukrainien quitte le pays sous tension",
         "titre_en": "Ukraine’s prosecutor flees amid corruption crisis",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-07T21:59:41.799078"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_186425",
-        "titre": "Kennedy flatte Kristen Welker en comparant à Chuck Todd lors d’un échange tendu",
-        "titre_en": "Kennedy praises Welker over Chuck Todd in tense exchange",
-        "titre_zh": "肯尼迪在紧张交锋中称赞韦尔克胜过查克·托德",
-        "titre_ru": "Сенатор Кеннеди: «Я предпочитаю Кристен Уелкер Чакку Тодду!» — неловкий момент на пресс-конференции",
-        "titre_fa": "سناتور کنیدی: «من کریستن ولکر را به چاک تاد ترجیح می‌دهم!» لحظه ناخوشایندی در مصاحبه مطبوعاتی",
-        "titre_ar": "السيناتور كينيدي: «أفضل من تشاك تود!» لحظة غير مريحة في مقابلة صحفية",
-        "titre_original": "‘I Like You Better Than Chuck Todd!’ GOP Senator Needles Meet the Press Host in Awkward Moment",
-        "resume": "Le sénateur républicain John Kennedy a complimenté la présentatrice de *Meet the Press*, Kristen Welker, en la comparant favorablement à son prédécesseur Chuck Todd. Cet échange, perçu comme une provocation, illustre les tensions croissantes entre les médias et les figures politiques conservatrices. La scène reflète une stratégie de communication agressive au sein du Parti républicain.",
-        "resume_en": "Republican Senator John Kennedy praised *Meet the Press* host Kristen Welker, comparing her favorably to her predecessor Chuck Todd. The exchange, seen as a provocation, highlights growing tensions between media and conservative political figures. The scene reflects an aggressive communication strategy within the GOP.",
-        "resume_zh": "共和党参议员约翰·肯尼迪在《面对美国》节目中称赞主持人克里斯汀·韦尔克，并将其与前任查克·托德相比。这一交锋被视为挑衅，反映了媒体与保守派政治人物之间日益紧张的关系。这一场景展示了共和党内部激进的传播策略。",
-        "resume_ru": "Сенатор от Республиканской партии Джон Кеннеди в неловкой ситуации на шоу «Встреча с прессой» сказал ведущей Кристен Уелкер, что предпочитает её своему предшественнику Чакку Тодду. Это стало неожиданным и вызвало смешанные реакции у зрителей. Такие моменты часто становятся предметом обсуждения в СМИ и социальных сетях. Они могут отражать как личные предпочтения, так и политическую тактику.",
-        "resume_fa": "جون کنیدی، سناتور حزب جمهوری‌خواه، در لحظه‌ای ناخوشایند در برنامه «مصاحبه با مطبوعات» به کریستن ولکر گفت که او را به چاک تاد ترجیح می‌دهد. این جمله ناگهانی و واکنش‌های مختلط بین تماشاگران ایجاد کرد. چنین لحظه‌هایی اغلب موضوع بحث در رسانه‌ها و شبکه‌های اجتماعی هستند. این می‌تواند نشان‌دهنده ترجیحات شخصی یا تاکتیک سیاسی باشد.",
-        "resume_ar": "قال السناتور الجمهوري جون كينيدي في لحظة غير مريحة في برنامج «مقابلات مع الصحافة» للمستضيفة كريستن ويلكر إنه يفضلها على سلفها تشاك تود. هذا التعليق مفاجئ وأثار ردود فعل مختلطة بين المشاهدين. غالبًا ما تصبح هذه اللحظات موضوع نقاش في وسائل الإعلام ومواقع التواصل الاجتماعي. قد تعكس هذه اللحظات إما تفضيلات شخصية أو استراتيجية سياسية.",
-        "analyse_detaillee": "Cet incident s’inscrit dans une dynamique historique de conflits entre médias et politiques aux États-Unis, comme sous Reagan ou Trump. Les enjeux actuels concernent le contrôle du récit médiatique et la légitimité des institutions démocratiques. Les causes profondes incluent la polarisation idéologique et la défiance croissante envers les médias traditionnels. À court terme, cela pourrait renforcer les divisions au sein du Parti républicain et alimenter les débats sur la neutralité médiatique. À moyen terme, cela pourrait influencer les stratégies de communication des candidats républicains en 2024. Long terme, cela menace la crédibilité des médias et pourrait accélérer la fragmentation de l’espace public.",
-        "analyse_en": "This incident fits a historical pattern of media-politics conflicts in the US, from Reagan to Trump. Current stakes involve narrative control and democratic legitimacy. Root causes include ideological polarization and growing distrust of traditional media. Short-term, this may deepen GOP divisions and fuel debates on media neutrality. Medium-term, it could shape Republican 2024 candidates’ communication strategies. Long-term, it threatens media credibility and accelerates public space fragmentation.",
-        "analyse_zh": "这一事件符合美国媒体与政治冲突的历史模式，从里根到特朗普。当前的主要影响在于叙事控制和民主合法性。深层原因包括意识形态极化和对传统媒体日益增长的不信任。短期内，这可能加剧共和党内部分裂，并引发关于媒体中立性的辩论。中期内，这将影响2024年共和党候选人的传播策略。长期来看，这威胁到媒体的可信度，并加速公共空间的分裂。",
-        "analyse_ru": "Заявление Кеннеди может быть интерпретировано как попытка подчеркнуть свои симпатии к более мягкому стилю ведущей по сравнению с Чаком Тоддом, известным своим критическим подходом. Это может быть частью стратегии привлечения внимания к себе или демонстрации личной позиции. Однако такие комментарии часто воспринимаются как неуважение к коллегам и могут вызвать негативную реакцию у аудитории. В политическом контексте это может быть использовано как инструмент для манипуляции общественным мнением. С другой стороны, это может быть просто неосторожное высказывание, не имеющее глубокого смысла.",
-        "analyse_fa": "اعلامیه کنیدی می‌تواند به عنوان تلاش برای برجسته کردن علاقه‌اش به سبک نرم‌تر مجری در مقایسه با چاک تاد، که با رویکرد انتقادی شناخته می‌شود، تفسیر شود. این ممکن است بخشی از استراتژی جلب توجه به خود یا نمایش موضع شخصی باشد. اما چنین اظهار نظرهایی اغلب به عنوان عدم احترام به همکاران تلقی می‌شوند و می‌توانند واکنش منفی از سوی مخاطبان ایجاد کنند. در زمینه سیاسی، این می‌تواند به عنوان ابزار برای کنترل نظر عمومی استفاده شود. از سوی دیگر، این ممکن است فقط یک اظهار نظر بی‌معنی و بی‌درنگ باشد.",
-        "analyse_ar": "قد يُفسر بيان كينيدي على أنه محاولة لتأكيد تفضيله لسلوك أكثر لينًا لدى المضيفة مقارنة بتشاك تود، المعروف بمداخلة نقدية. قد يكون هذا جزءًا من استراتيجية لجذب الانتباه إليه أو عرض موقف شخصي. ومع ذلك، غالبًا ما يُفهم هذا النوع من التعليقات على أنها عدم الاحترام للزملاء وقد يثير ردود فعل سلبية من قبل الجمهور. في السياق السياسي، قد يُستخدم هذا كأداة للتحكم في الرأي العام. من ناحية أخرى، قد يكون هذا مجرد تعليق غير محسوب أو غير مدروس.",
-        "categorie": "Médias et politique",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/tv/i-like-you-better-than-chuck-todd-gop-senator-needles-meet-the-press-host-in-awkward-moment/",
-        "image": "https://www.mediaite.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-2-28-36-PM-scaled.jpg",
-        "date": "2026-09-06",
-        "pays": "russie",
+        "id": "iran_795056",
+        "titre": "DOJ américain réclame la saisie de 61M$ en crypto liés au pétrole iranien",
+        "titre_en": "US DOJ seeks forfeiture of $61M in crypto tied to Iranian oil",
+        "titre_zh": "美司法部要求没收与伊朗石油相关的6100万美元加密货币",
+        "titre_ru": "US DOJ seeks forfeiture of $61M in crypto tied to Iranian oil sales laundered through Binance accounts",
+        "titre_fa": "US DOJ seeks forfeiture of $61M in crypto tied to Iranian oil sales laundered through Binance accounts",
+        "titre_ar": "US DOJ seeks forfeiture of $61M in crypto tied to Iranian oil sales laundered through Binance accounts",
+        "titre_original": "US DOJ seeks forfeiture of $61M in crypto tied to Iranian oil sales laundered through Binance accounts",
+        "resume": "Le département de la Justice américain cible des comptes Binance liés à des transactions de pétrole iranien, accusant Téhéran de contourner les sanctions via des plateformes crypto. Cette action reflète une pression croissante sur les échanges décentralisés pour se conformer aux réglementations internationales. Le cas illustre les défis persistants dans l’application des sanctions économiques contre l’Iran.",
+        "resume_en": "The US Department of Justice targets Binance accounts linked to Iranian oil transactions, accusing Tehran of evading sanctions via crypto platforms. This action highlights growing pressure on decentralized exchanges to comply with international regulations. The case underscores persistent challenges in enforcing economic sanctions against Iran.",
+        "resume_zh": "美国司法部针对与伊朗石油交易相关的比特币钱包发起行动，指控德黑兰通过加密货币平台规避制裁。这一行动反映了对去中心化交易所遵守国际法规的日益压力。此案例突显了在对伊朗实施经济制裁时面临的持续挑战。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Depuis 2018, les sanctions américaines contre l’Iran ont poussé Téhéran à diversifier ses canaux de financement, notamment via le commerce illicite de pétrole et les cryptomonnaies. Les causes profondes incluent une économie sous pression, une monnaie locale dévaluée et un système bancaire isolé. À court terme, cette saisie pourrait affaiblir les réseaux de contrebande et réduire les revenus du régime, mais aussi accélérer l’adoption de cryptos par des acteurs malveillants. À moyen terme, les plateformes comme Binance pourraient durcir leurs politiques KYC pour éviter des amendes, tandis que l’Iran cherchera des alternatives via des cryptos plus obscures. Long terme, cette escalade pourrait normaliser l’utilisation des cryptos pour les transactions internationales illicites, rendant les sanctions encore plus difficiles à appliquer. Les acteurs clés sont le DOJ américain, Binance (sous pression réglementaire), et les réseaux iraniens de contrebande.",
+        "analyse_en": "Since 2018, US sanctions against Iran have pushed Tehran to diversify financing channels, including illicit oil trade and cryptocurrencies. Root causes include a pressured economy, devalued local currency, and isolated banking system. Short-term, this forfeiture may weaken smuggling networks and reduce regime revenues but also accelerate crypto adoption by malicious actors. Medium-term, platforms like Binance may tighten KYC policies to avoid fines, while Iran seeks alternatives via more obscure cryptos. Long-term, this escalation could normalize crypto use for illicit international transactions, making sanctions even harder to enforce. Key actors include the US DOJ, Binance (under regulatory pressure), and Iranian smuggling networks.",
+        "analyse_zh": "自2018年以来，美国对伊朗的制裁迫使德黑兰多元化融资渠道，特别是通过非法石油贸易和加密货币。深层原因包括经济压力、本币贬值和隔离的银行体系。短期内，这次没收可能削弱走私网络并减少政权收入，但也会加速恶意行为者采用加密货币。中期内，像比特币这样的平台可能会加强KYC政策以避免罚款，而伊朗则会寻找更隐蔽的加密货币替代品。长期来看，这种升级可能使加密货币成为非法国际交易的常态，使制裁更难实施。主要利益相关者包括美国司法部、面临监管压力的比特币、以及伊朗的走私网络。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/doj-forfeiture-iran-oil-binance-laundering/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/14203538/library-us-doj-seeks-forfeiture-of-61m-in-crypto-tied-to-iranian-800x450.png",
+        "date": "2026-09-15",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Publicité politique (réseaux sociaux)",
-            "hausse": true
+            "label": "▼ Plateformes d’échange de cryptomonnaies (Binance)",
+            "hausse": false
           },
           {
-            "label": "▼ Financement des médias indépendants",
+            "label": "▼ Système bancaire international et sanctions économiques",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Publicité politique (réseaux sociaux)",
-            "secteur_en": "Political advertising (social media)",
-            "secteur_zh": "政治广告（社交媒体）",
-            "effet_fr": "Les stratégies de communication agressive comme celle de Kennedy pourraient augmenter les dépenses publicitaires ciblées sur les plateformes comme Truth Social ou X, marginalisant les médias traditionnels.",
-            "effet_en": "Aggressive tactics like Kennedy’s may boost targeted ad spending on platforms like Truth Social or X, sidelining traditional media.",
-            "effet_zh": "类似肯尼迪的激进传播策略可能增加在Truth Social或X等平台上的定向广告支出，边缘化传统媒体。",
-            "hausse": true
+            "secteur_fr": "Plateformes d’échange de cryptomonnaies (Binance)",
+            "secteur_en": "Cryptocurrency exchange platforms (Binance)",
+            "secteur_zh": "加密货币交易平台（比特币）",
+            "effet_fr": "Binance pourrait subir des amendes massives et voir sa réputation internationale ternie, poussant à une surveillance accrue des transactions suspectes.",
+            "effet_en": "Binance may face massive fines and international reputational damage, pushing for stricter scrutiny of suspicious transactions.",
+            "effet_zh": "比特币可能面临巨额罚款和国际声誉损害，推动对可疑交易的更严格监管。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Financement des médias indépendants",
-            "secteur_en": "Funding for independent media",
-            "secteur_zh": "独立媒体的资金支持",
-            "effet_fr": "La polarisation médiatique pourrait réduire les dons et partenariats pour les médias indépendants, les forçant à dépendre davantage de sources alternatives ou à adopter des positions plus partisanes.",
-            "effet_en": "Media polarization may shrink donations and partnerships for independent outlets, forcing them to rely on alternative funding or adopt partisan stances.",
-            "effet_zh": "媒体极化可能减少对独立媒体的捐款和合作，迫使它们依赖替代资金来源或采取更具党派性的立场。",
+            "secteur_fr": "Système bancaire international et sanctions économiques",
+            "secteur_en": "International banking system and economic sanctions",
+            "secteur_zh": "国际银行体系和经济制裁",
+            "effet_fr": "Les banques pourraient renforcer leurs filtres anti-blanchiment, compliquant les transactions légales pour les acteurs iraniens et internationaux.",
+            "effet_en": "Banks may tighten AML filters, complicating legal transactions for Iranian and international actors.",
+            "effet_zh": "银行可能加强反洗钱过滤，使伊朗和国际行为者的合法交易更加复杂。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-07T19:01:20.207532"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-16T01:07:21.566921"
+      },
       {
         "id": "iran_184617",
         "titre": "États-Unis rejettent allégation IRGC sur attaque de pétrolier",
@@ -6011,129 +6070,10 @@
           }
         ],
         "created_at": "2026-09-07T19:01:20.207522"
-      },
-      {
-        "id": "iran_258849",
-        "titre": "Hegseth suspecte de paranoïa sur fuites Pentagon",
-        "titre_en": "Hegseth accused of paranoia over Pentagon leaks",
-        "titre_zh": "赫格塞特疑似对五角大楼泄密过度警惕",
-        "titre_ru": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
-        "titre_fa": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
-        "titre_ar": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
-        "titre_original": "Pete Hegseth Is So Paranoid He’s Polygraphing The Pentagon",
-        "resume": "Pete Hegseth, figure conservatrice américaine, fait l’objet de polémiques après des tests de détection de mensonges menés en août sur des personnels militaires et civils. Les enquêteurs ciblent particulièrement les fuites liées à la guerre en Iran. Ses méthodes sont jugées excessives par certains observateurs.",
-        "resume_en": "Conservative figure Pete Hegseth faces controversy after August lie detector tests on military and civilian personnel. Investigators focus on leaks related to the Iran war. His methods are deemed excessive by some observers.",
-        "resume_zh": "美国保守派人物彼得·赫格塞特因八月对军事和文职人员进行的谎言测试而引发争议。调查人员主要关注与伊朗战争相关的泄密事件。一些观察者认为他的方法过于极端。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Les polémiques autour des tests de polygraphe rappellent les tensions persistantes entre transparence et sécurité nationale aux États-Unis. Hegseth incarne une frange de la droite américaine prônant une approche sécuritaire radicale, souvent perçue comme contre-productive. Les fuites sur la guerre en Iran révèlent des divisions internes au Pentagone et une méfiance croissante envers les médias. Court terme, cela pourrait renforcer les contrôles d’accès et les audits internes. À moyen terme, cela pourrait fragiliser la confiance dans les institutions militaires. Long terme, cela illustre un climat politique de défiance généralisée. Les acteurs incluent le Pentagone (pression interne), les médias (débats sur la désinformation) et l’opposition politique (critiques sur les méthodes).",
-        "analyse_en": "Controversies over lie detector tests echo persistent U.S. tensions between transparency and national security. Hegseth embodies a hardline right-wing faction advocating radical security measures, often seen as counterproductive. Leaks on the Iran war expose internal Pentagon divisions and growing distrust of media. Short-term, this may tighten access controls and internal audits. Medium-term, it could erode trust in military institutions. Long-term, it reflects a climate of generalized political distrust. Key actors include the Pentagon (internal pressure), media (debates on disinformation), and political opposition (critiques on methods).",
-        "analyse_zh": "关于谎言测试的争议反映了美国在国家安全与透明度之间长期存在的紧张关系。赫格塞特代表美国右翼极端派别，主张激进的安全措施，常被视为反效果。关于伊朗战争的泄密揭示了五角大楼内部的分裂和对媒体日益增长的不信任。短期内，这可能加强入场控制和内部审计。中期内，可能削弱对军事机构的信任。长期来看，这反映了政治普遍的不信任氛围。关键利益相关者包括五角大楼（内部压力）、媒体（关于虚假信息的辩论）和政治反对派（对方法的批评）。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Crooksandliars.com",
-        "url": "https://crooksandliars.com/2026/09/pete-hegseth-so-paranoid-he-s-polygraphing",
-        "image": "https://crooksandliars.com/files/primary_image/26/09/54605970351_296eb0177b_k_2.jpg",
-        "date": "2026-09-06",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Sécurité nationale et renseignement (DHS, NSA)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Médias et communication gouvernementale",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sécurité nationale et renseignement (DHS, NSA)",
-            "secteur_en": "National security and intelligence (DHS, NSA)",
-            "secteur_zh": "国家安全与情报（国土安全部、国家安全局）",
-            "effet_fr": "Les tests de détection de mensonges pourraient intensifier les contrôles sur les employés sensibles, augmentant les coûts administratifs et réduisant la productivité.",
-            "effet_en": "Lie detector tests may heighten scrutiny of sensitive personnel, increasing administrative costs and reducing productivity.",
-            "effet_zh": "谎言测试可能加强对敏感人员的监控，增加行政成本并降低生产力。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Médias et communication gouvernementale",
-            "secteur_en": "Media and government communications",
-            "secteur_zh": "媒体和政府传播",
-            "effet_fr": "Les accusations de paranoïa pourraient alimenter les débats sur la désinformation et la crédibilité des sources officielles, affectant la confiance publique.",
-            "effet_en": "Accusations of paranoia may fuel debates on disinformation and the credibility of official sources, impacting public trust.",
-            "effet_zh": "疑似过度警惕的指控可能助长关于虚假信息和官方信源可信度的辩论，影响公众信任。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-07T14:49:33.077415"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_env_89404",
-      "titre": "Gouvernement cède aux lobbies sur pesticides",
-      "titre_en": "Government yields to agribusiness on pesticides",
-      "titre_zh": "政府屈服农业巨头化肥污染",
-      "titre_ru": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
-      "titre_fa": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
-      "titre_ar": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
-      "titre_original": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
-      "resume": "Un document de *Mediapart* révèle que le gouvernement français envisage de limiter à 2 000 les captages d’eau prioritaires pour les pesticides, contre 6 000 à 7 000 auparavant. Cette décision, critiquée comme un recul écologique, répond aux pressions de l’agro-industrie. Elle s’inscrit dans un contexte de tensions entre protection de l’environnement et intérêts économiques agricoles.",
-      "resume_en": "A *Mediapart* document shows France’s government plans to restrict pesticide-polluted water sources to 2,000 priority sites, down from 6,000–7,000. The move, criticized as an environmental retreat, aligns with agribusiness lobbying. It reflects ongoing clashes between environmental protection and agricultural economic interests.",
-      "resume_zh": "《梅迪帕尔》文件显示，法国政府计划将受化肥污染的水源优先保护名单缩减至2000处，较之前的6000-7000处大幅削减。此举遭环保人士批评为退步，实质上是向农业巨头妥协。这反映了环保与农业经济利益之间的长期冲突。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France a historiquement oscillé entre réglementation stricte et concessions aux lobbies agricoles, comme en témoignent les débats sur le glyphosate ou les nitrates. Ce recul sur les pesticides révèle une priorité donnée aux intérêts économiques à court terme, malgré les engagements climatiques internationaux. Les causes profondes incluent la dépendance à un modèle agricole intensif et l’influence croissante des multinationales agrochimiques. À court terme, cette décision affaiblit la qualité de l’eau potable et expose les consommateurs à des risques sanitaires accrus. À moyen terme, elle pourrait aggraver les conflits juridiques avec l’UE et les ONG environnementales. Long terme, elle risque de creuser l’écart avec les pays européens les plus stricts, comme l’Allemagne ou les Pays-Bas. Les acteurs clés sont divisés : l’agro-industrie célèbre un « compromis », tandis que les écologistes dénoncent une « trahison écologique » et les collectivités locales craignent des coûts sanitaires et juridiques accrus.",
-      "analyse_en": "France has long oscillated between strict regulations and concessions to agricultural lobbies, as seen in glyphosate debates or nitrate policies. This pesticide retreat prioritizes short-term economic interests over climate commitments. Root causes include reliance on intensive farming and the growing influence of agrochemical multinationals. Short-term, it weakens drinking water quality and exposes consumers to health risks. Medium-term, it may escalate legal conflicts with the EU and environmental NGOs. Long-term, it risks widening the gap with stricter European countries like Germany or the Netherlands. Key actors are divided: agribusiness celebrates a ‘compromise’, while environmentalists denounce an ‘ecological betrayal’, and local authorities fear rising health and legal costs.",
-      "analyse_zh": "法国在农药法规上长期在严格监管与农业利益集团妥协之间摇摆，如除草剂和硝酸盐争议所展现。此次化肥污染退步优先经济利益，与国际气候承诺背道而驰。深层原因包括对集约化农业的依赖以及农药巨头的影响力扩张。短期内，这将削弱饮用水质量，增加消费者健康风险。中期内，可能引发与欧盟和环保组织的法律冲突加剧。长期来看，法国可能与德国、荷兰等更严格的欧洲国家在环保标准上拉开差距。关键利益相关者立场分化：农业巨头称这是‘妥协’，环保人士指责为‘背叛生态’，而地方政府则担忧医疗和法律成本上升。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Mediapart",
-      "url": "https://www.mediapart.fr/journal/ecologie/140926/pesticides-dans-l-eau-le-gouvernement-cede-aux-demandes-de-l-agro-industrie",
-      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/09/14/260914-img-captage-eau-pesticides-1.jpg",
-      "date": "2026-09-14",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité environnementale",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des eaux embouteillées premium",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient augmenter les primes ou restreindre les couvertures pour les zones agricoles jugées à risque accru en raison de cette décision.",
-          "effet_en": "Insurers may raise premiums or limit coverage for high-risk agricultural areas due to this policy shift.",
-          "effet_zh": "保险公司可能提高农业高风险区的保费或缩减保障范围。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des eaux embouteillées premium",
-          "secteur_en": "Premium bottled water market",
-          "secteur_zh": "高端矿泉水市场",
-          "effet_fr": "Les marques premium pourraient capitaliser sur l’image de « pureté » de leurs produits face à la dégradation de l’eau du robinet, boostant leurs ventes.",
-          "effet_en": "Premium brands may leverage ‘purity’ messaging to drive sales amid tap water quality concerns.",
-          "effet_zh": "高端品牌可能借水质下降推广‘纯净’概念，带动销售增长。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-15T22:54:15.447430",
-      "sous_categorie": "environnement"
-    },
     {
       "id": "pol_femmes_334851",
       "titre": "Bruxelles lance plateforme unique",
@@ -6853,6 +6793,66 @@
       ],
       "created_at": "2026-08-28T21:07:34.166812",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_89404",
+      "titre": "Gouvernement cède aux lobbies sur pesticides",
+      "titre_en": "Government yields to agribusiness on pesticides",
+      "titre_zh": "政府屈服农业巨头化肥污染",
+      "titre_ru": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
+      "titre_fa": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
+      "titre_ar": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
+      "titre_original": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
+      "resume": "Un document de *Mediapart* révèle que le gouvernement français envisage de limiter à 2 000 les captages d’eau prioritaires pour les pesticides, contre 6 000 à 7 000 auparavant. Cette décision, critiquée comme un recul écologique, répond aux pressions de l’agro-industrie. Elle s’inscrit dans un contexte de tensions entre protection de l’environnement et intérêts économiques agricoles.",
+      "resume_en": "A *Mediapart* document shows France’s government plans to restrict pesticide-polluted water sources to 2,000 priority sites, down from 6,000–7,000. The move, criticized as an environmental retreat, aligns with agribusiness lobbying. It reflects ongoing clashes between environmental protection and agricultural economic interests.",
+      "resume_zh": "《梅迪帕尔》文件显示，法国政府计划将受化肥污染的水源优先保护名单缩减至2000处，较之前的6000-7000处大幅削减。此举遭环保人士批评为退步，实质上是向农业巨头妥协。这反映了环保与农业经济利益之间的长期冲突。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France a historiquement oscillé entre réglementation stricte et concessions aux lobbies agricoles, comme en témoignent les débats sur le glyphosate ou les nitrates. Ce recul sur les pesticides révèle une priorité donnée aux intérêts économiques à court terme, malgré les engagements climatiques internationaux. Les causes profondes incluent la dépendance à un modèle agricole intensif et l’influence croissante des multinationales agrochimiques. À court terme, cette décision affaiblit la qualité de l’eau potable et expose les consommateurs à des risques sanitaires accrus. À moyen terme, elle pourrait aggraver les conflits juridiques avec l’UE et les ONG environnementales. Long terme, elle risque de creuser l’écart avec les pays européens les plus stricts, comme l’Allemagne ou les Pays-Bas. Les acteurs clés sont divisés : l’agro-industrie célèbre un « compromis », tandis que les écologistes dénoncent une « trahison écologique » et les collectivités locales craignent des coûts sanitaires et juridiques accrus.",
+      "analyse_en": "France has long oscillated between strict regulations and concessions to agricultural lobbies, as seen in glyphosate debates or nitrate policies. This pesticide retreat prioritizes short-term economic interests over climate commitments. Root causes include reliance on intensive farming and the growing influence of agrochemical multinationals. Short-term, it weakens drinking water quality and exposes consumers to health risks. Medium-term, it may escalate legal conflicts with the EU and environmental NGOs. Long-term, it risks widening the gap with stricter European countries like Germany or the Netherlands. Key actors are divided: agribusiness celebrates a ‘compromise’, while environmentalists denounce an ‘ecological betrayal’, and local authorities fear rising health and legal costs.",
+      "analyse_zh": "法国在农药法规上长期在严格监管与农业利益集团妥协之间摇摆，如除草剂和硝酸盐争议所展现。此次化肥污染退步优先经济利益，与国际气候承诺背道而驰。深层原因包括对集约化农业的依赖以及农药巨头的影响力扩张。短期内，这将削弱饮用水质量，增加消费者健康风险。中期内，可能引发与欧盟和环保组织的法律冲突加剧。长期来看，法国可能与德国、荷兰等更严格的欧洲国家在环保标准上拉开差距。关键利益相关者立场分化：农业巨头称这是‘妥协’，环保人士指责为‘背叛生态’，而地方政府则担忧医疗和法律成本上升。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/ecologie/140926/pesticides-dans-l-eau-le-gouvernement-cede-aux-demandes-de-l-agro-industrie",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/09/14/260914-img-captage-eau-pesticides-1.jpg",
+      "date": "2026-09-14",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité environnementale",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des eaux embouteillées premium",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les assureurs pourraient augmenter les primes ou restreindre les couvertures pour les zones agricoles jugées à risque accru en raison de cette décision.",
+          "effet_en": "Insurers may raise premiums or limit coverage for high-risk agricultural areas due to this policy shift.",
+          "effet_zh": "保险公司可能提高农业高风险区的保费或缩减保障范围。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des eaux embouteillées premium",
+          "secteur_en": "Premium bottled water market",
+          "secteur_zh": "高端矿泉水市场",
+          "effet_fr": "Les marques premium pourraient capitaliser sur l’image de « pureté » de leurs produits face à la dégradation de l’eau du robinet, boostant leurs ventes.",
+          "effet_en": "Premium brands may leverage ‘purity’ messaging to drive sales amid tap water quality concerns.",
+          "effet_zh": "高端品牌可能借水质下降推广‘纯净’概念，带动销售增长。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-15T22:54:15.447430",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_455285",
