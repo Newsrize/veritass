@@ -1,7 +1,66 @@
 {
-  "last_updated": "17/09/2026 à 15h33",
+  "last_updated": "17/09/2026 à 19h34",
   "articles": {
     "monde": [
+      {
+        "id": "monde_985703",
+        "titre": "Étude lie El Niño à hausse des risques de dengue au Kerala",
+        "titre_en": "Study links El Niño to rising dengue risks in Kerala",
+        "titre_zh": "研究称厄尔尼诺加剧印度 Kerala州登革热风险",
+        "titre_ru": "El Niño conditions linked to higher dengue risk in Kerala, IITM study finds",
+        "titre_fa": "El Niño conditions linked to higher dengue risk in Kerala, IITM study finds",
+        "titre_ar": "El Niño conditions linked to higher dengue risk in Kerala, IITM study finds",
+        "titre_original": "El Niño conditions linked to higher dengue risk in Kerala, IITM study finds",
+        "resume": "Une étude de l’IITM à Pune révèle que les conditions d’El Niño, liées au réchauffement des océans, augmentent significativement les risques de dengue dans l’État indien du Kerala. Un modèle d’intelligence artificielle permet désormais de prédire les épidémies jusqu’à cinq mois à l’avance. Les chercheurs alertent sur une hausse continue du risque d’ici 2040 en raison du changement climatique.",
+        "resume_en": "A study by IITM Pune links El Niño-induced ocean warming to higher dengue risks in India’s Kerala state. An AI-driven model predicts outbreaks up to five months ahead, warning of rising risks by 2040 due to climate change.",
+        "resume_zh": "印度普纳印度理工学院研究显示，厄尔尼诺现象导致的海洋升温增加了印度喀拉拉邦登革热的风险。人工智能模型可提前五个月预测疫情爆发，研究人员警告称，由于气候变化，到2040年风险将进一步上升。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le Kerala, déjà vulnérable aux épidémies tropicales, voit son écosystème perturbé par des cycles climatiques extrêmes comme El Niño, aggravés par la déforestation et l’urbanisation chaotique. Les modèles prédictifs, bien que prometteurs, dépendent de données climatiques encore imparfaites, limitant leur fiabilité à long terme. Les conséquences immédiates incluent une pression accrue sur les systèmes de santé locaux, déjà fragiles après la pandémie de COVID-19. À moyen terme, une hausse des coûts sanitaires et des déplacements de populations est prévisible, tandis que les gouvernements régionaux peinent à adapter leurs politiques publiques. D’ici 2040, le réchauffement des océans pourrait étendre la zone de transmission du virus, touchant d’autres États indiens. Les acteurs clés, comme l’Organisation mondiale de la Santé (OMS) et les chercheurs locaux, appellent à une coopération internationale pour renforcer la surveillance épidémiologique, mais les financements restent insuffisants. Les ONG dénoncent l’absence de mesures structurelles pour réduire les émissions de gaz à effet de serre, malgré les alertes scientifiques répétées.",
+        "analyse_en": "Kerala, already prone to tropical epidemics, faces disrupted ecosystems due to extreme climate cycles like El Niño, worsened by deforestation and chaotic urbanization. Predictive models, though promising, rely on imperfect climate data, limiting long-term accuracy. Immediate consequences include increased strain on local healthcare systems, still recovering from COVID-19. Medium-term, rising healthcare costs and population displacements are expected, while regional governments struggle to adapt policies. By 2040, ocean warming may expand the virus transmission zone, affecting other Indian states. Key actors like the WHO and local researchers advocate for international cooperation to enhance epidemiological surveillance, but funding remains inadequate. NGOs criticize the lack of structural measures to cut greenhouse gas emissions despite repeated scientific warnings.",
+        "analyse_zh": "喀拉拉邦作为热带疫病易发区，其生态系统因厄尔尼诺等极端气候循环和混乱的城市化而受到破坏，加剧了森林砍伐的影响。基于人工智能的预测模型虽然前景广阔，但依赖不完善的气候数据，限制了长期的准确性。短期内，当地医疗系统承受巨大压力，尚未从新冠疫情中完全恢复。中期内，医疗成本上升和人口迁移将成为常态，而地区政府难以及时调整政策应对。到2040年，海洋升温可能扩大病毒传播区域，影响印度其他州。世界卫生组织和当地研究人员呼吁国际合作加强流行病监测，但资金仍然短缺。非政府组织批评缺乏减少温室气体排放的结构性措施，尽管科学界多次发出警告。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement/Santé publique",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/pune/el-nio-conditions-linked-to-higher-dengue-risk-in-kerala-iitm-study-finds/articleshow/134296106.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134296105,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-09-16",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurance santé publique (mutuelles et assurances maladie)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des vaccins et biotechnologies",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance santé publique (mutuelles et assurances maladie)",
+            "secteur_en": "Public health insurance (health mutuals and sickness funds)",
+            "secteur_zh": "公共医疗保险（健康互助和疾病保险基金）",
+            "effet_fr": "Les épidémies de dengue entraînent une hausse des remboursements et des sinistres, saturant les capacités financières des assureurs publics déjà fragilisés par la pandémie.",
+            "effet_en": "Dengue outbreaks lead to increased claims and reimbursements, overwhelming the financial capacity of public insurers still recovering from the pandemic.",
+            "effet_zh": "登革热疫情导致医疗保险理赔和报销激增，进一步加重公共保险机构在疫情后仍然脆弱的财务压力。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des vaccins et biotechnologies",
+            "secteur_en": "Vaccine and biotechnology market",
+            "secteur_zh": "疫苗和生物技术市场",
+            "effet_fr": "La demande en vaccins anti-dengue et en outils de diagnostic pourrait stimuler les investissements dans la R&D, mais les coûts de production restent un frein pour les startups locales.",
+            "effet_en": "Demand for dengue vaccines and diagnostic tools may boost R&D investments, though production costs remain a barrier for local startups.",
+            "effet_zh": "对登革热疫苗和诊断工具的需求可能刺激研发投资，但生产成本仍然阻碍了本地初创企业的发展。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-17T19:33:54.156364"
+      },
       {
         "id": "monde_1146",
         "titre": "Adolescente américaine invente outils contre la maladie des agrumes",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-10T00:53:26.038775"
-      },
-      {
-        "id": "monde_702422",
-        "titre": "Porsche 911 Turbo S cabriolet 5 000 miles",
-        "titre_en": "5k-mile Porsche 911 Turbo S Cabriolet",
-        "titre_zh": "5000公里宝马911涡轮增压跑车",
-        "titre_ru": "Порше 911 Turbo S Кабриолет 2021 с пробегом 5000 миль",
-        "titre_fa": "پورشه ۹۱۱ توربو اس کابریو ۲۰۲۱ با ۵۰۰۰ کیلومتر",
-        "titre_ar": "بمبايار 911 توربو إس كابريو 2021 بميل 5000",
-        "titre_original": "5k-Mile 2021 Porsche 911 Turbo S Cabriolet",
-        "resume": "Ce Porsche 911 Turbo S cabriolet de 2021, avec seulement 5 000 kilomètres au compteur, allie puissance et élégance grâce à son moteur twin-turbo 3.7L et sa boîte PDK. Son design Chalk-over-Chalk en fait un modèle rare et recherché. Ce véhicule haut de gamme attire les collectionneurs et les passionnés de sportives.",
-        "resume_en": "This 2021 Porsche 911 Turbo S Cabriolet, with only 5,000 miles, combines power and elegance with its twin-turbo 3.7L engine and PDK transmission. Its Chalk-over-Chalk design makes it a rare and sought-after model. This luxury vehicle appeals to collectors and sports car enthusiasts.",
-        "resume_zh": "这辆2021款宝马911涡轮增压跑车敞篷版，行驶里程仅5000公里，搭载双涡轮增压3.7L发动机和PDK变速箱，设计精美。其石灰色涂装版本稀有且受追捧，吸引收藏家和跑车爱好者。",
-        "resume_ru": "Этот кабриолет Porsche 911 Turbo S 2021 года выпуска с пробегом 5000 миль представляет собой уникальное сочетание элегантности и мощности. Автомобиль оснащён двигателем V6 с двойным турбонаддувом объёмом 3.7 литра и автоматической коробкой передач PDK с восемью ступенями. Кузов выполнен в стиле «Chalk-over-Chalk», что придаёт машине изысканный вид.",
-        "resume_fa": "این کابریو پورشه ۹۱۱ توربو اس سال ۲۰۲۱ با ۵۰۰۰ کیلومتر، ترکیبی منحصر به فرد از زیبایی و قدرت است. این خودرو دارای موتور V6 دو توربوشارژر ۳٫۷ لیتری و جعبه دنده اتوماتیک PDK با ۸ سرعته است. بدنه آن در سبک «چاک-اور-چاک» طراحی شده که به آن ظاهری ظریف می‌دهد.",
-        "resume_ar": "هذا كابريو بومبايار 911 توربو إس من عام 2021 بميل 5000 هو مزيج فريد من الأناقة والقوة. يحتوي على محرك V6 مزدوج التوربينات بقدرة 3.7 لتر ومكربس اتوماتيكي PDK بثماني سرعات. جسمه مصمم في نمط «شالك-أور-شالك»، مما يمنحه مظهر فاخر.",
-        "analyse_detaillee": "Les Porsche 911 Turbo S sont des modèles emblématiques depuis les années 1970, symbolisant l’excellence mécanique et le design allemand. Leur rareté et leur prix élevé en font des actifs financiers attractifs pour les investisseurs. Les cabriolets, bien que moins demandés que les versions fermées, conservent une forte valeur de revente. Les marchés de l’occasion haut de gamme sont sensibles aux modèles à faible kilométrage, comme celui-ci. Les enjeux environnementaux pourraient influencer la demande future, avec une possible valorisation des véhicules électriques. Les collectionneurs privilégient souvent les éditions limitées ou les finitions uniques, comme ici le Chalk-over-Chalk.",
-        "analyse_en": "Porsche 911 Turbo S models have been iconic since the 1970s, symbolizing German mechanical excellence and design. Their rarity and high prices make them attractive financial assets for investors. Cabriolets, though less in demand than closed versions, retain high resale value. The luxury used car market favors low-mileage models like this one. Environmental concerns may influence future demand, with potential appreciation for electric vehicles. Collectors often prioritize limited editions or unique finishes, such as the Chalk-over-Chalk.",
-        "analyse_zh": "宝马911涡轮增压版自1970年代以来就是经典车型，代表德国机械精湛和设计水准。其稀有性和高价使其成为投资者青睐的资产。敞篷版虽然不如封闭版受欢迎，但仍保持高二手价值。高端二手车市场青睐低里程车辆，如本款。环保问题可能影响未来需求，电动车可能获得升值。收藏家通常青睐限量版或独特涂装，如本款的石灰色涂装版本。",
-        "analyse_ru": "Автомобили Porsche 911 Turbo S всегда были символом роскоши и инноваций в автомобилестроении, а кабриолет добавляет к этому элемент эксклюзивности и спортивного шарма. Двигатель объёмом 3.7 литра с двойным турбонаддувом обеспечивает мощность около 625 лошадиных сил, что делает его одним из самых быстрых серийных автомобилей в классе. Однако высокая стоимость обслуживания и топлива может ограничить доступность для широкой аудитории. Такие машины обычно покупаются коллекционерами или энтузиастами, готовыми платить за уникальный дизайн и производительность. В будущем ожидается рост интереса к электрическим версиям спорткаров, что может повлиять на популярность бензиновых моделей.",
-        "analyse_fa": "پورشه ۹۱۱ توربو اس همیشه نماد لوکس و نوآوری در صنعت خودرو بوده و کابریو به این مجموعه عنصر انحصاری و شیک ورزشی اضافه می‌کند. موتور ۳٫۷ لیتری با دو توربوشارژر توانایی تولید حدود ۶۲۵ اسب بخار را دارد که یکی از سریع‌ترین خودروهای سریال در کلاس خود است. اما هزینه‌های نگهداری و سوخت بالا ممکن است دسترسی آن را برای مخاطبان گسترده محدود کند. این خودروها معمولاً توسط جمع‌آورندگان یا علاقه‌مندان خریداری می‌شوند که حاضرند برای طراحی منحصر به فرد و عملکرد بالا هزینه کنند. در آینده، انتظار می‌رود علاقه به نسخه‌های الکتریکی خودروهای ورزشی افزایش یابد که ممکن است بر محبوبیت مدل‌های بنزینی تأثیر بگذارد.",
-        "analyse_ar": "سيارات بومبايار 911 توربو إس كانت دائمًا رمزا للترف والابتكار في صناعة السيارات، ويضيف الكابريو عنصرًا من الفخامة والغرابة الرياضية. محرك 3.7 لتر مزدوج التوربينات يولد حوالي 625 حصان، مما يجعله من أسرع السيارات المنتجة في فئةه. ومع ذلك، قد تكون تكاليف الصيانة وقطع الغيار العالية والتكلفة الباهظة للوقود تحديًا أمام جاذبية هذا السيارة للجمهور الواسع. يشترونها عادة جمعاء أو محبي السيارات الذين يفضلون الدفع مقابل التصميم الفريد والأداء العالي. في المستقبل، من المتوقع زيادة الاهتمام بالسيارات الكهربائية، مما قد يؤثر على شعبية النماذج البنزينية.",
-        "categorie": "Automobile/Luxe",
-        "source": "Bringatrailer.com",
-        "url": "https://bringatrailer.com/listing/2021-porsche-911-turbo-s-cabriolet-18/",
-        "image": "https://bringatrailer.com/wp-content/uploads/2026/08/283A1114_copy-scaled-copy-2026-09-04-x50-86372.jpg",
-        "date": "2026-09-08",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des voitures de collection premium",
-            "hausse": true
-          },
-          {
-            "label": "▼ Assurance automobile haut de gamme",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des voitures de collection premium",
-            "secteur_en": "Premium collector car market",
-            "secteur_zh": "高端收藏车市场",
-            "effet_fr": "Ce modèle rare pourrait voir sa valeur exploser sur le marché secondaire, surtout avec un kilométrage aussi faible, attirant les investisseurs en actifs tangibles.",
-            "effet_en": "This rare model could see its value skyrocket in the secondary market, especially with such low mileage, attracting tangible asset investors.",
-            "effet_zh": "这种稀有车型在二手市场可能因里程数极低而价格飙升，吸引实物资产投资者。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurance automobile haut de gamme",
-            "secteur_en": "Luxury car insurance",
-            "secteur_zh": "高端车辆保险",
-            "effet_fr": "Les assureurs pourraient augmenter les primes pour ce type de véhicule en raison de son prix élevé et de sa valeur de revente, malgré son faible kilométrage.",
-            "effet_en": "Insurers may raise premiums for this type of vehicle due to its high price and resale value, despite its low mileage.",
-            "effet_zh": "保险公司可能因其高价和高二手价值而提高保费，尽管里程数低。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-09T22:57:18.312938"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_223144",
+        "titre": "Démocrate bloque vente d’armes à Israël pour 2,8 milliards",
+        "titre_en": "Democrat blocks $2.8B arms sale to Israel",
+        "titre_zh": "民主党阻止向以色列出售28亿美元武器",
+        "titre_ru": "Top Democrat places hold on $2.8 billion weapons sale to Israel",
+        "titre_fa": "Top Democrat places hold on $2.8 billion weapons sale to Israel",
+        "titre_ar": "Top Democrat places hold on $2.8 billion weapons sale to Israel",
+        "titre_original": "Top Democrat places hold on $2.8 billion weapons sale to Israel",
+        "resume": "Le député démocrate Gregory Meeks a imposé des obstacles procéduraux majeurs pour bloquer une vente d’armes controversée de 2,8 milliards de dollars vers Israël. Il accuse l’administration Trump d’avoir omis de garantir que les armes seraient utilisées conformément aux normes américaines. Cette décision s’inscrit dans un contexte de tensions croissantes sur l’usage militaire américain au Moyen-Orient.",
+        "resume_en": "Democrat Rep. Gregory Meeks placed procedural roadblocks to block a $2.8 billion arms sale to Israel, alleging the Trump administration failed to assure Congress that weapons would be used in accordance with U.S. standards.",
+        "resume_zh": "民主党众议员格雷戈里·米克斯通过程序性障碍阻止了向以色列出售28亿美元武器的交易，指控特朗普政府没有向国会保证武器将符合美国标准使用。这一决定发生在美军在中东使用问题日益升级的背景下。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette vente d’armes, initialement annoncée sous l’administration Trump, reflète les dynamiques géopolitiques complexes entre Washington et Tel-Aviv, marquées par des divergences sur la gestion des conflits au Proche-Orient. Le blocage de Meeks s’inscrit dans une stratégie plus large des démocrates pour contrôler les exportations militaires, perçues comme potentiellement contraires aux intérêts américains ou aux droits humains. Les conséquences immédiates incluent un retard dans les livraisons et une pression accrue sur les relations diplomatiques, déjà tendues après la guerre à Gaza. À moyen terme, ce geste pourrait encourager d’autres pays à adopter une posture plus critique envers les accords militaires avec Israël, notamment les alliés européens. À long terme, la question de la transparence des ventes d’armes et de leur impact sur les conflits régionaux pourrait devenir un enjeu central des débats géopolitiques. Les républicains, traditionnellement pro-Israël, pourraient riposter en exigeant des contreparties politiques ou en limitant les financements pour d’autres initiatives diplomatiques. Les ONG de défense des droits humains saluent cette décision comme un pas vers plus de responsabilité, tandis que les lobbies pro-Israël dénoncent une ingérence dans la souveraineté américaine.",
+        "analyse_en": "This arms sale, initially announced under the Trump administration, reflects complex geopolitical dynamics between Washington and Tel Aviv, marked by disputes over Middle East conflict management. Meeks’ block is part of a broader Democratic strategy to control military exports, seen as potentially contrary to U.S. interests or human rights. Immediate consequences include delayed deliveries and increased pressure on already strained diplomatic relations post-Gaza war. Medium-term, this move may encourage other countries to adopt a more critical stance toward military agreements with Israel, including European allies. Long-term, the issue of arms sale transparency and its impact on regional conflicts could become a central geopolitical debate. Republicans, traditionally pro-Israel, may retaliate by demanding political concessions or limiting funding for other diplomatic initiatives. Human rights NGOs praise the decision as a step toward accountability, while pro-Israel lobbies denounce interference in U.S. sovereignty.",
+        "analyse_zh": "这笔武器销售交易最初由特朗普政府提出，反映了华盛顿和特拉维夫之间复杂的地缘政治动态，特别是在处理中东冲突问题上的分歧。米克斯的阻挠措施是民主党控制军售的更广泛战略的一部分，认为这些交易可能违反美国利益或人权标准。短期内，这将导致交付延误和对已经紧张的外交关系施加额外压力，特别是在加沙战争后。中期内，这一举动可能鼓励其他国家对以色列军事协议采取更批评的立场，包括欧洲盟友。长期来看，武器销售的透明度及其对地区冲突的影响可能成为地缘政治辩论的核心议题。共和党人，传统上支持以色列，可能会通过要求政治让步或限制其他外交计划的资金来反击。人权组织欢迎这一决定，认为这是责任感的体现，而以色列支持团体则谴责干涉美国主权。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique/Défense",
+        "source": "Haaretz",
+        "url": "https://www.haaretz.com/us-news/2026-09-16/ty-article/.premium/top-democrat-places-hold-on-2-8-billion-weapons-sale-to-israel/000001a0-aba0-d91d-afeb-ebe0ed1e0000",
+        "image": "https://img.haarets.co.il/bs/000001a0-aba0-d91d-afeb-ebe0ed1e0000/2b/2d/b9ebce51434aab6eae2ed4a39709/267506.jpg?&width=1200&height=630&cmsprod",
+        "date": "2026-09-16",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Industrie de la défense américaine (Lockheed Martin, Raytheon)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des technologies de surveillance et cyberdéfense",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie de la défense américaine (Lockheed Martin, Raytheon)",
+            "secteur_en": "U.S. defense industry (Lockheed Martin, Raytheon)",
+            "secteur_zh": "美国国防工业（洛克希德·马丁、雷神公司）",
+            "effet_fr": "Les retards dans les ventes d’armes à Israël pourraient réduire les commandes pour ces géants de la défense, impactant leurs marges bénéficiaires et leurs programmes de R&D à moyen terme.",
+            "effet_en": "Delays in arms sales to Israel may cut orders for defense giants, affecting their profit margins and mid-term R&D programs.",
+            "effet_zh": "向以色列出售武器的延误可能减少这些国防巨头的订单，影响其利润边际和中期研发计划。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des technologies de surveillance et cyberdéfense",
+            "secteur_en": "Surveillance tech and cybersecurity market",
+            "secteur_zh": "监控技术和网络安全市场",
+            "effet_fr": "Les tensions géopolitiques accrues pourraient stimuler la demande en solutions de cybersécurité pour protéger les infrastructures critiques, notamment dans les alliances militaires.",
+            "effet_en": "Increased geopolitical tensions may boost demand for cybersecurity solutions to protect critical infrastructure, especially within military alliances.",
+            "effet_zh": "加剧的地缘政治紧张局势可能刺激对网络安全解决方案的需求，以保护关键基础设施，特别是在军事同盟内。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-17T19:33:54.156386"
+      },
       {
         "id": "usa_311497",
         "titre": "Washington Commanders : bonne nouvelle pour leur star",
@@ -2465,65 +2524,6 @@
           }
         ],
         "created_at": "2026-09-10T00:53:26.038749"
-      },
-      {
-        "id": "usa_478729",
-        "titre": "Cour suprême examine règles vote par correspondance de Trump",
-        "titre_en": "Supreme Court reviews Trump’s mail-in voting rules",
-        "titre_zh": "最高法院审议特朗普邮寄投票规则",
-        "titre_ru": "Верховный суд США рассмотрит законность правил Трампа по голосованию по почте",
-        "titre_fa": "دادرسی عالی آمریکا در مورد قانوننامه‌های رای از راه دور ترامپ",
-        "titre_ar": "قضاء الولايات المتحدة سيقرر قانونية قواعد التصويت عبر البريد لترامب",
-        "titre_original": "Supreme Court to decide on whether Trump’s voting-by-mail rules can go into effect – but might not rule yet on whether they’re constitutional",
-        "resume": "La Cour suprême américaine doit trancher sur la légalité des nouvelles règles de vote par correspondance imposées par Donald Trump, mais pourrait différer sur leur constitutionnalité. Un ancien juge fédéral analyse les enjeux démocratiques en jeu. Les débats portent sur l’accès au suffrage et les risques de restrictions électorales. Cette affaire pourrait redéfinir les équilibres politiques pour les élections futures.",
-        "resume_en": "The US Supreme Court is set to decide on the legality of Donald Trump’s new mail-in voting rules, though it may not rule on their constitutionality yet. A former federal judge weighs in on the democratic stakes involved. The case centers on voting access and election restrictions, potentially reshaping political balances for future elections.",
-        "resume_zh": "美国最高法院将审议特朗普新的邮寄投票规则的合法性，但可能暂时不判断其宪法性。一位前联邦法官分析民主权利的关键问题。此案涉及选举权的可及性和限制，可能重塑未来选举的政治平衡。",
-        "resume_ru": "Верховный суд США должен принять решение о вступлении в силу правил Трампа по голосованию по почте, однако не обязательно выносить вердикт по их конституционности. Эксперт-судья отмечает, что судьи столкнутся с задачей защиты одного из основополагающих прав демократии — права голоса. Вопрос вызывает острое обсуждение среди юристов и политиков.",
-        "resume_fa": "دادرسی عالی آمریکا باید در مورد اجرای قانوننامه‌های رای از راه دور ترامپ تصمیم بگیرد، اما ممکن است در مورد قانونمندی آن تصمیم نهایی ندهد. یک قاضی فدرال سابق بر این است که قضات با یک حق اساسی دموکراسی، یعنی حق رای، روبرو هستند. این موضوع بحث‌های جدی میان حقوق‌دانان و سیاستمداران ایجاد کرده است.",
-        "resume_ar": "سيقرر القضاء الأمريكي ما إذا كان يمكن تطبيق قواعد التصويت عبر البريد التي وضعها ترامب، ولكن قد لا يصدر حكمًا بشأن قانونيتها. يعلق قاضي سابق فيدرالي على أن القضاة سيواجهون حقًا أساسيًا في الديمقراطية، وهو حق التصويت. هذا الموضوع أثار نقاشًا حارًا بين المحامين والسياسيين.",
-        "analyse_detaillee": "Les États-Unis ont une histoire de contentieux électoraux remontant aux années 1800, avec des débats récurrents sur la fraude et l’intégrité des urnes. Les règles de vote par correspondance, popularisées pendant la pandémie, sont devenues un enjeu partisan majeur, accusées de favoriser un camp ou de fragiliser la démocratie. Les causes profondes incluent la polarisation politique et la méfiance envers les institutions. À court terme, une décision restrictive pourrait entraîner des contestations judiciaires et des désaffiliations électorales. À moyen terme, cela pourrait renforcer les inégalités territoriales en matière d’accès au vote. Long terme, cela menace la légitimité des élections et pourrait accélérer les réformes institutionnelles. Trump et ses alliés défendent une sécurisation du vote, tandis que ses opposants craignent une érosion des droits civiques.",
-        "analyse_en": "The US has a long history of electoral disputes dating back to the 1800s, with recurring debates over voter fraud and election integrity. Mail-in voting rules, popularized during the pandemic, have become a major partisan battleground, accused of favoring one side or undermining democracy. Root causes include political polarization and distrust of institutions. Short-term, restrictive rulings could trigger legal challenges and voter disenfranchisement. Medium-term, this may exacerbate geographic disparities in voting access. Long-term, it threatens election legitimacy and could accelerate institutional reforms. Trump and allies argue for stricter voting security, while opponents fear erosion of civil rights.",
-        "analyse_zh": "美国在19世纪就有选举争端的历史，选举舞弊和选举公正问题一直争议不断。疫情期间普及的邮寄投票规则成为党派斗争的焦点，被指倾向于一方或削弱民主。深层原因包括政治极化和对机构的不信任。短期内，限制性裁决可能引发法律诉讼和选民被剥夺选举权。中期内，这可能加剧地区间选举权的不平等。长期来看，威胁到选举的合法性，并可能加速制度改革。特朗普及其盟友主张加强投票安全，而反对者担心公民权利受到侵蚀。",
-        "analyse_ru": "Верховный суд США столкнётся с задачей балансирования между исполнительной властью и защитой избирательных прав, что является ключевым вопросом для будущих выборов. Правила Трампа могут ограничить доступность голосования для определённых категорий избирателей, особенно в условиях пандемии. Критики утверждают, что это шаг к подрыву демократических процедур, в то время как сторонники считают меры необходимыми для предотвращения мошенничества. Контекст решения будет зависеть от политической ориентации судей, особенно после назначения новых членов. Последствия могут включать изменение практики голосования на национальном уровне и возможные судебные споры в будущем.",
-        "analyse_fa": "دادرسی عالی آمریکا با چالش تعادل بین قدرت اجرایی و حفاظت از حقوق رای‌دهندگان روبرو است که این موضوع یک سوال کلیدی برای انتخابات آینده است. قانوننامه‌های ترامپ ممکن است دسترسی برخی گروه‌های رای‌دهندگان، به ویژه در دوران همه‌گیری، را محدود کند. منتقدان معتقدند این اقدام یک گام برای تضعیف فرایندهای دموکراتیک است، در حالی که طرفداران آن را یک اقدام ضروری برای جلوگیری از تقلب می‌دانند. زمینه تصمیم‌گیری بستگی به گرایش سیاسی قضات دارد، به ویژه پس از منصوب شدن قضات جدید. پیامدهای این تصمیم ممکن است شامل تغییر در شیوه رای‌گیری در سطح ملی و احتمال درگیری‌های قضایی در آینده باشد.",
-        "analyse_ar": "سيواجه القضاء الأمريكي تحديًا في توازن بين السلطة التنفيذية وحماية حقوق التصويت، وهو سؤال حاسم للانتخابات المستقبلية. قد تقيد قواعد ترامب بالحقوق الانتخابية لبعض الفئات، خاصة في ظل جائحة كورونا. ينتقدون هذا الخطوة بأنها خطوة نحو إضعاف الإجراءات الديمقراطية، بينما يدافعون عنها بأنها تدبير ضروري لمنع الاحتيال. سيحدد السياق السياسي للقضاة، خاصة بعد تعيين القضاة الجدد، نتائج القرار. قد تشمل العواقب تغييرًا في طريقة التصويت على المستوى الوطني وتحديات قانونية محتملة في المستقبل.",
-        "categorie": "Géopolitique",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/supreme-court-to-decide-on-whether-trumps-voting-by-mail-rules-can-go-into-effect-but-might-not-rule-yet-on-whether-theyre-constitutional-291512",
-        "image": "https://images.theconversation.com/files/758615/original/file-20260908-60-2fpex8.jpg?ixlib=rb-4.1.1&rect=0%2C369%2C5616%2C2808&q=45&auto=format&w=1356&h=668&fit=crop",
-        "date": "2026-09-08",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché des actions électorales et lobbying",
-            "hausse": true
-          },
-          {
-            "label": "▼ Assurances électorales et vérification des votes",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des actions électorales et lobbying",
-            "secteur_en": "Election-related stock market and lobbying",
-            "secteur_zh": "选举相关股票市场和游说",
-            "effet_fr": "Les décisions judiciaires sur le vote par correspondance pourraient influencer les investissements dans les campagnes électorales et les dépenses en lobbying des partis.",
-            "effet_en": "Judicial rulings on mail-in voting may impact investments in election campaigns and party lobbying expenditures.",
-            "effet_zh": "关于邮寄投票的司法裁决可能影响政党在选举和游说上的投资和开支。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurances électorales et vérification des votes",
-            "secteur_en": "Election insurance and vote verification",
-            "secteur_zh": "选举保险和投票验证",
-            "effet_fr": "Les entreprises spécialisées dans la sécurisation des votes pourraient voir leurs contrats augmentés si les règles deviennent plus strictes, mais risquent aussi des litiges sur leur efficacité.",
-            "effet_en": "Companies specializing in vote security may see increased contracts if rules tighten, but also face lawsuits over their effectiveness.",
-            "effet_zh": "专注于投票安全的企业可能因规则收紧而获得更多合同，但也可能面临效率的法律诉讼。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-09T22:57:18.312912"
       }
     ],
     "chine": [
@@ -6075,124 +6075,64 @@
   },
   "politique": [
     {
-      "id": "pol_enfants_111104",
-      "titre": "Père violent : un procès malgré les séquelles psychologiques",
-      "titre_en": "Father’s violence: trial despite psychological scars",
-      "titre_zh": "暴力父亲面对法庭 尽管留下心理创伤",
-      "titre_ru": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
-      "titre_fa": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
-      "titre_ar": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
-      "titre_original": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
-      "resume": "Un père de 44 ans de Villers-le-Bouillet est poursuivi pour avoir frappé son fils mineur à plusieurs reprises. Malgré les séquelles psychologiques avérées, il affronte le tribunal, affirmant une prise de conscience tardive. Ce cas révèle des tensions familiales persistantes et des mécanismes de justice souvent lents face à la violence intrafamiliale.",
-      "resume_en": "A 44-year-old father from Villers-le-Bouillet is being prosecuted for repeatedly assaulting his minor son. Despite proven psychological scars, he faces trial, claiming belated awareness. This case highlights persistent family tensions and slow judicial mechanisms against domestic violence.",
-      "resume_zh": "比利时维勒勒布伊勒一名44岁父亲因多次殴打其未成年儿子而面临起诉。尽管留下明显心理创伤，他仍然面对法庭，声称意识到问题。此案揭示家庭暴力长期存在及司法机构应对缓慢的问题。",
+      "id": "pol_enfants_787977",
+      "titre": "UE interdit réseaux sociaux aux moins de 13 ans",
+      "titre_en": "EU bans social media for under-13s",
+      "titre_zh": "欧盟限制13岁以下使用社交媒体",
+      "titre_ru": "Fin de la récréation : l’Europe veut interdire les réseaux sociaux aux moins de 13 ans, “Nous dictons nos propres règles, pas les géants de la tech”",
+      "titre_fa": "Fin de la récréation : l’Europe veut interdire les réseaux sociaux aux moins de 13 ans, “Nous dictons nos propres règles, pas les géants de la tech”",
+      "titre_ar": "Fin de la récréation : l’Europe veut interdire les réseaux sociaux aux moins de 13 ans, “Nous dictons nos propres règles, pas les géants de la tech”",
+      "titre_original": "Fin de la récréation : l’Europe veut interdire les réseaux sociaux aux moins de 13 ans, “Nous dictons nos propres règles, pas les géants de la tech”",
+      "resume": "La Commission européenne, dirigée par Ursula von der Leyen, propose un accès strict aux plateformes numériques pour les mineurs, avec une interdiction des comptes personnels avant 15 ans et une vérification renforcée dès 13 ans. Cette mesure vise à protéger les enfants contre les risques psychologiques et les contenus inappropriés, tout en limitant l’influence des géants du numérique. Elle s’inscrit dans une dynamique européenne de régulation accrue du numérique, après des scandales comme Cambridge Analytica ou des débats sur la santé mentale des jeunes.",
+      "resume_en": "The European Commission, led by Ursula von der Leyen, is proposing strict access rules for digital platforms for minors, banning personal accounts under 15 and enforcing age verification from 13. The move aims to shield children from psychological risks and inappropriate content while curbing the power of tech giants. It follows a wave of EU regulations after scandals like Cambridge Analytica and concerns over youth mental health.",
+      "resume_zh": "欧盟委员会主席冯德莱恩提出严格限制未成年人使用数字平台，15岁以下禁止开设个人账户，13岁起实施年龄验证。此举旨在保护儿童免受心理风险和不适当内容影响，同时限制科技巨头的影响力。这在剑桥分析事件和青少年心理健康争议后，是欧盟加强数字监管的又一步骤。",
       "resume_ru": "",
       "resume_fa": "",
       "resume_ar": "",
-      "analyse_detaillee": "La violence intrafamiliale en Belgique reste un phénomène sous-estimé malgré des statistiques alarmantes, avec près de 10% des mineurs concernés chaque année. Les causes profondes incluent souvent des mécanismes de transmission générationnelle ou des crises économiques aggravant les tensions. À court terme, les victimes subissent des traumatismes psychologiques, tandis que les systèmes judiciaires peinent à garantir des peines proportionnelles. À moyen terme, les politiques de prévention restent insuffisantes, et les associations de soutien aux familles sont saturées. Long terme, une réforme des protocoles policiers et une éducation à la parentalité s’imposent pour briser ce cycle. Les acteurs comme les procureurs et associations plaident pour des mesures plus strictes, mais les résistances culturelles persistent. Les médias jouent un rôle clé dans la sensibilisation, mais leur impact reste limité face à l’omerta sociale.",
-      "analyse_en": "Intrafamilial violence in Belgium remains underestimated despite alarming statistics, affecting nearly 10% of minors annually. Root causes often include generational transmission or economic crises exacerbating tensions. Short-term, victims suffer psychological trauma, while judicial systems struggle to enforce proportional penalties. Medium-term, prevention policies remain inadequate, and family support associations are overwhelmed. Long-term, reforming police protocols and parenting education is essential to break this cycle. Actors like prosecutors and NGOs advocate for stricter measures, but cultural resistance persists. Media play a key role in raising awareness, though their impact is limited against social stigma.",
-      "analyse_zh": "比利时家庭暴力问题长期被低估，尽管每年近10%的未成年人受影响。深层原因包括代际传承或经济危机加剧家庭压力。短期内，受害者承受心理创伤，司法系统难以执行公正惩罚。中期内，预防政策不足，家庭支持机构饱和。长期来看，警察流程改革和家庭教育迫在眉睫。各方如检察官和NGO呼吁更严格措施，但文化抵触依然存在。媒体在提高公众意识方面发挥关键作用，但影响有限。",
+      "analyse_detaillee": "Cette proposition s’inscrit dans une longue histoire de régulation européenne du numérique, marquée par des directives comme le RGPD (2018) ou la loi sur les services numériques (DSA, 2024). Les enjeux sont multiples : **protection des mineurs** face à l’exposition précoce aux réseaux sociaux, souvent liée à des troubles anxieux ou dépressifs selon l’OMS ; **souveraineté numérique**, avec une volonté d’affaiblir l’hégémonie des États-Unis (Meta, Google) et de la Chine (TikTok) ; et **concurrence économique**, en forçant les géants à adapter leurs modèles aux normes européennes. Les causes profondes incluent l’urgence sanitaire post-pandémie, où l’isolement des enfants a amplifié leur dépendance aux écrans, ainsi que des pressions citoyennes et médiatiques sur l’impact des algorithmes. À court terme, les plateformes devront revoir leurs politiques de modération et investir dans des systèmes de vérification d’âge coûteux, ce qui pourrait ralentir leur croissance en Europe. À moyen terme, cette mesure pourrait inspirer d’autres pays (comme le Canada ou l’Australie) à durcir leurs lois, tout en risquant des **contournements techniques** (faux âges, VPN) ou des **fuites vers des plateformes moins régulées**. À long terme, l’Europe pourrait devenir un modèle de régulation équilibrée, mais le défi sera de concilier protection et innovation, sans étouffer les startups locales. Les acteurs clés sont divisés : **l’UE** défend une approche protectionniste, tandis que les **géants tech** (Meta, TikTok) résistent, arguant que ces règles nuiront à l’innovation et aux libertés des jeunes. Les **ONG** (comme e-Enfance) soutiennent la mesure, mais les **parents et éducateurs** craignent une surveillance excessive.",
+      "analyse_en": "This proposal builds on a long history of EU digital regulation, including the GDPR (2018) and the Digital Services Act (DSA, 2024). Key stakes include **child protection** against early exposure to social media, linked to rising anxiety and depression rates per the WHO; **digital sovereignty**, aiming to reduce US (Meta, Google) and Chinese (TikTok) dominance; and **economic competition**, forcing tech giants to adapt to EU standards. Root causes stem from post-pandemic isolation, which worsened children’s screen dependency, alongside public pressure over algorithmic harms. Short-term, platforms will need to overhaul moderation policies and invest in costly age-verification systems, potentially slowing EU growth. Medium-term, this could trigger similar laws in other countries (Canada, Australia) but risks **technical workarounds** (fake ages, VPNs) or **shifts to less-regulated platforms**. Long-term, the EU might set a balanced regulation standard, though balancing protection with innovation—without stifling local startups—will be critical. Actors are divided: the **EU** pushes for protectionist rules, while **tech giants** (Meta, TikTok) resist, arguing these measures harm innovation and youth freedoms. **NGOs** (like e-Enfance) support the move, but **parents and educators** fear overreach.",
+      "analyse_zh": "此提议源于欧盟长期的数字监管历史，包括2018年的《通用数据保护条例》（GDPR）和2024年的《数字服务法》（DSA）。主要影响包括：**保护未成年人**免受早期社交媒体暴露，据世卫组织称，这与青少年焦虑和抑郁率上升相关；**数字主权**，旨在减少美国（Meta、Google）和中国（抖音）的主导地位；以及**经济竞争**，迫使科技巨头适应欧盟标准。深层原因包括疫情后的隔离加剧了儿童对屏幕的依赖，以及公众对算法伤害的压力。短期内，平台将不得不重新审视审核政策并投资昂贵的年龄验证系统，可能减缓欧盟的增长。中期内，此举可能推动其他国家（如加拿大、澳大利亚）出台类似法律，但也可能面临**技术绕过**（假年龄、VPN）或**转向监管较少的平台**的风险。长期来看，欧盟可能成为平衡监管的典范，但如何在保护与创新之间取得平衡，同时不扼杀本土初创企业，将是关键挑战。各方立场分化：**欧盟**推动保护主义规则，**科技巨头**（Meta、抖音）抵制，认为这些措施损害创新和青少年自由。**NGO**（如e-Enfance）支持该措施，**家长和教育者**则担忧监管过度。",
       "analyse_ru": "",
       "analyse_fa": "",
       "analyse_ar": "",
-      "categorie": "Société",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/regions/huy-waremme/2026/09/16/villers-le-bouillet-frappe-par-son-pere-il-laffronte-au-tribunal-meme-si-tout-ca-laisse-une-empreinte-mentale-T4XIBUJFCRCCZDPIZQEBD4INCU/",
-      "image": "https://www.lavenir.net/resizer/v2/7J5XA5QO4VAG5ETT6MGM6V4TJQ.jpg?auth=a96bb3cf55ed84f4e6f3aae85eba41d242a4085114e86443ccfde651befe37a9&width=1200&height=630&quality=85&focal=384%2C256",
+      "categorie": "Régulation numérique",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/international/europe/2026/09/16/fin-de-la-recreation-leurope-veut-interdire-les-reseaux-sociaux-aux-moins-de-13-ans-nous-dictons-nos-propres-regles-pas-les-geants-de-la-tech-WJI5AAVVRZA3BPROCKTL7WMWTQ/",
+      "image": "https://www.lalibre.be/resizer/v2/QLWFJPKU2ZGXDFKKQT35PS43ZQ.jpg?auth=ca3c69222c68790a9b73f4a9424516352a3301600009597b256ca15a0ef72502&width=1200&height=630&quality=85&focal=550%2C366",
       "date": "2026-09-16",
       "pays": "pol_enfants",
       "badges": [
         {
-          "label": "▲ Assurances responsabilité civile familiale",
-          "hausse": true
+          "label": "▼ Publicité en ligne (marketplaces publicitaires)",
+          "hausse": false
         },
         {
-          "label": "▼ Fonds de soutien aux victimes",
+          "label": "▼ Fintech spécialisée dans les paiements pour mineurs (ex: FamilyPay)",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurances responsabilité civile familiale",
-          "secteur_en": "Family civil liability insurance",
-          "secteur_zh": "家庭责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des litiges liés à la violence familiale, poussant les assurés à revoir leurs couvertures.",
-          "effet_en": "Premiums may rise due to increased litigation over domestic violence, forcing policyholders to reassess their coverage.",
-          "effet_zh": "由于家庭暴力相关诉讼增加，保费可能上涨，迫使保户重新审视保障范围。",
-          "hausse": true
+          "secteur_fr": "Publicité en ligne (marketplaces publicitaires)",
+          "secteur_en": "Online advertising (advertising marketplaces)",
+          "secteur_zh": "在线广告市场",
+          "effet_fr": "Les restrictions sur les mineurs pourraient réduire les revenus publicitaires ciblés vers les 13-17 ans, forçant les plateformes à ajuster leurs modèles économiques vers des audiences plus âgées ou des formats moins intrusifs.",
+          "effet_en": "Restrictions on minors may shrink targeted ad revenue for the 13–17 age group, forcing platforms to pivot toward older audiences or less intrusive ad formats.",
+          "effet_zh": "对未成年人的限制可能减少针对13-17岁群体的精准广告收入，迫使平台调整商业模式，转向更年长的受众或非入侵式广告形式。",
+          "hausse": false
         },
         {
-          "secteur_fr": "Fonds de soutien aux victimes",
-          "secteur_en": "Victim support funds",
-          "secteur_zh": "受害者援助基金",
-          "effet_fr": "Les budgets pourraient être dépassés face à la hausse des demandes, nécessitant des réallocations ou des appels aux dons publics.",
-          "effet_en": "Budgets may be exceeded due to rising demand, requiring reallocations or public fundraising appeals.",
-          "effet_zh": "预算可能因需求激增而不足，需要重新分配或公众募捐。",
+          "secteur_fr": "Fintech spécialisée dans les paiements pour mineurs (ex: FamilyPay)",
+          "secteur_en": "Fintech focused on underage payments (e.g., FamilyPay)",
+          "secteur_zh": "专注于未成年人支付的金融科技",
+          "effet_fr": "Les services de paiement pour enfants pourraient voir leur croissance ralentie si les réseaux sociaux (leurs principaux canaux de promotion) deviennent inaccessibles avant 15 ans, limitant l’adoption par les parents.",
+          "effet_en": "Child payment services may face slower growth if social media—key promotion channels—become inaccessible until age 15, reducing parental adoption.",
+          "effet_zh": "如果社交媒体（其主要推广渠道）在15岁前无法使用，专为儿童设计的支付服务可能会面临增长放缓，从而减少家长的采用率。",
           "hausse": false
         }
       ],
-      "created_at": "2026-09-17T15:33:07.555549",
+      "created_at": "2026-09-17T19:34:54.756282",
       "sous_categorie": "enfants"
-    },
-    {
-      "id": "pol_env_350443",
-      "titre": "Pesticides : responsabilité collective derrière chaque enfant malade",
-      "titre_en": "Pesticides: collective responsibility behind every sick child",
-      "titre_zh": "农药污染：每个生病儿童背后的集体责任",
-      "titre_ru": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
-      "titre_fa": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
-      "titre_ar": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
-      "titre_original": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
-      "resume": "La chercheuse Laurence Huc dénonce dans une BD les conséquences sanitaires des pesticides sur les enfants, illustrant son combat pour des preuves scientifiques. Son travail met en lumière les négligences industrielles et réglementaires persistantes. Ce livre révèle l’urgence d’une action collective pour protéger les générations futures.",
-      "resume_en": "Researcher Laurence Huc denounces in a comic book the health consequences of pesticides on children, highlighting her fight for scientific evidence. Her work exposes ongoing industrial and regulatory negligence. The book underscores the urgency of collective action to protect future generations.",
-      "resume_zh": "研究者劳伦斯·于克通过漫画揭露农药对儿童健康的影响，并展示她为科学证据而战的过程。她的工作揭露了行业和监管部门长期的疏忽。这本书强调保护未来世代的紧迫性，呼吁集体行动。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les pesticides en France, largement utilisés depuis les années 1950, ont un impact avéré sur la santé publique, notamment via des études épidémiologiques liant cancers et troubles neurodéveloppementaux. Les causes profondes incluent une régulation insuffisante et des lobbies agricoles influents retardant les restrictions. À court terme, les victimes subissent des diagnostics tardifs et des traitements coûteux, saturant les systèmes de santé. À moyen terme, les contentieux juridiques se multiplient, comme en témoignent les affaires de glyphosate. Long terme, une transition agroécologique s’impose, mais les modèles économiques agricoles résistent. Les acteurs comme les associations (Générations Futures) et les scientifiques appellent à une refonte des politiques agricoles. Les médias jouent un rôle clé dans la sensibilisation, mais leur impact reste limité face aux intérêts économiques dominants.",
-      "analyse_en": "Pesticides in France, widely used since the 1950s, have proven health impacts, linked to cancers and neurodevelopmental disorders through epidemiological studies. Root causes include insufficient regulation and powerful agricultural lobbies delaying restrictions. Short-term, victims face late diagnoses and expensive treatments, overwhelming healthcare systems. Medium-term, legal disputes multiply, as seen in glyphosate cases. Long-term, an agroecological transition is necessary, but agricultural economic models resist. Actors like NGOs (Generations Futures) and scientists call for a reform of agricultural policies. Media play a key role in raising awareness, but their impact is limited against dominant economic interests.",
-      "analyse_zh": "法国自上世纪50年代以来广泛使用农药，已证明对公共健康有显著影响，如癌症和神经发育障碍。深层原因包括监管不足和强大的农业利益集团阻碍限制措施。短期内，受害者面临晚期诊断和昂贵治疗，加重医疗系统负担。中期内，法律诉讼增多，如除草剂案件。长期来看，农业生态转型势在必行，但农业经济模式抵触变革。各方如NGO（未来世代）和科学家呼吁改革农业政策。媒体在提高公众意识方面发挥作用，但面对经济利益难以产生深远影响。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Mediapart",
-      "url": "https://www.mediapart.fr/journal/ecologie/160926/pesticides-derriere-chaque-enfant-malade-il-y-une-responsabilite-collective",
-      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/09/15/scal2609151043.jpg",
-      "date": "2026-09-16",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurances agricoles (responsabilité environnementale)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Fonds de recherche publique (INRAE, ANSES)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances agricoles (responsabilité environnementale)",
-          "secteur_en": "Agricultural insurance (environmental liability)",
-          "secteur_zh": "农业环境责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison des risques accrus liés aux litiges environnementaux et aux sanctions réglementaires post-BD.",
-          "effet_en": "Premiums may rise due to increased environmental liability risks and post-BD regulatory penalties.",
-          "effet_zh": "由于环境责任风险和法规惩罚增加，保费可能上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de recherche publique (INRAE, ANSES)",
-          "secteur_en": "Public research funds (INRAE, ANSES)",
-          "secteur_zh": "公共研究基金（INRAE、ANSES）",
-          "effet_fr": "Les budgets pourraient être réorientés vers des études sur les alternatives aux pesticides, réduisant les financements traditionnels.",
-          "effet_en": "Budgets may be redirected toward studies on pesticide alternatives, reducing traditional funding.",
-          "effet_zh": "预算可能转向研究农药替代品，减少传统资助。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-17T15:33:07.555570",
-      "sous_categorie": "environnement"
     },
     {
       "id": "pol_femmes_334851",
@@ -6555,6 +6495,66 @@
       "sous_categorie": "femmes"
     },
     {
+      "id": "pol_enfants_111104",
+      "titre": "Père violent : un procès malgré les séquelles psychologiques",
+      "titre_en": "Father’s violence: trial despite psychological scars",
+      "titre_zh": "暴力父亲面对法庭 尽管留下心理创伤",
+      "titre_ru": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
+      "titre_fa": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
+      "titre_ar": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
+      "titre_original": "Villers-le-Bouillet : frappé par son père, il l’affronte au tribunal, même si “tout ça laisse une empreinte mentale”",
+      "resume": "Un père de 44 ans de Villers-le-Bouillet est poursuivi pour avoir frappé son fils mineur à plusieurs reprises. Malgré les séquelles psychologiques avérées, il affronte le tribunal, affirmant une prise de conscience tardive. Ce cas révèle des tensions familiales persistantes et des mécanismes de justice souvent lents face à la violence intrafamiliale.",
+      "resume_en": "A 44-year-old father from Villers-le-Bouillet is being prosecuted for repeatedly assaulting his minor son. Despite proven psychological scars, he faces trial, claiming belated awareness. This case highlights persistent family tensions and slow judicial mechanisms against domestic violence.",
+      "resume_zh": "比利时维勒勒布伊勒一名44岁父亲因多次殴打其未成年儿子而面临起诉。尽管留下明显心理创伤，他仍然面对法庭，声称意识到问题。此案揭示家庭暴力长期存在及司法机构应对缓慢的问题。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La violence intrafamiliale en Belgique reste un phénomène sous-estimé malgré des statistiques alarmantes, avec près de 10% des mineurs concernés chaque année. Les causes profondes incluent souvent des mécanismes de transmission générationnelle ou des crises économiques aggravant les tensions. À court terme, les victimes subissent des traumatismes psychologiques, tandis que les systèmes judiciaires peinent à garantir des peines proportionnelles. À moyen terme, les politiques de prévention restent insuffisantes, et les associations de soutien aux familles sont saturées. Long terme, une réforme des protocoles policiers et une éducation à la parentalité s’imposent pour briser ce cycle. Les acteurs comme les procureurs et associations plaident pour des mesures plus strictes, mais les résistances culturelles persistent. Les médias jouent un rôle clé dans la sensibilisation, mais leur impact reste limité face à l’omerta sociale.",
+      "analyse_en": "Intrafamilial violence in Belgium remains underestimated despite alarming statistics, affecting nearly 10% of minors annually. Root causes often include generational transmission or economic crises exacerbating tensions. Short-term, victims suffer psychological trauma, while judicial systems struggle to enforce proportional penalties. Medium-term, prevention policies remain inadequate, and family support associations are overwhelmed. Long-term, reforming police protocols and parenting education is essential to break this cycle. Actors like prosecutors and NGOs advocate for stricter measures, but cultural resistance persists. Media play a key role in raising awareness, though their impact is limited against social stigma.",
+      "analyse_zh": "比利时家庭暴力问题长期被低估，尽管每年近10%的未成年人受影响。深层原因包括代际传承或经济危机加剧家庭压力。短期内，受害者承受心理创伤，司法系统难以执行公正惩罚。中期内，预防政策不足，家庭支持机构饱和。长期来看，警察流程改革和家庭教育迫在眉睫。各方如检察官和NGO呼吁更严格措施，但文化抵触依然存在。媒体在提高公众意识方面发挥关键作用，但影响有限。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Société",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/regions/huy-waremme/2026/09/16/villers-le-bouillet-frappe-par-son-pere-il-laffronte-au-tribunal-meme-si-tout-ca-laisse-une-empreinte-mentale-T4XIBUJFCRCCZDPIZQEBD4INCU/",
+      "image": "https://www.lavenir.net/resizer/v2/7J5XA5QO4VAG5ETT6MGM6V4TJQ.jpg?auth=a96bb3cf55ed84f4e6f3aae85eba41d242a4085114e86443ccfde651befe37a9&width=1200&height=630&quality=85&focal=384%2C256",
+      "date": "2026-09-16",
+      "pays": "pol_enfants",
+      "badges": [
+        {
+          "label": "▲ Assurances responsabilité civile familiale",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds de soutien aux victimes",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances responsabilité civile familiale",
+          "secteur_en": "Family civil liability insurance",
+          "secteur_zh": "家庭责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des litiges liés à la violence familiale, poussant les assurés à revoir leurs couvertures.",
+          "effet_en": "Premiums may rise due to increased litigation over domestic violence, forcing policyholders to reassess their coverage.",
+          "effet_zh": "由于家庭暴力相关诉讼增加，保费可能上涨，迫使保户重新审视保障范围。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de soutien aux victimes",
+          "secteur_en": "Victim support funds",
+          "secteur_zh": "受害者援助基金",
+          "effet_fr": "Les budgets pourraient être dépassés face à la hausse des demandes, nécessitant des réallocations ou des appels aux dons publics.",
+          "effet_en": "Budgets may be exceeded due to rising demand, requiring reallocations or public fundraising appeals.",
+          "effet_zh": "预算可能因需求激增而不足，需要重新分配或公众募捐。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-09-17T15:33:07.555549",
+      "sous_categorie": "enfants"
+    },
+    {
       "id": "pol_enfants_17829",
       "titre": "Budget 2027 : 4,1 Md€ contre violences sexistes",
       "titre_en": "2027 Budget: €4.1B for gender-based violence",
@@ -6795,64 +6795,64 @@
       "sous_categorie": "enfants"
     },
     {
-      "id": "pol_enfants_840131",
-      "titre": "IA et protection des enfants",
-      "titre_en": "AI and Child Protection",
-      "titre_zh": "人工智能与儿童保护",
-      "titre_ru": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "titre_fa": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "titre_ar": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "titre_original": "Quelle protection de l'enfance à l'ère de l'intelligence artificielle ?",
-      "resume": "L’article interroge sur les défis posés par l’intelligence artificielle pour la protection de l’enfance, entre opportunités technologiques et risques de manipulation ou d’exploitation. Il souligne l’urgence de réguler sans étouffer l’innovation, notamment dans un contexte où les enfants grandissent immergés dans des écosystèmes numériques. Les enjeux éthiques, juridiques et éducatifs sont au cœur des débats.",
-      "resume_en": "The article examines the challenges AI poses for child protection, balancing technological opportunities with risks of manipulation or exploitation. It highlights the need for regulation without stifling innovation, as children grow up immersed in digital ecosystems. Ethical, legal, and educational stakes dominate the discussions.",
-      "resume_zh": "文章探讨人工智能对儿童保护带来的挑战，平衡技术机遇与被操控或滥用的风险。强调在儿童成长于数字生态系统中，需要监管但不扼杀创新。伦理、法律和教育问题成为讨论焦点。",
+      "id": "pol_env_350443",
+      "titre": "Pesticides : responsabilité collective derrière chaque enfant malade",
+      "titre_en": "Pesticides: collective responsibility behind every sick child",
+      "titre_zh": "农药污染：每个生病儿童背后的集体责任",
+      "titre_ru": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
+      "titre_fa": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
+      "titre_ar": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
+      "titre_original": "Pesticides: «Derrière chaque enfant malade, il y a une responsabilité collective»",
+      "resume": "La chercheuse Laurence Huc dénonce dans une BD les conséquences sanitaires des pesticides sur les enfants, illustrant son combat pour des preuves scientifiques. Son travail met en lumière les négligences industrielles et réglementaires persistantes. Ce livre révèle l’urgence d’une action collective pour protéger les générations futures.",
+      "resume_en": "Researcher Laurence Huc denounces in a comic book the health consequences of pesticides on children, highlighting her fight for scientific evidence. Her work exposes ongoing industrial and regulatory negligence. The book underscores the urgency of collective action to protect future generations.",
+      "resume_zh": "研究者劳伦斯·于克通过漫画揭露农药对儿童健康的影响，并展示她为科学证据而战的过程。她的工作揭露了行业和监管部门长期的疏忽。这本书强调保护未来世代的紧迫性，呼吁集体行动。",
       "resume_ru": "",
       "resume_fa": "",
       "resume_ar": "",
-      "analyse_detaillee": "Depuis les années 2000, l’essor des technologies numériques a transformé les dynamiques éducatives et sociales, mais l’IA accélère ces mutations en automatisant les interactions et les données personnelles des mineurs. Les principaux enjeux concernent la protection contre les contenus toxiques, la vie privée et la dépendance aux algorithmes, souvent exploités par des acteurs malveillants ou des plateformes peu scrupuleuses. Les causes profondes incluent un cadre légal fragmenté (RGPD incomplet pour les mineurs) et un manque de sensibilisation des parents et enseignants. À court terme, on observe une augmentation des cas de cyberharcèlement et d’exposition précoce à des contenus inappropriés, tandis que les écoles peinent à intégrer des outils pédagogiques sécurisés. À moyen terme, les risques de déshumanisation des relations sociales et de biais algorithmiques dans l’éducation pourraient marginaliser les plus vulnérables. Long terme, une régulation européenne stricte (comme le *Digital Services Act*) et l’émergence de modèles éducatifs hybrides pourraient rééquilibrer les pouvoirs, mais dépendent de la coopération entre États et acteurs privés. Les ONG prônent une approche centrée sur l’enfant, tandis que les géants tech défendent leur rôle d’innovation, créant un conflit permanent entre sécurité et liberté.",
-      "analyse_en": "Since the 2000s, the rise of digital technologies has reshaped educational and social dynamics, but AI has accelerated these changes by automating interactions and processing minors' personal data. Key stakes involve protecting children from toxic content, privacy violations, and algorithmic addiction, often exploited by malicious actors or unscrupulous platforms. Root causes include fragmented legal frameworks (incomplete GDPR for minors) and a lack of parental and teacher awareness. Short-term, cyberbullying cases and early exposure to inappropriate content have surged, while schools struggle to adopt secure educational tools. Medium-term, risks of dehumanizing social relationships and algorithmic bias in education could marginalize the most vulnerable. Long-term, stricter EU regulations (like the *Digital Services Act*) and hybrid educational models might rebalance power, but depend on cooperation between states and private actors. NGOs advocate for child-centered approaches, while tech giants defend their innovation role, creating an ongoing conflict between security and freedom.",
-      "analyse_zh": "2000年以来，数字技术的兴起改变了教育和社会互动，但人工智能加速了这一进程，通过自动化与未成年人相关的互动和个人数据处理。主要挑战包括保护儿童免受有害内容、隐私泄露和算法成瘾的影响，这些往往被恶意行为者或不负责任的平台利用。深层原因包括法律框架碎片化（GDPR对未成年人保护不足）和家长、教师缺乏意识。短期内，网络欺凌案件和过早接触不适内容增加，学校难以采用安全的教育工具。中期内，人际关系去人性化和教育算法偏见可能边缘化最脆弱群体。长期来看，欧盟更严格的监管（如《数字服务法》）和混合教育模式可能重新平衡权力，但需依赖国家与私营部门的合作。非政府组织倡导以儿童为中心的方法，而科技巨头则强调创新角色，在安全与自由之间形成持续冲突。",
+      "analyse_detaillee": "Les pesticides en France, largement utilisés depuis les années 1950, ont un impact avéré sur la santé publique, notamment via des études épidémiologiques liant cancers et troubles neurodéveloppementaux. Les causes profondes incluent une régulation insuffisante et des lobbies agricoles influents retardant les restrictions. À court terme, les victimes subissent des diagnostics tardifs et des traitements coûteux, saturant les systèmes de santé. À moyen terme, les contentieux juridiques se multiplient, comme en témoignent les affaires de glyphosate. Long terme, une transition agroécologique s’impose, mais les modèles économiques agricoles résistent. Les acteurs comme les associations (Générations Futures) et les scientifiques appellent à une refonte des politiques agricoles. Les médias jouent un rôle clé dans la sensibilisation, mais leur impact reste limité face aux intérêts économiques dominants.",
+      "analyse_en": "Pesticides in France, widely used since the 1950s, have proven health impacts, linked to cancers and neurodevelopmental disorders through epidemiological studies. Root causes include insufficient regulation and powerful agricultural lobbies delaying restrictions. Short-term, victims face late diagnoses and expensive treatments, overwhelming healthcare systems. Medium-term, legal disputes multiply, as seen in glyphosate cases. Long-term, an agroecological transition is necessary, but agricultural economic models resist. Actors like NGOs (Generations Futures) and scientists call for a reform of agricultural policies. Media play a key role in raising awareness, but their impact is limited against dominant economic interests.",
+      "analyse_zh": "法国自上世纪50年代以来广泛使用农药，已证明对公共健康有显著影响，如癌症和神经发育障碍。深层原因包括监管不足和强大的农业利益集团阻碍限制措施。短期内，受害者面临晚期诊断和昂贵治疗，加重医疗系统负担。中期内，法律诉讼增多，如除草剂案件。长期来看，农业生态转型势在必行，但农业经济模式抵触变革。各方如NGO（未来世代）和科学家呼吁改革农业政策。媒体在提高公众意识方面发挥作用，但面对经济利益难以产生深远影响。",
       "analyse_ru": "",
       "analyse_fa": "",
       "analyse_ar": "",
-      "categorie": "Technologie & Société",
-      "source": "JDN",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554279-quelle-protection-de-l-enfance-a-l-ere-de-l-intelligence-artificielle/",
-      "image": "https://img-0.journaldunet.com/rvX0dUOP8stsR8rim48Pz8SEqMo=/1500x/smart/8fa0d008111e4a0fbe6f8dfe83c58f2a/user-jdn/39543448-jade-charlotte-caboche.jpg",
-      "date": "2026-09-09",
-      "pays": "pol_enfants",
+      "categorie": "Environnement",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/ecologie/160926/pesticides-derriere-chaque-enfant-malade-il-y-une-responsabilite-collective",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/09/15/scal2609151043.jpg",
+      "date": "2026-09-16",
+      "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Assurances cyber (protection des données enfants)",
+          "label": "▲ Assurances agricoles (responsabilité environnementale)",
           "hausse": true
         },
         {
-          "label": "▼ Fintech éducative (prêts étudiants IA)",
+          "label": "▼ Fonds de recherche publique (INRAE, ANSES)",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurances cyber (protection des données enfants)",
-          "secteur_en": "Cyber insurance (child data protection)",
-          "secteur_zh": "网络保险（儿童数据保护）",
-          "effet_fr": "Les assureurs cyber voient leurs primes augmenter pour couvrir les risques liés aux fuites de données d’enfants, poussant les familles à souscrire des contrats plus chers ou à adopter des mesures préventives coûteuses.",
-          "effet_en": "Cyber insurers face rising premiums to cover child data breach risks, forcing families to pay higher fees or invest in expensive preventive measures.",
-          "effet_zh": "网络保险公司因儿童数据泄露风险而提高保费，迫使家庭支付更高费用或投资昂贵的预防措施。",
+          "secteur_fr": "Assurances agricoles (responsabilité environnementale)",
+          "secteur_en": "Agricultural insurance (environmental liability)",
+          "secteur_zh": "农业环境责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison des risques accrus liés aux litiges environnementaux et aux sanctions réglementaires post-BD.",
+          "effet_en": "Premiums may rise due to increased environmental liability risks and post-BD regulatory penalties.",
+          "effet_zh": "由于环境责任风险和法规惩罚增加，保费可能上涨。",
           "hausse": true
         },
         {
-          "secteur_fr": "Fintech éducative (prêts étudiants IA)",
-          "secteur_en": "Edtech loans (AI-driven student financing)",
-          "secteur_zh": "教育科技贷款（基于AI的学生融资）",
-          "effet_fr": "Les plateformes de prêt éducatif utilisant l’IA pour évaluer les risques des étudiants voient leur activité ralentie par les régulateurs, craignant une surendettement des mineurs via des algorithmes opaques.",
-          "effet_en": "Edtech lending platforms using AI to assess student risks face slowed growth as regulators fear opaque algorithms may lead minors into unsustainable debt.",
-          "effet_zh": "使用AI评估学生风险的教育科技贷款平台因算法不透明而受到监管限制，担心导致未成年人过度负债。",
+          "secteur_fr": "Fonds de recherche publique (INRAE, ANSES)",
+          "secteur_en": "Public research funds (INRAE, ANSES)",
+          "secteur_zh": "公共研究基金（INRAE、ANSES）",
+          "effet_fr": "Les budgets pourraient être réorientés vers des études sur les alternatives aux pesticides, réduisant les financements traditionnels.",
+          "effet_en": "Budgets may be redirected toward studies on pesticide alternatives, reducing traditional funding.",
+          "effet_zh": "预算可能转向研究农药替代品，减少传统资助。",
           "hausse": false
         }
       ],
-      "created_at": "2026-09-10T10:41:41.010986",
-      "sous_categorie": "enfants"
+      "created_at": "2026-09-17T15:33:07.555570",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_316524",
