@@ -1,5 +1,5 @@
 {
-  "last_updated": "18/09/2026 à 12h44",
+  "last_updated": "18/09/2026 à 16h59",
   "articles": {
     "monde": [
       {
@@ -6075,6 +6075,126 @@
   },
   "politique": [
     {
+      "id": "pol_env_564659",
+      "titre": "BD alerte sur pesticides et cancers infantiles",
+      "titre_en": "Comic warns of pesticides and childhood cancers",
+      "titre_zh": "漫画警示农药与儿童癌症危机",
+      "titre_ru": "Cette BD raconte le combat d’une toxicologue pour expliquer des cancers infantiles en série",
+      "titre_fa": "Cette BD raconte le combat d’une toxicologue pour expliquer des cancers infantiles en série",
+      "titre_ar": "Cette BD raconte le combat d’une toxicologue pour expliquer des cancers infantiles en série",
+      "titre_original": "Cette BD raconte le combat d’une toxicologue pour expliquer des cancers infantiles en série",
+      "resume": "La bande dessinée *« Pesticides – Leurs ravages sur la santé des enfants »* de Laurence Huc met en lumière le lien entre l’exposition aux pesticides et l’augmentation des cancers infantiles en France. L’auteure, toxicologue, dénonce l’inaction des pouvoirs publics face à cette crise sanitaire silencieuse. Son œuvre vise à sensibiliser le grand public et les décideurs politiques sur les dangers environnementaux persistants.",
+      "resume_en": "The comic *« Pesticides – Their ravages on children’s health »* by Laurence Huc highlights the link between pesticide exposure and rising childhood cancer rates in France. The author, a toxicologist, criticizes government inaction in addressing this silent health crisis. Her work aims to raise public awareness and pressure policymakers on enduring environmental dangers.",
+      "resume_zh": "漫画《农药：对儿童健康的破坏》作者劳伦斯·于克揭露农药暴露与法国儿童癌症病例上升之间的关联。这位毒理学家批评政府对这一隐形健康危机的漠视。她的作品旨在提高公众和决策者对持续环境风险的认识。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Depuis les années 1990, les études épidémiologiques ont documenté une hausse alarmante des leucémies et tumeurs pédiatriques, souvent attribuées aux résidus de pesticides dans l’air, l’eau et les sols. Les enjeux sont à la fois sanitaires (coûts hospitaliers, souffrances familiales) et économiques, avec un fardeau invisible pour la Sécurité sociale. Les causes profondes incluent la dépendance agricole aux néonicotinoïdes et le manque de régulation stricte, malgré les alertes scientifiques. À court terme, cette crise exacerbe les inégalités territoriales, les zones rurales étant plus exposées. À moyen terme, elle pourrait déclencher des recours juridiques massifs contre les industriels, comme en Californie. Long terme, une transition agroécologique s’impose, mais les lobbies agricoles freinent les réformes. Les associations environnementales (Greenpeace, Générations Futures) appellent à un moratoire immédiat, tandis que les agriculteurs craignent une baisse des rendements sans alternatives économiques.",
+      "analyse_en": "Since the 1990s, epidemiological studies have documented an alarming rise in pediatric leukemia and tumors, often linked to pesticide residues in air, water, and soil. The stakes are both health-related (hospital costs, family suffering) and economic, with an invisible burden on the French social security system. Root causes include agricultural dependence on neonicotinoids and weak regulation despite scientific warnings. Short-term, this crisis exacerbates territorial inequalities, with rural areas more exposed. Medium-term, it could trigger mass lawsuits against corporations, as seen in California. Long-term, an agroecological transition is necessary, but agricultural lobbies block reforms. Environmental groups (Greenpeace, Générations Futures) demand an immediate moratorium, while farmers fear yield losses without economic alternatives.",
+      "analyse_zh": "自上世纪90年代以来，流行病学研究记录了儿童白血病和肿瘤病例的惊人上升，常与空气、水土中农药残留相关。此危机涉及医疗成本和家庭痛苦等健康问题，以及对法国社会保障体系的隐形负担。深层原因包括农业对氯吡哒啶类农药的依赖和缺乏严格监管，尽管科学警告不断。短期内，危机加剧了区域不平等，农村地区暴露风险更高。中期内，可能引发大规模针对企业的诉讼，类似加州案例。长期来看，必须推动生态农业转型，但农业利益集团阻碍改革。环保组织（绿色和平、未来世代）呼吁立即禁用农药，而农民则担心缺乏经济替代方案的产量下降。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement et Santé Publique",
+      "source": "Le HuffPost",
+      "url": "https://www.huffingtonpost.fr/environnement/article/cette-bd-raconte-le-combat-d-une-toxicologue-pour-expliquer-des-cancers-infantiles-en-serie_325811.html",
+      "image": "https://focus.huffingtonpost.fr/2026/09/16/0/0/1280/720/1820/1023/75/0/11f05ee_upload-1-6r4mqbfcg4xo-nouveau-projet-6.jpg",
+      "date": "2026-09-17",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance maladie (branche maladie)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité civile (secteur agrochimique)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (branche maladie)",
+          "secteur_en": "Health insurance (disease branch)",
+          "secteur_zh": "",
+          "effet_fr": "Les coûts croissants des traitements contre les cancers pédiatriques pèsent sur le budget de l’Assurance maladie, déjà sous tension avec le vieillissement démographique.",
+          "effet_en": "Rising costs of pediatric cancer treatments strain the health insurance budget, already under pressure due to an aging population.",
+          "effet_zh": "儿童癌症治疗成本上升加剧了医疗保险的财政压力，尤其是在人口老龄化背景下。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité civile (secteur agrochimique)",
+          "secteur_en": "Civil liability insurance (agrochemical sector)",
+          "secteur_zh": "",
+          "effet_fr": "Les recours judiciaires contre les fabricants de pesticides pourraient entraîner une hausse des primes d’assurance responsabilité civile pour ce secteur, déjà fragilisé par les régulations environnementales.",
+          "effet_en": "Legal claims against pesticide manufacturers may lead to increased civil liability insurance premiums for the agrochemical sector, already weakened by environmental regulations.",
+          "effet_zh": "针对农药生产商的法律诉讼可能导致该行业责任保险费用上涨，尤其是在环保法规日益严格的背景下。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-18T16:59:48.958973",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_533622",
+      "titre": "1,5 milliard pour lutter contre violences femmes",
+      "titre_en": "1.5B euros to combat women’s violence",
+      "titre_zh": "15亿欧元打击针对女性暴力",
+      "titre_ru": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ?",
+      "titre_fa": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ?",
+      "titre_ar": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ?",
+      "titre_original": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ?",
+      "resume": "Le gouvernement français annonce un budget annuel de 1,5 milliard d’euros pour renforcer les dispositifs contre les violences sexistes et sexuelles, incluant hébergement d’urgence et soutien psychologique. Les associations dénoncent un montant insuffisant face à l’ampleur du phénomène, estimant que les besoins réels dépassent largement les moyens alloués. Cette annonce intervient dans un contexte de mobilisations sociales récurrentes contre les violences faites aux femmes.",
+      "resume_en": "The French government announces an annual budget of 1.5 billion euros to strengthen measures against sexist and sexual violence, including emergency shelter and psychological support. NGOs criticize the amount as insufficient given the scale of the issue, claiming real needs far exceed allocated funds. The announcement follows recurrent social mobilizations against violence against women.",
+      "resume_zh": "法国政府宣布每年投入15亿欧元加强打击性别与性暴力措施，包括紧急住宿和心理支持。非政府组织批评资金不足以应对暴力现象的规模，认为实际需求远超预算。此举在女性反暴力社会运动持续高涨的背景下出台。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les violences conjugales et sexuelles en France ont connu une hausse constante depuis 2012, avec près de 200 000 victimes par an, selon les dernières données du Défenseur des droits. Les enjeux sont à la fois juridiques (peines légères, impunité des agresseurs) et sociaux (stigmatisation des victimes, manque de places en refuge). Les causes profondes incluent une culture patriarcale persistante et un système judiciaire saturé, incapable de traiter rapidement les affaires. À court terme, le budget annoncé pourrait améliorer l’accès aux centres d’écoute et aux hébergements, mais les associations craignent un effet d’aubaine sans réforme structurelle. À moyen terme, une augmentation des effectifs policiers et judiciaires est nécessaire pour réduire les délais d’instruction. Long terme, une éducation à l’égalité dès l’école et une campagne médiatique massive s’imposent pour changer les mentalités. Les féministes (Osez le Féminisme, Le Planning Familial) réclament un plan pluriannuel avec évaluation indépendante, tandis que les partis de droite accusent le gouvernement de « surmédiatiser » le sujet.",
+      "analyse_en": "Domestic and sexual violence in France has steadily increased since 2012, with nearly 200,000 victims annually, according to the latest data from the Ombudsman. The stakes are both legal (light sentences, impunity for perpetrators) and social (victim stigmatization, lack of shelter beds). Root causes include persistent patriarchal culture and an overburdened judicial system, unable to process cases quickly. Short-term, the announced budget may improve access to listening centers and shelters, but NGOs fear a token gesture without structural reform. Medium-term, increased police and judicial staffing is needed to reduce investigation delays. Long-term, equality education in schools and a massive media campaign are essential to change mindsets. Feminist groups (Osez le Féminisme, Le Planning Familial) demand a multi-year plan with independent evaluation, while right-wing parties accuse the government of « over-sensationalizing » the issue.",
+      "analyse_zh": "法国自2012年以来，家庭与性暴力案件持续上升，每年近20万受害者，根据人权监察局数据。此问题涉及法律（轻刑罚、加害者逍遥法外）和社会（受害者被歧视、避难所床位不足）两大维度。深层原因包括根深蒂固的男权文化和不堪重负的司法系统，无法快速处理案件。短期内，预算增加可能改善咨询中心和避难所的接入，但非政府组织担心这是一种表面功夫，没有结构性改革。中期内，需要增加警力和法官人数以缩短侦查时间。长期来看，必须在学校推行平等教育并发起大规模媒体宣传，才能改变社会心态。女权主义者（敢说女权主义、家庭计划协会）要求多年计划并独立评估，而右翼政党则指责政府「过度炒作」此议题。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits Humains et Justice Sociale",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/quels-sont-les-moyens-consacres-par-l-etat-a-la-lutte-contre-les-violences-faites-aux-femmes_8197472.html",
+      "image": "https://www.franceinfo.fr/pictures/I_e_95m3kLrw32Gir-wa1BxgKyU/0x254:4928x3026/1500x843/2025/08/12/3919-689b965e0fdd6123333937.jpg",
+      "date": "2026-09-17",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Fonds de solidarité pour le logement (FSL)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance dépendance (branche vieillissement)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Fonds de solidarité pour le logement (FSL)",
+          "secteur_en": "Solidarity housing fund (FSL)",
+          "secteur_zh": "",
+          "effet_fr": "L’augmentation des crédits pourrait permettre à plus de femmes victimes de violences d’accéder à des logements d’urgence, réduisant les risques d’hébergement insalubre ou de sans-abrisme.",
+          "effet_en": "Increased funding may enable more women victims of violence to access emergency housing, reducing risks of unsanitary shelters or homelessness.",
+          "effet_zh": "资金增加可能帮助更多受暴女性获得紧急住房，减少不卫生住宿或无家可归的风险。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance dépendance (branche vieillissement)",
+          "secteur_en": "Long-term care insurance (aging branch)",
+          "secteur_zh": "",
+          "effet_fr": "Les victimes de violences répétées, souvent âgées ou en situation de handicap, pourraient voir leurs besoins en soins à long terme augmentés, mettant à rude épreuve les budgets dédiés à la dépendance.",
+          "effet_en": "Repeated violence victims, often elderly or disabled, may see increased long-term care needs, straining budgets allocated to dependency insurance.",
+          "effet_zh": "反复遭受暴力的受害者（常为老年或残障人士）可能增加长期护理需求，加剧依赖保险的财政压力。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-18T16:59:48.959000",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_43119",
       "titre": "Féminicides : l’homme sacrifié aussi ?",
       "titre_en": "Cameroon’s feminicides: what about the sacrificed man?",
@@ -6372,66 +6492,6 @@
         }
       ],
       "created_at": "2026-09-09T20:28:39.851009",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_534146",
-      "titre": "CVC élargit son panel judiciaire",
-      "titre_en": "CVC expands judicial panel",
-      "titre_zh": "CVC扩大司法成员范围",
-      "titre_ru": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
-      "titre_fa": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
-      "titre_ar": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
-      "titre_original": "Cinq années de violence conjugale jugée devant la justice carolo : Mathieu intègre la CVC",
-      "resume": "La Chambre de prise en charge des violences conjugales (CVC) de Reims a intégré un nouveau membre, Mathieu, après cinq ans de traitement judiciaire des cas de violence conjugale. Ce changement intervient dans un contexte où les victimes, comme celle enfermée dans une chambre, peinent à obtenir justice. L’institution cherche à renforcer son approche pour mieux accompagner les plaignantes.",
-      "resume_en": "Reims’ Domestic Violence Handling Chamber (CVC) added a new member, Mathieu, after five years of judicial processing of domestic violence cases. Victims, including one locked in a room, struggle for justice, prompting the institution to enhance its support mechanisms. The move aims to better assist complainants in a persistent systemic issue.",
-      "resume_zh": "雷姆的家庭暴力处理室（CVC）新增成员马修，经过五年对家庭暴力案件的司法处理。受害者，包括被关在房间的女性，难以获得公正，促使机构加强支持措施。这一举措旨在更好地协助投诉者，应对长期存在的系统性问题。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La violence conjugale en France reste un fléau structurel, avec près de 200 000 victimes annuelles selon les chiffres officiels. Les retards procéduraux et l’isolement des victimes, souvent aggravés par des mécanismes de culpabilisation, expliquent les difficultés d’accès à la justice. Les réformes judiciaires récentes, comme la création des CVC, visent à accélérer les procédures, mais leur efficacité dépend de la formation des magistrats et de la coordination avec les associations. À court terme, cette intégration pourrait améliorer la crédibilité des enquêtes, mais le manque de moyens humains persiste. À moyen terme, une meilleure prévention et éducation pourraient réduire les récidives, tandis que les perspectives long terme reposent sur une transformation culturelle profonde. Les associations féministes saluent cette évolution, mais critiquent l’insuffisance des sanctions pénales contre les auteurs.",
-      "analyse_en": "Domestic violence in France remains a structural issue, with nearly 200,000 victims annually according to official data. Procedural delays and victim isolation, often worsened by blame mechanisms, explain access-to-justice challenges. Recent judicial reforms, like the creation of CVCs, aim to speed up proceedings but depend on magistrates’ training and coordination with NGOs. Short-term, this addition may boost investigation credibility, but human resource shortages remain. Medium-term, better prevention and education could reduce recidivism, while long-term prospects hinge on deep cultural change. Feminist groups welcome the move but criticize insufficient penalties for perpetrators.",
-      "analyse_zh": "法国家庭暴力仍是结构性问题，每年近20万受害者。司法程序拖延和受害者孤立，常因罪责归咎加剧，导致难以获得公正。近期司法改革如CVC成立旨在加速程序，但效果取决于法官培训和与NGO的协同。短期内，新成员加入可能提升调查可信度，但人手不足依然存在。中期内，更好预防教育可减少重犯率，长期前景则依赖文化深层变革。女性主义组织称赞这一进展，但批评对施暴者的刑事惩罚不足。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Droits humains et justice",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/regions/charleroi/courcelles/2026/09/08/cinq-annees-de-violence-conjugale-jugee-devant-la-justice-carolo-mathieu-integre-la-cvc-M67WWSPWGNFLBLEIE57NBVY4SA/",
-      "image": "https://www.lavenir.net/resizer/v2/4QDYQUOOEBGYVJNP526DMAMJR4.jpg?auth=85a285661fc4b6d79651ddc96a016abf7a62f524245dd043ae6201d8fc93fc2b&width=1200&height=630&quality=85&focal=549%2C366",
-      "date": "2026-09-08",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile (RC)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Fonds de solidarité pour les victimes (FSV)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile (RC)",
-          "secteur_en": "Civil liability insurance (CLI)",
-          "secteur_zh": "民事责任保险（RC）",
-          "effet_fr": "Les victimes de violences conjugales pourraient voir leurs primes d’assurance augmenter en raison de l’augmentation des réclamations liées à des négligences ou agressions non couvertes initialement.",
-          "effet_en": "Victims of domestic violence may face higher insurance premiums due to increased claims for negligence or assaults initially not covered.",
-          "effet_zh": "家庭暴力受害者可能因未初步覆盖的疏忽或攻击索赔增加，导致保险费用上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de solidarité pour les victimes (FSV)",
-          "secteur_en": "Solidarity Fund for Victims (FSV)",
-          "secteur_zh": "受害者互助基金（FSV）",
-          "effet_fr": "Le FSV pourrait être sollicité davantage pour indemniser les victimes, mais son budget limité pourrait entraîner des retards dans les paiements ou des réductions des montants alloués.",
-          "effet_en": "The FSV may be increasingly called upon to compensate victims, but its limited budget could lead to payment delays or reduced payout amounts.",
-          "effet_zh": "互助基金可能被更频繁用于赔偿受害者，但有限的预算可能导致支付延迟或减少赔偿金额。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-09T17:35:52.770516",
       "sous_categorie": "femmes"
     },
     {
@@ -7092,66 +7152,6 @@
         }
       ],
       "created_at": "2026-09-09T17:35:52.770538",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_228110",
-      "titre": "Fonds pesticides : crise financière en 2025",
-      "titre_en": "Pesticide fund faces financial crisis in 2025",
-      "titre_zh": "农药赔偿基金2025年面临财政危机",
-      "titre_ru": "Заявки на компенсацию от пестицидов достигли рекорда в 2025 году, фонд впервые использовал резервы",
-      "titre_fa": "دریافت درخواست‌های رکوردی جبران خسارت از سموم کشاورزی در سال ۲۰۲۵، نخستین بار از ذخایر استفاده شد",
-      "titre_ar": "سجل جديد في طلبات التعويض عن المبيدات الحشرية في 2025، الصندوق استنزف احتياطاته لأول مرة",
-      "titre_original": "Pesticides : record de demandes d’indemnisation en 2025, le fonds puise pour la première fois dans ses réserves",
-      "resume": "Le fonds d’indemnisation des victimes de pesticides a enregistré un pic historique de demandes en 2025, dépassant ses capacités financières. Pour la première fois, il a dû puiser dans ses réserves, révélant une tension structurelle entre coûts croissants et recettes stagnantes. Cette situation interroge sur la durabilité du système et les responsabilités des acteurs agricoles et industriels.",
-      "resume_en": "The compensation fund for pesticide victims saw a record number of claims in 2025, exceeding its financial capacity. For the first time, it had to tap into its reserves, highlighting a structural imbalance between rising costs and stagnant revenues. This raises questions about the sustainability of the system and the responsibilities of agricultural and industrial stakeholders.",
-      "resume_zh": "农药受害者赔偿基金2025年创纪录地收到索赔申请，超出了财政承受能力。首次动用储备金，暴露出成本上升与收入停滞的结构性矛盾。这引发了对该体系可持续性的质疑，以及农业和工业各方的责任问题。",
-      "resume_ru": "Фонд компенсации пострадавшим от пестицидов в 2025 году получил рекордное количество заявок. Из-за роста выплат и снижения доходов ему пришлось впервые обратиться к резервным средствам. Это свидетельствует о возрастающей проблеме воздействия химикатов на здоровье населения.",
-      "resume_fa": "فوند جبران خسارت قربانیان سموم کشاورزی در سال ۲۰۲۵، تعداد رکوردی از درخواست‌ها دریافت کرد. با افزایش هزینه‌های پرداخت و کاهش درآمدها، برای نخستین بار از ذخایر خود استفاده کرد. این نشان‌دهنده افزایش مشکل اثرات سموم بر سلامت عمومی است.",
-      "resume_ar": "صندوق التعويض عن ضحايا المبيدات الكيميائية تلقى في عام 2025 عددًا قياسيًا من الطلبات. مع ارتفاع تكاليف التعويضات وانخفاض الإيرادات، استنزف الاحتياطيات لأول مرة. هذا يعكس زيادة في مشكلة تأثير هذه المواد الكيميائية على صحة السكان.",
-      "analyse_detaillee": "Depuis sa création en 2004, le fonds visait à protéger les victimes de pesticides via une taxe sur les produits phytosanitaires, financée par les acteurs du secteur. Les demandes ont explosé (+40% en 2025) en raison d’une prise de conscience accrue des risques sanitaires et environnementaux, amplifiée par des scandales comme l’affaire du glyphosate. Les causes profondes incluent la sous-évaluation historique des risques, la pression réglementaire croissante (REACH, loi Egalim) et une baisse des recettes due à la baisse des ventes de pesticides. À court terme, cette crise menace la pérennité du fonds, risquant des retards de paiements ou des réductions d’indemnités pour les victimes. À moyen terme, l’État pourrait être contraint de réformer le système, soit en augmentant les contributions des industriels, soit en élargissant les sources de financement (taxes générales). À long terme, une transition vers des alternatives moins toxiques pourrait réduire les coûts, mais nécessitera des investissements massifs dans la recherche et l’agroécologie. Les agriculteurs, bien que financièrement contribuables, dénoncent une responsabilité partagée avec les distributeurs et les fabricants, tandis que les associations de victimes exigent une justice sociale immédiate et des sanctions contre les pollueurs.",
-      "analyse_en": "Established in 2004, the fund aimed to protect pesticide victims through a tax on phytosanitary products, funded by industry stakeholders. Claims surged (+40% in 2025) due to growing awareness of health and environmental risks, exacerbated by scandals like glyphosate. Root causes include underestimation of risks, stricter regulations (REACH, Egalim Law), and declining revenues from pesticide sales. Short-term, this crisis threatens the fund’s sustainability, risking delayed payments or reduced compensation for victims. Mid-term, the state may reform the system, either by increasing industry contributions or diversifying funding sources (general taxes). Long-term, a shift toward less toxic alternatives could lower costs but requires massive investments in research and agroecology. Farmers, while financially contributing, blame shared responsibility with distributors and manufacturers, while victim groups demand immediate social justice and penalties for polluters.",
-      "analyse_zh": "该基金自2004年成立以来，旨在通过对农药产品征税，由行业参与者共同筹资，保护农药受害者。2025年索赔申请激增（+40%），主要原因是公众对农药健康和环境风险的认知提升，以及如“草甘膦事件”等丑闻的影响。深层原因包括对风险的长期低估、日益严格的监管（REACH法规、Egalim法案）以及农药销售下滑导致的收入减少。短期内，该危机威胁到基金的持续运作，可能导致赔偿延迟或减少受害者补偿。中期内，法国政府可能不得不改革该体系，要么增加工业企业的缴费，要么通过一般税收扩大资金来源。长期来看，向低毒替代品转型可能降低成本，但需要大规模投资于研究和生态农业。农民虽然需要缴纳资金，但指责责任应由分销商和制造商分担，而受害者团体则要求立即实现社会公平并对污染者施以惩罚。",
-      "analyse_ru": "Рост числа заявок связан с увеличением случаев отравлений и хронических заболеваний, вызванных пестицидами. Это отражает как неэффективность мер профилактики, так и рост сельскохозяйственного производства, интенсивно использующего химикаты. Для фермеров и производителей это означает дополнительные финансовые бремена, в то время как экологические организации требуют ужесточения контроля. Правительство вынуждено искать баланс между поддержкой аграриев и защитой здоровья граждан. Первое обращение к резервам фонда может привести к необходимости реформирования системы компенсаций.",
-      "analyse_fa": "افزایش تعداد درخواست‌ها با افزایش موارد مسمومیت و بیماری‌های مزمن ناشی از سموم کشاورزی مرتبط است. این نشان‌دهنده عدم کارایی اقدامات پیشگیرانه و همچنین رشد تولید کشاورزی با استفاده شدید از مواد شیمیایی است. برای کشاورزان و تولیدکنندگان این به معنای بار مالی بیشتر است، در حالی که سازمان‌های محیط‌زیستی تقویت کنترل را ضروری می‌دانند. دولت باید تعادل بین حمایت از کشاورزان و حفاظت از سلامت عمومی را پیدا کند. نخستین استفاده از ذخایر فوند ممکن است به اصلاح سیستم جبران خسارت منجر شود.",
-      "analyse_ar": "زيادة عدد الطلبات ترتبط بزيادة حالات التسمم والأمراض المزمنة الناجمة عن المبيدات الكيميائية. هذا يعكس عدم فعالية التدابير الوقائية بالإضافة إلى نمو إنتاج الزراعة باستخدام كميات كبيرة من المواد الكيميائية. بالنسبة للمزارعين والمصنعين، هذا يعني زيادة العبء المالي، في حين تدعو المنظمات البيئية إلى تشديد الرقابة. يجب على الحكومة إيجاد توازن بين دعم المزارعين وحماية صحة المواطنين. أول استنزاف للاحتياطيات قد يؤدي إلى إصلاح نظام التعويضات.",
-      "categorie": "Environnement & Santé publique",
-      "source": "Challenges",
-      "url": "https://www.challenges.fr/entreprise/green-economie/pesticides-record-de-demandes-dindemnisation-en-2025-le-fonds-puise-pour-la-premiere-fois-dans-ses-reserves_645584",
-      "image": "https://www.challenges.fr/_ipx/f_jpg&enlarge_true&s_1200x630/cha/static/2026-09/60677.HR_0.jpg%3FVersionId=ME6cR_9frXi1X7AynsV3i61tS2lIkpF2",
-      "date": "2026-09-06",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile professionnelle (RC Pro) des agriculteurs",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des obligations vertes (green bonds) spécialisées agroenvironnement",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile professionnelle (RC Pro) des agriculteurs",
-          "secteur_en": "Professional liability insurance (PLI) for farmers",
-          "secteur_zh": "农民职业责任保险（RC Pro）",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des risques couverts par le fonds d’indemnisation, poussant les agriculteurs vers des assurances plus chères ou des exclusions de garantie.",
-          "effet_en": "Premiums may rise due to higher risks covered by the compensation fund, forcing farmers into costlier insurance or policy exclusions.",
-          "effet_zh": "由于赔偿基金覆盖的风险增加，农民职业责任保险费用可能上涨，迫使农民选择更贵的保险或保单排除某些责任。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des obligations vertes (green bonds) spécialisées agroenvironnement",
-          "secteur_en": "Green bonds market for agro-environmental sectors",
-          "secteur_zh": "农业环保领域绿色债券市场",
-          "effet_fr": "La crise du fonds pourrait stimuler la demande en financements innovants, comme les obligations vertes dédiées à la transition écologique des exploitations agricoles.",
-          "effet_en": "The fund’s crisis may drive demand for innovative financing, such as green bonds for agricultural ecological transition.",
-          "effet_zh": "基金危机可能刺激对创新融资的需求，如用于农业生态转型的绿色债券。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-08T00:08:47.569009",
       "sous_categorie": "environnement"
     }
   ]
