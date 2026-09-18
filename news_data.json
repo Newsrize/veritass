@@ -1,5 +1,5 @@
 {
-  "last_updated": "18/09/2026 à 01h03",
+  "last_updated": "18/09/2026 à 07h07",
   "articles": {
     "monde": [
       {
@@ -6075,6 +6075,66 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_43119",
+      "titre": "Féminicides : l’homme sacrifié aussi ?",
+      "titre_en": "Cameroon’s feminicides: what about the sacrificed man?",
+      "titre_zh": "喀麦隆女性被害案：男性牺牲者何处？",
+      "titre_ru": "- Féminicide au Cameroun : et si l’on parlait aussi de l’homme sacrifié ?",
+      "titre_fa": "- Féminicide au Cameroun : et si l’on parlait aussi de l’homme sacrifié ?",
+      "titre_ar": "- Féminicide au Cameroun : et si l’on parlait aussi de l’homme sacrifié ?",
+      "titre_original": "- Féminicide au Cameroun : et si l’on parlait aussi de l’homme sacrifié ?",
+      "resume": "Au Cameroun, les féminicides et violences conjugales dominent les débats, mais un angle moins médiatisé émerge : celui des hommes victimes de ces dynamiques violentes. L’article interroge les mécanismes systémiques où les hommes, souvent absents des statistiques officielles, subissent aussi des conséquences dramatiques. Une réflexion sur les tabous et les inégalités genrées qui transforment la violence en cercle vicieux.",
+      "resume_en": "In Cameroon, feminicides and domestic violence dominate discussions, yet a lesser-covered angle is the plight of men caught in these violent cycles. The article examines systemic mechanisms where men, often excluded from official statistics, face severe repercussions. It explores gendered taboos and inequalities that perpetuate violence as a vicious cycle.",
+      "resume_zh": "喀麦隆女性被害案和家庭暴力广受关注，但男性作为暴力受害者的角度鲜有报道。文章分析系统性机制，揭示男性在官方统计中被忽视，却承受严重后果。探讨性别偏见和不平等如何将暴力演化为恶性循环。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Le Cameroun, comme beaucoup de pays africains, hérite d’un héritage colonial et patriarcal où les rôles genrés sont rigidement définis, légitimant les violences contre les femmes. Les féminicides y sont souvent présentés comme des actes individuels, masquant des causes structurelles : pauvreté, éducation limitée, et absence de politiques publiques adaptées. Les hommes, bien que moins visibles, deviennent parfois des victimes collatérales, marginalisés par des systèmes judiciaires lents et des normes sociales qui criminalisent leur vulnérabilité. À court terme, cela aggrave l’instabilité sociale, avec des communautés fragmentées par la peur et la méfiance. À moyen terme, l’absence de réponses globales risque d’exacerber les tensions ethniques et religieuses, déjà tendues. Longtemps, une approche holistique intégrant éducation, justice et économie pourrait briser ce cycle, mais cela exige une mobilisation des acteurs locaux et internationaux. Les ONG féministes, bien que critiques, peinent à influencer les décideurs, tandis que l’État camerounais reste divisé entre réformes symboliques et inaction concrète.",
+      "analyse_en": "Cameroon, like many African nations, inherits a colonial and patriarchal legacy where gender roles are rigidly defined, legitimizing violence against women. Feminicides are often framed as individual acts, obscuring systemic causes: poverty, limited education, and inadequate public policies. Men, though less visible, sometimes become collateral victims, marginalized by slow judicial systems and social norms that stigmatize their vulnerability. Short-term, this fuels social instability, with communities fractured by fear and distrust. Medium-term, the lack of comprehensive responses risks intensifying ethnic and religious tensions, already strained. Long-term, a holistic approach combining education, justice, and economics could break this cycle, but it requires mobilization from local and international actors. Women’s rights NGOs, though critical, struggle to influence policymakers, while Cameroon’s government remains divided between symbolic reforms and concrete inaction.",
+      "analyse_zh": "喀麦隆作为非洲多国之一，承袭了殖民和父权制遗产，严格定义了性别角色，合法化了对女性的暴力。女性被害案通常被视为个案，掩盖了结构性原因：贫困、教育不足和缺乏适配的公共政策。男性虽然不常见于统计，但有时成为暴力的间接受害者，被缓慢的司法体系和将其脆弱性罪恶化的社会规范边缘化。短期内，这加剧了社会不稳定，社区因恐惧和不信任而分裂。中期内，缺乏全面回应可能加剧已然紧张的民族和宗教关系。长期来看，结合教育、司法和经济的综合措施才能打破暴力循环，但需当地和国际各方的共同努力。女性权益NGO尽管批评严厉，但难以影响决策者，而喀麦隆政府则在象征性改革和实际不作为之间犹豫不决。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains/Géopolitique",
+      "source": "Camer.be",
+      "url": "https://www.camer.be/94776/30:27/feminicide-au-cameroun-et-si-lon-parlait-aussi-de-lhomme-sacrifie.html",
+      "image": "https://www.camer.be/storage/photos/shares/cameRoun/Bagarre21.jpg",
+      "date": "2026-09-17",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▼ Fonds de développement communautaire",
+          "hausse": false
+        },
+        {
+          "label": "▲ Assurance santé publique",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Fonds de développement communautaire",
+          "secteur_en": "Community development funds",
+          "secteur_zh": "社区发展基金",
+          "effet_fr": "Les violences genrées réduisent les investissements dans les projets locaux, car les acteurs craignent l’instabilité et la fuite des ressources vers les secours d’urgence.",
+          "effet_en": "Gender-based violence reduces investments in local projects as stakeholders fear instability and resource diversion to emergency aid.",
+          "effet_zh": "性别暴力减少了对当地项目的投资，因为参与者担心不稳定性并导致资源转向紧急救援。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Assurance santé publique",
+          "secteur_en": "Public health insurance",
+          "secteur_zh": "公共医疗保险",
+          "effet_fr": "L’augmentation des cas de violence conjugale et féminicides alourdit les coûts des soins post-traumatiques, poussant les assureurs à revoir leurs tarifs ou à restreindre les couvertures.",
+          "effet_en": "Rising cases of domestic violence and feminicides increase post-traumatic care costs, forcing insurers to adjust rates or limit coverage.",
+          "effet_zh": "家庭暴力和女性被害案的增加加重了创伤后护理成本，迫使保险公司调整费率或限制报销范围。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-18T07:07:05.846368",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_334851",
       "titre": "Bruxelles lance plateforme unique",
       "titre_en": "Brussels introduces unified support hub",
@@ -6372,66 +6432,6 @@
         }
       ],
       "created_at": "2026-09-09T17:35:52.770516",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_805309",
-      "titre": "Meurtre conjugal : huile bouillante tue un médecin",
-      "titre_en": "Spousal murder: boiling oil kills doctor",
-      "titre_zh": "家暴案：沸油致医生遇害",
-      "titre_ru": "Врач убит кипящим маслом своей женой во сне",
-      "titre_fa": "دکتری توسط همسرش با روغن جوشان کشته شد",
-      "titre_ar": "طبيب قتل بالزيت الساخن من قبل زوجته أثناء نومه",
-      "titre_original": "- Un médecin tué à l'huile bouillante par sa femme",
-      "resume": "Le Dr Penda Augustin, médecin sénégalais, a été assassiné par son épouse qui lui a versé de l’huile bouillante sur le visage pendant son sommeil. Ce crime, survenu dans un contexte de violence conjugale, révèle une fois de plus l’ampleur des violences faites aux femmes en Afrique de l’Ouest. Les autorités locales enquêtent pour déterminer les motivations et les antécédents du couple, tandis que des associations dénoncent l’impunité persistante dans ces affaires.",
-      "resume_en": "Dr. Penda Augustin, a Senegalese doctor, was murdered by his wife who poured boiling oil on his face while he slept. This crime, occurring in a context of domestic violence, underscores the scale of gender-based violence in West Africa. Authorities are investigating the motives and background of the couple, while NGOs highlight ongoing impunity in such cases.",
-      "resume_zh": "塞内加尔医生彭达·奥古斯丁在睡梦中被妻子用沸油灌面致死，这是一起暴露西非家庭暴力严重性的案件。当局正调查动机和夫妻背景，而非政府组织则批评此类案件长期缺乏问责机制。",
-      "resume_ru": "Доктор Пенда Огюстен был убит своей женой, которая облила его кипящим маслом во время сна. Это трагическое происшествие вызвало вопросы о распространенности домашнего насилия в обществе. Случай стал предметом обсуждения в Сенегале и за его пределами.",
-      "resume_fa": "دکتر پندا آگوستین توسط همسرش که در حین خواب او را با روغن جوشان ریخت، کشته شد. این حادثه تراژیک سوال‌هایی دربارهٔ خشونت خانگی در جامعه ایجاد کرده است. این مورد مورد بحث در سенеغال و خارج از آن قرار گرفته است.",
-      "resume_ar": "قتل الدكتور بيندا أوغستين على يد زوجته التي صبّت عليه الزيت الساخن أثناء نومه. هذا الحادث الدرامي أثار أسئلة حول انتشار العنف المنزلي في المجتمع. أصبح هذا الموضوع موضوع نقاش في السنغال وخارجها.",
-      "analyse_detaillee": "Ce drame s’inscrit dans une tragédie plus large des violences conjugales en Afrique subsaharienne, où les femmes restent souvent les principales victimes de la violence domestique. Les causes profondes incluent des normes patriarcales ancrées, un manque d’éducation sur l’égalité des genres et une justice lente à agir contre les auteurs. À court terme, ce meurtre pourrait relancer les débats sur les lois anti-violences et les services d’aide aux victimes, déjà sous-financés. À moyen terme, une prise de conscience accrue pourrait émerger, mais les résistances culturelles et religieuses freineront les réformes. À long terme, une transformation sociale profonde sera nécessaire pour briser le cycle de la violence, notamment via l’éducation et l’autonomisation économique des femmes. Les acteurs comme l’État, la société civile et les médias ont un rôle clé à jouer, mais leur position reste souvent divisée entre fermeté et pragmatisme politique.",
-      "analyse_en": "This tragedy reflects a broader crisis of domestic violence in Sub-Saharan Africa, where women remain the primary victims of spousal abuse. Root causes include entrenched patriarchal norms, insufficient gender education, and a slow judicial system. Short-term, this murder may reignite discussions on anti-violence laws and underfunded victim support services. Medium-term, increased awareness could emerge, but cultural and religious resistance will hinder reforms. Long-term, a deep societal transformation is needed to break the cycle of violence, particularly through education and women’s economic empowerment. Actors like the government, civil society, and media play a crucial role, though their stance often oscillates between firmness and political pragmatism.",
-      "analyse_zh": "此案暴露了非洲撒哈拉以南地区家庭暴力的严重性，女性仍然是家暴的主要受害者。深层原因包括根深蒂固的男权主义文化、性别教育不足以及司法系统效率低下。短期内，此案可能再次推动反暴力法规和救援服务的讨论，但这些服务长期资金短缺。中期内，公众意识可能提升，但文化和宗教抵触将阻碍改革进程。长期来看，需要深层次社会变革才能打破暴力循环，特别是通过教育和女性经济独立。政府、民间组织和媒体扮演关键角色，但其立场往往在坚决与政治现实之间摇摆。",
-      "analyse_ru": "Этот случай подчеркивает острую проблему насилия в семье, которая остается малоизученной и недостаточно контролируемой в Африке. Женщины часто сталкиваются с социальной безнаказанностью за подобные преступления, что усугубляет ситуацию. Необходимы более строгие меры профилактики и реабилитации жертв, а также повышение осведомленности общественности. Медицинские работники, как и другие социальные группы, должны быть защищены от насилия. В Сенегале требуется усиление законодательной базы и поддержки для пострадавших.",
-      "analyse_fa": "این مورد مشکل جدی خشونت خانگی را که هنوز در آفریقا کمتر مورد مطالعه و کنترل قرار گرفته است، برجسته می‌کند. زنان اغلب با بی‌توجهی اجتماعی به این نوع جرائم مواجه هستند که وضعیت را وخیم‌تر می‌کند. نیاز به تدابیر پیشگیرانه و بازسازی قوی‌تر برای قربانیان و افزایش آگاهی عمومی وجود دارد. کارکنان پزشکی، مانند سایر گروه‌های اجتماعی، باید از خشونت محافظت شوند. در سенеغال، تقویت چارچوب قانونی و حمایت از قربانیان ضروری است.",
-      "analyse_ar": "هذا الحادث يبرز مشكلة العنف المنزلي الحادة التي ما زالت غير كافية الدراسة والتحكم بها في أفريقيا. النساء غالبًا ما يواجهن عدم المسؤولية الاجتماعية عن هذه الجريمة، مما يزداد خطورة الوضع. هناك حاجة إلى تدابير وقائية وrehabilitation أقوى للقربان، بالإضافة إلى زيادة الوعي العام. يجب حماية العاملين الطبيين، مثل المجموعات الاجتماعية الأخرى، من العنف. في السنغال، يجب تعزيز الإطار القانوني والدعم للقربان.",
-      "categorie": "Société",
-      "source": "Camer.be",
-      "url": "https://www.camer.be/94645/11:1/cameroun-un-medecin-tue-a-lhuile-bouillante-par-sa-femme.html",
-      "image": "https://www.camer.be/storage/photos/shares/Afrique2/Huile_Bouillante070926500.webp",
-      "date": "2026-09-07",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurances-vie et prévoyance",
-          "hausse": true
-        },
-        {
-          "label": "▼ Fonds de solidarité pour les victimes",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances-vie et prévoyance",
-          "secteur_en": "Life insurance and disability insurance",
-          "secteur_zh": "人寿保险和残疾保险",
-          "effet_fr": "Les primes pourraient augmenter pour les contrats couvrant les risques liés aux violences domestiques, en raison de l’augmentation des cas documentés et des coûts juridiques accrus.",
-          "effet_en": "Premiums may rise for policies covering domestic violence risks due to documented case increases and higher legal costs.",
-          "effet_zh": "由于家暴案件增加和法律成本上升，涵盖家暴风险的保险费可能会上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de solidarité pour les victimes",
-          "secteur_en": "Solidarity funds for victims",
-          "secteur_zh": "受害者互助基金",
-          "effet_fr": "Ces fonds pourraient voir leurs budgets réduits si les États priorisent d’autres dépenses sociales, malgré l’urgence des besoins des survivantes.",
-          "effet_en": "These funds may face budget cuts if governments prioritize other social expenditures, despite victims’ urgent needs.",
-          "effet_zh": "如果政府优先其他社会支出，这些基金可能面临预算削减，尽管受害者迫切需要资助。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-08T21:36:44.184678",
       "sous_categorie": "femmes"
     },
     {
