@@ -1,7 +1,66 @@
 {
-  "last_updated": "19/09/2026 à 17h48",
+  "last_updated": "19/09/2026 à 20h06",
   "articles": {
     "monde": [
+      {
+        "id": "monde_925831",
+        "titre": "FCC autorise rachat indirect de Warner par Paramount via fonds du Golfe",
+        "titre_en": "FCC approves Paramount’s indirect Gulf fund buyout of Warner Bros.",
+        "titre_zh": "FCC批准参数间接收购华纳",
+        "titre_ru": "FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout",
+        "titre_fa": "FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout",
+        "titre_ar": "FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout",
+        "titre_original": "FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout",
+        "resume": "La FCC a validé une demande de Paramount visant à contrôler indirectement Warner Bros. Discovery via des fonds souverains du Golfe, dans le cadre d’un rachat controversé. Cette opération s’inscrit dans une dynamique de concentration accrue dans le secteur des médias. Les régulateurs américains ont levé leurs réticences malgré des critiques sur les conflits d’intérêts potentiels.",
+        "resume_en": "The FCC approved Paramount’s request to indirectly acquire Warner Bros. Discovery through Gulf sovereign funds, amid a media consolidation wave. Regulators lifted objections despite concerns over potential conflicts of interest. The deal marks a major shift in Hollywood’s ownership landscape.",
+        "resume_zh": "美国联邦通信委员会批准了派拉蒙通过海湾主权基金间接收购华纳兄弟发现公司的请求，这是媒体行业集中化的重要一步。尽管存在潜在利益冲突的担忧，但监管机构仍然解除了反对意见。这笔交易标志着好莱坞所有权格局的重大变化。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce rachat s’inscrit dans une tendance historique de concentration des géants médiatiques, comme les fusions Disney-Fox ou AT&T-Time Warner. Les enjeux portent sur la diversité culturelle, la régulation des oligopoles et la souveraineté technologique américaine face à des acteurs comme Netflix ou Disney+. Les causes profondes incluent la recherche de synergies économiques et la pression des actionnaires pour maximiser la valeur. À court terme, les prix des actions des deux groupes pourraient fluctuer, tandis qu’à moyen terme, une réduction de la concurrence dans le streaming est probable. Long terme, cela pourrait accélérer la fragmentation des audiences et la dépendance aux algorithmes. Les acteurs clés sont les régulateurs (FCC, DOJ), les fonds souverains du Golfe et les concurrents européens (Comcast, Amazon).",
+        "analyse_en": "This acquisition follows a long-standing trend of media conglomerate consolidation, including Disney-Fox and AT&T-Time Warner mergers. Key stakes involve cultural diversity, anti-monopoly regulations, and U.S. tech sovereignty against Netflix or Disney. Root causes include economic synergies and shareholder pressure for value maximization. Short-term, stock prices may volatile, while medium-term, streaming competition could shrink. Long-term, audience fragmentation and algorithm dependency may accelerate. Major actors include regulators (FCC, DOJ), Gulf sovereign funds, and European rivals (Comcast, Amazon).",
+        "analyse_zh": "这笔收购属于媒体巨头集中化的历史趋势，类似于迪士尼收购福克斯和AT&T收购Time Warner的案例。主要影响涉及文化多样性、反垄断监管和美国技术主权，以及与奈飞或迪士尼的竞争。深层原因包括追求经济协同效应和股东要求最大化价值。短期内，两家公司的股价可能波动，中期内，流媒体市场的竞争可能减少。长期来看，观众碎片化和算法依赖可能加速。关键利益相关者包括监管机构（FCC、DOJ）、海湾主权基金和欧洲竞争对手（康卡斯特、亚马逊）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Business/wireStory/fcc-grants-paramounts-indirect-ownership-request-gulf-funds-136568767",
+        "image": "https://i.abcnewsfe.com/a/f45a5302-519a-4e7d-b9ca-ca5caad5eeb8/wirestory_d8172aef73431968412ec33f2f0a78ce_16x9.jpg?w=1600",
+        "date": "2026-09-18",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des médias et divertissement (streaming, cinéma)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Finance d’investissement (fonds souverains du Golfe)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des médias et divertissement (streaming, cinéma)",
+            "secteur_en": "Media and entertainment market (streaming, film)",
+            "secteur_zh": "媒体和娱乐市场（流媒体、电影）",
+            "effet_fr": "Cette fusion pourrait réduire la diversité des contenus et renforcer l’hégémonie des plateformes américaines sur le marché mondial.",
+            "effet_en": "The merger may reduce content diversity and strengthen U.S. platforms' dominance in global markets.",
+            "effet_zh": "这笔合并可能减少内容多样性，并加强美国平台在全球市场的主导地位。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Finance d’investissement (fonds souverains du Golfe)",
+            "secteur_en": "Sovereign wealth funds (Gulf investment finance)",
+            "secteur_zh": "主权财富基金（海湾投资金融）",
+            "effet_fr": "Les fonds du Golfe gagnent en influence dans les géants médiatiques, renforçant leur rôle géopolitique via des actifs stratégiques.",
+            "effet_en": "Gulf funds gain leverage in media giants, boosting their geopolitical role through strategic assets.",
+            "effet_zh": "海湾主权基金在媒体巨头中的影响力增强，通过战略资产提升其地缘政治作用。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-19T20:05:38.877419"
+      },
       {
         "id": "monde_979406",
         "titre": "La pub Sydney Sweeney révèle les inégalités dans le sport féminin",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-11T13:16:30.316016"
-      },
-      {
-        "id": "monde_680569",
-        "titre": "Jugeuse de Clancy révélée fan de Karen Read",
-        "titre_en": "Juror in Clancy case revealed as Karen Read fan",
-        "titre_zh": "克兰西案陪审员曝光为卡伦·里德粉丝",
-        "titre_ru": "Присяжная Линдси Клэнси оказалась фанаткой Карен Рид",
-        "titre_fa": "داور در مورد لینزی کلنسی، طرفدار شدید کارن رید بود",
-        "titre_ar": "حاكم ليندي كلانسي كان متحمسًا بشدة لكارين ريد",
-        "titre_original": "Lindsay Clancy juror was Karen Read super-fan, resurfaced social posts reveal",
-        "resume": "Une juresse ayant voté pour la non-responsabilité pénale de Lindsay Clancy dans l’affaire du meurtre de ses trois enfants s’est avérée être une fervente admiratrice de Karen Read, une figure controversée du mouvement anti-vaccins. Des publications sociales refouillées ont mis en lumière cette relation, soulevant des questions sur les biais potentiels dans le verdict. Ce cas relance le débat sur l’influence des réseaux sociaux et des communautés radicalisées dans les décisions judiciaires.",
-        "resume_en": "A juror who voted for Lindsay Clancy’s not-guilty verdict in the murder of her three children was revealed as a devoted fan of Karen Read, a controversial anti-vaccine advocate. Resurfaced social media posts exposed this connection, raising concerns about potential bias in the verdict. The case reignites discussions on the impact of online communities and radicalization on judicial decisions.",
-        "resume_zh": "一名在克兰西杀害三名子女案中投票认为其不负刑事责任的陪审员，被曝光为卡伦·里德的铁杆粉丝，后者是反疫苗运动中的争议人物。重新浮出水面的社交媒体帖子揭露了这一关系，引发了对陪审团偏见的质疑。此案再次引发关于在线社区和极端化对司法决定影响的讨论。",
-        "resume_ru": "Присяжный по делу Линдси Клэнси, которая проголосовала за непричастность к убийству своих троих детей, оказалась поклонницей Карен Рид. Об этом свидетельствуют недавно обнаруженные посты в социальных сетях. Это вызывает вопросы о возможном предвзятом отношении и влиянии на вердикт.",
-        "resume_fa": "یک داوری که در مورد لینزی کلنسی، که از مسئولیت جنایی در قتل سه فرزندش تبرئه شد، رای داد، به نظر یک طرفدار شدید کارن رید بود. پست‌های جدید شبکه‌های اجتماعی این موضوع را تأیید می‌کنند. این موضوع سوال‌هایی در مورد پیش‌دوری احتمالی و تأثیر بر رأی نهایی ایجاد کرده است.",
-        "resume_ar": "حاكم قضائي قضى لصالح ليندي كلانسي، التي تبرأت من مسؤولية قتل ثلاثة أطفالها، كان متحمسًا بشدة لكارين ريد. هذا ما أكده رسائل جديدة على شبكات التواصل الاجتماعي. هذا يثير أسئلة حول وجود تحيز محتمل وتأثيره على قرار المحكمة.",
-        "analyse_detaillee": "Ce procès s’inscrit dans un contexte de polarisation croissante aux États-Unis, où les mouvements anti-vaccins et les théories du complot gagnent en influence, notamment après la pandémie de COVID-19. Les réseaux sociaux, en amplifiant les discours extrêmes, ont créé des bulles informationnelles où les préjugés peuvent biaiser les décisions collectives, comme en témoigne ce verdict. Les causes profondes incluent la désinformation systémique, la radicalisation passive via les algorithmes et l’absence de régulation stricte des plateformes. À court terme, ce cas pourrait entraîner des appels à des audits des jurés et une remise en question de la crédibilité des tribunaux. À moyen terme, on observe une montée des demandes de transparence sur les conflits d’intérêts dans les affaires judiciaires sensibles. Long terme, cela pourrait accélérer les réformes législatives sur la modération des contenus en ligne et la formation des jurés. Les acteurs clés sont les médias traditionnels, qui doivent équilibrer couverture et désinformation, et les plateformes numériques, dont la responsabilité est de plus en plus interrogée.",
-        "analyse_en": "This trial reflects the growing polarization in the U.S., where anti-vaccine movements and conspiracy theories have gained traction, particularly post-COVID-19 pandemic. Social media platforms, by amplifying extreme discourse, have created echo chambers where biases can distort collective decisions, as seen in this verdict. Root causes include systemic disinformation, passive radicalization through algorithms, and the lack of strict regulation of these platforms. Short-term, this case may lead to calls for jury audits and skepticism about the credibility of courts. Medium-term, it could drive demands for transparency on conflicts of interest in sensitive judicial cases. Long-term, this might accelerate legislative reforms on online content moderation and jury training. Key actors include traditional media, which must balance coverage with disinformation, and digital platforms, whose responsibility is increasingly scrutinized.",
-        "analyse_zh": "此案发生在美国日益极化的背景下，反疫苗运动和阴谋论在COVID-19疫情后影响力增强。社交媒体通过放大极端言论，形成了信息茧房，使偏见可能扭曲集体决策，如本案陪审团裁决所示。深层原因包括系统性的误导、算法导致的被动极端化以及对平台缺乏严格监管。短期内，此案可能引发对陪审团审查的要求，并对法庭的可信度产生质疑。中期内，可能推动对敏感司法案件中利益冲突的透明度要求。长期来看，这可能加速对在线内容审核和陪审团培训的立法改革。关键利益相关者包括传统媒体，它们需要在报道与误导之间取得平衡，以及数字平台，其责任正面临越来越多的质疑。",
-        "analyse_ru": "Случай вызывает сомнения в объективности судебного процесса, так как присяжный мог быть предвзят в пользу обвиняемой. Карен Рид — известная фигура в обществе, и её популярность могла повлиять на решение. Это поднимает вопрос о прозрачности отбора присяжных и возможном давлении со стороны общественного мнения. В будущем подобные случаи могут привести к пересмотру правил подбора жюри. Позиция сторон разделилась: защитники Клэнси обвиняют в предвзятости, а сторонники Рид считают это случайным совпадением.",
-        "analyse_fa": "این مورد شک‌هایی در مورد بی‌طرفی فرایند قضایی ایجاد می‌کند، زیرا داوری ممکن است در حمایت از متهم پیش‌دوری داشته باشد. کارن رید یک شخصیت شناخته‌شده در جامعه است و محبوبیت او ممکن است بر تصمیم تأثیر بگذارد. این موضوع سوالی در مورد شفافیت انتخاب داوری‌ها و احتمال فشار از سوی نظر عمومی ایجاد می‌کند. در آینده، چنین مواردی ممکن است منجر به بازبینی قوانین انتخاب داوری‌ها شود. موضع بازیگران تقسیم شده است: مدافعان کلنسی از پیش‌دوری اتهام می‌برند، در حالی که طرفداران رید این را اتفاقی می‌دانند.",
-        "analyse_ar": "هذا الأمر يثير شكوك حول موضوعية عملية المحكمة، حيث قد يكون الحاكم متحيزًا لصالح المتهمة. كارين ريد شخصية معروفة في المجتمع، وقد تؤثر شعبيتها على القرار. هذا يطرح سؤال حول شفافية اختيار المحكمين وتأثير الرأي العام المحتمل. في المستقبل، قد يؤدي مثل هذه الحالات إلى مراجعة قواعد اختيار المحكمين. مواقف الأطراف متضاربة: مدافعو كلانسي يتهمون بالتحيز، بينما يعتبر طرفاء ريد هذا مجرد صدفة.",
-        "categorie": "Justice et Société",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/09/09/us-news/lindsay-clancy-juror-was-karen-read-super-fan-resurfaced-social-posts-reveal/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140356378.jpg?quality=75&strip=all&w=1200",
-        "date": "2026-09-09",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Médias sociaux (réseaux numériques)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Industrie juridique (formation des jurés)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Médias sociaux (réseaux numériques)",
-            "secteur_en": "Social media platforms",
-            "secteur_zh": "社交媒体平台",
-            "effet_fr": "L’affaire expose la vulnérabilité des algorithmes à manipuler l’opinion publique via des contenus polarisants, affectant la confiance dans les institutions judiciaires.",
-            "effet_en": "The case highlights the susceptibility of algorithms to manipulate public opinion through polarizing content, undermining trust in judicial institutions.",
-            "effet_zh": "此案揭示了算法通过极端内容操纵公众舆论的脆弱性，影响了对司法机构的信任度。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Industrie juridique (formation des jurés)",
-            "secteur_en": "Legal industry (jury training)",
-            "secteur_zh": "法律行业（陪审团培训）",
-            "effet_fr": "Les révélations pourraient accélérer les réformes sur la détection des biais inconscients lors des sélections de jurés et renforcer les modules éthiques dans les programmes de formation.",
-            "effet_en": "The revelations may speed up reforms on detecting unconscious biases during jury selection and strengthen ethical modules in training programs.",
-            "effet_zh": "这些曝光可能加速改革，以在陪审团遴选过程中检测潜在偏见，并加强培训课程中的伦理模块。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-10T23:45:07.647793"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_854465",
+        "titre": "Juge annule programme solaire de 7 milliards pour pauvres aux États-Unis",
+        "titre_en": "Judge voids $7B solar program for low-income Americans",
+        "titre_zh": "法官废止美国70亿美元低收入太阳能计划",
+        "titre_ru": "Judge rules EPA illegally terminated $7 billion solar program intended to help poorer Americans",
+        "titre_fa": "Judge rules EPA illegally terminated $7 billion solar program intended to help poorer Americans",
+        "titre_ar": "Judge rules EPA illegally terminated $7 billion solar program intended to help poorer Americans",
+        "titre_original": "Judge rules EPA illegally terminated $7 billion solar program intended to help poorer Americans",
+        "resume": "Un juge fédéral a annulé le programme *Solar for All*, lancé sous l’administration Obama et abandonné par Trump, destinant 7 milliards de dollars à démocratiser l’énergie solaire pour les ménages modestes. La décision souligne les blocages politiques liés aux énergies renouvelables. Les associations environnementales dénoncent une régression écologique majeure.",
+        "resume_en": "A federal judge struck down *Solar for All*, a $7 billion Obama-era program abandoned by Trump to make solar power accessible to low-income households. The ruling highlights political gridlock over renewable energy. Environmental groups call it a major ecological setback.",
+        "resume_zh": "一名联邦法官废止了奥巴马时期启动、特朗普政府放弃的《太阳能为所有人》计划，该计划将70亿美元用于为低收入家庭普及太阳能。裁决凸显了可再生能源领域的政治僵局。环保组织称这是一次重大生态倒退。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce programme s’inscrit dans la transition énergétique américaine post-2008, accélérée sous Obama avec des investissements massifs dans les renouvelables. Les enjeux portent sur l’équité sociale (accès à l’énergie propre) et la souveraineté énergétique face aux énergies fossiles. Les causes profondes incluent les lobbies pétroliers et les divisions partisanes sur le climat. Court terme, les ménages modestes perdront un accès facilité à l’énergie verte, aggravant les inégalités. Moyen terme, les États pourraient relancer des initiatives locales, mais avec des budgets réduits. Long terme, cela pourrait retarder les objectifs de décarbonation de 2050. Les acteurs clés sont les États progressistes (Californie), les lobbies (fossile vs. vert) et l’administration Biden.",
+        "analyse_en": "The program aligned with post-2008 U.S. energy transition, accelerated under Obama with massive renewable investments. Stakes include social equity (access to clean energy) and energy sovereignty against fossil fuels. Root causes involve oil lobby influence and partisan climate divisions. Short-term, low-income households lose access to green energy, widening inequality. Medium-term, states may revive local initiatives with limited budgets. Long-term, this could delay 2050 decarbonization goals. Key actors include progressive states (California), lobbies (fossil vs. green), and the Biden administration.",
+        "analyse_zh": "该计划属于2008年后美国能源转型的一部分，奥巴马政府在可再生能源领域进行了大规模投资。主要影响涉及社会公平（清洁能源的普及）和能源主权，以及与化石燃料的竞争。深层原因包括石油行业游说和气候问题上的党派分歧。短期内，低收入家庭将失去对清洁能源的便利接入，加剧不平等。中期内，各州可能重启地方项目，但预算有限。长期来看，这可能推迟2050年碳中和目标。关键利益相关者包括进步州（如加利福尼亚）、游说集团（化石能源与绿色能源）和拜登政府。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/wireStory/judge-rules-epa-illegally-terminated-7-billion-solar-136569326",
+        "image": "https://i.abcnewsfe.com/a/7ba9044d-5aa9-45aa-826e-bb4270edd724/wirestory_0bae42fcf85906ea48ee0f6f4d6c83a9_16x9.jpg?w=1600",
+        "date": "2026-09-18",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Énergie solaire et renouvelables",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché des subventions fédérales (climat)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Énergie solaire et renouvelables",
+            "secteur_en": "Solar and renewable energy",
+            "secteur_zh": "太阳能和可再生能源",
+            "effet_fr": "La suppression du programme prive les ménages à revenus faibles d’un accès abordable à l’énergie verte, freinant la transition écologique.",
+            "effet_en": "The program’s cancellation denies low-income households affordable access to green energy, stalling ecological transition.",
+            "effet_zh": "计划的废止剥夺了低收入家庭对清洁能源的便利接入，阻碍了生态转型。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des subventions fédérales (climat)",
+            "secteur_en": "Federal subsidy market (climate)",
+            "secteur_zh": "联邦补贴市场（气候）",
+            "effet_fr": "Les investisseurs et États pourraient réorienter les fonds vers des projets moins ambitieux ou des technologies moins coûteuses.",
+            "effet_en": "Investors and states may redirect funds to less ambitious projects or cheaper technologies.",
+            "effet_zh": "投资者和各州可能将资金重新分配到更不雄心勃勃的项目或更低成本的技术上。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-19T20:05:38.877441"
+      },
       {
         "id": "usa_517715",
         "titre": "Michigan rejette les tarifs de Trump sur le Canada",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-09-11T13:16:30.316044"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_258926",
-        "titre": "Équipe de Melania Trump répond sur aide controversée Harp",
-        "titre_en": "Trump team addresses Harp aide controversy",
-        "titre_zh": "特朗普团队回应哈普助手争议",
-        "titre_ru": "Спикер Мелании Трамп прокомментировал слухи о «человеческом принтере» Натали Харп",
-        "titre_fa": "دستگاه ملانیا ترامپ در مورد «چاپگر انسانی» ناتالی هارپ سکوت را شکسته است",
-        "titre_ar": "ناطق أول夫人 ترامب يكسر الصمت حول «الطابعة البشرية» ناتالي هارب",
-        "titre_original": "Melania Trump's team breaks silence on her husband's devoted 'human printer' aide Natalie Harp",
-        "resume": "Le porte-parole de la première dame Melania Trump a minimisé les rumeurs persistantes concernant son mari et son aide Natalie Harp, surnommée le «imprimeur humain» pour son rôle de copier-coller d’articles. Cette réponse intervient après des mois de spéculations sur une relation professionnelle ambiguë. Les médias continuent de scruter les liens entre l’administration et les figures controversées.",
-        "resume_en": "Melania Trump’s top spokesman downplayed persistent rumors about her husband and aide Natalie Harp, dubbed the ‘human printer’ for her role in copying articles. This response follows months of speculation about the ambiguous professional relationship. Media scrutiny of ties between the administration and controversial figures remains intense.",
-        "resume_zh": "梅拉尼娅·特朗普的首席发言人回应了关于她丈夫和助手娜塔莉·哈普的争议，后者因复制文章而被戏称为“人类打印机”。此回应发生在数月的猜测之后，关于这个模糊的职业关系。媒体对行政部门与争议人物之间联系的关注依然强烈。",
-        "resume_ru": "Спикер первой леди Мелании Трамп в интервью опроверг слухи о тесных отношениях между её мужем Дональдом Трампом и помощницей Натали Харп. Он назвал эти домыслы несерьёзными и не имеющими оснований. Тем не менее, слухи продолжают распространяться в СМИ и социальных сетях, несмотря на официальные заявления.",
-        "resume_fa": "ناطق اول夫人 ملانیا ترامپ در مصاحبه، ادعاهای مربوط به روابط نزدیک دونالد ترامپ با دستیار ناتالی هارپ را رد کرد. او این افسانه‌ها را جدی ندانست و ادعا کرد که هیچ پایه‌ای ندارند. با این حال، این خبرها همچنان در رسانه‌ها و شبکه‌های اجتماعی پخش می‌شوند، حتی پس از اعلامیه‌های رسمی.",
-        "resume_ar": "ناطق أول夫人 ترامب نفى في مقابلة أن هناك علاقات وثيقة بين زوجها دونالد ترامب ومساعده ناتالي هارب. وصف هذه الشائعات بأنها غير جدية وغير مبررة. ومع ذلك، استمرت هذه الأخبار في الانتشار عبر وسائل الإعلام والشبكات الاجتماعية، حتى بعد التصريحات الرسمية.",
-        "analyse_detaillee": "Ce sujet s’inscrit dans une tradition américaine de suspicion envers les cercles proches du pouvoir, remontant aux affaires de corruption des années 1970 (Watergate). Les rumeurs autour de Harp exploitent un narratif récurrent de népotisme et de manque de transparence dans les administrations politiques. Les causes profondes incluent la culture de la désinformation médiatique et la polarisation politique, où chaque détail est instrumentalisé. À court terme, cette affaire pourrait renforcer les critiques sur l’opacité de la Maison-Blanche et alimenter les débats sur les conflits d’intérêts. À moyen terme, cela pourrait influencer les élections de 2024 en mobilisant l’électorat anti-Trump. Long terme, cela pourrait accélérer les réformes sur la gestion des conflits d’intérêts dans les administrations fédérales. Les acteurs clés sont les médias conservateurs et progressistes, qui amplifient ou relativisent l’affaire selon leurs agendas, ainsi que les lobbies politiques cherchant à discréditer ou protéger l’administration.",
-        "analyse_en": "This issue fits into a long-standing American tradition of suspicion toward inner circles of power, dating back to the corruption scandals of the 1970s (Watergate). Rumors about Harp tap into a recurring narrative of nepotism and lack of transparency in political administrations. Root causes include a culture of media disinformation and political polarization, where every detail is weaponized. Short-term, this affair may intensify criticism of the White House’s opacity and fuel debates on conflicts of interest. Medium-term, it could impact the 2024 elections by mobilizing the anti-Trump electorate. Long-term, it might accelerate reforms on conflict-of-interest management in federal administrations. Key actors include conservative and progressive media outlets, which amplify or downplay the affair based on their agendas, as well as political lobbies seeking to discredit or protect the administration.",
-        "analyse_zh": "此事源于美国长期以来对权力核心人物的怀疑传统，可追溯到20世纪70年代的水门事件腐败丑闻。关于哈普的谣言利用了一个反复出现的叙事，即政治行政部门中的亲疏关系和缺乏透明度。深层原因包括媒体误导文化和政治极化，每一细节都被武器化。短期内，此事可能加剧对白宫不透明度的批评，并推动关于利益冲突的辩论。中期内，这可能影响2024年选举，动员反特朗普选民。长期来看，这可能加速联邦行政部门利益冲突管理的改革。关键利益相关者包括保守派和进步派媒体，它们根据各自的议程放大或缩小此事，以及试图诋毁或保护行政部门的政治利益集团。",
-        "analyse_ru": "Слухи о Харп возникли из-за её активной работы в администрации Трампа и близкого общения с президентом. Такие домыслы часто появляются вокруг политиков и их помощников, особенно если отношения кажутся неформальными. Официальные заявления не всегда останавливают спекуляции, так как СМИ ищут сенсации. В будущем подобные истории могут повлиять на репутацию как Харп, так и Трампа. Позиция администрации Трампа остаётся твёрдой: они отрицают все обвинения, но это не всегда убеждает общественность.",
-        "analyse_fa": "افسانه‌های مربوط به هارپ به دلیل فعالیت فعال او در اداری ترامپ و ارتباط نزدیک با رئیس‌جمهور ایجاد شده است. چنین شایعاتی معمولاً در مورد سیاستمداران و دستیاران آن‌ها ظاهر می‌شوند، به ویژه اگر روابط غیررسمی به نظر برسد. اعلامیه‌های رسمی همیشه نمی‌توانند از تخمین‌ها جلوگیری کنند، زیرا رسانه‌ها به دنبال خبرهای حساس هستند. در آینده، چنین داستان‌هایی ممکن است بر شهرت هارپ و ترامپ تأثیر بگذارد. موضع اداری ترامپ همچنان ثابت است: آن‌ها همه اتهامات را رد می‌کنند، اما این همیشه مردم را قانع نمی‌کند.",
-        "analyse_ar": "ظهرت الشائعات حول هارب بسبب نشاطها في إدارة ترامب و ارتباطها الوثيق بالرئيس. مثل هذه الشائعات عادة ما تظهر حول السياسيين ومساعدهم، خاصة إذا بدت العلاقات غير رسمية. التصريحات الرسمية لا توقف دائمًا التخمينات، حيث يبحث الإعلام عن أخبار حساسة. في المستقبل، قد تؤثر مثل هذه القصص على سمعة هارب وترامب. موقف إدارة ترامب ثابت: إنهم ينكرون جميع التهم، ولكن هذا لا يقنع دائمًا الجمهور.",
-        "categorie": "Politique et Gouvernance",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-16119131/melania-trump-natalie-harp-response.html",
-        "image": "https://i.dailymail.com/1s/2026/09/10/00/111146253-0-image-a-12_1788996477207.jpg",
-        "date": "2026-09-09",
-        "pays": "usa",
+        "id": "chine_31861",
+        "titre": "AI presque déclenche guerre avec Chine via fausse intelligence",
+        "titre_en": "AI nearly sparked war with China over false intel",
+        "titre_zh": "AI差点因虚假情报引发中美战争",
+        "titre_ru": "We Almost Went to War With China Thanks to AI-Hallucinated Intel",
+        "titre_fa": "We Almost Went to War With China Thanks to AI-Hallucinated Intel",
+        "titre_ar": "We Almost Went to War With China Thanks to AI-Hallucinated Intel",
+        "titre_original": "We Almost Went to War With China Thanks to AI-Hallucinated Intel",
+        "resume": "Un chatbot d’IA du Pentagone a convaincu un analyste que un navire chinois transportait des composants nucléaires, déclenchant une fausse alerte de guerre. Cet incident révèle les risques de l’IA dans la prise de décision militaire. La Chine dénonce une escalade provocatrice des États-Unis.",
+        "resume_en": "A Pentagon AI chatbot convinced an analyst that a Chinese ship carried nuclear components, nearly triggering a false war alert. The incident highlights AI risks in military decision-making. China accuses the U.S. of provocative escalation.",
+        "resume_zh": "五角大楼的一款AI聊天机器人让分析员误以为一艘中国船携带核组件，差点引发虚假战争警报。此事凸显了AI在军事决策中的风险。中国指责美国挑衅升级。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce cas illustre les tensions sino-américaines depuis les années 1990, marquées par des crises comme Taïwan ou la mer de Chine méridionale. Les enjeux portent sur la fiabilité des systèmes d’IA en temps de crise et la désescalade des conflits. Les causes profondes incluent la course technologique et la méfiance mutuelle. Court terme, cela pourrait renforcer les protocoles de vérification humaine dans les armées. Moyen terme, les États-Unis pourraient accélérer leurs investissements en IA militaire pour éviter les erreurs. Long terme, cela pourrait favoriser des traités internationaux sur l’usage de l’IA en guerre. Les acteurs clés sont Pékin, Washington et les entreprises tech (Google, Microsoft).",
+        "analyse_en": "This incident reflects U.S.-China tensions since the 1990s, marked by crises like Taiwan or the South China Sea. Stakes involve AI reliability in crises and conflict de-escalation. Root causes include tech competition and mutual distrust. Short-term, this may strengthen human verification protocols in militaries. Medium-term, the U.S. could accelerate military AI investments to avoid mistakes. Long-term, it may push for international treaties on AI in warfare. Key actors include Beijing, Washington, and tech firms (Google, Microsoft).",
+        "analyse_zh": "此事反映了自上世纪90年代以来中美之间的紧张关系，包括台湾和南海危机。主要影响涉及危机期间AI系统的可靠性和冲突降级。深层原因包括技术竞争和相互不信任。短期内，这可能加强军队中人工验证的程序。中期内，美国可能加速军事AI投资以避免错误。长期来看，这可能推动国际条约以规范战争中的AI使用。关键利益相关者包括北京、华盛顿和科技企业（谷歌、微软）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Technologie",
+        "source": "New York Magazine",
+        "url": "http://nymag.com/intelligencer/article/ai-hallucinated-intelligence-report-nearly-started-us-war-with-china.html",
+        "image": "https://pyxis.nymag.com/v1/imgs/26d/522/e4767b6ca5198761522c7b5bb09e08b9bd-pentagon-aug-26.1x.rsocial.w1200.jpg",
+        "date": "2026-09-18",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Communication politique (réputation des élites)",
-            "hausse": false
+            "label": "▲ Secteur de la défense et cybersécurité",
+            "hausse": true
           },
           {
-            "label": "▲ Médias (audience et désinformation)",
+            "label": "▲ Industrie des technologies de l’information (IA)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Communication politique (réputation des élites)",
-            "secteur_en": "Political communication (elite reputation)",
-            "secteur_zh": "政治沟通（精英声誉）",
-            "effet_fr": "Les déclarations officielles pourraient temporairement apaiser les tensions, mais les rumeurs persistent et affectent la crédibilité des figures politiques, notamment en période électorale.",
-            "effet_en": "Official statements may temporarily ease tensions, but persistent rumors undermine the credibility of political figures, especially during election periods.",
-            "effet_zh": "官方声明可能暂时缓解紧张局势，但持续的谣言损害了政治人物的可信度，尤其是在选举期间。",
-            "hausse": false
+            "secteur_fr": "Secteur de la défense et cybersécurité",
+            "secteur_en": "Defense and cybersecurity sector",
+            "secteur_zh": "国防和网络安全领域",
+            "effet_fr": "Cet incident pourrait accélérer les investissements dans l’IA militaire et les audits de sécurité des algorithmes stratégiques.",
+            "effet_en": "The incident may accelerate military AI investments and audits of strategic algorithm security.",
+            "effet_zh": "此事可能加速军事AI投资和对战略算法安全的审计。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Médias (audience et désinformation)",
-            "secteur_en": "Media (audience and disinformation)",
-            "secteur_zh": "媒体（受众与误导）",
-            "effet_fr": "Les plateformes numériques, en relayant ces rumeurs, renforcent les divisions politiques et réduisent la confiance dans les institutions, tout en maximisant leur audience.",
-            "effet_en": "Digital platforms, by spreading these rumors, deepen political divisions and erode trust in institutions while maximizing their audience.",
-            "effet_zh": "数字平台通过传播这些谣言，加深了政治分裂，削弱了对机构的信任，同时最大化了其受众。",
+            "secteur_fr": "Industrie des technologies de l’information (IA)",
+            "secteur_en": "Information technology industry (AI)",
+            "secteur_zh": "信息技术行业（AI）",
+            "effet_fr": "Les entreprises tech pourraient renforcer leurs protocoles éthiques et de transparence pour limiter les risques géopolitiques.",
+            "effet_en": "Tech firms may strengthen ethical and transparency protocols to limit geopolitical risks.",
+            "effet_zh": "科技公司可能加强伦理和透明度协议，以限制地缘政治风险。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-10T23:45:07.647819"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-09-19T20:05:38.877451"
+      },
       {
         "id": "chine_764595",
         "titre": "Délégués nord-coréens à la conférence de Xiangshan",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-09-04T03:00:04.895389"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_428161",
-        "titre": "Taïwan veut jouer un rôle clé dans les matériaux CPO",
-        "titre_en": "Taiwan eyes key role in CPO materials race",
-        "titre_zh": "台湾欲在CPO材料竞争中扮演关键角色",
-        "titre_ru": "Гонка за материалами CPO расширяется с участием Тайваня",
-        "titre_fa": "رقابت بر سر مواد CPO با نقش‌آفرینی تایوان گسترده‌تر شد",
-        "titre_ar": "توسع سباق المواد CPO مع دور تايوان المحوري",
-        "titre_original": "CPO material race widens as Taiwan eyes key role",
-        "resume": "Lors du Sommet du Réseau des Semi-conducteurs 2026, Taïwan a été identifiée comme un acteur majeur dans la course aux matériaux CPO (Optique de Packaging Co-packaged). Plusieurs entreprises internationales ont souligné son rôle stratégique. La Chine et les États-Unis surveillent de près cette dynamique.",
-        "resume_en": "At the Semicon Network Summit 2026, Taiwan was identified as a major player in the race for CPO (Co-packaged Optics) materials. Several international companies highlighted its strategic role. China and the United States are closely monitoring this dynamic.",
-        "resume_zh": "在2026年半导体网络峰会上，台湾被确定为CPO（共封装光学）材料竞争中的主要参与者。多家国际公司强调了其战略作用。中国和美国密切关注这一动态。",
-        "resume_ru": "На саммите Semicon Network Summit 2026 обсуждается расширение гонки за материалами CPO. Тайвань играет ключевую роль в этом процессе. Участники из разных стран, включая Нидерланды и Великобританию, делятся опытом и технологиями. Это может укрепить позиции Тайваня на мировом рынке.",
-        "resume_fa": "در اجلاس Semicon Network Summit 2026 درباره گسترش رقابت بر سر مواد CPO بحث می‌شود. تایوان نقش کلیدی در این فرایند دارد. شرکت‌کنندگانی از کشورهای مختلف از جمله هلند و بریتانیا تجربیات و فناوری‌های خود را به اشتراک می‌گذارند. این می‌تواند موقعیت تایوان را در بازار جهانی تقویت کند.",
-        "resume_ar": "نوقشت في قمة Semicon Network Summit 2026 توسع سباق المواد CPO. تلعب تايوان دوراً محورياً في هذه العملية. يشارك ممثلون من دول مختلفة، بما في ذلك هولندا وبريطانيا، خبراتهم وتكنولوجياتهم. قد يعزز هذا موقف تايوان في السوق العالمية.",
-        "analyse_detaillee": "Taïwan occupe une position centrale dans l'industrie des semi-conducteurs depuis des décennies, notamment grâce à TSMC. La course aux matériaux CPO s'inscrit dans une stratégie de réduction des coûts et d'amélioration des performances des puces électroniques. Historiquement, Taïwan a bénéficié de son expertise en fabrication avancée et de son intégration dans les chaînes d'approvisionnement mondiales. À court terme, cette position pourrait renforcer son leadership technologique face à la concurrence chinoise et américaine. À moyen terme, cela pourrait accélérer les investissements dans la R&D locale. Sur le long terme, Taïwan pourrait devenir un hub incontournable pour les technologies d'avenir. Les acteurs clés incluent TSMC, les États-Unis, la Chine et l'UE. La situation illustre la dépendance mondiale envers Taïwan pour les semi-conducteurs. Enfin, cela pourrait influencer les politiques industrielles des grandes puissances.",
-        "analyse_en": "Taiwan has held a central position in the semiconductor industry for decades, particularly thanks to TSMC. The race for CPO materials is part of a strategy to reduce costs and improve the performance of electronic chips. Historically, Taiwan has benefited from its advanced manufacturing expertise and integration into global supply chains. In the short term, this position could strengthen its technological leadership against Chinese and American competition. In the medium term, this could accelerate investments in local R&D. Long-term, Taiwan could become an essential hub for future technologies. Key actors include TSMC, the United States, China, and the EU. The situation highlights global dependence on Taiwan for semiconductors. Finally, this could influence the industrial policies of major powers.",
-        "analyse_zh": "几十年来，台湾凭借台积电等企业在半导体行业占据核心地位。CPO材料竞争是降低成本和提升芯片性能战略的一部分。历史上，台湾因其先进制造专长和融入全球供应链而受益。短期内，这一地位可能在与中国和美国的竞争中巩固其技术领导地位。中期来看，这可能加速对本地研发的投资。长期而言，台湾可能成为未来技术的重要枢纽。关键参与者包括台积电、美国、中国和欧盟。此事凸显了世界对台湾半导体的依赖。最后，这可能影响主要大国的产业政策。",
-        "analyse_ru": "Гонка за материалами CPO отражает растущий спрос на полупроводниковые технологии в мире. Причины расширения участия Тайваня связаны с его технологическим лидерством и инвестициями в инфраструктуру. Последствия могут укрепить позиции Тайваня как ключевого игрока на рынке. Перспективы зависят от инноваций и сотрудничества между странами. Позиции сторон: Тайвань стремится к лидерству, а другие страны ищут партнерства для развития своих технологий.",
-        "analyse_fa": "رقابت بر سر مواد CPO نشان‌دهنده تقاضای فزاینده برای فناوری‌های نیمه‌رسانا در جهان است. دلایل گسترش نقش تایوان به رهبری فناوری و سرمایه‌گذاری در زیرساخت‌ها بازمی‌گردد. پیامدهای این رقابت می‌تواند موقعیت تایوان را به‌عنوان بازیگر کلیدی در بازار تقویت کند. چشم‌اندازها به نوآوری‌ها و همکاری بین کشورها بستگی دارد. مواضع متفاوت است: تایوان به دنبال رهبری است، در حالی که کشورهای دیگر به دنبال شراکت برای توسعه فناوری‌های خود هستند.",
-        "analyse_ar": "يعكس سباق المواد CPO الطلب المتزايد على تقنيات أشباه الموصلات في العالم. تعود أسباب توسع دور تايوان إلى قيادتها التكنولوجية واستثماراتها في البنية التحتية. قد تعزز العواقب موقف تايوان كلاعب رئيسي في السوق. آفاق الأمر تعتمد على الابتكارات والتعاون بين الدول. هناك مواقف متباينة: تسعى تايوان إلى القيادة، بينما تسعى دول أخرى إلى الشراكات لتطوير تقنياتها.",
-        "categorie": "Technologie",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260902PD244/2026-taiwan-semicon-marvell-cpo.html",
-        "image": "https://img.digitimes.com/newsshow/20260902pd244_files/1_b.jpg",
-        "date": "2026-09-02",
-        "pays": "chine",
+        "id": "russie_769356",
+        "titre": "Poutine accuse dirigeants européens de 'déclarer la guerre'",
+        "titre_en": "Putin accuses EU leaders of 'declaring war'",
+        "titre_zh": "普京指责欧盟领导人‘宣战’",
+        "titre_ru": "Putin: Some European leaders openly declaring war",
+        "titre_fa": "Putin: Some European leaders openly declaring war",
+        "titre_ar": "Putin: Some European leaders openly declaring war",
+        "titre_original": "Putin: Some European leaders openly declaring war",
+        "resume": "Vladimir Poutine a accusé certains dirigeants européens de vouloir 'sauver leurs sondages' en alimentant une rhétorique anti-Russie. Il dénonce une instrumentalisation politique de la guerre en Ukraine. Les tensions persistent malgré les efforts diplomatiques récents.",
+        "resume_en": "Vladimir Putin accused some EU leaders of trying to 'save their ratings' by stoking anti-Russia rhetoric. He denounces political manipulation of the Ukraine war. Tensions persist despite recent diplomatic efforts.",
+        "resume_zh": "普京指责一些欧洲领导人试图通过煽动反俄言论‘挽救民意支持’。他谴责政治操弄乌克兰战争。尽管近期有外交努力，但紧张局势依然持续。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette déclaration s’inscrit dans une escalade rhétorique depuis 2014 (Crimee, Donbass), où Moscou accuse l’Occident de 'guerre hybride'. Les enjeux incluent la légitimité de Poutine face à la crise ukrainienne et la survie du régime. Les causes profondes sont la peur d’un encerclement de la Russie (OTAN) et la dépendance économique à l’Europe. Court terme, cela pourrait durcir les sanctions et les livraisons d’armes à Kiev. Moyen terme, l’UE pourrait unifier sa réponse, mais avec des divisions internes persistantes. Long terme, cela pourrait accélérer la fragmentation de l’Europe et renforcer l’axe Moscou-Pékin. Les acteurs clés sont Poutine, l’OTAN, et les États-Unis.",
+        "analyse_en": "This statement follows a rhetorical escalation since 2014 (Crimea, Donbas), where Moscow accuses the West of 'hybrid war'. Stakes include Putin’s legitimacy amid Ukraine’s crisis and regime survival. Root causes involve fear of Russian encirclement (NATO) and economic dependence on Europe. Short-term, this may toughen sanctions and arms deliveries to Kyiv. Medium-term, the EU could unify its response, but internal divisions persist. Long-term, this may accelerate European fragmentation and strengthen the Moscow-Beijing axis. Key actors include Putin, NATO, and the U.S.",
+        "analyse_zh": "这一声明属于自2014年（克里米亚、顿巴斯危机）以来俄方的言辞升级，莫斯科指控西方进行‘杂交战争’。主要影响涉及普京在乌克兰危机中的合法性和政权生存。深层原因包括对北约‘包围’的恐惧和对欧洲经济的依赖。短期内，这可能加剧制裁和向基辅提供武器。中期内，欧盟可能统一回应，但内部分歧依然存在。长期来看，这可能加速欧洲分裂并加强莫斯科-北京轴心。关键利益相关者包括普京、北约和美国。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f5e7f14522fb866f",
+        "image": "https://biztoc.com/cdn/f5e7f14522fb866f_s.webp",
+        "date": "2026-09-18",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Secteur des semi-conducteurs",
-            "hausse": true
+            "label": "▼ Marché des sanctions internationales",
+            "hausse": false
           },
           {
-            "label": "▲ Secteur financier technologique",
-            "hausse": true
+            "label": "▼ Énergie (gaz, pétrole) et dépendance économique",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur des semi-conducteurs",
-            "secteur_en": "Semiconductor sector",
-            "secteur_zh": "半导体行业",
-            "effet_fr": "Taïwan pourrait renforcer sa domination dans la production de puces avancées, stimulant les investissements étrangers.",
-            "effet_en": "Taiwan could strengthen its dominance in advanced chip production, boosting foreign investments.",
-            "effet_zh": "台湾可能巩固其在先进芯片生产中的主导地位，促进外国投资。",
-            "hausse": true
+            "secteur_fr": "Marché des sanctions internationales",
+            "secteur_en": "International sanctions market",
+            "secteur_zh": "国际制裁市场",
+            "effet_fr": "Les accusations de Poutine pourraient justifier des contre-mesures russes, comme des restrictions supplémentaires sur les exportations européennes.",
+            "effet_en": "Putin’s accusations may justify Russian countermeasures, such as further restrictions on European exports.",
+            "effet_zh": "普京的指责可能为俄罗斯采取反制措施提供借口，如对欧洲出口施加额外限制。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur financier technologique",
-            "secteur_en": "Fintech sector",
-            "secteur_zh": "金融科技行业",
-            "effet_fr": "L'innovation en semi-conducteurs pourrait accélérer le développement des technologies financières et des cryptomonnaies.",
-            "effet_en": "Innovation in semiconductors could accelerate the development of financial technologies and cryptocurrencies.",
-            "effet_zh": "半导体创新可能加速金融科技和加密货币的发展。",
-            "hausse": true
+            "secteur_fr": "Énergie (gaz, pétrole) et dépendance économique",
+            "secteur_en": "Energy (gas, oil) and economic dependence",
+            "secteur_zh": "能源（天然气、石油）和经济依赖",
+            "effet_fr": "L’Europe pourrait accélérer sa diversification énergétique, réduisant sa dépendance au gaz russe et renforçant les tensions commerciales.",
+            "effet_en": "Europe may accelerate energy diversification, reducing gas dependence on Russia and intensifying trade tensions.",
+            "effet_zh": "欧洲可能加速能源多元化，减少对俄天然气的依赖，并加剧贸易紧张局势。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-03T23:48:05.016111"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-09-19T20:05:38.877461"
+      },
       {
         "id": "russie_968296",
         "titre": "Kremlin confisque actifs de Nestlé et Auchan",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-09T08:39:34.779046"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_995632",
-        "titre": "Poutine commente les élections allemandes et l’ascension de l’AfD",
-        "titre_en": "Putin comments on German elections and AfD rise",
-        "titre_zh": "普京评论德国选举和右翼党崛起",
-        "titre_ru": "Президент Путин комментирует выборы в Германии: «Мы не хотим вас атаковать!»",
-        "titre_fa": "رئیس‌جمهور پوتین دربارهٔ انتخابات آلمان می‌گوید: «ما نمی‌خواهیم شما را حمله کنیم!»",
-        "titre_ar": "رئيس بوتين يعلق على الانتخابات الألمانية: «لا نريد أن نهاجمكم!»",
-        "titre_original": "President Putin addresses German elections",
-        "resume": "Le président russe s’exprime sur les résultats allemands, particulièrement choqués par la montée de l’AfD. Il rejette toute idée d’agression et rappelle la fin de l’ère de confrontation. Cette déclaration intervient dans un contexte de tensions post-Ukraine.",
-        "resume_en": "Russian President Putin comments on German election results, shocked by AfD’s rise, dismissing aggression claims and marking the end of confrontation era. The statement comes amid post-Ukraine tensions.",
-        "resume_zh": "俄罗斯总统普京评论德国选举结果，对右翼党AfD的崛起感到震惊，否认侵略意图并强调对抗时代的结束。这一声明出现在乌克兰战争后的紧张局势中。",
-        "resume_ru": "Президент Владимир Путин обратился к немцам, особенно к Фридриху Мерцу, шокированному успехом партии «Альтернатива для Германии». Он подчеркнул, что Россия не намерена нападать на Германию и что эпоха агрессии давно прошла. Это заявление стало реакцией на растущую напряженность в отношениях между Москвой и Берлином. Путин также косвенно указал на необходимость диалога и поиска компромиссов.",
-        "resume_fa": "رئیس‌جمهور ولادیمیر پوتین به آلمانی‌ها، به ویژه به فریدریش مرتز، که از موفقیت حزب «آلترناتیو برای آلمان» شوک خورده بود، گفت. او تأکید کرد که روسیه قصد حمله به آلمان را ندارد و این دوره از تهاجمات به پایان رسیده است. این اعلامیه در پاسخ به افزایش تنش در روابط بین مسکو و برلین بود. پوتین همچنین به‌طور غیرمستقیم به ضرورت گفتگو و یافتن تعارفی اشاره کرد.",
-        "resume_ar": "علق الرئيس فلاديمير بوتين على الألمان، خاصة فريدريش ميرتز، الذي صُعق بنجاح حزب «بديل لألمانيا». أكد أن روسيا لا ترغب في هجوم ألمانيا وأن عصر العدوان قد انتهى. كان هذا الإعلان رداً على ارتفاع التوتر في العلاقات بين موسكو وبرلين. أشار بوتين بشكل غير مباشر إلى ضرورة الحوار والبحث عن تعاريف.",
-        "analyse_detaillee": "Cette déclaration s’inscrit dans une stratégie russe de désamorçage diplomatique après l’invasion de l’Ukraine en 2022, où Moscou cherche à isoler l’Allemagne et l’UE. Les enjeux incluent la légitimité de la guerre en Ukraine et la perception internationale de la Russie. Les causes profondes sont liées à la dépendance énergétique européenne et à la rhétorique anti-OTAN de Poutine. À court terme, cela pourrait affaiblir les sanctions occidentales et renforcer les alliances avec des partis eurosceptiques comme l’AfD. À moyen terme, cela pourrait accélérer la fragmentation de l’UE sur la question ukrainienne. Long terme, cela renforce la position de la Russie en tant qu’acteur géopolitique alternatif face à l’Occident.",
-        "analyse_en": "This statement reflects Russia’s post-Ukraine 2022 diplomatic disarmament strategy, isolating Germany and the EU. Stakes include Ukraine war legitimacy and Russia’s international perception. Root causes involve European energy dependence and Putin’s anti-NATO rhetoric. Short-term, this may weaken Western sanctions and strengthen ties with eurosceptic parties like AfD. Medium-term, it could accelerate EU fragmentation on Ukraine. Long-term, it strengthens Russia’s position as an alternative geopolitical actor against the West.",
-        "analyse_zh": "这一声明体现了俄罗斯在2022年入侵乌克兰后的外交缓和策略，试图孤立德国和欧盟。主要影响包括乌克兰战争的合法性和俄罗斯在国际上的形象。深层原因包括欧洲对俄能源的依赖和普京的反北约言论。短期内，这可能削弱西方制裁并加强与像AfD这样的反欧盟政党的联系。中期内，它可能加速欧盟在乌克兰问题上的分裂。长期来看，这增强了俄罗斯作为西方对立地缘政治力量的地位。",
-        "analyse_ru": "Заявление Путина о нежелании России нападать на Германию следует рассматривать в контексте растущей геополитической напряженности в Европе. Успех правых партий в Германии, таких как AfD, вызывает обеспокоенность в Москве, так как это может означать сдвиг в европейской политике в сторону более проамериканских или антироссийских позиций. Путин, вероятно, стремится успокоить ситуацию и показать, что Россия не является агрессором. Однако его слова могут восприниматься как попытка повлиять на внутреннюю политику Германии. В то же время, это заявление может быть частью стратегии России по дестабилизации отношений между Германией и США.",
-        "analyse_fa": "اعلان پوتین در مورد عدم تمایل روسیه به حمله به آلمان باید در زمینه افزایش تنش ژئوپولیتیکی در اروپا مورد بررسی قرار گیرد. موفقیت حزب‌های راست در آلمان، مانند AfD، نگرانی در مسکو را افزایش می‌دهد، زیرا این ممکن است به تغییر در سیاست اروپا به سمت مواضع بیشتر پروآمریکایی یا ضدروسیه اشاره داشته باشد. پوتین احتمالاً سعی در آرام کردن وضعیت و نشان دادن این که روسیه یک مهاجم نیست دارد. با این حال، این سخنان ممکن است به عنوان تلاش برای تأثیرگذاری بر سیاست داخلی آلمان تفسیر شوند. از سوی دیگر، این اعلامیه ممکن است بخشی از استراتژی روسیه برای ناپایداری روابط بین آلمان و ایالات متحده باشد.",
-        "analyse_ar": "يعتبر إعلان بوتين عن عدم رغبة روسيا في هجوم ألمانيا في سياق ارتفاع التوتر الجيوسياسي في أوروبا. نجاح الأحزاب اليمينية في ألمانيا، مثل حزب «بديل لألمانيا»، يثير قلق موسكو، حيث قد يشير هذا إلى تحرك في سياسة أوروبا نحو مواقف أكثر بروأمريكا أو مضادة لروسيا. يبدو أن بوتين يسعى إلى تهدئة الوضع وإظهار أن روسيا ليست مهاجمة. ومع ذلك، قد يُفهم هذا الكلام كجهد لتأثير على السياسة الداخلية الألمانية. من ناحية أخرى، قد يكون هذا الإعلان جزءًا من استراتيجية روسيا لتداعية العلاقات بين ألمانيا والولايات المتحدة.",
+        "id": "iran_847242",
+        "titre": "Iran: mobilisation populaire pour 'défendre la patrie'",
+        "titre_en": "Iran: Mass mobilization to 'defend homeland'",
+        "titre_zh": "伊朗：民众动员‘保卫祖国’",
+        "titre_ru": "Iranians storm streets in govt's show of strength",
+        "titre_fa": "Iranians storm streets in govt's show of strength",
+        "titre_ar": "Iranians storm streets in govt's show of strength",
+        "titre_original": "Iranians storm streets in govt's show of strength",
+        "resume": "Le gouvernement iranien organise une mobilisation citoyenne pour former des volontaires à la défense nationale, dans un contexte de tensions régionales croissantes. Les estimations varient sur le nombre de participants, reflétant une volonté de montrer l’unité nationale. Cette initiative suit les récentes tensions avec Israël et les États-Unis.",
+        "resume_en": "Iran’s government is mobilizing citizens to train volunteers for national defense amid rising regional tensions. Participation estimates vary, showing a push for national unity. The move follows recent tensions with Israel and the U.S.",
+        "resume_zh": "伊朗政府组织公民动员，培训志愿者进行国防训练，在地区紧张局势加剧的背景下进行。参与人数估计不一，反映出展示民族团结的意愿。此举是在与以色列和美国最近的紧张关系之后采取的。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette mobilisation s’inscrit dans une tradition de défense nationale iranienne depuis la révolution de 1979, mais aussi dans un contexte de pression externe (sanctions, cyberattaques). Les enjeux incluent la légitimité du régime face aux protestations internes et la dissuasion régionale. Les causes profondes sont la peur d’une intervention étrangère et la crise économique persistante. Court terme, cela pourrait renforcer le contrôle social et la répression des opposants. Moyen terme, Téhéran pourrait intensifier ses actions dans le Golfe (Houthistes, Hezbollah). Long terme, cela pourrait isoler davantage l’Iran et accélérer les divisions internes. Les acteurs clés sont le Guide suprême Khamenei, les milices (IRGC) et les puissances régionales (Arabie saoudite).",
+        "analyse_en": "This mobilization follows Iran’s post-1979 defense tradition but also reflects external pressure (sanctions, cyberattacks). Stakes include regime legitimacy amid internal protests and regional deterrence. Root causes involve fear of foreign intervention and persistent economic crisis. Short-term, this may strengthen social control and crackdowns on opponents. Medium-term, Tehran could escalate actions in the Gulf (Houthi, Hezbollah). Long-term, this may further isolate Iran and accelerate internal divisions. Key actors include Supreme Leader Khamenei, militias (IRGC), and regional powers (Saudi Arabia).",
+        "analyse_zh": "此次动员属于伊朗自1979年革命以来的国防传统，但也反映了外部压力（制裁、网络攻击）。主要影响涉及政权在内部抗议面前的合法性和地区威慑力。深层原因包括对外国干预的恐惧和持续的经济危机。短期内，这可能加强社会控制和镇压反对派。中期内，德黑兰可能在波斯湾加强行动（胡塞运动、真主党）。长期来看，这可能进一步孤立伊朗并加剧内部分裂。关键利益相关者包括最高领袖哈梅内伊、伊斯兰革命卫队和地区大国（沙特阿拉伯）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4394621/posts",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-09-07",
-        "pays": "russie",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranians-storm-streets-in-govts-show-of-strength/articleshow/134343578.cms",
+        "image": "https://img.etimg.com/thumb/msid-134343576,width-1200,height-630,imgsize-293368,overlay-economictimes/articleshow.jpg",
+        "date": "2026-09-18",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché énergétique européen et gaz russe",
+            "label": "▼ Secteur de la défense et sécurité intérieure",
             "hausse": false
           },
           {
-            "label": "▲ Financement des partis politiques eurosceptiques",
-            "hausse": true
+            "label": "▼ Économie et sanctions internationales",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché énergétique européen et gaz russe",
-            "secteur_en": "European energy market and Russian gas",
-            "secteur_zh": "欧洲能源市场和俄罗斯天然气",
-            "effet_fr": "La montée de l’AfD pourrait réduire la pression sur Moscou pour diversifier ses approvisionnements énergétiques en Europe.",
-            "effet_en": "AfD’s rise may reduce pressure on Moscow to diversify European energy supplies.",
-            "effet_zh": "AfD的崛起可能减少欧洲多元化能源供应对莫斯科的压力。",
+            "secteur_fr": "Secteur de la défense et sécurité intérieure",
+            "secteur_en": "Defense and internal security sector",
+            "secteur_zh": "国防和国内安全领域",
+            "effet_fr": "Cette mobilisation pourrait renforcer le contrôle militaire sur la population et justifier des restrictions supplémentaires sur les libertés civiles.",
+            "effet_en": "This mobilization may strengthen military control over the population and justify further restrictions on civil liberties.",
+            "effet_zh": "此次动员可能加强军队对民众的控制，并为进一步限制公民自由提供借口。",
             "hausse": false
           },
           {
-            "secteur_fr": "Financement des partis politiques eurosceptiques",
-            "secteur_en": "Funding for eurosceptic political parties",
-            "secteur_zh": "资助反欧盟政党",
-            "effet_fr": "Les déclarations de Poutine pourraient attirer des financements russes vers des partis comme l’AfD, affaiblissant les institutions européennes.",
-            "effet_en": "Putin’s statements may attract Russian funding to parties like AfD, weakening EU institutions.",
-            "effet_zh": "普京的言论可能吸引俄罗斯资金流向像AfD这样的政党，削弱欧洲联盟的机构。",
-            "hausse": true
+            "secteur_fr": "Économie et sanctions internationales",
+            "secteur_en": "Economy and international sanctions",
+            "secteur_zh": "经济和国际制裁",
+            "effet_fr": "Les tensions accrues pourraient aggraver la crise économique et réduire les investissements étrangers, affaiblissant le rial iranien.",
+            "effet_en": "Increased tensions may worsen the economic crisis and reduce foreign investment, weakening the Iranian rial.",
+            "effet_zh": "加剧的紧张局势可能加重经济危机，减少外资投入，削弱伊朗里亚尔汇率。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-08T23:51:52.763034"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-19T20:05:38.877470"
+      },
       {
         "id": "iran_116407",
         "titre": "Escalade au Yémen : frappes croisées et exode maritime",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-09-08T18:20:23.706746"
-      },
-      {
-        "id": "iran_683808",
-        "titre": "Téhéran annonce une zone maritime restreinte hors Hormuz",
-        "titre_en": "Iran declares new restricted shipping zone outside Hormuz",
-        "titre_zh": "伊朗宣布霍尔木兹外海域限制区",
-        "titre_ru": "Иран объявит новую «ограниченную зону» за проливом Ормуз",
-        "titre_fa": "ایران منطقه «محدود» جدید در خارج از تنگه هرمز اعلام خواهد کرد",
-        "titre_ar": "إيران ستعلن منطقة «محددة» جديدة خارج مضيق هرمز",
-        "titre_original": "Iran to declare new ‘restricted zone’ outside Strait of Hormuz – official",
-        "resume": "L’Iran prévoit d’instaurer une zone maritime restreinte pour le trafic maritime en dehors du détroit d’Ormuz, selon le secrétaire du Conseil national de sécurité, Mohsen Rezaei. Cette mesure, annoncée prochainement, vise à renforcer la souveraineté iranienne et à répondre aux tensions persistantes dans la région. Elle pourrait aggraver les frictions avec les États-Unis et leurs alliés, notamment dans le golfe Persique.",
-        "resume_en": "Iran plans to establish a restricted maritime zone outside the Strait of Hormuz, according to National Security Council Secretary Mohsen Rezaei. The measure, to be announced soon, aims to bolster Iranian sovereignty and counter persistent regional tensions. It may escalate friction with the US and its allies, particularly in the Persian Gulf.",
-        "resume_zh": "伊朗计划在霍尔木兹海峡外设立限制性海域，以保护国家主权并应对地区持续紧张局势。这一措施可能加剧与美国及其盟友的摩擦，特别是在波斯湾地区。",
-        "resume_ru": "Иран в ближайшие дни объявит о создании «ограниченной зоны» для судоходства за пределами пролива Ормуз. Об этом заявил секретарь Национального совета безопасности Мохсен Резаи. Это шаг может повлиять на безопасность морских путей в регионе. Цель — защитить национальные интересы и усилить контроль.",
-        "resume_fa": "ایران در روزهای آینده منطقه «محدود» جدیدی برای کشتی‌های تجاری در خارج از تنگه هرمز اعلام خواهد کرد. موشن رضائی، دبیر شورای امنیت ملی، این خبر را تأیید کرد. این اقدام می‌تواند بر امنیت راه‌های دریایی منطقه تأثیر بگذارد. هدف، حفاظت از منافع ملی و افزایش کنترل است.",
-        "resume_ar": "ستعلن إيران منطقة «محددة» جديدة خارج مضيق هرمز في الأيام المقبلة، حسب ما أعلنه محمد رضاي، الأمين العام لمجلس الأمن الوطني. قد يؤثر هذا الخطوة على أمن الممرات البحرية في المنطقة. الغرض هو حماية المصالح الوطنية وتعزيز السيطرة.",
-        "analyse_detaillee": "Cette annonce s’inscrit dans une stratégie iranienne de pression géopolitique, après des années de tensions avec les États-Unis et leurs alliés, notamment depuis le retrait américain de l’accord nucléaire en 2018. Les enjeux incluent le contrôle des routes maritimes stratégiques et la dissuasion face aux interventions étrangères. Les causes profondes remontent aux sanctions économiques et à la marginalisation diplomatique de Téhéran. À court terme, cela pourrait provoquer des réactions militaires ou économiques de Washington et de Riyad. À moyen terme, une escalade des tensions dans le golfe Persique est probable, avec un risque accru de conflits indirects. Long terme, cette mesure pourrait renforcer l’isolement de l’Iran ou, au contraire, accélérer une alliance régionale avec la Chine et la Russie. Les États-Unis et l’UE devront évaluer leur réponse, tandis que les pays pétroliers dépendants du transit maritime devront sécuriser leurs approvisionnements.",
-        "analyse_en": "This move aligns with Iran’s geopolitical pressure strategy, following years of tensions with the US and its allies, particularly since the 2018 withdrawal from the nuclear deal. Stakes include control over strategic maritime routes and deterrence against foreign interventions. Root causes trace back to economic sanctions and Iran’s diplomatic isolation. Short-term, this may trigger military or economic responses from Washington and Riyadh. Medium-term, escalation in Persian Gulf tensions is likely, with increased risk of proxy conflicts. Long-term, this measure could deepen Iran’s isolation or accelerate regional alliances with China and Russia. The US and EU must assess their response, while oil-dependent transit countries must secure their supplies.",
-        "analyse_zh": "这一宣布属于伊朗在美伊及其盟友关系紧张背景下的地缘政治施压策略，特别是自2018年美国退出核协议以来。主要影响在于控制战略海上通道和遏制外国干预。深层原因包括经济制裁和伊朗外交孤立。短期内，华盛顿和利雅得可能采取军事或经济回应。中期内，波斯湾紧张局势升级可能，间接冲突风险增加。长期来看，这一措施可能加剧伊朗孤立，或加速与中国和俄罗斯的区域联盟。美国和欧盟需要评估回应措施，而依赖海上运输的石油国家则需要确保供应安全。",
-        "analyse_ru": "Контекст: Иран ужесточает контроль над стратегически важным проливом Ормуз, который является ключевым маршрутом для нефтяных поставок. Причины: давление США и западных стран на иранскую экономику, а также недовольство ограничениями в судоходстве. Последствия: возможные конфликты с другими странами, особенно с США и Саудовской Аравией. Перспективы: эскалация напряженности в регионе, если другие государства отреагируют аналогичными мерами. Позиции сторон: Иран утверждает, что защищает свои интересы, в то время как США и союзники видят это как провокацию.",
-        "analyse_fa": "زمینه: ایران کنترل خود بر تنگه هرمز، که یکی از مهم‌ترین مسیرهای حمل و نقل نفت است، را تقویت می‌کند. علل: فشار ایالات متحده و کشورهای غربی بر اقتصاد ایران و نارضایتی از محدودیت‌های کشتی‌رانی. پیامدها: احتمال درگیری با سایر کشورها، به ویژه ایالات متحده و عربستان سعودی. چشم‌انداز: افزایش تنش در منطقه اگر کشورهای دیگر با اقدامات مشابه پاسخ دهند. موضع بازیگران: ایران ادعا می‌کند که منافع خود را محافظت می‌کند، در حالی که ایالات متحده و متحدان آن این اقدام را تحریک می‌دانند.",
-        "analyse_ar": "السياق: تقويض إيران السيطرة على مضيق هرمز، الذي يعتبر أحد أهم ممرات نقل النفط. الأسباب: ضغط الولايات المتحدة والبلدان الغربية على الاقتصاد الإيراني، بالإضافة إلى عدم الرضا عن القيود على الملاحة. العواقب: احتمال تصعيد التوترات مع الدول الأخرى، خاصة الولايات المتحدة والسعودية. الآفاق: زيادة التوتر في المنطقة إذا استجابت الدول الأخرى بمثل هذه الخطوات. مواقف الأطراف: تدعي إيران حماية مصالحها، بينما يعتبرها الولايات المتحدة وأليافها تحريضاً.",
-        "categorie": "Géopolitique",
-        "source": "RT",
-        "url": "https://www.rt.com/news/645201-iran-us-hormuz-rezaei/",
-        "image": "https://mf.b37mrtl.ru/files/2026.09/article/6a9e522a203027579746cfc7.jpg",
-        "date": "2026-09-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier et énergétique",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurances maritimes et transport",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier et énergétique",
-            "secteur_en": "Oil and energy market",
-            "secteur_zh": "",
-            "effet_fr": "Les fluctuations des prix du pétrole pourraient s’accentuer en raison des incertitudes géopolitiques accrues dans la région, affectant les investissements et les contrats à long terme.",
-            "effet_en": "Oil price volatility may intensify due to heightened geopolitical uncertainties, impacting investments and long-term contracts.",
-            "effet_zh": "由于地区地缘政治不确定性增加，石油价格波动可能加剧，影响投资和长期合同。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurances maritimes et transport",
-            "secteur_en": "Maritime insurance and transport",
-            "secteur_zh": "",
-            "effet_fr": "Les primes d’assurance maritime pourraient augmenter significativement en raison des risques accrus de piraterie et de conflits dans la zone restreinte.",
-            "effet_en": "Maritime insurance premiums may rise sharply due to increased risks of piracy and conflicts in the restricted zone.",
-            "effet_zh": "由于限制区内海盗和冲突风险增加，海运保险费用可能大幅上涨。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-08T10:37:45.091087"
       }
     ]
   },
