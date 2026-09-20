@@ -1,7 +1,66 @@
 {
-  "last_updated": "20/09/2026 à 00h41",
+  "last_updated": "20/09/2026 à 05h44",
   "articles": {
     "monde": [
+      {
+        "id": "monde_92907",
+        "titre": "Victoires sportives en Louisiane du Nord-Ouest ce vendredi soir",
+        "titre_en": "Haughton, Evangel lead NW Louisiana football wins",
+        "titre_zh": "北路易斯安那州足球赛五晚战绩亮眼",
+        "titre_ru": "Haughton, Evangel, Loyola among Friday night winners in NW Louisiana",
+        "titre_fa": "Haughton, Evangel, Loyola among Friday night winners in NW Louisiana",
+        "titre_ar": "Haughton, Evangel, Loyola among Friday night winners in NW Louisiana",
+        "titre_original": "Haughton, Evangel, Loyola among Friday night winners in NW Louisiana",
+        "resume": "Les équipes de Haughton, Evangel et Loyola ont remporté des matchs décisifs lors d’une soirée sportive animée dans le nord-ouest de la Louisiane. Ces victoires soulignent la compétitivité croissante des équipes locales dans un contexte de rivalités régionales. Les médias locaux mettent en avant l’engouement des supporters malgré des conditions climatiques défavorables.",
+        "resume_en": "Teams from Haughton, Evangel, and Loyola secured key wins during a busy night of Northwest Louisiana football. These victories highlight growing regional competition amid local rivalries. Local media emphasize fan enthusiasm despite unfavorable weather conditions.",
+        "resume_zh": "哈顿、伊凡杰尔和洛约拉三支球队在北路易斯安那州的足球赛中取得了关键性胜利。这些胜利展示了当地球队在区域竞争中的竞争力。尽管天气不利，当地媒体仍强调了球迷的热情。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le football universitaire aux États-Unis, surtout dans les petites villes comme celles du nord-ouest de la Louisiane, reflète des dynamiques sociales et économiques locales. Ces victoires peuvent renforcer l’identité communautaire et attirer des investissements dans les infrastructures sportives. Court terme, cela pourrait stimuler l’engagement des jeunes dans le sport et les études. Moyen terme, une meilleure organisation des ligues locales pourrait émerger, avec des partenariats privés pour financer les équipes. Long terme, ces succès pourraient inspirer d’autres régions à développer leurs propres ligues sportives. Les acteurs locaux (mairies, écoles) y voient une opportunité de cohésion sociale, tandis que les sponsors privés cherchent à capitaliser sur l’image des équipes gagnantes.",
+        "analyse_en": "College football in the U.S., especially in small towns like those in Northwest Louisiana, reflects local social and economic dynamics. These wins can strengthen community identity and attract investments in sports infrastructure. Short-term, this may boost youth engagement in sports and academics. Medium-term, better local league organization could emerge, with private partnerships funding teams. Long-term, these successes may inspire other regions to develop their own sports leagues. Local actors (municipalities, schools) see this as a social cohesion opportunity, while private sponsors aim to capitalize on winning team images.",
+        "analyse_zh": "美国大学足球，特别是北路易斯安那州小城镇的比赛，反映了当地的社会和经济动态。这些胜利可能增强社区认同感，并吸引对体育基础设施的投资。短期内，这可能激励青年参与体育和学业。中期内，当地联赛的更好组织可能出现，并通过私人合作伙伴为球队提供资金。长期来看，这些成功可能激励其他地区发展自己的体育联赛。当地利益相关者（市政府、学校）将其视为增强社会凝聚力的机会，而私人赞助商则希望利用获胜球队的形象。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "Shreveport Times",
+        "url": "https://www.shreveporttimes.com/story/sports/high-school/football/2026/09/19/several-nw-la-teams-remain-undefeated-after-week-3-of-friday-football/91710406007/",
+        "image": "https://s.yimg.com/lo/mysterio/api/4d28b7996d63681d8068fbad5b1800461c689e1fa8e45ab8ca4e6206b4067f67/lightyear_networkapi/resizefill_w1024_h754%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshreveport-times-the-times%2F528f75e40ab9cc4e777f535c78291297.jpg",
+        "date": "2026-09-19",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Sponsoring sportif et marketing local",
+            "hausse": true
+          },
+          {
+            "label": "▲ Événementiel et tourisme sportif",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sponsoring sportif et marketing local",
+            "secteur_en": "Sports sponsorship and local marketing",
+            "secteur_zh": "体育赞助和当地营销",
+            "effet_fr": "Les victoires locales pourraient attirer davantage de sponsors régionaux, dynamisant ainsi l’économie des petites entreprises locales.",
+            "effet_en": "Local wins may attract more regional sponsors, boosting the economy of small local businesses.",
+            "effet_zh": "当地的胜利可能吸引更多地区赞助商，从而促进当地小企业经济的发展。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Événementiel et tourisme sportif",
+            "secteur_en": "Event management and sports tourism",
+            "secteur_zh": "赛事管理和体育旅游",
+            "effet_fr": "Une meilleure visibilité des équipes pourrait attirer des touristes pour assister aux matchs, bénéficiant aux hôtels et restaurants locaux.",
+            "effet_en": "Increased visibility of teams may attract sports tourists to attend games, benefiting local hotels and restaurants.",
+            "effet_zh": "球队知名度的提升可能吸引体育旅游者观赛，有利于当地酒店和餐饮业。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-20T05:44:37.568694"
+      },
       {
         "id": "monde_989904",
         "titre": "Paramount et Warner Bros. bloqués par AG californien",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-11T20:29:23.124995"
-      },
-      {
-        "id": "monde_244919",
-        "titre": "Koepka rejoint TGL : révélation de ses motivations réelles",
-        "titre_en": "Koepka reveals true reason for TGL move",
-        "titre_zh": "科普卡加盟TGL背后真实原因曝光",
-        "titre_ru": "Brooks Koepka confirms the real reason why he agreed to join TGL",
-        "titre_fa": "Brooks Koepka confirms the real reason why he agreed to join TGL",
-        "titre_ar": "Brooks Koepka confirms the real reason why he agreed to join TGL",
-        "titre_original": "Brooks Koepka confirms the real reason why he agreed to join TGL",
-        "resume": "Brooks Koepka, champion de golf, confirme avoir rejoint le Motor City Golf Club de TGL en 2027 après son départ de la PGA Tour en 2022 pour LIV Golf. Son engagement s’inscrit dans une dynamique de rivalité croissante entre circuits professionnels, avec des implications financières et médiatiques majeures. Ce choix reflète une stratégie de maximisation des revenus et de visibilité à l’international.",
-        "resume_en": "Golf champion Brooks Koepka confirms joining TGL’s Motor City Golf Club in 2027 after leaving the PGA Tour in 2022 to join LIV Golf. His move underscores the growing rivalry between professional golf circuits, with significant financial and media implications. The decision aims to maximize revenue and global visibility.",
-        "resume_zh": "高尔夫冠军布鲁克斯·科普卡确认将于2027年加盟TGL的底特律高尔夫俱乐部，此举发生在其2022年离开PGA巡回赛后加入LIV高尔夫之后。这一选择反映了职业高尔夫赛事间日益激烈的竞争，具有重大的财务和媒体影响。此决定旨在最大化收入和全球知名度。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "La rivalité entre LIV Golf et PGA Tour s’inscrit dans une guerre économique et médiatique initiée en 2022 par des investisseurs saoudiens. Les enjeux incluent la redistribution des revenus publicitaires et la captation des meilleurs joueurs, avec des conséquences immédiates sur les sponsors traditionnels. À moyen terme, cela pourrait fragmenter davantage le marché du golf professionnel et réduire la valeur des contrats télévisuels. À long terme, cette dynamique pourrait transformer durablement l’industrie, avec une concentration accrue des droits médiatiques autour des circuits les plus lucratifs.",
-        "analyse_en": "The rivalry between LIV Golf and the PGA Tour stems from a 2022 economic and media war initiated by Saudi investors. Stakes include the redistribution of advertising revenue and the poaching of top players, with immediate impacts on traditional sponsors. In the medium term, this could further fragment the professional golf market and reduce the value of TV contracts. Long-term, the trend may permanently reshape the industry, concentrating media rights around the most lucrative circuits.",
-        "analyse_zh": "LIV高尔夫与PGA巡回赛的竞争源于2022年沙特投资者发起的经济和媒体战争。核心问题包括广告收入重新分配和挖走顶级球员，对传统赞助商产生即时影响。中期内，这可能进一步分裂职业高尔夫市场并降低电视合同价值。长期来看，这一趋势可能永久改变行业格局，将媒体版权集中在最具盈利能力的赛事上。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Sport-Économie",
-        "source": "HITC - Football, Gaming, Movies, TV, Music",
-        "url": "https://www.hitc.com/brooks-koepka-confirms-the-real-reason-why-he-agreed-to-join-tgl/",
-        "image": "https://s.yimg.com/lo/mysterio/api/79a9991e15da5539424f15bb45b28cf358aa52a8febb56d720ab98b7e0fea034/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F070d547065a97e559b484b67ff262a9a.jpg",
-        "date": "2026-09-10",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marché des droits télévisuels du golf",
-            "hausse": false
-          },
-          {
-            "label": "▲ Investissements publicitaires en sport",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des droits télévisuels du golf",
-            "secteur_en": "Golf TV rights market",
-            "secteur_zh": "高尔夫电视版权市场",
-            "effet_fr": "La fragmentation des circuits pourrait entraîner une baisse des enchères pour les droits télévisuels, réduisant les revenus des chaînes traditionnelles comme ESPN.",
-            "effet_en": "The fragmentation of circuits may lead to lower bidding for TV rights, reducing revenues for traditional broadcasters like ESPN.",
-            "effet_zh": "赛事分裂可能导致电视版权竞拍降价，减少ESPN等传统电视台的收入。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Investissements publicitaires en sport",
-            "secteur_en": "Sports advertising investments",
-            "secteur_zh": "体育广告投资",
-            "effet_fr": "Les marques pourraient se recentrer sur les circuits à forte audience, comme LIV Golf, au détriment des tournois traditionnels moins médiatisés.",
-            "effet_en": "Brands may focus on high-audience circuits like LIV Golf, at the expense of less media-covered traditional tournaments.",
-            "effet_zh": "品牌可能集中在观众规模大的赛事如LIV高尔夫上，而忽视传统但媒体曝光较少的赛事。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-11T17:33:19.580962"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_11108",
+        "titre": "Menaces de Trump sur le Kennedy Center déclenchent protestations",
+        "titre_en": "Trump’s threats to shut Kennedy Center spark protests",
+        "titre_zh": "特朗普威胁关闭肯尼迪中心引发抗议",
+        "titre_ru": "Trump’s threats to demolish Kennedy Center sparks protest",
+        "titre_fa": "Trump’s threats to demolish Kennedy Center sparks protest",
+        "titre_ar": "Trump’s threats to demolish Kennedy Center sparks protest",
+        "titre_original": "Trump’s threats to demolish Kennedy Center sparks protest",
+        "resume": "Des manifestants ont convergé devant le Kennedy Center à Washington après les déclarations du président Trump annonçant des plans pour fermer ce lieu emblématique des arts. Les protestations reflètent l’indignation face à une décision perçue comme une attaque contre la culture et l’héritage artistique américain. Ce contexte s’inscrit dans une polarisation croissante autour des politiques culturelles sous l’administration Trump.",
+        "resume_en": "Protesters gathered outside Washington’s Kennedy Center after President Trump announced plans to close the iconic arts venue. The demonstrations highlight outrage over what is seen as an assault on American cultural heritage. This follows a growing polarization over cultural policies under Trump’s administration.",
+        "resume_zh": "特朗普宣布关闭肯尼迪中心后，华盛顿的抗议者聚集在该艺术场所外。抗议反映了对美国文化遗产受到攻击的愤慨。此举在特朗普执政期间文化政策日益分化的背景下发生。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le Kennedy Center, fondé en 1971 sous Nixon pour promouvoir les arts, symbolise depuis des décennies l’engagement américain dans la culture. Les menaces de Trump s’inscrivent dans une stratégie plus large de réduction des budgets fédéraux pour les institutions culturelles, déjà touchées par des coupes budgétaires sous Obama. Les protestations révèlent une fracture entre une base électorale conservatrice et les milieux artistiques, souvent perçus comme élitistes. À court terme, cela pourrait accélérer les pressions pour des financements alternatifs (sponsors privés, dons). À moyen terme, une privatisation partielle du centre est envisageable, avec des risques de commercialisation accrue. Long terme, cela pourrait redéfinir le rôle de l’État dans le soutien aux arts aux États-Unis. Les démocrates dénoncent une attaque contre la culture, tandis que les républicateurs modérés craignent une perte d’attractivité culturelle pour le pays.",
+        "analyse_en": "The Kennedy Center, founded in 1971 under Nixon to promote the arts, has long symbolized America’s commitment to culture. Trump’s threats align with broader efforts to cut federal funding for cultural institutions, already targeted under Obama. Protests expose a divide between conservative voters and artistic communities, often seen as elitist. Short-term, this could accelerate pressure for alternative funding (private sponsors, donations). Medium-term, partial privatization is possible, with risks of increased commercialization. Long-term, it may redefine the state’s role in supporting the arts in the U.S. Democrats condemn the move as an attack on culture, while moderate Republicans fear a loss of cultural appeal.",
+        "analyse_zh": "肯尼迪中心成立于1971年，由尼克松总统倡议建立，旨在推动艺术发展，多年来象征着美国对文化的承诺。特朗普的威胁与削减联邦文化机构预算的更广泛策略相符，奥巴马时期已经开始了这一趋势。抗议暴露了保守选民与艺术界之间的分歧，后者常被视为精英阶层。短期内，这可能加速寻求替代资金来源（私人赞助、捐款）的压力。中期内，部分私有化可能成为现实，但商业化风险增加。长期来看，这可能重新定义美国政府在支持艺术方面的角色。民主党谴责这一举动对文化的攻击，而温和的共和党人则担心国家文化吸引力的下降。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789796448.jpg?resize=1920%2C1080&quality=80",
+        "date": "2026-09-19",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des arts et des spectacles",
+            "hausse": false
+          },
+          {
+            "label": "▼ Tourisme culturel et économie événementielle",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des arts et des spectacles",
+            "secteur_en": "Arts and entertainment market",
+            "secteur_zh": "艺术与娱乐市场",
+            "effet_fr": "Une fermeture ou privatisation partielle du Kennedy Center pourrait entraîner une baisse des investissements privés dans les infrastructures culturelles et une réduction des emplois dans le secteur.",
+            "effet_en": "Closing or partial privatization of the Kennedy Center could lead to decreased private investments in cultural infrastructure and job cuts in the arts sector.",
+            "effet_zh": "肯尼迪中心部分关闭或私有化可能导致私人对文化基础设施投资减少，并减少艺术领域的就业机会。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Tourisme culturel et économie événementielle",
+            "secteur_en": "Cultural tourism and event economy",
+            "secteur_zh": "文化旅游和活动经济",
+            "effet_fr": "La réputation du Kennedy Center comme lieu incontournable pourrait être affectée, réduisant l’affluence touristique et les revenus liés aux événements culturels.",
+            "effet_en": "The Kennedy Center’s reputation as a must-visit venue could be damaged, reducing tourist footfall and revenue from cultural events.",
+            "effet_zh": "肯尼迪中心作为必访地标的声誉可能受损，导致文化活动的参观人数和相关收入下降。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-20T05:44:37.568662"
+      },
       {
         "id": "usa_399816",
         "titre": "Trump divisé entre optimistes et pessimistes sur l’IA",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-09-11T20:29:23.125025"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_258495",
-        "titre": "Cour d'appel inflige une défaite à Trump sur le vote par correspondance",
-        "titre_en": "Appeals court defeats Trump on mail voting",
-        "titre_zh": "上诉法院击败特朗普邮寄投票案",
-        "titre_ru": "Appeals Court Hands Trump A Loss On Mail Voting",
-        "titre_fa": "Appeals Court Hands Trump A Loss On Mail Voting",
-        "titre_ar": "Appeals Court Hands Trump A Loss On Mail Voting",
-        "titre_original": "Appeals Court Hands Trump A Loss On Mail Voting",
-        "resume": "Une cour d'appel américaine a rejeté une demande de Donald Trump concernant les restrictions sur le vote par correspondance, malgré une décision en cours à la Cour suprême sur le même dossier. Ce jugement intervient dans un contexte de tensions persistantes autour des élections et des réformes électorales aux États-Unis. La décision pourrait influencer les prochaines élections présidentielles de 2024 et les débats sur la démocratie participative.",
-        "resume_en": "An appeals court in the US has ruled against Donald Trump’s challenge to mail-in voting restrictions, even as the Supreme Court is considering the same case. The decision comes amid ongoing disputes over election integrity and voting reforms. It may impact the 2024 presidential elections and broader debates on democratic participation.",
-        "resume_zh": "美国上诉法院驳回了特朗普关于邮寄投票限制的诉求，尽管最高法院正在审理同一案件。此判决发生在美国选举完整性和选举改革争议持续的背景下。它可能影响2024年总统选举及民主参与的更广泛辩论。",
+        "id": "chine_440848",
+        "titre": "Ancien Premier ministre égyptien célèbre leadership du PCC",
+        "titre_en": "Former Egyptian PM praises CPC’s leadership success",
+        "titre_zh": "前埃及总理赞扬中共领导成功",
+        "titre_ru": "Global Times: China's success and prosperity stem from the CPC's outstanding leadership: former Egyptian PM",
+        "titre_fa": "Global Times: China's success and prosperity stem from the CPC's outstanding leadership: former Egyptian PM",
+        "titre_ar": "Global Times: China's success and prosperity stem from the CPC's outstanding leadership: former Egyptian PM",
+        "titre_original": "Global Times: China's success and prosperity stem from the CPC's outstanding leadership: former Egyptian PM",
+        "resume": "À l’occasion du 105e anniversaire du Parti communiste chinois (PCC), un ancien Premier ministre égyptien a salué lors d’une conférence à Pékin la direction du PCC comme source de la prospérité chinoise. Ses déclarations reflètent une stratégie diplomatique chinoise visant à renforcer les alliances avec les pays africains. Ce discours intervient dans un contexte de tensions géopolitiques croissantes entre la Chine et les démocraties occidentales.",
+        "resume_en": "On the occasion of the 105th anniversary of the Chinese Communist Party (CPC), a former Egyptian Prime Minister praised its leadership during a Beijing conference as the source of China’s prosperity. His remarks reflect China’s diplomatic strategy to strengthen alliances with African nations. The speech comes amid rising geopolitical tensions between China and Western democracies.",
+        "resume_zh": "在中共成立105周年之际，一位前埃及总理在北京举行的会议上赞扬了中共领导对中国繁荣的贡献。他的言论反映了中国加强与非洲国家联盟的外交策略。这番讲话发生在中西方民主国家地缘政治紧张局势加剧的背景下。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ce jugement s’inscrit dans une série de contentieux judiciaires liés aux élections américaines, remontant aux controverses de 2020. Les enjeux portent sur la légitimité des procédures électorales et la confiance dans les institutions, avec des conséquences immédiates sur les stratégies politiques des partis. À moyen terme, cela pourrait renforcer les divisions partisanes et accélérer les réformes électorales controversées. À long terme, cela interroge la stabilité du système démocratique américain face aux manipulations potentielles. Les républicains, comme Trump, y voient une attaque contre leurs intérêts, tandis que les démocrates y voient une victoire pour l’accès universel au vote.",
-        "analyse_en": "This ruling fits into a broader pattern of election-related legal battles dating back to the controversies of 2020. The stakes involve the legitimacy of electoral processes and trust in institutions, with immediate political repercussions for both parties. In the medium term, it may deepen partisan divisions and push for controversial electoral reforms. Long-term, it raises questions about the stability of the US democratic system against potential manipulations. Republicans, including Trump, view it as an attack on their interests, while Democrats see it as a victory for universal voting access.",
-        "analyse_zh": "此判决属于美国选举争议系列案件，源自2020年的争端。核心问题涉及选举程序的合法性和对制度的信任，对政党战略产生即时影响。中期内，可能加剧党派分裂并推动争议性选举改革。长期来看，这质疑美国民主体系在面对潜在操控时的稳定性。共和党人如特朗普视之为对其利益的攻击，而民主党则视之为普选权的胜利。",
+        "analyse_detaillee": "Le PCC, fondé en 1921, incarne un modèle de développement autoritaire contrastant avec les démocraties libérales. La Chine utilise son influence diplomatique en Afrique pour contrer l’hégémonie occidentale, notamment via des investissements massifs dans les infrastructures. Les déclarations de l’ancien Premier ministre égyptien s’inscrivent dans une rhétorique pro-PCC, souvent financée par des partenariats sino-africains. Court terme, cela pourrait renforcer les liens économiques Chine-Afrique, mais aussi alimenter les critiques sur la dette africaine. Moyen terme, Pékin pourrait étendre son modèle à d’autres régions (Asie du Sud, Amérique latine). Long terme, le PCC pourrait devenir un modèle alternatif pour les pays en développement, face à l’affaiblissement de l’influence américaine. Les États-Unis et l’UE dénoncent un ‘soft power’ chinois oppressif, tandis que la Russie y voit une opportunité de coopération anti-occidentale.",
+        "analyse_en": "The CPC, founded in 1921, embodies an authoritarian development model contrasting with liberal democracies. China uses its diplomatic influence in Africa to counter Western hegemony, through massive infrastructure investments. The former Egyptian PM’s remarks align with pro-CPC rhetoric, often funded by Sino-African partnerships. Short-term, this could strengthen China-Africa economic ties but also fuel debt criticism in Africa. Medium-term, Beijing may expand its model to other regions (South Asia, Latin America). Long-term, the CPC could become an alternative model for developing nations amid declining U.S. influence. The U.S. and EU condemn China’s ‘oppressive’ soft power, while Russia sees it as an opportunity for anti-Western cooperation.",
+        "analyse_zh": "中共成立于1921年，代表了一种与自由民主制相对的权威发展模式。中国利用其在非洲的外交影响力，通过大规模基础设施投资对抗西方霸权。前埃及总理的言论符合支持中共的宣传，这种宣传通常由中非合作资助。短期内，这可能加强中非经济关系，但也可能加剧非洲债务问题的批评。中期内，北京可能将其模式扩展到其他地区（南亚、拉丁美洲）。长期来看，中共可能成为发展中国家面对美国影响力下降时的替代模式。美国和欧盟谴责中国‘压制性’的软实力，而俄罗斯则将其视为反西方合作的机会。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/trump-mail-in-voting_n_6aa2e8aee4b0b2af35a4dbfd",
-        "image": "https://img.huffingtonpost.com/asset/6aa2e8ec170000d0ee20109c.jpeg?cache=COHpVcwtNj&ops=1200_630",
-        "date": "2026-09-10",
-        "pays": "usa",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/global-times-chinas-success-and-prosperity-stem-from-the-cpcs-outstanding-leadership-former-egyptian-pm-302883746.html",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-09-19",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des assurances électorales",
-            "hausse": true
+            "label": "▼ Investissements chinois en Afrique (infrastructures)",
+            "hausse": false
           },
           {
-            "label": "▼ Fonds de campagne politique",
-            "hausse": false
+            "label": "▲ Technologies et surveillance (5G, IA)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des assurances électorales",
-            "secteur_en": "Election insurance market",
-            "secteur_zh": "选举保险市场",
-            "effet_fr": "Les incertitudes juridiques pourraient inciter les assureurs à revoir leurs couvertures et tarifs pour les élections futures, augmentant les coûts pour les candidats.",
-            "effet_en": "Legal uncertainties may prompt insurers to adjust coverage and premiums for future elections, increasing costs for candidates.",
-            "effet_zh": "法律不确定性可能促使保险公司调整未来选举的保障和保费，增加候选人的成本。",
-            "hausse": true
+            "secteur_fr": "Investissements chinois en Afrique (infrastructures)",
+            "secteur_en": "Chinese investments in Africa (infrastructure)",
+            "secteur_zh": "中国对非洲的基础设施投资",
+            "effet_fr": "Ces investissements pourraient stimuler la croissance économique africaine, mais aussi accroître la dépendance envers la Chine et les risques de dette souveraine.",
+            "effet_en": "Such investments may boost African economic growth but also increase dependence on China and sovereign debt risks.",
+            "effet_zh": "这些投资可能刺激非洲经济增长，但也可能增加对中国的依赖和主权债务风险。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Fonds de campagne politique",
-            "secteur_en": "Political campaign funds",
-            "secteur_zh": "政治竞选基金",
-            "effet_fr": "Les candidats pourraient réallouer des ressources vers des stratégies juridiques plutôt que des campagnes terrain, réduisant les investissements dans les infrastructures électorales locales.",
-            "effet_en": "Candidates may reallocate resources toward legal strategies instead of ground campaigns, reducing investments in local electoral infrastructure.",
-            "effet_zh": "候选人可能将资源重新分配到法律战略上，而不是地面宣传，减少对地方选举基础设施的投资。",
-            "hausse": false
+            "secteur_fr": "Technologies et surveillance (5G, IA)",
+            "secteur_en": "Technologies and surveillance (5G, AI)",
+            "secteur_zh": "技术和监控（5G、人工智能）",
+            "effet_fr": "La promotion de ces technologies en Afrique pourrait renforcer le contrôle politique chinois tout en créant des opportunités pour les entreprises chinoises dans le numérique.",
+            "effet_en": "Promoting these technologies in Africa may strengthen China’s political control while creating opportunities for Chinese firms in the digital sector.",
+            "effet_zh": "在非洲推广这些技术可能加强中国的政治控制，同时为中国数字领域企业创造机会。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-09-11T17:33:19.580945"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-09-20T05:44:37.568702"
+      },
       {
         "id": "chine_282298",
         "titre": "Événement chinois encourage les liens plus profonds avec l’étranger",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-09-05T20:57:38.348833"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_597482",
-        "titre": "Chine exporte première presse d’injection 5000 tonnes vers États-Unis",
-        "titre_en": "China Exports First 5000-Ton Injection Molding Machine to U.S.",
-        "titre_zh": "中国向美国出口首台5000吨注塑机",
-        "titre_ru": "CLF доставила Тайваню первый пресс для литья под давлением 5000 тонн за 60 лет",
-        "titre_fa": "CLF اولین ماشین قالب‌گیری تحت فشار ۵۰۰۰ تن تایوان را پس از ۶۰ سال به یک تأمین‌کننده لوژستیک برتر آمریکا ارسال کرد",
-        "titre_ar": "أرسلت شركة CLF أول آلة تصنيع بالحقن بقدرة 5000 طن إلى تايوان بعد 60 عامًا، وهي أكبر آلة في تاريخ الشركة",
-        "titre_original": "CLF Ships Taiwan's First 5000-Ton Injection Molding Machine, Its Largest in 60 Years, to a Top-Tier US Logistics Supplier",
-        "resume": "La société chinoise CLF a livré sa première presse d’injection de 5000 tonnes, la plus grande en 60 ans, à un fournisseur logistique américain de premier plan. Ce modèle innovant, plus court de 15-20% et consommant 20-50% moins d’énergie, marque une avancée majeure dans l’industrie manufacturière. Cette exportation renforce la position de la Chine comme leader technologique mondial.",
-        "resume_en": "Chinese company CLF delivered its first 5000-ton injection molding machine, the largest in 60 years, to a top U.S. logistics supplier. This innovative model, 15-20% shorter and consuming 20-50% less energy, marks a major advance in manufacturing. The export strengthens China’s position as a global tech leader.",
-        "resume_zh": "中国企业CLF向美国一家顶级物流供应商交付了首台5000吨注塑机，这是60年来最大的注塑机。该创新型号比传统机型缩短15-20%，能耗降低20-50%，标志着制造业的重大突破。这一出口进一步巩固了中国在全球科技领域的领先地位。",
-        "resume_ru": "Компания Chuan Lih Fa Machinery Works доставила на Тайвань первый за 60 лет пресс для литья под давлением весом 5000 тонн. Машина с двухплоскостной конструкцией на 15-20% короче аналогов и потребляет на 20-50% меньше энергии в производстве. Это оборудование отправлено крупнейшему поставщику логистики США.",
-        "resume_fa": "شرکت چوان لی فا مکانیکال وورکس اولین ماشین قالب‌گیری تحت فشار ۵۰۰۰ تن تایوان را پس از ۶۰ سال ارسال کرد. این ماشین با طراحی دو صفحه‌ای، ۱۵ تا ۲۰ درصد کوتاه‌تر از نمونه‌های مشابه است و مصرف انرژی آن در تولید ۲۰ تا ۵۰ درصد کمتر است. این تجهیزات به یک تأمین‌کننده لوژستیک برتر آمریکا ارسال شده است.",
-        "resume_ar": "أرسلت شركة تشوان لي فا ماكينات إلى تايوان أول آلة تصنيع بالحقن بقدرة 5000 طن بعد 60 عامًا. تتميز الآلة بتصميم بلاطين، حيث تكون أقصر بنسبة 15-20% من نظيراتها، وتستهلك 20-50% أقل طاقة في الإنتاج. تم إرسال هذا المعدات إلى أكبر مورد لوجستي في الولايات المتحدة.",
-        "analyse_detaillee": "Cette innovation s’inscrit dans une stratégie chinoise de domination technologique, visant à réduire la dépendance aux machines européennes et américaines dans l’industrie lourde. Les causes profondes incluent la volonté de la Chine de devenir autonome technologique et de réduire ses coûts énergétiques dans un contexte de transition verte. À court terme, cette technologie pourrait accélérer la modernisation des usines américaines et européennes, réduisant leur dépendance aux importations chinoises. À moyen terme, cela pourrait relancer une guerre commerciale sur les machines industrielles, avec des réactions protectionnistes possibles. Long terme, cette avancée pourrait redéfinir les chaînes d’approvisionnement mondiales et renforcer la position de la Chine dans les secteurs à haute valeur ajoutée.",
-        "analyse_en": "This innovation reflects China’s strategy to dominate global technology, reducing reliance on European and American heavy industry machines. Root causes include China’s push for technological autonomy and lower energy costs amid a green transition. Short-term, this tech could accelerate U.S. and European factory modernization, reducing dependence on Chinese imports. Medium-term, it may trigger a new industrial machinery trade war, with potential protectionist responses. Long-term, this advance could redefine global supply chains and strengthen China’s position in high-value-added sectors.",
-        "analyse_zh": "这一创新体现了中国在技术领域的主导战略，旨在减少对欧洲和美国重工业机械的依赖。深层原因包括中国推动技术自主和在绿色转型背景下降低能源成本的需求。短期内，该技术可能加速美国和欧洲工厂的现代化，减少对中国进口的依赖。中期内，这可能引发新一轮工业机械贸易战，并可能出现保护主义回应。长期来看，这一突破可能重新定义全球供应链并巩固中国在高附加值领域的地位。",
-        "analyse_ru": "Этот шаг подчеркивает технологический прогресс Тайваня и его способность внедрять передовые производственные технологии. Доставка такого оборудования может укрепить позиции Тайваня на мировом рынке высокотехнологичной продукции. Однако зависимость от китайских поставщиков может вызвать геополитические дискуссии, особенно в условиях напряженности вокруг Тайваня. С другой стороны, это может стимулировать местные компании Тайваня к инновациям и развитию собственных технологий. В перспективе, это может усилить экономическую конкурентоспособность острова.",
-        "analyse_fa": "این حرکت پیشرفت فناوری تایوان و توانایی آن در پیاده‌سازی فناوری‌های تولید پیشرفته را نشان می‌دهد. ارسال چنین تجهیزاتی می‌تواند موقعیت تایوان در بازار جهانی محصولات فناوری بالا را تقویت کند. اما وابستگی به تأمین‌کنندگان چینی ممکن است به بحث‌های ژئوپولیتیکی در مورد تنش‌های اطراف تایوان منجر شود. از سوی دیگر، این می‌تواند شرکت‌های محلی تایوان را به نوآوری و توسعه فناوری‌های داخلی تشویق کند. در آینده، این می‌تواند رقابت اقتصادی جزیره را تقویت کند.",
-        "analyse_ar": "يظهر هذا الخطوة تقدم تايوان التكنولوجي وقدرته على تطبيق تقنيات إنتاج متقدمة. قد يثبت تسليم مثل هذا المعدات موقعيت تايوان في سوق المنتجات التكنولوجية العالمية. ومع ذلك، قد يؤدي الاعتماد على الموردين الصينيين إلى نقاشات جيوسياسية، خاصة في ظل التوترات حول تايوان. من ناحية أخرى، قد يحفّز هذا الشركات المحلية في تايوان على الابتكار وتطوير تقنيات محلية. في المستقبل، قد يزداد منافسة تايوان الاقتصادية.",
-        "categorie": "Industrie & Innovation",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/clf-ships-taiwans-first-5000-ton-injection-molding-machine-its-largest-in-60-years-to-a-top-tier-us-logistics-supplier-302868779.html",
-        "image": "https://mmx.prnewswire.com/media/MS1980992/20260902230655EDT_image_1.jpg?id=OA2927694&p=facebook",
-        "date": "2026-09-03",
-        "pays": "chine",
+        "id": "russie_341094",
+        "titre": "Ukraine abat 141 armes aériennes russes en une nuit",
+        "titre_en": "Ukraine downed 141 Russian aerial weapons overnight",
+        "titre_zh": "乌克兰一夜击落141枚俄制空中武器",
+        "titre_ru": "Ukraine downs 141 aerial weapons overnight",
+        "titre_fa": "Ukraine downs 141 aerial weapons overnight",
+        "titre_ar": "Ukraine downs 141 aerial weapons overnight",
+        "titre_original": "Ukraine downs 141 aerial weapons overnight",
+        "resume": "Les forces ukrainiennes ont revendiqué la destruction de 141 armes aériennes russes en une seule nuit, principalement ciblant les régions d’Odessa et de Kiev. Cette performance défensive marque une intensification des frappes russes dans ces zones stratégiques. Les autorités ukrainiennes soulignent l’efficacité croissante de leur système de défense antiaérien, malgré les pertes humaines et matérielles.",
+        "resume_en": "Ukrainian forces claimed to have destroyed 141 Russian aerial weapons overnight, primarily targeting Odesa and Kyiv regions. This defensive feat highlights escalating Russian strikes in key areas. Ukrainian authorities emphasize improved effectiveness of their air defense systems, despite ongoing casualties and material losses.",
+        "resume_zh": "乌克兰军方宣称在一夜之间击落了141枚俄罗斯空中武器，主要针对奥德萨和基辅地区。这一防御成就表明俄罗斯在关键区域加强了空袭。乌克兰当局强调其防空系统效率提升，尽管仍然面临人员和物资损失。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La guerre en Ukraine, déclenchée en 2022 par l’invasion russe, a révélé des déséquilibres technologiques persistants entre les deux pays. Les frappes ciblant Odessa et Kiev reflètent une stratégie russe visant à affaiblir les capacités logistiques et morales ukrainiennes. Les succès ukrainiens en défense aérienne s’expliquent par l’aide occidentale (systèmes Patriot, NASAMS) et une adaptation tactique rapide. Court terme, cette escalade pourrait accélérer les livraisons d’armes occidentales à Kiev. Moyen terme, la Russie pourrait intensifier les frappes sur les infrastructures énergétiques pour forcer une capitulation. Long terme, les tensions géopolitiques en Europe de l’Est pourraient durer des décennies, avec un risque de fragmentation de l’OTAN. Moscou justifie ses actions par la ‘dénazification’, tandis que Kiev dénonce une guerre d’aggression et appelle à un soutien accru.",
+        "analyse_en": "The war in Ukraine, triggered in 2022 by Russia’s invasion, has exposed persistent technological imbalances between the two nations. Strikes on Odesa and Kyiv reflect a Russian strategy to weaken Ukrainian logistical and moral resilience. Ukrainian air defense successes stem from Western aid (Patriot, NASAMS systems) and rapid tactical adaptation. Short-term, this escalation may accelerate Western arms deliveries to Kyiv. Medium-term, Russia could intensify strikes on energy infrastructure to force surrender. Long-term, geopolitical tensions in Eastern Europe could persist for decades, risking NATO fragmentation. Moscow justifies actions with ‘denazification’, while Kyiv condemns it as an aggressive war and demands stronger support.",
+        "analyse_zh": "2022年由俄罗斯发动的乌克兰战争暴露了两国之间长期存在的技术不平衡。针对奥德萨和基辅的空袭反映了俄罗斯试图削弱乌克兰后勤和士气的战略。乌克兰防空的成功得益于西方援助（爱国者、纳萨姆斯系统）和快速的战术适应。短期内，这一升级可能加速西方向基辅提供武器的速度。中期内，俄罗斯可能加大对能源基础设施的打击，迫使乌克兰投降。长期来看，欧洲东部的地缘政治紧张局势可能持续数十年，并可能导致北约分裂的风险。莫斯科以“去纳粹化”为由正当其行，而基辅则谴责这是一场侵略战争，并呼吁更多支持。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c119ef6b2fa0c030",
+        "image": "https://biztoc.com/cdn/c119ef6b2fa0c030_s.webp",
+        "date": "2026-09-19",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Machines industrielles et automatisation",
+            "label": "▲ Marché des armes et défense aérienne",
             "hausse": true
           },
           {
-            "label": "▲ Énergies renouvelables et efficacité énergétique",
+            "label": "▲ Matières premières énergétiques (gaz, pétrole)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Machines industrielles et automatisation",
-            "secteur_en": "Industrial machinery and automation",
-            "secteur_zh": "工业机械和自动化",
-            "effet_fr": "Cette technologie pourrait réduire les coûts de production pour les industries manufacturières, tout en augmentant leur compétitivité face aux concurrents chinois.",
-            "effet_en": "This technology may reduce manufacturing production costs while increasing competitiveness against Chinese rivals.",
-            "effet_zh": "该技术可能降低制造业的生产成本，同时提升对中国竞争对手的竞争力。",
+            "secteur_fr": "Marché des armes et défense aérienne",
+            "secteur_en": "Weapons and air defense market",
+            "secteur_zh": "武器和防空市场",
+            "effet_fr": "Les succès ukrainiens pourraient relancer la demande pour des systèmes de défense antiaérienne avancés, bénéficiant aux entreprises comme Raytheon ou Lockheed Martin.",
+            "effet_en": "Ukrainian successes may revive demand for advanced air defense systems, benefiting firms like Raytheon or Lockheed Martin.",
+            "effet_zh": "乌克兰的成功可能刺激对先进防空系统的需求，有利于雷神或洛克希德·马丁等企业。",
             "hausse": true
           },
           {
-            "secteur_fr": "Énergies renouvelables et efficacité énergétique",
-            "secteur_en": "Renewable energy and energy efficiency",
-            "secteur_zh": "可再生能源和能源效率",
-            "effet_fr": "La réduction de 20-50% de la consommation énergétique pourrait stimuler l’adoption de machines plus écologiques, bénéficiant aux secteurs des énergies vertes.",
-            "effet_en": "The 20-50% energy reduction may drive adoption of greener machines, benefiting renewable energy sectors.",
-            "effet_zh": "能耗降低20-50%可能推动更环保机械的采用，惠及可再生能源行业。",
+            "secteur_fr": "Matières premières énergétiques (gaz, pétrole)",
+            "secteur_en": "Energy raw materials (gas, oil)",
+            "secteur_zh": "能源原材料（天然气、石油）",
+            "effet_fr": "Les frappes russes sur les infrastructures énergétiques ukrainiennes pourraient perturber les approvisionnements européens et faire monter les prix à moyen terme.",
+            "effet_en": "Russian strikes on Ukrainian energy infrastructure could disrupt European supplies and drive up prices in the medium term.",
+            "effet_zh": "俄罗斯对乌克兰能源基础设施的打击可能扰乱欧洲的供应，并导致中期内能源价格上涨。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-04T07:55:40.171950"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-09-20T05:44:37.568684"
+      },
       {
         "id": "russie_554764",
         "titre": "Élections russes : un simulacre sous tension belliqueuse",
@@ -4829,65 +4888,6 @@
           }
         ],
         "created_at": "2026-09-10T18:07:45.020045"
-      },
-      {
-        "id": "russie_47261",
-        "titre": "Putine et Modi discutent énergie et défense",
-        "titre_en": "Putin meets Modi on energy and defense",
-        "titre_zh": "普京与莫迪讨论能源与防务",
-        "titre_ru": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
-        "titre_fa": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
-        "titre_ar": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
-        "titre_original": "Putin meeting PM Modi on Friday; energy, defence high on agenda",
-        "resume": "La Russie a dénoncé les tarifs américains à 100% sur l’huile russe comme 'illégaux', tout en confirmant un sommet avec le Premier ministre indien Narendra Modi. Les discussions porteront sur l’énergie et la défense, secteurs clés pour Moscou. Ce dialogue s’inscrit dans une stratégie de diversification des partenariats post-sanctions.",
-        "resume_en": "Russia condemned U.S. 100% tariffs on Russian oil as 'illegal,' confirming a summit with Indian PM Narendra Modi. Discussions will focus on energy and defense, key sectors for Moscow. This dialogue reflects a post-sanctions strategy to diversify partnerships.",
-        "resume_zh": "俄罗斯谴责美国对俄石油征收100%关税为‘非法’，并确认与印度总理莫迪举行峰会。讨论将围绕能源和防务两大领域，对莫斯科至关重要。此举反映了俄在制裁后多元化伙伴关系的战略。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Les relations Russie-Inde, forgées depuis les années 1950, reposent sur une complémentarité énergétique et stratégique. Moscou cherche à contourner les sanctions occidentales via Delhi, tandis que New Delhi diversifie ses approvisionnements en pétrole. À court terme, cette alliance renforce la résilience énergétique de la Russie, mais expose l’Inde à des risques géopolitiques accrus. À moyen terme, les investissements conjoints dans les infrastructures énergétiques pourraient se multiplier. Long terme, cette dynamique pourrait marginaliser l’influence occidentale en Asie du Sud. La Chine, partenaire clé de Moscou, y voit une opportunité de renforcer son propre réseau d’alliances. Les États-Unis, déjà sous pression, pourraient durcir leurs sanctions pour isoler davantage la Russie.",
-        "analyse_en": "Russia-India relations, forged since the 1950s, are built on energy and strategic complementarity. Moscow seeks to bypass Western sanctions through Delhi, while New Delhi diversifies its oil supplies. Short-term, this alliance boosts Russia’s energy resilience but exposes India to greater geopolitical risks. Medium-term, joint investments in energy infrastructure may increase. Long-term, this dynamic could marginalize Western influence in South Asia. China, a key Moscow partner, sees this as an opportunity to strengthen its own alliance network. The U.S., already under pressure, may tighten sanctions to further isolate Russia.",
-        "analyse_zh": "俄印关系自上世纪五十年代以来建立在能源和战略互补基础上。莫斯科试图通过新德里绕过西方制裁，而印度则多元化其石油进口来源。短期内，这一联盟增强了俄罗斯的能源韧性，但让印度面临更大的地缘政治风险。中期内，联合能源基础设施投资可能增加。长期来看，这一动态可能削弱西方在南亚的影响力。中国作为莫斯科的关键伙伴，看到了加强自身联盟网络的机会。美国已经面临压力，可能进一步加强制裁以进一步孤立俄罗斯。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/putin-meeting-pm-modi-on-friday-energy-defence-high-on-agenda/articleshow/133947514.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133947542,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-09",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier international (prix et approvisionnement)",
-            "hausse": false
-          },
-          {
-            "label": "▲ Secteur des technologies de défense et cyber",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier international (prix et approvisionnement)",
-            "secteur_en": "Global oil market (prices and supply)",
-            "secteur_zh": "全球石油市场（价格和供应）",
-            "effet_fr": "La diversification des achats indiens vers la Russie pourrait stabiliser les prix à court terme, mais risquerait de créer des tensions avec les pays du Golfe à long terme.",
-            "effet_en": "India’s diversification of oil purchases from Russia may stabilize prices short-term but could create long-term tensions with Gulf nations.",
-            "effet_zh": "印度从俄罗斯进口石油的多元化可能在短期内稳定价格，但长期可能与波斯湾国家产生紧张关系。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des technologies de défense et cyber",
-            "secteur_en": "Defense and cyber technology sector",
-            "secteur_zh": "防务和网络技术领域",
-            "effet_fr": "Les accords énergétiques pourraient ouvrir la voie à des collaborations technologiques, renforçant l’autonomie stratégique de la Russie face à l’Occident.",
-            "effet_en": "Energy deals may pave the way for tech collaborations, enhancing Russia’s strategic autonomy against the West.",
-            "effet_zh": "能源协议可能为技术合作铺平道路，增强俄罗斯在对抗西方方面的战略自主性。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-10T00:53:26.038785"
       }
     ],
     "iran": [
