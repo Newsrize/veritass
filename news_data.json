@@ -1,7 +1,66 @@
 {
-  "last_updated": "20/09/2026 à 20h35",
+  "last_updated": "20/09/2026 à 23h00",
   "articles": {
     "monde": [
+      {
+        "id": "monde_896502",
+        "titre": "Semi-conducteurs : marché surévalué pour 4 mois consécutifs",
+        "titre_en": "Semiconductors remain overcrowded for fourth month",
+        "titre_zh": "半导体连续四月成为热门交易",
+        "titre_ru": "Bank of America survey shows semiconductors remain top crowded trade for fourth straight month",
+        "titre_fa": "Bank of America survey shows semiconductors remain top crowded trade for fourth straight month",
+        "titre_ar": "Bank of America survey shows semiconductors remain top crowded trade for fourth straight month",
+        "titre_original": "Bank of America survey shows semiconductors remain top crowded trade for fourth straight month",
+        "resume": "Une enquête de Bank of America révèle que les semi-conducteurs restent un actif surévalué, reflétant une baisse de confiance des investisseurs. Cette tendance s’accompagne de craintes accrues concernant les rendements obligataires en hausse. Les marchés financiers pourraient subir une volatilité accrue en conséquence. Les analystes soulignent un possible changement de sentiment des investisseurs face à ce secteur technologique clé.",
+        "resume_en": "Bank of America’s survey indicates semiconductors remain overcrowded for a fourth consecutive month, signaling waning investor confidence. Rising bond yields amplify concerns about market volatility. Investors appear to be shifting away from this critical tech sector, potentially impacting broader financial stability. Analysts warn of a broader sentiment shift in response to economic uncertainties.",
+        "resume_zh": "银行美林调查显示半导体连续第四个月成为热门交易，反映投资者信心下降。随着债券收益率上升，市场波动性加剧。投资者可能正在远离这一关键技术领域，可能影响整体金融稳定。分析师警告经济不确定性导致投资者情绪转变。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les semi-conducteurs, pilier de l’économie numérique mondiale, ont connu une bulle spéculative post-pandémie, portée par la demande en 5G et en IA. Leur surévaluation actuelle s’explique par un ralentissement de la croissance technologique et une saturation des capitaux dans ce secteur. Les rendements obligataires en hausse, liés à la politique monétaire restrictive des banques centrales, aggravent les craintes de correction. À court terme, les investisseurs pourraient se repositionner vers des actifs plus sûrs comme les obligations ou l’or. À moyen terme, une consolidation du marché est probable, avec une baisse des prix et une rationalisation des acteurs. Long terme, la dépendance mondiale aux puces électroniques pourrait relancer l’intérêt, mais sous une pression réglementaire accrue. Les États-Unis, principaux producteurs, cherchent à limiter les dépendances géopolitiques via des lois comme le CHIPS Act, tandis que la Chine maintient sa domination via des subventions massives.",
+        "analyse_en": "Semiconductors, a cornerstone of the global digital economy, saw a post-pandemic speculative bubble fueled by 5G and AI demand. Their current overvaluation stems from slowing tech growth and capital saturation in the sector. Rising bond yields, tied to central bank tightening, exacerbate fears of a market correction. Short-term, investors may shift to safer assets like bonds or gold. Medium-term, market consolidation is likely, with price declines and industry rationalization. Long-term, global reliance on electronic chips could reignite interest, but under stricter regulatory pressure. The US, as the leading producer, aims to reduce geopolitical dependencies via the CHIPS Act, while China maintains dominance through massive subsidies.",
+        "analyse_zh": "半导体作为全球数字经济的支柱，在疫情后因5G和人工智能需求形成了投机泡沫。目前的高估主要源于技术增长放缓和该领域资本过剩。债券收益率上升，与央行紧缩政策相关，加剧了市场修正的担忧。短期内，投资者可能转向更安全的资产如债券或黄金。中期内，市场整合可能发生，价格下跌和行业精简将成为趋势。长期来看，全球对电子芯片的依赖可能再次刺激兴趣，但将面临更严格的监管。美国作为主要生产国，试图通过《芯片法案》减少地缘政治依赖，而中国则通过大规模补贴维持其主导地位。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bofa-survey-semiconductors-crowded-trade/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19185828/library-bank-of-america-survey-shows-semiconductors-remain-top-c-800x450.png",
+        "date": "2026-09-19",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché des actions technologiques (NASDAQ)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des obligations d'État (Treasuries)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des actions technologiques (NASDAQ)",
+            "secteur_en": "Technology stock market (NASDAQ)",
+            "secteur_zh": "纳斯达克科技股市场",
+            "effet_fr": "Les actions technologiques pourraient subir une correction brutale en cas de désengagement massif des investisseurs, affectant les valorisations des géants comme Nvidia ou AMD.",
+            "effet_en": "Technology stocks may face a sharp correction if investors pull out en masse, impacting valuations of giants like Nvidia or AMD.",
+            "effet_zh": "科技股在投资者大规模撤离时可能遭遇暴跌，影响英伟达或AMD等巨头的估值。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des obligations d'État (Treasuries)",
+            "secteur_en": "Government bond market (Treasuries)",
+            "secteur_zh": "美国国债市场",
+            "effet_fr": "La hausse des rendements obligataires pourrait attirer des capitaux vers des actifs plus sûrs, réduisant la pression sur les semi-conducteurs mais affaiblissant les marchés émergents dépendants du financement externe.",
+            "effet_en": "Rising bond yields may attract capital to safer assets, easing pressure on semiconductors but weakening emerging markets reliant on external financing.",
+            "effet_zh": "国债收益率上升可能吸引资金流向更安全的资产，减轻半导体市场压力，但削弱依赖外部融资的新兴市场。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-20T23:00:31.593543"
+      },
       {
         "id": "monde_867919",
         "titre": "Prédictions pour Cowboys vs Commanders en semaine 2",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-13T13:42:31.500537"
-      },
-      {
-        "id": "monde_181442",
-        "titre": "Bypass VPN Android expose failles de sécurité critiques",
-        "titre_en": "Android VPN bypass exposes critical security flaws",
-        "titre_zh": "安卓VPN绕过漏洞曝光安全隐患",
-        "titre_ru": "Android NAT-T keepalive offload bypasses VPN lockdown",
-        "titre_fa": "Android NAT-T keepalive offload bypasses VPN lockdown",
-        "titre_ar": "Android NAT-T keepalive offload bypasses VPN lockdown",
-        "titre_original": "Android NAT-T keepalive offload bypasses VPN lockdown",
-        "resume": "Une étude technique révèle une faille dans le protocole NAT-T sur Android, permettant de contourner les restrictions VPN imposées par certains opérateurs ou gouvernements. Cette vulnérabilité pourrait être exploitée pour espionner les communications chiffrées ou rediriger le trafic. Les développeurs et les régulateurs doivent agir rapidement pour colmater cette brèche avant qu’elle ne soit exploitée massivement.",
-        "resume_en": "A technical report highlights a flaw in Android’s NAT-T protocol, enabling VPN restrictions to be bypassed by operators or governments. This vulnerability could be abused to spy on encrypted traffic or redirect data flows. Developers and regulators must act swiftly to patch the gap before widespread exploitation.",
-        "resume_zh": "一份技术报告揭示了安卓NAT-T协议中的漏洞，允许绕过运营商或政府设置的VPN限制。此漏洞可能被滥用监控加密通信或重定向数据流。开发者和监管机构必须迅速修补漏洞，以防止大规模滥用。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette faille s’inscrit dans une série de vulnérabilités récurrentes affectant les infrastructures numériques, souvent exploitées par des acteurs étatiques ou criminels. Les enjeux principaux concernent la vie privée et la souveraineté des données, avec des risques accrus pour les utilisateurs de smartphones et les entreprises. Les causes profondes incluent la complexité croissante des protocoles réseau et le manque de transparence des fabricants. À court terme, les cybercriminels pourraient cibler les utilisateurs vulnérables, tandis que les gouvernements pourraient renforcer la surveillance. À moyen terme, cette faille pourrait accélérer l’adoption de normes de sécurité plus strictes. Long terme, elle pourrait influencer les politiques de cybersécurité globales et les investissements dans la R&D.",
-        "analyse_en": "This flaw is part of recurring vulnerabilities in digital infrastructure, often exploited by state actors or criminals. Key stakes involve privacy and data sovereignty, with heightened risks for smartphone users and corporations. Root causes include the growing complexity of network protocols and manufacturer opacity. Short-term, cybercriminals may target vulnerable users, while governments may ramp up surveillance. Medium-term, this flaw could accelerate stricter security standards adoption. Long-term, it may shape global cybersecurity policies and R&D investments.",
-        "analyse_zh": "此漏洞属于数字基础设施反复出现的漏洞，常被国家行为者或犯罪分子利用。主要影响涉及隐私和数据主权，智能手机用户和企业面临更高风险。深层原因包括网络协议复杂性增加和制造商缺乏透明度。短期内，网络犯罪分子可能针对易受攻击的用户，政府可能加强监控。中期内，此漏洞可能加速采用更严格的安全标准。长期来看，它可能影响全球网络安全政策和研发投资。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Cybersécurité",
-        "source": "Supuk.ch",
-        "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-        "image": "https://supuk.ch/images/headers/android-natt-keepalive-post.jpg",
-        "date": "2026-09-11",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Secteur des télécommunications (opérateurs mobiles)",
-            "hausse": false
-          },
-          {
-            "label": "▲ Assurance cyber (cyber insurance)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur des télécommunications (opérateurs mobiles)",
-            "secteur_en": "Telecommunications sector (mobile operators)",
-            "secteur_zh": "电信行业（移动运营商）",
-            "effet_fr": "Les opérateurs pourraient subir des pertes financières liées à la fraude ou à la perte de confiance des utilisateurs, tout en devant investir massivement dans la sécurisation de leurs infrastructures.",
-            "effet_en": "Operators may face financial losses from fraud or user distrust, while needing to heavily invest in securing their infrastructure.",
-            "effet_zh": "运营商可能因欺诈或用户不信任而遭受财务损失，同时需要大量投资于基础设施的安全加固。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Assurance cyber (cyber insurance)",
-            "secteur_en": "Cyber insurance",
-            "secteur_zh": "网络保险",
-            "effet_fr": "La demande en assurances cyber pourrait exploser, poussant les assureurs à ajuster leurs tarifs et couvertures face à ce type de risques émergents.",
-            "effet_en": "Demand for cyber insurance may surge, forcing insurers to adjust rates and coverage for emerging risks like this.",
-            "effet_zh": "网络保险需求可能激增，迫使保险公司调整费率和覆盖范围以应对新兴风险。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-12T21:19:38.752646"
       }
     ],
     "france": [
@@ -1345,6 +1345,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_818373",
+        "titre": "Iran propose des conditions de paix aux États-Unis via le Qatar",
+        "titre_en": "Iran offers peace terms to US via Qatar",
+        "titre_zh": "伊朗通过卡塔尔向美提出和平条件",
+        "titre_ru": "Iran sends peace terms to US",
+        "titre_fa": "Iran sends peace terms to US",
+        "titre_ar": "Iran sends peace terms to US",
+        "titre_original": "Iran sends peace terms to US",
+        "resume": "L’Iran a transmis ses propositions pour mettre fin à la guerre via les canaux diplomatiques qataris, en attendant la réponse de l’ex-président Donald Trump. Cette initiative survient dans un contexte de tensions persistantes dans la région, notamment après les attaques récentes contre l’Arabie saoudite. Les négociations pourraient inclure des clauses sur le nucléaire et les soutiens régionaux.",
+        "resume_en": "Iran has conveyed its terms for ending the conflict through Qatari diplomatic channels, awaiting Donald Trump’s response. This move follows persistent regional tensions, particularly after recent attacks on Saudi Arabia. Negotiations may cover nuclear issues and regional support.",
+        "resume_zh": "伊朗通过卡塔尔外交渠道传达了结束冲突的条件，等待特朗普的回应。这一举动发生在地区持续紧张局势后，特别是在最近对沙特的袭击事件后。谈判可能涉及核问题和地区支持。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions Iran-États-Unis remontent aux années 1979, avec la prise d’otages à l’ambassade américaine et l’instauration d’un embargo économique. Le conflit actuel s’enracine dans des divergences géopolitiques, notamment sur le nucléaire iranien et l’influence régionale en Irak, Syrie et Yémen. Les attaques récentes des Houthis contre l’Arabie saoudite ont relancé les craintes d’escalade, poussant Téhéran à proposer une médiation via le Qatar, pays neutre. Court terme, une réponse américaine pourrait apaiser les marchés pétroliers, mais sans accord, les sanctions et les cyberattaques risquent de persister. À moyen terme, une normalisation des relations dépendrait d’un compromis sur le nucléaire et le retrait des forces américaines d’Irak. Long terme, une paix durable nécessiterait une révision des alliances régionales et une levée des sanctions économiques. L’Iran, isolé diplomatiquement, mise sur la Chine et la Russie pour contrecarrer l’influence américaine, tandis que Washington reste divisé entre hardliners et modérés.",
+        "analyse_en": "US-Iran tensions date back to 1979, with the embassy hostage crisis and subsequent economic embargo. The current conflict stems from geopolitical divergences over Iran’s nuclear program and regional influence in Iraq, Syria, and Yemen. Recent Houthi attacks on Saudi Arabia reignited fears of escalation, prompting Tehran to propose mediation via Qatar, a neutral player. Short-term, an American response could ease oil markets, but without an agreement, sanctions and cyberattacks may persist. Medium-term, normalization would require a nuclear compromise and US troop withdrawal from Iraq. Long-term, lasting peace would need regional alliance realignment and economic sanctions relief. Iran, diplomatically isolated, relies on China and Russia to counterbalance US influence, while Washington remains divided between hardliners and moderates.",
+        "analyse_zh": "美伊紧张关系可追溯到1979年美国大使馆人质危机和随后的经济制裁。当前冲突源于核计划和伊拉克、叙利亚、也门地区影响力的地缘政治分歧。最近胡塞武装对沙特的袭击再次引发升级担忧，推动伊朗通过卡塔尔（中立方）提出调解。短期内，美国回应可能缓解石油市场，但未达成协议，制裁和网络攻击可能持续。中期内，关系正常化需核问题妥协和美国军队从伊拉克撤离。长期来看，持久和平需地区盟友重新调整和经济制裁解除。伊朗在外交上孤立，依赖中国和俄罗斯抵消美国影响，而华盛顿内部仍存在强硬派与温和派分歧。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "RT",
+        "url": "https://www.rt.com/news/645996-iran-sends-peace-terms-us/",
+        "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aaf120e85f540698665c8b3.jpg",
+        "date": "2026-09-19",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier (Brent/Doha)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des devises (Rial iranien)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier (Brent/Doha)",
+            "secteur_en": "Oil market (Brent/Doha)",
+            "secteur_zh": "原油市场（布伦特/多哈原油）",
+            "effet_fr": "Une trêve diplomatique pourrait stabiliser les prix du pétrole en réduisant les risques de perturbation des approvisionnements via le détroit d’Ormuz.",
+            "effet_en": "Diplomatic truce could stabilize oil prices by reducing risks of supply disruptions through the Strait of Hormuz.",
+            "effet_zh": "外交停火可能稳定油价，减少霍尔木兹海峡供应中断的风险。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des devises (Rial iranien)",
+            "secteur_en": "Currency market (Iranian rial)",
+            "secteur_zh": "伊朗里亚尔汇率市场",
+            "effet_fr": "Un accord pourrait renforcer la confiance dans la monnaie iranienne, mais les sanctions persistantes limiteront son appréciation à long terme.",
+            "effet_en": "An agreement could boost confidence in the Iranian rial, but persistent sanctions will limit its long-term appreciation.",
+            "effet_zh": "协议可能增强对里亚尔的信心，但持续制裁将限制其长期升值。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-20T23:00:31.593563"
+      },
       {
         "id": "usa_227327",
         "titre": "Trump crée un 'AI Force' et nomme un 'Czar'",
@@ -2465,68 +2524,68 @@
           }
         ],
         "created_at": "2026-09-13T13:42:31.500560"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_277734",
-        "titre": "Trump annonce un ‘dividende Trump’ de 5 000 dollars",
-        "titre_en": "Trump unveils $5,000 ‘Trump Dividend’ plan",
-        "titre_zh": "特朗普宣布5000美元‘特朗普红利’计划",
-        "titre_ru": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
-        "titre_fa": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
-        "titre_ar": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
-        "titre_original": "‘When I say something, I mean it!’ President doubles down on plans for $5,000 ‘Trump Dividend’",
-        "resume": "Donald Trump réaffirme son projet de verser un dividende annuel de 5 000 dollars aux Américains, financé par des « trillions de dollars de développement économique ». Les critiques soulignent l’absence de détails sur les sources de financement, tandis que les marchés anticipent une hausse des tensions fiscales. Ce plan s’inscrit dans une stratégie électorale visant à relancer l’économie avant les prochaines élections.",
-        "resume_en": "Donald Trump reaffirms his plan to distribute a $5,000 annual dividend to Americans, funded by ‘trillions of dollars of economic development.’ Critics question the lack of clarity on funding sources, while markets brace for fiscal tensions. The move aligns with electoral strategy to boost the economy ahead of upcoming elections.",
-        "resume_zh": "特朗普再次宣布向美国公民每年发放5000美元的‘红利’，声称资金来自‘数万亿美元的经济发展’。批评者质疑资金来源不明确，市场担忧财政紧张加剧。这一举措旨在选举前刺激经济增长。",
+        "id": "chine_235481",
+        "titre": "Premier ministre australien appelle à un accord Chine-USA sur l’IA",
+        "titre_en": "Australian PM urges China-US AI deal",
+        "titre_zh": "澳大利亚总理呼吁中美达成人工智能协议",
+        "titre_ru": "PM urges China and US to strike deal in AI race",
+        "titre_fa": "PM urges China and US to strike deal in AI race",
+        "titre_ar": "PM urges China and US to strike deal in AI race",
+        "titre_original": "PM urges China and US to strike deal in AI race",
+        "resume": "Anthony Albanese plaide pour une coopération sino-américaine sur les risques liés à l’intelligence artificielle, soulignant l’urgence d’une régulation internationale. Cette initiative survient dans un contexte de course technologique intense entre les deux superpuissances. L’Australie, en tant que partenaire stratégique, cherche à éviter une fragmentation géopolitique des normes technologiques.",
+        "resume_en": "Anthony Albanese advocates for China-US cooperation on AI risks, emphasizing the need for global regulation. This move follows an intense tech race between the two superpowers. Australia, as a strategic partner, aims to prevent geopolitical fragmentation of tech standards.",
+        "resume_zh": "安东尼·阿尔巴尼斯呼吁中美在人工智能风险上合作，强调全球监管的紧迫性。这一举动发生在两个超级大国之间的激烈技术竞赛背景下。澳大利亚作为战略伙伴，试图避免技术标准的地缘政治分裂。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ce projet s’inscrit dans une tradition populiste américaine, où les promesses de redistribution directe visent à mobiliser l’électorat. Les causes profondes incluent la frustration économique post-pandémie et la polarisation politique, exacerbée par les inégalités. À court terme, les marchés pourraient réagir avec volatilité, tandis que les agences de notation pourraient rehausser les risques souverains. À moyen terme, le financement incertain pourrait déclencher des débats sur la dette publique et les priorités budgétaires. Long terme, cela pourrait renforcer les divisions partisanes ou, au contraire, forcer une réforme fiscale structurelle. Les républicains y voient un levier électoral, tandis que les démocrates y perçoivent une menace pour la stabilité économique.",
-        "analyse_en": "This plan echoes American populist traditions, where direct redistribution promises aim to mobilize voters. Root causes stem from post-pandemic economic frustration and political polarization, worsened by inequality. Short-term, markets may react with volatility, while rating agencies could flag sovereign risks. Medium-term, unclear funding could spark debates on public debt and budget priorities. Long-term, it may deepen partisan divides or force structural fiscal reforms. Republicans see it as an electoral tool, while Democrats view it as a threat to economic stability.",
-        "analyse_zh": "该计划延续了美国民粹主义传统，通过直接分配资金吸引选民支持。深层原因包括疫情后的经济不满和政治极化，加剧了贫富差距。短期内，市场可能出现波动，主权债务评级机构可能提高风险警示。中期内，资金来源不明确可能引发公共债务和预算优先事项的争议。长期来看，这可能加剧党派分裂，或者迫使进行结构性财政改革。共和党视其为选举工具，民主党则认为这是对经济稳定的威胁。",
+        "analyse_detaillee": "La course à l’IA entre la Chine et les États-Unis s’inscrit dans une rivalité technologique plus large, remontant aux années 1990 avec le début de la mondialisation numérique. Les enjeux actuels portent sur le contrôle des données, la souveraineté algorithmique et l’influence géopolitique via des outils comme le *Social Credit System* chinois ou les réseaux 5G. Les causes profondes incluent le protectionnisme américain (lois *CHIPS Act*, *Inflation Reduction Act*) et les subventions massives chinoises pour dominer les puces et l’IA. Court terme, une coopération pourrait apaiser les tensions commerciales, mais les divergences sur les valeurs démocratiques et la censure freinent les avancées. À moyen terme, une régulation internationale pourrait émerger via des forums comme l’OCDE ou l’ONU, mais sous domination américaine ou chinoise. Long terme, l’IA pourrait devenir un nouvel outil de soft power, avec des alliances technologiques redessinant les blocs géopolitiques. Les États-Unis, menés par Biden, privilégient une approche restrictive pour limiter la Chine, tandis que Pékin mise sur une supériorité technologique pour contester l’hégémonie américaine.",
+        "analyse_en": "The China-US AI race is part of a broader tech rivalry dating back to the 1990s, with the onset of digital globalization. Current stakes include data control, algorithmic sovereignty, and geopolitical influence via tools like China’s *Social Credit System* or 5G networks. Root causes include US protectionism (*CHIPS Act*, *Inflation Reduction Act*) and China’s massive subsidies to dominate chips and AI. Short-term, cooperation could ease trade tensions, but differences over democratic values and censorship hinder progress. Medium-term, global regulation may emerge via forums like the OECD or UN, but under US or Chinese dominance. Long-term, AI could become a new soft power tool, with tech alliances redrawing geopolitical blocs. The US, led by Biden, favors a restrictive approach to limit China, while Beijing bets on tech superiority to challenge US hegemony.",
+        "analyse_zh": "中美在人工智能领域的竞赛是更广泛技术竞争的一部分，可追溯到上世纪90年代数字全球化初期。当前的关键点在于数据控制、算法主权和通过工具如中国的*社会信用体系*或5G网络实现的地缘政治影响力。深层原因包括美国的保护主义（如《芯片法案》和《通胀削减法案》）以及中国大规模补贴以主导芯片和AI。短期内，合作可能缓解贸易紧张局势，但民主价值观和审查制度的分歧阻碍了进展。中期内，全球监管可能通过像OECD或联合国这样的论坛出现，但将受到美国或中国主导。长期来看，AI可能成为新的软实力工具，技术联盟将重新绘制地缘政治阵营。美国以拜登为首倾向于采取限制性措施抑制中国，而北京则依赖技术优势挑战美国的霸权。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/09/when-i-say-something-i-mean-it-president/",
-        "image": "https://www.wnd.com/wp-content/uploads/2024/06/Donald-Trump-thumbs-up-1200x630.jpg",
-        "date": "2026-09-11",
-        "pays": "usa",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-20/albanese-visits-apple-hq-urges-us-china-deal-on-ai/107173474",
+        "image": "https://live-production.wcms.abc-cdn.net.au/99667d92efb0ebbd57a50dfcb24605c7?impolicy=wcms_watermark_news&cropH=1319&cropW=2346&xPos=798&yPos=78&width=862&height=485&imformat=generic",
+        "date": "2026-09-19",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché boursier (Wall Street)",
-            "hausse": true
+            "label": "▼ Marché des technologies (Semiconducteurs)",
+            "hausse": false
           },
           {
-            "label": "▼ Dette publique américaine",
-            "hausse": false
+            "label": "▲ Marché des données (Cloud computing)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché boursier (Wall Street)",
-            "secteur_en": "Stock market (Wall Street)",
-            "secteur_zh": "股票市场（华尔街）",
-            "effet_fr": "Les annonces de Trump pourraient provoquer une hausse initiale des actions liées aux secteurs cycliques, mais aussi une incertitude sur les politiques futures.",
-            "effet_en": "Trump’s announcements may initially boost cyclical stocks but also create uncertainty about future policies.",
-            "effet_zh": "特朗普的宣布可能短期内拉动周期性股票上涨，但也会增加对未来政策的不确定性。",
-            "hausse": true
+            "secteur_fr": "Marché des technologies (Semiconducteurs)",
+            "secteur_en": "Tech market (Semiconductors)",
+            "secteur_zh": "半导体技术市场",
+            "effet_fr": "Une coopération sino-américaine sur l’IA pourrait réduire les tensions commerciales, mais les restrictions américaines sur les exportations de puces vers la Chine limiteront son impact immédiat.",
+            "effet_en": "China-US AI cooperation could ease trade tensions, but US export restrictions on chips to China will limit its immediate impact.",
+            "effet_zh": "中美在AI领域的合作可能缓解贸易紧张局势，但美国对向中国出口芯片的限制将限制其即时影响。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Dette publique américaine",
-            "secteur_en": "US public debt",
-            "secteur_zh": "美国公共债务",
-            "effet_fr": "Le financement de ce dividende pourrait aggraver les déséquilibres budgétaires et relancer les débats sur la soutenabilité de la dette.",
-            "effet_en": "Funding this dividend could worsen budget imbalances and reignite debates on debt sustainability.",
-            "effet_zh": "资助这项红利可能加剧预算失衡，并重新点燃关于债务可持续性的讨论。",
-            "hausse": false
+            "secteur_fr": "Marché des données (Cloud computing)",
+            "secteur_en": "Data market (Cloud computing)",
+            "secteur_zh": "云计算数据市场",
+            "effet_fr": "Les régulations croisées pourraient fragmenter le marché mondial des données, favorisant les acteurs locaux comme Alibaba ou Microsoft.",
+            "effet_en": "Cross-regulations could fragment the global data market, benefiting local players like Alibaba or Microsoft.",
+            "effet_zh": "交叉监管可能分割全球数据市场，有利于阿里巴巴或微软等本土玩家。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-09-12T21:19:38.752620"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-09-20T23:00:31.593572"
+      },
       {
         "id": "chine_440848",
         "titre": "Ancien Premier ministre égyptien célèbre leadership du PCC",
@@ -3647,68 +3706,68 @@
           }
         ],
         "created_at": "2026-09-06T23:30:33.006765"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_209584",
-        "titre": "Tarifs canadiens menacent secteur chinois des chariots",
-        "titre_en": "Canada’s EV tariffs threaten Chinese golf cart firms",
-        "titre_zh": "加拿大电动车关税威胁中国高尔夫车企业",
-        "titre_ru": "Канадские пошлины на китайские электромобили угрожают ещё одной компании с тележками для гольфа",
-        "titre_fa": "تاریف‌های کانادا بر روی خودروهای الکتریکی چین به شرکت دیگری با کارت‌های حمل گلف تهدید می‌کند",
-        "titre_ar": "تخوفات شركة أخرى من كارتات الجولف بسبب الرسوم الجمركية الكندية على السيارات الكهربائية الصينية",
-        "titre_original": "Another golf push cart company is threatened by Canada's tariffs on Chinese EVs",
-        "resume": "Une entreprise ontarienne menacée par une taxe rétroactive massive n’est pas seule : le secteur chinois des chariots de golf subit aussi les conséquences des tarifs canadiens sur les véhicules électriques. Ces mesures pourraient fragiliser les exportations chinoises vers l’Amérique du Nord. Les analystes craignent un effet domino sur d’autres industries technologiques.",
-        "resume_en": "An Ontario company threatened by a massive retroactive tax bill is not alone: China’s golf cart sector is also hit by Canada’s EV tariffs. These measures could weaken Chinese exports to North America. Analysts fear a domino effect on other tech industries.",
-        "resume_zh": "安大略省的一家公司面临巨额事后税收威胁，但中国高尔夫车行业也受到加拿大电动车关税的影响。这些措施可能削弱中国对北美的出口。分析师担心这种影响可能波及其他技术行业。",
-        "resume_ru": "Канадская компания, производящая тележки для гольфа, столкнулась с угрозой огромного ретроактивного налога из-за новых пошлин на китайские электромобили. Это не единственный случай: подобные меры могут нанести ущерб другим отраслям. Такие шаги могут усилить торговые напряжения между Канадой и Китаем.",
-        "resume_fa": "شرکت کانادایی تولید کننده کارت‌های حمل گلف با تهدید پرداخت مالیات پسین عظیم به دلیل تاریف‌های جدید بر روی خودروهای الکتریکی چین روبرو است. این تنها مورد نیست؛ چنین اقداماتی ممکن است به بخش‌های دیگر آسیب برساند. این اقدامات می‌تواند تنش‌های تجاری بین کانادا و چین را افزایش دهد.",
-        "resume_ar": "تواجه شركة كندية تصنيع كرات الجولف بخطر دفع رسوم جمركية كبيرة رجعية بسبب الرسوم الجديدة على السيارات الكهربائية الصينية. هذا ليس الحادث الوحيد؛ قد يؤدي مثل هذا الخطوات إلى ضرر في قطاعات أخرى. قد يزيد مثل هذا الخطوات من التوتر التجاري بين كندا والصين.",
-        "analyse_detaillee": "Les tensions commerciales sino-canadiennes s’aggravent depuis 2018, avec des représailles croisées sur les technologies vertes. Les chariots de golf, souvent considérés comme des produits dérivés des véhicules électriques, deviennent un nouveau front. Les causes profondes incluent la volonté de Pékin de protéger son industrie naissante et Ottawa de soutenir sa transition énergétique locale. À court terme, les exportateurs chinois pourraient réduire leurs prix ou chercher des alternatives comme le Mexique. À moyen terme, les chaînes d’approvisionnement pourraient se réorganiser vers l’Asie du Sud-Est. Long terme, cette escalade pourrait accélérer la relocalisation des industries technologiques en Chine ou en Inde. Les acteurs clés sont Pékin (protectionniste), Ottawa (stratège), et les entreprises chinoises (adaptatives).",
-        "analyse_en": "Sino-Canadian trade tensions have worsened since 2018, with reciprocal retaliation on green technologies. Golf carts, often seen as derivatives of electric vehicles, have become a new front. Root causes include Beijing’s push to protect its emerging industry and Ottawa’s push to support local green transitions. Short-term, Chinese exporters may cut prices or seek alternatives like Mexico. Medium-term, supply chains could shift to Southeast Asia. Long-term, this escalation could accelerate the relocation of tech industries in China or India. Key actors include Beijing (protectionist), Ottawa (strategic), and Chinese firms (adaptive).",
-        "analyse_zh": "中加贸易紧张局势自2018年以来加剧，双方在绿色技术领域进行报复。高尔夫车作为电动车的衍生产品，成为新的战场。深层原因包括北京保护其初创产业的意愿，以及渥太华支持本地能源转型的策略。短期内，中国出口商可能降价或寻找墨西哥等替代市场。中期内，供应链可能重新布局至东南亚。长期来看，这种升级可能加速中国或印度的技术产业重新定位。关键人物包括北京（保护主义）、渥太华（战略家）和中国企业（适应性）。",
-        "analyse_ru": "Новые пошлины Канады на китайские электромобили, вступившие в силу в январе 2024 года, направлены на защиту местной автомобильной промышленности от конкуренции. Однако, ретроактивное применение этих мер может создать нестабильность для компаний, не связанных напрямую с автопромом, но зависящих от китайских поставок. Это может вызвать протесты со стороны бизнеса, который считает такие меры несправедливыми. В будущем подобные торговые войны могут привести к повышению цен на товары для потребителей. Позиция Китая, скорее всего, будет включать ответные меры, что усугубит ситуацию.",
-        "analyse_fa": "تاریف‌های جدید کانادا بر روی خودروهای الکتریکی چین که در ژانویه ۲۰۲۴ وارد مرحله اجرا شد، برای محافظت از صنعت خودروهای محلی در برابر رقابت طراحی شده است. اما اعمال پسین این مقررات می‌تواند ناپایداری برای شرکت‌هایی که مستقیماً با صنعت خودرو مرتبط نیستند، اما به تأمینات چین وابسته هستند، ایجاد کند. این می‌تواند اعتراضات کسب و کارهایی را که چنین اقدامات را نامعقول می‌دانند، برانگیزد. در آینده، چنین جنگ‌های تجاری ممکن است منجر به افزایش قیمت کالاها برای مصرف‌کنندگان شود. موضع چین احتمالاً شامل اقدامات پاسخگویی خواهد بود که وضعیت را وخیم‌تر می‌کند.",
-        "analyse_ar": "الرسوم الجديدة الكندية على السيارات الكهربائية الصينية، التي دخلت حيز التنفيذ في يناير 2024، مصممة لحماية صناعة السيارات المحلية من المنافسة. ومع ذلك، تطبيق هذه القيود رجعيًا قد يخلق عدم استقرار للشركات غير المرتبطة مباشرة بصناعة السيارات ولكن تعتمد على الإمدادات الصينية. قد يؤدي هذا إلى احتجاجات من قبل الأعمال التجارية التي تعتبر مثل هذه الخطوات غير عادلة. في المستقبل، قد يؤدي مثل هذه الحروب التجارية إلى ارتفاع أسعار السلع للمستهلكين. من المتوقع أن تشمل مواقف الصين ردود أفعال، مما سيزيد من تعقيد الوضع.",
-        "categorie": "Économie/Commerce",
-        "source": "National Post",
-        "url": "https://nationalpost.com/news/canada/another-golf-push-cart-company-is-threatened-by-canadas-tariffs-on-chinese-evs",
-        "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/09/2255898810_300774737.jpg",
-        "date": "2026-09-04",
-        "pays": "chine",
+        "id": "russie_351649",
+        "titre": "Premier ministre polonais alerte sur risques de frappes russes en Europe",
+        "titre_en": "Polish PM warns of Russian drone/rocket strikes in Europe",
+        "titre_zh": "波兰总理警告俄罗斯可能对欧洲发动无人机或火箭袭击",
+        "titre_ru": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
+        "titre_fa": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
+        "titre_ar": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
+        "titre_original": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
+        "resume": "Le Premier ministre polonais met en garde contre des frappes russes ciblées contre les pays européens soutenant l’Ukraine, lors d’un sommet des « Huit Carpates ». Ursula von der Leyen appelle à un mécanisme de défense hybride inspiré de l’OTAN. Ces déclarations interviennent dans un contexte de montée des tensions après les frappes russes en Ukraine et en Pologne.",
+        "resume_en": "The Polish PM warns of Russian drone or rocket strikes against European countries supporting Ukraine at the ‘Carpathian Eight’ summit. Ursula von der Leyen calls for a hybrid defense mechanism inspired by NATO. These statements follow escalating tensions after Russian strikes in Ukraine and Poland.",
+        "resume_zh": "波兰总理在‘喀尔巴阡八国’峰会上警告俄罗斯可能对支持乌克兰的欧洲国家发动无人机或火箭袭击。冯德莱恩呼吁建立一个类似北约的混合防御机制。这些言论发生在俄罗斯对乌克兰和波兰发动袭击后，地区紧张局势升级。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions russo-européennes s’aggravent depuis l’invasion de l’Ukraine en 2022, marquant un retour aux logiques de la Guerre froide. La Russie, isolée diplomatiquement, cherche à punir les pays soutenant Kiev via des frappes hybrides (cyber, désinformation, attaques conventionnelles). Les causes profondes incluent la peur russe d’une expansion de l’OTAN à ses frontières et le refus occidental de reconnaître ses revendications territoriales. Court terme, une escalade pourrait provoquer des représailles européennes (sanctions, livraisons d’armes) ou une intervention directe de l’OTAN. À moyen terme, la Russie pourrait intensifier ses attaques sur les infrastructures énergétiques européennes (gazoducs, centrales). Long terme, une guerre prolongée affaiblirait l’économie russe et renforcerait les divisions internes, mais pourrait aussi accélérer une réorganisation géopolitique avec une Europe plus militarisée. Les États-Unis, divisés sur leur engagement, restent le principal soutien de l’Ukraine, tandis que la Chine et l’Inde jouent un rôle ambigu en évitant de condamner Moscou sans pour autant le soutenir activement.",
+        "analyse_en": "Russia-EU tensions have worsened since the 2022 Ukraine invasion, reviving Cold War dynamics. Russia, diplomatically isolated, seeks to punish Ukraine-supporting countries via hybrid strikes (cyber, disinformation, conventional attacks). Root causes include Russian fears of NATO expansion near its borders and Western refusal to recognize its territorial claims. Short-term, escalation could trigger European retaliation (sanctions, arms deliveries) or direct NATO intervention. Medium-term, Russia may intensify attacks on European energy infrastructure (pipelines, power plants). Long-term, prolonged war would weaken Russia’s economy and deepen internal divisions, but could also accelerate geopolitical realignment with a more militarized Europe. The US, divided on its commitment, remains Ukraine’s primary backer, while China and India play an ambiguous role by avoiding condemnation without actively supporting Moscow.",
+        "analyse_zh": "俄欧紧张关系自2022年俄罗斯入侵乌克兰以来恶化，回到了冷战逻辑。俄罗斯在外交上孤立，试图通过混合手段（网络攻击、虚假信息、常规袭击）惩罚支持基辅的国家。深层原因包括俄罗斯对北约边境扩张的恐惧和西方拒绝承认其领土主张。短期内，升级可能导致欧洲报复（制裁、武器交付）或北约直接干预。中期内，俄罗斯可能加强对欧洲能源基础设施（管道、发电站）的袭击。长期来看，持续战争将削弱俄罗斯经济并加深国内分裂，但也可能加速地缘政治重组，使欧洲更加军事化。美国在承诺上分裂，仍是乌克兰的主要支持者，而中国和印度扮演着模糊角色，既避免谴责莫斯科，也不积极支持。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/09/19/polish-prime-minister-russia-hybrid-war-drone-rocket-strikes-european-countries-ukraine/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295272807-e1789856557402.jpg?resize=1200,600",
+        "date": "2026-09-19",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Exportations chinoises de véhicules légers électriques",
-            "hausse": false
+            "label": "▲ Marché des matières premières énergétiques (Gaz naturel)",
+            "hausse": true
           },
           {
-            "label": "▼ Marché nord-américain des véhicules utilitaires légers",
-            "hausse": false
+            "label": "▲ Marché des assurances (Cyberrisques)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Exportations chinoises de véhicules légers électriques",
-            "secteur_en": "Chinese exports of light electric vehicles",
-            "secteur_zh": "中国轻型电动车出口",
-            "effet_fr": "Les tarifs canadiens pourraient réduire les marges bénéficiaires des exportateurs chinois, forçant une réévaluation des coûts de production en Chine.",
-            "effet_en": "Canadian tariffs could shrink Chinese exporters’ profit margins, forcing a reassessment of production costs in China.",
-            "effet_zh": "加拿大关税可能缩减中国出口商的利润空间，迫使中国重新评估生产成本。",
-            "hausse": false
+            "secteur_fr": "Marché des matières premières énergétiques (Gaz naturel)",
+            "secteur_en": "Energy commodities market (Natural gas)",
+            "secteur_zh": "能源大宗商品市场（天然气）",
+            "effet_fr": "Les attaques russes sur les infrastructures européennes pourraient faire bondir les prix du gaz, profitant à la Russie via des livraisons réduites et des tensions accrues sur l’approvisionnement.",
+            "effet_en": "Russian attacks on European infrastructure could spike gas prices, benefiting Russia through reduced deliveries and heightened supply tensions.",
+            "effet_zh": "俄罗斯对欧洲基础设施的袭击可能推高天然气价格，使俄罗斯通过减少供应和加剧供应紧张获利。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché nord-américain des véhicules utilitaires légers",
-            "secteur_en": "North American light utility vehicle market",
-            "secteur_zh": "北美轻型工具车市场",
-            "effet_fr": "Les consommateurs pourraient se tourner vers des alternatives locales ou européennes, réduisant la demande pour les produits chinois.",
-            "effet_en": "Consumers may shift to local or European alternatives, reducing demand for Chinese products.",
-            "effet_zh": "消费者可能转向本地或欧洲替代品，减少对中国产品的需求。",
-            "hausse": false
+            "secteur_fr": "Marché des assurances (Cyberrisques)",
+            "secteur_en": "Insurance market (Cyber risks)",
+            "secteur_zh": "保险市场（网络风险）",
+            "effet_fr": "Les cyberattaques russes pourraient entraîner une hausse des primes d’assurance pour les entreprises européennes, avec une demande accrue de couverture contre les cybermenaces hybrides.",
+            "effet_en": "Russian cyberattacks could drive up insurance premiums for European firms, with increased demand for coverage against hybrid cyber threats.",
+            "effet_zh": "俄罗斯的网络攻击可能推高欧洲企业的保险费用，增加对混合型网络威胁的保险需求。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-09-05T20:57:38.348833"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-09-20T23:00:31.593588"
+      },
       {
         "id": "russie_703453",
         "titre": "L’argument égoïste pour aider l’Ukraine devient plus fort",
@@ -4829,68 +4888,68 @@
           }
         ],
         "created_at": "2026-09-11T17:33:19.580973"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_504181",
-        "titre": "Delhi renforce sécurité pour sommet BRICS avec drones et IA",
-        "titre_en": "Delhi secures BRICS summit with drones and AI",
-        "titre_zh": "德里以无人机和人工智能加强BRICS峰会安全",
-        "titre_ru": "Дельта готовится к BRICS: дроны-декои, лаборатории тестирования еды и камеры ИИ",
-        "titre_fa": "دلی در آماده‌سازی برای سمیت بریکس: هواپیماهای دکوی، آزمایشگاه‌های تست غذا و دوربین‌های هوش مصنوعی",
-        "titre_ar": "دلهي تتجه نحو قمة بريكس: طائرات زائفة، مختبرات اختبار الطعام وكاميرات الذكاء الاصطناعي",
-        "titre_original": "Flying Kremlin, decoy jets, AI cameras: How Delhi is securing BRICS leaders",
-        "resume": "New Delhi a déployé des mesures de sécurité avancées pour le sommet BRICS, incluant des drones, des caméras à IA et des laboratoires de test alimentaire. Ces technologies visent à protéger les dirigeants des cinq pays membres face aux risques terroristes et cyberattaques. La capitale indienne devient ainsi un modèle de défense hybride.",
-        "resume_en": "New Delhi has deployed advanced security measures for the BRICS summit, including drones, AI cameras, and food-testing labs. These technologies aim to protect leaders from five member countries against terrorist and cyber threats. Delhi is now a model of hybrid defense.",
-        "resume_zh": "新德里为BRICS峰会部署了先进的安全措施，包括无人机、人工智能摄像头和食品检测实验室。这些技术旨在保护五国领导人免受恐怖袭击和网络攻击。德里成为混合防御的典范。",
-        "resume_ru": "Индия развернула комплексные меры безопасности для предстоящей встречи BRICS. В столице установлены передовые технологии, включая многоуровневую защиту и системы искусственного интеллекта. Также организованы персональные лаборатории для тестирования пищевых продуктов и использованы декоративные самолеты для дезинформации.",
-        "resume_fa": "هند برای سمیت آینده بریکس اقدامات امنیتی گسترده‌ای را اجرا کرده‌است. در پایتخت، فناوری پیشرفته شامل محافظت چندلایه و سیستم‌های هوش مصنوعی نصب شده‌است. همچنین آزمایشگاه‌های شخصی برای تست مواد غذایی و استفاده از هواپیماهای دکوی برای ایجاد دروغ‌های امنیتی ایجاد شده‌است.",
-        "resume_ar": "أعدت دلهي تدابير أمنية شاملة لاستقبال قمة بريكس المقبلة. تم تثبيت تقنيات متقدمة في العاصمة، بما في ذلك الدفاعات المتعددة الطبقات وأنظمة الذكاء الاصطناعي. كما تم تنظيم مختبرات شخصية لاختبار المنتجات الغذائية واستخدام طائرات زائفة لتضليل الأمن.",
-        "analyse_detaillee": "L’Inde, membre fondateur du BRICS depuis 2010, cherche à affirmer son rôle de puissance émergente en organisant cet événement géopolitiquement sensible. Les tensions avec le Pakistan (Cachemire) et les rivalités internes (Hindutva vs. minorités) rendent la sécurité prioritaire. Les causes profondes incluent la vulnérabilité aux cyberattaques et la nécessité de légitimer son leadership régional. À court terme, ces mesures pourraient dissuader les groupes terroristes, mais à moyen terme, elles pourraient aussi servir de modèle pour d’autres sommets internationaux. Long-termement, l’Inde pourrait renforcer sa coopération technologique avec la Russie et le Brésil dans le domaine de la cybersécurité.",
-        "analyse_en": "India, a founding BRICS member since 2010, aims to assert its role as an emerging power by hosting this geopolitically sensitive event. Tensions with Pakistan (Kashmir) and internal rivalries (Hindutva vs. minorities) make security a top priority. Root causes include vulnerability to cyberattacks and the need to legitimize regional leadership. Short-term, these measures may deter terrorist groups, but medium-term, they could also serve as a model for other international summits. Long-term, India may strengthen tech cooperation with Russia and Brazil in cybersecurity.",
-        "analyse_zh": "印度自2010年以来是BRICS创始成员国之一，通过举办这一地缘政治敏感会议试图展现其新兴大国地位。与巴基斯坦的紧张关系（克什米尔问题）以及国内的种姓主义（Hindutva）与少数族裔之间的矛盾，使安全成为首要任务。深层原因包括对网络攻击的脆弱性和确立地区领导地位的需求。短期内，这些措施可能遏制恐怖组织，但中期内，它们也可能成为其他国际峰会的模板。长期来看，印度可能在与俄罗斯和巴西的网络安全领域加强技术合作。",
-        "analyse_ru": "Безопасность саммита BRICS в Дели отражает растущую геополитическую значимость Индии и её стремление продемонстрировать стабильность и готовность принимать крупные международные форумы. Использование дронов-декоев и камер ИИ свидетельствует о современных технологиях, применяемых для предотвращения террористических атак и киберугроз. Однако такие меры также могут вызвать критику за чрезмерную секретность и ограничение свободы передвижения. В долгосрочной перспективе это может укрепить позицию Индии как регионального лидера, но также повысит её уязвимость перед кибератаками. Аналитики отмечают, что подобные технологии требуют значительных инвестиций и квалифицированных специалистов, что может стать бременем для бюджета страны. Международное сообщество пристально следит за этими мерами, оценивая их эффективность и прозрачность.",
-        "analyse_fa": "امنیت سمیت بریکس در دلی نشان‌دهنده اهمیت جغرافیایی سیاسی روزافزون هند و تلاش برای نشان دادن ثبات و آمادگی برای میزبانی فوروم‌های بین‌المللی بزرگ است. استفاده از هواپیماهای دکوی و دوربین‌های هوش مصنوعی نشان‌دهنده فناوری‌های مدرن برای جلوگیری از حملات تروریستی و تهدیدات سایبری است. اما این اقدامات ممکن است به دلیل سرپوشگی بیش از حد و محدود کردن آزادی حرکت، انتقاد را برانگیزند. در بلندمدت، این می‌تواند موقعیت هند را به عنوان رهبر منطقه‌ای تقویت کند، اما همچنین آسیب‌پذیری آن را در برابر حملات سایبری افزایش می‌دهد. تحلیلگران اشاره می‌کنند که چنین فناوری‌هایی نیاز به سرمایه‌گذاری قابل توجه و کارشناسان متخصص دارند که ممکن است برای بودجه کشور یک بار سنگین باشد. جامعه بین‌المللی به دقت به این اقدامات نگاه می‌کند و کارایی و شفافیت آن‌ها را ارزیابی می‌کند.",
-        "analyse_ar": "تعددت تدابير الأمن في قمة بريكس في دلهي تعكس أهمية الهند الجغرافية السياسية المتزايدة وتوجهها لإظهار الاستقرار والقدرة على استضافة منتدى دولي كبير. استخدام طائرات زائفة وكاميرات الذكاء الاصطناعي يشير إلى تقنيات حديثة لمنع الهجمات الإرهابية والتهديدات السيبرانية. ومع ذلك، قد يؤدي هذا إلى انتقاد بسبب السرية الزائدة وقمع حرية الحركة. على المدى الطويل، قد تقوي هذه التدابير وضع الهند كقائد إقليمي، ولكن قد يزيد أيضًا من عرضتها للهجمات السيبرانية. يشير المحللون إلى أن مثل هذه التقنيات تتطلب استثمارات كبيرة وخبراء مؤهلين، مما قد يشكل عبئًا على ميزانية البلاد. يراقب المجتمع الدولي هذه التدابير بعناية، оцениًا فعاليتها وشفافيتها.",
-        "categorie": "Sécurité & Technologie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/india/flying-kremlin-decoy-jets-ai-cameras-how-delhi-is-securing-brics-leaders/articleshow/134010524.cms",
-        "image": "https://img.etimg.com/thumb/msid-134010992,width-1200,height-630,imgsize-259206,overlay-economictimes/articleshow.jpg",
-        "date": "2026-09-10",
-        "pays": "russie",
+        "id": "iran_509519",
+        "titre": "Incendie près de l’aéroport de Riyad : Pakistan exige des comptes à l’Iran",
+        "titre_en": "Fire near Riyadh airport: Pakistan demands Iran accountability",
+        "titre_zh": "利雅得机场附近火灾：巴基斯坦要求伊朗承担责任",
+        "titre_ru": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
+        "titre_fa": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
+        "titre_ar": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
+        "titre_original": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
+        "resume": "Un incendie près de l’aéroport international de Riyad a été attribué aux Houthis, tandis que le Pakistan exige des explications à Téhéran. La tension monte dans la région après des attaques répétées contre l’Arabie saoudite, exacerbant les tensions Iran-Saoud. Les Houthis ont revendiqué l’attaque, accusant Riyad de bloquer les livraisons d’énergie pakistanaise.",
+        "resume_en": "A fire near Riyadh’s international airport has been attributed to the Houthis, while Pakistan demands answers from Tehran. Regional tensions escalate after repeated attacks on Saudi Arabia, worsening Iran-Saudi rivalry. The Houthis claimed responsibility, accusing Riyad of blocking Pakistani energy supplies.",
+        "resume_zh": "利雅得国际机场附近发生火灾，被归因于胡塞武装，而巴基斯坦要求伊朗解释。地区紧张局势升级，在伊朗和沙特之间的对抗加剧。胡塞武装声称负责，指控利雅得阻断巴基斯坦能源供应。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions Iran-Saoud remontent aux années 1980, avec la guerre Iran-Irak et la rivalité chiite-sunnite. Les attaques récentes s’inscrivent dans une escalade depuis 2016, marquée par des cyberattaques et des assassinats ciblés (comme celui de Khashoggi). Les Houthis, soutenus par l’Iran, utilisent ces frappes pour affaiblir l’Arabie saoudite, allié des États-Unis. Court terme, une réponse militaire saoudienne ou une intervention américaine pourrait déclencher une guerre régionale. À moyen terme, l’Iran pourrait renforcer son soutien aux milices yéménites pour maintenir la pression, tandis que Riyad chercherait des alliances avec Israël ou l’Égypte. Long terme, une normalisation des relations dépendrait d’un compromis sur le Yémen et une réduction des ingérences régionales. Les États-Unis, divisés entre leur soutien à Riyad et leur dialogue avec Téhéran, jouent un rôle ambigu. La Chine et la Russie, opportunistes, pourraient exploiter la crise pour affaiblir l’influence occidentale.",
+        "analyse_en": "Iran-Saudi tensions date back to the 1980s, with the Iran-Iraq War and the Shia-Sunni rivalry. Recent attacks escalate since 2016, marked by cyberattacks and targeted assassinations (like Khashoggi). The Houthis, backed by Iran, use these strikes to weaken Saudi Arabia, a US ally. Short-term, a Saudi military response or US intervention could trigger a regional war. Medium-term, Iran may strengthen support for Yemeni militias to maintain pressure, while Riyadh seeks alliances with Israel or Egypt. Long-term, normalization would require a Yemeni compromise and reduced regional interference. The US, divided between supporting Riyadh and engaging Tehran, plays an ambiguous role. China and Russia, opportunistic, may exploit the crisis to weaken Western influence.",
+        "analyse_zh": "伊朗和沙特的紧张关系可追溯到上世纪80年代的伊朗伊拉克战争和什叶派与逊尼派的对抗。最近的袭击自2016年以来不断升级，包括网络攻击和针对性谋杀（如卡舒吉事件）。由伊朗支持的胡塞武装使用这些袭击来削弱沙特阿拉伯，后者是美国的盟友。短期内，沙特的军事回应或美国的干预可能引发地区战争。中期内，伊朗可能加强对也门武装的支持以保持压力，而利雅得将寻求与以色列或埃及的联盟。长期来看，关系正常化需就也门达成妥协并减少地区干预。美国在支持利雅得和与伊朗对话之间分裂，扮演着模糊的角色。中国和俄罗斯作为机会主义者，可能利用危机削弱西方影响力。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185709870",
+        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
+        "date": "2026-09-19",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Cybersécurité et surveillance gouvernementale",
-            "hausse": false
+            "label": "▲ Marché pétrolier (OPEP+)",
+            "hausse": true
           },
           {
-            "label": "▲ Défense et industrie aérospatiale",
-            "hausse": true
+            "label": "▼ Marché des devises (Riyal saoudien)",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Cybersécurité et surveillance gouvernementale",
-            "secteur_en": "Cybersecurity and government surveillance",
-            "secteur_zh": "网络安全与政府监控",
-            "effet_fr": "L’adoption massive de caméras à IA pourrait accélérer la surveillance de masse en Inde, avec des implications sur les libertés civiles.",
-            "effet_en": "Massive deployment of AI cameras may accelerate mass surveillance in India, with implications for civil liberties.",
-            "effet_zh": "大规模使用人工智能摄像头可能加速印度的大规模监控，对公民自由产生影响。",
-            "hausse": false
+            "secteur_fr": "Marché pétrolier (OPEP+)",
+            "secteur_en": "Oil market (OPEC+)",
+            "secteur_zh": "石油市场（OPEC+组织）",
+            "effet_fr": "Les attaques contre l’Arabie saoudite pourraient perturber les approvisionnements via le détroit de Bab el-Mandeb, faisant monter les prix et affectant les membres de l’OPEP+ dépendants des revenus pétroliers.",
+            "effet_en": "Attacks on Saudi Arabia could disrupt supplies through the Bab el-Mandeb Strait, driving up prices and impacting OPEC+ members reliant on oil revenues.",
+            "effet_zh": "对沙特的袭击可能干扰通过曼德海峡的供应，推高油价并影响依赖石油收入的OPEC+成员国。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Défense et industrie aérospatiale",
-            "secteur_en": "Defense and aerospace industry",
-            "secteur_zh": "国防与航空航天产业",
-            "effet_fr": "Les investissements dans les drones et systèmes de défense pourraient stimuler l’innovation technologique et les exportations indiennes dans ce secteur.",
-            "effet_en": "Investments in drones and defense systems may spur technological innovation and Indian exports in this sector.",
-            "effet_zh": "在无人机和防务系统上的投资可能推动技术创新并促进印度该领域的出口。",
-            "hausse": true
+            "secteur_fr": "Marché des devises (Riyal saoudien)",
+            "secteur_en": "Currency market (Saudi riyal)",
+            "secteur_zh": "沙特里亚尔汇率市场",
+            "effet_fr": "L’incertitude géopolitique pourrait affaiblir le riyal, réduisant la confiance des investisseurs dans les actifs saoudiens, notamment les obligations souveraines.",
+            "effet_en": "Geopolitical uncertainty could weaken the riyal, reducing investor confidence in Saudi assets, including sovereign bonds.",
+            "effet_zh": "地缘政治不确定性可能削弱里亚尔，降低投资者对沙特资产（如主权债券）的信心。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-11T13:16:30.316063"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-20T23:00:31.593581"
+      },
       {
         "id": "iran_630746",
         "titre": "Hegseth lance sa tournée 'Send Me Tour' après tensions Iran",
@@ -6011,65 +6070,6 @@
           }
         ],
         "created_at": "2026-09-09T22:57:18.312951"
-      },
-      {
-        "id": "iran_576312",
-        "titre": "Demande de traduction WooCommerce en chinois",
-        "titre_en": "Request for WooCommerce Chinese translation",
-        "titre_zh": "请求中文翻译WooCommerce插件",
-        "titre_ru": "As fuel prices rise again, Iran’s government urges citizens to cut back",
-        "titre_fa": "As fuel prices rise again, Iran’s government urges citizens to cut back",
-        "titre_ar": "As fuel prices rise again, Iran’s government urges citizens to cut back",
-        "titre_original": "As fuel prices rise again, Iran’s government urges citizens to cut back",
-        "resume": "Un membre de la communauté Polyglots a soumis des suggestions de traduction pour des plugins WooCommerce en chinois (Taïwan). Il demande une revue et un accès PTE pour contribuer davantage. Ce type de demande reflète l’importance croissante des marchés asiatiques pour les solutions e-commerce.",
-        "resume_en": "A Polyglots community member submitted translation suggestions for WooCommerce plugins in Chinese (Taiwan). They seek review and PTE access to contribute further. Such requests highlight the growing importance of Asian markets for e-commerce solutions.",
-        "resume_zh": "Polyglots社区成员提交了WooCommerce插件中文（台湾）翻译建议，并要求审核和PTE访问权限以进一步贡献。此类需求反映了亚洲市场对电商解决方案日益增长的重要性。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "WooCommerce, plateforme dominante pour le e-commerce mondial, vise une expansion massive en Asie, où le marché taïwanais représente une niche stratégique. Les traductions locales sont cruciales pour adapter l’interface aux habitudes culturelles et linguistiques, renforçant ainsi l’inclusion numérique. Cette demande illustre aussi la compétition accrue entre les acteurs chinois (comme Alibaba) et occidentaux pour dominer le secteur. À court terme, une meilleure localisation pourrait attirer plus de petits commerçants taïwanais vers WooCommerce. À moyen terme, cela pourrait influencer les politiques de localisation d’autres plateformes comme Shopify ou Magento. Long terme, la maîtrise des langues locales par les géants du numérique sera un facteur clé pour conquérir les marchés asiatiques. Les gouvernements locaux, comme celui de Taïwan, pourraient encourager ces initiatives pour stimuler l’économie numérique. Les entreprises occidentales doivent aussi rivaliser avec les solutions chinoises, souvent plus adaptées aux spécificités locales.",
-        "analyse_en": "WooCommerce, the dominant global e-commerce platform, aims for massive expansion in Asia, where the Taiwanese market represents a strategic niche. Local translations are crucial to adapt the interface to cultural and linguistic habits, enhancing digital inclusion. This request also reflects increased competition between Western actors (like WooCommerce) and Chinese ones (such as Alibaba) to dominate the sector. Short-term, better localization may attract more Taiwanese small businesses to WooCommerce. Medium-term, this could influence localization policies of other platforms like Shopify or Magento. Long-term, mastery of local languages by tech giants will be a key factor in conquering Asian markets. Local governments, like Taiwan’s, may encourage such initiatives to boost the digital economy. Western firms must also compete with Chinese solutions, often better adapted to local specifics.",
-        "analyse_zh": "WooCommerce作为全球主导的电商平台，正致力于在亚洲市场扩张，其中台湾市场是一个战略性的细分领域。本地化翻译对于适应文化和语言习惯至关重要，从而增强数字包容性。这一需求也反映了西方（如WooCommerce）和中国（如阿里巴巴）电商巨头之间的激烈竞争。短期内，更好的本地化可能吸引更多台湾小商户使用WooCommerce。中期内，这可能影响Shopify或Magento等其他平台的本地化政策。长期来看，数字巨头对本地语言的掌握将成为征服亚洲市场的关键因素。像台湾这样的地方政府可能会鼓励这些举措以刺激数字经济。西方企业也必须与更适应本地特点的中国解决方案竞争。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Technologie et marché numérique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f9dab0a631a45c41",
-        "image": "https://biztoc.com/cdn/f9dab0a631a45c41_s.webp",
-        "date": "2026-09-08",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des solutions e-commerce en Asie",
-            "hausse": true
-          },
-          {
-            "label": "▼ Secteur des technologies de traduction automatique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des solutions e-commerce en Asie",
-            "secteur_en": "Asia e-commerce solutions market",
-            "secteur_zh": "亚洲电商解决方案市场",
-            "effet_fr": "Une meilleure localisation pourrait augmenter la part de marché de WooCommerce face à des concurrents comme Alibaba ou JD.com.",
-            "effet_en": "Better localization may boost WooCommerce’s market share against competitors like Alibaba or JD.com.",
-            "effet_zh": "更好的本地化可能提升WooCommerce在阿里巴巴或京东等竞争对手面前的市场份额。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur des technologies de traduction automatique",
-            "secteur_en": "Automated translation tech sector",
-            "secteur_zh": "自动翻译技术领域",
-            "effet_fr": "Les demandes de traduction manuelle pourraient ralentir l’adoption de solutions automatisées, limitant les gains d’efficacité pour les plateformes.",
-            "effet_en": "Manual translation requests may slow the adoption of automated solutions, limiting efficiency gains for platforms.",
-            "effet_zh": "手动翻译需求可能减缓自动化解决方案的采用，限制平台效率提升。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-09T08:39:34.779096"
       }
     ]
   },
