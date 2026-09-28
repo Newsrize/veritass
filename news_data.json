@@ -1,7 +1,66 @@
 {
-  "last_updated": "28/09/2026 à 18h29",
+  "last_updated": "28/09/2026 à 23h43",
   "articles": {
     "monde": [
+      {
+        "id": "monde_613112",
+        "titre": "Mayfield blessé grièvement au pouce",
+        "titre_en": "Mayfield leaves game with thumb injury",
+        "titre_zh": "梅菲尔德赛中手指受伤严重",
+        "titre_ru": "Baker Mayfield leaves game after writhing in pain on turf in Tampa Bay when thumb on throwing hand injured",
+        "titre_fa": "Baker Mayfield leaves game after writhing in pain on turf in Tampa Bay when thumb on throwing hand injured",
+        "titre_ar": "Baker Mayfield leaves game after writhing in pain on turf in Tampa Bay when thumb on throwing hand injured",
+        "titre_original": "Baker Mayfield leaves game after writhing in pain on turf in Tampa Bay when thumb on throwing hand injured",
+        "resume": "Baker Mayfield a quitté le match en hurlant de douleur après une entorse spectaculaire de son pouce lors d’une interception en quatrième down. Les images ont montré une déformation anormale de son articulation, nécessitant une radiographie immédiate. Ce type de blessure peut entraîner une absence prolongée pour un quart-arrière de la NFL.",
+        "resume_en": "Baker Mayfield left the game screaming in pain after a gruesome thumb injury during a fourth-down interception. The visible deformity required immediate X-rays, raising concerns about his recovery timeline. Such injuries often lead to extended absences for NFL quarterbacks.",
+        "resume_zh": "梅菲尔德在第四下防守中因拇指严重扭伤而痛呼退场，X光检查后确认关节严重变形。这种伤势可能导致他长期缺席，对NFL四分卫赛季影响巨大。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette blessure survient dans un contexte où les joueurs de la NFL subissent une pression accrue pour performer malgré des risques physiques élevés. Les quart-arrières, en particulier, sont exposés à des traumatismes répétés liés aux lancers, souvent sous-estimés par les clubs. Les conséquences immédiates incluent une incertitude sur son retour, perturbant les plans tactiques des Buccaneers. À moyen terme, cela pourrait relancer le débat sur la sécurité en NFL, notamment via des modifications des règles ou des équipements. Long terme, cela illustre les limites des protocoles médicaux actuels face aux blessures articulaires complexes. Les acteurs impliqués sont les Buccaneers (gestion de crise), la NFL (responsabilité collective) et Mayfield lui-même (pression médiatique et financière).",
+        "analyse_en": "This injury occurs amid growing scrutiny over NFL players' physical risks amid high-performance demands. Quarterbacks, in particular, face repeated trauma from throws, often underestimated by teams. Short-term, it disrupts Tampa Bay’s roster plans and raises concerns about Mayfield’s recovery timeline. Medium-term, it may reignite debates on safety reforms, including rule changes or protective gear upgrades. Long-term, it highlights gaps in current medical protocols for joint injuries. Key actors include the Buccaneers (crisis management), the NFL (collective responsibility), and Mayfield (media/financial pressure).",
+        "analyse_zh": "此伤害发生在NFL球员面临巨大压力的背景下，四分卫因投掷动作频繁受伤，但球队往往忽视其风险。短期内，伤势将影响布达佩斯的战术部署，并引发对梅菲尔德复出时间的不确定性。中期内，这可能推动NFL加强安全规则或装备改进，长期则暴露现有医疗体系对关节损伤的局限。相关方包括布达佩斯队（危机处理）、NFL（集体责任）和梅菲尔德（媒体与经济压力）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/outkick-sports/baker-mayfield-leaves-game-writhing-pain-turf-tampa-bay-thumb-throwing-hand-injured",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/baker-mayfield-buccaneers-102125-1.jpg",
+        "date": "2026-09-27",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurances sportives (NFL Players Insurance)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des paris sportifs (DraftKings, FanDuel)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurances sportives (NFL Players Insurance)",
+            "secteur_en": "Sports insurance (NFL Players Insurance)",
+            "secteur_zh": "职业运动员保险（NFL球员保险）",
+            "effet_fr": "Les primes pourraient augmenter pour couvrir les risques de blessures articulaires complexes, déjà en hausse depuis les scandales de concussions.",
+            "effet_en": "Premiums may rise to cover complex joint injury risks, already trending upward due to past concussion controversies.",
+            "effet_zh": "保费可能上涨以应对复杂关节伤害风险，此类风险在脑震荡丑闻后已持续上升。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des paris sportifs (DraftKings, FanDuel)",
+            "secteur_en": "Sports betting market (DraftKings, FanDuel)",
+            "secteur_zh": "体育赌博市场（DraftKings、FanDuel）",
+            "effet_fr": "Les cotes de Mayfield pourraient s’effondrer, réduisant les volumes de paris sur les matchs impliquant les Buccaneers jusqu’à son retour.",
+            "effet_en": "Mayfield’s odds may collapse, reducing betting volumes on Bucs games until his recovery.",
+            "effet_zh": "梅菲尔德的赔率可能大幅下跌，影响布达佩斯队比赛的赌注量直到他复出。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-28T23:43:50.374259"
+      },
       {
         "id": "monde_700197",
         "titre": "Haberman identifie le tournant de la défiance envers Trump",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-22T18:31:03.908884"
-      },
-      {
-        "id": "monde_687468",
-        "titre": "Jayden Daniels blessé grave : crise chez les Commanders",
-        "titre_en": "Jayden Daniels' severe injury sparks Commanders' crisis",
-        "titre_zh": "杰登·丹尼尔斯重伤 华盛顿命令面临危机",
-        "titre_ru": "Где была атака «Оберн» по приёму против Флориды?",
-        "titre_fa": "رانش «آبرن» در برابر فلوریدا کجاست؟ الکس گولش توضیح می‌دهد",
-        "titre_ar": "أين كانت هجوم «أوبرن» بالركض ضد فلوريدا؟",
-        "titre_original": "Where Was Auburn's Rushing Attack Against Florida? Alex Golesh Explains",
-        "resume": "Jayden Daniels, quarterback des Washington Commanders, a été évacué sur une civière après une dislocation de coude lors du match contre les Cowboys. Cette blessure survient après un début de saison déjà marqué par des problèmes physiques, aggravant une crise organisationnelle. Les fans et experts s’interrogent sur la capacité de l’équipe à rebondir sans son meneur désigné.",
-        "resume_en": "Washington Commanders' QB Jayden Daniels was carted off after dislocating his elbow in the final half against the Cowboys. This injury follows a season already plagued by physical issues, deepening the team’s organizational crisis. Fans and analysts question the franchise’s ability to recover without its star leader.",
-        "resume_zh": "华盛顿命令队四分卫杰登·丹尼尔斯在半场最后一球中脱臼，被抬上担架。这一伤势加剧了球队早已存在的组织危机，球迷和专家质疑队伍在失去核心领袖后能否重振旗鼓。",
-        "resume_ru": "Команда «Оберн» набрала всего 102 ярда по приёму в проигранной игре против Флориды, при этом большая часть заработанных ярдов пришлась на работу квотербека. Это вызвало вопросы о слабости атакующей линии и неэффективности игры на земле. Аналитики отмечают, что подобные проблемы могут повлиять на общую тактическую стратегию команды.",
-        "resume_fa": "تیم آبرن در بازی شکست‌خورده مقابل فلوریدا تنها ۱۰۲ یارد رانش کسب کرد و اکثریت این یاردها از طریق کوارتربک به دست آمد. این عملکرد باعث ایجاد سؤالات در مورد ضعف خط حمله و عدم کارایی بازی روی زمین شد. تحلیلگران معتقدند که چنین مشکلاتی می‌تواند بر استراتژی کلی تاکتیکی تیم تأثیر بگذارد.",
-        "resume_ar": "فاز فريق أوبرن في المباراة الخاسرة أمام فلوريدا بـ102 ياردة فقط في الهجوم بالركض، حيث جاء معظم هذه الياردات من عمل الكوارترباك. هذا الأداء أثار تساؤلات حول ضعف خط الهجوم وغياب فعالية اللعب على الأرض. يشير المحللون إلى أن مثل هذه المشاكل قد تؤثر على استراتيجية الفريق التكتيكية العامة.",
-        "analyse_detaillee": "Le football américain professionnel, notamment la NFL, dépend fortement de ses stars individuelles comme Daniels, dont la santé influence directement les performances et la valeur marchande des équipes. Cette blessure révèle des failles structurelles dans la gestion des blessures chez les Commanders, un club en reconstruction après des années de médiocrité. À court terme, l’équipe devra compter sur des remplaçants peu expérimentés, risquant une chute dans les classements. À moyen terme, le franchise pourrait être contraint de négocier des échanges ou de modifier son approche tactique. Long terme, cela pourrait accélérer une refonte complète de l’effectif, avec des investissements massifs dans le développement des jeunes talents. Les supporters et sponsors pourraient perdre confiance, affectant les revenus publicitaires et les partenariats. Les rivaux, comme les Cowboys ou les Eagles, pourraient capitaliser sur cette faiblesse pour renforcer leur domination dans la conférence.",
-        "analyse_en": "The NFL’s success hinges on individual stars like Daniels, whose health directly impacts team performance and market value. This injury exposes structural flaws in the Commanders’ injury management, a franchise still rebuilding after years of mediocrity. Short-term, the team will rely on inexperienced backups, risking a drop in rankings. Medium-term, the franchise may need to trade players or overhaul its tactical approach. Long-term, this could accelerate a full roster overhaul, requiring massive investments in youth development. Fan and sponsor confidence may erode, hurting advertising revenue and partnerships. Rivals like the Cowboys or Eagles could exploit this weakness to dominate the conference.",
-        "analyse_zh": "美国职业足球联赛（NFL）的成功依赖于像丹尼尔斯这样的明星球员，其健康状况直接影响球队表现和市场价值。这次伤势暴露了华盛顿命令队在伤病管理上的结构性问题，该队在多年表现平平后正处于重建阶段。短期内，球队将依赖经验不足的替补，可能在排名中下滑。中期内，球队可能需要进行交易或改变战术策略。长期来看，这可能加速整个阵容的重建，需要大量投资青训。球迷和赞助商的信心可能受损，影响广告收入和合作伙伴关系。竞争对手如达拉斯牛仔或费城老鹰可能会利用这个弱点进一步巩固联盟霸主地位。",
-        "analyse_ru": "Неэффективность атаки «Оберн» по приёму объясняется, прежде всего, слабостью линии нападения, которая не смогла создать достаточную защиту для бегунов. Это привело к частым потерем ярдов и неспособности команды реализовать потенциал своих игроков на линии скрэджа. В будущем «Оберн» должен уделить больше внимания развитию игры на земле, чтобы компенсировать слабые места в атаке. Критики также отмечают, что тренерский штаб не смог скорректировать тактику вовремя, что усугубило ситуацию. Вопрос о сохранении ключевых игроков в составе остаётся открытым, особенно если команда продолжит проигрывать ключевые матчи.",
-        "analyse_fa": "ضعف خط حمله آبرن و عدم توانایی آن در ایجاد محافظت کافی برای رانرها، دلیل اصلی عدم کارایی رانش تیم در برابر فلوریدا است. این منجر به از دست دادن یاردهای متعدد و نتوانایی تیم برای بهره‌برداری از پتانسیل بازیکنانی که در خط اسکردج حضور داشتند، شد. در آینده، آبرن باید به توسعه بازی روی زمین بیشتر توجه کند تا نقاط ضعف خود را جبران کند. منتقدان همچنین اشاره می‌کنند که استاف تربیتی نتوانست تاکتیک‌ها را در زمان مناسب اصلاح کند، که این وضعیت را وخیم‌تر کرد. سوال حفظ بازیکنانی کلیدی در ترکیب تیم همچنان باز است، به ویژه اگر تیم همچنان بازی‌های کلیدی را از دست دهد.",
-        "analyse_ar": "ضعف خط الهجوم في فريق أوبرن وعدم قدرته على توفير حماية كافية للركّاب هو السبب الرئيسي لضعف هجوم الفريق بالركض أمام فلوريدا. هذا أدى إلى فقدان العديد من الياردات وعدم قدرة الفريق على استغلال إمكانيات اللاعبين في خط السكراج. في المستقبل، يجب على أوبرن التركيز أكثر على تطوير اللعب على الأرض لتغطية نقاط الضعف. يشير النقاد إلى أن فريق التدريب لم يتمكن من تعديل التكتيكات في الوقت المناسب، مما تفاقم الوضع. السؤال حول الحفاظ على اللاعبين الرئيسيين في التشكيلة ما زال مفتوحًا، خاصة إذا استمر الفريق في خسارة مباريات مهمة.",
-        "categorie": "Sport",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/college/auburn/football/where-was-auburn-rushing-attack-against-florida-alex-golesh-explains",
-        "image": "https://s.yimg.com/lo/mysterio/api/64888d0ad21d09dbf5a9ba9acde05021118524c8ae4eea79442a6def9c398cf9/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fauburn_tigers_on_si_articles_514%2Fa6a58c8940c9b5ca57c010fc17d90ae1.jpg",
-        "date": "2026-09-20",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des assurances sportives (NFLPA)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Investissements en santé sportive (recherche sur les protections)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances sportives (NFLPA)",
-            "secteur_en": "Sports insurance market (NFLPA)",
-            "secteur_zh": "美国职业足球联盟球员保险市场",
-            "effet_fr": "Les primes pourraient augmenter pour les joueurs à haut risque, comme les quarterbacks, en raison de la fréquence accrue des blessures graves.",
-            "effet_en": "Premiums may rise for high-risk players like quarterbacks due to the increased frequency of severe injuries.",
-            "effet_zh": "保险费用可能因四分卫等高风险球员严重伤病频发而上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Investissements en santé sportive (recherche sur les protections)",
-            "secteur_en": "Sports health investments (research on protective gear)",
-            "secteur_zh": "体育健康投资（防护装备研究）",
-            "effet_fr": "Les fonds publics et privés pourraient se rediriger vers des innovations en équipement de protection pour réduire les risques de blessures articulaires.",
-            "effet_en": "Public and private funds may shift toward innovations in protective gear to reduce joint injury risks.",
-            "effet_zh": "公私资金可能转向研发减少关节伤害的防护装备。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-21T23:02:10.112797"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_58132",
+        "titre": "Trump crédité de victoire au Presidents Cup",
+        "titre_en": "Trump takes credit for U.S. win",
+        "titre_zh": "特朗普被归功于美国夺冠",
+        "titre_ru": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’",
+        "titre_fa": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’",
+        "titre_ar": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’",
+        "titre_original": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’",
+        "resume": "Le capitaine Brandt Snedeker a attribué la victoire surprise de l’équipe américaine au soutien supposé de Donald Trump, qui aurait insufflé de l’énergie au groupe. Les États-Unis ont renversé un déficit de trois points en singles. Ce revirement s’inscrit dans une stratégie médiatique de Trump pour relancer son image avant 2024.",
+        "resume_en": "Team USA captain Brandt Snedeker credited Donald Trump for the U.S. comeback victory, claiming his energy boosted the team. The Americans overcame a three-point deficit in singles. The reversal aligns with Trump’s media strategy to revive his 2024 campaign image.",
+        "resume_zh": "美国队队长斯内德克将胜利归功于特朗普的“能量”支持，美国队在单打中扳回三分差距。此举与特朗普2024年竞选前的媒体战略相符。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette déclaration s’inscrit dans une dynamique de réappropriation symbolique par Trump, qui utilise chaque succès sportif pour renforcer son narrative de ‘leader charismatique’. Le golf, sport associé à son image, devient un terrain de propagande électorale. Les conséquences immédiates incluent une polarisation accrue autour de sa personne, avec des réactions mitigées parmi les golfeurs indépendants. À moyen terme, cela pourrait influencer les sponsors sportifs à éviter toute association avec son nom. Long terme, cela renforce la tendance à la politisation des sports aux États-Unis, où les événements deviennent des outils de mobilisation politique. Les acteurs clés sont Trump (stratégie de communication), la Fed Cup (instrumentalisation), et les médias (amplification).",
+        "analyse_en": "This claim fits Trump’s pattern of symbolic appropriation, using sports victories to bolster his ‘charismatic leader’ narrative. Golf, tied to his persona, becomes an electoral propaganda tool. Short-term, it deepens polarization around his figure, with mixed reactions from independent golfers. Medium-term, sponsors may avoid associating with his name. Long-term, it accelerates the politicization of U.S. sports, turning events into political mobilization tools. Key players include Trump (communication strategy), Fed Cup (instrumentalization), and media (amplification).",
+        "analyse_zh": "此言论体现了特朗普对符号性领导力的再塑造，利用体育胜利强化其“魅力领袖”形象。高尔夫运动与其个人品牌绑定，成为竞选宣传的工具。短期内，这将加剧围绕其人格的两极分化，独立高尔夫运动员反应不一。中期内，赞助商可能避免与其名字挂钩。长期来看，这加速了美国体育政治化趋势，将赛事转化为政治动员工具。主要利益相关方包括特朗普（传播策略）、美巡赛（被利用）、媒体（放大）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Politique",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-snedeker-presidents-cup-trophy.jpg",
+        "date": "2026-09-27",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Publicité politique (campagnes 2024)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des sponsors sportifs (PGA Tour)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Publicité politique (campagnes 2024)",
+            "secteur_en": "Political advertising (2024 campaigns)",
+            "secteur_zh": "政治广告（2024年竞选）",
+            "effet_fr": "Les dépenses en publicité pourraient bondir pour capitaliser sur ce ‘succès’, avec un ciblage accru des électeurs modérés via les médias sportifs.",
+            "effet_en": "Ad spending may surge to capitalize on this ‘win’, targeting moderate voters through sports media.",
+            "effet_zh": "广告支出可能激增以利用此“胜利”，通过体育媒体精准针对中间选民。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des sponsors sportifs (PGA Tour)",
+            "secteur_en": "Sports sponsorship market (PGA Tour)",
+            "secteur_zh": "体育赞助市场（PGA巡回赛）",
+            "effet_fr": "Les marques pourraient hésiter à s’associer à Trump, craignant un boycott ou une image polarisante, réduisant les revenus des tournois.",
+            "effet_en": "Brands may hesitate to partner with Trump, fearing boycotts or a polarizing image, cutting tournament revenues.",
+            "effet_zh": "品牌可能犹豫与特朗普合作，担心遭到抵制或形象两极分化，影响赛事收入。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-09-28T23:43:50.374294"
+      },
       {
         "id": "usa_365029",
         "titre": "Chine pourrait autoriser Alibaba et ByteDance à acheter des puces Nvidia",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-09-22T18:31:03.908860"
-      },
-      {
-        "id": "usa_386339",
-        "titre": "Qatar nie les menaces sur détroit d'Ormuz",
-        "titre_en": "Qatar dismisses Hormuz Strait security threats",
-        "titre_zh": "卡塔尔否认霍尔木兹海峡安全威胁",
-        "titre_ru": "Командерс столкнулись с кризисом сезона из-за травмы колена Джейдена Дэнниелса",
-        "titre_fa": "کماندرز با بحران فصل روبرو هستند به دلیل آسیب جدی زانو جیدن دنیلز",
-        "titre_ar": "تواجه «كوماندرز» أزمة الموسم بسبب إصابة جدية في الكاحل لجايدن دانيالز",
-        "titre_original": "Washington Commanders face season-defining crisis as Jayden Daniels suffers another serious elbow injury",
-        "resume": "Le ministre qatari de l'Énergie a réagi aux déclarations du secrétaire au Trésor américain, affirmant que les craintes concernant le détroit d'Ormuz étaient infondées. Cette tension s’inscrit dans un contexte géopolitique tendu entre les États-Unis et les pays du Golfe. Les enjeux énergétiques et stratégiques restent centraux dans cette région instable.",
-        "resume_en": "Qatar’s Energy Minister dismissed U.S. Treasury Secretary’s claims about Hormuz Strait security risks. The tension reflects broader U.S.-Gulf geopolitical strains, with energy and strategic stakes at play in this volatile region.",
-        "resume_zh": "卡塔尔能源部长驳斥了美国财政部长关于霍尔木兹海峡安全风险的言论。这一紧张局势反映了美国与波斯湾国家之间日益复杂的地缘政治关系，能源和战略利益在此不稳定地区至关重要。",
-        "resume_ru": "Квотербек «Вашингтон Коммандерс» Джейден Дэнниелс был унесен с поля на носилках после первого тайма, после того как, по-видимому, вывихнул левую руку на последнем действии тайма против «Даллас Каубойз». Это уже вторая серьёзная травма за сезон, что ставит под угрозу будущее команды. Фанаты и эксперты обеспокоены возможностью потери ключевого игрока в решающий момент.",
-        "resume_fa": "کوارتربک کماندرز واشینگتن، جیدن دنیلز، پس از ظاهر شدن آسیب جدی به زانو در آخرین حرکت نیمه اول مقابل کائوبویز دالاس، با کمک‌های پزشکی از زمین برداشته شد. این دومین آسیب جدی او در طول فصل است که آینده تیم را در خطر قرار می‌دهد. طرفداران و تحلیلگران نگران از دست دادن بازیکن کلیدی در لحظه‌های تعیین‌کننده هستند.",
-        "resume_ar": "أُخرج الكوارترباك جايدن دانيالز من الملعب على كرسي متحرك بعد منصف المباراة الأولى، بعد ما يبدو أنه تعرض لإصابة خطيرة في الكاحل في آخر حركة نصف الوقت ضد «كاوويز دالاس». هذا هو الإصابة الثانية الخطيرة له خلال الموسم، مما يهدد مستقبل الفريق. يخشى المعجبين والمحللين فقدان لاعب رئيسي في اللحظات الحاسمة.",
-        "analyse_detaillee": "Le détroit d’Ormuz, point de passage crucial pour 30% du pétrole mondial, est un enjeu historique depuis la révolution iranienne de 1979, où les tensions entre Téhéran et Washington ont redéfini les équilibres régionaux. Les déclarations de Bessent s’inscrivent dans une stratégie américaine de pression économique sur l’Iran, via des alliances avec des pays comme le Qatar ou les Émirats. À court terme, cette polémique pourrait aggraver les divisions au sein de la coalition anti-iranienne, affaiblissant sa cohésion. Moyen terme, elle pourrait accélérer une course aux armements dans la région, avec des investissements accrus dans les capacités militaires navales. Long terme, cela renforce les dynamiques de déstabilisation dans le Golfe, favorisant l’émergence de groupes armés ou de régimes rivaux. Les États-Unis et le Qatar adoptent des positions opposées : Washington cherche à isoler Téhéran, tandis que Doha privilégie une approche pragmatique pour sécuriser ses flux énergétiques.",
-        "analyse_en": "The Hormuz Strait, a critical chokepoint for 30% of global oil, has been a geopolitical flashpoint since Iran’s 1979 revolution, reshaping regional balances. Bessent’s remarks reflect U.S. economic pressure tactics on Iran, leveraging alliances with Qatar or the UAE. Short-term, this dispute may deepen fissures within the anti-Iran coalition, weakening its unity. Medium-term, it could accelerate an arms race, with increased naval military spending. Long-term, it fuels destabilization dynamics in the Gulf, empowering armed groups or rival regimes. The U.S. and Qatar hold opposing stances: Washington aims to isolate Tehran, while Doha prioritizes pragmatic energy security.",
-        "analyse_zh": "霍尔木兹海峡是全球30%石油运输的关键通道，自1979年伊朗革命以来，美伊之间的紧张关系一直定义着该地区的权力平衡。贝森特的言论体现了美国对伊朗施加经济压力的战略，通过与卡塔尔或阿联酋等国家结盟。短期内，这一争端可能加剧反伊朗联盟内部的分歧，削弱其团结。中期内，它可能加速地区军备竞赛，导致海军军事开支增加。长期来看，这将加剧波斯湾的不稳定局势，助长武装组织或对立政权的崛起。美国和卡塔尔立场相反：华盛顿试图孤立德黑兰，而多哈则更注重确保自身能源供应的实际安全。",
-        "analyse_ru": "Травма Дэнниелса может стать поворотным моментом в сезоне «Командерс», так как он является ключевым игроком команды и её лидером. Повторяющиеся травмы указывают на необходимость изменения тактики тренировок и улучшения условий безопасности для игроков. Если Дэнниелс не сможет вернуться в строй, это может привести к пересмотру стратегии команды и даже смене тренера. Фанаты уже начинают обсуждать возможность продажи или обмена квотербека, чтобы минимизировать риски. В долгосрочной перспективе это может повлиять на рейтинг команды и её шансы на успех в будущем.",
-        "analyse_fa": "این آسیب ممکن است نقطه عطفی در فصل کماندرز باشد، زیرا دنیلز بازیکن کلیدی و رهبر تیم است. تکرار آسیب‌ها نشان‌دهنده نیاز به تغییر تاکتیک‌های تمرین و بهبود شرایط ایمنی برای بازیکنان است. اگر دنیلز نتواند به بازی بازگردد، این ممکن است منجر به بازبینی استراتژی تیم و حتی تغییر مربی شود. طرفداران شروع به بحث دربارهٔ امکان فروش یا مبادله کوارتربک کرده‌اند تا ریسک‌ها را کاهش دهند. در بلندمدت، این می‌تواند بر رتبه‌بندی تیم و شانس‌های موفقیت آینده تأثیر بگذارد.",
-        "analyse_ar": "قد تكون إصابة دانيالز نقطة تحول في موسم «كوماندرز»، حيث أنه لاعب رئيسي وقائد الفريق. تكرار الإصابات يشير إلى الحاجة إلى تغيير تكتيكات التدريب وتحسين شروط الأمان للاعبين. إذا لم يتمكن دانيالز من العودة إلى اللعب، قد يؤدي ذلك إلى مراجعة استراتيجية الفريق وحتى تغيير المدرب. بدأ المعجبون في المناقشة حول إمكانية بيع أو تبادل الكوارترباك لتقليل المخاطر. على المدى الطويل، قد يؤثر هذا على تصنيف الفريق وشانسه في النجاح في المستقبل.",
-        "categorie": "Géopolitique",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/outkick-sports/commanders-face-season-defining-crisis-quarterback-jayden-daniels-suffers-another-serious-elbow-injury",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/jayden-daniels-injury-cart-arlington.jpg",
-        "date": "2026-09-20",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier (OPEP+)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurances maritimes (transport pétrolier)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier (OPEP+)",
-            "secteur_en": "Oil market (OPEC+)",
-            "secteur_zh": "石油市场（OPEC+）",
-            "effet_fr": "Les incertitudes géopolitiques pourraient provoquer des fluctuations brutales des prix, affectant les quotas de production et les investissements futurs dans les énergies fossiles.",
-            "effet_en": "Geopolitical uncertainties may trigger sharp price swings, impacting production quotas and future investments in fossil fuels.",
-            "effet_zh": "地缘政治不确定性可能导致油价剧烈波动，影响化石能源的产量配额和未来投资。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurances maritimes (transport pétrolier)",
-            "secteur_en": "Maritime insurance (oil transport)",
-            "secteur_zh": "海运保险（石油运输）",
-            "effet_fr": "Les primes pourraient augmenter en raison des risques accrus de piraterie ou de conflits dans la région, poussant les compagnies à réévaluer leurs couvertures.",
-            "effet_en": "Premiums may rise due to heightened piracy or conflict risks, forcing companies to reassess their coverage policies.",
-            "effet_zh": "由于地区海盗或冲突风险上升，保费可能上涨，迫使公司重新评估保险政策。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-09-21T23:02:10.112824"
       }
     ],
     "chine": [
@@ -3769,6 +3769,65 @@
     ],
     "russie": [
       {
+        "id": "russie_181269",
+        "titre": "Corée du Sud exige des excuses ukrainiennes",
+        "titre_en": "South Korea demands Ukraine apology",
+        "titre_zh": "韩国要求乌克兰道歉",
+        "titre_ru": "South Korea demands Ukraine apologise for announcing POW transfer",
+        "titre_fa": "South Korea demands Ukraine apologise for announcing POW transfer",
+        "titre_ar": "South Korea demands Ukraine apologise for announcing POW transfer",
+        "titre_original": "South Korea demands Ukraine apologise for announcing POW transfer",
+        "resume": "La Corée du Sud accuse l’Ukraine d’avoir violé un accord de confidentialité en annonçant publiquement le transfert de soldats nord-coréens combattant pour la Russie. Séoul exige des excuses officielles, soulignant une violation diplomatique majeure. Ce scandale pourrait aggraver les tensions déjà vives entre les deux pays.",
+        "resume_en": "South Korea accuses Ukraine of breaching a non-disclosure agreement by publicly announcing the transfer of North Korean soldiers fighting for Russia. Seoul demands an official apology, calling it a major diplomatic violation. The scandal risks escalating already strained relations.",
+        "resume_zh": "韩国指责乌克兰公开宣布转移为俄罗斯作战的朝鲜士兵，违反了保密协议。首尔要求正式道歉，称此举严重违反外交规则。此事件可能进一步恶化两国关系。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce conflit s’inscrit dans une dynamique géopolitique plus large où la Corée du Sud, allié clé des États-Unis, cherche à protéger ses intérêts face à l’influence croissante de la Russie en Asie. Les soldats nord-coréens en Ukraine pourraient être perçus comme une violation du droit international, notamment des résolutions de l’ONU sur la Corée du Nord. Les conséquences immédiates incluent une crise diplomatique avec des représailles possibles, comme des sanctions économiques ciblées. À moyen terme, cela pourrait renforcer les alliances régionales (ex : AUKUS) ou affaiblir les efforts de désescalade en Ukraine. Long terme, cela illustre les limites de la coopération internationale face aux acteurs non étatiques comme la Corée du Nord. Les acteurs clés sont la Corée du Sud (pression sur Kiev), l’Ukraine (dilemme sécuritaire), et la Russie (stratégie de recrutement controversée).",
+        "analyse_en": "This dispute fits into broader geopolitical tensions where South Korea, a key U.S. ally, seeks to safeguard its interests against Russia’s growing influence in Asia. North Korean soldiers in Ukraine may violate international law, including UN resolutions on Pyongyang. Short-term, it triggers a diplomatic crisis with potential targeted economic retaliation. Medium-term, it could strengthen regional alliances (e.g., AUKUS) or undermine Ukraine de-escalation efforts. Long-term, it highlights international cooperation failures against non-state actors like North Korea. Key players include South Korea (pressuring Kiev), Ukraine (security dilemma), and Russia (controversial recruitment strategy).",
+        "analyse_zh": "此事件反映了韩国作为美国盟友，在亚洲抵制俄罗斯影响力扩张的战略背景。朝鲜士兵在乌克兰作战可能触犯国际法，包括联合国针对朝鲜的决议。短期内，韩国可能采取经济制裁等回应，引发外交危机。中期内，这可能加强韩国与盟友（如AUKUS）的合作，或削弱乌克兰局势缓和努力。长期来看，暴露了国际社会应对非国家行为体（如朝鲜）的局限。主要利益相关方包括韩国（施压基辅）、乌克兰（安全两难）、俄罗斯（争议性招募策略）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-09-28/south-korea-demands-apology-from-ukraine-over-pow-announcement/107202624",
+        "image": "https://live-production.wcms.abc-cdn.net.au/805aba9a38d8bde62f207ec3a321cb3e?impolicy=wcms_watermark_news&cropH=811&cropW=1442&xPos=244&yPos=103&width=862&height=485&imformat=generic",
+        "date": "2026-09-27",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▼ Marché des devises (Won sud-coréen)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Assurances politiques (Crédit à l’export)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des devises (Won sud-coréen)",
+            "secteur_en": "Foreign exchange market (South Korean won)",
+            "secteur_zh": "外汇市场（韩元）",
+            "effet_fr": "Une dépréciation possible du won en cas d’escalade des tensions, affectant les exportations et les investissements étrangers.",
+            "effet_en": "Potential won depreciation if tensions escalate, impacting exports and foreign investment.",
+            "effet_zh": "如紧张局势升级，韩元可能贬值，影响出口和外资流入。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Assurances politiques (Crédit à l’export)",
+            "secteur_en": "Political risk insurance (Export credit)",
+            "secteur_zh": "政治风险保险（出口信贷）",
+            "effet_fr": "Les assureurs pourraient refuser de couvrir les contrats ukrainiens, augmentant les coûts pour les entreprises sud-coréennes.",
+            "effet_en": "Insurers may deny coverage for Ukrainian contracts, raising costs for South Korean firms.",
+            "effet_zh": "保险公司可能拒绝为乌克兰项目提供保障，增加韩国企业成本。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-09-28T23:43:50.374282"
+      },
+      {
         "id": "russie_458715",
         "titre": "République tchèque remporte Billie Jean King Cup",
         "titre_en": "Czechia wins Billie Jean King Cup",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-09-21T01:00:59.815239"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_351649",
-        "titre": "Premier ministre polonais alerte sur risques de frappes russes en Europe",
-        "titre_en": "Polish PM warns of Russian drone/rocket strikes in Europe",
-        "titre_zh": "波兰总理警告俄罗斯可能对欧洲发动无人机或火箭袭击",
-        "titre_ru": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
-        "titre_fa": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
-        "titre_ar": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
-        "titre_original": "Polish prime minister warns Russia is planning drone or rocket strikes on European countries supporting Ukraine as ‘Carpathian Eight’ meet",
-        "resume": "Le Premier ministre polonais met en garde contre des frappes russes ciblées contre les pays européens soutenant l’Ukraine, lors d’un sommet des « Huit Carpates ». Ursula von der Leyen appelle à un mécanisme de défense hybride inspiré de l’OTAN. Ces déclarations interviennent dans un contexte de montée des tensions après les frappes russes en Ukraine et en Pologne.",
-        "resume_en": "The Polish PM warns of Russian drone or rocket strikes against European countries supporting Ukraine at the ‘Carpathian Eight’ summit. Ursula von der Leyen calls for a hybrid defense mechanism inspired by NATO. These statements follow escalating tensions after Russian strikes in Ukraine and Poland.",
-        "resume_zh": "波兰总理在‘喀尔巴阡八国’峰会上警告俄罗斯可能对支持乌克兰的欧洲国家发动无人机或火箭袭击。冯德莱恩呼吁建立一个类似北约的混合防御机制。这些言论发生在俄罗斯对乌克兰和波兰发动袭击后，地区紧张局势升级。",
+        "id": "iran_519173",
+        "titre": "États-Unis récupèrent 600M$ d’huile iranienne",
+        "titre_en": "U.S. recovers $600M Iranian oil",
+        "titre_zh": "美国回收6亿美元伊朗石油",
+        "titre_ru": "The U.S. may soon receive $600 million worth of Iranian oil that was seized earlier in the war, putting an ancient body of maritime law back in focus",
+        "titre_fa": "The U.S. may soon receive $600 million worth of Iranian oil that was seized earlier in the war, putting an ancient body of maritime law back in focus",
+        "titre_ar": "The U.S. may soon receive $600 million worth of Iranian oil that was seized earlier in the war, putting an ancient body of maritime law back in focus",
+        "titre_original": "The U.S. may soon receive $600 million worth of Iranian oil that was seized earlier in the war, putting an ancient body of maritime law back in focus",
+        "resume": "Washington pourrait bientôt recevoir 600 millions de dollars d’huile iranienne saisie pendant la guerre, via un mécanisme juridique médiéval appelé ‘droit de prise’. Ce retour met en lumière les tensions persistantes entre les deux pays et les limites des sanctions économiques. L’Iran pourrait utiliser ces fonds pour contourner les restrictions financières internationales.",
+        "resume_en": "Washington may soon recover $600 million in Iranian oil seized during the war, using medieval ‘prize law’. The return highlights ongoing U.S.-Iran tensions and the limits of economic sanctions. Iran could use the funds to bypass international financial restrictions.",
+        "resume_zh": "华盛顿可能 soon收回战时被扣押的6亿美元伊朗石油，通过中世纪的“战利品法”程序。此举凸显美伊持续紧张关系及经济制裁的局限性。伊朗可能利用这些资金绕过国际金融限制。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Les tensions russo-européennes s’aggravent depuis l’invasion de l’Ukraine en 2022, marquant un retour aux logiques de la Guerre froide. La Russie, isolée diplomatiquement, cherche à punir les pays soutenant Kiev via des frappes hybrides (cyber, désinformation, attaques conventionnelles). Les causes profondes incluent la peur russe d’une expansion de l’OTAN à ses frontières et le refus occidental de reconnaître ses revendications territoriales. Court terme, une escalade pourrait provoquer des représailles européennes (sanctions, livraisons d’armes) ou une intervention directe de l’OTAN. À moyen terme, la Russie pourrait intensifier ses attaques sur les infrastructures énergétiques européennes (gazoducs, centrales). Long terme, une guerre prolongée affaiblirait l’économie russe et renforcerait les divisions internes, mais pourrait aussi accélérer une réorganisation géopolitique avec une Europe plus militarisée. Les États-Unis, divisés sur leur engagement, restent le principal soutien de l’Ukraine, tandis que la Chine et l’Inde jouent un rôle ambigu en évitant de condamner Moscou sans pour autant le soutenir activement.",
-        "analyse_en": "Russia-EU tensions have worsened since the 2022 Ukraine invasion, reviving Cold War dynamics. Russia, diplomatically isolated, seeks to punish Ukraine-supporting countries via hybrid strikes (cyber, disinformation, conventional attacks). Root causes include Russian fears of NATO expansion near its borders and Western refusal to recognize its territorial claims. Short-term, escalation could trigger European retaliation (sanctions, arms deliveries) or direct NATO intervention. Medium-term, Russia may intensify attacks on European energy infrastructure (pipelines, power plants). Long-term, prolonged war would weaken Russia’s economy and deepen internal divisions, but could also accelerate geopolitical realignment with a more militarized Europe. The US, divided on its commitment, remains Ukraine’s primary backer, while China and India play an ambiguous role by avoiding condemnation without actively supporting Moscow.",
-        "analyse_zh": "俄欧紧张关系自2022年俄罗斯入侵乌克兰以来恶化，回到了冷战逻辑。俄罗斯在外交上孤立，试图通过混合手段（网络攻击、虚假信息、常规袭击）惩罚支持基辅的国家。深层原因包括俄罗斯对北约边境扩张的恐惧和西方拒绝承认其领土主张。短期内，升级可能导致欧洲报复（制裁、武器交付）或北约直接干预。中期内，俄罗斯可能加强对欧洲能源基础设施（管道、发电站）的袭击。长期来看，持续战争将削弱俄罗斯经济并加深国内分裂，但也可能加速地缘政治重组，使欧洲更加军事化。美国在承诺上分裂，仍是乌克兰的主要支持者，而中国和印度扮演着模糊角色，既避免谴责莫斯科，也不积极支持。",
+        "analyse_detaillee": "Ce mécanisme juridique, hérité du droit maritime médiéval, illustre la persistance de pratiques anciennes dans les conflits modernes, reflétant une forme de ‘loi de la jungle’ appliquée aux ressources stratégiques. Les États-Unis, sous pression pour réduire leur dépendance au pétrole étranger, utilisent cette voie pour affaiblir l’économie iranienne sans déclencher une escalade militaire directe. Les conséquences immédiates incluent une détérioration supplémentaire des relations diplomatiques, avec des risques de représailles iraniennes (cyberattaques, blocage du détroit d’Ormuz). À moyen terme, cela pourrait inciter Téhéran à diversifier ses partenariats énergétiques (Chine, Inde) ou à intensifier ses activités nucléaires pour contourner les sanctions. Long terme, cela renforce la fragmentation du système international, où les États recourent à des outils juridiques hybrides pour contourner les normes multilatérales. Les acteurs clés sont les États-Unis (stratégie de pression), l’Iran (survie économique), et la Chine (rôle de médiateur potentiel).",
+        "analyse_en": "This medieval legal mechanism highlights the persistence of old practices in modern conflicts, embodying a ‘law of the jungle’ approach to strategic resources. The U.S., pressured to reduce foreign oil dependence, uses this route to weaken Iran’s economy without triggering direct military escalation. Short-term, it worsens diplomatic relations, risking Iranian retaliation (cyberattacks, Strait of Hormuz blockades). Medium-term, Tehran may diversify energy partnerships (China, India) or escalate nuclear activities to bypass sanctions. Long-term, it reinforces international system fragmentation, as states use hybrid legal tools to bypass multilateral norms. Key players include the U.S. (pressure strategy), Iran (economic survival), and China (potential mediator).",
+        "analyse_zh": "这种中世纪法律机制展示了现代冲突中古老实践的持续性，体现了对战略资源的“丛林法则”应用。美国为减少对外油依赖，通过此途径削弱伊朗经济，避免直接军事升级。短期内，这将进一步恶化外交关系，伊朗可能采取网络攻击或霍尔木兹海峡封锁等回应。中期内，德黑兰可能多元化能源合作伙伴（中国、印度）或加速核活动以绕过制裁。长期来看，这加剧了国际体系的分裂，各国利用混合法律工具规避多边规则。主要利益相关方包括美国（压制策略）、伊朗（经济生存）、中国（潜在调解者）。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
         "source": "Fortune",
-        "url": "https://fortune.com/2026/09/19/polish-prime-minister-russia-hybrid-war-drone-rocket-strikes-european-countries-ukraine/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295272807-e1789856557402.jpg?resize=1200,600",
-        "date": "2026-09-19",
-        "pays": "russie",
+        "url": "https://fortune.com/2026/09/27/us-600-million-iranian-oil-seizure-naval-blockade-prize-law/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/9917594-e1790548234662.jpg?resize=1200,600",
+        "date": "2026-09-27",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des matières premières énergétiques (Gaz naturel)",
-            "hausse": true
+            "label": "▼ Marché pétrolier (NYMEX, Brent)",
+            "hausse": false
           },
           {
-            "label": "▲ Marché des assurances (Cyberrisques)",
+            "label": "▲ Assurances maritimes (Lloyd’s of London)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des matières premières énergétiques (Gaz naturel)",
-            "secteur_en": "Energy commodities market (Natural gas)",
-            "secteur_zh": "能源大宗商品市场（天然气）",
-            "effet_fr": "Les attaques russes sur les infrastructures européennes pourraient faire bondir les prix du gaz, profitant à la Russie via des livraisons réduites et des tensions accrues sur l’approvisionnement.",
-            "effet_en": "Russian attacks on European infrastructure could spike gas prices, benefiting Russia through reduced deliveries and heightened supply tensions.",
-            "effet_zh": "俄罗斯对欧洲基础设施的袭击可能推高天然气价格，使俄罗斯通过减少供应和加剧供应紧张获利。",
-            "hausse": true
+            "secteur_fr": "Marché pétrolier (NYMEX, Brent)",
+            "secteur_en": "Oil market (NYMEX, Brent)",
+            "secteur_zh": "石油市场（NYMEX、布伦特原油）",
+            "effet_fr": "La réintégration de ces réserves pourrait faire baisser les cours à court terme, mais renforcer la résilience du marché iranien face aux sanctions.",
+            "effet_en": "Reintegrating these reserves may lower prices short-term but strengthen Iran’s market resilience against sanctions.",
+            "effet_zh": "这些储备的回流可能短期内拉低油价，但增强伊朗市场抵御制裁的韧性。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché des assurances (Cyberrisques)",
-            "secteur_en": "Insurance market (Cyber risks)",
-            "secteur_zh": "保险市场（网络风险）",
-            "effet_fr": "Les cyberattaques russes pourraient entraîner une hausse des primes d’assurance pour les entreprises européennes, avec une demande accrue de couverture contre les cybermenaces hybrides.",
-            "effet_en": "Russian cyberattacks could drive up insurance premiums for European firms, with increased demand for coverage against hybrid cyber threats.",
-            "effet_zh": "俄罗斯的网络攻击可能推高欧洲企业的保险费用，增加对混合型网络威胁的保险需求。",
+            "secteur_fr": "Assurances maritimes (Lloyd’s of London)",
+            "secteur_en": "Marine insurance (Lloyd’s of London)",
+            "secteur_zh": "海运保险（伦敦劳合社）",
+            "effet_fr": "Les primes pourraient augmenter pour couvrir les risques accrus liés aux saisies et aux conflits dans le golfe Persique.",
+            "effet_en": "Premiums may rise to cover heightened risks from seizures and Persian Gulf conflicts.",
+            "effet_zh": "保费可能上涨以应对波斯湾扣押和冲突带来的风险增加。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-20T23:00:31.593588"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-09-28T23:43:50.374304"
+      },
       {
         "id": "iran_477686",
         "titre": "Iran menace de riposter avec technologies militaires inédites",
@@ -6070,129 +6129,10 @@
           }
         ],
         "created_at": "2026-09-20T17:59:17.898382"
-      },
-      {
-        "id": "iran_847242",
-        "titre": "Iran: mobilisation populaire pour 'défendre la patrie'",
-        "titre_en": "Iran: Mass mobilization to 'defend homeland'",
-        "titre_zh": "伊朗：民众动员‘保卫祖国’",
-        "titre_ru": "Iranians storm streets in govt's show of strength",
-        "titre_fa": "Iranians storm streets in govt's show of strength",
-        "titre_ar": "Iranians storm streets in govt's show of strength",
-        "titre_original": "Iranians storm streets in govt's show of strength",
-        "resume": "Le gouvernement iranien organise une mobilisation citoyenne pour former des volontaires à la défense nationale, dans un contexte de tensions régionales croissantes. Les estimations varient sur le nombre de participants, reflétant une volonté de montrer l’unité nationale. Cette initiative suit les récentes tensions avec Israël et les États-Unis.",
-        "resume_en": "Iran’s government is mobilizing citizens to train volunteers for national defense amid rising regional tensions. Participation estimates vary, showing a push for national unity. The move follows recent tensions with Israel and the U.S.",
-        "resume_zh": "伊朗政府组织公民动员，培训志愿者进行国防训练，在地区紧张局势加剧的背景下进行。参与人数估计不一，反映出展示民族团结的意愿。此举是在与以色列和美国最近的紧张关系之后采取的。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette mobilisation s’inscrit dans une tradition de défense nationale iranienne depuis la révolution de 1979, mais aussi dans un contexte de pression externe (sanctions, cyberattaques). Les enjeux incluent la légitimité du régime face aux protestations internes et la dissuasion régionale. Les causes profondes sont la peur d’une intervention étrangère et la crise économique persistante. Court terme, cela pourrait renforcer le contrôle social et la répression des opposants. Moyen terme, Téhéran pourrait intensifier ses actions dans le Golfe (Houthistes, Hezbollah). Long terme, cela pourrait isoler davantage l’Iran et accélérer les divisions internes. Les acteurs clés sont le Guide suprême Khamenei, les milices (IRGC) et les puissances régionales (Arabie saoudite).",
-        "analyse_en": "This mobilization follows Iran’s post-1979 defense tradition but also reflects external pressure (sanctions, cyberattacks). Stakes include regime legitimacy amid internal protests and regional deterrence. Root causes involve fear of foreign intervention and persistent economic crisis. Short-term, this may strengthen social control and crackdowns on opponents. Medium-term, Tehran could escalate actions in the Gulf (Houthi, Hezbollah). Long-term, this may further isolate Iran and accelerate internal divisions. Key actors include Supreme Leader Khamenei, militias (IRGC), and regional powers (Saudi Arabia).",
-        "analyse_zh": "此次动员属于伊朗自1979年革命以来的国防传统，但也反映了外部压力（制裁、网络攻击）。主要影响涉及政权在内部抗议面前的合法性和地区威慑力。深层原因包括对外国干预的恐惧和持续的经济危机。短期内，这可能加强社会控制和镇压反对派。中期内，德黑兰可能在波斯湾加强行动（胡塞运动、真主党）。长期来看，这可能进一步孤立伊朗并加剧内部分裂。关键利益相关者包括最高领袖哈梅内伊、伊斯兰革命卫队和地区大国（沙特阿拉伯）。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/iranians-storm-streets-in-govts-show-of-strength/articleshow/134343578.cms",
-        "image": "https://img.etimg.com/thumb/msid-134343576,width-1200,height-630,imgsize-293368,overlay-economictimes/articleshow.jpg",
-        "date": "2026-09-18",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Secteur de la défense et sécurité intérieure",
-            "hausse": false
-          },
-          {
-            "label": "▼ Économie et sanctions internationales",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur de la défense et sécurité intérieure",
-            "secteur_en": "Defense and internal security sector",
-            "secteur_zh": "国防和国内安全领域",
-            "effet_fr": "Cette mobilisation pourrait renforcer le contrôle militaire sur la population et justifier des restrictions supplémentaires sur les libertés civiles.",
-            "effet_en": "This mobilization may strengthen military control over the population and justify further restrictions on civil liberties.",
-            "effet_zh": "此次动员可能加强军队对民众的控制，并为进一步限制公民自由提供借口。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Économie et sanctions internationales",
-            "secteur_en": "Economy and international sanctions",
-            "secteur_zh": "经济和国际制裁",
-            "effet_fr": "Les tensions accrues pourraient aggraver la crise économique et réduire les investissements étrangers, affaiblissant le rial iranien.",
-            "effet_en": "Increased tensions may worsen the economic crisis and reduce foreign investment, weakening the Iranian rial.",
-            "effet_zh": "加剧的紧张局势可能加重经济危机，减少外资投入，削弱伊朗里亚尔汇率。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-19T20:05:38.877470"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_enfants_51887",
-      "titre": "Nivellois accusé d’agressions sur mineure",
-      "titre_en": "Nivelles man charged with child abuse",
-      "titre_zh": "尼韦勒男子涉嫌性侵未成年少女",
-      "titre_ru": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
-      "titre_fa": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
-      "titre_ar": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
-      "titre_original": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
-      "resume": "Un homme de Nivelles (Belgique) a été poursuivi pour atteinte à l’intégrité sexuelle après avoir été trompé par une prétendue petite amie de 16 ans, qui n’avait en réalité que 11 ans. Les autorités belges ont ouvert une enquête pour incitation à la débauche sur mineure de moins de 16 ans. Ce cas révèle les dangers des manipulations numériques et des relations toxiques précoces.",
-      "resume_en": "A man from Nivelles (Belgium) is facing charges of sexual assault after being deceived by a supposed 16-year-old girlfriend who was actually 11. Belgian authorities have launched an investigation for inciting the corruption of a minor under 16. This case highlights the risks of online manipulation and early toxic relationships.",
-      "resume_zh": "比利时尼韦勒男子因被假冒16岁女友（实际11岁）欺骗，被控性侵未成年少女。当局正调查涉嫌引诱未满16岁少女堕落。此案暴露网络欺诈与早期不健康关系的风险。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Ce cas illustre une tendance croissante des abus sexuels sur mineurs, souvent facilités par les plateformes numériques où l’anonymat et la désinformation prospèrent. Les lois belges, bien que strictes, peinent à protéger les victimes en raison des délais de plainte et des mécanismes de signalement parfois inefficaces. Les réseaux sociaux, en l’absence de modération renforcée, deviennent des terrains de chasse pour les prédateurs exploitant la vulnérabilité des enfants. Les conséquences psychologiques pour la victime sont souvent dévastatrices, avec des traumatismes durables et des difficultés d’intégration sociale. À moyen terme, ce type d’affaires pourrait renforcer les pressions pour une régulation plus stricte des échanges en ligne. Les associations de protection de l’enfance appellent à une éducation préventive accrue dans les écoles, tandis que les parents doivent être sensibilisés aux risques des interactions virtuelles. Les autorités judiciaires, elles, doivent accélérer les procédures pour dissuader les récidives.",
-      "analyse_en": "This case highlights a growing trend of sexual abuse against minors, often facilitated by digital platforms where anonymity and misinformation thrive. Belgian laws, though strict, struggle to protect victims due to reporting delays and sometimes ineffective mechanisms. Social media, lacking robust moderation, becomes a hunting ground for predators exploiting children’s vulnerability. The psychological consequences for the victim are often devastating, with lasting trauma and social integration issues. In the medium term, such cases may push for stricter online interaction regulations. Child protection associations advocate for increased preventive education in schools, while parents must be aware of virtual interaction risks. Judicial authorities must expedite procedures to deter repeat offenses.",
-      "analyse_zh": "此案反映了网络环境下性侵未成年人案件增多，罪犯利用匿名性和虚假信息进行欺骗。比利时法律虽严格，但因举报延迟和监管漏洞，难以全面保护受害者。社交媒体缺乏有效监管，成为预谋者利用儿童弱点的温床。受害者面临严重心理创伤，长期影响其社会适应能力。中期内，此类事件可能推动加强网络交流监管。儿童保护组织呼吁学校加强预防教育，家长需警惕虚拟交往风险。司法机关则应加快审判流程，遏制重犯率。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Justice & Societe",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/regions/brabant/2026/09/27/je-suis-tombe-des-nues-quand-la-police-ma-donne-son-age-un-nivellois-poursuivi-pour-faits-de-moeurs-CWUKGRY4L5AC5I4OURW24QF5FA/",
-      "image": "https://www.dhnet.be/resizer/v2/UN3NDSTBLZA2XP3IXKBAKQS64M.jpg?auth=caeb6c3fda7324ce8250b7bb5f9c99c9281ecdbada1a3cea189e363174732a9d&width=1200&height=630&quality=85&focal=405%2C304",
-      "date": "2026-09-27",
-      "pays": "pol_enfants",
-      "badges": [
-        {
-          "label": "▲ Plateformes de messagerie instantanée (ex: Snapchat, WhatsApp)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurances responsabilité civile (protection des victimes)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Plateformes de messagerie instantanée (ex: Snapchat, WhatsApp)",
-          "secteur_en": "Instant messaging platforms (e.g., Snapchat, WhatsApp)",
-          "secteur_zh": "即时通讯平台（如Snapchat、WhatsApp）",
-          "effet_fr": "Ces plateformes, souvent utilisées par les prédateurs pour approcher les mineurs, voient leur responsabilité juridique renforcée face à ces affaires, poussant à des réformes de modération algorithmique et de signalement des contenus à risque.",
-          "effet_en": "These platforms, frequently exploited by predators to target minors, face heightened legal scrutiny, driving reforms in algorithmic moderation and risk content reporting systems.",
-          "effet_zh": "这些平台因频繁被利用接触未成年人，面临更严格的法律责任，推动算法监管和风险内容举报机制改革。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances responsabilité civile (protection des victimes)",
-          "secteur_en": "Civil liability insurance (victim protection)",
-          "secteur_zh": "民事责任保险（受害者保护）",
-          "effet_fr": "Les assureurs pourraient voir une hausse des réclamations liées à des abus en ligne, incitant à des couvertures plus spécifiques pour les dommages psychologiques et les frais juridiques liés aux affaires de mœurs.",
-          "effet_en": "Insurers may face increased claims for online abuse-related damages, prompting them to offer specialized coverage for psychological harm and legal fees in moral offense cases.",
-          "effet_zh": "保险公司可能面临因网络侵害案件导致的赔偿增加，推动开发针对心理损害和刑事费用的专属保障。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-28T18:29:48.428202",
-      "sous_categorie": "enfants"
-    },
     {
       "id": "pol_femmes_315042",
       "titre": "Féminicide Cher : arrestation tardive",
@@ -6552,6 +6492,66 @@
       ],
       "created_at": "2026-09-19T10:23:19.502368",
       "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_enfants_51887",
+      "titre": "Nivellois accusé d’agressions sur mineure",
+      "titre_en": "Nivelles man charged with child abuse",
+      "titre_zh": "尼韦勒男子涉嫌性侵未成年少女",
+      "titre_ru": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
+      "titre_fa": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
+      "titre_ar": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
+      "titre_original": "“Je suis tombé des nues quand la police m’a donné son âge\" : Un nivellois poursuivi pour faits de mœurs",
+      "resume": "Un homme de Nivelles (Belgique) a été poursuivi pour atteinte à l’intégrité sexuelle après avoir été trompé par une prétendue petite amie de 16 ans, qui n’avait en réalité que 11 ans. Les autorités belges ont ouvert une enquête pour incitation à la débauche sur mineure de moins de 16 ans. Ce cas révèle les dangers des manipulations numériques et des relations toxiques précoces.",
+      "resume_en": "A man from Nivelles (Belgium) is facing charges of sexual assault after being deceived by a supposed 16-year-old girlfriend who was actually 11. Belgian authorities have launched an investigation for inciting the corruption of a minor under 16. This case highlights the risks of online manipulation and early toxic relationships.",
+      "resume_zh": "比利时尼韦勒男子因被假冒16岁女友（实际11岁）欺骗，被控性侵未成年少女。当局正调查涉嫌引诱未满16岁少女堕落。此案暴露网络欺诈与早期不健康关系的风险。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Ce cas illustre une tendance croissante des abus sexuels sur mineurs, souvent facilités par les plateformes numériques où l’anonymat et la désinformation prospèrent. Les lois belges, bien que strictes, peinent à protéger les victimes en raison des délais de plainte et des mécanismes de signalement parfois inefficaces. Les réseaux sociaux, en l’absence de modération renforcée, deviennent des terrains de chasse pour les prédateurs exploitant la vulnérabilité des enfants. Les conséquences psychologiques pour la victime sont souvent dévastatrices, avec des traumatismes durables et des difficultés d’intégration sociale. À moyen terme, ce type d’affaires pourrait renforcer les pressions pour une régulation plus stricte des échanges en ligne. Les associations de protection de l’enfance appellent à une éducation préventive accrue dans les écoles, tandis que les parents doivent être sensibilisés aux risques des interactions virtuelles. Les autorités judiciaires, elles, doivent accélérer les procédures pour dissuader les récidives.",
+      "analyse_en": "This case highlights a growing trend of sexual abuse against minors, often facilitated by digital platforms where anonymity and misinformation thrive. Belgian laws, though strict, struggle to protect victims due to reporting delays and sometimes ineffective mechanisms. Social media, lacking robust moderation, becomes a hunting ground for predators exploiting children’s vulnerability. The psychological consequences for the victim are often devastating, with lasting trauma and social integration issues. In the medium term, such cases may push for stricter online interaction regulations. Child protection associations advocate for increased preventive education in schools, while parents must be aware of virtual interaction risks. Judicial authorities must expedite procedures to deter repeat offenses.",
+      "analyse_zh": "此案反映了网络环境下性侵未成年人案件增多，罪犯利用匿名性和虚假信息进行欺骗。比利时法律虽严格，但因举报延迟和监管漏洞，难以全面保护受害者。社交媒体缺乏有效监管，成为预谋者利用儿童弱点的温床。受害者面临严重心理创伤，长期影响其社会适应能力。中期内，此类事件可能推动加强网络交流监管。儿童保护组织呼吁学校加强预防教育，家长需警惕虚拟交往风险。司法机关则应加快审判流程，遏制重犯率。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Justice & Societe",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/brabant/2026/09/27/je-suis-tombe-des-nues-quand-la-police-ma-donne-son-age-un-nivellois-poursuivi-pour-faits-de-moeurs-CWUKGRY4L5AC5I4OURW24QF5FA/",
+      "image": "https://www.dhnet.be/resizer/v2/UN3NDSTBLZA2XP3IXKBAKQS64M.jpg?auth=caeb6c3fda7324ce8250b7bb5f9c99c9281ecdbada1a3cea189e363174732a9d&width=1200&height=630&quality=85&focal=405%2C304",
+      "date": "2026-09-27",
+      "pays": "pol_enfants",
+      "badges": [
+        {
+          "label": "▲ Plateformes de messagerie instantanée (ex: Snapchat, WhatsApp)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurances responsabilité civile (protection des victimes)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Plateformes de messagerie instantanée (ex: Snapchat, WhatsApp)",
+          "secteur_en": "Instant messaging platforms (e.g., Snapchat, WhatsApp)",
+          "secteur_zh": "即时通讯平台（如Snapchat、WhatsApp）",
+          "effet_fr": "Ces plateformes, souvent utilisées par les prédateurs pour approcher les mineurs, voient leur responsabilité juridique renforcée face à ces affaires, poussant à des réformes de modération algorithmique et de signalement des contenus à risque.",
+          "effet_en": "These platforms, frequently exploited by predators to target minors, face heightened legal scrutiny, driving reforms in algorithmic moderation and risk content reporting systems.",
+          "effet_zh": "这些平台因频繁被利用接触未成年人，面临更严格的法律责任，推动算法监管和风险内容举报机制改革。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances responsabilité civile (protection des victimes)",
+          "secteur_en": "Civil liability insurance (victim protection)",
+          "secteur_zh": "民事责任保险（受害者保护）",
+          "effet_fr": "Les assureurs pourraient voir une hausse des réclamations liées à des abus en ligne, incitant à des couvertures plus spécifiques pour les dommages psychologiques et les frais juridiques liés aux affaires de mœurs.",
+          "effet_en": "Insurers may face increased claims for online abuse-related damages, prompting them to offer specialized coverage for psychological harm and legal fees in moral offense cases.",
+          "effet_zh": "保险公司可能面临因网络侵害案件导致的赔偿增加，推动开发针对心理损害和刑事费用的专属保障。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-28T18:29:48.428202",
+      "sous_categorie": "enfants"
     },
     {
       "id": "pol_enfants_13284",
