@@ -1,5 +1,5 @@
 {
-  "last_updated": "29/09/2026 à 11h09",
+  "last_updated": "29/09/2026 à 17h42",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,186 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_533014",
+      "titre": "Violence conjugale : avortement forcé",
+      "titre_en": "Forced abortion as domestic violence",
+      "titre_zh": "强迫妻子堕胎属家暴行为",
+      "titre_ru": "Forcer sa compagne à avorter est une violence conjugale",
+      "titre_fa": "Forcer sa compagne à avorter est une violence conjugale",
+      "titre_ar": "Forcer sa compagne à avorter est une violence conjugale",
+      "titre_original": "Forcer sa compagne à avorter est une violence conjugale",
+      "resume": "À l’occasion de la Journée mondiale du droit à l’avortement, des associations dénoncent le contrôle coercitif imposé par certains partenaires, une pratique encore insuffisamment reconnue comme une forme de violence conjugale. Cette entrave à l’autonomie reproductive illustre les lacunes persistantes dans la protection des femmes. Les signataires appellent à une meilleure prise en compte juridique et sociale de ce phénomène.",
+      "resume_en": "On the occasion of the World Day for Safe Abortion, associations highlight coercive control imposed by some partners, a practice still insufficiently recognized as domestic violence. This violation of reproductive autonomy exposes gaps in women’s protection. Signatories urge better legal and social recognition of this issue.",
+      "resume_zh": "在世界堕胎权利日，协会揭露某些伴侣强迫堕胎的行为，这种强制控制仍未被充分视为家暴形式。这暴露了对妇女权利保护的漏洞，签署方呼吁加强法律和社会认可。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Historiquement, la violence conjugale a longtemps été associée à des agressions physiques, minimisant les formes psychologiques ou économiques comme le contrôle de la procréation. L’avortement forcé s’inscrit dans une dynamique de domination masculine, où le corps des femmes devient un enjeu de pouvoir. À court terme, cette pratique aggrave les inégalités de genre et renforce la vulnérabilité des victimes, souvent isolées. À moyen terme, elle freine les progrès vers l’égalité réelle, malgré les avancées législatives récentes. Long terme, sans changement structurel, elle perpétue des cycles de soumission et limite l’accès à la justice reproductive. Les associations militantes et les institutions publiques (comme le Défenseur des droits) plaident pour des formations renforcées des professionnels et des peines spécifiques, tandis que les États restent divisés entre progressisme et conservatisme.",
+      "analyse_en": "Historically, domestic violence has primarily been linked to physical aggression, downplaying psychological or economic forms like reproductive control. Forced abortion reflects a dynamic of male dominance, where women’s bodies become a power struggle. Short-term, this practice exacerbates gender inequality and increases victims’ vulnerability, often leaving them isolated. Medium-term, it hinders progress toward real equality despite recent legislative advances. Long-term, without structural change, it perpetuates cycles of submission and restricts access to reproductive justice. Advocacy groups and public institutions call for enhanced training for professionals and specific penalties, while states remain divided between progressivism and conservatism.",
+      "analyse_zh": "历史上，家暴主要与身体暴力相关，忽视了心理或经济控制如生育权限制。强迫堕胎体现了男性主导的动态，女性身体成为权力斗争的工具。短期内，这种行为加剧性别不平等，使受害者更易孤立。中期内，它阻碍了真正平等的进步，尽管立法有所进展。长期来看，没有制度变革，它会维持压迫循环，限制生育权利。倡导组织和公共机构呼吁加强专业培训和专门惩罚，但各国在进步与保守之间分歧依然明显。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains et genre",
+      "source": "L'Obs",
+      "url": "https://www.nouvelobs.com/opinions/20260928.OBS118692/forcer-sa-compagne-a-avorter-est-une-violence-conjugale.html",
+      "image": "https://focus.nouvelobs.com/2026/09/28/0/0/5184/3456/1200/800/0/0/5ef31c8_upload-1-r1rte0efhmze-gettyimages-2177433395.jpg",
+      "date": "2026-09-28",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▼ Assurance maladie (couverture des soins post-avortement)",
+          "hausse": false
+        },
+        {
+          "label": "▲ Fonds européens pour l’égalité (budgets alloués aux associations féministes)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (couverture des soins post-avortement)",
+          "secteur_en": "Health insurance (coverage for post-abortion care)",
+          "secteur_zh": "医疗保险（堕胎后治疗保障）",
+          "effet_fr": "Les victimes de violences conjugales subissant un avortement forcé pourraient voir leurs frais médicaux partiellement pris en charge, mais les délais administratifs et les refus persistants limitent l’accès effectif.",
+          "effet_en": "Victims of forced abortion due to domestic violence may see partial coverage for medical expenses, but administrative delays and ongoing rejections hinder actual access.",
+          "effet_zh": "家暴受害者被强迫堕胎后可能部分获得医疗报销，但行政审批和拒绝仍阻碍实际获益。",
+          "hausse": false
+        },
+        {
+          "secteur_fr": "Fonds européens pour l’égalité (budgets alloués aux associations féministes)",
+          "secteur_en": "European equality funds (budgets allocated to feminist organizations)",
+          "secteur_zh": "欧盟平等基金（分配给女性主义组织的预算）",
+          "effet_fr": "Les financements européens pourraient augmenter pour soutenir les campagnes contre les violences conjugales, mais leur répartition inégale entre États membres freine l’impact global.",
+          "effet_en": "European funding may rise to support campaigns against domestic violence, but uneven distribution among member states limits overall impact.",
+          "effet_zh": "欧盟资金可能增加用于反家暴运动，但各国分配不均影响整体效果。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-29T17:42:57.950679",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_101390",
+      "titre": "Pesticides : l’UE face à revers",
+      "titre_en": "Pesticides: EU faces setback",
+      "titre_zh": "农药法规遭遇倒退风险",
+      "titre_ru": "La dangereuse marche arrière sur les pesticides: \"L’Europe doit harmoniser les règles\"",
+      "titre_fa": "La dangereuse marche arrière sur les pesticides: \"L’Europe doit harmoniser les règles\"",
+      "titre_ar": "La dangereuse marche arrière sur les pesticides: \"L’Europe doit harmoniser les règles\"",
+      "titre_original": "La dangereuse marche arrière sur les pesticides: \"L’Europe doit harmoniser les règles\"",
+      "resume": "L’Union européenne pourrait réautoriser des substances pesticides interdites, selon des experts comme Yvan Verougstraete, ce qui soulève des craintes écologiques et sanitaires majeures. Cette marche arrière s’inscrit dans un contexte de pression des lobbies agricoles et de divisions politiques au sein des institutions européennes. Les défenseurs de l’environnement dénoncent un affaiblissement des normes environnementales.",
+      "resume_en": "The European Union may reauthorize banned pesticide substances, according to experts like Yvan Verougstraete, raising major ecological and health concerns. This reversal reflects pressure from agricultural lobbies and political divisions within EU institutions. Environmental advocates warn of weakened environmental standards.",
+      "resume_zh": "欧盟可能重新批准被禁农药，专家如伊凡·韦鲁格斯特雷特警告，这引发生态和健康严重担忧。此举反映了农业利益集团的压力和欧盟内部政治分歧。环保人士警告环保标准可能被削弱。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La régulation des pesticides en Europe a connu des avancées majeures depuis les années 1990, avec des interdictions ciblées pour protéger la biodiversité et la santé publique. Cependant, les lobbies agrochimiques et les États membres dépendants de l’agriculture intensive freinent souvent les décisions strictes, comme en témoigne le dossier du glyphosate. À court terme, une réautorisation accélérerait l’exposition aux perturbateurs endocriniens et aggraverait la pollution des sols et des nappes phréatiques. À moyen terme, cela pourrait entraîner une baisse de la qualité des denrées alimentaires et une pression accrue sur les systèmes de santé. Long terme, sans cadre contraignant, la transition vers une agriculture durable serait compromise, au profit d’un modèle productiviste coûteux en termes environnementaux. Les ONG environnementales et les scientifiques s’opposent farouchement, tandis que les gouvernements agricoles (comme en France) adoptent une position pragmatique, privilégiant l’économie à court terme.",
+      "analyse_en": "European pesticide regulation has made significant progress since the 1990s, with targeted bans to protect biodiversity and public health. However, agrochemical lobbies and member states dependent on intensive agriculture often block strict decisions, as seen in the glyphosate case. Short-term, reauthorization would accelerate exposure to endocrine disruptors and worsen soil and groundwater pollution. Medium-term, this could lead to lower food quality and increased pressure on healthcare systems. Long-term, without binding frameworks, the transition to sustainable agriculture would be jeopardized in favor of an environmentally costly intensive model. Environmental NGOs and scientists strongly oppose this, while agricultural governments (like France) adopt a short-term economic pragmatism.",
+      "analyse_zh": "欧盟农药法规自上世纪90年代以来取得显著进展，通过禁令保护生物多样性和公共健康。但农药行业利益集团和依赖集约农业的成员国经常阻挠严格措施，如除草剂甘氨酸案例所示。短期内，重新批准会加速内分泌干扰物暴露，加剧土壤和地下水污染。中期内，这可能导致食品质量下降和对医疗系统的压力增加。长期来看，没有约束性框架，向可持续农业转型将受到威胁，而集约化模式在环境成本上更高。环保组织和科学家坚决反对，但农业主导政府（如法国）则更注重短期经济利益。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement et santé publique",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/actu/economie/2026/09/28/la-dangereuse-marche-arriere-sur-les-pesticides-leurope-doit-harmoniser-les-regles-SM6TZGCQYZGHRBHC2HXTLDIAYM/",
+      "image": "https://www.dhnet.be/resizer/v2/LENLETECONA7HKENOHOB5AIXII.jpg?auth=f3420b5facf87ac561c29bfa03956748cb064f2e86388313757c82a718df10f3&width=1200&height=630&quality=85&focal=3000%2C2000",
+      "date": "2026-09-28",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole (coûts des indemnisations environnementales)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des biotechnologies (innovations alternatives)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole (coûts des indemnisations environnementales)",
+          "secteur_en": "Agricultural insurance (environmental compensation costs)",
+          "secteur_zh": "农业保险（环境赔偿成本）",
+          "effet_fr": "Les assurances agricoles pourraient voir leurs coûts augmenter en cas de pollution accrue due aux pesticides réautorisés, avec des répercussions sur les primes des exploitants.",
+          "effet_en": "Agricultural insurers may face higher costs due to increased pollution from reauthorized pesticides, affecting farmers’ premiums.",
+          "effet_zh": "农业保险因重新批准农药导致污染加剧，可能增加成本，影响农民保费。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des biotechnologies (innovations alternatives)",
+          "secteur_en": "Biotechnology market (alternative innovations)",
+          "secteur_zh": "生物技术市场（替代创新）",
+          "effet_fr": "Un recul des normes pesticides pourrait stimuler les investissements dans des solutions biologiques ou génétiques, dynamisant ce secteur en pleine croissance.",
+          "effet_en": "A rollback in pesticide regulations could spur investments in biological or genetic solutions, boosting this fast-growing sector.",
+          "effet_zh": "农药法规倒退可能刺激对生物或基因解决方案的投资，推动这一高速增长的行业。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-29T17:42:57.950702",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_enfants_460596",
+      "titre": "Val-de-Marne : 7 500 agents en grève",
+      "titre_en": "Val-de-Marne: 7,500 agents on strike",
+      "titre_zh": "瓦兹-德-弗朗斯：7500名员工罢工",
+      "titre_ru": "INFO RADIO FRANCE. Une plainte au pénal déposée au nom des 7 500 agents du conseil départemental du Val-de-Marne pour harcèlement moral institutionnel",
+      "titre_fa": "INFO RADIO FRANCE. Une plainte au pénal déposée au nom des 7 500 agents du conseil départemental du Val-de-Marne pour harcèlement moral institutionnel",
+      "titre_ar": "INFO RADIO FRANCE. Une plainte au pénal déposée au nom des 7 500 agents du conseil départemental du Val-de-Marne pour harcèlement moral institutionnel",
+      "titre_original": "INFO RADIO FRANCE. Une plainte au pénal déposée au nom des 7 500 agents du conseil départemental du Val-de-Marne pour harcèlement moral institutionnel",
+      "resume": "Plus de 7 500 agents du conseil départemental du Val-de-Marne ont déposé plainte pour harcèlement moral institutionnel, après avoir épuisé tous les recours internes. Ces travailleurs, chargés de crèches, collèges, protection de l’enfance ou RSA, dénoncent un climat toxique et une gestion défaillante. Cette mobilisation sans précédent révèle les tensions structurelles dans les collectivités territoriales.",
+      "resume_en": "Over 7,500 employees of the Val-de-Marne departmental council have filed criminal complaints for institutional moral harassment, after exhausting all internal appeals. These workers, responsible for daycare centers, high schools, child protection, or RSA benefits, denounce a toxic climate and failing management. This unprecedented mobilization highlights structural tensions in local authorities.",
+      "resume_zh": "瓦兹-德-弗朗斯省议会7500多名员工因内部申诉枯竭，已对机构性骚扰提起刑事诉讼。这些负责托儿所、中学、儿童保护或最低生活保障的员工揭露恶劣氛围和管理失效。此次前所未有的行动暴露了地方政府的结构性紧张。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Le harcèlement moral dans les collectivités territoriales est un phénomène récurrent, souvent lié à des réformes budgétaires austeres et à une précarisation des agents publics. Le Val-de-Marne, département dense et aux besoins sociaux élevés, concentre des tensions accrues entre objectifs politiques et moyens humains. À court terme, cette plainte collective pourrait entraîner des audits internes et des sanctions contre les responsables, mais sans réforme globale du secteur public, les causes profondes (sous-financement, turnover élevé) persisteront. À moyen terme, cela pourrait aggraver la crise de recrutement et la désaffection des métiers sociaux, déjà en difficulté. Long terme, sans changement structurel (revalorisation salariale, réduction des effectifs), le système risque de s’effondrer sous la pression des agents et des usagers. Les syndicats (comme la CGT ou FO) appellent à une médiation nationale, tandis que l’État, sous pression, pourrait proposer des mesures ponctuelles sans aborder les racines du problème.",
+      "analyse_en": "Moral harassment in local authorities is a recurring issue, often linked to austerity budget reforms and the precarization of public employees. Val-de-Marne, a densely populated department with high social needs, faces heightened tensions between political goals and human resources. Short-term, this collective complaint could trigger internal audits and sanctions against responsible parties, but without a global reform of the public sector, root causes (underfunding, high turnover) will persist. Medium-term, this could worsen the recruitment crisis and the disaffection for social professions, already struggling. Long-term, without structural change (salary revaluation, workforce reduction), the system risks collapsing under the pressure of both employees and users. Unions (like CGT or FO) call for national mediation, while the state, under pressure, may offer temporary measures without addressing the core issues.",
+      "analyse_zh": "地方政府中的职场骚扰是一个反复出现的问题，通常与紧缩预算改革和公务员非正规化雇佣相关。瓦兹-德-弗朗斯省人口密集且社会需求高，政治目标与人力资源之间的紧张关系更为突出。短期内，这一集体诉讼可能引发内部审计和对责任人员的处罚，但没有公共部门的全面改革，根本原因（资金不足、高流动率）将持续存在。中期内，这可能加剧招聘危机和社会行业的士气下降，这些行业已经面临困难。长期来看，没有结构性改革（工资重估、人员精简），该系统可能在员工和用户的双重压力下崩溃。工会（如CGT或FO）呼吁国家调解，而政府在压力下可能提出临时措施，而非解决核心问题。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Administration publique et relations sociales",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/economie/emploi/recherche-d-emploi/fonction-publique/info-radio-france-une-plainte-au-penal-deposee-au-nom-des-7-500-agents-du-conseil-departemental-du-val-de-marne-pour-harcelement-moral-institutionnel_8212802.html",
+      "image": "https://www.franceinfo.fr/pictures/3_L6Qf6RZnZGSfXdFMsQMI-VyzI/0x0:5472x3078/1500x843/2026/09/28/6ab9ec2c33142792817338.jpg",
+      "date": "2026-09-28",
+      "pays": "pol_enfants",
+      "badges": [
+        {
+          "label": "▲ Fonds de solidarité territoriale (budgets des départements)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité civile (coûts des litiges institutionnels)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Fonds de solidarité territoriale (budgets des départements)",
+          "secteur_en": "Territorial solidarity funds (departmental budgets)",
+          "secteur_zh": "地方团结基金（省级预算）",
+          "effet_fr": "Les départements pourraient voir leurs budgets alloués à la gestion des conflits sociaux augmenter, avec des répercussions sur les investissements dans les services publics essentiels.",
+          "effet_en": "Departments may see increased budgets allocated to social conflict management, affecting investments in essential public services.",
+          "effet_zh": "省级预算可能增加用于社会冲突管理的资金，影响对核心公共服务的投资。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité civile (coûts des litiges institutionnels)",
+          "secteur_en": "Civil liability insurance (costs of institutional lawsuits)",
+          "secteur_zh": "公民责任保险（机构诉讼成本）",
+          "effet_fr": "Les collectivités pourraient voir leurs primes d’assurance responsabilité civile augmenter en raison de l’accroissement des contentieux liés au harcèlement moral.",
+          "effet_en": "Local authorities may face higher civil liability insurance premiums due to increased lawsuits over moral harassment.",
+          "effet_zh": "地方政府可能因职场骚扰相关诉讼增加而面临民事责任保险费用上涨。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-09-29T17:42:57.950713",
+      "sous_categorie": "enfants"
+    },
+    {
       "id": "pol_femmes_315042",
       "titre": "Féminicide Cher : arrestation tardive",
       "titre_en": "Late arrest in Cher femicide",
@@ -6431,66 +6611,6 @@
         }
       ],
       "created_at": "2026-09-19T22:42:47.881705",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_821292",
-      "titre": "Féminicides au Cameroun : enquêtes bloquées",
-      "titre_en": "Cameroon femicides: stalled investigations",
-      "titre_zh": "喀麦隆女性被害案调查受阻",
-      "titre_ru": "- Féminicide au Cameroun : derrière chaque mort, un mystère à élucider",
-      "titre_fa": "- Féminicide au Cameroun : derrière chaque mort, un mystère à élucider",
-      "titre_ar": "- Féminicide au Cameroun : derrière chaque mort, un mystère à élucider",
-      "titre_original": "- Féminicide au Cameroun : derrière chaque mort, un mystère à élucider",
-      "resume": "Chaque féminicide au Cameroun cache des mécanismes sociaux et juridiques opaques, où les victimes sont souvent stigmatisées avant même l’enquête. Les familles peinent à obtenir justice face à un système judiciaire lent et corrompu. Les ONG dénoncent un manque criant de protection pour les femmes, malgré les lois existantes.",
-      "resume_en": "Each femicide in Cameroon hides opaque social and legal mechanisms, where victims are often stigmatized before investigations even begin. Families struggle for justice against a slow and corrupt judicial system. NGOs denounce a lack of protection for women, despite existing laws.",
-      "resume_zh": "喀麦隆每起女性被害案背后隐藏着模糊的社会和法律机制，受害者在调查开始前常遭受社会诽谤。家属在缓慢且腐败的司法体系中难以争取公正。尽管法律存在，NGO指责缺乏对女性的实际保护。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Le Cameroun, malgré son cadre juridique progressiste (comme la loi sur la violence à l’égard des femmes en 2016), souffre d’une application inégale et d’une culture patriarcale profondément ancrée. Les féminicides reflètent souvent des conflits familiaux ou communautaires non résolus, où la pression sociale pousse les survivantes au silence. Les enquêtes sont entravées par la corruption des policiers et magistrats, ainsi que par l’absence de sensibilisation des populations rurales. À court terme, l’impunité encourage la récidive et normalise la violence domestique. À moyen terme, le pays risque une crise sociale majeure si rien n’est fait pour réformer les institutions. Les ONG locales (comme le Réseau des Femmes pour les Droits Humains) appellent à une réforme judiciaire urgente et à des campagnes de sensibilisation massives.",
-      "analyse_en": "Cameroon, despite its progressive legal framework (like the 2016 law on violence against women), suffers from unequal enforcement and a deeply rooted patriarchal culture. Femicides often stem from unresolved family or community conflicts, where social pressure silences survivors. Investigations are hindered by police and judicial corruption, as well as a lack of rural awareness campaigns. Short-term, impunity fuels recidivism and normalizes domestic violence. Medium-term, the country risks a major social crisis if institutions aren’t reformed. Local NGOs (like the Women’s Rights Network) demand urgent judicial reform and large-scale awareness campaigns.",
-      "analyse_zh": "喀麦隆尽管拥有进步的法律框架（如2016年反家庭暴力法），但执行不均和深层次的男权文化根深蒂固。女性被害案常源于未解决的家庭或社区矛盾，社会压力迫使幸存者沉默。调查受到警察和法官腐败的阻碍，加上农村地区缺乏普及教育。短期内，无罪释放激化复仇行为，家庭暴力被正常化。中期内，若不改革机构，国家可能面临严重社会危机。当地NGO（如“女性人权网络”）呼吁紧急司法改革和大规模宣传活动。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Droits humains & Genre",
-      "source": "Camer.be",
-      "url": "https://www.camer.be/94792/30:27/feminicide-au-cameroun-derriere-chaque-mort-un-mystere-a-elucider.html",
-      "image": "https://www.camer.be/storage/photos/shares/Cameroun2/Femme-Battue100626500.webp",
-      "date": "2026-09-18",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▼ Assurance-crédit (secteur microfinance féminin)",
-          "hausse": false
-        },
-        {
-          "label": "▼ Assurance-vie (branche dépendance)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance-crédit (secteur microfinance féminin)",
-          "secteur_en": "Credit insurance (women’s microfinance sector)",
-          "secteur_zh": "",
-          "effet_fr": "Les femmes victimes de violences économiques (dépouillement, dettes forcées) voient leurs demandes de prêts refusées, limitant leur autonomie financière.",
-          "effet_en": "Women victims of economic violence (asset stripping, forced debt) face loan rejections, restricting their financial independence.",
-          "effet_zh": "遭受经济暴力（资产剥夺、强制债务）的女性难以获得贷款，限制了其财务自主权。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurance-vie (branche dépendance)",
-          "secteur_en": "Life insurance (dependency branch)",
-          "secteur_zh": "",
-          "effet_fr": "Les survivantes de féminicides ou de violences extrêmes pourraient voir leurs polices d’assurance annulées pour « risque aggravé », aggravant leur précarité.",
-          "effet_en": "Survivors of femicides or extreme violence may have their life insurance policies canceled for ‘increased risk’, worsening their precarity.",
-          "effet_zh": "女性被害或遭受极端暴力幸存者可能因「风险加重」而被取消人寿保险，加剧其贫困状况。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-19T10:23:19.502368",
       "sous_categorie": "femmes"
     },
     {
@@ -6794,66 +6914,6 @@
       "sous_categorie": "enfants"
     },
     {
-      "id": "pol_enfants_17829",
-      "titre": "Budget 2027 : 4,1 Md€ contre violences sexistes",
-      "titre_en": "2027 Budget: €4.1B for gender-based violence",
-      "titre_zh": "2027预算：41亿欧元反性别暴力",
-      "titre_ru": "Budget 2027: Sébastien Lecornu propose 1,5 milliard d'euros contre les violences sexistes et sexuelles et 2,6 milliards pour la protection de l'enfance",
-      "titre_fa": "Budget 2027: Sébastien Lecornu propose 1,5 milliard d'euros contre les violences sexistes et sexuelles et 2,6 milliards pour la protection de l'enfance",
-      "titre_ar": "Budget 2027: Sébastien Lecornu propose 1,5 milliard d'euros contre les violences sexistes et sexuelles et 2,6 milliards pour la protection de l'enfance",
-      "titre_original": "Budget 2027: Sébastien Lecornu propose 1,5 milliard d'euros contre les violences sexistes et sexuelles et 2,6 milliards pour la protection de l'enfance",
-      "resume": "Sébastien Lecornu, ministre de la Transition écologique, propose un budget record de 4,1 milliards d'euros dans le cadre de la loi « intégrale » contre les violences sexistes et sexuelles, incluant 1,5 milliard pour les enfants et 2,6 milliards pour leur protection. Cette annonce intervient après l’affaire Lyhanna, révélant l’ampleur des violences subies par les mineurs. Le texte vise à renforcer les dispositifs de prévention, de protection et de répression, mais soulève des questions sur son financement et son efficacité face à un phénomène structurel.",
-      "resume_en": "Sébastien Lecornu, France’s Ecology Minister, proposes a record €4.1 billion budget under the ‘comprehensive’ law against gender-based violence, allocating €1.5 billion for children and €2.6 billion for their protection. The move follows the Lyhanna case, exposing the scale of abuse suffered by minors. The bill aims to strengthen prevention, protection, and enforcement measures but raises concerns over funding sustainability and effectiveness against systemic issues.",
-      "resume_zh": "法国生态转型部长勒科尔纽提出2027年预算41亿欧元，用于“全面”反性别暴力法案，其中15亿欧元用于儿童保护，26亿欧元用于儿童福利。此举源于Lyhanna案件揭露的儿童遭受暴力的严重性。该法案旨在加强预防、保护和打击措施，但面临预算可持续性和应对根深蒂固问题的挑战。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France affronte depuis les années 2000 une crise des violences sexistes et sexuelles, avec des pics médiatisés comme l’affaire Outreau (2004) ou les révélations #MeToo (2017). Le budget 2027 reflète une volonté politique post-Lyhanna (2023) de prioriser la protection des enfants, mais son montant reste insuffisant face à l’ampleur du phénomène, estimé à 200 000 victimes mineures par an. Les causes profondes incluent l’impunité des agresseurs, les lacunes des systèmes judiciaires et sociaux, ainsi que le manque de formation des professionnels. À court terme, les associations saluent l’engagement financier, mais craignent une dilution des fonds dans des dispositifs inefficaces. À moyen terme, le risque est une bureaucratisation accrue sans réduction des violences, tandis que les experts appellent à une approche globale incluant l’éducation et la santé mentale. À long terme, l’efficacité dépendra de la coordination entre État, collectivités et société civile, avec un débat ouvert sur la décentralisation des budgets. Les partis de gauche soutiennent le projet, tandis que les conservateurs critiquent son coût et son manque de ciblage précis.",
-      "analyse_en": "France has grappled with gender-based violence since the 2000s, marked by high-profile cases like Outreau (2004) and the #MeToo revelations (2017). The 2027 budget follows the Lyhanna case (2023) and prioritizes child protection, but its €4.1B allocation remains inadequate against an estimated 200,000 minor victims annually. Root causes include impunity for perpetrators, judicial and social system gaps, and lack of professional training. Short-term, NGOs welcome the funding but fear inefficiency in fragmented programs. Medium-term risks include bureaucratic overload without violence reduction, while experts demand holistic approaches including education and mental health. Long-term success hinges on state-local-society coordination, with ongoing debates on decentralized budgets. Left-wing parties back the proposal, while conservatives criticize its cost and lack of precision.",
-      "analyse_zh": "法国自20世纪20年代以来一直面临性别暴力问题，如2004年的Outreau案和2017年的#MeToo运动曝光。2027年预算在Lyhanna案（2023年）后提出，重点保护儿童，但410亿欧元规模仍难以应对每年20万名儿童受害者的现实。深层原因包括加害者逍遥法外、司法和社会体系漏洞，以及专业人员缺乏培训。短期内，非政府组织欢迎资金投入，但担心资金分散导致效率低下。中期风险包括行政繁琐但暴力未减，专家呼吁全面解决方案，包括教育和心理健康。长期效果取决于国家、地方和社会的协同，同时存在预算分权的争议。左翼政党支持该提案，而保守派则批评成本过高且缺乏精准性。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Société",
-      "source": "BFMTV",
-      "url": "https://www.bfmtv.com/politique/gouvernement/budget-2027-sebastien-lecornu-propose-1-5-milliard-d-euros-contre-les-violences-sexistes-et-sexuelles-et-2-6-milliards-pour-la-protection-de-l-enfance_AN-202609150579.html",
-      "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/fcpnVjcZKdLttxnjbS0MXLeGERY=/0x11:2048x1163/2048x0/images/Sebastien-Lecornu-a-Vernon-le-4-aout-2026-2345929.jpg",
-      "date": "2026-09-15",
-      "pays": "pol_enfants",
-      "badges": [
-        {
-          "label": "▲ Fonds sociaux et d’insertion (protection de l’enfance)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Sécurité publique et justice (renforcement des peines)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Fonds sociaux et d’insertion (protection de l’enfance)",
-          "secteur_en": "Social and reintegration funds (child protection)",
-          "secteur_zh": "社会福利与就业基金（儿童保护）",
-          "effet_fr": "Ce secteur verra une augmentation massive des financements dédiés à la prévention et à la prise en charge des victimes, mais risque de saturation des structures existantes.",
-          "effet_en": "This sector will experience a significant boost in funding for prevention and victim support, but may face overloading of existing structures.",
-          "effet_zh": "该领域将获得大幅资金增加用于预防和受害者救助，但现有机构可能面临超负荷运转的风险。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Sécurité publique et justice (renforcement des peines)",
-          "secteur_en": "Public security and justice (enhanced penalties)",
-          "secteur_zh": "公共安全与司法（加强刑罚）",
-          "effet_fr": "Les budgets alloués à la police judiciaire et aux tribunaux pour enfants devraient croître, mais leur efficacité dépendra de la rapidité des réformes judiciaires en cours.",
-          "effet_en": "Funding for judicial police and youth courts will likely increase, but effectiveness hinges on the pace of ongoing judicial reforms.",
-          "effet_zh": "警方和少年法庭的预算可能增加，但其效果取决于正在进行的司法改革的速度。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-17T05:47:24.647891",
-      "sous_categorie": "enfants"
-    },
-    {
       "id": "pol_env_456256",
       "titre": "PFAS dans l’eau : danger non réglementé",
       "titre_en": "PFAS in tap water: unregulated threat",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-09-21T13:40:34.881846",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_987926",
-      "titre": "Pesticides : 25 cancers pédiatriques en 15 km",
-      "titre_en": "Pesticides linked to 25 pediatric cancers in 15km",
-      "titre_zh": "农药致15公里内25例儿童癌症",
-      "titre_ru": "Пестициды: когда в радиусе 15 км выявляют 25 детских раков, случайность не объясняет всё",
-      "titre_fa": "آفت‌کش‌ها: وقتی در شعاع 15 کیلومتر 25 سرطان کودکان تشخیص داده می‌شود، نمی‌توان همه را به تصادف نسبت داد",
-      "titre_ar": "المبيدات: عندما يتم اكتشاف 25 سرطانًا للأطفال في دائرة نصف قطرها 15 كيلومترًا، لا يمكن تفسير كل شيء بالصدفة",
-      "titre_original": "Pesticides : « Quand on relève 25 cancers pédiatriques dans un rayon de 15 km, on ne peut pas tout expliquer par le hasard »",
-      "resume": "Une bande dessinée révèle l’augmentation alarmante de cancers pédiatriques à Sainte-Pazanne (Loire-Atlantique), où 25 cas ont été recensés dans un rayon de 15 km. La toxicologue Laurence Huc y dénonce les liens entre l’exposition aux pesticides et cette épidémie silencieuse. Les familles touchées dénoncent un manque de transparence et de mesures urgentes.",
-      "resume_en": "A comic book exposes a worrying spike in pediatric cancers in Sainte-Pazanne, Loire-Atlantique, where 25 cases were recorded within a 15km radius. Toxicologist Laurence Huc links this outbreak to pesticide exposure, while affected families accuse authorities of opacity and delayed action.",
-      "resume_zh": "漫画揭露法国洛尔-阿特兰蒂克省圣帕桑镇15公里范围内25例儿童癌症激增，毒理学家拉伦斯·吕克将其与农药暴露相关联。受害家庭指责当局缺乏透明度和紧急措施。",
-      "resume_ru": "В комиксе «Пестициды: их разрушительное воздействие на здоровье детей» токсиколог Лоранс Ок рассказывает о борьбе семей из Сен-Пазанна, небольшого городка в департаменте Луара-Атлантик. Здесь зафиксировано аномально высокое количество детских онкологических заболеваний. Автор подчеркивает прямую связь между применением пестицидов и ростом заболеваемости у детей.",
-      "resume_fa": "در کتاب کمیک «آفت‌کش‌ها: آسیب‌های آن به سلامت کودکان»، توکسیکولوژیست لورانس اوک داستان مبارزه خانواده‌هایی از شهر سنت‌پازان در لوآر-آتلانتیک را روایت می‌کند. در این منطقه، تعداد غیرعادی سرطان‌های کودکان تشخیص داده شده‌است. نویسنده ارتباط مستقیم بین استفاده از آفت‌کش‌ها و افزایش بیماری‌های کودکان را برجسته می‌کند.",
-      "resume_ar": "في الكوميك «المبيدات: أضرارها على صحة الأطفال»، تشرح التوكسيكولوجي لورانس أوك قصة معركة العائلات في مدينة سانت-بازان في لوآر-أتلانتيك. تم اكتشاف عدد غير طبيعي من سرطانات الأطفال في المنطقة. المؤلف يبرز الارتباط المباشر بين استخدام المبيدات والزيادة في أمراض الأطفال.",
-      "analyse_detaillee": "Ce phénomène s’inscrit dans une tendance plus large de hausse des cancers pédiatriques en zones agricoles, documentée depuis les années 1990. Les pesticides, autorisés malgré des études controversées, sont pointés comme cause majeure, aggravée par des pratiques agricoles intensives et un manque de régulation. Les conséquences immédiates incluent une souffrance familiale et une méfiance accrue envers les institutions. À moyen terme, cela pourrait exacerber les conflits socio-environnementaux et renforcer les mouvements écologistes. Long terme, une crise sanitaire majeure est envisageable si rien n’est fait. Les associations de santé et les scientifiques appellent à des audits indépendants, tandis que les lobbies agricoles résistent aux restrictions.",
-      "analyse_en": "This issue reflects a broader trend of rising pediatric cancers in agricultural areas, documented since the 1990s. Pesticides, approved despite controversial studies, are the primary suspect, worsened by intensive farming and weak regulation. Immediate effects include family suffering and growing distrust of authorities. Medium-term, this could intensify socio-environmental conflicts and strengthen environmental movements. Long-term, a major health crisis is possible without intervention. Health associations and scientists demand independent audits, while agricultural lobbies resist restrictions.",
-      "analyse_zh": "此现象反映了自上世纪90年代以来农业区儿童癌症上升趋势。尽管研究存在争议，农药被指为主要原因，加剧了强度农业和监管不足。短期影响包括家庭痛苦和对当局的不信任。中期可能加剧社会环境冲突并增强生态运动力量。长期若无措施，可能引发严重健康危机。健康组织和科学家要求独立审计，而农业利益集团则抵制限制。",
-      "analyse_ru": "Контекст проблемы заключается в том, что в Сен-Пазанне за последние годы зафиксировано 25 случая детских онкозаболеваний на площади всего 15 квадратных километров — это в десятки раз выше среднестатистических показателей. Причины, по мнению экспертов, кроются в интенсивном сельскохозяйственном производстве, где пестициды используются без достаточного контроля. Последствия для местных жителей включают не только рост заболеваемости, но и социальное недоверие к властям и аграрным компаниям. Перспективы изменения ситуации зависят от принятия строгих экологических норм и прозрачной информации для населения. Позиции сторон разделились: фермеры утверждают, что пестициды необходимы для урожайности, тогда как экологи и родики требуют немедленных мер по снижению химического загрязнения.",
-      "analyse_fa": "زمینه این مشکل در این است که در سنت‌پازان در سال‌های اخیر، 25 مورد سرطان کودکان در یک منطقه 15 کیلومتری تشخیص داده شده که بسیار بالاتر از میانگین است. علل، بر اساس نظر متخصصان، در تولید کشاورزی شدید و استفاده از آفت‌کش‌ها بدون کنترل کافی نهفته‌است. پیامدهای این مسئله برای ساکنان شامل افزایش بیماری‌ها و عدم اعتماد اجتماعی به مقامات و شرکت‌های کشاورزی است. چشم‌انداز تغییر وضعیت به تصویب قوانین زیست‌محیطی سخت‌گیرانه و ارائه اطلاعات شفاف به مردم بستگی دارد. مواضع بازیگران متفاوت است: کشاورزان ادعا می‌کنند که آفت‌کش‌ها برای افزایش محصولات ضروری هستند، در حالی که اکولوژیست‌ها و والدین از اقدامات فوری برای کاهش آلودگی شیمیایی می‌خواهند.",
-      "analyse_ar": "السياق هنا يتعلق بارتفاع غير طبيعي في عدد سرطانات الأطفال في سانت-بازان خلال السنوات الأخيرة، حيث تم اكتشاف 25 حالة في دائرة نصف قطرها 15 كيلومترًا. الأسباب، حسبما يقول الخبراء، تكمن في الإنتاج الزراعي الشديد واستخدام المبيدات دون رقابة كافية. العواقب على السكان تشمل زيادة معدلات الإصابة و عدم الثقة الاجتماعية بالسلطات والشركات الزراعية. آفاق التغيير تعتمد على اعتماد قوانين بيئية صارمة وتوفير معلومات شفافة للمواطنين. مواقف الأطراف متضاربة: حيث يدعي المزارعون أن المبيدات ضرورية للحصاد، بينما تطالب البيئة والدفاعيون عن حقوق الأطفال باجراء إجراءات فورية لتقليل التلوث الكيميائي.",
-      "categorie": "Environnement/Santé publique",
-      "source": "L'Obs",
-      "url": "https://www.nouvelobs.com/economie/20260919.OBS118402/pesticides-quand-on-releve-25-cancers-pediatriques-dans-un-rayon-de-15-km-on-ne-peut-pas-tout-expliquer-par-le-hasard.html",
-      "image": "https://focus.nouvelobs.com/2026/09/16/87/0/1440/960/1200/800/0/0/e1db5e2_upload-1-tg4yfhppjvqb-laurence-huc-2-ce-cile-humenny.jpg",
-      "date": "2026-09-19",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance maladie (branche santé)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurance responsabilité civile (agriculteurs)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance maladie (branche santé)",
-          "secteur_en": "Health branch of National Health Insurance",
-          "secteur_zh": "法国国家医疗保险健康保障部门",
-          "effet_fr": "Les coûts des traitements onéreux et des indemnisations pourraient exploser, mettant en péril la soutenabilité financière du système.",
-          "effet_en": "The costs of expensive treatments and compensation claims may surge, threatening the financial sustainability of the healthcare system.",
-          "effet_zh": "昂贵治疗和赔偿成本可能激增，威胁医疗保障体系的财政可持续性。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurance responsabilité civile (agriculteurs)",
-          "secteur_en": "Agricultural liability insurance",
-          "secteur_zh": "农民责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de risques accrus de poursuites judiciaires liées aux pesticides.",
-          "effet_en": "Premiums may rise due to higher legal risks associated with pesticide use.",
-          "effet_zh": "由于农药相关法律风险增加，保费可能上涨。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-20T18:00:07.101820",
       "sous_categorie": "environnement"
     }
   ]
