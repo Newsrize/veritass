@@ -1,7 +1,66 @@
 {
-  "last_updated": "30/09/2026 à 23h31",
+  "last_updated": "01/10/2026 à 04h17",
   "articles": {
     "monde": [
+      {
+        "id": "monde_909351",
+        "titre": "Nouvelle espèce de manchot découverte après 100 ans",
+        "titre_en": "New penguin species discovered after 100 years",
+        "titre_zh": "百年新发现：新物种企鹅确认",
+        "titre_ru": "Look-alike, but not the same: Scientists name first new penguin species in over 100 years",
+        "titre_fa": "Look-alike, but not the same: Scientists name first new penguin species in over 100 years",
+        "titre_ar": "Look-alike, but not the same: Scientists name first new penguin species in over 100 years",
+        "titre_original": "Look-alike, but not the same: Scientists name first new penguin species in over 100 years",
+        "resume": "Des scientifiques ont identifié *Pygoscelis kerguelensis*, une quatrième espèce de manchot de Gentoo, grâce à des études génétiques. Cette découverte, basée sur des échantillons de l’océan Indien sud, redéfinit la taxonomie des manchots. Les implications écologiques et évolutives de cette espèce restent à explorer en détail.",
+        "resume_en": "Scientists identified *Pygoscelis kerguelensis*, a fourth species of gentoo penguin, using genetic studies from the southern Indian Ocean. This discovery redefines penguin taxonomy. Ecological and evolutionary implications of this species are yet to be fully explored.",
+        "resume_zh": "科学家通过南印度洋的基因研究确认了第四种企鹅物种*Pygoscelis kerguelensis*，即第四种金头企鹅。这一发现重新定义了企鹅的分类学。该物种的生态和进化影响有待进一步探索。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette découverte s’inscrit dans une tradition scientifique de classification des espèces, mais marque une rupture avec les modèles taxonomiques préexistants. Les enjeux incluent la préservation des écosystèmes marins et la compréhension des mécanismes d’isolement reproductif. Les causes profondes résident dans l’évolution adaptative des populations isolées par les courants océaniques. À court terme, cette espèce pourrait bénéficier de protections accrues via des zones marines protégées. À moyen terme, les recherches pourraient révéler des interactions clés avec d’autres espèces. Long terme, cette découverte pourrait inspirer des modèles de conservation innovants. Les acteurs clés sont les ONG environnementales, les gouvernements antarctiques et les institutions scientifiques internationales comme l’UICN.",
+        "analyse_en": "This discovery aligns with scientific tradition but breaks prior taxonomic models. Key stakes involve marine ecosystem preservation and understanding reproductive isolation mechanisms. Root causes lie in adaptive evolution of populations isolated by ocean currents. Short-term, this species may gain stronger protections via marine reserves. Medium-term, research could uncover key interactions with other species. Long-term, this discovery may inspire innovative conservation models. Key actors include environmental NGOs, Antarctic governments, and international bodies like IUCN.",
+        "analyse_zh": "这一发现符合科学分类传统，但打破了现有的分类模式。主要影响包括海洋生态系统保护和繁殖隔离机制的理解。深层原因在于由洋流隔离的种群适应性进化。短期内，该物种可能获得更强的海洋保护区保护。中期内，研究可能揭示与其他物种的关键相互作用。长期来看，这一发现可能启发创新的保护模式。关键利益相关者包括环保组织、南极政府和国际机构如IUCN。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/look-alike-but-not-the-same-scientists-name-first-new-penguin-species-in-over-100-years/articleshow/134581100.cms",
+        "image": "https://img.etimg.com/thumb/msid-134581138,width-1200,height-630,imgsize-188602,overlay-economictimes/articleshow.jpg",
+        "date": "2026-09-30",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Financement de la recherche scientifique",
+            "hausse": true
+          },
+          {
+            "label": "▲ Tourisme écologique en Antarctique",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Financement de la recherche scientifique",
+            "secteur_en": "Scientific research funding",
+            "secteur_zh": "科学研究资金",
+            "effet_fr": "Cette découverte pourrait attirer des fonds supplémentaires pour les études sur la biodiversité marine, notamment via des subventions dédiées à la taxonomie.",
+            "effet_en": "This discovery may attract additional funding for marine biodiversity research, particularly for taxonomy-focused grants.",
+            "effet_zh": "这一发现可能吸引更多资金用于海洋生物多样性研究，特别是专注于分类学的项目。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Tourisme écologique en Antarctique",
+            "secteur_en": "Ecological tourism in Antarctica",
+            "secteur_zh": "南极生态旅游",
+            "effet_fr": "La découverte d’une nouvelle espèce pourrait stimuler l’intérêt pour les expéditions scientifiques et touristiques, mais aussi exiger des réglementations plus strictes pour limiter les impacts environnementaux.",
+            "effet_en": "The discovery of a new species may boost interest in scientific and ecological tourism expeditions, but also require stricter regulations to limit environmental impacts.",
+            "effet_zh": "新物种的发现可能刺激科学和生态旅游的兴趣，但也需要更严格的法规来限制环境影响。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-01T04:16:24.870613"
+      },
       {
         "id": "monde_863301",
         "titre": "Rangers libèrent Sheary et réduisent effectif",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-23T22:05:48.858367"
-      },
-      {
-        "id": "monde_748428",
-        "titre": "NCERT lance manuels scolaires 2026-27 pour le 9e",
-        "titre_en": "NCERT releases 2026-27 Grade 9 textbooks",
-        "titre_zh": "印度教科书局发布2026-27九年级教材",
-        "titre_ru": "NCERT выпустит новые учебники для 9 класса с сентября",
-        "titre_fa": "نشر کتاب‌های جدید ریاضی و علوم اجتماعی کلاس نهم توسط NCERT از ۳۰ سپتامبر",
-        "titre_ar": "نشر NCERT لكتب الرياضيات والعلوم الاجتماعية للصف التاسع من سبتمبر",
-        "titre_original": "NCERT releases new Grade 9 Maths textbook; Social Science book to be available from September 30",
-        "resume": "L’Institut national de recherche et de formation pour les enseignants (NCERT) a annoncé la sortie de deux nouveaux manuels pour l’année scolaire 2026-27. Le manuel de mathématiques *Ganita Manjari – Part 2* est disponible dès le 21 septembre, tandis que le manuel de sciences sociales sera accessible à partir du 30 septembre. Ces publications visent à moderniser le curriculum national en Inde.",
-        "resume_en": "The National Council of Educational Research and Training (NCERT) announced the release schedule for two new Grade 9 textbooks for the 2026-27 academic session. The Mathematics book *Ganita Manjari – Part 2* is available from September 21, with the Social Science book set for September 30. These updates aim to align with evolving educational standards in India.",
-        "resume_zh": "印度教科书局宣布2026-27学年九年级两本教材的发布计划。数学教材《数学宝库第二部分》已于9月21日起上市，社会科学教材将于9月30日起可用。此举旨在更新印度国家课程标准。",
-        "resume_ru": "Министерство образования Индии (NCERT) объявило о дате выхода двух новых учебников для 9 класса на учебный год 2026–2027. Учебник математики «Ганита Манджари – Часть 2» доступен с 21 сентября, а учебник социальных наук — с 30 сентября. Это часть обновления образовательных стандартов для школьников.",
-        "resume_fa": "NCERT تاریخ انتشار دو کتاب جدید درسی برای کلاس نهم در سال تحصیلی ۲۰۲۶–۲۰۲۷ را اعلام کرد. کتاب ریاضی «گنیتا منجری – قسمت دوم» از ۲۱ سپتامبر و کتاب علوم اجتماعی از ۳۰ سپتامبر در دسترس خواهد بود. این اقدام بخشی از به‌روزرسانی برنامه درسی برای دانش‌آموزان است.",
-        "resume_ar": "أعلنت منظمة التعليم الوطني في الهند (NCERT) عن تاريخ إصدار كتابين جديدين للصف التاسع في العام الدراسي 2026–2027. سيصبح كتاب الرياضيات «جانيتا مانجاري – الجزء الثاني» متاحًا من 21 سبتمبر، بينما سيصبح كتاب العلوم الاجتماعية متاحًا من 30 سبتمبر. هذه الخطوة جزء من تحديث المناهج الدراسية للطلاب.",
-        "analyse_detaillee": "L’Inde traverse une réforme éducative progressive depuis les années 2000, avec une accentuation sur l’inclusion numérique et les compétences STEM. Ces manuels reflètent une volonté de réduire les disparités régionales en standardisant les contenus pédagogiques, tout en intégrant des approches collaboratives. À court terme, leur adoption pourrait améliorer les résultats scolaires, mais leur coût et la formation des enseignants restent des défis majeurs. À moyen terme, cela pourrait influencer les politiques éducatives des États fédérés, tandis qu’à long terme, l’Inde vise à positionner son système comme un modèle en Asie du Sud. Le gouvernement central et les États coopèrent, mais les critiques soulignent un manque de consultation avec les experts locaux.",
-        "analyse_en": "India has been undergoing gradual educational reforms since the 2000s, with a focus on digital inclusion and STEM skills. These textbooks reflect efforts to reduce regional disparities by standardizing curricula while incorporating collaborative approaches. Short-term, their adoption may improve academic outcomes, but cost and teacher training remain critical challenges. Medium-term, this could shape state-level education policies, while long-term goals position India’s system as a regional model. Central and state governments collaborate, though critics highlight insufficient local expert consultation.",
-        "analyse_zh": "印度自20世纪以来逐步推进教育改革，重点包括数字包容性和STEM能力培养。新教材旨在通过标准化课程内容减少地区差异，同时融入协作式学习方法。短期内，教材采用可能提升学术成绩，但成本和教师培训仍是主要挑战。中期内，这将影响各邦的教育政策，长期目标是将印度教育体系打造成亚洲南部的典范。中央政府与各邦合作，但批评者指出缺乏对地方专家的充分咨询。",
-        "analyse_ru": "Обновление учебников для 9 класса отражает стремление индийского правительства к модернизации образования, особенно в условиях роста конкуренции на глобальном рынке труда. Новые материалы могут акцентировать внимание на практических навыках и современных технологиях, что важно для подготовки будущих специалистов. Однако, возможны сопротивление учителей и родителей, привыкших к традиционным подходам. Также это шаг к унификации образовательных стандартов по всей стране, что может снизить региональные различия в качестве образования. В долгосрочной перспективе такие изменения могут повысить конкурентоспособность индийских выпускников на международном уровне, но требуют значительных ресурсов для переподготовки педагогов.",
-        "analyse_fa": "به‌روزرسانی کتاب‌های درسی کلاس نهم نشان‌دهنده تلاش دولت هند برای مدرنیزه کردن سیستم آموزشی، به‌ویژه در شرایط رقابت جهانی در بازار کار است. محتوای جدید ممکن است تمرکز بیشتری بر مهارت‌های عملی و فناوری‌های مدرن داشته باشد، که برای آماده‌سازی متخصصان آینده ضروری است. با این حال، ممکن است معلمان و والدین که به روش‌های سنتی عادت کرده‌اند، مقاومت نشان دهند. این اقدام همچنین گام مهمی در یکپارچه‌سازی استانداردهای آموزشی در سراسر کشور است که می‌تواند تفاوت‌های منطقه‌ای در کیفیت آموزش را کاهش دهد. در بلندمدت، چنین تغییراتی می‌تواند توانایی رقابت دانش‌آموزان هند در سطح بین‌المللی را افزایش دهد، اما نیاز به منابع قابل توجهی برای آموزش مجدد معلمان دارد.",
-        "analyse_ar": "تحديث الكتب الدراسية للصف التاسع يعكس جهود الحكومة الهندية لتحديث النظام التعليمي، خاصة في ظل زيادة التنافس على سوق العمل العالمي. قد يركز المحتوى الجديد أكثر على المهارات العملية والتكنولوجيا الحديثة، مما هو ضروري لتدريب المتخصصين المستقبليين. ومع ذلك، قد يواجه هذا التغيير مقاومة من المعلمين والأهل الذين اعتادوا على الأساليب التقليدية. هذا الخطوة أيضًا خطوة مهمة نحو توحيد المعايير التعليمية عبر البلاد، مما قد يقلل من الفروقات الإقليمية في جودة التعليم. على المدى الطويل، قد يزيد هذا التحديث من قدرة الطلاب الهنديين على المنافسة على المستوى الدولي، ولكن يتطلب موارد كبيرة لتدريب المعلمين مرة أخرى.",
-        "categorie": "Éducation",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/ncert-releases-new-grade-9-maths-textbook-social-science-book-to-be-available-from-september-30/articleshow/134402170.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134402363,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-22",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Édition et distribution de manuels scolaires",
-            "hausse": true
-          },
-          {
-            "label": "▼ Financement des infrastructures éducatives publiques",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Édition et distribution de manuels scolaires",
-            "secteur_en": "School textbook publishing and distribution",
-            "secteur_zh": "教材出版与发行行业",
-            "effet_fr": "L’arrivée de ces manuels pourrait dynamiser le marché de l’édition éducative en Inde, avec une demande accrue pour les ressources numériques complémentaires.",
-            "effet_en": "The release of these textbooks may boost India’s educational publishing market, increasing demand for complementary digital resources.",
-            "effet_zh": "新教材的推出可能刺激印度教育出版市场，增加对数字辅助资源的需求。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Financement des infrastructures éducatives publiques",
-            "secteur_en": "Public educational infrastructure funding",
-            "secteur_zh": "公共教育基础设施投资",
-            "effet_fr": "Les coûts liés à l’impression et à la distribution pourraient peser sur les budgets des États, nécessitant des réallocations budgétaires prioritaires.",
-            "effet_en": "Printing and distribution costs may strain state budgets, requiring reallocation of funds to education priorities.",
-            "effet_zh": "印刷和发行成本可能加重各邦预算压力，需要优先调整教育资金分配。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-23T04:36:48.571002"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_818934",
+        "titre": "Crowdfunding annuel sous tension après guerre Iran-Israël",
+        "titre_en": "Annual fundraiser strained by Iran-Israel war tensions",
+        "titre_zh": "伊朗-以色列战争阴影下年度募资面临压力",
+        "titre_ru": "Annual Fundraiser for Informed Comment under Shadow of Iran War",
+        "titre_fa": "Annual Fundraiser for Informed Comment under Shadow of Iran War",
+        "titre_ar": "Annual Fundraiser for Informed Comment under Shadow of Iran War",
+        "titre_original": "Annual Fundraiser for Informed Comment under Shadow of Iran War",
+        "resume": "Le fonds de *Informed Comment* dépend des dons pour couvrir les conflits en cours entre Israël et l’Iran, ainsi que les crises au Golfe et en mer Rouge. La guerre en cours alimente les tensions géopolitiques et les risques financiers pour les médias indépendants. Les appels à la solidarité visent à maintenir une couverture critique face aux dynamiques régionales.",
+        "resume_en": "The *Informed Comment* fundraiser relies on donations to cover ongoing conflicts between Israel and Iran, as well as crises in the Gulf and Red Sea. The war escalates geopolitical tensions and financial risks for independent media. Appeals for support aim to sustain critical coverage amid regional dynamics.",
+        "resume_zh": "*Informed Comment*年度募资依赖捐款以覆盖以色列-伊朗冲突及海湾和红海危机。战争加剧了地缘政治紧张局势，并对独立媒体带来财务风险。呼吁公众支持以维持对地区动态的批判性报道。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce conflit s’inscrit dans une escalade historique entre Israël et l’Iran depuis 2018, marquée par des cyberattaques, des assassinats ciblés et des frappes aériennes. Les enjeux incluent la stabilité régionale, l’influence américaine au Moyen-Orient et la légitimité des médias alternatifs face à la désinformation. Les causes profondes résident dans les rivalités sectaires (chiites/sunnites) et les alliances régionales (Iran vs. Arabie saoudite). À court terme, les coûts de couverture médiatique augmentent, tandis que les dons pourraient se réduire face à la saturation des appels humanitaires. À moyen terme, la polarisation politique aux États-Unis pourrait fragiliser les financements indépendants. Long terme, une normalisation des tensions pourrait réduire l’urgence des dons, mais le risque d’un conflit ouvert persiste. Les acteurs clés sont les donateurs progressistes, les médias traditionnels (qui évitent le sujet) et les gouvernements régionaux manipulant l’opinion publique.",
+        "analyse_en": "This conflict escalates from a 2018 pattern of cyberattacks, targeted assassinations, and airstrikes between Israel and Iran. Key stakes involve regional stability, U.S. influence in the Middle East, and the credibility of alternative media against disinformation. Root causes lie in sectarian rivalries (Shia/Sunni) and regional alliances (Iran vs. Saudi Arabia). Short-term, media coverage costs rise while donor fatigue may shrink contributions amid humanitarian appeals. Medium-term, U.S. political polarization could weaken independent funding. Long-term, de-escalation might reduce urgency, but open conflict risks remain. Key actors include progressive donors, mainstream media (avoiding the topic), and regional governments shaping public opinion.",
+        "analyse_zh": "此次冲突源于2018年以来以色列和伊朗之间的升级，包括网络攻击、针对性暗杀和空袭。主要影响包括地区稳定、美国在中东的影响力以及独立媒体在面对虚假信息时的合法性。深层原因在于什叶派与逊尼派的对立以及地区联盟（伊朗与沙特阿拉伯）的竞争。短期内，媒体报道成本上升，而公众对人道主义呼吁的疲劳可能减少捐款。中期内，美国政治极化可能削弱独立资金来源。长期来看，紧张局势缓解可能减少紧急需求，但全面战争的风险依然存在。关键利益相关者包括进步捐助者、主流媒体（回避该话题）以及操控公众舆论的地区政府。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/09/fundraiser-informed-comment.html",
+        "image": "https://media.juancole.com/images/2026/09/71Zlfdog8uL._SL1500_.jpg",
+        "date": "2026-09-30",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marchés financiers des médias indépendants",
+            "hausse": false
+          },
+          {
+            "label": "▲ Bourse des obligations souveraines américaines",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marchés financiers des médias indépendants",
+            "secteur_en": "Independent media financial markets",
+            "secteur_zh": "独立媒体金融市场",
+            "effet_fr": "Les tensions géopolitiques réduisent les flux de dons privés vers les médias critiques, forçant une dépendance accrue aux subventions publiques ou aux partenariats risqués.",
+            "effet_en": "Geopolitical tensions shrink private donations to critical media, forcing reliance on public grants or risky partnerships.",
+            "effet_zh": "地缘政治紧张减少了对批评性媒体的私人捐款，迫使其依赖公共补贴或风险性合作。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Bourse des obligations souveraines américaines",
+            "secteur_en": "U.S. sovereign bond market",
+            "secteur_zh": "美国主权债券市场",
+            "effet_fr": "Les craintes d’une guerre régionale prolongée pourraient inciter les investisseurs à vendre des obligations américaines, augmentant les rendements et le coût de la dette pour Washington.",
+            "effet_en": "Fear of prolonged regional war may prompt investors to sell U.S. bonds, raising yields and debt costs for Washington.",
+            "effet_zh": "对持续地区战争的担忧可能促使投资者抛售美国债券，提高收益率并增加华盛顿的债务成本。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-01T04:16:24.870592"
+      },
       {
         "id": "usa_671148",
         "titre": "ICE arrête davantage sans priorité criminelle grave",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-09-23T22:05:48.858394"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_578329",
-        "titre": "Trump et Xi affrontent tensions sur IA, commerce et Iran",
-        "titre_en": "Trump and Xi face tensions on AI, trade, Iran",
-        "titre_zh": "特朗普与习近平就AI、贸易和伊朗展开紧张对话",
-        "titre_ru": "Трамп и Си встретились: напряженность по ИИ, торговле и Ирану, но стремятся к стабильности",
-        "titre_fa": "مذاکرات ترامپ و شی جینپینگ در مورد تنش‌های هوش مصنوعی، تجارت و ایران، اما به دنبال استقرار هستند",
-        "titre_ar": "تواجه ترامب وسي بين التكنولوجيا والاتجار وإيران، ولكن يسعون إلى الاستقرار",
-        "titre_original": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability",
-        "resume": "Donald Trump accueille Xi Jinping à Washington cette semaine dans un contexte de montée des tensions économiques et technologiques entre les deux superpuissances. Les discussions porteront sur l’intelligence artificielle, où les États-Unis cherchent à limiter l’avance chinoise, ainsi que sur les relations commerciales et la crise iranienne. Malgré les frictions, les deux dirigeants insistent sur la nécessité de stabiliser leurs relations bilatérales.",
-        "resume_en": "Donald Trump hosts Xi Jinping in Washington this week amid escalating economic and tech tensions between the two superpowers. Talks will focus on AI, where the US seeks to curb China’s lead, as well as trade and the Iran crisis. Despite frictions, both leaders emphasize the need to stabilize bilateral relations.",
-        "resume_zh": "特朗普邀请习近平访问华盛顿，两国超级大国在经济和科技领域的紧张关系持续升级。会谈将围绕人工智能领域，美国试图遏制中国的领先优势，以及贸易和伊朗危机展开。尽管存在摩擦，但两国领导人均强调稳定双边关系的必要性。",
-        "resume_ru": "Президент США Дональд Трамп принимает лидера Китая Си Цзиньпина в Вашингтоне в рамках усиления экономической и технологической конкуренции между двумя странами. Несмотря на напряженность по вопросам искусственного интеллекта, торговли и Ирана, обе стороны заявляют о желании сохранить стабильность в отношениях. Это может стать тестом для новой администрации США в области внешней политики.",
-        "resume_fa": "دونالد ترامپ رئیس‌جمهور آمریکا، شی جینپینگ رهبر چین را در واشنگتن می‌پذیرد در حالی که تنش‌های مربوط به هوش مصنوعی، تجارت و ایران افزایش می‌یابد. هر دو طرف از تمایل به حفظ استقرار در روابط خود سخن می‌گویند. این می‌تواند آزمونی برای سیاست خارجی دولت جدید آمریکا باشد.",
-        "resume_ar": "يستقبل الرئيس الأمريكي دونالد ترامب زعيم الصين سي جينبينغ في واشنطن في ظل تزايد التوترات حول التكنولوجيا والاتجار وإيران.尽管如此، فإن الطرفين يؤكدون على الرغبة في الحفاظ على الاستقرار في العلاقات. قد يكون هذا اختبارًا جديدًا للسياسة الخارجية لإدارة الولايات المتحدة.",
-        "analyse_detaillee": "Les tensions sino-américaines remontent aux années 1990 avec les premières tensions commerciales, mais l’ère Trump a accéléré cette rivalité via des tarifs douaniers et des restrictions technologiques. L’IA représente aujourd’hui un enjeu zéro, avec des investissements massifs des deux côtés pour dominer le marché mondial. À court terme, les sanctions américaines sur les semi-conducteurs chinois pourraient freiner la croissance technologique de Pékin, mais à moyen terme, la Chine pourrait contourner ces restrictions via des partenariats avec la Russie ou l’Inde. Long terme, une guerre technologique est envisageable, avec des conséquences sur la souveraineté numérique mondiale. Les États-Unis et l’UE soutiennent une approche unie, tandis que la Chine mise sur des alliances régionales comme les BRICS.",
-        "analyse_en": "US-China tensions date back to the 1990s over trade, but the Trump era accelerated rivalry through tariffs and tech restrictions. AI is now a zero-sum game, with both sides investing heavily to dominate global markets. Short-term, US sanctions on Chinese semiconductors may slow Beijing’s tech growth, but medium-term, China could bypass restrictions via partnerships with Russia or India. Long-term, a tech war is possible, with global digital sovereignty at stake. The US and EU back a unified approach, while China relies on regional alliances like the BRICS.",
-        "analyse_zh": "中美贸易摩擦始于上世纪90年代，但特朗普时期通过关税和科技限制加剧了竞争。人工智能已成为零和博弈，两国大力投资以主导全球市场。短期内，美国对中国半导体的制裁可能抑制北京的科技增长，但中期内，中国可能通过与俄罗斯或印度的合作绕过限制。长期内，科技战争可能爆发，全球数字主权成为关键。美国和欧盟支持统一立场，而中国依赖如金砖国家这样的区域联盟。",
-        "analyse_ru": "Встреча Трамп-Си происходит на фоне обострения технологической войны, где США стремятся ограничить китайский рост в области искусственного интеллекта и полупроводников. Иран выступает как катализатор для сближения двух стран, так как обе стороны заинтересованы в стабильности в регионе. Однако, торговые тарифы и санкции остаются основными источниками напряженности. В долгосрочной перспективе, такие переговоры могут привести к новым соглашениям по торговле, но риск эскалации конфликта по Ирану сохраняется. Важно отметить, что позиция США зависит от внутренней политики и выборов 2024 года, что добавляет неопределенности в переговоры.",
-        "analyse_fa": "مذاکرات ترامپ و شی در زمینه جنگ فناوری، که آمریکا سعی در محدود کردن رشد چین در حوزه هوش مصنوعی و نیمه‌رسانا دارد، رخ می‌دهد. ایران به عنوان یک عامل کاتالیزور برای نزدیک شدن دو کشور عمل می‌کند، زیرا هر دو طرف به استقرار در منطقه علاقه‌مند هستند. با این حال، گمرک‌ها و تحریم‌ها همچنان منابع اصلی تنش باقی می‌مانند. در بلندمدت، چنین مذاکراتی ممکن است به توافق‌های جدید تجاری منجر شود، اما خطر تصاعد درگیری در مورد ایران همچنان وجود دارد. باید توجه داشت که موضع آمریکا وابسته به سیاست داخلی و انتخابات سال ۲۰۲۴ است که به عدم قطعیت در مذاکرات اضافه می‌کند.",
-        "analyse_ar": "تواجه ترامب وسي في ظل تزايد الحرب التقنية، حيث تسعى الولايات المتحدة إلى الحد من نمو الصين في مجال الذكاء الاصطناعي والمكونات الإلكترونية. يعمل إيران كعامل محفز لاقتراب البلدين، حيث يري الطرفان أهمية الاستقرار في المنطقة. ومع ذلك، فإن الرسوم الجمركية والاحكام الصارمة ما زالت مصادر رئيسية للتوتر. على المدى الطويل، قد يؤدي هذا المفاوضات إلى اتفاقيات تجارية جديدة، ولكن خطر تصعيد الصراع حول إيران لا يزال موجودًا. يجب ملاحظة أن موقف الولايات المتحدة يعتمد على السياسة الداخلية والانتخابات لعام 2024، مما يضيف درجة من عدم اليقين إلى المفاوضات.",
-        "categorie": "Géopolitique",
-        "source": "Abcnews.com",
-        "url": "https://abcnews.com/US/wireStory/trump-xi-tensions-flare-ai-trade-iran-seek-136640291",
-        "image": "https://i.abcnewsfe.com/a/730ae23b-ecd3-4b05-a2f6-d44052ffeb8a/wirestory_e560910c897fedb0448eda4cdbfdbaea_16x9.jpg?w=1600",
-        "date": "2026-09-22",
-        "pays": "usa",
+        "id": "chine_344906",
+        "titre": "Foxconn étend son empire robotique avec usines intelligentes",
+        "titre_en": "Foxconn expands robotics empire with smart factories",
+        "titre_zh": "鸿海科技扩张机器人帝国建智能工厂",
+        "titre_ru": "Foxconn links motors, humanoids, smart factories into a vertically integrated robotics strategy",
+        "titre_fa": "Foxconn links motors, humanoids, smart factories into a vertically integrated robotics strategy",
+        "titre_ar": "Foxconn links motors, humanoids, smart factories into a vertically integrated robotics strategy",
+        "titre_original": "Foxconn links motors, humanoids, smart factories into a vertically integrated robotics strategy",
+        "resume": "Foxconn, via sa filiale *Beijing Futekang*, collabore avec *IAT Automotive* pour intégrer robots, véhicules autonomes et usines intelligentes. Cette stratégie vise à dominer la chaîne de valeur de la robotique industrielle. Le groupe chinois accélère sa transition vers une économie automatisée et hautement connectée.",
+        "resume_en": "Foxconn, through *Beijing Futekang*, partners with *IAT Automotive* to integrate robots, autonomous vehicles, and smart factories. This strategy aims to dominate the industrial robotics value chain. The Chinese group accelerates its shift toward an automated, hyper-connected economy.",
+        "resume_zh": "鸿海科技通过*北京富特康*与*IAT汽车*合作，整合机器人、自动驾驶汽车和智能工厂。这一战略旨在主导工业机器人产业链。中国企业加速向自动化、高度互联的经济转型。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette initiative s’inscrit dans une stratégie industrielle chinoise plus large depuis les années 2000, marquée par le plan *Made in China 2025*. Les enjeux incluent la réduction de la dépendance technologique envers les États-Unis et la domination des technologies clés comme l’IA et l’automatisation. Les causes profondes sont la surcapacité industrielle chinoise et la nécessité de créer des emplois à haute valeur ajoutée. À court terme, cette alliance pourrait renforcer la position de Foxconn sur le marché des véhicules autonomes. À moyen terme, la Chine pourrait devenir un leader mondial en robotique industrielle. Long terme, cette intégration verticale pourrait réduire les coûts de production et améliorer la compétitivité globale. Les acteurs clés sont Foxconn, les constructeurs automobiles chinois (BYD, Geely) et les gouvernements régionaux soutenant l’innovation.",
+        "analyse_en": "This move aligns with China’s broader industrial strategy since the 2000s, embodied by *Made in China 2025*. Key stakes involve reducing technological dependence on the U.S. and dominating AI and automation. Root causes include China’s industrial overcapacity and the need for high-value jobs. Short-term, this alliance may strengthen Foxconn’s position in autonomous vehicles. Medium-term, China could become a global leader in industrial robotics. Long-term, vertical integration may cut production costs and boost global competitiveness. Key actors include Foxconn, Chinese automakers (BYD, Geely), and regional governments supporting innovation.",
+        "analyse_zh": "这一举措符合中国自2000年以来的产业战略，即《中国制造2025》计划。主要影响包括减少对美国技术的依赖以及在人工智能和自动化领域的主导地位。深层原因在于中国产业过剩和创造高附加值就业的需求。短期内，这一联盟可能增强鸿海在自动驾驶汽车市场的地位。中期内，中国可能成为全球工业机器人领域的领导者。长期来看，垂直整合可能降低生产成本并提升全球竞争力。关键利益相关者包括鸿海、中国汽车制造商（比亚迪、吉利）和支持创新的地区政府。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Technologie",
+        "source": "Digitimes",
+        "url": "https://www.digitimes.com/news/a20260930PD211/foxconn-robotics-manufacturing-automotive-design.html",
+        "image": "https://img.digitimes.com/newsshow/20260930pd211_files/2_b.jpg",
+        "date": "2026-09-30",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Technologies semi-conducteurs et microélectronique",
+            "label": "▼ Marché des robots industriels",
             "hausse": false
           },
           {
-            "label": "▼ Bourse des matières premières (NYMEX, LME)",
-            "hausse": false
+            "label": "▲ Financement des startups tech chinoises",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies semi-conducteurs et microélectronique",
-            "secteur_en": "Semiconductor and microelectronics technology",
-            "secteur_zh": "半导体和微电子技术",
-            "effet_fr": "Les restrictions américaines sur les puces chinoises pourraient faire bondir les prix des composants électroniques et ralentir les innovations dans les secteurs high-tech.",
-            "effet_en": "US restrictions on Chinese chips may drive up electronics component prices and slow innovation in high-tech sectors.",
-            "effet_zh": "美国对中国芯片的限制可能推高电子元件价格，并减缓高科技领域的创新。",
+            "secteur_fr": "Marché des robots industriels",
+            "secteur_en": "Industrial robotics market",
+            "secteur_zh": "工业机器人市场",
+            "effet_fr": "Cette alliance pourrait accélérer la baisse des coûts des robots industriels, rendant l’automatisation plus accessible aux PME chinoises et asiatiques.",
+            "effet_en": "This alliance may accelerate the cost decline of industrial robots, making automation more accessible to Chinese and Asian SMEs.",
+            "effet_zh": "这一联盟可能加速工业机器人成本下降，使自动化对中国和亚洲中小企业更具吸引力。",
             "hausse": false
           },
           {
-            "secteur_fr": "Bourse des matières premières (NYMEX, LME)",
-            "secteur_en": "Commodities markets (NYMEX, LME)",
-            "secteur_zh": "大宗商品市场（NYMEX、LME）",
-            "effet_fr": "Les tensions commerciales pourraient perturber les cours des métaux critiques (lithium, cobalt) essentiels aux technologies vertes, affectant les investisseurs et les industries concernées.",
-            "effet_en": "Trade tensions may disrupt prices of critical metals (lithium, cobalt) vital for green tech, impacting investors and related industries.",
-            "effet_zh": "贸易摩擦可能扰乱锂、钴等关键金属价格，这些金属对绿色科技至关重要，影响投资者和相关产业。",
-            "hausse": false
+            "secteur_fr": "Financement des startups tech chinoises",
+            "secteur_en": "Chinese tech startup funding",
+            "secteur_zh": "中国科技初创企业融资",
+            "effet_fr": "L’intégration verticale de Foxconn pourrait attirer des investissements supplémentaires vers les startups spécialisées en IA et robotique, renforçant l’écosystème innovant chinois.",
+            "effet_en": "Foxconn’s vertical integration may draw additional investments into AI and robotics startups, strengthening China’s innovation ecosystem.",
+            "effet_zh": "鸿海的垂直整合可能吸引更多投资流向人工智能和机器人初创企业，增强中国创新生态系统。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-09-23T04:36:48.571036"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-01T04:16:24.870635"
+      },
       {
         "id": "chine_987541",
         "titre": "Ce que la Chine attend de l’IA",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-09-20T05:44:37.568702"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_282298",
-        "titre": "Événement chinois encourage les liens plus profonds avec l’étranger",
-        "titre_en": "Event promotes deeper China foreign engagement",
-        "titre_zh": "活动促进中外关系加深",
-        "titre_ru": "Engineering deeper bonds encouraged at event",
-        "titre_fa": "Engineering deeper bonds encouraged at event",
-        "titre_ar": "Engineering deeper bonds encouraged at event",
-        "titre_original": "Engineering deeper bonds encouraged at event",
-        "resume": "Un événement organisé à Pékin en 2026, relayé par *China Daily*, met en avant les bénéfices d’un engagement accru avec la Chine pour les étrangers. L’initiative vise à renforcer les échanges culturels, économiques et technologiques, dans un contexte de montée en puissance du pays. Les participants sont encouragés à voir la Chine comme un partenaire stratégique plutôt qu’un rival.",
-        "resume_en": "An event held in Beijing in 2026, reported by *China Daily*, highlights the benefits of increased foreign engagement with China. The initiative aims to strengthen cultural, economic, and technological exchanges, as China rises as a global power. Participants are encouraged to view China as a strategic partner rather than a rival.",
-        "resume_zh": "2026年北京举办的活动，由《中国日报》报道，强调外国与中国加深交流的好处。该倡议旨在增强文化、经济和技术交流，随着中国崛起为全球强国。参与者被鼓励将中国视为战略伙伴而非对手。",
+        "id": "russie_201566",
+        "titre": "Réaction virale d’un sénateur républicain à gaffe médiatique",
+        "titre_en": "GOP senator’s viral reaction to media gaffe",
+        "titre_zh": "共和党参议员对媒体失言的病毒式反应",
+        "titre_ru": "GOP Senator's Befuddled Reaction To Eric Schmitt Gaffe Goes Viral On Social Media",
+        "titre_fa": "GOP Senator's Befuddled Reaction To Eric Schmitt Gaffe Goes Viral On Social Media",
+        "titre_ar": "GOP Senator's Befuddled Reaction To Eric Schmitt Gaffe Goes Viral On Social Media",
+        "titre_original": "GOP Senator's Befuddled Reaction To Eric Schmitt Gaffe Goes Viral On Social Media",
+        "resume": "Le sénateur républicain *Eric Schmitt* a suscité des moqueries après une déclaration maladroite sur *Katie Britt*, candidate républicaine. Son manque de réactivité sur les réseaux sociaux a amplifié la polémique. Ce type de gaffe illustre les tensions internes au Parti républicain avant les élections de 2024.",
+        "resume_en": "Republican senator *Eric Schmitt* sparked mockery after a clumsy remark about *Katie Britt*, a GOP candidate. His lack of social media response amplified the controversy. Such gaffes highlight internal GOP tensions ahead of the 2024 elections.",
+        "resume_zh": "共和党参议员*埃里克·施密特*在评论共和党候选人*凯蒂·布里特*时言辞不慎，引发网友嘲笑。他在社交媒体上缺乏回应进一步加剧了争议。这种失言反映了2024年大选前共和党内部的紧张关系。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "La Chine, depuis les réformes de Deng Xiaoping, a systématiquement utilisé le soft power pour attirer les investissements étrangers et légitimer son modèle de développement. Cet événement s’inscrit dans une stratégie plus large de diplomatie économique, visant à contrer les sanctions occidentales et à diversifier ses alliances. Les causes profondes incluent la dépendance aux exportations et aux technologies étrangères, ainsi que la nécessité de légitimer son leadership en Asie. Court terme : une augmentation des partenariats public-privé (PPP) et des investissements directs étrangers (IDE), notamment dans les secteurs des infrastructures et des énergies vertes. À moyen terme, une intégration accrue dans les chaînes de valeur mondiales, avec des risques accrus de dépendance technologique. Long terme, la Chine pourrait devenir un hub pour les entreprises cherchant à contourner les restrictions américaines, tout en renforçant son influence en Afrique et en Amérique latine. Les acteurs clés sont le gouvernement chinois (via des institutions comme la CEI), les multinationales (Siemens, TotalEnergies) et les élites locales des pays partenaires.",
-        "analyse_en": "China, since Deng Xiaoping’s reforms, has systematically used soft power to attract foreign investment and legitimize its development model. This event fits into a broader economic diplomacy strategy to counter Western sanctions and diversify alliances. Root causes include dependence on foreign exports and technologies, as well as the need to legitimize its leadership in Asia. Short-term: increased public-private partnerships (PPP) and foreign direct investment (FDI), particularly in infrastructure and green energy sectors. Medium-term: deeper integration into global value chains, with increased risks of technological dependence. Long-term: China could become a hub for companies seeking to bypass U.S. restrictions, while strengthening its influence in Africa and Latin America. Key actors include the Chinese government (via institutions like the BRI), multinationals (Siemens, TotalEnergies), and local elites in partner countries.",
-        "analyse_zh": "中国自邓小平改革以来，一直系统性地利用软实力吸引外资并合法化其发展模式。此次活动属于更广泛的经济外交战略，旨在应对西方制裁并多元化盟友。深层原因包括对外资出口和技术的依赖，以及合法化其在亚洲领导地位的需求。短期内，公私合作项目（PPP）和外资直接投资（FDI）将增加，特别是在基础设施和绿色能源领域。中期内，中国将更深度融入全球价值链，但技术依赖风险也随之增加。长期来看，中国可能成为企业绕过美国制裁的枢纽，同时在非洲和拉丁美洲增强影响力。关键参与者包括中国政府（如“一带一路”机构）、跨国公司（西门子、总部能源）和合作国的地方精英。",
+        "analyse_detaillee": "Cette affaire s’inscrit dans une tradition de polémiques politiques américaines, où les erreurs de communication deviennent des armes médiatiques. Les enjeux incluent la crédibilité des figures républicaines et la dynamique de campagne avant les primaires. Les causes profondes sont la polarisation partisane et la culture du *cancel culture* sur les réseaux sociaux. À court terme, cette gaffe pourrait affaiblir la crédibilité de Schmitt et nuire à Britt. À moyen terme, les républicains pourraient recentrer leur discours sur des thèmes plus consensuels. Long terme, cette affaire pourrait accélérer la fragmentation du parti. Les acteurs clés sont les médias conservateurs (*Fox News*), les influenceurs politiques et les donateurs républicains évaluant les risques.",
+        "analyse_en": "This incident fits into a tradition of U.S. political controversies where communication errors become media weapons. Key stakes involve Republican figures’ credibility and pre-primary campaign dynamics. Root causes include partisan polarization and the *cancel culture* on social media. Short-term, this gaffe may weaken Schmitt’s credibility and hurt Britt. Medium-term, Republicans may refocus on more consensus-driven themes. Long-term, this could accelerate party fragmentation. Key actors include conservative media (*Fox News*), political influencers, and GOP donors assessing risks.",
+        "analyse_zh": "此事符合美国政治争议的传统，其中沟通错误成为媒体武器。主要影响包括共和党人物的可信度和大选前的竞选动态。深层原因在于党派极化和社交媒体上的“取消文化”。短期内，这一失言可能削弱施密特的可信度并损害布里特的形象。中期内，共和党可能将讨论重点转向更具共识的议题。长期来看，此事可能加速党内分裂。关键利益相关者包括保守媒体（如*福克斯新闻*）、政治影响者和评估风险的共和党捐助者。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/engineering-deeper-bonds-encouraged-at-event-302883662.html",
-        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
-        "date": "2026-09-18",
-        "pays": "chine",
+        "categorie": "Politique",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/katie-britt-reaction-to-eric-schmitt_n_6abc7305e4b02a789b317331",
+        "image": "https://img.huffingtonpost.com/asset/6abc8200180000241bf15785.jpeg?ops=1200_630",
+        "date": "2026-09-30",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Investissements directs étrangers (IDE) en Chine",
-            "hausse": true
+            "label": "▼ Financement des campagnes politiques",
+            "hausse": false
           },
           {
-            "label": "▼ Marché des matières premières et commerce international",
+            "label": "▼ Reputation des figures républicaines",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Investissements directs étrangers (IDE) en Chine",
-            "secteur_en": "Foreign Direct Investment (FDI) in China",
-            "secteur_zh": "中国的外资直接投资（FDI）",
-            "effet_fr": "Les IDE pourraient exploser dans les secteurs technologiques et énergétiques, mais avec des risques accrus de transferts forcés de technologie et de dépendance aux infrastructures chinoises.",
-            "effet_en": "FDI may surge in tech and energy sectors, but with increased risks of forced technology transfers and dependence on Chinese infrastructure.",
-            "effet_zh": "外资可能在技术和能源领域大幅增加，但强制技术转让和对中国基础设施的依赖风险也随之上升。",
-            "hausse": true
+            "secteur_fr": "Financement des campagnes politiques",
+            "secteur_en": "Political campaign financing",
+            "secteur_zh": "政治竞选资金",
+            "effet_fr": "Les gaffes médiatiques peuvent dissuader les donateurs de soutenir des candidats perçus comme peu professionnels, réduisant les fonds disponibles pour les campagnes.",
+            "effet_en": "Media gaffes may deter donors from supporting candidates seen as unprofessional, reducing available funds for campaigns.",
+            "effet_zh": "媒体失言可能使捐助者对被视为不专业的候选人望而却步，减少竞选资金。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marché des matières premières et commerce international",
-            "secteur_en": "Commodities market and global trade",
-            "secteur_zh": "大宗商品市场和国际贸易",
-            "effet_fr": "La Chine, en renforçant ses échanges, pourrait manipuler les prix des matières premières (minerais, terres rares) pour affaiblir ses concurrents, tout en sécurisant ses approvisionnements.",
-            "effet_en": "China, by strengthening its trade ties, could manipulate commodity prices (minerals, rare earths) to weaken competitors while securing its supply chains.",
-            "effet_zh": "中国通过加强贸易关系，可能操控矿产和稀土等大宗商品价格，削弱竞争对手，同时确保其供应链安全。",
+            "secteur_fr": "Reputation des figures républicaines",
+            "secteur_en": "Republican figures' reputation",
+            "secteur_zh": "共和党人物的声誉",
+            "effet_fr": "Les erreurs de communication peuvent durablement endommager l’image des personnalités politiques, affectant leur capacité à mobiliser les électeurs et les soutiens financiers.",
+            "effet_en": "Communication errors can permanently damage political figures’ reputations, affecting their ability to mobilize voters and financial backers.",
+            "effet_zh": "沟通错误可能长期损害政治家的形象，影响他们动员选民和财政支持者的能力。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-19T22:41:55.509047"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-01T04:16:24.870644"
+      },
       {
         "id": "russie_477573",
         "titre": "Enquête Smith révèle: Iowa Hawkeyes n’appartiennent pas aux Hawks",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-09-22T18:31:03.908894"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_582797",
-        "titre": "Élections russes sous tension : victoire du parti au pouvoir",
-        "titre_en": "Russian wartime elections see ruling party dominance",
-        "titre_zh": "俄罗斯战争期间选举 执政党大获全胜",
-        "titre_ru": "Голосование в России завершено: партия власти доминирует в войне",
-        "titre_fa": "انتخابات جنگی روسیه به پایان رسید: حزب حاکم در جنگ غالب است",
-        "titre_ar": "انتهت الانتخابات الحربية في روسيا: الحزب الحاكم يسيطر على الحرب",
-        "titre_original": "Polls close in Russian wartime election with ruling party set to dominate",
-        "resume": "Les élections législatives russes, organisées dans un contexte de guerre en Ukraine, ont confirmé la domination du parti au pouvoir, United Russia. Vladimir Poutine a présenté ce scrutin comme un test de soutien à son conflit avec Kiev. Les observateurs internationaux dénoncent un processus électoral biaisé et sans réelle opposition.",
-        "resume_en": "Russia’s legislative elections, held amid the Ukraine war, reaffirmed United Russia’s dominance. Putin framed the vote as a test of support for his conflict with Kyiv. International observers condemn the biased and opposition-free electoral process.",
-        "resume_zh": "俄罗斯在乌克兰战争期间举行的立法选举再次确认了统一俄罗斯党的主导地位。普京将此次选举视为对其与基辅冲突支持度的考验。国际观察家谴责选举过程存在偏见且缺乏真正的反对派。",
-        "resume_ru": "Президент Владимир Путин представил выборы как проверку поддержки его войны с Украиной. По предварительным данным, партия «Единая Россия» получила подавляющее большинство голосов, что подтверждает лояльность большинства россиян к текущей политике. Однако эксперты отмечают, что легитимность выборов вызывает сомнения из-за отсутствия альтернативных кандидатов и давления на избирателей. Международное сообщество уже критикует процесс как недемократический.",
-        "resume_fa": "ولادیمیر پوتین انتخابات را به عنوان آزمون حمایت از جنگ خود با اوکراین معرفی کرد. بر اساس داده‌های پیشین، حزب «روسیه متحد» اکثریت قاطع آرا را کسب کرد که نشان‌دهنده وفاداری اکثریت مردم روسیه به سیاست فعلی است. اما تحلیلگران اشاره می‌کنند که مشروعیت این انتخابات به دلیل عدم وجود نامزدهای جایگزین و فشار بر رای‌دهندگان زیر سؤال است. جامعه بین‌المللی این فرآیند را غیر دموکراتیک محکوم کرده‌است.",
-        "resume_ar": "أعلن الرئيس فلاديمير بوتين عن الانتخابات كاختبار لدعم حربه مع أوكرانيا. وفقًا للبيانات الأولية، فاز حزب «روسيا المتحدة» بأغلبية ساحقة من الأصوات، مما يؤكد ولاء أغلبية الروس للسياسة الحالية. ومع ذلك، يشير المحللون إلى أن شرعية الانتخابات موضع شك بسبب عدم وجود مرشحين بديلين وضغط على الناخبين. دانت المجتمع الدولي هذا العملية بأنها غير ديمقراطية.",
-        "analyse_detaillee": "Les élections russes s’inscrivent dans une tradition autoritaire remontant à l’ère soviétique, où le pouvoir central a toujours contrôlé les scrutins pour légitimer son autorité. La guerre en Ukraine a accentué cette logique de mobilisation nationale, transformant le vote en outil de propagande pour justifier les sacrifices humains et économiques. À court terme, cette victoire renforce la main de Poutine pour poursuivre son offensive militaire, tout en réprimant davantage les voix dissidentes. Moyen terme, cela pourrait accélérer la marginalisation de l’opposition et la militarisation de la société russe. Long terme, ce modèle électoral pourrait inspirer d’autres régimes autoritaires, tout en isolant davantage la Russie sur la scène internationale. Les États-Unis et l’UE, déjà critiques, pourraient durcir leurs sanctions, tandis que la Chine et l’Iran soutiendront activement Moscou pour contrer l’influence occidentale.",
-        "analyse_en": "Russian elections follow a Soviet-era authoritarian tradition, where central power has always controlled ballots to legitimize its rule. The Ukraine war has intensified this mobilization narrative, turning voting into propaganda to justify human and economic sacrifices. Short-term, this victory strengthens Putin’s hand to escalate military operations while crushing dissent. Medium-term, it may accelerate opposition marginalization and military society consolidation. Long-term, this electoral model could inspire other authoritarian regimes while further isolating Russia globally. The U.S. and EU, already critical, may tighten sanctions, while China and Iran will actively back Moscow to counter Western influence.",
-        "analyse_zh": "俄罗斯选举延续了苏联时期的权威传统，中央政府总是控制选举以合法化其统治。乌克兰战争加剧了民族动员的逻辑，将投票变成宣传工具，以合理化人员和经济的牺牲。短期内，这一胜利将增强普京发动军事行动的手段，同时进一步镇压异见。中期内，这可能加速反对派的边缘化和俄罗斯社会的军事化。长期来看，这种选举模式可能激励其他专制政权，同时进一步孤立俄罗斯在国际舞台。美国和欧盟已经持批评态度，可能会加强制裁，而中国和伊朗则会积极支持莫斯科以对抗西方影响力。",
-        "analyse_ru": "Эти выборы стали инструментом легитимации войны Путина, так как он использует их для демонстрации поддержки населения своей агрессивной политики. Отсутствие реальной конкуренции и репрессии против оппозиции делают процесс несправедливым и нерепрезентативным. Международные наблюдатели уже заявили о нарушениях, что может усилить санкции против России. Внутри страны это может спровоцировать новые протесты, так как многие россияне не поддерживают войну, но боятся открыто выражать своё мнение. В долгосрочной перспективе такие выборы подрывают доверие к институтам власти и усугубляют кризис легитимности режима.",
-        "analyse_fa": "این انتخابات به عنوان ابزاری برای مشروعیت‌بخشی به جنگ پوتین عمل کرد، زیرا او از آن برای نشان دادن حمایت مردم از سیاست تهاجمی خود استفاده می‌کند. عدم وجود رقابت واقعی و سرکوب مخالفان این فرآیند را نامنصفانه و غیرمثبات‌دار می‌کند. مشاهده‌کنندگان بین‌المللی به نقض‌های انتخاباتی اشاره کرده‌اند که می‌تواند به تشدید تحریم‌ها علیه روسیه منجر شود. در داخل کشور، این ممکن است به اعتراضات جدیدی منجر شود، زیرا بسیاری از روس‌ها جنگ را حمایت نمی‌کنند، اما ترس از بیان علنی نظر دارند. در بلندمدت، چنین انتخابات‌هایی اعتماد به نهادهای حکومتی را زیر سؤال می‌برد و بحران مشروعیت رژیم را تشدید می‌کند.",
-        "analyse_ar": "أصبحت هذه الانتخابات أداة لتبرير حرب بوتين، حيث يستخدمها لإظهار دعم السكان لسياساته العدوانية. عدم وجود تنافس حقيقي وقمع المعارضة يجعل العملية غير عادلة وغير ممثلة. أعلن المراقبون الدوليون عن انتهاكات، مما قد يؤدي إلى تشديد العقوبات ضد روسيا. داخل البلاد، قد يؤدي هذا إلى احتجاجات جديدة، حيث لا يدعم العديد من الروس الحرب، ولكنهم يخشون التعبير علنًا عن آرائهم. على المدى الطويل، قد تضع هذه الانتخابات الثقة في المؤسسات الحكومية في خطر وتفاقم أزمة شرعية النظام.",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T193043Z_1836893116_RC25NNAHWSTV_RTRMADP_3_RUSSIA-ELECTION-1789942742.jpg?resize=1920%2C1440",
-        "date": "2026-09-20",
-        "pays": "russie",
+        "id": "iran_44593",
+        "titre": "Crise budgétaire française aggravée par tensions iraniennes",
+        "titre_en": "France’s budget crisis worsened by Iran tensions",
+        "titre_zh": "伊朗紧张局势加剧法国财政危机",
+        "titre_ru": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+        "titre_fa": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+        "titre_ar": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+        "titre_original": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+        "resume": "La guerre en cours avec l’Iran alourdit les pressions fiscales sur la France, alors que Paris fait face à un conflit budgétaire interne. Les coûts accrus des dépenses militaires et sécuritaires menacent l’équilibre des finances publiques. Les agences de notation, comme *Vanguard*, alertent sur un risque de dégradation de la dette française.",
+        "resume_en": "The ongoing war with Iran exacerbates fiscal pressures on France, as Paris faces an internal budget battle. Rising military and security spending threatens public finance balance. Rating agencies like *Vanguard* warn of a risk of downgrading French debt.",
+        "resume_zh": "正在进行的与伊朗的战争加剧了法国的财政压力，巴黎正面临内部预算斗争。军事和安全开支的增加威胁到公共财政的平衡。评级机构如*Vanguard*警告法国债务可能面临降级风险。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette crise s’inscrit dans une dynamique géopolitique plus large depuis la chute des sanctions contre l’Iran en 2015, avec des tensions récurrentes entre Téhéran et ses voisins. Les enjeux incluent la souveraineté énergétique européenne et la stabilité des chaînes d’approvisionnement. Les causes profondes sont la dépendance française aux importations d’énergie et la rivalité avec les États-Unis sur l’influence au Moyen-Orient. À court terme, les dépenses militaires pourraient atteindre 3% du PIB, aggravant le déficit. À moyen terme, une dégradation de la note pourrait entraîner une hausse des taux d’emprunt. Long terme, la France pourrait renforcer ses partenariats avec l’Afrique ou l’Asie pour diversifier ses sources d’énergie. Les acteurs clés sont l’État français, la Banque centrale européenne et les fonds souverains iraniens manipulant les prix du pétrole.",
+        "analyse_en": "This crisis fits into a broader geopolitical dynamic since the 2015 lifting of Iran sanctions, marked by recurring tensions between Tehran and its neighbors. Key stakes involve European energy sovereignty and supply chain stability. Root causes include France’s energy import dependence and rivalry with the U.S. over Middle East influence. Short-term, military spending may hit 3% of GDP, worsening the deficit. Medium-term, a downgrade could raise borrowing rates. Long-term, France may strengthen partnerships with Africa or Asia to diversify energy sources. Key actors include the French government, the European Central Bank, and Iranian sovereign funds manipulating oil prices.",
+        "analyse_zh": "这一危机源于2015年以来伊朗制裁解除后的地缘政治动态，伊朗与邻国之间的紧张局势不断。主要影响包括欧洲能源主权和供应链稳定。深层原因在于法国对能源进口的依赖以及与美国在中东影响力上的竞争。短期内，军事开支可能达到GDP的3%，加剧赤字。中期内，信用等级下降可能导致借贷利率上升。长期来看，法国可能加强与非洲或亚洲的合作以多元化能源来源。关键利益相关者包括法国政府、欧洲中央银行和操控石油价格的伊朗主权基金。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7fc5c8050aa05476",
+        "image": "https://biztoc.com/cdn/996/og.png",
+        "date": "2026-09-30",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché des devises (rouble russe)",
-            "hausse": false
+            "label": "▲ Marché obligataire français",
+            "hausse": true
           },
           {
-            "label": "▲ Assurances politiques (risque pays)",
+            "label": "▲ Sector énergétique français",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des devises (rouble russe)",
-            "secteur_en": "Foreign exchange market (Russian ruble)",
-            "secteur_zh": "外汇市场（俄罗斯卢布）",
-            "effet_fr": "La légitimité accrue du régime pourrait stabiliser temporairement le rouble, mais les sanctions occidentales et la guerre prolongée risquent de maintenir une pression à la baisse sur le long terme.",
-            "effet_en": "Increased regime legitimacy may temporarily stabilize the ruble, but Western sanctions and prolonged war could sustain long-term downward pressure.",
-            "effet_zh": "政府合法性的提升可能暂时稳定卢布汇率，但西方制裁和持续战争可能长期维持下行压力。",
-            "hausse": false
+            "secteur_fr": "Marché obligataire français",
+            "secteur_en": "French bond market",
+            "secteur_zh": "法国债券市场",
+            "effet_fr": "Les agences de notation pourraient abaisser la note de la dette française, entraînant une hausse des rendements et un alourdissement du coût de la dette pour l’État.",
+            "effet_en": "Rating agencies may downgrade France’s debt, raising yields and increasing borrowing costs for the state.",
+            "effet_zh": "评级机构可能降低法国债务等级，导致收益率上升并增加国家借贷成本。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Assurances politiques (risque pays)",
-            "secteur_en": "Political risk insurance",
-            "secteur_zh": "政治风险保险",
-            "effet_fr": "Les assureurs pourraient exiger des primes plus élevées pour couvrir les investissements en Russie, en raison de l’instabilité politique et des risques de nationalisations ou de gel des actifs.",
-            "effet_en": "Insurers may demand higher premiums to cover Russian investments due to political instability and risks of expropriation or asset freezes.",
-            "effet_zh": "保险公司可能要求更高的保费来覆盖俄罗斯投资，由于政治不稳定和资产被冻结或国有化的风险。",
+            "secteur_fr": "Sector énergétique français",
+            "secteur_en": "French energy sector",
+            "secteur_zh": "法国能源行业",
+            "effet_fr": "Les tensions géopolitiques pourraient inciter la France à accélérer ses investissements dans les énergies renouvelables pour réduire sa dépendance aux importations iraniennes.",
+            "effet_en": "Geopolitical tensions may push France to accelerate investments in renewables to reduce dependence on Iranian imports.",
+            "effet_zh": "地缘政治紧张可能促使法国加快对可再生能源的投资，以减少对伊朗进口的依赖。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-21T23:02:10.112836"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-01T04:16:24.870625"
+      },
       {
         "id": "iran_417861",
         "titre": "Prix du pétrole chute avec reprise pipeline saoudien",
@@ -6070,69 +6129,130 @@
           }
         ],
         "created_at": "2026-09-21T01:00:59.815229"
-      },
-      {
-        "id": "iran_509519",
-        "titre": "Incendie près de l’aéroport de Riyad : Pakistan exige des comptes à l’Iran",
-        "titre_en": "Fire near Riyadh airport: Pakistan demands Iran accountability",
-        "titre_zh": "利雅得机场附近火灾：巴基斯坦要求伊朗承担责任",
-        "titre_ru": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
-        "titre_fa": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
-        "titre_ar": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
-        "titre_original": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies - CNBC",
-        "resume": "Un incendie près de l’aéroport international de Riyad a été attribué aux Houthis, tandis que le Pakistan exige des explications à Téhéran. La tension monte dans la région après des attaques répétées contre l’Arabie saoudite, exacerbant les tensions Iran-Saoud. Les Houthis ont revendiqué l’attaque, accusant Riyad de bloquer les livraisons d’énergie pakistanaise.",
-        "resume_en": "A fire near Riyadh’s international airport has been attributed to the Houthis, while Pakistan demands answers from Tehran. Regional tensions escalate after repeated attacks on Saudi Arabia, worsening Iran-Saudi rivalry. The Houthis claimed responsibility, accusing Riyad of blocking Pakistani energy supplies.",
-        "resume_zh": "利雅得国际机场附近发生火灾，被归因于胡塞武装，而巴基斯坦要求伊朗解释。地区紧张局势升级，在伊朗和沙特之间的对抗加剧。胡塞武装声称负责，指控利雅得阻断巴基斯坦能源供应。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Les tensions Iran-Saoud remontent aux années 1980, avec la guerre Iran-Irak et la rivalité chiite-sunnite. Les attaques récentes s’inscrivent dans une escalade depuis 2016, marquée par des cyberattaques et des assassinats ciblés (comme celui de Khashoggi). Les Houthis, soutenus par l’Iran, utilisent ces frappes pour affaiblir l’Arabie saoudite, allié des États-Unis. Court terme, une réponse militaire saoudienne ou une intervention américaine pourrait déclencher une guerre régionale. À moyen terme, l’Iran pourrait renforcer son soutien aux milices yéménites pour maintenir la pression, tandis que Riyad chercherait des alliances avec Israël ou l’Égypte. Long terme, une normalisation des relations dépendrait d’un compromis sur le Yémen et une réduction des ingérences régionales. Les États-Unis, divisés entre leur soutien à Riyad et leur dialogue avec Téhéran, jouent un rôle ambigu. La Chine et la Russie, opportunistes, pourraient exploiter la crise pour affaiblir l’influence occidentale.",
-        "analyse_en": "Iran-Saudi tensions date back to the 1980s, with the Iran-Iraq War and the Shia-Sunni rivalry. Recent attacks escalate since 2016, marked by cyberattacks and targeted assassinations (like Khashoggi). The Houthis, backed by Iran, use these strikes to weaken Saudi Arabia, a US ally. Short-term, a Saudi military response or US intervention could trigger a regional war. Medium-term, Iran may strengthen support for Yemeni militias to maintain pressure, while Riyadh seeks alliances with Israel or Egypt. Long-term, normalization would require a Yemeni compromise and reduced regional interference. The US, divided between supporting Riyadh and engaging Tehran, plays an ambiguous role. China and Russia, opportunistic, may exploit the crisis to weaken Western influence.",
-        "analyse_zh": "伊朗和沙特的紧张关系可追溯到上世纪80年代的伊朗伊拉克战争和什叶派与逊尼派的对抗。最近的袭击自2016年以来不断升级，包括网络攻击和针对性谋杀（如卡舒吉事件）。由伊朗支持的胡塞武装使用这些袭击来削弱沙特阿拉伯，后者是美国的盟友。短期内，沙特的军事回应或美国的干预可能引发地区战争。中期内，伊朗可能加强对也门武装的支持以保持压力，而利雅得将寻求与以色列或埃及的联盟。长期来看，关系正常化需就也门达成妥协并减少地区干预。美国在支持利雅得和与伊朗对话之间分裂，扮演着模糊的角色。中国和俄罗斯作为机会主义者，可能利用危机削弱西方影响力。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185709870",
-        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
-        "date": "2026-09-19",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier (OPEP+)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des devises (Riyal saoudien)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier (OPEP+)",
-            "secteur_en": "Oil market (OPEC+)",
-            "secteur_zh": "石油市场（OPEC+组织）",
-            "effet_fr": "Les attaques contre l’Arabie saoudite pourraient perturber les approvisionnements via le détroit de Bab el-Mandeb, faisant monter les prix et affectant les membres de l’OPEP+ dépendants des revenus pétroliers.",
-            "effet_en": "Attacks on Saudi Arabia could disrupt supplies through the Bab el-Mandeb Strait, driving up prices and impacting OPEC+ members reliant on oil revenues.",
-            "effet_zh": "对沙特的袭击可能干扰通过曼德海峡的供应，推高油价并影响依赖石油收入的OPEC+成员国。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des devises (Riyal saoudien)",
-            "secteur_en": "Currency market (Saudi riyal)",
-            "secteur_zh": "沙特里亚尔汇率市场",
-            "effet_fr": "L’incertitude géopolitique pourrait affaiblir le riyal, réduisant la confiance des investisseurs dans les actifs saoudiens, notamment les obligations souveraines.",
-            "effet_en": "Geopolitical uncertainty could weaken the riyal, reducing investor confidence in Saudi assets, including sovereign bonds.",
-            "effet_zh": "地缘政治不确定性可能削弱里亚尔，降低投资者对沙特资产（如主权债券）的信心。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-20T23:00:31.593581"
       }
     ]
   },
   "politique": [
+    {
+      "id": "pol_femmes_834605",
+      "titre": "Belgique : féminicides sous-estimés malgré loi",
+      "titre_en": "Belgium struggles with undercounted femicides",
+      "titre_zh": "比利时女性谋杀案统计困难重重",
+      "titre_ru": "Recensement des féminicides en Belgique : une mission plus complexe que prévu et qui continue à prendre du retard",
+      "titre_fa": "Recensement des féminicides en Belgique : une mission plus complexe que prévu et qui continue à prendre du retard",
+      "titre_ar": "Recensement des féminicides en Belgique : une mission plus complexe que prévu et qui continue à prendre du retard",
+      "titre_original": "Recensement des féminicides en Belgique : une mission plus complexe que prévu et qui continue à prendre du retard",
+      "resume": "La Belgique peine à recenser précisément les féminicides, malgré une loi en vigueur depuis 2023. Les retards administratifs et les lacunes méthodologiques compliquent les données officielles. Cette situation interroge sur l’efficacité des politiques publiques contre les violences faites aux femmes.",
+      "resume_en": "Belgium struggles to accurately count femicides despite a 2023 law. Administrative delays and methodological gaps distort official figures. This raises questions about the effectiveness of policies against gender-based violence.",
+      "resume_zh": "比利时在2023年颁布法律后，女性谋杀案统计仍面临严重困难。行政延误和方法学漏洞导致官方数据不准确。这质疑了针对女性暴力的公共政策实效性。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La Belgique, comme d’autres pays européens, a tardé à institutionnaliser un suivi systématique des féminicides, bien que le phénomène soit documenté depuis les années 1990. Les enjeux incluent la transparence des données pour évaluer les politiques de prévention et la pression internationale sur les États. Les causes profondes résident dans des structures patriarcales persistantes et un manque de coordination entre acteurs institutionnels. À court terme, les retards nuisent à l’allocation des ressources et à la sensibilisation. À moyen terme, cela pourrait affaiblir la crédibilité des engagements belges en matière de droits humains. Long terme, une réforme méthodologique est indispensable pour aligner la Belgique sur les standards européens. Les associations féministes dénoncent l’inaction gouvernementale, tandis que les autorités invoquent des contraintes budgétaires et techniques.",
+      "analyse_en": "Belgium, like other European countries, delayed institutionalizing systematic femicide tracking despite documented cases since the 1990s. Key issues involve data transparency to assess prevention policies and international pressure on states. Root causes lie in persistent patriarchal structures and poor coordination among institutions. Short-term, delays hinder resource allocation and awareness campaigns. Medium-term, this weakens Belgium’s credibility on human rights commitments. Long-term, methodological reform is critical to align with European standards. Feminist groups criticize government inaction, while authorities cite budgetary and technical constraints.",
+      "analyse_zh": "比利时在20世纪90年代就有女性谋杀案记录，但直到2023年才立法系统跟踪，与其他欧洲国家类似。核心问题在于数据透明度以评估预防政策，以及国际社会对国家的压力。深层原因在于根深蒂固的男权结构和机构间协调不足。短期内，延误影响资源分配和公众宣传。中期内，这将削弱比利时在人权承诺上的信誉。长期来看，方法学改革至关重要以符合欧洲标准。女性主义组织谴责政府消极应对，而官方则以预算和技术限制为由。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains",
+      "source": "RTBF",
+      "url": "https://www.rtbf.be/article/recensement-des-feminicides-en-belgique-une-mission-plus-complexe-que-prevu-et-qui-continue-a-prendre-du-retard-11792348",
+      "image": "https://static-content.rtbf.be/article/image/1920x1080/5/6/6/4da11b70fb6fd680f6f5d8c5af4d6a6a.jpg",
+      "date": "2026-09-30",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurances responsabilité civile (violences domestiques)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds européens pour l’égalité de genre",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances responsabilité civile (violences domestiques)",
+          "secteur_en": "Civil liability insurance sector",
+          "secteur_zh": "家庭暴力民事责任保险行业",
+          "effet_fr": "Les retards dans le recensement des féminicides pourraient entraîner des litiges prolongés et des primes d’assurance plus élevées pour les victimes.",
+          "effet_en": "Delays in femicide tracking may lead to prolonged lawsuits and higher insurance premiums for victims.",
+          "effet_zh": "女性谋杀案统计延误可能导致诉讼拖延和受害者保费上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds européens pour l’égalité de genre",
+          "secteur_en": "European gender equality funds",
+          "secteur_zh": "欧洲性别平等基金",
+          "effet_fr": "Les données incomplètes pourraient justifier des réductions budgétaires ou des reports de subventions par l’UE.",
+          "effet_en": "Incomplete data may justify budget cuts or delays in EU grants.",
+          "effet_zh": "不完整的数据可能导致欧盟减少预算或推迟补贴。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-01T04:17:23.079888",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_555349",
+      "titre": "France réautorise pesticide controversé malgré risques",
+      "titre_en": "France reauthorizes banned pesticide despite risks",
+      "titre_zh": "法国重新批准有争议农药引争议",
+      "titre_ru": "La France réautorise le triallate, un pesticide interdit en raison d'un « risque inacceptable » pour l'eau",
+      "titre_fa": "La France réautorise le triallate, un pesticide interdit en raison d'un « risque inacceptable » pour l'eau",
+      "titre_ar": "La France réautorise le triallate, un pesticide interdit en raison d'un « risque inacceptable » pour l'eau",
+      "titre_original": "La France réautorise le triallate, un pesticide interdit en raison d'un « risque inacceptable » pour l'eau",
+      "resume": "La France a réautorisé le triallate, un herbicide interdit en 2021 pour ses dangers avérés sur les nappes phréatiques. Cette dérogation de 120 jours vise uniquement les cultures d’orge d’hiver. Les écologistes dénoncent une décision « irresponsable » aux conséquences environnementales graves.",
+      "resume_en": "France reauthorized triallate, a herbicide banned in 2021 for its proven risks to groundwater. The 120-day exemption targets winter barley crops only. Environmentalists call the decision ‘irresponsible’ with severe ecological consequences.",
+      "resume_zh": "法国重新批准2021年因对地下水危害而禁用的除草剂三亚胺。此120天豁免仅适用于冬小麦种植。生态学家谴责这一「不负责任」决定，警告其严重环境后果。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Le triallate, interdit dans l’UE depuis 2021 pour ses effets cancérigènes et sa persistance dans les sols, illustre les tensions entre lobbies agricoles et réglementations environnementales. Les enjeux incluent la pression économique sur les agriculteurs et les engagements climatiques français. Les causes profondes résident dans une dépendance aux monocultures et un manque de diversification agricole. À court terme, cette réautorisation aggrave la pollution des eaux et la santé des riverains. À moyen terme, elle pourrait affaiblir la crédibilité de la France dans les négociations internationales sur les pesticides. Long terme, une transition vers des alternatives durables est indispensable pour respecter les objectifs de la PAC post-2023. Les associations environnementales critiquent l’influence des lobbies, tandis que le ministère de l’Agriculture justifie cette mesure par des « contraintes exceptionnelles ».",
+      "analyse_en": "Triallate, banned in the EU since 2021 for its carcinogenic effects and soil persistence, highlights tensions between agricultural lobbies and environmental regulations. Key issues involve economic pressure on farmers and France’s climate commitments. Root causes lie in agricultural monoculture dependence and lack of diversification. Short-term, this reauthorization worsens water pollution and affects nearby communities’ health. Medium-term, it may undermine France’s credibility in international pesticide negotiations. Long-term, a shift to sustainable alternatives is critical to meet post-2023 CAP objectives. Environmental groups condemn lobby influence, while the Agriculture Ministry justifies the move as a ‘temporary necessity’.",
+      "analyse_zh": "三亚胺因致癌和土壤持久性于2021年被欧盟禁用，反映了农业利益集团与环保法规之间的矛盾。核心问题包括对农民的经济压力和法国的气候承诺。深层原因在于对单一作物种植的依赖和农业多样性不足。短期内，此重新批准加剧了水污染和周边居民健康风险。中期内，这将削弱法国在国际农药谈判中的信誉。长期来看，转向可持续替代品是履行2023年后农业政策承诺的必要条件。环保组织谴责利益集团的影响，而农业部则以「特殊需要」为由辩解。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Vert.eco",
+      "url": "https://vert.eco/agriculture/la-france-reautorise-le-triallate-un-pesticide-interdit-en-raison-dun-risque-inacceptable-pour-leau/",
+      "image": "https://r2.vert.eco/2026/09/29083224/image-3e926cde-a248-8004-bfda-d64f53d58504.png",
+      "date": "2026-09-29",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole (pollution des sols)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des alternatives biologiques",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole (pollution des sols)",
+          "secteur_en": "Agricultural insurance (soil pollution)",
+          "secteur_zh": "农业保险（土壤污染）",
+          "effet_fr": "Les risques accrus de contamination des sols pourraient entraîner une hausse des primes pour les assurances couvrant les cultures concernées.",
+          "effet_en": "Increased soil contamination risks may lead to higher premiums for insurers covering affected crops.",
+          "effet_zh": "土壤污染风险上升可能导致相关作物保险费用上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des alternatives biologiques",
+          "secteur_en": "Biological alternatives market",
+          "secteur_zh": "生物替代品市场",
+          "effet_fr": "La réautorisation du triallate pourrait freiner l’innovation et la demande pour des solutions écologiques dans l’agriculture.",
+          "effet_en": "Reauthorization of triallate may hinder innovation and demand for eco-friendly solutions in agriculture.",
+          "effet_zh": "三亚胺的重新批准可能抑制农业生物替代品市场的创新和需求。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-01T04:17:23.079910",
+      "sous_categorie": "environnement"
+    },
     {
       "id": "pol_femmes_273119",
       "titre": "Belgique : féminicides sans recensement officiel",
@@ -6431,66 +6551,6 @@
         }
       ],
       "created_at": "2026-09-25T11:14:00.413373",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_634695",
-      "titre": "Féminicide au Cher : appel à témoins",
-      "titre_en": "Cher femicide: witness appeal launched",
-      "titre_zh": "谢尔省女性遇害：寻求目击者",
-      "titre_ru": "В Шатомилане розыски опасного подозреваемого в убийстве женщины",
-      "titre_fa": "جستجوی شاهد برای یافتن متهم خطرناک در قتل زن در شاتومیلان",
-      "titre_ar": "البحث عن الشهود لاعتقال المشتبه به الخطير في قتل امرأة في شاتوميلان",
-      "titre_original": "Cher. « Un individu dangereux » : un appel à témoins lancé pour retrouver le suspect d'un féminicide",
-      "resume": "Trois jours après la découverte du corps d’une femme de 47 ans à Châteaumeillant, les gendarmes lancent un appel à témoins pour retrouver son compagnon, suspecté d’être l’auteur du crime. Ce dernier est décrit comme un individu « dangereux », ce qui alerte sur la récurrence des violences conjugales en France. L’enquête, toujours en cours, interroge sur les failles dans la protection des victimes et la réactivité des autorités.",
-      "resume_en": "Three days after the body of a 47-year-old woman was found in Châteaumeillant, gendarmes are appealing for witnesses to track down her partner, suspected of the crime. Described as a ‘dangerous’ individual, this case highlights the persistent issue of domestic violence in France. The ongoing investigation raises questions about gaps in victim protection and law enforcement responsiveness.",
-      "resume_zh": "法国谢尔省发现一名47岁女性遇害身亡，警方发出寻找目击者的通缉令，怀疑其男友是凶手。嫌疑人被描述为‘危险人物’，此案再次凸显法国家庭暴力的顽固问题。仍在进行的调查质疑了对受害者保护和执法反应的漏洞。",
-      "resume_ru": "Три дня назад в доме в Шатомилане (департамент Шер) было обнаружено тело женщины 47 лет. Гендармерия считает её компаньона опасным и активно ищет его. Обстоятельства преступления остаются невыясненными, но следствие подозревает, что мужчина мог быть причастен к трагедии.",
-      "resume_fa": "سه روز پیش، جسد یک زن ۴۷ ساله در خانه‌اش در شاتومیلان (دپارتمان شر) کشف شد. گارد ملی او را «خطرناک» می‌داند و به دنبال اوست. دلیل قتل هنوز مشخص نیست، اما احتمال دارد که شریک زندگی او در این حادثه دخیل باشد.",
-      "resume_ar": "بعد من ثلاثة أيام، اكتُشف جثة امرأة تبلغ من العمر 47 عامًا في منزلها في شاتوميلان (منطقة شير). الشرطة العسكرية تعتبر شريكها «خطيرًا» وتبحث عنه بجدية. أسباب الجريمة لا تزال غير واضحة، لكن هناك احتمال أن يكون الرجل متورطًا في هذا الحادث.",
-      "analyse_detaillee": "La France affronte une crise récurrente des féminicides, avec près de 100 femmes tuées chaque année par leur partenaire ou ex-partenaire. Ce cas du Cher illustre les mécanismes systémiques de la violence conjugale, souvent minimisée ou ignorée jusqu’à l’irréparable. Les causes profondes incluent la banalisation des violences, le manque de moyens pour les associations d’aide aux victimes, et une justice parfois lente à agir. À court terme, l’affaire pourrait relancer les débats sur le renforcement des peines et des dispositifs de protection. À moyen terme, elle pourrait accélérer des réformes législatives, comme la généralisation des bracelets électroniques pour les auteurs de violences. Long terme, une prise de conscience sociétale est nécessaire pour briser le silence autour de ces crimes. Les associations féministes appellent à des mesures structurelles, tandis que l’État reste divisé entre fermeté et pragmatisme.",
-      "analyse_en": "France faces a persistent crisis of femicides, with nearly 100 women killed annually by partners or ex-partners. This case in Cher highlights systemic mechanisms of domestic violence, often downplayed until it’s too late. Root causes include the normalization of violence, insufficient resources for victim support organizations, and a justice system that can be slow to act. Short-term, this case may reignite debates on stricter penalties and protective measures. Medium-term, it could push legislative reforms, such as mandatory electronic bracelets for violent offenders. Long-term, societal awareness is needed to break the silence around these crimes. Feminist groups demand structural measures, while the government remains divided between toughness and pragmatism.",
-      "analyse_zh": "法国长期面临女性遇害的危机，每年近100名女性死于伴侣或前伴侣之手。谢尔省此案暴露了家庭暴力的系统性机制，往往在危机爆发前被忽视或轻视。深层原因包括暴力行为的普遍化、救援组织资金不足以及司法机构反应迟缓。短期内，此案可能重新引发对加重刑罚和保护措施的讨论。中期内，可能推动立法改革，如强制对暴力嫌疑人佩戴电子手环。长期来看，社会需要更多的觉醒来打破对这些犯罪的沉默。女性主义组织呼吁结构性改革，而政府则在坚决与务实之间分歧明显。",
-      "analyse_ru": "Фемницид в Шатомилане вновь привлек внимание к проблеме насилия в семье во Франции, где каждые несколько дней регистрируются подобные преступления. Подозреваемый, по версии следствия, мог действовать под влиянием агрессии или психологической нестабильности, что требует глубокого психологического анализа. Последствия для общества включают рост страха среди женщин и необходимость усиления мер профилактики. Перспективы следствия зависят от скорости обнаружения подозреваемого и его мотивации. Позиции общественности и властей разделились: одни требуют ужесточения наказаний, другие — улучшения социальной поддержки жертв насилия.",
-      "analyse_fa": "قتل زن در شاتومیلان دوباره توجه به مسئله خشونت خانگی در فرانسه جلب کرده است، جایی که هر چند روز یک بار چنین جنایاتی رخ می‌دهند. متهم، بر اساس تحقیقات، ممکن است تحت تأثیر خشم یا عدم استقرار روانی عمل کرده باشد، که نیاز به تحلیل عمیق روانشناختی دارد. پیامدهای اجتماعی این جنایت شامل افزایش ترس زنان و نیاز به تقویت اقدامات پیشگیری است. آینده تحقیقات به سرعت یافتن متهم و درک دلایل او بستگی دارد. مواضع عمومی و مقامات تقسیم شده است: برخی از سختگیری در مجازات‌ها می‌خواهند، برخی دیگر بهبود حمایت اجتماعی قربانیان خشونت را ضروری می‌دانند.",
-      "analyse_ar": "قتل المرأة في شاتوميلان أعاد تركيز الانتباه على مشكلة العنف المنزلي في فرنسا، حيث تحدث جرائم مماثلة كل بضعة أيام. وفقًا للتحقيقات، قد يكون المشتبه به قد عمل تحت تأثير الغضب أو عدم الاستقرار النفسي، مما يتطلب تحليلًا نفسيًا عميقًا. العواقب الاجتماعية لهذا الجريمة تشمل زيادة الخوف لدى النساء وضرورة تعزيز التدابير الوقائية. مستقبل التحقيقات يعتمد على سرعة اكتشاف المشتبه به ومفهوميته. مواقف المجتمع والحكومات متضاربة: البعض يدعو إلى تشديد العقوبات، بينما الآخرون يعتبرون تحسين الدعم الاجتماعي للقربان ضروريًا.",
-      "categorie": "Société",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/09/23/un-individu-dangereux-un-appel-a-temoins-lance-pour-retrouver-le-suspect-d-un-feminicide",
-      "image": "https://cdn-s-www.ledauphine.com/images/D9D8EA5A-F482-4508-A5EF-7A081FDBEC7C/FB1200/photo-1790173417.jpg",
-      "date": "2026-09-23",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurances responsabilité civile",
-          "hausse": true
-        },
-        {
-          "label": "▲ Fonds de prévention des violences conjugales",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances responsabilité civile",
-          "secteur_en": "Civil liability insurance",
-          "secteur_zh": "民事责任保险",
-          "effet_fr": "Les assureurs pourraient voir une hausse des réclamations liées à des négligences dans la protection des victimes de violences conjugales.",
-          "effet_en": "Insurers may face increased claims due to alleged failures in protecting domestic violence victims.",
-          "effet_zh": "保险公司可能面临因未能保护家庭暴力受害者而导致的索赔增加。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de prévention des violences conjugales",
-          "secteur_en": "Domestic violence prevention funds",
-          "secteur_zh": "家庭暴力预防基金",
-          "effet_fr": "Les budgets alloués pourraient être réévalués à la hausse pour renforcer les dispositifs d’aide aux victimes.",
-          "effet_en": "Allocated budgets may be reassessed upward to strengthen victim support programs.",
-          "effet_zh": "可能会重新评估并增加用于受害者援助的预算。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-24T18:15:02.265803",
       "sous_categorie": "femmes"
     },
     {
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-09-28T10:37:05.492638",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_341912",
-      "titre": "Daikin : PFAS transformé en TFA",
-      "titre_en": "Daikin’s PFAS turns into TFA",
-      "titre_zh": "大金公司PFAS转化为TFA",
-      "titre_ru": "Документы подтверждают опасность нового PFAS от Daikin",
-      "titre_fa": "دستنویس‌ها خطر جدید PFAS شرکت دایکین را تأیید می‌کنند",
-      "titre_ar": "وثائق تؤكد خطورة PFAS الجديد من شركة دايكين",
-      "titre_original": "INFO FRANCE 3 : Des documents confirment que le nouveau PFAS utilisé par Daikin va se transformer en TFA",
-      "resume": "France 3 Rhône-Alpes a révélé un rapport interne de Daikin confirmant que son nouveau procédé industriel, près de Lyon, génère un composé chimique (TFA) potentiellement toxique. Ce document, obtenu dans le cadre d’une évaluation des risques sanitaires, soulève des questions sur la transparence industrielle et les alternatives aux PFAS. Les autorités sanitaires pourraient être contraintes d’agir face à ces révélations.",
-      "resume_en": "France 3 Rhône-Alpes obtained an internal report from Daikin confirming its new industrial process near Lyon produces TFA, a potentially toxic compound. The document raises concerns about industrial transparency and alternatives to PFAS, prompting potential regulatory action.",
-      "resume_zh": "法国3台罗讷-阿尔卑斯电视台披露大金公司内部报告，确认其位于里昂附近的新工艺会产生有毒化合物TFA。这份风险评估文件引发了工业透明度和PFAS替代品的质疑，可能迫使卫生当局采取行动。",
-      "resume_ru": "Франция 3 Рона-Альпы получила оценку рисков для здоровья, подготовленную компанией Daikin в связи с изменением технологического процесса на заводе в Лионе. Согласно документу, новое вещество может превращаться в токсичное соединение — TFA. Это вызывает опасения за экологическую безопасность региона.",
-      "resume_fa": "فرانس ۳ رون-آلپ گزارش ارزیابی خطرات بهداشتی شرکت دایکین را در ارتباط با تغییرات فرایند صنعتی در جنوب لیون دریافت کرد. این گزارش تأیید می‌کند که ماده جدید به TFA تبدیل خواهد شد. این موضوع نگرانی‌های زیست‌محیطی در منطقه را افزایش داده است.",
-      "resume_ar": "حصلت قناة فرانس 3 رون ألب على تقييم مخاطر صحية أعدته شركة دايكين ضمن تعديل عملية صناعية في جنوب ليون. الوثائق تؤكد أن المادة الجديدة ستتحول إلى مركب سامّ، وهو TFA، ما يثير مخاوف بشأن السلامة البيئية في المنطقة.",
-      "analyse_detaillee": "Les PFAS, surnommés « polluants éternels », sont déjà sous surveillance en Europe pour leurs effets cancérigènes et leur persistance dans l’environnement. Ce cas illustre les lacunes des régulations industrielles, où les entreprises comme Daikin peinent à prouver l’innocuité de leurs substituts chimiques. Les conséquences immédiates incluent une défiance accrue envers les géants industriels et des pressions accrues sur l’ANSES pour accélérer les contrôles. À moyen terme, cela pourrait accélérer l’adoption de normes européennes plus strictes sur les substances chimiques. Long terme, une transition vers des procédés « verts » devient inévitable, mais coûteuse pour les acteurs historiques. Les associations environnementales (Greenpeace, Robin des Bois) dénoncent un manque de vigilance, tandis que Daikin se défend en invoquant des protocoles de sécurité rigoureux.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, are already under scrutiny in Europe for their carcinogenic effects and environmental persistence. This case highlights gaps in industrial regulations, where companies like Daikin struggle to prove the safety of their chemical substitutes. Immediate consequences include increased distrust of industrial giants and pressure on France’s ANSSES to speed up controls. In the medium term, this could accelerate stricter EU chemical substance regulations. Long-term, a shift toward ‘green’ processes is inevitable but costly for historical players. Environmental groups (Greenpeace, Robin des Bois) criticize lax oversight, while Daikin defends its rigorous safety protocols.",
-      "analyse_zh": "PFAS被誉为「永久性污染物」，已因其致癌性和环境持久性在欧洲受到监管。此案例暴露了工业法规的漏洞，大金公司等企业难以证明其化学替代品的安全性。短期内，公众对工业巨头的信任度下降，法国卫生安全局（ANSES）将面临更大压力加快监管。中期内，欧盟可能加速出台更严格的化学物质法规。长期来看，向「绿色」工艺转型势在必行，但对传统企业来说成本高昂。环保组织（绿色和平、罗宾汉）批评监管不力，而大金公司则强调其严格的安全协议。",
-      "analyse_ru": "Экологические организации уже давно предупреждают о опасности PFAS — группы химических веществ, известных как «вечные загрязнители». Новое соединение от Daikin, по данным оценки, может образовывать TFA, который обладает высокой токсичностью и накапливается в организме. Это поднимает вопрос о соблюдении компанией норм безопасности и прозрачности при внедрении инноваций. Региональные власти должны провести независимую экспертизу, чтобы исключить риски для населения. В то же время, Daikin может аргументировать изменения технологией как шаг к устойчивому развитию, но потребуется доказательство реальной безопасности. Конфликт интересов между прибылью и здоровьем жителей остаётся актуальным.",
-      "analyse_fa": "سازمان‌های زیست‌محیطی از مدت‌ها پیش از خطر PFAS، که به عنوان «آلاینده‌های ابدی» شناخته می‌شوند، هشدار داده‌اند. گزارش جدید شرکت دایکین نشان می‌دهد که ماده جدید می‌تواند به TFA تبدیل شود، که دارای سمیت بالا و تجمع در بدن است. این موضوع سؤالی را در مورد رعایت استانداردهای ایمنی و شفافیت شرکت در پیاده‌سازی نوآوری‌ها ایجاد می‌کند. دولت منطقه باید ارزیابی مستقل انجام دهد تا خطرات احتمالی برای ساکنان را کاهش دهد. در حالی که دایکین ممکن است تغییرات را به عنوان گام به سوی توسعه پایدار توجیه کند، اما باید اثبات شود که این تغییرات به‌طور واقعی ایمن هستند. تناقض بین سود و سلامت ساکنان همچنان موضوعی مهم باقی می‌ماند.",
-      "analyse_ar": "منظمات بيئية كانت منذ فترة طويلة تحذيرية من خطورة PFAS، المعروفة باسم «اللوثات الدائمة». الوثائق الجديدة من شركة دايكين تشير إلى أن المادة الجديدة قد تتحول إلى TFA، الذي يتمتع بسمية عالية ويتراكم في الجسم. هذا يثير تساؤلات حول مدى الالتزام الشركة بمعايير السلامة والشفافية في تطبيق الابتكارات. يجب على السلطات المحلية إجراء تقييم مستقل لضمان عدم وجود مخاطر على السكان. في الوقت نفسه، قد تبرر دايكين التغييرات بأنها خطوة نحو التنمية المستدامة، ولكن يجب إثبات أن هذه التغييرات فعليًا آمنة. التناقض بين الربح والصحة العامة يبقى موضوعًا حاسمًا.",
-      "categorie": "Environnement",
-      "source": "Franceinfo.fr",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/info-france-3-des-documents-confirment-que-le-nouveau-pfas-utilise-par-daikin-va-se-transformer-en-tfa-3423266.html",
-      "image": "https://france3-regions.franceinfo.fr/image/02tcsZUDqfq7FP9DE7k9f0OdD3E/930x620/regions/2026/09/25/6ab673682ef92602714479.jpg",
-      "date": "2026-09-25",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Industrie chimique française",
-          "hausse": false
-        },
-        {
-          "label": "▲ Marché des alternatives écologiques",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Industrie chimique française",
-          "secteur_en": "French chemical industry",
-          "secteur_zh": "法国化学工业",
-          "effet_fr": "Ce scandale pourrait entraîner des amendes record et une perte de crédibilité pour Daikin, affectant la valorisation boursière des acteurs du secteur.",
-          "effet_en": "This scandal could lead to record fines and reputational damage for Daikin, impacting the stock valuation of industry players.",
-          "effet_zh": "此事件可能导致大金公司遭受巨额罚款和声誉损害，影响化学行业上市公司的市值。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Marché des alternatives écologiques",
-          "secteur_en": "Green alternatives market",
-          "secteur_zh": "绿色替代品市场",
-          "effet_fr": "La demande en solutions non toxiques pourrait exploser, bénéficiant aux startups innovantes et aux PME spécialisées dans les procédés durables.",
-          "effet_en": "Demand for non-toxic solutions may surge, benefiting innovative startups and SMEs focused on sustainable processes.",
-          "effet_zh": "对非毒性解决方案的需求可能激增，有利于创新初创企业和专注可持续工艺的中小企业。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-26T18:22:46.381502",
       "sous_categorie": "environnement"
     }
   ]
