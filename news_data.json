@@ -1,5 +1,5 @@
 {
-  "last_updated": "02/10/2026 à 02h09",
+  "last_updated": "02/10/2026 à 09h25",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,66 @@
   },
   "politique": [
     {
+      "id": "pol_env_369242",
+      "titre": "Pesticides : deux projets agricoles financés",
+      "titre_en": "Pesticides: Two Farm Projects Funded",
+      "titre_zh": "农药替代：两大农业项目获资助",
+      "titre_ru": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
+      "titre_fa": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
+      "titre_ar": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
+      "titre_original": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
+      "resume": "Le ministère de l’Agriculture a sélectionné deux projets collectifs dans le cadre d’un appel à projets visant à réduire l’usage des pesticides. Ces initiatives, soutenues financièrement, concernent les grandes cultures et le maraîchage. Elles s’inscrivent dans une dynamique de transition écologique et de durabilité agricole post-2020.",
+      "resume_en": "France’s Ministry of Agriculture has chosen two collective agricultural projects under a program aimed at reducing pesticide use. Funded initiatives target large-scale crops and vegetable farming. They align with a post-2020 ecological and sustainable agricultural transition.",
+      "resume_zh": "法国农业部选择了两个集体农业项目，旨在减少农药使用。资助项目涵盖大田作物和蔬菜种植。这些举措符合2020年后的生态和可持续农业转型目标。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France, sous pression européenne et internationale pour réduire ses pesticides, accélère les alternatives depuis la loi Egalim (2018) et le plan « Zéro résidus » (2020). Les enjeux sont à la fois environnementaux (biodiversité, santé des sols) et économiques (coûts sanitaires et réglementaires croissants). Les causes profondes incluent la dépendance historique aux intrants chimiques et un modèle agricole intensif peu résilient. À court terme, ces projets pourraient générer des emplois locaux et des gains de productivité via des méthodes innovantes. À moyen terme, leur succès dépendra de l’adhésion des agriculteurs et des investissements publics-privés. Long terme, ils pourraient redéfinir les standards européens en agriculture durable, mais risquent de heurter les lobbies agrochimiques. Les acteurs publics (ministère, régions) y voient une opportunité de leadership vert, tandis que les coopératives agricoles et les ONG (comme Greenpeace) saluent une avancée, malgré des critiques sur l’ampleur insuffisante des budgets alloués.",
+      "analyse_en": "France, under EU and global pressure to cut pesticide use, has stepped up alternative measures since the Egalim Law (2018) and the ‘Zero Residue’ plan (2020). Stakes involve environmental concerns (biodiversity, soil health) and economic pressures (rising health and regulatory costs). Root causes stem from historical reliance on chemical inputs and an unsustainable intensive farming model. Short-term, these projects may create local jobs and boost productivity through innovative methods. Medium-term success hinges on farmer adoption and public-private investment. Long-term, they could redefine EU agricultural standards but may clash with agrochemical lobby interests. Public actors (ministry, regions) see this as a green leadership opportunity, while cooperatives and NGOs (like Greenpeace) welcome progress, though budget limitations remain a concern.",
+      "analyse_zh": "法国在欧盟和国际压力下，自2018年《农业平等法》和2020年《零残留计划》以来，加速推进农药替代措施。主要影响涉及生态环境（生物多样性、土壤健康）和经济压力（健康和监管成本上升）。深层原因包括对化学投入的历史依赖和不持续的集约化农业模式。短期内，这些项目可能创造当地就业机会并通过创新方法提高产量。中期成功取决于农民的参与和公私合作投资。长期来看，它们可能重塑欧盟农业可持续标准，但可能与农化行业利益集团发生冲突。公共部门（部委、地区）视此为绿色领导力机遇，而合作社和环保组织（如绿色和平）虽然欢迎进展，但仍对资金规模不足表示质疑。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Agriculture",
+      "source": "Actu-environnement.com",
+      "url": "https://www.actu-environnement.com/ae/news/alternatives-pesticides-pramm-grandes-cultures-maraichage-48592.php4",
+      "image": "https://www.actu-environnement.com/images/illustrations/breve/48592_reseaux_sociaux.jpg",
+      "date": "2026-10-01",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et réassurance",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des intrants agricoles biologiques",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et réassurance",
+          "secteur_en": "Agricultural insurance and reinsurance",
+          "secteur_zh": "农业保险及再保险",
+          "effet_fr": "Les projets de réduction des pesticides pourraient augmenter les coûts des assurances pour les agriculteurs, en raison de risques accrus liés aux méthodes alternatives moins standardisées.",
+          "effet_en": "Pesticide-reduction projects may raise insurance costs for farmers due to higher risks from less standardized alternative methods.",
+          "effet_zh": "农药减量项目可能增加农民的保险成本，因为替代方法不够标准化，带来更高的风险。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des intrants agricoles biologiques",
+          "secteur_en": "Biological agricultural inputs market",
+          "secteur_zh": "有机农业投入品市场",
+          "effet_fr": "La demande en alternatives naturelles (bio-stimulants, composts) devrait dynamiser ce secteur, mais la concurrence avec les géants agrochimiques reste forte.",
+          "effet_en": "Demand for natural alternatives (bio-stimulants, composts) will boost this market, though competition with agrochemical giants remains intense.",
+          "effet_zh": "对天然替代品（生物刺激剂、堆肥）的需求将推动该市场增长，但与农化巨头的竞争依然激烈。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-02T09:25:45.840544",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_689227",
       "titre": "Féminicide en Vaucluse-Gard : appel à perpétuité",
       "titre_en": "Double femicide in Vaucluse-Gard: life sentence appeal",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-09-30T08:03:26.990194",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_921639",
-      "titre": "PFAS : Wallonie, trois ans d’impunité toxique",
-      "titre_en": "PFAS: Three Years of Toxic Impunity in Wallonia",
-      "titre_zh": "PFAS：比利时瓦隆尼亚三年毒性免责",
-      "titre_ru": "ПФАС: бесконечна ли безнаказанность промышленности, как и загрязнение?",
-      "titre_fa": "پفاس: آیا بی‌عدالتی صنایع هم به‌طولانی Pollution آن خواهد بود؟",
-      "titre_ar": "البيفاس: هل ستستمر عفوية الصناعات مثل تلوثها إلى الأبد؟",
-      "titre_original": "PFAS : l’impunité des industries sera-t-elle aussi éternelle que la pollution qu’elles émettent ?",
-      "resume": "Trois ans après la révélation de la contamination généralisée des Wallons par les PFAS, surnommées ‘polluants éternels’, aucune transparence n’émerge sur les industries responsables. Les autorités peinent à identifier les sources d’émission, malgré des alertes répétées. Ce silence officiel aggrave l’urgence sanitaire et environnementale dans une région déjà marquée par des scandales industriels.",
-      "resume_en": "Three years after the exposure of widespread PFAS contamination in Wallonia, dubbed ‘forever chemicals’, no clarity exists on which industries are emitting these pollutants. Authorities struggle to pinpoint sources despite repeated warnings, exacerbating health and environmental risks in a region already scarred by industrial scandals.",
-      "resume_zh": "比利时瓦隆尼亚暴露出‘永久性污染物’PFAS普遍污染三年后，仍无法确定哪些工业企业排放这些化学物质。尽管多次警告，当局仍难以找出污染源，加剧了该地区的健康和环境风险，此前已因工业丑闻而声名狼藉。",
-      "resume_ru": "В ноябре 2023 года разразился скандал: все валлонцы загрязнены веществами ПФАС. Через три года остаётся неясным, какие именно предприятия выделяют эти химикаты в окружающую среду. Ответственность за экологическое преступление по-прежнему не установлена. Эксперты подчёркивают отсутствие прозрачности в отрасли. Вопрос о виновниках остаётся без ответа, несмотря на растущую общественную тревогу.",
-      "resume_fa": "در نوامبر ۲۰۲۳، اسکاندال پفاس در میان ساکنان والونی به‌وجود آمد: همه آلوده به این مواد شیمیایی هستند. سه سال بعد، هنوز مشخص نیست کدام صنایع این مواد را به محیط زیست می‌ریزند. مسئولیت آلودگی همچنان مشخص نیست. متخصصان عدم شفافیت در این صنعت را تأکید می‌کنند. سوالی دربارهٔ مجرمان بدون پاسخ باقی مانده است، در حالی که نگرانی عمومی در حال افزایش است.",
-      "resume_ar": "في نوفمبر 2023، انفجرت فضيحة: جميع سكان والونيا ملوثون بمواد البيفاس. بعد ثلاث سنوات، لا تزال غير واضحة أي مصانع تطلق هذه المواد الكيميائية إلى البيئة. المسؤولية عن التلوث لا تزال غير مبررة. خبراء يؤكدون عدم الشفافية في هذا القطاع. السؤال عن المجرمين لا يزال دون إجابة، بينما تزداد القلق العام.",
-      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950 dans des industries comme la métallurgie ou la fabrication de textiles, sont aujourd’hui pointés comme responsables de graves problèmes de santé (cancers, troubles hormonaux). Leur persistance dans l’environnement, due à leur résistance à la dégradation, révèle un échec structurel des régulations européennes, souvent influencées par les lobbies industriels. À court terme, les populations exposées subissent des diagnostics tardifs et des traitements coûteux, tandis que les cours d’eau contaminés menacent l’agriculture locale. À moyen terme, la crise pourrait déclencher des poursuites judiciaires massives contre les pollueurs, mais leur impunité historique limite les sanctions effectives. Long terme, l’UE pourrait durcir ses normes, mais les coûts de dépollution pourraient peser sur les budgets publics et les assurances industrielles. Les associations écologistes dénoncent un ‘délai de grâce’ accordé aux industries, tandis que les autorités wallonnes restent divisées entre pression politique et dépendance économique à ces secteurs.",
-      "analyse_en": "PFAS, used since the 1950s in industries like metallurgy and textile manufacturing, are now linked to severe health issues (cancers, hormonal disorders). Their persistence in the environment, due to resistance to degradation, exposes systemic failures in European regulations, often shaped by industrial lobbying. Short-term, exposed populations face delayed diagnoses and expensive treatments, while contaminated waterways threaten local agriculture. Medium-term, mass lawsuits against polluters may emerge, but historical impunity limits effective penalties. Long-term, the EU might tighten regulations, but depollution costs could burden public budgets and industrial insurance. Environmental groups condemn a ‘grace period’ granted to industries, while Walloon authorities remain divided between political pressure and economic dependence on these sectors.",
-      "analyse_zh": "PFAS化学物质自上世纪50年代起被广泛应用于冶金和纺织等行业，现已被证明与多种严重健康问题（癌症、内分泌紊乱）相关。其在环境中难以降解的特性，暴露了欧洲监管体系的结构性缺陷，后者常受工业利益集团影响。短期内，暴露人口面临延误的诊断和高昂的治疗费用，而污染的水源则威胁当地农业。中期内，大规模对污染企业的诉讼可能爆发，但历史上的免责制度限制了有效的惩罚措施。长期来看，欧盟可能加严法规，但清理污染的成本可能压垮公共预算和工业保险。环保组织谴责工业企业获得了‘宽限期’，而瓦隆尼亚当局则在政治压力和经济依赖这些行业之间分裂。",
-      "analyse_ru": "Скандал с ПФАС — это не только экологическая проблема, но и вопрос социальной справедливости. Эти химические вещества, прозванные «вечными загрязнителями», накапливаются в организмах людей и животных, вызывая серьёзные заболевания. Отсутствие прозрачности в отрасли позволяет предприятиям продолжать выбросы без контроля, несмотря на международные стандарты. Власти Валлонии критикуют за медлительность в принятии мер, а экологи требуют немедленных проверок и наказаний. Перспективы изменения ситуации зависят от политической воли и международного давления, но пока промышленники остаются вне поля зрения правосудия.",
-      "analyse_fa": "اسکاندال پفاس نه تنها یک مشکل زیست‌محیطی بلکه یک سوال عدالت اجتماعی است. این مواد شیمیایی که «آلاینده‌های ابدی» نامیده می‌شوند، در بدن انسان‌ها و حیوانات تجمع می‌یابند و بیماری‌های جدی ایجاد می‌کنند. عدم شفافیت در صنعت اجازه می‌دهد که صنایع آلودگی را بدون کنترل ادامه دهند، در حالی که استانداردهای بین‌المللی وجود دارد. مقامات والونی را به کندی در اتخاذ اقدامات انتقاد می‌کنند و اکولوژیست‌ها از بررسی‌های فوری و مجازات‌ها می‌خواهند. چشم‌انداز تغییر وضعیت به اراده سیاسی و فشار بین‌المللی بستگی دارد، اما هنوز صنایع در خارج از دید عدالت باقی مانده‌اند.",
-      "analyse_ar": "فضيحة البيفاس ليست فقط مشكلة بيئية، بل هي أيضا سؤال من العدالة الاجتماعية. هذه المواد الكيميائية، التي سميت «التلوث الأبدي»، تتراكم في أجسام البشر والحيوانات، وتسبب أمراض خطيرة. عدم الشفافية في القطاع يسمح للمصانع بالاتجاه إلى التلوث دون رقابة، رغم وجود المعايير الدولية. يوجه النقد إلى السلطات الوالونية بسبب بطء اتخاذ التدابير، بينما تطالب البيئة بالتحقيقات الفورية والعقوبات. آفاق التغيير تعتمد على الإرادة السياسية والضغط الدولي، ولكن المصانع ما زالت خارج نطاق العدالة.",
-      "categorie": "Environnement",
-      "source": "Lalibre.be",
-      "url": "https://www.lalibre.be/debats/opinions/2026/09/28/pfas-limpunite-des-industries-sera-t-elle-aussi-eternelle-que-la-pollution-quelles-emettent-MWXA4K3RHFCTXEHTS4IGTNADNQ/",
-      "image": "https://www.lalibre.be/resizer/v2/IYSKIPPYEJHCHAUEXZGOSNDHUM.jpeg?auth=1c3090dbd52d3b1fcd4d825a30bd6028ac63ddef27a830b3e56a73d4f4699e1a&width=1200&height=630&quality=85&focal=4320%2C2880",
-      "date": "2026-09-28",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurances industrielles (responsabilité environnementale)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Banques (financement des dépollutions)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances industrielles (responsabilité environnementale)",
-          "secteur_en": "Industrial insurance (environmental liability)",
-          "secteur_zh": "工业保险（环境责任）",
-          "effet_fr": "Les assureurs pourraient voir leurs primes exploser en raison des risques accrus liés aux PFAS, poussant certains à exclure ces polluants de leurs couvertures.",
-          "effet_en": "Insurers may face skyrocketing premiums due to heightened PFAS-related risks, forcing some to exclude these pollutants from their coverage.",
-          "effet_zh": "保险公司可能因PFAS相关风险上升而面临保费暴涨，迫使部分公司拒绝承保这些污染物。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Banques (financement des dépollutions)",
-          "secteur_en": "Banks (funding for depollution)",
-          "secteur_zh": "银行（污染清理资金）",
-          "effet_fr": "Les établissements financiers pourraient refuser de financer des projets de dépollution jugés trop risqués ou coûteux, aggravant la crise économique locale.",
-          "effet_en": "Financial institutions may refuse to fund depollution projects deemed too risky or expensive, worsening the local economic crisis.",
-          "effet_zh": "金融机构可能拒绝资助被视为过于风险或成本高昂的污染清理项目，加剧当地经济危机。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-09-29T21:54:57.991200",
       "sous_categorie": "environnement"
     }
   ]
