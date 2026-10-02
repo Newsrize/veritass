@@ -1,7 +1,66 @@
 {
-  "last_updated": "02/10/2026 à 16h08",
+  "last_updated": "02/10/2026 à 21h11",
   "articles": {
     "monde": [
+      {
+        "id": "monde_391547",
+        "titre": "Clinique VA nationale en crise de recrutement",
+        "titre_en": "VA’s largest hospital faces staffing crisis",
+        "titre_zh": "美国最大VA医院面临招聘危机",
+        "titre_ru": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
+        "titre_fa": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
+        "titre_ar": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
+        "titre_original": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
+        "resume": "Un an après son ouverture, le plus grand hôpital vétérans des États-Unis, couvrant 470 000 m², peine à recruter suffisamment de personnel. Cette pénurie aggrave les délais de soins et la qualité des services pour des millions de vétérans. Les causes incluent des salaires insuffisants, une saturation du système et des difficultés logistiques.",
+        "resume_en": "A year after opening, the nation’s largest VA hospital—spanning 470,000 sq ft—struggles to hire enough staff. This shortage worsens wait times and service quality for millions of veterans. Root causes include low wages, systemic overload, and logistical hurdles.",
+        "resume_zh": "开业一年后，美国最大的退伍军人事务医院（占地47万平方米）面临严重招聘困难。人手短缺加剧了退伍军人就医延误和服务质量下降。原因包括薪资偏低、系统超负荷和后勤困难。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce problème s’inscrit dans une tendance plus large de pénurie de main-d’œuvre dans le secteur public américain, exacerbée par des décennies de sous-financement des hôpitaux VA. Les enjeux incluent la santé des vétérans, la réputation du gouvernement et la pression budgétaire. Les causes profondes sont liées à des politiques salariales obsolètes et à une bureaucratie lente. À court terme, les retards de soins et les fermetures de services risquent d’augmenter. À moyen terme, cela pourrait entraîner une réforme des systèmes de recrutement et de rémunération. Long terme, une modernisation des infrastructures et une collaboration public-privé pourraient être nécessaires. Les vétérans et les syndicats dénoncent l’incompétence, tandis que le Congrès hésite à allouer des fonds supplémentaires.",
+        "analyse_en": "This issue reflects a broader trend of workforce shortages in U.S. public healthcare, worsened by decades of underfunding VA hospitals. Key stakes involve veterans' health, government credibility, and budgetary pressures. Root causes stem from outdated pay policies and bureaucratic inefficiencies. Short-term risks include prolonged wait times and service closures. Medium-term, reforms in recruitment and compensation systems may emerge. Long-term, infrastructure modernization and public-private partnerships could be critical. Veterans’ groups and unions criticize incompetence, while Congress hesitates to allocate more funds.",
+        "analyse_zh": "此问题反映了美国公共卫生领域长期存在的用工短缺问题，特别是VA医院多年来资金不足的结果。主要影响包括退伍军人健康、政府信誉和财政压力。深层原因包括落后的薪酬政策和官僚主义效率低下。短期内，就医延误和服务中断风险增加。中期可能推动招聘和薪酬制度改革。长期来看，基础设施现代化和公私合作可能成为关键。退伍军人组织和工会批评政府无能，而国会则犹豫是否追加预算。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/01/veterans-affairs-clinic-virginia-staff-fredericksburg",
+        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2215825532%20(1).jpg",
+        "date": "2026-10-01",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Assurance santé publique (VA)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des services de santé privés",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance santé publique (VA)",
+            "secteur_en": "Public healthcare insurance (VA)",
+            "secteur_zh": "公共医疗保险（退伍军人事务）",
+            "effet_fr": "La pénurie de personnel menace la viabilité financière de ce système en augmentant les coûts des soins non assurés et les litiges juridiques.",
+            "effet_en": "Staff shortages threaten the financial sustainability of this system by increasing uninsured care costs and legal disputes.",
+            "effet_zh": "人手短缺威胁该系统的财务可持续性，增加未保险医疗成本和法律纠纷。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des services de santé privés",
+            "secteur_en": "Private healthcare services market",
+            "secteur_zh": "私营医疗服务市场",
+            "effet_fr": "Les prestataires privés pourraient profiter de la demande accrue pour les soins externes, mais risquent aussi une surcharge et une hausse des tarifs.",
+            "effet_en": "Private providers may benefit from increased demand for external care but risk overload and price hikes.",
+            "effet_zh": "私营机构可能从外部就医需求增加中获利，但也面临超负荷和价格上涨风险。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-02T21:10:45.465559"
+      },
       {
         "id": "monde_439022",
         "titre": "Ellison veut garder Thompson à CNN après fusion Paramount-WBD",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-24T21:59:51.549093"
-      },
-      {
-        "id": "monde_140532",
-        "titre": "Blessure d’Olivia Miles inquiétante",
-        "titre_en": "Olivia Miles injury raises concerns",
-        "titre_zh": "奥利维亚·迈尔斯伤势引发担忧",
-        "titre_ru": "Озабоченность по поводу травмы Оливии Майлз при проигрывании «Линкс» на первом месте",
-        "titre_fa": "نگرانی در مورد زخمی شدن اولیویا مایلز در حالی که «لینکس» به رتبه اول رسیدند",
-        "titre_ar": "قلق بشأن إصابة أوليفا مايلز بينما تأهلت «لينكس» إلى المركز الأول",
-        "titre_original": "Concern over Olivia Miles injury as Lynx clinch No. 1 seed despite blowout loss to Indiana",
-        "resume": "Olivia Miles, star du basket féminin, a été absente lors d’un match décisif contre l’Indiana, alimentant les craintes pour sa santé. Son équipe, les Lynx, a malgré tout décroché la première place. Les détails sur sa blessure restent flous.",
-        "resume_en": "Olivia Miles, a star of the WNBA, missed a key game against Indiana, raising health concerns. Her team, the Lynx, still secured the top seed. Details about her injury remain unclear.",
-        "resume_zh": "WNBA女篮明星奥利维亚·迈尔斯在关键比赛中缺席，引发对其健康的担忧。她所在的 Lynx 队仍然获得了第一种子。关于她的伤势细节仍然模糊。",
-        "resume_ru": "Оливия Майлз не смогла выйти на игру «Миннесота» против «Индиана», что вызвало опасения за её состояние после поражения. Несмотря на это, команда всё же получила первое посевное место. Фанаты и эксперты призывают к более тщательному контролю за травмами игроков в сезоне.",
-        "resume_fa": "اولیویا مایلز در بازی «مینیاپولیس» مقابل «ایندیانا» شرکت نکرد که نگرانی‌هایی در مورد وضعیتش پس از شکست ایجاد کرد. با این حال، تیم همچنان به رتبه اول رسید. طرفداران و تحلیلگران به کنترل دقیق‌تر از زخمی شدن بازیکنان در این فصل تأکید می‌کنند.",
-        "resume_ar": "لم تستطع أوليفا مايلز المشاركة في مباراة مينيسوتا ضد إنديانا، ما أثار قلق بشأن حالتها بعد الهزيمة. ومع ذلك، تمكن الفريق من التأهل إلى المركز الأول. يدعو المعجبين والخبراء إلى مراقبة أكثر دقة لإصابات اللاعبين خلال الموسم.",
-        "analyse_detaillee": "Cette blessure s’inscrit dans une tendance plus large de surmenage et de risques physiques accrus dans le basket féminin, où les athlètes subissent des pressions similaires à celles des hommes. Court terme, l’absence de Miles pourrait affaiblir les Lynx en playoffs, mais leur première place les place en position favorable. À moyen terme, son retour dépendra de la gravité de sa blessure et des protocoles de rééducation. Long terme, cette affaire pourrait pousser la WNBA à renforcer les mesures de prévention et de santé des joueuses. Les acteurs incluent les clubs, la fédération (WNBA) et les syndicats de joueurs, qui doivent trouver un équilibre entre performance et sécurité.",
-        "analyse_en": "This injury reflects a broader trend of overuse and increased physical risks in women’s basketball, where athletes face pressures similar to men’s. Short-term, Miles’ absence could weaken the Lynx in the playoffs, but their top seed position is advantageous. Medium-term, her return depends on injury severity and rehabilitation protocols. Long-term, this case may push the WNBA to strengthen player health and prevention measures. Key actors include teams, the league (WNBA), and player unions, balancing performance and safety.",
-        "analyse_zh": "这一伤势反映了女篮中过度训练和增加的身体风险趋势，女运动员面临与男运动员类似的压力。短期内，迈尔斯的缺席可能削弱 Lynx 队在季后赛的实力，但第一种子位置仍然有利。中期内，她的复出取决于伤势严重程度和康复计划。长期来看，此事可能推动WNBA加强运动员健康和预防措施。关键利益相关者包括球队、联盟（WNBA）和球员工会，他们需要在表现和安全之间取得平衡。",
-        "analyse_ru": "Травма Майлз подчёркивает необходимость улучшения медицинского сопровождения в женском баскетболе. Поражение команды не должно отвлекать от проблемы травматизма, особенно в ключевых матчах. Отсутствие игрока может повлиять на психологическое состояние команды и её результаты. Лига должна ввести строгие протоколы восстановления для предотвращения повторных травм. Позиция тренерского штаба остаётся под вопросом: почему не была заменена Майлз на замену?",
-        "analyse_fa": "زخمی شدن مایلز اهمیت بهبود مراقبت‌های پزشکی در بسکتبال زنان را برجسته می‌کند. شکست تیم نباید از مشکل زخمی شدن بازیکنان در بازی‌های کلیدی منحرف کند. عدم حضور بازیکن می‌تواند بر روحیه تیم و نتایجش تأثیر بگذارد. لیگ باید پروتکل‌های بازسازی سختگیرانه‌ای را برای جلوگیری از زخمی شدن مجدد وضع کند. موضع مربیان همچنان زیر سؤال است: چرا مایلز با بازیکن جایگزین جایگزین نشد؟",
-        "analyse_ar": "إصابة مايلز تبرز أهمية تحسين الرعاية الطبية في كرة السلة النسائية. الهزيمة لم تكن سببًا لتجاهل مشكلة الإصابات في المباريات الحاسمة. عدم مشاركة اللاعب قد يؤثر على معنويات الفريق ونتيجة المباراة. يجب على الدوري وضع بروتوكولات استعادة صارمة لمنع الإصابات المتكررة. موضع فريق التدريب لا يزال موضع شك: لماذا لم يتم استبدال مايلز بلاعب بديل؟",
-        "categorie": "Sport & Santé",
-        "source": "Bringmethesports.com",
-        "url": "https://bringmethesports.com/concern-over-olivia-miles-injury-as-lynx-clinch-no-1-seed-despite-blowout-loss-to-indiana",
-        "image": "https://s.yimg.com/lo/mysterio/api/9159e291085d467e81ab591193763003cf9d2b587c0eae84f4d6bba1ad50c737/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbringmethesports_121%2F68d4b4a96b2ddcb476e94ed7c1cadc7d.jpg",
-        "date": "2026-09-23",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Assurance sportive (Allianz)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des sponsors (NYSE: Nike)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance sportive (Allianz)",
-            "secteur_en": "Sports insurance (Allianz)",
-            "secteur_zh": "体育保险（阿利亚斯）",
-            "effet_fr": "Les blessures d’athlètes de haut niveau, comme celle de Miles, augmentent les coûts d’assurance pour les clubs et les ligues, poussant à des couvertures plus strictes.",
-            "effet_en": "High-profile athlete injuries, like Miles’, increase insurance costs for teams and leagues, driving stricter coverage demands.",
-            "effet_zh": "像迈尔斯这样的顶级运动员伤病增加了俱乐部和联盟的保险成本，推动更严格的保险覆盖要求。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des sponsors (NYSE: Nike)",
-            "secteur_en": "Sponsorship market (NYSE: Nike)",
-            "secteur_zh": "赞助市场（纽约证券交易所：耐克）",
-            "effet_fr": "Les blessures fréquentes des joueuses pourraient inciter les sponsors à revoir leurs contrats, privilégiant des athlètes perçues comme plus stables ou moins risquées.",
-            "effet_en": "Frequent injuries among players may prompt sponsors to renegotiate contracts, favoring athletes perceived as more stable or less risky.",
-            "effet_zh": "运动员频繁受伤可能促使赞助商重新谈判合同，更倾向于被视为更稳定或风险较低的运动员。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-24T13:14:58.091618"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_314404",
+        "titre": "Chatbot Grok de Musk encourage Trump à envahir Venezuela",
+        "titre_en": "Grok AI allegedly urged Trump to seize Venezuela",
+        "titre_zh": "马斯克AI聊天机器人鼓动特朗普占领委内瑞拉",
+        "titre_ru": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+        "titre_fa": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+        "titre_ar": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+        "titre_original": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+        "resume": "Selon des sources non vérifiées, l’IA Grok de Musk aurait suggéré à Donald Trump d’intervenir militairement pour renverser le président vénézuélien. Cet incident survient dans un contexte de tensions géopolitiques croissantes entre Washington et Caracas. Les implications pourraient inclure une escalade des conflits et une polarisation accrue aux États-Unis.",
+        "resume_en": "Unverified sources claim Elon Musk’s Grok AI allegedly advised Donald Trump to militarily intervene against Venezuela’s president. This incident occurs amid rising U.S.-Caracas geopolitical tensions. Implications may include conflict escalation and heightened U.S. polarization.",
+        "resume_zh": "未经证实的消息称，马斯克的AI聊天机器人Grok可能建议特朗普对委内瑞拉采取军事干预，推翻现任总统。此事发生在美委关系紧张升级之际。可能导致冲突升级和美国国内极化加剧。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette affaire illustre les risques de l’IA générative dans la prise de décision politique, surtout avec des acteurs comme Trump, connu pour son style impulsif. Les enjeux incluent la stabilité régionale en Amérique latine et la crédibilité des technologies d’IA. Les causes profondes sont liées à l’absence de régulation stricte et à la désinformation amplifiée par les algorithmes. À court terme, cela pourrait alimenter les théories du complot et les tensions diplomatiques. À moyen terme, les législateurs pourraient durcir les lois sur l’IA. Long terme, une gouvernance internationale de l’IA pourrait émerger. Musk et Trump minimisent l’incident, tandis que les experts en cybersécurité appellent à une régulation urgente.",
+        "analyse_en": "This incident highlights the risks of generative AI in political decision-making, particularly with figures like Trump, known for impulsive behavior. Key stakes involve regional stability in Latin America and the credibility of AI technologies. Root causes stem from lax regulation and algorithm-driven disinformation. Short-term, this could fuel conspiracy theories and diplomatic tensions. Medium-term, lawmakers may tighten AI legislation. Long-term, global AI governance may emerge. Musk and Trump downplay the incident, while cybersecurity experts urge urgent regulation.",
+        "analyse_zh": "此事凸显了生成式AI在政治决策中的风险，特别是涉及特朗普等易冲动决策者。主要影响包括拉美地区稳定和AI技术的可信度。深层原因包括缺乏严格监管和算法放大的虚假信息。短期内，可能助长阴谋论和外交紧张局势。中期，立法者可能加强AI法规。长期，可能出现全球AI治理框架。马斯克和特朗普回避此事，而网络安全专家呼吁紧急监管。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/politics/articles/musk-ai-chatbot-grok-reportedly-210811943.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/334015953dce2bda127e71a00ef1d1662a2d64701374a2f3de7741049d7e8717/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fcdc32c08a08bf99fd5c49c2238991db0.jpg",
+        "date": "2026-10-01",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Technologies de l'information et cybersécurité",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des médias et désinformation",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologies de l'information et cybersécurité",
+            "secteur_en": "Information technology and cybersecurity",
+            "secteur_zh": "信息技术与网络安全",
+            "effet_fr": "L’incident pourrait accélérer les débats sur la régulation des IA conversationnelles et leur utilisation dans les sphères politiques.",
+            "effet_en": "The incident may accelerate debates on regulating conversational AI and its use in political spheres.",
+            "effet_zh": "此事可能加速关于对话式AI监管和其在政治领域应用的讨论。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des médias et désinformation",
+            "secteur_en": "Media and disinformation market",
+            "secteur_zh": "媒体与虚假信息市场",
+            "effet_fr": "Les plateformes sociales pourraient être poussées à renforcer la modération des contenus liés aux IA génératives pour éviter les abus.",
+            "effet_en": "Social platforms may be pressured to tighten moderation of AI-generated content to prevent misuse.",
+            "effet_zh": "社交平台可能被迫加强对生成式AI内容的审核，以避免滥用。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-02T21:10:45.465581"
+      },
       {
         "id": "usa_521093",
         "titre": "Juge Obama influe sur peine record pour attentat contre la Cour suprême",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-09-24T21:59:51.549082"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_165067",
-        "titre": "Recherche controversée sur singes",
-        "titre_en": "Controversial monkey research continues",
-        "titre_zh": "争议性猴子研究持续进行",
-        "titre_ru": "Джей Бхаттачарья продолжает эксперименты с обезьянами на искусственной жизни",
-        "titre_fa": "جای باتاچاریا همچنان آزمایش‌های معروف هاروارد بر روی میمون‌های نوزاد تحت نگهداری مصنوعی را ادامه می‌دهد",
-        "titre_ar": "جاي باتاچاريا يبدو أنه يستمر في تجارب هارفارد المشهورة مع القردة الصغار على دعم الحياة الاصطناعي",
-        "titre_original": "Jay Bhattacharya Appears To Keep Infamous Harvard Project Torturing Baby Monkeys On Life Support",
-        "resume": "Le chercheur Jay Bhattacharya, sous pression de la Maison-Blanche, voit ses travaux sur des singes maintenus en vie artificiellement financés malgré les annonces de fin des tests animaux. Cette pratique soulève des questions éthiques et scientifiques. Les NIH ont tenté de se distancier, mais les fonds persistent.",
-        "resume_en": "Researcher Jay Bhattacharya faces White House scrutiny over controversial monkey experiments kept alive artificially, despite NIH claims to end animal testing. Funding continues, raising ethical and scientific concerns.",
-        "resume_zh": "研究员Jay·巴塔查里亚在白宫压力下，其维持猴子人工生命的研究仍然获得资金支持，尽管NIH声称终止动物实验。这一做法引发伦理和科学争议。",
-        "resume_ru": "Несмотря на критику Белого дома и заявления NIH о прекращении тестирования на животных, финансирование исследований Джей Бхаттачарьи с участием обезьян продолжается. Учёный известен экспериментами по поддержанию жизни новорождённых приматов с помощью искусственных средств. Это вызывает споры о этичности научных исследований и прозрачности финансирования.",
-        "resume_fa": "در حالی که سفیدکوه و NIH ادعا می‌کنند آزمایش‌های بر روی حیوانات را پایان داده‌اند، تحقیقات جاي باتاچاریا با استفاده از میمون‌های نوزاد همچنان با حمایت مالی ادامه دارد. این دانشمند به دلیل آزمایش‌هایش بر روی نگهداری مصنوعی زندگی میمون‌های نوزاد شناخته شده است. این موضوع بحث‌هایی در مورد اخلاقیات تحقیقات علمی و شفافیت مالی ایجاد کرده است.",
-        "resume_ar": "على الرغم من انتقاد البيت الأبيض وتأكيدات معهد الصحة الوطنية على إنهاء اختبارات على الحيوانات، فإن تمويل بحوث جاي باتاچاريا مع القردة الصغار مستمر. هذا الباحث معروف بتجارب دعم حياة القردة الصغار باستخدام وسائل اصطناعية. هذا يثير نقاشات حول أخلاقيات البحوث العلمية ونزاهة التمويل.",
-        "analyse_detaillee": "Cette pratique s’inscrit dans une longue histoire de recherche biomédicale controversée aux États-Unis, où l’éthique animale a longtemps été sacrifiée au nom du progrès scientifique. Les lobbies pharmaceutiques et universitaires bénéficient de financements publics pour des protocoles jugés cruels. Court terme, la pression médiatique pourrait forcer des ajustements, mais les NIH maintiennent une ambiguïté stratégique. À moyen terme, des alternatives comme l’IA ou les organoïdes pourraient réduire la dépendance aux animaux. Long terme, une prise de conscience globale pourrait imposer des régulations strictes, comme en Europe. Les acteurs clés sont les NIH, les laboratoires privés et les associations de défense des animaux, en conflit ouvert.",
-        "analyse_en": "This practice reflects a long history of controversial biomedical research in the US, where animal ethics were often sacrificed for scientific progress. Pharmaceutical and academic lobbies benefit from public funding for cruel protocols. Short-term, media pressure may force adjustments, but NIH maintains strategic ambiguity. Medium-term, AI or organoids could reduce animal dependence. Long-term, global awareness might enforce strict regulations, like in Europe. Key actors include NIH, private labs, and animal rights groups in open conflict.",
-        "analyse_zh": "这一做法反映了美国长期以来的争议性生物医学研究，动物伦理常被牺牲在科学进步名义下。制药和学术利益集团从公共资金中获益，进行被认为残忍的实验。短期内，媒体压力可能迫使调整，但NIH保持战略模糊性。中期内，人工智能或器官样本可能减少对动物的依赖。长期来看，全球意识可能强制实施严格的法规，如欧洲所做。关键利益相关者包括NIH、私人实验室和动物权利组织，处于公开对立。",
-        "analyse_ru": "Скандал с участием Бхаттачарьи подчёркивает противоречия между научным прогрессом и этическими нормами. NIH, несмотря на обещания, не прекращает финансировать спорные проекты, что вызывает недоверие общественности. Такие исследования могут привести к усилению давления на учёных и ограничению свободы научных изысканий. США рискуют потерять международный авторитет в области биоэтики. Позиция Белого дома остаётся неясной, что ослабляет контроль за подобными проектами.",
-        "analyse_fa": "اسکندل جاي باتاچاریا اختلافات بین پیشرفت علمی و استانداردهای اخلاقی را برجسته می‌کند. NIH با وجود وعده‌ها، تحقیقات مشکوکی را همچنان حمایت مالی می‌کند که باعث عدم اعتماد عمومی می‌شود. این تحقیقات ممکن است منجر به افزایش فشار بر دانشمندان و محدودیت آزادی تحقیقات علمی شود. ایالات متحده خطر از دست دادن اعتبار بین‌المللی در زمینه بیواخلاقیت را دارد. موضع سفیدکوه همچنان نامشخص است که کنترل بر این پروژه‌ها را ضعیف می‌کند.",
-        "analyse_ar": "الفضيحة حول جاي باتاچاريا تبرز التناقضات بين التقدم العلمي والقيم الأخلاقية. معهد الصحة الوطنية، على الرغم من وعداته، لا يزال يدعم بحوثًا مشكوكًا فيها، ما يثير عدم الثقة العام. هذه البحوث قد تؤدي إلى زيادة الضغط على العلماء وتقليل حرية البحث العلمي. الولايات المتحدة تخاطر بفقدان авториتها الدولي في مجال الأخلاق البيولوجية. موقف البيت الأبيض لا يزال غير واضح، ما يضعف السيطرة على مثل هذه المشاريع.",
-        "categorie": "Science & Éthique",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/09/23/jay-bhattacharya-harvard-nih-margaret-livingstone-monkeys",
-        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/Screenshot%202026-09-22%20at%201.37.35%E2%80%AFPM.png",
-        "date": "2026-09-23",
-        "pays": "usa",
+        "id": "chine_74955",
+        "titre": "Collaboration public-privé en IA pour rivaliser avec la Chine",
+        "titre_en": "Public-private AI collaboration to compete with China",
+        "titre_zh": "公私合作AI应对中美竞争",
+        "titre_ru": "US cyber director: Public-private AI collaboration crucial for competition with China",
+        "titre_fa": "US cyber director: Public-private AI collaboration crucial for competition with China",
+        "titre_ar": "US cyber director: Public-private AI collaboration crucial for competition with China",
+        "titre_original": "US cyber director: Public-private AI collaboration crucial for competition with China",
+        "resume": "Les États-Unis insistent sur la nécessité d’une coopération renforcée entre acteurs publics et privés pour maintenir leur avance en innovation technologique face à la Chine. Cette stratégie vise à stimuler l’investissement et à rassurer les investisseurs internationaux. Le contexte géopolitique actuel, marqué par une course aux technologies critiques, rend cette alliance cruciale.",
+        "resume_en": "The U.S. emphasizes the need for stronger public-private AI collaboration to maintain technological leadership over China. This strategy aims to boost investment and reassure global investors. The current geopolitical climate, marked by a race for critical technologies, makes this alliance critical.",
+        "resume_zh": "美国强调加强公私合作以维持在AI领域对中国的领先地位。此举旨在刺激投资和安抚国际投资者。当前的地缘政治背景下，关键技术竞争使这一联盟至关重要。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette initiative s’inscrit dans une dynamique de relocalisation industrielle et de résilience technologique post-pandémie, après le déclin relatif des États-Unis face à la Chine dans les domaines comme les semi-conducteurs. Les enjeux incluent la souveraineté technologique, la compétitivité économique et la sécurité nationale. Les causes profondes sont liées à la dépendance aux chaînes d’approvisionnement asiatiques et à l’absence de coordination historique entre secteurs public et privé. À court terme, cela pourrait accélérer les subventions gouvernementales et les partenariats stratégiques. À moyen terme, une spécialisation sectorielle pourrait émerger. Long terme, les États-Unis pourraient retrouver une position dominante en IA, mais au prix d’une surveillance accrue des données. Les géants tech américains soutiennent cette approche, tandis que Pékin dénonce une protectionnisme déguisé.",
+        "analyse_en": "This initiative reflects a post-pandemic industrial relocalization and technological resilience push, following the U.S. relative decline to China in semiconductors and other fields. Key stakes involve technological sovereignty, economic competitiveness, and national security. Root causes stem from reliance on Asian supply chains and historical lack of public-private coordination. Short-term, this may accelerate government subsidies and strategic partnerships. Medium-term, sectoral specialization could emerge. Long-term, the U.S. may regain AI dominance at the cost of heightened data surveillance. U.S. tech giants back this approach, while Beijing denounces disguised protectionism.",
+        "analyse_zh": "此举体现了疫情后的产业回流和技术韧性战略，美国在半导体等领域相对落后于中国。主要影响包括技术主权、经济竞争力和国家安全。深层原因包括对亚洲供应链的依赖和公私部门长期缺乏协调。短期内，政府补贴和战略合作可能加速。中期，可能出现行业分工。长期，美国可能重新掌握AI主导地位，但代价是数据监管加强。美国科技巨头支持此举，而北京则指责这是伪装的保护主义。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-cyber-director-public-private-ai-collaboration-crucial-for-competition-with/",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01170742/library-us-cyber-director-public-private-ai-collaboration-crucia-1-800x450.png",
+        "date": "2026-10-01",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Biotechnologies (NASDAQ: CRISPR)",
-            "hausse": false
+            "label": "▲ Fonds de capital-risque et venture capital",
+            "hausse": true
           },
           {
-            "label": "▲ Assurance responsabilité civile (Lloyd’s)",
-            "hausse": true
+            "label": "▼ Marché des semi-conducteurs et hardware",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Biotechnologies (NASDAQ: CRISPR)",
-            "secteur_en": "Biotech (NASDAQ: CRISPR)",
-            "secteur_zh": "生物技术（纳斯达克：CRISPR）",
-            "effet_fr": "Les controverses sur les tests animaux freinent les investissements dans les biotechnologies innovantes, comme l’édition génétique, affectant les valorisations boursières.",
-            "effet_en": "Controversies over animal testing slow down investments in innovative biotech, like gene editing, impacting stock valuations.",
-            "effet_zh": "动物实验争议减缓了对创新生物技术（如基因编辑）的投资，影响股票估值。",
-            "hausse": false
+            "secteur_fr": "Fonds de capital-risque et venture capital",
+            "secteur_en": "Venture capital and private equity funds",
+            "secteur_zh": "风险投资和私募股权基金",
+            "effet_fr": "Les investisseurs pourraient augmenter leurs financements dans les startups AI américaines pour bénéficier des avantages fiscaux et des partenariats gouvernementaux.",
+            "effet_en": "Investors may increase funding for U.S. AI startups to leverage tax incentives and government partnerships.",
+            "effet_zh": "投资者可能增加对美国AI初创公司的资金投入，以享受税收优惠和政府合作带来的利益。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Assurance responsabilité civile (Lloyd’s)",
-            "secteur_en": "Liability insurance (Lloyd’s)",
-            "secteur_zh": "责任保险（伦敦劳合社）",
-            "effet_fr": "Les laboratoires sous pression voient leurs primes d’assurance responsabilité civile augmenter, en raison des risques juridiques liés aux pratiques controversées.",
-            "effet_en": "Labs under pressure face rising liability insurance premiums due to legal risks from controversial practices.",
-            "effet_zh": "受压力的实验室面临责任保险费用上涨，由于争议性实践带来的法律风险。",
-            "hausse": true
+            "secteur_fr": "Marché des semi-conducteurs et hardware",
+            "secteur_en": "Semiconductor and hardware market",
+            "secteur_zh": "半导体和硬件市场",
+            "effet_fr": "Les entreprises de semi-conducteurs pourraient voir leurs marges compressées si la demande en puces pour l’IA explose, mais aussi bénéficier de subventions pour la production locale.",
+            "effet_en": "Semiconductor firms may face squeezed margins if AI chip demand surges, but could also benefit from subsidies for domestic production.",
+            "effet_zh": "半导体企业可能面临利润压缩，如果AI芯片需求激增，但也可能从本土生产补贴中受益。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-24T13:14:58.091602"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-02T21:10:45.465592"
+      },
       {
         "id": "chine_653174",
         "titre": "Jackie Chan et Anil Kapoor récompensés aux Asian Academy Awards",
@@ -3706,65 +3765,6 @@
           }
         ],
         "created_at": "2026-09-21T13:39:49.304239"
-      },
-      {
-        "id": "chine_294647",
-        "titre": "Opel revient en Chine avec un SUV relancé",
-        "titre_en": "Opel’s comeback in China with revamped SUV",
-        "titre_zh": "奥佩尔将以改款SUV重返中国市场",
-        "titre_ru": "Opel готовится к возврату на китайский рынок в этом году",
-        "titre_fa": "آپل آماده بازگشت به بازار چین در این سال است",
-        "titre_ar": "أوبل تستعد للعودة إلى سوق الصين هذا العام",
-        "titre_original": "Opel Prepares for Return to Chinese Market This Year",
-        "resume": "General Motors prépare le retour d’Opel en Chine via une stratégie ciblant les SUV, avec le redessiné Antara comme modèle phare d’un plan sur trois ans. Cette réintroduction s’inscrit dans un contexte de concurrence accrue entre constructeurs locaux et étrangers. Les détails sur les prix et les modèles complémentaires restent flous pour l’instant.",
-        "resume_en": "General Motors is planning Opel’s return to China through a SUV-focused strategy, with the redesigned Antara leading a three-year rollout plan. This move follows heightened competition between domestic and foreign automakers. Pricing and additional models remain unclear at this stage.",
-        "resume_zh": "通用汽车计划通过以SUV为重点的策略，让奥佩尔重返中国市场，改款Antara SUV将领衔三年推出计划。这在国内外汽车品牌竞争加剧的背景下进行。具体价格和其他车型细节尚不明确。",
-        "resume_ru": "Группа General Motors планирует возродить бренд Opel на китайском рынке. Лидером программы станет редизайн SUV Antara. За три года ожидается запуск четырех новых моделей. Это шаг к расширению присутствия GM в Китае. Конкуренция на рынке SUV остается высокой.",
-        "resume_fa": "گروه جنرال موتورز قصد دارد برند آپل را در بازار چین احیا کند. مدل سواری آنتارا پس از بازطراحی، رهبر این برنامه خواهد بود. انتظار می‌رود در سه سال آینده چهار مدل جدید راه‌اندازی شود. این حرکت بخشی از گسترش حضور GM در چین است. رقابت در بازار سواری‌ها همچنان بالا است.",
-        "resume_ar": "قامت مجموعة جنرال موتورز بتخطيط إعادة إطلاق علامة أوبل في سوق الصين هذا العام. سيقود البرنامج SUV أنترا بعد من إعادة تصميمه. يتوقع إطلاق أربعة نماذج جديدة خلال ثلاث سنوات. هذا الخطوة جزء من توسيع وجود GM في الصين. التنافس في سوق SUVات لا يزال قويًا.",
-        "analyse_detaillee": "Le retour d’Opel en Chine marque un tournant dans la stratégie de GM, qui cherche à capitaliser sur la demande croissante en SUV haut de gamme malgré la domination de marques locales comme BYD ou Geely. Ce mouvement s’inscrit dans une dynamique de diversification régionale, après des années de déclin en Europe. Les défis incluent la concurrence féroce des constructeurs chinois, qui misent sur des technologies propres et des prix compétitifs. À court terme, Opel devra séduire les consommateurs chinois avec une offre adaptée aux attentes locales (connectivité, autonomie électrique). À moyen terme, son succès dépendra de sa capacité à intégrer des partenariats avec des acteurs locaux pour contourner les barrières douanières. Long terme, GM pourrait utiliser Opel comme tremplin pour relancer sa présence en Asie du Sud-Est. La Chine, premier marché automobile mondial, reste un enjeu géopolitique et économique majeur pour les constructeurs occidentaux.",
-        "analyse_en": "Opel’s return to China signals a strategic shift for GM, aiming to leverage growing demand for premium SUVs despite the dominance of local brands like BYD or Geely. This move follows years of decline in Europe and reflects a regional diversification push. Challenges include fierce competition from Chinese automakers, which prioritize green tech and competitive pricing. Short-term, Opel must appeal to Chinese consumers with localized offerings (connectivity, EV range). Medium-term success hinges on local partnerships to navigate trade barriers. Long-term, GM could use Opel as a foothold to re-enter Southeast Asia. China, the world’s largest auto market, remains a geopolitical and economic priority for Western manufacturers.",
-        "analyse_zh": "奥佩尔重返中国标志着通用汽车战略转型，试图在高端SUV需求增长的背景下逆转局面，尽管面临比亚迪和吉利等本土品牌的主导地位。这一举动是在欧洲市场多年衰退后，通用在区域多元化战略中的一步。挑战包括与中国汽车品牌的激烈竞争，后者依赖清洁技术和竞争力价格。短期内，奥佩尔需要以本地化产品（连接性、电动化里程）吸引中国消费者。中期成功取决于与本土合作伙伴合作，绕过关税壁垒。长期来看，通用可能利用奥佩尔作为跳板重返东南亚。中国作为全球最大汽车市场，对西方制造商来说仍是重大的地缘政治和经济战略。",
-        "analyse_ru": "Возвращение Opel на китайский рынок связано с ростом интереса к европейским брендам в Китае. Антара, как флагманский SUV, должна привлечь внимание покупателей благодаря современному дизайну и техническим характеристикам. GM стремится укрепить позиции на рынке, где доминируют местные производители и японские бренды. Успех программы зависит от адаптации моделей под местные предпочтения и ценовые условия. Конкуренция с Tesla и BYD также будет определяющим фактором.",
-        "analyse_fa": "بازگشت آپل به بازار چین با افزایش علاقه به برندهای اروپایی در این کشور مرتبط است. آنتارا به عنوان SUV رهبر، باید توجه خریداران را با طراحی مدرن و مشخصات فنی جلب کند. GM می‌خواهد موقعیت خود را در بازار تقویت کند که در آن تولیدکنندگان محلی و برندهای ژاپنی غالب هستند. موفقیت برنامه به سازگاری مدل‌ها با ترجیحات و شرایط قیمت محلی بستگی دارد. رقابت با تلسا و بی‌وی‌دی نیز عامل تعیین‌کننده خواهد بود.",
-        "analyse_ar": "عودة أوبل إلى سوق الصين مرتبطة بزيادة اهتمام المستهلكين بالعلامات الأوروبية في الصين. سيقود أنترا كسUV رئيسي، جذب اهتمام المشترين بفضل التصميم الحديث والمواصفات الفنية. تسعى GM إلى تقوية موقعها في السوق الذي يسيطر عليه المنتجون المحليون والعلامات اليابانية. نجاح البرنامج يعتمد على تطابق النماذج مع التفضيلات المحلية والأوضاع السعرية. التنافس مع تيسلا وباي دي سي سيكون عامل حاسم أيضًا.",
-        "categorie": "Économie/Industrie",
-        "source": "Inautonews.com",
-        "url": "https://www.inautonews.com/opel-to-return-to-china-within-the-year",
-        "image": "https://www.inautonews.com/media/licensed/2026/09/opel-prepares-for-return-to-chinese-market-this-year-5b8796e1.jpg?w=1536",
-        "date": "2026-09-20",
-        "pays": "chine",
-        "badges": [
-          {
-            "label": "▲ Automobile (SUV premium)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Partenariats sino-occidentaux (technologie auto)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Automobile (SUV premium)",
-            "secteur_en": "Premium SUV automotive sector",
-            "secteur_zh": "高端SUV汽车行业",
-            "effet_fr": "Le segment des SUV premium en Chine devrait connaître une croissance de 12% cette année, avec une demande accrue pour des modèles hybrides et électriques.",
-            "effet_en": "China’s premium SUV segment is expected to grow by 12% this year, driven by demand for hybrid and electric models.",
-            "effet_zh": "中国高端SUV市场今年预计增长12%，主要由混合动力和电动车需求拉动。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Partenariats sino-occidentaux (technologie auto)",
-            "secteur_en": "Sino-Western automotive tech partnerships",
-            "secteur_zh": "中西方汽车技术合作",
-            "effet_fr": "Les alliances avec des acteurs chinois (comme FAW ou SAIC) pourraient accélérer l’intégration de technologies 5G et IA dans les véhicules Opel, mais au prix de transferts de savoir-faire.",
-            "effet_en": "Partnerships with Chinese firms (e.g., FAW or SAIC) may speed up 5G and AI integration in Opel vehicles, but at the cost of knowledge transfers.",
-            "effet_zh": "与中国企业（如一汽或上汽）的合作可能加速奥佩尔车辆的5G和AI整合，但需以知识转移为代价。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-21T01:00:59.815208"
       }
     ],
     "russie": [
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_57552",
+      "titre": "Féminicides en Vaucluse-Gard : procès en appel",
+      "titre_en": "Vaucluse-Gard double femicide trial underway",
+      "titre_zh": "瓦克卢兹-加尔德双重女性谋杀案上诉审理",
+      "titre_ru": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
+      "titre_fa": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
+      "titre_ar": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
+      "titre_original": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
+      "resume": "Mohamed Ouhaddou, accusé du double féminicide de sa femme et de sa belle-sœur en mai 2023, comparaît devant la cour d’assises d’appel du Vaucluse. Les faits, qualifiés de violents, ont révélé deux corps baignant dans des mares de sang. Ce procès, intervenant après un premier jugement en 2025, interroge à nouveau sur la récurrence des violences conjugales en France.",
+      "resume_en": "Mohamed Ouhaddou, accused of double femicide against his wife and sister-in-law in May 2023, is on trial at the Vaucluse Court of Assizes. The case, marked by extreme brutality, exposed bodies covered in pools of blood. This appeal trial, following a 2025 verdict, raises questions about persistent domestic violence in France.",
+      "resume_zh": "穆罕默德·乌哈杜被控在2023年5月谋杀妻子和妹妹，目前在瓦克卢兹上诉法庭受审。案件暴露出极端暴力，两具尸体浸泡在血泊中。此次上诉审理，在2025年判决后再次引发法国家庭暴力问题的讨论。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les féminicides en France, bien que criminalisés depuis 1992, restent un fléau persistant, avec une moyenne de 100 à 150 victimes par an. Ce cas illustre la violence systémique envers les femmes, souvent liée à des mécanismes de domination masculine et à l’impunité partielle des agresseurs. Les conséquences immédiates incluent un traumatisme collectif et une défiance accrue envers les institutions judiciaires. À moyen terme, cela pourrait renforcer les appels à des peines plus sévères et à des mesures préventives ciblées. Long terme, une prise de conscience sociétale est nécessaire pour briser le cycle de la violence. Les associations féministes dénoncent un manque de moyens pour les victimes, tandis que l’État peine à concilier répression et prévention.",
+      "analyse_en": "Femicides in France, though criminalized since 1992, persist as a major issue, with an average of 100 to 150 victims annually. This case highlights systemic violence against women, often tied to male dominance and partial impunity for perpetrators. Immediate consequences include collective trauma and growing distrust in judicial institutions. In the medium term, this may push for stricter penalties and targeted prevention measures. Long-term, societal awareness is crucial to break the cycle of violence. Feminist groups criticize insufficient resources for victims, while the state struggles to balance repression and prevention.",
+      "analyse_zh": "法国女性谋杀案自1992年刑事化以来仍然是一个顽疾，每年平均有100到150名受害者。此案暴露出针对女性的系统性暴力，通常与男性主导和加害者部分免责有关。短期影响包括集体创伤和对司法机构信任度下降。中期内，这可能推动更严厉的刑罚和针对性预防措施。长期来看，社会意识的提升至关重要，以打破暴力循环。女性主义组织批评对受害者资源不足，而政府则在打击与预防之间难以平衡。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Géopolitique",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/01/double-feminicide-les-deux-corps-baignaient-dans-des-mares-de-sang",
+      "image": "https://cdn-s-www.ledauphine.com/images/99DC5A8D-7179-4228-B9AE-DDFA3589ABF6/FB1200/photo-1790874080.jpg",
+      "date": "2026-10-01",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile (dommages corporels)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds de prévention des violences conjugales",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile (dommages corporels)",
+          "secteur_en": "Civil liability insurance (bodily harm)",
+          "secteur_zh": "人身损害责任保险",
+          "effet_fr": "Les condamnations pour féminicides entraînent des hausses significatives des primes pour les assurances couvrant les risques familiaux.",
+          "effet_en": "Convictions for femicide lead to significant increases in premiums for family risk insurance.",
+          "effet_zh": "女性谋杀案判决导致家庭风险保险费用显著上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de prévention des violences conjugales",
+          "secteur_en": "Domestic violence prevention funds",
+          "secteur_zh": "家庭暴力预防基金",
+          "effet_fr": "Les cas médiatisés comme celui-ci poussent les pouvoirs publics à reconsidérer les budgets alloués aux programmes de protection des victimes.",
+          "effet_en": "High-profile cases like this push public authorities to re-evaluate budgets for victim protection programs.",
+          "effet_zh": "此类媒体曝光案件促使政府重新审视为受害者保护项目分配的预算。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-02T21:11:52.012210",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_134435",
+      "titre": "Claros et Daikin révolutionnent dépollution PFAS",
+      "titre_en": "Claros-Daikin PFAS on-site destruction deal",
+      "titre_zh": "克拉罗斯与戴金破解PFAS污染技术",
+      "titre_ru": "Claros Technologies et Daikin America annoncent la conclusion d'un accord commercial en vue du déploiement à grande échelle d'une technologie de destruction définitive des PFAS (substances per- et polyfluoroalkylées)",
+      "titre_fa": "Claros Technologies et Daikin America annoncent la conclusion d'un accord commercial en vue du déploiement à grande échelle d'une technologie de destruction définitive des PFAS (substances per- et polyfluoroalkylées)",
+      "titre_ar": "Claros Technologies et Daikin America annoncent la conclusion d'un accord commercial en vue du déploiement à grande échelle d'une technologie de destruction définitive des PFAS (substances per- et polyfluoroalkylées)",
+      "titre_original": "Claros Technologies et Daikin America annoncent la conclusion d'un accord commercial en vue du déploiement à grande échelle d'une technologie de destruction définitive des PFAS (substances per- et polyfluoroalkylées)",
+      "resume": "Claros Technologies et Daikin America ont signé un accord pour déployer une technologie de destruction sur site des PFAS, substances toxiques surnommées « polluants éternels ». Ce partenariat vise à industrialiser une solution à haut débit, répondant à une urgence écologique croissante. Les PFAS, présents dans de nombreux produits industriels, posent un défi majeur pour la santé publique et l’environnement.",
+      "resume_en": "Claros Technologies and Daikin America have signed a deal to deploy on-site PFAS destruction technology, dubbed ‘forever chemicals.’ The partnership aims to industrialize a high-throughput solution, addressing a growing ecological emergency. PFAS, found in many industrial products, pose a major challenge to public health and the environment.",
+      "resume_zh": "克拉罗斯技术和戴金美国公司签署协议，部署PFAS现场破解技术，该物质被称作‘永久污染物’。合作旨在工业化高效解决方案，应对日益严重的生态危机。PFAS广泛存在于工业产品中，对公共卫生和环境构成重大威胁。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950, sont aujourd’hui reconnus comme une menace globale pour les écosystèmes et la santé humaine, avec des effets cancérigènes avérés. Leur persistance dans l’environnement et leur accumulation dans les chaînes alimentaires justifient une réponse technologique urgente. Ce partenariat pourrait accélérer la transition vers des alternatives moins toxiques, tout en réduisant la dépendance aux méthodes de dépollution coûteuses. À long terme, cela pourrait modifier les normes industrielles et réglementaires, poussant les entreprises à adopter des pratiques plus durables. Les gouvernements, sous pression des ONG, pourraient renforcer les cadres légaux pour encadrer ces innovations. Cependant, le coût initial et la scalabilité restent des défis majeurs pour une adoption massive.",
+      "analyse_en": "PFAS, used since the 1950s, are now recognized as a global threat to ecosystems and human health, with proven carcinogenic effects. Their persistence in the environment and bioaccumulation in food chains justify an urgent technological response. This partnership could accelerate the shift toward less toxic alternatives, reducing reliance on expensive remediation methods. Long-term, this could reshape industrial and regulatory standards, pushing companies toward more sustainable practices. Governments, pressured by NGOs, may strengthen legal frameworks to oversee these innovations. However, initial costs and scalability remain major hurdles for widespread adoption.",
+      "analyse_zh": "PFAS自1950年代以来广泛使用，现已被认定为对生态系统和人类健康的全球威胁，具有已证实的致癌风险。其在环境中的持久性和在食物链中的累积，亟需技术性应对。此合作可能加速向低毒替代品转型，同时减少昂贵的污染治理依赖。长期来看，这可能改变工业和法规标准，推动企业采用更可持续的实践。政府在NGO压力下，可能加强法规框架监管这些创新。然而，初始成本和规模化仍是大规模应用的主要障碍。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/claros-technologies-et-daikin-america-annoncent-la-conclusion-dun-accord-commercial-en-vue-du-deploiement-a-grande-echelle-dune-technologie-de-destruction-definitive-des-pfas-substances-per--et-polyfluoroalkylees-302893201.html",
+      "image": "https://mmx.prnewswire.com/media/MS1998142/Claros-Technologies-image.jpg?id=OA2976525&p=facebook",
+      "date": "2026-10-01",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Marché des technologies vertes (Eco-industrie)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Assurance environnementale (responsabilité écologique)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des technologies vertes (Eco-industrie)",
+          "secteur_en": "Green technology market (Eco-industry)",
+          "secteur_zh": "绿色技术市场（生态产业）",
+          "effet_fr": "L’innovation dans la dépollution PFAS pourrait dynamiser le secteur des technologies environnementales, attirant des investissements massifs vers les solutions durables.",
+          "effet_en": "Innovation in PFAS remediation could boost the green technology sector, attracting massive investments in sustainable solutions.",
+          "effet_zh": "PFAS污染治理技术创新可能推动绿色技术市场发展，吸引大量投资流向可持续解决方案。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance environnementale (responsabilité écologique)",
+          "secteur_en": "Environmental insurance (ecological liability)",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les avancées technologiques réduisent les risques de sanctions pour les entreprises, mais pourraient aussi inciter les assureurs à ajuster leurs couvertures face aux nouveaux enjeux de pollution.",
+          "effet_en": "Technological advances reduce corporate risks of penalties but may also prompt insurers to adjust coverage for new pollution challenges.",
+          "effet_zh": "技术进步降低了企业被罚风险，但也可能促使保险公司调整针对新污染挑战的保障范围。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-02T21:11:52.012233",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_689227",
       "titre": "Féminicide en Vaucluse-Gard : appel à perpétuité",
       "titre_en": "Double femicide in Vaucluse-Gard: life sentence appeal",
@@ -6431,66 +6551,6 @@
         }
       ],
       "created_at": "2026-09-29T17:42:57.950679",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_315042",
-      "titre": "Féminicide Cher : arrestation tardive",
-      "titre_en": "Late arrest in Cher femicide",
-      "titre_zh": "谢尔省女性遇害案迟缓逮捕",
-      "titre_ru": "Подозреваемый в убийстве жены задержан в Шер",
-      "titre_fa": "شخصی متهم به قتل همسرش در شر دستگیر شد",
-      "titre_ar": "المشتبه به بقتل زوجته تم اعتقاله في شير",
-      "titre_original": "Soupçonné de féminicide dans le Cher, le compagnon de la victime interpellé, cinq jours après la découverte du corps",
-      "resume": "Un homme de trente ans, suspecté d’avoir tué sa compagne de 47 ans dans le Cher, a été interpellé cinq jours après la découverte du corps. Ce délai alimente les débats sur la réactivité des forces de l’ordre et la protection des victimes de violences conjugales. Les associations féministes dénoncent une fois de plus l’impunité persistante dans ces affaires.",
-      "resume_en": "A man in his 30s, suspected of killing his 47-year-old partner in Cher, was arrested five days after the body was found. This delay reignites debates on police responsiveness and the protection of domestic violence victims. Feminist groups again condemn persistent impunity in such cases.",
-      "resume_zh": "一名30岁男子因涉嫌在谢尔省杀害其47岁女伴，在尸体发现五天后才被逮捕。这延误再次引发对警方反应速度和家庭暴力受害者保护的讨论。女性主义组织再次谴责此类案件中长期存在的不问责现象。",
-      "resume_ru": "Человек тридцати лет, подозреваемый в убийстве 47-летней женщины в департаменте Шер, был задержан через пять дней после обнаружения тела. Обстоятельства преступления остаются невыясненными, но следствие активно ведёт расследование. Это очередной случай насилия в отношении женщин, вызывающий общественное возмущение.",
-      "resume_fa": "یک مرد حدود ۳۰ سالگی که متهم به قتل همسرش ۴۷ ساله در شهرستان شر است، پنج روز پس از کشف جسد دستگیر شد. جزئیات جنایت هنوز روشن نیست، اما تحقیقات در حال پیشرفت است. این مورد دیگر نمونه از خشونت علیه زنان است که نگرانی‌های عمومی را افزایش داده است.",
-      "resume_ar": "تم اعتقال رجل في الثلاثينيات من عمره، المشتبه به بقتل زوجته البالغة من العمر 47 عامًا في إقليم شير، بعد خمسة أيام من اكتشاف الجثة. لم يوضح بعدًا تفاصيل الجريمة، لكن التحقيقات جارية. هذا الحادث آخر أمثلة عن العنف ضد النساء، ما يثير غضب المجتمع.",
-      "analyse_detaillee": "Les féminicides en France restent un fléau structurel, avec près de 150 victimes par an, selon les dernières données. Ce cas illustre les failles du système judiciaire et policier, où les procédures administratives ralentissent souvent les enquêtes. Les causes profondes incluent une sous-évaluation systémique des violences conjugales et un manque de moyens pour les services sociaux. À court terme, cette affaire pourrait relancer les appels à une meilleure formation des forces de l’ordre. À moyen terme, une réforme des procédures judiciaires (comme la création de tribunaux spécialisés) est nécessaire. Long terme, une société plus égalitaire et une éducation précoce aux relations saines sont indispensables. Les associations (Osez le Féminisme, Le Planning Familial) critiquent l’État pour son manque d’action, tandis que les autorités invoquent des ressources limitées.",
-      "analyse_en": "Femicides in France remain a structural scourge, with nearly 150 victims annually, according to recent data. This case highlights flaws in the judicial and police systems, where administrative procedures often delay investigations. Root causes include systemic underestimation of domestic violence and insufficient resources for social services. Short-term, this case may reignite calls for better police training. Medium-term, judicial procedure reforms (such as specialized courts) are needed. Long-term, a more egalitarian society and early education on healthy relationships are essential. Groups (Osez le Féminisme, Le Planning Familial) criticize the state for inaction, while authorities cite limited resources.",
-      "analyse_zh": "法国女性遇害案件仍然是一个结构性灾难，每年近150名受害者。此案例暴露了司法和警方系统的漏洞，行政程序常常拖慢调查进度。深层原因包括对家庭暴力的系统性低估和社会服务资源不足。短期内，此案可能再次推动警方培训改革的呼声。中期内，需要司法程序改革（如建立专门法庭）。长期来看，一个更平等的社会和早期健康关系教育是必不可少的。女性主义组织（敢说女性主义、家庭计划协会）批评政府不作为，而当局则称资源有限。",
-      "analyse_ru": "Феминицид остаётся одной из самых трагичных форм насилия в современном обществе, где мужчины часто становятся исполнителями таких преступлений. Задержание подозреваемого через пять дней после преступления указывает на слабую эффективность полицейского реагирования или на сложность расследования. Такие случаи подчеркивают необходимость усиления профилактики домашнего насилия и поддержки жертв. Общество должно требовать от властей принятия жёстких мер против насильников, включая строгие наказания и реабилитационные программы. В то же время, важно не сводить проблему к отдельным случаям, а рассматривать её как системный кризис, требующий комплексного подхода.",
-      "analyse_fa": "قتل زنان یکی از تراژدی‌ترین شکل‌های خشونت در جامعه امروزی است که در آن مردان اغلب به عنوان مرتکبان این جرایم ظاهر می‌شوند. دستگیری متهم پنج روز پس از وقوع جنایت نشان‌دهنده ضعف پاسخگویی پلیس یا پیچیدگی تحقیقات است. این موارد اهمیت افزایش پیشگیری از خشونت خانگی و حمایت از قربانیان را برجسته می‌کنند. جامعه باید از دولت بخواهد اقدامات سخت‌گیرانه‌ای علیه خشونت‌آمیزان، از جمله مجازات‌های شدید و برنامه‌های بازسازی، را بپذیرد. علاوه بر این، مهم است که این مشکل را به عنوان یک بحران سیستمیک و نه فقط موارد جداگانه در نظر بگیریم و به رویکردی جامع نیاز باشد.",
-      "analyse_ar": "قتل النساء من أكثر أشكال العنف تدميراً في المجتمع الحديث، حيث يكون الرجال غالبًا من تنفيذ هذه الجريمة. اعتقال المشتبه به بعد خمسة أيام من الجريمة يشير إلى ضعف فعالية رد فعل الشرطة أو تعقيد التحقيقات. هذه الحالات تبرز الحاجة إلى تعزيز الوقاية من العنف المنزلي ودعم الضحايا. يجب على المجتمع مطالبة السلطات باتخاذ تدابير صارمة ضد العنف، بما في ذلك العقوبات القاسية والبرامج إعادة التأهيل. من ناحية أخرى، يجب عدم تقليل المشكلة إلى حالات فردية، بل النظر إليها ككrisis نظامي يتطلب حلاً شاملاً.",
-      "categorie": "Société",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/societe/justice/soupconne-de-feminicide-dans-le-cher-le-compagnon-de-la-victime-interpelle-cinq-jours-apres-la-decouverte-du-corps_8209763.html",
-      "image": "https://www.franceinfo.fr/pictures/Y2JiGeVG-by5-DcHSnwU3Wk9rJs/0x294:5000x3107/1500x843/2026/09/25/6ab680552f6bd155536793.jpg",
-      "date": "2026-09-25",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurances responsabilité civile",
-          "hausse": true
-        },
-        {
-          "label": "▲ Aide sociale aux victimes",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances responsabilité civile",
-          "secteur_en": "Civil liability insurance",
-          "secteur_zh": "民事责任保险",
-          "effet_fr": "Les assureurs pourraient augmenter les primes pour les contrats couvrant les risques familiaux, en raison de l’augmentation des litiges liés aux violences conjugales.",
-          "effet_en": "Insurers may raise premiums for family-risk policies due to rising litigation over domestic violence cases.",
-          "effet_zh": "保险公司可能会提高涵盖家庭风险的保单费率，因为家庭暴力相关诉讼案件增加。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Aide sociale aux victimes",
-          "secteur_en": "Social aid for victims",
-          "secteur_zh": "社会救助受害者",
-          "effet_fr": "Les fonds alloués aux associations d’aide aux victimes pourraient être réévalués à la hausse pour compenser les retards administratifs et les lacunes dans l’accompagnement.",
-          "effet_en": "Funds allocated to victim support associations may be reassessed upward to offset administrative delays and gaps in support.",
-          "effet_zh": "分配给受害者援助协会的资金可能会重新评估上调，以弥补行政延误和支持不足。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-26T18:22:46.381526",
       "sous_categorie": "femmes"
     },
     {
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-09-30T14:55:03.050129",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_480259",
-      "titre": "Pompiers : santé en danger, protection insuffisante",
-      "titre_en": "Firefighters: Health at Risk, Inadequate Protection",
-      "titre_zh": "消防员健康受威胁，保护不足",
-      "titre_ru": "« J’en ai vu, des copains malades ou morts » : chez les pompiers, surexposés et sous-protégés, le tabou de la santé",
-      "titre_fa": "« J’en ai vu, des copains malades ou morts » : chez les pompiers, surexposés et sous-protégés, le tabou de la santé",
-      "titre_ar": "« J’en ai vu, des copains malades ou morts » : chez les pompiers, surexposés et sous-protégés, le tabou de la santé",
-      "titre_original": "« J’en ai vu, des copains malades ou morts » : chez les pompiers, surexposés et sous-protégés, le tabou de la santé",
-      "resume": "Les pompiers français, exposés aux produits toxiques (PFAS, fumées) et aux retards de sensibilisation, subissent des maladies graves ou mortelles, selon un témoignage choc. Leur santé, souvent négligée, révèle un système de protection défaillant et un manque d’équipements adaptés. Les syndicats exigent des réformes urgentes pour éviter une crise sanitaire majeure.",
-      "resume_en": "French firefighters, exposed to toxic substances (PFAS, smoke) and delayed awareness campaigns, suffer from severe illnesses or death, according to a shocking testimony. Their health, often overlooked, exposes a failing protection system and inadequate equipment. Unions demand urgent reforms to prevent a major health crisis.",
-      "resume_zh": "法国消防员长期暴露在有毒物质（PFAS、烟雾）中，且缺乏及时的健康教育，导致严重疾病或死亡。他们的健康长期被忽视，暴露出保护体系缺陷和装备不足。工会要求紧急改革，避免健康危机爆发。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "L’exposition professionnelle des pompiers aux polluants chimiques et aux particules cancérigènes date des années 1980, mais les effets à long terme (cancers, maladies respiratoires) n’ont été systématiquement documentés qu’à partir des années 2010. Les PFAS, surnommés « substances éternelles », s’accumulent dans les organes et leur régulation reste insuffisante malgré les alertes scientifiques. Les conséquences immédiates incluent une baisse de la résilience opérationnelle et une hausse des arrêts maladie, tandis que les coûts médicaux pour les collectivités locales explosent. À moyen terme, le risque de pénurie de personnel qualifié menace la sécurité incendie, et les générations futures de pompiers pourraient hériter de maladies professionnelles non traitées. Les acteurs publics, comme l’État et les SDIS, sont critiqués pour leur lenteur à financer des équipements de protection individuelle (EPI) modernes, tandis que les syndicats (comme la CGT-FO) mènent des campagnes pour une reconnaissance officielle des maladies professionnelles. Les médias, bien que sensibles au sujet, peinent à mobiliser l’opinion publique sur des enjeux techniques complexes. Sans réforme globale (loi sur les maladies professionnelles, fonds dédié), le système risque de s’effondrer sous la pression des coûts et des inégalités territoriales.",
-      "analyse_en": "French firefighters’ exposure to chemical pollutants and carcinogenic particles dates back to the 1980s, but long-term effects (cancers, respiratory diseases) were only systematically documented from the 2010s. PFAS, dubbed ‘forever chemicals,’ accumulate in organs with inadequate regulation despite scientific warnings. Immediate consequences include reduced operational resilience and increased sick leave, while local government healthcare costs surge. In the medium term, a shortage of skilled personnel threatens fire safety, and future generations of firefighters may inherit untreated occupational diseases. Public actors like the state and fire departments (SDIS) are criticized for their slow funding of modern personal protective equipment (PPE), while unions (like CGT-FO) campaign for official recognition of occupational illnesses. Media coverage, though sensitive, struggles to mobilize public opinion on complex technical issues. Without a comprehensive reform (occupational disease law, dedicated fund), the system risks collapsing under cost and territorial inequality pressures.",
-      "analyse_zh": "法国消防员自1980年代以来就暴露在化学污染物和致癌颗粒中，但长期影响（癌症、呼吸系统疾病）直到2010年代才系统记录。被称为「永久化学物质」的PFAS在器官中积累，尽管科学警告，但监管仍不足。短期内，操作效率下降和病假增加，而地方政府医疗成本激增。中期内，专业人员短缺威胁消防安全，未来消防员可能遗留未治疗的职业病。公共机构（国家、SDIS）因缓慢投资现代防护装备而受批评，工会（如CGT-FO）争取职业病官方认定。媒体虽关注，但难以动员公众关注复杂技术问题。若没有全面改革（职业病法案、专项基金），体系可能因成本和区域不平等而崩溃。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "L'Obs",
-      "url": "https://www.nouvelobs.com/societe/20260929.OBS118711/j-en-ai-vu-des-copains-malades-ou-morts-chez-les-pompiers-surexposes-et-sous-proteges-le-tabou-de-la-sante.html",
-      "image": "https://focus.nouvelobs.com/2026/09/28/0/3/3694/2463/1200/800/0/0/f82a83a_upload-1-uwnvb7ydwcwa-sipa-00815219-000022.jpg",
-      "date": "2026-09-29",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurances santé professionnelles",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des équipements de protection individuelle (EPI)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances santé professionnelles",
-          "secteur_en": "Occupational health insurance",
-          "secteur_zh": "职业健康保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de la hausse des diagnostics de maladies professionnelles liées aux expositions toxiques des pompiers.",
-          "effet_en": "Premiums may rise due to increased diagnoses of occupational diseases linked to firefighters’ toxic exposures.",
-          "effet_zh": "由于消防员职业暴露导致的职业病诊断增加，保费可能上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des équipements de protection individuelle (EPI)",
-          "secteur_en": "Personal protective equipment (PPE) market",
-          "secteur_zh": "个人防护装备市场",
-          "effet_fr": "La demande pourrait exploser avec les réformes sanitaires, mais les coûts initiaux pour les collectivités locales pourraient peser sur les budgets publics.",
-          "effet_en": "Demand may surge with health reforms, but initial costs for local governments could strain public budgets.",
-          "effet_zh": "改革后需求可能激增，但初期成本可能加重地方政府财政压力。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-09-30T08:03:26.990194",
       "sous_categorie": "environnement"
     }
   ]
