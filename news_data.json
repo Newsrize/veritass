@@ -1,5 +1,5 @@
 {
-  "last_updated": "04/10/2026 à 15h12",
+  "last_updated": "04/10/2026 à 19h14",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,66 @@
   },
   "politique": [
     {
+      "id": "pol_env_181398",
+      "titre": "Manifestation historique contre Syngenta",
+      "titre_en": "Historic Protest Against Syngenta",
+      "titre_zh": "反抗赛诺菲的历史性抗议",
+      "titre_ru": "«Qui répand la mort, récolte la colère»: une mobilisation historique contre les pesticides",
+      "titre_fa": "«Qui répand la mort, récolte la colère»: une mobilisation historique contre les pesticides",
+      "titre_ar": "«Qui répand la mort, récolte la colère»: une mobilisation historique contre les pesticides",
+      "titre_original": "«Qui répand la mort, récolte la colère»: une mobilisation historique contre les pesticides",
+      "resume": "Plus de 15 000 personnes ont manifesté samedi dans l’Eure pour dénoncer les dangers des pesticides et leurs effets sanitaires dévastateurs. L’événement, organisé près du site de Syngenta, marque une mobilisation sans précédent contre l’industrie agrochimique. Les participants réclament des mesures urgentes pour encadrer l’usage de ces substances controversées.",
+      "resume_en": "Over 15,000 people protested Saturday in Eure to condemn pesticide dangers and their devastating health impacts. The event, near Syngenta’s site, represents an unprecedented mobilization against the agrochemical industry. Protesters demand urgent regulations to curb the use of these controversial substances.",
+      "resume_zh": "法国欧地区近1.5万人集会抗议农药危害及严重健康影响。此次活动在赛诺菲工厂附近举行，标志着对农药化学行业的前所未有抗议。参与者要求紧急立法限制这些有争议化学品的使用。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Cette mobilisation s’inscrit dans une longue histoire de conflits entre agriculteurs, écologistes et industriels, remontant aux années 1970 avec les premières alertes sur les perturbateurs endocriniens. Les pesticides, comme le glyphosate, sont aujourd’hui pointés du doigt pour leur lien avec des cancers et des maladies neurodégénératives, alimentant un mécontentement croissant. Les causes profondes incluent la pression économique sur les agriculteurs, la lobbystique puissante des géants comme Syngenta, et un cadre réglementaire jugé insuffisant. À court terme, cette manifestation pourrait accélérer les débats parlementaires sur une interdiction partielle des néonicotinoïdes ou une réduction des doses autorisées. À moyen terme, elle pourrait renforcer les mouvements citoyens et inciter l’État à durcir les normes sanitaires, malgré les résistances sectorielles. À long terme, les enjeux portent sur une transition agroécologique, mais les acteurs industriels, bien que sous pression, maintiennent leur modèle économique basé sur la chimie. Les agriculteurs, divisés entre ceux qui craignent des pertes de rendement et ceux qui soutiennent la transition, jouent un rôle clé dans l’équilibre des forces. Les associations écologistes, en revanche, voient cette mobilisation comme une victoire symbolique pour leur combat décennal contre les pesticides.",
+      "analyse_en": "This protest fits into a long history of conflicts between farmers, environmentalists, and industrialists, dating back to the 1970s with early warnings about endocrine disruptors. Pesticides like glyphosate are now blamed for links to cancers and neurodegenerative diseases, fueling growing discontent. Root causes include economic pressure on farmers, the powerful lobbying of giants like Syngenta, and perceived regulatory gaps. Short-term, this rally may accelerate parliamentary debates on partial bans of neonicotinoids or reduced authorized doses. Medium-term, it could strengthen citizen movements and push the state to tighten health standards, despite sectoral resistance. Long-term, the stakes involve an agroecological transition, but industrial actors—despite pressure—maintain their chemistry-based economic model. Farmers, divided between those fearing yield losses and those supporting the shift, play a pivotal role in the balance of power. Environmental groups, however, see this mobilization as a symbolic victory for their decade-long fight against pesticides.",
+      "analyse_zh": "此次抗议源于上世纪70年代以来农民、生态保护主义者与化学企业之间的长期冲突，当时首次曝光内分泌干扰物的危害。如今，农药（如草甘膦）被指与癌症和神经退行性疾病相关，激化了公众不满。深层原因包括农民面临的经济压力、赛诺菲等巨头的强大游说力量，以及被认为不足的监管框架。短期内，此次集会可能加速议会对禁用部分杀虫剂（如新尼古丁类）或减少批准剂量的辩论。中期内，它可能增强公众运动的力量，并迫使政府加强卫生标准，尽管行业抵制。长期来看，关键在于实现生态农业转型，但化学企业尽管面临压力，仍维持基于化学的经济模式。农民在力量平衡中扮演关键角色，部分人担心产量下降，部分人支持转型。而环保组织则将此视为其长达十年的抗议农药斗争的象征性胜利。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Santé publique",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/france/031026/qui-repand-la-mort-recolte-la-colere-une-mobilisation-historique-contre-les-pesticides",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/10/03/261003-img-manifestation-cancer-colere-pesticiees-syngenta-1.jpg",
+      "date": "2026-10-03",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile agricole",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des alternatives biologiques",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile agricole",
+          "secteur_en": "Agricultural liability insurance",
+          "secteur_zh": "农业责任保险",
+          "effet_fr": "Les risques juridiques accrus pour les producteurs et les entreprises comme Syngenta pourraient entraîner une hausse des primes d’assurance et des exclusions de couverture pour les activités liées aux pesticides.",
+          "effet_en": "Increased legal risks for producers and companies like Syngenta may lead to higher insurance premiums and coverage exclusions for pesticide-related activities.",
+          "effet_zh": "农民和赛诺菲等企业面临的法律风险上升，可能导致农药相关业务的保险费用上涨，甚至被排除在保障范围之外。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des alternatives biologiques",
+          "secteur_en": "Biological alternatives market",
+          "secteur_zh": "生物替代品市场",
+          "effet_fr": "La pression sociale et réglementaire pourrait stimuler la demande pour des solutions non chimiques, favorisant les startups et entreprises spécialisées dans les alternatives biologiques.",
+          "effet_en": "Social and regulatory pressure may boost demand for non-chemical solutions, benefiting startups and firms specializing in biological alternatives.",
+          "effet_zh": "社会和监管压力可能推动对非化学解决方案的需求，有利于生物替代品领域的初创企业和专业公司。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-04T19:14:33.249897",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_273905",
       "titre": "Féminicide à Achères : conjoint arrêté",
       "titre_en": "Achères murder: partner arrested",
@@ -6192,66 +6252,6 @@
       ],
       "created_at": "2026-10-04T15:12:20.639776",
       "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_env_802029",
-      "titre": "Manifestation anti-pesticides : peur et mobilisation",
-      "titre_en": "Anti-pesticide protest: fear and mobilization",
-      "titre_zh": "反农药抗议：恐慌与动员",
-      "titre_ru": "Активисты против пестицидов: тысячи протестуют в Евре",
-      "titre_fa": "مobilization علیه سموم کشاورزی: هزاران نفر در اور در اعتراض",
-      "titre_ar": "التجمع ضد المبيدات: آلاف المتظاهرين في أور",
-      "titre_original": "Environnement. « Beaucoup de gens sont inquiets » : des agriculteurs et des malades du cancer se mobilisent contre les pesticides",
-      "resume": "Des milliers de personnes, dont des agriculteurs et des malades du cancer, se rassemblent samedi dans l’Eure pour dénoncer les dangers des pesticides. La manifestation vise deux usines de production, symbole des tensions entre santé publique et modèle agricole intensif. Les organisateurs alertent sur les risques sanitaires et environnementaux, tandis que les autorités locales tentent de rassurer sur les normes en vigueur.",
-      "resume_en": "Thousands of people, including farmers and cancer patients, are gathering in Eure to protest against pesticide dangers. The rally targets two production plants, embodying tensions between public health and intensive farming models. Organizers warn of health and environmental risks, while local authorities seek to reassure about current regulations.",
-      "resume_zh": "数千名参与者，包括农民和癌症患者，将于周六在厄尔省集会，抗议农药的危害。抗议活动针对两家农药生产厂，反映出公共卫生与集约化农业模式之间的紧张关系。组织者警告健康和环境风险，而当地政府试图安抚关于现行法规的担忧。",
-      "resume_ru": "Сатани 3 октября 2026 года в департаменте Ер планируется крупная акция протеста у двух заводов по производству пестицидов. В мероприятии примут участие тысячи человек, включая фермеров и больных раком. Организаторы обещают выразить обеспокоенность по поводу воздействия химикатов на здоровье и окружающую среду.",
-      "resume_fa": "در ۳ اکتبر ۲۰۲۶ در شهرستان اور، یک تجمع بزرگ در نزدیکی دو کارخانه تولید سموم کشاورزی برنامه‌ریزی شده‌است. هزاران نفر، از جمله کشاورزان و بیماران سرطان، در این تجمع شرکت خواهند کرد. سازمان‌دهندگان نگرانی خود را در مورد تأثیرات شیمیایی بر سلامت و محیط زیست ابراز خواهند کرد.",
-      "resume_ar": "في 3 أكتوبر 2026، من المقرر تنظيم تجمع كبير بالقرب من مصنعين لإنتاج المبيدات الكيميائية في أور. سيشارك آلاف الأشخاص، بما في ذلك المزارعين والمرضى بالسرطان. سيُعبّر المنظمة عن قلقهم بشأن تأثيرات الكيميائية على الصحة والبيئة.",
-      "analyse_detaillee": "Les pesticides, interdits partiellement en Europe depuis 2020, restent un enjeu majeur en France où leur usage est encore massif dans certaines régions. Les causes profondes incluent la dépendance économique des agriculteurs aux modèles productivistes et l’influence des lobbies agrochimiques sur les politiques publiques. À court terme, cette mobilisation pourrait accélérer des contrôles renforcés et des restrictions supplémentaires, comme le propose la Commission européenne. À moyen terme, une transition vers l’agroécologie est nécessaire, mais elle se heurte aux coûts et à la résistance des filières traditionnelles. Long terme, une refonte des subventions agricoles et une éducation citoyenne sur l’alimentation durable sont indispensables. Les associations écologistes appellent à un moratoire total, tandis que les syndicats agricoles craignent un effondrement économique sans alternatives crédibles.",
-      "analyse_en": "Pesticides, partially banned in Europe since 2020, remain a major issue in France where their use remains widespread in certain regions. Root causes include farmers' economic dependence on intensive models and the influence of agrochemical lobbies on public policy. Short-term, this mobilization may accelerate stricter controls and additional restrictions, as proposed by the European Commission. Medium-term, a transition to agroecology is needed but faces costs and resistance from traditional sectors. Long-term, a reform of agricultural subsidies and citizen education on sustainable food are essential. Environmental groups call for a total moratorium, while farmers' unions fear economic collapse without credible alternatives.",
-      "analyse_zh": "农药自2020年起在欧洲部分禁用，但法国某些地区仍大量使用，成为主要争议点。深层原因包括农民对集约化模式的经济依赖以及农化行业利益集团对公共政策的影响。短期内，此次动员可能加速加强监管和额外限制，如欧盟委员会所提议。中期内，向生态农业转型势在必行，但面临成本和传统产业的抵制。长期来看，农业补贴改革和公众关于可持续饮食的教育至关重要。环保组织呼吁全面禁令，而农民联合会则担忧缺乏可信替代方案的经济崩溃风险。",
-      "analyse_ru": "Протесты против пестицидов становятся всё более масштабными из-за роста заболеваемости раком и других хронических болезней у сельских жителей. Учёные давно предупреждают о вреде химикатов для почвы и воды, но регуляторы продолжают разрешать их использование. Фермеры, несмотря на риски, вынуждены применять пестициды для сохранения урожая, что создаёт порочный круг. Власти часто игнорируют требования общественности, ссылаясь на экономические интересы промышленности. Однако давление активистов может вынудить пересмотреть политику в области сельского хозяйства и защиты окружающей среды.",
-      "analyse_fa": "تجمع‌های علیه سموم کشاورزی به دلیل افزایش بیماری‌های سرطان و بیماری‌های مزمن در بین کشاورزان، گسترده‌تر می‌شود. دانشمندان از مدت‌ها پیش از خطرات شیمیایی برای خاک و آب هشدار داده‌اند، اما تنظیم‌کنندگان همچنان استفاده از آن‌ها را مجاز می‌دانند. کشاورزان، با وجود خطرات، مجبورند از سموم برای حفظ محصول استفاده کنند، که این یک چرخه منفی ایجاد می‌کند. دولت‌ها اغلب به خواسته‌های عمومی گوش نمی‌دهند و به منافع اقتصادی صنعت اشاره می‌کنند. اما فشار فعالان می‌تواند سیاست‌های کشاورزی و حفاظت از محیط زیست را مجدداً بررسی کند.",
-      "analyse_ar": "تظاهرات ضد المبيدات الكيميائية تتوسع بسبب زيادة حالات السرطان والأمراض المزمنة بين المزارعين. العلماء منذ فترة طويلة يحذّرون من مخاطر الكيميائية على التربة والماء، لكن التنظيمات تستمر في السماح باستخدامها. المزارعون، رغم المخاطر، مضطرون لاستخدام المبيدات للحفاظ على المحاصيل، مما يخلق دائرة مفرغة. الحكومات غالبًا ما تجاهل طلبات المجتمع، معتمدين على مصالح الصناعية الاقتصادية. ومع ذلك، قد يضطر ضغط النشطاء إلى إعادة النظر في سياسات الزراعة وحماية البيئة.",
-      "categorie": "Environnement",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/environnement/2026/10/03/beaucoup-de-gens-sont-inquiets-des-agriculteurs-et-des-malades-du-cancer-se-mobilisent-contre-les-pesticides",
-      "image": "https://cdn-s-www.ledauphine.com/images/733540EB-D4FD-45E2-BE11-628E1AF02BD4/FB1200/photo-1790948369.jpg",
-      "date": "2026-10-03",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance agricole (responsabilité environnementale)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des alternatives biologiques",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance agricole (responsabilité environnementale)",
-          "secteur_en": "Agricultural insurance (environmental liability)",
-          "secteur_zh": "农业环境责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison des risques accrus de sanctions pour non-respect des normes pesticides et des litiges environnementaux en hausse.",
-          "effet_en": "Premiums may rise due to increased risks of fines for pesticide non-compliance and growing environmental lawsuits.",
-          "effet_zh": "由于违反农药法规的罚款风险和环境诉讼增加，保费可能上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des alternatives biologiques",
-          "secteur_en": "Biological alternatives market",
-          "secteur_zh": "生物替代品市场",
-          "effet_fr": "La demande en solutions non chimiques pourrait dynamiser ce secteur, mais son développement reste lent en raison des coûts initiaux et de la méfiance des agriculteurs.",
-          "effet_en": "Demand for non-chemical solutions may boost this sector, but growth remains slow due to initial costs and farmers' skepticism.",
-          "effet_zh": "对非化学解决方案的需求可能推动该行业发展，但初期成本和农民的不信任阻碍了其快速增长。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-04T15:12:20.639801",
-      "sous_categorie": "environnement"
     },
     {
       "id": "pol_femmes_79395",
@@ -6914,6 +6914,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_802029",
+      "titre": "Manifestation anti-pesticides : peur et mobilisation",
+      "titre_en": "Anti-pesticide protest: fear and mobilization",
+      "titre_zh": "反农药抗议：恐慌与动员",
+      "titre_ru": "Активисты против пестицидов: тысячи протестуют в Евре",
+      "titre_fa": "مobilization علیه سموم کشاورزی: هزاران نفر در اور در اعتراض",
+      "titre_ar": "التجمع ضد المبيدات: آلاف المتظاهرين في أور",
+      "titre_original": "Environnement. « Beaucoup de gens sont inquiets » : des agriculteurs et des malades du cancer se mobilisent contre les pesticides",
+      "resume": "Des milliers de personnes, dont des agriculteurs et des malades du cancer, se rassemblent samedi dans l’Eure pour dénoncer les dangers des pesticides. La manifestation vise deux usines de production, symbole des tensions entre santé publique et modèle agricole intensif. Les organisateurs alertent sur les risques sanitaires et environnementaux, tandis que les autorités locales tentent de rassurer sur les normes en vigueur.",
+      "resume_en": "Thousands of people, including farmers and cancer patients, are gathering in Eure to protest against pesticide dangers. The rally targets two production plants, embodying tensions between public health and intensive farming models. Organizers warn of health and environmental risks, while local authorities seek to reassure about current regulations.",
+      "resume_zh": "数千名参与者，包括农民和癌症患者，将于周六在厄尔省集会，抗议农药的危害。抗议活动针对两家农药生产厂，反映出公共卫生与集约化农业模式之间的紧张关系。组织者警告健康和环境风险，而当地政府试图安抚关于现行法规的担忧。",
+      "resume_ru": "Сатани 3 октября 2026 года в департаменте Ер планируется крупная акция протеста у двух заводов по производству пестицидов. В мероприятии примут участие тысячи человек, включая фермеров и больных раком. Организаторы обещают выразить обеспокоенность по поводу воздействия химикатов на здоровье и окружающую среду.",
+      "resume_fa": "در ۳ اکتبر ۲۰۲۶ در شهرستان اور، یک تجمع بزرگ در نزدیکی دو کارخانه تولید سموم کشاورزی برنامه‌ریزی شده‌است. هزاران نفر، از جمله کشاورزان و بیماران سرطان، در این تجمع شرکت خواهند کرد. سازمان‌دهندگان نگرانی خود را در مورد تأثیرات شیمیایی بر سلامت و محیط زیست ابراز خواهند کرد.",
+      "resume_ar": "في 3 أكتوبر 2026، من المقرر تنظيم تجمع كبير بالقرب من مصنعين لإنتاج المبيدات الكيميائية في أور. سيشارك آلاف الأشخاص، بما في ذلك المزارعين والمرضى بالسرطان. سيُعبّر المنظمة عن قلقهم بشأن تأثيرات الكيميائية على الصحة والبيئة.",
+      "analyse_detaillee": "Les pesticides, interdits partiellement en Europe depuis 2020, restent un enjeu majeur en France où leur usage est encore massif dans certaines régions. Les causes profondes incluent la dépendance économique des agriculteurs aux modèles productivistes et l’influence des lobbies agrochimiques sur les politiques publiques. À court terme, cette mobilisation pourrait accélérer des contrôles renforcés et des restrictions supplémentaires, comme le propose la Commission européenne. À moyen terme, une transition vers l’agroécologie est nécessaire, mais elle se heurte aux coûts et à la résistance des filières traditionnelles. Long terme, une refonte des subventions agricoles et une éducation citoyenne sur l’alimentation durable sont indispensables. Les associations écologistes appellent à un moratoire total, tandis que les syndicats agricoles craignent un effondrement économique sans alternatives crédibles.",
+      "analyse_en": "Pesticides, partially banned in Europe since 2020, remain a major issue in France where their use remains widespread in certain regions. Root causes include farmers' economic dependence on intensive models and the influence of agrochemical lobbies on public policy. Short-term, this mobilization may accelerate stricter controls and additional restrictions, as proposed by the European Commission. Medium-term, a transition to agroecology is needed but faces costs and resistance from traditional sectors. Long-term, a reform of agricultural subsidies and citizen education on sustainable food are essential. Environmental groups call for a total moratorium, while farmers' unions fear economic collapse without credible alternatives.",
+      "analyse_zh": "农药自2020年起在欧洲部分禁用，但法国某些地区仍大量使用，成为主要争议点。深层原因包括农民对集约化模式的经济依赖以及农化行业利益集团对公共政策的影响。短期内，此次动员可能加速加强监管和额外限制，如欧盟委员会所提议。中期内，向生态农业转型势在必行，但面临成本和传统产业的抵制。长期来看，农业补贴改革和公众关于可持续饮食的教育至关重要。环保组织呼吁全面禁令，而农民联合会则担忧缺乏可信替代方案的经济崩溃风险。",
+      "analyse_ru": "Протесты против пестицидов становятся всё более масштабными из-за роста заболеваемости раком и других хронических болезней у сельских жителей. Учёные давно предупреждают о вреде химикатов для почвы и воды, но регуляторы продолжают разрешать их использование. Фермеры, несмотря на риски, вынуждены применять пестициды для сохранения урожая, что создаёт порочный круг. Власти часто игнорируют требования общественности, ссылаясь на экономические интересы промышленности. Однако давление активистов может вынудить пересмотреть политику в области сельского хозяйства и защиты окружающей среды.",
+      "analyse_fa": "تجمع‌های علیه سموم کشاورزی به دلیل افزایش بیماری‌های سرطان و بیماری‌های مزمن در بین کشاورزان، گسترده‌تر می‌شود. دانشمندان از مدت‌ها پیش از خطرات شیمیایی برای خاک و آب هشدار داده‌اند، اما تنظیم‌کنندگان همچنان استفاده از آن‌ها را مجاز می‌دانند. کشاورزان، با وجود خطرات، مجبورند از سموم برای حفظ محصول استفاده کنند، که این یک چرخه منفی ایجاد می‌کند. دولت‌ها اغلب به خواسته‌های عمومی گوش نمی‌دهند و به منافع اقتصادی صنعت اشاره می‌کنند. اما فشار فعالان می‌تواند سیاست‌های کشاورزی و حفاظت از محیط زیست را مجدداً بررسی کند.",
+      "analyse_ar": "تظاهرات ضد المبيدات الكيميائية تتوسع بسبب زيادة حالات السرطان والأمراض المزمنة بين المزارعين. العلماء منذ فترة طويلة يحذّرون من مخاطر الكيميائية على التربة والماء، لكن التنظيمات تستمر في السماح باستخدامها. المزارعون، رغم المخاطر، مضطرون لاستخدام المبيدات للحفاظ على المحاصيل، مما يخلق دائرة مفرغة. الحكومات غالبًا ما تجاهل طلبات المجتمع، معتمدين على مصالح الصناعية الاقتصادية. ومع ذلك، قد يضطر ضغط النشطاء إلى إعادة النظر في سياسات الزراعة وحماية البيئة.",
+      "categorie": "Environnement",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/environnement/2026/10/03/beaucoup-de-gens-sont-inquiets-des-agriculteurs-et-des-malades-du-cancer-se-mobilisent-contre-les-pesticides",
+      "image": "https://cdn-s-www.ledauphine.com/images/733540EB-D4FD-45E2-BE11-628E1AF02BD4/FB1200/photo-1790948369.jpg",
+      "date": "2026-10-03",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole (responsabilité environnementale)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des alternatives biologiques",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole (responsabilité environnementale)",
+          "secteur_en": "Agricultural insurance (environmental liability)",
+          "secteur_zh": "农业环境责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison des risques accrus de sanctions pour non-respect des normes pesticides et des litiges environnementaux en hausse.",
+          "effet_en": "Premiums may rise due to increased risks of fines for pesticide non-compliance and growing environmental lawsuits.",
+          "effet_zh": "由于违反农药法规的罚款风险和环境诉讼增加，保费可能上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des alternatives biologiques",
+          "secteur_en": "Biological alternatives market",
+          "secteur_zh": "生物替代品市场",
+          "effet_fr": "La demande en solutions non chimiques pourrait dynamiser ce secteur, mais son développement reste lent en raison des coûts initiaux et de la méfiance des agriculteurs.",
+          "effet_en": "Demand for non-chemical solutions may boost this sector, but growth remains slow due to initial costs and farmers' skepticism.",
+          "effet_zh": "对非化学解决方案的需求可能推动该行业发展，但初期成本和农民的不信任阻碍了其快速增长。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-04T15:12:20.639801",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_291089",
       "titre": "Normandie : usines BASF-Syngeta en grève",
       "titre_en": "Normandy plants BASF-Syngeta strike",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-10-02T21:11:52.012233",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_369242",
-      "titre": "Pesticides : deux projets agricoles financés",
-      "titre_en": "Pesticides: Two Farm Projects Funded",
-      "titre_zh": "农药替代：两大农业项目获资助",
-      "titre_ru": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
-      "titre_fa": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
-      "titre_ar": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
-      "titre_original": "Alternatives aux pesticides : deux projets soutenus pour les grandes cultures et le maraîchage",
-      "resume": "Le ministère de l’Agriculture a sélectionné deux projets collectifs dans le cadre d’un appel à projets visant à réduire l’usage des pesticides. Ces initiatives, soutenues financièrement, concernent les grandes cultures et le maraîchage. Elles s’inscrivent dans une dynamique de transition écologique et de durabilité agricole post-2020.",
-      "resume_en": "France’s Ministry of Agriculture has chosen two collective agricultural projects under a program aimed at reducing pesticide use. Funded initiatives target large-scale crops and vegetable farming. They align with a post-2020 ecological and sustainable agricultural transition.",
-      "resume_zh": "法国农业部选择了两个集体农业项目，旨在减少农药使用。资助项目涵盖大田作物和蔬菜种植。这些举措符合2020年后的生态和可持续农业转型目标。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France, sous pression européenne et internationale pour réduire ses pesticides, accélère les alternatives depuis la loi Egalim (2018) et le plan « Zéro résidus » (2020). Les enjeux sont à la fois environnementaux (biodiversité, santé des sols) et économiques (coûts sanitaires et réglementaires croissants). Les causes profondes incluent la dépendance historique aux intrants chimiques et un modèle agricole intensif peu résilient. À court terme, ces projets pourraient générer des emplois locaux et des gains de productivité via des méthodes innovantes. À moyen terme, leur succès dépendra de l’adhésion des agriculteurs et des investissements publics-privés. Long terme, ils pourraient redéfinir les standards européens en agriculture durable, mais risquent de heurter les lobbies agrochimiques. Les acteurs publics (ministère, régions) y voient une opportunité de leadership vert, tandis que les coopératives agricoles et les ONG (comme Greenpeace) saluent une avancée, malgré des critiques sur l’ampleur insuffisante des budgets alloués.",
-      "analyse_en": "France, under EU and global pressure to cut pesticide use, has stepped up alternative measures since the Egalim Law (2018) and the ‘Zero Residue’ plan (2020). Stakes involve environmental concerns (biodiversity, soil health) and economic pressures (rising health and regulatory costs). Root causes stem from historical reliance on chemical inputs and an unsustainable intensive farming model. Short-term, these projects may create local jobs and boost productivity through innovative methods. Medium-term success hinges on farmer adoption and public-private investment. Long-term, they could redefine EU agricultural standards but may clash with agrochemical lobby interests. Public actors (ministry, regions) see this as a green leadership opportunity, while cooperatives and NGOs (like Greenpeace) welcome progress, though budget limitations remain a concern.",
-      "analyse_zh": "法国在欧盟和国际压力下，自2018年《农业平等法》和2020年《零残留计划》以来，加速推进农药替代措施。主要影响涉及生态环境（生物多样性、土壤健康）和经济压力（健康和监管成本上升）。深层原因包括对化学投入的历史依赖和不持续的集约化农业模式。短期内，这些项目可能创造当地就业机会并通过创新方法提高产量。中期成功取决于农民的参与和公私合作投资。长期来看，它们可能重塑欧盟农业可持续标准，但可能与农化行业利益集团发生冲突。公共部门（部委、地区）视此为绿色领导力机遇，而合作社和环保组织（如绿色和平）虽然欢迎进展，但仍对资金规模不足表示质疑。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement & Agriculture",
-      "source": "Actu-environnement.com",
-      "url": "https://www.actu-environnement.com/ae/news/alternatives-pesticides-pramm-grandes-cultures-maraichage-48592.php4",
-      "image": "https://www.actu-environnement.com/images/illustrations/breve/48592_reseaux_sociaux.jpg",
-      "date": "2026-10-01",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance agricole et réassurance",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des intrants agricoles biologiques",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance agricole et réassurance",
-          "secteur_en": "Agricultural insurance and reinsurance",
-          "secteur_zh": "农业保险及再保险",
-          "effet_fr": "Les projets de réduction des pesticides pourraient augmenter les coûts des assurances pour les agriculteurs, en raison de risques accrus liés aux méthodes alternatives moins standardisées.",
-          "effet_en": "Pesticide-reduction projects may raise insurance costs for farmers due to higher risks from less standardized alternative methods.",
-          "effet_zh": "农药减量项目可能增加农民的保险成本，因为替代方法不够标准化，带来更高的风险。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des intrants agricoles biologiques",
-          "secteur_en": "Biological agricultural inputs market",
-          "secteur_zh": "有机农业投入品市场",
-          "effet_fr": "La demande en alternatives naturelles (bio-stimulants, composts) devrait dynamiser ce secteur, mais la concurrence avec les géants agrochimiques reste forte.",
-          "effet_en": "Demand for natural alternatives (bio-stimulants, composts) will boost this market, though competition with agrochemical giants remains intense.",
-          "effet_zh": "对天然替代品（生物刺激剂、堆肥）的需求将推动该市场增长，但与农化巨头的竞争依然激烈。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-02T09:25:45.840544",
       "sous_categorie": "environnement"
     }
   ]
