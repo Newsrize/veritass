@@ -1,7 +1,66 @@
 {
-  "last_updated": "05/10/2026 à 23h48",
+  "last_updated": "06/10/2026 à 04h59",
   "articles": {
     "monde": [
+      {
+        "id": "monde_135886",
+        "titre": "L’éradication des rats booste les colonies d’oiseaux",
+        "titre_en": "Rat eradication boosts seabird colonies",
+        "titre_zh": "老鼠灭绝促进海鸟繁殖",
+        "titre_ru": "In 2007, black rats were eradicated from Italy’s Zannone island; by 2016, Scopoli’s shearwater breeding pairs had risen from 27 to 80",
+        "titre_fa": "In 2007, black rats were eradicated from Italy’s Zannone island; by 2016, Scopoli’s shearwater breeding pairs had risen from 27 to 80",
+        "titre_ar": "In 2007, black rats were eradicated from Italy’s Zannone island; by 2016, Scopoli’s shearwater breeding pairs had risen from 27 to 80",
+        "titre_original": "In 2007, black rats were eradicated from Italy’s Zannone island; by 2016, Scopoli’s shearwater breeding pairs had risen from 27 to 80",
+        "resume": "En 2007, l’île italienne de Zannone a éliminé sa population de rats noirs, invasive. En 2016, les couples reproducteurs de cormorans de Scopoli sont passés de 27 à 80. Ce succès illustre l’impact écologique des espèces exotiques. Les scientifiques soulignent l’importance des interventions ciblées en conservation. L’équilibre écologique semble se rétablir après des décennies de perturbation. Les retombées positives pourraient inspirer d’autres projets similaires. Les défis persistent pour généraliser cette approche à plus grande échelle.",
+        "resume_en": "In 2007, Italy’s Zannone Island eradicated its invasive black rat population. By 2016, Scopoli’s shearwater breeding pairs rose from 27 to 80. This success highlights the ecological impact of invasive species. Scientists emphasize the need for targeted conservation interventions. Ecological balance appears to be restoring after decades of disruption. Positive outcomes may inspire similar projects worldwide. Challenges remain in scaling this approach globally.",
+        "resume_zh": "2007年，意大利扎诺内岛成功清除入侵的黑鼠。到2016年，斯科波利海燕繁殖对数从27对增加到80对。这一成果展示了入侵物种对生态的影响。科学家强调有针对性的保护干预的必要性。生态平衡在多年扰动后似乎正在恢复。积极效果可能激励全球类似项目。扩大规模仍面临挑战。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L’île de Zannone, isolée en Méditerranée, servait de refuge à des espèces invasives depuis des décennies. Les rats noirs, introduits accidentellement, menaçaient directement les colonies d’oiseaux nicheurs. L’absence de prédateurs naturels sur l’île a aggravé la situation, créant un déséquilibre écologique. L’intervention humaine a permis une récupération rapide des populations d’oiseaux, prouvant l’efficacité des méthodes d’éradication. À moyen terme, cette approche pourrait réduire les coûts de gestion des espèces invasives ailleurs. Long terme, elle pourrait servir de modèle pour les zones insulaires fragiles. Les acteurs locaux et internationaux en conservation saluent cette initiative, mais soulignent la nécessité de financements durables.",
+        "analyse_en": "Zannone Island, isolated in the Mediterranean, served as a refuge for invasive species for decades. Black rats, accidentally introduced, directly threatened seabird nesting colonies. The absence of natural predators on the island worsened the imbalance. Human intervention led to a rapid recovery of bird populations, proving the effectiveness of eradication methods. In the medium term, this approach could reduce management costs for invasive species elsewhere. Long-term, it may set a model for fragile island zones. Local and international conservation actors praise the initiative but emphasize the need for sustainable funding.",
+        "analyse_zh": "扎诺内岛位于地中海孤立区域，多年来成为入侵物种的避难所。黑鼠非故意引入，直接威胁海燕繁殖地。岛上缺乏天敌加剧了生态失衡。人类干预促进了鸟类种群快速恢复，证明了灭绝方法的有效性。中期内，这种方法可能降低其他地区处理入侵物种的成本。长期来看，它可能成为脆弱岛屿的示范模式。当地和国际保护者赞扬这一举措，但强调需要持续资金支持。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2007-black-rats-were-eradicated-from-italys-zannone-island-by-2016-scopolis-shearwater-breeding-pairs-had-risen-from-27-to-80/articleshow/134686076.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134686283,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-10-05",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Agriculture biologique et tourisme écologique",
+            "hausse": true
+          },
+          {
+            "label": "▲ Recherche en biodiversité marine",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Agriculture biologique et tourisme écologique",
+            "secteur_en": "Organic agriculture and eco-tourism",
+            "secteur_zh": "有机农业和生态旅游",
+            "effet_fr": "La restauration écologique pourrait attirer des investissements dans l’agriculture durable et le tourisme vert sur l’île.",
+            "effet_en": "Ecological restoration may attract investments in sustainable agriculture and eco-tourism on the island.",
+            "effet_zh": "生态恢复可能吸引岛上可持续农业和生态旅游的投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Recherche en biodiversité marine",
+            "secteur_en": "Marine biodiversity research",
+            "secteur_zh": "海洋生物多样性研究",
+            "effet_fr": "Les données collectées pourraient stimuler les financements pour des études sur les écosystèmes méditerranéens.",
+            "effet_en": "Collected data may boost funding for Mediterranean ecosystem studies.",
+            "effet_zh": "收集的数据可能推动地中海生态系统研究的资金投入。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-06T04:58:25.691662"
+      },
       {
         "id": "monde_559638",
         "titre": "Skattebo critique ligne de pari après victoire Cardinals",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-09-27T12:46:57.876154"
-      },
-      {
-        "id": "monde_977150",
-        "titre": "Ancien lieutenant-gouverneur démocrate démissionne après enquête sur harcèlement sexuel",
-        "titre_en": "Ex-Democrat Lt Gov resigns after sexual harassment probe",
-        "titre_zh": "前民主党副州长因性骚扰调查辞职",
-        "titre_ru": "Видео: бывший вице-губернатор Демократической партии объясняет причины отставки после расследования сексуальных домогательств",
-        "titre_fa": "ویدئو: دلیل استعفا از سمت معاون فرماندار دموکرات پس از تحقیق در مورد آزار جنسی",
-        "titre_ar": "فيديو: يشرح نائب حاكم ديمقراطي سابق أسباب استقالته بعد من تحقيق حول الإساءة الجنسية",
-        "titre_original": "WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state",
-        "resume": "Dale Caldwell, ancien lieutenant-gouverneur du New Jersey, a démissionné après une enquête interne qualifiée de « spéculative » et « mal menée ». Il a nié toute faute grave, affirmant vouloir éviter de distraire le gouverneur Mikie Sherrill. Ce scandale reflète les tensions persistantes au sein des partis démocrates sur la gestion des affaires internes. Les conséquences pourraient inclure une perte de crédibilité pour les institutions locales et une remise en question des mécanismes de transparence.",
-        "resume_en": "Dale Caldwell, former New Jersey lieutenant governor, resigned after an internal probe labeled as ‘specious’ and ‘poorly done.’ He denied wrongdoing, claiming he stepped down to avoid distracting Governor Mikie Sherrill. The scandal highlights ongoing Democratic party tensions over internal affairs handling. Potential consequences include loss of credibility for local institutions and scrutiny of transparency mechanisms.",
-        "resume_zh": "美国新泽西州前副州长戴尔·卡尔德韦尔因内部调查被形容为「牵强附会」和「执行不力」而辞职。他否认有重大过错，声称辞职是为了不分散州长米基·谢里尔的注意力。这起丑闻反映了民主党内部在处理内部事务时持续存在的紧张关系。可能的后果包括当地机构信誉受损和对透明度机制的质疑。",
-        "resume_ru": "Дейл Кэлдвелл назвал на камеру расследование этики «несправедливым» и «плохо проведённым», утверждая, что подал в отставку только для того, чтобы не отвлекать губернатора Мики Шеррилл. Он подчеркнул, что его решение не связано с фактами сексуальных домогательств. В интервью Кэлдвелл заявил, что его уход был вынужденным шагом.",
-        "resume_fa": "دیل کالدوول در ویدئو تحقیق اخلاقی را «بی‌اساس» و «کم‌کار» خواند و ادعا کرد که تنها برای اجتناب از اخلال در کار فرماندار میکی شریل استعفا داد. او تأکید کرد که تصمیمش با واقعیت‌های آزار جنسی مرتبط نیست. در مصاحبه، کالدوول گفت که استعفا او یک اقدام اجباری بود.",
-        "resume_ar": "قال ديل كالدويل في الفيديو أن التحقيق الأخلاقي كان «مبني على أساس زائف» و«جيد بشكل سيء»، مشيرا إلى أنه استقال فقط لتجنب إزعاج حاكم ميكى شيريل. أكد أنه قراره لا يتعلق بأحداث الإساءة الجنسية. في المقابلة، قال كالدويل إن استقالته كانت خطوة ملحة.",
-        "analyse_detaillee": "Ce cas s’inscrit dans une série de scandales politiques liés au harcèlement sexuel, comme ceux impliquant Harvey Weinstein ou les révélations sur les pratiques au sein du Congrès américain. Les enjeux sont à la fois moraux (lutte contre les violences sexistes) et politiques (perte de soutien électoral). Les causes profondes incluent une culture du silence et une lenteur des procédures judiciaires. À court terme, cela pourrait affaiblir la gouvernance locale et renforcer les critiques contre les démocrates. À moyen terme, cela pourrait accélérer des réformes sur les normes éthiques dans les partis. Long terme, cela pourrait bousculer les dynamiques de pouvoir au sein des institutions démocrates. Les acteurs clés sont les médias d’investigation, les associations féministes et les élus locaux.",
-        "analyse_en": "This case follows a wave of political scandals involving sexual harassment, including figures like Harvey Weinstein or revelations about congressional practices. The stakes involve moral (fighting sexist violence) and political (loss of electoral support) dimensions. Deep causes include a culture of silence and slow judicial procedures. Short-term, this may weaken local governance and intensify criticism against Democrats. Medium-term, it could push for ethics reforms within parties. Long-term, it may disrupt power dynamics in Democratic institutions. Key actors include investigative media, feminist groups, and local officials.",
-        "analyse_zh": "此案属于一系列涉及性骚扰的政治丑闻，如哈维·韦恩斯坦案或美国国会内部实践的曝光。影响涉及道德层面（反对性别暴力）和政治层面（失去选举支持）。深层原因包括沉默文化和司法程序缓慢。短期内，这可能削弱地方治理并加剧对民主党的批评。中期内，这可能推动党派内部伦理规范的改革。长期内，这可能动摇民主党内部的权力动态。关键利益相关者包括调查媒体、女性主义组织和地方官员。",
-        "analyse_ru": "Отставка Кэлдвелла стала следствием давления со стороны политических оппонентов и общественного мнения, которое ужесточилось после скандалов с сексуальными домогательствами в демократических рядах. Причины его ухода связаны с желанием избежать дальнейших скандалов и возможного ущерба для репутации губернатора Шеррилл. Последствия могут сказаться на доверии избирателей к демократам, особенно перед выборами. Перспективы включают возможное продолжение расследований и поиск новых кандидатов на пост вице-губернатора. Позиция демократов разделилась: часть поддерживает Кэлдвелла, считая его жертвой политических интриг, в то время как другие требуют полного расследования.",
-        "analyse_fa": "استعفا کالدوول نتیجه فشار طرفداران سیاسی و نظر عمومی شد که پس از اسکاندال آزار جنسی در ردیف دموکرات‌ها تشدید شده بود. دلیل استعفا او از دست دادن آزار و اذیت بیشتر و آسیب احتمالی به اعتبار فرماندار شریل بود. پیامدهای این تصمیم ممکن است بر اعتماد رای‌دهندگان به دموکرات‌ها تأثیر بگذارد، به ویژه پیش از انتخابات. چشم‌انداز شامل ادامه تحقیق و جستجوی نامزدهای جدید برای سمت معاون فرمانداری است. موضع دموکرات‌ها تقسیم شده است: برخی کالدوول را قربانی نقشه‌های سیاسی می‌دانند، در حالی که برخی دیگر تحقیق کامل را می‌خواهند.",
-        "analyse_ar": "كانت استقالة كالدويل نتيجة لضغط المعارضين السياسيين والمجتمع الذي شدد من موقفه بعد من فضيحة الإساءة الجنسية في صفوف الديمقراطيين. أسباب استقالته ترتبط بالتهرب من المزيد من الفضيحات والضرر المحتمل على سمعة حاكم شيريل. قد تؤثر نتائج هذا القرار على ثقة الناخبين بالديمقراطيين، خاصة قبل الانتخابات. الآفاق تشمل استمرار التحقيقات والبحث عن مرشحين جدد لمنصب نائب الحاكم. مواقف الديمقراطيين متضاربة: حيث يعتبر البعض كالدويل ضحية المؤامرات السياسية، بينما يطلب آخرون تحقيقًا شاملًا.",
-        "categorie": "Politique intérieure",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/politics/former-dem-lt-gov-reveals-why-he-resigned-after-sexual-harassment-probe-rocked-state",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/caldwell-lt-gov-new-jersey-1.jpg",
-        "date": "2026-09-26",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Assurances politiques et responsabilité civile",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des fonds de campagne électorales",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurances politiques et responsabilité civile",
-            "secteur_en": "Political risk insurance sector",
-            "secteur_zh": "政治风险保险行业",
-            "effet_fr": "Les scandales politiques augmentent les coûts d’assurance pour les élus, poussant certains à souscrire des polices plus chères ou à éviter les postes à haut risque.",
-            "effet_en": "Political scandals increase insurance costs for officials, forcing some to buy pricier policies or avoid high-risk positions.",
-            "effet_zh": "政治丑闻增加了官员的保险成本，迫使一些人购买更贵的保险或避免高风险职位。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des fonds de campagne électorales",
-            "secteur_en": "Electoral campaign funding market",
-            "secteur_zh": "选举竞选资金市场",
-            "effet_fr": "Les dons pourraient diminuer si les électeurs perçoivent une perte de sérieux dans les institutions, affectant les candidats démocrates en quête de financement.",
-            "effet_en": "Donations may decline if voters perceive a loss of seriousness in institutions, impacting Democratic candidates’ funding efforts.",
-            "effet_zh": "如果选民认为机构失去了严肃性，捐款可能会减少，影响民主党候选人筹集资金的努力。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-27T00:15:53.672987"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_781364",
+        "titre": "États-Unis rapatrient 12 bombardiers B-1 du Royaume-Uni",
+        "titre_en": "US pulls 12 B-1 bombers from UK base",
+        "titre_zh": "美国从英国基地撤回12架B-1轰炸机",
+        "titre_ru": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
+        "titre_fa": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
+        "titre_ar": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
+        "titre_original": "Bessent expects US-China AI incident channel as Washington leans on voluntary oversight",
+        "resume": "Les États-Unis ont retiré en urgence leurs 12 bombardiers B-1 de la base aérienne britannique de RAF Fairford. Cette décision suit des avertissements sur une menace irrationnelle envers l’Iran. Les médias évoquent une escalade des tensions dans la région. Les conséquences pourraient inclure une augmentation des tensions avec Téhéran et des répercussions sur les alliances régionales. Les acteurs clés, comme Israël et l’Arabie saoudite, pourraient être directement concernés.",
+        "resume_en": "The US abruptly pulled its 12 B-1 bombers from RAF Fairford in the UK. This move follows warnings about an alleged threat to Iran. Media report escalating tensions in the region. Consequences may include heightened tensions with Tehran and regional alliance repercussions. Key actors like Israel and Saudi Arabia could be directly affected.",
+        "resume_zh": "美国紧急从英国拉夫·费尔福德空军基地撤回了12架B-1轰炸机。这一决定源于对伊朗存在的不明威胁警告。媒体报道地区紧张局势升级。后果可能包括与德黑兰的紧张关系加剧和地区盟友的影响。以色列和沙特阿拉伯等关键利益相关者可能直接受影响。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions USA-Iran remontent aux années 1970, avec des crises comme l’otage à Téhéran en 1979. La base de RAF Fairford, utilisée pour des frappes illégales, symbolise l’ingérence américaine dans la région. Les causes profondes incluent le conflit nucléaire iranien et les alliances régionales en mutation. À court terme, les marchés pétroliers pourraient subir des chocs volatils. À moyen terme, Israël et l’Arabie saoudite pourraient intensifier leurs actions militaires. Long terme, une guerre régionale ou une escalade nucléaire reste une hypothèse plausible. Les États-Unis et l’Iran adoptent des postures intransigeantes, avec peu de marge pour la diplomatie.",
+        "analyse_en": "US-Iran tensions date back to the 1970s, including the 1979 Tehran hostage crisis. RAF Fairford, used for illegal strikes, symbolizes US interference in the region. Root causes include Iran’s nuclear conflict and shifting regional alliances. Short-term, oil markets may face volatile shocks. Medium-term, Israel and Saudi Arabia could escalate military actions. Long-term, a regional war or nuclear escalation remains plausible. The US and Iran adopt rigid stances, leaving little room for diplomacy.",
+        "analyse_zh": "美伊紧张关系可追溯到上世纪70年代，包括1979年德黑兰人质危机。拉夫·费尔福德基地曾用于非法打击，象征美国在该地区的干预。深层原因包括伊朗核危机和地区盟友的变化。短期内，石油市场可能面临波动冲击。中期内，以色列和沙特阿拉伯可能加剧军事行动。长期来看，地区战争或核升级仍然可能。美国和伊朗采取僵硬立场，外交空间有限。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Digitimes",
+        "url": "https://www.digitimes.com/news/a20261005VL208/anthropic-beijing-government.html",
+        "image": "https://img.digitimes.com/newsshow/20261005vl208_files/1_b.jpg",
+        "date": "2026-10-05",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier et géopolitique énergétique",
+            "hausse": false
+          },
+          {
+            "label": "▲ Défense et aéronautique militaire",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier et géopolitique énergétique",
+            "secteur_en": "Oil market and energy geopolitics",
+            "secteur_zh": "石油市场和能源地缘政治",
+            "effet_fr": "Les tensions accrues pourraient entraîner une hausse des prix du pétrole et des fluctuations sur les marchés des matières premières.",
+            "effet_en": "Escalating tensions may drive up oil prices and volatility in commodity markets.",
+            "effet_zh": "升级的紧张局势可能推高石油价格并导致大宗商品市场波动。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Défense et aéronautique militaire",
+            "secteur_en": "Defense and military aeronautics",
+            "secteur_zh": "国防和军用航空",
+            "effet_fr": "Le retrait des bombardiers pourrait relancer les investissements dans les programmes de modernisation de l’US Air Force.",
+            "effet_en": "The bomber withdrawal may spur investments in US Air Force modernization programs.",
+            "effet_zh": "轰炸机的撤离可能刺激美国空军现代化项目的投资。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-06T04:58:25.691701"
+      },
       {
         "id": "usa_762277",
         "titre": "Trésor américain crée 60M comptes Trump",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-09-27T12:46:57.876129"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_16494",
-        "titre": "Cour suprême rejette pour la 3ème fois le découpage électoral du Missouri",
-        "titre_en": "Supreme Court rejects Missouri map again",
-        "titre_zh": "美国最高法院第三次驳回密苏里州选区划分",
-        "titre_ru": "Супремная судья США отклонила третий раз карту конгресса Миссури, поддержанную Трампом",
-        "titre_fa": "دادرسی عالی آمریکا نقشه کنگره میزوری حمایت شده از ترامپ را برای سومین بار رد کرد",
-        "titre_ar": "رفض المحكمة العليا الأمريكية خريطة الكونغرس لميسوري المدعومة من قبل ترامب للمرة الثالثة",
-        "titre_original": "US Supreme Court rejects Trump-backed Missouri congressional map for third time",
-        "resume": "La Cour suprême des États-Unis a rejeté une nouvelle carte électorale du Missouri soutenue par Donald Trump, mettant potentiellement fin à des années de litiges judiciaires. Ce rejet intervient dans un contexte de tensions politiques croissantes autour des redécoupages partisans. Les conséquences pourraient affecter les élections législatives de 2024 et la représentation politique de l’État.",
-        "resume_en": "The US Supreme Court rejected a Missouri congressional map backed by Donald Trump, potentially ending years of legal disputes. The decision comes amid rising political tensions over partisan gerrymandering. It may impact the 2024 elections and Missouri’s political representation.",
-        "resume_zh": "美国最高法院第三次驳回由特朗普支持的密苏里州国会选区划分方案，可能终结多年的司法争端。此举发生在党派操控选区的政治紧张局势下，可能影响2024年国会选举和该州的政治代表权。",
-        "resume_ru": "В пятницу Верховный суд США отклонил попытку использования новой карты конгресса Миссури, поддержанной бывшим президентом Дональдом Трампом. Это решение может положить конец многолетним спорам по перераспределению округов. Судьями было отмечено нарушение принципов справедливого представительства.",
-        "resume_fa": "دادرسی عالی آمریکا در پنج‌شنبه تلاش برای استفاده از نقشه جدید کنگره میزوری که توسط دونالد ترامپ حمایت می‌شد را رد کرد. این تصمیم ممکن است به پایان رساندن درگیری‌های طولانی‌مدت در مورد تقسیمات انتخابی بپردازد. قضات به نقض اصول نمایندگی عادلانه اشاره کردند.",
-        "resume_ar": "رفضت المحكمة العليا الأمريكية في الجمعة محاولة استخدام خريطة الكونغرس الجديدة لميسوري التي تدعمها إدارة دونالد ترامب. قد يرمز هذا القرار إلى نهاية نقاشات طويلة الأمد حول إعادة رسم الحدود الانتخابية. أشارت القضاة إلى انتهاك مبادئ التمثيل العادل.",
-        "analyse_detaillee": "Ce rejet s’inscrit dans une série de décisions judiciaires visant à limiter les abus de redécoupage électoral, un phénomène né dans les années 1960 avec la *Reynolds v. Sims* (1964) et aggravé par les réformes partisanes. Les enjeux sont à la fois démocratiques (équité des circonscriptions) et stratégiques (maintenir ou perdre des sièges au Congrès). Les causes profondes incluent la polarisation politique et l’influence des lobbies conservateurs. À court terme, cela pourrait forcer un nouveau découpage, retardant les élections locales. À moyen terme, cela pourrait renforcer les critiques contre les partis républicains accusés de favoriser leurs candidats. Long terme, cela pourrait accélérer des réformes fédérales sur le redécoupage. Les acteurs clés sont la Cour suprême (majorité conservatrice), les démocrates locaux et les groupes de défense des droits électoraux comme *Common Cause*.",
-        "analyse_en": "This rejection follows a series of judicial rulings aimed at curbing partisan gerrymandering, a practice rooted in the 1960s (*Reynolds v. Sims*, 1964) and exacerbated by partisan reforms. The stakes involve both democratic fairness (fair district representation) and strategic control (gaining or losing congressional seats). Deep causes include political polarization and the influence of conservative lobbying groups. Short-term, this may force a new redistricting process, delaying local elections. Medium-term, it could intensify criticism against Republicans accused of favoring their candidates. Long-term, it may push for federal redistricting reforms. Key actors include the Supreme Court (conservative majority), local Democrats, and advocacy groups like *Common Cause*.",
-        "analyse_zh": "此裁决属于一系列旨在限制党派操控选区的司法决定，该现象起源于20世纪60年代的《雷诺兹诉西姆斯案》（1964年），并因党派改革而恶化。主要影响涉及民主公平性（公平的选区代表）和战略控制（在国会中获得或失去席位）。深层原因包括政治极化和保守派利益集团的影响。短期内，这可能迫使重新划分选区，推迟地方选举。中期内，这可能加剧对共和党的批评，指控他们偏袒自己的候选人。长期内，这可能推动联邦层面的选区划分改革。关键利益相关者包括最高法院（保守派多数）、当地民主党人和公民权利倡导组织如《公共事务联盟》。",
-        "analyse_ru": "Решение Верховного суда США по карте Миссури является логическим продолжением ряда судебных решений, направленных на ограничение вмешательства политиков в процессы перераспределения округов. Причинами такого подхода служат попытки манипулирования результатами выборов через географическое перераспределение избирателей. Последствия могут сказаться на балансе сил в Конгрессе, особенно перед предстоящими выборами. Перспективы включают возможные апелляции сторон и дальнейшие судебные разбирательства. Позиция сторон разделилась: республиканцы обвиняют суд в политической мотивации, в то время как демократы считают решение справедливым.",
-        "analyse_fa": "این تصمیم دادرسی عالی آمریکا در مورد نقشه میزوری ادامه منطقی یک سری تصمیمات قضایی است که به محدود کردن دخالت سیاستمداران در تقسیمات انتخابی می‌پردازد. دلیل این رویکرد تلاش‌های مکرر برای تغییر نتایج انتخابات از طریق تغییر جغرافیایی رای‌دهندگان است. پیامدهای این تصمیم ممکن است بر تعادل قدرت در کنگره تأثیر بگذارد، به ویژه در پیش از انتخابات آینده. چشم‌انداز شامل امکان استئناف از سوی طرفین و ادامه درگیری‌های قضایی است. موضع طرفین تقسیم شده است: جمهوری‌خواهان به سیاسی بودن تصمیم دادگاه اعتراض دارند، در حالی که دموکرات‌ها آن را عادلانه می‌دانند.",
-        "analyse_ar": "قرار المحكمة العليا الأمريكية بشأن خريطة ميسوري هو استمرار منطقي لسلسلة من الأحكام القضائية التي تهدف إلى الحد من التدخل السياسي في إعادة رسم الحدود الانتخابية. أسباب هذا النهج تشمل محاولات التلاعب بنتائج الانتخابات من خلال إعادة توزيع الجغرافيا الانتخابية. قد تؤثر نتائج هذا القرار على توازن القوى في الكونغرس، خاصة قبل من الانتخابات المقبلة. الآفاق تشمل إمكانية الاستئناف من قبل الأطراف المعنية ومواصلة المنازعات القضائية. مواقف الأطراف متضاربة: حيث يتهم الجمهوريون المحكمة بالتحيز السياسي، بينما يعتبر الديمقراطيون القرار عادلاً.",
+        "id": "chine_463069",
+        "titre": "Agent immobilière chinoise arrêtée comme espionne à LAX",
+        "titre_en": "Chinese realtor arrested as spy at LAX",
+        "titre_zh": "洛杉矶机场中国房产代理被捕为间谍",
+        "titre_ru": "Southern California real-estate agent arrested at LAX a Chinese spy, feds say - KTLA",
+        "titre_fa": "Southern California real-estate agent arrested at LAX a Chinese spy, feds say - KTLA",
+        "titre_ar": "Southern California real-estate agent arrested at LAX a Chinese spy, feds say - KTLA",
+        "titre_original": "Southern California real-estate agent arrested at LAX a Chinese spy, feds say - KTLA",
+        "resume": "Une agente immobilière californienne d’origine chinoise a été arrêtée à l’aéroport de Los Angeles (LAX) pour espionnage. Les autorités fédérales américaines accusent la suspecte d’avoir surveillé le fils du président taïwanais. Cet événement s’inscrit dans un contexte de tensions croissantes entre Washington et Pékin. Les médias soulignent une escalade des activités de renseignement entre les deux pays. Les conséquences pourraient inclure des représailles économiques ou diplomatiques.",
+        "resume_en": "A California real estate agent of Chinese descent was arrested at Los Angeles International Airport (LAX) on espionage charges. US federal authorities accuse her of surveilling the son of Taiwan’s president. This incident escalates tensions between Washington and Beijing. Media highlight growing intelligence activities between the two nations. Potential consequences include economic or diplomatic retaliation.",
+        "resume_zh": "一名加州华裔房产代理人在洛杉矶国际机场因间谍罪被捕。美国联邦当局指控她监视台湾总统之子。此事件加剧了华盛顿和北京之间的紧张关系。媒体强调两国情报活动的升级。可能的后果包括经济或外交报复。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions sino-américaines remontent aux années 1990, avec des rivalités technologiques et commerciales persistantes. Ce cas illustre une nouvelle forme de guerre froide, où l’espionnage économique et technologique prime. Les causes profondes incluent la montée en puissance de la Chine et les stratégies de containment américaines. À court terme, les marchés financiers pourraient subir des volatilités accrues. À moyen terme, les relations diplomatiques pourraient se détériorer davantage. Long terme, une escalade militaire ou une guerre commerciale totale reste une hypothèse. Les États-Unis et la Chine adoptent des positions rigides, avec peu de marge pour la diplomatie.",
+        "analyse_en": "US-China tensions date back to the 1990s, with persistent tech and trade rivalries. This case exemplifies a new Cold War, where economic and technological espionage dominates. Root causes include China’s rise and US containment strategies. Short-term, financial markets may face increased volatility. Medium-term, diplomatic relations could worsen further. Long-term, a military escalation or full-scale trade war remains a possibility. Both nations adopt rigid stances, leaving little room for diplomacy.",
+        "analyse_zh": "中美紧张关系可追溯到上世纪90年代，技术和贸易竞争持续升级。此案例展示了一种新型冷战，经济和技术间谍成为主导。深层原因包括中国崛起和美国遏制战略。短期内，金融市场可能面临更大波动。中期内，外交关系可能进一步恶化。长期来看，军事升级或全面贸易战仍是可能。两国采取僵硬立场，外交空间有限。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-supreme-court-rejects-trump-backed-missouri-congressional-map-for-third-time/articleshow/134495273.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134495284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-26",
-        "pays": "usa",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186025686",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-10-05",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché des obligations d'État américaines (Treasuries)",
-            "hausse": false
+            "label": "▲ Marché des technologies de surveillance",
+            "hausse": true
           },
           {
-            "label": "▼ Bourse des États-Unis (S&P 500, Nasdaq)",
+            "label": "▼ Bourse de Shanghai et Nasdaq",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des obligations d'État américaines (Treasuries)",
-            "secteur_en": "US Treasury bond market",
-            "secteur_zh": "美国国债市场",
-            "effet_fr": "L’incertitude juridique prolongée pourrait renforcer les craintes sur la stabilité économique américaine, poussant les investisseurs à privilégier des actifs refuges comme les Treasuries.",
-            "effet_en": "Prolonged legal uncertainty may heighten fears about US economic stability, driving investors toward safe-haven assets like Treasuries.",
-            "effet_zh": "司法不确定性的延长可能加剧对美国经济稳定性的担忧，推动投资者选择如国债等避险资产。",
-            "hausse": false
+            "secteur_fr": "Marché des technologies de surveillance",
+            "secteur_en": "Surveillance technology market",
+            "secteur_zh": "监控技术市场",
+            "effet_fr": "Les tensions accrues pourraient stimuler les investissements dans les technologies de renseignement et de cybersécurité aux États-Unis.",
+            "effet_en": "Escalating tensions may boost investments in US intelligence and cybersecurity technologies.",
+            "effet_zh": "升级的紧张局势可能刺激美国在情报和网络安全技术上的投资。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Bourse des États-Unis (S&P 500, Nasdaq)",
-            "secteur_en": "US stock market (S&P 500, Nasdaq)",
-            "secteur_zh": "美国股市（标普500、纳斯达克）",
-            "effet_fr": "Les investisseurs pourraient réduire leurs positions sur les actions à haut risque en cas de nouveau report des élections, affectant les secteurs cycliques comme la technologie.",
-            "effet_en": "Investors may reduce exposure to high-risk stocks if elections are delayed, impacting cyclical sectors like tech.",
-            "effet_zh": "如果选举被推迟，投资者可能减少对高风险股票的持有，影响如科技等周期性行业。",
+            "secteur_fr": "Bourse de Shanghai et Nasdaq",
+            "secteur_en": "Shanghai Stock Exchange and Nasdaq",
+            "secteur_zh": "上海证券交易所和纳斯达克",
+            "effet_fr": "Les fluctuations géopolitiques pourraient entraîner des corrections brutales sur les indices boursiers chinois et américains.",
+            "effet_en": "Geopolitical fluctuations may trigger sharp corrections in Chinese and US stock indices.",
+            "effet_zh": "地缘政治波动可能导致中国和美国股指出现剧烈下跌。",
             "hausse": false
           }
         ],
-        "created_at": "2026-09-27T00:15:53.672961"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-06T04:58:25.691683"
+      },
       {
         "id": "chine_926233",
         "titre": "Réaltor chinoise arrêtée à LAX pour espionnage",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-09-25T00:25:02.642794"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_242870",
-        "titre": "Incendie mortel à Foshan relance débat sur sécurité industrielle",
-        "titre_en": "Foshan factory fire exposes fashion safety gaps",
-        "titre_zh": "佛山工厂火灾曝光服装安全漏洞",
-        "titre_ru": "Пожар на фабрике Фошань выявил проблемы безопасности в индустрии моды",
-        "titre_fa": "آتش‌سوزی فاجعه‌بار کارخانه فوشان، مشکلات امنیتی صنعت مد را آشکار کرد",
-        "titre_ar": "نارحة مصنع فوشان تبرز ثغرات السلامة في صناعة الأزياء",
-        "titre_original": "Deadly Foshan Factory Fire Puts Fashion’s Safety Gaps in Focus—Again",
-        "resume": "Un incendie meurtrier dans une usine de lavage de jeans à Foshan (Chine) a fait huit morts, le même jour où deux autres accidents industriels au Bangladesh ont tué au moins dix personnes et blessé 135 autres. Ces tragédies relancent les questions sur les normes de sécurité dans la mode rapide et les conditions de travail dans les pays à bas coûts. Les marques internationales sont de nouveau pointées du doigt pour leur sous-traitance opaque et leur priorité au coût plutôt qu’à la sécurité.",
-        "resume_en": "A deadly fire in a denim-washing factory in Foshan, China, killed eight people, the same day two other industrial accidents in Bangladesh killed at least ten and injured 135. These tragedies reignite questions about fast-fashion safety standards and labor conditions in low-cost countries. International brands are again criticized for opaque outsourcing and prioritizing cost over safety.",
-        "resume_zh": "佛山一家洗牛仔裤工厂发生火灾，导致8人死亡，同一天孟加拉国发生两起工业事故，至少10人死亡，135人受伤。这些悲剧再次引发关于快时尚安全标准和低成本国家劳动条件的质疑。国际品牌因模糊的分包和将成本置于安全之上的做法再次受到批评。",
-        "resume_ru": "В южном Китае в результате пожара на фабрике по обработке джинсовой ткани погибли восемь человек. В тот же день в Бангладеш произошли два инцидента на фабриках, унесшие жизни как минимум десяти рабочих и раненых более 135 человек. Эти трагедии вновь выявили хронические проблемы безопасности в текстильной промышленности. Власти и международные организации призывают к ужесточению контроля и улучшению условий труда.",
-        "resume_fa": "در جنوب چین، در اثر آتش‌سوزی در کارخانه‌ای که به شستشوی جین استفاده می‌کرد، ۸ نفر کشته شدند. در همان روز، دو حادثه در کارخانه‌های بنگلادش نیز رخ داد که در آن حداقل ۱۰ کارگر کشته و بیش از ۱۳۵ نفر زخمی شدند. این فاجعه‌ها دوباره مشکلات امنیتی مزمن صنعت نساجی را آشکار کرد. مقامات و سازمان‌های بین‌المللی به تقویت نظارت و بهبود شرایط کار دعوت می‌کنند.",
-        "resume_ar": "في جنوب الصين، توفي ثمانية أشخاص في حريق مصنع غسل الجينز، بينما حدث في نفس اليوم في بنغلاديش اثنين من الحوادث المصنعية التي أسفرت عن مقتل عشرة على الأقل من العمال وإصابة أكثر من 135 شخص. هذه الكوارث تبرز مرة أخرى ثغرات السلامة المزمنة في صناعة الأزياء. تدعو السلطات والمنظمات الدولية إلى تعزيز الرقابة وتحسين ظروف العمل.",
-        "analyse_detaillee": "Ces accidents s’inscrivent dans une série récurrente de catastrophes industrielles en Asie, révélant les failles du modèle économique de la fast fashion, basé sur la délocalisation massive et la sous-traitance non régulée. Les enjeux incluent la responsabilité des marques (Zara, H&M, Shein) et l’efficacité des audits sociaux, souvent inefficaces. Les causes profondes sont la pression concurrentielle, la corruption locale et l’absence de sanctions dissuasives. À court terme, cela pourrait accélérer les fermetures d’usines non conformes et les relocalisations partielles en Asie du Sud-Est. À moyen terme, les consommateurs pourraient exiger plus de transparence, poussant les marques à investir dans des chaînes d’approvisionnement plus sûres. Long terme, cela pourrait favoriser l’émergence de labels éthiques et de normes internationales strictes, mais aussi une hausse des coûts pour les consommateurs. Les acteurs clés sont les géants de la mode (qui minimisent leur responsabilité), les gouvernements asiatiques (qui tolèrent les violations pour attirer les investissements), et les ONG (qui documentent les abus).",
-        "analyse_en": "These accidents fit into a recurring pattern of industrial disasters in Asia, exposing the flaws of the fast-fashion economic model, reliant on mass outsourcing and unregulated subcontracting. The stakes involve the responsibility of brands (Zara, H&M, Shein) and the effectiveness of social audits, often ineffective. Root causes include competitive pressure, local corruption, and the lack of deterrent sanctions. Short-term, this could accelerate the closure of non-compliant factories and partial relocations to Southeast Asia. Medium-term, consumers may demand more transparency, pushing brands to invest in safer supply chains. Long-term, this could foster the rise of ethical labels and strict international standards, but also higher costs for consumers. Key actors include fashion giants (who downplay responsibility), Asian governments (who tolerate violations to attract investment), and NGOs (who document abuses).",
-        "analyse_zh": "这些事故属于亚洲工业灾难的反复发生模式，揭示了快时尚经济模式的缺陷，后者依赖大规模外包和非监管的分包。主要影响在于品牌（如优衣库、H&M、Shein）的责任以及社会审计的有效性，后者往往无效。深层原因包括竞争压力、当地腐败和缺乏威慑性制裁。短期内，这可能加速关闭不合规工厂并部分将生产转移到东南亚。中期内，消费者可能要求更多透明度，推动品牌投资更安全的供应链。长期来看，这可能促进道德标签和严格国际标准的兴起，但也可能推高消费者成本。关键利益相关者包括时尚巨头（他们减轻责任）、亚洲政府（容忍违规以吸引投资）和NGO（记录滥用行为）。",
-        "analyse_ru": "Контекст связан с историческими проблемами безопасности на фабриках в странах с низкими затратами на труд, где часто пренебрегают стандартами охраны труда. Причины трагедий включают коррупцию, экономию на безопасности и слабый контроль со стороны властей. Последствия могут включать дальнейшее ужесточение регуляторных требований и рост цен на продукцию. Перспективы зависят от реакции правительств и международного сообщества на эти инциденты. Позиции сторон делятся между производителями, стремящимися к снижению издержек, и активистами, требующими улучшения условий труда. Аналитики предсказывают усиление давления на компании для внедрения современных стандартов безопасности.",
-        "analyse_fa": "زمینه این موضوع با مشکلات امنیتی تاریخی کارخانه‌ها در کشورهای با هزینه‌های کار پایین مرتبط است، جایی که اغلب از استانداردهای بهداشت و ایمنی غفلت می‌شود. علل این فاجعه‌ها شامل فساد، صرفه‌جویی در هزینه‌های امنیتی و کنترل ضعیف از سوی مقامات است. پیامدهای احتمالی ممکن است شامل افزایش سخت‌گیرانه‌تر مقررات و افزایش قیمت محصولات باشد. چشم‌انداز به واکنش دولت‌ها و جامعه بین‌المللی به این حوادث بستگی دارد. مواضع بازیگران بین تولیدکنندگان که سعی در کاهش هزینه‌ها دارند و فعالان که بهبود شرایط کار را می‌خواهند تقسیم شده است. تحلیلگران پیش‌بینی می‌کنند که فشار بر شرکت‌ها برای اجرای استانداردهای امنیتی مدرن افزایش یابد.",
-        "analyse_ar": "سياق هذا الموضوع مرتبط بثغرات السلامة التاريخية في المصانع في الدول ذات التكاليف العاملة المنخفضة، حيث غالبًا ما يتم تجاهل معايير السلامة المهنية. أسباب هذه الكوارث تشمل الفساد، تخفيض التكاليف الأمنية والرقابة الضعيفة من قبل السلطات. قد تشمل العواقب المحتملة زيادة شدد متطلبات التنظيم وارتفاع أسعار المنتجات. الآفاق تعتمد على رد فعل الحكومات والمجتمع الدولي على هذه الحوادث. مواقف الأطراف مقسمة بين المنتجين الذين يسعون لتخفيض التكاليف ومدافعي تحسين ظروف العمل. يعتقد المحللون أن الضغط على الشركات لتبني معايير السلامة الحديثة سيزداد.",
-        "categorie": "Économie & Environnement",
-        "source": "WWD",
-        "url": "http://wwd.com/sourcing-journal/sustainability/foshan-apparel-factory-fire-china-worker-safety-1239257936/",
-        "image": "https://wwd.com/wp-content/uploads/2026/09/foshanfactoryfire.jpg?w=1000&h=563&crop=1",
-        "date": "2026-09-23",
-        "pays": "chine",
+        "id": "russie_551650",
+        "titre": "Premier ministre letton mène coalition pro-Ukraine après victoire",
+        "titre_en": "Latvian PM leads pro-Ukraine coalition after election win",
+        "titre_zh": "拉脱维亚总理率领亲乌克兰联盟获胜",
+        "titre_ru": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+        "titre_fa": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+        "titre_ar": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+        "titre_original": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+        "resume": "Le Parti social-démocrate letton, pro-ukrainien et pro-européen, a remporté les élections législatives par une large majorité. Son leader, Krisjanis Karins, devrait former un gouvernement favorable à Kiev. Cette victoire renforce la position de la Lettonie dans l’OTAN et l’UE. Les tensions avec la Russie persistent, notamment sur les questions énergétiques. Les conséquences pourraient inclure une augmentation des dépenses militaires et une pression accrue sur Moscou.",
+        "resume_en": "Latvia’s pro-Ukraine and pro-European Social Democratic Party won parliamentary elections by a wide margin. Leader Krisjanis Karins is set to form a government supportive of Kyiv. This victory strengthens Latvia’s stance in NATO and the EU. Tensions with Russia remain, particularly over energy issues. Consequences may include increased military spending and heightened pressure on Moscow.",
+        "resume_zh": "拉脱维亚亲乌克兰和亲欧盟社会民主党在议会选举中大获全胜。领袖克里斯扬尼斯·卡里尼斯将组建支持基辅的政府。此次胜利加强了拉脱维亚在北约和欧盟中的立场。与俄罗斯的紧张关系依然存在，特别是在能源问题上。后果可能包括军费开支增加和对莫斯科施加更大压力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La Lettonie, membre fondateur de l’OTAN, a toujours été un allié clé pour l’Occident en Europe de l’Est. Son alignement pro-ukrainien s’inscrit dans une stratégie de containment de la Russie post-2014. Les causes profondes incluent la menace russe sur les États baltes et la dépendance énergétique historique. À court terme, les dépenses militaires pourraient exploser, avec des répercussions sur le budget national. À moyen terme, la Lettonie pourrait devenir un hub logistique pour l’Ukraine. Long terme, son rôle dans la défense européenne pourrait se renforcer, mais au prix d’une polarisation interne.",
+        "analyse_en": "Latvia, a NATO founding member, has always been a key Western ally in Eastern Europe. Its pro-Ukrainian stance fits a post-2014 Russia containment strategy. Root causes include Russian threats to the Baltics and historical energy dependence. Short-term, military spending may skyrocket, impacting the national budget. Medium-term, Latvia could become a logistics hub for Ukraine. Long-term, its role in European defense may strengthen, at the cost of internal polarization.",
+        "analyse_zh": "拉脱维亚作为北约创始成员国，一直是欧洲东部西方的重要盟友。其亲乌克兰立场符合2014年后对俄罗斯的遏制战略。深层原因包括俄罗斯对波罗的海国家的威胁和历史能源依赖。短期内，军费可能激增，影响国家预算。中期内，拉脱维亚可能成为乌克兰的后勤枢纽。长期来看，其在欧洲防务中的作用可能加强，但代价是国内分裂加剧。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186025684",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-10-05",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Marché des textiles et vêtements (fast fashion)",
+            "label": "▲ Défense et sécurité nationale",
             "hausse": true
           },
           {
-            "label": "▲ Assurance industrielle et responsabilité civile",
+            "label": "▲ Énergie renouvelable et transition verte",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des textiles et vêtements (fast fashion)",
-            "secteur_en": "Textile and clothing market (fast fashion)",
-            "secteur_zh": "纺织服装市场（快时尚）",
-            "effet_fr": "Ces tragédies pourraient déclencher une crise de confiance chez les consommateurs, poussant les marques à revoir leurs stratégies de sous-traitance et à augmenter les coûts de production, avec une hausse potentielle des prix de 10 à 20% pour les produits éthiques.",
-            "effet_en": "These tragedies could trigger a consumer confidence crisis, forcing brands to review outsourcing strategies and increase production costs, with potential price hikes of 10-20% for ethical products.",
-            "effet_zh": "这些悲剧可能引发消费者信任危机，迫使品牌重新审视分包策略并提高生产成本，可能导致道德产品价格上涨10%至20%。",
+            "secteur_fr": "Défense et sécurité nationale",
+            "secteur_en": "National defense and security",
+            "secteur_zh": "国家防御和安全",
+            "effet_fr": "L’augmentation des dépenses militaires pourrait stimuler les contrats avec des entreprises comme Saab ou Lockheed Martin.",
+            "effet_en": "Increased military spending may boost contracts with firms like Saab or Lockheed Martin.",
+            "effet_zh": "军费增加可能推动与萨博或洛克希德·马丁等企业的合同签订。",
             "hausse": true
           },
           {
-            "secteur_fr": "Assurance industrielle et responsabilité civile",
-            "secteur_en": "Industrial insurance and liability coverage",
-            "secteur_zh": "工业保险和民事责任保险",
-            "effet_fr": "Les assureurs pourraient durcir leurs conditions pour les usines à haut risque, augmentant les primes ou refusant de couvrir les sites non conformes, ce qui pourrait entraîner des faillites en cascade dans le secteur textile.",
-            "effet_en": "Insurers may tighten terms for high-risk factories, raising premiums or refusing coverage for non-compliant sites, potentially triggering a cascade of textile sector bankruptcies.",
-            "effet_zh": "保险公司可能对高风险工厂收紧条件，提高保费或拒绝为不合规工厂提供保险，这可能导致纺织行业连锁破产。",
+            "secteur_fr": "Énergie renouvelable et transition verte",
+            "secteur_en": "Renewable energy and green transition",
+            "secteur_zh": "可再生能源和绿色转型",
+            "effet_fr": "La pression sur la Russie pourrait accélérer les investissements dans les énergies alternatives en Lettonie.",
+            "effet_en": "Pressure on Russia may accelerate investments in alternative energy in Latvia.",
+            "effet_zh": "对俄罗斯的压力可能加速拉脱维亚在替代能源上的投资。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-24T21:59:51.549103"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-06T04:58:25.691693"
+      },
       {
         "id": "russie_624736",
         "titre": "Russie utilise drones miniatures pour contourer défenses ukrainiennes",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-09-25T16:36:14.970809"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_304281",
-        "titre": "Ukraine détruit 227 armes russes la nuit",
-        "titre_en": "Ukraine Destroys 227 Russian Aerial Weapons",
-        "titre_zh": "乌克兰摧毁227枚俄制空中武器",
-        "titre_ru": "Украина уничтожила 227 российских боеприпасов за ночь",
-        "titre_fa": "اوکراین ۲۲۷ سلاح هوایی روسیه را در طول شب نابود کرد",
-        "titre_ar": "أوكرانيا تدمير 227 سلاح جوي روسي خلال الليل",
-        "titre_original": "Ukraine downs 227 aerial weapons overnight",
-        "resume": "L’armée ukrainienne affirme avoir neutralisé 227 armes aériennes russes la nuit, principalement ciblant Odesa et Kiev. Cette escalade montre la résilience des défenses ukrainiennes malgré les frappes massives. Le conflit s’intensifie avec des pertes russes croissantes.",
-        "resume_en": "Ukraine’s military claims to have neutralized 227 Russian aerial weapons overnight, targeting Odesa and Kyiv. This escalation highlights Ukrainian defenses’ resilience amid massive strikes. The conflict intensifies with rising Russian losses.",
-        "resume_zh": "乌克兰军方声称在夜间摧毁了227枚俄制空中武器，主要针对奥德萨和基辅。此次升级展示了乌克兰防线的韧性，尽管遭受大规模袭击。冲突加剧，俄罗斯损失增加。",
-        "resume_ru": "Вчера ночью ВВС Украины заявили о уничтожении или нейтрализации 227 российских боеприпасов. Основная часть ударов пришлась на регионы Одессы и Киева. Это подтверждает нарастание активности украинской обороны.",
-        "resume_fa": "نیروهای هوایی اوکراین در شب گذشته اعلام کردند که ۲۲۷ سلاح هوایی روسیه را نابود یا خنثی کرده‌اند. بیشتر حملات بر روی مناطق اوکراین و کی‌یف متمرکز بودند. این خبر نشان‌دهنده افزایش فعالیت دفاع اوکراین است.",
-        "resume_ar": "أعلنت القوات الجوية لسلاح الدفاع الأوكراني عن تدمير أو تعطيل 227 سلاح جوي روسي خلال الليل. معظم الهجمات كانت موجهة نحو مناطق أوكرانيا وكيف. هذا يؤكد زيادة نشاط الدفاع الأوكراني.",
-        "analyse_detaillee": "Ce conflit, déclenché par l’invasion russe en 2022, s’inscrit dans une dynamique de guerre hybride mêlant cyberattaques et frappes conventionnelles. Les défenses ukrainiennes, soutenues par l’OTAN et les États-Unis, montrent une capacité croissante à intercepter les armes russes, notamment via des systèmes antiaériens modernes. À court terme, cette victoire symbolique renforce la moral des Ukrainiens et la pression sur Moscou. À moyen terme, elle pourrait accélérer les livraisons d’armes occidentales et les sanctions contre la Russie. Long terme, cela pourrait influencer les négociations de paix, avec une Ukraine moins disposée à des compromis territoriaux. L’Ukraine et ses alliés cherchent à affaiblir la Russie militairement, tandis que Moscou tente de maintenir une supériorité par la quantité et la saturation des frappes.",
-        "analyse_en": "This conflict, triggered by Russia’s 2022 invasion, fits a hybrid war dynamic blending cyberattacks and conventional strikes. Ukraine’s defenses, backed by NATO and the U.S., show growing ability to intercept Russian weapons, notably via modern air defense systems. Short-term, this symbolic win boosts Ukrainian morale and pressure on Moscow. Medium-term, it may accelerate Western arms deliveries and sanctions against Russia. Long-term, it could shape peace negotiations, with Ukraine less willing to territorial compromises. Ukraine and allies aim to weaken Russia militarily, while Moscow seeks to maintain superiority through volume and strike saturation.",
-        "analyse_zh": "这场冲突始于2022年俄罗斯入侵，属于混合战争动态，结合网络攻击和常规轰炸。乌克兰防线在北约和美国支持下，显示出越来越强的拦截俄制武器能力，特别是通过现代防空系统。短期内，这场象征性胜利提振了乌克兰士气，并对莫斯科施加压力。中期内，这可能加速西方武器交付和对俄罗斯的制裁。长期来看，这可能影响和平谈判，乌克兰对领土妥协的意愿降低。乌克兰及其盟友试图军事上削弱俄罗斯，而俄罗斯则通过数量和轰炸密度维持优势。",
-        "analyse_ru": "Украина демонстрирует растущую эффективность в борьбе с российскими ударами. Уничтожение большого количества боеприпасов свидетельствует о совершенствовании систем ПВО. Россия продолжает интенсивные бомбардировки, но украинская оборона адаптируется. Международное сообщество следит за эскалацией конфликта. Аналитики предупреждают о возможном усилении ответных мер.",
-        "analyse_fa": "اوکراین نشان می‌دهد که در مقابله با حملات روسیه به تدریج کارآمدتر شده است. نابودی تعداد زیادی سلاح هوایی نشان‌دهنده بهبود سیستم‌های دفاع هوایی اوکراین است. روسیه همچنان بمباران‌های شدید انجام می‌دهد، اما دفاع اوکراین در حال سازگاری است. جامعه بین‌المللی به تصاعد درگیری توجه دارد. تحلیلگران از احتمال افزایش اقدامات پاسخگویی هشدار می‌دهند.",
-        "analyse_ar": "أوكرانيا تظهر زيادة في فعالية مقابلتها لهجمات روسيا. تدمير عدد كبير من الأسلحة الجوية يعكس تحسين أنظمة الدفاع الجوي. روسيا تستمر في القصف الكثيف، ولكن الدفاع الأوكراني يتكيف. المجتمع الدولي يراقب تصاعد الصراع. يحذر المحللون من احتمال زيادة ردود الفعل.",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6e04fd63249657d5",
-        "image": "https://biztoc.com/cdn/6e04fd63249657d5_s.webp",
-        "date": "2026-09-24",
-        "pays": "russie",
+        "id": "iran_794880",
+        "titre": "Succès écologique : oiseaux marins retrouvent leur habitat",
+        "titre_en": "Ecological success: seabirds reclaim habitat",
+        "titre_zh": "生态成功：海鸟重获栖息地",
+        "titre_ru": "US Rushes All 12 B-1 Bombers out of UK Base Amid Murky Threat Claims — Reports",
+        "titre_fa": "US Rushes All 12 B-1 Bombers out of UK Base Amid Murky Threat Claims — Reports",
+        "titre_ar": "US Rushes All 12 B-1 Bombers out of UK Base Amid Murky Threat Claims — Reports",
+        "titre_original": "US Rushes All 12 B-1 Bombers out of UK Base Amid Murky Threat Claims — Reports",
+        "resume": "L’éradication des rats noirs sur l’île italienne de Zannone a permis une reprise spectaculaire des colonies de cormorans de Scopoli. En neuf ans, les couples reproducteurs sont passés de 27 à 80. Ce projet démontre l’impact positif des interventions humaines ciblées en écologie. Les scientifiques soulignent l’importance de protéger les écosystèmes insulaires fragiles. Les retombées pourraient inspirer d’autres initiatives similaires dans le monde. Les défis persistent pour généraliser cette approche à plus grande échelle.",
+        "resume_en": "The eradication of black rats on Italy’s Zannone Island led to a remarkable rebound in Scopoli’s shearwater colonies. In nine years, breeding pairs rose from 27 to 80. This project showcases the positive impact of targeted human interventions in ecology. Scientists emphasize the need to protect fragile island ecosystems. Outcomes may inspire similar initiatives globally. Challenges remain in scaling this approach broadly.",
+        "resume_zh": "意大利扎诺内岛清除黑鼠后，斯科波利海燕繁殖群落得以显著恢复。九年间，繁殖对数从27对增加到80对。该项目展示了人类有针对性干预在生态学中的积极影响。科学家强调保护脆弱岛屿生态系统的必要性。成果可能激励全球类似项目。扩大规模仍面临挑战。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les îles méditerranéennes, comme Zannone, sont souvent des réservoirs de biodiversité menacée par les espèces invasives. Les rats noirs, introduits par l’homme, ont causé des déséquilibres écologiques irréversibles sans intervention. Les causes profondes incluent le tourisme de masse et le commerce maritime, vecteurs d’espèces exotiques. À court terme, cette réussite pourrait attirer des financements pour d’autres projets similaires. À moyen terme, elle pourrait inspirer des politiques de protection des écosystèmes insulaires. Long terme, elle pourrait servir de modèle pour la restauration écologique mondiale. Les acteurs clés, comme les ONG et les gouvernements locaux, soutiennent cette approche, mais manquent souvent de moyens financiers.",
+        "analyse_en": "Mediterranean islands like Zannone often serve as biodiversity hotspots threatened by invasive species. Black rats, introduced by humans, caused irreversible ecological imbalances without intervention. Root causes include mass tourism and maritime trade, spreading exotic species. Short-term, this success may attract funding for similar projects. Medium-term, it could inspire island ecosystem protection policies. Long-term, it may set a global ecological restoration model. Key actors, like NGOs and local governments, support this approach but often lack financial resources.",
+        "analyse_zh": "地中海岛屿如扎诺内岛，常是面临入侵物种威胁的生物多样性热点。黑鼠由人类引入，在没有干预的情况下造成不可逆转的生态失衡。深层原因包括大规模旅游和海上贸易，成为外来物种传播的媒介。短期内，这一成功可能吸引其他类似项目的资金。中期内，它可能激发岛屿生态系统保护政策的制定。长期来看，它可能成为全球生态恢复的示范模式。关键利益相关者如非政府组织和地方政府支持这一做法，但通常缺乏财政资源。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement",
+        "source": "Sputnikglobe.com",
+        "url": "https://sputnikglobe.com/20261005/us-rushes-all-12-b-1-bombers-out-of-uk-base-amid-murky-threat-claims--reports-1124835139.html",
+        "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124835139.jpg?11240476651791175009",
+        "date": "2026-10-05",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des armes antiaériennes (Patriot, S-300)",
+            "label": "▲ Écotourisme et conservation marine",
             "hausse": true
           },
           {
-            "label": "▼ Assurance cyber et ransomware (secteur tech)",
-            "hausse": false
+            "label": "▲ Recherche en écologie insulaire",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des armes antiaériennes (Patriot, S-300)",
-            "secteur_en": "Air defense weapons market (Patriot, S-300)",
-            "secteur_zh": "防空武器市场（爱国者、S-300）",
-            "effet_fr": "La demande ukrainienne pour ces systèmes pourrait relancer les contrats avec les États-Unis et l’Europe, malgré les tensions géopolitiques.",
-            "effet_en": "Ukraine’s demand for these systems may revive U.S. and European contracts despite geopolitical tensions.",
-            "effet_zh": "乌克兰对这些系统的需求可能在政治紧张局势下重启与美国和欧洲的合同。",
+            "secteur_fr": "Écotourisme et conservation marine",
+            "secteur_en": "Ecotourism and marine conservation",
+            "secteur_zh": "生态旅游和海洋保护",
+            "effet_fr": "La restauration écologique pourrait attirer des investissements dans les parcs naturels et les activités touristiques durables en Italie.",
+            "effet_en": "Ecological restoration may attract investments in Italian natural parks and sustainable tourism activities.",
+            "effet_zh": "生态恢复可能吸引意大利自然保护区和可持续旅游活动的投资。",
             "hausse": true
           },
           {
-            "secteur_fr": "Assurance cyber et ransomware (secteur tech)",
-            "secteur_en": "Cyber insurance and ransomware (tech sector)",
-            "secteur_zh": "网络保险和勒索软件（科技行业）",
-            "effet_fr": "Les cyberattaques liées au conflit pourraient augmenter les primes et les exclusions dans les polices d’assurance pour les entreprises critiques.",
-            "effet_en": "Conflict-linked cyberattacks may raise premiums and exclusions in insurance policies for critical businesses.",
-            "effet_zh": "与冲突相关的网络攻击可能提高企业关键保险的保费和排除条款。",
-            "hausse": false
+            "secteur_fr": "Recherche en écologie insulaire",
+            "secteur_en": "Island ecology research",
+            "secteur_zh": "岛屿生态研究",
+            "effet_fr": "Les résultats de ce projet pourraient stimuler les subventions pour des études sur les écosystèmes insulaires méditerranéens.",
+            "effet_en": "Project results may spur grants for Mediterranean island ecosystem studies.",
+            "effet_zh": "该项目的成果可能推动地中海岛屿生态系统研究的资助。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-09-25T05:51:18.743721"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-06T04:58:25.691709"
+      },
       {
         "id": "iran_906115",
         "titre": "Iran rappelle ambassadeur norvégien pour Starlink",
@@ -6070,129 +6129,10 @@
           }
         ],
         "created_at": "2026-09-25T23:50:59.279825"
-      },
-      {
-        "id": "iran_559791",
-        "titre": "Taux hypothécaires explosent à 7% en Iran",
-        "titre_en": "Iran mortgage rates surge to 7%",
-        "titre_zh": "伊朗抵押贷款利率飙升至7%",
-        "titre_ru": "Mortgage Rates Hit 7% as Iran War Crushes a Weak Housing Market - The New York Times",
-        "titre_fa": "Mortgage Rates Hit 7% as Iran War Crushes a Weak Housing Market - The New York Times",
-        "titre_ar": "Mortgage Rates Hit 7% as Iran War Crushes a Weak Housing Market - The New York Times",
-        "titre_original": "Mortgage Rates Hit 7% as Iran War Crushes a Weak Housing Market - The New York Times",
-        "resume": "Les taux d’emprunt immobilier en Iran ont atteint 7%, aggravant une crise du logement déjà fragile. Cette hausse est directement liée à la guerre en cours et à ses répercussions économiques, notamment l’inflation et la dépréciation du rial. Près de 10% des emprunteurs optent pour des prêts risqués, reflétant une méfiance croissante envers le système bancaire.",
-        "resume_en": "Iran’s mortgage rates have hit 7%, worsening an already fragile housing market. The surge is tied to the ongoing war and its economic fallout, including inflation and the rial’s depreciation. Nearly 10% of borrowers opt for risky loans, signaling growing distrust in the banking system.",
-        "resume_zh": "伊朗抵押贷款利率上升至7%，加剧了原本脆弱的房地产市场危机。这一上涨与当前战争及其经济影响直接相关，包括通胀和里亚尔货币贬值。近10%的借款人选择高风险贷款，反映了对银行体系日益增长的不信任。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette crise s’inscrit dans un contexte historique de tensions géopolitiques persistantes et de sanctions économiques ciblant l’Iran depuis des décennies. Les enjeux principaux incluent la stabilité économique interne et la capacité du gouvernement à soutenir les ménages. Les causes profondes sont la guerre prolongée, la dépendance aux revenus pétroliers et une politique monétaire peu flexible. À court terme, cela pourrait entraîner une baisse des transactions immobilières et une augmentation de la précarité. Sur le moyen terme, une fuite des capitaux et une instabilité sociale sont probables. À long terme, cela pourrait accélérer la transition vers une économie moins dépendante des hydrocarbures, mais au prix d’un coût social élevé. Les acteurs clés sont le gouvernement iranien, les banques locales et les acteurs internationaux influençant les sanctions.",
-        "analyse_en": "This crisis stems from decades of persistent geopolitical tensions and targeted economic sanctions against Iran. Key stakes involve internal economic stability and the government’s ability to support households. Root causes include prolonged war, reliance on oil revenues, and inflexible monetary policy. Short-term, this may lead to a drop in real estate transactions and increased social precarity. Medium-term, capital flight and social instability are likely. Long-term, it could accelerate a shift toward a less oil-dependent economy, albeit at a high social cost. Key actors include the Iranian government, local banks, and international players shaping sanctions.",
-        "analyse_zh": "这一危机源于伊朗多年来持续的地缘政治紧张和针对其的经济制裁。主要影响包括国内经济稳定和政府支持家庭的能力。深层原因包括持续战争、对石油收入的依赖和不灵活的货币政策。短期内，这可能导致房地产交易下降和社会不稳定加剧。中期内，资本外流和社会动荡可能成为现实。长期来看，这可能加速经济从石油依赖向多元化转型，但代价是高昂的社会成本。关键利益相关者包括伊朗政府、本土银行和影响制裁的国际势力。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185852247",
-        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
-        "date": "2026-09-24",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché immobilier résidentiel",
-            "hausse": false
-          },
-          {
-            "label": "▼ Système bancaire iranien",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché immobilier résidentiel",
-            "secteur_en": "Residential real estate market",
-            "secteur_zh": "住宅房地产市场",
-            "effet_fr": "Ce secteur subit une chute brutale des prix et une baisse drastique de la demande, rendant l’accès au logement encore plus difficile pour les classes moyennes.",
-            "effet_en": "This sector faces a sharp decline in prices and demand, making home ownership even harder for the middle class.",
-            "effet_zh": "该行业面临房价暴跌和需求急剧下降，使中产阶级获得住房变得更加困难。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Système bancaire iranien",
-            "secteur_en": "Iranian banking system",
-            "secteur_zh": "伊朗银行体系",
-            "effet_fr": "Les banques iraniennes voient leur rentabilité diminuer en raison des prêts risqués et de la méfiance accrue des déposants, menaçant leur stabilité financière.",
-            "effet_en": "Iranian banks face declining profitability due to risky loans and growing depositor distrust, threatening their financial stability.",
-            "effet_zh": "伊朗银行因高风险贷款和存款人不信任而利润下降，威胁到其金融稳定。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-25T16:36:14.970786"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_env_27732",
-      "titre": "Pesticides : 485 substances suspectées de causer le cancer du sein",
-      "titre_en": "485 pesticide substances linked to breast cancer risk",
-      "titre_zh": "农药中485种物质疑与乳腺癌相关",
-      "titre_ru": "485 опасных веществ в пестицидах вызывают подозрения, включая «неактивные» компоненты",
-      "titre_fa": "۴۸۵ ماده مشکوک در آفت‌کش‌ها، حتی در مواد «غیر فعال»",
-      "titre_ar": "485 مادة مخيفة في المبيدات الحشرية، حتى المكونات «غير فعالة»",
-      "titre_original": "Cancer du sein : 485 substances préoccupantes dans les pesticides, même parmi les ingrédients « inertes »",
-      "resume": "Une étude américaine révèle que 485 substances, dont certaines qualifiées d'« inertes », présentes dans les pesticides, pourraient être liées au cancer du sein. Ces composants, souvent sous-estimés dans les débats réglementaires, soulèvent des interrogations sur leur sécurité. Les chercheurs appellent à une réévaluation urgente des normes en vigueur.",
-      "resume_en": "An American study finds that 485 substances—including so-called 'inert' ingredients—found in pesticides may be linked to breast cancer. These overlooked components raise concerns about their safety and demand a reassessment of current regulations.",
-      "resume_zh": "美国研究显示，485种农药成分（包括被视为‘惰性’的物质）可能与乳腺癌相关。这些被忽视的成分引发了安全性的质疑，并呼吁重新审视现行法规。",
-      "resume_ru": "Новое американское исследование выявило 485 подозрительных веществ в пестицидах, которые могут быть связаны с развитием рака молочной железы. Ученые обращают внимание на опасность даже так называемых «инертных» компонентов, которые обычно не рассматриваются в дискуссиях о безопасности. Это открывает новые вопросы о влиянии химикатов на здоровье женщин. Данные требуют дальнейшего изучения и регулирования со стороны властей.",
-      "resume_fa": "یک مطالعه آمریکایی ۴۸۵ ماده مشکوک در آفت‌کش‌ها را که ممکن است با سرطان سینه مرتبط باشند، شناسایی کرد. محققان به خطر مواد «غیر فعال» نیز اشاره می‌کنند که معمولاً در بحث‌های مربوط به ایمنی نادیده گرفته می‌شوند. این یافته‌ها سوال‌های جدیدی در مورد تأثیر مواد شیمیایی بر سلامت زنان ایجاد کرده و نیاز به بررسی بیشتر و تنظیمات توسط مقامات دارد.",
-      "resume_ar": "أظهر بحث أمريكي جديد 485 مادة مخيفة في المبيدات الحشرية التي قد تكون مرتبطة بسرطان الثدي. يوجه العلماء الانتباه إلى خطر المكونات «غير فعالة» التي عادة ما لا تُدرس في نقاشات حول السلامة. هذا يثير أسئلة جديدة حول تأثير المواد الكيميائية على صحة النساء، ويحتاج إلى مزيد من البحث والتشريعات من قبل السلطات.",
-      "analyse_detaillee": "Depuis les années 1960, les pesticides sont pointés du doigt pour leurs effets sanitaires, mais leur régulation reste fragmentée, avec des exceptions pour les « inertes », jugés sans danger. Les enjeux actuels portent sur la transparence des données industrielles et la pression des lobbies agricoles, freinant les restrictions. Les causes profondes incluent un manque de tests systématiques sur les mélanges de substances et une priorité économique sur la santé publique. À court terme, cette étude pourrait accélérer des contrôles renforcés et des plaintes juridiques contre les fabricants. À moyen terme, les normes européennes (REACH) pourraient être durcies, mais les délais administratifs risquent de ralentir les changements. Long terme, une transition vers des alternatives biologiques semble inévitable, poussée par la demande citoyenne et les coûts sanitaires croissants. Les États-Unis, moins stricts que l’UE, pourraient suivre ou résister sous l’influence des géants comme Monsanto, désormais Bayer.",
-      "analyse_en": "Since the 1960s, pesticides have been suspected of health impacts, yet regulation remains fragmented, with 'inert' ingredients often exempted from safety scrutiny. Current stakes involve industrial transparency and agricultural lobby influence, hindering restrictions. Root causes include insufficient testing of substance mixtures and prioritizing economic interests over public health. Short-term, this study may spur stricter oversight and lawsuits against manufacturers. Medium-term, EU norms (REACH) could tighten, but bureaucratic delays may slow reforms. Long-term, a shift toward biological alternatives seems inevitable, driven by public demand and rising healthcare costs. The U.S., less stringent than the EU, may follow or resist under pressure from giants like Bayer (formerly Monsanto).",
-      "analyse_zh": "自20世纪60年代以来，农药因健康风险备受质疑，但其监管仍然支离破碎，特别是‘惰性’成分通常被免除安全检测。当前的关键问题在于工业数据的透明度以及农业利益集团的影响，阻碍了限制措施的实施。深层原因包括对混合物质的系统性测试不足，以及经济利益优先于公共健康。短期内，这一研究可能加速加强监管和对制造商的诉讼。中期内，欧盟标准（REACH）可能会加严，但行政程序可能会减缓变革。长期来看，向生物替代品转型似乎势在必行，由公众需求和不断上升的医疗成本推动。美国监管相对宽松，可能会受到拜耳（前蒙桑托）等巨头的影响，选择跟随或抵制改革。",
-      "analyse_ru": "Исследование подчеркивает, что регуляторы безопасности часто игнорируют потенциальную опасность «неактивных» ингредиентов в пестицидах, которые могут составлять до 90% от их состава. Это связано с отсутствием строгих требований к их тестированию, в отличие от активных веществ. Такое пренебрежение может привести к длительному воздействию токсичных соединений на организм, особенно у женщин, подверженных риску рака молочной железы. Экологи и врачи призывают ужесточить нормы контроля за всеми компонентами пестицидов. Однако производители аргументируют, что полное запрещение может привести к снижению эффективности защиты сельскохозяйственных культур. В будущем ожидается усиление давления на правительства для принятия более строгих мер по мониторингу химических веществ в окружающей среде.",
-      "analyse_fa": "این مطالعه نشان می‌دهد که تنظیم‌کنندگان ایمنی معمولاً خطر مواد «غیر فعال» در آفت‌کش‌ها را نادیده می‌گیرند که ممکن است تا ۹۰ درصد از ترکیب آن‌ها را تشکیل دهند. این نادیده گرفتن به دلیل عدم وجود استانداردهای سخت‌گیرانه برای آزمایش این مواد است، در حالی که مواد فعال تحت کنترل دقیق‌تری قرار دارند. این بی‌توجهی می‌تواند منجر به تأثیرات طولانی‌مدت مواد سمی بر بدن، به ویژه زنان در معرض خطر سرطان سینه شود. اکولوژست‌ها و پزشکان از تشدید مقررات کنترل بر تمام مواد تشکیل‌دهنده آفت‌کش‌ها می‌طلبند. اما تولیدکنندگان با این استدلال که ممنوعیت کامل ممکن است به کاهش کارایی محافظت از محصولات کشاورزی منجر شود، مخالفت می‌کنند. در آینده، انتظار می‌رود فشار بر دولت‌ها برای تصویب مقررات سخت‌گیرانه‌تر برای نظارت بر مواد شیمیایی در محیط زیست افزایش یابد.",
-      "analyse_ar": "يظهر البحث أن تنظيمات السلامة عادة ما تجاهل خطر المكونات «غير الفعالة» في المبيدات الحشرية، والتي قد تشكل حتى 90% من تركيبتها. هذا تجاهل يعود إلى عدم وجود معايير صارمة لاختبار هذه المكونات، على عكس المكونات الفعالة التي تخضع لمراقبة أكثر صرامة. هذا الإهمال قد يؤدي إلى تأثيرات طويلة الأمد للمواد السامة على الجسم، خاصة لدى النساء المعرضات لخطر سرطان الثدي. يدعو البيولوجيون والطباب إلى شدد من معايير مراقبة جميع مكونات المبيدات الحشرية. ومع ذلك، يبرر المنتجون أن حظر شامل قد يؤدي إلى انخفاض فعالية حماية المحاصيل الزراعية. في المستقبل، يتوقع زيادة الضغط على الحكومات لاتخاذ تدابير أكثر صرامة لمراقبة المواد الكيميائية في البيئة.",
-      "categorie": "Environnement/Santé publique",
-      "source": "Futura",
-      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-485-substances-preoccupantes-pesticides-meme-parmi-ingredients-inertes-138204/",
-      "image": "https://cdn8.futura-sciences.com/a1920/images/Femme%20insecticide.jpg",
-      "date": "2026-10-03",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance maladie (mutuelles et complémentaires santé)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des cosmétiques bio et alternatives naturelles",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance maladie (mutuelles et complémentaires santé)",
-          "secteur_en": "Health insurance (private health mutuals)",
-          "secteur_zh": "健康保险（互助保健组织）",
-          "effet_fr": "Les coûts liés aux traitements du cancer du sein pourraient augmenter avec une exposition accrue aux pesticides, pesant sur les primes et les remboursements.",
-          "effet_en": "Rising breast cancer treatment costs due to pesticide exposure may strain premiums and reimbursements for private health insurers.",
-          "effet_zh": "乳腺癌治疗成本可能因农药暴露增加而上升，对健康保险互助组织的保费和报销形成压力。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des cosmétiques bio et alternatives naturelles",
-          "secteur_en": "Organic cosmetics and natural alternatives market",
-          "secteur_zh": "有机化妆品及天然替代品市场",
-          "effet_fr": "La demande en produits sans pesticides pourrait booster ce secteur, mais les certifications supplémentaires pourraient aussi augmenter les coûts pour les consommateurs.",
-          "effet_en": "Demand for pesticide-free products may drive growth in this market, though additional certifications could raise consumer costs.",
-          "effet_zh": "无农药产品的需求可能推动该市场增长，但额外认证可能会增加消费者成本。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-05T23:48:27.853264",
-      "sous_categorie": "environnement"
-    },
     {
       "id": "pol_femmes_273905",
       "titre": "Féminicide à Achères : conjoint arrêté",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-09-27T00:16:34.173832",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_27732",
+      "titre": "Pesticides : 485 substances suspectées de causer le cancer du sein",
+      "titre_en": "485 pesticide substances linked to breast cancer risk",
+      "titre_zh": "农药中485种物质疑与乳腺癌相关",
+      "titre_ru": "485 опасных веществ в пестицидах вызывают подозрения, включая «неактивные» компоненты",
+      "titre_fa": "۴۸۵ ماده مشکوک در آفت‌کش‌ها، حتی در مواد «غیر فعال»",
+      "titre_ar": "485 مادة مخيفة في المبيدات الحشرية، حتى المكونات «غير فعالة»",
+      "titre_original": "Cancer du sein : 485 substances préoccupantes dans les pesticides, même parmi les ingrédients « inertes »",
+      "resume": "Une étude américaine révèle que 485 substances, dont certaines qualifiées d'« inertes », présentes dans les pesticides, pourraient être liées au cancer du sein. Ces composants, souvent sous-estimés dans les débats réglementaires, soulèvent des interrogations sur leur sécurité. Les chercheurs appellent à une réévaluation urgente des normes en vigueur.",
+      "resume_en": "An American study finds that 485 substances—including so-called 'inert' ingredients—found in pesticides may be linked to breast cancer. These overlooked components raise concerns about their safety and demand a reassessment of current regulations.",
+      "resume_zh": "美国研究显示，485种农药成分（包括被视为‘惰性’的物质）可能与乳腺癌相关。这些被忽视的成分引发了安全性的质疑，并呼吁重新审视现行法规。",
+      "resume_ru": "Новое американское исследование выявило 485 подозрительных веществ в пестицидах, которые могут быть связаны с развитием рака молочной железы. Ученые обращают внимание на опасность даже так называемых «инертных» компонентов, которые обычно не рассматриваются в дискуссиях о безопасности. Это открывает новые вопросы о влиянии химикатов на здоровье женщин. Данные требуют дальнейшего изучения и регулирования со стороны властей.",
+      "resume_fa": "یک مطالعه آمریکایی ۴۸۵ ماده مشکوک در آفت‌کش‌ها را که ممکن است با سرطان سینه مرتبط باشند، شناسایی کرد. محققان به خطر مواد «غیر فعال» نیز اشاره می‌کنند که معمولاً در بحث‌های مربوط به ایمنی نادیده گرفته می‌شوند. این یافته‌ها سوال‌های جدیدی در مورد تأثیر مواد شیمیایی بر سلامت زنان ایجاد کرده و نیاز به بررسی بیشتر و تنظیمات توسط مقامات دارد.",
+      "resume_ar": "أظهر بحث أمريكي جديد 485 مادة مخيفة في المبيدات الحشرية التي قد تكون مرتبطة بسرطان الثدي. يوجه العلماء الانتباه إلى خطر المكونات «غير فعالة» التي عادة ما لا تُدرس في نقاشات حول السلامة. هذا يثير أسئلة جديدة حول تأثير المواد الكيميائية على صحة النساء، ويحتاج إلى مزيد من البحث والتشريعات من قبل السلطات.",
+      "analyse_detaillee": "Depuis les années 1960, les pesticides sont pointés du doigt pour leurs effets sanitaires, mais leur régulation reste fragmentée, avec des exceptions pour les « inertes », jugés sans danger. Les enjeux actuels portent sur la transparence des données industrielles et la pression des lobbies agricoles, freinant les restrictions. Les causes profondes incluent un manque de tests systématiques sur les mélanges de substances et une priorité économique sur la santé publique. À court terme, cette étude pourrait accélérer des contrôles renforcés et des plaintes juridiques contre les fabricants. À moyen terme, les normes européennes (REACH) pourraient être durcies, mais les délais administratifs risquent de ralentir les changements. Long terme, une transition vers des alternatives biologiques semble inévitable, poussée par la demande citoyenne et les coûts sanitaires croissants. Les États-Unis, moins stricts que l’UE, pourraient suivre ou résister sous l’influence des géants comme Monsanto, désormais Bayer.",
+      "analyse_en": "Since the 1960s, pesticides have been suspected of health impacts, yet regulation remains fragmented, with 'inert' ingredients often exempted from safety scrutiny. Current stakes involve industrial transparency and agricultural lobby influence, hindering restrictions. Root causes include insufficient testing of substance mixtures and prioritizing economic interests over public health. Short-term, this study may spur stricter oversight and lawsuits against manufacturers. Medium-term, EU norms (REACH) could tighten, but bureaucratic delays may slow reforms. Long-term, a shift toward biological alternatives seems inevitable, driven by public demand and rising healthcare costs. The U.S., less stringent than the EU, may follow or resist under pressure from giants like Bayer (formerly Monsanto).",
+      "analyse_zh": "自20世纪60年代以来，农药因健康风险备受质疑，但其监管仍然支离破碎，特别是‘惰性’成分通常被免除安全检测。当前的关键问题在于工业数据的透明度以及农业利益集团的影响，阻碍了限制措施的实施。深层原因包括对混合物质的系统性测试不足，以及经济利益优先于公共健康。短期内，这一研究可能加速加强监管和对制造商的诉讼。中期内，欧盟标准（REACH）可能会加严，但行政程序可能会减缓变革。长期来看，向生物替代品转型似乎势在必行，由公众需求和不断上升的医疗成本推动。美国监管相对宽松，可能会受到拜耳（前蒙桑托）等巨头的影响，选择跟随或抵制改革。",
+      "analyse_ru": "Исследование подчеркивает, что регуляторы безопасности часто игнорируют потенциальную опасность «неактивных» ингредиентов в пестицидах, которые могут составлять до 90% от их состава. Это связано с отсутствием строгих требований к их тестированию, в отличие от активных веществ. Такое пренебрежение может привести к длительному воздействию токсичных соединений на организм, особенно у женщин, подверженных риску рака молочной железы. Экологи и врачи призывают ужесточить нормы контроля за всеми компонентами пестицидов. Однако производители аргументируют, что полное запрещение может привести к снижению эффективности защиты сельскохозяйственных культур. В будущем ожидается усиление давления на правительства для принятия более строгих мер по мониторингу химических веществ в окружающей среде.",
+      "analyse_fa": "این مطالعه نشان می‌دهد که تنظیم‌کنندگان ایمنی معمولاً خطر مواد «غیر فعال» در آفت‌کش‌ها را نادیده می‌گیرند که ممکن است تا ۹۰ درصد از ترکیب آن‌ها را تشکیل دهند. این نادیده گرفتن به دلیل عدم وجود استانداردهای سخت‌گیرانه برای آزمایش این مواد است، در حالی که مواد فعال تحت کنترل دقیق‌تری قرار دارند. این بی‌توجهی می‌تواند منجر به تأثیرات طولانی‌مدت مواد سمی بر بدن، به ویژه زنان در معرض خطر سرطان سینه شود. اکولوژست‌ها و پزشکان از تشدید مقررات کنترل بر تمام مواد تشکیل‌دهنده آفت‌کش‌ها می‌طلبند. اما تولیدکنندگان با این استدلال که ممنوعیت کامل ممکن است به کاهش کارایی محافظت از محصولات کشاورزی منجر شود، مخالفت می‌کنند. در آینده، انتظار می‌رود فشار بر دولت‌ها برای تصویب مقررات سخت‌گیرانه‌تر برای نظارت بر مواد شیمیایی در محیط زیست افزایش یابد.",
+      "analyse_ar": "يظهر البحث أن تنظيمات السلامة عادة ما تجاهل خطر المكونات «غير الفعالة» في المبيدات الحشرية، والتي قد تشكل حتى 90% من تركيبتها. هذا تجاهل يعود إلى عدم وجود معايير صارمة لاختبار هذه المكونات، على عكس المكونات الفعالة التي تخضع لمراقبة أكثر صرامة. هذا الإهمال قد يؤدي إلى تأثيرات طويلة الأمد للمواد السامة على الجسم، خاصة لدى النساء المعرضات لخطر سرطان الثدي. يدعو البيولوجيون والطباب إلى شدد من معايير مراقبة جميع مكونات المبيدات الحشرية. ومع ذلك، يبرر المنتجون أن حظر شامل قد يؤدي إلى انخفاض فعالية حماية المحاصيل الزراعية. في المستقبل، يتوقع زيادة الضغط على الحكومات لاتخاذ تدابير أكثر صرامة لمراقبة المواد الكيميائية في البيئة.",
+      "categorie": "Environnement/Santé publique",
+      "source": "Futura",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-485-substances-preoccupantes-pesticides-meme-parmi-ingredients-inertes-138204/",
+      "image": "https://cdn8.futura-sciences.com/a1920/images/Femme%20insecticide.jpg",
+      "date": "2026-10-03",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance maladie (mutuelles et complémentaires santé)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des cosmétiques bio et alternatives naturelles",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (mutuelles et complémentaires santé)",
+          "secteur_en": "Health insurance (private health mutuals)",
+          "secteur_zh": "健康保险（互助保健组织）",
+          "effet_fr": "Les coûts liés aux traitements du cancer du sein pourraient augmenter avec une exposition accrue aux pesticides, pesant sur les primes et les remboursements.",
+          "effet_en": "Rising breast cancer treatment costs due to pesticide exposure may strain premiums and reimbursements for private health insurers.",
+          "effet_zh": "乳腺癌治疗成本可能因农药暴露增加而上升，对健康保险互助组织的保费和报销形成压力。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des cosmétiques bio et alternatives naturelles",
+          "secteur_en": "Organic cosmetics and natural alternatives market",
+          "secteur_zh": "有机化妆品及天然替代品市场",
+          "effet_fr": "La demande en produits sans pesticides pourrait booster ce secteur, mais les certifications supplémentaires pourraient aussi augmenter les coûts pour les consommateurs.",
+          "effet_en": "Demand for pesticide-free products may drive growth in this market, though additional certifications could raise consumer costs.",
+          "effet_zh": "无农药产品的需求可能推动该市场增长，但额外认证可能会增加消费者成本。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-05T23:48:27.853264",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_288647",
