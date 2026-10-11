@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/10/2026 à 11h14",
+  "last_updated": "11/10/2026 à 17h23",
   "articles": {
     "monde": [
       {
@@ -6134,64 +6134,124 @@
   },
   "politique": [
     {
-      "id": "pol_env_744744",
-      "titre": "UE : pesticides, une dérégulation controversée",
-      "titre_en": "EU: Controversial pesticide deregulation",
-      "titre_zh": "欧盟：争议性农药放宽政策",
-      "titre_ru": "Pesticides: l’Union européenne dérégule à tout-va",
-      "titre_fa": "Pesticides: l’Union européenne dérégule à tout-va",
-      "titre_ar": "Pesticides: l’Union européenne dérégule à tout-va",
-      "titre_original": "Pesticides: l’Union européenne dérégule à tout-va",
-      "resume": "La Commission européenne propose une « loi omnibus X » autorisant des pesticides controversés sans limites claires, suscitant des manifestations massives ce week-end. Les écologistes et agriculteurs bio dénoncent une remise en cause des normes environnementales, tandis que les lobbies agrochimiques y voient une avancée économique. Ce texte s’inscrit dans une tendance plus large de flexibilisation des réglementations sous pression industrielle et budgétaire.",
-      "resume_en": "The EU Commission proposes an 'omnibus law X' allowing controversial pesticides without clear limits, sparking large-scale protests this weekend. Environmentalists and organic farmers condemn a rollback of environmental standards, while agrochemical lobbyists see it as an economic win. The bill reflects broader trends of regulatory flexibility under industrial and budgetary pressure.",
-      "resume_zh": "欧盟委员会提出「第X号通用法案」，允许争议性农药无限制上市，引发本周末大规模抗议。生态组织和有机农民指责放宽环保法规，而农化行业利益集团视为经济利好。该法案体现了在产业和财政压力下，监管灵活性日益增强的趋势。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Depuis les années 1990, l’UE a progressivement assoupli ses règles sur les pesticides sous influence des lobbies comme Monsanto ou Bayer, malgré des scandales sanitaires (ex. glyphosate). La « loi omnibus X » s’inscrit dans une logique de simplification administrative pour accélérer les mises sur marché, répondant aux pressions des États membres dépendants de l’agrochimie. Les causes profondes incluent la crise agricole européenne, la baisse des subventions et la concurrence des pays tiers moins stricts. À court terme, cette dérégulation pourrait relancer les exportations agricoles, mais aggraver les risques sanitaires et environnementaux (biodiversité, pollution des sols). À moyen terme, les conflits juridiques avec les États membres et la Cour de justice européenne sont probables, tandis que les coûts sanitaires pourraient peser sur les budgets publics. Long terme, cette tendance menace la crédibilité de l’UE sur les enjeux climatiques, avec un risque de boycott des produits européens. Les écologistes (Greenpeace, WWF) et les syndicats agricoles (COPA-COGECA) s’opposent farouchement, tandis que les gouvernements comme la Hongrie ou la Pologne soutiennent activement cette mesure pour des raisons économiques.",
-      "analyse_en": "Since the 1990s, the EU has gradually relaxed pesticide rules under pressure from lobbies like Monsanto or Bayer, despite health scandals (e.g., glyphosate). The 'omnibus law X' follows a trend of administrative simplification to speed up market approvals, responding to pressure from member states dependent on agrochemicals. Root causes include the EU’s agricultural crisis, declining subsidies, and competition from less stringent third countries. Short-term, deregulation may boost agricultural exports but worsen health and environmental risks (biodiversity loss, soil pollution). Medium-term, legal conflicts with member states and the EU Court of Justice are likely, while healthcare costs could strain public budgets. Long-term, this trend undermines the EU’s credibility on climate issues, risking a boycott of European products. Environmental groups (Greenpeace, WWF) and farmers' unions (COPA-COGECA) oppose it strongly, while governments like Hungary and Poland actively support it for economic reasons.",
-      "analyse_zh": "自上世纪90年代以来，欧盟在农药监管上逐步放宽，受到如孟山都或拜耳等利益集团的影响，尽管曾发生过多起健康危机（如草甘膦事件）。「第X号通用法案」延续了简化行政程序、加速上市审批的趋势，回应了依赖农化产业的成员国压力。深层原因包括欧盟农业危机、补贴减少以及第三方国家更宽松的竞争。短期内，放宽可能刺激农产品出口，但加剧健康和环境风险（生物多样性丧失、土壤污染）。中期内，成员国与欧盟法院的法律冲突可能增加，而医疗成本可能加重公共财政负担。长期来看，这一趋势损害欧盟在气候议题上的信誉，甚至面临欧盟产品被抵制的风险。生态组织（绿色和平、世界自然基金会）和农民联合会（COPA-COGECA）强烈反对，而匈牙利和波兰等政府则出于经济利益积极支持此举。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement & Régulation",
-      "source": "Mediapart",
-      "url": "https://www.mediapart.fr/journal/ecologie/101026/pesticides-l-union-europeenne-deregule-tout-va",
-      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/10/09/261009-img-pesticides-sans-limite.jpg",
+      "id": "pol_env_912229",
+      "titre": "LFI attaque Octobre rose, lien industriel controversé",
+      "titre_en": "LFI criticizes Pink October, industrial ties debated",
+      "titre_zh": "左翼法兰西批评粉红十月 产业关联引争议",
+      "titre_ru": "Депутат LFI обвинила кампанию «Октябрь розовый» в связях с производителем пестицидов",
+      "titre_fa": "ناظم LFI به کمپین اکتبر صورتی به دلیل ارتباط با تولیدکننده آفت‌کش‌ها اعتراض کرد",
+      "titre_ar": "نائبة LFI تهمت حملة أكتوبر الوردي بالارتباط بمصنع مبيدات كيميائية",
+      "titre_original": "\"Pour que la lutte contre le cancer ne soit pas du vernis rose\" : la député LFI Mathilde Panot crée la polémique en attaquant la campagne Octobre rose",
+      "resume": "La députée Mathilde Panot (LFI) dénonce dans une vidéo la campagne Octobre rose, accusant un industriel fabricant de pesticides et actif en Israël d’en être le commanditaire. Elle rejette le ruban rose, symbole commercialisé, et critique une approche qu’elle juge trop médiatique et éloignée des réalités sanitaires. Cette polémique s’inscrit dans un débat plus large sur la marchandisation des causes sociales et la responsabilité des lobbies dans la santé publique.",
+      "resume_en": "Deputy Mathilde Panot (LFI) criticizes the Pink October campaign in a video, accusing an Israeli-linked pesticide manufacturer of being behind it. She rejects the pink ribbon, calling it commercialized, and condemns what she sees as a media-driven approach disconnected from health realities. The controversy reflects broader debates on the commodification of social causes and lobby influence in public health.",
+      "resume_zh": "左翼法兰西议员马蒂尔德·帕诺在视频中批评粉红十月活动，指控一家以色列相关农药制造商背后操控。她拒绝粉红丝带，称其商业化，并批评活动过于媒体化，与健康现实脱节。此争议反映出社会事业商业化和行业利益对公共卫生的影响争议。",
+      "resume_ru": "Матильд Пано, лидер фракции «Незыблемые» во французском парламенте, опубликовала видео, где раскритиковала кампанию «Октябрь розовый», обвинив её в связях с израильской компанией, производящей пестициды. Она назвала розовый ленточек «политическим декоративным элементом», не решающим проблему рака. Пано подчеркнула, что кампания финансируется промышленными интересами, а не борьбой с онкологией.",
+      "resume_fa": "ماتیلد پانو، رهبر نمایندگان «بی‌اعتمادی» در پارلمان فرانسه، در یک ویدئو به کمپین اکتبر صورتی انتقاد کرد و آن را با یک شرکت اسرائیلی تولیدکننده آفت‌کش‌ها مرتبط دانست. او لبه صورتی را «عنصر تزئینی سیاسی» نامید که مشکل سرطان را حل نمی‌کند. پانو تأکید کرد که این کمپین توسط منافع صنعتی تأمین مالی می‌شود، نه مبارزه با سرطان.",
+      "resume_ar": "نشرت ماتيلد بانوت، زعيم النواب غير الملتزمين في البرلمان الفرنسي، فيديوً انتقدت فيه حملة أكتوبر الوردي، متهمةًها بالارتباط بشركة إسرائيلية تصنع مبيدات كيميائية. وصفت الشريط الوردي بأنه «زخرفة سياسية» لا تحل مشكلة السرطان. أشارت بانوت إلى أن الحملة تمولها مصالح صناعية، وليس مكافحة السرطان",
+      "analyse_detaillee": "Octobre rose, lancée en 1985 aux États-Unis, s’est imposée comme un symbole mondial de lutte contre le cancer du sein, mais son succès commercial a aussi été critiqué depuis les années 2000. Mathilde Panot s’inscrit dans une critique récurrente des campagnes de sensibilisation financées par des industries controversées, comme Bayer ou Monsanto, aujourd’hui rachetées ou restructurées. Les liens entre santé publique et lobbying industriel soulèvent des questions éthiques sur la transparence des partenariats et l’autonomie des associations. À court terme, cette polémique pourrait diviser les acteurs de la santé, entre ceux qui défendent une mobilisation médiatique et ceux qui prônent des actions plus ciblées. À moyen terme, elle pourrait accélérer les débats sur la régulation des campagnes de santé financées par des acteurs privés. Long terme, une refonte des mécanismes de financement pourrait émerger, avec un accent sur la recherche indépendante et la prévention réelle. Les acteurs comme le gouvernement, les associations (comme le Comité 22 novembre) et les lobbies industriels (Syndicat des industries pharmaceutiques) adoptent des positions divergentes : certains défendent le modèle actuel, d’autres appellent à une rupture.",
+      "analyse_en": "Pink October, launched in 1985 in the US, became a global symbol for breast cancer awareness but has faced criticism for its commercialization since the 2000s. Mathilde Panot joins a recurring critique of awareness campaigns funded by controversial industries like Bayer or Monsanto, now acquired or restructured. The links between public health and industrial lobbying raise ethical questions about transparency in partnerships and the autonomy of associations. Short-term, this controversy could split health actors between those defending media-driven mobilization and those advocating for more targeted actions. Medium-term, it may accelerate debates on regulating health campaigns funded by private actors. Long-term, a reform of financing mechanisms could emerge, focusing on independent research and real prevention. Actors like the government, associations (such as the 22 November Committee), and industrial lobbies (Pharmaceutical Industries Syndicate) hold divergent positions: some defend the current model, while others call for a break.",
+      "analyse_zh": "粉红十月活动起源于1985年美国，成为全球乳腺癌防治的象征，但其商业化也在2000年后受到批评。帕诺议员加入了对由争议性产业（如拜耳或孟山都）资助的宣传活动的长期批评。健康公共事业与行业游说之间的关联引发了关于合作透明度和民间组织自主性的伦理问题。短期内，此争议可能将健康界分裂为支持媒体化动员和倡导更精准行动的两派。中期内，它可能加速对私营资助健康宣传活动的监管辩论。长期内，可能出现资金机制改革，重点转向独立研究和实际预防。各方立场如政府、民间组织（如11月22日委员会）和产业游说团体（制药业工会）分歧明显：部分支持现有模式，部分则呼吁彻底改变。",
+      "analyse_ru": "Критика Пано вызвана растущей недоверчивостью к кампаниям, которые ассоциируются с корпоративными интересами, а не с реальной борьбой с онкологией. Розовый ленточек стал символом коммерциализации борьбы с раком, что раздражает активистов и пациентов, считающих, что средства должны идти на лечение, а не маркетинг. Критика израильской компании усиливает политическую напряженность, так как многие активисты призывают бойкотировать продукцию, связанную с оккупацией. Однако эксперты отмечают, что кампании типа «Октябрь розовый» важны для привлечения внимания к проблеме, несмотря на критику. В будущем возможно усиление давления на прозрачность финансирования таких инициатив.",
+      "analyse_fa": "انتقاد پانو ناشی از عدم اعتماد روزافزون به کمپین‌هایی است که با منافع صنعتی مرتبط هستند، نه مبارزه واقعی با سرطان. لبه صورتی به نمادی از تجاری‌سازی مبارزه با سرطان تبدیل شده که فعالان و بیماران را خشمگین می‌کند، زیرا معتقدند منابع باید به درمان اختصاص یابد، نه تبلیغات. انتقاد از شرکت اسرائیلی تنش سیاسی را افزایش می‌دهد، زیرا بسیاری از فعالان از بویکوت محصولات مرتبط با اشغال حمایت می‌کنند. اما متخصصان تأکید می‌کنند که کمپین‌هایی مانند اکتبر صورتی برای جلب توجه به مشکل ضروری هستند، هرچند با انتقاد روبرو هستند. در آینده، احتمالاً فشار بیشتری برای شفافیت مالی این اقدامات اعمال خواهد شد.",
+      "analyse_ar": "انتقاد بانوت ينبع من عدم الثقة المتزايد في حملات مثل أكتوبر الوردي التي ترتبط بمصالح صناعية أكثر من مكافحة السرطان الحقيقي. أصبح الشريط الوردي رمزا للتجاريز في معركة السرطان، ما يثير غضب النشطاء والمصابين الذين يعتقدون أن الأموال يجب أن تذهب إلى العلاج، وليس الترويج. انتقاد الشركة الإسرائيلية يزيد من التوتر السياسي، حيث يدعم العديد من النشطاء مقاطعة المنتجات المرتبطة بالاحتلال. ومع ذلك، يؤكد الخبراء أن حملات مثل أكتوبر الوردي ضرورية لجذب الانتباه إلى المشكلة، رغم الانتقادات. في المستقبل، قد يزداد الضغط على شفافية تمويل هذه المبادرات.",
+      "categorie": "Santé publique & Environnement",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/pour-que-la-lutte-contre-le-cancer-ne-soit-pas-du-vernis-rose-la-depute-lfi-mathilde-panot-cree-la-polemique-en-attaquant-la-campagne-octobre-rose_8231695.html",
+      "image": "https://www.franceinfo.fr/pictures/Wn2QLriSVwLRvUwijXBZPRn2GMM/0x0:1024x576/1500x843/2026/10/10/6aca5dae9b47f231251904.jpg",
       "date": "2026-10-10",
       "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Assurance responsabilité environnementale",
-          "hausse": true
+          "label": "▼ Industrie pharmaceutique et agrochimique",
+          "hausse": false
         },
         {
-          "label": "▼ Marché des biotechnologies agricoles",
+          "label": "▼ Assurances maladie et mutuelles",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance responsabilité environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’exposition accrue aux risques sanitaires et juridiques liés aux pesticides, poussant les assureurs à réévaluer leurs modèles de couverture.",
-          "effet_en": "Premiums may rise due to increased exposure to health and legal risks from pesticides, forcing insurers to reassess their coverage models.",
-          "effet_zh": "由于农药带来的健康和法律风险增加，保险费用可能上涨，迫使保险公司重新评估其理赔模式。",
-          "hausse": true
+          "secteur_fr": "Industrie pharmaceutique et agrochimique",
+          "secteur_en": "Pharmaceutical and agrochemical industry",
+          "secteur_zh": "制药和农药化学行业",
+          "effet_fr": "La polémique pourrait réduire les investissements publics dans des campagnes de prévention indépendantes, favorisant les partenariats industriels jugés moins transparents.",
+          "effet_en": "The controversy may reduce public investments in independent prevention campaigns, favoring less transparent industrial partnerships.",
+          "effet_zh": "此争议可能减少公共对独立预防活动的投资，而倾向于更不透明的产业合作伙伴关系。",
+          "hausse": false
         },
         {
-          "secteur_fr": "Marché des biotechnologies agricoles",
-          "secteur_en": "Agricultural biotechnology market",
-          "secteur_zh": "农业生物技术市场",
-          "effet_fr": "Ce secteur pourrait connaître un ralentissement si les alternatives non-chimiques (agroécologie, biocontrôle) gagnent en attractivité face à la dérégulation perçue comme risquée.",
-          "effet_en": "This sector may slow down if non-chemical alternatives (agroecology, biocontrol) gain traction against perceived risky deregulation.",
-          "effet_zh": "如果非化学替代品（如生态农业、生物防治）因被视为更安全而受欢迎，这一领域可能放缓发展。",
+          "secteur_fr": "Assurances maladie et mutuelles",
+          "secteur_en": "Health insurance and mutual funds",
+          "secteur_zh": "医疗保险和互助基金",
+          "effet_fr": "Les assureurs pourraient revoir leurs soutiens aux associations de santé en fonction de leur alignement avec les campagnes controversées, affectant les financements de prévention.",
+          "effet_en": "Insurers may reassess their support for health associations based on alignment with controversial campaigns, impacting prevention funding.",
+          "effet_zh": "保险公司可能根据与争议活动的对齐程度重新评估对健康协会的支持，影响预防资金。",
           "hausse": false
         }
       ],
-      "created_at": "2026-10-11T11:14:43.384178",
+      "created_at": "2026-10-11T17:23:24.654278",
       "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_367735",
+      "titre": "Série de féminicides à Ekurhuleni suscite peur et enquête",
+      "titre_en": "Series of femicides in Ekurhuleni sparks fear and investigation",
+      "titre_zh": "约翰内斯堡近郊连续女性遇害引恐慌调查",
+      "titre_ru": "Убийства женщин в ЮАР: «Мы не можем жить в страхе»",
+      "titre_fa": "قتل زنان در آفریقای جنوبی: «ما نمی‌توانیم در ترس زندگی کنیم»",
+      "titre_ar": "قتل النساء في جنوب أفريقيا: «لا نستطيع أن نحيى في خوف»",
+      "titre_original": "Féminicides en Afrique du Sud : “Nous devons refuser de vivre dans la peur”",
+      "resume": "Entre juillet et septembre 2026, 12 corps de femmes ont été retrouvés dans la région d’Ekurhuleni, près de Johannesburg, avec des indices pointant vers un tueur en série. La police sud-africaine, déjà submergée par les violences conjugales, peine à identifier un motif clair, alimentant une vague de terreur locale. Ce drame s’inscrit dans une tendance alarmante de féminicides en Afrique du Sud, pays classé parmi les plus dangereux pour les femmes au monde.",
+      "resume_en": "Between July and September 2026, 12 female bodies were found in Ekurhuleni, near Johannesburg, with evidence suggesting a serial killer. South African police, already overwhelmed by domestic violence, struggle to identify a clear motive, fueling local fear. This crisis reflects a worrying trend of femicides in South Africa, ranked among the most dangerous countries for women globally.",
+      "resume_zh": "2026年7月至9月，南非约翰内斯堡近郊埃库尔胡勒尼地区发现12具女性尸体，线索指向一名连环杀手。南非警方已因家庭暴力而不堪重负，难以明确杀人动机，引发当地恐慌。此次事件反映出南非女性安全问题严峻，该国长期位列全球最危险国家之一。",
+      "resume_ru": "Между июлем и сентябрем 2026 года в регионе Экурхулени, недалеко от Йоханнесбурга, обнаружено 12 трупов женщин, убитых своими партнерами. Полиция не исключает возможность существования сериального убийцы. Жертвы стали символом хронической проблемы насилия над женщинами в ЮАР, где ежегодно регистрируются тысячи случаев избиений и убийств. Активистки требуют ужесточения наказаний и улучшения работы правоохранительных органов.",
+      "resume_fa": "بین ژوئیه و سپتامبر ۲۰۲۶، در منطقه اکورهلنی، نزدیک به یوهانسبورگ، ۱۲ جسد زن کشته‌شده توسط شریک زندگی‌شان پیدا شد. پلیس احتمال وجود یک قاتل سریالی را رد نمی‌کند. قربانیان نماد مشکل مزمن خشونت علیه زنان در آفریقای جنوبی هستند، جایی که هر ساله هزاران مورد ضرب و شتم و قتل ثبت می‌شود. فعالان خواستار تشدید مجازات و بهبود عملکرد نهادهای اجرایی می‌شوند.",
+      "resume_ar": "بين يوليو و سبتمبر 2026، اكتشفت 12 جثة لنساء قتلن على يد شركائهن في منطقة إكورهليني بالقرب من يوهانسبرغ. الشرطة لا تستبعد وجود قاتل متسلسل. أصبحت الضحايا رمزا لمشكلة العنف ضد النساء المزمنة في جنوب أفريقيا، حيث يسجل سنويًا آلاف حالات ضرب و قتل. تدعو النشطات إلى تشديد العقوبات وتحسين عمل المؤسسات الأمنية",
+      "analyse_detaillee": "L’Afrique du Sud, malgré sa transition démocratique achevée en 1994, reste marquée par des inégalités structurelles et une culture patriarcale persistante, aggravées par le chômage massif et la pauvreté. Les féminicides y sont souvent liés à des dynamiques de violence domestique, où l’impunité des agresseurs encourage la répétition des crimes. Les statistiques officielles sous-estiment probablement la réalité, en raison des difficultés d’enregistrement et de la stigmatisation des victimes. À court terme, cette série de meurtres pourrait exacerber les tensions sociales et renforcer les mouvements féministes locaux, comme #AmINotNext. À moyen terme, elle pourrait accélérer les réformes législatives sur les peines pour violences conjugales, déjà en discussion depuis des années. Long terme, une prise de conscience collective est nécessaire pour briser le cycle de la violence, via l’éducation et des politiques publiques ciblées. Les acteurs comme le gouvernement (ANC), la société civile (SONA) et les médias jouent des rôles clés : certains appellent à une réponse sécuritaire, d’autres prônent une approche holistique incluant la justice sociale.",
+      "analyse_en": "South Africa, despite its democratic transition completed in 1994, remains plagued by structural inequalities and persistent patriarchal culture, worsened by high unemployment and poverty. Femicides are often linked to domestic violence dynamics, where impunity of perpetrators fuels crime repetition. Official statistics likely underreport the reality due to registration difficulties and victim stigmatization. Short-term, this murder spree could intensify social tensions and strengthen local feminist movements like #AmINotNext. Medium-term, it may accelerate legislative reforms on domestic violence penalties, already under discussion for years. Long-term, collective awareness is needed to break the cycle of violence through education and targeted public policies. Key actors like the government (ANC), civil society (SONA), and media play crucial roles: some advocate for a security-driven response, others push for a holistic approach including social justice.",
+      "analyse_zh": "南非尽管在1994年完成民主过渡，但结构性不平等和根深蒂固的男权文化仍然存在，加剧了失业和贫困问题。女性遇害案通常与家庭暴力相关，加害者的免责状态助长了犯罪重复。官方统计可能低估实际情况，由于登记困难和受害者的社会标签化。短期内，此次连环杀人可能加剧社会紧张，并增强如#AmINotNext等本地女权运动。中期内，它可能加速家庭暴力刑罚立法改革，该议题已讨论多年。长期内，需要全社会的觉醒来打破暴力循环，通过教育和针对性公共政策实现。政府（非国大）、民间社会（SONA）和媒体扮演关键角色：部分倡导安全应对，部分则主张包含社会正义的全面解决方案。",
+      "analyse_ru": "Эта серия убийств отражает системные проблемы ЮАР, где насилие над женщинами остается одной из самых острых социальных проблем. Несмотря на законы, защищающие права женщин, коррупция и неэффективность правоохранительных органов позволяют преступникам действовать с импульсом. Активистки требуют не только ужесточения наказаний, но и изменения культурных норм, которые нормализуют домашнее насилие. Международное давление может ускорить реформы, но без участия местного сообщества изменения будут поверхностными. В будущем необходимо сосредоточиться на профилактике и реабилитации жертв, а не только на наказании преступников.",
+      "analyse_fa": "این سری قتل‌ها مشکلات سیستمیک آفریقای جنوبی را منعکس می‌کند، جایی که خشونت علیه زنان همچنان یکی از مهم‌ترین مشکلات اجتماعی است. با وجود قوانین حمایت از حقوق زنان، فساد و بی‌تجربگی نهادهای اجرایی به مجرمین اجازه می‌دهد با بی‌توجهی عمل کنند. فعالان نه تنها تشدید مجازات، بلکه تغییر در فرهنگ اجتماعی را که خشونت خانگی را طبیعی می‌کند، می‌خواهند. فشار بین‌المللی می‌تواند اصلاحات را تسریع کند، اما بدون مشارکت جامعه محلی، تغییرات سطحی خواهند بود. در آینده، باید تمرکز بر پیشگیری و بازسازی قربانیان، نه فقط مجازات مجرمان، باشد.",
+      "analyse_ar": "هذه السلسلة من القتلى تعكس مشاكل نظامية في جنوب أفريقيا، حيث يعد العنف ضد النساء من أكثر المشاكل الاجتماعية حدة. رغم وجود قوانين لحماية حقوق النساء، فإن الفساد وانخفاض كفاءة المؤسسات الأمنية يسمح للمجرمين بالعمل دون عقاب. تدعو النشطات إلى تشديد العقوبات وتغيير المعايير الثقافية التي تعتاد العنف المنزلي. قد يسرع الضغط الدولي من الإصلاحات، لكن بدون مشاركة المجتمع المحلي، ستظل التغييرات سطحية. في المستقبل، يجب التركيز على الوقاية وإعادة تأهيل الضحايا، وليس فقط عقاب المجرمين.",
+      "categorie": "Droits humains & Sécurité",
+      "source": "Courrier International",
+      "url": "https://www.courrierinternational.com/article/societe-feminicides-en-afrique-du-sud-nous-devons-refuser-de-vivre-dans-la-peur_276184",
+      "image": "https://focus.courrierinternational.com/2026/09/30/0/0/6000/4000/1200/630/60/0/773758a_ftp-1-hvar7mg0gspe-2026-09-30t075125z-70600345-rc2ulna1dpbq-rtrmadp-3-safrica-crime.JPG",
+      "date": "2026-10-10",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Marché des assurances contre les violences domestiques",
+          "hausse": true
+        },
+        {
+          "label": "▲ Investissements dans la sécurité privée (vigilantisme)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des assurances contre les violences domestiques",
+          "secteur_en": "Domestic violence insurance market",
+          "secteur_zh": "家庭暴力保险市场",
+          "effet_fr": "La hausse des féminicides pourrait inciter les assureurs à développer des polices spécifiques pour couvrir les risques liés aux violences conjugales, mais aussi à augmenter les primes en raison de l’accroissement des risques perçus.",
+          "effet_en": "The rise in femicides may prompt insurers to develop specific policies covering domestic violence risks, but also to raise premiums due to perceived increased risks.",
+          "effet_zh": "女性遇害案件增加可能促使保险公司推出针对家庭暴力风险的专属保险，但同时也会因风险上升而提高保费。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Investissements dans la sécurité privée (vigilantisme)",
+          "secteur_en": "Private security investments (vigilantism)",
+          "secteur_zh": "私人安全投资（民间报复）",
+          "effet_fr": "Les communautés locales pourraient massivement financer des groupes de vigilantes ou des systèmes de surveillance, créant un marché parallèle et potentiellement violent, en parallèle des efforts policiers officiels.",
+          "effet_en": "Local communities may heavily fund vigilante groups or surveillance systems, creating a parallel and potentially violent market alongside official police efforts.",
+          "effet_zh": "当地社区可能大量资助民间报复组织或监控系统，形成与官方警方并行的并行市场，且可能带来暴力风险。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-11T17:23:24.654307",
+      "sous_categorie": "femmes"
     },
     {
       "id": "pol_femmes_880040",
@@ -6491,66 +6551,6 @@
         }
       ],
       "created_at": "2026-10-03T19:49:12.439602",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_57552",
-      "titre": "Féminicides en Vaucluse-Gard : procès en appel",
-      "titre_en": "Vaucluse-Gard double femicide trial underway",
-      "titre_zh": "瓦克卢兹-加尔德双重女性谋杀案上诉审理",
-      "titre_ru": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
-      "titre_fa": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
-      "titre_ar": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
-      "titre_original": "Vaucluse - Gard. Double féminicide : « Les deux corps baignaient dans des mares de sang »",
-      "resume": "Mohamed Ouhaddou, accusé du double féminicide de sa femme et de sa belle-sœur en mai 2023, comparaît devant la cour d’assises d’appel du Vaucluse. Les faits, qualifiés de violents, ont révélé deux corps baignant dans des mares de sang. Ce procès, intervenant après un premier jugement en 2025, interroge à nouveau sur la récurrence des violences conjugales en France.",
-      "resume_en": "Mohamed Ouhaddou, accused of double femicide against his wife and sister-in-law in May 2023, is on trial at the Vaucluse Court of Assizes. The case, marked by extreme brutality, exposed bodies covered in pools of blood. This appeal trial, following a 2025 verdict, raises questions about persistent domestic violence in France.",
-      "resume_zh": "穆罕默德·乌哈杜被控在2023年5月谋杀妻子和妹妹，目前在瓦克卢兹上诉法庭受审。案件暴露出极端暴力，两具尸体浸泡在血泊中。此次上诉审理，在2025年判决后再次引发法国家庭暴力问题的讨论。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les féminicides en France, bien que criminalisés depuis 1992, restent un fléau persistant, avec une moyenne de 100 à 150 victimes par an. Ce cas illustre la violence systémique envers les femmes, souvent liée à des mécanismes de domination masculine et à l’impunité partielle des agresseurs. Les conséquences immédiates incluent un traumatisme collectif et une défiance accrue envers les institutions judiciaires. À moyen terme, cela pourrait renforcer les appels à des peines plus sévères et à des mesures préventives ciblées. Long terme, une prise de conscience sociétale est nécessaire pour briser le cycle de la violence. Les associations féministes dénoncent un manque de moyens pour les victimes, tandis que l’État peine à concilier répression et prévention.",
-      "analyse_en": "Femicides in France, though criminalized since 1992, persist as a major issue, with an average of 100 to 150 victims annually. This case highlights systemic violence against women, often tied to male dominance and partial impunity for perpetrators. Immediate consequences include collective trauma and growing distrust in judicial institutions. In the medium term, this may push for stricter penalties and targeted prevention measures. Long-term, societal awareness is crucial to break the cycle of violence. Feminist groups criticize insufficient resources for victims, while the state struggles to balance repression and prevention.",
-      "analyse_zh": "法国女性谋杀案自1992年刑事化以来仍然是一个顽疾，每年平均有100到150名受害者。此案暴露出针对女性的系统性暴力，通常与男性主导和加害者部分免责有关。短期影响包括集体创伤和对司法机构信任度下降。中期内，这可能推动更严厉的刑罚和针对性预防措施。长期来看，社会意识的提升至关重要，以打破暴力循环。女性主义组织批评对受害者资源不足，而政府则在打击与预防之间难以平衡。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Géopolitique",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/01/double-feminicide-les-deux-corps-baignaient-dans-des-mares-de-sang",
-      "image": "https://cdn-s-www.ledauphine.com/images/99DC5A8D-7179-4228-B9AE-DDFA3589ABF6/FB1200/photo-1790874080.jpg",
-      "date": "2026-10-01",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile (dommages corporels)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Fonds de prévention des violences conjugales",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile (dommages corporels)",
-          "secteur_en": "Civil liability insurance (bodily harm)",
-          "secteur_zh": "人身损害责任保险",
-          "effet_fr": "Les condamnations pour féminicides entraînent des hausses significatives des primes pour les assurances couvrant les risques familiaux.",
-          "effet_en": "Convictions for femicide lead to significant increases in premiums for family risk insurance.",
-          "effet_zh": "女性谋杀案判决导致家庭风险保险费用显著上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de prévention des violences conjugales",
-          "secteur_en": "Domestic violence prevention funds",
-          "secteur_zh": "家庭暴力预防基金",
-          "effet_fr": "Les cas médiatisés comme celui-ci poussent les pouvoirs publics à reconsidérer les budgets alloués aux programmes de protection des victimes.",
-          "effet_en": "High-profile cases like this push public authorities to re-evaluate budgets for victim protection programs.",
-          "effet_zh": "此类媒体曝光案件促使政府重新审视为受害者保护项目分配的预算。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-10-02T21:11:52.012210",
       "sous_categorie": "femmes"
     },
     {
@@ -6914,6 +6914,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_744744",
+      "titre": "UE : pesticides, une dérégulation controversée",
+      "titre_en": "EU: Controversial pesticide deregulation",
+      "titre_zh": "欧盟：争议性农药放宽政策",
+      "titre_ru": "Pesticides: l’Union européenne dérégule à tout-va",
+      "titre_fa": "Pesticides: l’Union européenne dérégule à tout-va",
+      "titre_ar": "Pesticides: l’Union européenne dérégule à tout-va",
+      "titre_original": "Pesticides: l’Union européenne dérégule à tout-va",
+      "resume": "La Commission européenne propose une « loi omnibus X » autorisant des pesticides controversés sans limites claires, suscitant des manifestations massives ce week-end. Les écologistes et agriculteurs bio dénoncent une remise en cause des normes environnementales, tandis que les lobbies agrochimiques y voient une avancée économique. Ce texte s’inscrit dans une tendance plus large de flexibilisation des réglementations sous pression industrielle et budgétaire.",
+      "resume_en": "The EU Commission proposes an 'omnibus law X' allowing controversial pesticides without clear limits, sparking large-scale protests this weekend. Environmentalists and organic farmers condemn a rollback of environmental standards, while agrochemical lobbyists see it as an economic win. The bill reflects broader trends of regulatory flexibility under industrial and budgetary pressure.",
+      "resume_zh": "欧盟委员会提出「第X号通用法案」，允许争议性农药无限制上市，引发本周末大规模抗议。生态组织和有机农民指责放宽环保法规，而农化行业利益集团视为经济利好。该法案体现了在产业和财政压力下，监管灵活性日益增强的趋势。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Depuis les années 1990, l’UE a progressivement assoupli ses règles sur les pesticides sous influence des lobbies comme Monsanto ou Bayer, malgré des scandales sanitaires (ex. glyphosate). La « loi omnibus X » s’inscrit dans une logique de simplification administrative pour accélérer les mises sur marché, répondant aux pressions des États membres dépendants de l’agrochimie. Les causes profondes incluent la crise agricole européenne, la baisse des subventions et la concurrence des pays tiers moins stricts. À court terme, cette dérégulation pourrait relancer les exportations agricoles, mais aggraver les risques sanitaires et environnementaux (biodiversité, pollution des sols). À moyen terme, les conflits juridiques avec les États membres et la Cour de justice européenne sont probables, tandis que les coûts sanitaires pourraient peser sur les budgets publics. Long terme, cette tendance menace la crédibilité de l’UE sur les enjeux climatiques, avec un risque de boycott des produits européens. Les écologistes (Greenpeace, WWF) et les syndicats agricoles (COPA-COGECA) s’opposent farouchement, tandis que les gouvernements comme la Hongrie ou la Pologne soutiennent activement cette mesure pour des raisons économiques.",
+      "analyse_en": "Since the 1990s, the EU has gradually relaxed pesticide rules under pressure from lobbies like Monsanto or Bayer, despite health scandals (e.g., glyphosate). The 'omnibus law X' follows a trend of administrative simplification to speed up market approvals, responding to pressure from member states dependent on agrochemicals. Root causes include the EU’s agricultural crisis, declining subsidies, and competition from less stringent third countries. Short-term, deregulation may boost agricultural exports but worsen health and environmental risks (biodiversity loss, soil pollution). Medium-term, legal conflicts with member states and the EU Court of Justice are likely, while healthcare costs could strain public budgets. Long-term, this trend undermines the EU’s credibility on climate issues, risking a boycott of European products. Environmental groups (Greenpeace, WWF) and farmers' unions (COPA-COGECA) oppose it strongly, while governments like Hungary and Poland actively support it for economic reasons.",
+      "analyse_zh": "自上世纪90年代以来，欧盟在农药监管上逐步放宽，受到如孟山都或拜耳等利益集团的影响，尽管曾发生过多起健康危机（如草甘膦事件）。「第X号通用法案」延续了简化行政程序、加速上市审批的趋势，回应了依赖农化产业的成员国压力。深层原因包括欧盟农业危机、补贴减少以及第三方国家更宽松的竞争。短期内，放宽可能刺激农产品出口，但加剧健康和环境风险（生物多样性丧失、土壤污染）。中期内，成员国与欧盟法院的法律冲突可能增加，而医疗成本可能加重公共财政负担。长期来看，这一趋势损害欧盟在气候议题上的信誉，甚至面临欧盟产品被抵制的风险。生态组织（绿色和平、世界自然基金会）和农民联合会（COPA-COGECA）强烈反对，而匈牙利和波兰等政府则出于经济利益积极支持此举。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Régulation",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/ecologie/101026/pesticides-l-union-europeenne-deregule-tout-va",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/10/09/261009-img-pesticides-sans-limite.jpg",
+      "date": "2026-10-10",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité environnementale",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des biotechnologies agricoles",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison de l’exposition accrue aux risques sanitaires et juridiques liés aux pesticides, poussant les assureurs à réévaluer leurs modèles de couverture.",
+          "effet_en": "Premiums may rise due to increased exposure to health and legal risks from pesticides, forcing insurers to reassess their coverage models.",
+          "effet_zh": "由于农药带来的健康和法律风险增加，保险费用可能上涨，迫使保险公司重新评估其理赔模式。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des biotechnologies agricoles",
+          "secteur_en": "Agricultural biotechnology market",
+          "secteur_zh": "农业生物技术市场",
+          "effet_fr": "Ce secteur pourrait connaître un ralentissement si les alternatives non-chimiques (agroécologie, biocontrôle) gagnent en attractivité face à la dérégulation perçue comme risquée.",
+          "effet_en": "This sector may slow down if non-chemical alternatives (agroecology, biocontrol) gain traction against perceived risky deregulation.",
+          "effet_zh": "如果非化学替代品（如生态农业、生物防治）因被视为更安全而受欢迎，这一领域可能放缓发展。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-11T11:14:43.384178",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_487132",
       "titre": "Seb accusée de négligence sur PFAS",
       "titre_en": "Seb accused of PFAS negligence",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-10-10T15:45:28.945323",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_508079",
-      "titre": "Tefal accusé de non-respect PFAS",
-      "titre_en": "Tefal accused of PFAS compliance failure",
-      "titre_zh": "特法尔被指PFAS合规违规",
-      "titre_ru": "Группа Tefal обвиняется в нарушении правил по PFAS в сковородах",
-      "titre_fa": "گروه تفل به دلیل استفاده از مواد PFAS در قوطی‌های آشپزخانه محکوم شد",
-      "titre_ar": "شركة تفل محكومتها بسبب استخدام المواد PFAS في أدوات الطبخ",
-      "titre_original": "Seb épinglé par trois associations pour les PFAS contenus dans ses poêles Tefal",
-      "resume": "Trois associations environnementales ont dénoncé le groupe Tefal pour son utilisation persistante de substances PFAS dans ses poêles antiadhésives, malgré les réglementations européennes. Les plaintes soulignent un manque de transparence et un risque sanitaire accru pour les consommateurs. Cette affaire s’inscrit dans un contexte de pression croissante sur les industries chimiques pour éliminer ces polluants persistants.",
-      "resume_en": "Three environmental groups accused Tefal’s parent company of continuing to use PFAS in its non-stick cookware, despite EU regulations. The complaints highlight a lack of transparency and increased health risks for consumers. This case reflects growing pressure on chemical industries to phase out persistent pollutants.",
-      "resume_zh": "三家环保组织指控特法尔集团在其不粘锅中继续使用PFAS化学物质，尽管欧盟有相关法规。投诉指出公司缺乏透明度，并对消费者健康构成风险。此事反映了对化学行业逐步淘汰持久性污染物的压力加大。",
-      "resume_ru": "Три экологические организации обвинили производителя Tefal в нарушении обязательств по использованию опасных веществ PFAS в своих сковородах. Они утверждают, что компания продолжает применять запрещённые соединения, несмотря на международные нормы. Дело вызвало общественный резонанс и может привести к судебным искам.",
-      "resume_fa": "سه سازمان محیط‌زیستی شرکت تفل را به نقض تعهدات در استفاده از مواد PFAS در قوطی‌های آشپزخانه‌اش متهم کردند. آنها ادعا می‌کنند که این شرکت همچنان از ترکیبات ممنوعه استفاده می‌کند، در حالی که استانداردهای بین‌المللی وجود دارد. این موضوع موجی از واکنش‌های عمومی ایجاد کرده و ممکن است منجر به دعاوی قضایی شود.",
-      "resume_ar": "تهمت ثلاث منظمات بيئية بشركة تفل بعدم الامتثال للتزامات استخدام المواد الخطيرة PFAS في مقلائدها. يقولون إن الشركة تستمر في استخدام المركبات المحظورة رغم وجود المعايير الدولية. هذا الأمر أثار موجًا من ردود الفعل العامة وقد يؤدي إلى دعاوى قضائية.",
-      "analyse_detaillee": "Les PFAS, surnommés ‘polluants éternels’, sont interdits dans l’UE depuis 2020 pour leurs effets cancérigènes et leur accumulation dans les écosystèmes. Tefal, leader mondial des ustensiles de cuisine, se retrouve au cœur d’un scandale révélant les tensions entre innovation industrielle et réglementations environnementales. Les causes profondes incluent une économie de la précarité (coûts de substitution élevés) et une concurrence agressive dans le secteur des revêtements antiadhésifs. À court terme, les associations menacent de poursuites judiciaires, tandis que les ventes pourraient chuter en cas de retrait massif des produits. À moyen terme, les fabricants devront investir massivement dans des alternatives comme le céramique ou le verre, avec des coûts de R&D élevés. Long terme, cette affaire pourrait accélérer une refonte globale des normes européennes sur les substances chimiques. Les consommateurs, divisés entre méfiance et attachement aux produits pratiques, attendent des réponses claires de la part des autorités et des marques.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, were banned in the EU in 2020 due to their carcinogenic effects and persistence in ecosystems. Tefal, a global leader in kitchenware, finds itself at the center of a scandal exposing tensions between industrial innovation and environmental regulations. Root causes include a precarious economy (high substitution costs) and fierce competition in non-stick coatings. Short-term, environmental groups threaten legal action, while sales may drop if products are withdrawn en masse. Mid-term, manufacturers will need to heavily invest in alternatives like ceramic or glass, with high R&D costs. Long-term, this case could accelerate a complete overhaul of EU chemical substance standards. Consumers, divided between distrust and attachment to practical products, await clear answers from regulators and brands.",
-      "analyse_zh": "PFAS被誉为‘永久性污染物’，欧盟自2020年起禁止其使用，原因是其致癌性和在生态系统中的持久性。特法尔作为全球厨具行业领导者，因涉嫌违规使用PFAS而成为舆论焦点，暴露出工业创新与环保法规之间的矛盾。深层原因包括替代成本高昂的经济压力以及不粘涂层市场的激烈竞争。短期内，环保组织威胁提起诉讼，而产品销售可能因大规模召回而下滑。中期内，制造商将不得不大幅投资于陶瓷或玻璃等替代材料，研发成本高昂。长期来看，此事可能加速欧盟对化学物质法规的全面改革。消费者在信任与实用性之间犹豫不决，期待监管机构和品牌给出明确回应。",
-      "analyse_ru": "Контекст: PFAS (вечные химикаты) широко используются в промышленности из-за их водо- и жироотталкивающих свойств, но вызывают серьёзные экологические и медицинские риски. Причины: Tefal, как часть крупного концерна, игнорирует давление регуляторов, стремясь сохранить прибыльность продукции. Последствия: возможные штрафы, отзыв товаров и ущерб репутации, что может оттолкнуть потребителей. Перспективы: рост давления со стороны общественности и правительств на ускорение запрета PFAS. Позиции сторон: активисты требуют полного отказа от веществ, а компания заявляет о соблюдении стандартов, но без конкретных доказательств.",
-      "analyse_fa": "زمینه: مواد PFAS (مواد شیمیایی ابدی) به دلیل خاصیت ضدآب و چرب‌شویی در صنایع گسترده‌ای استفاده می‌شوند، اما خطرات زیست‌محیطی و بهداشتی جدی ایجاد می‌کنند. علل: شرکت تفل، به عنوان بخشی از یک کنگلومرای بزرگ، تحت فشار تنظیم‌کنندگان قرار نمی‌گیرد و سعی دارد از سودآوری محصولات خود محافظت کند. پیامدها: ممکن است جریمه‌ها، recall محصولات و آسیب به شهرت شرکت رخ دهد که می‌تواند مشتریان را دور کند. چشم‌انداز: افزایش فشار از سوی جامعه و دولت‌ها برای تسریع در ممنوعیت مواد PFAS. موضع بازیگران: فعالان از حذف کامل این مواد می‌خواهند، در حالی که شرکت ادعا می‌کند از استانداردها پیروی می‌کند، اما بدون اثبات مشخصی.",
-      "analyse_ar": "السياق: المواد PFAS (الكيميائيات الدائمة) تستخدم على نطاق واسع في الصناعات بسبب خاصيتها المقاومة للماء والدهون، ولكنها تسبب مخاطر بيئية وصحية خطيرة. الأسباب: شركة تفل، كجزء من مجموعة صناعية كبيرة، تجاهلت ضغط التنظيمات بهدف الحفاظ على ربحية منتجاتها. العواقب: قد يؤدي ذلك إلى غرامات، سحب المنتجات، وتضرر سمعة الشركة، مما قد يبعد المستهلكين. الآفاق: زيادة الضغط من المجتمع والحكومات لتسريع حظر المواد PFAS. مواقف الأطراف: يدعو النشطاء إلى إلغاء استخدام هذه المواد بشكل كامل، بينما تدعي الشركة الامتثال للمعايير دون دليل واضح.",
-      "categorie": "Environnement & Réglementation",
-      "source": "Le HuffPost",
-      "url": "https://www.huffingtonpost.fr/life/article/seb-epingle-par-trois-associations-pour-les-pfas-contenus-dans-ses-poeles-tefal_337035.html",
-      "image": "https://focus.huffingtonpost.fr/2024/04/03/208/0/4000/2250/1820/1023/75/0/1d2443d_1712138013135-gettyimages-181768839.jpg",
-      "date": "2026-10-09",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Industrie chimique spécialisée en revêtements antiadhésifs",
-          "hausse": false
-        },
-        {
-          "label": "▲ Assurance responsabilité civile des entreprises industrielles",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Industrie chimique spécialisée en revêtements antiadhésifs",
-          "secteur_en": "Chemical industry specializing in non-stick coatings",
-          "secteur_zh": "专注于不粘涂层的化学工业",
-          "effet_fr": "Les sanctions potentielles et la perte de confiance des consommateurs pourraient entraîner une chute des marges bénéficiaires et une réorientation des investissements vers des technologies plus durables.",
-          "effet_en": "Potential fines and consumer distrust could lead to declining profit margins and a shift in investments toward more sustainable technologies.",
-          "effet_zh": "潜在罚款和消费者信任度下降可能导致利润空间缩小，并促使投资转向更可持续的技术。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurance responsabilité civile des entreprises industrielles",
-          "secteur_en": "Industrial corporate liability insurance",
-          "secteur_zh": "工业企业责任保险",
-          "effet_fr": "Les primes pourraient augmenter significativement en raison de l’augmentation des risques juridiques liés aux substances toxiques, poussant les assureurs à réévaluer leurs modèles de couverture.",
-          "effet_en": "Premiums may rise sharply due to increased legal risks from toxic substances, forcing insurers to reassess their coverage models.",
-          "effet_zh": "由于有毒物质带来的法律风险增加，保险费用可能大幅上涨，迫使保险公司重新评估其理赔模式。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-10T09:27:25.189185",
       "sous_categorie": "environnement"
     }
   ]
