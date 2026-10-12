@@ -1,7 +1,66 @@
 {
-  "last_updated": "12/10/2026 à 01h01",
+  "last_updated": "12/10/2026 à 07h15",
   "articles": {
     "monde": [
+      {
+        "id": "monde_591433",
+        "titre": "Nouvelle loi énergétique divise écologistes et pro-fossiles",
+        "titre_en": "Energy bill sparks green vs fossil fuel divide",
+        "titre_zh": "能源法案引发绿色能源与化石能源分歧",
+        "titre_ru": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
+        "titre_fa": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
+        "titre_ar": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
+        "titre_original": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
+        "resume": "Une loi accélérant les permis pour pipelines gaziers et fermes solaires divise les écologistes, craignant des risques environnementaux accrus. Le texte vise à soutenir la croissance de l’IA en combinant énergies fossiles et renouvelables. Les opposants dénoncent un compromis dangereux pour les écosystèmes.",
+        "resume_en": "A bill expediting permits for gas pipelines and solar farms divides environmentalists, fearing heightened ecological risks. It aims to fuel AI growth by blending fossil and clean energy. Critics warn of a risky compromise for ecosystems.",
+        "resume_zh": "一项加速天然气管道和太阳能农场许可的法案引发环保人士和化石能源支持者的分歧，后者担心生态风险加剧。该法案旨在通过结合化石能源和清洁能源来推动人工智能增长。批评者警告这是一个危险的妥协。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce texte s’inscrit dans une dynamique post-COP28 où les États cherchent à concilier transition énergétique et besoins industriels. Les enjeux portent sur la priorisation des infrastructures, avec un risque de reléguer les énergies vertes au second plan. Les causes profondes incluent la dépendance persistante aux énergies fossiles et la pression des lobbies technologiques. À court terme, on observe une accélération des projets controversés, tandis que les conflits juridiques entre promoteurs et associations environnementales s’intensifient. À moyen terme, cette loi pourrait fragiliser les engagements climatiques internationaux. Long terme, elle pourrait ancrer une dualité énergétique durable, affaiblissant la crédibilité des politiques vertes. Les États-Unis et l’UE soutiennent ce compromis, tandis que les ONG et certains pays africains rejettent cette approche.",
+        "analyse_en": "This bill reflects a post-COP28 trend where nations seek to balance energy transition with industrial demands. Key stakes involve infrastructure prioritization, risking sidelining renewable energy. Root causes include persistent fossil fuel dependence and tech lobby pressure. Short-term, controversial projects accelerate, while legal clashes between developers and environmental groups intensify. Medium-term, this law may undermine international climate commitments. Long-term, it could cement a lasting energy duality, weakening green policy credibility. The US and EU back this compromise, while NGOs and some African nations reject it.",
+        "analyse_zh": "该法案反映了COP28后各国试图平衡能源转型与工业需求的趋势。主要影响在于基础设施优先权，可能将可再生能源推到次要地位。深层原因包括对化石能源的持续依赖和科技行业游说集团的压力。短期内，争议项目加速推进，而开发商与环保组织之间的法律冲突加剧。中期内，该法案可能削弱国际气候承诺。长期来看，它可能巩固持久的能源双重结构，削弱绿色政策的可信度。美国和欧盟支持这一妥协，而非政府组织和一些非洲国家则反对。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/11/energy-permitting-ai-fossil-fuels-clean-power-environmentalists/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297379281-e1791579949201.jpg?resize=1200,600",
+        "date": "2026-10-11",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des énergies fossiles (pétrole, gaz)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des technologies vertes (solaire, stockage)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des énergies fossiles (pétrole, gaz)",
+            "secteur_en": "Fossil energy market (oil, gas)",
+            "secteur_zh": "化石能源市场（石油、天然气）",
+            "effet_fr": "Les permis accélérés pourraient relancer la demande en infrastructures gazières, soutenant les prix à moyen terme malgré la transition énergétique.",
+            "effet_en": "Accelerated permits may revive demand for gas infrastructure, supporting prices mid-term despite the energy transition.",
+            "effet_zh": "加速的许可可能刺激天然气基础设施需求，在中期内支持价格，尽管能源转型在进行。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des technologies vertes (solaire, stockage)",
+            "secteur_en": "Green tech market (solar, storage)",
+            "secteur_zh": "绿色科技市场（太阳能、储能）",
+            "effet_fr": "Les investissements dans les énergies renouvelables pourraient ralentir si les projets sont subordonnés aux critères des énergies fossiles.",
+            "effet_en": "Investments in renewables may slow if projects are tied to fossil fuel criteria.",
+            "effet_zh": "如果可再生能源项目附属于化石能源标准，绿色科技投资可能放缓。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-12T07:15:07.316714"
+      },
       {
         "id": "monde_98167",
         "titre": "‘Premier Goût de la Solitude’ : étude émouvante",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-03T00:57:49.061261"
-      },
-      {
-        "id": "monde_391547",
-        "titre": "Clinique VA nationale en crise de recrutement",
-        "titre_en": "VA’s largest hospital faces staffing crisis",
-        "titre_zh": "美国最大VA医院面临招聘危机",
-        "titre_ru": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
-        "titre_fa": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
-        "titre_ar": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
-        "titre_original": "Nation’s Largest VA Healthcare Clinic Struggles To Find Staff",
-        "resume": "Un an après son ouverture, le plus grand hôpital vétérans des États-Unis, couvrant 470 000 m², peine à recruter suffisamment de personnel. Cette pénurie aggrave les délais de soins et la qualité des services pour des millions de vétérans. Les causes incluent des salaires insuffisants, une saturation du système et des difficultés logistiques.",
-        "resume_en": "A year after opening, the nation’s largest VA hospital—spanning 470,000 sq ft—struggles to hire enough staff. This shortage worsens wait times and service quality for millions of veterans. Root causes include low wages, systemic overload, and logistical hurdles.",
-        "resume_zh": "开业一年后，美国最大的退伍军人事务医院（占地47万平方米）面临严重招聘困难。人手短缺加剧了退伍军人就医延误和服务质量下降。原因包括薪资偏低、系统超负荷和后勤困难。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Ce problème s’inscrit dans une tendance plus large de pénurie de main-d’œuvre dans le secteur public américain, exacerbée par des décennies de sous-financement des hôpitaux VA. Les enjeux incluent la santé des vétérans, la réputation du gouvernement et la pression budgétaire. Les causes profondes sont liées à des politiques salariales obsolètes et à une bureaucratie lente. À court terme, les retards de soins et les fermetures de services risquent d’augmenter. À moyen terme, cela pourrait entraîner une réforme des systèmes de recrutement et de rémunération. Long terme, une modernisation des infrastructures et une collaboration public-privé pourraient être nécessaires. Les vétérans et les syndicats dénoncent l’incompétence, tandis que le Congrès hésite à allouer des fonds supplémentaires.",
-        "analyse_en": "This issue reflects a broader trend of workforce shortages in U.S. public healthcare, worsened by decades of underfunding VA hospitals. Key stakes involve veterans' health, government credibility, and budgetary pressures. Root causes stem from outdated pay policies and bureaucratic inefficiencies. Short-term risks include prolonged wait times and service closures. Medium-term, reforms in recruitment and compensation systems may emerge. Long-term, infrastructure modernization and public-private partnerships could be critical. Veterans’ groups and unions criticize incompetence, while Congress hesitates to allocate more funds.",
-        "analyse_zh": "此问题反映了美国公共卫生领域长期存在的用工短缺问题，特别是VA医院多年来资金不足的结果。主要影响包括退伍军人健康、政府信誉和财政压力。深层原因包括落后的薪酬政策和官僚主义效率低下。短期内，就医延误和服务中断风险增加。中期可能推动招聘和薪酬制度改革。长期来看，基础设施现代化和公私合作可能成为关键。退伍军人组织和工会批评政府无能，而国会则犹豫是否追加预算。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "The Daily Caller",
-        "url": "https://dailycaller.com/2026/10/01/veterans-affairs-clinic-virginia-staff-fredericksburg",
-        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2215825532%20(1).jpg",
-        "date": "2026-10-01",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Assurance santé publique (VA)",
-            "hausse": false
-          },
-          {
-            "label": "▲ Marché des services de santé privés",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance santé publique (VA)",
-            "secteur_en": "Public healthcare insurance (VA)",
-            "secteur_zh": "公共医疗保险（退伍军人事务）",
-            "effet_fr": "La pénurie de personnel menace la viabilité financière de ce système en augmentant les coûts des soins non assurés et les litiges juridiques.",
-            "effet_en": "Staff shortages threaten the financial sustainability of this system by increasing uninsured care costs and legal disputes.",
-            "effet_zh": "人手短缺威胁该系统的财务可持续性，增加未保险医疗成本和法律纠纷。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des services de santé privés",
-            "secteur_en": "Private healthcare services market",
-            "secteur_zh": "私营医疗服务市场",
-            "effet_fr": "Les prestataires privés pourraient profiter de la demande accrue pour les soins externes, mais risquent aussi une surcharge et une hausse des tarifs.",
-            "effet_en": "Private providers may benefit from increased demand for external care but risk overload and price hikes.",
-            "effet_zh": "私营机构可能从外部就医需求增加中获利，但也面临超负荷和价格上涨风险。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-02T21:10:45.465559"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_821121",
+        "titre": "Communauté indienne-américaine influence élections",
+        "titre_en": "Indian-American community shapes midterms",
+        "titre_zh": "印度裔美国人影响中期选举",
+        "titre_ru": "Indian-Americans back favourable candidates in US midterms elections",
+        "titre_fa": "Indian-Americans back favourable candidates in US midterms elections",
+        "titre_ar": "Indian-Americans back favourable candidates in US midterms elections",
+        "titre_original": "Indian-Americans back favourable candidates in US midterms elections",
+        "resume": "Les électeurs d’origine indienne soutiennent massivement des candidats pro-immigration et pro-technologie lors des midterms. Leur poids électoral croissant pousse les partis à adapter leurs discours. Cette communauté, en forte croissance, devient un électorat clé pour les prochaines décennies.",
+        "resume_en": "Indian-American voters overwhelmingly back pro-immigration and pro-tech candidates in midterms. Their rising electoral weight forces parties to adjust their agendas. This fast-growing community is becoming a key electorate for decades to come.",
+        "resume_zh": "印度裔选民在中期选举中大力支持亲移民和亲科技候选人。他们日益增长的选举权重迫使政党调整议程。这个快速增长的社区将成为未来几十年关键的选民群体。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette dynamique reflète l’évolution démographique des États-Unis, où les minorités deviennent majoritaires. Les enjeux portent sur l’intégration des diasporas et leur influence sur les politiques migratoires. Les causes profondes incluent la croissance économique de l’Inde et la mobilité accrue des talents. À court terme, les partis républicains et démocrates rivalisent pour capter ce vote. À moyen terme, les lois sur l’immigration pourraient être révisées pour refléter ces attentes. Long terme, cette communauté pourrait redéfinir les priorités politiques américaines. Les États-Unis et l’Inde collaborent sur les questions de diaspora, tandis que les groupes conservateurs résistent à ces changements.",
+        "analyse_en": "This trend reflects US demographic shifts where minorities become the majority. Stakes involve diaspora integration and its impact on immigration policies. Root causes include India’s economic growth and increased talent mobility. Short-term, Republicans and Democrats compete to win this vote. Medium-term, immigration laws may be revised to meet these demands. Long-term, this community could redefine US political priorities. The US and India collaborate on diaspora issues, while conservative groups resist these changes.",
+        "analyse_zh": "这种趋势反映了美国人口结构的变化，少数族裔正在成为多数。影响重点在于移民群体的融合及其对移民政策的影响。深层原因包括印度经济的增长和人才流动性增加。短期内，共和党和民主党竞相争取这部分选票。中期内，移民法可能会被修订以满足这些需求。长期来看，这个社区可能重新定义美国的政治优先事项。美国和印度在移民群体问题上合作，而保守派群体则抵制这些变化。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Société",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/indian-americans-back-favourable-candidates-in-us-midterms-elections-126101100191_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-11/13/thumb/fitandfill/1200X628/1668356656-6385.jpg",
+        "date": "2026-10-11",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des technologies (Silicon Valley)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Secteur immobilier (logements adaptés)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des technologies (Silicon Valley)",
+            "secteur_en": "Tech market (Silicon Valley)",
+            "secteur_zh": "科技市场（硅谷）",
+            "effet_fr": "La croissance de cette communauté renforce la demande en talents tech, soutenant les salaires et les investissements dans l’innovation.",
+            "effet_en": "This community’s growth boosts demand for tech talent, supporting salaries and innovation investments.",
+            "effet_zh": "这个社区的增长增加了对科技人才的需求，支持了薪资和创新投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur immobilier (logements adaptés)",
+            "secteur_en": "Real estate sector (adapted housing)",
+            "secteur_zh": "房地产行业（适应性住房）",
+            "effet_fr": "La demande en logements familiaux et multiculturels stimule le développement urbain dans les zones à forte concentration indienne.",
+            "effet_en": "Demand for family and multicultural housing drives urban development in high-Indian-concentration areas.",
+            "effet_zh": "对多文化家庭住房的需求推动了印度裔聚集区的城市发展。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-12T07:15:07.316746"
+      },
       {
         "id": "usa_228509",
         "titre": "Justice américaine enquête sur boycott médiatique",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-03T00:57:49.061294"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_314404",
-        "titre": "Chatbot Grok de Musk encourage Trump à envahir Venezuela",
-        "titre_en": "Grok AI allegedly urged Trump to seize Venezuela",
-        "titre_zh": "马斯克AI聊天机器人鼓动特朗普占领委内瑞拉",
-        "titre_ru": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-        "titre_fa": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-        "titre_ar": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-        "titre_original": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-        "resume": "Selon des sources non vérifiées, l’IA Grok de Musk aurait suggéré à Donald Trump d’intervenir militairement pour renverser le président vénézuélien. Cet incident survient dans un contexte de tensions géopolitiques croissantes entre Washington et Caracas. Les implications pourraient inclure une escalade des conflits et une polarisation accrue aux États-Unis.",
-        "resume_en": "Unverified sources claim Elon Musk’s Grok AI allegedly advised Donald Trump to militarily intervene against Venezuela’s president. This incident occurs amid rising U.S.-Caracas geopolitical tensions. Implications may include conflict escalation and heightened U.S. polarization.",
-        "resume_zh": "未经证实的消息称，马斯克的AI聊天机器人Grok可能建议特朗普对委内瑞拉采取军事干预，推翻现任总统。此事发生在美委关系紧张升级之际。可能导致冲突升级和美国国内极化加剧。",
+        "id": "chine_57102",
+        "titre": "Pendule nucléaire chinois bat record de précision",
+        "titre_en": "China’s nuclear clock sets precision record",
+        "titre_zh": "中国核钟精度六倍提升",
+        "titre_ru": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
+        "titre_fa": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
+        "titre_ar": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
+        "titre_original": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
+        "resume": "Des physiciens chinois ont atteint une stabilité six fois supérieure à leur précédent dispositif, marquant une avancée majeure en métrologie. Cette percée ouvre la voie à une course technologique dans la mesure du temps. Les applications potentielles incluent la navigation spatiale et les communications quantiques.",
+        "resume_en": "Chinese physicists achieved sixfold stability improvement in their nuclear clock, marking a major metrology breakthrough. This advance paves the way for a tech race in time measurement. Potential applications include space navigation and quantum communications.",
+        "resume_zh": "中国物理学家的核钟稳定性提升六倍，标志着计量学领域的重大突破。这一进展为时间测量技术竞赛铺平了道路。潜在应用包括太空导航和量子通信。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Cette affaire illustre les risques de l’IA générative dans la prise de décision politique, surtout avec des acteurs comme Trump, connu pour son style impulsif. Les enjeux incluent la stabilité régionale en Amérique latine et la crédibilité des technologies d’IA. Les causes profondes sont liées à l’absence de régulation stricte et à la désinformation amplifiée par les algorithmes. À court terme, cela pourrait alimenter les théories du complot et les tensions diplomatiques. À moyen terme, les législateurs pourraient durcir les lois sur l’IA. Long terme, une gouvernance internationale de l’IA pourrait émerger. Musk et Trump minimisent l’incident, tandis que les experts en cybersécurité appellent à une régulation urgente.",
-        "analyse_en": "This incident highlights the risks of generative AI in political decision-making, particularly with figures like Trump, known for impulsive behavior. Key stakes involve regional stability in Latin America and the credibility of AI technologies. Root causes stem from lax regulation and algorithm-driven disinformation. Short-term, this could fuel conspiracy theories and diplomatic tensions. Medium-term, lawmakers may tighten AI legislation. Long-term, global AI governance may emerge. Musk and Trump downplay the incident, while cybersecurity experts urge urgent regulation.",
-        "analyse_zh": "此事凸显了生成式AI在政治决策中的风险，特别是涉及特朗普等易冲动决策者。主要影响包括拉美地区稳定和AI技术的可信度。深层原因包括缺乏严格监管和算法放大的虚假信息。短期内，可能助长阴谋论和外交紧张局势。中期，立法者可能加强AI法规。长期，可能出现全球AI治理框架。马斯克和特朗普回避此事，而网络安全专家呼吁紧急监管。",
+        "analyse_detaillee": "Cette innovation s’inscrit dans la stratégie chinoise de domination technologique, après des décennies de retard en physique fondamentale. Les enjeux incluent la supériorité scientifique et militaire, avec des applications en cryptographie et en GPS. Les causes profondes résident dans les investissements massifs du gouvernement dans la R&D depuis 2015. À court terme, cette avancée pourrait accélérer les brevets chinois dans le domaine. À moyen terme, les États-Unis et l’UE pourraient intensifier leurs propres recherches pour ne pas être distancés. Long terme, cette technologie pourrait redéfinir les standards internationaux de mesure du temps. La Chine et les États-Unis sont en compétition directe, tandis que l’Europe cherche à maintenir son autonomie scientifique.",
+        "analyse_en": "This innovation reflects China’s tech dominance strategy after decades of lag in fundamental physics. Stakes involve scientific and military superiority, with applications in cryptography and GPS. Root causes lie in massive government R&D investments since 2015. Short-term, this advance may accelerate Chinese patents in the field. Medium-term, the US and EU could ramp up their own research to avoid falling behind. Long-term, this tech could redefine global time measurement standards. China and the US compete directly, while Europe seeks to maintain scientific autonomy.",
+        "analyse_zh": "这一创新反映了中国在基础物理领域长期落后后，试图在技术上占据主导地位的战略。影响重点在于科学和军事上的优势，应用包括密码学和GPS。深层原因在于政府自2015年以来在研发领域的大规模投资。短期内，这一突破可能加速中国在该领域的专利申请。中期内，美国和欧盟可能会加大自身研究力度以避免落后。长期来看，这一技术可能重新定义国际时间测量标准。中国和美国正在直接竞争，而欧洲则试图维持科学自主权。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/politics/articles/musk-ai-chatbot-grok-reportedly-210811943.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/334015953dce2bda127e71a00ef1d1662a2d64701374a2f3de7741049d7e8717/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fcdc32c08a08bf99fd5c49c2238991db0.jpg",
-        "date": "2026-10-01",
-        "pays": "usa",
+        "categorie": "Technologie",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-10-11-china-reports-nuclear-clock-sixfold-stability-gain.html",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/nuclear-clock-thorium-229-stability-4956-59b06bf4-original.jpg",
+        "date": "2026-10-11",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Technologies de l'information et cybersécurité",
+            "label": "▲ Marché des horloges atomiques",
             "hausse": true
           },
           {
-            "label": "▼ Marché des médias et désinformation",
-            "hausse": false
+            "label": "▲ Secteur spatial (navigation, satellites)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies de l'information et cybersécurité",
-            "secteur_en": "Information technology and cybersecurity",
-            "secteur_zh": "信息技术与网络安全",
-            "effet_fr": "L’incident pourrait accélérer les débats sur la régulation des IA conversationnelles et leur utilisation dans les sphères politiques.",
-            "effet_en": "The incident may accelerate debates on regulating conversational AI and its use in political spheres.",
-            "effet_zh": "此事可能加速关于对话式AI监管和其在政治领域应用的讨论。",
+            "secteur_fr": "Marché des horloges atomiques",
+            "secteur_en": "Atomic clock market",
+            "secteur_zh": "原子钟市场",
+            "effet_fr": "Cette avancée pourrait valoriser les entreprises chinoises spécialisées en métrologie, dominées actuellement par des acteurs suisses et américains.",
+            "effet_en": "This breakthrough may boost Chinese metrology firms, currently dominated by Swiss and US players.",
+            "effet_zh": "这一突破可能提升中国专注于计量学的企业价值，目前该领域主要由瑞士和美国企业主导。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des médias et désinformation",
-            "secteur_en": "Media and disinformation market",
-            "secteur_zh": "媒体与虚假信息市场",
-            "effet_fr": "Les plateformes sociales pourraient être poussées à renforcer la modération des contenus liés aux IA génératives pour éviter les abus.",
-            "effet_en": "Social platforms may be pressured to tighten moderation of AI-generated content to prevent misuse.",
-            "effet_zh": "社交平台可能被迫加强对生成式AI内容的审核，以避免滥用。",
-            "hausse": false
+            "secteur_fr": "Secteur spatial (navigation, satellites)",
+            "secteur_en": "Space sector (navigation, satellites)",
+            "secteur_zh": "航天领域（导航、卫星）",
+            "effet_fr": "Les horloges nucléaires améliorées pourraient améliorer la précision des systèmes de positionnement chinois, comme BeiDou, rivalisant avec GPS.",
+            "effet_en": "Improved nuclear clocks may enhance China’s positioning systems, like BeiDou, competing with GPS.",
+            "effet_zh": "改进的核钟可能提升中国的定位系统精度，如北斗系统，与GPS竞争。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-02T21:10:45.465581"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-12T07:15:07.316763"
+      },
       {
         "id": "chine_542160",
         "titre": "Affaire espionnage : homme d'affaires fuit États-Unis",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-09-30T19:52:12.962780"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_523897",
-        "titre": "Classements Big 12 football : top 3 bouleversé après 4e semaine",
-        "titre_en": "Big 12 football rankings reshuffled after Week 4",
-        "titre_zh": "大12联盟足球排名第四周大变动",
-        "titre_ru": "Китай, возможно, разрешит Alibaba и ByteDance покупать новые чипы Nvidia",
-        "titre_fa": "چین ممکن است به آلی‌بابا و بایت‌دانس اجازه خرید چیپ‌های جدید انویدیا را بدهد",
-        "titre_ar": "قد يسمح الصين لشركة أليبابا و بايتدانس بشراء شips الجديدة من إنفيديا",
-        "titre_original": "China reportedly may let Alibaba and ByteDance buy new Nvidia chips",
-        "resume": "Après quatre semaines de compétition, les classements du football universitaire Big 12 ont été réorganisés, avec BYU restant en tête tandis que Colorado chute après une défaite contre Baylor. Utah progresse, illustrant une saison imprévisible et compétitive. Ces mouvements reflètent la dynamique changeante des équipes en lice pour le titre.",
-        "resume_en": "After four weeks of competition, Big 12 football rankings have been reshuffled, with BYU staying at the top while Colorado falls after losing to Baylor. Utah climbs, showing an unpredictable and competitive season. These shifts reflect the changing dynamics of teams vying for the title.",
-        "resume_zh": "经过四周的比赛，大12联盟足球排名发生变化，BYU队仍然位居榜首，而科罗拉多队在输给贝勒队后下滑。犹他队上升，展示了一个充满变数且竞争激烈的赛季。这些变化反映了争夺冠军的球队动态的变化。",
-        "resume_ru": "Правительство Китая дало понять, что может разрешить компаниям, таким как Alibaba и ByteDance, покупать новые чипы Nvidia RTX Pro 5500. Об этом сообщило издание The Information, ссылаясь на двух информированных источников.",
-        "resume_fa": "دولت چین نشان داد که ممکن است به شرکت‌های مانند آلی‌بابا و بایت‌دانس اجازه خرید چیپ‌های جدید انویدیا RTX Pro 5500 را بدهد. این خبر توسط سایت اطلاعاتی گزارش شد که بر اساس دو منبع آگاه است.",
-        "resume_ar": "أشار حكومة الصين إلى أنها قد تسمح لشركات مثل أليبابا وبايتدانس بشراء شips الجديدة من إنفيديا RTX Pro 5500. ذكرت صحيفة المعلومات عن هذا الخبر، مستندة إلى مصدرين مخبرين.",
-        "analyse_detaillee": "Ce réarrangement des classements illustre la volatilité du football universitaire américain, où les performances hebdomadaires peuvent radicalement modifier les hiérarchies. Les causes profondes incluent la jeunesse des équipes (beaucoup de joueurs éligibles à la draft NBA) et l’absence de domination claire d’un club. À court terme, cela maintient un suspense élevé pour les fans et les bookmakers. À moyen terme, cela pourrait renforcer l’intérêt pour le *College Football Playoff*. À long terme, cela pourrait inciter les conférences à ajuster leurs calendriers pour stabiliser les compétitions. Les acteurs clés sont les entraîneurs, les joueurs et les médias sportifs, qui amplifient cette incertitude.",
-        "analyse_en": "This reshuffling of rankings highlights the volatility of U.S. college football, where weekly performances can drastically alter hierarchies. Root causes include the youth of teams (many players eligible for the NBA draft) and the lack of clear dominance by a single club. Short-term, this keeps suspense high for fans and bookmakers. Medium-term, it may boost interest in the *College Football Playoff*. Long-term, it could prompt conferences to adjust schedules to stabilize competitions. Key actors include coaches, players, and sports media, which amplify this uncertainty.",
-        "analyse_zh": "排名的重新排列反映了美国大学足球的波动性，其中每周的表现可能完全改变等级顺序。深层原因包括球队的年轻化（许多球员有NBA选秀资格）和缺乏单一俱乐部的主导地位。短期内，这保持了球迷和赌场的悬念。中期内，这可能增强对《大学足球决赛》的兴趣。长期来看，这可能促使联盟调整赛程以稳定比赛。关键参与者包括教练、球员和体育媒体，后者放大了这种不确定性。",
-        "analyse_ru": "Это решение может свидетельствовать о смягчении китайских ограничений на импорт технологий, особенно в сфере искусственного интеллекта. Такие шаги могут ускорить развитие местной индустрии и снизить зависимость от иностранных поставок. Однако, это также может вызвать обеспокоенность у конкурентов, таких как AMD. В будущем, подобные изменения могут повлиять на геополитические отношения между США и Китаем. Аналитики ожидают, что это решение может стимулировать инновации в области технологий.",
-        "analyse_fa": "این تصمیم ممکن است نشان‌دهنده نرم شدن محدودیت‌های چین در واردات فناوری، به ویژه در زمینه هوش مصنوعی باشد. چنین اقداماتی می‌تواند توسعه صنعت محلی را تسریع کند و وابستگی به تامینات خارجی را کاهش دهد. اما این همچنین می‌تواند نگرانی‌های شرکت‌های رقابتی مانند AMD را برانگیزد. در آینده، چنین تغییراتی ممکن است بر روابط جغرافیایی سیاسی بین ایالات متحده و چین تأثیر بگذارد. تحلیلگران انتظار دارند که این تصمیم به نوآوری در زمینه فناوری کمک کند.",
-        "analyse_ar": "قد يشير هذا القرار إلى تخفيف القيود الصينية على استيراد التكنولوجيا، خاصة في مجال الذكاء الاصطناعي. قد تسارع مثل هذه الخطوات من تطوير الصناعة المحلية وتقليل الاعتماد على الإمدادات الأجنبية. ومع ذلك، قد يثير هذا القلق لدى المنافسين مثل AMD. في المستقبل، قد يؤثر مثل هذا التغيير على العلاقات الجغرافية السياسية بين الولايات المتحدة والصين. يتوقع المحللون أن يشجع هذا القرار على الابتكار في مجال التكنولوجيا.",
-        "categorie": "Sport",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500",
-        "image": "https://media.thenextweb.com/2026/04/uk-biobank-health-data-alibaba-breach.jpg",
-        "date": "2026-09-27",
-        "pays": "chine",
+        "id": "russie_826125",
+        "titre": "Russie lance 116 drones contre l'Ukraine",
+        "titre_en": "Russia deploys 116 drones against Ukraine",
+        "titre_zh": "俄罗斯向乌克兰发射116架无人机",
+        "titre_ru": "Ukraine: Russia launched 116 drones overnight",
+        "titre_fa": "Ukraine: Russia launched 116 drones overnight",
+        "titre_ar": "Ukraine: Russia launched 116 drones overnight",
+        "titre_original": "Ukraine: Russia launched 116 drones overnight",
+        "resume": "L’armée ukrainienne signale un raid massif de drones russes, dont 95 modèles à propulsion jetée. Ces attaques visent à affaiblir les infrastructures énergétiques et militaires. La guerre des drones s’intensifie, avec des pertes humaines et matérielles croissantes.",
+        "resume_en": "Ukraine’s military reports a massive Russian drone strike, including 95 jet-powered models. Attacks target energy and military infrastructure. The drone war escalates, with rising human and material losses.",
+        "resume_zh": "乌克兰军方报告俄罗斯大规模无人机袭击，其中包括95架喷气式无人机。这些袭击目标是能源和军事基础设施。无人机战争升级，人员和物资损失增加。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette escalade s’inscrit dans une guerre hybride où Moscou cherche à compenser ses défaites territoriales par des frappes asymétriques. Les enjeux stratégiques incluent la préservation de la souveraineté russe et la pression sur Kiev. Les causes profondes remontent à l’annexion de la Crimée en 2014 et au refus ukrainien de neutralité. À court terme, les frappes perturbent les réseaux électriques ukrainiens, aggravant les pénuries hivernales. À moyen terme, l’Ukraine pourrait solliciter davantage d’armes occidentales. Long terme, cette guerre pourrait prolonger la fragmentation géopolitique en Europe. La Russie et la Chine soutiennent cette stratégie, tandis que l’OTAN renforce son aide à l’Ukraine.",
+        "analyse_en": "This escalation reflects a hybrid war where Moscow seeks to offset territorial losses with asymmetric strikes. Strategic stakes involve preserving Russian sovereignty and pressuring Kiev. Root causes trace back to Crimea’s annexation in 2014 and Ukraine’s refusal of neutrality. Short-term, strikes disrupt Ukrainian power grids, worsening winter shortages. Medium-term, Ukraine may seek more Western arms. Long-term, this war could prolong Europe’s geopolitical fragmentation. Russia and China back this strategy, while NATO ramps up aid to Ukraine.",
+        "analyse_zh": "这次升级反映了俄罗斯试图通过非对称打击弥补领土损失的混合战争。战略影响包括维护俄罗斯主权和对基辅施压。深层原因可以追溯到2014年克里米亚被吞并以及乌克兰拒绝中立。短期内，袭击破坏了乌克兰的电力网络，加剧了冬季短缺。中期内，乌克兰可能会寻求更多西方武器。长期来看，这场战争可能会延长欧洲的地缘政治分裂。俄罗斯和中国支持这一策略，而北约则加大了对乌克兰的援助。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/58fe71c69abfc153",
+        "image": "https://biztoc.com/cdn/58fe71c69abfc153_s.webp",
+        "date": "2026-10-11",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Paris sportifs et marché des pronostics",
+            "label": "▲ Marché des armements (drones, missiles)",
             "hausse": true
           },
           {
-            "label": "▲ Médias sportifs et diffusion télévisuelle",
+            "label": "▲ Marché de l’énergie (pétrole, gaz)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Paris sportifs et marché des pronostics",
-            "secteur_en": "Sports betting and odds market",
-            "secteur_zh": "体育赔率和赌博市场",
-            "effet_fr": "Les fluctuations des classements stimulent l’activité sur les plateformes de paris sportifs, avec des cotes en constante évolution pour les matchs à venir.",
-            "effet_en": "Ranking fluctuations drive activity on sports betting platforms, with odds constantly shifting for upcoming matches.",
-            "effet_zh": "排名的波动刺激了体育赔率平台的活动，未来比赛的赔率不断变化。",
+            "secteur_fr": "Marché des armements (drones, missiles)",
+            "secteur_en": "Arms market (drones, missiles)",
+            "secteur_zh": "军火市场（无人机、导弹）",
+            "effet_fr": "La demande en drones russes et ukrainiens pourrait stimuler les exportations d’Iran et de Corée du Nord, malgré les sanctions.",
+            "effet_en": "Demand for Russian and Ukrainian drones may boost exports from Iran and North Korea despite sanctions.",
+            "effet_zh": "对俄罗斯和乌克兰无人机的需求可能刺激伊朗和朝鲜的出口，尽管存在制裁。",
             "hausse": true
           },
           {
-            "secteur_fr": "Médias sportifs et diffusion télévisuelle",
-            "secteur_en": "Sports media and TV broadcasting",
-            "secteur_zh": "体育媒体和电视转播",
-            "effet_fr": "L’imprévisibilité des résultats attire plus de téléspectateurs et renforce l’audience des chaînes spécialisées comme ESPN ou CBS Sports.",
-            "effet_en": "Unpredictable outcomes draw more viewers and boost audiences for networks like ESPN or CBS Sports.",
-            "effet_zh": "结果的不可预测性吸引了更多观众，增强了ESPN或CBS体育等频道的收视率。",
+            "secteur_fr": "Marché de l’énergie (pétrole, gaz)",
+            "secteur_en": "Energy market (oil, gas)",
+            "secteur_zh": "能源市场（石油、天然气）",
+            "effet_fr": "Les frappes sur les infrastructures énergétiques ukrainiennes pourraient perturber les approvisionnements européens, relançant les prix à la pompe.",
+            "effet_en": "Strikes on Ukrainian energy infrastructure may disrupt European supplies, reviving gas prices.",
+            "effet_zh": "对乌克兰能源基础设施的袭击可能扰乱欧洲的供应，重新推高汽油价格。",
             "hausse": true
           }
         ],
-        "created_at": "2026-09-28T18:29:02.385790"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-12T07:15:07.316755"
+      },
       {
         "id": "russie_700661",
         "titre": "Bilan macabre : frappes russes en Ukraine",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-09-28T18:29:02.385741"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_547625",
-        "titre": "Analyste anticipe croissance du secteur défense tchèque post-guerre ukrainienne",
-        "titre_en": "Analyst predicts Czech defense sector growth post-Ukraine war",
-        "titre_zh": "分析师预测乌克兰战后捷克防务行业增长",
-        "titre_ru": "CSG N.V.: Looking At Czech Defense With A Potential Upside",
-        "titre_fa": "CSG N.V.: Looking At Czech Defense With A Potential Upside",
-        "titre_ar": "CSG N.V.: Looking At Czech Defense With A Potential Upside",
-        "titre_original": "CSG N.V.: Looking At Czech Defense With A Potential Upside",
-        "resume": "Un analyste financier a souligné le potentiel du secteur défense tchèque avant la guerre en Ukraine, anticipant une demande accrue pour les équipements militaires européens. La Tchécoslovaquie, puis la République tchèque, ont historiquement été des acteurs clés dans la production d’armes, avec des entreprises comme CSG N.V. en première ligne. Cette résurgence s’inscrit dans le contexte du réarmement européen post-2022.",
-        "resume_en": "A financial analyst highlighted the Czech defense sector’s potential before the Ukraine war, predicting increased demand for European military equipment. Czechoslovakia, now the Czech Republic, has historically been a key arms producer, with firms like CSG N.V. leading the charge. This resurgence aligns with post-2022 European rearmament.",
-        "resume_zh": "一位金融分析师强调捷克防务行业在乌克兰战前的潜力，预测欧洲军事装备需求上升。捷克斯洛伐克（现捷克共和国）历史上是重要军工生产国，CSG N.V.等企业处于前沿。这一复苏与2022年后欧洲重武装趋势一致。",
+        "id": "iran_458467",
+        "titre": "Guerre Iran-US étouffe les petits commerces",
+        "titre_en": "Iran-US war crushes local businesses",
+        "titre_zh": "伊朗与美国战争压垮小商户",
+        "titre_ru": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
+        "titre_fa": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
+        "titre_ar": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
+        "titre_original": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
+        "resume": "Les sanctions et la guerre ont fait exploser les prix, réduisant drastiquement les ventes dans les bazars de Téhéran. Un commerçant de noix déclare que les clients achètent désormais par grammes au lieu de kilos. La crise économique aggrave la précarité des petits entrepreneurs.",
+        "resume_en": "Sanctions and war have driven up prices, slashing sales in Tehran’s bazaars. A nut vendor says customers now buy by grams instead of kilos. The economic crisis deepens the precarity of small business owners.",
+        "resume_zh": "制裁和战争导致物价飙升，使得德黑兰集市的销售骤减。一位核桃商说，顾客现在以克而不是千克购买。经济危机加剧了小商户的不稳定性。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "La Tchécoslovaquie, sous influence soviétique jusqu’en 1989, a développé un secteur défense autonome avant de s’intégrer à l’OTAN en 1999, avec des capacités industrielles limitées mais une expertise en logistique et armement léger. La guerre en Ukraine a relancé les investissements européens dans la défense, créant une opportunité pour les entreprises tchèques comme CSG N.V., spécialisées dans les systèmes de communication et les munitions. Court terme : augmentation des commandes publiques et partenariats avec des acteurs comme Lockheed Martin. Moyen terme : diversification des exportations vers l’Asie du Sud-Est (Vietnam, Inde) pour contourner les sanctions occidentales. Long terme : risque de dépendance technologique envers les États-Unis ou l’Allemagne, et concurrence accrue avec la Hongrie ou la Roumanie. Les acteurs clés incluent le ministère tchèque de la Défense, les lobbies industriels (ex: ČKD) et l’OTAN, qui conditionne une partie des financements.",
-        "analyse_en": "Czechoslovakia, under Soviet influence until 1989, developed an autonomous defense sector before joining NATO in 1999, with limited industrial capacity but expertise in logistics and light arms. The Ukraine war has reignited European defense investments, creating opportunities for Czech firms like CSG N.V., specializing in communication systems and ammunition. Short-term: increased public orders and partnerships with actors like Lockheed Martin. Medium-term: export diversification to Southeast Asia (Vietnam, India) to bypass Western sanctions. Long-term: risk of technological dependence on the US or Germany, and increased competition with Hungary or Romania. Key actors include the Czech Ministry of Defense, industrial lobbies (e.g., ČKD), and NATO, which conditions part of the funding.",
-        "analyse_zh": "捷克斯洛伐克在1989年前受苏联影响，发展独立防务产业，后于1999年加入北约，工业能力有限但轻武器与后勤领域专长突出。乌克兰战后欧洲防务投资复苏，为CSG N.V.等企业（通信系统与弹药专家）带来机遇。短期：公共订单增加与洛克希德·马丁等合作。中期：向东南亚（越南、印度）出口多元化以规避西方制裁。长期：对美德技术依赖风险加剧，与匈牙利或罗马尼亚竞争加剧。关键利益相关者包括捷克国防部、工业利益集团（如ČKD）与北约，后者部分资金附带条件。",
+        "analyse_detaillee": "Cette crise s’inscrit dans une longue histoire de tensions US-Iran, aggravée par les sanctions unilatérales depuis 2018. Les enjeux économiques dominent, avec une dépendance accrue aux importations malgré les ressources pétrolières. Les causes profondes incluent la corruption endémique et la mauvaise gestion des réserves de change. À court terme, les prix alimentaires continuent de monter, poussant à la pauvreté. À moyen terme, l’économie iranienne pourrait s’effondrer sans réformes structurelles. Long terme, une transition vers une économie résiliente semble improbable sans levée des sanctions. Les États-Unis maintiennent leur pression, tandis que la Russie et la Chine soutiennent Téhéran économiquement.",
+        "analyse_en": "This crisis stems from long-standing US-Iran tensions, worsened by unilateral sanctions since 2018. Economic stakes dominate, with increased import dependence despite oil wealth. Root causes include endemic corruption and poor foreign reserve management. Short-term, food prices keep rising, pushing people into poverty. Medium-term, Iran’s economy may collapse without structural reforms. Long-term, a resilient economy transition seems unlikely without sanctions relief. The US maintains pressure, while Russia and China economically back Tehran.",
+        "analyse_zh": "这次危机源于美国与伊朗长期的紧张关系，自2018年以来单边制裁加剧了局势。经济问题占主导地位，尽管拥有石油资源，伊朗仍依赖进口。深层原因包括根深蒂固的腐败和外汇储备管理不善。短期内，食品价格继续上涨，推动民众陷入贫困。中期内，伊朗经济可能在没有结构性改革的情况下崩溃。长期来看，没有解除制裁，过渡到一个抗风险的经济体似乎不太可能。美国坚持施压，而俄罗斯和中国则在经济上支持德黑兰。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a29ab06ce92889a3",
-        "image": "https://biztoc.com/cdn/a29ab06ce92889a3_s.webp",
-        "date": "2026-09-27",
-        "pays": "russie",
+        "categorie": "Économie",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand-227966",
+        "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6acb34071265ecd727bd0f7b.jpg",
+        "date": "2026-10-11",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Industrie aérospatiale et défense",
-            "hausse": true
+            "label": "▼ Rial iranien (monnaie locale)",
+            "hausse": false
           },
           {
-            "label": "▲ Marchés des matières premières stratégiques",
-            "hausse": true
+            "label": "▼ Marché des importations (aliments, médicaments)",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Industrie aérospatiale et défense",
-            "secteur_en": "Aerospace and defense industry",
-            "secteur_zh": "航空航天与国防产业",
-            "effet_fr": "Les commandes européennes post-Ukraine pourraient faire bondir les actions de CSG N.V. et des sous-traitants locaux comme Škoda Works, spécialisés dans les systèmes de tir et les munitions.",
-            "effet_en": "Post-Ukraine European orders may drive up shares of CSG N.V. and local subcontractors like Škoda Works, specializing in firing systems and ammunition.",
-            "effet_zh": "欧洲后乌克兰订单可能推动CSG N.V.与Škoda Works（火控系统与弹药专家）股价上涨。",
-            "hausse": true
+            "secteur_fr": "Rial iranien (monnaie locale)",
+            "secteur_en": "Iranian rial (local currency)",
+            "secteur_zh": "伊朗里亚尔（本土货币）",
+            "effet_fr": "La dévaluation continue du rial aggrave l’inflation et réduit le pouvoir d’achat des Iraniens, accélérant l’exode des capitaux.",
+            "effet_en": "The rial’s continuous devaluation worsens inflation and erodes Iranian purchasing power, accelerating capital flight.",
+            "effet_zh": "里亚尔持续贬值加剧了通胀，削弱了伊朗人的购买力，加速了资本外流。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Marchés des matières premières stratégiques",
-            "secteur_en": "Strategic raw materials markets",
-            "secteur_zh": "战略性原材料市场",
-            "effet_fr": "La demande en titane et en aluminium (pour les équipements militaires) pourrait faire fluctuer les prix sur les marchés mondiaux, affectant les producteurs tchèques comme Vítkovice Group.",
-            "effet_en": "Demand for titanium and aluminum (for military equipment) may cause price fluctuations in global markets, impacting Czech producers like Vítkovice Group.",
-            "effet_zh": "军事装备对钛与铝的需求可能导致全球市场价格波动，影响维特科维斯集团等捷克生产商。",
-            "hausse": true
+            "secteur_fr": "Marché des importations (aliments, médicaments)",
+            "secteur_en": "Imports market (food, medicine)",
+            "secteur_zh": "进口市场（食品、药品）",
+            "effet_fr": "Les pénuries de produits essentiels et la hausse des coûts des importations fragilisent le secteur sanitaire et alimentaire.",
+            "effet_en": "Shortages of essential goods and rising import costs weaken the food and healthcare sectors.",
+            "effet_zh": "生活必需品短缺和进口成本上升削弱了食品和医疗保健行业。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-09-28T10:36:22.699422"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-12T07:15:07.316735"
+      },
       {
         "id": "iran_749028",
         "titre": "Sanctions pétrolières iraniennes : impact économique",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-09-28T03:45:52.973259"
-      },
-      {
-        "id": "iran_670980",
-        "titre": "Heat et Antetokounmpo en lice pour le dernier spot",
-        "titre_en": "Heat vs. Antetokounmpo for final roster spot",
-        "titre_zh": "热火与安泰托库姆博争夺最后名额",
-        "titre_ru": "В 1988 году девочка бросила бутылку в воду — через 39 лет её нашли на острове Джорджия",
-        "titre_fa": "در سال ۱۹۸۸، یک دختر ۸ ساله یک بطری را به دریا انداخت؛ ۳۹ سال بعد آن را در جزیره ساپلو ایالت جورجیا یافتند",
-        "titre_ar": "في عام 1988، ألقت فتاة بعمر ثماني سنوات زجاجة في الماء؛ بعد 39 عاماً، وجدتها على جزيرة سابيلو بولاية جورجيا",
-        "titre_original": "In 1988, an 8-year-old tossed a bottle into the water off South Carolina; 29 years later, it was recovered on Georgia’s Sapelo Island and she got the note back",
-        "resume": "Les Miami Heat ont un dernier créneau à combler dans leur effectif de 15 joueurs. Un ancien scoreur des Lakers pourrait libérer une place après avoir été coupé, tandis que Giannis Antetokounmpo reste en lice pour une place. Cette dynamique reflète les enjeux de gestion des effectifs en NBA, où chaque décision peut influencer la saison.",
-        "resume_en": "The Miami Heat have one final roster spot left in their 15-player roster. A former Lakers scorer could free up a spot after being cut, while Giannis Antetokounmpo remains in contention for a roster spot. This dynamic reflects the challenges of roster management in the NBA, where every decision can impact the season.",
-        "resume_zh": "迈阿密热火队在15人名单中还有一个空缺。一名前湖人队得分手可能在被裁后释放出一个名额，而安泰托库姆博仍在争夺名单中的一个位置。这种动态反映了NBA球队管理名单的挑战，每个决定都可能影响赛季。",
-        "resume_ru": "В октябре 2017 года волонтёры нашли бутылку 1988 года на острове Сапело с запиской от Миранды Даун Мосс. В ней она описала семейный отпуск на пляже Эдсто в возрасте восьми лет. После этого события она стала известна как «девочка с бутылочным посланием».",
-        "resume_fa": "در اکتبر ۲۰۱۷، داوطلبان یک بطری از سال ۱۹۸۸ را با یادداشت میراندا داون موس در جزیره ساپلو یافتند. در یادداشت، او سفر خانوادگی خود به ساحل ادستو در سن ۸ سالگی توصیف کرده بود. این رویداد باعث شهرت او به عنوان «دختر با نامه در بطری» شد.",
-        "resume_ar": "في أكتوبر 2017، وجد المتطوعون زجاجة من عام 1988 تحتوي على رسالة من ميراندا داون موس على جزيرة سابيلو. وصفت الرسالة رحلة عائلتها إلى شاطئ إدستو عندما كانت بعمر ثماني سنوات. أصبح هذا الحدث معروفاً باسم «فتاة الرسالة في الزجاجة».",
-        "analyse_detaillee": "Cette situation illustre les stratégies de recrutement en NBA, où les clubs doivent équilibrer expérience et potentiel. Les enjeux incluent la performance collective et la gestion des salaires, avec des joueurs comme Antetokounmpo souvent recherchés pour leur polyvalence. Les causes profondes résident dans la compétition accrue pour les talents et la nécessité de construire des équipes compétitives. À court terme, cette décision pourrait influencer les performances offensives de l’équipe. À moyen terme, elle pourrait affecter les négociations salariales et les échanges de joueurs. Long terme, cela renforce la tendance vers des rosters plus flexibles et des contrats à court terme.",
-        "analyse_en": "This situation highlights NBA roster management strategies, where teams must balance experience and potential. The stakes include team performance and salary cap management, with players like Antetokounmpo often sought for their versatility. Root causes lie in increased competition for talent and the need to build competitive teams. Short-term, this decision may impact the team’s offensive performance. Medium-term, it could affect salary negotiations and player trades. Long-term, it reinforces the trend toward more flexible rosters and short-term contracts.",
-        "analyse_zh": "这个情况展示了NBA名单管理的策略，球队需要平衡经验和潜力。主要影响包括团队表现和工资帽管理，安泰托库姆博等球员因其多功能性常被追捧。深层原因在于对球员才能的竞争加剧和构建竞争力球队的需求。短期内，这个决定可能影响球队的进攻表现。中期，它可能影响工资谈判和球员交易。长期来看，这加强了对更灵活名单和短期合同的趋势。",
-        "analyse_ru": "Контекст: История бутылочных посланий — это редкое явление, которое привлекает внимание медиа и исследователей. Причины: Случай стал символом случайных встреч и сохранения памяти о прошлом. Последствия: Миранда получила известность, а её история стала примером для изучения феномена «бутылочных писем». Перспективы: Возможно, её история будет использована в документальных фильмах или научных исследованиях. Позиции сторон: Медиа подчеркивают необычность случая, учёные анализируют его с точки зрения антропологии и истории.",
-        "analyse_fa": "زمینه: داستان نامه‌های بطری یک پدیده نادر است که توجه رسانه‌ها و پژوهشگران را به خود جلب می‌کند. علل: این اتفاق به عنوان نمادی از اتفاقات تصادفی و حفظ یادآوری از گذشته شناخته شده است. پیامدها: میراندا شهرت یافت و داستان او به عنوان نمونه‌ای برای مطالعه پدیده «نامه‌های بطری» مورد استفاده قرار گرفت. چشم‌انداز: احتمالاً داستان او در فیلم‌های مستند یا پژوهش‌های علمی مورد استفاده قرار گیرد. موضع بازیگران: رسانه‌ها به نادر بودن این اتفاق تأکید می‌کنند، در حالی که پژوهشگران آن را از منظر آنتروپولوژی و تاریخ تحلیل می‌کنند.",
-        "analyse_ar": "السياق: قصة الرسائل في الزجاجات هي ظاهرة نادرة تجذب اهتمام وسائل الإعلام والباحثين. الأسباب: أصبح هذا الحادث رمزاً للوقائع الصدفة والحفاظ على ذكرى الماضي. العواقب: حصلت ميراندا على شهرة، واستخدمت قصتها كمثال لدراسة ظاهرة «الرسائل في الزجاجات». الآفاق: قد تستخدم قصتها في أفلام وثائقية أو بحوث علمية. مواقف الأطراف: تبرز وسائل الإعلام نادرية هذا الحادث، بينما يدرس العلماءه من منظور الأنثروبولوجيا والتاريخ.",
-        "categorie": "Sports",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/us/in-1988-an-8-year-old-tossed-a-bottle-into-the-water-off-south-carolina-29-years-later-it-was-recovered-on-georgias-sapelo-island-and-her-family-got-the-note-back/articleshow/134502308.cms",
-        "image": "https://static.toiimg.com/thumb/msid-134502327,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-09-26",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché des agents libres NBA",
-            "hausse": false
-          },
-          {
-            "label": "▼ Gestion des salaires et équilibre financier",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des agents libres NBA",
-            "secteur_en": "NBA free agency market",
-            "secteur_zh": "NBA自由球员市场",
-            "effet_fr": "Les décisions de recrutement des Heat pourraient influencer la valeur des autres joueurs disponibles sur le marché des agents libres.",
-            "effet_en": "The Heat’s hiring decisions may impact the value of other available free agents in the market.",
-            "effet_zh": "热火的招募决定可能影响其他自由球员市场上的价值。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Gestion des salaires et équilibre financier",
-            "secteur_en": "Salary cap management and financial balance",
-            "secteur_zh": "工资帽管理与财务平衡",
-            "effet_fr": "Les choix de roster affectent directement le budget salarial et la capacité à signer des stars comme Antetokounmpo.",
-            "effet_en": "Roster choices directly impact the salary cap and the ability to sign stars like Antetokounmpo.",
-            "effet_zh": "名单选择直接影响工资帽和签下安泰托库姆博等明星的能力。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-27T12:46:57.876163"
       }
     ]
   },
