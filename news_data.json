@@ -1,7 +1,66 @@
 {
-  "last_updated": "11/10/2026 à 21h32",
+  "last_updated": "12/10/2026 à 01h01",
   "articles": {
     "monde": [
+      {
+        "id": "monde_98167",
+        "titre": "‘Premier Goût de la Solitude’ : étude émouvante",
+        "titre_en": "'The First Taste of Loneliness': poignant family study",
+        "titre_zh": "《孤独的第一口滋味》：感人的家庭研究",
+        "titre_ru": "‘The First Taste of Loneliness’ Review: A Sentimental but Affecting Study of Family Life After Bereavement",
+        "titre_fa": "‘The First Taste of Loneliness’ Review: A Sentimental but Affecting Study of Family Life After Bereavement",
+        "titre_ar": "‘The First Taste of Loneliness’ Review: A Sentimental but Affecting Study of Family Life After Bereavement",
+        "titre_original": "‘The First Taste of Loneliness’ Review: A Sentimental but Affecting Study of Family Life After Bereavement",
+        "resume": "Ce documentaire de Gu You explore les conséquences émotionnelles d’un deuil familial à travers le regard de trois femmes. La scène la plus poignante, bien que non la plus dramatique, révèle les fractures invisibles après une perte. L’œuvre mêle intimité et universalité, interrogeant la résilience et les silences familiaux.",
+        "resume_en": "Gu You’s documentary examines the emotional fallout of family bereavement through three women’s perspectives. The most affecting scene, though not the most tearful, exposes hidden fractures post-loss. The film blends intimacy with universal themes, questioning resilience and familial silences.",
+        "resume_zh": "顾友的纪录片通过三位女性的视角探讨家庭丧亲后的情感影响。最动人的场景并非最悲伤的，却揭示了失去后隐藏的裂痕。影片将私密与普遍主题结合，质疑韧性与家庭沉默的问题。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce film s’inscrit dans une tradition cinématographique asiatique explorant la douleur collective après des crises sociales ou familiales. Les enjeux portent sur la représentation de la vulnérabilité masculine et féminine dans les sociétés traditionnelles, où les émotions sont souvent étouffées. Les causes profondes incluent l’absence de rites funéraires adaptés et la pression sociale sur les veuves. À court terme, le documentaire pourrait renforcer les débats sur les politiques de soutien psychologique. À moyen terme, il pourrait influencer les normes culturelles autour du deuil. Long terme, une prise de conscience collective sur la santé mentale post-bérévement est envisageable. Les acteurs comme les plateformes de streaming et les associations de soutien jouent un rôle clé dans sa diffusion.",
+        "analyse_en": "This film fits into an Asian cinematic tradition examining collective grief after social or familial crises. The stakes involve portraying male and female vulnerability in traditional societies where emotions are often suppressed. Root causes include inadequate funeral rites and societal pressure on widows. Short-term, the documentary may fuel discussions on mental health support policies. Medium-term, it could reshape cultural norms around mourning. Long-term, a societal awareness of post-bereavement mental health is plausible. Actors like streaming platforms and support associations are pivotal in its dissemination.",
+        "analyse_zh": "该片属于亚洲电影传统，探讨社会或家庭危机后的集体悲痛。影片关注传统社会中男女脆弱性的呈现，情感往往被压抑。深层原因包括不适当的葬礼仪式和对寡妇的社会压力。短期内，影片可能推动心理健康支持政策的讨论。中期内，它可能改变对哀悼的文化规范。长期来看，公众对丧亲后心理健康的认识可能提升。平台和支持组织在其传播中扮演关键角色。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Culture & Société",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/reviews/the-first-taste-of-loneliness-review-1236907801/",
+        "image": "https://variety.com/wp-content/uploads/2026/10/The-First-Taste-of-Loneliness.jpg?w=1000&h=563&crop=1",
+        "date": "2026-10-11",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurances santé mentale",
+            "hausse": true
+          },
+          {
+            "label": "▲ Fonds de recherche en sociologie familiale",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurances santé mentale",
+            "secteur_en": "Mental health insurance",
+            "secteur_zh": "心理健康保险",
+            "effet_fr": "L’attention médiatique portée sur le deuil pourrait stimuler la demande en couvertures spécifiques pour thérapies post-traumatiques.",
+            "effet_en": "Media focus on grief may drive demand for trauma therapy coverage under mental health insurance.",
+            "effet_zh": "媒体关注可能推动对创伤后治疗的保险需求增长。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds de recherche en sociologie familiale",
+            "secteur_en": "Family sociology research funds",
+            "secteur_zh": "家庭社会学研究基金",
+            "effet_fr": "Les travaux documentaires pourraient inciter les institutions publiques à financer davantage d’études sur les dynamiques familiales post-crise.",
+            "effet_en": "Documentary research may prompt public institutions to fund more studies on post-crisis family dynamics.",
+            "effet_zh": "纪录片研究可能促使公共机构增加对危机后家庭动态的研究投资。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-12T01:00:31.169777"
+      },
       {
         "id": "monde_980731",
         "titre": "Colts d'Indianapolis : blessures et alignements",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-02T21:10:45.465559"
-      },
-      {
-        "id": "monde_439022",
-        "titre": "Ellison veut garder Thompson à CNN après fusion Paramount-WBD",
-        "titre_en": "Ellison seeks to retain Thompson at CNN post-PWBD merger",
-        "titre_zh": "埃利森希望合并后CNN保留汤普森",
-        "titre_ru": "Эллисон хочет оставить Томпсона CEO CNN после слияния Paramount-WBD",
-        "titre_fa": "داوید الیسون می‌خواهد مارک تامپسون به عنوان مدیر عامل CNN پس از ادغام پارامونت و وارنر برادز دیسکوری باقی بماند",
-        "titre_ar": "يريد ديفيد إليسون أن يبقى مارك تومبسون رئيسًا تنفيذيًا لـCNN بعد إغلاق صفقة بارامونت-وارنر براذرز ديسكوري",
-        "titre_original": "David Ellison Wants CEO Mark Thompson To Remain At CNN After Paramount-Warner Bros. Discovery Deal Closes",
-        "resume": "David Ellison, PDG de Paramount, souhaite que Mark Thompson reste à la tête de CNN après la fusion avec Warner Bros. Discovery. Cette décision pourrait apaiser les spéculations sur l’avenir du réseau, mais soulève des questions sur sa compatibilité avec la stratégie médiatique de WBD. Les actionnaires et les employés attendent des clarifications sur les synergies opérationnelles.",
-        "resume_en": "Paramount CEO David Ellison wants CNN’s Mark Thompson to stay after the Warner Bros. Discovery merger, easing speculation but raising questions about alignment with WBD’s media strategy. Shareholders and employees await clarity on operational synergies and potential layoffs.",
-        "resume_zh": "派拉蒙CEO大卫·埃利森希望在合并后CNN保留汤普森，缓解了对网络未来的猜测，但也引发了其是否与WBD媒体战略一致的质疑。股东和员工期待明确操作整合和可能裁员的信息。",
-        "resume_ru": "Глава Paramount Дэвид Эллисон выразил желание оставить Марка Томпсона на посту CEO CNN после завершения сделки с Warner Bros. Discovery. Это может успокоить спекуляции о будущем сети, которая переживает период нестабильности. Решение Эллисона может быть связано с желанием сохранить стабильность и опытные кадры в CNN.",
-        "resume_fa": "داوید الیسون، رئیس پارامونت، اظهار داشت که می‌خواهد مارک تامپسون را به عنوان مدیر عامل CNN پس از اتمام معامله با وارنر برادز دیسکوری حفظ کند. این می‌تواند نگرانی‌های مربوط به آینده شبکه را که در حال عدم استقرار است، کاهش دهد. تصمیم الیسون ممکن است با حفظ استقرار و تیم‌های تجربه‌دار در CNN مرتبط باشد.",
-        "resume_ar": "أعلن ديفيد إليسون، رئيس بارامونت، عن رغبته في الاحتفاظ بمارك تومبسون في منصب رئيس تنفيذي لـCNN بعد إغلاق صفقة وارنر براذرز ديسكوري. قد يهدئ هذا من التخمينات حول مستقبل الشبكة التي تمر بمرحلة عدم استقرار. قد يكون قرار إليسون مرتبطًا بحفظ الاستقرار والكادر الخبير في CNN.",
-        "analyse_detaillee": "Les fusions entre géants médiatiques (ex. : Disney-Fox en 2019) ont souvent conduit à des restructurations massives, avec des pertes d’emplois et des fermetures de chaînes. Thompson, connu pour son approche journalistique indépendante, pourrait entrer en conflit avec la ligne éditoriale plus commerciale de WBD. À court terme, cette décision pourrait stabiliser les marchés financiers en rassurant les investisseurs, mais à moyen terme, des tensions internes sont probables. Long terme, CNN pourrait être intégré dans une plateforme hybride (streaming + télé), perdant son identité distincte. Les régulateurs européens pourraient aussi examiner cette concentration pour éviter un monopole.",
-        "analyse_en": "Media giant mergers (e.g., Disney-Fox in 2019) often trigger massive layoffs and channel closures. Thompson’s independent journalistic stance may clash with WBD’s more commercial editorial line. Short-term, this decision could stabilize financial markets by reassuring investors, but mid-term internal conflicts are likely. Long-term, CNN may be absorbed into a hybrid platform (streaming + TV), losing its distinct identity. European regulators may also scrutinize this concentration to prevent monopolies.",
-        "analyse_zh": "媒体巨头合并（如2019年迪士尼收购福克斯）通常导致大规模裁员和频道关闭。汤普森以独立的新闻立场闻名，可能与WBD更商业化的编辑路线发生冲突。短期内，这一决定可能通过安抚投资者稳定金融市场，但中期内内部矛盾不可避免。长期来看，CNN可能被整合到混合平台（流媒体+电视）中，失去独特身份。欧洲监管机构也可能审查此次集中，防止垄断。",
-        "analyse_ru": "Решение Эллисона может быть стратегическим ходом для сохранения ценности CNN в условиях слияния крупных медиахолдингов. Томпсон известен своей способностью управлять сетью в периоды кризиса, что может быть важно для поддержания доверия аудитории. Однако, критики отмечают, что это решение может быть временным и зависит от дальнейших переговоров. В будущем CNN может столкнуться с необходимостью адаптации к новым условиям рынка. Также важно учитывать позиции акционеров и сотрудников сети.",
-        "analyse_fa": "این تصمیم ممکن است یک حرکت استراتژیک برای حفظ ارزش CNN در شرایط ادغام شرکت‌های رسانه‌ای بزرگ باشد. تامپسون به دلیل توانایی مدیریت شبکه در دوران بحران شناخته شده است، که ممکن است برای حفظ اعتماد مخاطبان مهم باشد. با این حال، منتقدان اشاره می‌کنند که این تصمیم ممکن است موقت باشد و وابسته به مذاکرات آینده است. در آینده، CNN ممکن است با نیاز به سازگاری با شرایط جدید بازار مواجه شود. همچنین باید موقعیت سهامداران و کارکنان شبکه را در نظر گرفت.",
-        "analyse_ar": "قد يكون قرار إليسون خطوة استراتيجية للحفاظ على قيمة CNN في ظل اندماج شركات الإعلام الكبرى. يُعرف تومبسون بقدرته على إدارة الشبكة خلال فترات الأزمات، ما قد يكون مهمًا للحفاظ على ثقة الجمهور. ومع ذلك، يلاحظ النقاد أن هذا القرار قد يكون مؤقتًا ويعتمد على المفاوضات المستقبلية. قد تواجه CNN في المستقبل الحاجة إلى التكيف مع الظروف الجديدة في السوق. أيضًا، يجب أخذ مواقف المساهمين والعاملين في الشبكة في الاعتبار.",
-        "categorie": "Économie/Médias",
-        "source": "Deadline",
-        "url": "http://deadline.com/2026/10/paramount-cnn-david-ellison-mark-thompson-1237144440/",
-        "image": "https://deadline.com/wp-content/uploads/2024/07/Mark-Thompson.jpg?w=1024",
-        "date": "2026-10-01",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Actions de Warner Bros. Discovery (WBD)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Publicité digitale sur les plateformes CNN/HBO Max",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Actions de Warner Bros. Discovery (WBD)",
-            "secteur_en": "Warner Bros. Discovery (WBD) stock",
-            "secteur_zh": "华纳兄弟发现乐（WBD）股票",
-            "effet_fr": "La stabilité annoncée autour de Thompson pourrait limiter la volatilité des actions WBD, mais les doutes persistent sur la synergie réelle avec Paramount.",
-            "effet_en": "Announced stability around Thompson may curb WBD stock volatility, but doubts remain over real synergies with Paramount.",
-            "effet_zh": "宣布的汤普森稳定性可能减少WBD股票波动，但对与派拉蒙的实际整合仍存疑问。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Publicité digitale sur les plateformes CNN/HBO Max",
-            "secteur_en": "Digital ads on CNN/HBO Max platforms",
-            "secteur_zh": "CNN/HBO Max平台上的数字广告",
-            "effet_fr": "Si Thompson reste, la crédibilité éditoriale de CNN pourrait attirer plus de budgets publicitaires premium, mais une intégration forcée dans HBO Max pourrait diluer son audience cible.",
-            "effet_en": "If Thompson stays, CNN’s editorial credibility may attract more premium ad budgets, but forced integration into HBO Max could dilute its target audience.",
-            "effet_zh": "如果汤普森留任，CNN的编辑信誉可能吸引更多高端广告预算，但强制整合到HBO Max可能稀释其目标受众。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-02T16:08:08.835555"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_228509",
+        "titre": "Justice américaine enquête sur boycott médiatique",
+        "titre_en": "US Justice Dept probes TV boycott of White House",
+        "titre_zh": "美国司法部调查电视台抵制白宫报道",
+        "titre_ru": "Justice Dept. probing TV networks over brief boycott of White House pool coverage",
+        "titre_fa": "Justice Dept. probing TV networks over brief boycott of White House pool coverage",
+        "titre_ar": "Justice Dept. probing TV networks over brief boycott of White House pool coverage",
+        "titre_original": "Justice Dept. probing TV networks over brief boycott of White House pool coverage",
+        "resume": "Le département de la Justice américain enquête sur une possible violation des lois antitrust après qu’un groupe de chaînes ait refusé de couvrir les conférences de presse de la Maison-Blanche. Cette décision, perçue comme une forme de protestation politique, soulève des questions sur la liberté de la presse et les conflits d’intérêts. Les réseaux concernés invoquent des raisons éthiques pour justifier leur boycott.",
+        "resume_en": "The US Justice Department is investigating potential antitrust violations after TV networks boycotted White House press briefings. Framed as political protest, the move raises concerns about press freedom and conflicts of interest. Networks cite ethical reasons for their boycott.",
+        "resume_zh": "美国司法部调查电视台是否违反反垄断法，因为部分网络拒绝报道白宫记者会。此举被视为政治抗议，引发对新闻自由和利益冲突的质疑。网络以伦理为由解释抵制行为。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce boycott s’inscrit dans un contexte historique de tensions entre médias et pouvoir exécutif, notamment depuis l’ère Trump où les accusations de 'fake news' ont polarisé l’opinion. Les enjeux principaux concernent la préservation de l’indépendance journalistique face aux pressions politiques et économiques. Les causes profondes incluent la désinformation systémique et la perte de confiance du public envers les institutions. À court terme, cela pourrait renforcer les régulations sur les alliances médiatique-politiques. À moyen terme, une fragmentation accrue des audiences pourrait affaiblir les chaînes traditionnelles. Long terme, une crise de légitimité des médias institutionnels est envisageable. Les acteurs comme les lobbies politiques et les plateformes numériques jouent un rôle ambigu, à la fois protecteur et exacerbateur des tensions.",
+        "analyse_en": "The boycott occurs in a historical context of media-executive tensions, particularly since the Trump era, when 'fake news' accusations polarized public opinion. Key stakes involve preserving journalistic independence from political and economic pressures. Root causes include systemic disinformation and public distrust of institutions. Short-term, this may strengthen regulations on media-political alliances. Medium-term, audience fragmentation could weaken traditional networks. Long-term, a legitimacy crisis for institutional media is possible. Actors like political lobbies and digital platforms play an ambiguous role, both protective and exacerbating tensions.",
+        "analyse_zh": "这次抵制发生在媒体与行政部门紧张关系的历史背景下，特别是自特朗普时期以来，'假新闻'指控引发了公众的分化。主要影响在于保护新闻独立性，免受政治和经济压力。深层原因包括系统性的误导和公众对机构的不信任。短期内，这可能加强对媒体-政治联盟的监管。中期内，受众分化可能削弱传统网络。长期来看，机构媒体的合法性危机可能出现。政治利益集团和数字平台在其中扮演着复杂角色。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/justice-department-probes-tv-networks-230958845.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/1e9fc4c832c35c3f43895bb9506ab8bab9b22a22c709983596b3d945035b96df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F80da18630aeecb663e141d787767549d.jpg",
+        "date": "2026-10-11",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marchés publics de diffusion audiovisuelle",
+            "hausse": false
+          },
+          {
+            "label": "▲ Fonds de défense de la liberté de presse",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marchés publics de diffusion audiovisuelle",
+            "secteur_en": "Public broadcasting licensing markets",
+            "secteur_zh": "公共广播牌照市场",
+            "effet_fr": "Les enquêtes antitrust pourraient entraîner des restrictions accrues sur les contrats de diffusion, limitant les revenus des chaînes traditionnelles.",
+            "effet_en": "Antitrust probes may lead to stricter licensing restrictions, reducing revenues for traditional networks.",
+            "effet_zh": "反垄断调查可能导致广播牌照限制加剧，减少传统网络的收入。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Fonds de défense de la liberté de presse",
+            "secteur_en": "Press freedom defense funds",
+            "secteur_zh": "新闻自由防卫基金",
+            "effet_fr": "Les litiges juridiques pourraient mobiliser davantage de ressources vers les ONG spécialisées dans la protection des journalistes indépendants.",
+            "effet_en": "Legal disputes may channel more resources into NGOs defending independent journalists.",
+            "effet_zh": "法律纠纷可能将更多资源引导到保护独立记者的NGO。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-12T01:00:31.169797"
+      },
       {
         "id": "usa_64010",
         "titre": "Trump sanctionne la CPI après Nobel",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-10-02T21:10:45.465581"
-      },
-      {
-        "id": "usa_521093",
-        "titre": "Juge Obama influe sur peine record pour attentat contre la Cour suprême",
-        "titre_en": "Obama judge hands extreme sentence for SCOTUS attack plot",
-        "titre_zh": "奥巴马法官判处针对最高法院袭击案极刑",
-        "titre_ru": "Человек с взрывчаткой на митинг у судей СКОВ получает шокирующий приговор",
-        "titre_fa": "مردی که بمب به مراسم قضات دادگاه عالی آمریکا برد، به زندان ۵ سال و ۱۰ ماه محکوم شد",
-        "titre_ar": "رجل يحمل مواد متفجرة إلى تجمع أمام قضاة المحكمة العليا الأمريكية يحكم عليه عقوبة مذهلة",
-        "titre_original": "Man Who Took Explosives to Mass for SCOTUS Justices Gets Mindboggling Sentence Thanks to Obama Judge",
-        "resume": "Louis Geri, accusé d’avoir préparé des explosifs pour attaquer la Cour suprême américaine, a écopé d’une peine de six ans et dix mois. Ce verdict, jugé disproportionné, révèle les tensions persistantes autour de la polarisation politique aux États-Unis. La décision d’un juge nommé par Obama suscite des débats sur l’équité judiciaire et la radicalisation extrémiste.",
-        "resume_en": "Louis Geri, accused of plotting explosives against the US Supreme Court, received a six-year-and-ten-month sentence, deemed excessive by critics. The verdict highlights ongoing political polarization in America and raises questions about judicial fairness and extremist radicalization. The judge’s appointment under Obama fuels debates over sentencing disparities.",
-        "resume_zh": "路易斯·杰里因策划袭击美国最高法院而被判处六年十个月的刑期，引发争议。此判决反映了美国政治极化加剧的问题，并引发对司法公平性和极端主义激进化的质疑。由奥巴马任命的法官判决进一步加剧了量刑不公的争论。",
-        "resume_ru": "Луис Джерри получил пятилетний и десятимесячный срок заключения за угрозу взорвать более ста самодельных взрывных устройств на ступенях собора Святого Матфея в Вашингтоне. Судья, назначенный при президенте Обаме, вынес приговор, вызвавший удивление общественности. Дело связано с попыткой нападения на судей Верховного суда США.",
-        "resume_fa": "لوئیس جرای به دلیل تهدید به انفجار بیش از صد بمب دستی در پله‌های کلیسای سنت متی در واشینگتن، به پنج سال و ده ماه زندان محکوم شد. این حکم توسط یک قاضی منصوب در دوران باراک اوباما صادر شد و توجهات عمومی را به خود جلب کرد. این مورد مربوط به تلاش برای حمله به قضات دادگاه عالی آمریکا است.",
-        "resume_ar": "حُكم على لويس جيري بالسجن لمدة خمس سنوات و عشر أشهر بسبب تهديده بتفجير أكثر من مئة جهاز ناسف يدوي على درجات كاتدرائية سانت ماثيو في واشنطن. أصدر قاضي من عهد أوباما الحكم الذي أثار دهشة الجمهور. يتعلق الأمر بمحاولة هجوم على قضاة المحكمة العليا الأمريكية.",
-        "analyse_detaillee": "Les attentats ciblant des symboles institutionnels aux États-Unis remontent aux années 1990 (ex. : Oklahoma City), mais leur résurgence reflète une radicalisation accrue depuis 2016. Le choix d’une cible comme la Cour suprême, souvent perçue comme politisée, illustre la fragmentation idéologique. La peine sévère pourrait décourager d’autres projets, mais elle risque aussi d’alimenter les théories du complot sur une justice biaisée. Les républicains pourraient exploiter ce cas pour critiquer les juges démocrates, tandis que les démocrates y verront une preuve de la menace terroriste domestique. À moyen terme, cela pourrait renforcer les lois antiterroristes, mais aussi les tensions raciales et politiques. Long terme, une normalisation des violences extrémistes est un scénario à craindre si aucune réforme judiciaire n’intervient.",
-        "analyse_en": "Attacks on US institutional symbols date back to the 1990s (e.g., Oklahoma City), but their resurgence since 2016 signals heightened radicalization. Targeting the Supreme Court—often seen as politicized—highlights deep ideological fragmentation. The harsh sentence may deter future plots but risks fueling conspiracy theories about biased justice. Republicans could use this case to criticize Democratic judges, while Democrats may frame it as proof of domestic terror threats. Mid-term, this could strengthen anti-terror laws but also escalate racial and political tensions. Long-term, normalization of extremist violence is a looming risk without judicial reforms.",
-        "analyse_zh": "美国针对机构象征的袭击可追溯到上世纪90年代（如俄克拉荷马城事件），但自2016年以来的复发表明极端化加剧。选择最高法院作为目标，该院常被视为政治化，反映了深层次的意识形态分裂。严厉的判决可能遏制未来的阴谋，但也可能助长对司法不公的阴谋论。共和党可能利用此案批评民主党法官，而民主党则可能将其视为国内恐怖威胁的证明。中期内，这可能加强反恐法规，但也可能加剧种族和政治紧张局势。长期来看，如果没有司法改革，极端主义暴力的正常化是一个潜在的风险。",
-        "analyse_ru": "Случай с Луисом Джерри подчеркивает растущую угрозу экстремизма и насилия в США, особенно в контексте политических противостояний. Приговор судьи, назначенного Обамой, может быть воспринят как сигнал о необходимости строгого наказания за террористические намерения. Однако критики отмечают, что длительность срока кажется избыточной для одного лишь угроза без фактического нападения. Это также вызывает вопросы о политизации правосудия в современной Америке. В будущем подобные дела могут стать тестом для новой администрации в отношении баланса между справедливостью и превентивными мерами.",
-        "analyse_fa": "این مورد نشان‌دهنده افزایش تهدیدات افراط‌گرایی و خشونت در آمریکا، به ویژه در پی درگیری‌های سیاسی است. حکم قاضی منصوب در دوران اوباما ممکن است نشان‌دهنده نیاز به مجازات سخت برای نیت‌های تروریستی باشد. اما منتقدان معتقدند که طول مدت محکومیت بیش از حد برای تنها یک تهدید بدون وقوع حمله واقعی است. این موضوع همچنین سوالاتی در مورد سیاسی شدن عدالت در آمریکا امروزی ایجاد می‌کند. در آینده، چنین مواردی ممکن است به آزمون برای دولت جدید در مورد تعادل بین عدالت و اقدامات پیشگیرانه تبدیل شوند.",
-        "analyse_ar": "حالة لويس جيري تبرز زيادة تهديدات التطرف والعنف في الولايات المتحدة، خاصة في سياق التنافس السياسي. قد يُفسر الحكم الصادر عن قاضي من عهد أوباما على أنه إشارة إلى ضرورة العقوبات القاسية على النوايا الإرهابية. ومع ذلك، يلاحظ النقاد أن مدة السجن تبدو مفرطة بالنسبة للتهديد فقط دون وقوع هجوم فعلي. هذا أيضًا يثير أسئلة حول سياسيّة العدالة في أمريكا الحديثة. في المستقبل، قد تصبح مثل هذه الحالات اختبارًا لحكومة جديدة فيما يتعلق بالتوازن بين العدالة والوقاية.",
-        "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-bloggers/4397553/posts",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-10-01",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché des assurances terrorristiques",
-            "hausse": true
-          },
-          {
-            "label": "▲ Bourse des obligations d’État américaines",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances terrorristiques",
-            "secteur_en": "Terrorism insurance market",
-            "secteur_zh": "恐怖主义保险市场",
-            "effet_fr": "Les primes pourraient augmenter en raison de la hausse des risques perçus après ce type d’attentat, poussant les assureurs à durcir leurs critères d’admission.",
-            "effet_en": "Premiums may rise due to perceived higher risks following such attacks, forcing insurers to tighten admission criteria and coverage terms.",
-            "effet_zh": "由于此类袭击事件，保险公司可能提高保费，并加严承保条件，增加恐怖主义保险的成本。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Bourse des obligations d’État américaines",
-            "secteur_en": "US Treasury bond market",
-            "secteur_zh": "美国国债市场",
-            "effet_fr": "Les investisseurs pourraient réévaluer les risques géopolitiques liés aux États-Unis, entraînant une légère hausse des rendements sur les obligations à long terme.",
-            "effet_en": "Investors may reassess US geopolitical risks, leading to a slight increase in long-term bond yields as demand for safer assets declines.",
-            "effet_zh": "投资者可能重新评估美国的地缘政治风险，导致长期国债需求下降，收益率略有上升。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-02T16:08:08.835489"
       }
     ],
     "chine": [
@@ -4951,6 +4951,65 @@
     ],
     "iran": [
       {
+        "id": "iran_749028",
+        "titre": "Sanctions pétrolières iraniennes : impact économique",
+        "titre_en": "Iran oil sanctions hit global fuel prices",
+        "titre_zh": "伊朗石油制裁冲击全球油价",
+        "titre_ru": "Bessent has a warning for anyone helping Iran sell oil",
+        "titre_fa": "Bessent has a warning for anyone helping Iran sell oil",
+        "titre_ar": "Bessent has a warning for anyone helping Iran sell oil",
+        "titre_original": "Bessent has a warning for anyone helping Iran sell oil",
+        "resume": "Les sanctions américaines contre les exportations pétrolières iraniennes ont provoqué une hausse spectaculaire des prix à la pompe aux États-Unis. Ce mécanisme, où les coûts des conflits armés se répercutent sur les consommateurs, illustre la vulnérabilité des économies dépendantes des énergies fossiles. Les prix pourraient continuer à fluctuer en fonction des tensions géopolitiques régionales.",
+        "resume_en": "US sanctions on Iranian oil exports have triggered a sharp rise in US gas prices, demonstrating how war costs trickle down to consumers. This highlights the vulnerability of fossil-fuel-dependent economies. Prices may continue fluctuating based on regional geopolitical tensions.",
+        "resume_zh": "美国对伊朗石油出口的制裁导致美国汽油价格大幅上涨，展示了战争成本如何转嫁到消费者身上。这凸显了依赖化石燃料经济的脆弱性。价格可能继续波动，取决于地区性地缘政治紧张局势。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les sanctions contre l’Iran s’inscrivent dans une stratégie américaine de pression économique pour limiter son influence régionale, notamment via son programme nucléaire. Les enjeux incluent la stabilité des chaînes d’approvisionnement énergétiques mondiales et la dépendance des pays importateurs comme la Chine ou l’Inde. Les causes profondes sont liées à la rivalité sino-américaine pour le contrôle des ressources et des marchés. À court terme, les prix de l’énergie pourraient atteindre des records historiques, affectant l’inflation et la croissance. À moyen terme, les alternatives énergétiques pourraient accélérer leur déploiement. Long terme, une réorientation des investissements vers les énergies renouvelables est probable. Les acteurs comme l’OPEP+ et les pays exportateurs de gaz (Russie, Qatar) jouent un rôle clé dans la gestion de cette crise.",
+        "analyse_en": "Sanctions on Iran are part of a US strategy to economically pressure Tehran over its regional influence, particularly regarding its nuclear program. Stakes include global energy supply chain stability and the dependence of importers like China and India. Root causes stem from Sino-US rivalry over resource and market control. Short-term, energy prices may hit record highs, impacting inflation and growth. Medium-term, renewable energy alternatives may accelerate deployment. Long-term, a shift in investments toward renewables is likely. Actors like OPEC+ and gas exporters (Russia, Qatar) play a pivotal role in crisis management.",
+        "analyse_zh": "对伊朗的制裁属于美国限制其地区影响力的经济压制策略，特别是针对其核计划。影响包括全球能源供应链稳定和进口国（如中国、印度）的依赖。深层原因在于中美争夺资源和市场的竞争。短期内，能源价格可能创下历史新高，影响通胀和增长。中期内，可再生能源替代品可能加速部署。长期来看，投资可能转向可再生能源。OPEC+和天然气出口国（俄罗斯、卡塔尔）在危机管理中扮演关键角色。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie & Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/15ee060be4d7a781",
+        "image": "https://biztoc.com/cdn/15ee060be4d7a781_s.webp",
+        "date": "2026-10-11",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier spot (NYMEX, ICE)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Fonds souverains du Golfe (Arabie Saoudite, Émirats)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier spot (NYMEX, ICE)",
+            "secteur_en": "Spot oil markets (NYMEX, ICE)",
+            "secteur_zh": "现货石油市场（NYMEX、ICE）",
+            "effet_fr": "Les tensions géopolitiques pourraient maintenir une volatilité élevée sur les contrats à terme, avec des pics de prix dépassant les 120$/baril.",
+            "effet_en": "Geopolitical tensions may sustain high volatility in futures contracts, with prices potentially exceeding $120/barrel.",
+            "effet_zh": "地缘政治紧张局势可能维持期货市场的高波动性，油价可能超过每桶120美元。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds souverains du Golfe (Arabie Saoudite, Émirats)",
+            "secteur_en": "Gulf sovereign wealth funds (Saudi Arabia, UAE)",
+            "secteur_zh": "海湾主权财富基金（沙特、阿联酋）",
+            "effet_fr": "Ces fonds pourraient augmenter leurs investissements dans les énergies renouvelables pour diversifier leurs portefeuilles face à la baisse des revenus pétroliers.",
+            "effet_en": "These funds may boost investments in renewables to diversify portfolios amid declining oil revenues.",
+            "effet_zh": "这些基金可能增加对可再生能源的投资，以多元化在石油收入下降背景下的投资组合。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-12T01:00:31.169809"
+      },
+      {
         "id": "iran_945355",
         "titre": "Houthis frappent deux aéroports saoudiens, trois morts",
         "titre_en": "Houthis strike Saudi airports, three killed",
@@ -6070,129 +6129,10 @@
           }
         ],
         "created_at": "2026-09-27T12:46:57.876163"
-      },
-      {
-        "id": "iran_180984",
-        "titre": "Téhéran propose aux États-Unis un plan pour rouvrir Hormuz en 7 jours",
-        "titre_en": "Iran offers US plan to reopen Hormuz in 7 days",
-        "titre_zh": "伊朗向美国提出7日内重启霍尔木兹海峡方案",
-        "titre_ru": "Живое покрытие войны: Тегеран предлагает США план по открытию пролива Ормуз за семь дней",
-        "titre_fa": "پوشش زنده جنگ: تهران به آمریکا طرحی برای بازکردن تنگه هرمز در هفت روز ارائه می‌دهد",
-        "titre_ar": "تغطية حية للحرب: تقدم طهران للولايات المتحدة خطة لفتح مضيق هرمز خلال سبعة أيام",
-        "titre_original": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-        "resume": "Le ministre iranien des Affaires étrangères a présenté une proposition aux États-Unis pour désengorger le détroit d’Ormuz en une semaine, soulignant que la décision finale revient à Washington. Ce geste intervient dans un contexte de tensions accrues après les attaques récentes contre des navires commerciaux. Les conséquences pourraient inclure une détente temporaire ou une nouvelle escalade si les États-Unis rejettent l’offre.",
-        "resume_en": "Iran’s foreign minister proposed a plan to clear the Hormuz Strait within seven days, stating the choice rests with the US. This move follows heightened tensions after recent attacks on commercial ships. Consequences may include temporary easing or further escalation if the US rejects the offer.",
-        "resume_zh": "伊朗外长向美国提出一个方案，在7天内清理霍尔木兹海峡，强调最终决定权在华盛顿。这一举动发生在近期商船遭到袭击后紧张局势升级之际。后果可能包括暂时缓和或如果美国拒绝提议而引发新的升级。",
-        "resume_ru": "Министр иностранных дел Ирана заявил, что выбор остаётся за США — одобрить предложенный план по открытию пролива Ормуз в течение семи дней. Иран подчеркнул, что решение зависит исключительно от американской стороны. Это предложение может быть шагом к деэскалации напряжённости в регионе.",
-        "resume_fa": "وزیر امور خارجه ایران گفت که انتخاب بر عهده آمریکا است تا طرح ارائه شده برای بازکردن تنگه هرمز در هفت روز را تأیید کند. ایران تأکید کرد که تصمیم فقط به آمریکا بستگی دارد. این پیشنهاد ممکن است گامی در جهت کاهش تنش در منطقه باشد.",
-        "resume_ar": "قال وزير الخارجية الإيراني إن الاختيار يعود إلى الولايات المتحدة لتأكيد الخطة المقدمة لفتح مضيق هرمز خلال سبعة أيام. أكد إيران أن القرار يعود بالكامل إلى الجانب الأمريكي. قد يكون هذا الاقتراح خطوة نحو تخفيف التوتر في المنطقة.",
-        "analyse_detaillee": "Ce détroit, stratégique pour 20% du commerce mondial, est au cœur des tensions depuis 2019, lorsque les États-Unis ont quitté l’accord nucléaire iranien. Les enjeux sont économiques (sécurité des routes maritimes) et géopolitiques (contrôle régional). Les causes profondes incluent les sanctions américaines et la rivalité avec l’Arabie saoudite. À court terme, cela pourrait tester la volonté américaine de négocier. À moyen terme, cela pourrait relancer les discussions sur un nouveau pacte nucléaire. Long terme, cela pourrait redéfinir l’équilibre des pouvoirs au Moyen-Orient. Les acteurs clés sont les États-Unis, l’Iran, l’UE et les pays du Golfe (notamment l’Arabie saoudite).",
-        "analyse_en": "The Hormuz Strait, critical for 20% of global trade, has been a flashpoint since 2019 when the US withdrew from Iran’s nuclear deal. The stakes involve economic (maritime route security) and geopolitical (regional control) dimensions. Deep causes include US sanctions and rivalry with Saudi Arabia. Short-term, this may test US willingness to negotiate. Medium-term, it could restart nuclear deal discussions. Long-term, it may redefine Middle East power balances. Key actors include the US, Iran, the EU, and Gulf states (especially Saudi Arabia).",
-        "analyse_zh": "霍尔木兹海峡是全球20%贸易的关键通道，自2019年美国退出伊朗核协议以来一直是紧张焦点。影响涉及经济层面（海上贸易安全）和地缘政治层面（区域控制）。深层原因包括美国制裁和与沙特阿拉伯的竞争。短期内，这可能考验美国谈判的意愿。中期内，这可能重启核协议的讨论。长期内，这可能重新定义中东的权力平衡。关键利益相关者包括美国、伊朗、欧盟和海湾国家（特别是沙特阿拉伯）。",
-        "analyse_ru": "Предложение Ирана по открытию пролива Ормуз может быть попыткой демонстрации доброй воли перед лицом растущих напряжённостей в регионе Персидского залива. Причины могут включать желание избежать новых санкций или эскалации конфликта с США. Последствия зависят от реакции Вашингтона: одобрение может привести к улучшению отношений, в то время как отказ усугубит ситуацию. Перспективы включают возможные переговоры и поиск компромисса. Позиции сторон разделились: США требуют демонстрации реальных шагов к деэскалации, в то время как Иран настаивает на соблюдении своих интересов.",
-        "analyse_fa": "پیشنهاد ایران برای بازکردن تنگه هرمز ممکن است تلاشی برای نشان دادن نیت خوب در مقابل افزایش تنش در منطقه خلیج فارس باشد. علل ممکن است شامل جلوگیری از تحریم‌های جدید یا تشدید درگیری با آمریکا باشد. پیامدهای این پیشنهاد بستگی به واکنش واشنگتن دارد: تأیید ممکن است به بهبود روابط منجر شود، در حالی که رد آن وضعیت را بدتر می‌کند. چشم‌انداز شامل مذاکرات احتمالی و جستجوی تعهدات مشترک است. موضع طرفین تقسیم شده است: آمریکا از اقدامات واقعی برای کاهش تنش می‌خواهد، در حالی که ایران بر رعایت منافع خود تأکید دارد.",
-        "analyse_ar": "قد يكون اقتراح إيران لفتح مضيق هرمز محاولة لإظهار حسن النية أمام ارتفاع التوتر في منطقة الخليج العربي. قد تشمل الأسباب الرغبة في تجنب العقوبات الجديدة أو تفاقم الصراع مع الولايات المتحدة. ستعتمد العواقب على رد فعل واشنطن: قد يؤدي الموافقة إلى تحسين العلاقات، بينما قد يزداد التوتر في حال الرفض. الآفاق تشمل محادثات محتملة و البحث عن تعاون مشترك. مواقف الأطراف متضاربة: حيث تطلب الولايات المتحدة اتخاذ خطوات حقيقية لتخفيف التوتر، بينما يصر إيران على احترام مصالحه.",
-        "categorie": "Géopolitique",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26250403856787-1790375983.jpg?resize=1920%2C1440",
-        "date": "2026-09-26",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché des assurances maritimes (P&I Clubs)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Bourse des matières premières pétrolières (Brent, WTI)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances maritimes (P&I Clubs)",
-            "secteur_en": "Maritime insurance market (P&I Clubs)",
-            "secteur_zh": "海运保险市场（P&I俱乐部）",
-            "effet_fr": "Les primes pourraient baisser si le détroit est sécurisé, mais une nouvelle escalade pourrait relancer les coûts d’assurance pour les navires commerciaux.",
-            "effet_en": "Premiums may drop if the strait is secured, but further escalation could reignite insurance costs for commercial ships.",
-            "effet_zh": "如果海峡得到保障，保费可能下降，但新的升级可能再次推高商船的保险成本。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Bourse des matières premières pétrolières (Brent, WTI)",
-            "secteur_en": "Oil commodities market (Brent, WTI)",
-            "secteur_zh": "石油大宗商品市场（布伦特、WTI）",
-            "effet_fr": "Une détente pourrait stabiliser les prix, tandis qu’une crise prolongée pourrait faire monter les cours en raison des perturbations d’approvisionnement.",
-            "effet_en": "Easing tensions may stabilize prices, while prolonged crisis could drive them up due to supply disruptions.",
-            "effet_zh": "缓和局势可能稳定价格，而持续危机可能因供应中断而推高价格。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-09-27T00:15:53.673008"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_env_477413",
-      "titre": "Pesticides : lien présumé avec trois cancers",
-      "titre_en": "Pesticides linked to three cancers",
-      "titre_zh": "农药与三种癌症存在强相关性",
-      "titre_ru": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
-      "titre_fa": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
-      "titre_ar": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
-      "titre_original": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
-      "resume": "Luc Multigner, épidémiologiste à l’Inserm, confirme un lien de présomption entre l’exposition aux pesticides et trois types de cancers (lymphome non hodgkinien, leucémie et mélanome). Ses travaux soulignent l’urgence de renforcer les régulations sanitaires et les études épidémiologiques. L’expert appelle à une approche préventive plus stricte face aux risques avérés pour les agriculteurs et les populations exposées.",
-      "resume_en": "Luc Multigner, an epidemiologist at Inserm, confirms a strong presumptive link between pesticide exposure and three types of cancer (non-Hodgkin lymphoma, leukemia, and melanoma). His research highlights the need for stricter health regulations and epidemiological studies. The expert urges a more preventive approach given the proven risks for farmers and exposed populations.",
-      "resume_zh": "法国国家卫生与医学研究院（Inserm）流行病学家吕克·穆尔尼格确认农药暴露与三种癌症（非霍奇金淋巴瘤、白血病和黑色素瘤）存在强相关性。其研究强调加强卫生法规和流行病学研究的紧迫性。专家呼吁采取更严格的预防措施，应对农民和暴露人群面临的已知风险。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Depuis les années 1980, les études épidémiologiques ont progressivement établi des corrélations entre pesticides et maladies chroniques, mais les preuves scientifiques restent parfois controversées. Les enjeux actuels tournent autour de la protection des travailleurs agricoles, souvent les plus exposés, et de la transparence des données industrielles. Les causes profondes incluent un modèle agricole intensif, des seuils de tolérance jugés trop laxistes et un manque de coordination européenne. À court terme, ces révélations pourraient accélérer les plaintes judiciaires et les restrictions commerciales sur certains produits. À moyen terme, l’UE pourrait durcir ses normes, impactant les coûts de production pour les agriculteurs. À long terme, une transition vers l’agroécologie semble inévitable, mais son adoption dépendra des lobbies et des politiques publiques. Les associations environnementales soutiennent ces conclusions, tandis que l’industrie agrochimique minimise les risques et insiste sur les bénéfices économiques de son secteur.",
-      "analyse_en": "Since the 1980s, epidemiological studies have gradually linked pesticides to chronic diseases, though scientific evidence remains sometimes contested. Current stakes revolve around protecting agricultural workers, often the most exposed, and ensuring industrial data transparency. Deep-rooted causes include an intensive farming model, overly lenient tolerance thresholds, and lack of EU coordination. Short-term, these findings may speed up lawsuits and trade restrictions on certain products. Medium-term, the EU could tighten regulations, increasing production costs for farmers. Long-term, a shift toward agroecology seems inevitable, but its adoption hinges on lobbying and public policies. Environmental groups back these conclusions, while the agrochemical industry downplays risks and emphasizes economic benefits.",
-      "analyse_zh": "自上世纪80年代起，流行病学研究逐渐揭示农药与慢性疾病的关联，但科学证据有时仍存在争议。当前的关键问题围绕保护农业工人（通常暴露风险最高）和工业数据透明度展开。深层原因包括依赖高强度农业模式、容忍阈值过于宽松以及欧盟缺乏协调。短期内，这些发现可能加速法律诉讼和对某些产品的贸易限制。中期内，欧盟可能加严法规，提高农民的生产成本。长期来看，向生态农业转型似乎势在必行，但其实施取决于行业利益集团和公共政策。环保组织支持这些结论，而农药行业则轻描淡写风险，强调其经济利益。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement/Santé publique",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/sante/2026/10/10/un-lien-de-presomption-fort-pour-trois-cancers-quels-effets-des-pesticides-sur-la-sante",
-      "image": "https://cdn-s-www.ledauphine.com/images/6A3D9150-917C-441C-AC9F-DF4F6A4DAF40/FB1200/photo-1791536621.jpg",
-      "date": "2026-10-10",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance agricole et responsabilité civile",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des biotechnologies vertes",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance agricole et responsabilité civile",
-          "secteur_en": "Agricultural insurance and civil liability",
-          "secteur_zh": "农业保险和民事责任保险",
-          "effet_fr": "Les révélations sur les risques cancérigènes pourraient entraîner une hausse des primes d’assurance pour les exploitants agricoles et les coopératives, en raison de l’augmentation des risques juridiques et sanitaires couverts.",
-          "effet_en": "Disclosures about carcinogenic risks may lead to higher premiums for agricultural insurers and cooperatives due to increased legal and health-related coverage risks.",
-          "effet_zh": "癌症风险曝光可能导致农业保险费用上涨，因为农民和合作社面临更高的法律和健康赔偿风险。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des biotechnologies vertes",
-          "secteur_en": "Green biotechnology market",
-          "secteur_zh": "绿色生物技术市场",
-          "effet_fr": "La pression réglementaire accrue pourrait accélérer la demande pour des alternatives biologiques aux pesticides chimiques, dynamisant ainsi les investissements dans les solutions durables comme les bio-pesticides ou les méthodes de lutte intégrée.",
-          "effet_en": "Increased regulatory pressure may boost demand for biological alternatives to chemical pesticides, driving investments in sustainable solutions such as bio-pesticides or integrated pest management.",
-          "effet_zh": "更严格的监管可能加速对生物农药和集成病虫害管理等可持续解决方案的需求，推动绿色生物技术市场发展。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-11T21:32:06.441803",
-      "sous_categorie": "environnement"
-    },
     {
       "id": "pol_femmes_367735",
       "titre": "Série de féminicides à Ekurhuleni suscite peur et enquête",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-09-27T00:16:34.173832",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_477413",
+      "titre": "Pesticides : lien présumé avec trois cancers",
+      "titre_en": "Pesticides linked to three cancers",
+      "titre_zh": "农药与三种癌症存在强相关性",
+      "titre_ru": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
+      "titre_fa": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
+      "titre_ar": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
+      "titre_original": "Interview. « Un lien de présomption fort pour trois cancers » : quels effets des pesticides sur la santé ?",
+      "resume": "Luc Multigner, épidémiologiste à l’Inserm, confirme un lien de présomption entre l’exposition aux pesticides et trois types de cancers (lymphome non hodgkinien, leucémie et mélanome). Ses travaux soulignent l’urgence de renforcer les régulations sanitaires et les études épidémiologiques. L’expert appelle à une approche préventive plus stricte face aux risques avérés pour les agriculteurs et les populations exposées.",
+      "resume_en": "Luc Multigner, an epidemiologist at Inserm, confirms a strong presumptive link between pesticide exposure and three types of cancer (non-Hodgkin lymphoma, leukemia, and melanoma). His research highlights the need for stricter health regulations and epidemiological studies. The expert urges a more preventive approach given the proven risks for farmers and exposed populations.",
+      "resume_zh": "法国国家卫生与医学研究院（Inserm）流行病学家吕克·穆尔尼格确认农药暴露与三种癌症（非霍奇金淋巴瘤、白血病和黑色素瘤）存在强相关性。其研究强调加强卫生法规和流行病学研究的紧迫性。专家呼吁采取更严格的预防措施，应对农民和暴露人群面临的已知风险。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Depuis les années 1980, les études épidémiologiques ont progressivement établi des corrélations entre pesticides et maladies chroniques, mais les preuves scientifiques restent parfois controversées. Les enjeux actuels tournent autour de la protection des travailleurs agricoles, souvent les plus exposés, et de la transparence des données industrielles. Les causes profondes incluent un modèle agricole intensif, des seuils de tolérance jugés trop laxistes et un manque de coordination européenne. À court terme, ces révélations pourraient accélérer les plaintes judiciaires et les restrictions commerciales sur certains produits. À moyen terme, l’UE pourrait durcir ses normes, impactant les coûts de production pour les agriculteurs. À long terme, une transition vers l’agroécologie semble inévitable, mais son adoption dépendra des lobbies et des politiques publiques. Les associations environnementales soutiennent ces conclusions, tandis que l’industrie agrochimique minimise les risques et insiste sur les bénéfices économiques de son secteur.",
+      "analyse_en": "Since the 1980s, epidemiological studies have gradually linked pesticides to chronic diseases, though scientific evidence remains sometimes contested. Current stakes revolve around protecting agricultural workers, often the most exposed, and ensuring industrial data transparency. Deep-rooted causes include an intensive farming model, overly lenient tolerance thresholds, and lack of EU coordination. Short-term, these findings may speed up lawsuits and trade restrictions on certain products. Medium-term, the EU could tighten regulations, increasing production costs for farmers. Long-term, a shift toward agroecology seems inevitable, but its adoption hinges on lobbying and public policies. Environmental groups back these conclusions, while the agrochemical industry downplays risks and emphasizes economic benefits.",
+      "analyse_zh": "自上世纪80年代起，流行病学研究逐渐揭示农药与慢性疾病的关联，但科学证据有时仍存在争议。当前的关键问题围绕保护农业工人（通常暴露风险最高）和工业数据透明度展开。深层原因包括依赖高强度农业模式、容忍阈值过于宽松以及欧盟缺乏协调。短期内，这些发现可能加速法律诉讼和对某些产品的贸易限制。中期内，欧盟可能加严法规，提高农民的生产成本。长期来看，向生态农业转型似乎势在必行，但其实施取决于行业利益集团和公共政策。环保组织支持这些结论，而农药行业则轻描淡写风险，强调其经济利益。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement/Santé publique",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/sante/2026/10/10/un-lien-de-presomption-fort-pour-trois-cancers-quels-effets-des-pesticides-sur-la-sante",
+      "image": "https://cdn-s-www.ledauphine.com/images/6A3D9150-917C-441C-AC9F-DF4F6A4DAF40/FB1200/photo-1791536621.jpg",
+      "date": "2026-10-10",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et responsabilité civile",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des biotechnologies vertes",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et responsabilité civile",
+          "secteur_en": "Agricultural insurance and civil liability",
+          "secteur_zh": "农业保险和民事责任保险",
+          "effet_fr": "Les révélations sur les risques cancérigènes pourraient entraîner une hausse des primes d’assurance pour les exploitants agricoles et les coopératives, en raison de l’augmentation des risques juridiques et sanitaires couverts.",
+          "effet_en": "Disclosures about carcinogenic risks may lead to higher premiums for agricultural insurers and cooperatives due to increased legal and health-related coverage risks.",
+          "effet_zh": "癌症风险曝光可能导致农业保险费用上涨，因为农民和合作社面临更高的法律和健康赔偿风险。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des biotechnologies vertes",
+          "secteur_en": "Green biotechnology market",
+          "secteur_zh": "绿色生物技术市场",
+          "effet_fr": "La pression réglementaire accrue pourrait accélérer la demande pour des alternatives biologiques aux pesticides chimiques, dynamisant ainsi les investissements dans les solutions durables comme les bio-pesticides ou les méthodes de lutte intégrée.",
+          "effet_en": "Increased regulatory pressure may boost demand for biological alternatives to chemical pesticides, driving investments in sustainable solutions such as bio-pesticides or integrated pest management.",
+          "effet_zh": "更严格的监管可能加速对生物农药和集成病虫害管理等可持续解决方案的需求，推动绿色生物技术市场发展。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-11T21:32:06.441803",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_912229",
