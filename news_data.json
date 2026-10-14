@@ -1,5 +1,5 @@
 {
-  "last_updated": "13/10/2026 à 21h01",
+  "last_updated": "14/10/2026 à 00h17",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,66 @@
   },
   "politique": [
     {
+      "id": "pol_env_252895",
+      "titre": "Pesticides : l’UE supprime réévaluations",
+      "titre_en": "EU scraps pesticide re-evaluations",
+      "titre_zh": "欧盟废除农药重新评估",
+      "titre_ru": "Des pesticides autorisés à vie ? Au Parlement européen, la droite et l’extrême droite s’apprêtent à brader notre santé",
+      "titre_fa": "Des pesticides autorisés à vie ? Au Parlement européen, la droite et l’extrême droite s’apprêtent à brader notre santé",
+      "titre_ar": "Des pesticides autorisés à vie ? Au Parlement européen, la droite et l’extrême droite s’apprêtent à brader notre santé",
+      "titre_original": "Des pesticides autorisés à vie ? Au Parlement européen, la droite et l’extrême droite s’apprêtent à brader notre santé",
+      "resume": "Le projet Omnibus X de la Commission européenne vise à supprimer toute réévaluation des pesticides déjà autorisés, sous pression des partis de droite et d’extrême droite. Cette mesure, soutenue par les lobbies agrochimiques, pourrait prolonger indéfiniment l’usage de substances controversées. Les députés européens comme Pascal Arimont (Renew) dénoncent un risque sanitaire et environnemental majeur.",
+      "resume_en": "The EU’s Omnibus X proposal aims to remove all re-evaluations of existing pesticides, backed by right-wing and far-right parties. This move, pushed by agrochemical lobbyists, could indefinitely extend the use of controversial substances. MEP Pascal Arimont (Renew) warns of severe health and environmental risks.",
+      "resume_zh": "欧盟Omnibus X提案旨在废除现有农药的重新评估，得到右翼和极右翼政党支持。这一举措由农化行业游说集团推动，可能无限期延长有争议农药的使用。欧盟议员帕斯卡·阿里蒙特（Renew）警告称，这将带来严重的健康和环境风险。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Depuis les années 1990, l’UE a progressivement renforcé ses règles sur les pesticides, avec des évaluations scientifiques régulières pour limiter les risques. Le paquet Omnibus X s’inscrit dans une tendance plus large de flexibilisation des normes environnementales, accélérée par la crise climatique et les pressions économiques. Les causes profondes incluent l’influence des lobbies agro-industriels et une fragmentation politique au Parlement européen. À court terme, cette décision pourrait relancer l’usage de molécules comme le glyphosate, déjà controversé. À moyen terme, elle affaiblirait la crédibilité de l’UE sur les enjeux sanitaires, tout en aggravant la pollution des sols et des nappes phréatiques. À long terme, les États membres pourraient être contraints de légiférer séparément, créant un marché fragmenté. Les partis de droite justifient cette mesure par des arguments économiques, tandis que les écologistes et la gauche y voient une trahison des engagements climatiques.",
+      "analyse_en": "Since the 1990s, the EU has gradually tightened pesticide regulations with regular scientific re-evaluations to mitigate risks. Omnibus X reflects broader trends in relaxing environmental standards, driven by climate crises and economic pressures. Root causes include agro-industry lobbying and political fragmentation in the European Parliament. Short-term, this could revive controversial substances like glyphosate. Medium-term, it would undermine EU credibility on health issues while worsening soil and groundwater pollution. Long-term, member states might legislate independently, creating a fragmented market. Right-wing parties justify this economically, while greens and left-wing groups see it as a betrayal of climate commitments.",
+      "analyse_zh": "自1990年代以来，欧盟逐步加强了农药管理规则，通过定期科学评估来减少风险。Omnibus X提案反映了在气候危机和经济压力下放宽环保标准的趋势。深层原因包括农业化工行业游说和欧盟议会政治分裂。短期内，这一决定可能复活如草甘膦等有争议的农药使用。中期内，它将削弱欧盟在健康问题上的信誉，并加剧土壤和地下水污染。长期来看，成员国可能单独立法，导致市场分裂。右翼政党从经济角度辩护，而绿党和左翼则认为这是对气候承诺的背叛。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "L'Obs",
+      "url": "https://www.nouvelobs.com/tribunes/20261010.OBS119078/des-pesticides-autorises-a-vie-au-parlement-europeen-la-droite-et-l-extreme-droite-s-appretent-a-brader-notre-sante.html",
+      "image": "https://focus.nouvelobs.com/2026/10/06/0/290/3966/2644/1200/800/0/0/c9327f9_upload-1-kr2hnr2fgfu1-080-hl-mthomasset-3106638.jpg",
+      "date": "2026-10-10",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et responsabilité civile",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des biotechnologies vertes",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et responsabilité civile",
+          "secteur_en": "Agricultural insurance and civil liability",
+          "secteur_zh": "农业保险和民事责任保险",
+          "effet_fr": "Les assureurs pourraient voir augmenter leurs coûts liés aux litiges sanitaires et environnementaux, avec des primes plus élevées pour les exploitants agricoles.",
+          "effet_en": "Insurers may face higher costs from health and environmental lawsuits, leading to increased premiums for farmers.",
+          "effet_zh": "保险公司可能面临更高的健康和环境索赔成本，导致农民保费上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des biotechnologies vertes",
+          "secteur_en": "Green biotechnology market",
+          "secteur_zh": "绿色生物技术市场",
+          "effet_fr": "Ce secteur pourrait perdre en attractivité face à une régulation moins stricte, réduisant les investissements dans des alternatives durables aux pesticides chimiques.",
+          "effet_en": "This sector may lose appeal due to relaxed regulations, reducing investments in sustainable alternatives to chemical pesticides.",
+          "effet_zh": "该行业可能因规则放宽而失去吸引力，减少对化学农药可持续替代品的投资。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-14T00:17:26.272583",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_367735",
       "titre": "Série de féminicides à Ekurhuleni suscite peur et enquête",
       "titre_en": "Series of femicides in Ekurhuleni sparks fear and investigation",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-10-11T11:14:43.384178",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_487132",
-      "titre": "Seb accusée de négligence sur PFAS",
-      "titre_en": "Seb accused of PFAS negligence",
-      "titre_zh": "塞布被指PFAS忽视责任",
-      "titre_ru": "Ассоциации обвиняют Seb в нарушении закона по PFAS в сковородах Tefal",
-      "titre_fa": "شکنجه شرکت سب به دلیل عدم رعایت قوانین در مورد آلاینده‌های PFAS در قلیان‌های تفل",
-      "titre_ar": "تضارب معظمات ضد شركة سب بسبب عدم الالتزام بقوانين المواد الدائمة التلوثية في مقلاع تفل",
-      "titre_original": "Industrie. PFAS et produits Tefal : des associations mettent en demeure Seb de respecter ses obligations légales",
-      "resume": "Trois associations environnementales ont assigné Seb en justice pour non-respect du devoir de vigilance concernant les PFAS, des polluants persistants présents dans certaines poêles Tefal. Elles dénoncent un manque de transparence et une exposition inutile des consommateurs à ces substances toxiques. Cette affaire s’inscrit dans un contexte de pression croissante sur les entreprises pour leur responsabilité écologique.",
-      "resume_en": "Three environmental groups have sued Seb for failing to comply with its duty of vigilance regarding PFAS, persistent pollutants found in some Tefal pans. They accuse the company of lack of transparency and unnecessary consumer exposure to toxic substances. This case reflects growing pressure on corporations to take ecological responsibility.",
-      "resume_zh": "三个环保组织起诉塞布公司，指控其未履行对PFAS（永久性污染物）的监管义务，这些污染物存在于Tefal品牌的某些煎锅中。它们指责公司缺乏透明度，并导致消费者不必要暴露于有毒物质。此案反映了对企业生态责任的日益严格要求。",
-      "resume_ru": "Три экологические организации обвинили компанию Seb в неисполнении обязанностей по закону о «девере надзора» при использовании «вечных загрязнителей» (PFAS) в некоторых сковородах бренда Tefal. Они утверждают, что производитель не предпринимает достаточных мер для контроля и устранения вредных веществ. Дело касается потенциального риска для здоровья потребителей и окружающей среды.",
-      "resume_fa": "سه سازمان محیط‌زیستی شرکت سب را به عدم اجرای وظایف قانونی خود در مورد استفاده از آلاینده‌های «همیشه‌زیست» (PFAS) در برخی قلیان‌های برند تفل متهم کردند. آنها ادعا می‌کنند که تولیدکننده اقدامات کافی برای کنترل و حذف این مواد خطرناک انجام نداده است. این موضوع مربوط به خطر بالقوه برای سلامت مصرف‌کنندگان و محیط زیست است.",
-      "resume_ar": "تتهمت ثلاث منظمات بيئية شركة سب بعدم تنفيذ التزاماتها القانونية فيما يتعلق باستخدام «الملوثات الدائمة» (PFAS) في بعض المقلاع من علامة تجارية تفل. يقولون إن الشركة المنتجة لم تتخذ إجراءات كافية لمراقبة وإزالة هذه المواد الخطرة. هذا الأمر يتعلق بالمخاطر المحتملة على صحة المستهلكين والبيئة.",
-      "analyse_detaillee": "Les PFAS, surnommés « polluants éternels », sont des substances chimiques persistantes depuis les années 1950, utilisées pour leurs propriétés antiadhésives et résistantes à la chaleur. Leur dangerosité, liée à des risques cancérigènes et endocriniens, a été documentée depuis les années 2000, poussant l’UE à les réguler progressivement. Seb, leader mondial des ustensiles de cuisine, est pointé du doigt pour son retard dans le retrait de ces produits, malgré des alertes répétées. À court terme, cette affaire pourrait entraîner des amendes salées et une perte de confiance des consommateurs, déjà fragilisée par des scandales similaires (comme le cas du PFOA). À moyen terme, les associations pourraient obtenir des mesures correctives, tandis que Seb devra réorganiser sa R&D pour des alternatives durables. Long terme, cette pression pourrait accélérer une réglementation européenne plus stricte sur les substances chimiques dans les produits grand public. Les associations, comme Greenpeace ou les Amis de la Terre, jouent un rôle clé en mobilisant l’opinion publique et en forçant les États à agir, tandis que Seb tente de se défendre en invoquant des coûts de transition élevés.",
-      "analyse_en": "PFAS, nicknamed 'forever pollutants,' are persistent chemicals since the 1950s, used for their non-stick and heat-resistant properties. Their carcinogenic and endocrine-disrupting risks have been documented since the 2000s, prompting the EU to gradually regulate them. Seb, a global leader in kitchenware, is criticized for its delay in removing these products despite repeated warnings. Short-term, this case could lead to hefty fines and loss of consumer trust, already weakened by similar scandals (like the PFOA case). In the medium term, associations may secure corrective measures, while Seb will need to reorganize its R&D for sustainable alternatives. Long-term, this pressure could accelerate stricter EU regulations on chemicals in consumer products. Environmental groups like Greenpeace or Friends of the Earth play a crucial role in mobilizing public opinion and pushing governments to act, while Seb defends itself by citing high transition costs.",
-      "analyse_zh": "PFAS（永久性污染物）自20世纪50年代以来被广泛使用，因其防粘和耐高温特性，广泛应用于厨具中。其致癌和内分泌干扰风险在2000年后被证实，欧盟逐步加强监管。塞布作为全球厨具领导者，因延迟撤回含PFAS产品而受到批评，尽管多次警告。短期内，此案可能导致巨额罚款和消费者信任下降，类似PFOA事件已造成类似影响。中期内，环保组织可能强制实施补救措施，而塞布需要重组研发以寻找可持续替代品。长期来看，这种压力可能加速欧盟对消费品化学物质的更严格监管。环保组织如绿色和平或地球之友通过公众动员推动政府行动，而塞布则以过渡成本高为由辩护。",
-      "analyse_ru": "Контекст: PFAS (вечные загрязнители) широко используются в антипригарных покрытиях, но их токсичность и накопление в организме вызывают озабоченность у экспертов. Причины: Seb, как владелец Tefal, не предоставил достаточной информации о замене PFAS на безопасные альтернативы, несмотря на международные стандарты. Последствия: возможные штрафы, судебные иски и ущерб репутации компании. Перспективы: регуляторы могут ужесточить контроль, а потребители могут требовать компенсаций. Позиции сторон: Seb заявляет о соблюдении норм, в то время как активисты настаивают на незамедлительных действиях.",
-      "analyse_fa": "زمینه: آلاینده‌های PFAS در پوشش‌های ضدچسب به‌طور گسترده‌ای استفاده می‌شوند، اما سمیت و تجمع این مواد در بدن نگرانی‌های متخصصان را برانگیخته است. علل: شرکت سب، به‌عنوان مالک برند تفل، اطلاعات کافی دربارهٔ جایگزینی PFAS با مواد ایمن را ارائه نداد، در حالی که استانداردهای بین‌المللی وجود دارد. پیامدها: خطر جریمه‌ها، دعاوی قضایی و آسیب به نام تجاری شرکت. چشم‌انداز: تنظیم‌کنندگان ممکن است کنترل را تشدید کنند و مصرف‌کنندگان ممکن است از جبران خسارت بخواهند. موضع بازیگران: سب ادعا می‌کند که از مقررات پیروی می‌کند، در حالی که فعالان بر اقدامات فوری تأکید دارند.",
-      "analyse_ar": "السياق: المواد الدائمة التلوثية (PFAS) تستخدم على نطاق واسع في غشائيات غير اللاصقة، لكن سميتها وتجمعها في الجسم يثيران قلق الخبراء. الأسباب: شركة سب، كمالك علامة تجارية تفل، لم تقدم معلومات كافية حول استبدال PFAS بالمواد الآمنة، رغم وجود معايير دولية. العواقب: خطر غرامات وقضايا قانونية وإضرار بسمعة الشركة. الآفاق: قد يشدّد التنظيمون على الرقابة، بينما قد تطالب المستهلكون بالتعويضات. مواقف الأطراف: شركه سب تدعي الامتثال للقوانين، بينما يصرّ النشطاء على اتخاذ إجراءات فورية.",
-      "categorie": "Environnement",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/economie/2026/10/09/pfas-et-produits-tefal-des-associations-mettent-en-demeure-seb-de-respecter-ses-obligations-legales",
-      "image": "https://cdn-s-www.ledauphine.com/images/57DC870A-14A0-4BD6-806E-D62F1FCD3C82/FB1200/photo-1791520769.jpg",
-      "date": "2026-10-09",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile des entreprises",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des alternatives écologiques",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile des entreprises",
-          "secteur_en": "Corporate liability insurance sector",
-          "secteur_zh": "企业责任保险行业",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des risques juridiques liés aux polluants chimiques, poussant les assureurs à réévaluer leurs modèles de couverture.",
-          "effet_en": "Premiums may rise due to increased legal risks from chemical pollutants, forcing insurers to reassess their coverage models.",
-          "effet_zh": "由于化学污染物带来的法律风险增加，保险费可能上涨，迫使保险公司重新评估其保障模式。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des alternatives écologiques",
-          "secteur_en": "Sustainable alternatives market",
-          "secteur_zh": "可持续替代品市场",
-          "effet_fr": "La demande en produits sans PFAS pourrait stimuler l’innovation et la croissance de ce secteur, avec des acteurs comme les startups spécialisées en matériaux biosourcés.",
-          "effet_en": "Demand for PFAS-free products may drive innovation and growth in this sector, with players like bio-based material startups benefiting.",
-          "effet_zh": "无PFAS产品的需求可能推动该行业创新和增长，生物基材料初创公司将受益。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-11T04:07:32.970196",
       "sous_categorie": "environnement"
     }
   ]
