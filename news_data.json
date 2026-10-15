@@ -1,5 +1,5 @@
 {
-  "last_updated": "15/10/2026 à 08h54",
+  "last_updated": "15/10/2026 à 13h59",
   "articles": {
     "monde": [
       {
@@ -6134,66 +6134,6 @@
   },
   "politique": [
     {
-      "id": "pol_env_101090",
-      "titre": "SEDIF modernise filtres contre polluants",
-      "titre_en": "SEDIF upgrades filters for pollutants",
-      "titre_zh": "SEDIF升级过滤器应对污染物",
-      "titre_ru": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "titre_fa": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "titre_ar": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "titre_original": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "resume": "Le Syndicat des Eaux d’Ile-de-France (SEDIF) installe une nouvelle génération de filtres pour éliminer pesticides, PFAS et résidus de médicaments, échappant aux traitements classiques. Cette innovation répond à une dégradation croissante de la qualité de l’eau potable en région parisienne. Les investissements visent à sécuriser l’approvisionnement face aux pressions environnementales et sanitaires.",
-      "resume_en": "The Syndicat des Eaux d’Ile-de-France (SEDIF) is deploying advanced filtration systems to remove pesticides, PFAS, and pharmaceutical residues that evade traditional treatments. This initiative addresses worsening water quality in the Paris region amid rising environmental and health concerns. The upgrades aim to ensure safe drinking water supply despite growing pollution pressures.",
-      "resume_zh": "法国伊尔-德-弗朗斯水务联盟（SEDIF）安装新一代过滤器，以去除农药、PFAS和药物残留等传统处理难以清除的污染物。此举应对巴黎地区日益恶化的饮用水质量问题，并针对环境和卫生压力加大投资。升级旨在确保饮用水安全供应，尽管污染形势严峻。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Depuis les années 1990, la pollution des nappes phréatiques par les pesticides et micropolluants s’est aggravée en Île-de-France, poussant les acteurs publics à innover. Les enjeux sont sanitaires (risques cancérigènes des PFAS) et économiques (coûts sanitaires liés à l’eau contaminée). Les causes profondes incluent l’agriculture intensive et l’urbanisation croissante, aggravées par des normes de traitement obsolètes. À court terme, cette modernisation réduira les risques de contamination, mais à moyen terme, elle pourrait inciter d’autres régions à suivre l’exemple. À long terme, cela pourrait relancer le débat sur la responsabilité des industriels et des agriculteurs. Les collectivités locales, comme le SEDIF, jouent un rôle clé, tandis que l’État doit clarifier les financements et les régulations. Les associations environnementales saluent cette avancée, mais appellent à une régulation plus stricte des polluants.",
-      "analyse_en": "Since the 1990s, groundwater pollution by pesticides and micropollutants has worsened in Île-de-France, prompting public actors to innovate. The stakes are health-related (carcinogenic risks from PFAS) and economic (healthcare costs from contaminated water). Root causes include intensive agriculture and urban sprawl, exacerbated by outdated treatment standards. Short-term, this upgrade will lower contamination risks, but medium-term, it may prompt other regions to adopt similar measures. Long-term, it could reignite debates on industrial and agricultural accountability. Local authorities like SEDIF are pivotal, while the state must clarify funding and regulations. Environmental groups welcome the progress but demand stricter pollutant controls.",
-      "analyse_zh": "自上世纪90年代以来，法国伊尔-德-弗朗斯地区地下水受农药和微污染物污染日益严重，迫使公共部门创新应对。主要影响涉及健康风险（PFAS致癌风险）和经济成本（受污染水带来的医疗费用）。深层原因包括集约化农业和城市扩张，加上过时的处理标准。短期内，升级将降低污染风险，但中期可能推动其他地区效仿。长期来看，这可能重新引发对工业和农业责任的讨论。地方政府如SEDIF扮演关键角色，而国家需明确资金和法规。环保组织称赞这一进展，但呼吁更严格的污染物管控。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Futura",
-      "url": "https://www.futura-sciences.com/planete/actualites/eau-service-public-eau-ile-france-installe-nouvelle-generation-filtres-securiser-qualite-eau-potable-138334/",
-      "image": "https://cdn8.futura-sciences.com/a1920/images/VISUELS_1920%20x%201090.png",
-      "date": "2026-10-14",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile environnementale",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des technologies de dépollution",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter en raison de l’extension des risques couverts par les nouvelles réglementations sur la qualité de l’eau.",
-          "effet_en": "Insurers may face higher premiums due to expanded coverage risks under new water quality regulations.",
-          "effet_zh": "保险公司可能因新水质法规扩大的风险覆盖而面临保费上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des technologies de dépollution",
-          "secteur_en": "Water pollution treatment tech market",
-          "secteur_zh": "水污染治理技术市场",
-          "effet_fr": "Les investissements du SEDIF pourraient stimuler la demande pour des solutions innovantes, bénéficiant aux startups et entreprises spécialisées dans la filtration avancée.",
-          "effet_en": "SEDIF’s investments may drive demand for advanced filtration solutions, benefiting startups and firms specializing in water treatment tech.",
-          "effet_zh": "SEDIF的投资可能刺激对先进过滤技术的需求，惠及从事水处理的初创企业和专业公司。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-15T08:54:25.917792",
-      "sous_categorie": "environnement"
-    },
-    {
       "id": "pol_femmes_367735",
       "titre": "Série de féminicides à Ekurhuleni suscite peur et enquête",
       "titre_en": "Series of femicides in Ekurhuleni sparks fear and investigation",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-09-27T00:16:34.173832",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_101090",
+      "titre": "SEDIF modernise filtres contre polluants",
+      "titre_en": "SEDIF upgrades filters for pollutants",
+      "titre_zh": "SEDIF升级过滤器应对污染物",
+      "titre_ru": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
+      "titre_fa": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
+      "titre_ar": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
+      "titre_original": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
+      "resume": "Le Syndicat des Eaux d’Ile-de-France (SEDIF) installe une nouvelle génération de filtres pour éliminer pesticides, PFAS et résidus de médicaments, échappant aux traitements classiques. Cette innovation répond à une dégradation croissante de la qualité de l’eau potable en région parisienne. Les investissements visent à sécuriser l’approvisionnement face aux pressions environnementales et sanitaires.",
+      "resume_en": "The Syndicat des Eaux d’Ile-de-France (SEDIF) is deploying advanced filtration systems to remove pesticides, PFAS, and pharmaceutical residues that evade traditional treatments. This initiative addresses worsening water quality in the Paris region amid rising environmental and health concerns. The upgrades aim to ensure safe drinking water supply despite growing pollution pressures.",
+      "resume_zh": "法国伊尔-德-弗朗斯水务联盟（SEDIF）安装新一代过滤器，以去除农药、PFAS和药物残留等传统处理难以清除的污染物。此举应对巴黎地区日益恶化的饮用水质量问题，并针对环境和卫生压力加大投资。升级旨在确保饮用水安全供应，尽管污染形势严峻。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Depuis les années 1990, la pollution des nappes phréatiques par les pesticides et micropolluants s’est aggravée en Île-de-France, poussant les acteurs publics à innover. Les enjeux sont sanitaires (risques cancérigènes des PFAS) et économiques (coûts sanitaires liés à l’eau contaminée). Les causes profondes incluent l’agriculture intensive et l’urbanisation croissante, aggravées par des normes de traitement obsolètes. À court terme, cette modernisation réduira les risques de contamination, mais à moyen terme, elle pourrait inciter d’autres régions à suivre l’exemple. À long terme, cela pourrait relancer le débat sur la responsabilité des industriels et des agriculteurs. Les collectivités locales, comme le SEDIF, jouent un rôle clé, tandis que l’État doit clarifier les financements et les régulations. Les associations environnementales saluent cette avancée, mais appellent à une régulation plus stricte des polluants.",
+      "analyse_en": "Since the 1990s, groundwater pollution by pesticides and micropollutants has worsened in Île-de-France, prompting public actors to innovate. The stakes are health-related (carcinogenic risks from PFAS) and economic (healthcare costs from contaminated water). Root causes include intensive agriculture and urban sprawl, exacerbated by outdated treatment standards. Short-term, this upgrade will lower contamination risks, but medium-term, it may prompt other regions to adopt similar measures. Long-term, it could reignite debates on industrial and agricultural accountability. Local authorities like SEDIF are pivotal, while the state must clarify funding and regulations. Environmental groups welcome the progress but demand stricter pollutant controls.",
+      "analyse_zh": "自上世纪90年代以来，法国伊尔-德-弗朗斯地区地下水受农药和微污染物污染日益严重，迫使公共部门创新应对。主要影响涉及健康风险（PFAS致癌风险）和经济成本（受污染水带来的医疗费用）。深层原因包括集约化农业和城市扩张，加上过时的处理标准。短期内，升级将降低污染风险，但中期可能推动其他地区效仿。长期来看，这可能重新引发对工业和农业责任的讨论。地方政府如SEDIF扮演关键角色，而国家需明确资金和法规。环保组织称赞这一进展，但呼吁更严格的污染物管控。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Futura",
+      "url": "https://www.futura-sciences.com/planete/actualites/eau-service-public-eau-ile-france-installe-nouvelle-generation-filtres-securiser-qualite-eau-potable-138334/",
+      "image": "https://cdn8.futura-sciences.com/a1920/images/VISUELS_1920%20x%201090.png",
+      "date": "2026-10-14",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile environnementale",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des technologies de dépollution",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter en raison de l’extension des risques couverts par les nouvelles réglementations sur la qualité de l’eau.",
+          "effet_en": "Insurers may face higher premiums due to expanded coverage risks under new water quality regulations.",
+          "effet_zh": "保险公司可能因新水质法规扩大的风险覆盖而面临保费上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des technologies de dépollution",
+          "secteur_en": "Water pollution treatment tech market",
+          "secteur_zh": "水污染治理技术市场",
+          "effet_fr": "Les investissements du SEDIF pourraient stimuler la demande pour des solutions innovantes, bénéficiant aux startups et entreprises spécialisées dans la filtration avancée.",
+          "effet_en": "SEDIF’s investments may drive demand for advanced filtration solutions, benefiting startups and firms specializing in water treatment tech.",
+          "effet_zh": "SEDIF的投资可能刺激对先进过滤技术的需求，惠及从事水处理的初创企业和专业公司。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-15T08:54:25.917792",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_940396",
