@@ -1,7 +1,66 @@
 {
-  "last_updated": "17/10/2026 à 06h36",
+  "last_updated": "17/10/2026 à 11h24",
   "articles": {
     "monde": [
+      {
+        "id": "monde_226623",
+        "titre": "Éléphant meurt d’anthrax près de Coimbatore",
+        "titre_en": "Elephant dies from anthrax near Coimbatore",
+        "titre_zh": "印度科伊姆巴图尔附近大象死于炭疽",
+        "titre_ru": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
+        "titre_fa": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
+        "titre_ar": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
+        "titre_original": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
+        "resume": "Un éléphant femelle est décédé d’anthrax dans la forêt de Gopanari, district de Coimbatore. Son cadavre a été incinéré selon des protocoles stricts pour éviter la propagation de la maladie. Cet incident souligne les risques sanitaires persistants dans les réserves naturelles indiennes.",
+        "resume_en": "A female elephant died of anthrax in Gopanari Reserve Forest, Coimbatore district. Its carcass was incinerated under strict safety protocols to prevent disease spread. The case highlights ongoing biosecurity risks in Indian wildlife reserves.",
+        "resume_zh": "印度科伊姆巴图尔附近的一个雌象因炭疽病死亡，其尸体在严格的安全协议下被焚烧。此事件凸显了印度野生动物保护区生物安全风险的持续性。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L’anthrax, maladie bactérienne ancienne, réapparaît régulièrement dans les écosystèmes indiens, souvent liée à la déforestation et aux conflits homme-animal. Coimbatore, zone densément peuplée et agricole, concentre des risques sanitaires accrus pour la faune. Les protocoles d’incinération, coûteux et logistiquement complexes, montrent les limites des infrastructures locales. À court terme, la peur des épidémies pourrait affecter le tourisme dans la région. À moyen terme, l’Inde doit renforcer ses systèmes de surveillance vétérinaire, notamment dans les réserves frontalières. Long terme, une gestion intégrée des risques sanitaires et environnementaux est indispensable. Les ONG locales et le gouvernement fédéral doivent collaborer pour financer des solutions durables, comme la vaccination préventive des éléphants.",
+        "analyse_en": "Anthrax, an ancient bacterial disease, frequently resurfaces in India’s ecosystems, often linked to deforestation and human-wildlife conflicts. Coimbatore, a densely populated agricultural hub, amplifies biosecurity risks for wildlife. Strict incineration protocols, expensive and logistically demanding, expose gaps in local infrastructure. Short-term, fear of outbreaks may deter regional tourism. Medium-term, India must upgrade veterinary surveillance, especially in border reserves. Long-term, integrated risk management is critical. NGOs and the federal government must collaborate to fund preventive measures like elephant vaccinations.",
+        "analyse_zh": "炭疽病是一种古老的细菌性疾病，印度生态系统中时有反复，通常与森林砍伐和人兽冲突相关。科伊姆巴图尔地区人口稠密且农业发达，野生动物面临更高的生物安全风险。严格的焚尸程序成本高且复杂，暴露了当地基础设施的不足。短期内，疫情恐慌可能影响当地旅游业。中期内，印度需要加强边境保护区的兽医监测体系。长期来看，综合性的生物安全和环境风险管理至关重要。当地非政府组织和联邦政府必须合作，资助预防性措施，如对大象进行疫苗接种。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Environnement/Santé publique",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/coimbatore/elephant-dies-of-anthrax-near-coimbatore-carcass-incinerated-following-strict-safety-protocols/articleshow/134993089.cms",
+        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+        "date": "2026-10-16",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurance responsabilité civile environnementale",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des vaccins vétérinaires",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance responsabilité civile environnementale",
+            "secteur_en": "Environmental liability insurance",
+            "secteur_zh": "",
+            "effet_fr": "Les incidents comme celui-ci pourraient augmenter les primes pour les assureurs couvrant les parcs naturels et les projets de conservation.",
+            "effet_en": "Incidents like this may drive up premiums for insurers covering wildlife reserves and conservation projects.",
+            "effet_zh": "此类事件可能导致保险公司为野生动物保护区和保护项目提供的保费上涨。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des vaccins vétérinaires",
+            "secteur_en": "Veterinary vaccine market",
+            "secteur_zh": "兽药疫苗市场",
+            "effet_fr": "La demande en vaccins préventifs pour éléphants et autres espèces pourrait stimuler les investissements dans la R&D locale.",
+            "effet_en": "Demand for preventive elephant and wildlife vaccines may spur local R&D investments.",
+            "effet_zh": "对大象和其他野生动物疫苗的需求可能刺激当地研发领域的投资。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-17T11:24:14.450151"
+      },
       {
         "id": "monde_723574",
         "titre": "Ordre de restriction Starshield émanant de la Maison-Blanche",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-07T09:51:03.319081"
-      },
-      {
-        "id": "monde_247702",
-        "titre": "Purdue vs Minnesota : cotes d’ouverture analysées",
-        "titre_en": "Purdue vs Minnesota: Opening odds breakdown",
-        "titre_zh": "普渡大学对阵明尼苏达大学开赛赔率分析",
-        "titre_ru": "Предварительные котировки: Пёрдью против Миннесоты в открытии сезона",
-        "titre_fa": "قیمت‌های پیشین: پردو در برابر میناسوتا در آغاز فصل",
-        "titre_ar": "الأسعار الأولية: بوردو ضد مينيسوتا في بداية الموسم",
-        "titre_original": "Purdue vs Minnesota: Opening Odds!",
-        "resume": "Purdue, favori à domicile, affronte les Golden Gophers de Minnesota, réputés pour leur résilience. Malgré un déplacement de ligne défensive, les Boilermakers restent en tête des cotes malgré un adversaire tenace. Les pronostics dépendront de la capacité des deux équipes à gérer la pression en début de saison.",
-        "resume_en": "Purdue, the home favorite, faces Minnesota’s gritty Golden Gophers after shifting its defensive line. Despite the adjustment, Boilermakers remain top dogs in odds. Outcomes will hinge on both teams’ ability to handle early-season pressure.",
-        "resume_zh": "主场作战的普渡大学对阵明尼苏达大学的顽强金狮队，后者以韧性著称。尽管普渡大学调整了防守线，但仍然在赔率中占优。比赛结果将取决于两支球队在赛季初的压力管理能力。",
-        "resume_ru": "Команда Пёрдью сдвинула линию, но остается фаворитом на домашнем поле против упорных «Золотых Гуфов» из Миннесоты. Это противостояние обещает быть интересным, учитывая боевой дух соперников. Болельщики ждут напряженного матча с возможными сюрпризами.",
-        "resume_fa": "تیم پردو خط را تغییر داد، اما همچنان در خانه در برابر گوفرهای طلایی میناسوتا به عنوان تیم محبوب باقی مانده است. این رویداد احتمالاً جذاب خواهد بود، به خصوص با توجه به روح جنگی دو تیم. طرفداران انتظار دارند مسابقه‌ای تنش‌آلود با شانس‌های غیرمنتظره داشته باشد.",
-        "resume_ar": "فريق بوردو نقل خط، لكنه يظل فريقًا محليًا ضد غوفات مينيسوتا الصارمة. هذا المواجهة promet أن تكون مثيرة للاهتمام، خاصة مع روح القتال لدى الفريقين. يتوقع المشجعون مباراة متوترة مع احتمالات غير متوقعة.",
-        "analyse_detaillee": "Les matchs de football universitaire aux États-Unis sont souvent des indicateurs de la santé des programmes sportifs et des stratégies de recrutement. Purdue, en difficulté récente, tente de se relancer avec des ajustements tactiques, tandis que Minnesota incarne la résilience des petites équipes. Les cotes reflètent une incertitude sur la capacité de Purdue à dominer malgré ses changements. À court terme, une défaite pourrait relancer les débats sur la gestion du programme. À moyen terme, cela pourrait influencer les transferts et les attentes des supporters. Long-termement, les deux équipes doivent prouver leur valeur pour attirer des talents.",
-        "analyse_en": "College football games in the U.S. often reflect the health of athletic programs and recruiting strategies. Purdue, struggling recently, is trying to rebound with tactical adjustments, while Minnesota embodies the resilience of underdog teams. Odds reflect uncertainty over Purdue’s ability to dominate despite changes. Short-term, a loss could reignite debates over program management. Medium-term, this may impact transfers and fan expectations. Long-term, both teams must prove their worth to attract talent.",
-        "analyse_zh": "美国大学美式足球赛事通常反映出体育项目的健康状况和招募策略。近期表现不佳的普渡大学正尝试通过战术调整重振旗鼓，而明尼苏达大学则代表着小球队的顽强精神。赔率反映了普渡大学在调整后是否能保持优势的不确定性。短期内，一场失败可能重新引发对项目管理的讨论。中期内，这将影响球员转会和球迷期望。长期来看，两支球队必须证明自身价值以吸引人才。",
-        "analyse_ru": "Пёрдью, несмотря на сдвиг линии, сохраняет преимущество благодаря домашнему полю и более сильной атаке, что делает их фаворитами в этом матче. Миннесота известна своей упорностью и способностью выигрывать в напряженных ситуациях, что может стать сюрпризом для соперников. Возможные изменения в тактике Пёрдью могут быть направлены на нейтрализацию физической силы «Золотых Гуфов». Если Миннесота продемонстрирует высокую результативность в защите, это может переломить ход игры. Болельщики ожидают драматичного матча, где каждая команда будет стремиться доказать свою превосходство.",
-        "analyse_fa": "پردو با وجود تغییر خط همچنان به دلیل داشتن زمین خانگی و حمله قویتر به عنوان تیم محبوب باقی مانده است، که این مسابقه را برای آنها به نفع خود می‌کند. میناسوتا به دلیل روح جنگی و توانایی پیروزی در شرایط تنش‌آلود شناخته شده است، که می‌تواند برای رقبا شگفت‌انگیز باشد. تغییرات احتمالی تاکتیکی پردو ممکن است برای خنثی کردن قدرت فیزیکی گوفرهای طلایی باشد. اگر میناسوتا در دفاع خود نتیجه بالایی داشته باشد، می‌تواند جریان مسابقه را تغییر دهد. طرفداران انتظار دارند مسابقه‌ای دراماتیک داشته باشند، جایی که هر تیم سعی در اثبات برتر بودن خود دارد.",
-        "analyse_ar": "بوردو، رغم نقل الخط، يظل فريقًا محليًا بفضل ملعبه المحلي والقوة الهجومية، مما يجعله فريقًا محتملًا للفوز في هذا المباراة. مينيسوتا مشهورة بشجاعتها وقدرتها على الفوز في المواقف المتوترة، مما قد يكون مفاجئًا للخصوم. قد تكون التغييرات التكتيكية المحتملة لبوردو موجهة نحو خنثاء القوة البدنية لغوفات مينيسوتا. إذا أظهر مينيسوتا أداء دفاعي قويًا، فقد يغير من مجرى المباراة. يتوقع المشجعون مباراة درامية حيث سعى كل فريق لإثبات تفوقه.",
-        "categorie": "Sport",
-        "source": "Hammer and Rails",
-        "url": "https://www.hammerandrails.com/purdue-football/61538/purdue-vs-minnesota-opening-odds",
-        "image": "https://s.yimg.com/lo/mysterio/api/e26b58c9e72d63fbbf89aa4363d35c6cf749407db32b507dbcf6134eede68e43/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F82fea1895d45e21706789024221f2d60.jpg",
-        "date": "2026-10-06",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marchés des paris sportifs (football universitaire)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Sponsoring et partenariats sportifs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marchés des paris sportifs (football universitaire)",
-            "secteur_en": "College football betting markets",
-            "secteur_zh": "大学美式足球赌博市场",
-            "effet_fr": "Les cotes dynamiques avant le match pourraient influencer les paris en direct et les mises des bookmakers.",
-            "effet_en": "Pre-match odds volatility may impact live betting and bookmaker wagers.",
-            "effet_zh": "比赛前的赔率波动可能影响实时赌注和赌场的下注。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Sponsoring et partenariats sportifs",
-            "secteur_en": "Sports sponsorship and partnerships",
-            "secteur_zh": "体育赞助和合作伙伴关系",
-            "effet_fr": "Les performances en match peuvent influencer les décisions des sponsors en termes de renouvellement ou de retrait.",
-            "effet_en": "Game performance may sway sponsors’ decisions on renewals or withdrawals.",
-            "effet_zh": "比赛表现可能影响赞助商是否续约或撤资。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-07T02:07:40.829180"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_505759",
+        "titre": "Trump intensifie ses déplacements pour les midterms",
+        "titre_en": "Trump ramps up midterm campaign travel",
+        "titre_zh": "特朗普加紧竞选活动助力共和党",
+        "titre_ru": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
+        "titre_fa": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
+        "titre_ar": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
+        "titre_original": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
+        "resume": "À deux semaines des élections de mi-mandat, Donald Trump multiplie les déplacements pour soutenir les candidats républicains en difficulté dans les États clés. Cette stratégie vise à mobiliser l’électorat conservateur avant le scrutin. Les analystes y voient une tentative désespérée de sauver des sièges au Congrès.",
+        "resume_en": "With midterm elections two weeks away, Donald Trump is increasing campaign travel to bolster struggling GOP candidates in key states. The move aims to energize conservative voters before the vote. Analysts see it as a last-ditch effort to save congressional seats.",
+        "resume_zh": "在中期选举前两周，特朗普加紧竞选活动，支持关键州中处境困难的共和党候选人。这一策略旨在动员保守派选民在投票前。分析师认为这是特朗普试图挽救国会席位的最后努力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les midterms 2022 s’inscrivent dans un contexte de polarisation politique extrême aux États-Unis, où le Parti démocrate cherche à limiter les pertes. Trump, en campagne permanente depuis 2016, utilise une rhétorique polarisante pour diviser l’électorat. Ses déplacements ciblent les États où les sondages sont serrés, comme la Pennsylvanie ou le Michigan. À court terme, cette stratégie pourrait mobiliser sa base, mais risquerait d’aliéner les modérés. À moyen terme, une victoire républicaine renforcerait l’influence conservatrice sur les lois fédérales. Long terme, cela pourrait accentuer la fragmentation politique et affaiblir la gouvernance bipartite. Les médias et les think tanks jouent un rôle clé dans l’amplification de ces dynamiques.",
+        "analyse_en": "The 2022 midterms occur in a context of extreme political polarization in the U.S., where Democrats aim to limit losses. Trump, in perpetual campaign mode since 2016, uses polarizing rhetoric to divide the electorate. His travel targets swing states like Pennsylvania and Michigan. Short-term, this may energize his base but alienate moderates. Medium-term, a GOP victory would bolster conservative federal legislation. Long-term, this could deepen political fragmentation and weaken bipartisan governance. Media and think tanks amplify these dynamics significantly.",
+        "analyse_zh": "2022年中期选举发生在美国政治极化严重的背景下，民主党试图限制损失。特朗普自2016年以来一直处于竞选状态，通过极化言论分裂选民。他的行程主要针对关键州如宾夕法尼亚和密歇根。短期内，这一策略可能激励其支持者，但可能疏远中间派。中期内，共和党胜利将加强联邦保守派立法力量。长期来看，这可能加剧政治分裂，削弱两党合作的治理能力。媒体和智库在这些动态中扮演关键角色。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "TODAY",
+        "url": "https://www.today.com/video/trump-steps-up-campaign-travel-to-boost-vulnerable-republicans-271681093627",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_10/1792149519740_tdy_news_7a_gutierrez_trump_campaign_trail_261015_S3_1920x1080-xc8xgw.jpg",
+        "date": "2026-10-16",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des sondages politiques",
+            "hausse": true
+          },
+          {
+            "label": "▲ Financement des campagnes électorales",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des sondages politiques",
+            "secteur_en": "Political polling market",
+            "secteur_zh": "",
+            "effet_fr": "Les déplacements de Trump pourraient influencer les résultats des sondages en temps réel, impactant les investissements des instituts spécialisés.",
+            "effet_en": "Trump’s travel may shift real-time polling results, affecting investments in polling firms.",
+            "effet_zh": "特朗普的行程可能影响实时民调结果，进而影响民调机构的投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Financement des campagnes électorales",
+            "secteur_en": "Electoral campaign financing",
+            "secteur_zh": "选举竞选资金",
+            "effet_fr": "L’intensification des activités de Trump pourrait inciter les donateurs à augmenter leurs contributions aux candidats républicains en difficulté.",
+            "effet_en": "Trump’s intensified campaigning may prompt donors to boost contributions to struggling GOP candidates.",
+            "effet_zh": "特朗普加紧竞选活动可能促使捐助者增加对处境困难的共和党候选人的捐款。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-17T11:24:14.450172"
+      },
       {
         "id": "usa_630774",
         "titre": "Ancien officier russe trahit Moscou pour aider l’Ukraine",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-07T09:51:03.319106"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_959386",
-        "titre": "Washington State change tactique après défaite",
-        "titre_en": "Washington State makes offensive overhaul",
-        "titre_zh": "华盛顿州大学改变进攻战术",
-        "titre_ru": "Тренер Вашингтонского университета Кирби Мур кардинально меняет атаку после старта 1-4",
-        "titre_fa": "کیربی مور تغییرات اساسی در حمله دانشگاه واشینگتن پس از شروع ۱-۴ انجام داد",
-        "titre_ar": "يغير مدرب جامعة واشنطن كيربي مور الهجوم بعد من بداية 1-4",
-        "titre_original": "Kirby Moore makes major change to Washington State offense after 1-4 start",
-        "resume": "Le coach Kirby Moore a annoncé des modifications majeures à l’offensive des Cougars après un début de saison désastreux (1-4). Ces changements visent à inverser la tendance après une défaite écrasante (26-6) face à un adversaire. Les fans et analystes attendent désormais des résultats concrets lors des prochains matchs.",
-        "resume_en": "Coach Kirby Moore announced major offensive changes for Washington State after a disastrous 1-4 start. The Cougars suffered a crushing 26-6 loss, prompting a strategic overhaul. Fans and analysts now await tangible results in upcoming games.",
-        "resume_zh": "华盛顿州大学教练基尔比·穆尔宣布在开局1胜4负后对进攻战术进行重大调整。球队在一场惨败（26-6）后，迫切需要改变策略。球迷和专家现在期待未来比赛中看到具体成效。",
-        "resume_ru": "После поражения 26:6 в субботу тренер футбольной команды Вашингтонского университета Кирби Мур принял решение о радикальных изменениях в атакующей схеме. Вопросы о возможных переменах в нападении неизбежно возникали после неутешительного старта сезона. Мур, вероятно, будет искать новые тактические решения для улучшения результатов команды.",
-        "resume_fa": "پس از شکست ۲۶ بر ۶ در شنبه، مربی تیم فوتبال دانشگاه واشینگتن، کیربی مور، تصمیم به تغییرات اساسی در حمله گرفت. پس از شروع ناموفقی ۱-۴، سوالاتی در مورد تغییرات در حمله به‌طور طبیعی مطرح شد. مور احتمالاً به دنبال راهکارهای تاکتیکی جدید برای بهبود عملکرد تیم است.",
-        "resume_ar": "بعد من الهزيمة 26-6 في يوم السبت، قرر مدرب فريق كرة القدم في جامعة واشنطن كيربي مور تغييرات جذرية في الهجوم. بعد من بداية سيئة 1-4، كان من الطبيعي أن تطرح أسئلة حول التغييرات في الهجوم. من المحتمل أن يبحث مور عن حلول تكتيكية جديدة لتحسين أداء الفريق.",
-        "analyse_detaillee": "Le football universitaire américain traverse une période de remise en question après plusieurs saisons médiocres pour les équipes de la Pac-12. Les changements tactiques de Moore reflètent une pression accrue sur les entraîneurs pour améliorer les performances, surtout après des défaites humiliantes. Les causes profondes incluent un manque de cohésion offensive et une adaptation insuffisante aux systèmes modernes. À court terme, les résultats sportifs seront scrutés, tandis qu’à moyen terme, la réputation de l’équipe pourrait s’améliorer ou se dégrader. À long terme, cela pourrait influencer les recrutements et les attentes des supporters. Les joueurs et l’encadrement doivent montrer une unité pour éviter une crise de confiance.",
-        "analyse_en": "American college football is undergoing a period of self-examination after several mediocre seasons in the Pac-12. Moore’s tactical changes reflect growing pressure on coaches to improve performance, especially after humiliating losses. Root causes include a lack of offensive cohesion and poor adaptation to modern systems. Short-term, results will be closely watched, while medium-term, the team’s reputation may improve or decline. Long-term, this could impact recruiting and fan expectations. Players and staff must demonstrate unity to avoid a trust crisis.",
-        "analyse_zh": "美国大学美式足球在太平洋12联盟连续表现平平后进入反思期。穆尔的战术调整反映了对教练压力的增加，特别是在遭受耻辱性败仗后。深层原因包括进攻团队缺乏凝聚力和对现代战术的适应不足。短期内，比赛成绩将成为关注焦点，中期内球队声誉可能上升或下降。长期来看，这将影响球员招募和球迷期望。球员和教练团队必须保持团结，避免信任危机。",
-        "analyse_ru": "Неудачный старт сезона (1-4) заставил Кирби Мура пересмотреть тактику нападения, что может свидетельствовать о кризисе в командной стратегии. Поражение от соперника, который набрал 20 очков больше, указывает на слабые места в атаке, возможно, связанные с неэффективностью схем или ошибками в реализации. Изменения могут включать перераспределение ролей игроков или внедрение новых тактических приемов, таких как более агрессивный офсайд или использование новых комбинаций. Перспективы команды зависят от адаптации игроков к новым схемам, а также от того, как быстро они смогут восстановить доверие болельщиков. Критики могут обвинить Мура в неспособности справиться с давлением, в то время как сторонники надеются на улучшение результатов после внесенных изменений.",
-        "analyse_fa": "شروع ناموفقی فصل (۱-۴) باعث شد کیربی مور تاکتیک حمله را دوباره بررسی کند، که ممکن است نشانه‌ای از بحران استراتژیک تیم باشد. شکست مقابل تیمی که ۲۰ امتیاز بیشتر به دست آورد، نشان‌دهنده ضعف‌های حمله است، که ممکن است به دلیل عدم کارایی طرح‌ها یا اشتباهات در اجرای آن باشد. تغییرات ممکن است شامل توزیع مجدد نقش‌های بازیکنان یا معرفی تکنیک‌های تاکتیکی جدید مانند حمله بیشتر به خط دفاعی یا استفاده از ترکیب‌های جدید باشد. آینده تیم به توانایی بازیکنان در سازگاری با طرح‌های جدید و همچنین سرعت بازیابی اعتماد طرفداران بستگی دارد. منتقدان ممکن است مور را به دلیل ناکامی در مقابله با فشار انتقاد کنند، در حالی که طرفداران امید به بهبود نتایج پس از تغییرات دارند.",
-        "analyse_ar": "بداية سيئة الموسم (1-4) أجبر مدرب كيربي مور على إعادة النظر في استراتيجية الهجوم، مما قد يشير إلى أزمة استراتيجية في الفريق. الهزيمة أمام فريق حصل على 20 نقطة أكثر تشير إلى نقاط ضعف في الهجوم، والتي قد تكون بسبب عدم فعالية الخطة أو أخطاء في التنفيذ. قد تشمل التغييرات إعادة توزيع أدوار اللاعبين أو إدخال تقنيات تكتيكية جديدة مثل هجوم أكثر عدوانية أو استخدام تركيبات جديدة. مستقبل الفريق يعتمد على قدرته على التكيف مع الخطة الجديدة وكذلك سرعة استعادة ثقة المشجعين. قد ينتقد النقاد مور بسبب عدم قدرته على التعامل مع الضغط، بينما يأمل المعجبين في تحسين النتائج بعد التغييرات.",
-        "categorie": "Sport",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/college/washington-state/football/kirby-moore-makes-major-change-to-washington-state-offense-after-1-4-start",
-        "image": "https://s.yimg.com/lo/mysterio/api/dd764fea3a50c071485aeb7259f38eee918542b0b26e19d7dff0c37eb0e84f75/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_state_cougars_on_si_129%2F7bde4365b9c331845d10bb4802e32b75.jpg",
-        "date": "2026-10-06",
-        "pays": "usa",
+        "id": "chine_99836",
+        "titre": "Taïwan investit 4 milliards $ dans Texas pour Nvidia",
+        "titre_en": "Taiwan plans $4B Texas parks for Nvidia suppliers",
+        "titre_zh": "台湾计划在德州建40亿美元工业园吸引英伟达供应商",
+        "titre_ru": "Taiwan Is Planning $4 Billion Industrial Parks in Texas for Nvidia’s Suppliers",
+        "titre_fa": "Taiwan Is Planning $4 Billion Industrial Parks in Texas for Nvidia’s Suppliers",
+        "titre_ar": "Taiwan Is Planning $4 Billion Industrial Parks in Texas for Nvidia’s Suppliers",
+        "titre_original": "Taiwan Is Planning $4 Billion Industrial Parks in Texas for Nvidia’s Suppliers",
+        "resume": "Taïwan prévoit d’investir 4 milliards de dollars dans des parcs industriels texans pour attirer les fournisseurs de Nvidia. Cette stratégie vise à sécuriser la chaîne d’approvisionnement des puces semiconductrices face aux tensions sino-américaines. Les États-Unis, via des incitations fiscales, encouragent cette relocalisation.",
+        "resume_en": "Taiwan plans to invest $4 billion in Texas industrial parks to attract Nvidia suppliers. The move aims to secure semiconductor chip supply chains amid U.S.-China tensions. The U.S., via tax incentives, is pushing this reshoring effort.",
+        "resume_zh": "台湾计划在德州投资40亿美元建设工业园，吸引英伟达供应商。这一举措旨在应对中美紧张关系，确保半导体芯片供应链的安全。美国通过税收优惠推动这一产业回流。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La guerre commerciale sino-américaine, déclenchée en 2018, a accéléré la délocalisation des chaînes d’approvisionnement technologiques. Taïwan, dépendante à 90% de ses exportations vers la Chine, cherche à diversifier ses partenariats. Les États-Unis, via la loi CHIPS Act (2022), offrent des subventions pour attirer ces investissements. À court terme, cette initiative pourrait réduire les tensions commerciales, mais risquerait d’aggraver la dépendance taïwanaise aux technologies américaines. À moyen terme, la Chine pourrait riposter en développant ses propres puces ou en imposant des sanctions sur les matières premières. Long terme, cette dynamique pourrait fragmenter le marché mondial des semi-conducteurs, favorisant un modèle multipolaire. Les entreprises européennes, comme ASML, pourraient perdre leur position dominante dans les outils de lithographie.",
+        "analyse_en": "The U.S.-China trade war, sparked in 2018, accelerated the offshoring of tech supply chains. Taiwan, 90% dependent on Chinese exports, seeks to diversify partnerships. The U.S., via the CHIPS Act (2022), offers subsidies to attract these investments. Short-term, this move may ease trade tensions but could deepen Taiwan’s reliance on U.S. tech. Medium-term, China may retaliate by developing its own chips or imposing sanctions on raw materials. Long-term, this could fragment the global semiconductor market, favoring a multipolar model. European firms like ASML may lose their lithography tool dominance.",
+        "analyse_zh": "2018年爆发的中美贸易战加速了技术供应链的离岸外包。台湾90%的出口依赖中国，正寻求多元化合作伙伴。美国通过2022年的《芯片法案》提供补贴吸引这些投资。短期内，这一举措可能缓解贸易紧张，但可能加深台湾对美国技术的依赖。中期内，中国可能通过发展自身芯片或对原材料实施制裁进行报复。长期来看，这一动态可能分裂全球半导体市场，促进多极化模式。欧洲企业如ASML可能在光刻机工具领域失去主导地位。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie/Technologie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/710d02f7bdca73b6",
+        "image": "https://biztoc.com/cdn/710d02f7bdca73b6_s.webp",
+        "date": "2026-10-16",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marchés des paris sportifs",
+            "label": "▲ Marché des semi-conducteurs (NVDA)",
             "hausse": true
           },
           {
-            "label": "▼ Investissements dans les infrastructures sportives",
-            "hausse": false
+            "label": "▲ Fonds de capital-risque (tech/IA)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marchés des paris sportifs",
-            "secteur_en": "Sports betting markets",
-            "secteur_zh": "体育赌博市场",
-            "effet_fr": "Les cotes des Cougars pourraient fluctuer fortement en fonction des résultats des prochains matchs après les changements tactiques.",
-            "effet_en": "Washington State’s betting odds may fluctuate sharply based on performance after the tactical overhaul.",
-            "effet_zh": "华盛顿州大学的赔率可能因战术调整后的表现而大幅波动。",
+            "secteur_fr": "Marché des semi-conducteurs (NVDA)",
+            "secteur_en": "Semiconductor market (NVDA)",
+            "secteur_zh": "",
+            "effet_fr": "L’annonce taïwanaise pourrait faire monter les cours de Nvidia à court terme, mais aussi accélérer la spéculation sur une bulle des puces.",
+            "effet_en": "Taiwan’s announcement may drive short-term Nvidia stock rises but also accelerate speculation on a chip bubble.",
+            "effet_zh": "台湾的宣布可能在短期内推高英伟达股价，但也可能加速对芯片泡沫的投机。",
             "hausse": true
           },
           {
-            "secteur_fr": "Investissements dans les infrastructures sportives",
-            "secteur_en": "Investments in sports infrastructure",
-            "secteur_zh": "体育基础设施投资",
-            "effet_fr": "Les performances médiocres pourraient inciter l’université à réévaluer ses dépenses en équipements et formations.",
-            "effet_en": "Poor performance may prompt the university to reassess spending on equipment and coaching.",
-            "effet_zh": "糟糕的表现可能促使大学重新审视对设备和教练的投资。",
-            "hausse": false
+            "secteur_fr": "Fonds de capital-risque (tech/IA)",
+            "secteur_en": "Venture capital funds (tech/AI)",
+            "secteur_zh": "风险投资基金（科技/人工智能）",
+            "effet_fr": "Les investissements taïwanais dans le Texas pourraient attirer plus de fonds VC spécialisés dans l’IA et les semi-conducteurs avancés.",
+            "effet_en": "Taiwan’s Texas investments may draw more VC funds focused on AI and advanced semiconductors.",
+            "effet_zh": "台湾在德州的投资可能吸引更多专注于人工智能和先进半导体的风险投资基金。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-07T02:07:40.829156"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-17T11:24:14.450202"
+      },
       {
         "id": "chine_960495",
         "titre": "Nouvelle consécration épiscopale sous accord Vatican-Chine",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-03T00:57:49.061309"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_74955",
-        "titre": "Collaboration public-privé en IA pour rivaliser avec la Chine",
-        "titre_en": "Public-private AI collaboration to compete with China",
-        "titre_zh": "公私合作AI应对中美竞争",
-        "titre_ru": "US cyber director: Public-private AI collaboration crucial for competition with China",
-        "titre_fa": "US cyber director: Public-private AI collaboration crucial for competition with China",
-        "titre_ar": "US cyber director: Public-private AI collaboration crucial for competition with China",
-        "titre_original": "US cyber director: Public-private AI collaboration crucial for competition with China",
-        "resume": "Les États-Unis insistent sur la nécessité d’une coopération renforcée entre acteurs publics et privés pour maintenir leur avance en innovation technologique face à la Chine. Cette stratégie vise à stimuler l’investissement et à rassurer les investisseurs internationaux. Le contexte géopolitique actuel, marqué par une course aux technologies critiques, rend cette alliance cruciale.",
-        "resume_en": "The U.S. emphasizes the need for stronger public-private AI collaboration to maintain technological leadership over China. This strategy aims to boost investment and reassure global investors. The current geopolitical climate, marked by a race for critical technologies, makes this alliance critical.",
-        "resume_zh": "美国强调加强公私合作以维持在AI领域对中国的领先地位。此举旨在刺激投资和安抚国际投资者。当前的地缘政治背景下，关键技术竞争使这一联盟至关重要。",
+        "id": "russie_856936",
+        "titre": "Perturbation Starlink révèle dépendance ukrainienne aux États-Unis",
+        "titre_en": "Starlink disruption exposes Ukraine’s US tech reliance",
+        "titre_zh": "星链中断暴露乌克兰对美技术依赖",
+        "titre_ru": "Starlink disruption exposes Ukraine's reliance on US tech, Europe admits 'can't replace capability'",
+        "titre_fa": "Starlink disruption exposes Ukraine's reliance on US tech, Europe admits 'can't replace capability'",
+        "titre_ar": "Starlink disruption exposes Ukraine's reliance on US tech, Europe admits 'can't replace capability'",
+        "titre_original": "Starlink disruption exposes Ukraine's reliance on US tech, Europe admits 'can't replace capability'",
+        "resume": "Les perturbations de Starlink, service clé pour les communications militaires ukrainiennes, ont révélé l’absence de solution européenne de remplacement. Les dirigeants européens admettent leur incapacité à fournir une alternative fonctionnelle. Cette dépendance soulève des questions sur la souveraineté technologique de l’UE.",
+        "resume_en": "Disruptions in Starlink, critical for Ukrainian military communications, exposed Europe’s lack of a viable replacement. EU leaders admit they cannot provide a functional alternative. This reliance raises questions about Europe’s tech sovereignty.",
+        "resume_zh": "星链服务中断，对乌克兰军事通信至关重要，暴露了欧洲缺乏可行替代方案。欧洲领导人承认无法提供功能性替代品。这种依赖引发了欧洲技术主权的质疑。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Cette initiative s’inscrit dans une dynamique de relocalisation industrielle et de résilience technologique post-pandémie, après le déclin relatif des États-Unis face à la Chine dans les domaines comme les semi-conducteurs. Les enjeux incluent la souveraineté technologique, la compétitivité économique et la sécurité nationale. Les causes profondes sont liées à la dépendance aux chaînes d’approvisionnement asiatiques et à l’absence de coordination historique entre secteurs public et privé. À court terme, cela pourrait accélérer les subventions gouvernementales et les partenariats stratégiques. À moyen terme, une spécialisation sectorielle pourrait émerger. Long terme, les États-Unis pourraient retrouver une position dominante en IA, mais au prix d’une surveillance accrue des données. Les géants tech américains soutiennent cette approche, tandis que Pékin dénonce une protectionnisme déguisé.",
-        "analyse_en": "This initiative reflects a post-pandemic industrial relocalization and technological resilience push, following the U.S. relative decline to China in semiconductors and other fields. Key stakes involve technological sovereignty, economic competitiveness, and national security. Root causes stem from reliance on Asian supply chains and historical lack of public-private coordination. Short-term, this may accelerate government subsidies and strategic partnerships. Medium-term, sectoral specialization could emerge. Long-term, the U.S. may regain AI dominance at the cost of heightened data surveillance. U.S. tech giants back this approach, while Beijing denounces disguised protectionism.",
-        "analyse_zh": "此举体现了疫情后的产业回流和技术韧性战略，美国在半导体等领域相对落后于中国。主要影响包括技术主权、经济竞争力和国家安全。深层原因包括对亚洲供应链的依赖和公私部门长期缺乏协调。短期内，政府补贴和战略合作可能加速。中期，可能出现行业分工。长期，美国可能重新掌握AI主导地位，但代价是数据监管加强。美国科技巨头支持此举，而北京则指责这是伪装的保护主义。",
+        "analyse_detaillee": "Depuis 2022, l’Ukraine dépend massivement de Starlink pour ses opérations militaires, fourni par Elon Musk via son entreprise SpaceX. L’UE, bien que soutenant financièrement Kiev, manque d’infrastructures satellitaires autonomes. Les perturbations récentes montrent les limites de la résilience européenne face aux cyberattaques ou aux sanctions. À court terme, Kiev pourrait chercher des solutions hybrides (drones, réseaux terrestres). À moyen terme, l’UE devra investir dans Galileo 2 ou des constellations alternatives pour réduire sa dépendance. Long terme, cette crise pourrait accélérer une alliance UE-Chine sur les technologies spatiales, marginalisant les États-Unis. Les États-Unis, bien que réticents à partager leur technologie, pourraient être poussés à négocier des partenariats plus équitables.",
+        "analyse_en": "Since 2022, Ukraine has relied heavily on Starlink for military operations, provided by Elon Musk via SpaceX. While the EU financially supports Kiev, it lacks autonomous satellite infrastructure. Recent disruptions highlight Europe’s vulnerability to cyberattacks or sanctions. Short-term, Kyiv may seek hybrid solutions (drones, ground networks). Medium-term, the EU must invest in Galileo 2 or alternative constellations to reduce dependence. Long-term, this crisis could accelerate a EU-China tech alliance in space, sidelining the U.S. The U.S., though reluctant to share tech, may be forced to negotiate fairer partnerships.",
+        "analyse_zh": "自2022年以来，乌克兰在军事行动中严重依赖星链服务，由埃隆·马斯克旗下SpaceX提供。尽管欧盟在财政上支持基辅，但缺乏自主的卫星基础设施。最近的中断暴露了欧洲在面对网络攻击或制裁时的脆弱性。短期内，基辅可能寻求混合解决方案（无人机、地面网络）。中期内，欧盟必须投资于伽利略2号或其他卫星星座以减少依赖。长期来看，这一危机可能加速欧盟与中国在太空技术上的合作，边缘化美国。美国尽管不愿分享技术，但可能被迫谈判更公平的合作伙伴关系。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-cyber-director-public-private-ai-collaboration-crucial-for-competition-with/",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01170742/library-us-cyber-director-public-private-ai-collaboration-crucia-1-800x450.png",
-        "date": "2026-10-01",
-        "pays": "chine",
+        "categorie": "Géopolitique/Technologie",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/europe/starlink-disruption-exposes-ukraines-reliance-on-us-tech-europe-admits-cant-replace-capability/articleshow/134992436.cms",
+        "image": "https://static.toiimg.com/thumb/msid-134992921,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-10-16",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Fonds de capital-risque et venture capital",
+            "label": "▲ Fonds souverains spatial (satellites/communications)",
             "hausse": true
           },
           {
-            "label": "▼ Marché des semi-conducteurs et hardware",
-            "hausse": false
+            "label": "▲ Cybersécurité et ransomware (assurances)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Fonds de capital-risque et venture capital",
-            "secteur_en": "Venture capital and private equity funds",
-            "secteur_zh": "风险投资和私募股权基金",
-            "effet_fr": "Les investisseurs pourraient augmenter leurs financements dans les startups AI américaines pour bénéficier des avantages fiscaux et des partenariats gouvernementaux.",
-            "effet_en": "Investors may increase funding for U.S. AI startups to leverage tax incentives and government partnerships.",
-            "effet_zh": "投资者可能增加对美国AI初创公司的资金投入，以享受税收优惠和政府合作带来的利益。",
+            "secteur_fr": "Fonds souverains spatial (satellites/communications)",
+            "secteur_en": "Sovereign space funds (satellites/communications)",
+            "secteur_zh": "",
+            "effet_fr": "La crise Starlink pourrait stimuler les investissements européens dans des fonds souverains dédiés aux technologies spatiales autonomes.",
+            "effet_en": "The Starlink crisis may spur European investments in sovereign funds for autonomous space tech.",
+            "effet_zh": "星链危机可能刺激欧洲对自主太空技术主权基金的投资。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des semi-conducteurs et hardware",
-            "secteur_en": "Semiconductor and hardware market",
-            "secteur_zh": "半导体和硬件市场",
-            "effet_fr": "Les entreprises de semi-conducteurs pourraient voir leurs marges compressées si la demande en puces pour l’IA explose, mais aussi bénéficier de subventions pour la production locale.",
-            "effet_en": "Semiconductor firms may face squeezed margins if AI chip demand surges, but could also benefit from subsidies for domestic production.",
-            "effet_zh": "半导体企业可能面临利润压缩，如果AI芯片需求激增，但也可能从本土生产补贴中受益。",
-            "hausse": false
+            "secteur_fr": "Cybersécurité et ransomware (assurances)",
+            "secteur_en": "Cybersecurity and ransomware insurance",
+            "secteur_zh": "网络安全和赎金软件保险",
+            "effet_fr": "Les perturbations de Starlink pourraient augmenter la demande en assurances contre les cyberattaques ciblées sur les infrastructures critiques.",
+            "effet_en": "Starlink disruptions may boost demand for insurance against targeted cyberattacks on critical infrastructure.",
+            "effet_zh": "星链中断可能增加对针对关键基础设施的定向网络攻击保险的需求。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-02T21:10:45.465592"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-17T11:24:14.450193"
+      },
       {
         "id": "russie_785702",
         "titre": "Angel Reese : les défenseurs des playoffs lâchent trop",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-04T22:46:26.303843"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_499944",
-        "titre": "Archives juridiques : réparations pour l’aggression russe",
-        "titre_en": "Legal archives: reparations for Russia’s Ukraine aggression",
-        "titre_zh": "法律档案：俄罗斯侵略乌克兰的赔偿",
-        "titre_ru": "Lawfare Archive: Reparations for Russia's Aggression Against Ukraine with Markiyan Kliuchkovskyi and Patrick Pearsall",
-        "titre_fa": "Lawfare Archive: Reparations for Russia's Aggression Against Ukraine with Markiyan Kliuchkovskyi and Patrick Pearsall",
-        "titre_ar": "Lawfare Archive: Reparations for Russia's Aggression Against Ukraine with Markiyan Kliuchkovskyi and Patrick Pearsall",
-        "titre_original": "Lawfare Archive: Reparations for Russia's Aggression Against Ukraine with Markiyan Kliuchkovskyi and Patrick Pearsall",
-        "resume": "Un débat juridique sur les réparations pour la guerre en Ukraine est organisé avec des experts comme Markiyan Kliuchkovskyi, directeur du registre des dommages. Ce sujet soulève des questions sur la responsabilité internationale de la Russie et les mécanismes de compensation. Les discussions visent à documenter les préjudices matériels et humains pour les futures poursuites.",
-        "resume_en": "A legal discussion on reparations for the Ukraine war features experts like Markiyan Kliuchkovskyi, head of the Damage Register. This topic raises questions about Russia’s international accountability and compensation mechanisms. The talks aim to document material and human damages for future litigation.",
-        "resume_zh": "一场关于乌克兰战争赔偿的法律讨论，邀请了如Markiyan Kliuchkovskyi（损害登记处主任）等专家参与。这一议题涉及俄罗斯的国际责任和赔偿机制问题。讨论旨在记录物质和人员损失，为未来的诉讼做准备。",
+        "id": "iran_909864",
+        "titre": "Houthis exploitent vulnérabilités saoudiennes par attaques ciblées",
+        "titre_en": "Houthis exploit Saudi vulnerabilities via targeted attacks",
+        "titre_zh": "胡塞武装利用沙特漏洞发动精准袭击",
+        "titre_ru": "How are Yemen's Houthis attacking Saudi Arabia so effectively?",
+        "titre_fa": "How are Yemen's Houthis attacking Saudi Arabia so effectively?",
+        "titre_ar": "How are Yemen's Houthis attacking Saudi Arabia so effectively?",
+        "titre_original": "How are Yemen's Houthis attacking Saudi Arabia so effectively?",
+        "resume": "Les attaques houthis contre l’aéroport de Riyadh et les sièges d’Aramco révèlent des failles dans la défense aérienne saoudienne. Ces incidents menacent la diversification économique du royaume et son attractivité pour les investisseurs étrangers. La dépendance aux technologies occidentales pourrait être un point faible exploité.",
+        "resume_en": "Houthi attacks on Riyadh airport and Aramco headquarters expose Saudi Arabia’s air defense vulnerabilities. These incidents threaten the kingdom’s economic diversification and foreign investor appeal. Reliance on Western tech may be a critical weak point.",
+        "resume_zh": "胡塞武装对利雅得机场和阿美石油总部的袭击揭示了沙特空中防御的漏洞。这些事件威胁到沙特经济多元化和吸引外资的能力。对西方技术的依赖可能是一个被利用的关键弱点。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ce débat s’inscrit dans un contexte géopolitique marqué par l’escalade de la guerre en Ukraine depuis 2022, où la Russie nie toute responsabilité. Les enjeux incluent la légitimité des sanctions internationales et la faisabilité juridique des réparations. Les causes profondes sont liées à l’impunité historique des agressions étatiques et au manque de cadre multilatéral efficace. À court terme, ces archives pourraient servir de preuves dans les tribunaux internationaux. À moyen terme, elles pourraient influencer les négociations diplomatiques et les pressions économiques. Long terme, cela pourrait ouvrir la voie à une jurisprudence sur les crimes de guerre modernes. Les acteurs clés sont l’Ukraine, l’ONU, les États-Unis et la Russie, chacun avec des intérêts divergents sur la justice transitionnelle.",
-        "analyse_en": "This debate occurs in a geopolitical context marked by escalating war in Ukraine since 2022, where Russia denies any responsibility. Stakes include the legitimacy of international sanctions and the feasibility of legal reparations. Root causes involve historical impunity for state aggression and the lack of effective multilateral frameworks. Short-term, these archives may serve as evidence in international courts. Medium-term, they could influence diplomatic negotiations and economic pressures. Long-term, this may establish jurisprudence on modern war crimes. Key actors include Ukraine, the UN, the U.S., and Russia, each with divergent interests in transitional justice.",
-        "analyse_zh": "这一讨论发生在2022年以来乌克兰战争升级的地缘政治背景下，俄罗斯否认任何责任。影响包括国际制裁的合法性和赔偿的可行性。深层原因包括国家侵略历史上的免责和多边框架的缺乏。短期内，这些档案可能作为国际法庭的证据。中期内，它们可能影响外交谈判和经济压力。长期来看，这可能建立现代战争罪的司法先例。关键利益相关者包括乌克兰、联合国、美国和俄罗斯，他们在过渡正义问题上利益各异。",
+        "analyse_detaillee": "Le conflit yéménite, déclenché en 2014, a forcé la coalition dirigée par l’Arabie saoudite à dépendre de systèmes de défense obsolètes ou importés. Les Houthis, soutenus par l’Iran, utilisent des drones et missiles de précision, souvent fournis par la Russie ou la Corée du Nord. Ces attaques visent à paralyser l’économie saoudienne et affaiblir son allié américain. À court terme, les perturbations pétrolières pourraient faire monter les prix à l’échelle mondiale. À moyen terme, Riyadh devra accélérer son programme nucléaire civil pour réduire sa dépendance énergétique. Long terme, une escalade régionale pourrait isoler davantage le Golfe, poussant vers une alliance avec la Chine ou l’Inde. Les États-Unis, divisés sur leur engagement, pourraient réduire leur soutien militaire.",
+        "analyse_en": "The Yemen conflict, sparked in 2014, forced the Saudi-led coalition to rely on outdated or imported defense systems. The Houthis, backed by Iran, use precision drones and missiles—often supplied by Russia or North Korea—to target Saudi infrastructure. Attacks aim to cripple the Saudi economy and weaken U.S. allyship. Short-term, oil disruptions may spike global prices. Medium-term, Riyadh will accelerate its civilian nuclear program to reduce energy dependence. Long-term, regional escalation could further isolate the Gulf, pushing toward alliances with China or India. Divided U.S. engagement may reduce military support.",
+        "analyse_zh": "2014年爆发的也门冲突迫使由沙特领导的联盟依赖过时或进口的防御系统。胡塞武装（受伊朗支持）使用精确无人机和导弹（通常来自俄罗斯或朝鲜）袭击沙特基础设施。这些攻击旨在摧毁沙特经济并削弱与美国的盟友关系。短期内，石油中断可能推高全球油价。中期内，利雅得将加速民用核计划以减少能源依赖。长期来看，区域升级可能进一步孤立波斯湾地区，推动与中国或印度结盟。美国在分裂中可能减少军事支持。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique/Droit international",
-        "source": "Acast.com",
-        "url": "https://shows.acast.com/lawfare/episodes/lawfare-archive-reparations-for-russias-aggression-against-u",
-        "image": "https://open-images.acast.com/shows/60518a52f69aa815d2dba41c/1713733058272-bcd7ae96f1d1bd6b44800b014a4087b2.jpeg?height=315",
-        "date": "2026-10-03",
-        "pays": "russie",
+        "categorie": "Géopolitique/Sécurité",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/how-are-yemens-houthis-attacking-saudi-arabia-so-effectively/articleshow/134992897.cms",
+        "image": "https://img.etimg.com/thumb/msid-134992960,width-1200,height-900,imgsize-90892,overlay-etdefence/articleshow.jpg",
+        "date": "2026-10-16",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des assurances politiques (risques géopolitiques)",
+            "label": "▲ Assurance risques géopolitiques (pétrole/gaz)",
             "hausse": true
           },
           {
-            "label": "▲ Fonds souverains ukrainiens (gestion des actifs confisqués)",
+            "label": "▲ Marché des technologies de défense",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des assurances politiques (risques géopolitiques)",
-            "secteur_en": "Political insurance market (geopolitical risks)",
-            "secteur_zh": "政治风险保险市场",
-            "effet_fr": "Les discussions sur les réparations pourraient augmenter la prime des assurances couvrant les conflits armés et les sanctions internationales pour les entreprises russes.",
-            "effet_en": "Debates on reparations may raise premiums for insurance covering armed conflicts and international sanctions for Russian businesses.",
-            "effet_zh": "关于赔偿的讨论可能提高覆盖武装冲突和国际制裁的保险费率，针对俄罗斯企业。",
+            "secteur_fr": "Assurance risques géopolitiques (pétrole/gaz)",
+            "secteur_en": "Geopolitical risk insurance (oil/gas)",
+            "secteur_zh": "",
+            "effet_fr": "Les attaques houthis pourraient entraîner une hausse des primes pour les assureurs couvrant les infrastructures énergétiques saoudiennes et du Golfe.",
+            "effet_en": "Houthi attacks may drive up premiums for insurers covering Saudi and Gulf energy infrastructure.",
+            "effet_zh": "胡塞武装的袭击可能导致保险公司为沙特和波斯湾能源基础设施提供的保费上涨。",
             "hausse": true
           },
           {
-            "secteur_fr": "Fonds souverains ukrainiens (gestion des actifs confisqués)",
-            "secteur_en": "Ukrainian sovereign funds (management of seized assets)",
-            "secteur_zh": "乌克兰主权基金（管理没收资产）",
-            "effet_fr": "Ces archives pourraient faciliter la mobilisation des actifs russes gelés pour financer la reconstruction ukrainienne, dynamisant les fonds souverains locaux.",
-            "effet_en": "These archives may streamline the mobilization of frozen Russian assets to fund Ukraine’s reconstruction, boosting local sovereign funds.",
-            "effet_zh": "这些档案可能简化冻结的俄罗斯资产的动员，用于乌克兰重建，从而推动当地主权基金的发展。",
+            "secteur_fr": "Marché des technologies de défense",
+            "secteur_en": "Defense technology market",
+            "secteur_zh": "国防技术市场",
+            "effet_fr": "La vulnérabilité saoudienne pourrait stimuler les ventes de systèmes de défense avancés (drones, cyber, IA) auprès des pays du Golfe.",
+            "effet_en": "Saudi vulnerabilities may boost sales of advanced defense systems (drones, cyber, AI) to Gulf nations.",
+            "effet_zh": "沙特的脆弱性可能刺激高科技防御系统（无人机、网络、人工智能）在波斯湾国家的销售。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-04T09:23:05.058594"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-17T11:24:14.450183"
+      },
       {
         "id": "iran_447224",
         "titre": "Attaque de missiles houthis sur palais présidentiel yéménite",
@@ -6070,69 +6129,70 @@
           }
         ],
         "created_at": "2026-10-02T16:08:08.835569"
-      },
-      {
-        "id": "iran_74908",
-        "titre": "vivo X Fold6 : révolution des smartphones pliables",
-        "titre_en": "vivo X Fold6: foldable smartphone breakthrough",
-        "titre_zh": "vivo X Fold6全球首发折叠屏旗舰",
-        "titre_ru": "Цены на нефть почти не изменились при оценке переговоров США с Ираном и экспорта из Персидского залива",
-        "titre_fa": "قیمت نفت با تغییرات اندک در پی ارزیابی مذاکرات صلح آمریکا و ایران و صادرات خلیج فارس",
-        "titre_ar": "أقامت أسعار النفط دون تغيير كبير أثناء تقييم مفاوضات الولايات المتحدة مع إيران وتصدير الخليج",
-        "titre_original": "Oil prices barely changed as investors assess US-Iran peace talks and Gulf exports",
-        "resume": "vivo a officiellement lancé son dernier smartphone pliable, le X Fold6, conçu pour les professionnels en déplacement constant. Ce modèle mise sur la productivité et l’innovation technologique. L’annonce marque une nouvelle étape pour le marché des appareils pliables.",
-        "resume_en": "vivo officially launched its latest foldable smartphone, the X Fold6, designed for professionals on the go. The model focuses on productivity and technological innovation. The announcement marks a new milestone in the foldable device market.",
-        "resume_zh": "vivo官方发布了其最新折叠屏旗舰手机X Fold6，专为不断移动的专业人士设计。该机型注重生产力和技术创新。此次发布标志着折叠屏设备市场的新里程碑。",
-        "resume_ru": "На азиатских торгах цены на нефть оставались стабильными, так как инвесторы внимательно следили за ходом переговоров между США и Ираном. Небольшие колебания фьючерсов на «Брент» связаны с ожиданием возможных последствий для поставок из Персидского залива. Эксперты отмечают, что отсутствие резких движений свидетельствует о сдержанности рынка в ожидании официальных заявлений.",
-        "resume_fa": "در ساعات اولیه تجارت در آسیا، قیمت نفت تغییرات اندکی داشت در حالی که سرمایه‌گذاران به دقت مذاکرات صلح آمریکا و ایران را دنبال می‌کردند. نوسانات کوچک در قراردادهای آینده نفت «برنت» به انتظار پیامدهای احتمالی برای صادرات خلیج فارس مربوط است. کارشناسان اشاره می‌کنند که عدم وجود تغییرات شدید نشان‌دهنده احتیاط بازار در انتظار اعلامیه‌های رسمی است.",
-        "resume_ar": "بقي أسعار النفط مستقرة خلال ساعات التداول الأولى في آسيا، حيث راقب المستثمرون مفاوضات السلام بين الولايات المتحدة وإيران بعناية. شهدت العقود الآجلة للنفط «برنت» اهتزازات طفيفة بسبب توقعات بنتائج محتملة على تصدير الخليج. يشير الخبراء إلى أن عدم وجود تحركات حادة يشير إلى احتياط السوق في انتظار إعلانيات رسمية.",
-        "analyse_detaillee": "Le marché des smartphones pliables, encore émergent, bénéficie d’une croissance portée par des innovations comme le X Fold6. Les causes profondes incluent la demande croissante en écrans flexibles et en multitâche avancé. À court terme, vivo pourrait gagner des parts de marché face à Samsung et Huawei, mais la concurrence reste féroce. Les consommateurs bénéficieront de fonctionnalités améliorées, tandis que les fabricants de composants (écrans, batteries) verront leurs revenus augmenter. Long terme, la normalisation des prix et l’amélioration de la durabilité pourraient démocratiser ces appareils. Les acteurs clés sont vivo, Samsung, Huawei et les fournisseurs de semi-conducteurs, dont les intérêts convergent vers l’innovation technologique.",
-        "analyse_en": "The foldable smartphone market, still emerging, is growing due to innovations like the X Fold6. Root causes include rising demand for flexible screens and advanced multitasking. Short-term, vivo could gain market share against Samsung and Huawei, but competition remains fierce. Consumers will benefit from improved features, while component manufacturers (screens, batteries) will see revenue growth. Long-term, price normalization and durability improvements could democratize these devices. Key actors include vivo, Samsung, Huawei, and semiconductor suppliers, all aligned toward technological innovation.",
-        "analyse_zh": "折叠屏手机市场仍处于起步阶段，但vivo X Fold6等创新推动了其增长。深层原因包括对柔性屏幕和高级多任务功能的日益需求。短期内，vivo可能在与三星和华为的竞争中获得市场份额，但竞争依然激烈。消费者将获得更好的功能，而屏幕和电池等组件制造商的收入也将增加。长期来看，价格的正常化和耐久性的提升可能使这些设备普及化。关键利益相关者包括vivo、三星、华为和半导体供应商，他们共同推动技术创新。",
-        "analyse_ru": "Стабильность цен на нефть объясняется неопределённостью в отношении итогов переговоров между США и Ираном, которые могут повлиять на геополитическую ситуацию в регионе. Инвесторы предпочитают ждать официальных заявлений, чтобы избежать спекулятивных движений на рынке. Однако, даже небольшие изменения в динамике переговоров могут вызвать резкие колебания цен, особенно если речь идёт о восстановлении поставок. Эксперты предупреждают о риске роста цен в случае затягивания переговоров или их провала. В долгосрочной перспективе, стабильность цен зависит от того, насколько успешно будут решены вопросы безопасности и экономических санкций.",
-        "analyse_fa": "ثبات قیمت نفت به عدم قطعیت در مورد نتایج مذاکرات آمریکا و ایران مربوط است که می‌تواند بر وضعیت جغرافیایی سیاسی منطقه تأثیر بگذارد. سرمایه‌گذاران ترجیح می‌دهند تا اعلامیه‌های رسمی را منتظر بمانند تا از حرکت‌های ماجراگرانه در بازار خودداری کنند. با این حال، حتی تغییرات کوچک در دینامیک مذاکرات می‌تواند باعث نوسانات شدید قیمت شود، به ویژه اگر مربوط به بازسازی صادرات باشد. کارشناسان هشدار می‌دهند که خطر افزایش قیمت در صورت طولانی شدن مذاکرات یا شکست آن وجود دارد. در چشم‌انداز بلندمدت، ثبات قیمت به این بستگی دارد که چگونه به درستی مسائل امنیت و تحریم‌های اقتصادی حل شوند.",
-        "analyse_ar": "يعد استقرار أسعار النفط نتيجة عدم اليقين بشأن نتائج مفاوضات الولايات المتحدة وإيران، والتي قد تؤثر على الوضع الجيوسياسي في المنطقة. يفضل المستثمرون الانتظار حتى إعلانيات رسمية لتجنب تحركات استثمارية في السوق. ومع ذلك، حتى اهتزازات طفيفة في ديناميكيات المفاوضات قد تسبب اهتزازات حادة في الأسعار، خاصة إذا كانت مرتبطة بإعادة تصدير النفط. يحذر الخبراء من خطر ارتفاع الأسعار في حالة تأخير المفاوضات أو فشلها. في الأفق الطويل الأجل، يعتمد استقرار الأسعار على مدى نجاح حل القضايا الأمنية والقيود الاقتصادية.",
-        "categorie": "Technologie",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-barely-changed-as-investors-assess-us-iran-peace-talks-and-gulf-exports/articleshow/134606116.cms",
-        "image": "https://img.etimg.com/thumb/msid-134606133,width-1200,height-900,imgsize-107634,overlay-etmarkets/articleshow.jpg",
-        "date": "2026-10-01",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des semi-conducteurs (écrans flexibles)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Finance des géants technologiques (Apple, Qualcomm)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des semi-conducteurs (écrans flexibles)",
-            "secteur_en": "Semiconductor market (flexible screens)",
-            "secteur_zh": "半导体市场（柔性屏幕）",
-            "effet_fr": "Le X Fold6 stimule la demande en écrans pliables, boostant les revenus des fabricants comme LG Display ou Corning.",
-            "effet_en": "The X Fold6 drives demand for foldable screens, boosting revenues for manufacturers like LG Display or Corning.",
-            "effet_zh": "X Fold6刺激了对折叠屏的需求，提升了LG Display或科宁等制造商的收入。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Finance des géants technologiques (Apple, Qualcomm)",
-            "secteur_en": "Tech giants' finance (Apple, Qualcomm)",
-            "secteur_zh": "科技巨头财务（苹果、高通）",
-            "effet_fr": "L’innovation de vivo pourrait inciter Apple et Qualcomm à investir davantage dans les technologies pliables pour ne pas perdre de terrain.",
-            "effet_en": "vivo’s innovation may push Apple and Qualcomm to invest more in foldable tech to avoid losing ground.",
-            "effet_zh": "vivo的创新可能促使苹果和高通在折叠屏技术上投入更多资金，以避免落后。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-02T02:09:34.616466"
       }
     ]
   },
   "politique": [
+    {
+      "id": "pol_env_22542",
+      "titre": "Décret pesticides : fin de la prévention",
+      "titre_en": "Pesticide decree: end of prevention",
+      "titre_zh": "农药法令：预防措施终结",
+      "titre_ru": "Указание о пестицидах в воде: закон о запрете профилактики",
+      "titre_fa": "مقررات سموم در آب: قانونی که پیشگیری را به خاک می‌سپارد",
+      "titre_ar": "المبيدات في الماء: المرسوم الذي يدفن الوقاية",
+      "titre_original": "Pesticides dans l’eau: le décret qui enterre la prévention",
+      "resume": "Le gouvernement français a validé un décret limitant drastiquement les captages prioritaires pour protéger les eaux contre les pesticides, malgré des mois de concertation. Cette décision, adoptée sans consensus, réduit les zones protégées et affaiblit les mesures préventives. Les associations écologistes dénoncent un recul face aux engagements climatiques et sanitaires.",
+      "resume_en": "France’s government approved a decree drastically reducing priority water catchment areas to protect against pesticides, despite months of consultation. The decision, taken without consensus, shrinks protected zones and weakens preventive measures. Environmental groups condemn this as a setback to climate and health commitments.",
+      "resume_zh": "法国政府通过了一项大幅缩减优先保护水源地的农药法令，尽管经过多月协商。此决定未达成共识，缩小了保护区域并削弱了预防措施。生态组织谴责这是对气候和健康承诺的倒退。",
+      "resume_ru": "Дискуссии в рамках национальной группы по водосборным бассейнам завершились 12 октября резким решением правительства. Новый проект декрета значительно сокращает количество приоритетных водосборных бассейнов, игнорируя рекомендации экспертов. Это вызывает опасения по поводу ухудшения качества воды и снижения мер профилактики.",
+      "resume_fa": "مذاکرات گروه ملی آبگیرها در ۱۲ اکتبر با تصویب قاطع دولت به پایان رسید. طرح مقررات جدید تعداد آبگیرهای اولویت‌دار را کاهش می‌دهد و پیشنهادهای متخصصان را نادیده می‌گیرد. این اقدام نگرانی‌هایی در مورد کاهش کیفیت آب و کاهش اقدامات پیشگیرانه ایجاد کرده است.",
+      "resume_ar": "انتهت مناقشات المجموعة الوطنية للمصبات في 12 أكتوبر بتطبيق قرار قاطع من الحكومة. يحدّ مشروع المرسوم الجديد من عدد المصبات الأولوية، ويهمل توصيات الخبراء. هذا يثير مخاوف بشأن تدهور جودة المياه وخفض التدابير الوقائية.",
+      "analyse_detaillee": "Ce décret s’inscrit dans une longue histoire de tensions entre lobbies agrochimiques et politiques publiques environnementales, depuis les scandales des années 1990 sur les nitrates. Les enjeux sont cruciaux : santé publique (cancers liés aux pesticides), biodiversité (mortalité des abeilles) et respect des accords internationaux comme le Pacte vert européen. Les causes profondes incluent la pression économique sur les agriculteurs et l’influence des géants comme Bayer ou Syngenta. À court terme, les riverains des zones non protégées verront leur eau contaminée, tandis que les coûts sanitaires exploseront. À moyen terme, la France risque des sanctions de l’UE pour non-respect des normes. Long terme, ce recul pourrait accélérer la crise agricole et alimentaire. Les écologistes (Greenpeace, WWF) dénoncent un ‘coup de force’, tandis que les agriculteurs (FNSEA) y voient une ‘réalpolitik’ nécessaire pour éviter l’effondrement des revenus.",
+      "analyse_en": "This decree follows decades of conflict between agrochemical lobbies and environmental policies, dating back to the nitrate scandals of the 1990s. The stakes are high: public health (pesticide-linked cancers), biodiversity (bee mortality), and compliance with international agreements like the European Green Deal. Root causes include economic pressure on farmers and the influence of giants like Bayer or Syngenta. Short-term, residents in unprotected areas will face contaminated water, with rising healthcare costs. Medium-term, France risks EU sanctions for non-compliance. Long-term, this retreat could accelerate agricultural and food crises. Environmental groups (Greenpeace, WWF) condemn it as a ‘power grab’, while farmers (FNSEA) see it as ‘realpolitik’ to prevent revenue collapse.",
+      "analyse_zh": "此法令源于上世纪90年代硝酸盐丑闻以来，农药业界与环保政策之间长期的冲突。主要影响包括公共卫生（农药致癌）、生物多样性（蜜蜂死亡）以及欧盟绿色协议的遵守问题。深层原因包括对农民的经济压力以及拜耳、先正达等巨头的影响。短期内，非保护区居民将面临水污染，医疗成本飙升。中期内，法国可能因不遵守欧盟标准而遭遇制裁。长期来看，此举可能加速农业和食品危机。生态组织（绿色和平、世界自然基金会）谴责这是‘强行通过’，而农民联合会（法国农业联合会）则认为这是‘务实政治’以避免收入崩溃。",
+      "analyse_ru": "Декрет, принятый без широкой консультации, свидетельствует о приоритете экономических интересов над экологической безопасностью. Сокращение приоритетных водосборных бассейнов может привести к ухудшению качества питьевой воды и увеличению рисков для здоровья населения. Экологи и местные активисты критикуют решение как шаг назад в политике защиты окружающей среды. Правительство оправдывает изменения необходимостью упрощения регулирования, однако эксперты отмечают, что это может усугубить загрязнение. В перспективе такие меры могут привести к росту социальных конфликтов и судебных исков против властей.",
+      "analyse_fa": "این مقررات که بدون مشاوره گسترده تصویب شده، نشان‌دهنده اولویت دادن به منافع اقتصادی بر امنیت زیست‌محیطی است. کاهش آبگیرهای اولویت‌دار ممکن است به کاهش کیفیت آب آشامیدنی و افزایش خطرات برای سلامت مردم منجر شود. اکولوگ‌ها و فعالان محلی این تصمیم را یک گام عقب در سیاست حفاظت از محیط زیست می‌دانند. دولت این تغییرات را با نیاز به ساده‌سازی مقررات توجیه می‌کند، اما متخصصان هشدار می‌دهند که این اقدام می‌تواند آلودگی را تشدید کند. در آینده، چنین اقداماتی ممکن است منجر به افزایش تنش‌های اجتماعی و دعاوی قضایی علیه دولت شود.",
+      "analyse_ar": "المرسوم الذي تم تبنيه دون استشارة واسعة يعكس أولوية المصالح الاقتصادية على أمن البيئة. تقليل عدد المصبات الأولوية قد يؤدي إلى تدهور جودة المياه الشرب وزيادة المخاطر على صحة السكان. ي критиكون البيئية والمهتمون المحليون هذا القرار بأنه خطوة إلى الوراء في سياسة حماية البيئة. يبرر الحكومة هذه التغييرات بالضرورة في تبسيط التنظيم، لكن الخبراء يلاحظون أن هذا قد يزداد من التلوث. في المستقبل، قد يؤدي مثل هذه التدابير إلى زيادة التوترات الاجتماعية والمطالبات القضائية ضد السلطات.",
+      "categorie": "Environnement",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/ecologie/161026/pesticides-dans-l-eau-le-decret-qui-enterre-la-prevention",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/10/16/261016-img-pesticides-dans-l-eau-le-decret-qui-enterre-la-prevention.jpg",
+      "date": "2026-10-16",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile environnementale",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des eaux embouteillées premium",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les sinistres liés à la contamination des eaux par pesticides devraient exploser, augmentant les primes et les refus de couverture pour les agriculteurs.",
+          "effet_en": "Claims for pesticide-contaminated water will surge, driving up premiums and leading insurers to deny coverage for farmers.",
+          "effet_zh": "农药污染水源的理赔案件将激增，导致保费上涨并加剧保险公司对农民的拒保风险。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des eaux embouteillées premium",
+          "secteur_en": "Premium bottled water market",
+          "secteur_zh": "高端矿泉水市场",
+          "effet_fr": "Les marques premium capitalisant sur la pureté de l’eau pourraient voir leur demande chuter face à des scandales locaux de pollution résiduelle.",
+          "effet_en": "Premium brands leveraging water purity may face declining demand amid local pollution scandals.",
+          "effet_zh": "依赖水纯净度的高端品牌可能因当地残留污染事件而遭遇需求下滑。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-17T11:24:58.458550",
+      "sous_categorie": "environnement"
+    },
     {
       "id": "pol_femmes_669028",
       "titre": "Féminicides conjugaux en hausse en 2025",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-10-14T00:17:26.272583",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_535062",
-      "titre": "Bruxelles attaque Sicli pour pollution PFAS",
-      "titre_en": "Brussels sues Sicli over PFAS pollution",
-      "titre_zh": "布鲁塞尔起诉西克利PFAS污染案",
-      "titre_ru": "Загрязнение ПФАС в Уккле: Брюссельский регион подал иск к уполномоченным Sicli",
-      "titre_fa": "تلوث با PFAS در اوکل: منطقه بروکسل علیه وکلای شرکت سیکلی به دادگاه رفت",
-      "titre_ar": "تلوث المواد الكيميائية PFAS في أوكل: منطقة بروكسل ترفع دعوى ضد وصاة شركة سيكلي",
-      "titre_original": "Pollution aux PFAS à Uccle : la Région bruxelloise attaque les curateurs de Sicli en justice",
-      "resume": "La Région bruxelloise a engagé des poursuites contre les curateurs de l’entreprise Sicli, accusés d’avoir laissé s’accumuler des concentrations de PFAS dépassant jusqu’à 10 000 fois la norme dans les eaux souterraines d’Uccle. Ce polluant, surnommé « l’éternel », menace la santé publique et les écosystèmes locaux. L’affaire révèle les failles dans la gestion des sites industriels contaminés en Belgique.",
-      "resume_en": "The Brussels Region has filed a lawsuit against Sicli’s administrators, accused of allowing PFAS concentrations to reach up to 10,000 times legal limits in Uccle’s groundwater. Known as the ‘forever chemical,’ this pollutant poses risks to public health and local ecosystems. The case highlights gaps in Belgium’s management of contaminated industrial sites.",
-      "resume_zh": "布鲁塞尔地区政府已对西克利公司的托管人提起诉讼，指控其导致乌克勒地下水中PFAS污染物浓度高达法定标准的1万倍。这种被称为‘永久化学物质’的污染物威胁公众健康和当地生态系统。此案暴露了比利时处理污染工业场地的漏洞。",
-      "resume_ru": "На бывшей территории предприятия Sicli в Уккле концентрация ПФАС достигает 10 тысяч раз превышает допустимые нормы для подземных вод. Региональное правительство Брюсселя обратилось в суд с иском к уполномоченным компании, обвиняя их в неэффективном управлении экологическими последствиями. Это одно из самых серьезных случаев загрязнения этой группой химических веществ в Европе.",
-      "resume_fa": "در محل سابق شرکت سیکلی در اوکل، غلظت مواد PFAS تا ۱۰ هزار برابر استاندارد مداخله در آب‌های زیرزمینی رسیده است. دولت منطقه بروکسل به دادگاه شکایت علیه وکلای شرکت را مطرح کرده و آن‌ها را متهم به مدیریت نامناسب پیامدهای زیست‌محیطی می‌کند. این یکی از جدی‌ترین موارد آلودگی با این گروه مواد شیمیایی در اروپا است.",
-      "resume_ar": "في موقع سابق شركة سيكلي في أوكل، وصل تركيز المواد الكيميائية PFAS إلى 10 آلاف مرة فوق المعيار التدخل في المياه الجوفية. رفع حكومة منطقة بروكسل دعوى قضائية ضد وصاة الشركة، متهمينهم بإدارة غير فعالة للنتائج البيئية. هذا أحد أكثر الحالات خطورة للتلوث بهذه المجموعة من المواد الكيميائية في أوروبا.",
-      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950 pour leurs propriétés antiadhésives et résistantes aux produits chimiques, sont aujourd’hui pointés comme une menace environnementale majeure, notamment en Europe où leur régulation reste fragmentée. La pollution à Uccle illustre les conséquences d’une gestion négligente des déchets industriels, avec des coûts de dépollution estimés à des millions d’euros. À court terme, la région bruxelloise devra assumer des dépenses supplémentaires pour traiter les eaux et surveiller les sols, tandis que les riverains pourraient subir des restrictions d’usage. À moyen terme, cette affaire pourrait accélérer les réformes légales sur les sites pollués, mais les curateurs risquent des sanctions financières lourdes. Long terme, la Belgique devra renforcer ses contrôles pour éviter de nouveaux cas, tout en clarifiant la responsabilité des entreprises historiques. Les associations environnementales soutiennent la Région, tandis que Sicli et ses administrateurs contestent les accusations, invoquant des procédures de désamiantage déjà engagées.",
-      "analyse_en": "PFAS, used since the 1950s for their anti-adhesive and chemical-resistant properties, are now a major environmental threat, particularly in Europe where their regulation remains fragmented. Pollution in Uccle highlights the consequences of neglectful industrial waste management, with cleanup costs estimated in millions. Short-term, Brussels will face additional expenses for water treatment and soil monitoring, while residents may face usage restrictions. Medium-term, this case could push legal reforms on contaminated sites, but administrators risk heavy fines. Long-term, Belgium must strengthen oversight to prevent further cases while clarifying historical corporate liabilities. Environmental groups back the Region, while Sicli’s administrators deny the claims, citing ongoing asbestos removal procedures.",
-      "analyse_zh": "PFAS自20世纪50年代以来因其防粘和抗化学性能被广泛应用，现已成为欧洲主要环境威胁之一，其监管仍然分散。乌克勒的污染案例暴露了工业废物管理疏忽的后果，清理成本高达数百万欧元。短期内，布鲁塞尔地区将承担额外的水处理和土壤监测费用，居民可能面临用水限制。中期内，此案可能推动污染场地法律改革，但托管人可能面临巨额罚款。长期来看，比利时需加强监管以避免新案例，并明确历史企业的责任。环保组织支持地区政府，而西克利托管人则否认指控，称正在进行拆除石棉的程序。",
-      "analyse_ru": "ПФАС (вещества, постоянно накапливающиеся в организме) считаются одними из самых опасных загрязнителей, способных вызывать рак и нарушения гормонального фона. В Уккле ситуация усугубляется тем, что предприятие Sicli долгое время не контролировало выбросы, что привело к масштабному загрязнению почвы и вод. Региональные власти вынуждены были обратиться в суд, так как добровольные меры компании оказались недостаточными для очистки территории. Это вызывает опасения за здоровье жителей и экосистемы региона. В будущем подобные случаи могут стать прецедентом для ужесточения законодательства в области экологической ответственности предприятий.",
-      "analyse_fa": "مواد PFAS (مواد شیمیایی که در بدن تجمع می‌کنند) از خطرناک‌ترین آلاینده‌ها هستند که می‌توانند باعث سرطان و اختلال در هورمون‌ها شوند. در اوکل، وضعیت به این دلیل وخیم‌تر شده است که شرکت سیکلی مدت‌ها کنترل بر روی انتشار آلاینده‌ها نداشت و این منجر به آلودگی گسترده خاک و آب شد. دولت منطقه بروکسل مجبور شد به دادگاه مراجعه کند، زیرا اقدامات داوطلبانه شرکت برای پاکسازی محل کافی نبود. این نگرانی‌های جدی در مورد سلامت ساکنان و اکوسیستم منطقه ایجاد کرده است. در آینده، چنین مواردی ممکن است به پیش‌درآمدی برای تشدید قوانین مسئولیت زیست‌محیطی شرکت‌ها تبدیل شوند.",
-      "analyse_ar": "المواد الكيميائية PFAS (المواد التي تتراكم باستمرار في الجسم) تعتبر من أكثر الملوثات خطورة، حيث يمكن أن تسبب السرطان واضطرابات في الهرمونات. في أوكل، تفاقمت الوضع بسبب عدم قدرة شركة سيكلي على مراقبة الإفرازات لفترة طويلة، مما أدى إلى تلوث واسع النطاق للتربة والمياه. اضطر حكومة منطقة بروكسل إلى رفع دعوى قضائية، حيث لم تكن إجراءات الشركة الطوعية كافية لنظافة الموقع. هذا يثير مخاوف بشأن صحة سكان المنطقة ونظامها البيئي. في المستقبل، قد تصبح مثل هذه الحالات سابقة قضائية لتشديد القوانين المتعلقة بالمسؤولية البيئية للشركات.",
-      "categorie": "Environnement",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/regions/bruxelles/2026/10/12/pollution-aux-pfas-a-uccle-la-region-bruxelloise-attaque-les-curateurs-de-sicli-en-justice-XYBPSMTGE5HA7AKVIPF6ESDDWU/",
-      "image": "https://www.dhnet.be/resizer/v2/PQCL723I5VDLZHE4H2IHSBRXWI.jpg?auth=1ae9ef1d6ec7cf75c3546aed4dfcff2ec153dd8d9b4a340147e21553378b6145&width=1200&height=630&quality=85&focal=512%2C341",
-      "date": "2026-10-12",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance environnementale et responsabilité civile",
-          "hausse": true
-        },
-        {
-          "label": "▼ Immobilier et valorisation foncière",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance environnementale et responsabilité civile",
-          "secteur_en": "Environmental insurance and liability",
-          "secteur_zh": "环境保险和民事责任",
-          "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques liés aux PFAS, déjà classés comme polluants persistants.",
-          "effet_en": "Insurers may increase premiums to cover PFAS-related risks, already classified as persistent pollutants.",
-          "effet_zh": "保险公司可能会提高保费以覆盖PFAS相关风险，该物质已被归类为持久性污染物。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Immobilier et valorisation foncière",
-          "secteur_en": "Real estate and land valuation",
-          "secteur_zh": "房地产和土地估价",
-          "effet_fr": "Les biens immobiliers proches du site Sicli pourraient perdre de leur valeur en raison des risques sanitaires associés aux PFAS, compliquant les transactions.",
-          "effet_en": "Properties near the Sicli site may lose value due to PFAS-related health risks, hindering real estate transactions.",
-          "effet_zh": "西克利场地附近的房产可能因PFAS健康风险而贬值，影响房地产交易。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-10-13T15:37:09.038915",
       "sous_categorie": "environnement"
     }
   ]
