@@ -1,7 +1,66 @@
 {
-  "last_updated": "18/10/2026 à 20h08",
+  "last_updated": "18/10/2026 à 22h47",
   "articles": {
     "monde": [
+      {
+        "id": "monde_370538",
+        "titre": "Pape Léon XIV de retour au Vatican après chirurgie",
+        "titre_en": "Pope Leo XIV returns to Vatican post-surgery",
+        "titre_zh": "教皇利奥十四世手术后返回梵蒂冈",
+        "titre_ru": "Pope Leo returns to Vatican after lung cancer surgery",
+        "titre_fa": "Pope Leo returns to Vatican after lung cancer surgery",
+        "titre_ar": "Pope Leo returns to Vatican after lung cancer surgery",
+        "titre_original": "Pope Leo returns to Vatican after lung cancer surgery",
+        "resume": "Le pape Léon XIV, diagnostiqué avec un cancer du poumon, est rentré au Vatican après une opération réussie. Son chirurgien a confirmé qu’il n’y avait « aucune raison clinique » empêchant son voyage prévu en Amérique latine en octobre. Cette annonce suscite des interrogations sur la santé à long terme du souverain pontife et son rôle dans les affaires de l’Église.",
+        "resume_en": "Pope Leo XIV, diagnosed with lung cancer, returned to the Vatican after successful surgery. His surgeon stated there are ‘no clinical reasons’ preventing his planned trip to Latin America next month. The news raises concerns about the pontiff’s long-term health and his role in Church affairs.",
+        "resume_zh": "利奥十四世教皇在肺癌手术后返回梵蒂冈，其外科医生确认没有临床原因阻止他十月份计划中的拉丁美洲访问。此消息引发了对教皇长期健康和教会事务影响的关注。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le pontificat de Léon XIV, élu en 2022 après une transition rapide, intervient dans un contexte de déclin démographique et financier de l’Église catholique. Les enjeux incluent la légitimité de son élection (controversée pour son manque de transparence) et sa capacité à relancer des réformes structurelles. Les causes profondes résident dans la crise de confiance post-Vatican II et la gestion opaque des ressources. À court terme, son voyage en Amérique latine pourrait renforcer son image de pontife engagé, mais des doutes persistent sur sa santé fragile. À moyen terme, son leadership pourrait influencer les négociations sur les abus cléricaux et les finances vaticanes. Long terme, son héritage dépendra de sa capacité à moderniser l’institution sans perdre son autorité morale. Les acteurs clés sont le Saint-Siège, les cardinaux conservateurs et les mouvements progressistes au sein du clergé.",
+        "analyse_en": "Pope Leo XIV’s pontificate, elected in 2022 amid rapid succession, occurs amid declining demographics and financial instability within the Catholic Church. Key stakes include the legitimacy of his election (controversial for lack of transparency) and his ability to revive structural reforms. Root causes lie in post-Vatican II trust erosion and opaque resource management. Short-term, his Latin America trip may bolster his image as an engaged pontiff, but health concerns linger. Medium-term, his leadership could shape negotiations on clerical abuse and Vatican finances. Long-term, his legacy hinges on modernizing the institution without losing moral authority. Key actors include the Holy See, conservative cardinals, and progressive clerical movements.",
+        "analyse_zh": "利奥十四世教皇于2022年在快速更迭后当选，背景是天主教会人口下降和财政不稳定。主要影响包括其当选的合法性（因缺乏透明度引发争议）以及推动结构性改革的能力。深层原因在于梵二会议后信任危机和资源管理不透明。短期内，他对拉丁美洲的访问可能增强其作为积极教皇的形象，但健康问题依然悬念。中期内，他的领导力可能影响对教士滥权和梵蒂冈财政的谈判。长期来看，他的遗产取决于现代化教会机构而不失去道德权威。关键利益相关者包括梵蒂冈圣座、保守派红衣主教和教会内的进步派神职人员。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Religion/Institutions",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/pope-leo-lung-cancer-surgery-9.7385445",
+        "image": "https://i.cbc.ca/ais/fb76ade8-36de-481c-8e0e-abd08f8f7c98,1792276471923/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C5888%2C3312%29%3BResize%3D620",
+        "date": "2026-10-17",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Assurances santé internationales",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marchés des voyages spirituels",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurances santé internationales",
+            "secteur_en": "International health insurance",
+            "secteur_zh": "国际医疗保险",
+            "effet_fr": "La demande en assurances couvrant les traitements onéreux du cancer pourrait augmenter, notamment pour les États et institutions religieuses.",
+            "effet_en": "Demand for policies covering expensive cancer treatments may rise, particularly among states and religious institutions.",
+            "effet_zh": "对覆盖昂贵癌症治疗的保险需求可能增加，特别是国家和宗教机构。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marchés des voyages spirituels",
+            "secteur_en": "Spiritual travel markets",
+            "secteur_zh": "精神旅游市场",
+            "effet_fr": "Les voyages pontificaux, comme celui en Amérique latine, pourraient dynamiser les secteurs du tourisme religieux et des dons caritatifs liés.",
+            "effet_en": "Pontifical trips, such as the one to Latin America, may boost religious tourism and charitable donation sectors.",
+            "effet_zh": "教皇访问（如拉丁美洲）可能推动宗教旅游和慈善捐赠行业发展。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-18T22:47:40.161256"
+      },
       {
         "id": "monde_338694",
         "titre": "Débats religieux lors du Ramlila de Kanpur suscitent polémique",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-10T09:26:39.889653"
-      },
-      {
-        "id": "monde_275929",
-        "titre": "Derrick Coleman, pivot clé des Nets de Brooklyn",
-        "titre_en": "Derrick Coleman: Brooklyn Nets’ big man focus",
-        "titre_zh": "德里克·科尔曼成纽约网队核心大前锋",
-        "titre_ru": "Every player from Alabama to play for the Brooklyn Nets: Derrick Coleman",
-        "titre_fa": "Every player from Alabama to play for the Brooklyn Nets: Derrick Coleman",
-        "titre_ar": "Every player from Alabama to play for the Brooklyn Nets: Derrick Coleman",
-        "titre_original": "Every player from Alabama to play for the Brooklyn Nets: Derrick Coleman",
-        "resume": "Derrick Coleman, joueur de NBA évoluant au poste d’ailier fort, est mis en avant comme une pièce maîtresse pour les Brooklyn Nets. Son profil défensif et son potentiel offensif en font un atout stratégique pour l’équipe. Cette attention médiatique reflète les enjeux de recrutement et de reconstruction d’une franchise en quête de stabilité.",
-        "resume_en": "Derrick Coleman, a NBA big man, is spotlighted as a key player for the Brooklyn Nets. His defensive profile and offensive potential make him a strategic asset for the team. Media focus highlights the franchise’s recruitment and rebuilding challenges.",
-        "resume_zh": "NBA球员德里克·科尔曼作为纽约网队的大前锋，被媒体关注为球队的核心。他的防守能力和进攻潜力使其成为球队的战略资产。媒体关注反映了球队在招募和重建方面的挑战。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Ce focus médiatique s’inscrit dans une dynamique de reconstruction des Nets, une franchise en difficulté financière et sportive depuis des années. Coleman, ancien choix de draft prometteur, incarne l’espoir d’un retour à la compétitivité via des joueurs locaux ou sous-estimés. À court terme, cela pourrait attirer des investisseurs ou des sponsors vers Brooklyn, mais aussi créer des attentes irréalistes parmi les fans. À moyen terme, si Coleman confirme, cela pourrait stabiliser l’équipe et attirer des talents complémentaires. Long terme, cela dépendra de la capacité des Nets à structurer une franchise durable, loin des cycles de recrutement hasardeux. Les acteurs clés incluent la direction des Nets, les médias sportifs et les fans, dont les attentes influencent les décisions.",
-        "analyse_en": "Media focus on Coleman reflects the Brooklyn Nets’ long-standing financial and on-court struggles. As a draft pick with unfulfilled potential, he symbolizes the hope of rebuilding competitiveness through underrated or local talent. Short-term, this could attract investors or sponsors to Brooklyn but also set unrealistic fan expectations. Medium-term, if Coleman delivers, it may stabilize the team and draw complementary talent. Long-term success depends on the Nets’ ability to build a sustainable franchise, away from risky recruitment cycles. Key actors include team management, sports media, and fans, whose expectations shape decisions.",
-        "analyse_zh": "媒体关注科尔曼反映了纽约网队多年来在财务和赛场上的困境。作为一名未能实现潜力的选秀球员，他象征着通过本土或被低估的球员重建竞争力的希望。短期内，这可能吸引投资者或赞助商前往布鲁克林，但也可能在球迷中制造不切实际的期望。中期内，如果科尔曼表现出色，可能稳定球队并吸引互补的球员。长期成功取决于网队能否建立一个可持续的球队，远离冒险的招募周期。关键利益相关者包括球队管理层、体育媒体和球迷，后者的期望影响决策。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Sports & Économie",
-        "source": "USA Today",
-        "url": "https://netswire.usatoday.com/story/sports/nba/nets/2026/10/08/every-player-from-alabama-to-play-for-the-nets-derrick-coleman/91981129007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/507426b4b987f8548fc6b493f775326a5f17175b69c119a3deb84fb5178bdb0e/lightyear_networkapi/resizefill_w624_h364%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnets_wire_usa_today_sports_articles_725%2F7fc8d908f41c9b79ae490f3d02611a3e.jpg",
-        "date": "2026-10-09",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des droits TV et sponsoring sportif",
-            "hausse": true
-          },
-          {
-            "label": "▲ Investissements en infrastructures sportives",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des droits TV et sponsoring sportif",
-            "secteur_en": "TV rights and sports sponsorship market",
-            "secteur_zh": "电视转播权和体育赞助市场",
-            "effet_fr": "Une médiatisation accrue autour de Coleman pourrait attirer des partenaires commerciaux vers les Nets, boostant ainsi les revenus par droits TV et sponsoring.",
-            "effet_en": "Increased media focus on Coleman may attract commercial partners to the Nets, boosting TV rights and sponsorship revenues.",
-            "effet_zh": "对科尔曼的媒体关注可能吸引商业合作伙伴加入纽约网队，从而提升电视转播权和赞助收入。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Investissements en infrastructures sportives",
-            "secteur_en": "Sports infrastructure investments",
-            "secteur_zh": "体育基础设施投资",
-            "effet_fr": "Un regain d’intérêt pour les Nets pourrait inciter des investisseurs à financer des projets comme la rénovation du Barclays Center ou l’expansion de l’écosystème sportif local.",
-            "effet_en": "Renewed interest in the Nets may encourage investors to fund projects like Barclays Center renovations or local sports ecosystem expansion.",
-            "effet_zh": "对网队的新兴兴趣可能鼓励投资者资助巴克莱中心改造或本地体育生态系统扩展项目。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-10T02:06:35.799978"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_242194",
+        "titre": "Analyses politiques renversent course électorale en Montana",
+        "titre_en": "Political analyses shift Montana race",
+        "titre_zh": "政治分析改变蒙大拿州选举局势",
+        "titre_ru": "Forecasters deliver gut punch to Trump-backed candidate in red state",
+        "titre_fa": "Forecasters deliver gut punch to Trump-backed candidate in red state",
+        "titre_ar": "Forecasters deliver gut punch to Trump-backed candidate in red state",
+        "titre_original": "Forecasters deliver gut punch to Trump-backed candidate in red state",
+        "resume": "Trois analyses politiques cette semaine ont basculé la course au Congrès dans le Montana, un État traditionnellement républicain, vers un statut de « match nul ». Le candidat démocrate, initialement défavorisé, gagne en crédibilité face à un soutien affaibli pour le candidat soutenu par Trump. Ce revirement reflète une polarisation croissante et une fragmentation des électeurs conservateurs.",
+        "resume_en": "Three political analyses this week shifted Montana’s competitive congressional race into a ‘toss-up,’ turning a traditionally Republican state. The Democratic candidate, initially underdog, gains traction as Trump-backed support wanes. The shift mirrors growing polarization and conservative voter fragmentation.",
+        "resume_zh": "本周三项政治分析将蒙大拿州竞争激烈的国会选举局势推向‘悬念’状态，此前共和党传统优势州。民主党候选人从弱势地位获得提升，而特朗普支持者的支持力度减弱。此变化反映了日益加剧的两极分化和保守派选民的分裂。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le Montana, État frontalier avec une économie dépendante des ressources naturelles, illustre les tensions entre tradition républicaine et mutations socio-économiques. Les enjeux incluent la transition énergétique (ferme de batteries lithium) et les politiques migratoires, deux sujets clivants. Les causes profondes sont la colère des électeurs ruraux face aux inégalités et la désaffection des jeunes générations envers les partis traditionnels. Court terme, ce revirement pourrait inciter les démocrates à cibler davantage les États « swing » du Midwest. À moyen terme, il pourrait accélérer la perte de majorité républicaine au Congrès. Long terme, cela pourrait redéfinir la géopolitique électorale américaine, avec une montée des États « battleground » dans le Nord-Ouest. Les acteurs clés sont les lobbies miniers, les mouvements écologistes locaux et les médias alternatifs.",
+        "analyse_en": "Montana, a border state with an economy tied to natural resources, highlights tensions between Republican tradition and socio-economic shifts. Key stakes include energy transition (lithium battery farms) and immigration policies, both polarizing issues. Root causes lie in rural voter discontent over inequality and youth disengagement from traditional parties. Short-term, this shift may push Democrats to target more Midwestern ‘swing’ states. Medium-term, it could accelerate Republican losses in Congress. Long-term, it may redefine U.S. electoral geopolitics, with Northwest ‘battleground’ states rising. Key actors include mining lobbies, local environmental movements, and alternative media.",
+        "analyse_zh": "蒙大拿州是一座边境州，经济依赖自然资源，体现了共和党传统与社会经济变迁之间的紧张关系。主要影响包括能源转型（锂电池工厂）和移民政策，两者都是分裂性议题。深层原因在于农村选民对不平等的不满和年轻一代对传统政党的疏离。短期内，这一变化可能促使民主党更多关注中西部‘摇摆州’。中期内，可能加速共和党在国会失去多数。长期来看，这可能重新定义美国选举地缘政治，西北部‘战略州’的重要性上升。关键利益相关者包括矿业利益集团、当地环保运动和替代媒体。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/montana-midterms/",
+        "image": "https://www.rawstory.com/media-library/image.jpg?id=68458205&width=1200&height=600&coordinates=0%2C177%2C0%2C177",
+        "date": "2026-10-17",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marchés financiers des énergies renouvelables",
+            "hausse": true
+          },
+          {
+            "label": "▼ Fonds spéculatifs sur les matières premières",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marchés financiers des énergies renouvelables",
+            "secteur_en": "Renewable energy financial markets",
+            "secteur_zh": "可再生能源金融市场",
+            "effet_fr": "Les investissements dans les énergies vertes pourraient s’accélérer si les démocrates gagnent, en réponse aux promesses de transition écologique.",
+            "effet_en": "Investments in green energy may accelerate if Democrats win, aligning with climate transition pledges.",
+            "effet_zh": "如果民主党获胜，对绿色能源的投资可能加速，与应对气候变化的承诺相符。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds spéculatifs sur les matières premières",
+            "secteur_en": "Commodity speculation funds",
+            "secteur_zh": "大宗商品投机基金",
+            "effet_fr": "Une victoire républicaine pourrait renforcer les paris sur les prix du charbon et du pétrole, déjà sous pression réglementaire.",
+            "effet_en": "A Republican win may bolster bets on coal and oil prices, already under regulatory pressure.",
+            "effet_zh": "共和党获胜可能增强对煤炭和石油价格的赌注，这些行业已面临监管压力。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-18T22:47:40.161278"
+      },
       {
         "id": "usa_430858",
         "titre": "Herzog s’excuse envers photojournaliste, Netanyahu évite les conclusions hâtives",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-10T09:26:39.889629"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_562955",
-        "titre": "Trump décore Musk de la médaille scientifique nationale",
-        "titre_en": "Trump honors Musk with National Medal of Science",
-        "titre_zh": "特朗普颁发国家科学奖章给马斯克",
-        "titre_ru": "Trump honours Elon Musk with National Medal of Science at White House",
-        "titre_fa": "Trump honours Elon Musk with National Medal of Science at White House",
-        "titre_ar": "Trump honours Elon Musk with National Medal of Science at White House",
-        "titre_original": "Trump honours Elon Musk with National Medal of Science at White House",
-        "resume": "Donald Trump a remis la National Medal of Science à Elon Musk lors d’une cérémonie à la Maison-Blanche, le qualifiant d’‘industriel titanesque’ et d’‘ingénieur brillant’. Cette distinction souligne son influence dans les technologies disruptives comme l’espace et les énergies renouvelables. L’événement reflète une alliance entre l’administration Trump et les élites technologiques américaines.",
-        "resume_en": "Donald Trump awarded Elon Musk the National Medal of Science at the White House, calling him an ‘industrial titan’ and ‘brilliant engineer’. The honor highlights his impact on disruptive technologies like space and renewable energy. The ceremony underscores a partnership between the Trump administration and American tech elites.",
-        "resume_zh": "特朗普在白宫颁发国家科学奖章给埃隆·马斯克，称其为“工业巨人”和“天才工程师”。此殊荣凸显了他在太空和可再生能源等领域的影响力。此举反映了特朗普政府与美国科技精英之间的合作关系。",
+        "id": "chine_841057",
+        "titre": "TSMC vs ASML : qui finance l’expansion de l’IA ?",
+        "titre_en": "TSMC vs ASML: Who funds AI expansion?",
+        "titre_zh": "台积电与ASML：谁为AI扩张提供资金？",
+        "titre_ru": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+        "titre_fa": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+        "titre_ar": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+        "titre_original": "TSMC vs. ASML: Which AI Expansion Demands More Cash?",
+        "resume": "Les résultats récents de TSMC et ASML révèlent deux stratégies distinctes pour financer l’expansion des semi-conducteurs, cruciales pour l’intelligence artificielle. TSMC, leader mondial, investit massivement dans ses propres usines de fabrication, tandis qu’ASML, fournisseur clé de machines lithographiques, mise sur des partenariats et des innovations technologiques. Cette rivalité reflète les enjeux géopolitiques autour de la souveraineté technologique et des chaînes d’approvisionnement.",
+        "resume_en": "TSMC and ASML’s latest results show two distinct strategies for funding semiconductor expansion critical to AI. TSMC, the global leader, heavily invests in its own fabrication plants, while ASML, a key supplier of lithography machines, relies on partnerships and technological innovation. This rivalry underscores geopolitical stakes around tech sovereignty and supply chains.",
+        "resume_zh": "台积电和ASML的最新成绩单展示了两家公司在半导体扩张融资上的不同策略，这对人工智能至关重要。台积电作为全球领导者，大力投资其自有制造工厂，而ASML作为关键光刻机供应商，则依赖合作和技术创新。这种竞争反映了技术主权和供应链地缘政治的重要性。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Cette distinction s’inscrit dans une tradition américaine de récompenser les innovateurs, mais elle survient sous une présidence marquée par des tensions géopolitiques et des critiques sur le rôle des GAFAM. Musk, figure controversée (Tesla, SpaceX, Twitter), incarne à la fois l’audace entrepreneuriale et les défis éthiques des technologies disruptives. À court terme, cela renforce son soft power aux États-Unis, mais pourrait aussi alimenter les débats sur la concentration du pouvoir technologique. À moyen terme, cela pourrait influencer les politiques industrielles américaines, notamment via des subventions ou des partenariats publics-privés. Long terme, cela pose la question d’un possible alignement des géants tech avec les priorités géostratégiques de Washington, comme la rivalité sino-américaine. Les acteurs clés incluent le gouvernement (pour son image), Musk (pour son influence), et les critiques (militants, régulateurs).",
-        "analyse_en": "This award fits within a U.S. tradition of honoring innovators but occurs under a presidency marked by geopolitical tensions and criticism of Big Tech’s role. Musk, a controversial figure (Tesla, SpaceX, Twitter), embodies both entrepreneurial audacity and the ethical challenges of disruptive technologies. Short-term, this boosts his soft power in the U.S., but it may also fuel debates over tech concentration. Medium-term, it could shape U.S. industrial policies via public-private partnerships or subsidies. Long-term, it raises questions about potential alignment of tech giants with Washington’s geostrategic priorities, like the U.S.-China rivalry. Key actors include the government (for its image), Musk (for his influence), and critics (activists, regulators).",
-        "analyse_zh": "此奖项符合美国表彰创新者的传统，但发生在一个充满地缘政治紧张和对大科技公司角色批评的总统任期内。马斯克作为争议人物（特斯拉、太空探索技术公司、推特），代表着创业者的勇气和破坏性技术带来的伦理挑战。短期内，这将增强他在美国的软实力，但也可能加剧对科技集中化的争议。中期内，这可能影响美国工业政策，通过公私合作或补贴。长期来看，这提出了大科技公司是否会与华盛顿的地缘战略优先事项（如中美竞争）对齐的问题。关键利益相关者包括政府（为了形象）、马斯克（为了影响力）和批评者（活动家、监管者）。",
+        "analyse_detaillee": "La course aux semi-conducteurs avancés, pilotée par les États-Unis et la Chine, s’inscrit dans une dynamique de déglobalisation technologique depuis 2018. Les enjeux incluent le contrôle des nœuds de 3nm et 5nm, essentiels pour l’IA et les supercalculateurs. Les causes profondes sont les tensions commerciales sino-américaines et la dépendance européenne aux technologies américaines via ASML. Court terme, TSMC pourrait renforcer son avance en Asie grâce à ses usines en Taiwan et en Arizona, tandis qu’ASML doit négocier avec l’UE pour éviter des restrictions. À moyen terme, la Chine pourrait contourner ASML via des technologies alternatives (lasers EUV domestiques), mais à un coût élevé. Long terme, cette rivalité pourrait redéfinir les alliances industrielles, avec une fragmentation des chaînes de valeur. Les acteurs clés sont les gouvernements (USA, Chine, UE), les géants tech (Intel, Samsung) et les fondations de recherche (DARPA, CAS).",
+        "analyse_en": "The semiconductor race, driven by the U.S. and China, reflects a tech deglobalization trend since 2018. Key stakes include control over 3nm and 5nm nodes, critical for AI and supercomputers. Root causes stem from Sino-U.S. trade tensions and Europe’s reliance on U.S.-based ASML tech. Short-term, TSMC may solidify its lead in Asia via Taiwan and Arizona plants, while ASML must navigate EU restrictions. Medium-term, China could bypass ASML with domestic EUV laser tech, at high cost. Long-term, this rivalry may redefine industrial alliances, fragmenting value chains. Key actors include governments (USA, China, EU), tech giants (Intel, Samsung), and research foundations (DARPA, CAS).",
+        "analyse_zh": "半导体竞赛由美国和中国主导，自2018年以来反映了技术去全球化趋势。主要影响包括对3纳米和5纳米节点的控制，对人工智能和超级计算机至关重要。深层原因在于中美贸易紧张关系和欧洲对依赖美国ASML技术的局面。短期内，台积电可能通过台湾和亚利桑那州的工厂巩固其在亚洲的领先地位，而ASML则需要应对欧盟的限制。中期内，中国可能通过国内极紫外激光技术绕过ASML，但成本高昂。长期来看，这种竞争可能重新定义工业同盟，导致价值链分裂。关键利益相关者包括政府（美国、中国、欧盟）、科技巨头（英特尔、三星）和研究基金会（DARPA、中国科学院）。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Technologie & Économie",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/trump-honours-elon-musk-with-national-medal-of-science-at-white-house-126100900046_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/09/thumb/fitandfill/1200X628/1791511364-6101.JPG",
-        "date": "2026-10-09",
-        "pays": "usa",
+        "categorie": "Technologie/Économie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a5201cf53ef33e19",
+        "image": "https://biztoc.com/cdn/a5201cf53ef33e19_s.webp",
+        "date": "2026-10-17",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Technologies spatiales et aérospatiales",
+            "label": "▲ Fonds d’investissement en capital-risque (VC) semi-conducteurs",
             "hausse": true
           },
           {
-            "label": "▲ Marché des énergies renouvelables",
-            "hausse": true
+            "label": "▼ Bourse des fabricants d’équipements (EMS)",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies spatiales et aérospatiales",
-            "secteur_en": "Space and aerospace technologies",
-            "secteur_zh": "航天和航空航天技术",
-            "effet_fr": "Cette distinction pourrait stimuler les investissements publics et privés dans les projets spatiaux américains, notamment via SpaceX, renforçant ainsi la compétitivité face à la Chine.",
-            "effet_en": "This award may spur public and private investments in U.S. space projects, particularly through SpaceX, boosting competitiveness against China.",
-            "effet_zh": "此殊荣可能刺激美国公私部门对航天项目的投资，特别是通过SpaceX，从而增强对抗中国的竞争力。",
+            "secteur_fr": "Fonds d’investissement en capital-risque (VC) semi-conducteurs",
+            "secteur_en": "Semiconductor venture capital funds",
+            "secteur_zh": "半导体风险投资基金",
+            "effet_fr": "Les investissements dans les startups de puces pourraient exploser avec la course à l’IA, notamment en Asie et aux États-Unis.",
+            "effet_en": "Investments in chip startups may surge with the AI race, particularly in Asia and the U.S.",
+            "effet_zh": "随着人工智能竞赛，对芯片初创公司的投资可能在亚洲和美国大幅增长。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des énergies renouvelables",
-            "secteur_en": "Renewable energy market",
-            "secteur_zh": "可再生能源市场",
-            "effet_fr": "L’honneur accordé à Musk pourrait relancer l’intérêt pour les solutions énergétiques innovantes, comme les batteries Tesla, et accélérer les transitions vertes aux États-Unis.",
-            "effet_en": "The award to Musk may reignite interest in innovative energy solutions like Tesla batteries, accelerating green transitions in the U.S.",
-            "effet_zh": "对马斯克的表彰可能重新激发对特斯拉电池等创新能源解决方案的兴趣，加速美国的绿色转型。",
-            "hausse": true
+            "secteur_fr": "Bourse des fabricants d’équipements (EMS)",
+            "secteur_en": "Equipment manufacturers (EMS) stock market",
+            "secteur_zh": "设备制造商（EMS）股市",
+            "effet_fr": "Les actions d’ASML et de ses concurrents (comme KLA) pourraient chuter si la Chine développe des alternatives autonomes.",
+            "effet_en": "ASML and rival stocks (e.g., KLA) may decline if China develops autonomous alternatives.",
+            "effet_zh": "如果中国开发自主替代技术，ASML及其竞争对手（如KLA）的股价可能下跌。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-10-10T02:06:35.799957"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-18T22:47:40.161289"
+      },
       {
         "id": "chine_442849",
         "titre": "Zverev surpasse ses limites malgré la fatigue",
@@ -3706,65 +3765,6 @@
           }
         ],
         "created_at": "2026-10-06T04:58:25.691683"
-      },
-      {
-        "id": "chine_926233",
-        "titre": "Réaltor chinoise arrêtée à LAX pour espionnage",
-        "titre_en": "Chinese realtor arrested at LAX for spying",
-        "titre_zh": "中国房产经纪人在洛杉矶机场被捕间谍",
-        "titre_ru": "California realtor, 34, busted at LAX for spying for China as creepy texts to Beijing handlers revealed: feds",
-        "titre_fa": "California realtor, 34, busted at LAX for spying for China as creepy texts to Beijing handlers revealed: feds",
-        "titre_ar": "California realtor, 34, busted at LAX for spying for China as creepy texts to Beijing handlers revealed: feds",
-        "titre_original": "California realtor, 34, busted at LAX for spying for China as creepy texts to Beijing handlers revealed: feds",
-        "resume": "Une femme de 34 ans, accusée d’espionnage pour le compte de la Chine, a été arrêtée à l’aéroport international de Los Angeles (LAX) alors qu’elle tentait de quitter les États-Unis. Les autorités fédérales ont révélé des textos suspects envoyés à ses handlers à Pékin, prouvant son implication dans une opération d’espionnage économique. Cet arrêt souligne les tensions croissantes entre Washington et Pékin dans le domaine de la sécurité nationale.",
-        "resume_en": "A 34-year-old Chinese realtor was arrested at Los Angeles International Airport (LAX) for alleged espionage on behalf of China, as she attempted to leave the US. Federal authorities uncovered suspicious texts sent to handlers in Beijing, proving her involvement in economic espionage. The arrest highlights growing tensions between Washington and Beijing over national security.",
-        "resume_zh": "一名34岁的中国房产经纪人在洛杉矶国际机场（LAX）因涉嫌为中国从事间谍活动而被捕，她试图离开美国。联邦当局发现她向北京手机发送的可疑短信，证明其参与经济间谍活动。这一逮捕凸显了华盛顿和北京在国家安全领域日益升级的紧张关系。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cet arrêt s’inscrit dans une série de cas d’espionnage économique impliquant des ressortissants chinois aux États-Unis, reflétant une guerre technologique et industrielle entre les deux superpuissances. Les enjeux incluent la protection des secrets industriels et la souveraineté technologique. Les causes profondes résident dans la rivalité sino-américaine pour dominer les secteurs clés comme les semi-conducteurs et l’intelligence artificielle. À court terme, cela pourrait renforcer les lois américaines sur la sécurité nationale mais aussi escalader les représailles chinoises. À moyen terme, cela pourrait affecter les échanges commerciaux et les investissements entre les deux pays. Les acteurs clés sont le FBI, le gouvernement chinois et les entreprises technologiques américaines.",
-        "analyse_en": "This arrest follows a series of economic espionage cases involving Chinese nationals in the US, reflecting a tech and industrial war between the two superpowers. Stakes include protecting industrial secrets and tech sovereignty. Root causes lie in Sino-US rivalry to dominate key sectors like semiconductors and AI. Short-term, this may strengthen US national security laws but also escalate Chinese retaliation. Long-term, it could impact trade and investments between the two countries. Key actors include the FBI, the Chinese government, and US tech firms.",
-        "analyse_zh": "这一逮捕属于美国境内涉及中国公民经济间谍案例的系列事件，反映了两大超级大国在技术和工业领域的竞争。主要影响包括保护工业秘密和技术主权。深层原因在于中美争夺半导体和人工智能等关键领域的主导地位。短期内，这可能加强美国国家安全法规，但也可能引发中国的报复升级。长期来看，这可能影响两国之间的贸易和投资。关键利益相关者包括FBI、中国政府和美国科技企业。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/04/us-news/california-realtor-34-busted-at-lax-for-spying-for-china-as-creepy-texts-to-beijing-handlers-revealed-feds/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-xxpzr5yws-1791156798840.jpg?quality=75&strip=all&1791142416&w=1200",
-        "date": "2026-10-04",
-        "pays": "chine",
-        "badges": [
-          {
-            "label": "▲ Sécurité nationale et contre-espionnage",
-            "hausse": true
-          },
-          {
-            "label": "▼ Relations sino-américaines et tensions géopolitiques",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sécurité nationale et contre-espionnage",
-            "secteur_en": "National security and counterespionage",
-            "secteur_zh": "国家安全和反间谍",
-            "effet_fr": "Cet arrêt pourrait accélérer les réformes législatives américaines pour renforcer la surveillance des ressortissants étrangers, notamment dans les secteurs sensibles comme l’immobilier et la tech.",
-            "effet_en": "This arrest may accelerate US legislative reforms to enhance surveillance of foreign nationals, particularly in sensitive sectors like real estate and tech.",
-            "effet_zh": "这一逮捕可能加速美国立法改革，以加强对外国公民的监管，特别是在房地产和科技等敏感领域。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Relations sino-américaines et tensions géopolitiques",
-            "secteur_en": "Sino-US relations and geopolitical tensions",
-            "secteur_zh": "中美关系和地缘政治紧张局势",
-            "effet_fr": "Cette affaire pourrait exacerber les tensions commerciales et technologiques, poussant Pékin à durcir ses propres lois sur la sécurité nationale et à limiter les échanges avec Washington.",
-            "effet_en": "This case may escalate trade and tech tensions, pushing Beijing to toughen its own national security laws and limit exchanges with Washington.",
-            "effet_zh": "这一事件可能加剧贸易和技术紧张关系，促使北京加强自身国家安全法规并限制与华盛顿的交流。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-05T23:47:33.326376"
       }
     ],
     "russie": [
