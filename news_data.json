@@ -1,7 +1,66 @@
 {
-  "last_updated": "21/10/2026 à 18h25",
+  "last_updated": "21/10/2026 à 22h08",
   "articles": {
     "monde": [
+      {
+        "id": "monde_513610",
+        "titre": "Émeutes parisiennes : critique d’un État-providence",
+        "titre_en": "Paris riots: critique of welfare state",
+        "titre_zh": "巴黎骚乱：福利国家受质疑",
+        "titre_ru": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
+        "titre_fa": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
+        "titre_ar": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
+        "titre_original": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
+        "resume": "L’auteure Sarah Vine attribue les violences urbaines à un système de protection sociale surdimensionné et à l’idéologie *woke*. Elle dénonce une génération de jeunes perçue comme privilégiée mais en réalité marginalisée. Les scènes de destruction seraient le symptôme d’un État qui encourage l’assistanat plutôt que l’intégration.",
+        "resume_en": "Sarah Vine links urban riots to an overblown welfare state and *woke* ideology, portraying young rioters as privileged yet marginalized. Destruction is framed as a symptom of a state fostering dependency over integration. The analysis sparks debate on social policies and generational divides.",
+        "resume_zh": "萨拉·文恩将城市骚乱归咎于膨胀的福利制度和“觉醒主义”理念，认为骚乱者被视为特权阶层但实际被边缘化。破坏行为被视为国家鼓励依赖而非融入的结果。此观点引发了对社会政策和代际差异的争议。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette analyse s’inscrit dans un débat récurrent depuis les *émeutes de 2005* en France, opposant thèses sociologiques (exclusion, précarité) et discours conservateurs (faiblesse morale). Les enjeux incluent la légitimité des politiques d’inclusion et le rôle des médias dans l’amplification des tensions. Les causes profondes sont la polarisation idéologique et la défiance envers les institutions. À court terme, cela pourrait radicaliser les discours politiques, tandis qu’à moyen terme, cela pourrait affaiblir les réformes sociales. Long terme, cela interroge la cohésion nationale dans un contexte de mondialisation. Les acteurs clés sont les médias conservateurs (*Le Figaro*, *The Telegraph*), les intellectuels critiques (comme Alain Finkielkraut), et les mouvements sociaux (Gilets jaunes).",
+        "analyse_en": "This perspective echoes recurring debates since the *2005 French riots*, pitting sociological explanations (exclusion, precarity) against conservative narratives (moral decay). Stakes include the legitimacy of inclusion policies and media’s role in amplifying tensions. Root causes lie in ideological polarization and institutional distrust. Short-term, it may radicalize political discourse; medium-term, it could weaken social reforms. Long-term, it questions national cohesion in a globalized world. Key actors include conservative media (*Le Figaro*, *The Telegraph*), critical intellectuals (like Alain Finkielkraut), and social movements (Yellow Vests).",
+        "analyse_zh": "此观点源自2005年法国骚乱以来的持续争议，对比社会学解释（排斥、贫困）和保守主义论点（道德沦丧）。主要影响涉及包容性政策的合法性和媒体在放大紧张局势中的作用。深层原因包括意识形态极化和对机构的不信任。短期内，这可能激化政治辩论；中期内，可能削弱社会改革；长期内，这将质疑在全球化背景下的国家凝聚力。关键利益相关者包括保守媒体（《费加罗报》、《电讯报》）、批评性知识分子（如阿兰·芬基尔克拉特）和社会运动（黄背心运动）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/debate/article-16224871/SARAH-VINE-French-rioters-welfare.html",
+        "image": "https://i.dailymail.com/1s/2026/10/20/21/111986475-0-image-m-20_1792529197594.jpg",
+        "date": "2026-10-20",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché de l’emploi (jeunes qualifiés)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Assurance et protection sociale",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché de l’emploi (jeunes qualifiés)",
+            "secteur_en": "Youth employment market",
+            "secteur_zh": "青年就业市场",
+            "effet_fr": "Les tensions sociales pourraient décourager les investissements dans la formation professionnelle, aggravant le chômage des diplômés.",
+            "effet_en": "Social tensions may deter investments in vocational training, worsening graduate unemployment.",
+            "effet_zh": "社会动荡可能减少对职业培训的投资，加剧毕业生失业率。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Assurance et protection sociale",
+            "secteur_en": "Social insurance sector",
+            "secteur_zh": "社会保障保险行业",
+            "effet_fr": "Les critiques pourraient accélérer les réformes de réduction des dépenses, mais risquent aussi de fragiliser les plus vulnérables.",
+            "effet_en": "Criticisms may speed up cost-cutting reforms but risk undermining the most vulnerable.",
+            "effet_zh": "批评可能加速削减开支的改革，但也可能削弱最脆弱群体的保障。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-21T22:07:53.443132"
+      },
       {
         "id": "monde_863665",
         "titre": "Vidéos choc : femme italienne confronte police sur migrants, explosion immédiate",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-15T08:53:36.025363"
-      },
-      {
-        "id": "monde_292277",
-        "titre": "Photo authentique : Hitler inspecte modèle d'arc triomphal non construit",
-        "titre_en": "Authentic photo: Hitler inspects unbuilt Berlin triumphal arch model",
-        "titre_zh": "真实照片：希特勒检视未建成的柏林凯旋门模型",
-        "titre_ru": "Фото показывает ли Гитлер осматривает модель несооружённого триумфального арки для Берлина?",
-        "titre_fa": "آیا عکس نشان می‌دهد هیتلر مدل قوس تریومفال ساخته‌نشده برای برلین را بررسی می‌کند؟",
-        "titre_ar": "هل يظهر الصورة هتلر يفحص نموذج قوس النصر غير المبني المخطط لبيرلين؟",
-        "titre_original": "Does photo show Hitler inspecting model of never-built triumphal arch planned for Berlin?",
-        "resume": "Une photographie authentifiée montre Adolf Hitler et des dirigeants nazis examinant un modèle d’un arc triomphal jamais construit pour Berlin. Ce projet architectural, lié à la propagande nazie, illustre l’ambition mégalomaniaque du régime. L’image, rare et historique, relance les débats sur la mémoire et la réinterprétation de l’Histoire.",
-        "resume_en": "An authenticated photo depicts Adolf Hitler and Nazi leaders inspecting a model of an unbuilt Berlin triumphal arch. This architectural project, tied to Nazi propaganda, reflects the regime’s megalomaniac ambitions. The rare image reignites debates on historical memory and reinterpretation.",
-        "resume_zh": "一张经过验证的照片显示希特勒和纳粹领袖检视柏林未建成凯旋门的模型。该建筑项目与纳粹宣传相关，体现了纳粹政权的狂妄野心。这张罕见的图片再次引发对历史记忆和重新解读的讨论。",
-        "resume_ru": "Чёрно-белое фото аутентично изображает Адольфа Гитлера и других лидеров нацистской партии, осматривающих модель триумфального арки, который так и не был построен для Берлина. Историки и эксперты анализируют подлинность снимка, сделанного в 1930-х годах. Это открытие может пролить свет на архитектурные амбиции нацистского режима.",
-        "resume_fa": "یک عکس سیاه و سفید واقعی هیتلر و رهبران حزب نازی را در حال بررسی مدل قوس تریومفال ساخته‌نشده برای برلین نشان می‌دهد. تاریخ‌نگاران و متخصصان در مورد اصالت این عکس که در دهه ۱۹۳۰ گرفته شده، تحلیل می‌کنند. این کشف می‌تواند به روشن شدن اهداف معماری رژیم نازی کمک کند.",
-        "resume_ar": "الصورة السوداء والأبيض الأصيلة تظهر أدولف هتلر ورؤساء الحزب النازي وهم يفحصون نموذج قوس النصر غير المبني المخطط لبيرلين. يقوم المؤرخون والخبراء بتحليل أصالة هذه الصورة التي تم التقاطها في الثلاثينيات. قد يضيء هذا الاكتشاف على طموحات معمارية نظام النازية.",
-        "analyse_detaillee": "Ce projet architectural s’inscrit dans la période 1937-1940, où Hitler cherchait à symboliser la domination allemande par des monuments colossaux. Les enjeux portent sur la glorification du régime et la manipulation de l’imaginaire collectif. Les causes profondes incluent le nationalisme exacerbé et la quête de légitimité par la grandeur monumentale. À court terme, cette découverte pourrait alimenter les polémiques sur la réutilisation des symboles nazis. À moyen terme, elle pourrait influencer les politiques de mémoire en Europe. Long terme, elle rappelle les dangers de l’idolâtrie du pouvoir absolu. Les acteurs clés sont les historiens, les institutions culturelles et les médias, souvent divisés sur la pédagogie historique.",
-        "analyse_en": "This architectural project dates from 1937-1940, when Hitler sought to symbolize German dominance through colossal monuments. The stakes involve regime glorification and collective imagination manipulation. Root causes include heightened nationalism and the quest for legitimacy through monumental grandeur. Short-term, this discovery may fuel debates on Nazi symbol reuse. Medium-term, it could shape European memory policies. Long-term, it underscores the dangers of absolute power idolatry. Key actors include historians, cultural institutions, and media, often divided on historical pedagogy.",
-        "analyse_zh": "该建筑项目始于1937-1940年，希特勒试图通过宏伟建筑象征德国的统治地位。主要影响在于政权的神化和对集体想象力的操控。深层原因包括极端民族主义和通过宏伟建筑寻求合法性。短期内，这一发现可能引发关于重新使用纳粹符号的争议。中期内，它可能影响欧洲的记忆政策。长期来看，它警示了对绝对权力崇拜的危险。关键利益相关者包括历史学家、文化机构和媒体，他们在历史教育上常常存在分歧。",
-        "analyse_ru": "Фото может стать важным источником для изучения архитектурных планов нацистов, которые оставались малоизученными. Подлинность снимка вызывает споры, так как многие документы того периода были уничтожены или сфальсифицированы. Это открытие может повлиять на восприятие истории Второй мировой войны и роли Гитлера в её планировании. Однако без дополнительных подтверждений сложно однозначно утверждать о его аутентичности. Историки призывают к осторожности в интерпретации таких материалов, учитывая риск манипуляций.",
-        "analyse_fa": "این عکس می‌تواند منبع مهمی برای مطالعه برنامه‌های معماری نازی‌ها باشد که تا به حال کمتر مورد بررسی قرار گرفته‌اند. اصالت این عکس مورد بحث است، زیرا بسیاری از مستندات آن دوره یا نابود شده یا تغییر یافته‌اند. این کشف می‌تواند تأثیرگذار بر درک تاریخ جنگ جهانی دوم و نقش هیتلر در برنامه‌ریزی آن باشد. اما بدون تأییدهای اضافی، دشوار است که به‌طور قطعی اصالت آن را تأیید کرد. تاریخ‌نگاران از دقت در تفسیر چنین مواد‌ها دعوت می‌کنند، به‌ویژه در برابر خطر دستکاری‌ها.",
-        "analyse_ar": "قد يكون هذا الصورة مصدرًا هامًا لفهم خطط معمارية النازيين التي كانت أقل دراسةً. أصالة الصورة محل نقاش، حيث تم تدمير أو تغيير العديد من الوثائق من تلك الفترة. قد يؤثر هذا الاكتشاف على فهم تاريخ الحرب العالمية الثانية ونظرة إلى دور هتلر في تخطيطها. ومع ذلك، بدون تأكيدات إضافية، يصعب تأكيد أصالة الصورة بشكل قاطع. يدعو المؤرخون إلى الحذر في تفسير مثل هذه المواد، خاصة مع خطر التلاعب بها.",
-        "categorie": "Histoire",
-        "source": "Snopes.com",
-        "url": "https://www.snopes.com//fact-check/hitler-berlin-triumphal-arch-model/",
-        "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/a_black-and-white_image_of_adolf_hitler.png",
-        "date": "2026-10-12",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des artefacts historiques et mémoriels",
-            "hausse": true
-          },
-          {
-            "label": "▲ Édition et diffusion de contenus historiques",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des artefacts historiques et mémoriels",
-            "secteur_en": "Historical content publishing and distribution",
-            "secteur_zh": "历史内容出版与传播",
-            "effet_fr": "Cette découverte pourrait faire exploser la valeur des documents et objets liés à l’ère nazie, attirant collectionneurs et investisseurs spécialisés.",
-            "effet_en": "This discovery may drive up the value of Nazi-era documents and artifacts, attracting collectors and specialized investors.",
-            "effet_zh": "这一发现可能推高纳粹时期文档和文物的价值，吸引收藏家和专业投资者。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Édition et diffusion de contenus historiques",
-            "secteur_en": "",
-            "secteur_zh": "",
-            "effet_fr": "Les médias et éditeurs pourraient exploiter cette image pour des documentaires ou livres, boostant les revenus liés à l’Histoire contemporaine.",
-            "effet_en": "Media and publishers may leverage this image for documentaries or books, increasing revenues in modern history content.",
-            "effet_zh": "媒体和出版商可能利用此图片制作纪录片或书籍，增加现代历史内容的收入。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-13T21:00:49.154819"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_361886",
+        "titre": "Trump annonce 8 milliards pour les agriculteurs",
+        "titre_en": "Trump pledges $8B relief for farmers",
+        "titre_zh": "特朗普承诺为农民提供80亿美元援助",
+        "titre_ru": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
+        "titre_fa": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
+        "titre_ar": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
+        "titre_original": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
+        "resume": "L’administration Trump propose un plan de secours de 8 milliards de dollars pour les agriculteurs américains, frappés par des prix records du diesel. Cette mesure vise à atténuer les coûts logistiques et énergétiques qui menacent la rentabilité des exploitations. Elle intervient dans un contexte de tensions inflationnistes et de pression sur les marges des producteurs.",
+        "resume_en": "The Trump administration offers $8 billion in relief to U.S. farmers struggling with record-high diesel prices. The plan aims to ease logistical and energy costs threatening farm profitability amid inflationary pressures. It reflects broader economic challenges faced by agricultural producers.",
+        "resume_zh": "特朗普政府为受高油价困扰的美国农民提供80亿美元救助计划，旨在缓解农业生产成本压力。此举是在通胀高企和农业利润受损的背景下推出的。救助措施可能影响能源和农业相关市场的稳定性。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce plan s’inscrit dans une tradition de subventions agricoles américaines, remontant aux années 1930 avec le *New Deal*. Les enjeux actuels incluent la dépendance énergétique des États-Unis et la volatilité des prix mondiaux des matières premières. Les causes profondes sont la hausse des coûts de production, aggravée par les perturbations géopolitiques (ex. : sanctions contre la Russie). À court terme, les agriculteurs pourraient voir une amélioration de leur trésorerie, mais cela pourrait aussi alimenter les débats sur la dette publique. À moyen terme, cela pourrait renforcer les pressions sur les prix des denrées alimentaires. Long terme, cela interroge la durabilité des modèles agricoles face au changement climatique. Les acteurs clés sont les lobbies agricoles (comme la *American Farm Bureau*), les républicains soutenant les mesures protectionnistes, et les démocrates critiquant leur coût fiscal.",
+        "analyse_en": "This measure follows a long tradition of U.S. agricultural subsidies dating back to the 1930s *New Deal* era. Current stakes include energy dependence and global commodity price volatility. Root causes stem from rising production costs exacerbated by geopolitical disruptions (e.g., Russian sanctions). Short-term, farmers may see cash flow relief, but this could also fuel debates over public debt. Medium-term, it may intensify food price pressures. Long-term, it questions agricultural sustainability amid climate change. Key actors include farm lobbies (like the *American Farm Bureau*), Republican supporters of protectionist policies, and Democrats criticizing fiscal costs.",
+        "analyse_zh": "此举源自上世纪30年代《新政》以来的美国农业补贴传统，当前主要影响涉及能源依赖和全球大宗商品价格波动。深层原因包括生产成本上升和地缘政治动荡（如对俄制裁）。短期内，农民现金流可能改善，但也可能加剧公共债务争议。中期内，可能加剧食品价格压力。长期来看，这将质疑农业在气候变化背景下的可持续性。关键利益相关者包括农业利益集团（如美国农场局）、支持保护主义政策的共和党人，以及批评财政成本的民主党人。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/20/business/trump-promises-8-billion-in-relief-to-farmers-reeling-from-high-diesel-costs/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145858310.jpg?quality=75&strip=all&w=1200",
+        "date": "2026-10-20",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché des matières premières agricoles",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur énergétique (pétrole/diesel)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des matières premières agricoles",
+            "secteur_en": "Agricultural commodities market",
+            "secteur_zh": "农产品期货市场",
+            "effet_fr": "Les subventions pourraient temporairement soutenir les prix des céréales et du soja, mais risquent aussi de créer des distorsions commerciales avec l’UE ou le Brésil.",
+            "effet_en": "Subsidies may temporarily prop up grain and soybean prices but risk creating trade distortions with the EU or Brazil.",
+            "effet_zh": "补贴可能暂时提振谷物和大豆价格，但也可能与欧盟或巴西等国形成贸易扭曲。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur énergétique (pétrole/diesel)",
+            "secteur_en": "Energy sector (oil/diesel)",
+            "secteur_zh": "能源行业（石油柴油）",
+            "effet_fr": "La demande en diesel pourrait baisser légèrement si les coûts logistiques diminuent, mais la dépendance aux importations de pétrole persiste.",
+            "effet_en": "Diesel demand may dip slightly if logistics costs drop, but oil import dependence remains.",
+            "effet_zh": "如果物流成本下降，柴油需求可能略有减少，但对石油进口的依赖依然存在。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-21T22:07:53.443111"
+      },
       {
         "id": "usa_660888",
         "titre": "Rénovations du golf de Trump bloquées par un litige juridique",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-15T08:53:36.025417"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_218193",
-        "titre": "Pourquoi Trump a peu de chances d’obtenir le prix Nobel de la paix",
-        "titre_en": "Why Trump unlikely to win Nobel Peace Prize",
-        "titre_zh": "特朗普获诺贝尔和平奖机会渺茫",
-        "titre_ru": "Почему Трампу маловероятно получить Нобелевскую премию мира",
-        "titre_fa": "چرا به ترامپ احتمال کمی دارد جایزه صلح نوبل را دریافت کند؟",
-        "titre_ar": "لماذا من غير المحتمل أن يفوز ترامب بجائزة نوبل للسلام؟",
-        "titre_original": "The real reason Trump is unlikely to win the Nobel peace prize",
-        "resume": "L’article analyse les obstacles politiques et idéologiques qui empêchent Donald Trump d’obtenir le prix Nobel de la paix, malgré ses tentatives. La commission, perçue comme biaisée, pourrait voir en lui un symbole de division plutôt que de réconciliation. Navi Pillay, ancienne juge de la CPI, est citée comme une figure clé pour restaurer la crédibilité du prix.",
-        "resume_en": "The article examines political and ideological obstacles preventing Donald Trump from winning the Nobel Peace Prize, despite his attempts. The committee, seen as biased, may view him as a symbol of division rather than reconciliation. Navi Pillay, former ICC judge, is cited as a key figure to restore the award’s credibility.",
-        "resume_zh": "文章分析政治和意识形态障碍，阻止特朗普获得诺贝尔和平奖，尽管他多次尝试。委员会被视为有偏见，可能将他视为分裂而非和解的象征。前国际刑事法院法官纳维·皮莱被提及为恢复该奖项声誉的关键人物。",
-        "resume_ru": "Амбиции Трампа получить Нобелевскую премию мира сталкиваются с политическими взглядами комитета, который традиционно присуждает награду за вклад в мирное урегулирование конфликтов. Критики отмечают, что его внешняя политика часто провоцирует напряжённость, а не способствует диалогу. Нави Пиллай, бывший судья Международного суда, может помочь восстановить доверие к премии, но её влияние на решение комитета остаётся неясным.",
-        "resume_fa": "امیدهای ترامپ برای دریافت جایزه صلح نوبل با دیدگاه‌های سیاسی کمیته که معمولاً این جایزه را به کسانی که در حل و فصل درگیری‌ها نقش دارند، اعطا می‌کند، در تضاد است. منتقدان می‌گویند سیاست خارجی او اغلب تنش‌ها را تشدید می‌کند، نه به گفتگو کمک می‌کند. ناوی پیلای، قاضی سابق دادگاه بین‌المللی، ممکن است در بازسازی اعتماد به این جایزه کمک کند، اما تأثیر او بر تصمیم کمیته هنوز نامشخص است.",
-        "resume_ar": "طموحات ترامب في الحصول على جائزة نوبل للسلام تتعارض مع منظور اللجنة السياسية التي عادة ما تمنح الجائزة للأشخاص الذين يساهمون في حل النزاعات. ينتقد critics أن سياسته الخارجية غالبًا ما تشدد التوترات بدلاً من المساهمة في الحوار. قد تساعد نافي بيلاي، قاضية سابق في المحكمة الدولية، في استعادة الثقة في الجائزة، ولكن تأثيرها على قرار اللجنة لا يزال غير واضح.",
-        "analyse_detaillee": "Le prix Nobel de la paix, créé en 1901, reflète souvent les valeurs progressistes et multilatérales, en opposition aux politiques unilatérales de Trump. Les enjeux incluent la légitimité du comité face aux critiques sur son manque d’objectivité. Les causes profondes sont les tensions géopolitiques actuelles et la polarisation aux États-Unis. Court terme, cette exclusion pourrait renforcer l’image de Trump comme figure controversée. Moyen terme, cela pourrait inciter le comité à réformer ses critères. Long terme, cela pourrait redéfinir les attentes autour de ce prix. Les acteurs clés sont les membres du comité, les médias et les opposants politiques à Trump.",
-        "analyse_en": "The Nobel Peace Prize, established in 1901, often reflects progressive and multilateral values, clashing with Trump’s unilateral policies. Stakes include the committee’s legitimacy amid criticism of its lack of objectivity. Root causes involve current geopolitical tensions and US polarization. Short-term, this exclusion may reinforce Trump’s controversial image. Medium-term, it could push the committee to reform its criteria. Long-term, it may redefine expectations around the prize. Key actors include committee members, media, and Trump’s political opponents.",
-        "analyse_zh": "诺贝尔和平奖于1901年设立，通常反映进步和多边价值观，与特朗普的单边政策相冲突。主要影响在于委员会的合法性面临对其缺乏客观性的批评。深层原因包括当前的地缘政治紧张局势和美国的两极分化。短期内，这一排除可能加强特朗普作为争议人物的形象。中期内，这可能推动委员会改革其标准。长期来看，这可能重新定义对该奖项的期望。关键利益相关者包括委员会成员、媒体和特朗普的政治反对派。",
-        "analyse_ru": "Комитет Нобелевского комитета традиционно избегает награждать политиков, чьи действия вызывают международные споры. Трампу сложно соответствовать критериям премии, так как его политика часто воспринимается как провокационная. Однако, если комитет решит наградить его, это может вызвать волну критики и протестов со стороны международного сообщества. Нави Пиллай, известная своими прогрессивными взглядами, может оказать влияние на решение, но её авторитет среди членов комитета не гарантирует положительного исхода. В долгосрочной перспективе, если премия будет присуждена Трампу, это может подорвать её авторитет и легитимность.",
-        "analyse_fa": "کمیته جایزه نوبل معمولاً از اعطای جایزه به سیاستمداران که اقداماتشان باعث ایجاد اختلافات بین‌المللی می‌شود، اجتناب می‌کند. برای ترامپ دشوار است که به معیارهای جایزه برسد، زیرا سیاست او اغلب به عنوان تحریک‌آمیز در نظر گرفته می‌شود. اما اگر کمیته تصمیم به اعطای جایزه به او بگیرد، این می‌تواند موجی از انتقاد و اعتراض از سوی جامعه بین‌المللی ایجاد کند. ناوی پیلای، که با دیدگاه‌های پیشرو خود شناخته شده‌است، می‌تواند بر تصمیم تأثیر بگذارد، اما اعتبار او در میان اعضا کمیته تضمین‌کننده نتیجه مثبت نیست. در بلندمدت، اگر جایزه به ترامپ اعطا شود، این می‌تواند اعتبار و مشروعیت جایزه را زیر سؤال ببرد.",
-        "analyse_ar": "لجنة جائزة نوبل عادة ما تجنب منح الجائزة لسياسيين أعمالهم تسبب في خلافيات دولية. من الصعب على ترامب أن يتوافق مع معايير الجائزة، حيث أن سياسته غالبًا ما تُعتبر استفزازية. ومع ذلك، إذا قررت اللجنة منح الجائزة له، قد يؤدي ذلك إلى موج من النقد والاحتجاج من المجتمع الدولي. قد تؤثر نافي بيلاي، المعروفة بمواقفها التقدمية، على القرار، ولكن نفوذها بين أعضاء اللجنة لا يضمن نتيجة إيجابية. على المدى الطويل، إذا منح الجائزة لترامب، قد تضعف ذلك مصداقية وجاهزية الجائزة.",
+        "id": "chine_142827",
+        "titre": "Apple et l’Inde ne remplaceront pas la Chine",
+        "titre_en": "Apple’s India won’t replace China’s factories",
+        "titre_zh": "苹果工厂不会让印度取代中国",
+        "titre_ru": "Commentary: Apple’s iPhone factories won’t make India the next China",
+        "titre_fa": "Commentary: Apple’s iPhone factories won’t make India the next China",
+        "titre_ar": "Commentary: Apple’s iPhone factories won’t make India the next China",
+        "titre_original": "Commentary: Apple’s iPhone factories won’t make India the next China",
+        "resume": "L’Inde s’impose dans la chaîne d’approvisionnement électronique, mais les coûts fiscaux et logistiques restent prohibitifs. Andy Mukherjee analyse si ces investissements valent le prix payé par les contribuables. Le modèle chinois de main-d’œuvre abondante et d’infrastructures intégrées semble difficile à reproduire.",
+        "resume_en": "India is deepening its role in the global electronics supply chain, but fiscal and logistical costs remain prohibitive. Andy Mukherjee questions whether these investments justify taxpayer expenses. The Chinese model of abundant labor and integrated infrastructure appears hard to replicate.",
+        "resume_zh": "印度正深度参与全球电子供应链，但税收和物流成本依然高昂。安迪·穆克吉质疑这些投资是否值得纳税人承担。中国依靠充足劳动力和完整基础设施的模式难以复制。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce sujet s’inscrit dans la rivalité sino-indienne pour attirer les investissements étrangers, remontant aux années 2000 avec l’émergence de la *délocalisation chinoise*. Les enjeux incluent la compétitivité industrielle et la souveraineté technologique. Les causes profondes sont les écarts de productivité et les barrières non tarifaires (ex. : réglementations locales). À court terme, l’Inde pourrait gagner des parts de marché dans les composants électroniques bas de gamme, mais à moyen terme, elle risque de rester dépendante des semi-conducteurs chinois. Long terme, cela pourrait accélérer la fragmentation de la chaîne d’approvisionnement mondiale. Les acteurs clés sont les géants tech (Apple, Foxconn), le gouvernement indien (via *PLI scheme*), et les fabricants chinois (TSMC, Huawei).",
+        "analyse_en": "This reflects the Sino-Indian competition for foreign investment, dating back to the 2000s *Chinese outsourcing* boom. Stakes include industrial competitiveness and tech sovereignty. Root causes lie in productivity gaps and non-tariff barriers (e.g., local regulations). Short-term, India may gain low-end electronics market shares, but medium-term, it risks remaining dependent on Chinese semiconductors. Long-term, this could accelerate global supply chain fragmentation. Key actors include tech giants (Apple, Foxconn), India’s government (*PLI scheme*), and Chinese manufacturers (TSMC, Huawei).",
+        "analyse_zh": "此问题反映了中印竞争吸引外资，源自2000年代中国外包热潮。主要影响涉及工业竞争力和技术主权。深层原因包括生产力差距和非关税壁垒（如地方法规）。短期内，印度可能在低端电子产品市场占据份额，但中期内可能仍依赖中国半导体。长期来看，这将加速全球供应链分裂。关键利益相关者包括科技巨头（苹果、富士康）、印度政府（产业振兴计划）和中国制造商（台积电、华为）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Rt-english.com",
-        "url": "https://rt-english.com/news/647105-trump-nobel-peace-prize/",
-        "image": "https://mf.b37mrtl.ru/files/2026.10/article/6acd475120302763b6030147.jpg",
-        "date": "2026-10-12",
-        "pays": "usa",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/commentary/apple-iphone-india-china-supply-chain-6475156",
+        "image": "https://dam.mediacorp.sg/image/upload/s--FxTVI7fx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-15T115458Z_3_LYNXMPEM0E0NM_RTROPTP_3_INDIA-SMARTPHONES.JPG?itok=zpkQ2_Oe",
+        "date": "2026-10-20",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché des prix et distinctions internationales",
+            "label": "▼ Marché des semi-conducteurs",
             "hausse": false
           },
           {
-            "label": "▲ Communication politique et image publique",
-            "hausse": true
+            "label": "▼ Financement des infrastructures (subventions publiques)",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des prix et distinctions internationales",
-            "secteur_en": "International awards and distinctions market",
-            "secteur_zh": "国际奖项和荣誉市场",
-            "effet_fr": "L’exclusion de Trump pourrait dévaloriser temporairement les prix liés à la diplomatie, réduisant l’attractivité pour les figures politiques controversées.",
-            "effet_en": "Trump’s exclusion may temporarily devalue diplomacy-linked awards, reducing appeal for controversial political figures.",
-            "effet_zh": "特朗普的排除可能暂时贬值与外交相关的奖项，降低争议政治人物的吸引力。",
+            "secteur_fr": "Marché des semi-conducteurs",
+            "secteur_en": "Semiconductor market",
+            "secteur_zh": "半导体市场",
+            "effet_fr": "L’Inde pourrait voir une hausse de la demande en puces locales, mais les délais de production restent inférieurs à ceux de la Chine.",
+            "effet_en": "India may see a rise in demand for local chips, but production lead times remain shorter in China.",
+            "effet_zh": "印度可能看到本土芯片需求上升，但生产周期仍不及中国。",
             "hausse": false
           },
           {
-            "secteur_fr": "Communication politique et image publique",
-            "secteur_en": "Political communication and public image",
-            "secteur_zh": "政治沟通与公众形象",
-            "effet_fr": "Cette décision pourrait renforcer la stratégie de Trump de se présenter comme une victime des élites, mobilisant son électorat.",
-            "effet_en": "This decision may strengthen Trump’s strategy of portraying himself as a victim of elites, mobilizing his base.",
-            "effet_zh": "这一决定可能加强特朗普将自己塑造成精英受害者的策略，动员其支持者。",
-            "hausse": true
+            "secteur_fr": "Financement des infrastructures (subventions publiques)",
+            "secteur_en": "Public infrastructure funding",
+            "secteur_zh": "公共基础设施融资",
+            "effet_fr": "Les subventions indiennes pourraient attirer des investissements, mais leur rentabilité reste incertaine face aux coûts logistiques élevés.",
+            "effet_en": "Indian subsidies may attract investments but their ROI remains uncertain against high logistics costs.",
+            "effet_zh": "印度补贴可能吸引投资，但回报率在高物流成本面前仍不确定。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-10-13T21:00:49.154858"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-21T22:07:53.443144"
+      },
       {
         "id": "chine_38569",
         "titre": "États-Unis interdisent DeepSeek aux systèmes gouvernementaux",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-09T22:17:53.413638"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_133826",
-        "titre": "Cyberattaque ciblant chercheurs taïwanais via événements publics",
-        "titre_en": "Cyberattack targets Taiwanese researchers via public events",
-        "titre_zh": "网络攻击利用公众活动针对台湾研究人员",
-        "titre_ru": "Хакеры используют AI для рассылки фишинговых писем под видом реальных событий Google",
-        "titre_fa": "هکرها با استفاده از AI، ایمیل‌های فیشینگ واقعی را با موضوع رویدادهای گوگل ارسال می‌کنند",
-        "titre_ar": "الهكرون يستغلون الذكاء الاصطناعي لإرسال رسائل خادعة مزيفة تحت اسم أحداث جوجل الحقيقية",
-        "titre_original": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
-        "resume": "Cisco Talos a révélé une campagne de phishing sophistiquée utilisant des thèmes d’événements légitimes pour cibler des chercheurs taïwanais. L’opération imite des organisations respectables et exploite l’IA pour des attaques en temps réel. Les cibles sont principalement liées à des institutions de recherche sensibles.",
-        "resume_en": "Cisco Talos uncovered a sophisticated phishing campaign using legitimate event themes to target Taiwanese researchers. The operation impersonates reputable organizations and leverages AI for real-time attacks. Primary targets are linked to sensitive research institutions.",
-        "resume_zh": "思科Talos揭露了一个利用公众活动主题的高级钓鱼攻击，目标是台湾研究人员。该行动假冒可信机构，并利用人工智能进行实时攻击。主要目标是与敏感研究机构相关的个人。",
-        "resume_ru": "Компания Cisco Talos обнаружила кампанию фишинговых писем, направленную на сотрудников исследовательских организаций Тайваня. Атака использовала темы реальных публичных событий и поддельные аккаунты известных организаций. Цель — кража данных или распространение вредоносного ПО.",
-        "resume_fa": "شرکت سیسکو تالوس یک کمپین ایمیل فیشینگ را شناسایی کرد که به کارکنان سازمان‌های پژوهشی تایوان هدف قرار داده شده‌است. این حمله از موضوعات رویدادهای عمومی واقعی و حساب‌های جعلی سازمان‌های معتبر استفاده کرد. هدف: دزدیدن اطلاعات یا پخش نرم‌افزارهای مخرب.",
-        "resume_ar": "شركة سيسكو تالوس اكتشفت حملة رسائل خادعة موجهة إلى موظفي المنظمات البحثية في تايوان. استغل هذه الهجمة مواضيع أحداث عامة حقيقية وحسابات مزيفة لمؤسسات معترف بها. الهدف: سرقة البيانات أو نشر برامج ضارة.",
-        "analyse_detaillee": "Cette attaque s’inscrit dans une escalade des cybermenaces liées à la tension sino-taïwanaise, où les APT (Acteurs de Menace Persistants) ciblent les infrastructures critiques. Les enjeux incluent la protection des innovations technologiques et la souveraineté des données. Les causes profondes sont la rivalité géopolitique et la dépendance croissante aux technologies numériques. À court terme, cela pourrait paralyser des projets de recherche sensibles. À moyen terme, cela pourrait renforcer les cyberdéfenses taïwanaises et les alliances technologiques avec des partenaires étrangers. Long terme, cela pourrait redéfinir les normes de cybersécurité dans la région Asie-Pacifique. La Chine nie toute implication, tandis que Taïwan et les États-Unis accusent des groupes pro-pékinois.",
-        "analyse_en": "This attack reflects an escalation in cyber threats tied to Sino-Taiwanese tensions, where APTs target critical infrastructure. Stakes involve protecting technological innovations and data sovereignty. Root causes include geopolitical rivalry and growing dependence on digital technologies. Short-term, this could disrupt sensitive research projects. Medium-term, it may strengthen Taiwan’s cyberdefenses and technological alliances with foreign partners. Long-term, it could redefine cybersecurity norms in the Asia-Pacific region. China denies involvement, while Taiwan and the U.S. accuse pro-Beijing groups.",
-        "analyse_zh": "此次攻击反映了中台紧张关系下网络威胁的升级，持续性威胁者（APT）目标是关键基础设施。核心问题涉及保护技术创新和数据主权。深层原因包括地缘政治竞争和对数字技术的依赖。短期内，可能会阻碍敏感研究项目。中期内，可能加强台湾的网络防御和与外国伙伴的技术合作。长期来看，可能重新定义亚太地区的网络安全标准。中国否认参与，而台湾和美国指控北京支持的团体。",
-        "analyse_ru": "Контекст: рост киберугроз с использованием AI, особенно в сфере фишинга, где атаки становятся более реалистичными. Причины: доступность технологий AI, сложность обнаружения поддельных писем, рост интереса к данным исследовательских организаций. Последствия: риск кражи конфиденциальной информации, ущерб репутации организаций, финансовые потери. Перспективы: развитие технологий защиты от фишинга, но и рост сложности атак. Позиции сторон: компании должны усилить мониторинг, пользователи — быть осторожнее с подозрительными ссылками.",
-        "analyse_fa": "زمینه: افزایش تهدیدهای سایبری با استفاده از AI، به ویژه در زمینه فیشینگ، جایی که حملات واقع‌گرایانه‌تر می‌شوند. علل: دسترسی به فناوری‌های AI، دشواری تشخیص ایمیل‌های جعلی، و افزایش علاقه به داده‌های سازمان‌های پژوهشی. پیامدها: خطر دزدیدن اطلاعات محرمانه، آسیب به شهرت سازمان‌ها و خسارات مالی. چشم‌انداز: پیشرفت در فناوری‌های محافظتی، اما همزمان افزایش پیچیدگی حملات. موضع بازیگران: شرکت‌ها باید نظارت خود را تقویت کنند، کاربران نیز باید با لینک‌های مشکوک احتیاط کنند.",
-        "analyse_ar": "السياق: ازدياد التهديدات السيبرانية باستخدام الذكاء الاصطناعي، خاصة في مجال الخداع، حيث تصبح الهجمات أكثر واقعية. الأسباب: سهولة الوصول إلى تقنيات الذكاء الاصطناعي، صعوبة اكتشاف رسائل البريد المزيفة، و ازدياد اهتمام البيانات من المنظمات البحثية. العواقب: خطر سرقة المعلومات السرية، ضرر في سمعة المؤسسات، وخسائر مالية. الآفاق: تطور تقنيات الحماية ضد الخداع، ولكن مع ازدياد تعقيد الهجمات. مواقف الأطراف: يجب على الشركات تعزيز المراقبة، بينما يجب على المستخدمين الحذر من الروابط المشبوهة.",
-        "categorie": "Cybersécurité",
-        "source": "Talosintelligence.com",
-        "url": "https://blog.talosintelligence.com/uat-11985/",
-        "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/threat_spotlight.jpg",
-        "date": "2026-10-08",
-        "pays": "chine",
+        "id": "russie_482183",
+        "titre": "Rapport mini: frappes russes en Ukraine",
+        "titre_en": "Mini-report: Russian strikes in Ukraine",
+        "titre_zh": "小报告：俄罗斯对乌克兰的袭击",
+        "titre_ru": "Tuesday’s Mini-Report, 10.20.26",
+        "titre_fa": "Tuesday’s Mini-Report, 10.20.26",
+        "titre_ar": "Tuesday’s Mini-Report, 10.20.26",
+        "titre_original": "Tuesday’s Mini-Report, 10.20.26",
+        "resume": "La Russie intensifie ses frappes sur les zones civiles ukrainiennes, faisant au moins quatre morts selon les autorités. Ce rapport mini souligne l’escalade des attaques aériennes et par drones. Les conséquences humanitaires et sécuritaires s’aggravent dans un contexte de guerre prolongée.",
+        "resume_en": "Russia escalates strikes on Ukrainian civilian areas, killing at least four, per officials. This mini-report highlights the surge in air and drone attacks. Humanitarian and security consequences worsen amid prolonged war.",
+        "resume_zh": "俄罗斯加剧对乌克兰平民区的袭击，造成至少4人死亡。此小报告强调空袭和无人机攻击的升级。人道主义和安全后果在持续战争中恶化。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette escalade s’inscrit dans la stratégie russe depuis *2014* (annexion de la Crimée) et *2022* (invasion à grande échelle), visant à affaiblir moralement l’Ukraine et ses alliés. Les enjeux incluent la souveraineté ukrainienne et l’équilibre des puissances en Europe de l’Est. Les causes profondes sont les tensions historiques (ex. : *Holodomor*), la dépendance énergétique de l’Europe, et la doctrine militaire russe (*hybride*). À court terme, les frappes pourraient accélérer l’exode des civils et la pénurie de ressources. À moyen terme, cela pourrait renforcer les divisions au sein de l’OTAN. Long terme, cela interroge la viabilité d’un cessez-le-feu et la redéfinition des frontières en Europe. Les acteurs clés sont Poutine, Zelensky, et les puissances occidentales (États-Unis, UE) ainsi que la Chine en tant qu’acteur d’équilibrage.",
+        "analyse_en": "This escalation follows Russia’s strategy since *2014* (Crimea annexation) and *2022* (full-scale invasion), aiming to morally weaken Ukraine and its allies. Stakes include Ukrainian sovereignty and East European power balance. Root causes lie in historical tensions (*Holodomor*), Europe’s energy dependence, and Russia’s *hybrid* doctrine. Short-term, strikes may accelerate civilian exodus and resource shortages. Medium-term, this could deepen NATO divisions. Long-term, it questions ceasefire viability and redrawing European borders. Key actors include Putin, Zelensky, Western powers (U.S., EU), and China as a balancing actor.",
+        "analyse_zh": "此升级源自2014年（克里米亚吞并）和2022年（全面入侵）以来的俄罗斯战略，旨在削弱乌克兰及其盟友的士气。主要影响涉及乌克兰主权和东欧权力平衡。深层原因包括历史紧张关系（如“饥荒政策”），欧洲对能源的依赖，以及俄罗斯的“混合战争”战略。短期内，袭击可能加速平民外逃和资源短缺。中期内，这可能加剧北约内部分裂。长期来看，这将质疑停火的可行性和欧洲边界的重新划定。关键利益相关者包括普京、泽连斯基、西方强国（美国、欧盟）以及作为平衡者的中国。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9bf10777c4613cc1",
+        "image": "https://biztoc.com/cdn/9bf10777c4613cc1_s.webp",
+        "date": "2026-10-20",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Marché des assurances cyber",
+            "label": "▲ Marché des assurances (risques guerre)",
             "hausse": true
           },
           {
-            "label": "▼ Bourse technologique (TAIEX)",
+            "label": "▼ Secteur énergétique (pétrole/gaz ukrainien)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des assurances cyber",
-            "secteur_en": "Cyber insurance market",
-            "secteur_zh": "网络保险市场",
-            "effet_fr": "Les attaques ciblées pourraient entraîner une hausse des primes et une restriction des couvertures pour les institutions de recherche.",
-            "effet_en": "Targeted attacks may lead to higher premiums and reduced coverage for research institutions.",
-            "effet_zh": "针对性攻击可能导致研究机构保险费用上涨和保障范围缩小。",
+            "secteur_fr": "Marché des assurances (risques guerre)",
+            "secteur_en": "Insurance market (war risks)",
+            "secteur_zh": "保险市场（战争风险）",
+            "effet_fr": "Les primes d’assurance pour les biens en Ukraine pourraient exploser, mais les assureurs pourraient aussi limiter ou annuler les couvertures.",
+            "effet_en": "Ukrainian property insurance premiums may skyrocket, but insurers may also cap or cancel coverage.",
+            "effet_zh": "乌克兰财产保险费用可能飙升，但保险公司可能限制或取消保障。",
             "hausse": true
           },
           {
-            "secteur_fr": "Bourse technologique (TAIEX)",
-            "secteur_en": "Taiwan Stock Exchange (TAIEX)",
-            "secteur_zh": "台湾证券交易所（TAIEX）",
-            "effet_fr": "Les craintes accrues pour la sécurité des données pourraient peser sur les valeurs technologiques et les startups locales.",
-            "effet_en": "Increased data security concerns may weigh on tech stocks and local startups.",
-            "effet_zh": "数据安全风险加剧可能压低科技股和本地初创企业的估值。",
+            "secteur_fr": "Secteur énergétique (pétrole/gaz ukrainien)",
+            "secteur_en": "Energy sector (Ukrainian oil/gas)",
+            "secteur_zh": "能源行业（乌克兰石油/天然气）",
+            "effet_fr": "Les infrastructures énergétiques ukrainiennes, déjà fragilisées, pourraient subir des dommages collatéraux, perturbant les approvisionnements européens.",
+            "effet_en": "Ukraine’s already fragile energy infrastructure may face collateral damage, disrupting European supplies.",
+            "effet_zh": "乌克兰已经脆弱的能源基础设施可能遭到二次破坏，扰乱欧洲供应。",
             "hausse": false
           }
         ],
-        "created_at": "2026-10-09T10:05:15.272121"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-21T22:07:53.443162"
+      },
       {
         "id": "russie_302839",
         "titre": "Merz alerte : l’Europe sous-estime la menace russe en Ukraine",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-12T07:15:07.316755"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_700661",
-        "titre": "Bilan macabre : frappes russes en Ukraine",
-        "titre_en": "Russia’s strikes kill over 100 civilians",
-        "titre_zh": "俄军袭击乌克兰致100余平民死亡",
-        "titre_ru": "Налеты России на Украину достигли «нового ужасающего уровня», предупреждает ООН Совету безопасности",
-        "titre_fa": "بمباران روسیه به اوکراین به «سطح جدید وحشتناکی» رسیده، سازمان ملل به شورای امنیت هشدار می‌دهد",
-        "titre_ar": "الهجمات الروسية على أوكرانيا وصلت إلى «مستوى جديد مخيف»، تحذير من الأمم المتحدة لمجلس الأمن",
-        "titre_original": "Russian Strikes against Ukraine Have Reached ‘New Horrifying Level’, Top United Nations Peacebuilding Official Warns Security Council, Amid Calls for Immediate Ceasefire",
-        "resume": "Les frappes russes en Ukraine ont fait plus de 100 morts civils cette semaine, selon l’ONU, qui alerte sur une escalade 'horrifiante'. Les attaques ciblent villes et infrastructures critiques, exacerbant la crise humanitaire. L’ONU appelle à une cessation immédiate des hostilités.",
-        "resume_en": "Russian strikes in Ukraine have killed over 100 civilians this week, per the UN, which warns of a 'new horrifying level'. Attacks target cities and critical infrastructure, worsening the humanitarian crisis. The UN urges an immediate halt to hostilities.",
-        "resume_zh": "俄罗斯对乌克兰的袭击本周造成100余平民死亡，联合国警告称这是一个‘新的恐怖水平’。袭击目标包括城市和关键基础设施，加剧了人道主义危机。联合国呼吁立即停止敌对行动。",
-        "resume_ru": "Официальные лица ООН сообщили Совету безопасности, что российские удары по Украине за эту неделю убили более 100 гражданских лиц. Они предупредили об интенсификации атак на города и критически важные инфраструктуры. В докладе отмечается, что Россия продолжает нарушать международное право, несмотря на многочисленные призывы к прекращению огня. Украина требует немедленной реакции международного сообщества для защиты гражданского населения. ООН призывает к срочным мерам для предотвращения дальнейших жертв.",
-        "resume_fa": "اعضای سازمان ملل به شورای امنیت گزارش دادند که بمباران روسیه به اوکراین در این هفته بیش از صد نفر از مردم غیرنظامی را کشته است. آن‌ها از افزایش حملات به شهرها و زیرساخت‌های حیاتی هشدار دادند. در گزارش آمده است که روسیه همچنان به نقض حقوق بین‌المللی ادامه می‌دهد، در حالی که به تعداد زیادی از خواسته‌های توقف آتش‌باری پاسخ داده نشده است. اوکراین از واکنش فوری جامعه بین‌المللی برای حفاظت از مردم غیرنظامی می‌خواهد. سازمان ملل به اقدامات فوری برای جلوگیری از تلفات بیشتر می‌خواند.",
-        "resume_ar": "أبلغت مسؤولون من الأمم المتحدة مجلس الأمن بأن الهجمات الروسية على أوكرانيا قتلت أكثر من مئة مدني خلال هذه الأسبوع. حذروا من تزايد الهجمات على المدن والبنية التحتية الحيوية. يشار في التقرير إلى أن روسيا تستمر في انتهاك القانون الدولي، رغم العديد من النداءات بالوقف الفوري للقتال. تطلب أوكرانيا رد فعل فوري من المجتمع الدولي لحماية المدنيين. تدعو الأمم المتحدة إلى اتخاذ إجراءات فورية لمنع المزيد من الضحايا.",
-        "analyse_detaillee": "Cette escalade s’inscrit dans une guerre d’agression lancée par la Russie en février 2022, marquant une rupture avec l’ordre géopolitique post-Guerre froide. Les frappes massives sur des zones civiles visent à briser la résistance ukrainienne et à accélérer une victoire militaire, malgré l’isolement international croissant de Moscou. Les causes profondes incluent la révisionnisme historique russe (déni de l’Holocauste ukrainien) et la quête de domination régionale par Poutine. À court terme, ces attaques pourraient provoquer une nouvelle vague de réfugiés et affaiblir davantage l’économie ukrainienne déjà dévastée. À moyen terme, l’UE et l’OTAN pourraient durcir leurs sanctions, tandis que la Chine et l’Inde pourraient renforcer leur neutralité apparente. Long terme, cette guerre pourrait redessiner les frontières européennes et accélérer la fragmentation de l’OTAN. La Russie, isolée, justifie ses actions par une 'dénazification', tandis que l’Ukraine et ses alliés dénoncent un génocide systématique.",
-        "analyse_en": "This escalation follows Russia’s war of aggression launched in February 2022, breaking with the post-Cold War geopolitical order. Mass strikes on civilian areas aim to crush Ukrainian resistance and hasten a military victory, despite Moscow’s growing international isolation. Root causes include Russian revisionism (denial of the Ukrainian Holocaust) and Putin’s quest for regional dominance. Short-term, these attacks may trigger another refugee wave and further devastate Ukraine’s already crippled economy. Medium-term, the EU and NATO could tighten sanctions, while China and India may bolster their apparent neutrality. Long-term, this war may redraw European borders and accelerate NATO fragmentation. Russia, isolated, justifies actions via 'denazification,' while Ukraine and allies condemn systematic genocide.",
-        "analyse_zh": "这一升级发生在俄罗斯2022年2月发动的侵略战争背景下，打破了冷战后的地缘政治秩序。对平民区的大规模袭击旨在打击乌克兰的抵抗并加速军事胜利，尽管莫斯科正面临日益加深的国际孤立。深层原因包括俄罗斯的历史修正主义（否认乌克兰大屠杀）和普京对地区主导权的追求。短期内，这些袭击可能引发新一轮难民潮，进一步摧毁已经严重受损的乌克兰经济。中期内，欧盟和北约可能加强制裁，而中国和印度可能加强其表面上的中立立场。长期来看，这场战争可能重新绘制欧洲边界，并加速北约的分裂。俄罗斯处于孤立状态，以‘去纳粹化’为由辩护，而乌克兰及其盟友则谴责系统性种族灭绝。",
-        "analyse_ru": "Контекст эскалации конфликта связан с продолжающейся агрессией России против Украины, несмотря на международные усилия по деэскалации. Причины интенсификации ударов могут быть связаны с желанием Москвы демонстрировать силу и устрашать Киев. Последствия для Украины включают рост числа жертв среди гражданского населения и разрушение инфраструктуры. Перспективы мирного урегулирования остаются туманными, особенно после отказа России от переговоров. Позиции сторон остаются противоположными: Россия отрицает вину и обвиняет Украину в эскалации, в то время как международное сообщество требует прекращения военных действий и восстановления мира.",
-        "analyse_fa": "زمینه تشدید درگیری مربوط به ادامه تهاجم روسیه به اوکراین است، در حالی که تلاش‌های بین‌المللی برای کاهش تنش ادامه دارد. دلایل افزایش بمباران ممکن است شامل تلاش روسیه برای نشان دادن قدرت و ترساندن کی‌یف باشد. پیامدهای این موضوع برای اوکراین شامل افزایش تلفات غیرنظامیان و تخریب زیرساخت‌ها است. چشم‌انداز برای حل و فصل صلح‌آمیز همچنان مبهم است، به ویژه پس از انکار روسیه برای مشاوره. مواضع بازیگران همچنان متضاد است: روسیه مسئولیت را انکار می‌کند و اوکراین را متهم به تشدید درگیری می‌کند، در حالی که جامعه بین‌المللی از پایان عملیات نظامی و بازسازی صلح می‌خواهد.",
-        "analyse_ar": "سياق تصعيد الصراع مرتبط بتواصل عدوانية روسيا ضد أوكرانيا، رغم جهود المجتمع الدولي للحد من التصعيد. أسباب زيادة الهجمات قد تكون مرتبطة برغبة موسكو في عرض القوة وإرهاب كييف. العواقب على أوكرانيا تشمل زيادة عدد الضحايا المدنيين وتدمير البنية التحتية. الآفاق لحل سلمي مبهمة، خاصة بعد رفض روسيا للمفاوضات. مواقف الأطراف متباينة: روسيا تنفي المسؤولية وتتهم أوكرانيا بالتصعيد، بينما يدعو المجتمع الدولي إلى وقف العمليات العسكرية وإعادة السلام.",
+        "id": "iran_509806",
+        "titre": "Géants de la défense face à la guerre Iran",
+        "titre_en": "Defense giants hit by Iran war backlogs",
+        "titre_zh": "伊朗战争导致防务巨头订单爆满",
+        "titre_ru": "Defense Giants Post Record Backlogs As Iran War Drains America’s Missile Stockpiles",
+        "titre_fa": "Defense Giants Post Record Backlogs As Iran War Drains America’s Missile Stockpiles",
+        "titre_ar": "Defense Giants Post Record Backlogs As Iran War Drains America’s Missile Stockpiles",
+        "titre_original": "Defense Giants Post Record Backlogs As Iran War Drains America’s Missile Stockpiles",
+        "resume": "RTX et Northrop Grumman enregistrent des carnets de commandes records alors que le Pentagone accélère le réapprovisionnement en missiles. Cette dynamique reflète l’escalade des tensions avec l’Iran et ses proxys. Les coûts pour les contribuables américains pourraient exploser dans un contexte de pression budgétaire.",
+        "resume_en": "RTX and Northrop Grumman report record backlogs as the Pentagon rushes to replenish missile stocks amid Iran tensions. This surge reflects escalating conflicts and proxy wars. U.S. taxpayer costs may skyrocket amid budgetary pressures.",
+        "resume_zh": "RTX和诺斯罗普·格鲁曼公司记录了订单高峰，因为五角大楼加速补充导弹库存以应对伊朗紧张局势。这种趋势反映了冲突升级和代理战争。美国纳税人成本可能在预算压力下飙升。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce phénomène s’inscrit dans une dynamique géopolitique post-*1979* (révolution iranienne) et post-*2003* (guerre en Irak), où les États-Unis ont systématiquement surréagi aux menaces perçues. Les enjeux actuels incluent la stabilité régionale au Moyen-Orient et la capacité de dissuasion américaine. Les causes profondes sont la doctrine de *containment* appliquée à l’Iran et la dépendance aux alliances régionales (GCC, Israël). À court terme, les entreprises bénéficieront de contrats juteux, mais cela pourrait aussi accélérer l’épuisement des budgets militaires. À moyen terme, cela pourrait renforcer les pressions pour une diplomatie plus agressive. Long terme, cela interroge la durabilité des engagements américains dans la région. Les acteurs clés sont le Pentagone, les lobbies de défense (comme *Lockheed Martin*), et les alliés régionaux (Arabie saoudite, Israël).",
+        "analyse_en": "This trend follows post-*1979* (Iranian Revolution) and post-*2003* (Iraq War) U.S. overreactions to perceived threats. Current stakes include Middle Eastern stability and U.S. deterrence capacity. Root causes stem from *containment* doctrine toward Iran and reliance on regional alliances (GCC, Israel). Short-term, firms gain lucrative contracts but may accelerate military budget depletion. Medium-term, this could push for more aggressive diplomacy. Long-term, it questions U.S. regional engagement sustainability. Key actors include the Pentagon, defense lobbies (*Lockheed Martin*), and regional allies (Saudi Arabia, Israel).",
+        "analyse_zh": "此现象源自1979年伊朗革命和2003年伊拉克战争后的美国过度反应。当前主要影响涉及中东稳定和美国的威慑能力。深层原因包括对伊朗的“遏制”政策和对地区盟友（如海湾合作委员会、以色列）的依赖。短期内，企业将从丰厚合同中受益，但也可能加速军费枯竭。中期内，这可能推动更强硬的外交政策。长期来看，这将质疑美国在该地区的长期承诺。关键利益相关者包括五角大楼、防务利益集团（如洛克希德·马丁）和地区盟友（沙特阿拉伯、以色列）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "UN News",
-        "url": "https://press.un.org/en/2026/sc16472.doc.htm",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-10-09",
-        "pays": "russie",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/10/20/defense-giants-cash-in-as-us-scrambles-to-rebuild-missile-stockpiles",
+        "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-1869885.jpg",
+        "date": "2026-10-20",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Secteur énergétique et infrastructures critiques",
-            "hausse": false
+            "label": "▲ Marché des contrats militaires (défense aérienne)",
+            "hausse": true
           },
           {
-            "label": "▲ Marché des armes et sécurité internationale",
+            "label": "▲ Bourse (secteur défense)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Secteur énergétique et infrastructures critiques",
-            "secteur_en": "Energy sector and critical infrastructure",
-            "secteur_zh": "能源行业与关键基础设施",
-            "effet_fr": "Les frappes sur les réseaux électriques et gaziers pourraient provoquer des blackouts massifs en Ukraine, aggravant la crise humanitaire et forçant des dépendances accrues aux énergies fossiles russes.",
-            "effet_en": "Strikes on power and gas grids may cause widespread blackouts in Ukraine, worsening the humanitarian crisis and increasing reliance on Russian fossil fuels.",
-            "effet_zh": "对电力和天然气网络的袭击可能在乌克兰引发大规模停电，加剧人道主义危机，并增加对俄罗斯化石燃料的依赖。",
-            "hausse": false
+            "secteur_fr": "Marché des contrats militaires (défense aérienne)",
+            "secteur_en": "Military contracts market (air defense)",
+            "secteur_zh": "军事合同市场（空中防御）",
+            "effet_fr": "Les carnets de commandes explosent pour les systèmes antimissiles (ex. : *Patriot*), mais les retards de livraison pourraient nuire à la réactivité opérationnelle.",
+            "effet_en": "Backlogs surge for air defense systems (*Patriot*), but delivery delays may hinder operational responsiveness.",
+            "effet_zh": "反导系统（如“爱国者”）订单激增，但交付延误可能影响作战反应能力。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché des armes et sécurité internationale",
-            "secteur_en": "Arms market and international security",
-            "secteur_zh": "军火市场与国际安全",
-            "effet_fr": "L’escalade pourrait relancer la course aux armements en Europe de l’Est, bénéficiant à des acteurs comme la Turquie ou les pays du Golfe, tout en isolant davantage la Russie sur le plan diplomatique.",
-            "effet_en": "Escalation may reignite arms races in Eastern Europe, benefiting actors like Turkey or Gulf states while further isolating Russia diplomatically.",
-            "effet_zh": "升级可能在欧洲东部重启军备竞赛，使土耳其或海湾国家受益，同时进一步孤立俄罗斯在外交上的立场。",
+            "secteur_fr": "Bourse (secteur défense)",
+            "secteur_en": "Stock market (defense sector)",
+            "secteur_zh": "股市（防务板块）",
+            "effet_fr": "Les actions des géants comme Lockheed ou Raytheon pourraient connaître une hausse, mais la volatilité géopolitique reste un risque majeur.",
+            "effet_en": "Stocks of giants like Lockheed or Raytheon may rise, but geopolitical volatility remains a key risk.",
+            "effet_zh": "洛克希德或雷神等公司股票可能上涨，但地缘政治不稳定性仍是主要风险。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-10T23:15:53.978265"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-21T22:07:53.443153"
+      },
       {
         "id": "iran_854122",
         "titre": "Qatar et Pakistan proposent un compromis pour apaiser la guerre en Iran",
@@ -6070,69 +6129,70 @@
           }
         ],
         "created_at": "2026-10-10T09:26:39.889665"
-      },
-      {
-        "id": "iran_75954",
-        "titre": "S&P 500 bat record malgré tensions géopolitiques",
-        "titre_en": "S&P 500 hits record despite geopolitical tensions",
-        "titre_zh": "标普500指数突破纪录尽管地缘政治紧张",
-        "titre_ru": "Индекс S&P 500 достиг нового рекорда: что говорит история о покупке акций сейчас",
-        "titre_fa": "اندکس S&P 500 به رکورد جدید رسید: تاریخچه چه می‌گوید در مورد خرید سهام اکنون؟",
-        "titre_ar": "مؤشر S&P 500 وصل إلى رقم قياسي جديد: ما يقوله التاريخ عن شراء الأسهم الآن",
-        "titre_original": "The S&P 500 Just Reached a New Record. Here’s What History Says About Buying Stocks Now",
-        "resume": "L’indice S&P 500 a atteint un nouveau sommet historique, malgré les inquiétudes économiques et les tensions en Iran, ainsi que les dépenses massives dans l’IA. Les analystes soulignent une résilience des marchés face aux crises, mais aussi une spéculation sur une possible correction future. Cette performance reflète une confiance accrue dans les entreprises technologiques et les secteurs innovants.",
-        "resume_en": "The S&P 500 hit a new all-time high despite economic concerns, Iran tensions, and heavy AI spending. Analysts note market resilience amid crises but also speculate on potential future corrections. This performance reflects growing confidence in tech firms and innovative sectors.",
-        "resume_zh": "标普500指数突破历史新高，尽管经济担忧、伊朗紧张局势和大规模AI投资。分析师指出市场在危机中展现出韧性，但也猜测未来可能出现修正。这一表现反映了对科技公司和创新领域的信心增长。",
-        "resume_ru": "Индекс S&P 500 установил новый рекорд, несмотря на колебания в течение года из-за опасений по поводу экономики, нестабильности в Иране и расходов на искусственный интеллект. Эксперты анализируют исторические данные, чтобы понять, стоит ли сейчас покупать акции. Рост индекса отражает уверенность инвесторов в долгосрочных перспективах американской экономики.",
-        "resume_fa": "اندکس S&P 500 رکورد جدیدی ثبت کرد، در حالی که در طول سال نوسانات زیادی به دلیل نگرانی‌های اقتصادی، ناپایداری در ایران و هزینه‌های مربوط به هوش مصنوعی داشته‌است. متخصصان داده‌های تاریخی را برای درک این که آیا اکنون خرید سهام مناسب است، تحلیل می‌کنند. افزایش این اندکس نشان‌دهنده اعتماد سرمایه‌گذاران به آینده بلندمدت اقتصاد آمریکا است.",
-        "resume_ar": "صلح مؤشر S&P 500 رقمًا قياسيًا جديدًا، رغم التقلبات خلال العام بسبب مخاوف اقتصادية، عدم الاستقرار في إيران، وإضاعة على الذكاء الاصطناعي. يقوم الخبراء بتحليل البيانات التاريخية لفهم ما إذا كان شراء الأسهم الآن مناسبًا. ارتفاع المؤشر يعكس ثقة المستثمرين في آفاق الاقتصاد الأمريكي على المدى الطويل.",
-        "analyse_detaillee": "Ce record s’inscrit dans une tendance plus large de résilience des marchés actions depuis la crise financière de 2008, où les politiques monétaires accommodantes et les bulles technologiques ont soutenu les cours. Les tensions géopolitiques, comme celles liées à l’Iran, ont souvent été temporairement compensées par des liquidités abondantes et des attentes de croissance future, notamment dans les secteurs high-tech. Les causes profondes incluent la recherche de rendements élevés dans un contexte de taux bas, ainsi que la domination des géants du numérique (GAFAM) qui captent une part croissante des profits. À court terme, ce record pourrait encourager les investisseurs à maintenir leurs positions, mais aussi à surveiller les signes de surévaluation, comme les ratios P/E élevés. À moyen terme, les risques géopolitiques persistent, notamment avec les sanctions contre l’Iran ou les conflits en mer Rouge, qui pourraient perturber les chaînes d’approvisionnement énergétiques. Long-termement, la dépendance aux technologies disruptives (IA, blockchain) pourrait amplifier les inégalités sectorielles, avec une concentration des gains dans quelques secteurs au détriment des industries traditionnelles. Les acteurs clés, comme les fonds d’investissement ou les régulateurs financiers, doivent gérer l’équilibre entre stimulation économique et prévention des bulles, dans un contexte où les banques centrales commencent à normaliser leurs politiques.",
-        "analyse_en": "This record reflects broader market resilience since the 2008 financial crisis, where accommodative monetary policies and tech bubbles propped up stock prices. Geopolitical tensions, like those with Iran, have often been temporarily offset by abundant liquidity and growth expectations, especially in high-tech sectors. Root causes include the search for high yields in a low-rate environment, as well as the dominance of digital giants (GAFAM) capturing an increasing share of profits. Short-term, this record may encourage investors to hold positions but also watch for signs of overvaluation, like high P/E ratios. Mid-term, geopolitical risks persist, such as sanctions against Iran or conflicts in the Red Sea, which could disrupt energy supply chains. Long-term, reliance on disruptive technologies (AI, blockchain) may widen sectoral inequalities, concentrating gains in a few sectors at the expense of traditional industries. Key actors like investment funds or financial regulators must balance economic stimulation and bubble prevention, as central banks begin normalizing policies.",
-        "analyse_zh": "这一纪录记录了自2008年金融危机以来市场韧性的总体趋势，宽松的货币政策和科技泡沫曾支撑了股价。伊朗等地缘政治紧张局势通常被充足的流动性和未来增长预期暂时抵消，特别是在高科技领域。深层原因包括在低利率环境下寻求高回报，以及数字巨头（GAFAM）占据日益增长的利润份额。短期内，这一纪录可能鼓励投资者持有头寸，但也需要警惕高市盈率等过度估值迹象。中期来看，地缘政治风险依然存在，如对伊朗的制裁或红海冲突，可能扰乱能源供应链。长期来看，对破坏性技术（AI、区块链）的依赖可能加剧行业不平等，将利润集中在少数领域，而传统产业则受损。关键利益相关者如投资基金或金融监管机构，必须在经济刺激和防止泡沫之间取得平衡，在央行开始正常化政策的背景下。",
-        "analyse_ru": "Контекст: Индекс S&P 500 — это ключевой показатель состояния американской экономики и рынка акций, который отражает динамику 500 крупнейших компаний. Причины: Рост индекса может быть связан с оптимизмом инвесторов по поводу технологических инноваций и восстановления экономики после пандемии. Последствия: Покупка акций сейчас может привести к росту портфеля, но также сопряжена с рисками, такими как геополитические кризисы или рецессия. Перспективы: Эксперты рекомендуют диверсифицировать инвестиции для снижения рисков. Позиции сторон: Оптимисты считают, что рынок находится в восходящей тенденции, в то время как пессимисты предупреждают о возможном коррекционном падении.",
-        "analyse_fa": "زمینه: اندکس S&P 500 یک شاخص کلیدی برای وضعیت اقتصاد و بازار سهام آمریکا است که تغییرات ۵۰۰ شرکت بزرگ را نشان می‌دهد. علل: افزایش این اندکس ممکن است با امید سرمایه‌گذاران به نوآوری‌های فناوری و بازیابی اقتصاد پس از وبا مرتبط باشد. پیامدها: خرید سهام اکنون می‌تواند به رشد پرتفوی منجر شود، اما با ریسک‌هایی مانند بحران‌های جغرافیایی سیاسی یا رکود همراه است. چشم‌انداز: متخصصان توصیه می‌کنند سرمایه‌گذاری‌ها را متنوع کنند تا ریسک‌ها کاهش یابد. موضع بازیگران:樂觀‌ها معتقدند که بازار در روند صعودی است، در حالی که پشیمانان از احتمال سقوط تصحیحی هشدار می‌دهند.",
-        "analyse_ar": "السياق: مؤشر S&P 500 هو مؤشر رئيسي يوضح حالة الاقتصاد الأمريكي وسوق الأسهم، ويعكس أداء 500 شركة كبيرة. الأسباب: ارتفاع المؤشر قد يكون مرتبطًا بالتفاؤل لدى المستثمرين بشأن الابتكارات التكنولوجية واستعادة الاقتصاد بعد من الجائحة. العواقب: شراء الأسهم الآن قد يؤدي إلى زيادة قيمة المحافظ الاستثمارية، ولكن أيضًا يرتبط بالمخاطر مثل الأزمات الجيوسياسية أو الركود. الآفاق: يوصي الخبراء بتنوع الاستثمارات لتقليل المخاطر. مواقف الأطراف: يعتقد المتفائلون أن السوق في اتجاه صعودي، بينما يحذر المتشائمون من احتمال انخفاض تصحيحي.",
-        "categorie": "Finance",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c09760a11113af6a",
-        "image": "https://biztoc.com/cdn/c09760a11113af6a_s.webp",
-        "date": "2026-10-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Actions technologiques (GAFAM)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Matières premières énergétiques",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Actions technologiques (GAFAM)",
-            "secteur_en": "Tech stocks (GAFAM)",
-            "secteur_zh": "科技股（谷歌、苹果、脸书、亚马逊、微软）",
-            "effet_fr": "Les géants technologiques continuent de tirer les marchés vers le haut grâce à leurs innovations en IA et à leur domination des marchés publicitaires et du cloud.",
-            "effet_en": "Tech giants continue lifting markets through AI innovations and dominance in ad markets and cloud services.",
-            "effet_zh": "科技巨头通过AI创新和在广告市场与云服务领域的主导地位继续拉动市场上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Matières premières énergétiques",
-            "secteur_en": "Energy commodities",
-            "secteur_zh": "能源大宗商品",
-            "effet_fr": "Les tensions en Iran et au Moyen-Orient pourraient perturber l’offre pétrolière, créant une volatilité accrue sur les marchés des matières premières.",
-            "effet_en": "Tensions in Iran and the Middle East could disrupt oil supply, increasing volatility in commodity markets.",
-            "effet_zh": "伊朗和中东的紧张局势可能扰乱石油供应，导致大宗商品市场波动加剧。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-08T22:57:09.106256"
       }
     ]
   },
   "politique": [
+    {
+      "id": "pol_env_991812",
+      "titre": "Débat sur le déversement de 1,8M m³ de terres à Gaurain",
+      "titre_en": "Controversy over 1.8M m³ land dumping in Gaurain",
+      "titre_zh": "高拉讷180万立方米土方倾倒引争议",
+      "titre_ru": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "titre_fa": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "titre_ar": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "titre_original": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "resume": "La société Vélorie sollicite un permis pour déverser 1,8 million de mètres cubes de terres dans une carrière près de Gaurain (Nord) entre 2027 et 2044. Environ 200 000 tonnes de terres non polluées seraient apportées annuellement, suscitant des craintes liées aux PFAS. Les associations locales et les riverains dénoncent un risque environnemental et sanitaire, exigeant un rejet total de ce projet.",
+      "resume_en": "Vélorie seeks a permit to dump 1.8 million cubic meters of land in a quarry near Gaurain (Northern France) between 2027 and 2044. Around 200,000 tons of non-polluted soil would be added annually, raising concerns about PFAS contamination. Local associations and residents oppose the project, fearing environmental and health risks, demanding its outright rejection.",
+      "resume_zh": "法国北部高拉讷附近的矿坑计划在2027至2044年间倾倒180万立方米土方，每年约20万吨非污染土壤。当地环保组织和居民担忧PFAS污染，强烈反对项目，要求完全禁止倾倒土方。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Ce projet s’inscrit dans une dynamique de réaménagement des friches industrielles post-charbon, mais soulève des questions sur la gestion des sols pollués dans une région déjà marquée par des décennies d’exploitation minière. Les PFAS, substances persistantes et toxiques, sont aujourd’hui au cœur des débats environnementaux en Europe, avec des cas similaires en Allemagne et aux Pays-Bas. Les conséquences à court terme pourraient inclure des blocages administratifs prolongés ou des recours juridiques, tandis que les impacts à moyen terme pourraient affecter la valeur foncière locale et la biodiversité. À long terme, le projet pourrait servir de précédent pour d’autres sites miniers, soit en accélérant des solutions innovantes, soit en légitimant des pratiques controversées. Les acteurs locaux, divisés entre promoteurs économiques et écologistes, illustrent un clivage croissant entre développement industriel et préservation environnementale. Les associations comme France Nature Environnement (FNE) jouent un rôle clé dans la mobilisation citoyenne, tandis que les collectivités locales peinent à arbitrer entre croissance économique et protection des sols.",
+      "analyse_en": "This project falls within the post-coal industrial redevelopment trend but raises questions about the management of polluted soils in a region historically shaped by decades of mining. PFAS, persistent and toxic substances, are now at the heart of European environmental debates, with similar cases in Germany and the Netherlands. Short-term consequences may include prolonged administrative delays or legal challenges, while medium-term impacts could affect local property values and biodiversity. Long-term, the project could set a precedent for other mining sites, either accelerating innovative solutions or legitimizing controversial practices. Local actors are divided between economic promoters and environmentalists, highlighting an increasing rift between industrial development and environmental preservation. Associations like France Nature Environnement (FNE) play a key role in citizen mobilization, while local governments struggle to balance economic growth with soil protection.",
+      "analyse_zh": "该项目属于煤炭产业后期的工业复垦计划，但引发了关于污染土壤管理的争议，特别是在一个曾经经历数十年矿业开采的地区。PFAS（永久性有害物质）目前是欧洲环保辩论的焦点，德国和荷兰也有类似案例。短期内可能面临长期的行政阻力或法律诉讼，中期影响可能波及当地房地产价值和生物多样性。长期来看，该项目可能成为其他矿区的先例，要么推动创新解决方案，要么合法化争议性做法。当地利益相关者在经济发展与环境保护上分歧明显，环保组织如法国自然环境协会（FNE）在公众动员中发挥关键作用，而地方政府则在经济增长与土壤保护之间难以取舍。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement/Industrie",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2026/10/20/18-million-de-m-de-terres-pourraient-etre-deverses-dans-la-carriere-ccb-de-gaurain-il-ne-faut-rien-zero-pfas-TWHIGPWNW5EYRG3BQU4TSBKJPU/",
+      "image": "https://www.dhnet.be/resizer/v2/TFUAWXUBHZBLNI4J446RRQITGQ.JPG?auth=261d9307d7186ca63647f334402f61c8e33d8048741943af4876acf055801cc9&width=1200&height=630&quality=85&focal=800%2C600",
+      "date": "2026-10-20",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Industrie minière et recyclage des sols",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurances environnementales et responsabilité civile",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Industrie minière et recyclage des sols",
+          "secteur_en": "Mining industry and soil recycling",
+          "secteur_zh": "矿业及土壤再生产业",
+          "effet_fr": "Ce secteur pourrait voir une hausse des investissements dans les technologies de dépollution si le projet est rejeté, mais une stagnation des projets de réhabilitation en cas d’approbation.",
+          "effet_en": "This sector may experience increased investment in soil remediation technologies if the project is rejected, but stagnation in rehabilitation projects if approved.",
+          "effet_zh": "该行业若项目被否决，可能加大污染土壤治理技术投资；若获批则可能导致土壤复垦项目停滞。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances environnementales et responsabilité civile",
+          "secteur_en": "Environmental insurance and liability",
+          "secteur_zh": "环境保险及民事责任保险",
+          "effet_fr": "Les assureurs pourraient renforcer leurs exigences en couverture des risques PFAS, augmentant les coûts pour les projets similaires dans le Nord de la France.",
+          "effet_en": "Insurers may tighten coverage requirements for PFAS risks, increasing costs for similar projects in Northern France.",
+          "effet_zh": "保险公司可能加强对PFAS风险的覆盖要求，提高法国北部类似项目的成本。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-21T22:08:38.267307",
+      "sous_categorie": "environnement"
+    },
     {
       "id": "pol_femmes_669028",
       "titre": "Féminicides conjugaux en hausse en 2025",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-10-15T08:54:25.917792",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_940396",
-      "titre": "PFAS à Uccle : pollution record",
-      "titre_en": "Uccle PFAS pollution exceeds limits",
-      "titre_zh": "布鲁塞尔乌克勒PFAS污染超标",
-      "titre_ru": "В Уккле обнаружены превышения ПФАС в 10 тысяч раз на участке Sicli",
-      "titre_fa": "در سایت سیکلی در اوکل، سطح PFAS تا ۱۰ هزار برابر استاندارد فراتر رفته است",
-      "titre_ar": "تجاوز مستويات PFAS عن المعيار بـ10 ألف مرة في موقع سيكلي بوكيل",
-      "titre_original": "Des seuils de PFAS dépassant 10.000 fois la norme sur le site Sicli à Uccle: la Région bruxelloise se joint à l'action en justice",
-      "resume": "Des analyses révèlent des taux de PFAS dépassant jusqu’à 2 449 fois la norme dans les sols et 10 000 fois dans les eaux souterraines sur le site Sicli à Uccle. La Région bruxelloise annonce rejoindre une action en justice contre les responsables, évoquant un risque sanitaire majeur. Ce scandale environnemental s’ajoute à une série de pollutions industrielles en Belgique.",
-      "resume_en": "Tests show PFAS levels exceeding soil limits by up to 2,449 times and groundwater limits by 10,000 times at Uccle’s Sicli site. Brussels Region joins a lawsuit against polluters, citing severe health risks. This environmental scandal follows a string of industrial pollution cases in Belgium.",
-      "resume_zh": "布鲁塞尔乌克勒西克利工地的土壤和地下水中PFAS污染物浓度分别超标2449倍和10000倍。布鲁塞尔地区宣布加入对污染者的诉讼，称存在重大健康风险。此次环境污染事件是比利时工业污染案例中的最新一起。",
-      "resume_ru": "Анализы показали, что концентрация веществ ПФАС на территории Sicli в Уккле превышает нормы до 2449 раз в почве и до 10 тысяч раз в подземных водах. Регион Брюсселя присоединился к судебному иску против загрязнителей. Это вызывает опасения за экологическую безопасность региона.",
-      "resume_fa": "تحقیقات نشان داد که غلظت مواد PFAS در زمین و آب زیرزمینی سایت سیکلی در اوکل تا ۲۴۴۹ برابر و ۱۰ هزار برابر استاندارد فراتر رفته است. منطقه بروکسل به اقدامات حقوقی علیه آلاینده‌ها پیوست. این موضوع نگرانی‌های زیست‌محیطی در منطقه را افزایش داده است.",
-      "resume_ar": "أظهر التحليلات أن تركيز المواد الكيميائية PFAS في موقع سيكلي بوكيل تجاوز عن المعايير بـ2449 مرة في التربة و10 ألف مرة في المياه الجوفية. انضم إقليم بروكسل إلى الإجراءات القانونية ضد الملوثين. هذا يثير مخاوف بشأن سلامة البيئة في المنطقة.",
-      "analyse_detaillee": "Les PFAS, surnommés ‘polluants éternels’, sont des substances chimiques persistantes utilisées depuis les années 1950 dans l’industrie et les produits de consommation. Leur présence massive à Uccle révèle un manque de régulation stricte et une accumulation historique de déchets toxiques, souvent liés à des activités industrielles non contrôlées. Les conséquences immédiates incluent des risques cancérigènes pour les populations locales et une contamination durable des nappes phréatiques, coûteuse à dépolluer. À moyen terme, cela pourrait entraîner des restrictions d’usage des sols et des pressions accrues sur les acteurs économiques locaux. Long terme, la Belgique devra renforcer ses normes et financer des solutions durables, tout en clarifiant les responsabilités juridiques. Les associations environnementales dénoncent l’inertie des pouvoirs publics, tandis que les industriels pointent du doigt les coûts exorbitants de la dépollution.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, are persistent substances used since the 1950s in industry and consumer products. Their massive presence in Uccle exposes weak regulation and historical accumulation of toxic waste, often linked to unchecked industrial activities. Immediate consequences include carcinogenic risks for locals and long-term groundwater contamination, costly to remediate. Mid-term, this could lead to land-use restrictions and increased pressure on local businesses. Long-term, Belgium must strengthen its standards and fund sustainable solutions while clarifying legal liabilities. Environmental groups criticize government inaction, while industry players highlight the exorbitant costs of remediation.",
-      "analyse_zh": "PFAS（永久性污染物）是一种自20世纪50年代以来广泛用于工业和消费品的持久性化学物质。乌克勒工地的高浓度暴露出比利时长期缺乏严格监管和未经控制的工业废物积累问题。短期内，这将对当地居民带来癌症风险，并导致地下水长期污染，清理成本高昂。中期内，可能会导致土地使用限制和对当地经济的额外压力。长期来看，比利时必须加强法规并资助可持续解决方案，同时明确法律责任。环保组织谴责政府的消极态度，而工业界则强调清理成本过高。",
-      "analyse_ru": "ПФАС (вещества, широко известные как «вечные химикаты») представляют серьезную угрозу для здоровья человека и экосистем. Превышение норм на участке Sicli указывает на хроническое загрязнение, возможно, связанное с промышленной деятельностью или свалками. Такие уровни могут привести к долгосрочным последствиям для водных ресурсов и почвы, включая мутации и онкологические заболевания. Региональные власти должны ускорить очистку и компенсацию пострадавшим. Позиция Брюсселя показывает стремление защитить граждан, но требуется международное сотрудничество для решения проблемы на системном уровне.",
-      "analyse_fa": "PFAS یا مواد شیمیایی «همیشه‌زیست» خطر جدی برای سلامت انسان و اکوسیستم‌ها ایجاد می‌کنند. فراتر رفتن از استانداردها در سایت سیکلی نشان‌دهنده آلودگی مزمن احتمالی ناشی از فعالیت‌های صنعتی یا زباله‌دانی است. چنین سطح‌هایی می‌توانند پیامدهای طولانی‌مدت جدی بر منابع آب و خاک داشته باشند، از جمله تغییرات ژنتیکی و سرطان‌ها. دولت منطقه‌ای باید از سرعت در پاکسازی و جبران خسارات به آسیب‌دیده‌ها اطمینان حاصل کند. موضع بروکسل نشان‌دهنده تلاش برای محافظت از شهروندان است، اما همکاری بین‌المللی برای حل این مشکل در سطح سیستماتیک ضروری است.",
-      "analyse_ar": "المواد الكيميائية PFAS، المعروفة باسم «الكيميائيات الدائمة»، تشكل تهديدًا خطيرًا للصحة البشرية والبيئة. تجاوز المعايير في موقع سيكلي يشير إلى تلوث مزمن محتمل ناتج عن نشاط صناعي أو مدافن النفايات. مثل هذه المستويات قد تؤدي إلى عواقب طويلة الأمد خطيرة على موارد المياه والتربة، بما في ذلك الطفرات الوراثية والأمراض السرطانية. يجب على السلطات الإقليمية تسريع عملية التنظيف وتقديم تعويضات للمتضررين. موقف بروكسل يظهر رغبة في حماية المواطنين، ولكن يتطلب التعاون الدولي لحل هذه المشكلة على المستوى النظامي.",
-      "categorie": "Environnement",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/regions/bruxelles/uccle/2026/10/13/des-seuils-de-pfas-depassant-10000-fois-la-norme-sur-le-site-sicli-a-uccle-la-region-bruxelloise-se-joint-a-laction-en-justice-V3WLHR4NBREMZOXLG3GQU264AI/",
-      "image": "https://www.lavenir.net/resizer/v2/ESAD7F5UHFATPPRMIRAWZIUMIM.jpg?auth=97164b4cc50dc6b29c80ac106445603d7927095900f645ddd93bcbf8bde97211&width=1200&height=630&quality=85&focal=612%2C381",
-      "date": "2026-10-13",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Industrie chimique belge",
-          "hausse": false
-        },
-        {
-          "label": "▲ Assurances environnementales",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Industrie chimique belge",
-          "secteur_en": "Belgian chemical industry",
-          "secteur_zh": "比利时化学工业",
-          "effet_fr": "Ce scandale pourrait entraîner des amendes record et une perte de confiance des investisseurs dans le secteur, déjà fragilisé par les normes européennes strictes.",
-          "effet_en": "This scandal may trigger record fines and erode investor confidence in the sector, already weakened by strict EU regulations.",
-          "effet_zh": "此事件可能导致化学行业面临史无前例的罚款，并使投资者对该行业信心受损，尤其是在欧盟严格法规的背景下。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurances environnementales",
-          "secteur_en": "Environmental insurance sector",
-          "secteur_zh": "环境保险行业",
-          "effet_fr": "Les primes pourraient exploser en raison de l’augmentation des risques liés aux PFAS, poussant certaines entreprises à se tourner vers des assurances spécialisées et plus coûteuses.",
-          "effet_en": "Premiums may skyrocket due to rising PFAS-related risks, forcing companies to seek specialized—and pricier—environmental insurance.",
-          "effet_zh": "由于PFAS相关风险上升，保费可能大幅飙升，迫使企业转向更昂贵的专业环境保险。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-14T11:14:37.445895",
       "sous_categorie": "environnement"
     }
   ]
