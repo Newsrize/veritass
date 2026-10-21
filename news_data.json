@@ -1,7 +1,66 @@
 {
-  "last_updated": "20/10/2026 à 22h08",
+  "last_updated": "21/10/2026 à 01h18",
   "articles": {
     "monde": [
+      {
+        "id": "monde_578175",
+        "titre": "Banque mondiale lance plan connectivité pays pauvres",
+        "titre_en": "World Bank boosts connectivity in poor nations",
+        "titre_zh": "世界银行推动发展中国家连接性",
+        "titre_ru": "World Bank seeks to boost connectivity in developing countries",
+        "titre_fa": "World Bank seeks to boost connectivity in developing countries",
+        "titre_ar": "World Bank seeks to boost connectivity in developing countries",
+        "titre_original": "World Bank seeks to boost connectivity in developing countries",
+        "resume": "La Banque mondiale a dévoilé une stratégie visant à réduire les coûts des smartphones et des services internet dans les pays en développement. L’objectif est d’étendre l’accès numérique et de stimuler l’inclusion économique. Cette initiative s’inscrit dans une dynamique mondiale pour combler le fossé numérique.",
+        "resume_en": "The World Bank unveiled a strategy to lower smartphone and broadband costs in developing nations. The goal is to expand digital access and drive economic inclusion. This move aligns with global efforts to bridge the digital divide.",
+        "resume_zh": "世界银行宣布推出新策略，降低发展中国家智能手机和宽带服务成本。目标是扩大数字接入，推动经济包容性。这一举措符合全球弥合数字鸿沟的努力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce plan s’inscrit dans une tendance historique de digitalisation accélérée, mais reste confronté à des défis structurels comme les infrastructures limitées et les inégalités régionales. Les enjeux incluent l’autonomisation économique et la réduction des fractures sociales. Les causes profondes sont la dépendance aux technologies étrangères et le manque de régulations locales adaptées. À court terme, on observe une pression sur les opérateurs télécoms pour ajuster leurs tarifs. À moyen terme, cela pourrait dynamiser les secteurs tech locaux et attirer des investissements étrangers. Long terme, une connectivité généralisée pourrait transformer les modèles économiques, mais dépendra des financements durables. Les acteurs clés sont la Banque mondiale, les gouvernements et les géants tech comme Google ou Meta.",
+        "analyse_en": "This initiative follows a historical trend of accelerated digitalization but faces structural challenges like limited infrastructure and regional inequalities. Key stakes include economic empowerment and reducing social divides. Root causes include reliance on foreign tech and inadequate local regulations. Short-term, telecom operators face pressure to adjust pricing. Medium-term, this could boost local tech sectors and attract foreign investment. Long-term, widespread connectivity could reshape economic models, but hinges on sustainable funding. Major actors include the World Bank, governments, and tech giants like Google or Meta.",
+        "analyse_zh": "该计划在加速数字化趋势下推出，但面临基础设施不足和区域不平衡等结构性挑战。主要影响包括经济赋权和缩小社会鸿沟。深层原因包括对外国技术的依赖和本土法规不健全。短期内，电信运营商将面临调整定价的压力。中期内，这可能推动本土科技行业发展并吸引外资。长期来看，普遍连接性可能改变经济模式，但需依赖可持续融资。关键利益相关方包括世界银行、政府和谷歌、Meta等科技巨头。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/world-bank-seeks-to-boost-connectivity-in-developing-countries/articleshow/135059277.cms",
+        "image": "https://img.etimg.com/thumb/msid-135059281,width-1200,height-900,imgsize-90878,overlay-economictimes/articleshow.jpg",
+        "date": "2026-10-20",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Télécommunications (opérateurs et infrastructures)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Finance inclusive (microcrédits et services numériques)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Télécommunications (opérateurs et infrastructures)",
+            "secteur_en": "Telecommunications (operators and infrastructure)",
+            "secteur_zh": "电信行业（运营商和基础设施）",
+            "effet_fr": "Les opérateurs devront investir massivement pour réduire les coûts tout en maintenant leur rentabilité, risquant des tensions sur les marges.",
+            "effet_en": "Operators must heavily invest to cut costs while preserving profitability, risking margin pressures.",
+            "effet_zh": "运营商将需要大量投资降低成本，同时保持盈利性，可能面临利润空间压缩的风险。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Finance inclusive (microcrédits et services numériques)",
+            "secteur_en": "Inclusive finance (microcredit and digital services)",
+            "secteur_zh": "包容性金融（微贷和数字服务）",
+            "effet_fr": "L’accès facilité aux services financiers pourrait stimuler l’entrepreneuriat local, mais exacerbe les risques de surendettement sans régulation.",
+            "effet_en": "Easier access to financial services may boost local entrepreneurship but risks over-indebtedness without regulation.",
+            "effet_zh": "便捷的金融服务可能刺激本土创业，但缺乏监管可能加剧过度借贷风险。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-21T01:18:26.352202"
+      },
       {
         "id": "monde_375630",
         "titre": "Musk et Anthropic ouvrent l’accès public à leurs actions",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-13T07:23:15.270127"
-      },
-      {
-        "id": "monde_591433",
-        "titre": "Nouvelle loi énergétique divise écologistes et pro-fossiles",
-        "titre_en": "Energy bill sparks green vs fossil fuel divide",
-        "titre_zh": "能源法案引发绿色能源与化石能源分歧",
-        "titre_ru": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
-        "titre_fa": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
-        "titre_ar": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
-        "titre_original": "The new energy permitting bill to feed the AI boom unites fossil fuels and clean power while dividing green energy and environmentalists",
-        "resume": "Une loi accélérant les permis pour pipelines gaziers et fermes solaires divise les écologistes, craignant des risques environnementaux accrus. Le texte vise à soutenir la croissance de l’IA en combinant énergies fossiles et renouvelables. Les opposants dénoncent un compromis dangereux pour les écosystèmes.",
-        "resume_en": "A bill expediting permits for gas pipelines and solar farms divides environmentalists, fearing heightened ecological risks. It aims to fuel AI growth by blending fossil and clean energy. Critics warn of a risky compromise for ecosystems.",
-        "resume_zh": "一项加速天然气管道和太阳能农场许可的法案引发环保人士和化石能源支持者的分歧，后者担心生态风险加剧。该法案旨在通过结合化石能源和清洁能源来推动人工智能增长。批评者警告这是一个危险的妥协。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Ce texte s’inscrit dans une dynamique post-COP28 où les États cherchent à concilier transition énergétique et besoins industriels. Les enjeux portent sur la priorisation des infrastructures, avec un risque de reléguer les énergies vertes au second plan. Les causes profondes incluent la dépendance persistante aux énergies fossiles et la pression des lobbies technologiques. À court terme, on observe une accélération des projets controversés, tandis que les conflits juridiques entre promoteurs et associations environnementales s’intensifient. À moyen terme, cette loi pourrait fragiliser les engagements climatiques internationaux. Long terme, elle pourrait ancrer une dualité énergétique durable, affaiblissant la crédibilité des politiques vertes. Les États-Unis et l’UE soutiennent ce compromis, tandis que les ONG et certains pays africains rejettent cette approche.",
-        "analyse_en": "This bill reflects a post-COP28 trend where nations seek to balance energy transition with industrial demands. Key stakes involve infrastructure prioritization, risking sidelining renewable energy. Root causes include persistent fossil fuel dependence and tech lobby pressure. Short-term, controversial projects accelerate, while legal clashes between developers and environmental groups intensify. Medium-term, this law may undermine international climate commitments. Long-term, it could cement a lasting energy duality, weakening green policy credibility. The US and EU back this compromise, while NGOs and some African nations reject it.",
-        "analyse_zh": "该法案反映了COP28后各国试图平衡能源转型与工业需求的趋势。主要影响在于基础设施优先权，可能将可再生能源推到次要地位。深层原因包括对化石能源的持续依赖和科技行业游说集团的压力。短期内，争议项目加速推进，而开发商与环保组织之间的法律冲突加剧。中期内，该法案可能削弱国际气候承诺。长期来看，它可能巩固持久的能源双重结构，削弱绿色政策的可信度。美国和欧盟支持这一妥协，而非政府组织和一些非洲国家则反对。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/10/11/energy-permitting-ai-fossil-fuels-clean-power-environmentalists/",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297379281-e1791579949201.jpg?resize=1200,600",
-        "date": "2026-10-11",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des énergies fossiles (pétrole, gaz)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des technologies vertes (solaire, stockage)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des énergies fossiles (pétrole, gaz)",
-            "secteur_en": "Fossil energy market (oil, gas)",
-            "secteur_zh": "化石能源市场（石油、天然气）",
-            "effet_fr": "Les permis accélérés pourraient relancer la demande en infrastructures gazières, soutenant les prix à moyen terme malgré la transition énergétique.",
-            "effet_en": "Accelerated permits may revive demand for gas infrastructure, supporting prices mid-term despite the energy transition.",
-            "effet_zh": "加速的许可可能刺激天然气基础设施需求，在中期内支持价格，尽管能源转型在进行。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des technologies vertes (solaire, stockage)",
-            "secteur_en": "Green tech market (solar, storage)",
-            "secteur_zh": "绿色科技市场（太阳能、储能）",
-            "effet_fr": "Les investissements dans les énergies renouvelables pourraient ralentir si les projets sont subordonnés aux critères des énergies fossiles.",
-            "effet_en": "Investments in renewables may slow if projects are tied to fossil fuel criteria.",
-            "effet_zh": "如果可再生能源项目附属于化石能源标准，绿色科技投资可能放缓。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-12T07:15:07.316714"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_768775",
+        "titre": "McLaurin blessé gravement, absence prolongée probable",
+        "titre_en": "McLaurin’s injury rules out quick return",
+        "titre_zh": "麦克劳林伤势严重，复出不速",
+        "titre_ru": "Terry McLaurin ruled out quickly due to left knee injury",
+        "titre_fa": "Terry McLaurin ruled out quickly due to left knee injury",
+        "titre_ar": "Terry McLaurin ruled out quickly due to left knee injury",
+        "titre_original": "Terry McLaurin ruled out quickly due to left knee injury",
+        "resume": "Le receveur Terry McLaurin des Commanders de Washington a quitté le match en première mi-temps à cause d’une blessure au genou gauche. Son état nécessite une évaluation approfondie, laissant planer un doute sur sa disponibilité pour les prochains matchs. Cette blessure pourrait impacter la dynamique offensive de l’équipe.",
+        "resume_en": "Washington Commanders wide receiver Terry McLaurin left Week 6 mid-first half due to a left knee injury. His condition requires further evaluation, raising doubts about his availability for upcoming games. The injury may affect the team’s offensive momentum.",
+        "resume_zh": "华盛顿命令队宽接手特里·麦克劳林在第六周比赛中场因左膝伤退场。他的伤势需要进一步评估，复出时间存在不确定性。此伤可能影响球队的进攻节奏。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette blessure survient dans un contexte de saison 2023 marquée par des enjeux de qualification pour les playoffs, où les Commanders sont en course. McLaurin, joueur clé en attaque, représente un risque opérationnel et stratégique. Les causes incluent une fatigue accumulée ou une mauvaise gestion de la charge d’entraînement. Court terme, l’équipe devra ajuster son jeu sans lui, ce qui pourrait affaiblir son attaque. À moyen terme, son absence prolongée pourrait affecter sa carrière et sa valeur marchande. Long terme, cela rappelle l’importance de la prévention des blessures dans le sport professionnel. Les acteurs concernés sont la franchise, les médecins sportifs et les joueurs adverses.",
+        "analyse_en": "This injury occurs in a 2023 season where the Commanders are vying for playoff contention. McLaurin, a key offensive player, poses operational and strategic risks. Causes may include accumulated fatigue or poor workload management. Short-term, the team must adapt without him, weakening their offense. Medium-term, his prolonged absence could impact his career and market value. Long-term, it underscores injury prevention’s importance in pro sports. Key actors include the franchise, sports doctors, and rival players.",
+        "analyse_zh": "此伤势发生在2023赛季关键阶段，华盛顿命令队正争夺季后赛席位。麦克劳林作为攻击核心，伤势带来操作和战术风险。原因可能包括累积疲劳或训练负荷管理不当。短期内，球队将不得不调整战术，可能削弱进攻实力。中期内，长期伤停可能影响其职业生涯和市场价值。长期来看，这凸显了职业体育中伤病预防的重要性。相关利益方包括球队、体育医生和对手球员。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sports",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/10/19/terry-mclaurin-exits-monday-night-game-due-to-left-knee-injury/92339200007/",
+        "image": "https://s.yimg.com/lo/mysterio/api/aac8ae8db4b6b1e704d02661c266b32911a90831e52463fa447f6d108884d350/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fe02d7c7d26e87a1dfefc24bdf95df61e.jpg",
+        "date": "2026-10-20",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Assurance sportive (couverture blessures joueurs)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des transferts NFL (valeur marché McLaurin)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance sportive (couverture blessures joueurs)",
+            "secteur_en": "Sports insurance (player injury coverage)",
+            "secteur_zh": "体育保险（球员伤害保障）",
+            "effet_fr": "Les franchises pourraient voir leurs coûts d’assurance augmenter en cas de récurrence des blessures chez leurs joueurs clés.",
+            "effet_en": "Franchises may face higher insurance costs if key players sustain recurring injuries.",
+            "effet_zh": "球队可能因核心球员频繁受伤而面临保险成本上升。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des transferts NFL (valeur marché McLaurin)",
+            "secteur_en": "NFL trade market (McLaurin’s market value)",
+            "secteur_zh": "NFL转会市场（麦克劳林市场价值）",
+            "effet_fr": "Son absence prolongée pourrait déprécier sa valeur marchande, réduisant les offres potentielles pour les prochaines saisons.",
+            "effet_en": "Prolonged absence may depreciate his market value, reducing potential offers for future seasons.",
+            "effet_zh": "长期伤停可能降低其市场价值，减少未来赛季的转会报价。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-21T01:18:26.352223"
+      },
       {
         "id": "usa_874921",
         "titre": "Fermiers américains en crise face aux tarifs et au diesel",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-10-13T07:23:15.270045"
-      },
-      {
-        "id": "usa_821121",
-        "titre": "Communauté indienne-américaine influence élections",
-        "titre_en": "Indian-American community shapes midterms",
-        "titre_zh": "印度裔美国人影响中期选举",
-        "titre_ru": "Indian-Americans back favourable candidates in US midterms elections",
-        "titre_fa": "Indian-Americans back favourable candidates in US midterms elections",
-        "titre_ar": "Indian-Americans back favourable candidates in US midterms elections",
-        "titre_original": "Indian-Americans back favourable candidates in US midterms elections",
-        "resume": "Les électeurs d’origine indienne soutiennent massivement des candidats pro-immigration et pro-technologie lors des midterms. Leur poids électoral croissant pousse les partis à adapter leurs discours. Cette communauté, en forte croissance, devient un électorat clé pour les prochaines décennies.",
-        "resume_en": "Indian-American voters overwhelmingly back pro-immigration and pro-tech candidates in midterms. Their rising electoral weight forces parties to adjust their agendas. This fast-growing community is becoming a key electorate for decades to come.",
-        "resume_zh": "印度裔选民在中期选举中大力支持亲移民和亲科技候选人。他们日益增长的选举权重迫使政党调整议程。这个快速增长的社区将成为未来几十年关键的选民群体。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette dynamique reflète l’évolution démographique des États-Unis, où les minorités deviennent majoritaires. Les enjeux portent sur l’intégration des diasporas et leur influence sur les politiques migratoires. Les causes profondes incluent la croissance économique de l’Inde et la mobilité accrue des talents. À court terme, les partis républicains et démocrates rivalisent pour capter ce vote. À moyen terme, les lois sur l’immigration pourraient être révisées pour refléter ces attentes. Long terme, cette communauté pourrait redéfinir les priorités politiques américaines. Les États-Unis et l’Inde collaborent sur les questions de diaspora, tandis que les groupes conservateurs résistent à ces changements.",
-        "analyse_en": "This trend reflects US demographic shifts where minorities become the majority. Stakes involve diaspora integration and its impact on immigration policies. Root causes include India’s economic growth and increased talent mobility. Short-term, Republicans and Democrats compete to win this vote. Medium-term, immigration laws may be revised to meet these demands. Long-term, this community could redefine US political priorities. The US and India collaborate on diaspora issues, while conservative groups resist these changes.",
-        "analyse_zh": "这种趋势反映了美国人口结构的变化，少数族裔正在成为多数。影响重点在于移民群体的融合及其对移民政策的影响。深层原因包括印度经济的增长和人才流动性增加。短期内，共和党和民主党竞相争取这部分选票。中期内，移民法可能会被修订以满足这些需求。长期来看，这个社区可能重新定义美国的政治优先事项。美国和印度在移民群体问题上合作，而保守派群体则抵制这些变化。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Société",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/indian-americans-back-favourable-candidates-in-us-midterms-elections-126101100191_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-11/13/thumb/fitandfill/1200X628/1668356656-6385.jpg",
-        "date": "2026-10-11",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Marché des technologies (Silicon Valley)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Secteur immobilier (logements adaptés)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des technologies (Silicon Valley)",
-            "secteur_en": "Tech market (Silicon Valley)",
-            "secteur_zh": "科技市场（硅谷）",
-            "effet_fr": "La croissance de cette communauté renforce la demande en talents tech, soutenant les salaires et les investissements dans l’innovation.",
-            "effet_en": "This community’s growth boosts demand for tech talent, supporting salaries and innovation investments.",
-            "effet_zh": "这个社区的增长增加了对科技人才的需求，支持了薪资和创新投资。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Secteur immobilier (logements adaptés)",
-            "secteur_en": "Real estate sector (adapted housing)",
-            "secteur_zh": "房地产行业（适应性住房）",
-            "effet_fr": "La demande en logements familiaux et multiculturels stimule le développement urbain dans les zones à forte concentration indienne.",
-            "effet_en": "Demand for family and multicultural housing drives urban development in high-Indian-concentration areas.",
-            "effet_zh": "对多文化家庭住房的需求推动了印度裔聚集区的城市发展。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-12T07:15:07.316746"
       }
     ],
     "chine": [
@@ -4951,6 +4951,65 @@
     ],
     "iran": [
       {
+        "id": "iran_846459",
+        "titre": "Saoudie : exécution pour « comportement immoral »",
+        "titre_en": "Saudi Arabia executes for 'immoral act'",
+        "titre_zh": "沙特执行「不道德行为」死刑",
+        "titre_ru": "【海外】サウジで男女2人を死刑執行「夫婦がキスしただけで斬首」の噂が拡散→「不道徳な行為」での処刑は事実、具体的な行為は非公表",
+        "titre_fa": "【海外】サウジで男女2人を死刑執行「夫婦がキスしただけで斬首」の噂が拡散→「不道徳な行為」での処刑は事実、具体的な行為は非公表",
+        "titre_ar": "【海外】サウジで男女2人を死刑執行「夫婦がキスしただけで斬首」の噂が拡散→「不道徳な行為」での処刑は事実、具体的な行為は非公表",
+        "titre_original": "【海外】サウジで男女2人を死刑執行「夫婦がキスしただけで斬首」の噂が拡散→「不道徳な行為」での処刑は事実、具体的な行為は非公表",
+        "resume": "Deux personnes, un homme et une femme, ont été exécutées en Arabie saoudite pour un « comportement immoral » non précisé, alimentant les rumeurs d’un baiser public. Les autorités ont confirmé la nature « non morale » de l’acte, sans détailler les faits. Ce cas relance les débats sur les droits humains et les lois strictes du royaume.",
+        "resume_en": "A man and a woman were executed in Saudi Arabia for an unspecified 'immoral act,' fueling rumors of a public kiss. Authorities confirmed the act was 'immoral' without detailing the facts. This case reignites debates on human rights and Saudi Arabia’s strict laws.",
+        "resume_zh": "沙特执行了两名男子和女子，因「不道德行为」未明确细节，引发公开接吻传闻。当局确认行为「不道德」，但未公开具体细节。此案再次引发人权和沙特严格法律的争议。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce cas s’inscrit dans une tradition juridique saoudienne où les lois islamiques (*sharia*) dictent des peines draconiennes pour infractions morales. Les enjeux incluent la pression internationale sur les droits humains et la légitimité du régime face à ses critiques. Les causes profondes sont le conservatisme religieux et l’absence de réformes judiciaires significatives. Court terme, cela pourrait exacerber les tensions diplomatiques avec l’Occident et les ONG. À moyen terme, cela pourrait renforcer les mouvements réformistes internes ou, inversement, durcir le contrôle social. Long terme, cela illustre les défis de modernisation du royaume sans perdre son identité religieuse. Les acteurs clés sont le gouvernement saoudien, les pays occidentaux et les organisations comme Amnesty International.",
+        "analyse_en": "This case fits within Saudi Arabia’s legal tradition where *sharia*-based laws impose harsh penalties for moral offenses. Stakes include international pressure on human rights and the regime’s legitimacy amid criticism. Root causes are religious conservatism and lack of significant judicial reforms. Short-term, this may escalate diplomatic tensions with the West and NGOs. Medium-term, it could strengthen internal reform movements or, conversely, tighten social control. Long-term, it highlights Saudi Arabia’s challenges in modernizing without losing its religious identity. Key actors include the Saudi government, Western countries, and organizations like Amnesty International.",
+        "analyse_zh": "此案符合沙特基于《沙里亚法》的法律传统，对道德违规行为施以严厉惩罚。主要影响包括西方国家对人权的施压和政府合法性面临质疑。深层原因包括宗教保守主义和缺乏实质司法改革。短期内，这可能加剧与西方和人权组织的外交紧张。中期内，可能推动国内改革运动或加强社会控制。长期来看，这展示了沙特在不失去宗教身份的情况下现代化的挑战。关键利益相关方包括沙特政府、西方国家和人权组织如人权观察。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Nwknews.jp",
+        "url": "https://nwknews.jp/archives/6264132.html",
+        "image": "https://livedoor.blogimg.jp/nwknews/imgs/8/a/8a6800b1-s.png",
+        "date": "2026-10-20",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Tourisme religieux (pilgrimages et image internationale)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Marché pétrolier (sanctions et investissements étrangers)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Tourisme religieux (pilgrimages et image internationale)",
+            "secteur_en": "Religious tourism (pilgrimages and international image)",
+            "secteur_zh": "宗教旅游（朝圣和国际形象）",
+            "effet_fr": "Ces exécutions pourraient dissuader les pèlerins et touristes religieux, nuisant à l’industrie du hadj et à l’image du royaume.",
+            "effet_en": "Such executions may deter religious pilgrims and tourists, harming the hajj industry and Saudi Arabia’s international image.",
+            "effet_zh": "此类执行可能劝阻朝圣者和宗教旅游者，损害哈吉产业和沙特的国际形象。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché pétrolier (sanctions et investissements étrangers)",
+            "secteur_en": "Oil market (sanctions and foreign investments)",
+            "secteur_zh": "石油市场（制裁和外资投资）",
+            "effet_fr": "Des mesures internationales pourraient cibler les secteurs énergétiques saoudiens, limitant les investissements et affectant les revenus pétroliers.",
+            "effet_en": "International measures may target Saudi energy sectors, limiting investments and affecting oil revenues.",
+            "effet_zh": "国际措施可能针对沙特能源部门，限制投资并影响石油收入。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-21T01:18:26.352232"
+      },
+      {
         "id": "iran_180661",
         "titre": "Attaque houthis sur camp militaire yéménite tue au moins 50 recrues",
         "titre_en": "Houthi strike kills 50+ Yemeni military recruits",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-10-06T04:58:25.691709"
-      },
-      {
-        "id": "iran_906115",
-        "titre": "Iran rappelle ambassadeur norvégien pour Starlink",
-        "titre_en": "Iran recalls Norway’s envoy over Starlink",
-        "titre_zh": "伊朗召回挪威大使抗议Starlink",
-        "titre_ru": "Iran summons Norway's envoy over Starlink",
-        "titre_fa": "Iran summons Norway's envoy over Starlink",
-        "titre_ar": "Iran summons Norway's envoy over Starlink",
-        "titre_original": "Iran summons Norway's envoy over Starlink",
-        "resume": "L’Iran a convoqué l’ambassadeur norvégien Paal Bjornestad pour protester contre l’utilisation présumée des satellites Starlink de SpaceX sur son territoire. Le ministère des Affaires étrangères a tenu la Norvège responsable de l’entreprise américaine, soulignant les tensions persistantes autour des technologies occidentales en Iran. Cette crise pourrait aggraver les relations diplomatiques et renforcer les restrictions sur les communications internationales.",
-        "resume_en": "Iran summoned Norway’s Ambassador Paal Bjornestad to protest alleged misuse of SpaceX’s Starlink satellites on its territory. The foreign ministry held Norway accountable for the US company, highlighting persistent tensions over Western tech in Iran. This crisis may worsen diplomatic relations and tighten restrictions on international communications.",
-        "resume_zh": "伊朗召见挪威大使帕尔·比约恩斯塔德，抗议SpaceX的Starlink卫星在其领土上被滥用。外交部将挪威对美国公司负责，突显了西方技术在伊朗持续的紧张局势。这一危机可能恶化外交关系并加强对国际通信的限制。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette crise s’inscrit dans un contexte de tensions croissantes entre l’Iran et les puissances occidentales, notamment autour des sanctions et de l’accès aux technologies. Les enjeux incluent la souveraineté technologique iranienne et la dépendance aux infrastructures étrangères. Les causes profondes résident dans la politique de sanctions américaines et européennes, ainsi que dans la volonté iranienne de réduire sa dépendance aux systèmes occidentaux. À court terme, cela pourrait renforcer les restrictions sur Internet et les communications, mais aussi accélérer le développement de solutions locales. À moyen terme, cela pourrait pousser Téhéran à renforcer ses partenariats avec la Russie ou la Chine pour contourner les blocages. Les acteurs clés sont l’Iran, les États-Unis, l’UE, et les entreprises technologiques comme SpaceX.",
-        "analyse_en": "This crisis fits a context of growing tensions between Iran and Western powers, particularly over sanctions and tech access. Stakes include Iranian tech sovereignty and dependence on foreign infrastructure. Root causes lie in US and EU sanctions policies and Iran’s push to reduce reliance on Western systems. Short-term, this may tighten internet and communication restrictions but also accelerate local solutions. Long-term, it could push Tehran to strengthen partnerships with Russia or China to bypass blockades. Key actors include Iran, the US, the EU, and tech firms like SpaceX.",
-        "analyse_zh": "这一危机发生在伊朗与西方国家紧张关系不断升级的背景下，特别是围绕制裁和技术接入问题。主要影响包括伊朗的技术主权和对外国基础设施的依赖。深层原因在于美国和欧洲的制裁政策，以及伊朗减少对西方系统依赖的意愿。短期内，这可能加强对互联网和通信的限制，但也可能加速本土解决方案的开发。长期来看，这可能推动德黑兰与俄罗斯或中国加强合作，以绕过封锁。关键利益相关者包括伊朗、美国、欧盟和SpaceX等科技公司。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5f2f1089824d1c38",
-        "image": "https://biztoc.com/cdn/5f2f1089824d1c38_s.webp",
-        "date": "2026-10-04",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Technologies spatiales et satellites (Starlink, alternatives iraniennes)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Cybersécurité et contrôle d’Internet en Iran",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Technologies spatiales et satellites (Starlink, alternatives iraniennes)",
-            "secteur_en": "Space technologies and satellites (Starlink, Iranian alternatives)",
-            "secteur_zh": "航天技术和卫星（Starlink、伊朗替代方案）",
-            "effet_fr": "Cette crise pourrait accélérer le développement de satellites iraniens autonomes et réduire la dépendance aux infrastructures américaines, mais aussi entraîner des coûts élevés pour les recherches locales.",
-            "effet_en": "This crisis may accelerate the development of Iranian autonomous satellites and reduce dependence on US infrastructure, but also incur high costs for local research.",
-            "effet_zh": "这一危机可能加速伊朗自主卫星的开发并减少对美国基础设施的依赖，但也可能带来本土研究的高成本。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Cybersécurité et contrôle d’Internet en Iran",
-            "secteur_en": "Cybersecurity and internet control in Iran",
-            "secteur_zh": "伊朗的网络安全和互联网管控",
-            "effet_fr": "Les restrictions accrues sur Starlink pourraient pousser le gouvernement iranien à renforcer son contrôle sur les communications locales, au risque de limiter l’accès à l’information et d’étouffer les mouvements dissidents.",
-            "effet_en": "Increased restrictions on Starlink may push Iran’s government to tighten control over local communications, risking limited access to information and stifling dissent movements.",
-            "effet_zh": "对Starlink的加强限制可能促使伊朗政府加强对本土通信的控制，但可能限制信息获取并扼杀异见运动。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-05T23:47:33.326391"
       }
     ]
   },
