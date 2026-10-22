@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/10/2026 à 18h19",
+  "last_updated": "22/10/2026 à 22h07",
   "articles": {
     "monde": [
       {
@@ -6134,66 +6134,6 @@
   },
   "politique": [
     {
-      "id": "pol_env_360554",
-      "titre": "Mutuelles et parents alertent sur pesticides",
-      "titre_en": "Health insurers and parents warn on pesticide crisis",
-      "titre_zh": "健康互助会和家长警告农药危机",
-      "titre_ru": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
-      "titre_fa": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
-      "titre_ar": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
-      "titre_original": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
-      "resume": "Des mutuelles de santé représentant 14 millions d’affiliés et des parents d’enfants atteints de maladies liées aux pesticides appellent à un arrêt immédiat des pratiques industrielles toxiques. Ils citent des cas comme Alban (4 ans), Maïtena (5 ans) ou Cloé (11 ans), victimes de cancers et autres pathologies. Leur mobilisation s’inscrit dans un contexte de montée des alertes sanitaires et environnementales en France.",
-      "resume_en": "Health insurers covering 14 million members and parents of children sickened by pesticides urge an immediate halt to toxic industrial practices. Cases like Alban (4), Maïtena (5), and Cloé (11) illustrate the link to cancers and other diseases. Their campaign reflects growing health and environmental warnings in France.",
-      "resume_zh": "覆盖1400万成员的健康互助会和农药致病儿童家长呼吁立即停止有毒工业实践。阿尔班（4岁）、迈蒂娜（5岁）和克洛埃（11岁）等病例展示了与癌症和其他疾病的关联。他们的行动反映了法国日益严峻的健康和环境警告。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France connaît depuis les années 1980 une exposition croissante aux pesticides, avec des études scientifiques (comme celles de l’ANSES) confirmant leurs effets cancérigènes et neurotoxiques. Les enjeux sont à la fois sanitaires (épidémies de maladies chroniques chez les enfants) et écologiques (dégradation des sols et de la biodiversité). Les causes profondes incluent un modèle agricole intensif, des lobbies agrochimiques influents et un cadre réglementaire jugé insuffisant. À court terme, cette crise pourrait exacerber les tensions sociales et juridiques (procès en cours contre des fabricants). À moyen terme, elle pourrait accélérer des réformes comme la sortie des néonicotinoïdes ou l’interdiction de certains produits. Long terme, une transition vers une agriculture biologique massive est envisageable, mais dépendra des investissements publics et privés. Les mutuelles et associations de parents jouent un rôle clé en médiatisant le sujet, tandis que l’État reste divisé entre pression économique (secteur agricole) et impératifs sanitaires.",
-      "analyse_en": "France has faced growing pesticide exposure since the 1980s, with scientific studies (e.g., ANSES) confirming carcinogenic and neurotoxic effects. Stakes involve both public health (rising chronic diseases in children) and environmental degradation (soil and biodiversity loss). Root causes include intensive farming, powerful agrochemical lobbies, and perceived regulatory gaps. Short-term, this crisis may intensify social and legal tensions (ongoing lawsuits against manufacturers). Medium-term, it could push reforms like neonicotinoid bans or stricter pesticide rules. Long-term, a shift to organic farming is possible but hinges on public and private investments. Health insurers and parent groups amplify the issue, while the government remains torn between agricultural economic pressures and health priorities.",
-      "analyse_zh": "法国自上世纪80年代以来，农药暴露问题日益严重，科学研究（如ANSES）确认其致癌和神经毒性。主要影响涉及儿童慢性病暴发和生态系统退化（土壤和生物多样性破坏）。深层原因包括集约化农业、强大的农药行业利益集团和不足的监管框架。短期内，危机可能加剧社会和法律纠纷（正在进行的对制造商的诉讼）。中期内，它可能推动如禁用新尼古丁类农药或加强农药法规的改革。长期来看，向有机农业转型是可能的，但需依赖公共和私营部门的投资。健康互助会和家长组织在宣传此问题中发挥关键作用，而政府则在农业经济压力和健康需求之间举棋不定。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement/Santé publique",
-      "source": "Basta.media",
-      "url": "https://basta.media/Interdisez-les-pesticides-appel-mutuelles-de-sante-parents-enfants-malades-cancer-Parlement-europeen-Omnibus-X",
-      "image": "https://basta.media/local/cache-gd2/48/cb6f9e91cbdef78927661bd34dd6a6.jpg",
-      "date": "2026-10-21",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance maladie (branche santé)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurance responsabilité civile (agrochimie)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance maladie (branche santé)",
-          "secteur_en": "Health insurance sector",
-          "secteur_zh": "健康保险行业",
-          "effet_fr": "Les coûts des soins liés aux maladies pesticide-induites pourraient exploser, pesant sur les budgets des mutuelles et augmentant les primes pour les assurés.",
-          "effet_en": "Rising healthcare costs for pesticide-related illnesses may strain insurers’ budgets and drive up premiums for policyholders.",
-          "effet_zh": "与农药相关疾病的医疗成本可能激增，加重互助会预算并推高保费。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurance responsabilité civile (agrochimie)",
-          "secteur_en": "Product liability insurance (agrochemicals)",
-          "secteur_zh": "农药产品责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des litiges judiciaires contre les fabricants de pesticides, déjà sous pression financière.",
-          "effet_en": "Premiums may rise due to growing lawsuits against pesticide manufacturers, already financially strained.",
-          "effet_zh": "由于对农药制造商的诉讼增加，责任保险费率可能上涨，这些制造商已经面临财务压力。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-22T18:19:46.866820",
-      "sous_categorie": "environnement"
-    },
-    {
       "id": "pol_femmes_669028",
       "titre": "Féminicides conjugaux en hausse en 2025",
       "titre_en": "Domestic femicides rise in 2025",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-09-27T00:16:34.173832",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_360554",
+      "titre": "Mutuelles et parents alertent sur pesticides",
+      "titre_en": "Health insurers and parents warn on pesticide crisis",
+      "titre_zh": "健康互助会和家长警告农药危机",
+      "titre_ru": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "titre_fa": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "titre_ar": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "titre_original": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "resume": "Des mutuelles de santé représentant 14 millions d’affiliés et des parents d’enfants atteints de maladies liées aux pesticides appellent à un arrêt immédiat des pratiques industrielles toxiques. Ils citent des cas comme Alban (4 ans), Maïtena (5 ans) ou Cloé (11 ans), victimes de cancers et autres pathologies. Leur mobilisation s’inscrit dans un contexte de montée des alertes sanitaires et environnementales en France.",
+      "resume_en": "Health insurers covering 14 million members and parents of children sickened by pesticides urge an immediate halt to toxic industrial practices. Cases like Alban (4), Maïtena (5), and Cloé (11) illustrate the link to cancers and other diseases. Their campaign reflects growing health and environmental warnings in France.",
+      "resume_zh": "覆盖1400万成员的健康互助会和农药致病儿童家长呼吁立即停止有毒工业实践。阿尔班（4岁）、迈蒂娜（5岁）和克洛埃（11岁）等病例展示了与癌症和其他疾病的关联。他们的行动反映了法国日益严峻的健康和环境警告。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France connaît depuis les années 1980 une exposition croissante aux pesticides, avec des études scientifiques (comme celles de l’ANSES) confirmant leurs effets cancérigènes et neurotoxiques. Les enjeux sont à la fois sanitaires (épidémies de maladies chroniques chez les enfants) et écologiques (dégradation des sols et de la biodiversité). Les causes profondes incluent un modèle agricole intensif, des lobbies agrochimiques influents et un cadre réglementaire jugé insuffisant. À court terme, cette crise pourrait exacerber les tensions sociales et juridiques (procès en cours contre des fabricants). À moyen terme, elle pourrait accélérer des réformes comme la sortie des néonicotinoïdes ou l’interdiction de certains produits. Long terme, une transition vers une agriculture biologique massive est envisageable, mais dépendra des investissements publics et privés. Les mutuelles et associations de parents jouent un rôle clé en médiatisant le sujet, tandis que l’État reste divisé entre pression économique (secteur agricole) et impératifs sanitaires.",
+      "analyse_en": "France has faced growing pesticide exposure since the 1980s, with scientific studies (e.g., ANSES) confirming carcinogenic and neurotoxic effects. Stakes involve both public health (rising chronic diseases in children) and environmental degradation (soil and biodiversity loss). Root causes include intensive farming, powerful agrochemical lobbies, and perceived regulatory gaps. Short-term, this crisis may intensify social and legal tensions (ongoing lawsuits against manufacturers). Medium-term, it could push reforms like neonicotinoid bans or stricter pesticide rules. Long-term, a shift to organic farming is possible but hinges on public and private investments. Health insurers and parent groups amplify the issue, while the government remains torn between agricultural economic pressures and health priorities.",
+      "analyse_zh": "法国自上世纪80年代以来，农药暴露问题日益严重，科学研究（如ANSES）确认其致癌和神经毒性。主要影响涉及儿童慢性病暴发和生态系统退化（土壤和生物多样性破坏）。深层原因包括集约化农业、强大的农药行业利益集团和不足的监管框架。短期内，危机可能加剧社会和法律纠纷（正在进行的对制造商的诉讼）。中期内，它可能推动如禁用新尼古丁类农药或加强农药法规的改革。长期来看，向有机农业转型是可能的，但需依赖公共和私营部门的投资。健康互助会和家长组织在宣传此问题中发挥关键作用，而政府则在农业经济压力和健康需求之间举棋不定。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement/Santé publique",
+      "source": "Basta.media",
+      "url": "https://basta.media/Interdisez-les-pesticides-appel-mutuelles-de-sante-parents-enfants-malades-cancer-Parlement-europeen-Omnibus-X",
+      "image": "https://basta.media/local/cache-gd2/48/cb6f9e91cbdef78927661bd34dd6a6.jpg",
+      "date": "2026-10-21",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance maladie (branche santé)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité civile (agrochimie)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (branche santé)",
+          "secteur_en": "Health insurance sector",
+          "secteur_zh": "健康保险行业",
+          "effet_fr": "Les coûts des soins liés aux maladies pesticide-induites pourraient exploser, pesant sur les budgets des mutuelles et augmentant les primes pour les assurés.",
+          "effet_en": "Rising healthcare costs for pesticide-related illnesses may strain insurers’ budgets and drive up premiums for policyholders.",
+          "effet_zh": "与农药相关疾病的医疗成本可能激增，加重互助会预算并推高保费。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité civile (agrochimie)",
+          "secteur_en": "Product liability insurance (agrochemicals)",
+          "secteur_zh": "农药产品责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des litiges judiciaires contre les fabricants de pesticides, déjà sous pression financière.",
+          "effet_en": "Premiums may rise due to growing lawsuits against pesticide manufacturers, already financially strained.",
+          "effet_zh": "由于对农药制造商的诉讼增加，责任保险费率可能上涨，这些制造商已经面临财务压力。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-22T18:19:46.866820",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_991812",
