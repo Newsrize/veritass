@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/10/2026 à 13h30",
+  "last_updated": "22/10/2026 à 18h19",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,66 @@
   },
   "politique": [
     {
+      "id": "pol_env_360554",
+      "titre": "Mutuelles et parents alertent sur pesticides",
+      "titre_en": "Health insurers and parents warn on pesticide crisis",
+      "titre_zh": "健康互助会和家长警告农药危机",
+      "titre_ru": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "titre_fa": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "titre_ar": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "titre_original": "« Arrêter ce massacre industriel » : l'appel des mutuelles de santé et des parents d'enfants malades des pesticides",
+      "resume": "Des mutuelles de santé représentant 14 millions d’affiliés et des parents d’enfants atteints de maladies liées aux pesticides appellent à un arrêt immédiat des pratiques industrielles toxiques. Ils citent des cas comme Alban (4 ans), Maïtena (5 ans) ou Cloé (11 ans), victimes de cancers et autres pathologies. Leur mobilisation s’inscrit dans un contexte de montée des alertes sanitaires et environnementales en France.",
+      "resume_en": "Health insurers covering 14 million members and parents of children sickened by pesticides urge an immediate halt to toxic industrial practices. Cases like Alban (4), Maïtena (5), and Cloé (11) illustrate the link to cancers and other diseases. Their campaign reflects growing health and environmental warnings in France.",
+      "resume_zh": "覆盖1400万成员的健康互助会和农药致病儿童家长呼吁立即停止有毒工业实践。阿尔班（4岁）、迈蒂娜（5岁）和克洛埃（11岁）等病例展示了与癌症和其他疾病的关联。他们的行动反映了法国日益严峻的健康和环境警告。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France connaît depuis les années 1980 une exposition croissante aux pesticides, avec des études scientifiques (comme celles de l’ANSES) confirmant leurs effets cancérigènes et neurotoxiques. Les enjeux sont à la fois sanitaires (épidémies de maladies chroniques chez les enfants) et écologiques (dégradation des sols et de la biodiversité). Les causes profondes incluent un modèle agricole intensif, des lobbies agrochimiques influents et un cadre réglementaire jugé insuffisant. À court terme, cette crise pourrait exacerber les tensions sociales et juridiques (procès en cours contre des fabricants). À moyen terme, elle pourrait accélérer des réformes comme la sortie des néonicotinoïdes ou l’interdiction de certains produits. Long terme, une transition vers une agriculture biologique massive est envisageable, mais dépendra des investissements publics et privés. Les mutuelles et associations de parents jouent un rôle clé en médiatisant le sujet, tandis que l’État reste divisé entre pression économique (secteur agricole) et impératifs sanitaires.",
+      "analyse_en": "France has faced growing pesticide exposure since the 1980s, with scientific studies (e.g., ANSES) confirming carcinogenic and neurotoxic effects. Stakes involve both public health (rising chronic diseases in children) and environmental degradation (soil and biodiversity loss). Root causes include intensive farming, powerful agrochemical lobbies, and perceived regulatory gaps. Short-term, this crisis may intensify social and legal tensions (ongoing lawsuits against manufacturers). Medium-term, it could push reforms like neonicotinoid bans or stricter pesticide rules. Long-term, a shift to organic farming is possible but hinges on public and private investments. Health insurers and parent groups amplify the issue, while the government remains torn between agricultural economic pressures and health priorities.",
+      "analyse_zh": "法国自上世纪80年代以来，农药暴露问题日益严重，科学研究（如ANSES）确认其致癌和神经毒性。主要影响涉及儿童慢性病暴发和生态系统退化（土壤和生物多样性破坏）。深层原因包括集约化农业、强大的农药行业利益集团和不足的监管框架。短期内，危机可能加剧社会和法律纠纷（正在进行的对制造商的诉讼）。中期内，它可能推动如禁用新尼古丁类农药或加强农药法规的改革。长期来看，向有机农业转型是可能的，但需依赖公共和私营部门的投资。健康互助会和家长组织在宣传此问题中发挥关键作用，而政府则在农业经济压力和健康需求之间举棋不定。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement/Santé publique",
+      "source": "Basta.media",
+      "url": "https://basta.media/Interdisez-les-pesticides-appel-mutuelles-de-sante-parents-enfants-malades-cancer-Parlement-europeen-Omnibus-X",
+      "image": "https://basta.media/local/cache-gd2/48/cb6f9e91cbdef78927661bd34dd6a6.jpg",
+      "date": "2026-10-21",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance maladie (branche santé)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité civile (agrochimie)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (branche santé)",
+          "secteur_en": "Health insurance sector",
+          "secteur_zh": "健康保险行业",
+          "effet_fr": "Les coûts des soins liés aux maladies pesticide-induites pourraient exploser, pesant sur les budgets des mutuelles et augmentant les primes pour les assurés.",
+          "effet_en": "Rising healthcare costs for pesticide-related illnesses may strain insurers’ budgets and drive up premiums for policyholders.",
+          "effet_zh": "与农药相关疾病的医疗成本可能激增，加重互助会预算并推高保费。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité civile (agrochimie)",
+          "secteur_en": "Product liability insurance (agrochemicals)",
+          "secteur_zh": "农药产品责任保险",
+          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des litiges judiciaires contre les fabricants de pesticides, déjà sous pression financière.",
+          "effet_en": "Premiums may rise due to growing lawsuits against pesticide manufacturers, already financially strained.",
+          "effet_zh": "由于对农药制造商的诉讼增加，责任保险费率可能上涨，这些制造商已经面临财务压力。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-22T18:19:46.866820",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_669028",
       "titre": "Féminicides conjugaux en hausse en 2025",
       "titre_en": "Domestic femicides rise in 2025",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-10-15T18:09:31.615620",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_101090",
-      "titre": "SEDIF modernise filtres contre polluants",
-      "titre_en": "SEDIF upgrades filters for pollutants",
-      "titre_zh": "SEDIF升级过滤器应对污染物",
-      "titre_ru": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "titre_fa": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "titre_ar": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "titre_original": "Le Service public de l’eau en Ile-de-France installe une nouvelle génération de filtres pour sécuriser la qualité de l'eau potable",
-      "resume": "Le Syndicat des Eaux d’Ile-de-France (SEDIF) installe une nouvelle génération de filtres pour éliminer pesticides, PFAS et résidus de médicaments, échappant aux traitements classiques. Cette innovation répond à une dégradation croissante de la qualité de l’eau potable en région parisienne. Les investissements visent à sécuriser l’approvisionnement face aux pressions environnementales et sanitaires.",
-      "resume_en": "The Syndicat des Eaux d’Ile-de-France (SEDIF) is deploying advanced filtration systems to remove pesticides, PFAS, and pharmaceutical residues that evade traditional treatments. This initiative addresses worsening water quality in the Paris region amid rising environmental and health concerns. The upgrades aim to ensure safe drinking water supply despite growing pollution pressures.",
-      "resume_zh": "法国伊尔-德-弗朗斯水务联盟（SEDIF）安装新一代过滤器，以去除农药、PFAS和药物残留等传统处理难以清除的污染物。此举应对巴黎地区日益恶化的饮用水质量问题，并针对环境和卫生压力加大投资。升级旨在确保饮用水安全供应，尽管污染形势严峻。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Depuis les années 1990, la pollution des nappes phréatiques par les pesticides et micropolluants s’est aggravée en Île-de-France, poussant les acteurs publics à innover. Les enjeux sont sanitaires (risques cancérigènes des PFAS) et économiques (coûts sanitaires liés à l’eau contaminée). Les causes profondes incluent l’agriculture intensive et l’urbanisation croissante, aggravées par des normes de traitement obsolètes. À court terme, cette modernisation réduira les risques de contamination, mais à moyen terme, elle pourrait inciter d’autres régions à suivre l’exemple. À long terme, cela pourrait relancer le débat sur la responsabilité des industriels et des agriculteurs. Les collectivités locales, comme le SEDIF, jouent un rôle clé, tandis que l’État doit clarifier les financements et les régulations. Les associations environnementales saluent cette avancée, mais appellent à une régulation plus stricte des polluants.",
-      "analyse_en": "Since the 1990s, groundwater pollution by pesticides and micropollutants has worsened in Île-de-France, prompting public actors to innovate. The stakes are health-related (carcinogenic risks from PFAS) and economic (healthcare costs from contaminated water). Root causes include intensive agriculture and urban sprawl, exacerbated by outdated treatment standards. Short-term, this upgrade will lower contamination risks, but medium-term, it may prompt other regions to adopt similar measures. Long-term, it could reignite debates on industrial and agricultural accountability. Local authorities like SEDIF are pivotal, while the state must clarify funding and regulations. Environmental groups welcome the progress but demand stricter pollutant controls.",
-      "analyse_zh": "自上世纪90年代以来，法国伊尔-德-弗朗斯地区地下水受农药和微污染物污染日益严重，迫使公共部门创新应对。主要影响涉及健康风险（PFAS致癌风险）和经济成本（受污染水带来的医疗费用）。深层原因包括集约化农业和城市扩张，加上过时的处理标准。短期内，升级将降低污染风险，但中期可能推动其他地区效仿。长期来看，这可能重新引发对工业和农业责任的讨论。地方政府如SEDIF扮演关键角色，而国家需明确资金和法规。环保组织称赞这一进展，但呼吁更严格的污染物管控。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Futura",
-      "url": "https://www.futura-sciences.com/planete/actualites/eau-service-public-eau-ile-france-installe-nouvelle-generation-filtres-securiser-qualite-eau-potable-138334/",
-      "image": "https://cdn8.futura-sciences.com/a1920/images/VISUELS_1920%20x%201090.png",
-      "date": "2026-10-14",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile environnementale",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des technologies de dépollution",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter en raison de l’extension des risques couverts par les nouvelles réglementations sur la qualité de l’eau.",
-          "effet_en": "Insurers may face higher premiums due to expanded coverage risks under new water quality regulations.",
-          "effet_zh": "保险公司可能因新水质法规扩大的风险覆盖而面临保费上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des technologies de dépollution",
-          "secteur_en": "Water pollution treatment tech market",
-          "secteur_zh": "水污染治理技术市场",
-          "effet_fr": "Les investissements du SEDIF pourraient stimuler la demande pour des solutions innovantes, bénéficiant aux startups et entreprises spécialisées dans la filtration avancée.",
-          "effet_en": "SEDIF’s investments may drive demand for advanced filtration solutions, benefiting startups and firms specializing in water treatment tech.",
-          "effet_zh": "SEDIF的投资可能刺激对先进过滤技术的需求，惠及从事水处理的初创企业和专业公司。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-15T08:54:25.917792",
       "sous_categorie": "environnement"
     }
   ]
