@@ -1,7 +1,66 @@
 {
-  "last_updated": "21/10/2026 à 22h08",
+  "last_updated": "22/10/2026 à 01h14",
   "articles": {
     "monde": [
+      {
+        "id": "monde_661757",
+        "titre": "Larkin élargit sa liste de transferts à 10 équipes",
+        "titre_en": "Larkin expands trade to 10 teams",
+        "titre_zh": "拉金扩展至10支球队交易",
+        "titre_ru": "Dylan Larkin expands his trade list to 10 teams",
+        "titre_fa": "Dylan Larkin expands his trade list to 10 teams",
+        "titre_ar": "Dylan Larkin expands his trade list to 10 teams",
+        "titre_original": "Dylan Larkin expands his trade list to 10 teams",
+        "resume": "Le capitaine des Red Wings, Dylan Larkin, voit sa liste de transferts potentiels s’étendre à dix équipes, marquant une nouvelle étape dans sa carrière. Ce développement suit des rumeurs persistantes sur son désir de quitter Détroit. Les implications incluent une possible reconfiguration du marché des joueurs de la NHL et une attention accrue sur les équipes visées.",
+        "resume_en": "Detroit Red Wings captain Dylan Larkin’s potential trade list expands to 10 teams, marking a new phase in his career. This follows persistent rumors about his desire to leave Detroit. Implications include a possible reshuffling of the NHL’s player market and heightened focus on targeted teams.",
+        "resume_zh": "红翼队队长德莱昂·拉金的潜在交易名单扩展至10支球队，标志着其职业生涯的新阶段。此举在拉金离开底特律的传闻持续之际发生。影响包括NHL球员市场的重新洗牌和对目标球队的关注度提升。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette annonce s’inscrit dans une dynamique de mobilité accrue des joueurs stars de la NHL, où les contrats lucratifs et les désaccords avec les franchises poussent à des changements. Les enjeux incluent la stabilité des équipes et la valeur marchande des joueurs, avec des conséquences financières immédiates pour les clubs impliqués. À moyen terme, cela pourrait redéfinir les équilibres compétitifs dans la ligue. Long terme, cela reflète une professionnalisation croissante du sport, où les joueurs deviennent des acteurs stratégiques. Les acteurs comme les agents et les médias en tirent profit, tandis que les franchises doivent s’adapter pour retenir leurs talents.",
+        "analyse_en": "This announcement reflects increased mobility among NHL star players, driven by lucrative contracts and disputes with franchises. Stakes include team stability and player market value, with immediate financial consequences for involved clubs. Medium-term, this could redefine competitive balances in the league. Long-term, it highlights growing professionalization in sports, where players become strategic assets. Actors like agents and media benefit, while franchises must adapt to retain talent.",
+        "analyse_zh": "此消息反映了NHL明星球员流动性增加，主要由丰厚合同和与球队的分歧驱动。影响包括球队稳定性和球员市场价值，对相关俱乐部有即时的财务影响。中期内，这可能重新定义联盟的竞争平衡。长期来看，这体现了体育职业化的加深，球员成为战略资产。代理商和媒体从中获益，而俱乐部必须适应以留住人才。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "Hockeyfeed.com",
+        "url": "https://www.hockeyfeed.com/nhl-news/dylan-larkin-expands-his-trade-list-to-10-teams",
+        "image": "https://s.yimg.com/lo/mysterio/api/9ceec592358b801659d36a23d65452037b459f7236149db9ba9b4b4fd89b1c6f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhockeyfeed_789%2F57d7f27ff4a77183c8bdce2c7a26d4b9.jpg",
+        "date": "2026-10-21",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des agents sportifs (NHLPA)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Fonds de pension et investissements sportifs",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des agents sportifs (NHLPA)",
+            "secteur_en": "Sports agents market (NHLPA)",
+            "secteur_zh": "体育代理市场（NHLPA）",
+            "effet_fr": "L’expansion des listes de transferts renforce la position des agents en négociation, augmentant potentiellement leurs commissions sur les futures transactions.",
+            "effet_en": "Expanding trade lists strengthens agents’ negotiating positions, potentially increasing their commissions on future deals.",
+            "effet_zh": "扩大交易名单增强了代理商的谈判地位，可能提高其未来交易的佣金。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds de pension et investissements sportifs",
+            "secteur_en": "Pension funds and sports investments",
+            "secteur_zh": "养老基金与体育投资",
+            "effet_fr": "Les mouvements de joueurs influencent les valorisations des franchises, attirant ou éloignant les investisseurs institutionnels comme les fonds de pension.",
+            "effet_en": "Player movements affect franchise valuations, attracting or deterring institutional investors like pension funds.",
+            "effet_zh": "球员的流动影响球队的估值，吸引或排斥像养老基金这样的机构投资者。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-22T01:14:38.837143"
+      },
       {
         "id": "monde_513610",
         "titre": "Émeutes parisiennes : critique d’un État-providence",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-15T21:57:31.588389"
-      },
-      {
-        "id": "monde_421888",
-        "titre": "Débat des leaders : Luxon vs Hipkins",
-        "titre_en": "Leaders’ Debate: Luxon vs Hipkins",
-        "titre_zh": "领导人辩论：卢克森对希普金斯",
-        "titre_ru": "Выборы 2026: эксперты выбирают победителя дебатов лидеров NZ Herald",
-        "titre_fa": "انتخابات ۲۰۲۶: خبرگان برنده بحث رهبران روزنامه NZ Herald را انتخاب کردند",
-        "titre_ar": "انتخابات 2026: خبراء يختارون الفائز في مناظرة قادة صحيفة NZ Herald",
-        "titre_original": "Election 2026: Our experts pick who won the NZ Herald Leaders’ Debate",
-        "resume": "Christopher Luxon et Chris Hipkins se sont affrontés lors du débat des leaders organisé par le *New Zealand Herald*. Ce face-à-face, crucial pour les élections de 2026, a mis en lumière leurs divergences sur les politiques économiques et sociales. Les experts analysent déjà l’impact potentiel de ce débat sur les intentions de vote.",
-        "resume_en": "Christopher Luxon and Chris Hipkins clashed in the *New Zealand Herald* Leaders’ Debate, pivotal ahead of the 2026 elections. Experts dissect the clash over economic and social policies, assessing its impact on voter intentions. The debate underscores shifting political dynamics in New Zealand.",
-        "resume_zh": "基督城·卢克森和克里斯·希普金斯在《新西兰先驱报》举办的领导人辩论中展开对决，这是2026年大选前的关键环节。专家分析了他们在经济和社会政策上的分歧，并评估辩论对选民意向的影响。此次辩论凸显了新西兰政治动态的变化。",
-        "resume_ru": "Лидеры оппозиционной партии «Новая Зеландия» Кристофер Лаксон и премьер-министр страны Крис Хипинс встретились в прямом эфире на дебатах NZ Herald. Эксперты проанализировали их выступления, оценивая аргументы, стиль и реакцию на вопросы. Результаты могут повлиять на предвыборные симпатии избирателей к 2026 году.",
-        "resume_fa": "کریستوفر لاکسون رهبر حزب مخالف و کریس هیپکینز نخست‌وزیر نیوزیلند در بحث رهبران روزنامه NZ Herald با یکدیگر روبرو شدند. خبرگان این دو سخنرانی را تحلیل کردند و از نظرات، سبک و پاسخ به سوالات آن‌ها ارزیابی کردند. نتایج این بحث می‌تواند تأثیر بسزایی بر علاقه‌مندی‌های انتخاباتی مردم تا سال ۲۰۲۶ داشته باشد.",
-        "resume_ar": "التنافس بين كريستوفر لوكسون، زعيم حزب المعارضة، وكريس هيبكنز، رئيس وزراء نيوزيلندا، خلال مناظرة قادة صحيفة NZ Herald. قام خبراء بتحليل أدائهم، وتقييم حججهم، وأسلوبهم، وردودهم على الأسئلة. قد تؤثر نتائج المناظرة على مواقف الناخبين قبل الانتخابات المقررة لعام 2026.",
-        "analyse_detaillee": "Ce débat s’inscrit dans un contexte de polarisation croissante en Nouvelle-Zélande, où les enjeux économiques (inflation, croissance) et sociaux (santé, éducation) dominent depuis la crise du COVID-19. Les causes profondes incluent la montée des inégalités et la défiance envers les institutions traditionnelles, exacerbée par la pandémie. À court terme, les résultats du débat pourraient influencer les sondages, avec un possible avantage pour Luxon sur les thèmes de la rigueur budgétaire. À moyen terme, cela pourrait accélérer la fragmentation du paysage politique, tandis qu’à long terme, une victoire de Luxon pourrait relancer les réformes libérales. Les acteurs clés—partis politiques, médias et lobbies économiques—utilisent ce débat pour façonner leur narrative, avec le *Herald* jouant un rôle central dans la médiatisation.",
-        "analyse_en": "This debate occurs amid growing polarization in New Zealand, with economic (inflation, growth) and social (healthcare, education) issues dominating since the COVID-19 crisis. Root causes include rising inequality and distrust in traditional institutions, worsened by the pandemic. Short-term, debate outcomes may sway polls, potentially favoring Luxon on fiscal austerity themes. Medium-term, this could accelerate political fragmentation, while long-term, a Luxon victory might revive neoliberal reforms. Key actors—political parties, media, and economic lobbies—leverage the debate to shape narratives, with *Herald* playing a pivotal role in framing it.",
-        "analyse_zh": "此次辩论发生在新西兰政治极化加剧的背景下，经济（通胀、增长）和社会（医疗、教育）议题自疫情以来一直占主导地位。深层原因包括收入不平等加剧和对传统机构的不信任，疫情进一步恶化了这一趋势。短期内，辩论结果可能影响民意调查，卢克森在财政紧缩议题上可能占优势。中期内，这可能加速政治分裂，长期来看，卢克森的胜利可能重启自由主义改革。关键利益相关者——政党、媒体和经济利益集团——利用辩论塑造议程，其中《先驱报》在舆论引导中扮演核心角色。",
-        "analyse_ru": "Дебаты NZ Herald стали важным этапом предвыборной кампании 2026 года, где Лаксон и Хипинс продемонстрировали свои стратегии убеждения. Лаксон акцентировал внимание на экономических реформах и безопасности, в то время как Хипинс подчеркивал социальные программы и устойчивое развитие. Критики отмечают, что Лаксон выглядел более уверенно, но Хипинс лучше отвечал на сложные вопросы. Такие дебаты часто формируют общественное мнение, особенно в условиях нестабильности экономики. Позиция СМИ и экспертов может усилить давление на кандидатов в преддверии выборов.",
-        "analyse_fa": "بحث رهبران روزنامه NZ Herald یک مرحله مهم در کمپین انتخاباتی سال ۲۰۲۶ بود که در آن لاکسون و هیپکینز از استراتژی‌های خود برای تأثیرگذاری استفاده کردند. لاکسون بر اصلاحات اقتصادی و امنیت تأکید کرد در حالی که هیپکینز بر برنامه‌های اجتماعی و توسعه پایدار متمرکز بود. منتقدان اظهار داشتند که لاکسون به نظر уверت‌تر به نظر می‌رسید اما هیپکینز بهتر به سوالات پیچیده پاسخ می‌داد. این گونه مناظرات اغلب ذهن عمومی را شکل می‌دهند، به ویژه در شرایط ناپایداری اقتصادی. موضع رسانه‌ها و خبرگان می‌تواند فشار بیشتری بر نامزدها در پیش از انتخابات وارد کند.",
-        "analyse_ar": "كانت مناظرة قادة صحيفة NZ Herald مرحلة حاسمة في حملة الانتخابات لعام 2026، حيث عرض لوكسون وهيبكنز استراتيجياتهم في الإقناع. تركز لوكسون على الإصلاحات الاقتصادية والأمن، بينما شدد هيبكنز على البرامج الاجتماعية والتنمية المستدامة. أشارت النقديات إلى أن لوكسون ظهر أكثر ثقة، لكن هيبكنز أجاب بشكل أفضل على الأسئلة المعقدة. هذه المناظرات غالبًا ما تشكل الرأي العام، خاصة في ظل عدم الاستقرار الاقتصادي. قد يزيد موقف وسائل الإعلام والخبراء من الضغط على المرشحين قبل الانتخابات.",
-        "categorie": "Géopolitique",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/nz/politics/election-2026-our-experts-pick-who-won-the-nz-herald-leaders-debate/premium/43EIT5RW4RFGDKYIKXSPVO43NU/",
-        "image": "https://www.nzherald.co.nz/resizer/v2/XK7ARQKC5JC6LKIAGS6UJGTNDU.jpg?auth=ceb17ab82dc747a3881021fec787f7d48b2ed407cbc886f6c843c773733ce53d&width=1200&height=675&quality=70&smart=true",
-        "date": "2026-10-14",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marché financier des obligations souveraines",
-            "hausse": false
-          },
-          {
-            "label": "▼ Bourse de Nouvelle-Zélande (NZX)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché financier des obligations souveraines",
-            "secteur_en": "Sovereign bond market",
-            "secteur_zh": "主权债券市场",
-            "effet_fr": "Les incertitudes politiques post-débat pourraient entraîner une volatilité accrue sur les obligations néo-zélandaises, affectant les rendements et les flux d’investissement.",
-            "effet_en": "Post-debate political uncertainty may trigger higher volatility in New Zealand sovereign bonds, impacting yields and investment flows.",
-            "effet_zh": "辩论后的政治不确定性可能导致新西兰主权债券市场波动加剧，影响收益率和投资流动。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Bourse de Nouvelle-Zélande (NZX)",
-            "secteur_en": "New Zealand Stock Exchange (NZX)",
-            "secteur_zh": "新西兰证券交易所（NZX）",
-            "effet_fr": "Les investisseurs pourraient réévaluer les valorisations des entreprises liées aux secteurs clés (énergie, infrastructure) en fonction des promesses électorales des candidats.",
-            "effet_en": "Investors may reassess valuations of companies in key sectors (energy, infrastructure) based on election pledges from candidates.",
-            "effet_zh": "投资者可能根据候选人的竞选承诺重新评估能源和基础设施等关键行业公司的估值。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-15T08:53:36.025363"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_234360",
+        "titre": "Trump loue Musk pour sauvetage post-ouragan",
+        "titre_en": "Trump praises Musk for post-Hurricane relief",
+        "titre_zh": "特朗普称马斯克救援风暴后生命",
+        "titre_ru": "Trump: Elon Musk saved a lot of lives in 2024",
+        "titre_fa": "Trump: Elon Musk saved a lot of lives in 2024",
+        "titre_ar": "Trump: Elon Musk saved a lot of lives in 2024",
+        "titre_original": "Trump: Elon Musk saved a lot of lives in 2024",
+        "resume": "Donald Trump a attribué à Elon Musk un rôle clé dans l’assistance d’urgence après l’ouragan Helene en 2024, soulignant son intervention via SpaceX. Cette reconnaissance survient dans un contexte de tensions géopolitiques et de dépendance aux technologies privées pour les secours. Les critiques pourraient y voir une instrumentalisation politique de la crise climatique.",
+        "resume_en": "Donald Trump credited Elon Musk for key emergency assistance after Hurricane Helene in 2024, highlighting SpaceX’s role in disaster response. This comes amid geopolitical tensions and reliance on private tech for crisis management, sparking debates over political exploitation of climate disasters.",
+        "resume_zh": "特朗普称2024年飓风海伦后，马斯克通过SpaceX在紧急救援中发挥了关键作用。此举在全球政治紧张和对私营科技依赖的背景下引发争议，也可能被视为政治操弄气候灾难的手段。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce discours s’inscrit dans une stratégie de Trump pour mobiliser son électorat autour de figures entrepreneuriales, perçues comme des symboles de résilience face aux crises naturelles. Les enjeux incluent la légitimité des acteurs privés dans la gestion des catastrophes, où l’État américain a historiquement joué un rôle central. Les causes profondes résident dans la privatisation croissante des infrastructures critiques et la réduction des budgets publics pour les secours. À court terme, cela pourrait renforcer l’influence de Musk dans les cercles politiques, tandis qu’à moyen terme, cela pourrait accélérer la dépendance aux solutions technologiques privées. Long terme, cela interroge la souveraineté nationale sur les ressources stratégiques comme l’espace. Les acteurs comme SpaceX et les lobbies technologiques en sortent renforcés, tandis que les institutions publiques pourraient voir leur rôle affaibli.",
+        "analyse_en": "This statement aligns with Trump’s strategy to rally his base around entrepreneurial figures seen as symbols of resilience against natural disasters. Key stakes involve the legitimacy of private actors in disaster management, where the U.S. government has traditionally held a central role. Root causes lie in the privatization of critical infrastructure and reduced public budgets for relief efforts. Short-term, this could bolster Musk’s political influence, while medium-term, it may accelerate reliance on private tech solutions. Long-term, it questions national sovereignty over strategic resources like space. Actors like SpaceX and tech lobbies gain leverage, while public institutions risk diminished authority.",
+        "analyse_zh": "特朗普此举属于其利用企业家形象团结支持者的战略，特别是在应对自然灾害时。核心问题在于私营部门在灾难管理中的合法性，美国政府此前一直扮演核心角色。深层原因在于关键基础设施的私有化和公共救援预算的削减。短期内，这将增强马斯克在政治上的影响力，中期可能加速对私营科技解决方案的依赖。长期来看，这将质疑国家对太空等战略资源的主权。SpaceX和科技行业利益集团将获益，而公共机构可能权力削弱。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f1b3a119ea5a021d",
+        "image": "https://biztoc.com/cdn/f1b3a119ea5a021d_s.webp",
+        "date": "2026-10-21",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Technologies spatiales et satellites",
+            "hausse": true
+          },
+          {
+            "label": "▲ Assurances et réassurances (catastrophes naturelles)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologies spatiales et satellites",
+            "secteur_en": "Space technologies and satellites",
+            "secteur_zh": "航天技术与卫星",
+            "effet_fr": "L’intervention de SpaceX dans les secours renforce la valeur perçue des actifs spatiaux et pourrait stimuler les investissements dans les infrastructures de communication critiques.",
+            "effet_en": "SpaceX’s involvement in relief efforts enhances the perceived value of space assets and may spur investments in critical communication infrastructure.",
+            "effet_zh": "SpaceX参与救援提升了航天资产的价值，可能刺激对关键通信基础设施的投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Assurances et réassurances (catastrophes naturelles)",
+            "secteur_en": "Insurance and reinsurance (natural disasters)",
+            "secteur_zh": "保险与再保险（自然灾害）",
+            "effet_fr": "La dépendance accrue aux solutions privées pourrait inciter les assureurs à réévaluer leurs modèles de couverture des risques climatiques, avec des hausses potentielles des primes.",
+            "effet_en": "Increased reliance on private solutions may prompt insurers to reassess climate risk coverage models, potentially leading to higher premiums.",
+            "effet_zh": "对私营解决方案的依赖可能促使保险商重新评估气候风险保障模式，导致保费上涨。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-22T01:14:38.837108"
+      },
       {
         "id": "usa_361886",
         "titre": "Trump annonce 8 milliards pour les agriculteurs",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-15T21:57:31.588370"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_702379",
-        "titre": "Taiwan négocie gaz Alaska pour 6M tonnes",
-        "titre_en": "Taiwan talks Alaska LNG for 6M tonnes",
-        "titre_zh": "台湾谈判阿拉斯加天然气600万吨",
-        "titre_ru": "Русские удары убивают троих в Киеве, выводит из строя десятки электростанций",
-        "titre_fa": "هجوم روسیه سه نفر را در کیيف کشت و ده‌ها تأسیسات برق را از کار انداخت",
-        "titre_ar": "هجمات روسية تقتل ثلاثة في كييف وتضرر عشرات محطات الكهرباء",
-        "titre_original": "Russian strikes kill 3 in Ukraine, damage dozens of power facilities",
-        "resume": "Taiwan annonce des avancées dans les négociations pour acheter du gaz naturel liquéfié (GNL) de l’Alaska, avec un investissement potentiel de 4,4 milliards de dollars. Ce projet s’inscrit dans la stratégie de diversification énergétique de Taipei face aux tensions avec la Chine. Les discussions portent sur un approvisionnement de 6 millions de tonnes par an.",
-        "resume_en": "Taiwan reports progress in talks to buy liquefied natural gas (LNG) from Alaska, with a potential $4.4 billion investment. The deal aligns with Taipei’s energy diversification strategy amid tensions with China. Discussions target 6 million tonnes annually.",
-        "resume_zh": "台湾宣布在与阿拉斯加谈判液化天然气（LNG）采购方面取得进展，潜在投资额为44亿美元。此项目符合台北在中台紧张局势下的能源多元化战略。谈判目标是每年600万吨供应。",
-        "resume_ru": "По данным властей, российские удары ночью убили троих человек в Киеве и оставили без света сотни тысяч жителей. Президент Украины Владимир Зеленский назвал атаку «показной». Это очередной эпизод эскалации конфликта, который угрожает стабильности энергосистемы страны.",
-        "resume_fa": "سازمان‌های دولتی اعلام کردند که حمله روسیه در شب سه نفر را در کیيف کشت و صدها هزار نفر را بدون برق گذاشت. ولادیمیر زلنسکی، رئیس‌جمهور اوکراین، این حمله را «نمایشی» توصیف کرد. این یک ماجرا دیگر از تصاعد درگیری است که به ثبات سیستم برق کشور تهدید می‌کند.",
-        "resume_ar": "أعلنت السلطات أن الهجمات الروسية قتلت ثلاثة أشخاص في كييف وأغلقت الكهرباء عن مئات الآلاف. وصف الرئيس الأوكراني فلاديمير زيلينسكي الهجوم بأنه «مظهري». هذا هو حلقة جديدة من تصعيد الصراع الذي يهدد استقرار شبكة الكهرباء في البلاد.",
-        "analyse_detaillee": "Ce partenariat s’inscrit dans une dynamique géopolitique plus large, où Taipei cherche à réduire sa dépendance au gaz russe et chinois, tout en contournant les sanctions américaines. Les enjeux incluent la sécurité énergétique de Taiwan et la stabilité des chaînes d’approvisionnement dans le Pacifique. Les causes profondes sont liées à la montée des tensions sino-américaines et à la volonté de Taipei de renforcer son autonomie stratégique. À court terme, ce projet pourrait accélérer les investissements américains en Alaska et relancer les infrastructures portuaires locales. À moyen terme, cela pourrait modifier les équilibres énergétiques en Asie, avec une réduction de la domination du gaz russe et chinois. Long terme, ce partenariat pourrait servir de modèle pour d’autres alliances énergétiques dans la région Indo-Pacifique, tout en renforçant la position de Taiwan comme acteur clé des marchés du GNL. Les acteurs comme les États-Unis, l’Alaska et la Chine (qui pourrait réagir par des représailles économiques) joueront des rôles déterminants.",
-        "analyse_en": "This partnership fits into a broader geopolitical dynamic, where Taipei aims to reduce reliance on Russian and Chinese gas while bypassing U.S. sanctions. Key stakes include Taiwan’s energy security and Pacific supply chain stability. Root causes stem from rising U.S.-China tensions and Taipei’s push for strategic autonomy. Short-term, this project may accelerate U.S. investments in Alaska and revive local port infrastructure. Medium-term, it could reshape Asian energy balances, reducing Russian and Chinese gas dominance. Long-term, this alliance could set a precedent for Indo-Pacific energy partnerships, while strengthening Taiwan’s role as a key LNG market player. Actors like the U.S., Alaska, and China (which may retaliate economically) will play decisive roles.",
-        "analyse_zh": "此合作属于更广泛的地缘政治动态，台北试图减少对俄罗斯和中国天然气的依赖，同时绕过美国制裁。主要影响包括台湾的能源安全和太平洋供应链稳定。深层原因与美中紧张关系升级和台北推动战略自主有关。短期内，该项目可能加速美国在阿拉斯加的投资并复兴当地港口基础设施。中期内，这可能改变亚洲能源格局，减少俄罗斯和中国天然气的主导地位。长期来看，此合作可能成为印度太平洋地区能源伙伴关系的典范，并加强台湾作为液化天然气市场关键参与者的地位。关键行为体包括美国、阿拉斯加和中国（可能采取经济报复措施）将扮演决定性角色。",
-        "analyse_ru": "Атаки на Киев демонстрируют стратегию России по дестабилизации Украины через разрушение инфраструктуры. Цель — вызвать панику среди населения и ослабить моральный дух. Это также может быть сигналом о готовности к дальнейшим эскалациям. Западные страны могут усилить поставки оружия, но риск прямого военного столкновения остается высоким. Украина вынуждена искать альтернативные источники энергии для восстановления нормальной жизни.",
-        "analyse_fa": "حمله به کیيف نشان‌دهنده استراتژی روسیه برای ناپایداری اوکراین از طریق تخریب زیرساخت‌ها است. هدف ایجاد پانیک در میان مردم و کاهش روحیه است. این همچنین ممکن است نشانه آمادگی برای تصاعد بیشتر باشد. کشورهای غربی ممکن است تسلیحات را افزایش دهند، اما خطر درگیری نظامی مستقیم همچنان بالا است. اوکراین مجبور است منابع انرژی جایگزین برای بازگرداندن زندگی عادی پیدا کند.",
-        "analyse_ar": "تظهر الهجمات على كييف استراتيجية روسيا في destabilization أوكرانيا من خلال تدمير البنية التحتية. الهدف هو إثارة الذعر بين السكان وتخفيف الروح المعنوية. هذا قد يكون أيضًا إشارة إلى استعداد للتصعيدات الإضافية. قد تقوي الدول الغربية تسليم الأسلحة، لكن خطر التصادم العسكري المباشر لا يزال مرتفعًا. قد تكون أوكرانيا مضطرة إلى البحث عن مصادر طاقة بديلة لاستعادة الحياة الطبيعية.",
-        "categorie": "Géopolitique",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/russia-attacks-ukraine-energy-infrastructure-9.7379859",
-        "image": "https://i.cbc.ca/ais/0bac9a68-2df5-4db3-b54e-fe754f7563d9,1791964817981/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D620",
-        "date": "2026-10-14",
-        "pays": "usa",
+        "id": "chine_854118",
+        "titre": "Commandes d'exportation taïwanaises en hausse de 62,4%",
+        "titre_en": "Taiwan’s export orders surge 62.4% on AI demand",
+        "titre_zh": "台湾出口订单AI需求增长62.4%",
+        "titre_ru": "Taiwan's September export orders jump 62.4% on AI demand",
+        "titre_fa": "Taiwan's September export orders jump 62.4% on AI demand",
+        "titre_ar": "Taiwan's September export orders jump 62.4% on AI demand",
+        "titre_original": "Taiwan's September export orders jump 62.4% on AI demand",
+        "resume": "Les commandes d’exportation taïwanaises ont atteint 114,21 milliards de dollars en septembre 2026, soit une hausse de 10,9% sur un mois, portée par la demande en technologies liées à l’IA. Ce bond reflète la dépendance croissante des géants technologiques mondiaux envers les semi-conducteurs taïwanais. Les tensions géopolitiques avec la Chine pourraient cependant peser sur cette dynamique à long terme.",
+        "resume_en": "Taiwan’s export orders reached $114.21 billion in September 2026, a 10.9% monthly increase, driven by AI-related tech demand. This surge highlights global tech giants’ reliance on Taiwanese semiconductors. However, geopolitical tensions with China may impact this trend long-term.",
+        "resume_zh": "台湾出口订单在2026年9月达到1142.1亿美元，较上月增长10.9%，主要由AI相关技术需求推动。这一增长反映了全球科技巨头对台湾半导体的依赖。然而，与中国的地缘政治紧张局势可能长期影响这一趋势。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette croissance s’inscrit dans une stratégie de diversification économique de Taïwan, qui mise sur les technologies de pointe pour réduire sa dépendance à la Chine. Les enjeux incluent la souveraineté technologique et la capacité à maintenir un avantage concurrentiel face à la Chine et aux États-Unis. Les causes profondes résident dans l’investissement massif dans la R&D et les infrastructures de fabrication avancées. À court terme, cela pourrait attirer davantage d’investissements étrangers, mais aussi intensifier les pressions de Pékin pour contrôler ces chaînes d’approvisionnement. À moyen terme, cela pourrait renforcer les alliances technologiques avec les États-Unis et l’UE. Long terme, cela interroge la capacité de Taïwan à éviter une guerre commerciale ou une intervention militaire chinoise. Les acteurs comme TSMC et les gouvernements occidentaux en sortent renforcés, tandis que la Chine pourrait accélérer ses propres capacités en semi-conducteurs.",
+        "analyse_en": "This growth reflects Taiwan’s economic diversification strategy, leveraging advanced tech to reduce reliance on China. Stakes include tech sovereignty and maintaining a competitive edge against China and the U.S. Root causes lie in heavy R&D investment and advanced manufacturing infrastructure. Short-term, this may attract more foreign investment but also intensify Chinese pressure to control supply chains. Medium-term, it could strengthen tech alliances with the U.S. and EU. Long-term, it questions Taiwan’s ability to avoid a trade war or Chinese military intervention. Actors like TSMC and Western governments gain leverage, while China may accelerate its own semiconductor capabilities.",
+        "analyse_zh": "这一增长反映了台湾经济多元化战略，通过先进技术减少对中国的依赖。影响包括技术主权和在中美竞争中保持竞争优势。深层原因在于大规模研发投资和先进制造基础设施。短期内，这可能吸引更多外资，但也会加剧中国控制供应链的压力。中期内，这可能加强与美国和欧盟的技术联盟。长期来看，这质疑台湾避免贸易战或中国军事干预的能力。TSMC和西方政府获益，而中国可能加速其半导体能力建设。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "Digitimes",
+        "url": "https://www.digitimes.com/news/a20261021PD201/taiwan-moea-2026-growth-data.html",
+        "image": "https://img.digitimes.com/newsshow/20261021pd201_files/3_2b.jpg",
+        "date": "2026-10-21",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des contrats à terme sur le GNL",
+            "label": "▲ Semi-conducteurs et microélectronique",
             "hausse": true
           },
           {
-            "label": "▲ Financement des infrastructures énergétiques",
+            "label": "▲ Marché des technologies vertes (énergies renouvelables)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des contrats à terme sur le GNL",
-            "secteur_en": "LNG futures market",
-            "secteur_zh": "液化天然气期货市场",
-            "effet_fr": "Ce partenariat pourrait faire monter les prix des contrats à terme sur le GNL en Asie, en réduisant l’offre disponible pour les autres acheteurs et en renforçant la position de négociation de Taiwan.",
-            "effet_en": "This partnership may drive up LNG futures prices in Asia by reducing available supply for other buyers and strengthening Taiwan’s bargaining position.",
-            "effet_zh": "此合作可能推高亚洲液化天然气期货价格，因为可供其他买家的供应减少，并加强台湾的议价能力。",
+            "secteur_fr": "Semi-conducteurs et microélectronique",
+            "secteur_en": "Semiconductors and microelectronics",
+            "secteur_zh": "半导体与微电子",
+            "effet_fr": "La demande en AI stimule les prix des puces avancées, bénéficiant aux fabricants taïwanais comme TSMC et aux actionnaires, mais aussi aux fournisseurs de machines et de matériaux.",
+            "effet_en": "AI demand drives up prices for advanced chips, benefiting Taiwanese manufacturers like TSMC and shareholders, as well as machine and material suppliers.",
+            "effet_zh": "AI需求推高先进芯片价格，使台湾制造商如台积电和股东受益，同时也惠及机器和材料供应商。",
             "hausse": true
           },
           {
-            "secteur_fr": "Financement des infrastructures énergétiques",
-            "secteur_en": "Energy infrastructure financing",
-            "secteur_zh": "能源基础设施融资",
-            "effet_fr": "Les investissements taiwanais pourraient attirer des fonds américains et internationaux pour développer les pipelines et terminaux de GNL en Alaska, dynamisant ainsi le secteur.",
-            "effet_en": "Taiwanese investments may attract U.S. and international funds to develop Alaska’s LNG pipelines and terminals, boosting the sector.",
-            "effet_zh": "台湾的投资可能吸引美国和国际资金用于开发阿拉斯加的天然气管道和LNG终端，从而带动该行业发展。",
+            "secteur_fr": "Marché des technologies vertes (énergies renouvelables)",
+            "secteur_en": "Green tech market (renewable energy)",
+            "secteur_zh": "绿色技术市场（可再生能源）",
+            "effet_fr": "La croissance des exportations technologiques pourrait indirectement soutenir les investissements dans les énergies vertes, si Taïwan diversifie ses chaînes de valeur vers les solutions durables.",
+            "effet_en": "Growth in tech exports may indirectly support investments in green energy if Taiwan diversifies its value chains toward sustainable solutions.",
+            "effet_zh": "技术出口增长可能间接支持可再生能源投资，如果台湾将价值链多元化至可持续解决方案。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-15T08:53:36.025417"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-22T01:14:38.837152"
+      },
       {
         "id": "chine_142827",
         "titre": "Apple et l’Inde ne remplaceront pas la Chine",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-10T02:06:35.799988"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_147671",
-        "titre": "États-Unis démantèlent outils de piratage chinois ciblant données sensibles",
-        "titre_en": "US disrupts Chinese hacking tools targeting sensitive data",
-        "titre_zh": "美方破坏针对敏感数据的中共黑客工具",
-        "titre_ru": "США пресекли китайские инструменты хакеров, 7 стран предупреждают о шпионаже КНР",
-        "titre_fa": "آمریکا ابزارهای هک چین را مسدود کرد، هفت کشور از جاسوسی چین در سراسر جهان هشدار دادند",
-        "titre_ar": "الولايات المتحدة تعطل أدوات الهكر الصينية، تحذير سبع دول من جاسوسية الصين على مستوى العالم",
-        "titre_original": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
-        "resume": "Les États-Unis ont neutralisé des outils de piratage chinois utilisés depuis 2021 pour voler des données sensibles, en collaboration avec sept gouvernements alliés. Cette opération s’inscrit dans une guerre cyber croissante entre Washington et Pékin, où les attaques ciblent infrastructures critiques et secrets industriels. Les analystes y voient une escalade après les tensions autour de Taïwan et des tensions commerciales.",
-        "resume_en": "The U.S. disrupted Chinese hacking tools used since 2021 to steal sensitive data, partnering with seven allied governments. This move escalates cyber warfare between Washington and Beijing, targeting critical infrastructure and industrial secrets. Analysts see it as retaliation for Taiwan tensions and trade disputes.",
-        "resume_zh": "美国与七国联手破坏了中共自2021年以来用于窃取敏感数据的黑客工具。这一行动加剧了美中在网络战中的对抗，目标包括关键基础设施和工业机密。分析师认为这是对台湾问题和贸易争端的回应。",
-        "resume_ru": "Агентство ФБР вмешалось и пресекло использование китайских инструментов хакеров, которые с 2021 года заражали устройства по всему миру. Семь стран, включая США, Австралию и Великобританию, предупредили о киберугрозах со стороны китайских шпионов. Целью атаки, по данным экспертов, являлись правительственные и частные организации. Китай отрицает обвинения и заявляет о своей готовности сотрудничать в борьбе с киберпреступностью.",
-        "resume_fa": "فبیسرو به ابزارهای هک چین که از سال ۲۰۲۱ دستگاه‌های مختلف را در سراسر جهان آلوده کرده بودند، پایان داد. هفت کشور، از جمله آمریکا، استرالیا و بریتانیا، از خطرات سایبری ناشی از جاسوسی چین هشدار دادند. هدف این حمله، بر اساس گزارش متخصصان، سازمان‌های دولتی و خصوصی بود. چین بی‌گناهی خود را رد کرده و آمادگی همکاری در مبارزه با جرم سایبری را اعلام کرده است.",
-        "resume_ar": "تدخل مكتب التحقيقات الفيدرالي (فبي) وقفت استخدام أدوات الهكر الصينية التي كانت تعطل أجهزة حول العالم منذ عام 2021. تحذرت سبع دول، بما في ذلك الولايات المتحدة وأستراليا والمملكة المتحدة، من التهديدات السيبرانية الناجمة عن جاسوسية الصين. وفقًا للخبراء، كانت أهداف الهجمات هي المنظمات الحكومية والخاصة. نفى الصين التهم وأعلنت عن استعدادها للتعاون في مكافحة الجريمة السيبرانية.",
-        "analyse_detaillee": "Cette action s’inscrit dans une dynamique de cyber-guerre froide depuis les années 2000, avec des pics lors des crises comme Hong Kong ou les tensions en mer de Chine méridionale. Les enjeux principaux concernent la souveraineté technologique et le contrôle des données stratégiques (5G, semi-conducteurs). Les causes profondes incluent le rivalité systémique Chine-USA et la dépendance occidentale aux infrastructures chinoises. Court terme : perturbation des opérations de renseignement chinois et possible représailles via des cyberattaques sur les infrastructures américaines. Moyen terme : accélération des délocalisations des données hors de Chine et renforcement des alliances cyber (comme le Five Eyes). Long terme : risque de fragmentation des chaînes d’approvisionnement technologiques et d’une nouvelle course aux armements cyber.",
-        "analyse_en": "This move follows a cyber cold war dynamic since the 2000s, peaking during crises like Hong Kong or South China Sea tensions. Key stakes involve tech sovereignty and control over strategic data (5G, semiconductors). Root causes include systemic U.S.-China rivalry and Western dependence on Chinese infrastructure. Short-term: disruption of Chinese intelligence operations and possible retaliation via cyberattacks on U.S. infrastructure. Medium-term: accelerated data offshoring from China and strengthened cyber alliances (like Five Eyes). Long-term: risk of fragmented tech supply chains and a new cyber arms race.",
-        "analyse_zh": "这一行动延续了自20世纪以来的网络冷战动态，在香港危机和南海紧张局势期间达到高潮。主要问题涉及技术主权和对5G、半导体等战略数据的控制。深层原因包括中美系统性对抗和西方对中国基础设施的依赖。短期内，可能打乱中国情报操作并引发对美国基础设施的网络报复。中期内，数据从中国迁移加速，网络联盟（如五眼联盟）增强。长期来看，可能导致技术供应链分裂和新一轮网络军备竞赛。",
-        "analyse_ru": "Контекст: Кибершпионаж со стороны Китая стал постоянной угрозой для западных стран, особенно после пандемии COVID-19. Причины: эксперты связывают рост киберугроз с увеличением инвестиций Китая в разработку инструментов хакерства. Последствия: это может усилить напряженность в отношениях между США и Китаем. Перспективы: если Китай не прекратит подобные действия, санкции могут стать более жесткими. Позиции сторон: США и союзники требуют ответных мер, в то время как Китай настаивает на своей правоте.",
-        "analyse_fa": "زمینه: جاسوسی سایبری چین به یک تهدید دائمی برای کشورهای غربی، به ویژه پس از همه‌گیری کووید-۱۹، تبدیل شده است. علل: متخصصان افزایش تهدیدات سایبری را با افزایش سرمایه‌گذاری چین در توسعه ابزارهای هک مرتبط می‌دانند. پیامدها: این می‌تواند تنش در روابط آمریکا و چین را افزایش دهد. چشم‌انداز: اگر چین اقدامات مشابه را متوقف نکند، ممکن است مجازات‌ها سخت‌گیرانه‌تر شوند. مواضع بازیگران: آمریکا و متحدان خود از اقدامات پاسخگویی می‌خواهند، در حالی که چین بر بی‌گناهی خود اصرار دارد.",
-        "analyse_ar": "السياق: أصبحت جاسوسية الصين السيبرانية تهديدًا دائميًا للدول الغربية، خاصة بعد من جائحة كوفيد-19. الأسباب: يربط الخبراء زيادة التهديدات السيبرانية بزيادة استثمارات الصين في تطوير أدوات الهكر. العواقب: قد يزيد هذا من توتر العلاقات بين الولايات المتحدة والصين. الآفاق: إذا لم يتوقف الصين عن هذه الأعمال، قد تصبح العقوبات أكثر قسوة. مواقف الأطراف: تدعو الولايات المتحدة وألياليها إلى اتخاذ تدابير رد فعل، بينما ينفي الصين التهم ويصر على براءته.",
+        "id": "russie_670388",
+        "titre": "Musk limite Starlink en Ukraine pour Moscou",
+        "titre_en": "Musk throttles Starlink in Ukraine for Moscow",
+        "titre_zh": "马斯克限制乌克兰Starlink服务以助俄",
+        "titre_ru": "Elon Musk throttled Starlink in embattled Ukraine",
+        "titre_fa": "Elon Musk throttled Starlink in embattled Ukraine",
+        "titre_ar": "Elon Musk throttled Starlink in embattled Ukraine",
+        "titre_original": "Elon Musk throttled Starlink in embattled Ukraine",
+        "resume": "Elon Musk aurait ordonné le ralentissement de Starlink en Ukraine, selon le *Wall Street Journal*, affaiblissant la capacité ukrainienne à résister aux attaques russes. Cette décision survient dans un contexte de tensions croissantes entre Washington et Moscou, et pourrait être perçue comme une concession à la Russie. Les conséquences pourraient inclure une détérioration des relations entre l’Ukraine et les États-Unis, ainsi qu’un affaiblissement de la résilience ukrainienne sur le front.",
+        "resume_en": "Elon Musk reportedly ordered Starlink throttling in Ukraine, per *Wall Street Journal*, weakening Ukraine’s ability to resist Russian attacks. This move follows escalating tensions between Washington and Moscow and may be seen as a concession to Russia. Consequences could include strained U.S.-Ukraine relations and reduced Ukrainian frontline resilience.",
+        "resume_zh": "据《华尔街日报》报道，马斯克可能下令限制乌克兰Starlink服务，削弱了乌克兰抵抗俄罗斯攻击的能力。这一举动发生在华盛顿和莫斯科紧张关系升级之际，可能被视为对俄罗斯的让步。后果可能包括美乌关系恶化和乌克兰前线抵抗力下降。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette décision s’inscrit dans une stratégie plus large de Musk pour équilibrer ses relations avec les acteurs géopolitiques majeurs, notamment la Russie et les États-Unis. Les enjeux incluent la souveraineté technologique et l’autonomie stratégique de l’Ukraine, ainsi que les dynamiques de pouvoir dans la guerre hybride. Les causes profondes résident dans la dépendance ukrainienne aux technologies occidentales et la volonté de Musk de préserver ses intérêts commerciaux en Russie. À court terme, cela pourrait affaiblir la position ukrainienne dans les négociations, tandis qu’à moyen terme, cela pourrait accélérer la recherche de solutions alternatives par Kiev. Long terme, cela interroge la durabilité des alliances technologiques occidentales avec l’Ukraine et la capacité de Moscou à exploiter ces faiblesses. Les acteurs comme la Russie et les lobbies pro-russes en sortent renforcés, tandis que les États-Unis et l’OTAN pourraient revoir leur soutien à Starlink.",
+        "analyse_en": "This move reflects Musk’s broader strategy to balance relations with major geopolitical actors, including Russia and the U.S. Stakes include Ukraine’s tech sovereignty and strategic autonomy, as well as power dynamics in hybrid warfare. Root causes lie in Ukraine’s dependence on Western tech and Musk’s desire to protect his commercial interests in Russia. Short-term, this could weaken Ukraine’s negotiating position, while medium-term, it may accelerate Kiev’s search for alternative solutions. Long-term, it questions the sustainability of Western tech alliances with Ukraine and Moscow’s ability to exploit these vulnerabilities. Actors like Russia and pro-Russian lobbies gain leverage, while the U.S. and NATO may reassess their support for Starlink.",
+        "analyse_zh": "这一决定属于马斯克平衡与主要地缘政治实体关系的更广战略，特别是俄罗斯和美国。影响包括乌克兰的技术主权和战略自主，以及混合战争中的权力动态。深层原因在于乌克兰对西方技术的依赖和马斯克保护其俄罗斯商业利益的意愿。短期内，这可能削弱乌克兰在谈判中的地位，中期内可能加速基辅寻找替代解决方案。长期来看，这质疑西方与乌克兰技术联盟的可持续性，以及莫斯科利用这些弱点的能力。俄罗斯和亲俄利益集团获益，而美国和北约可能重新评估对Starlink的支持。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Theregister.com",
-        "url": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
-        "image": "https://image.theregister.com/5288224.jpg?imageId=5288224&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "date": "2026-10-08",
-        "pays": "chine",
+        "source": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/10/20/elon-musk-throttled-starlink-in-embattled-ukraine/",
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/evgeny-opanasenko-mjKt6ReBB-I-unsplash.jpg",
+        "date": "2026-10-21",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Cybersécurité et assurance risques cyber",
-            "hausse": true
+            "label": "▼ Technologies de communication et cyberdéfense",
+            "hausse": false
           },
           {
-            "label": "▼ Bourse des semi-conducteurs (TSMC, ASML)",
+            "label": "▼ Marché des satellites et télécommunications par satellite",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Cybersécurité et assurance risques cyber",
-            "secteur_en": "Cybersecurity and cyber-risk insurance",
-            "secteur_zh": "网络安全与网络风险保险",
-            "effet_fr": "Les entreprises exposées aux cyberattaques chinoises pourraient voir leurs primes d’assurance exploser, poussant vers des solutions de détection proactive coûteuses.",
-            "effet_en": "Companies targeted by Chinese cyberattacks may face skyrocketing insurance premiums, driving them toward expensive proactive detection solutions.",
-            "effet_zh": "受中共网络攻击影响的企业可能面临保险费用飙升，被迫采用昂贵的主动检测解决方案。",
-            "hausse": true
+            "secteur_fr": "Technologies de communication et cyberdéfense",
+            "secteur_en": "Communication technologies and cyberdefense",
+            "secteur_zh": "通信技术与网络防御",
+            "effet_fr": "La réduction de Starlink en Ukraine pourrait inciter les acteurs russes à investir dans leurs propres infrastructures de communication sécurisées, réduisant la dépendance aux solutions occidentales.",
+            "effet_en": "Reducing Starlink in Ukraine may prompt Russian actors to invest in their own secure communication infrastructure, reducing reliance on Western solutions.",
+            "effet_zh": "在乌克兰限制Starlink可能促使俄罗斯投资其自身安全通信基础设施，减少对西方解决方案的依赖。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Bourse des semi-conducteurs (TSMC, ASML)",
-            "secteur_en": "Semiconductor stock market (TSMC, ASML)",
-            "secteur_zh": "半导体股票市场（台积电、ASML）",
-            "effet_fr": "Les tensions géopolitiques pourraient faire chuter les cours des actions de TSMC et ASML, déjà fragilisés par les sanctions américaines contre la Chine.",
-            "effet_en": "Geopolitical tensions may drive down TSMC and ASML stock prices, already weakened by U.S. sanctions against China.",
-            "effet_zh": "地缘政治紧张局势可能导致台积电和ASML股价下跌，这些公司已经因美国对华制裁而变得脆弱。",
+            "secteur_fr": "Marché des satellites et télécommunications par satellite",
+            "secteur_en": "Satellite and satellite telecom market",
+            "secteur_zh": "卫星与卫星通信市场",
+            "effet_fr": "Cette décision pourrait affecter la valorisation des acteurs comme SpaceX et Inmarsat, tout en ouvrant des opportunités pour les alternatives russes ou chinoises sur le marché global.",
+            "effet_en": "This move may impact the valuation of actors like SpaceX and Inmarsat, while opening opportunities for Russian or Chinese alternatives in the global market.",
+            "effet_zh": "这一决定可能影响SpaceX和Inmarsat等公司的估值，同时为俄罗斯或中国的替代方案在全球市场上开辟机会。",
             "hausse": false
           }
         ],
-        "created_at": "2026-10-09T22:17:53.413638"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-22T01:14:38.837162"
+      },
       {
         "id": "russie_482183",
         "titre": "Rapport mini: frappes russes en Ukraine",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-13T07:23:15.270080"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_826125",
-        "titre": "Russie lance 116 drones contre l'Ukraine",
-        "titre_en": "Russia deploys 116 drones against Ukraine",
-        "titre_zh": "俄罗斯向乌克兰发射116架无人机",
-        "titre_ru": "Ukraine: Russia launched 116 drones overnight",
-        "titre_fa": "Ukraine: Russia launched 116 drones overnight",
-        "titre_ar": "Ukraine: Russia launched 116 drones overnight",
-        "titre_original": "Ukraine: Russia launched 116 drones overnight",
-        "resume": "L’armée ukrainienne signale un raid massif de drones russes, dont 95 modèles à propulsion jetée. Ces attaques visent à affaiblir les infrastructures énergétiques et militaires. La guerre des drones s’intensifie, avec des pertes humaines et matérielles croissantes.",
-        "resume_en": "Ukraine’s military reports a massive Russian drone strike, including 95 jet-powered models. Attacks target energy and military infrastructure. The drone war escalates, with rising human and material losses.",
-        "resume_zh": "乌克兰军方报告俄罗斯大规模无人机袭击，其中包括95架喷气式无人机。这些袭击目标是能源和军事基础设施。无人机战争升级，人员和物资损失增加。",
+        "id": "iran_998453",
+        "titre": "Royaume-Uni réarrête deux suspects dans complot iranien",
+        "titre_en": "UK re-arrests suspects in Iranian plot against US base",
+        "titre_zh": "英国再次逮捕伊朗针对美基地阴谋嫌犯",
+        "titre_ru": "UK police re-arrest two suspects in Iranian plot targeting US bomber base",
+        "titre_fa": "UK police re-arrest two suspects in Iranian plot targeting US bomber base",
+        "titre_ar": "UK police re-arrest two suspects in Iranian plot targeting US bomber base",
+        "titre_original": "UK police re-arrest two suspects in Iranian plot targeting US bomber base",
+        "resume": "Les autorités britanniques ont réarrêté deux hommes accusés d’aider les services iraniens à cibler la base aérienne de RAF Fairford, utilisée par les bombardiers américains dans des frappes contre l’Iran. Cet événement s’inscrit dans une escalade des tensions régionales, notamment après les attaques iraniennes de 2024. Les implications pourraient inclure une nouvelle vague de sanctions ou de représailles entre les deux pays.",
+        "resume_en": "British authorities re-arrested two men accused of aiding Iranian intelligence in targeting RAF Fairford, a base used by U.S. bombers in strikes against Iran. This follows a regional escalation after Iran’s 2024 attacks. Potential consequences include new waves of sanctions or retaliatory measures between the two nations.",
+        "resume_zh": "英国当局再次逮捕两名嫌犯，他们被指控协助伊朗情报机构袭击RAF Fairford空军基地，该基地为美国轰炸机在针对伊朗的行动提供支持。此事发生在伊朗2024年袭击后地区紧张局势升级之际。可能后果包括两国之间新一轮的制裁或报复行动。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Cette escalade s’inscrit dans une guerre hybride où Moscou cherche à compenser ses défaites territoriales par des frappes asymétriques. Les enjeux stratégiques incluent la préservation de la souveraineté russe et la pression sur Kiev. Les causes profondes remontent à l’annexion de la Crimée en 2014 et au refus ukrainien de neutralité. À court terme, les frappes perturbent les réseaux électriques ukrainiens, aggravant les pénuries hivernales. À moyen terme, l’Ukraine pourrait solliciter davantage d’armes occidentales. Long terme, cette guerre pourrait prolonger la fragmentation géopolitique en Europe. La Russie et la Chine soutiennent cette stratégie, tandis que l’OTAN renforce son aide à l’Ukraine.",
-        "analyse_en": "This escalation reflects a hybrid war where Moscow seeks to offset territorial losses with asymmetric strikes. Strategic stakes involve preserving Russian sovereignty and pressuring Kiev. Root causes trace back to Crimea’s annexation in 2014 and Ukraine’s refusal of neutrality. Short-term, strikes disrupt Ukrainian power grids, worsening winter shortages. Medium-term, Ukraine may seek more Western arms. Long-term, this war could prolong Europe’s geopolitical fragmentation. Russia and China back this strategy, while NATO ramps up aid to Ukraine.",
-        "analyse_zh": "这次升级反映了俄罗斯试图通过非对称打击弥补领土损失的混合战争。战略影响包括维护俄罗斯主权和对基辅施压。深层原因可以追溯到2014年克里米亚被吞并以及乌克兰拒绝中立。短期内，袭击破坏了乌克兰的电力网络，加剧了冬季短缺。中期内，乌克兰可能会寻求更多西方武器。长期来看，这场战争可能会延长欧洲的地缘政治分裂。俄罗斯和中国支持这一策略，而北约则加大了对乌克兰的援助。",
+        "analyse_detaillee": "Cette affaire révèle une persistance des réseaux iraniens en Europe, malgré les efforts de surveillance accrus post-2024. Les enjeux géopolitiques incluent la stabilité du Golfe et la capacité des États-Unis à protéger leurs bases stratégiques. Les causes profondes sont liées à la doctrine iranienne de résistance et à la stratégie de pression asymétrique contre Israël et les États-Unis. À court terme, cela pourrait déclencher des représailles ciblées contre des infrastructures iraniennes en Europe. À moyen terme, cela pourrait renforcer les alliances occidentales contre Téhéran, tandis que long terme, cela pourrait accélérer une course aux armements dans la région. Les acteurs comme le Royaume-Uni et les États-Unis cherchent à envoyer un message de fermeté, tandis que l’Iran pourrait intensifier ses actions clandestines.",
+        "analyse_en": "This case highlights persistent Iranian networks in Europe despite heightened post-2024 surveillance efforts. Geopolitical stakes include Gulf stability and U.S. ability to protect strategic bases. Root causes stem from Iran’s doctrine of resistance and asymmetric pressure strategy against Israel and the U.S. Short-term, this could trigger targeted retaliatory strikes against Iranian infrastructure in Europe. Medium-term, it may strengthen Western alliances against Tehran, while long-term, it could accelerate an arms race in the region. Actors like the UK and the U.S. aim to send a firm message, while Iran may escalate covert actions.",
+        "analyse_zh": "此案暴露了伊朗在欧洲的网络依然存在，尽管2024年后监控加强。地缘政治影响包括波斯湾的稳定性和美国保护战略基地的能力。深层原因在于伊朗的抵抗主义教条和对以色列及美国的不对称压制战略。短期内，这可能触发针对伊朗欧洲基础设施的报复性打击。中期内，这可能加强西方反对德黑兰的联盟，长期内则可能加速地区军备竞赛。英国和美国试图发出强硬信号，而伊朗可能加强其秘密行动。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/58fe71c69abfc153",
-        "image": "https://biztoc.com/cdn/58fe71c69abfc153_s.webp",
-        "date": "2026-10-11",
-        "pays": "russie",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/434923",
+        "image": "https://2.a7.org/files/pictures/000/1228314.jpg",
+        "date": "2026-10-21",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des armements (drones, missiles)",
+            "label": "▲ Marché des assurances politiques et risques terroristes",
             "hausse": true
           },
           {
-            "label": "▲ Marché de l’énergie (pétrole, gaz)",
-            "hausse": true
+            "label": "▼ Exportations d'armes et contrôle des sanctions",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des armements (drones, missiles)",
-            "secteur_en": "Arms market (drones, missiles)",
-            "secteur_zh": "军火市场（无人机、导弹）",
-            "effet_fr": "La demande en drones russes et ukrainiens pourrait stimuler les exportations d’Iran et de Corée du Nord, malgré les sanctions.",
-            "effet_en": "Demand for Russian and Ukrainian drones may boost exports from Iran and North Korea despite sanctions.",
-            "effet_zh": "对俄罗斯和乌克兰无人机的需求可能刺激伊朗和朝鲜的出口，尽管存在制裁。",
+            "secteur_fr": "Marché des assurances politiques et risques terroristes",
+            "secteur_en": "Political insurance market and terrorism risks",
+            "secteur_zh": "政治保险市场与恐怖风险",
+            "effet_fr": "Les tensions accrues pourraient entraîner une hausse des primes pour les assurances couvrant les risques liés aux conflits géopolitiques et aux cyberattaques.",
+            "effet_en": "Increased tensions may lead to higher premiums for insurance covering geopolitical conflict and cyberattack risks.",
+            "effet_zh": "升级的紧张局势可能导致涵盖地缘政治冲突和网络攻击风险的保险费用上涨。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché de l’énergie (pétrole, gaz)",
-            "secteur_en": "Energy market (oil, gas)",
-            "secteur_zh": "能源市场（石油、天然气）",
-            "effet_fr": "Les frappes sur les infrastructures énergétiques ukrainiennes pourraient perturber les approvisionnements européens, relançant les prix à la pompe.",
-            "effet_en": "Strikes on Ukrainian energy infrastructure may disrupt European supplies, reviving gas prices.",
-            "effet_zh": "对乌克兰能源基础设施的袭击可能扰乱欧洲的供应，重新推高汽油价格。",
-            "hausse": true
+            "secteur_fr": "Exportations d'armes et contrôle des sanctions",
+            "secteur_en": "Arms exports and sanctions control",
+            "secteur_zh": "军火出口与制裁监管",
+            "effet_fr": "Les sanctions potentielles contre l’Iran pourraient réduire les flux financiers vers son secteur militaire, mais aussi stimuler le marché noir des armes dans la région.",
+            "effet_en": "Potential sanctions against Iran could reduce financial flows to its military sector but also fuel the black market for arms in the region.",
+            "effet_zh": "对伊朗的潜在制裁可能减少其军事部门的资金流，但也可能刺激地区黑市军火交易。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-10-12T07:15:07.316755"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-22T01:14:38.837130"
+      },
       {
         "id": "iran_509806",
         "titre": "Géants de la défense face à la guerre Iran",
@@ -6070,129 +6129,10 @@
           }
         ],
         "created_at": "2026-10-12T01:00:31.169809"
-      },
-      {
-        "id": "iran_945355",
-        "titre": "Houthis frappent deux aéroports saoudiens, trois morts",
-        "titre_en": "Houthis strike Saudi airports, three killed",
-        "titre_zh": "胡塞武装袭击沙特两机场致三死",
-        "titre_ru": "Хуситы убивают троих в атаках на аэропорты Саудовской Аравии",
-        "titre_fa": "حوثیان سه نفر را در حمله به دو فرودگاه عربستان سعودی کشتند",
-        "titre_ar": "الحوثيون يقتلون ثلاثة في هجمات على مطارات السعودية",
-        "titre_original": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
-        "resume": "Les Houthis, soutenus par l’Iran, ont lancé des frappes contre deux aéroports saoudiens, faisant trois morts et blessant des dizaines de personnes. Ces attaques s’inscrivent dans une escalade des tensions régionales depuis le conflit au Yémen. La communauté internationale surveille de près les réactions de Riyad et de Téhéran.",
-        "resume_en": "Iran-backed Houthis launched strikes on two Saudi airports, killing three and injuring dozens. Attacks escalate regional tensions amid the Yemen conflict. The international community closely monitors reactions from Riyadh and Tehran.",
-        "resume_zh": "伊朗支持的胡塞武装袭击了沙特两个机场，造成三人死亡和数十人受伤。这些袭击在也门冲突背景下加剧了地区紧张局势。国际社会密切关注里亚德和德黑兰的反应。",
-        "resume_ru": "Хуситы обстреляли два аэропорта в Саудовской Аравии за последние два дня, убив троих человек и ранив десятки других. Группа, поддерживаемая Ираном, интенсифицирует свои атаки на королевство из Йемена. Это очередной шаг в эскалации напряженности в регионе, где Саудовская Аравия уже давно сталкивается с угрозами со стороны иранских союзников. Международное сообщество призывает к деэскалации, но стороны продолжают наращивать давление.",
-        "resume_fa": "حوثیان در دو فرودگاه عربستان سعودی در دو روز گذشته حمله کردند و سه نفر را کشتند و ده‌ها نفر را زخمی کردند. این گروه که توسط ایران حمایت می‌شود، حملات خود را به سوی این کشور از یمن شدت بخشیده است. این اقدام دیگر مرحله‌ای در افزایش تنش در منطقه است که عربستان سعودی از مدت‌ها است با تهدیدات متحدان ایران روبرو است. جامعه بین‌المللی از کاهش تنش دعوت می‌کند، اما طرفین همچنان فشار خود را افزایش می‌دهند.",
-        "resume_ar": "قامت الحوثيون به هجوم على مطاران سعوديين خلال يومين الماضيين، مما أسفر عن مقتل ثلاثة أشخاص وإصابة عشرات آخرين. هذه المجموعة المدعومة من إيران تتصاعد هجماتها على المملكة من اليمن. هذا الخطوة أخرى في تصعيد التوتر في المنطقة، حيث تواجه السعودية منذ فترة طويلة التهديدات من حلفاء إيران. يدعو المجتمع الدولي إلى تخفيف التوتر، لكن الأطراف تتصاعد الضغط.",
-        "analyse_detaillee": "Contexte historique : Les Houthis, groupe chiite yéménite, sont actifs depuis 2014 dans le conflit contre la coalition dirigée par l’Arabie saoudite. Leur soutien iranien renforce leur capacité opérationnelle et leur légitimité régionale. Les enjeux principaux incluent la stabilité du Golfe et la guerre par procuration entre l’Iran et l’Arabie saoudite. Les causes profondes sont les rivalités sectaires (chiites/sunnites) et les tensions géopolitiques liées aux ressources énergétiques. À court terme, ces frappes pourraient provoquer une réponse militaire saoudienne ou une escalade des sanctions contre les Houthis. À moyen terme, cela pourrait affaiblir les efforts de paix au Yémen et renforcer les alliances régionales (Iran-Irak-Hezbollah). Long terme, cela pourrait relancer une guerre directe entre Téhéran et Riyad. Les acteurs clés sont les Houthis, l’Iran (via le Corps des Gardiens), l’Arabie saoudite et ses alliés (États-Unis, Émirats), ainsi que la Russie qui pourrait exploiter la situation pour affaiblir l’Occident.",
-        "analyse_en": "Historical context: The Houthis, a Yemeni Shia group, have been active since 2014 in the conflict against the Saudi-led coalition. Their Iranian backing enhances their operational capacity and regional legitimacy. Main stakes involve Gulf stability and proxy war between Iran and Saudi Arabia. Root causes include sectarian rivalries (Shia/Sunni) and geopolitical tensions over energy resources. Short-term, strikes may trigger a Saudi military response or escalate sanctions against the Houthis. Medium-term, this could weaken Yemen peace efforts and strengthen regional alliances (Iran-Iraq-Hezbollah). Long-term, it could reignite direct war between Tehran and Riyadh. Key actors include the Houthis, Iran (via the IRGC), Saudi Arabia and its allies (U.S., UAE), and Russia, which may exploit the situation to weaken the West.",
-        "analyse_zh": "历史背景：胡塞武装作为也门什叶派组织，自2014年起参与与沙特领导的联军的冲突。伊朗的支持增强了其作战能力和地区合法性。主要影响在于波斯湾的稳定和伊朗与沙特之间的代理人战争。深层原因包括什叶派与逊尼派的宗派对立和能源资源相关的地缘政治紧张。短期内，这些袭击可能引发沙特的军事回应或加剧对胡塞武装的制裁。中期内，可能削弱也门和平努力并加强地区联盟（伊朗-伊拉克-真主党）。长期来看，可能重启德黑兰与里亚德之间的直接战争。关键人物包括胡塞武装、伊朗（伊斯兰革命卫队）、沙特及其盟友（美国、阿联酋），以及可能利用局势削弱西方的俄罗斯。",
-        "analyse_ru": "Атаки хуситов на саудовские аэропорты — это часть стратегии давления на Рияд, которая включает в себя как военные, так и экономические меры. Контекст здесь — длительная геополитическая борьба между Саудовской Аравией и Ираном, где Йемен выступает в роли арены. Последствия могут быть серьезными: рост напряженности может привести к прямому столкновению между двумя странами, особенно если США не вмешаются активно. Перспективы зависят от реакции Вашингтона и Рияда: если США усилят поддержку Саудовской Аравии, это может спровоцировать ответные меры Ирана. Позиция хуситов, скорее всего, будет жесткой, так как они видят в этих атаках способ продемонстрировать свою силу и поддержать шиитское население Йемена. Однако риск эскалации до широкомасштабной войны остается высоким.",
-        "analyse_fa": "هجوم هوثیان به فرودگاه‌های عربستان سعودی بخشی از استراتژی فشار بر ریاض است که شامل اقدامات نظامی و اقتصادی است. زمینه این موضوع، رقابت ژئوپولیتیکی طولانی‌مدت بین عربستان سعودی و ایران است که یمن به عنوان صحنه در آن عمل می‌کند. پیامدهای این اقدامات ممکن است جدی باشد: افزایش تنش ممکن است به درگیری مستقیم بین دو کشور منجر شود، به ویژه اگر واشنگتن دخالت فعال نداشته باشد. آینده بستگی به واکنش واشنگتن و ریاض دارد: اگر ایالات متحده حمایت خود از عربستان سعودی را افزایش دهد، این می‌تواند به اقدامات پاسخگوی ایران منجر شود. موضع هوثیان احتمالاً سخت خواهد بود، زیرا آن‌ها در این حملات یک راه برای نشان دادن قدرت خود و حمایت از جمعیت شیعه یمن می‌بینند. اما خطر تصعيد به جنگ گسترده همچنان بالا است.",
-        "analyse_ar": "هجمات الحوثيين على مطارات السعودية هي جزء من استراتيجية الضغط على الرياض التي تشمل الإجراءات العسكرية والاقتصادية. السياق هنا هو الصراع الجيوسياسي الطويل الأمد بين السعودية وإيران، حيث يعمل اليمن كarena. قد تكون العواقب خطيرة: قد يؤدي زيادة التوتر إلى مواجهة مباشرة بين البلدين، خاصة إذا لم تتدخل واشنطن بشكل فعال. الآفاق تعتمد على رد فعل واشنطن ورياض: إذا زادت الولايات المتحدة دعمها للسعودية، فقد يؤدي ذلك إلى ردود فعل من إيران. من المرجح أن تكون مواقف الحوثيين قاسية، حيث يرون في هذه الهجمات وسيلة لإظهار قوتهم ودعم السكان الشيعة في اليمن. لكن خطر تصعيد إلى حرب واسعة النطاق لا يزال مرتفعًا.",
-        "categorie": "Géopolitique",
-        "source": "gcaptain.com",
-        "url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
-        "image": "https://gcaptain.com/wp-content/uploads/2026/10/2026-09-19T114802Z_1980126111_RC28MNAXZ2HR_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-800x450.jpg",
-        "date": "2026-10-09",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier et géopolitique énergétique",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurance maritime et transport de marchandises",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier et géopolitique énergétique",
-            "secteur_en": "Oil market and energy geopolitics",
-            "secteur_zh": "石油市场和能源地缘政治",
-            "effet_fr": "Les tensions accrues pourraient faire fluctuer les prix du pétrole et augmenter les coûts d’assurance pour les transporteurs maritimes dans le golfe Arabique.",
-            "effet_en": "Escalating tensions may cause oil price volatility and higher insurance costs for maritime transporters in the Arabian Gulf.",
-            "effet_zh": "加剧的紧张局势可能导致石油价格波动并提高阿拉伯湾海运保险成本。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurance maritime et transport de marchandises",
-            "secteur_en": "Maritime insurance and cargo transport",
-            "secteur_zh": "海运保险和货物运输",
-            "effet_fr": "Les risques accrus dans le détroit d’Ormuz et le golfe Arabique pourraient entraîner une hausse des primes pour les assureurs et des retards dans les livraisons critiques.",
-            "effet_en": "Increased risks in the Strait of Hormuz and Arabian Gulf may lead to higher premiums for insurers and delays in critical shipments.",
-            "effet_zh": "霍尔木兹海峡和阿拉伯湾的风险增加可能导致保险公司保费上涨和关键货物运输延误。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-10T09:26:39.889665"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_env_991812",
-      "titre": "Débat sur le déversement de 1,8M m³ de terres à Gaurain",
-      "titre_en": "Controversy over 1.8M m³ land dumping in Gaurain",
-      "titre_zh": "高拉讷180万立方米土方倾倒引争议",
-      "titre_ru": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
-      "titre_fa": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
-      "titre_ar": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
-      "titre_original": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
-      "resume": "La société Vélorie sollicite un permis pour déverser 1,8 million de mètres cubes de terres dans une carrière près de Gaurain (Nord) entre 2027 et 2044. Environ 200 000 tonnes de terres non polluées seraient apportées annuellement, suscitant des craintes liées aux PFAS. Les associations locales et les riverains dénoncent un risque environnemental et sanitaire, exigeant un rejet total de ce projet.",
-      "resume_en": "Vélorie seeks a permit to dump 1.8 million cubic meters of land in a quarry near Gaurain (Northern France) between 2027 and 2044. Around 200,000 tons of non-polluted soil would be added annually, raising concerns about PFAS contamination. Local associations and residents oppose the project, fearing environmental and health risks, demanding its outright rejection.",
-      "resume_zh": "法国北部高拉讷附近的矿坑计划在2027至2044年间倾倒180万立方米土方，每年约20万吨非污染土壤。当地环保组织和居民担忧PFAS污染，强烈反对项目，要求完全禁止倾倒土方。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Ce projet s’inscrit dans une dynamique de réaménagement des friches industrielles post-charbon, mais soulève des questions sur la gestion des sols pollués dans une région déjà marquée par des décennies d’exploitation minière. Les PFAS, substances persistantes et toxiques, sont aujourd’hui au cœur des débats environnementaux en Europe, avec des cas similaires en Allemagne et aux Pays-Bas. Les conséquences à court terme pourraient inclure des blocages administratifs prolongés ou des recours juridiques, tandis que les impacts à moyen terme pourraient affecter la valeur foncière locale et la biodiversité. À long terme, le projet pourrait servir de précédent pour d’autres sites miniers, soit en accélérant des solutions innovantes, soit en légitimant des pratiques controversées. Les acteurs locaux, divisés entre promoteurs économiques et écologistes, illustrent un clivage croissant entre développement industriel et préservation environnementale. Les associations comme France Nature Environnement (FNE) jouent un rôle clé dans la mobilisation citoyenne, tandis que les collectivités locales peinent à arbitrer entre croissance économique et protection des sols.",
-      "analyse_en": "This project falls within the post-coal industrial redevelopment trend but raises questions about the management of polluted soils in a region historically shaped by decades of mining. PFAS, persistent and toxic substances, are now at the heart of European environmental debates, with similar cases in Germany and the Netherlands. Short-term consequences may include prolonged administrative delays or legal challenges, while medium-term impacts could affect local property values and biodiversity. Long-term, the project could set a precedent for other mining sites, either accelerating innovative solutions or legitimizing controversial practices. Local actors are divided between economic promoters and environmentalists, highlighting an increasing rift between industrial development and environmental preservation. Associations like France Nature Environnement (FNE) play a key role in citizen mobilization, while local governments struggle to balance economic growth with soil protection.",
-      "analyse_zh": "该项目属于煤炭产业后期的工业复垦计划，但引发了关于污染土壤管理的争议，特别是在一个曾经经历数十年矿业开采的地区。PFAS（永久性有害物质）目前是欧洲环保辩论的焦点，德国和荷兰也有类似案例。短期内可能面临长期的行政阻力或法律诉讼，中期影响可能波及当地房地产价值和生物多样性。长期来看，该项目可能成为其他矿区的先例，要么推动创新解决方案，要么合法化争议性做法。当地利益相关者在经济发展与环境保护上分歧明显，环保组织如法国自然环境协会（FNE）在公众动员中发挥关键作用，而地方政府则在经济增长与土壤保护之间难以取舍。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement/Industrie",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2026/10/20/18-million-de-m-de-terres-pourraient-etre-deverses-dans-la-carriere-ccb-de-gaurain-il-ne-faut-rien-zero-pfas-TWHIGPWNW5EYRG3BQU4TSBKJPU/",
-      "image": "https://www.dhnet.be/resizer/v2/TFUAWXUBHZBLNI4J446RRQITGQ.JPG?auth=261d9307d7186ca63647f334402f61c8e33d8048741943af4876acf055801cc9&width=1200&height=630&quality=85&focal=800%2C600",
-      "date": "2026-10-20",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Industrie minière et recyclage des sols",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurances environnementales et responsabilité civile",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Industrie minière et recyclage des sols",
-          "secteur_en": "Mining industry and soil recycling",
-          "secteur_zh": "矿业及土壤再生产业",
-          "effet_fr": "Ce secteur pourrait voir une hausse des investissements dans les technologies de dépollution si le projet est rejeté, mais une stagnation des projets de réhabilitation en cas d’approbation.",
-          "effet_en": "This sector may experience increased investment in soil remediation technologies if the project is rejected, but stagnation in rehabilitation projects if approved.",
-          "effet_zh": "该行业若项目被否决，可能加大污染土壤治理技术投资；若获批则可能导致土壤复垦项目停滞。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances environnementales et responsabilité civile",
-          "secteur_en": "Environmental insurance and liability",
-          "secteur_zh": "环境保险及民事责任保险",
-          "effet_fr": "Les assureurs pourraient renforcer leurs exigences en couverture des risques PFAS, augmentant les coûts pour les projets similaires dans le Nord de la France.",
-          "effet_en": "Insurers may tighten coverage requirements for PFAS risks, increasing costs for similar projects in Northern France.",
-          "effet_zh": "保险公司可能加强对PFAS风险的覆盖要求，提高法国北部类似项目的成本。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-21T22:08:38.267307",
-      "sous_categorie": "environnement"
-    },
     {
       "id": "pol_femmes_669028",
       "titre": "Féminicides conjugaux en hausse en 2025",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-09-27T00:16:34.173832",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_991812",
+      "titre": "Débat sur le déversement de 1,8M m³ de terres à Gaurain",
+      "titre_en": "Controversy over 1.8M m³ land dumping in Gaurain",
+      "titre_zh": "高拉讷180万立方米土方倾倒引争议",
+      "titre_ru": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "titre_fa": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "titre_ar": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "titre_original": "1,8 million de m³ de terres pourraient être déversés dans la carrière CCB de Gaurain : “Il ne faut rien, zéro PFAS”",
+      "resume": "La société Vélorie sollicite un permis pour déverser 1,8 million de mètres cubes de terres dans une carrière près de Gaurain (Nord) entre 2027 et 2044. Environ 200 000 tonnes de terres non polluées seraient apportées annuellement, suscitant des craintes liées aux PFAS. Les associations locales et les riverains dénoncent un risque environnemental et sanitaire, exigeant un rejet total de ce projet.",
+      "resume_en": "Vélorie seeks a permit to dump 1.8 million cubic meters of land in a quarry near Gaurain (Northern France) between 2027 and 2044. Around 200,000 tons of non-polluted soil would be added annually, raising concerns about PFAS contamination. Local associations and residents oppose the project, fearing environmental and health risks, demanding its outright rejection.",
+      "resume_zh": "法国北部高拉讷附近的矿坑计划在2027至2044年间倾倒180万立方米土方，每年约20万吨非污染土壤。当地环保组织和居民担忧PFAS污染，强烈反对项目，要求完全禁止倾倒土方。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Ce projet s’inscrit dans une dynamique de réaménagement des friches industrielles post-charbon, mais soulève des questions sur la gestion des sols pollués dans une région déjà marquée par des décennies d’exploitation minière. Les PFAS, substances persistantes et toxiques, sont aujourd’hui au cœur des débats environnementaux en Europe, avec des cas similaires en Allemagne et aux Pays-Bas. Les conséquences à court terme pourraient inclure des blocages administratifs prolongés ou des recours juridiques, tandis que les impacts à moyen terme pourraient affecter la valeur foncière locale et la biodiversité. À long terme, le projet pourrait servir de précédent pour d’autres sites miniers, soit en accélérant des solutions innovantes, soit en légitimant des pratiques controversées. Les acteurs locaux, divisés entre promoteurs économiques et écologistes, illustrent un clivage croissant entre développement industriel et préservation environnementale. Les associations comme France Nature Environnement (FNE) jouent un rôle clé dans la mobilisation citoyenne, tandis que les collectivités locales peinent à arbitrer entre croissance économique et protection des sols.",
+      "analyse_en": "This project falls within the post-coal industrial redevelopment trend but raises questions about the management of polluted soils in a region historically shaped by decades of mining. PFAS, persistent and toxic substances, are now at the heart of European environmental debates, with similar cases in Germany and the Netherlands. Short-term consequences may include prolonged administrative delays or legal challenges, while medium-term impacts could affect local property values and biodiversity. Long-term, the project could set a precedent for other mining sites, either accelerating innovative solutions or legitimizing controversial practices. Local actors are divided between economic promoters and environmentalists, highlighting an increasing rift between industrial development and environmental preservation. Associations like France Nature Environnement (FNE) play a key role in citizen mobilization, while local governments struggle to balance economic growth with soil protection.",
+      "analyse_zh": "该项目属于煤炭产业后期的工业复垦计划，但引发了关于污染土壤管理的争议，特别是在一个曾经经历数十年矿业开采的地区。PFAS（永久性有害物质）目前是欧洲环保辩论的焦点，德国和荷兰也有类似案例。短期内可能面临长期的行政阻力或法律诉讼，中期影响可能波及当地房地产价值和生物多样性。长期来看，该项目可能成为其他矿区的先例，要么推动创新解决方案，要么合法化争议性做法。当地利益相关者在经济发展与环境保护上分歧明显，环保组织如法国自然环境协会（FNE）在公众动员中发挥关键作用，而地方政府则在经济增长与土壤保护之间难以取舍。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement/Industrie",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2026/10/20/18-million-de-m-de-terres-pourraient-etre-deverses-dans-la-carriere-ccb-de-gaurain-il-ne-faut-rien-zero-pfas-TWHIGPWNW5EYRG3BQU4TSBKJPU/",
+      "image": "https://www.dhnet.be/resizer/v2/TFUAWXUBHZBLNI4J446RRQITGQ.JPG?auth=261d9307d7186ca63647f334402f61c8e33d8048741943af4876acf055801cc9&width=1200&height=630&quality=85&focal=800%2C600",
+      "date": "2026-10-20",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Industrie minière et recyclage des sols",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurances environnementales et responsabilité civile",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Industrie minière et recyclage des sols",
+          "secteur_en": "Mining industry and soil recycling",
+          "secteur_zh": "矿业及土壤再生产业",
+          "effet_fr": "Ce secteur pourrait voir une hausse des investissements dans les technologies de dépollution si le projet est rejeté, mais une stagnation des projets de réhabilitation en cas d’approbation.",
+          "effet_en": "This sector may experience increased investment in soil remediation technologies if the project is rejected, but stagnation in rehabilitation projects if approved.",
+          "effet_zh": "该行业若项目被否决，可能加大污染土壤治理技术投资；若获批则可能导致土壤复垦项目停滞。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances environnementales et responsabilité civile",
+          "secteur_en": "Environmental insurance and liability",
+          "secteur_zh": "环境保险及民事责任保险",
+          "effet_fr": "Les assureurs pourraient renforcer leurs exigences en couverture des risques PFAS, augmentant les coûts pour les projets similaires dans le Nord de la France.",
+          "effet_en": "Insurers may tighten coverage requirements for PFAS risks, increasing costs for similar projects in Northern France.",
+          "effet_zh": "保险公司可能加强对PFAS风险的覆盖要求，提高法国北部类似项目的成本。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-21T22:08:38.267307",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_337461",
