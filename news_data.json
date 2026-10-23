@@ -1,7 +1,66 @@
 {
-  "last_updated": "23/10/2026 à 21h01",
+  "last_updated": "23/10/2026 à 23h50",
   "articles": {
     "monde": [
+      {
+        "id": "monde_330936",
+        "titre": "Luckey et Lamm lancent Warhound : chiens génétiquement modifiés pour la guerre",
+        "titre_en": "Luckey and Lamm launch Warhound: genetically engineered war dogs",
+        "titre_zh": "卢克伊与拉姆推出‘战狼’：基因改造战犬",
+        "titre_ru": "Palmer Luckey teams with dire wolf billionaire Ben Lamm to launch $200 million Warhound, unleashing genetically engineered clone dogs of war",
+        "titre_fa": "Palmer Luckey teams with dire wolf billionaire Ben Lamm to launch $200 million Warhound, unleashing genetically engineered clone dogs of war",
+        "titre_ar": "Palmer Luckey teams with dire wolf billionaire Ben Lamm to launch $200 million Warhound, unleashing genetically engineered clone dogs of war",
+        "titre_original": "Palmer Luckey teams with dire wolf billionaire Ben Lamm to launch $200 million Warhound, unleashing genetically engineered clone dogs of war",
+        "resume": "Palmer Luckey, cofondateur d'Oculus, s’associe à Ben Lamm, milliardaire spécialiste des clones de loups dire, pour créer Warhound, une entreprise visant à développer des chiens génétiquement modifiés pour des missions militaires. Ce projet, financé par 200 millions de dollars, s’inscrit dans une logique d’innovation biotechnologique appliquée à la défense. Les implications éthiques et stratégiques soulèvent des questions sur l’avenir des armes autonomes et la déstabilisation des équilibres géopolitiques.",
+        "resume_en": "Palmer Luckey, co-founder of Oculus, partners with Ben Lamm, a billionaire known for cloning dire wolves, to launch Warhound, a $200 million venture developing genetically engineered war dogs. This initiative pushes biotech boundaries in military applications, raising ethical and strategic concerns about autonomous weapons and geopolitical destabilization.",
+        "resume_zh": "帕尔默·卢克伊（Oculus联合创始人）与克隆狼王的亿万富翁本·拉姆合作，推出‘战狼’项目，计划研发基因改造的战斗犬。该项目获得2亿美元资金支持，将生物科技应用于军事领域，引发关于自主武器和地缘政治不稳定性的伦理和战略争议。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce projet s’inscrit dans une tradition historique d’utilisation d’animaux dans les conflits, mais marque une rupture technologique avec l’ingénierie génétique. Les enjeux principaux concernent la légalité (conventions internationales sur les armes biologiques) et l’éthique (expérimentations sur des êtres vivants). Les causes profondes incluent la course aux innovations militaires et la recherche de solutions autonomes pour réduire les pertes humaines. À court terme, cela pourrait accélérer les dépenses militaires dans la R&D biotechnologique, tandis qu’à moyen terme, cela pourrait normaliser l’usage d’armes non humaines. À long terme, cela pourrait redéfinir les conflits asymétriques et les alliances technologiques. Les acteurs clés sont les États-Unis (financement privé et soutien militaire) et les régimes autoritaires (potentiel marché pour des armes non traçables).",
+        "analyse_en": "This project builds on historical military use of animals but represents a biotech leap with genetic engineering. Key stakes involve legality (international conventions on biological weapons) and ethics (experimentation on living beings). Root causes include military innovation races and the quest for autonomous solutions to reduce human casualties. Short-term, this may accelerate military R&D spending in biotech, while medium-term it could normalize non-human weapons. Long-term, it may redefine asymmetric conflicts and tech alliances. Key actors include the U.S. (private funding and military support) and authoritarian regimes (potential market for untraceable weapons).",
+        "analyse_zh": "该项目延续了军事史上动物参与战争的传统，但通过基因工程实现了技术突破。主要影响涉及法律（生物武器国际公约）和伦理（对活体实验的争议）。深层原因包括军事创新竞赛和减少人员伤亡的自主化需求。短期内，这将加速军事生物技术研发投资；中期内，可能使非人类武器合法化；长期内，可能重塑不对称战争和技术同盟格局。关键利益相关方包括美国（私人资金和军事支持）和专制政权（潜在非追踪武器市场）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/10/22/palmer-luckey-dire-wolfe-billionaire-lamm-warhound-200-million-dogs-cloned/",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2239731231-e1792712449779.jpg?resize=1200,600",
+        "date": "2026-10-22",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Biotechnologie militaire",
+            "hausse": true
+          },
+          {
+            "label": "▼ Assurances cyber et risques géopolitiques",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Biotechnologie militaire",
+            "secteur_en": "Military biotechnology",
+            "secteur_zh": "军事生物技术",
+            "effet_fr": "Ce secteur pourrait connaître une hausse des investissements privés et publics pour développer des armes biologiques autonomes.",
+            "effet_en": "This sector may see increased private and public investments in autonomous biological weapons development.",
+            "effet_zh": "该领域可能迎来私营和公共资金的大幅投资，推动自主生物武器研发。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Assurances cyber et risques géopolitiques",
+            "secteur_en": "Cyber insurance and geopolitical risks",
+            "secteur_zh": "网络保险和地缘政治风险",
+            "effet_fr": "Les assureurs pourraient exclure les risques liés aux armes génétiquement modifiées, augmentant les primes pour les acteurs militaires.",
+            "effet_en": "Insurers may exclude risks from genetically modified weapons, raising premiums for military actors.",
+            "effet_zh": "保险公司可能排除基因武器相关风险，导致军事行业保费上涨。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-23T23:50:39.194212"
+      },
       {
         "id": "monde_776474",
         "titre": "Bengale bat Rajasthan en finale U-23",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-17T11:24:14.450151"
-      },
-      {
-        "id": "monde_723574",
-        "titre": "Ordre de restriction Starshield émanant de la Maison-Blanche",
-        "titre_en": "Starshield Restriction Order Came from White House",
-        "titre_zh": "白宫发出限制星盾系统命令",
-        "titre_ru": "Почему команды позволяют Рес резать без защиты?",
-        "titre_fa": "چرا تیم‌ها اجازه می‌دهند آنجل ریس بدون دفاع شوت بزند؟",
-        "titre_ar": "لماذا يسمح الفريقون بأنجل رييس بإطلاق النار دون دفاع؟",
-        "titre_original": "“Why Are People Just Letting Her Shoot?”: Sophie Cunningham Calls Out Playoff Defenses for Sagging Off Angel Reese",
-        "resume": "Une source interne révèle que l’ordre limitant le système de communication par satellite Starshield, utilisé par l’Ukraine pour ses opérations de drones et de communications tactiques, provient directement de la Maison-Blanche. Ce système, crucial pour les forces ukrainiennes, a été partiellement neutralisé, affectant leur capacité opérationnelle. Les détails sur les motivations exactes restent flous, mais cela suscite des interrogations sur les priorités géopolitiques américaines.",
-        "resume_en": "Internal sources confirm the order restricting Starshield, a satellite communication system vital for Ukraine’s drone and tactical operations, originated from the White House. This partial neutralization undermines Ukrainian operational capabilities, raising questions about U.S. geopolitical priorities. The exact motivations remain unclear, fueling speculation about strategic trade-offs.",
-        "resume_zh": "内部消息透露，限制乌克兰用于无人机和战术通信的星盾卫星系统的命令来自白宫。这一部分中和直接削弱了乌克兰的作战能力，引发对美国地缘政治优先事项的质疑。具体动机仍不明确，加剧了战略权衡的猜测。",
-        "resume_ru": "Соперники в плей-офф NBA продолжают давать Ангел Рес открытые броски с дальних дистанций, что раздражает игрока «Индиана Фивер» Софи Каннингем. Она обвиняет защитников в бездействии, считая, что такие ошибки стоят командам побед. По её словам, игнорирование Рес — это стратегическая ошибка, которая может обернуться провалом в ключевых матчах.",
-        "resume_fa": "تیم‌های پست‌افینال NBA همچنان به آنجل ریس شوت‌های باز از دور می‌دهند که این موضوع سافی کانینگهام، بازیکن «اندیانا فیور»، را عصبانی کرده‌است. او از دفاع‌کنندگان انتقاد می‌کند و معتقد است این اشتباهات می‌تواند برای تیم‌ها در بازی‌های مهم هزینه‌بر باشد. کانینگهام معتقد است که نادیده گرفتن ریس یک خطای استراتژیک است که می‌تواند در بازی‌های مهم منجر به شکست شود.",
-        "resume_ar": "تستمر الفرق في دوري البلايز في السماح لأنجل رييس بإطلاق النار من خارج الخط دون دفاع، ما أثار غضب سوفي كانينغهام، لاعبة فريق إنديانا فيفر. تتهمها الدفاعات بأنها تهملها، مشيرة إلى أن هذه الأخطاء الاستراتيجية قد تكلف الفرق الفوز في مباريات الحاسمة. تؤكد كانينغهام أن تجاهل رييس يمثل خطأ استراتيجيًا قد يؤدي إلى الهزيمة في المباريات الحاسمة.",
-        "analyse_detaillee": "Ce système, développé en partenariat avec des entreprises comme Lockheed Martin, illustre les tensions croissantes entre soutien militaire et contraintes géopolitiques américaines. Les restrictions pourraient refléter une volonté de limiter l’escalade en Ukraine sans une intervention directe, tout en répondant à des pressions internes (élections, lobby militaire-industriel). À court terme, cela affaiblit la résilience ukrainienne face aux frappes russes, tandis que Moscou y voit une opportunité tactique. À moyen terme, cela pourrait accélérer la recherche de solutions alternatives par Kiev, comme des partenariats avec des acteurs comme Israël ou la Chine. Long terme, cela renforce les dynamiques de fragmentation technologique en Europe, avec des risques de dépendance accrue envers des fournisseurs non-occidentaux. Les États-Unis, divisés entre hawks et doves, doivent justifier cette décision face à l’opinion publique pro-ukrainienne, tandis que l’Ukraine accuse Washington de trahison stratégique.",
-        "analyse_en": "Starshield, developed in partnership with firms like Lockheed Martin, highlights growing tensions between U.S. military support and geopolitical constraints. Restrictions may reflect an effort to limit escalation in Ukraine without direct intervention, while addressing internal pressures (elections, defense-industrial lobbying). Short-term, this weakens Ukrainian resilience against Russian strikes, offering Moscow tactical advantages. Mid-term, Kiev may accelerate alternative solutions like partnerships with Israel or China. Long-term, this accelerates European technological fragmentation, increasing reliance on non-Western suppliers. The U.S., divided between hawks and doves, must justify this move amid pro-Ukraine public opinion, while Ukraine accuses Washington of strategic betrayal.",
-        "analyse_zh": "星盾系统由洛克希德·马丁等企业参与开发，反映了美国在军事支持与地缘政治约束之间的紧张关系。限制措施可能旨在避免在乌克兰直接升级冲突，同时应对国内压力（如选举和军工业游说）。短期内，这削弱了乌克兰抵抗俄罗斯袭击的能力，为俄罗斯提供战术优势。中期内，基辅可能加速寻找替代方案，如与以色列或中国建立合作。长期来看，这将加速欧洲技术分裂，增加对非西方供应商的依赖。美国在鹰派与鸽派之间分裂，必须在亲乌克兰的公众舆论下解释这一决定，而乌克兰则指控华盛顿背信弃义。",
-        "analyse_ru": "Ангел Рес — один из самых опасных игроков плей-офф, способный решить исход матча за несколько бросков. Её статистика (40% с трёх) показывает, что команды не могут игнорировать её потенциал, особенно когда она находится в зоне свободных бросков. Возможно, это связано с нежеланием рисковать оборонительными ошибками, но в итоге это даёт Рес преимущество в атаке. Тренеры должны пересмотреть тактику, иначе их команды будут проигрывать из-за пассивности защиты. В долгосрочной перспективе это может привести к потере мотивации у игроков, которые видят, что их усилия не приносят результата.",
-        "analyse_fa": "آنجل ریس یکی از خطرناک‌ترین بازیکنان پست‌افینال NBA است که می‌تواند با چند شوت نتیجه بازی را تغییر دهد. آمار او (۴۰٪ از سه‌پوینت) نشان می‌دهد که تیم‌ها نمی‌توانند از توانایی‌های او غافل باشند، به ویژه زمانی که در زون آزاد است. شاید این نادیده گرفتن به دلیل ترس از اشتباهات دفاعی است، اما در نهایت این مزیت را به ریس می‌دهد. مربیان باید تاکتیک‌های خود را بازبینی کنند، در غیر این صورت تیم‌هایشان ممکن است به دلیل بی‌تحرکی دفاعی شکست بخورند. در بلندمدت، این می‌تواند باعث کاهش انگیزه بازیکنان شود که می‌بینند تلاش‌هایشان نتیجه‌ای ندارد.",
-        "analyse_ar": "أنجل رييس من أكثر اللاعبين خطورة في دور البلايز، حيث يمكنها تغيير نتيجة المباراة بأقل من عدة شوطات. إحصائياتها (40% من ثلاث نقاط) تدل على أن الفرق لا يمكنها تجاهل قدراتها، خاصة عندما تكون في منطقة الحريات. قد يكون هذا تجاهلًا بسبب الخوف من الأخطاء الدفاعية، لكن في النهاية يمنح رييس ميزة هجومية. يجب على المدربين مراجعة التكتيكات، وإلا ستخسر الفرق بسبب السلبية الدفاعية. على المدى الطويل، قد يؤدي هذا إلى انخفاض التحفيز لدى اللاعبين الذين يرون أن جهودهم لا تعطي نتائج.",
-        "categorie": "Géopolitique",
-        "source": "Collegefootballnetwork.com",
-        "url": "https://collegefootballnetwork.com/wnba/sophie-cunningham-sagging-off-angel-reese/?utm_medium=rss&amp;utm_source=nordot",
-        "image": "https://s.yimg.com/lo/mysterio/api/7565936d8c2961888aec434c6eb3e33e03eb6dbce4311cebce9ae3375814ed65/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2Fa5c2ca575bb0e1d6c5a67dfa1b57d069.png",
-        "date": "2026-10-16",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Défense et sécurité nationale",
-            "hausse": false
-          },
-          {
-            "label": "▼ Technologies spatiales et satellites commerciaux",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Défense et sécurité nationale",
-            "secteur_en": "National Defense and Security",
-            "secteur_zh": "国家防御与安全",
-            "effet_fr": "La restriction de Starshield affaiblit la chaîne logistique sécurisée pour les communications militaires ukrainiennes, augmentant les risques de cyberattaques ou de brouillages par la Russie.",
-            "effet_en": "Restricting Starshield weakens Ukraine’s secure military communication logistics, increasing risks of Russian cyberattacks or jamming.",
-            "effet_zh": "限制星盾系统削弱了乌克兰军事通信的安全物流链，增加了俄罗斯发动网络攻击或干扰的风险。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Technologies spatiales et satellites commerciaux",
-            "secteur_en": "Space Technologies and Commercial Satellites",
-            "secteur_zh": "航天技术与商业卫星",
-            "effet_fr": "Les entreprises comme SpaceX ou Maxar pourraient voir leur marché européen réduit si l’UE durcit ses règles pour éviter les dépendances similaires, poussant vers des alternatives souveraines.",
-            "effet_en": "Companies like SpaceX or Maxar may face reduced European market access if the EU tightens rules to avoid similar dependencies, driving demand for sovereign alternatives.",
-            "effet_zh": "SpaceX或Maxar等公司可能因欧盟加严规则而失去部分欧洲市场，推动欧盟寻求主权替代方案。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-17T01:04:53.353568"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_807544",
+        "titre": "Trump accuse Musk de bloquer Starlink pour l’Ukraine",
+        "titre_en": "Trump accuses Musk of blocking Ukraine Starlink access",
+        "titre_zh": "特朗普指责马斯克封锁乌克兰星链服务",
+        "titre_ru": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
+        "titre_fa": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
+        "titre_ar": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
+        "titre_original": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
+        "resume": "Donald Trump, dans une déclaration récente, accuse Elon Musk d’avoir « remis en place » l’accès à Starlink pour l’Ukraine, suggérant une ingérence politique dans les opérations militaires. Ce revirement intervient dans un contexte de tensions croissantes entre Washington et les entreprises technologiques. Les implications pourraient affecter la coopération militaire et diplomatique entre les États-Unis et l’Ukraine.",
+        "resume_en": "Donald Trump accuses Elon Musk of ‘putting back’ Starlink access for Ukraine, implying political interference in military operations. This reversal occurs amid rising tensions between Washington and tech firms. Implications may impact U.S.-Ukraine military and diplomatic cooperation.",
+        "resume_zh": "特朗普指责马斯克“恢复”乌克兰星链服务，暗示在军事行动中存在政治干预。此举在华盛顿与科技企业关系紧张背景下出现，可能影响美乌军事和外交合作。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce conflit s’inscrit dans une histoire de tensions entre l’administration américaine et les milliardaires technologiques, notamment depuis les élections de 2020. Les enjeux principaux tournent autour du contrôle des infrastructures critiques (Starlink comme outil de guerre moderne) et de l’influence des acteurs privés sur la sécurité nationale. Les causes profondes incluent la polarisation politique et la méfiance envers les élites économiques perçues comme pro-russes. À court terme, cela pourrait affaiblir la confiance dans les partenariats technologiques avec l’Ukraine. À moyen terme, cela pourrait accélérer la recherche de solutions alternatives (satellites européens ou chinois). À long terme, cela pourrait redéfinir les alliances technologiques et les dépendances stratégiques.",
+        "analyse_en": "This conflict fits into a history of U.S. tensions with tech billionaires since the 2020 elections. Key stakes involve control over critical infrastructure (Starlink as a modern warfare tool) and private actors’ influence on national security. Root causes include political polarization and distrust of economic elites perceived as pro-Russian. Short-term, this may weaken trust in tech partnerships with Ukraine. Medium-term, it could accelerate searches for alternative solutions (European or Chinese satellites). Long-term, it may redefine tech alliances and strategic dependencies.",
+        "analyse_zh": "此争端源于美国政府与科技亿万富翁之间长期的紧张关系，特别是自2020年选举以来。主要影响涉及对关键基础设施（星链作为现代战争工具）的控制权，以及私营企业对国家安全的影响力。深层原因包括政治极化和对被视为亲俄的经济精英的不信任。短期内，这将削弱美乌科技合作的信任度；中期内，可能加速寻找替代解决方案（欧洲或中国卫星）；长期内，可能重塑科技同盟和战略依赖关系。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fcb01f4c38287aab",
+        "image": "https://biztoc.com/cdn/fcb01f4c38287aab_s.webp",
+        "date": "2026-10-22",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Technologies de communication sécurisées",
+            "hausse": true
+          },
+          {
+            "label": "▼ Marché des assurances politiques",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Technologies de communication sécurisées",
+            "secteur_en": "Secure communication technologies",
+            "secteur_zh": "安全通信技术",
+            "effet_fr": "Les tensions pourraient entraîner une hausse des investissements dans des alternatives souveraines (comme les satellites européens) pour éviter la dépendance à Starlink.",
+            "effet_en": "Tensions may drive increased investments in sovereign alternatives (e.g., European satellites) to avoid Starlink dependency.",
+            "effet_zh": "紧张局势可能推动对主权替代方案（如欧洲卫星）的投资，避免对星链的依赖。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des assurances politiques",
+            "secteur_en": "Political risk insurance market",
+            "secteur_zh": "政治风险保险市场",
+            "effet_fr": "Les assureurs pourraient exclure les risques liés aux conflits géopolitiques impliquant des infrastructures technologiques critiques.",
+            "effet_en": "Insurers may exclude risks from geopolitical conflicts involving critical tech infrastructure.",
+            "effet_zh": "保险公司可能排除涉及关键技术基础设施的地缘政治冲突风险。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-23T23:50:39.194232"
+      },
       {
         "id": "usa_364590",
         "titre": "Trump attaque James pour son geste anthem",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-17T11:24:14.450172"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_630774",
-        "titre": "Ancien officier russe trahit Moscou pour aider l’Ukraine",
-        "titre_en": "Russian Officer Defects to Aid Ukraine’s Deadliest Saboteur",
-        "titre_zh": "俄军官叛逃协助乌克兰暗杀数百人",
-        "titre_ru": "Приказ ограничить «Старшилд» исходил из Белого дома",
-        "titre_fa": "فرمان محدودسازی سیستم ستارشیلد از داخل کاخ سفید صادر شد",
-        "titre_ar": "أمر تقليل نظام ستارشيلد صدر من داخل البيت الأبيض",
-        "titre_original": "Order to limit Starshield came from inside White House...",
-        "resume": "Le lieutenant Lev Stupnikov, ancien officier russe, a fourni à l’Ukraine des informations critiques sur les déplacements de troupes et les plans de bataille avant de s’enfuir. Son action illustre la vulnérabilité des structures militaires russes face à la désinformation et aux infiltrations. Ce cas révèle aussi les failles dans la loyauté des élites militaires russes, souvent divisées entre patriotisme et intérêts personnels.",
-        "resume_en": "Lieutenant Lev Stupnikov, a former Russian officer, supplied Ukraine with critical intel on troop movements and battle plans before fleeing. His actions expose Russian military vulnerabilities to disinformation and infiltration. The case also highlights cracks in Russian military elite loyalty, torn between patriotism and personal interests.",
-        "resume_zh": "俄军少尉列夫·斯图普尼科夫向乌克兰提供了关键军情，包括部队行动和战斗计划，后成功逃脱。此举暴露了俄罗斯军队在误导和渗透面前的脆弱性。此案还揭示了俄罗斯军事精英在爱国主义与个人利益之间的分裂。",
-        "resume_ru": "По данным Reuters, распоряжение об ограничении использования спутниковой системы «Старшилд» для связи и управления дронами на Украине исходило из администрации Байдена. Система, разработанная американской компанией SpaceX, обеспечивала украинскую армию критически важной информацией для противодействия российским войскам. Источники утверждают, что решение было принято под давлением политических и дипломатических соображений. Это вызвало недовольство в Киеве, где считают, что ограничения ослабляют украинскую оборону.",
-        "resume_fa": "به گزارش رویترز، فرمان محدودسازی سیستم ستارشیلد برای ارتباطات و عملیات بدون سرنشین در اوکراین از سوی اداری بیدن صادر شده‌است. این سیستم که توسط شرکت اسپیس‌ایکس آمریکایی طراحی شده، اطلاعات حیاتی برای ارتش اوکراین در برابر نیروهای روسی فراهم می‌آورد. منابع می‌گویند این تصمیم تحت فشار دلایل سیاسی و دیپلماتیک گرفته شده‌است. این اقدام در کیئف نارضایتی ایجاد کرده‌است، زیرا معتقدند محدودیت‌ها دفاع اوکراین را ضعیف می‌کند.",
-        "resume_ar": "وفقًا لرويترز، صدر أمر تقليل استخدام نظام ستارشيلد للاتصال والتحكم في الطائرات بدون طيار في أوكرانيا من إدارة بايدن. هذا النظام، الذي طورته شركة سبايس إكس الأمريكية، كان يوفر معلومات حاسمة للجيش الأوكراني لمواجهة القوات الروسية. تشير المصادر إلى أن القرار تم اتخاذه تحت ضغط عوامل سياسية ودبلوماسية. هذا الأمر أثار عدم الرضا في كييف، حيث يعتقدون أن القيود تضعف الدفاع الأوكراني.",
-        "analyse_detaillee": "Ce défection s’inscrit dans une tendance plus large de trahisons au sein des forces armées russes, accélérée par la guerre en Ukraine et les sanctions économiques. Les causes profondes incluent la corruption endémique, la méfiance envers le régime de Poutine, et l’isolement croissant de l’élite militaire face à l’opinion publique. À court terme, cela renforce la capacité ukrainienne à cibler les commandements russes, mais aussi les risques de représailles contre les familles des déserteurs. À moyen terme, cela pourrait inspirer d’autres mutineries ou fuites d’informations, affaiblissant la cohésion des troupes. Long terme, cela pourrait accélérer la fragmentation des structures militaires russes, avec un risque de guerre civile larvée. Moscou, déjà sous pression, devra intensifier ses purges internes et renforcer la propagande pour maintenir la loyauté, tout en cherchant à neutraliser les canaux de fuite.",
-        "analyse_en": "This defection fits a broader trend of betrayals within Russian armed forces, accelerated by the Ukraine war and economic sanctions. Root causes include endemic corruption, distrust of Putin’s regime, and growing isolation of the military elite from public opinion. Short-term, this boosts Ukraine’s ability to target Russian command structures but also risks retaliation against defectors’ families. Mid-term, it may inspire further mutinies or leaks, weakening troop cohesion. Long-term, this could accelerate Russian military fragmentation, risking latent civil war. Moscow, already under pressure, will intensify internal purges and propaganda to maintain loyalty while seeking to neutralize leak channels.",
-        "analyse_zh": "此次叛逃符合俄罗斯军队在乌克兰战争和经济制裁加速下的普遍叛变趋势。深层原因包括根深蒂固的腐败、对普京政权的不信任，以及军事精英与公众舆论日益隔绝。短期内，这增强了乌克兰针对俄罗斯指挥结构的能力，但也带来对叛逃者家属报复的风险。中期内，可能激发更多叛变或泄密事件，削弱部队凝聚力。长期来看，这可能加速俄罗斯军队分裂，引发潜在的内战风险。莫斯科在压力下将加强内部清洗和宣传以维护忠诚，同时寻求堵塞泄密渠道。",
-        "analyse_ru": "Ограничение «Старшилд» может быть связано с попыткой США сбалансировать поддержку Украины без провоцирования прямого военного конфликта с Россией. Однако такое решение ослабляет украинскую оборону в критический момент, когда страна нуждается в максимальной технической поддержке. Это может быть воспринято как сигнал слабости со стороны Вашингтона, что укрепит позицию Путина в переговорах. В долгосрочной перспективе это может подорвать доверие Украины к США и ослабить союзнические отношения. Кроме того, ограничения могут быть использованы Россией для пропагандистских целей, обвиняя Запад в «недостаточной помощи».",
-        "analyse_fa": "محدودسازی ستارشیلد ممکن است به دلیل تلاش ایالات متحده برای تعادل دادن به حمایت از اوکراین بدون ایجاد درگیری نظامی مستقیم با روسیه باشد. اما این تصمیم در زمان بحرانی، که اوکراین به حمایت فنی بیش از پیش نیاز دارد، دفاع اوکراین را ضعیف می‌کند. این ممکن است به عنوان یک نشانه از ضعف توسط واشنگتن تفسیر شود، که موقعیت پوتین در مذاکرات را تقویت می‌کند. در بلندمدت، این می‌تواند اعتماد اوکراین به ایالات متحده را زیر سؤال ببرد و روابط союзانه را ضعیف کند. علاوه بر این، محدودیت‌ها می‌تواند توسط روسیه برای اهداف пропаگاندایی استفاده شود و غرب را به «کمک ناکافی» متهم کند.",
-        "analyse_ar": "قد يكون تقليل ستارشيلد مرتبطًا بجهود الولايات المتحدة لتحقيق التوازن في دعم أوكرانيا دون تحريك صراع عسكري مباشر مع روسيا. ومع ذلك، قد يضع هذا القرار الدفاع الأوكراني في خطر في وقت حرج، حيث تحتاج البلاد إلى الدعم التقني الأقصى. قد يُفسر هذا الأمر كإشارة إلى ضعف من واشنطن، مما يعزز موقف بوتين في المفاوضات. على المدى الطويل، قد يضع هذا الثقة الأوكرانية في الولايات المتحدة في خطر ويضعف العلاقات التحالفية. بالإضافة إلى ذلك، قد يستخدم هذا القيود روسيا لأغراض دعائية، وتهم الولايات المتحدة بـ«العدم كافٍ من الدعم».",
+        "id": "chine_350858",
+        "titre": "Église catholique chinoise : Vatican accepte épiscopat sous contrôle communiste",
+        "titre_en": "Chinese Catholic Church: Vatican approves bishop appointments under Communist control",
+        "titre_zh": "中国天主教会：梵蒂冈接受共产党控制主教任命",
+        "titre_ru": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
+        "titre_fa": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
+        "titre_ar": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
+        "titre_original": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
+        "resume": "Le Vatican a validé la consécration d’un nouvel évêque en Chine, malgré une mandature lue lors de la cérémonie par une conférence épiscopale sous contrôle communiste. Ce geste marque une nouvelle étape dans la normalisation des relations entre le Vatican et Pékin, après des décennies de tensions. Les implications incluent une possible marginalisation des catholiques traditionnels et une influence accrue du Parti communiste sur les affaires religieuses.",
+        "resume_en": "The Vatican validated the consecration of a new bishop in China despite a mandate read by a Communist-controlled bishops’ conference. This move marks a new step in Vatican-Peking normalization after decades of tensions. Implications include marginalization of traditional Catholics and increased CCP influence over religious affairs.",
+        "resume_zh": "梵蒂冈批准了中国一位新主教的任命，尽管仪式上由共产党控制的主教会议宣读了委任状。这一举动标志着梵蒂冈与北京关系正常化的新阶段，结束了数十年的紧张关系。影响包括天主教传统派的边缘化和中国共产党对宗教事务的更大控制。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce développement s’inscrit dans un contexte historique de tensions entre le Vatican et la Chine depuis la révolution communiste de 1949, avec des périodes de rapprochement et de rupture. Les enjeux principaux concernent la souveraineté de l’Église catholique en Chine et le respect des libertés religieuses. Les causes profondes incluent la volonté du Parti communiste de contrôler toutes les institutions sociales, y compris religieuses, ainsi que la recherche par le Vatican de stabilité diplomatique. À court terme, cela pourrait renforcer la répression contre les églises indépendantes. À moyen terme, cela pourrait accélérer la sinisation des pratiques religieuses. À long terme, cela pourrait redéfinir le rôle de l’Église en Chine et son rapport au pouvoir politique.",
+        "analyse_en": "This development fits into a historical context of Vatican-China tensions since the 1949 Communist revolution, with periods of rapprochement and rupture. Key stakes involve Catholic Church sovereignty in China and religious freedom. Root causes include the CCP’s desire to control all social institutions, including religion, and the Vatican’s quest for diplomatic stability. Short-term, this may strengthen repression against independent churches. Medium-term, it could accelerate sinicization of religious practices. Long-term, it may redefine the Church’s role in China and its relationship with political power.",
+        "analyse_zh": "这一进展源于自1949年中国共产党革命以来梵蒂冈与中国之间的历史紧张关系，包括接近和断交的阶段。主要影响涉及中国天主教会的主权和宗教自由。深层原因包括中国共产党试图控制所有社会机构（包括宗教）以及梵蒂冈寻求外交稳定的需求。短期内，这将加强对独立教会的镇压；中期内，可能加速宗教实践的中国化；长期内，可能重塑中国教会的角色和与政治权力的关系。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/7367ad9cbc6f5f44223807191afc9d0d55f48fa8f90f28e38344130ce37cd161/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F080559fd29973b18417826b73fdbc623.jpg",
-        "date": "2026-10-16",
-        "pays": "usa",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-religion/4400228/posts",
+        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
+        "date": "2026-10-22",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Sécurité intérieure et contre-espionnage",
-            "hausse": true
+            "label": "▼ Financement des institutions religieuses",
+            "hausse": false
           },
           {
-            "label": "▲ Industrie de la défense et innovation militaire",
-            "hausse": true
+            "label": "▼ Marché des assurances religieuses",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Sécurité intérieure et contre-espionnage",
-            "secteur_en": "Internal Security and Counterintelligence",
-            "secteur_zh": "内部安全与反间谍",
-            "effet_fr": "Les services russes (FSB) devront redoubler d’efforts pour détecter les infiltrations dans les rangs, augmentant les budgets dédiés à la surveillance et aux purges internes.",
-            "effet_en": "Russian agencies (FSB) will intensify efforts to detect infiltrations, boosting budgets for surveillance and internal purges.",
-            "effet_zh": "俄罗斯安全机构（联邦安全局）将加大力度侦察军队内部渗透，增加监控和内部清洗预算。",
-            "hausse": true
+            "secteur_fr": "Financement des institutions religieuses",
+            "secteur_en": "Funding of religious institutions",
+            "secteur_zh": "宗教机构资金",
+            "effet_fr": "Les dons internationaux aux églises chinoises pourraient diminuer, tandis que les subventions gouvernementales chinoises pourraient augmenter pour les institutions sous contrôle.",
+            "effet_en": "International donations to Chinese churches may decline, while Chinese government subsidies for controlled institutions may rise.",
+            "effet_zh": "国际捐款可能减少，而中国政府对受控宗教机构的补贴可能增加。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Industrie de la défense et innovation militaire",
-            "secteur_en": "Defense Industry and Military Innovation",
-            "secteur_zh": "国防工业与军事创新",
-            "effet_fr": "La fuite de Stupnikov pourrait accélérer les investissements russes dans des technologies de communication sécurisées (comme les réseaux quantiques), pour contrer les risques de trahisons futures.",
-            "effet_en": "Stupnikov’s defection may accelerate Russian investments in secure communication tech (e.g., quantum networks) to counter future betrayal risks.",
-            "effet_zh": "斯图普尼科夫的叛逃可能加速俄罗斯在安全通信技术（如量子网络）上的投资，以应对未来叛变风险。",
-            "hausse": true
+            "secteur_fr": "Marché des assurances religieuses",
+            "secteur_en": "Religious insurance market",
+            "secteur_zh": "宗教保险市场",
+            "effet_fr": "Les assureurs pourraient exclure les risques liés aux conflits entre institutions religieuses et l’État chinois.",
+            "effet_en": "Insurers may exclude risks from conflicts between religious institutions and the Chinese state.",
+            "effet_zh": "保险公司可能排除宗教机构与中国政府冲突的风险。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-10-17T01:04:53.353593"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-23T23:50:39.194252"
+      },
       {
         "id": "chine_674688",
         "titre": "Renforcement de la coopération juridique russo-chinoise",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-12T07:15:07.316763"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_542160",
-        "titre": "Affaire espionnage : homme d'affaires fuit États-Unis",
-        "titre_en": "Businessman flees U.S. in spy case",
-        "titre_zh": "商人因间谍案逃离美国",
-        "titre_ru": "Бизнесмен из Южной Калифорнии бежал из страны после обвинений в помощи шпиону Китая",
-        "titre_fa": "کاربردی از جنوب کالیفرنیا پس از اتهام به کمک به جاسوس چین، از کشور گریخت",
-        "titre_ar": "رجل أعمال من جنوب كاليفورنيا هرب من البلاد بعد من اتهامه بمساعدة جاسوس صيني",
-        "titre_original": "SoCal businessman fled county after allegations he helped lover accused of being Chinese spy",
-        "resume": "Un homme d’affaires californien, impliqué dans une enquête fédérale sur un agent immobilier accusé d’espionnage pour la Chine, a quitté les États-Unis. Les révélations montrent qu’il était le mari de l’agente en question, ajoutant une dimension familiale à ce réseau présumé. Les autorités américaines cherchent désormais à le localiser pour l’interroger.",
-        "resume_en": "A Southern California businessman, entangled in a federal probe of a real estate agent accused of spying for China, has fled the U.S. Revelations indicate he was the husband of the agent, adding a familial dimension to the alleged network. U.S. authorities are now tracking him down for questioning.",
-        "resume_zh": "一名加利福尼亚州商人，涉嫌在联邦调查一名被指控为中国间谍的房地产代理商案件中，已逃离美国。曝光显示他正是该代理商的丈夫，为这一被指控的网络增添了家庭层面。美国当局现在正在追踪他以进行质询。",
-        "resume_ru": "Бизнесмен из Южного Калифорнийского округа, фигурант федерального расследования по делу о шпионаже, бежал из страны. Обнародовано, что он является мужем подозреваемой в шпионаже для Китая недвижимой агента. Расследование началось после того, как стало известно о связях между бизнесменом и китайскими официальными лицами. ФБР подозревает его в предоставлении финансовой и организационной поддержки. Бегство бизнесмена вызвало вопросы о его причастности к делу и возможном давлении на свидетелей.",
-        "resume_fa": "یک کاربردی از شهرستان‌های جنوبی کالیفرنیا که در یک تحقیق فدرال در مورد جاسوسی به عنوان متهم ظاهر شده بود، از کشور گریخت. مشخص شد که او همسر یک عامل املاک متهم به جاسوسی برای چین است. این تحقیق پس از آشکار شدن ارتباطات این کاربردی با مقامات چین آغاز شد. اف‌بی‌آی او را متهم به ارائه حمایت مالی و سازمانی می‌کند. گریختن این کاربردی سؤالاتی در مورد نقش او در این پرونده و احتمالاً فشار بر شاهدان ایجاد کرده است.",
-        "resume_ar": "فرض رجل أعمال من مقاطعة جنوب كاليفورنيا، وهو أحد مشتبه بهم في تحقيق فدرالي حول التجسس، هرب من البلاد. تم الكشف عن أنه هو الزوج للمتهمة في التجسس لصالح الصين من وكيل العقارات. بدأ التحقيق بعد أن أصبح معروفًا عن العلاقات بين رجل الأعمال والوكلاء الصينيين. يشتبه مكتب التحقيقات الفيدرالي في أنه قدم الدعم المالي والتنظيمي. هروب رجل الأعمال أثار أسئلة حول دوره في القضية وضغط محتمل على الشهود.",
-        "analyse_detaillee": "Cette affaire s’inscrit dans une série de cas d’espionnage économique et technologique impliquant la Chine, révélant les tensions croissantes entre Pékin et Washington. Les réseaux d’espionnage ciblant les infrastructures critiques (technologie, immobilier, énergie) reflètent une guerre économique sous-jacente, où la Chine cherche à contourner les sanctions américaines. Les États-Unis, de leur côté, durcissent leur législation (comme le *Foreign Influence Transparency Act*) pour contrer ces infiltrations. À court terme, cette fuite pourrait compliquer les enquêtes fédérales et affaiblir les preuves contre le réseau. À moyen terme, la Chine pourrait renforcer ses contre-mesures, comme le recrutement accru de résidents américains dans ses programmes de renseignement. Long terme, cette escalade pourrait normaliser les tensions géopolitiques autour de la technologie et des données, avec des conséquences pour les alliances commerciales. Les États-Unis adoptent une posture de fermeté, tandis que la Chine minimise ces affaires en les présentant comme des 'dérives individuelles'.",
-        "analyse_en": "This case fits into a series of economic and technological espionage incidents involving China, highlighting escalating tensions between Beijing and Washington. Espionage networks targeting critical infrastructure (tech, real estate, energy) reflect an underlying economic war, where China seeks to bypass U.S. sanctions. The U.S. tightens legislation (e.g., *Foreign Influence Transparency Act*) to counter these infiltrations. Short-term, the fugitive’s escape may complicate federal investigations and weaken evidence against the network. Medium-term, China could ramp up countermeasures, such as recruiting more U.S. residents in intelligence programs. Long-term, this escalation may normalize geopolitical tensions over technology and data, impacting trade alliances. The U.S. adopts a hardline stance, while China downplays these cases as 'individual deviations'.",
-        "analyse_zh": "此案例属于中国与美国之间日益升级的经济和技术间谍案件系列，反映了北京和华盛顿之间的紧张关系加剧。针对关键基础设施（技术、房地产、能源）的间谍网络反映了潜在的经济战争，中国试图绕过美国制裁。美国方面加强立法（如《外国影响力透明法案》）以应对这些渗透行为。短期内，逃犯的逃离可能会使联邦调查复杂化，并削弱对网络的证据。中期内，中国可能加大反制措施，如在情报项目中更广泛招募美国居民。长期来看，这种升级可能会使技术和数据领域的地缘政治紧张关系正常化，影响贸易同盟。美国采取强硬立场，而中国则将这些案件轻描淡写为‘个人偏差’。",
-        "analyse_ru": "Контекст этого дела связан с растущими подозрениями в шпионаже в пользу Китая среди американских бизнесменов и чиновников. Причины бегства бизнесмена могут быть связаны с опасением за свою безопасность или давлением со стороны китайских властей. Последствия для США могут включать ухудшение отношений с Пекином и усиление контроля за миграцией и экономическими связями. Перспективы расследования зависят от того, смогут ли власти США найти бизнесмена и собрать достаточные доказательства. Позиции сторон разделились: китайские власти отрицают обвинения, в то время как американские власти настаивают на продолжении расследования и привлечении к ответственности всех причастных.",
-        "analyse_fa": "زمینه این پرونده مربوط به افزایش شک‌های جاسوسی در مورد کاربران آمریکایی و مقامات در حمایت از چین است. دلایل گریختن این کاربردی ممکن است شامل ترس از امنیت شخصی یا فشار از سوی مقامات چین باشد. پیامدهای این موضوع برای آمریکا ممکن است شامل تخریب روابط با پکن و افزایش کنترل بر مهاجرت و روابط اقتصادی باشد. چشم‌انداز تحقیق بستگی به این دارد که آیا مقامات آمریکا می‌توانند این کاربردی را پیدا کنند و مدارک کافی را جمع‌آوری کنند. مواضع بازیگران تقسیم شده است: مقامات چین اتهامات را انکار می‌کنند، در حالی که مقامات آمریکایی بر ادامه تحقیق و محاکمه همه افراد مرتبط تأکید می‌کنند.",
-        "analyse_ar": "سياق هذا الأمر يتعلق بزيادة الشكوك بالتجسس بين رجال الأعمال والوكلاء الأمريكيين لصالح الصين. أسباب هروب رجل الأعمال قد تكون مرتبطة بالخوف على حياته أو الضغط من قبل السلطات الصينية. العواقب على الولايات المتحدة قد تشمل تدهور العلاقات مع بكين وزيادة السيطرة على الهجرة والعلاقات الاقتصادية. الآفاق للتحقيق تعتمد على قدرتها على العثور على رجل الأعمال وجمع الأدلة الكافية. مواقف الأطراف متضاربة: السلطات الصينية تنفي التهم، بينما يصر المسؤولون الأمريكيين على استمرار التحقيق ومحاكمة جميع المشاركين.",
+        "id": "russie_436666",
+        "titre": "Wallace dénonce les ‘sociopathes’ bloquant Starlink pour l’Ukraine",
+        "titre_en": "Wallace calls out ‘sociopaths’ blocking Ukraine Starlink",
+        "titre_zh": "华莱士指责封锁乌克兰星链的‘精神病患者’",
+        "titre_ru": "MS NOW's Wallace: Only 'Sociopaths' Would Slowdown Ukraine's Starlink",
+        "titre_fa": "MS NOW's Wallace: Only 'Sociopaths' Would Slowdown Ukraine's Starlink",
+        "titre_ar": "MS NOW's Wallace: Only 'Sociopaths' Would Slowdown Ukraine's Starlink",
+        "titre_original": "MS NOW's Wallace: Only 'Sociopaths' Would Slowdown Ukraine's Starlink",
+        "resume": "Nicolle Wallace, sur MSNBC, accuse anonymement les responsables ayant ralenti l’accès à Starlink pour l’Ukraine, les qualifiant de « sociopathes ». Ce discours reflète la frustration croissante face à l’utilisation politique des technologies critiques par des acteurs occidentaux. Les conséquences pourraient inclure une radicalisation des discours pro-russes et une accélération des efforts russes pour développer des alternatives souveraines.",
+        "resume_en": "Nicolle Wallace, on MSNBC, anonymously accuses those slowing Ukraine’s Starlink access of being ‘sociopaths.’ This rhetoric mirrors growing frustration over Western political use of critical tech. Consequences may include pro-Russian discourse radicalization and accelerated Russian efforts to develop sovereign alternatives.",
+        "resume_zh": "美国MSNBC节目主持人华莱士暗指封锁乌克兰星链服务的责任人为‘精神病患者’，反映西方对关键技术政治化的愤慨。后果可能包括亲俄言论的极端化和俄罗斯加速研发主权替代方案的步伐。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce discours s’inscrit dans une stratégie de communication russe visant à discréditer les alliés occidentaux de l’Ukraine en les présentant comme irresponsables. Les enjeux principaux concernent la légitimité des sanctions technologiques et la perception de la guerre en Ukraine comme un conflit idéologique. Les causes profondes incluent la propagande russe cherchant à diviser l’OTAN et à justifier ses actions militaires. À court terme, cela pourrait renforcer le soutien populaire à Poutine en Russie. À moyen terme, cela pourrait accélérer l’adoption de technologies russes ou chinoises par des régimes autoritaires. À long terme, cela pourrait affaiblir la cohésion de l’OTAN et légitimer les régimes illibéraux.",
+        "analyse_en": "This rhetoric fits into Russia’s strategy to discredit Western Ukraine allies by portraying them as irresponsible. Key stakes involve the legitimacy of tech sanctions and the perception of the Ukraine war as an ideological conflict. Root causes include Russian propaganda aiming to divide NATO and justify military actions. Short-term, this may strengthen Poutine’s domestic support. Medium-term, it could accelerate adoption of Russian or Chinese tech by authoritarian regimes. Long-term, it may weaken NATO cohesion and legitimize illiberal regimes.",
+        "analyse_zh": "这一言论属于俄罗斯宣传战略的一部分，旨在通过将西方乌克兰盟友塑造成不负责任的形象来破坏其合法性。主要影响涉及技术制裁的正当性和对乌克兰战争的意识形态化认知。深层原因包括俄罗斯试图分裂北约并为军事行动辩护的宣传。短期内，这将增强俄罗斯国内对普京的支持；中期内，可能加速专制政权采用俄罗斯或中国技术；长期内，可能削弱北约的凝聚力并合法化非自由主义政权。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/09/us-news/socal-businessman-fled-county-after-allegations-he-helped-lover-accused-of-being-chinese-spy/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144424965.jpg?quality=75&strip=all&w=1200",
-        "date": "2026-10-09",
-        "pays": "chine",
+        "source": "Breitbart News",
+        "url": "https://www.breitbart.com/clips/2026/10/22/ms-nows-wallace-only-sociopaths-would-slowdown-ukraines-starlink/",
+        "image": "https://media.breitbart.com/media/2024/10/MSNBC-host-Nicolle-Wallace-640x335.jpg",
+        "date": "2026-10-22",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Technologies et cybersécurité",
-            "hausse": false
+            "label": "▲ Cybersécurité et désinformation",
+            "hausse": true
           },
           {
-            "label": "▼ Marché immobilier et investissements étrangers",
-            "hausse": false
+            "label": "▲ Investissements en satellites souverains",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies et cybersécurité",
-            "secteur_en": "Technology and cybersecurity",
-            "secteur_zh": "技术与网络安全",
-            "effet_fr": "Les fuites de données liées à ces réseaux pourraient affaiblir la confiance dans les partenariats technologiques sino-américains et accélérer les délocalisations de R&D vers des zones neutres.",
-            "effet_en": "Data leaks tied to these networks may erode trust in Sino-U.S. tech partnerships and accelerate R&D relocations to neutral zones.",
-            "effet_zh": "与这些网络相关的数据泄露可能削弱中美技术合作的信任，并加速将研发转移到中立地区。",
-            "hausse": false
+            "secteur_fr": "Cybersécurité et désinformation",
+            "secteur_en": "Cybersecurity and disinformation",
+            "secteur_zh": "网络安全和虚假信息",
+            "effet_fr": "Les acteurs russes pourraient intensifier leurs campagnes de désinformation pour exploiter les divisions géopolitiques liées à Starlink.",
+            "effet_en": "Russian actors may escalate disinformation campaigns to exploit geopolitical divisions over Starlink.",
+            "effet_zh": "俄罗斯可能加大利用星链相关地缘政治分歧的虚假信息宣传力度。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Marché immobilier et investissements étrangers",
-            "secteur_en": "Real estate market and foreign investments",
-            "secteur_zh": "房地产市场与外资投资",
-            "effet_fr": "Les enquêtes sur les agents immobiliers pourraient dissuader les investisseurs étrangers de s’engager dans des projets sensibles en Californie, réduisant les flux d’investissements directs.",
-            "effet_en": "Probes into real estate agents may deter foreign investors from committing to sensitive projects in California, reducing direct investment flows.",
-            "effet_zh": "对房地产代理商的调查可能阻止外国投资者参与加利福尼亚敏感项目，减少直接投资流入。",
-            "hausse": false
+            "secteur_fr": "Investissements en satellites souverains",
+            "secteur_en": "Sovereign satellite investments",
+            "secteur_zh": "主权卫星投资",
+            "effet_fr": "La Russie et la Chine pourraient accélérer leurs programmes spatiaux pour réduire la dépendance aux infrastructures occidentales.",
+            "effet_en": "Russia and China may accelerate space programs to reduce dependence on Western infrastructure.",
+            "effet_zh": "俄罗斯和中国可能加速太空计划，减少对西方基础设施的依赖。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-10T23:15:53.978256"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-23T23:50:39.194242"
+      },
       {
         "id": "russie_156937",
         "titre": "Guerre en Ukraine menace Rosneft",
@@ -4888,65 +4947,6 @@
           }
         ],
         "created_at": "2026-10-15T21:57:31.588405"
-      },
-      {
-        "id": "russie_119188",
-        "titre": "Demande IA booste gestion de l’eau",
-        "titre_en": "AI demand drives water management",
-        "titre_zh": "AI需求推动水资源管理整合",
-        "titre_ru": "Рост спроса на вычислительные мощности AI стимулирует интеграцию управления водой в Tianyi",
-        "titre_fa": "افزایش تقاضای محاسبات AI باعث شده است که مدیریت آب در تیان‌یی ادغام شود",
-        "titre_ar": "زيادة الطلب على قدرات الحوسبة الذكية تدفع تكامل إدارة المياه في تياني",
-        "titre_original": "AI computing demand drives water management integration at Tianyi",
-        "resume": "La demande croissante en calculs informatiques pour l’IA pousse Tianyi à intégrer des solutions de recyclage de l’eau, d’efficacité énergétique et de maintenance intelligente. Cette évolution reflète l’adaptation des semi-conducteurs avancés aux défis environnementaux et technologiques.",
-        "resume_en": "Rising AI computing demand drives Tianyi to integrate water recycling, energy efficiency, and smart maintenance solutions. This shift reflects advanced semiconductors adapting to environmental and technological challenges.",
-        "resume_zh": "人工智能计算需求增长推动天翼集团整合水资源回收、能源效率和智能维护解决方案。这一转变反映了先进半导体适应环境和技术挑战的调整。",
-        "resume_ru": "Растущий спрос на вычислительные мощности для искусственного интеллекта требует расширения производственных мощностей в полупроводниковой промышленности. Компания Tianyi интегрирует системы переработки воды, энергоэффективности и умного обслуживания. Это позволит снизить нагрузку на ресурсы и повысить производительность.",
-        "resume_fa": "افزایش تقاضای محاسبات AI باعث شده است که شرکت تیان‌یی سیستم‌های بازیابی آب، کارایی انرژی و نگهداری هوشمند را ادغام کند. این اقدام به کاهش فشار بر منابع و افزایش بهره‌وری کمک خواهد کرد.",
-        "resume_ar": "تزايد طلب قدرات الحوسبة الذكية دفع شركة تياني لتكامل أنظمة إعادة تدوير المياه والكفاءة الطاقة والصيانة الذكية. هذا سيساعد في خفض الضغط على الموارد وزيادة الإنتاجية.",
-        "analyse_detaillee": "Cette transition s’inscrit dans un contexte de pénurie mondiale des ressources et de pression accrue sur les écosystèmes, où les data centers deviennent des consommateurs majeurs d’eau et d’énergie. Les enjeux incluent la durabilité des infrastructures technologiques et la réduction de l’empreinte carbone des industries high-tech. Les causes profondes sont liées à l’essor exponentiel de l’IA et à la concentration des capacités de calcul dans quelques hubs technologiques (Chine, États-Unis, Europe). À court terme, cette intégration pourrait réduire les coûts opérationnels pour Tianyi et améliorer sa compétitivité face à des concurrents comme TSMC ou Intel. À moyen terme, cela pourrait accélérer l’adoption de normes strictes en matière d’efficacité énergétique et de gestion de l’eau dans le secteur. Long terme, cette approche pourrait devenir un standard industriel, avec des implications pour les politiques climatiques et les investissements verts. Les acteurs comme les gouvernements chinois, les géants tech (Alibaba, Huawei) et les régulateurs environnementaux joueront un rôle clé dans la mise en œuvre de ces solutions.",
-        "analyse_en": "This shift occurs amid global resource scarcity and heightened ecosystem pressures, where data centers become major consumers of water and energy. Key stakes include the sustainability of tech infrastructure and reducing the carbon footprint of high-tech industries. Root causes stem from the exponential growth of AI and the concentration of computing power in tech hubs (China, U.S., Europe). Short-term, this integration may cut Tianyi’s operational costs and boost competitiveness against rivals like TSMC or Intel. Medium-term, it could accelerate adoption of strict energy and water efficiency standards in the sector. Long-term, this approach may set an industrial standard, with implications for climate policies and green investments. Key actors—Chinese government, tech giants (Alibaba, Huawei), and environmental regulators—will drive implementation.",
-        "analyse_zh": "这一转变发生在全球资源短缺和生态系统压力加剧的背景下，数据中心成为水和能源的主要消费者。主要影响包括技术基础设施的可持续性和高科技行业碳足迹的减少。深层原因与人工智能的指数级增长和计算能力集中在少数技术枢纽（中国、美国、欧洲）有关。短期内，这一整合可能降低天翼集团的运营成本并提升其竞争力，相较于台积电或英特尔等竞争对手。中期内，这可能加速行业中能源和水效率标准的采用。长期来看，这种方法可能成为行业标准，对气候政策和绿色投资产生影响。关键行为体包括中国政府、科技巨头（阿里巴巴、华为）和环境监管机构，他们将推动这些解决方案的实施。",
-        "analyse_ru": "Спрос на AI требует инноваций в производстве полупроводников, где вода и энергия становятся критическими факторами. Интеграция систем управления водой позволяет снизить затраты и повысить устойчивость производства. Это также способствует достижению целей устойчивого развития. Однако высокие инвестиции могут ограничивать доступность технологий для малых предприятий. В долгосрочной перспективе это может изменить стандарты промышленной экологии.",
-        "analyse_fa": "تقاضای AI نیاز به نوآوری در تولید نیمه‌رسانا دارد، جایی که آب و انرژی به عوامل بحرانی تبدیل شده‌اند. ادغام سیستم‌های مدیریت آب به کاهش هزینه‌ها و افزایش پایداری تولید کمک می‌کند. این همچنین به دستیابی به اهداف توسعه پایدار کمک می‌کند. با این حال، سرمایه‌گذاری بالا ممکن است دسترسی به این فناوری‌ها برای شرکت‌های کوچک را محدود کند. در بلندمدت، این ممکن است استانداردهای زیست‌محیطی صنعتی را تغییر دهد.",
-        "analyse_ar": "تطلب الحوسبة الذكية يتطلب الابتكار في صناعة أشباه الموصلات، حيث أصبحت المياه والطاقة عوامل حاسمة. تكامل أنظمة إدارة المياه يساعد في خفض التكاليف وزيادة الاستدامة الإنتاجية. هذا أيضًا يساهم في تحقيق أهداف التنمية المستدامة. ومع ذلك، قد يحد الاستثمار العالي من إمكانية الوصول إلى هذه التقنيات بالنسبة للشركات الصغيرة. في المدى الطويل، قد تغير هذا المعايير البيئية الصناعية.",
-        "categorie": "Technologie/Environnement",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20261014PD229/demand-water-management-capacity-expansion-equipment.html",
-        "image": "https://img.digitimes.com/newsshow/20261014pd229_files/1_2b.jpg",
-        "date": "2026-10-14",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Marché des solutions ESG (Environnementales, Sociales, Gouvernance)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Financement des projets verts par les banques chinoises",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des solutions ESG (Environnementales, Sociales, Gouvernance)",
-            "secteur_en": "ESG solutions market",
-            "secteur_zh": "ESG解决方案市场",
-            "effet_fr": "L’intégration de ces technologies pourrait faire exploser la demande pour des solutions ESG dans les data centers, avec des retombées positives pour les entreprises spécialisées dans la durabilité.",
-            "effet_en": "Integrating these technologies may surge demand for ESG solutions in data centers, benefiting sustainability-focused firms.",
-            "effet_zh": "整合这些技术可能推动数据中心对ESG解决方案的需求激增，对专注可持续性的企业带来正面影响。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Financement des projets verts par les banques chinoises",
-            "secteur_en": "Chinese banks’ green project financing",
-            "secteur_zh": "中国银行绿色项目融资",
-            "effet_fr": "Les investissements dans ces infrastructures pourraient attirer des fonds verts des banques publiques chinoises, comme la Banque de Chine ou la Banque de Développement, renforçant ainsi leur engagement dans l’économie verte.",
-            "effet_en": "Investments in these infrastructures may attract green funds from Chinese state banks like ICBC or CDB, bolstering their commitment to the green economy.",
-            "effet_zh": "对这些基础设施的投资可能吸引中国国家银行（如工商银行或开发银行）的绿色资金，从而增强它们对绿色经济的承诺。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-15T08:53:36.025428"
       }
     ],
     "iran": [
