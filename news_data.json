@@ -1,7 +1,66 @@
 {
-  "last_updated": "24/10/2026 à 13h08",
+  "last_updated": "24/10/2026 à 17h14",
   "articles": {
     "monde": [
+      {
+        "id": "monde_929179",
+        "titre": "États adoptent des identités numériques centralisées pour services en ligne",
+        "titre_en": "States centralize digital IDs for online services",
+        "titre_zh": "各国推行集中式数字身份认证",
+        "titre_ru": "States Move to Centralize Digital IDs as More Services Go Online",
+        "titre_fa": "States Move to Centralize Digital IDs as More Services Go Online",
+        "titre_ar": "States Move to Centralize Digital IDs as More Services Go Online",
+        "titre_original": "States Move to Centralize Digital IDs as More Services Go Online",
+        "resume": "De plus en plus d’États intègrent les licences de conduire et autres documents officiels dans des applications mobiles, créant un système d’identité numérique unifiée. Cette tendance s’accélère avec la numérisation croissante des services publics et privés. Les enjeux incluent la sécurité des données et la souveraineté numérique face aux géants technologiques.",
+        "resume_en": "An increasing number of states embed driver’s licenses and official documents in mobile apps, creating unified digital identity systems. This trend accelerates with the digitalization of public and private services. Key issues involve data security and digital sovereignty against tech giants.",
+        "resume_zh": "越来越多国家将驾驶执照和官方文件整合到手机应用中，形成统一的数字身份系统。这一趋势随着公私服务数字化加速。关键问题包括数据安全和数字主权面对科技巨头。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La centralisation des identités numériques s’inscrit dans une logique de modernisation administrative depuis les années 2000, avec des précurseurs comme l’Estonie. Les États cherchent à réduire la fraude et améliorer l’efficacité des services, mais cela pose des risques de surveillance de masse et de dépendance technologique. Les conséquences immédiates incluent une simplification des démarches administratives pour les citoyens. À moyen terme, cela pourrait renforcer les inégalités numériques entre pays développés et en développement. À long terme, une guerre des normes entre États et entreprises privées (comme Apple ou Google) est probable. L’UE et les États-Unis y voient un outil de contrôle, tandis que la Chine en fait un modèle de gouvernance.",
+        "analyse_en": "Centralized digital IDs follow a post-2000 administrative modernization trend, with Estonia as an early adopter. States aim to reduce fraud and streamline services but risk mass surveillance and tech dependency. Short-term benefits include administrative efficiency for citizens. Medium-term risks involve digital divides between developed and developing nations. Long-term, a standards war between states and private firms (Apple, Google) is likely. The EU and US see this as a control tool, while China models governance around it.",
+        "analyse_zh": "集中式数字身份认证源于2000年以来的行政现代化趋势，爱沙尼亚是早期倡导者。各国旨在减少欺诈和提高服务效率，但风险包括大规模监控和技术依赖。短期内，公民行政事务简化。中期可能加剧发达国家与发展中国家的数字鸿沟。长期内，国家与私营企业（如苹果、谷歌）之间的标准战可能爆发。欧盟和美国视其为控制工具，而中国则以此为治理模式。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "pymnts.com",
+        "url": "https://www.pymnts.com/authentication/digital-identity/2026/states-move-to-centralize-digital-ids-as-more-services-go-online/",
+        "image": "https://www.pymnts.com/wp-content/uploads/2024/12/digital-ID-identity-verification.jpg",
+        "date": "2026-10-23",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Cybersécurité et protection des données",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des technologies d’identification (biométrie)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Cybersécurité et protection des données",
+            "secteur_en": "Cybersecurity and data protection",
+            "secteur_zh": "网络安全和数据保护",
+            "effet_fr": "La centralisation des identités numériques augmente les risques de fuites de données et d’attaques cyber, nécessitant des investissements massifs en sécurité.",
+            "effet_en": "Centralized digital IDs heighten data breach and cyberattack risks, demanding massive security investments.",
+            "effet_zh": "集中式数字身份认证提高了数据泄露和网络攻击风险，需要大量安全投资。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des technologies d’identification (biométrie)",
+            "secteur_en": "Biometric identification tech market",
+            "secteur_zh": "生物识别技术市场",
+            "effet_fr": "La demande accrue en solutions biométriques pourrait booster les revenus des entreprises spécialisées, mais aussi intensifier les débats éthiques sur la vie privée.",
+            "effet_en": "Growing demand for biometric solutions may drive revenues for specialized firms but also intensify privacy ethics debates.",
+            "effet_zh": "对生物识别解决方案的需求增加可能推动专业企业收入增长，但也会加剧隐私伦理争议。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-24T17:14:05.716294"
+      },
       {
         "id": "monde_470453",
         "titre": "Crise républicaine avant élections mi-mandat",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-18T10:26:59.059396"
-      },
-      {
-        "id": "monde_444306",
-        "titre": "Kentucky et Oklahoma en difficulté pour le match",
-        "titre_en": "Kentucky and Oklahoma face lineup uncertainties",
-        "titre_zh": "肯塔基和俄克拉荷马阵容不确定",
-        "titre_ru": "Отчёт о травмах: Бакстер сомнителен, Фасуси сомнительно для Оклахомы",
-        "titre_fa": "گزارش مصدومیت: سی جی بکستر مشکوک؛ مایکل فاسوسی احتمالاً بازی نخواهد کرد",
-        "titre_ar": "تقرير إصابات: باكستر مشكوك فيه؛ فاسوسي غير مؤكد في أوكلاهوما",
-        "titre_original": "Kentucky vs. Oklahoma Injury Report: CJ Baxter questionable; Michael Fasusi doubtful",
-        "resume": "Le match entre Kentucky et Oklahoma est menacé par les blessures de joueurs clés, notamment CJ Baxter, dont la participation reste incertaine, et Michael Fasusi, considéré comme douteux. Oklahoma pourrait même devoir aligner deux remplaçants en défense, réduisant ainsi son effectif de départ. Ces absences pourraient profondément affecter le déroulement du match et les stratégies tactiques des deux équipes.",
-        "resume_en": "The Kentucky-Oklahoma match is at risk due to key player injuries, with CJ Baxter’s participation uncertain and Michael Fasusi listed as doubtful. Oklahoma may have to start two substitutes in defense, weakening their starting lineup. These absences could significantly impact the game’s outcome and tactical strategies for both teams.",
-        "resume_zh": "肯塔基和俄克拉荷马之间的比赛因关键球员受伤而受到威胁，其中CJ巴克斯的参赛状态不确定，迈克尔·法苏西被列为疑似伤员。俄克拉荷马队甚至可能需要在防线上起用两名替补，削弱了首发阵容。这些缺阵可能严重影响比赛结果和两队的战术布局。",
-        "resume_ru": "Команда «Кентукки» всё ещё не уверена, сыграет ли в матче Си Джей Бакстер, травмировавшийся ранее. «Оклахома» вероятно будет лишена двух игроков стартового состава из-за травм. Это может существенно повлиять на ход игры и стратегию обеих команд.",
-        "resume_fa": "تیم «کنتاکی» هنوز مطمئن نیست که سی جی بکستر، که پیش‌تر مصدوم شده بود، در بازی شرکت خواهد کرد. «اوکلاهوما» احتمالاً از دو بازیکن اصلی خود محروم خواهد شد. این موضوع می‌تواند تأثیر قابل توجهی بر جریان بازی و استراتژی هر دو تیم داشته باشد.",
-        "resume_ar": "فريق «كنتاكي» لا يزال غير متأكد من مشاركة سي جاي باكستر، الذي أصيب سابقا، في المباراة. قد يفقد فريق «أوكلاهما» اثنين من اللاعبين الأساسيين بسبب إصاباتهم. هذا قد يؤثر بشكل كبير على سير المباراة واستراتيجية الفريقين.",
-        "analyse_detaillee": "Les blessures en sport universitaire américain, notamment dans le football, sont fréquentes et souvent liées à des conditions de jeu intensives ou à des carences dans la préparation physique. Les conséquences immédiates incluent une baisse de performance et un déséquilibre tactique, tandis que les équipes doivent s’adapter en temps réel. À moyen terme, cela peut influencer les classements et les sélections pour les tournois nationaux, comme le College Football Playoff. Long terme, les universités et les programmes sportifs sont incités à renforcer leurs protocoles médicaux pour limiter ces risques. Les joueurs comme Baxter deviennent des variables critiques, dont la santé peut basculer un match ou une saison entière.",
-        "analyse_en": "Injuries in American college sports, particularly football, are common due to intense play or inadequate physical preparation. Immediate consequences include performance drops and tactical imbalances, forcing teams to adapt on the fly. Medium-term, this affects rankings and selections for national tournaments like the College Football Playoff. Long-term, universities and athletic programs are pressured to strengthen medical protocols to mitigate risks. Players like Baxter become critical variables whose health can tip a game or an entire season.",
-        "analyse_zh": "美国大学体育，特别是美式足球，因高强度训练或体能准备不足而频繁发生伤病。短期影响包括表现下滑和战术失衡，球队需要实时调整。中期内，这会影响排名和全国锦标赛（如大学美式足球锦标赛）的选拔。长期来看，大学和体育项目被迫加强医疗保障体系以减少风险。像巴克斯这样的球员成为关键变量，其健康状况可能决定一场比赛或整个赛季的命运。",
-        "analyse_ru": "Травмы ключевых игроков могут изменить тактику обеих команд, заставляя их искать альтернативные решения. Для «Кентукки» это риск, так как Бакстер — один из лидеров атаки. «Оклахома» может перейти на более консервативную игру, чтобы минимизировать ущерб. Фанаты обеих команд ожидают, что тренерский штаб найдет замену, но результат матча может стать неопределенным. В долгосрочной перспективе такие травмы подчеркивают необходимость более тщательной подготовки игроков.",
-        "analyse_fa": "مصدومیت بازیکن‌های کلیدی می‌تواند تاکتیک هر دو تیم را تغییر دهد و آن‌ها را مجبور به جستجوی راه‌حل‌های جایگزین کند. برای «کنتاکی»، این یک ریسک است، زیرا بکستر یکی از رهبران حمله تیم است. «اوکلاهوما» ممکن است به بازی محافظه‌کارانه‌تری روی آورد تا از آسیب بیشتر جلوگیری کند. طرفداران هر دو تیم انتظار دارند که تیم مربی جایگزین مناسب پیدا کند، اما نتیجه بازی ممکن است نامشخص باقی بماند. در بلندمدت، چنین مصدومیت‌هایی اهمیت آماده‌سازی دقیق‌تر بازیکن‌ها را برجسته می‌کنند.",
-        "analyse_ar": "إصابات اللاعبين الأساسيين قد تغير استراتيجية الفريقين، مما يجبرهما على البحث عن حلول بديلة. بالنسبة لـ«كنتاكي»، هذا خطر، حيث أن باكستر أحد قادة الهجوم. قد يتحول فريق «أوكلاهما» إلى لعب أكثر حذرًا لتقليل الضرر. يتوقع المعجبون من فريق التدريب العثور على بديل، لكن نتيجة المباراة قد تصبح غير مؤكدة. على المدى الطويل، تبرز هذه الإصابات أهمية استعداد أفضل للاعبين.",
-        "categorie": "Sport",
-        "source": "A Sea Of Blue",
-        "url": "https://www.aseaofblue.com/kentucky-wildcats-football/184189/oklahoma-injury-report-cj-baxter-michael-fasusi-nic-anderson",
-        "image": "https://s.yimg.com/lo/mysterio/api/ee0ee6d7a1b269f54bca072e0ab0c3cb9bf615ae33c678b2a3bec8104803d721/lightyear_networkapi/resizefill_w1141_h856%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F77a6bb0f2e0a8f73aac93a3cfbfe372c.jpg",
-        "date": "2026-10-17",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Assurance sportive et gestion des risques médicaux",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché des transferts étudiants-athlètes (NIL)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance sportive et gestion des risques médicaux",
-            "secteur_en": "Sports insurance and medical risk management",
-            "secteur_zh": "体育保险和医疗风险管理",
-            "effet_fr": "Les absences répétées de joueurs clés poussent les universités à investir dans des assurances médicales plus robustes et des programmes de prévention pour couvrir les coûts élevés des blessures.",
-            "effet_en": "Frequent key player absences drive universities to invest in stronger medical insurance and prevention programs to cover high injury costs.",
-            "effet_zh": "关键球员频繁缺阵迫使大学加大对医疗保险和预防项目的投资，以应对高昂的伤病成本。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des transferts étudiants-athlètes (NIL)",
-            "secteur_en": "Student-athlete transfer market (NIL)",
-            "secteur_zh": "大学运动员转会市场（NIL）",
-            "effet_fr": "Les blessures réduisent la valeur marchande des joueurs, affectant les accords *Name, Image, Likeness* (NIL) et les opportunités de recrutement pour les équipes en difficulté.",
-            "effet_en": "Injuries lower players' market value, impacting NIL deals and recruitment opportunities for struggling teams.",
-            "effet_zh": "伤病降低了球员的市场价值，影响NIL协议和处于困境的球队的招募机会。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-18T00:40:12.170541"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_436660",
+        "titre": "Trump attaque un journaliste NBC sur une pub controversée",
+        "titre_en": "Trump attacks NBC reporter over controversial ad",
+        "titre_zh": "特朗普抨击NBC记者关于争议广告",
+        "titre_ru": "Donald Trump Lashes Out At NBC News Reporter As She Presses Him On Why He Supports Ad That Has Been Condemned By Democrats And Republicans",
+        "titre_fa": "Donald Trump Lashes Out At NBC News Reporter As She Presses Him On Why He Supports Ad That Has Been Condemned By Democrats And Republicans",
+        "titre_ar": "Donald Trump Lashes Out At NBC News Reporter As She Presses Him On Why He Supports Ad That Has Been Condemned By Democrats And Republicans",
+        "titre_original": "Donald Trump Lashes Out At NBC News Reporter As She Presses Him On Why He Supports Ad That Has Been Condemned By Democrats And Republicans",
+        "resume": "Donald Trump a réagi violemment contre une journaliste de NBC lors d’un échange sur son soutien à une publicité de Vivek Ramaswamy, jugée inappropriée par les deux partis politiques. Cette polémique s’inscrit dans une dynamique de tensions croissantes entre l’administration Trump et les médias traditionnels. Les critiques visent notamment le contenu politique et les financements derrière cette campagne publicitaire.",
+        "resume_en": "Donald Trump aggressively lashed out at an NBC reporter during an interview about his support for a Vivek Ramaswamy ad, condemned by both Democrats and Republicans. The controversy highlights escalating tensions between the Trump administration and mainstream media. The ad’s political messaging and funding sources are under scrutiny.",
+        "resume_zh": "特朗普在采访中激烈抨击NBC记者，因他支持一则被民主党和共和党共同谴责的拉马斯瓦米广告。此争议反映了特朗普政府与传统媒体日益升级的紧张关系。广告的政治言论和资金来源受到质疑。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les attaques médiatiques de Trump s’inscrivent dans une stratégie de polarisation politique depuis 2016, où les médias sont souvent présentés comme des ennemis. Le soutien à Ramaswamy, figure controversée du mouvement conservateur, révèle une alliance avec des acteurs aux méthodes agressives. Les conséquences immédiates incluent une dégradation de la crédibilité des médias et une radicalisation des débats. À moyen terme, cela pourrait renforcer les bulles informationnelles et affaiblir la cohésion démocratique. À long terme, une fragmentation accrue des sources d’information est probable, avec des risques pour la stabilité institutionnelle. Les républicains modérés et les démocrates y voient une manœuvre électorale, tandis que les médias traditionnels dénoncent une instrumentalisation politique.",
+        "analyse_en": "Trump’s media attacks align with his 2016-era strategy of political polarization, framing journalists as adversaries. His support for Vivek Ramaswamy, a controversial conservative figure, signals alliances with aggressive political actors. Short-term consequences include media credibility erosion and heightened debate radicalization. Medium-term risks involve deepened information bubbles and democratic cohesion threats. Long-term, fragmented information sources may dominate, undermining institutional stability. Moderate Republicans and Democrats view this as an electoral tactic, while mainstream media condemn political manipulation.",
+        "analyse_zh": "特朗普对媒体的抨击源于2016年以来的政治极化战略，将记者视为敌对力量。他支持争议人物拉马斯瓦米，反映了与激进政治人物的联盟。短期内，媒体的公信力下降，辩论更加极端化。中期风险包括信息茧房加深和民主凝聚力受损。长期来看，信息源分裂可能主导，削弱制度稳定性。温和的共和党人和民主党人认为这是竞选策略，而传统媒体谴责政治操控。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/10/trump-nbc-news-amy-acton-mother-ad-1237171781/",
+        "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2301640476.jpg?w=1024",
+        "date": "2026-10-23",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Médias traditionnels (information et publicité)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Finance politique (dons et lobbying)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Médias traditionnels (information et publicité)",
+            "secteur_en": "Traditional media (information and advertising)",
+            "secteur_zh": "传统媒体（信息和广告）",
+            "effet_fr": "La baisse de confiance envers les médias traditionnels pourrait réduire les revenus publicitaires et les abonnements payants, affectant leur modèle économique.",
+            "effet_en": "Declining trust in traditional media may cut ad revenue and paid subscriptions, threatening their business model.",
+            "effet_zh": "媒体公信力下降可能减少广告收入和付费订阅，威胁其商业模式。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Finance politique (dons et lobbying)",
+            "secteur_en": "Political finance (donations and lobbying)",
+            "secteur_zh": "政治金融（捐款和游说）",
+            "effet_fr": "Les polémiques autour des financements de campagnes pourraient intensifier les régulations et les contrôles, augmentant les coûts pour les acteurs politiques.",
+            "effet_en": "Controversies over campaign funding may trigger stricter regulations, increasing costs for political actors.",
+            "effet_zh": "竞选资金争议可能加强监管，增加政治人物的成本。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-24T17:14:05.716274"
+      },
       {
         "id": "usa_258575",
         "titre": "Arsenal et Liverpool traquent Batrakov pour 50M£",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-18T10:26:59.059420"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_921700",
-        "titre": "Gift Monday quitte Washington Spirit pour Boston Legacy",
-        "titre_en": "Gift Monday leaves Spirit for Boston Legacy",
-        "titre_zh": "吉夫·蒙代离开华盛顿精神加盟波士顿遗产",
-        "titre_ru": "Манди прощается с «Вашингтон Спирит» после перехода в Бостон",
-        "titre_fa": "ماندی به «واشینگتن اسپیریت» خداحافظی کرد پس از انتقال به بستون",
-        "titre_ar": "مندي يقول وداعا لـ «واشنطن سبيريت» بعد انتقاله إلى بوسطن ليجاسي",
-        "titre_original": "Monday bids Washington Spirit farewell after Boston switch",
-        "resume": "Gift Monday, star des Washington Spirit, a annoncé son départ émotionnel après son transfert vers le Boston Legacy, une autre équipe de la NWSL. Ce changement marque la fin d’une ère pour le club de la capitale américaine, où il a brillé pendant plusieurs saisons. La NWSL voit ainsi s’accélérer les mouvements de joueurs entre franchises, reflétant une dynamique de marché en pleine mutation.",
-        "resume_en": "Gift Monday, a star forward for Washington Spirit, emotionally bid farewell after joining Boston Legacy in the NWSL. This move signals the end of an era for the D.C.-based team, where he was a key player over multiple seasons. The NWSL’s player transfers are intensifying, illustrating a shifting market landscape.",
-        "resume_zh": "吉夫·蒙代作为华盛顿精神队的明星前锋，在加盟波士顿遗产后情绪低落地告别球队。这标志着华盛顿队一个时代的结束，他曾在多个赛季为球队贡献出色表现。NWSL球员转会加速，反映了联赛市场的变化趋势。",
-        "resume_ru": "Форвард «Супер Фалконс» Гифт Манди эмоционально попрощался с клубом «Вашингтон Спирит» после завершения перехода в команду НУСЛ «Бостон Легиси». Переход стал важным шагом в карьере игрока, который теперь продолжит выступления в новой команде. Это событие вызвало волну эмоций среди болельщиков и партнеров по команде.",
-        "resume_fa": "هفت‌فورد «سوپر فالکنز» گیف ماندی به‌صورت احساسی از تیم «واشینگتن اسپیریت» خداحافظی کرد پس از انتقال به تیم هم‌لیگ «بستون لیگیسی». این انتقال یک قدم مهم در مسیر حرفه‌ای او محسوب می‌شود و او اکنون در تیم جدید ادامه فعالیت خواهد داد. این رویداد موجی از احساسات در بین طرفداران و هم تیمی‌هایش ایجاد کرد.",
-        "resume_ar": "هاجم فريق «سوبر فالكونز» جيفت مندي قال وداعا مشحونا لفريق «واشنطن سبيريت» بعد انتقاله إلى فريق «بوسطن ليجاسي» في نفس الدوري. هذا الانتقال يمثل خطوة هامة في مسيرة اللاعب، الذي سيستمر الآن في اللعب لفريق جديد. هذا الحدث أثار موجة من المشاعر بين المعجبين وأعضاء الفريق السابقين.",
-        "analyse_detaillee": "Ce transfert s’inscrit dans une tendance croissante de mobilité des joueurs dans la NWSL, où les clubs cherchent à renforcer leurs effectifs via des acquisitions stratégiques. Les Spirit, en difficulté financière et sportive ces dernières années, voient leur attractivité diminuer face à des rivaux comme Boston Legacy, mieux positionnés économiquement. À court terme, cela pourrait fragiliser la stabilité des clubs moins solides, tandis que les joueurs bénéficient d’opportunités accrues. À moyen terme, la NWSL pourrait voir une concentration des talents dans quelques franchises, réduisant la compétitivité globale. Long terme, cela dépendra des investissements futurs et de la capacité des clubs à innover dans leur modèle économique. Les joueurs comme Monday deviennent des pions géopolitiques du sport féminin, avec des enjeux de visibilité et de revenus liés à leur mobilité.",
-        "analyse_en": "This transfer reflects a growing trend of player mobility in the NWSL, where teams strategically acquire talent to bolster their rosters. Washington Spirit, facing financial and on-field struggles, lose appeal compared to better-funded rivals like Boston Legacy. Short-term, this could destabilize weaker clubs, while players gain more opportunities. Medium-term, the NWSL might see talent concentration in a few franchises, reducing overall competitiveness. Long-term prospects hinge on future investments and clubs' ability to innovate economically. Players like Monday become geopolitical assets in women’s sports, with visibility and revenue tied to their transfers.",
-        "analyse_zh": "这笔转会反映了NWSL球员流动性增强的趋势，各队通过战略性引援来强化阵容。华盛顿精神队近年在财务和赛场上面临困境，吸引力不足，与经济实力更强的波士顿遗产相比处于劣势。短期内，这可能加剧弱队的不稳定性，而球员则获得更多机会。中期内，NWSL可能出现部分俱乐部集中人才，降低整体竞争力。长期前景取决于未来的投资和俱乐部经济模式的创新能力。像蒙代这样的球员成为女子足球的地缘政治筹码，其流动性与曝光度和收入直接相关。",
-        "analyse_ru": "Переход Манди в «Бостон Легиси» связан с желанием игрока найти новую команду с более амбициозными планами на будущее. «Вашингтон Спирит» потерял ключевого форварда, что может повлиять на результативность команды в текущем сезоне. Для «Бостона» это приобретение может стать важным шагом в борьбе за чемпионство. Фанаты «Вашингтона» расстроены, но понимают необходимость изменений. В будущем подобные трансферы могут стать нормой для НУСЛ, где команды активно обмениваются талантами.",
-        "analyse_fa": "انتقال ماندی به «بستون لیگیسی» با هدف یافتن یک تیم با برنامه‌های آینده‌نگرتر مرتبط است. «واشینگتن اسپیریت» از یک هافورد کلیدی محروم شده که می‌تواند بر عملکرد تیم در فصل جاری تأثیر بگذارد. برای «بستون»، این خرید یک قدم مهم در رقابت برای قهرمانی محسوب می‌شود. طرفداران «واشینگتن» ناخشنود هستند اما تغییرات را ضروری می‌دانند. در آینده، چنین انتقالاتی ممکن است در لیگ زنان فوتبال آمریکا (NWSL) معمول شوند و تیم‌ها به‌طور فعال با یکدیگر تالانت‌ها را مبادله کنند.",
-        "analyse_ar": "انتقال مندي إلى «بوسطن ليجاسي» يرتبط برغبة اللاعب في البحث عن فريق جديد أكثر طموحًا في المستقبل. فقد فريق «واشنطن سبيريت» لاعبًا أساسيًا في خط الهجوم، ما قد يؤثر على نتائج الفريق في الموسم الحالي. بالنسبة لبوسطن، هذا الاستحواذ يمثل خطوة مهمة في المنافسة على البطولة. قد يشعر المعجبون بـ«واشنطن» بالأسف، لكنهم يفهمون ضرورة التغيير. في المستقبل، قد تصبح مثل هذه الانتقالات أكثر شيوعًا في الدوري الوطني لكرة القدم النسائية، حيث تتداول الفرق المواهب بشكل نشط.",
-        "categorie": "Sport",
-        "source": "The Punch",
-        "url": "https://punchng.com/monday-bids-washington-spirit-farewell-after-boston-switch/",
-        "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/16223458/Screenshot-2026-10-16-223408_1792186498-1200x630.webp",
-        "date": "2026-10-17",
-        "pays": "usa",
+        "id": "chine_228661",
+        "titre": "Pékin évite un sommet trilatéral Chine-Russie-États-Unis",
+        "titre_en": "Beijing avoids China-Russia-US trilateral summit",
+        "titre_zh": "北京避免中俄美三边峰会",
+        "titre_ru": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
+        "titre_fa": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
+        "titre_ar": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
+        "titre_original": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
+        "resume": "Xi Jinping semble privilégier une approche prudente pour éviter un sommet trilatéral impliquant la Chine, la Russie et les États-Unis, craignant des questions stratégiques embarrassantes. Cette décision reflète les tensions géopolitiques actuelles et les calculs internes de Pékin. L’UE et l’Ukraine pourraient en subir les conséquences indirectes.",
+        "resume_en": "Xi Jinping appears to favor a cautious approach to avoid a China-Russia-US trilateral summit, fearing awkward strategic questions. This decision mirrors current geopolitical tensions and Beijing’s internal calculations. The EU and Ukraine may face indirect repercussions.",
+        "resume_zh": "习近平似乎选择谨慎避免中俄美三边峰会，担心敏感的战略问题。这一决定反映当前的地缘政治紧张局势和北京的内部权衡。欧盟和乌克兰可能遭受间接影响。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La Chine, depuis les années 2000, évite les alliances formelles pour préserver son indépendance stratégique, comme le montre son refus d’adhérer à l’OTAN ou de s’aligner sur Moscou. Un sommet trilatéral poserait des dilemmes moraux et diplomatiques, notamment sur la guerre en Ukraine. À court terme, cela renforce l’isolement relatif de la Russie, mais affaiblit aussi les efforts de médiation internationale. À moyen terme, Pékin pourrait privilégier des dialogues bilatéraux pour éviter les engagements contraignants. À long terme, une fragmentation accrue des alliances est probable, avec une Chine jouant un rôle de médiateur informel. L’UE y voit une opportunité de désescalade, tandis que Moscou interprète cela comme une trahison potentielle.",
+        "analyse_en": "China, since the 2000s, avoids formal alliances to preserve strategic independence, as seen in its refusal to join NATO or align with Moscow. A trilateral summit would create moral and diplomatic dilemmas, especially over Ukraine. Short-term, this strengthens Russia’s relative isolation but weakens international mediation efforts. Medium-term, Beijing may favor bilateral talks to avoid binding commitments. Long-term, fragmented alliances are likely, with China playing an informal mediator role. The EU sees this as a de-escalation opportunity, while Moscow interprets it as potential betrayal.",
+        "analyse_zh": "中国自2000年以来避免正式同盟以保持战略独立，如拒绝加入北约或与莫斯科对齐。三边峰会会带来道德和外交困境，特别是关于乌克兰战争。短期内，这加强了俄罗斯的相对孤立，但削弱了国际调解努力。中期内，北京可能更倾向于双边对话以避免约束性承诺。长期内，同盟分裂可能加剧，中国可能扮演非正式调解者角色。欧盟视此为缓解机会，而俄罗斯则认为这是潜在背叛。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit/",
+        "image": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-24-022025.jpg",
+        "date": "2026-10-23",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des transferts sportifs (NWSL)",
-            "hausse": true
+            "label": "▼ Marché des énergies fossiles (Russie)",
+            "hausse": false
           },
           {
-            "label": "▼ Financement des clubs de football féminin",
-            "hausse": false
+            "label": "▲ Technologies de surveillance (Chine)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des transferts sportifs (NWSL)",
-            "secteur_en": "NWSL transfer market",
-            "secteur_zh": "NWSL转会市场",
-            "effet_fr": "Ce mouvement renforce la spéculation sur les prix des joueurs dans la ligue, poussant les clubs à investir massivement pour éviter de perdre leurs talents.",
-            "effet_en": "This transfer fuels speculation on player valuations in the league, pressuring clubs to heavily invest to retain their talent.",
-            "effet_zh": "此转会加剧了联赛球员身价的投机，迫使俱乐部大举投资以避免失去核心球员。",
-            "hausse": true
+            "secteur_fr": "Marché des énergies fossiles (Russie)",
+            "secteur_en": "Fossil fuel market (Russia)",
+            "secteur_zh": "俄罗斯化石燃料市场",
+            "effet_fr": "L’isolement accru de la Russie pourrait faire chuter les prix de l’énergie à moyen terme, mais aussi accélérer sa diversification énergétique vers la Chine.",
+            "effet_en": "Russia’s growing isolation may drive down energy prices in the medium term but also accelerate its energy diversification toward China.",
+            "effet_zh": "俄罗斯的孤立加剧可能在中期内使能源价格下降，但也会加速其向中国的能源多元化转型。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Financement des clubs de football féminin",
-            "secteur_en": "Women's football club financing",
-            "secteur_zh": "女子足球俱乐部融资",
-            "effet_fr": "Les écarts financiers entre franchises s’accentuent, créant un déséquilibre compétitif qui pourrait marginaliser les clubs moins dotés économiquement.",
-            "effet_en": "Financial disparities between franchises are widening, creating a competitive imbalance that may marginalize underfunded clubs.",
-            "effet_zh": "俱乐部之间的财务差距扩大，导致竞争不平衡，可能边缘化经济实力较弱的球队。",
-            "hausse": false
+            "secteur_fr": "Technologies de surveillance (Chine)",
+            "secteur_en": "Surveillance technologies (China)",
+            "secteur_zh": "中国监控技术",
+            "effet_fr": "L’évitement du sommet pourrait renforcer les investissements chinois dans les technologies de surveillance pour compenser les pressions géopolitiques.",
+            "effet_en": "Avoiding the summit may boost China’s investments in surveillance tech to offset geopolitical pressures.",
+            "effet_zh": "避免峰会可能加强中国在监控技术上的投资，以应对地缘政治压力。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-18T00:40:12.170518"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-24T17:14:05.716302"
+      },
       {
         "id": "chine_512994",
         "titre": "Match de football Weber vs Montana State",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-15T08:53:36.025406"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_31752",
-        "titre": "Outil open-source expose données FDA taïwanaises aux IA",
-        "titre_en": "Open-source tool exposes Taiwan FDA drug data to LLMs",
-        "titre_zh": "开源工具向AI公开台湾FDA药品数据",
-        "titre_ru": "MCP сервер открывает данные FDA Тайваня для моделей LLM",
-        "titre_fa": "سرور MCP داده‌های مجوز دارویی و برگه‌های اطلاعاتی FDA تایوان را برای کلاینت‌های LLM باز می‌کند",
-        "titre_ar": "خادم MCP يفتح بيانات ترخيص الأدوية والمعلومات المصاحبة لFDA تايوان أمام عملاء LLM",
-        "titre_original": "taiwan-fda-mcp 0.9.0",
-        "resume": "Un serveur open-source, MCP 0.9.0, met à disposition des données sur les licences et notices des médicaments taïwanais (TFDA) pour les clients LLM. Ce projet indépendant n’est pas produit par l’agence elle-même, mais facilite l’accès aux informations réglementaires. Il pourrait accélérer les recherches pharmaceutiques et l’innovation en Asie.",
-        "resume_en": "An open-source MCP 0.9.0 server exposes Taiwan FDA (TFDA) drug license and package insert data to LLM clients. This independent project is not produced by the agency itself but enables regulatory information access. It may accelerate pharmaceutical research and innovation in Asia.",
-        "resume_zh": "开源MCP 0.9.0服务器向LLM客户端公开台湾FDA（TFDA）药品许可和说明书数据。该独立项目非官方产品，但便利了监管信息的获取。它可能加速亚洲的药物研究和创新。",
-        "resume_ru": "MCP — это независимый проект с открытым исходным кодом, который предоставляет доступ к данным о лицензиях на лекарства и вкладышах-вкладышах Тайваньского управления по контролю за продуктами питания и лекарствами (TFDA). Сервер не является продуктом TFDA, а лишь обёртка для удобного взаимодействия с данными. Проект может быть полезен для разработчиков моделей искусственного интеллекта, работающих с медицинскими данными.",
-        "resume_fa": "MCP یک پروژه مستقل با کد منبع باز است که دسترسی به داده‌های مجوز داروها و برگه‌های اطلاعاتی اداره کنترل دارو و غذا تایوان (TFDA) را فراهم می‌کند. این سرور محصول TFDA نیست، بلکه یک لایه رابط برای دسترسی آسان به داده‌ها است. این پروژه می‌تواند برای توسعه‌دهندگان مدل‌های هوش مصنوعی که با داده‌های پزشکی کار می‌کنند مفید باشد.",
-        "resume_ar": "MCP هو مشروع مستقل مفتوح المصدر يوفر الوصول إلى بيانات تراخيص الأدوية والمعلومات المصاحبة لوكالة إدارة الغذاء والدواء في تايوان (TFDA). هذا الخادم ليس منتجًا من TFDA، بل هو غلاف لتسهيل التفاعل مع البيانات. قد يكون هذا المشروع مفيدًا للمطورين الذين يعملون على نماذج الذكاء الاصطناعي التي تتعامل مع بيانات طبية.",
-        "analyse_detaillee": "Ce projet s’inscrit dans l’essor des données ouvertes et de l’IA, où la transparence réglementaire devient un levier clé pour l’innovation. Les enjeux incluent la compétitivité pharmaceutique de Taïwan face à la Chine et aux États-Unis. Les causes profondes sont la volonté de Taïwan de renforcer son écosystème tech et son attractivité pour les investissements étrangers. Court terme, cela pourrait stimuler les partenariats entre startups locales et géants tech. Moyen terme, cela pourrait influencer les politiques de données en Asie. Long terme, cela pourrait positionner Taïwan comme un hub régional pour la R&D pharmaceutique. Les acteurs clés sont les startups taïwanaises, les institutions académiques et les régulateurs.",
-        "analyse_en": "This project aligns with the rise of open data and AI, where regulatory transparency is a key innovation driver. Stakes include Taiwan’s pharmaceutical competitiveness against China and the US. Root causes involve Taiwan’s push to strengthen its tech ecosystem and attract foreign investment. Short-term, it may boost local startups and tech giants’ partnerships. Medium-term, it could shape Asia’s data policies. Long-term, it may position Taiwan as a regional R&D hub. Key actors include Taiwanese startups, academic institutions, and regulators.",
-        "analyse_zh": "该项目与开放数据和AI的发展趋势相符，其中监管透明度成为创新的关键驱动力。主要影响在于台湾药品行业与中国和美国的竞争力。深层原因包括台湾加强其科技生态系统和吸引外资的意愿。短期内，这可能促进本地初创企业与科技巨头的合作。中期内，它可能影响亚洲的数据政策。长期来看，台湾可能成为区域药物研发的枢纽。关键利益相关者包括台湾初创企业、学术机构和监管者。",
-        "analyse_ru": "Открытие данных TFDA может способствовать развитию медицинских исследований и улучшению качества лекарств на Тайване. Однако важно учитывать вопросы конфиденциальности и защиты персональных данных, так как доступ к медицинским данным требует строгого регулирования. Проект MCP может стать платформой для коллаборации между учёными и разработчиками, но необходимо гарантировать соответствие стандартам безопасности. Это также может стимулировать рост локальных технологических компаний, работающих с данными здравоохранения. В долгосрочной перспективе подобные инициативы могут повысить конкурентоспособность Тайваня на глобальном рынке инноваций.",
-        "analyse_fa": "راه‌اندازی داده‌های TFDA می‌تواند به پیشرفت تحقیقات پزشکی و بهبود کیفیت داروها در تایوان کمک کند. اما باید به مسائل حریم خصوصی و حفاظت از داده‌های شخصی توجه کرد، زیرا دسترسی به داده‌های پزشکی نیاز به تنظیمات دقیق دارد. پروژه MCP می‌تواند پلتفرمی برای همکاری بین دانشمندان و توسعه‌دهندگان شود، اما باید اطمینان حاصل شود که استانداردهای امنیت رعایت می‌شوند. این همچنین می‌تواند رشد شرکت‌های فناوری محلی که با داده‌های بهداشت درگیر هستند را تشویق کند. در بلندمدت، چنین اقداماتی می‌توانند رقابت‌پذیری تایوان در بازار جهانی نوآوری را افزایش دهند.",
-        "analyse_ar": "فتح بيانات TFDA قد يساهم في تطوير الأبحاث الطبية وتحسين جودة الأدوية في تايوان. ومع ذلك، يجب مراعاة قضايا الخصوصية وحماية البيانات الشخصية، حيث يتطلب الوصول إلى بيانات طبية تنظيمًا صارمًا. قد يصبح مشروع MCP منصة للتعاون بين العلماء والمطورين، ولكن يجب ضمان الامتثال للمعايير الأمنية. هذا أيضًا قد يشجع نمو الشركات المحلية للتكنولوجيا التي تعمل مع بيانات الرعاية الصحية. على المدى الطويل، قد تزيد مثل هذه المبادرات من التنافسية في تايوان في سوق الابتكار العالمي.",
-        "categorie": "Technologie",
-        "source": "Pypi.org",
-        "url": "https://pypi.org/project/taiwan-fda-mcp/0.9.0/",
-        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
-        "date": "2026-10-12",
-        "pays": "chine",
+        "id": "russie_885567",
+        "titre": "SpaceX limite Starlink en Ukraine, impact militaire croissant",
+        "titre_en": "SpaceX restricts Starlink in Ukraine, military toll rises",
+        "titre_zh": "SpaceX限制乌克兰Starlink，军事损失上升",
+        "titre_ru": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+        "titre_fa": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+        "titre_ar": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+        "titre_original": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+        "resume": "Depuis la semaine dernière, l’Ukraine subit des restrictions sur une version sécurisée de Starlink, Starshield, essentiel pour ses opérations militaires contre la Russie. Cette limitation aggrave la vulnérabilité des forces ukrainiennes face aux cyberattaques. Musk et Washington sont accusés de compromettre l’aide américaine.",
+        "resume_en": "Since last week, Ukraine faces restrictions on Starshield, a secure Starlink version critical for its military operations against Russia. This limitation increases Ukrainian forces’ vulnerability to cyberattacks. Musk and Washington are accused of undermining US aid.",
+        "resume_zh": "自上周以来，乌克兰遭遇Starlink安全版本Starshield的限制，该系统对其对俄军事行动至关重要。这一限制加剧了乌克兰军队面对网络攻击的脆弱性。马斯克和华盛顿被指损害美国援助。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les satellites Starlink, déployés massivement depuis 2022, ont révolutionné la communication militaire ukrainienne, mais dépendent des décisions de SpaceX, contrôlée par Musk. Les restrictions actuelles s’inscrivent dans une stratégie plus large de désengagement américain en Ukraine, reflétant les divisions internes à Washington. À court terme, cela affaiblit la résistance ukrainienne et renforce la position russe. À moyen terme, cela pourrait accélérer la recherche de solutions alternatives (comme les satellites européens) ou une dépendance accrue à la Chine. À long terme, une fragmentation des alliances technologiques est probable, avec des risques pour la sécurité cybernétique globale. L’Ukraine dénonce une trahison, tandis que Moscou y voit une opportunité stratégique.",
+        "analyse_en": "Starlink satellites, deployed massively since 2022, revolutionized Ukrainian military communications but depend on SpaceX decisions controlled by Musk. Current restrictions reflect broader US disengagement in Ukraine, mirroring Washington’s internal divisions. Short-term, this weakens Ukrainian resistance and strengthens Russia’s position. Medium-term, it may accelerate alternative solutions (like European satellites) or increased reliance on China. Long-term, fragmented tech alliances are likely, with global cybersecurity risks. Ukraine denounces betrayal, while Moscow sees a strategic opportunity.",
+        "analyse_zh": "自2022年以来大规模部署的Starlink卫星革命了乌克兰军事通信，但依赖于由马斯克控制的SpaceX的决定。当前限制反映了美国在乌克兰的更广泛撤退，折射华盛顿内部的分歧。短期内，这削弱了乌克兰的抵抗力，加强了俄罗斯的地位。中期内，这可能加速寻找替代解决方案（如欧洲卫星）或对中国的依赖增加。长期内，技术同盟分裂可能加剧，全球网络安全面临风险。乌克兰谴责背叛，而俄罗斯则看作战略机遇。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108441642-1792585770300-gettyimages-2300463140-ukrinform-ukrainia261016_npze8.jpeg?v=1792585811&w=1920&h=1080",
+        "date": "2026-10-23",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Biotechnologie et recherche pharmaceutique",
-            "hausse": true
+            "label": "▼ Secteur spatial et satellites (États-Unis/Ukraine)",
+            "hausse": false
           },
           {
-            "label": "▲ Finance et investissements en santé",
+            "label": "▲ Cybersécurité et défense électronique (Russie)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Biotechnologie et recherche pharmaceutique",
-            "secteur_en": "Biotechnology and pharmaceutical research",
-            "secteur_zh": "生物技术与药物研究",
-            "effet_fr": "L’accès facilité aux données TFDA pourrait accélérer les essais cliniques et réduire les coûts de R&D pour les laboratoires internationaux.",
-            "effet_en": "Easier access to TFDA data may speed up clinical trials and cut R&D costs for international labs.",
-            "effet_zh": "对TFDA数据的便捷获取可能加速临床试验并降低国际实验室的研发成本。",
-            "hausse": true
+            "secteur_fr": "Secteur spatial et satellites (États-Unis/Ukraine)",
+            "secteur_en": "Space sector and satellites (US/Ukraine)",
+            "secteur_zh": "航天和卫星行业（美国/乌克兰）",
+            "effet_fr": "Les restrictions sur Starlink pourraient réduire les investissements américains dans les infrastructures spatiales ukrainiennes et accélérer le développement de alternatives européennes ou chinoises.",
+            "effet_en": "Starlink restrictions may cut US investments in Ukrainian space infrastructure and speed up European or Chinese alternatives.",
+            "effet_zh": "对Starlink的限制可能减少美国对乌克兰航天基础设施的投资，并加速欧洲或中国替代方案的发展。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Finance et investissements en santé",
-            "secteur_en": "Healthcare finance and investments",
-            "secteur_zh": "医疗健康金融与投资",
-            "effet_fr": "Les fonds spécialisés pourraient augmenter leurs investissements dans les startups taïwanaises du secteur santé, anticipant une croissance des innovations.",
-            "effet_en": "Specialized funds may boost investments in Taiwanese health startups, anticipating innovation growth.",
-            "effet_zh": "专业基金可能增加对台湾医疗初创企业的投资，预期创新增长。",
+            "secteur_fr": "Cybersécurité et défense électronique (Russie)",
+            "secteur_en": "Cybersecurity and electronic defense (Russia)",
+            "secteur_zh": "俄罗斯网络安全和电子防御",
+            "effet_fr": "La vulnérabilité accrue des forces ukrainiennes pourrait inciter la Russie à renforcer ses capacités de cyberattaques et de brouillage, stimulant ce secteur militaire.",
+            "effet_en": "Ukraine’s increased vulnerability may push Russia to bolster cyberattack and jamming capabilities, boosting this military sector.",
+            "effet_zh": "乌克兰军队脆弱性加剧可能促使俄罗斯加强网络攻击和干扰能力，推动该军事行业发展。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-13T21:00:49.154848"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-24T17:14:05.716308"
+      },
       {
         "id": "russie_196216",
         "titre": "Robot PICKINGMAN trié déchets en direct mondial",
@@ -4888,65 +4947,6 @@
           }
         ],
         "created_at": "2026-10-17T01:04:53.353604"
-      },
-      {
-        "id": "russie_240425",
-        "titre": "Ukraine : peut-elle financer sa propre défense ?",
-        "titre_en": "Can Ukraine Afford Its Own Defense?",
-        "titre_zh": "乌克兰能否自行负担防务？",
-        "titre_ru": "Can Ukraine Afford Its Own Defense?",
-        "titre_fa": "Can Ukraine Afford Its Own Defense?",
-        "titre_ar": "Can Ukraine Afford Its Own Defense?",
-        "titre_original": "Can Ukraine Afford Its Own Defense?",
-        "resume": "L’Ukraine dépend actuellement de l’Europe pour son soutien militaire, mais cette dépendance pourrait devenir problématique à moyen terme. Les défis économiques et la guerre prolongée menacent sa capacité à maintenir son effort de guerre sans aide extérieure. Les conséquences d’un affaiblissement de l’appui européen pourraient être graves pour la stabilité régionale.",
-        "resume_en": "Ukraine currently relies on Europe for military support, but this dependency may become problematic in the coming years. Economic challenges and prolonged war threaten its ability to sustain its war effort without external aid. The consequences of weakened European support could be severe for regional stability.",
-        "resume_zh": "乌克兰目前依赖欧洲的军事支持，但这种依赖在中期内可能成为问题。经济挑战和持续的战争威胁到其在没有外部援助下维持战争努力的能力。欧洲支持减弱的后果可能对地区稳定造成严重影响。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Depuis l’invasion russe de 2022, l’Ukraine a bénéficié d’un soutien massif de l’UE et des États-Unis, mais ce modèle repose sur une volonté politique et des ressources financières limitées. Les enjeux géopolitiques incluent la capacité de l’Occident à maintenir cet effort sans épuiser ses propres réserves, tandis que Moscou cherche à exploiter les failles économiques ukrainiennes. Les causes profondes sont la dépendance énergétique européenne et les divisions internes au sein de l’OTAN. À court terme, une réduction des livraisons d’armes pourrait affaiblir les défenses ukrainiennes, tandis qu’à long terme, une victoire russe ou un épuisement des belligérants est envisageable. La Russie mise sur l’épuisement de l’Ukraine, tandis que l’Occident tente de préserver son unité face à l’agressivité russe.",
-        "analyse_en": "Since Russia’s 2022 invasion, Ukraine has relied on massive EU and US support, but this model depends on limited political will and financial resources. Geopolitical stakes include Western ability to sustain aid without depleting its own reserves, while Russia exploits Ukraine’s economic vulnerabilities. Root causes include Europe’s energy dependence and internal NATO divisions. Short-term, reduced arms deliveries could weaken Ukraine’s defenses, while long-term, a Russian victory or exhaustion of belligerents is possible. Russia bets on Ukraine’s exhaustion, while the West seeks to maintain unity against Russian aggression.",
-        "analyse_zh": "自2022年俄罗斯入侵以来，乌克兰获得了欧盟和美国的大规模支持，但这种模式依赖于有限的政治意愿和财政资源。地缘政治利益包括西方维持援助的能力，而不耗尽自身储备，同时俄罗斯试图利用乌克兰的经济弱点。深层原因包括欧洲的能源依赖和北约内部的分歧。短期内，武器供应减少可能削弱乌克兰的防务，长期来看，俄罗斯胜利或交战双方耗尽是可能的。俄罗斯赌注在乌克兰的耗尽，而西方试图在俄罗斯侵略面前维持联盟。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/10/15/ukraine-budget-gap-shortfall-defense-reform-corruption-eu-europe/",
-        "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/GettyImages-2299799485.jpg",
-        "date": "2026-10-15",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▼ Marché des armes et sécurité (défense européenne)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Financement de la reconstruction post-conflit",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des armes et sécurité (défense européenne)",
-            "secteur_en": "Arms market and security (European defense)",
-            "secteur_zh": "军火市场与安全（欧洲防务）",
-            "effet_fr": "Une réduction des livraisons d’armes pourrait entraîner une baisse des commandes européennes et une pression accrue sur les budgets militaires nationaux.",
-            "effet_en": "Reduced arms deliveries could lead to decreased European orders and increased pressure on national defense budgets.",
-            "effet_zh": "武器供应减少可能导致欧洲订单下降和对国家军事预算施加更大压力。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Financement de la reconstruction post-conflit",
-            "secteur_en": "Post-conflict reconstruction funding",
-            "secteur_zh": "战后重建资金",
-            "effet_fr": "L’incertitude sur la durée du conflit freine les investissements étrangers dans la reconstruction, retardant la stabilisation économique.",
-            "effet_en": "Uncertainty over the conflict’s duration discourages foreign investment in reconstruction, delaying economic stabilization.",
-            "effet_zh": "对冲突持续时间的不确定性阻碍了外国对重建的投资，推迟了经济稳定。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-16T19:19:54.428017"
       }
     ],
     "iran": [
