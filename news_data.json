@@ -1,7 +1,66 @@
 {
-  "last_updated": "24/10/2026 à 03h23",
+  "last_updated": "24/10/2026 à 08h40",
   "articles": {
     "monde": [
+      {
+        "id": "monde_259002",
+        "titre": "Les échanges avec ChatGPT non privés",
+        "titre_en": "ChatGPT conversations not private",
+        "titre_zh": "与ChatGPT对话非私密性",
+        "titre_ru": "You thought your ChatGPT conversations were private. The courts disagree.",
+        "titre_fa": "You thought your ChatGPT conversations were private. The courts disagree.",
+        "titre_ar": "You thought your ChatGPT conversations were private. The courts disagree.",
+        "titre_original": "You thought your ChatGPT conversations were private. The courts disagree.",
+        "resume": "Les tribunaux révèlent que les conversations avec les modèles de langage comme ChatGPT ne sont pas privées, malgré les apparences. Une multiplication des cas juridiques montre que ces échanges peuvent être exploités ou divulgués. Cette révélation soulève des questions majeures sur la protection des données et la responsabilité des entreprises technologiques.",
+        "resume_en": "Courts reveal ChatGPT conversations are not private despite appearances. A growing number of legal cases demonstrate these exchanges can be exploited or disclosed. This raises critical questions about data protection and tech companies' accountability.",
+        "resume_zh": "法院揭示ChatGPT对话并非私密，尽管看似如此。越来越多的法律案例表明这些对话可能被滥用或泄露。这引发了数据保护和科技公司责任的重大问题。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "L’émergence des IA conversationnelles s’inscrit dans une dynamique technologique où la confidentialité des données est souvent sacrifiée au profit de l’innovation. Les enjeux portent sur la souveraineté des utilisateurs et la régulation des données personnelles, avec des causes profondes liées à l’absence de cadre juridique clair. À court terme, les entreprises comme OpenAI pourraient faire face à des amendes et des poursuites accrues. À moyen terme, une refonte des lois sur la protection des données (RGPD) pourrait être nécessaire. À long terme, cela pourrait accélérer l’adoption de normes internationales strictes. Les États-Unis et l’UE adoptent des positions divergentes : Washington privilégie l’innovation, tandis que Bruxelles insiste sur la régulation.",
+        "analyse_en": "The rise of conversational AI reflects a tech-driven era where data privacy is often sacrificed for innovation. Key stakes involve user sovereignty and data protection regulations, with root causes tied to weak legal frameworks. Short-term, companies like OpenAI may face increased fines and lawsuits. Medium-term, a revision of data protection laws (GDPR) could be required. Long-term, this may accelerate global adoption of strict international standards. The US and EU hold divergent positions: Washington prioritizes innovation, while Brussels emphasizes regulation.",
+        "analyse_zh": "对话式AI的兴起体现了以技术为导向的时代，数据隐私常被牺牲以换取创新。主要影响涉及用户主权和数据保护法规，根本原因在于缺乏明确的法律框架。短期内，OpenAI等公司可能面临更多罚款和诉讼。中期内，可能需要修订数据保护法（GDPR）。长期来看，这可能加速全球严格国际标准的采用。美国和欧盟立场不同：华盛顿注重创新，布鲁塞尔强调监管。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/you-thought-your-chatgpt-conversations-were-private-the-courts-disagree",
+        "image": "https://cdn.mos.cms.futurecdn.net/ZBmwKREsuLnPJuUL3RJRkH-2560-80.jpg",
+        "date": "2026-10-23",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Protection des données personnelles",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des assurances cyber",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Protection des données personnelles",
+            "secteur_en": "Personal data protection",
+            "secteur_zh": "个人数据保护",
+            "effet_fr": "Les entreprises technologiques pourraient subir des pertes financières massives en raison de sanctions et de litiges liés à la violation de la confidentialité.",
+            "effet_en": "Tech companies may face massive financial losses due to sanctions and lawsuits over privacy violations.",
+            "effet_zh": "科技公司可能因隐私泄露遭受重大财务损失和罚款。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des assurances cyber",
+            "secteur_en": "Cyber insurance market",
+            "secteur_zh": "网络保险市场",
+            "effet_fr": "La demande en assurances couvrant les fuites de données liées aux IA pourrait exploser, poussant les assureurs à ajuster leurs tarifs et couvertures.",
+            "effet_en": "Demand for data breach insurance tied to AI could surge, forcing insurers to adjust rates and coverage.",
+            "effet_zh": "与AI相关的数据泄露保险需求可能激增，迫使保险公司调整费率和保障范围。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-24T08:40:47.775422"
+      },
       {
         "id": "monde_330936",
         "titre": "Luckey et Lamm lancent Warhound : chiens génétiquement modifiés pour la guerre",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-17T17:51:34.081132"
-      },
-      {
-        "id": "monde_226623",
-        "titre": "Éléphant meurt d’anthrax près de Coimbatore",
-        "titre_en": "Elephant dies from anthrax near Coimbatore",
-        "titre_zh": "印度科伊姆巴图尔附近大象死于炭疽",
-        "titre_ru": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
-        "titre_fa": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
-        "titre_ar": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
-        "titre_original": "Elephant dies of anthrax near Coimbatore; carcass incinerated following strict safety protocols",
-        "resume": "Un éléphant femelle est décédé d’anthrax dans la forêt de Gopanari, district de Coimbatore. Son cadavre a été incinéré selon des protocoles stricts pour éviter la propagation de la maladie. Cet incident souligne les risques sanitaires persistants dans les réserves naturelles indiennes.",
-        "resume_en": "A female elephant died of anthrax in Gopanari Reserve Forest, Coimbatore district. Its carcass was incinerated under strict safety protocols to prevent disease spread. The case highlights ongoing biosecurity risks in Indian wildlife reserves.",
-        "resume_zh": "印度科伊姆巴图尔附近的一个雌象因炭疽病死亡，其尸体在严格的安全协议下被焚烧。此事件凸显了印度野生动物保护区生物安全风险的持续性。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "L’anthrax, maladie bactérienne ancienne, réapparaît régulièrement dans les écosystèmes indiens, souvent liée à la déforestation et aux conflits homme-animal. Coimbatore, zone densément peuplée et agricole, concentre des risques sanitaires accrus pour la faune. Les protocoles d’incinération, coûteux et logistiquement complexes, montrent les limites des infrastructures locales. À court terme, la peur des épidémies pourrait affecter le tourisme dans la région. À moyen terme, l’Inde doit renforcer ses systèmes de surveillance vétérinaire, notamment dans les réserves frontalières. Long terme, une gestion intégrée des risques sanitaires et environnementaux est indispensable. Les ONG locales et le gouvernement fédéral doivent collaborer pour financer des solutions durables, comme la vaccination préventive des éléphants.",
-        "analyse_en": "Anthrax, an ancient bacterial disease, frequently resurfaces in India’s ecosystems, often linked to deforestation and human-wildlife conflicts. Coimbatore, a densely populated agricultural hub, amplifies biosecurity risks for wildlife. Strict incineration protocols, expensive and logistically demanding, expose gaps in local infrastructure. Short-term, fear of outbreaks may deter regional tourism. Medium-term, India must upgrade veterinary surveillance, especially in border reserves. Long-term, integrated risk management is critical. NGOs and the federal government must collaborate to fund preventive measures like elephant vaccinations.",
-        "analyse_zh": "炭疽病是一种古老的细菌性疾病，印度生态系统中时有反复，通常与森林砍伐和人兽冲突相关。科伊姆巴图尔地区人口稠密且农业发达，野生动物面临更高的生物安全风险。严格的焚尸程序成本高且复杂，暴露了当地基础设施的不足。短期内，疫情恐慌可能影响当地旅游业。中期内，印度需要加强边境保护区的兽医监测体系。长期来看，综合性的生物安全和环境风险管理至关重要。当地非政府组织和联邦政府必须合作，资助预防性措施，如对大象进行疫苗接种。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Environnement/Santé publique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/coimbatore/elephant-dies-of-anthrax-near-coimbatore-carcass-incinerated-following-strict-safety-protocols/articleshow/134993089.cms",
-        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-        "date": "2026-10-16",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Assurance responsabilité civile environnementale",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des vaccins vétérinaires",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance responsabilité civile environnementale",
-            "secteur_en": "Environmental liability insurance",
-            "secteur_zh": "",
-            "effet_fr": "Les incidents comme celui-ci pourraient augmenter les primes pour les assureurs couvrant les parcs naturels et les projets de conservation.",
-            "effet_en": "Incidents like this may drive up premiums for insurers covering wildlife reserves and conservation projects.",
-            "effet_zh": "此类事件可能导致保险公司为野生动物保护区和保护项目提供的保费上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des vaccins vétérinaires",
-            "secteur_en": "Veterinary vaccine market",
-            "secteur_zh": "兽药疫苗市场",
-            "effet_fr": "La demande en vaccins préventifs pour éléphants et autres espèces pourrait stimuler les investissements dans la R&D locale.",
-            "effet_en": "Demand for preventive elephant and wildlife vaccines may spur local R&D investments.",
-            "effet_zh": "对大象和其他野生动物疫苗的需求可能刺激当地研发领域的投资。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-17T11:24:14.450151"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_872376",
+        "titre": "Restrictions Starshield persistent en Ukraine malgré Trump",
+        "titre_en": "Starshield speed limits persist in Ukraine",
+        "titre_zh": "星盾速度限制仍在乌克兰",
+        "titre_ru": "Starshield speed limits said to persist in Ukraine",
+        "titre_fa": "Starshield speed limits said to persist in Ukraine",
+        "titre_ar": "Starshield speed limits said to persist in Ukraine",
+        "titre_original": "Starshield speed limits said to persist in Ukraine",
+        "resume": "Malgré les déclarations de Donald Trump affirmant que SpaceX avait levé les restrictions sur les drones Starshield, des rapports indiquent que ces limitations persistent en Ukraine. Les drones ukrainiens subissent toujours des contraintes de vitesse et de navigation. Cette situation révèle un décalage entre les annonces politiques et la réalité opérationnelle.",
+        "resume_en": "Despite Trump’s claims that SpaceX lifted Starshield drone restrictions, reports show speed and navigation limits persist in Ukraine. Ukrainian drones still face operational constraints. This highlights a gap between political announcements and operational reality.",
+        "resume_zh": "尽管特朗普声称SpaceX解除了星盾无人机限制，但报道显示限制仍在乌克兰存在。乌克兰无人机仍面临速度和导航限制。这暴露了政治宣传与实际操作之间的差距。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce conflit illustre les tensions entre les promesses électorales et la gestion pragmatique des ressources militaires par les élites technologiques. Les causes profondes incluent la dépendance stratégique de l’Ukraine envers les technologies américaines et les intérêts géopolitiques de l’US en Europe de l’Est. À court terme, cela pourrait affaiblir la confiance ukrainienne dans les livraisons d’armes. À moyen terme, cela pourrait accélérer les recherches alternatives pour l’Ukraine, comme les partenariats avec Israël ou la Corée du Sud. À long terme, cela pourrait renforcer les dynamiques de dédollarisation et de diversification technologique en Europe.",
+        "analyse_en": "This conflict highlights tensions between election promises and the pragmatic management of military resources by tech elites. Root causes include Ukraine’s strategic dependence on US tech and US geopolitical interests in Eastern Europe. Short-term, this may weaken Ukrainian trust in arms deliveries. Medium-term, it could accelerate Ukraine’s search for alternatives, like partnerships with Israel or South Korea. Long-term, this may strengthen Europe’s de-dollarization and tech diversification dynamics.",
+        "analyse_zh": "这场冲突反映了政治承诺与技术精英实际军事资源管理之间的紧张关系。根本原因包括乌克兰对美国技术的战略依赖和美国在东欧的地缘政治利益。短期内，这可能削弱乌克兰对武器交付的信心。中期内，乌克兰可能加速寻找替代方案，如与以色列或韩国合作。长期来看，这可能加速欧洲脱美元和技术多元化趋势。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/336793be02e2aeca",
+        "image": "https://biztoc.com/cdn/336793be02e2aeca_s.webp",
+        "date": "2026-10-23",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Industrie spatiale et défense",
+            "hausse": false
+          },
+          {
+            "label": "▲ Marché des technologies de renseignement",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie spatiale et défense",
+            "secteur_en": "Space and defense industry",
+            "secteur_zh": "航天和国防产业",
+            "effet_fr": "Les retards dans les livraisons de technologies critiques pourraient entraîner des pertes financières pour SpaceX et ses partenaires militaires.",
+            "effet_en": "Delays in critical tech deliveries could lead to financial losses for SpaceX and military partners.",
+            "effet_zh": "关键技术交付延误可能导致SpaceX和军方合作伙伴遭受财务损失。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Marché des technologies de renseignement",
+            "secteur_en": "Intelligence tech market",
+            "secteur_zh": "情报技术市场",
+            "effet_fr": "Les incertitudes opérationnelles pourraient inciter les acteurs à investir dans des solutions autonomes et moins dépendantes des fournisseurs américains.",
+            "effet_en": "Operational uncertainties may push actors to invest in autonomous solutions less dependent on US suppliers.",
+            "effet_zh": "操作不确定性可能促使各方投资于自主化解决方案，减少对美国供应商的依赖。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-24T08:40:47.775442"
+      },
       {
         "id": "usa_807544",
         "titre": "Trump accuse Musk de bloquer Starlink pour l’Ukraine",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-17T17:51:34.081159"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_505759",
-        "titre": "Trump intensifie ses déplacements pour les midterms",
-        "titre_en": "Trump ramps up midterm campaign travel",
-        "titre_zh": "特朗普加紧竞选活动助力共和党",
-        "titre_ru": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
-        "titre_fa": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
-        "titre_ar": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
-        "titre_original": "Trump Steps Up Campaign Travel to Boost Vulnerable Republicans",
-        "resume": "À deux semaines des élections de mi-mandat, Donald Trump multiplie les déplacements pour soutenir les candidats républicains en difficulté dans les États clés. Cette stratégie vise à mobiliser l’électorat conservateur avant le scrutin. Les analystes y voient une tentative désespérée de sauver des sièges au Congrès.",
-        "resume_en": "With midterm elections two weeks away, Donald Trump is increasing campaign travel to bolster struggling GOP candidates in key states. The move aims to energize conservative voters before the vote. Analysts see it as a last-ditch effort to save congressional seats.",
-        "resume_zh": "在中期选举前两周，特朗普加紧竞选活动，支持关键州中处境困难的共和党候选人。这一策略旨在动员保守派选民在投票前。分析师认为这是特朗普试图挽救国会席位的最后努力。",
+        "id": "chine_825001",
+        "titre": "Chine dénonce mesures discriminatoires US",
+        "titre_en": "China condemns US discriminatory measures",
+        "titre_zh": "中国谴责美国歧视性措施",
+        "titre_ru": "China says US should stop discriminatory measures against Chinese research institutions",
+        "titre_fa": "China says US should stop discriminatory measures against Chinese research institutions",
+        "titre_ar": "China says US should stop discriminatory measures against Chinese research institutions",
+        "titre_original": "China says US should stop discriminatory measures against Chinese research institutions",
+        "resume": "La Chine dénonce les restrictions américaines sur les financements de recherche imposées à des dizaines d’universités chinoises. Pékin accuse Washington de discrimination et de frein à la coopération scientifique internationale. Cette escalade reflète les tensions croissantes entre les deux superpuissances.",
+        "resume_en": "China condemns US funding restrictions on dozens of Chinese universities. Beijing accuses Washington of discrimination and hindering international scientific cooperation. This escalation reflects growing tensions between the two superpowers.",
+        "resume_zh": "中国谴责美国对多所中国大学研究资金的限制措施。北京指责华盛顿实施歧视性政策并阻碍国际科学合作。这场升级反映了两大超级大国之间日益加剧的紧张关系。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Les midterms 2022 s’inscrivent dans un contexte de polarisation politique extrême aux États-Unis, où le Parti démocrate cherche à limiter les pertes. Trump, en campagne permanente depuis 2016, utilise une rhétorique polarisante pour diviser l’électorat. Ses déplacements ciblent les États où les sondages sont serrés, comme la Pennsylvanie ou le Michigan. À court terme, cette stratégie pourrait mobiliser sa base, mais risquerait d’aliéner les modérés. À moyen terme, une victoire républicaine renforcerait l’influence conservatrice sur les lois fédérales. Long terme, cela pourrait accentuer la fragmentation politique et affaiblir la gouvernance bipartite. Les médias et les think tanks jouent un rôle clé dans l’amplification de ces dynamiques.",
-        "analyse_en": "The 2022 midterms occur in a context of extreme political polarization in the U.S., where Democrats aim to limit losses. Trump, in perpetual campaign mode since 2016, uses polarizing rhetoric to divide the electorate. His travel targets swing states like Pennsylvania and Michigan. Short-term, this may energize his base but alienate moderates. Medium-term, a GOP victory would bolster conservative federal legislation. Long-term, this could deepen political fragmentation and weaken bipartisan governance. Media and think tanks amplify these dynamics significantly.",
-        "analyse_zh": "2022年中期选举发生在美国政治极化严重的背景下，民主党试图限制损失。特朗普自2016年以来一直处于竞选状态，通过极化言论分裂选民。他的行程主要针对关键州如宾夕法尼亚和密歇根。短期内，这一策略可能激励其支持者，但可能疏远中间派。中期内，共和党胜利将加强联邦保守派立法力量。长期来看，这可能加剧政治分裂，削弱两党合作的治理能力。媒体和智库在这些动态中扮演关键角色。",
+        "analyse_detaillee": "Cette crise s’inscrit dans une guerre technologique et scientifique entre les États-Unis et la Chine, où chaque pays cherche à préserver son avance stratégique. Les causes profondes incluent la compétition pour l’hégémonie technologique et la peur d’un transfert de connaissances sensibles. À court terme, cela pourrait ralentir les collaborations académiques sino-américaines et augmenter les coûts de recherche pour les universités chinoises. À moyen terme, la Chine pourrait accélérer ses investissements dans des alternatives locales et des partenariats avec l’Europe ou la Russie. À long terme, cela pourrait redéfinir les alliances scientifiques mondiales et renforcer les blocs technologiques.",
+        "analyse_en": "This crisis fits into a tech and scientific war between the US and China, where each country seeks to preserve its strategic edge. Root causes include competition for tech hegemony and fear of sensitive knowledge transfer. Short-term, this may slow down Sino-US academic collaborations and increase research costs for Chinese universities. Medium-term, China may accelerate investments in local alternatives and partnerships with Europe or Russia. Long-term, this could redefine global scientific alliances and strengthen tech blocs.",
+        "analyse_zh": "这场危机属于美国和中国之间的科技和科学战争，每个国家都试图保持其战略优势。根本原因包括对科技霸权的竞争和对敏感知识转移的恐惧。短期内，这可能减缓中美学术合作并增加中国大学的研究成本。中期内，中国可能加速投资于本土替代方案和与欧洲或俄罗斯的合作。长期来看，这可能重新定义全球科学联盟并加强科技集团。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "TODAY",
-        "url": "https://www.today.com/video/trump-steps-up-campaign-travel-to-boost-vulnerable-republicans-271681093627",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_10/1792149519740_tdy_news_7a_gutierrez_trump_campaign_trail_261015_S3_1920x1080-xc8xgw.jpg",
-        "date": "2026-10-16",
-        "pays": "usa",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/east-asia/china-united-states-stop-discriminatory-measures-research-institutions-6485691",
+        "image": "https://dam.mediacorp.sg/image/upload/s--nKpCm0Xa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-23T074851Z_1_LYNXMPEM9M0J6_RTROPTP_3_CHINA-RAREEARTHS.JPG?itok=YzOHx0sn",
+        "date": "2026-10-23",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des sondages politiques",
-            "hausse": true
+            "label": "▼ Financement de la recherche publique",
+            "hausse": false
           },
           {
-            "label": "▲ Financement des campagnes électorales",
+            "label": "▲ Marché des technologies quantiques",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des sondages politiques",
-            "secteur_en": "Political polling market",
-            "secteur_zh": "",
-            "effet_fr": "Les déplacements de Trump pourraient influencer les résultats des sondages en temps réel, impactant les investissements des instituts spécialisés.",
-            "effet_en": "Trump’s travel may shift real-time polling results, affecting investments in polling firms.",
-            "effet_zh": "特朗普的行程可能影响实时民调结果，进而影响民调机构的投资。",
-            "hausse": true
+            "secteur_fr": "Financement de la recherche publique",
+            "secteur_en": "Public research funding",
+            "secteur_zh": "公共研究资金",
+            "effet_fr": "Les universités chinoises pourraient voir leurs budgets réduits, limitant leurs capacités d’innovation et leur attractivité internationale.",
+            "effet_en": "Chinese universities may see reduced budgets, limiting their innovation capacity and global attractiveness.",
+            "effet_zh": "中国大学可能面临预算缩减，限制其创新能力和国际吸引力。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Financement des campagnes électorales",
-            "secteur_en": "Electoral campaign financing",
-            "secteur_zh": "选举竞选资金",
-            "effet_fr": "L’intensification des activités de Trump pourrait inciter les donateurs à augmenter leurs contributions aux candidats républicains en difficulté.",
-            "effet_en": "Trump’s intensified campaigning may prompt donors to boost contributions to struggling GOP candidates.",
-            "effet_zh": "特朗普加紧竞选活动可能促使捐助者增加对处境困难的共和党候选人的捐款。",
+            "secteur_fr": "Marché des technologies quantiques",
+            "secteur_en": "Quantum tech market",
+            "secteur_zh": "量子技术市场",
+            "effet_fr": "Les tensions géopolitiques pourraient accélérer les investissements chinois dans les technologies quantiques, cherchant à réduire la dépendance aux partenaires étrangers.",
+            "effet_en": "Geopolitical tensions may accelerate Chinese investments in quantum tech, aiming to reduce dependence on foreign partners.",
+            "effet_zh": "地缘政治紧张局势可能加速中国对量子技术的投资，以减少对外国合作伙伴的依赖。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-17T11:24:14.450172"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-24T08:40:47.775464"
+      },
       {
         "id": "chine_350858",
         "titre": "Église catholique chinoise : Vatican accepte épiscopat sous contrôle communiste",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-13T07:23:15.270100"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_57102",
-        "titre": "Pendule nucléaire chinois bat record de précision",
-        "titre_en": "China’s nuclear clock sets precision record",
-        "titre_zh": "中国核钟精度六倍提升",
-        "titre_ru": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
-        "titre_fa": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
-        "titre_ar": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
-        "titre_original": "China Reports Nuclear Clock With Sixfold Stability Gain Over Previous Device",
-        "resume": "Des physiciens chinois ont atteint une stabilité six fois supérieure à leur précédent dispositif, marquant une avancée majeure en métrologie. Cette percée ouvre la voie à une course technologique dans la mesure du temps. Les applications potentielles incluent la navigation spatiale et les communications quantiques.",
-        "resume_en": "Chinese physicists achieved sixfold stability improvement in their nuclear clock, marking a major metrology breakthrough. This advance paves the way for a tech race in time measurement. Potential applications include space navigation and quantum communications.",
-        "resume_zh": "中国物理学家的核钟稳定性提升六倍，标志着计量学领域的重大突破。这一进展为时间测量技术竞赛铺平了道路。潜在应用包括太空导航和量子通信。",
+        "id": "russie_495359",
+        "titre": "Missiles russes frappent Kyiv malgré 800 drones abattus",
+        "titre_en": "Russian missiles hit Kyiv despite 800 drones downed",
+        "titre_zh": "俄罗斯导弹轰炸基辅尽管击落800架无人机",
+        "titre_ru": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - PBS",
+        "titre_fa": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - PBS",
+        "titre_ar": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - PBS",
+        "titre_original": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - PBS",
+        "resume": "La Russie intensifie ses frappes sur Kyiv tout en revendiquant avoir abattu plus de 800 drones ukrainiens. Cette escalade militaire montre une volonté de pression constante sur les infrastructures civiles. Les tensions persistent malgré les affirmations de victoire partielle de Moscou.",
+        "resume_en": "Russia escalates missile strikes on Kyiv while claiming to have shot down over 800 Ukrainian drones. This military escalation reflects a sustained pressure on civilian infrastructure. Tensions remain despite Moscow’s claims of partial victory.",
+        "resume_zh": "俄罗斯加强对基辅的导弹袭击，同时声称击落了800多架乌克兰无人机。这场军事升级表明对平民基础设施的持续压力。尽管莫斯科声称部分胜利，但紧张局势依然存在。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Cette innovation s’inscrit dans la stratégie chinoise de domination technologique, après des décennies de retard en physique fondamentale. Les enjeux incluent la supériorité scientifique et militaire, avec des applications en cryptographie et en GPS. Les causes profondes résident dans les investissements massifs du gouvernement dans la R&D depuis 2015. À court terme, cette avancée pourrait accélérer les brevets chinois dans le domaine. À moyen terme, les États-Unis et l’UE pourraient intensifier leurs propres recherches pour ne pas être distancés. Long terme, cette technologie pourrait redéfinir les standards internationaux de mesure du temps. La Chine et les États-Unis sont en compétition directe, tandis que l’Europe cherche à maintenir son autonomie scientifique.",
-        "analyse_en": "This innovation reflects China’s tech dominance strategy after decades of lag in fundamental physics. Stakes involve scientific and military superiority, with applications in cryptography and GPS. Root causes lie in massive government R&D investments since 2015. Short-term, this advance may accelerate Chinese patents in the field. Medium-term, the US and EU could ramp up their own research to avoid falling behind. Long-term, this tech could redefine global time measurement standards. China and the US compete directly, while Europe seeks to maintain scientific autonomy.",
-        "analyse_zh": "这一创新反映了中国在基础物理领域长期落后后，试图在技术上占据主导地位的战略。影响重点在于科学和军事上的优势，应用包括密码学和GPS。深层原因在于政府自2015年以来在研发领域的大规模投资。短期内，这一突破可能加速中国在该领域的专利申请。中期内，美国和欧盟可能会加大自身研究力度以避免落后。长期来看，这一技术可能重新定义国际时间测量标准。中国和美国正在直接竞争，而欧洲则试图维持科学自主权。",
+        "analyse_detaillee": "Ce conflit s’inscrit dans une guerre d’usure où la Russie cherche à épuiser les ressources ukrainiennes et internationales. Les causes profondes incluent la volonté de Poutine de contrôler l’Ukraine par la force et la dépendance énergétique de l’Europe à la Russie. À court terme, les frappes pourraient accélérer l’exode des populations civiles et la destruction des infrastructures. À moyen terme, cela pourrait renforcer les sanctions économiques contre la Russie et les livraisons d’armes à l’Ukraine. À long terme, cela pourrait redéfinir les équilibres géopolitiques en Europe de l’Est et accélérer l’intégration de l’Ukraine dans l’OTAN.",
+        "analyse_en": "This conflict fits into an attrition war where Russia aims to exhaust Ukraine’s and international resources. Root causes include Putin’s desire to control Ukraine by force and Europe’s energy dependence on Russia. Short-term, strikes may accelerate civilian population displacement and infrastructure destruction. Medium-term, this could strengthen economic sanctions against Russia and arms deliveries to Ukraine. Long-term, it may redefine geopolitical balances in Eastern Europe and accelerate Ukraine’s NATO integration.",
+        "analyse_zh": "这场战争属于消耗战，俄罗斯试图耗尽乌克兰和国际资源。根本原因包括普京通过武力控制乌克兰的意图和欧洲对俄罗斯能源的依赖。短期内，袭击可能加速平民人口流离失所和基础设施破坏。中期内，这可能加强对俄罗斯的经济制裁和向乌克兰提供武器。长期来看，这可能重新定义东欧的地缘政治平衡并加速乌克兰加入北约。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Technologie",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-10-11-china-reports-nuclear-clock-sixfold-stability-gain.html",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/nuclear-clock-thorium-229-stability-4956-59b06bf4-original.jpg",
-        "date": "2026-10-11",
-        "pays": "chine",
+        "categorie": "Géopolitique",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186424444",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-10-23",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Marché des horloges atomiques",
+            "label": "▲ Marché des énergies fossiles",
             "hausse": true
           },
           {
-            "label": "▲ Secteur spatial (navigation, satellites)",
+            "label": "▲ Assurance contre les risques de guerre",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des horloges atomiques",
-            "secteur_en": "Atomic clock market",
-            "secteur_zh": "原子钟市场",
-            "effet_fr": "Cette avancée pourrait valoriser les entreprises chinoises spécialisées en métrologie, dominées actuellement par des acteurs suisses et américains.",
-            "effet_en": "This breakthrough may boost Chinese metrology firms, currently dominated by Swiss and US players.",
-            "effet_zh": "这一突破可能提升中国专注于计量学的企业价值，目前该领域主要由瑞士和美国企业主导。",
+            "secteur_fr": "Marché des énergies fossiles",
+            "secteur_en": "Fossil fuel market",
+            "secteur_zh": "化石燃料市场",
+            "effet_fr": "Les sanctions économiques pourraient réduire les revenus russes, mais aussi perturber les approvisionnements européens en gaz et pétrole, entraînant une hausse des prix.",
+            "effet_en": "Economic sanctions may reduce Russia’s revenues but also disrupt European gas and oil supplies, leading to price hikes.",
+            "effet_zh": "经济制裁可能减少俄罗斯收入，但也会扰乱欧洲天然气和石油供应，导致价格上涨。",
             "hausse": true
           },
           {
-            "secteur_fr": "Secteur spatial (navigation, satellites)",
-            "secteur_en": "Space sector (navigation, satellites)",
-            "secteur_zh": "航天领域（导航、卫星）",
-            "effet_fr": "Les horloges nucléaires améliorées pourraient améliorer la précision des systèmes de positionnement chinois, comme BeiDou, rivalisant avec GPS.",
-            "effet_en": "Improved nuclear clocks may enhance China’s positioning systems, like BeiDou, competing with GPS.",
-            "effet_zh": "改进的核钟可能提升中国的定位系统精度，如北斗系统，与GPS竞争。",
+            "secteur_fr": "Assurance contre les risques de guerre",
+            "secteur_en": "War risk insurance",
+            "secteur_zh": "战争风险保险",
+            "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques accrus liés aux conflits en Europe de l’Est, rendant les investissements dans la région plus coûteux.",
+            "effet_en": "Insurers may raise premiums to cover increased risks linked to conflicts in Eastern Europe, making investments in the region more expensive.",
+            "effet_zh": "保险公司可能提高保费以覆盖东欧冲突带来的风险，使该地区的投资成本增加。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-12T07:15:07.316763"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-24T08:40:47.775455"
+      },
       {
         "id": "russie_436666",
         "titre": "Wallace dénonce les ‘sociopathes’ bloquant Starlink pour l’Ukraine",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-16T15:14:24.645228"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_344949",
-        "titre": "AfD et BSW demandent fin aide militaire à l'Ukraine",
-        "titre_en": "AfD and BSW Call for End to Ukraine Aid",
-        "titre_zh": "德国右翼党和左翼党要求停止对乌克兰援助",
-        "titre_ru": "Germany's AfD and leftist BSW call for end to help for Ukraine - Reuters",
-        "titre_fa": "Germany's AfD and leftist BSW call for end to help for Ukraine - Reuters",
-        "titre_ar": "Germany's AfD and leftist BSW call for end to help for Ukraine - Reuters",
-        "titre_original": "Germany's AfD and leftist BSW call for end to help for Ukraine - Reuters",
-        "resume": "Le parti d’extrême droite allemand AfD et le parti de gauche BSW ont présenté une motion commune pour mettre fin à l’aide militaire allemande à l’Ukraine. Cette alliance inattendue reflète une convergence des critiques contre l’engagement occidental en Ukraine et une opposition croissante aux sanctions contre la Russie. Les deux partis accusent Berlin de financer indirectement la guerre via son soutien à Kiev. Cette initiative pourrait diviser l’opinion publique allemande et affaiblir la coalition gouvernementale.",
-        "resume_en": "Germany’s far-right AfD and leftist BSW jointly proposed ending military aid to Ukraine, marking an unlikely alliance. Their motion reflects growing opposition to Western engagement in Ukraine and rising criticism of Russia sanctions. Both parties accuse Berlin of indirectly funding the war through support for Kyiv. This move could fracture German public opinion and weaken the governing coalition.",
-        "resume_zh": "德国右翼党AfD和左翼党BSW联合提出终止对乌克兰的军事援助，这是一个意外的联盟。这一提案反映了对西方在乌克兰介入的日益反对和对俄罗斯制裁的批评增加。两党指责柏林通过对基辅的支持间接资助战争。这一举动可能分裂德国公众意见并削弱执政联盟。",
+        "id": "iran_688707",
+        "titre": "États à risque de factures chauffage élevées",
+        "titre_en": "States facing worst heating bills",
+        "titre_zh": "冬季取暖费用最高的州",
+        "titre_ru": "Map Reveals States That Could Face Worst Heating Bills This Winter",
+        "titre_fa": "Map Reveals States That Could Face Worst Heating Bills This Winter",
+        "titre_ar": "Map Reveals States That Could Face Worst Heating Bills This Winter",
+        "titre_original": "Map Reveals States That Could Face Worst Heating Bills This Winter",
+        "resume": "Des millions de propriétaires dans le Nord-Est des États-Unis pourraient payer plus cher pour se chauffer cet hiver, en raison de la hausse des prix du fioul. Cette situation est liée à la guerre en Iran et à ses répercussions sur les marchés énergétiques mondiaux. Les ménages les plus vulnérables risquent de subir des difficultés financières accrues.",
+        "resume_en": "Millions of homeowners in the US Northeast could face higher heating costs this winter due to surging heating oil prices. This situation is linked to the Iran war and its impact on global energy markets. Vulnerable households may face increased financial strain.",
+        "resume_zh": "美国东北部数百万房主可能因采暖油价格上涨而面临更高的取暖费用。这一局面与伊朗战争及其对全球能源市场的影响有关。脆弱家庭可能面临更大的财务压力。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "L’Allemagne, depuis la chute du mur de Berlin, a historiquement évité les conflits militaires directs, privilégiant une diplomatie pragmatique. Les enjeux actuels incluent la cohésion de l’UE face à la guerre en Ukraine et la capacité de Berlin à maintenir son leadership moral en Europe. Les causes profondes de cette alliance AfD-BSW sont liées à la fatigue de guerre en Allemagne, à la montée des populismes et à la critique des élites politiques perçues comme inefficaces. À court terme, cette motion pourrait polariser davantage la société allemande et affaiblir la position de l’Allemagne dans les négociations avec Moscou. À moyen terme, elle pourrait accélérer la fragmentation de la coalition gouvernementale et affaiblir l’unité européenne sur la question ukrainienne. À long terme, une telle dynamique pourrait favoriser une politique étrangère plus isolationniste pour l’Allemagne, au détriment de ses alliés occidentaux. Les acteurs clés, comme Olaf Scholz et les dirigeants de l’AfD, adoptent des positions opposées, reflétant une fracture idéologique profonde.",
-        "analyse_en": "Germany, since the fall of the Berlin Wall, has historically avoided direct military conflicts, favoring pragmatic diplomacy. Current stakes involve EU cohesion amid the Ukraine war and Berlin’s ability to maintain moral leadership in Europe. Root causes of the AfD-BSW alliance include war fatigue in Germany, rising populism, and criticism of perceived ineffective political elites. Short-term, the motion may further polarize German society and weaken Germany’s stance in negotiations with Moscow. Mid-term, it could accelerate the fragmentation of the governing coalition and undermine EU unity on Ukraine. Long-term, such dynamics may push Germany toward a more isolationist foreign policy, at the expense of Western allies. Key actors like Scholz and AfD leaders hold opposing stances, reflecting deep ideological rifts.",
-        "analyse_zh": "德国自柏林墙倒塌以来，一直避免直接军事冲突，更倾向于务实外交。当前的影响集中在欧洲联盟在乌克兰战争中的团结和柏林维持欧洲道德领导力的能力。AfD和BSW联盟的深层原因包括德国战争疲劳、民粹主义上升和对政治精英无效率的批评。短期内，这一提案可能进一步分裂德国社会并削弱德国在与莫斯科谈判中的立场。中期内，它可能加速执政联盟的分裂并削弱欧洲在乌克兰问题上的团结。长期前景下，这种动态可能推动德国采取更孤立主义的外交政策，损害西方盟友的利益。关键人物如朔尔茨和AfD领导人持相反立场，反映深刻的意识形态分歧。",
+        "analyse_detaillee": "Cette crise énergétique illustre les répercussions indirectes des conflits géopolitiques sur les économies locales. Les causes profondes incluent la dépendance énergétique des États-Unis au pétrole et la volatilité des marchés due aux tensions régionales. À court terme, les ménages pourraient réduire leurs dépenses pour d’autres besoins essentiels. À moyen terme, cela pourrait accélérer la transition énergétique et l’adoption de solutions alternatives comme le gaz naturel ou les énergies renouvelables. À long terme, cela pourrait renforcer les pressions pour une diplomatie plus proactive visant à stabiliser les marchés pétroliers.",
+        "analyse_en": "This energy crisis highlights the indirect impacts of geopolitical conflicts on local economies. Root causes include the US energy dependence on oil and market volatility due to regional tensions. Short-term, households may cut spending on other essential needs. Medium-term, this could accelerate energy transition and adoption of alternatives like natural gas or renewables. Long-term, it may increase pressure for proactive diplomacy to stabilize oil markets.",
+        "analyse_zh": "这场能源危机展示了地缘政治冲突对地方经济的间接影响。根本原因包括美国对石油的能源依赖和地区紧张局势导致的市场波动。短期内，家庭可能减少对其他必需品的支出。中期内，这可能加速能源转型和对天然气或可再生能源的采用。长期来看，这可能加大对积极外交的压力，以稳定石油市场。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186322766",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-10-14",
-        "pays": "russie",
+        "categorie": "Économie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0ce57c8dc554409c",
+        "image": "https://biztoc.com/cdn/0ce57c8dc554409c_s.webp",
+        "date": "2026-10-23",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des obligations souveraines allemandes",
+            "label": "▲ Marché des énergies fossiles",
             "hausse": true
           },
           {
-            "label": "▲ Marché des assurances politiques (risques géopolitiques)",
+            "label": "▲ Assurance habitation et crédits immobiliers",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des obligations souveraines allemandes",
-            "secteur_en": "German sovereign bond market",
-            "secteur_zh": "德国主权债券市场",
-            "effet_fr": "Une telle motion pourrait faire baisser la confiance des investisseurs dans la stabilité politique allemande, entraînant une hausse des rendements sur les obligations d’État.",
-            "effet_en": "Such a motion may reduce investor confidence in German political stability, driving up yields on sovereign bonds.",
-            "effet_zh": "这一提案可能降低投资者对德国政治稳定性的信心，导致主权债券收益率上升。",
+            "secteur_fr": "Marché des énergies fossiles",
+            "secteur_en": "Fossil fuel market",
+            "secteur_zh": "化石燃料市场",
+            "effet_fr": "La hausse des prix du fioul pourrait entraîner une baisse de la demande et une pression sur les marges des raffineries américaines.",
+            "effet_en": "Rising heating oil prices may reduce demand and put pressure on US refinery margins.",
+            "effet_zh": "采暖油价格上涨可能导致需求下降和对美国炼油厂利润的压力。",
             "hausse": true
           },
           {
-            "secteur_fr": "Marché des assurances politiques (risques géopolitiques)",
-            "secteur_en": "Political risk insurance market",
-            "secteur_zh": "政治风险保险市场",
-            "effet_fr": "Les assureurs pourraient augmenter les primes pour les entreprises opérant en Allemagne, anticipant des instabilités accrues liées à la politique étrangère.",
-            "effet_en": "Insurers may raise premiums for firms operating in Germany, anticipating heightened instability in foreign policy.",
-            "effet_zh": "保险公司可能提高在德国经营企业的保费，预计外交政策不稳定性加剧。",
+            "secteur_fr": "Assurance habitation et crédits immobiliers",
+            "secteur_en": "Home insurance and mortgage loans",
+            "secteur_zh": "住房保险和房贷",
+            "effet_fr": "Les propriétaires pourraient voir leurs primes d’assurance augmenter en raison des risques accrus liés aux coûts énergétiques, affectant leur capacité à obtenir des crédits immobiliers.",
+            "effet_en": "Homeowners may see higher insurance premiums due to increased risks tied to energy costs, impacting their ability to secure mortgages.",
+            "effet_zh": "房主可能因能源成本带来的风险增加而面临更高的保险费用，影响其获得房贷的能力。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-15T21:57:31.588405"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-24T08:40:47.775473"
+      },
       {
         "id": "iran_846222",
         "titre": "Retour des importations indiennes de pétrole à niveaux pré-guerre",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-10-13T07:23:15.270138"
-      },
-      {
-        "id": "iran_458467",
-        "titre": "Guerre Iran-US étouffe les petits commerces",
-        "titre_en": "Iran-US war crushes local businesses",
-        "titre_zh": "伊朗与美国战争压垮小商户",
-        "titre_ru": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
-        "titre_fa": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
-        "titre_ar": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
-        "titre_original": "‘Going bankrupt’: Iran shopkeepers struggle as war dims demand",
-        "resume": "Les sanctions et la guerre ont fait exploser les prix, réduisant drastiquement les ventes dans les bazars de Téhéran. Un commerçant de noix déclare que les clients achètent désormais par grammes au lieu de kilos. La crise économique aggrave la précarité des petits entrepreneurs.",
-        "resume_en": "Sanctions and war have driven up prices, slashing sales in Tehran’s bazaars. A nut vendor says customers now buy by grams instead of kilos. The economic crisis deepens the precarity of small business owners.",
-        "resume_zh": "制裁和战争导致物价飙升，使得德黑兰集市的销售骤减。一位核桃商说，顾客现在以克而不是千克购买。经济危机加剧了小商户的不稳定性。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette crise s’inscrit dans une longue histoire de tensions US-Iran, aggravée par les sanctions unilatérales depuis 2018. Les enjeux économiques dominent, avec une dépendance accrue aux importations malgré les ressources pétrolières. Les causes profondes incluent la corruption endémique et la mauvaise gestion des réserves de change. À court terme, les prix alimentaires continuent de monter, poussant à la pauvreté. À moyen terme, l’économie iranienne pourrait s’effondrer sans réformes structurelles. Long terme, une transition vers une économie résiliente semble improbable sans levée des sanctions. Les États-Unis maintiennent leur pression, tandis que la Russie et la Chine soutiennent Téhéran économiquement.",
-        "analyse_en": "This crisis stems from long-standing US-Iran tensions, worsened by unilateral sanctions since 2018. Economic stakes dominate, with increased import dependence despite oil wealth. Root causes include endemic corruption and poor foreign reserve management. Short-term, food prices keep rising, pushing people into poverty. Medium-term, Iran’s economy may collapse without structural reforms. Long-term, a resilient economy transition seems unlikely without sanctions relief. The US maintains pressure, while Russia and China economically back Tehran.",
-        "analyse_zh": "这次危机源于美国与伊朗长期的紧张关系，自2018年以来单边制裁加剧了局势。经济问题占主导地位，尽管拥有石油资源，伊朗仍依赖进口。深层原因包括根深蒂固的腐败和外汇储备管理不善。短期内，食品价格继续上涨，推动民众陷入贫困。中期内，伊朗经济可能在没有结构性改革的情况下崩溃。长期来看，没有解除制裁，过渡到一个抗风险的经济体似乎不太可能。美国坚持施压，而俄罗斯和中国则在经济上支持德黑兰。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Économie",
-        "source": "Hurriyet Daily News",
-        "url": "https://www.hurriyetdailynews.com/going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand-227966",
-        "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6acb34071265ecd727bd0f7b.jpg",
-        "date": "2026-10-11",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Rial iranien (monnaie locale)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché des importations (aliments, médicaments)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Rial iranien (monnaie locale)",
-            "secteur_en": "Iranian rial (local currency)",
-            "secteur_zh": "伊朗里亚尔（本土货币）",
-            "effet_fr": "La dévaluation continue du rial aggrave l’inflation et réduit le pouvoir d’achat des Iraniens, accélérant l’exode des capitaux.",
-            "effet_en": "The rial’s continuous devaluation worsens inflation and erodes Iranian purchasing power, accelerating capital flight.",
-            "effet_zh": "里亚尔持续贬值加剧了通胀，削弱了伊朗人的购买力，加速了资本外流。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des importations (aliments, médicaments)",
-            "secteur_en": "Imports market (food, medicine)",
-            "secteur_zh": "进口市场（食品、药品）",
-            "effet_fr": "Les pénuries de produits essentiels et la hausse des coûts des importations fragilisent le secteur sanitaire et alimentaire.",
-            "effet_en": "Shortages of essential goods and rising import costs weaken the food and healthcare sectors.",
-            "effet_zh": "生活必需品短缺和进口成本上升削弱了食品和医疗保健行业。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-12T07:15:07.316735"
       }
     ]
   },
