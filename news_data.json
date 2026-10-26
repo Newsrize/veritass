@@ -1,7 +1,66 @@
 {
-  "last_updated": "25/10/2026 à 23h50",
+  "last_updated": "26/10/2026 à 03h18",
   "articles": {
     "monde": [
+      {
+        "id": "monde_89078",
+        "titre": "Trump menace l’Iran d’attaques",
+        "titre_en": "Trump warns Iran of strikes",
+        "titre_zh": "特朗普威胁伊朗发动袭击",
+        "titre_ru": "For 20 years, a former New Jersey military housing site sat abandoned; now a $70 million plan will replace the decaying complex with 275 homes and new shops near Netflix's planned $1 billion studio",
+        "titre_fa": "For 20 years, a former New Jersey military housing site sat abandoned; now a $70 million plan will replace the decaying complex with 275 homes and new shops near Netflix's planned $1 billion studio",
+        "titre_ar": "For 20 years, a former New Jersey military housing site sat abandoned; now a $70 million plan will replace the decaying complex with 275 homes and new shops near Netflix's planned $1 billion studio",
+        "titre_original": "For 20 years, a former New Jersey military housing site sat abandoned; now a $70 million plan will replace the decaying complex with 275 homes and new shops near Netflix's planned $1 billion studio",
+        "resume": "Donald Trump a réaffirmé que les États-Unis doivent empêcher l’Iran d’acquérir l’arme nucléaire, tout en laissant la porte ouverte à un accord. Ses déclarations interviennent dans un contexte de tensions persistantes, notamment après les frappes américaines en Syrie et en Irak. Les analystes craignent une escalade militaire malgré les tentatives diplomatiques récentes.",
+        "resume_en": "Donald Trump reiterated that the US must prevent Iran from acquiring nuclear weapons, while leaving the door open to a deal. His remarks come amid persistent tensions, following US strikes in Syria and Iraq. Analysts fear a military escalation despite recent diplomatic efforts.",
+        "resume_zh": "特朗普重申美国必须阻止伊朗拥有核武器，同时保留谈判的可能性。在美军对叙利亚和伊拉克的袭击后，双方紧张关系持续升级。专家担忧局势可能进一步恶化，尽管近期有外交努力。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions entre les États-Unis et l’Iran remontent aux années 1970, avec la révolution islamique et l’hostilité croissante envers Washington. Le programme nucléaire iranien, perçu comme une menace existentielle par les États-Unis, alimente un cycle de sanctions et de provocations. À court terme, les marchés financiers pourraient réagir à l’incertitude géopolitique, tandis qu’à moyen terme, une escalade militaire risquerait de perturber les chaînes d’approvisionnement énergétiques. À long terme, un conflit ouvert pourrait redessiner les alliances régionales et accélérer les investissements dans les énergies alternatives. Les États-Unis, sous Trump, adoptent une posture agressive, tandis que Téhéran cherche à négocier sans céder sur ses droits nucléaires.",
+        "analyse_en": "US-Iran tensions date back to the 1970s, with the Islamic Revolution and growing hostility toward Washington. Iran’s nuclear program, seen as an existential threat by the US, fuels a cycle of sanctions and provocations. Short-term, financial markets may react to geopolitical uncertainty, while medium-term, a military escalation could disrupt energy supply chains. Long-term, open conflict could reshape regional alliances and accelerate investments in alternative energies. The US, under Trump, adopts an aggressive stance, while Tehran seeks to negotiate without conceding on nuclear rights.",
+        "analyse_zh": "美伊紧张关系可追溯到20世纪70年代伊斯兰革命和伊朗对美国的敌意。伊朗核计划被视为美国的生存威胁，导致制裁和挑衅循环不断。短期内，金融市场可能因地缘政治不确定性波动，中期内军事升级可能破坏能源供应链。长期来看，全面冲突可能重塑地区盟友关系，并加速对替代能源的投资。美国在特朗普执政期间采取强硬立场，而德黑兰则试图在不放弃核权利的情况下进行谈判。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us/for-20-years-a-former-new-jersey-military-housing-site-sat-abandoned-now-a-70-million-plan-will-replace-the-decaying-complex-with-275-homes-and-new-shops-near-netflixs-planned-1-billion-studio/articleshow/135177692.cms",
+        "image": "https://static.toiimg.com/thumb/msid-135177713,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "date": "2026-10-25",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier",
+            "hausse": true
+          },
+          {
+            "label": "▼ Bourse des matières premières",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier",
+            "secteur_en": "Oil market",
+            "secteur_zh": "石油市场",
+            "effet_fr": "Les tensions accrues pourraient faire fluctuer les prix du pétrole en raison des craintes d’interruptions d’approvisionnement via le golfe Persique.",
+            "effet_en": "Increased tensions could cause oil prices to fluctuate due to fears of supply disruptions through the Persian Gulf.",
+            "effet_zh": "升级的紧张局势可能导致石油价格波动，因为担心波斯湾供应中断。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Bourse des matières premières",
+            "secteur_en": "Commodities exchange",
+            "secteur_zh": "大宗商品交易所",
+            "effet_fr": "Les investisseurs pourraient se détourner des actifs liés au Moyen-Orient en raison des risques géopolitiques accrus.",
+            "effet_en": "Investors may pull back from Middle East-linked assets due to heightened geopolitical risks.",
+            "effet_zh": "投资者可能因地缘政治风险加大而减持中东相关资产。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-26T03:18:26.837274"
+      },
       {
         "id": "monde_565498",
         "titre": "Minnesota bat Iowa grâce à un coup de pied décisif",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-21T01:18:26.352202"
-      },
-      {
-        "id": "monde_375630",
-        "titre": "Musk et Anthropic ouvrent l’accès public à leurs actions",
-        "titre_en": "Musk and Anthropic offer public shares access",
-        "titre_zh": "马斯克和安thropic向公众开放股权",
-        "titre_ru": "Макс и Энтропик обещают раздать акции общественности перед лицом роста опасений по AI",
-        "titre_fa": "الانتروپیک و الون ماسک به مردم سهم می‌دهند تا نگرانی‌های اقتصادی و اجتماعی مربوط به هوش مصنوعی کاهش یابد",
-        "titre_ar": "إيلون ماسك وأنثروبيك يوعظون بتوزيع أسهم العامة وسط زيادة مخاوف من تأثيرات الذكاء الاصطناعي الاقتصادية والاجتماعية",
-        "titre_original": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
-        "resume": "Elon Musk et Anthropic, leader de l’IA, annoncent des plans pour distribuer des actions à des investisseurs non institutionnels, dans un contexte de craintes croissantes sur l’impact économique et sociétal de l’IA. Cette initiative vise à démocratiser l’accès aux technologies émergentes et à financer leur développement. Les critiques soulignent cependant les risques de spéculation et d’inégalités accrues.",
-        "resume_en": "Elon Musk and AI giant Anthropic pledge to offer shares to retail investors amid growing concerns over AI’s economic and societal fallout. The move aims to democratize access to cutting-edge tech and fund its growth, but critics warn of speculative risks and widening inequality.",
-        "resume_zh": "特斯拉CEO埃隆·马斯克和AI公司Anthropic宣布向零售投资者开放股权，在AI技术带来经济和社会影响的担忧日益加剧之际。这一举措旨在民主化对前沿技术的接触并筹集发展资金，但批评者警告可能引发投机风险和加剧不平等。",
-        "resume_ru": "Компании «Элон Маск» и «Антропик» объявили о планах по предоставлению акций широкой публике, чтобы снизить концентрацию капитала в руках немногих. Это происходит на фоне растущих опасений по поводу влияния искусственного интеллекта на рынок труда и социальную справедливость. Такие шаги могут повысить доверие к технологиям и стимулировать инновации.",
-        "resume_fa": "شرکت‌های الون ماسک و انتروپیک اعلام کرده‌اند که قصد دارند سهمی از شرکت‌های خود را به مردم عادی بدهند تا تمرکز سرمایه در دست چند نفر کاهش یابد. این اقدام در حالی صورت می‌گیرد که نگرانی‌های اقتصادی و اجتماعی مربوط به هوش مصنوعی افزایش می‌یابد. چنین اقداماتی می‌تواند اعتماد عمومی به فناوری‌ها را افزایش دهد و نوآوری‌ها را تشویق کند.",
-        "resume_ar": "أعلنت شركة إيلون ماسك وشركة أنثروبيك عن نيتها توزيع أسهم عامة من الشركاتهما لتقليل تركيز رأس المال في يد عدد قليل. هذا يحدث وسط زيادة مخاوف من تأثيرات الذكاء الاصطناعي على سوق العمل والعدالة الاجتماعية. قد يزيد هذا الخطوة من ثقة الجمهور في التكنولوجيا وتحفز الابتكار.",
-        "analyse_detaillee": "L’ouverture du capital aux particuliers s’inscrit dans une dynamique plus large de financiarisation des technologies disruptives, comme l’a fait Tesla avec ses actions en 2020. Les enjeux sont à la fois économiques (levée de fonds massive) et géopolitiques (concurrence avec la Chine et l’UE sur l’IA), mais aussi éthiques (contrôle démocratique des algorithmes). Les causes profondes incluent la course aux brevets et la peur d’un monopole technologique détenu par des élites. À court terme, cette mesure pourrait attirer des capitaux, mais aussi alimenter des bulles spéculatives. À moyen terme, elle pourrait fragmenter le marché de l’IA en favorisant des acteurs décentralisés. Long terme, cela pourrait redéfinir les modèles de propriété intellectuelle, mais au risque d’une gouvernance moins transparente. Musk et Anthropic jouent un rôle clé dans cette transition, tout en restant sous pression des régulateurs et des ONG.",
-        "analyse_en": "Opening equity to retail investors follows Tesla’s 2020 IPO and reflects broader tech financiarization trends, with stakes in economic funding, geopolitical AI competition, and ethical algorithmic control. Root causes include patent races and fears of elite tech monopolies. Short-term, this could attract capital but also fuel speculative bubbles. Mid-term, it may fragment the AI market by empowering decentralized actors. Long-term, it could redefine IP models—but risk less transparent governance. Musk and Anthropic lead this shift while facing regulator and NGO scrutiny.",
-        "analyse_zh": "向零售投资者开放股权属于更广泛的技术金融化趋势，类似于特斯拉2020年的IPO。其涉及经济融资、AI领域的地缘政治竞争以及算法伦理控制等多重利益。深层原因包括专利竞争和对精英技术垄断的担忧。短期内，这一举措可能吸引资金，但也可能助长投机泡沫。中期内，它可能分散AI市场，支持去中心化的参与者。长期来看，这可能重新定义知识产权模式，但风险在于治理透明度降低。马斯克和Anthropic在技术转型中扮演关键角色，同时面临监管机构和NGO的压力。",
-        "analyse_ru": "Контекст: рост AI вызывает дискуссии о необходимости демократизации доступа к технологиям и их регулировании. Причины: монополизация рынка AI усиливает неравенство и риски для общества. Последствия: доступность акций может привлечь новых инвесторов и стимулировать конкуренцию. Перспективы: если тренд продолжится, это может изменить структуру владения технологическими гигантами. Позиции сторон: сторонники открытости приветствуют шаги, в то время как критики опасаются потери контроля над развитием AI.",
-        "analyse_fa": "زمینه: رشد هوش مصنوعی بحثی در مورد نیاز به دموکراتیک کردن دسترسی به فناوری‌ها و تنظیم آن ایجاد کرده‌است. علل: انحصار بازار هوش مصنوعی نابرابری و خطرات اجتماعی را افزایش می‌دهد. پیامدها: دسترسی به سهام می‌تواند سرمایه‌گذاران جدیدی را جذب کند و رقابت را تشویق کند. چشم‌انداز: اگر این روند ادامه یابد، ممکن است ساختار مالکیت شرکت‌های فناوری بزرگ تغییر کند. موضع بازیگران: طرفداران باز بودن این اقدامات را تحسین می‌کنند، در حالی که منتقدان از از دست دادن کنترل بر توسعه هوش مصنوعی نگران هستند.",
-        "analyse_ar": "السياق: نمو الذكاء الاصطناعي أثار نقاش حول ضرورة ديمقراطية الوصول إلى التكنولوجيا وتعديلها. الأسباب: احتكار سوق الذكاء الاصطناعي يزيد من عدم المساواة وخطرات اجتماعية. العواقب: إمكانية الوصول إلى الأسهم قد تجذب مستثمرين جدد وتحفز المنافسة. الآفاق: إذا استمر هذا الاتجاه، قد يتغير هيكل ملكية الشركات التقنية الكبرى. مواقف الأطراف: يرحب مؤيدو الشفافية بهذه الخطوات، بينما يخشى النقاد فقدان السيطرة على تطور الذكاء الاصطناعي.",
-        "categorie": "Technologie",
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-anthropic-make-promises-give-public-piece-ai-pie-rcna604313",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-elon-musk-mn-0845-6be1a3.jpg",
-        "date": "2026-10-19",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des actions technologiques (NASDAQ)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Fonds de capital-risque (VC)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des actions technologiques (NASDAQ)",
-            "secteur_en": "Tech stock market (NASDAQ)",
-            "secteur_zh": "纳斯达克科技股市场",
-            "effet_fr": "L’introduction d’actions Anthropic pourrait dynamiser le secteur des IA et attirer des investisseurs institutionnels vers des startups émergentes.",
-            "effet_en": "Anthropic’s IPO could boost AI stocks and draw institutional investors to emerging tech startups.",
-            "effet_zh": "Anthropic的上市可能推动AI股票市场增长，并吸引机构投资者进入新兴科技初创企业。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Fonds de capital-risque (VC)",
-            "secteur_en": "Venture capital funds",
-            "secteur_zh": "风险投资基金",
-            "effet_fr": "La démocratisation de l’accès aux actions pourrait réduire la dépendance des startups aux fonds VC traditionnels, mais aussi diluer leur contrôle stratégique.",
-            "effet_en": "Democratizing stock access may reduce startups’ reliance on traditional VC funds but could dilute strategic control.",
-            "effet_zh": "民主化股权接触可能减少初创企业对传统VC基金的依赖，但也可能稀释其战略控制权。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-20T14:41:23.864715"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_411891",
+        "titre": "Israël face à un scrutin historique",
+        "titre_en": "Israel’s historic election looms",
+        "titre_zh": "以色列举行关键大选",
+        "titre_ru": "Trump on Iran: We have to make sure they never have a nuclear weapon",
+        "titre_fa": "Trump on Iran: We have to make sure they never have a nuclear weapon",
+        "titre_ar": "Trump on Iran: We have to make sure they never have a nuclear weapon",
+        "titre_original": "Trump on Iran: We have to make sure they never have a nuclear weapon",
+        "resume": "Israël organise une élection cruciale pour son avenir politique, avec des manifestations massives contre le Premier ministre Benjamin Netanyahu. Les tensions internes et la crise sécuritaire en cours compliquent davantage le paysage politique. Les analystes soulignent que le résultat pourrait redéfinir les relations avec les États-Unis et les pays arabes.",
+        "resume_en": "Israel holds a pivotal election for its political future, with massive rallies against Prime Minister Benjamin Netanyahu. Internal tensions and ongoing security crises further complicate the political landscape. Analysts note that the outcome could reshape relations with the US and Arab states.",
+        "resume_zh": "以色列举行决定政治前途的关键大选，反对本雅明·内塔尼亚胡的大规模集会声势浩大。国内紧张局势和持续的安全危机进一步复杂化了政治格局。专家指出，选举结果可能重塑与美国和阿拉伯国家的关系。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les élections israéliennes ont toujours été un baromètre des divisions internes et des priorités géopolitiques, avec des alternances entre droite et gauche depuis les années 1990. Netanyahu incarne une droite nationaliste et conservatrice, tandis que ses opposants prônent une approche plus pragmatique sur les questions de paix et de sécurité. Les conséquences immédiates dépendront de la participation électorale et de la capacité des partis à former une coalition stable. À moyen terme, un changement de gouvernement pourrait influencer les négociations avec le Hamas et l’Iran. Long terme, cela pourrait accélérer ou ralentir les processus de paix avec les Palestiniens et les normalisations avec les pays arabes.",
+        "analyse_en": "Israeli elections have long been a barometer of internal divisions and geopolitical priorities, with shifts between right and left since the 1990s. Netanyahu represents a nationalist and conservative right, while his opponents advocate a more pragmatic approach to peace and security. Immediate consequences will depend on voter turnout and the ability of parties to form a stable coalition. Medium-term, a government change could influence negotiations with Hamas and Iran. Long-term, this could accelerate or slow peace processes with Palestinians and Arab normalizations.",
+        "analyse_zh": "以色列大选一直是国内分裂和地缘政治优先事项的晴雨表，自1990年代以来左右政党轮流执政。内塔尼亚胡代表右翼民族主义和保守派，而反对派则主张在和平与安全问题上采取更务实的立场。短期影响取决于选民参与度和政党组建稳定联盟的能力。中期内，政府更迭可能影响与哈马斯和伊朗的谈判。长期来看，这可能加速或减缓与巴勒斯坦的和平进程以及与阿拉伯国家的正常化进程。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/435098",
+        "image": "https://2.a7.org/files/pictures/000/1226590.jpg",
+        "date": "2026-10-25",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Bourse de Tel-Aviv",
+            "hausse": false
+          },
+          {
+            "label": "▼ Investissements étrangers en Israël",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Bourse de Tel-Aviv",
+            "secteur_en": "Tel Aviv Stock Exchange",
+            "secteur_zh": "特拉维夫证券交易所",
+            "effet_fr": "L’incertitude politique pourrait entraîner une volatilité accrue des actions liées aux secteurs de la défense et de la technologie.",
+            "effet_en": "Political uncertainty could lead to increased volatility in defense and tech sector stocks.",
+            "effet_zh": "政治不确定性可能导致国防和科技股价格波动加剧。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Investissements étrangers en Israël",
+            "secteur_en": "Foreign investments in Israel",
+            "secteur_zh": "以色列外资投资",
+            "effet_fr": "Les investisseurs pourraient reporter leurs décisions en attendant la clarification du paysage politique post-électoral.",
+            "effet_en": "Investors may delay decisions awaiting clarity on the post-election political landscape.",
+            "effet_zh": "投资者可能会推迟决定，等待选后政治格局明朗。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-26T03:18:26.837294"
+      },
       {
         "id": "usa_155693",
         "titre": "Cougars et Broncos en duel historique",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-10-21T01:18:26.352223"
-      },
-      {
-        "id": "usa_874921",
-        "titre": "Fermiers américains en crise face aux tarifs et au diesel",
-        "titre_en": "US farmers face financial squeeze from tariffs and diesel",
-        "titre_zh": "美国农民因关税和柴油面临财务压力",
-        "titre_ru": "Фермеры Канзаса разочарованы тарифами и ценой дизеля, обвиняя республиканцев перед выборами",
-        "titre_fa": "کشاورزان کانزاس از فشار مالی ناشی از ترافیک و قیمت بنزین خسته شده‌اند و جمهوری‌خواهان را متهم می‌کنند",
-        "titre_ar": "الفلاحون في كانساس يئسون من ضغوط الرسوم الجمركية وسعر الديزل ويتهمون الحزب الجمهوري قبل الانتخابات",
-        "titre_original": "‘I am so fed up’: Farmers face financial squeeze from tariffs and diesel and blame GOP as Trump heads to Kansas to energize voters before midterms",
-        "resume": "Glenn Brunkow, agriculteur de cinquième génération au Kansas, dénonce une situation financière critique due aux tarifs douaniers et à la hausse des coûts du diesel. Les tarifs imposés par l’administration Trump ont réduit les marges bénéficiaires, tandis que les prix des intrants explosent. Ce contexte aggrave les tensions avant les élections de mi-mandat, où Donald Trump tente de mobiliser son électorat rural.",
-        "resume_en": "Fifth-generation Kansas farmer Glenn Brunkow describes a dire financial situation driven by tariffs and soaring diesel costs. Trump-era trade barriers have squeezed profits, while input prices surge, deepening rural economic strain ahead of midterm elections. The president’s rally in Kansas aims to energize his base amid growing rural discontent.",
-        "resume_zh": "堪萨斯州第五代农民格伦·布鲁科夫抱怨因关税和柴油价格飙升而面临财务危机。特朗普政府实施的贸易壁垒压缩了利润空间，而生产成本持续上涨，加剧了农村地区的经济压力。在中期选举前，特朗普试图在堪萨斯州动员其农村支持者。",
-        "resume_ru": "Гленн Брункоу, фермер пятого поколения из Канзаса, описывает этот сезон как «время активных работ», когда необходимо убрать урожай и перегнать скот с летних пастбищ на зимние. Однако из-за тарифов и высоких цен на дизель фермеры сталкиваются с серьезными финансовыми трудностями. В преддверии выборов Трамп посещает штат, чтобы поддержать своих сторонников.",
-        "resume_fa": "گلن برونکو، کشاورز نسل پنجم کانزاس، این فصل را «زمان کار» می‌نامد که کشاورزان باید محصولات خود را جمع‌آوری و دام‌ها را از چراگاه‌های تابستانی به زمستانی منتقل کنند. اما به دلیل ترافیک و افزایش قیمت بنزین، کشاورزان با مشکلات مالی جدی روبرو هستند. در پیش از انتخابات، ترامپ به کانزاس می‌رود تا از طرفداران خود حمایت کند.",
-        "resume_ar": "يصف غلين برونكو، فلاح من أصل خامس في كانساس، هذا الموسم بأنه «وقت العمل»، حيث يجب على الفلاحين جمع المحاصيل ونقل الماشية من المراعي الصيفية إلى الشتوية. ومع ذلك، يواجه الفلاحون صعوبات مالية كبيرة بسبب الرسوم الجمركية وارتفاع سعر الديزل. قبل الانتخابات، يزور ترامب ولاية كانساس لدعم مؤيديه.",
-        "analyse_detaillee": "Les tensions agricoles aux États-Unis s’inscrivent dans une longue histoire de protectionnisme et de volatilité des prix des matières premières, exacerbée par les politiques commerciales de Trump. Les tarifs douaniers ciblent souvent les partenaires commerciaux (Chine, UE), mais leur impact se répercute sur les producteurs locaux via la hausse des coûts logistiques et énergétiques. La dépendance aux énergies fossiles et l’absence de diversification économique dans les zones rurales aggravent la vulnérabilité. À court terme, les fermiers réduisent leurs investissements ou vendent des actifs, accélérant la concentration foncière. À moyen terme, l’exode rural pourrait s’intensifier, tandis que les subventions gouvernementales deviennent insoutenables financièrement. Long terme, une relance des échanges commerciaux équilibrés et une transition énergétique pourraient atténuer les crises, mais dépendent d’un changement politique radical. Les républicains, divisés entre partisans de Trump et modérés, restent en retrait sur des solutions structurelles, privilégiant des mesures symboliques pour l’électorat.",
-        "analyse_en": "US agricultural tensions reflect a long history of protectionism and commodity price volatility, worsened by Trump’s trade policies. Tariffs on key partners (China, EU) indirectly hit local farmers through higher logistics and energy costs, compounded by fossil fuel dependence and rural economic stagnation. Short-term, farmers slash investments or sell assets, accelerating land concentration. Mid-term, rural depopulation may worsen, while government subsidies become fiscally unsustainable. Long-term, balanced trade revival and energy transition could mitigate crises, but require political shifts. Republicans remain divided between Trump loyalists and moderates, offering symbolic fixes over structural reforms to retain rural voters.",
-        "analyse_zh": "美国农业危机源于长期的保护主义和大宗商品价格波动，特朗普的贸易政策进一步恶化了局面。对中国和欧盟等主要贸易伙伴征收的关税间接加重了本土农民的负担，通过提高物流和能源成本，而对化石燃料的依赖和农村经济停滞加剧了脆弱性。短期内，农民减少投资或出售资产，加速土地集中。中期内，农村人口外流可能加剧，而政府补贴难以持续。长期来看，公平贸易恢复和能源转型可能缓解危机，但需政治变革。共和党内部分裂，部分支持特朗普的硬汉派和温和派倾向于提供象征性解决方案，以维持农村选民支持。",
-        "analyse_ru": "Контекст: Канзас — ключевой штат для республиканцев, где сельское хозяйство остается важной отраслью экономики. Причины: тарифы повышают стоимость импорта удобрений и техники, а рост цен на дизель увеличивает издержки. Последствия: фермеры сокращают инвестиции, что угрожает продовольственной безопасности. Перспективы: если ситуация не изменится, может произойти массовый выход фермеров из бизнеса. Позиции сторон: демократы обвиняют республиканцев в неэффективной политике, в то время как Трамп ссылается на внешние факторы, такие как пандемия и геополитические конфликты.",
-        "analyse_fa": "زمینه: کانزاس یکی از ایالت‌های کلیدی جمهوری‌خواهان است که کشاورزی در آن نقش مهمی در اقتصاد دارد. علل: ترافیک‌ها هزینه واردات کود و ماشین‌آلات را افزایش می‌دهد و افزایش قیمت بنزین هزینه‌های تولید را بالا می‌برد. پیامدها: کشاورزان سرمایه‌گذاری خود را کاهش می‌دهند که به امنیت غذایی کشور تهدید می‌کند. چشم‌انداز: اگر وضعیت تغییر نکند، ممکن است کشاورزان به تعداد زیادی از این صنعت خارج شوند. موضع بازیگران: دموکرات‌ها جمهوری‌خواهان را به سیاست‌های نامناسب متهم می‌کنند، در حالی که ترامپ به عوامل خارجی مانند پاندمی و تنش‌های جغرافیایی سیاسی اشاره می‌کند.",
-        "analyse_ar": "السياق: كانساس ولاية حاسمة للحزب الجمهوري حيث تعد الزراعة قطاعا اقتصاديا هاما. الأسباب: ترفع الرسوم الجمركية تزيد من تكلفة استيراد الأسمدة والآلات، بينما ارتفاع سعر الديزل يزيد من تكاليف الإنتاج. العواقب: يقلل الفلاحون من استثماراتهم، ما يهدد أمن الغذاء في البلاد. الآفاق: إذا لم تتغير الوضعية، قد يغادر الفلاحون هذا القطاع بأعداد كبيرة. مواقف الأطراف: يتهم الديمقراطيون الجمهوريين بالسياسات غير الفعالة، بينما يرجع ترامب الأمر إلى عوامل خارجية مثل الجائحة والتوترات الجغرافية السياسية.",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a254ff7e5fc53e05",
-        "image": "https://biztoc.com/cdn/a254ff7e5fc53e05_s.webp",
-        "date": "2026-10-19",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché des céréales et oléagineux",
-            "hausse": false
-          },
-          {
-            "label": "▲ Secteur énergétique (diesel et carburants)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des céréales et oléagineux",
-            "secteur_en": "Grain and oilseed market",
-            "secteur_zh": "谷物和油料市场",
-            "effet_fr": "Les tarifs douaniers réduisent les exportations américaines vers l’étranger, déprimant les prix mondiaux et limitant les revenus des producteurs locaux.",
-            "effet_en": "Tariffs shrink US exports abroad, depressing global prices and capping farmers’ earnings.",
-            "effet_zh": "关税减少了美国对外出口，压低了全球价格，限制了本土农民的收入。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur énergétique (diesel et carburants)",
-            "secteur_en": "Energy sector (diesel and fuels)",
-            "secteur_zh": "能源行业（柴油和燃料）",
-            "effet_fr": "La flambée des prix du diesel et des carburants augmente les coûts de production et de transport, rendant les exploitations moins rentables.",
-            "effet_en": "Rising diesel and fuel prices hike production and transport costs, squeezing farm profitability.",
-            "effet_zh": "柴油和燃料价格上涨增加了生产和运输成本，降低了农场的盈利能力。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-20T14:41:23.864693"
       }
     ],
     "chine": [
@@ -3769,6 +3769,65 @@
     ],
     "russie": [
       {
+        "id": "russie_153943",
+        "titre": "L’UE discute financement Ukraine 2027",
+        "titre_en": "EU debates Ukraine funding 2027",
+        "titre_zh": "欧盟讨论2027年乌克兰资金",
+        "titre_ru": "EU leaders to discuss 2027 money for Ukraine, next EU budget on November 26-27",
+        "titre_fa": "EU leaders to discuss 2027 money for Ukraine, next EU budget on November 26-27",
+        "titre_ar": "EU leaders to discuss 2027 money for Ukraine, next EU budget on November 26-27",
+        "titre_original": "EU leaders to discuss 2027 money for Ukraine, next EU budget on November 26-27",
+        "resume": "Les dirigeants européens se réunissent pour trouver un accord sur les 70 milliards d’euros manquants nécessaires à l’Ukraine en 2027. Ce sommet intervient alors que le budget à long terme de l’UE est également en discussion. Les désaccords entre États membres sur la répartition des coûts persistent, retardant les décisions cruciales.",
+        "resume_en": "European leaders meet to agree on the €70 billion missing needed for Ukraine in 2027. The summit coincides with discussions on the EU’s long-term budget. Disagreements among member states over cost-sharing delays critical decisions.",
+        "resume_zh": "欧洲领导人将讨论为乌克兰2027年所需的700亿欧元资金问题。此次峰会与欧盟长期预算讨论同时进行。成员国之间在分摊成本问题上存在分歧，推迟了关键决定。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La guerre en Ukraine a révélé les fractures au sein de l’UE, avec des pays comme l’Allemagne et la Pologne en première ligne pour soutenir Kiev, tandis que d’autres, comme la Hongrie ou la Roumanie, adoptent une posture plus prudente. Les 70 milliards d’euros manquants reflètent à la fois le manque de cohésion budgétaire et les divergences stratégiques entre membres. À court terme, l’absence d’accord pourrait affaiblir la résilience ukrainienne face à la Russie. À moyen terme, cela pourrait aussi fragiliser la crédibilité de l’UE en tant qu’acteur géopolitique unifié. Long terme, une solution doit être trouvée pour éviter une fragmentation durable des politiques européennes.",
+        "analyse_en": "The war in Ukraine has exposed fractures within the EU, with countries like Germany and Poland leading support for Kyiv, while others, like Hungary or Romania, adopt a more cautious stance. The €70 billion gap reflects both budgetary cohesion issues and strategic divergences among members. Short-term, lack of agreement could weaken Ukraine’s resilience against Russia. Medium-term, this could also undermine the EU’s credibility as a unified geopolitical actor. Long-term, a solution must be found to avoid lasting fragmentation of European policies.",
+        "analyse_zh": "乌克兰战争暴露了欧盟内部的分裂，德国和波兰等国在支持基辅方面处于前沿，而匈牙利和罗马尼亚等国则采取更谨慎的立场。700亿欧元的缺口反映了欧盟在财政凝聚力和战略分歧上的问题。短期内，缺乏协议可能削弱乌克兰抵抗俄罗斯的能力。中期内，这也可能动摇欧盟作为统一地缘政治力量的信誉。长期来看，必须找到解决方案，以避免欧洲政策持续分裂。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4400501/posts",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-10-25",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Euro obligataire",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des assurances politiques",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Euro obligataire",
+            "secteur_en": "Eurobond market",
+            "secteur_zh": "欧元债券市场",
+            "effet_fr": "Les incertitudes sur le financement de l’Ukraine pourraient faire monter les rendements des obligations souveraines européennes, reflétant une perception accrue de risque.",
+            "effet_en": "Uncertainty over Ukraine funding could drive up yields on European sovereign bonds, signaling higher perceived risk.",
+            "effet_zh": "乌克兰资金不确定性可能推高欧洲主权债券收益率，反映出风险感知增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des assurances politiques",
+            "secteur_en": "Political risk insurance market",
+            "secteur_zh": "政治风险保险市场",
+            "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques liés à l’Ukraine, en raison des tensions persistantes avec la Russie.",
+            "effet_en": "Insurers may raise premiums to cover Ukraine-related risks due to ongoing tensions with Russia.",
+            "effet_zh": "保险公司可能提高保费以覆盖与乌克兰相关的风险，由于与俄罗斯的紧张局势持续。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-26T03:18:26.837303"
+      },
+      {
         "id": "russie_411445",
         "titre": "SpaceX restreint Starlink à l'Ukraine pour éviter son usage militaire",
         "titre_en": "SpaceX restricts Ukraine Starlink access to prevent military use",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-20T03:29:25.771796"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_24381",
-        "titre": "Turquie attend une part de diesel sous accord US-Russie",
-        "titre_en": "Turkey expects diesel fuel share under US-Russia deal",
-        "titre_zh": "土耳其期待美俄协议下的柴油份额",
-        "titre_ru": "Турция ожидает часть дизельного топлива по сделке США-Россия",
-        "titre_fa": "ترکیه انتظار دریافت بخشی از سوخت دیزل بر اساس توافق آمریکا و روسیه دارد",
-        "titre_ar": "توقع تركيا الحصول على جزء من الوقود الديزل بموجب اتفاق الولايات المتحدة و روسيا",
-        "titre_original": "Turkiye Expects to Receive Share of Diesel Fuel Under US-Russia Deal - Minister",
-        "resume": "La Turquie espère recevoir une partie du diesel issu d’un accord entre les États-Unis et la Russie, selon le ministre turc de l’Énergie. Cet accord pourrait redéfinir les flux énergétiques en Europe et au Moyen-Orient. La question des sanctions et des contre-sanctions reste centrale dans ce jeu géopolitique.",
-        "resume_en": "Turkey expects to receive a share of diesel from a U.S.-Russia deal, according to Turkey’s Energy Minister. This agreement could reshape energy flows in Europe and the Middle East. Sanctions and counter-sanctions remain central in this geopolitical game.",
-        "resume_zh": "土耳其能源部长表示，土耳其期待从美俄协议中获得柴油份额。该协议可能重塑欧洲和中东的能源流向。制裁与反制裁仍是这一地缘政治博弈的核心。",
-        "resume_ru": "Министр энергетики Турции заявил, что его страна получит часть дизельного топлива по соглашению между США и Россией. Это может помочь Турции в энергетическом кризисе. Однако детали сделки пока не раскрыты.",
-        "resume_fa": "وزیر انرژی ترکیه گفت که کشورش بخشی از سوخت دیزل را بر اساس توافق آمریکا و روسیه دریافت خواهد کرد. این ممکن است در بحران انرژی ترکیه کمک کند. اما جزئیات این توافق هنوز آشکار نشده است.",
-        "resume_ar": "أعلن وزير الطاقة التركي أن بلاده ستحصل على جزء من الوقود الديزل بموجب اتفاق بين الولايات المتحدة و روسيا. قد يساعد هذا تركيا في أزمة الطاقة. ومع ذلك، لم يتم الكشف عن تفاصيل الاتفاقية حتى الآن.",
-        "analyse_detaillee": "Cet accord s’inscrit dans une dynamique de détente post-Ukraine, mais reste fragile face aux tensions persistantes. Les enjeux énergétiques dominent, avec la Russie cherchant à contourner les sanctions occidentales. Les causes profondes incluent la dépendance européenne au gaz russe et le besoin turc de diversifier ses approvisionnements. Court terme : possible augmentation des livraisons de pétrole vers la Méditerranée. Moyen terme : pression accrue sur l’UE pour assouplir ses sanctions. Long terme : risque de dépendance accrue de l’Europe à des flux énergétiques instables. Les acteurs sont la Russie (pour vendre), les États-Unis (pour surveiller) et la Turquie (pour négocier).",
-        "analyse_en": "This deal fits a post-Ukraine détente dynamic but remains fragile amid persistent tensions. Energy stakes dominate, with Russia seeking to bypass Western sanctions. Root causes include Europe’s dependence on Russian gas and Turkey’s need to diversify supplies. Short-term: possible increase in oil deliveries to the Mediterranean. Medium-term: increased pressure on the EU to ease sanctions. Long-term: risk of Europe’s heightened dependence on unstable energy flows. Key actors are Russia (to sell), the U.S. (to monitor), and Turkey (to negotiate).",
-        "analyse_zh": "这一协议源自乌克兰战后缓和局势，但仍因持续紧张局势而脆弱。能源影响居首，俄罗斯试图绕过西方制裁。深层原因包括欧洲对俄天然气的依赖和土耳其多元化供应的需求。短期内可能增加地中海地区的石油运输，中期加大欧盟放宽制裁的压力，长期存在欧洲对不稳定能源流依赖加深的风险。关键利益相关方包括俄罗斯（出口）、美国（监管）和土耳其（谈判）。",
-        "analyse_ru": "Соглашение между США и Россией по топливу может стать шагом к смягчению санкций, но Турция остается в сложной геополитической ситуации. Получение дизеля может улучшить экономику Турции, но зависимость от российских поставок остается риском. Западные страны могут воспринять это как нарушение санкций. В долгосрочной перспективе Турция может потерять поддержку Запада. Однако для Турции это шанс стабилизировать энергетический рынок. Критики говорят, что это шаг к дальнейшей зависимости от Москвы.",
-        "analyse_fa": "اتفاق آمریکا و روسیه در مورد سوخت ممکن است یک قدم در جهت کاهش تحریم‌ها باشد، اما ترکیه همچنان در موقعیت ژئوپولیتیکی پیچیده‌ای قرار دارد. دریافت سوخت دیزل می‌تواند اقتصاد ترکیه را بهبود بخشد، اما وابستگی به تأمین روسیه همچنان خطرناک است. کشورهای غربی ممکن است این را نقض تحریم‌ها بدانند. در بلندمدت، ترکیه ممکن است از حمایت غرب بی‌بهره شود. اما برای ترکیه این فرصت استقرار بازار انرژی است. منتقدان معتقدند که این یک قدم در راه وابستگی بیشتر به مسکو است.",
-        "analyse_ar": "قد يكون اتفاق الولايات المتحدة و روسيا بشأن الوقود خطوة نحو تخفيف العقوبات، لكن تركيا ما زالت في وضعية جيوبوليتيكية معقدة. قد يحسن الحصول على الوقود الديزل الاقتصاد التركي، لكن الاعتماد على الإمدادات الروسية يظل خطرًا. قد يعتبر الغرب هذا انتهاكًا للعقوبات. على المدى الطويل، قد تفقد تركيا دعم الغرب. ومع ذلك، بالنسبة لتركيا، هذا فرصة استقرار سوق الطاقة. ينتقد البعض أن هذا خطوة نحو الاعتماد الأكبر على موسكو.",
-        "categorie": "Énergie & Géopolitique",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20261018/turkiye-expects-to-receive-share-of-diesel-fuel-under-us-russia-deal-minister-1124899208.html",
-        "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124899208.jpg?11017638811792349195",
-        "date": "2026-10-18",
-        "pays": "russie",
+        "id": "iran_681827",
+        "titre": "Redéveloppement site militaire New Jersey",
+        "titre_en": "New Jersey military site redevelopment",
+        "titre_zh": "新泽西军事基地重建计划",
+        "titre_ru": "Israelis hold final rally against Netanyahu ahead of consequential election",
+        "titre_fa": "Israelis hold final rally against Netanyahu ahead of consequential election",
+        "titre_ar": "Israelis hold final rally against Netanyahu ahead of consequential election",
+        "titre_original": "Israelis hold final rally against Netanyahu ahead of consequential election",
+        "resume": "Un ancien site militaire abandonné en Nouvelle-Jérsey depuis 20 ans va être transformé en complexe de 275 logements et commerces, avec un investissement de 70 millions de dollars. Le projet s’inscrit dans une dynamique de revitalisation urbaine près d’un futur studio Netflix de 1 milliard de dollars. Cette initiative pourrait relancer l’économie locale et attirer de nouveaux résidents.",
+        "resume_en": "A former New Jersey military site abandoned for 20 years will be redeveloped into a complex of 275 homes and shops, with a $70 million investment. The project aligns with urban revitalization efforts near Netflix’s planned $1 billion studio. This initiative could boost the local economy and attract new residents.",
+        "resume_zh": "新泽西一处20年来荒废的军事基地将被改造成包含275套住房和商铺的综合体，投资7000万美元。该项目与 Netflix 计划投资10亿美元建设影视基地的城市复兴动向相符。这一举措可能刺激当地经济并吸引新居民。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les sites militaires abandonnés aux États-Unis sont souvent des symboles de désengagement fédéral et de déclin économique local, comme en témoignent des cas similaires dans le New Hampshire ou le Michigan. Ce projet s’inscrit dans une tendance plus large de reconversion des espaces militaires en zones résidentielles ou commerciales, soutenue par des partenariats public-privé. À court terme, la création d’emplois et l’amélioration de l’infrastructure pourraient dynamiser la région. À moyen terme, l’arrivée de Netflix pourrait attirer d’autres entreprises technologiques et renforcer l’attractivité de la zone. Long terme, cela pourrait servir de modèle pour d’autres reconversions similaires, tout en posant la question de l’équilibre entre développement urbain et préservation des espaces naturels environnants.",
+        "analyse_en": "Abandoned military sites in the US often symbolize federal disengagement and local economic decline, as seen in similar cases in New Hampshire or Michigan. This project fits a broader trend of converting military spaces into residential or commercial zones, backed by public-private partnerships. Short-term, job creation and infrastructure improvements could revitalize the region. Medium-term, Netflix’s arrival could attract other tech firms and boost the area’s appeal. Long-term, this could set a precedent for similar conversions while raising questions about balancing urban development with environmental preservation.",
+        "analyse_zh": "美国废弃的军事基地通常象征着联邦撤退和当地经济衰退，如新罕布什尔州和密歇根州的类似案例所示。该项目符合将军事空间转型为住宅或商业区的更广泛趋势，并由公私合作支持。短期内，就业创造和基础设施改善可能振兴当地经济。中期内，Netflix的到来可能吸引其他科技企业并提升地区吸引力。长期来看，这可能成为其他类似转型的示范，同时也提出了在城市发展与环境保护之间寻求平衡的问题。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie/Urbanisme",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/israelis-hold-final-rally-against-netanyahu-ahead-of-consequential-election-126102500010_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/25/thumb/featurecrop/1200X628/1792895314-1503.JPG",
+        "date": "2026-10-25",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché pétrolier brut méditerranéen",
-            "hausse": false
+            "label": "▲ Immobilier résidentiel",
+            "hausse": true
           },
           {
-            "label": "▲ Finance des sanctions commerciales",
+            "label": "▲ Investissements technologiques",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché pétrolier brut méditerranéen",
-            "secteur_en": "Mediterranean crude oil market",
-            "secteur_zh": "地中海原油市场",
-            "effet_fr": "Les livraisons supplémentaires de diesel pourraient faire baisser les prix du brut dans la région, mais aussi intensifier la concurrence avec les producteurs locaux.",
-            "effet_en": "Additional diesel deliveries may lower crude prices in the region but also intensify competition with local producers.",
-            "effet_zh": "额外的柴油运输可能降低当地原油价格，但也加剧与本地生产商的竞争。",
-            "hausse": false
+            "secteur_fr": "Immobilier résidentiel",
+            "secteur_en": "Residential real estate",
+            "secteur_zh": "住宅房地产",
+            "effet_fr": "La demande accrue pour des logements abordables pourrait faire grimper les prix dans la région, tout en stimulant la construction de nouveaux projets.",
+            "effet_en": "Increased demand for affordable housing could drive up prices in the region while boosting new construction projects.",
+            "effet_zh": "对经济适用房的需求增加可能推高当地房价，同时刺激新项目建设。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Finance des sanctions commerciales",
-            "secteur_en": "Commercial sanctions finance",
-            "secteur_zh": "商业制裁金融",
-            "effet_fr": "Les flux énergétiques alternatifs pourraient créer des opportunités pour les acteurs contournant les sanctions, mais aussi attirer l’attention des régulateurs financiers internationaux.",
-            "effet_en": "Alternative energy flows may create opportunities for actors bypassing sanctions but also draw attention from international financial regulators.",
-            "effet_zh": "替代能源流动可能为规避制裁的参与者带来机会，但也会吸引国际金融监管机构的关注。",
+            "secteur_fr": "Investissements technologiques",
+            "secteur_en": "Tech investments",
+            "secteur_zh": "科技投资",
+            "effet_fr": "L’arrivée de Netflix pourrait attirer des investisseurs dans les infrastructures numériques et les services liés au divertissement, dynamisant le secteur local.",
+            "effet_en": "Netflix’s arrival could attract investors in digital infrastructure and entertainment-related services, boosting the local tech sector.",
+            "effet_zh": "Netflix的到来可能吸引数字基础设施和娱乐相关服务的投资者，从而振兴当地科技行业。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-19T19:02:06.609363"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-26T03:18:26.837310"
+      },
       {
         "id": "iran_977302",
         "titre": "Taux de fret record paralysent les flux pétroliers américains vers l’Asie",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-10-16T19:19:54.428040"
-      },
-      {
-        "id": "iran_836261",
-        "titre": "Histoire révèle la puissance économique face aux conflits",
-        "titre_en": "History shows economic power over geopolitical disputes",
-        "titre_zh": "历史显示经济实力压倒地缘政治争端",
-        "titre_ru": "What history tells us about the closure of vital waterways",
-        "titre_fa": "What history tells us about the closure of vital waterways",
-        "titre_ar": "What history tells us about the closure of vital waterways",
-        "titre_original": "What history tells us about the closure of vital waterways",
-        "resume": "Les conflits historiques autour du canal de Suez (1956) et du détroit d’Ormuz (2023) illustrent comment les puissances économiques finissent par dominer les tensions géopolitiques. Ces exemples montrent que les blocages stratégiques peuvent être surmontés par des solutions commerciales ou diplomatiques. L’Iran, acteur clé dans le détroit d’Ormuz, en tire des leçons pour sa sécurité énergétique.",
-        "resume_en": "Historical conflicts over the Suez Canal (1956) and the Strait of Hormuz (2023) illustrate how economic powers ultimately dominate geopolitical tensions. These cases show that strategic blockades can be overcome by commercial or diplomatic solutions. Iran, a key player in the Strait of Hormuz, draws lessons for its energy security.",
-        "resume_zh": "苏伊士运河（1956年）和霍尔木兹海峡（2023年）的历史冲突展示了经济实力最终压倒地缘政治紧张局势的情况。这些案例表明，战略封锁可以通过商业或外交解决方案来克服。伊朗作为霍尔木兹海峡的关键参与者，从中汲取能源安全的教训。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Ces conflits révèlent une dynamique où les puissances maritimes et commerciales finissent par imposer leur volonté via des alliances économiques plutôt que par la force militaire. Les enjeux incluent le contrôle des routes commerciales et la résilience des chaînes d’approvisionnement globales. Les causes profondes résident dans la dépendance mondiale aux énergies fossiles et aux corridors maritimes. Court terme, cela pourrait renforcer les investissements dans les infrastructures portuaires iraniennes. À moyen terme, cela pourrait accélérer la diversification des routes commerciales alternatives. Long terme, cela pourrait redéfinir les équilibres de puissance en Moyen-Orient via des partenariats énergétiques.",
-        "analyse_en": "These conflicts reveal a dynamic where maritime and commercial powers ultimately impose their will through economic alliances rather than military force. Key stakes involve controlling trade routes and the resilience of global supply chains. Root causes lie in the world’s dependence on fossil fuels and maritime corridors. Short-term, this could boost investments in Iranian port infrastructure. Medium-term, it may accelerate the diversification of alternative trade routes. Long-term, it could redefine power balances in the Middle East through energy partnerships.",
-        "analyse_zh": "这些冲突揭示了一个动态，即海上和商业实力最终通过经济联盟而非军事力量施加意志。主要影响涉及控制贸易路线和全球供应链的韧性。深层原因在于世界对化石燃料和海上走廊的依赖。短期内，这可能推动伊朗港口基础设施的投资。中期内，它可能加速替代贸易路线的多元化。长期来看，这可能通过能源伙伴关系重新定义中东的权力平衡。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "RTE",
-        "url": "https://www.rte.ie/brainstorm/2026/1015/1595435-suez-canal-1956-strait-of-hormuz-2026-closures-superpowers-economics-geopolitical-influence/",
-        "image": "https://www.rte.ie/images/00252d10-1600.jpg",
-        "date": "2026-10-15",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des assurances maritimes",
-            "hausse": true
-          },
-          {
-            "label": "▲ Finance des énergies renouvelables en Asie du Sud",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances maritimes",
-            "secteur_en": "Maritime insurance market",
-            "secteur_zh": "海运保险市场",
-            "effet_fr": "Les tensions dans le détroit d’Ormuz pourraient augmenter les primes d’assurance pour les navires transitant par cette zone, reflétant les risques géopolitiques accrus.",
-            "effet_en": "Tensions in the Strait of Hormuz could raise insurance premiums for ships transiting the area, reflecting heightened geopolitical risks.",
-            "effet_zh": "霍尔木兹海峡的紧张局势可能提高通过该地区航行船舶的保险费率，反映出加剧的地缘政治风险。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Finance des énergies renouvelables en Asie du Sud",
-            "secteur_en": "Renewable energy finance in South Asia",
-            "secteur_zh": "南亚可再生能源融资",
-            "effet_fr": "L’Iran pourrait attirer des fonds pour développer des énergies alternatives, réduisant sa dépendance aux revenus pétroliers et diversifiant son économie.",
-            "effet_en": "Iran could attract funds to develop alternative energies, reducing its dependence on oil revenues and diversifying its economy.",
-            "effet_zh": "伊朗可能吸引资金发展替代能源，减少对石油收入的依赖并多元化其经济。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-16T15:14:24.645237"
       }
     ]
   },
