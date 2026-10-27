@@ -1,7 +1,66 @@
 {
-  "last_updated": "27/10/2026 à 19h21",
+  "last_updated": "27/10/2026 à 23h31",
   "articles": {
     "monde": [
+      {
+        "id": "monde_702180",
+        "titre": "Médicaments refroidissants du cerveau sauvent des vies avant urgences",
+        "titre_en": "Brain-cooling drugs save lives before A&E arrival",
+        "titre_zh": "降温药物在急诊前挽救心脏骤停患者生命",
+        "titre_ru": "Drugs that cool brain can save patients before they reach A&E",
+        "titre_fa": "Drugs that cool brain can save patients before they reach A&E",
+        "titre_ar": "Drugs that cool brain can save patients before they reach A&E",
+        "titre_original": "Drugs that cool brain can save patients before they reach A&E",
+        "resume": "Des médicaments courants comme le paracétamol, l’aspirine ou l’ibuprofen pourraient sauver des vies en cas d’arrêt cardiaque, en réduisant l’hypoxie cérébrale avant l’arrivée aux urgences. Cette découverte, issue de tests cliniques, ouvre une voie pour améliorer les taux de survie, actuellement très faibles. Les implications pourraient révolutionner les protocoles d’urgence préhospitalière.",
+        "resume_en": "Common over-the-counter drugs like paracetamol, aspirin, or ibuprofen may save lives in cardiac arrest by reducing brain hypoxia before reaching the ER. Clinical trial results suggest a breakthrough for survival rates, currently dismal. Implications could revolutionize pre-hospital emergency protocols.",
+        "resume_zh": "常见的处方外用药如阿司匹林、布洛芬或对乙酰氨基酚可能在心脏骤停时通过减少脑缺氧在送往急诊前挽救生命。临床试验结果显示这一突破可能提高目前极低的存活率。这可能革命性地改变预院外急救流程。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette avancée s’inscrit dans une recherche médicale historique sur la protection cérébrale pendant l’hypoxie, avec des études antérieures sur l’hypothermie thérapeutique après arrêt cardiaque. Les enjeux principaux portent sur l’accessibilité et la simplicité d’utilisation de ces médicaments, déjà disponibles sans ordonnance. Les causes profondes incluent le manque de solutions efficaces pour la phase préhospitalière, où les délais sont critiques. À court terme, cette découverte pourrait réduire les décès évitables en attendant les soins spécialisés. À moyen terme, elle pourrait inciter les systèmes de santé à intégrer ces médicaments dans les trousses de premiers secours. Long terme, une généralisation pourrait diminuer la charge des services d’urgence et améliorer la qualité de vie des survivants. Les acteurs clés sont les laboratoires pharmaceutiques (ex: Bayer pour l’aspirine), les hôpitaux testant les protocoles, et les associations de secours (comme la Croix-Rouge) qui pourraient distribuer ces médicaments.",
+        "analyse_en": "This breakthrough builds on decades of research into brain protection during hypoxia, following earlier studies on therapeutic hypothermia post-cardiac arrest. Key stakes involve accessibility and ease of use for over-the-counter drugs already in widespread circulation. Root causes include the lack of effective pre-hospital solutions, where time is critical. Short-term, this could reduce avoidable deaths while awaiting specialized care. Medium-term, it may prompt healthcare systems to include these drugs in first-aid kits. Long-term, widespread adoption could ease ER burdens and improve survivors’ quality of life. Key actors include pharmaceutical labs (e.g., Bayer for aspirin), hospitals testing protocols, and rescue associations (like the Red Cross) that could distribute these drugs.",
+        "analyse_zh": "这一突破基于数十年关于脑缺氧保护的研究，继心脏骤停后治疗性降温研究之后。主要影响在于这些常见药物的可及性和使用便利性。深层原因包括缺乏有效的预院外解决方案，时间在这里至关重要。短期内，这一发现可能减少在等待专业救治期间的可避免死亡。中期内，它可能促使卫生系统将这些药物纳入急救包。长期来看，普及可能减轻急诊部的负担并提高幸存者的生活质量。关键利益相关者包括制药公司（如拜耳公司的阿司匹林）、测试流程的医院，以及可能分发这些药物的救援协会（如红十字会）。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Santé & Innovation",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/health/article-16111875/Drugs-cool-brain-save-patients-cardiac-arrest-stroke.html",
+        "image": "https://i.dailymail.com/1s/2026/10/26/23/111100029-0-image-a-8_1793055868583.jpg",
+        "date": "2026-10-26",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Industrie pharmaceutique générique (paracétamol/ibuprofen)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Assurance maladie et remboursements préhospitaliers",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Industrie pharmaceutique générique (paracétamol/ibuprofen)",
+            "secteur_en": "Generic pharmaceutical industry (paracetamol/ibuprofen)",
+            "secteur_zh": "普通药品行业（对乙酰氨基酚/布洛芬）",
+            "effet_fr": "La demande pourrait exploser pour ces médicaments, poussant les fabricants à augmenter la production et à négocier des partenariats avec les services d’urgence.",
+            "effet_en": "Demand may surge for these drugs, prompting manufacturers to scale production and partner with emergency services.",
+            "effet_zh": "对这些药物的需求可能激增，迫使制造商扩大产能并与急救服务建立合作。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Assurance maladie et remboursements préhospitaliers",
+            "secteur_en": "Health insurance and pre-hospital reimbursements",
+            "secteur_zh": "医疗保险和预院外报销",
+            "effet_fr": "Les systèmes de santé devront réévaluer leurs protocoles de remboursement pour inclure ces médicaments en phase préhospitalière, avec des coûts initiaux élevés.",
+            "effet_en": "Health systems may need to reassess reimbursement protocols to cover these drugs in pre-hospital phases, with initial high costs.",
+            "effet_zh": "卫生系统可能需要重新评估报销流程以覆盖预院外阶段的这些药物，但初期成本较高。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-27T23:30:36.235830"
+      },
       {
         "id": "monde_88943",
         "titre": "Skydance lance rachat d’employés et retour au bureau",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-23T01:14:04.098435"
-      },
-      {
-        "id": "monde_661757",
-        "titre": "Larkin élargit sa liste de transferts à 10 équipes",
-        "titre_en": "Larkin expands trade to 10 teams",
-        "titre_zh": "拉金扩展至10支球队交易",
-        "titre_ru": "Dylan Larkin expands his trade list to 10 teams",
-        "titre_fa": "Dylan Larkin expands his trade list to 10 teams",
-        "titre_ar": "Dylan Larkin expands his trade list to 10 teams",
-        "titre_original": "Dylan Larkin expands his trade list to 10 teams",
-        "resume": "Le capitaine des Red Wings, Dylan Larkin, voit sa liste de transferts potentiels s’étendre à dix équipes, marquant une nouvelle étape dans sa carrière. Ce développement suit des rumeurs persistantes sur son désir de quitter Détroit. Les implications incluent une possible reconfiguration du marché des joueurs de la NHL et une attention accrue sur les équipes visées.",
-        "resume_en": "Detroit Red Wings captain Dylan Larkin’s potential trade list expands to 10 teams, marking a new phase in his career. This follows persistent rumors about his desire to leave Detroit. Implications include a possible reshuffling of the NHL’s player market and heightened focus on targeted teams.",
-        "resume_zh": "红翼队队长德莱昂·拉金的潜在交易名单扩展至10支球队，标志着其职业生涯的新阶段。此举在拉金离开底特律的传闻持续之际发生。影响包括NHL球员市场的重新洗牌和对目标球队的关注度提升。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette annonce s’inscrit dans une dynamique de mobilité accrue des joueurs stars de la NHL, où les contrats lucratifs et les désaccords avec les franchises poussent à des changements. Les enjeux incluent la stabilité des équipes et la valeur marchande des joueurs, avec des conséquences financières immédiates pour les clubs impliqués. À moyen terme, cela pourrait redéfinir les équilibres compétitifs dans la ligue. Long terme, cela reflète une professionnalisation croissante du sport, où les joueurs deviennent des acteurs stratégiques. Les acteurs comme les agents et les médias en tirent profit, tandis que les franchises doivent s’adapter pour retenir leurs talents.",
-        "analyse_en": "This announcement reflects increased mobility among NHL star players, driven by lucrative contracts and disputes with franchises. Stakes include team stability and player market value, with immediate financial consequences for involved clubs. Medium-term, this could redefine competitive balances in the league. Long-term, it highlights growing professionalization in sports, where players become strategic assets. Actors like agents and media benefit, while franchises must adapt to retain talent.",
-        "analyse_zh": "此消息反映了NHL明星球员流动性增加，主要由丰厚合同和与球队的分歧驱动。影响包括球队稳定性和球员市场价值，对相关俱乐部有即时的财务影响。中期内，这可能重新定义联盟的竞争平衡。长期来看，这体现了体育职业化的加深，球员成为战略资产。代理商和媒体从中获益，而俱乐部必须适应以留住人才。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Sport",
-        "source": "Hockeyfeed.com",
-        "url": "https://www.hockeyfeed.com/nhl-news/dylan-larkin-expands-his-trade-list-to-10-teams",
-        "image": "https://s.yimg.com/lo/mysterio/api/9ceec592358b801659d36a23d65452037b459f7236149db9ba9b4b4fd89b1c6f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhockeyfeed_789%2F57d7f27ff4a77183c8bdce2c7a26d4b9.jpg",
-        "date": "2026-10-21",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des agents sportifs (NHLPA)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Fonds de pension et investissements sportifs",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des agents sportifs (NHLPA)",
-            "secteur_en": "Sports agents market (NHLPA)",
-            "secteur_zh": "体育代理市场（NHLPA）",
-            "effet_fr": "L’expansion des listes de transferts renforce la position des agents en négociation, augmentant potentiellement leurs commissions sur les futures transactions.",
-            "effet_en": "Expanding trade lists strengthens agents’ negotiating positions, potentially increasing their commissions on future deals.",
-            "effet_zh": "扩大交易名单增强了代理商的谈判地位，可能提高其未来交易的佣金。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Fonds de pension et investissements sportifs",
-            "secteur_en": "Pension funds and sports investments",
-            "secteur_zh": "养老基金与体育投资",
-            "effet_fr": "Les mouvements de joueurs influencent les valorisations des franchises, attirant ou éloignant les investisseurs institutionnels comme les fonds de pension.",
-            "effet_en": "Player movements affect franchise valuations, attracting or deterring institutional investors like pension funds.",
-            "effet_zh": "球员的流动影响球队的估值，吸引或排斥像养老基金这样的机构投资者。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-22T01:14:38.837143"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_957488",
+        "titre": "Discours de Nicki Minaj au rallye de Trump déclenche controverse familiale",
+        "titre_en": "Nicki Minaj’s Trump rally speech sparks family history backlash",
+        "titre_zh": "尼基·米娜在特朗普集会的发言引发家庭历史争议",
+        "titre_ru": "Nicki Minaj’s Speech At Trump Rally Backfires As People Point Out Her Problematic Family History",
+        "titre_fa": "Nicki Minaj’s Speech At Trump Rally Backfires As People Point Out Her Problematic Family History",
+        "titre_ar": "Nicki Minaj’s Speech At Trump Rally Backfires As People Point Out Her Problematic Family History",
+        "titre_original": "Nicki Minaj’s Speech At Trump Rally Backfires As People Point Out Her Problematic Family History",
+        "resume": "L’intervention de Nicki Minaj lors d’un meeting pro-Trump a été détournée par ses détracteurs, qui ont exploité sa phrase *« laissez les enfants tranquilles »* pour évoquer les antécédents judiciaires de son mari et de son frère. Ce revirement médiatique a relancé les débats sur les contradictions entre engagement politique et passé personnel. L’artiste, figure controversée, voit sa crédibilité politique remise en cause dans un contexte polarisé.",
+        "resume_en": "Nicki Minaj’s appearance at a Trump rally backfired when critics tied her *« leave the children alone »* comment to her husband’s and brother’s criminal records. The incident reignited debates on the tension between political alignment and personal history. As a polarizing figure, her political credibility faces renewed scrutiny in a divided climate.",
+        "resume_zh": "尼基·米娜在特朗普集会上的发言遭到批评者利用，他们将其 *« 不要管孩子的事 »* 言论与丈夫和哥哥的犯罪记录联系起来。此事件再次引发关于政治立场与个人历史之间矛盾的讨论。作为一个极具争议的人物，她的政治声誉在分裂的氛围中面临新的质疑。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le contexte historique montre une longue tradition de polémiques autour des célébrités engagées politiquement, comme Beyoncé ou Kanye West, dont les prises de position sont souvent analysées à l’aune de leur vie privée. Les enjeux principaux tournent autour de la légitimité des figures populaires à commenter des sujets sociétaux sans être jugées sur leur propre passé. Les causes profondes incluent la médiatisation extrême des scandales familiaux et l’exploitation politique des failles personnelles pour discréditer un adversaire. À court terme, cette affaire pourrait affaiblir le soutien des électeurs modérés à Trump, déjà fragilisé par les divisions internes au parti républicain. À moyen terme, cela pourrait encourager d’autres célébrités à éviter les engagements politiques trop clivants. Long terme, la polarisation médiatique autour des personnalités publiques risque de s’accentuer, avec un risque de banalisation des attaques personnelles. Les acteurs clés sont les médias conservateurs (Fox News) qui amplifient le sujet, et les réseaux sociaux qui accélèrent la viralité des accusations, tandis que Nicki Minaj tente de se distancier sans renoncer à son soutien à Trump.",
+        "analyse_en": "Historically, controversies over celebrities’ political stances—like Beyoncé or Kanye West—have long been scrutinized through the lens of their personal lives. The main stakes revolve around whether public figures can legitimately comment on societal issues without being judged by their own pasts. Root causes include the hyper-mediatization of family scandals and the political exploitation of personal vulnerabilities to discredit opponents. Short-term, this could weaken moderate Republican support for Trump, already strained by internal party divisions. Medium-term, it may deter other celebrities from taking polarizing political stances. Long-term, media polarization around public figures risks intensifying, with a growing normalization of personal attacks. Key actors include conservative media (Fox News) amplifying the narrative, social media accelerating the spread of accusations, and Nicki Minaj navigating damage control without abandoning her Trump support.",
+        "analyse_zh": "历史上，名人政治立场的争议（如碧昂丝或凯恩·韦斯特）长期以来总是通过个人生活的透镜来审视。主要影响在于公众人物是否能够合法地评论社会问题，而不被自己的过去所判断。深层原因包括对家庭丑闻的过度媒体炒作，以及政治利用个人弱点来打击对手的做法。短期内，此事可能削弱共和党内对特朗普的中间派支持，该党内部已经存在分裂。中期内，这可能会鼓励其他名人避免采取过于极端的政治立场。长期来看，围绕公众人物的媒体极化可能会加剧，个人攻击的正常化风险增加。关键利益相关者包括保守媒体（福克斯新闻）放大争议、社交媒体加速传播指控，以及尼基·米娜在不放弃对特朗普支持的情况下进行危机公关。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Culture & Société",
+        "source": "Boredpanda.com",
+        "url": "https://www.boredpanda.com/nicki-minaj-speech-trump-rally-backfires/",
+        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/fb_image_6adfd7d6cbe5c.png",
+        "date": "2026-10-26",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des influenceurs et de la célébrité politique",
+            "hausse": false
+          },
+          {
+            "label": "▼ Financement des campagnes électorales via les réseaux sociaux",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des influenceurs et de la célébrité politique",
+            "secteur_en": "Influencer and political celebrity market",
+            "secteur_zh": "影响力人士与政治名人市场",
+            "effet_fr": "Cette affaire pourrait réduire la valeur perçue des engagements politiques des célébrités, poussant les marques à adopter une approche plus prudente dans leurs partenariats.",
+            "effet_en": "This incident may diminish the perceived value of celebrities’ political endorsements, prompting brands to adopt a more cautious approach in partnerships.",
+            "effet_zh": "此事件可能降低名人政治立场的市场价值，迫使品牌在合作时采取更谨慎的态度。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Financement des campagnes électorales via les réseaux sociaux",
+            "secteur_en": "Campaign financing through social media",
+            "secteur_zh": "通过社交媒体的竞选资金",
+            "effet_fr": "Les dons en ligne pourraient être affectés si les électeurs perçoivent une instrumentalisation des scandales personnels pour financer des campagnes.",
+            "effet_en": "Online donations may be impacted if voters perceive personal scandals as being exploited to fund campaigns.",
+            "effet_zh": "如果选民认为个人丑闻被用于竞选资金筹集，在线捐款可能会受到影响。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-27T23:30:36.235796"
+      },
       {
         "id": "usa_300954",
         "titre": "Échec diplomatique des évêques catholiques face à Trump",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-23T01:14:04.098413"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_234360",
-        "titre": "Trump loue Musk pour sauvetage post-ouragan",
-        "titre_en": "Trump praises Musk for post-Hurricane relief",
-        "titre_zh": "特朗普称马斯克救援风暴后生命",
-        "titre_ru": "Trump: Elon Musk saved a lot of lives in 2024",
-        "titre_fa": "Trump: Elon Musk saved a lot of lives in 2024",
-        "titre_ar": "Trump: Elon Musk saved a lot of lives in 2024",
-        "titre_original": "Trump: Elon Musk saved a lot of lives in 2024",
-        "resume": "Donald Trump a attribué à Elon Musk un rôle clé dans l’assistance d’urgence après l’ouragan Helene en 2024, soulignant son intervention via SpaceX. Cette reconnaissance survient dans un contexte de tensions géopolitiques et de dépendance aux technologies privées pour les secours. Les critiques pourraient y voir une instrumentalisation politique de la crise climatique.",
-        "resume_en": "Donald Trump credited Elon Musk for key emergency assistance after Hurricane Helene in 2024, highlighting SpaceX’s role in disaster response. This comes amid geopolitical tensions and reliance on private tech for crisis management, sparking debates over political exploitation of climate disasters.",
-        "resume_zh": "特朗普称2024年飓风海伦后，马斯克通过SpaceX在紧急救援中发挥了关键作用。此举在全球政治紧张和对私营科技依赖的背景下引发争议，也可能被视为政治操弄气候灾难的手段。",
+        "id": "chine_92104",
+        "titre": "Dette locale chinoise : le risque de « précipice » sous les villes",
+        "titre_en": "China’s local debt: the ‘cliff’ beneath its cities",
+        "titre_zh": "中国地方债务：城市下方的「悬崖」风险",
+        "titre_ru": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+        "titre_fa": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+        "titre_ar": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+        "titre_original": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+        "resume": "Pékin dispose encore de marges de manœuvre budgétaires, mais les gouvernements locaux, endettés à hauteur de 30 000 milliards de yuans, réduisent leurs dépenses pour éviter un effondrement. Cette stratégie soulève des questions sur la croissance économique et la gestion de la dette, déjà critiquée pour son opacité. Les risques financiers pourraient peser sur les marchés internationaux.",
+        "resume_en": "Beijing still has budgetary room, but heavily indebted local governments—owing over $4.5 trillion—are cutting back, raising concerns over economic growth and opaque debt management. Financial risks may impact global markets.",
+        "resume_zh": "北京仍有预算空间，但地方政府负债高达4.5万亿美元，正在削减开支以避免崩溃。这种策略引发了对经济增长和债务管理透明度的质疑。金融风险可能影响全球市场。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ce discours s’inscrit dans une stratégie de Trump pour mobiliser son électorat autour de figures entrepreneuriales, perçues comme des symboles de résilience face aux crises naturelles. Les enjeux incluent la légitimité des acteurs privés dans la gestion des catastrophes, où l’État américain a historiquement joué un rôle central. Les causes profondes résident dans la privatisation croissante des infrastructures critiques et la réduction des budgets publics pour les secours. À court terme, cela pourrait renforcer l’influence de Musk dans les cercles politiques, tandis qu’à moyen terme, cela pourrait accélérer la dépendance aux solutions technologiques privées. Long terme, cela interroge la souveraineté nationale sur les ressources stratégiques comme l’espace. Les acteurs comme SpaceX et les lobbies technologiques en sortent renforcés, tandis que les institutions publiques pourraient voir leur rôle affaibli.",
-        "analyse_en": "This statement aligns with Trump’s strategy to rally his base around entrepreneurial figures seen as symbols of resilience against natural disasters. Key stakes involve the legitimacy of private actors in disaster management, where the U.S. government has traditionally held a central role. Root causes lie in the privatization of critical infrastructure and reduced public budgets for relief efforts. Short-term, this could bolster Musk’s political influence, while medium-term, it may accelerate reliance on private tech solutions. Long-term, it questions national sovereignty over strategic resources like space. Actors like SpaceX and tech lobbies gain leverage, while public institutions risk diminished authority.",
-        "analyse_zh": "特朗普此举属于其利用企业家形象团结支持者的战略，特别是在应对自然灾害时。核心问题在于私营部门在灾难管理中的合法性，美国政府此前一直扮演核心角色。深层原因在于关键基础设施的私有化和公共救援预算的削减。短期内，这将增强马斯克在政治上的影响力，中期可能加速对私营科技解决方案的依赖。长期来看，这将质疑国家对太空等战略资源的主权。SpaceX和科技行业利益集团将获益，而公共机构可能权力削弱。",
+        "analyse_detaillee": "La dette locale chinoise s’inscrit dans une dynamique historique de financements parallèles (shadow banking) depuis les années 2000, exacerbée par les politiques de relance post-crise financière. Les enjeux principaux concernent la stabilité financière, avec un risque systémique si les dettes illiquides se matérialisent en défauts massifs. Les causes profondes incluent la dépendance aux investissements locaux pour soutenir la croissance, couplée à un système de gouvernance décentralisé peu transparent. À court terme, les coupes budgétaires pourraient aggraver les tensions sociales dans les régions dépendantes des infrastructures publiques. À moyen terme, Pékin pourrait être contraint d’intervenir avec des recapitalisations ciblées ou des réformes fiscales, au risque de freiner la croissance. Long terme, une restructuration de la dette pourrait être nécessaire, mais elle nécessiterait une coordination nationale et une confiance retrouvée des investisseurs internationaux. Les acteurs clés sont les gouvernements locaux (souvent dirigés par des cadres du Parti communiste), la Banque populaire de Chine (PBoC) qui tente de contenir les risques, et les fonds souverains étrangers observant les signes de fragilité.",
+        "analyse_en": "China’s local debt stems from a post-2000s shadow banking boom, worsened by post-financial crisis stimulus policies. Key stakes involve financial stability, with systemic risks if illiquid debts materialize into mass defaults. Root causes include reliance on local investments to drive growth, paired with opaque decentralized governance. Short-term, budget cuts may worsen social tensions in regions dependent on public infrastructure. Medium-term, Beijing might intervene with targeted recapitalizations or tax reforms, risking growth slowdowns. Long-term, debt restructuring may be needed but requires national coordination and restored foreign investor confidence. Key actors include local governments (often led by CCP cadres), the People’s Bank of China (PBoC) mitigating risks, and foreign sovereign funds monitoring fragility signals.",
+        "analyse_zh": "中国地方债务源于2000年代以来的影子银行繁荣，并在金融危机后的刺激政策下恶化。主要影响在于金融稳定性，如果不良债务转化为大规模违约，可能引发系统性风险。深层原因包括依赖地方投资推动增长，以及缺乏透明度的分权化治理体系。短期内，预算削减可能加剧依赖公共基础设施的地区的社会紧张局势。中期内，北京可能被迫通过针对性注资或税制改革干预，但可能会减缓经济增长。长期来看，债务重组可能成为必要，但需要全国协调和重新获得外国投资者的信心。关键利益相关者包括地方政府（通常由中国共产党干部领导）、中国人民银行（PBoC）试图控制风险，以及观察脆弱性迹象的外国主权基金。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f1b3a119ea5a021d",
-        "image": "https://biztoc.com/cdn/f1b3a119ea5a021d_s.webp",
-        "date": "2026-10-21",
-        "pays": "usa",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108462472-1792990298190-gettyimages-2256488877-AFP_937K69G.jpeg?v=1792991381&w=1920&h=1080",
+        "date": "2026-10-26",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Technologies spatiales et satellites",
+            "label": "▲ Marché obligataire chinois (yuan-denominated bonds)",
             "hausse": true
           },
           {
-            "label": "▲ Assurances et réassurances (catastrophes naturelles)",
+            "label": "▲ Secteur immobilier et crédits aux promoteurs (shadow loans)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies spatiales et satellites",
-            "secteur_en": "Space technologies and satellites",
-            "secteur_zh": "航天技术与卫星",
-            "effet_fr": "L’intervention de SpaceX dans les secours renforce la valeur perçue des actifs spatiaux et pourrait stimuler les investissements dans les infrastructures de communication critiques.",
-            "effet_en": "SpaceX’s involvement in relief efforts enhances the perceived value of space assets and may spur investments in critical communication infrastructure.",
-            "effet_zh": "SpaceX参与救援提升了航天资产的价值，可能刺激对关键通信基础设施的投资。",
+            "secteur_fr": "Marché obligataire chinois (yuan-denominated bonds)",
+            "secteur_en": "Chinese bond market (yuan-denominated)",
+            "secteur_zh": "中国债券市场（人民币计价）",
+            "effet_fr": "Les craintes de défauts locaux pourraient entraîner une hausse des rendements et une fuite des capitaux vers des actifs plus sûrs, comme les Treasuries américaines.",
+            "effet_en": "Fear of local defaults may drive up yields and capital flight to safer assets like U.S. Treasuries.",
+            "effet_zh": "地方违约的担忧可能导致收益率上升和资本外流至更安全的资产，如美国国债。",
             "hausse": true
           },
           {
-            "secteur_fr": "Assurances et réassurances (catastrophes naturelles)",
-            "secteur_en": "Insurance and reinsurance (natural disasters)",
-            "secteur_zh": "保险与再保险（自然灾害）",
-            "effet_fr": "La dépendance accrue aux solutions privées pourrait inciter les assureurs à réévaluer leurs modèles de couverture des risques climatiques, avec des hausses potentielles des primes.",
-            "effet_en": "Increased reliance on private solutions may prompt insurers to reassess climate risk coverage models, potentially leading to higher premiums.",
-            "effet_zh": "对私营解决方案的依赖可能促使保险商重新评估气候风险保障模式，导致保费上涨。",
+            "secteur_fr": "Secteur immobilier et crédits aux promoteurs (shadow loans)",
+            "secteur_en": "Real estate sector and developer shadow loans",
+            "secteur_zh": "房地产行业和开发商影子贷款",
+            "effet_fr": "La réduction des investissements publics pourrait aggraver la crise du secteur immobilier déjà fragilisé, avec un risque de bulle spéculative sur les actifs immobiliers locaux.",
+            "effet_en": "Cutting public investments may worsen the already fragile real estate crisis, risking speculative bubbles in local property assets.",
+            "effet_zh": "削减公共投资可能加剧已经脆弱的房地产危机，并带来当地房产资产泡沫的风险。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-22T01:14:38.837108"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-27T23:30:36.235818"
+      },
       {
         "id": "chine_723898",
         "titre": "Bruxelles vise les importations chinoises face à crise industrielle",
@@ -3706,65 +3765,6 @@
           }
         ],
         "created_at": "2026-10-18T14:19:54.922364"
-      },
-      {
-        "id": "chine_407089",
-        "titre": "Santé du pasteur chinois emprisonné inquiète les ONG",
-        "titre_en": "Health of imprisoned Chinese pastor raises alarm",
-        "titre_zh": "中国囚禁牧师健康状况引发关注",
-        "titre_ru": "ChinaAid тревожится за здоровье заключённого пастора из-за отсутствия ответов семьи",
-        "titre_fa": "ChinaAid نگرانی در مورد سلامت کشتاری زندانی پس از عدم پاسخ خانواده",
-        "titre_ar": "ChinaAid تثير قلقًا بشأن صحة الراهب المسجون بسبب عدم رد العائلة",
-        "titre_original": "ChinaAid raises alarm over imprisoned Chinese pastor's health as family seeks answers",
-        "resume": "L’état de santé avancé de l’évêque Wang Yi, atteint de cancer du foie, alerte les ONG et la communauté internationale. Sa famille cherche des réponses sur les conditions de détention. Cette affaire illustre les tensions entre liberté religieuse et contrôle étatique en Chine.",
-        "resume_en": "The advanced health condition of Bishop Wang Yi, suffering from liver cancer, alarms NGOs and the international community. His family seeks answers about detention conditions. This case highlights tensions between religious freedom and state control in China.",
-        "resume_zh": "主教王义的肝癌晚期健康状况引发非政府组织和国际社会的警告。他的家人寻求关于监禁条件的答案。这一案件突显了中国宗教自由与国家控制之间的紧张关系。",
-        "resume_ru": "Фонд ChinaAid сообщает, что сообщения о тяжелой стадии рака печени пастора Ван И в китайской тюрьме кажутся правдоподобными, но не могут быть независимо подтверждены. Семья пастора не предоставляет никаких данных о его состоянии. Это вызывает опасения за его жизнь и здоровье.",
-        "resume_fa": "سازمان ChinaAid گزارش می‌دهد که گزارش‌های در مورد سرطان پیشرفته کبدی کشتاری وان یی در زندان چین قابل اعتماد به نظر می‌رسد، اما نمی‌توان آن را مستقل تأیید کرد. خانواده کشتاری هیچ اطلاعاتی در مورد وضعیت او ارائه نمی‌دهند. این نگرانی در مورد زندگی و سلامتی او ایجاد می‌کند.",
-        "resume_ar": "منظمة ChinaAid تنبه إلى أن التقارير حول سرطان الكبد المتقدم للراهب المسجون وان يي في السجن الصيني تبدو معقولة، ولكن لا يمكن تأكيدها بشكل مستقل. عائلة الراهب لم تقدم أي بيانات حول حالته. هذا يثير قلقًا بشأن حياته وصحته.",
-        "analyse_detaillee": "Cette affaire s’inscrit dans un contexte historique de répression religieuse en Chine, où le Parti communiste cherche à contrôler les institutions religieuses pour des raisons idéologiques et politiques. Les enjeux actuels incluent la santé humaine et les droits de l’homme, avec des causes profondes liées à la sécularisation forcée et à la surveillance étatique. À court terme, cela pourrait intensifier les critiques internationales et les sanctions ciblées, tandis qu’à moyen terme, cela pourrait renforcer les mouvements de résistance religieuse. À long terme, cela pourrait exacerber les tensions sino-occidentales sur les droits humains. Les acteurs internationaux, comme les États-Unis ou l’UE, adoptent une position ferme pour dénoncer ces violations, tandis que la Chine minimise ces cas pour préserver son image.",
-        "analyse_en": "This case fits within China’s historical context of religious repression, where the Communist Party seeks to control religious institutions for ideological and political reasons. Current stakes involve human health and human rights, with root causes tied to forced secularization and state surveillance. Short-term, it may intensify international criticism and targeted sanctions, while medium-term risks strengthening religious resistance movements. Long-term, it could exacerbate Sino-Western tensions on human rights. International actors, like the U.S. or EU, adopt a firm stance to denounce these violations, while China downplays such cases to preserve its image.",
-        "analyse_zh": "这一案件发生在中国宗教镇压的历史背景下，中国共产党试图通过意识形态和政治原因控制宗教机构。当前的影响涉及人类健康和人权，根本原因与强制世俗化和国家监控相关。短期内，这可能加剧国际批评和针对性制裁，中期可能加强宗教抵抗运动。长期来看，这可能加剧中西方在人权问题上的紧张关系。国际社会如美国或欧盟采取坚定立场谴责这些违规行为，而中国则轻描淡写这些案例以维护其形象。",
-        "analyse_ru": "Отсутствие информации о состоянии заключённого пастора Ван И вызывает международное беспокойство и критику в адрес китайских властей. Это может быть связано с попытками скрыть реальное положение дел в тюрьмах Китая. Такие случаи часто становятся предметом международных кампаний по правам человека. В долгосрочной перспективе это может ухудшить репутацию Китая на мировой арене. Однако, без доступа к независимым источникам информации, сложно оценить реальное положение дел.",
-        "analyse_fa": "عدم وجود اطلاعات در مورد وضعیت کشتاری وان یی نگرانی بین‌المللی و انتقاد از سوی مقامات چین را ایجاد می‌کند. این ممکن است به تلاش برای پنهان کردن وضعیت واقعی در زندان‌های چین مربوط باشد. چنین مواردی اغلب موضوع کمپین‌های بین‌المللی حقوق بشر می‌شوند. در بلندمدت، این می‌تواند به بدتر شدن شهرت چین در عرصه جهانی منجر شود. با این حال، بدون دسترسی به منابع مستقل، دشوار است وضعیت واقعی را ارزیابی کرد.",
-        "analyse_ar": "غياب المعلومات حول حالة الراهب المسجون وان يي يثير قلقًا دوليًا ويوجه انتقادات إلى السلطات الصينية. هذا قد يكون مرتبطًا بمحاولات إخفاء الواقع في السجون الصينية. مثل هذه الحالات غالبًا ما تصبح موضوع حملات دولية لحقوق الإنسان. على المدى الطويل، هذا قد يؤدي إلى تفاقم سمعة الصين على الصعيد العالمي. ومع ذلك، بدون الوصول إلى مصادر مستقلة، من الصعب تقييم الواقع.",
-        "categorie": "Droits humains",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Pastor-Wang-Yi-And-Wife-Photo-1.jpg",
-        "date": "2026-10-17",
-        "pays": "chine",
-        "badges": [
-          {
-            "label": "▼ Marché des assurances santé internationales",
-            "hausse": false
-          },
-          {
-            "label": "▲ Fonds de défense des droits humains",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances santé internationales",
-            "secteur_en": "International health insurance market",
-            "secteur_zh": "国际医疗保险市场",
-            "effet_fr": "Les cas de détention arbitraire pourraient inciter les assureurs à exclure les risques liés à la Chine continentale, réduisant l’accès aux soins pour les expatriés.",
-            "effet_en": "Arbitrary detention cases may prompt insurers to exclude mainland China risks, reducing healthcare access for expatriates.",
-            "effet_zh": "任意拘禁案例可能促使保险公司排除中国大陆的风险，减少外籍人士的医疗保障。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Fonds de défense des droits humains",
-            "secteur_en": "Human rights defense funds",
-            "secteur_zh": "人权保护基金",
-            "effet_fr": "Les dons pourraient augmenter pour soutenir les familles des prisonniers d’opinion, mais les risques de répression persistent pour les militants locaux.",
-            "effet_en": "Donations may rise to support families of political prisoners, but repression risks remain for local activists.",
-            "effet_zh": "捐款可能增加以支持政治犯家属，但当地活动人士面临镇压风险依然存在。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-18T10:26:59.059450"
       }
     ],
     "russie": [
@@ -4951,6 +4951,65 @@
     ],
     "iran": [
       {
+        "id": "iran_827793",
+        "titre": "Iran face à une crise énergétique et chaos politique",
+        "titre_en": "Iran braces for energy crisis amid political turmoil",
+        "titre_zh": "伊朗应对能源危机与政治动荡",
+        "titre_ru": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
+        "titre_fa": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
+        "titre_ar": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
+        "titre_original": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
+        "resume": "L’Iran, déjà en difficulté économique, fait face à un effondrement énergétique imminent avec l’hiver, aggravé par les tensions internes et les sanctions américaines. Les coupures de courant et le manque de carburant pourraient déclencher des manifestations massives, exacerbant l’instabilité. La situation rappelle les crises de 2019–2020, où les protestations avaient été réprimées dans le sang.",
+        "resume_en": "Economically strained Iran faces an impending energy collapse this winter, worsened by internal turmoil and U.S. sanctions. Power cuts and fuel shortages may trigger mass protests, deepening instability reminiscent of 2019–2020 crackdowns.",
+        "resume_zh": "经济困难的伊朗面临冬季到来时的能源崩溃风险，加剧了内部动荡和美国制裁。停电和燃料短缺可能引发大规模示威，加深不稳定局势，类似于2019–2020年血腥镇压的回忆。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La crise énergétique iranienne s’enracine dans une dépendance historique au pétrole, aggravée par les sanctions américaines depuis 2018 et la chute des revenus d’exportation. Les enjeux principaux incluent la survie du régime face à une population exsangue, avec un risque de soulèvement populaire si les services publics s’effondrent. Les causes profondes sont la corruption endémique, l’inefficacité des institutions et la division au sein du Guide suprême et du Conseil des gardiens. À court terme, les coupures de courant pourraient paralyser les industries clés (pétrochimie, agriculture) et provoquer des émeutes. À moyen terme, le régime pourrait recourir à des mesures autoritaires (comme en 2019) ou à des négociations avec les puissances régionales (Arabie saoudite, Russie) pour contourner les sanctions. Long terme, une transition politique semble improbable sans intervention extérieure, mais les sanctions pourraient forcer une réforme économique forcée. Les acteurs clés sont le Guide suprême Ali Khamenei cherchant à maintenir sa légitimité, les Gardiens de la révolution (IRGC) contrôlant les ressources, et les factions modérées du Parlement tentant de négocier avec Washington.",
+        "analyse_en": "Iran’s energy crisis stems from historical oil dependence, worsened by U.S. sanctions since 2018 and plummeting export revenues. Key stakes involve regime survival amid a starving population, with a risk of popular uprising if public services collapse. Root causes include endemic corruption, institutional inefficiency, and divisions within the Supreme Leader and Guardian Council. Short-term, power cuts may paralyze key industries (petrochemicals, agriculture) and trigger riots. Medium-term, the regime may resort to authoritarian crackdowns (like in 2019) or regional negotiations with Saudi Arabia/Russia to bypass sanctions. Long-term, political transition seems unlikely without external intervention, but sanctions may force economic reforms. Key actors include Supreme Leader Ali Khamenei seeking to preserve legitimacy, the IRGC controlling resources, and moderate parliamentary factions negotiating with Washington.",
+        "analyse_zh": "伊朗的能源危机源于对石油的历史依赖，自2018年以来美国制裁和出口收入骤减进一步恶化了局面。主要影响在于在民众贫困的背景下，政权生存面临风险，如果公共服务崩溃，可能引发民众起义。深层原因包括根深蒂固的腐败、机构效率低下以及最高领袖和守护者委员会内部的分裂。短期内，停电可能会瘫痪关键产业（石油化工、农业）并引发骚乱。中期内，政权可能采取2019年式的高压镇压，或与沙特阿拉伯/俄罗斯等地区大国进行谈判以绕过制裁。长期来看，没有外部干预，政治转型似乎不太可能，但制裁可能迫使经济改革。关键利益相关者包括试图维护合法性的最高领袖哈梅内伊、控制资源的伊斯兰革命卫队（IRGC），以及与华盛顿谈判的议会温和派。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e2dc0bd85c9791d5",
+        "image": "https://biztoc.com/cdn/e2dc0bd85c9791d5_s.webp",
+        "date": "2026-10-26",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Marché pétrolier et revenus d’exportation (OPEP+)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur bancaire iranien et sanctions financières (SWIFT)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier et revenus d’exportation (OPEP+)",
+            "secteur_en": "Oil market and export revenues (OPEC+)",
+            "secteur_zh": "石油市场和出口收入（OPEC+）",
+            "effet_fr": "La chute des prix du pétrole et les sanctions réduisent drastiquement les revenus de Téhéran, forçant le régime à puiser dans les réserves ou à emprunter à des taux prohibitifs.",
+            "effet_en": "Falling oil prices and sanctions slashed Tehran’s revenues, forcing the regime to deplete reserves or borrow at prohibitive rates.",
+            "effet_zh": "石油价格下跌和制裁严重削减了德黑兰的收入，迫使政权耗尽储备或以高昂利率借款。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur bancaire iranien et sanctions financières (SWIFT)",
+            "secteur_en": "Iranian banking sector and financial sanctions (SWIFT)",
+            "secteur_zh": "伊朗银行业和金融制裁（SWIFT）",
+            "effet_fr": "L’exclusion progressive du système SWIFT limite les transactions internationales et augmente les coûts de change, étouffant les importations critiques (médicaments, pièces détachées).",
+            "effet_en": "Gradual SWIFT exclusion restricts international transactions and raises exchange costs, strangling critical imports (medicine, spare parts).",
+            "effet_zh": "逐步退出SWIFT系统限制了国际交易并提高了汇率成本，窒息了关键进口（药品、零部件）。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-27T23:30:36.235840"
+      },
+      {
         "id": "iran_287932",
         "titre": "UBS prédit marché boursier post-élections américaines",
         "titre_en": "UBS forecasts post-U.S. election market trends",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-10-19T00:50:39.670544"
-      },
-      {
-        "id": "iran_227485",
-        "titre": "Iran : les assassins sans frontières des mollahs",
-        "titre_en": "Iran’s Assassins Operate Beyond Borders",
-        "titre_zh": "伊朗穆斯林教权的无国界刺客",
-        "titre_ru": "Познакомьтесь с телеведущей, которую мullahs Ирана не могут убить",
-        "titre_fa": "با مجری تلویزیونی شیک آشنا شوید که مullah‌های ایران نمی‌توانند او را بکشند",
-        "titre_ar": "تعرف على المذيعة الزاهية التي لا يستطيع الملاّحة الإيرانيون قتلها",
-        "titre_original": "Meet the glamorous broadcaster Iran’s mullahs can’t kill",
-        "resume": "Téhéran déploie des assassins pour éliminer des opposants ou des figures critiques, même à l’étranger. Cette stratégie, déjà documentée dans des affaires comme l’assassinat de l’opposant iranien en France en 2020, illustre l’extension de la répression iranienne au-delà de ses frontières. Les cibles incluent des journalistes, des dissidents et des personnalités liées à des groupes pro-démocratie. Cette tactique reflète une paranoïa croissante du régime face aux pressions internationales et aux mouvements de protestation internes. Les conséquences géopolitiques pourraient inclure une escalade des tensions avec les pays hôtes et une radicalisation accrue des opposants.",
-        "resume_en": "Tehran deploys assassins to target opponents or critics, even abroad. This strategy, documented in cases like the 2020 killing of an Iranian dissident in France, shows Iran’s repression extending beyond its borders. Targets include journalists, dissidents, and figures linked to pro-democracy groups. This tactic reflects growing regime paranoia amid international pressure and internal protests. Geopolitical consequences may include escalated tensions with host countries and heightened radicalization among opponents.",
-        "resume_zh": "德黑兰部署刺客暗杀反对派或批评者，甚至在境外进行。这种策略已在2020年法国暗杀伊朗反对派的案件中得到记录，展示了伊朗压制行为超越国界。目标包括记者、反对派和与民主派组织相关的人物。这一手段反映了政权在面对国际压力和国内抗议时的日益偏执。地缘政治后果可能包括与东道国紧张关系升级和反对派更加激进化。",
-        "resume_ru": "Тегеран развернул программу убийств без границ, но одна из ведущих телепередач остается вне досягаемости. Ее популярность и смелость в критике власти делают ее мишенью для репрессий, но она продолжает работать. Источники говорят о давлении на СМИ и попытках ограничить свободу слова.",
-        "resume_fa": "تهران برنامه قتل بدون مرز را راه‌اندازی کرده است، اما یکی از مجریان تلویزیونی محبوب همچنان در خارج از دسترس است. محبوبیت و دلیری او در انتقاد از حکومت او را هدف репреسیون‌ها قرار داده است، اما او همچنان کار خود را ادامه می‌دهد. منابع به فشار بر رسانه‌ها و تلاش برای محدود کردن آزادی بیان اشاره می‌کنند.",
-        "resume_ar": "أعلنت طهران عن برنامج قتل بلا حدود، لكن إحدى المذيعات التلفزيوتيات الشهيرات ما زالت خارج من متناولهم. شعبيتها و جرأتها في انتقاد السلطة جعلتها هدفًا للردع، لكنها تستمر في العمل. تشير المصادر إلى الضغط على وسائل الإعلام والAttempts لتقييد حرية التعبير.",
-        "analyse_detaillee": "Les opérations d’assassinat ciblées par l’Iran remontent aux années 1990, avec des pics lors des crises comme la guerre Iran-Irak ou les tensions avec les États-Unis. Ces actions s’inscrivent dans une stratégie de « guerre hybride », combinant répression interne et projection de pouvoir à l’étranger pour affaiblir les opposants. Les causes profondes incluent la légitimité fragile du régime des mollahs, menacé par les mouvements sociaux comme ceux de 2019 ou 2022, et la paranoïa face à une possible ingérence étrangère. À court terme, cela pourrait provoquer des représailles diplomatiques ou militaires de la part des pays ciblés, comme la France ou les États-Unis. À moyen terme, cela pourrait accélérer la fragmentation des réseaux d’opposition et renforcer les alliances régionales pro-iraniennes. Long terme, cela pourrait contribuer à une normalisation des pratiques répressives en Iran, avec un risque de radicalisation accrue des jeunes générations. Les mollahs justifient ces actions par la nécessité de « protéger la révolution », tandis que les opposants y voient une preuve de leur incapacité à gouverner sans violence.",
-        "analyse_en": "Iran’s targeted assassination operations date back to the 1990s, peaking during crises like the Iran-Iraq War or tensions with the U.S. These actions reflect a ‘hybrid war’ strategy, blending internal repression with foreign power projection to weaken opponents. Root causes include the fragile legitimacy of the mullahs’ regime, threatened by movements like those in 2019 or 2022, and paranoia over potential foreign interference. Short-term, this may trigger diplomatic or military retaliation from targeted countries like France or the U.S. Medium-term, it could accelerate the fragmentation of opposition networks and strengthen pro-Iran regional alliances. Long-term, it may contribute to the normalization of repressive practices in Iran, with a risk of heightened radicalization among youth. The mullahs justify these actions as necessary to ‘protect the revolution,’ while opponents see them as proof of their inability to govern without violence.",
-        "analyse_zh": "伊朗针对性暗杀行动可追溯到上世纪90年代，在伊朗伊拉克战争或与美国紧张关系期间达到高潮。这些行动体现了「混合战争」策略，结合国内镇压和海外权力投射以削弱反对派。深层原因包括穆斯林教权政权合法性脆弱，面临2019年或2022年社会运动的威胁，以及对外国干预的偏执。短期内，这可能引发目标国家（如法国或美国）的外交或军事报复。中期内，这可能加速反对派网络的分裂并巩固亲伊朗地区联盟。长期来看，这可能促进伊朗镇压行为的常态化，并增加年轻一代激进化的风险。穆斯林教权以「保护革命」为由进行这些行动，而反对派则认为这是证明他们无法不依赖暴力治理的证据。",
-        "analyse_ru": "Этот случай иллюстрирует противоречие между идеологией иранского режима и реальностью современного общества. Власть боится потери контроля над информационным пространством, но не может полностью подавить критику. Популярность ведущей показывает, что часть общества поддерживает свободу слова. В перспективе это может привести к дальнейшему ужесточению цензуры или, напротив, к росту протестного движения. Международное сообщество может использовать этот случай для давления на Тегеран, но пока реакция ограничена.",
-        "analyse_fa": "این مورد تضاد بین ایدئولوژی رژیم ایران و واقعیت جامعه مدرن را نشان می‌دهد. حکومت از از دست دادن کنترل بر فضاهای اطلاعاتی می‌ترسد، اما نمی‌تواند انتقاد را کاملاً سرکوب کند. محبوبیت مجری نشان می‌دهد که بخشی از جامعه آزادی بیان را حمایت می‌کند. در آینده، این ممکن است منجر به تشدید بیشتر سانسور یا برعکس، افزایش جنبش اعتراضی شود. جامعه بین‌المللی می‌تواند از این مورد برای فشار بر تهران استفاده کند، اما تاکنون واکنش محدود بوده است.",
-        "analyse_ar": "هذا الحادث يوضح التناقض بين أيديولوجية نظام إيران والواقعية في المجتمع الحديث. السلطة تخشى فقدان السيطرة على الفضاء المعلوماتي، لكن لا يمكنها إخماد النقد بالكامل. شعبيتها تدل على أن جزء من المجتمع يدعم حرية التعبير. في المستقبل، قد يؤدي هذا إلى زيادة تشديد الرقابة أو، على العكس، إلى نمو حركة protesta. قد يستغل المجتمع الدولي هذا الأمر لضغط على طهران، لكن التفاعل حتى الآن محدود.",
-        "categorie": "Sécurité",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/17/world-news/meet-the-glamorous-broadcaster-the-iranian-regime-cant-kill/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41344491.jpg?quality=75&strip=all&w=1200",
-        "date": "2026-10-17",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des assurances politiques et diplomatiques",
-            "hausse": true
-          },
-          {
-            "label": "▲ Fonds souverains spécialisés en renseignement",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances politiques et diplomatiques",
-            "secteur_en": "Political and diplomatic insurance market",
-            "secteur_zh": "政治和外交保险市场",
-            "effet_fr": "Les risques accrus d’ingérences et d’opérations clandestines pourraient inciter les États à souscrire des assurances couvrant les dommages diplomatiques ou les représailles, avec une hausse des primes pour les pays perçus comme vulnérables.",
-            "effet_en": "Increased risks of interference and covert operations may prompt states to purchase insurance covering diplomatic damage or retaliation, with higher premiums for countries perceived as vulnerable.",
-            "effet_zh": "干预和秘密行动风险上升可能促使国家购买覆盖外交损害或报复的保险，被视为脆弱的国家保费可能上涨。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Fonds souverains spécialisés en renseignement",
-            "secteur_en": "Sovereign wealth funds in intelligence",
-            "secteur_zh": "主权财富基金在情报领域",
-            "effet_fr": "Les régimes autoritaires pourraient investir davantage dans des fonds dédiés à la collecte d’informations sur les opposants ou les cibles stratégiques, avec un impact sur les marchés financiers liés à la cybersécurité et à la surveillance.",
-            "effet_en": "Authoritarian regimes may invest more in funds focused on gathering intelligence on opponents or strategic targets, affecting financial markets related to cybersecurity and surveillance.",
-            "effet_zh": "专制政权可能更多投资于收集反对派或战略目标情报的基金，影响与网络安全和监控相关的金融市场。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-18T14:19:54.922373"
       }
     ]
   },
