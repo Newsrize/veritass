@@ -1,7 +1,66 @@
 {
-  "last_updated": "27/10/2026 à 14h01",
+  "last_updated": "27/10/2026 à 19h21",
   "articles": {
     "monde": [
+      {
+        "id": "monde_88943",
+        "titre": "Skydance lance rachat d’employés et retour au bureau",
+        "titre_en": "Skydance introduces employee buyout and office return",
+        "titre_zh": "斯凯达ンス推出员工购买计划和办公室返程",
+        "titre_ru": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
+        "titre_fa": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
+        "titre_ar": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
+        "titre_original": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
+        "resume": "La société Skydance, dirigée par David Ellison, a annoncé un programme de rachat pour ses employés et un retour progressif au bureau après des années de télétravail. Ce changement s’inscrit dans une stratégie de recentrage sur la collaboration physique, malgré les résistances syndicales. La décision reflète une tendance plus large dans l’industrie du divertissement à redéfinir les normes post-pandémie.",
+        "resume_en": "Skydance, led by David Ellison, announced an employee buyout program and a gradual return to the office after years of remote work. This shift aims to prioritize in-person collaboration, despite union pushback. The move aligns with broader trends in the entertainment industry to redefine post-pandemic norms.",
+        "resume_zh": "由戴维·埃利森领导的斯凯达恩斯公司宣布了一项员工购买计划和逐步返办公室的政策，结束了多年的远程工作。这一变化旨在优先考虑面对面合作，尽管工会提出了反对。这与娱乐行业重新定义疫情后工作规范的趋势一致。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette annonce s’inscrit dans un contexte historique de remise en question des modèles hybrides post-Covid, où les entreprises cherchent à restaurer la cohésion d’équipe. Les enjeux principaux incluent la productivité, la rétention des talents et la satisfaction des employés face à un retour imposé. Les causes profondes sont la crise économique de 2020 et la nécessité pour les studios de réduire les coûts tout en maintenant leur compétitivité. À court terme, cela pourrait provoquer des conflits sociaux et une baisse de moral, tandis qu’à moyen terme, une restructuration des effectifs est probable. Long terme, cela pourrait accélérer l’automatisation des tâches non créatives dans le secteur. Les acteurs clés sont les syndicats, les employés et les concurrents comme Netflix ou Disney, qui pourraient suivre cette tendance.",
+        "analyse_en": "This move reflects a broader post-Covid reevaluation of hybrid models, where companies seek to restore team cohesion. Key stakes include productivity, talent retention, and employee satisfaction amid an imposed return. Root causes stem from the 2020 economic crisis and the need for studios to cut costs while staying competitive. Short-term, this may spark labor conflicts and morale decline, while medium-term restructuring of staff is likely. Long-term, it could accelerate automation of non-creative tasks in the industry. Key actors include unions, employees, and competitors like Netflix or Disney, which may follow suit.",
+        "analyse_zh": "这一决定反映了疫情后对混合工作模式的重新审视，企业试图恢复团队凝聚力。主要影响包括生产力、人才留存和员工满意度，面对被强制返岗。深层原因是2020年的经济危机和工作室在保持竞争力同时降低成本的需求。短期内，这可能引发劳资冲突和士气下降，中期内可能进行员工结构调整。长期来看，这可能加速行业中非创意任务的自动化。主要利益相关者包括工会、员工和竞争对手如Netflix或迪士尼，后者可能效仿。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/26/media/david-ellisons-skydance-unveils-employee-buyout-program-orders-five-day-return-to-office/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/david-ellisons-skydance-unveils-employee-146556595.jpg?quality=75&strip=all&w=1200",
+        "date": "2026-10-26",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des actions du divertissement (Hollywood)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Fonds de pension et assurances santé",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des actions du divertissement (Hollywood)",
+            "secteur_en": "Entertainment stocks market (Hollywood)",
+            "secteur_zh": "娱乐业股票市场（好莱坞）",
+            "effet_fr": "Un retour au bureau pourrait stimuler la demande pour les espaces de coworking et les infrastructures liées aux studios, soutenant ainsi les valeurs boursières.",
+            "effet_en": "A return to the office may boost demand for coworking spaces and studio-related infrastructure, supporting stock valuations.",
+            "effet_zh": "返办公可能刺激共享办公空间和工作室相关基础设施的需求，从而支持股票估值。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Fonds de pension et assurances santé",
+            "secteur_en": "Pension funds and health insurance",
+            "secteur_zh": "养老基金和健康保险",
+            "effet_fr": "Les employés en télétravail pourraient voir leurs avantages santé réduits, impactant les portefeuilles des fonds de pension liés aux assurances.",
+            "effet_en": "Remote workers may see reduced health benefits, affecting pension funds tied to insurance portfolios.",
+            "effet_zh": "远程员工可能看到健康福利减少，影响与保险相关的养老基金组合。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-27T19:20:52.536788"
+      },
       {
         "id": "monde_97469",
         "titre": "Épisodes de *Neighbours* avec Margot Robbie réédités en micro-dramas : critiques sur consentement et usage",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-22T01:14:38.837143"
-      },
-      {
-        "id": "monde_513610",
-        "titre": "Émeutes parisiennes : critique d’un État-providence",
-        "titre_en": "Paris riots: critique of welfare state",
-        "titre_zh": "巴黎骚乱：福利国家受质疑",
-        "titre_ru": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
-        "titre_fa": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
-        "titre_ar": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
-        "titre_original": "SARAH VINE: French rioters aren't the weak, the starving, the desperate - they are the indulged children of a bloated welfare state and wokeism that threaten civilised society",
-        "resume": "L’auteure Sarah Vine attribue les violences urbaines à un système de protection sociale surdimensionné et à l’idéologie *woke*. Elle dénonce une génération de jeunes perçue comme privilégiée mais en réalité marginalisée. Les scènes de destruction seraient le symptôme d’un État qui encourage l’assistanat plutôt que l’intégration.",
-        "resume_en": "Sarah Vine links urban riots to an overblown welfare state and *woke* ideology, portraying young rioters as privileged yet marginalized. Destruction is framed as a symptom of a state fostering dependency over integration. The analysis sparks debate on social policies and generational divides.",
-        "resume_zh": "萨拉·文恩将城市骚乱归咎于膨胀的福利制度和“觉醒主义”理念，认为骚乱者被视为特权阶层但实际被边缘化。破坏行为被视为国家鼓励依赖而非融入的结果。此观点引发了对社会政策和代际差异的争议。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette analyse s’inscrit dans un débat récurrent depuis les *émeutes de 2005* en France, opposant thèses sociologiques (exclusion, précarité) et discours conservateurs (faiblesse morale). Les enjeux incluent la légitimité des politiques d’inclusion et le rôle des médias dans l’amplification des tensions. Les causes profondes sont la polarisation idéologique et la défiance envers les institutions. À court terme, cela pourrait radicaliser les discours politiques, tandis qu’à moyen terme, cela pourrait affaiblir les réformes sociales. Long terme, cela interroge la cohésion nationale dans un contexte de mondialisation. Les acteurs clés sont les médias conservateurs (*Le Figaro*, *The Telegraph*), les intellectuels critiques (comme Alain Finkielkraut), et les mouvements sociaux (Gilets jaunes).",
-        "analyse_en": "This perspective echoes recurring debates since the *2005 French riots*, pitting sociological explanations (exclusion, precarity) against conservative narratives (moral decay). Stakes include the legitimacy of inclusion policies and media’s role in amplifying tensions. Root causes lie in ideological polarization and institutional distrust. Short-term, it may radicalize political discourse; medium-term, it could weaken social reforms. Long-term, it questions national cohesion in a globalized world. Key actors include conservative media (*Le Figaro*, *The Telegraph*), critical intellectuals (like Alain Finkielkraut), and social movements (Yellow Vests).",
-        "analyse_zh": "此观点源自2005年法国骚乱以来的持续争议，对比社会学解释（排斥、贫困）和保守主义论点（道德沦丧）。主要影响涉及包容性政策的合法性和媒体在放大紧张局势中的作用。深层原因包括意识形态极化和对机构的不信任。短期内，这可能激化政治辩论；中期内，可能削弱社会改革；长期内，这将质疑在全球化背景下的国家凝聚力。关键利益相关者包括保守媒体（《费加罗报》、《电讯报》）、批评性知识分子（如阿兰·芬基尔克拉特）和社会运动（黄背心运动）。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/debate/article-16224871/SARAH-VINE-French-rioters-welfare.html",
-        "image": "https://i.dailymail.com/1s/2026/10/20/21/111986475-0-image-m-20_1792529197594.jpg",
-        "date": "2026-10-20",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marché de l’emploi (jeunes qualifiés)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Assurance et protection sociale",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché de l’emploi (jeunes qualifiés)",
-            "secteur_en": "Youth employment market",
-            "secteur_zh": "青年就业市场",
-            "effet_fr": "Les tensions sociales pourraient décourager les investissements dans la formation professionnelle, aggravant le chômage des diplômés.",
-            "effet_en": "Social tensions may deter investments in vocational training, worsening graduate unemployment.",
-            "effet_zh": "社会动荡可能减少对职业培训的投资，加剧毕业生失业率。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Assurance et protection sociale",
-            "secteur_en": "Social insurance sector",
-            "secteur_zh": "社会保障保险行业",
-            "effet_fr": "Les critiques pourraient accélérer les réformes de réduction des dépenses, mais risquent aussi de fragiliser les plus vulnérables.",
-            "effet_en": "Criticisms may speed up cost-cutting reforms but risk undermining the most vulnerable.",
-            "effet_zh": "批评可能加速削减开支的改革，但也可能削弱最脆弱群体的保障。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-21T22:07:53.443132"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_300954",
+        "titre": "Échec diplomatique des évêques catholiques face à Trump",
+        "titre_en": "Catholic bishops face Trump’s diplomatic backlash",
+        "titre_zh": "天主教主教因特朗普会议遭批评",
+        "titre_ru": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
+        "titre_fa": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
+        "titre_ar": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
+        "titre_original": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
+        "resume": "Des évêques catholiques américains ont exprimé des regrets après une rencontre avec Donald Trump, accusés d’avoir été manipulés à des fins politiques. Un évêque a reconnu une naïveté dans leur approche, révélant des tensions internes au sein de l’Église. Ce revirement intervient dans un contexte de polarisation croissante aux États-Unis, où les institutions religieuses sont de plus en plus instrumentalisées.",
+        "resume_en": "U.S. Catholic bishops apologized after a meeting with Donald Trump, accused of being exploited for political purposes. One bishop admitted naivety in their approach, highlighting internal tensions within the Church. This shift occurs amid rising polarization in the U.S., where religious institutions are increasingly politicized.",
+        "resume_zh": "美国天主教主教因与特朗普会面后遭批评，指控他们被用于政治目的。一位主教承认自己过于天真，暴露了教会内部的紧张关系。此举发生在美国极化加剧的背景下，宗教机构越来越被政治化。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce scandale s’inscrit dans une longue histoire de tensions entre l’Église catholique et les présidents américains, notamment depuis les années 1960 avec les débats sur la contraception et l’avortement. Les évêques, traditionnellement conservateurs, sont aujourd’hui perçus comme des cibles faciles pour les stratégies partisanes, surtout sous une administration Trump. Les causes profondes incluent une perte de crédibilité de l’institution face à la montée des mouvements progressistes et une fragmentation de l’opinion publique. À court terme, cela pourrait affaiblir leur influence sur les questions morales et sociales, tandis qu’à moyen terme, une réévaluation de leur rôle politique est probable. À long terme, cela pourrait accélérer une sécularisation accrue des débats publics aux États-Unis. Les acteurs clés sont les évêques eux-mêmes, divisés entre modérés et intransigeants, ainsi que les médias conservateurs qui amplifient ces crises.",
+        "analyse_en": "This scandal reflects long-standing tensions between the Catholic Church and U.S. presidents, particularly since the 1960s debates on contraception and abortion. Bishops, traditionally conservative, are now seen as easy targets for partisan strategies, especially under Trump’s administration. Root causes include a loss of credibility for the institution amid rising progressive movements and public opinion fragmentation. Short-term, this could weaken their moral and social influence, while medium-term, a reevaluation of their political role is likely. Long-term, it may accelerate secularization in public debates in the U.S. Key actors include divided bishops between moderates and hardliners, as well as conservative media amplifying these crises.",
+        "analyse_zh": "此事件源于美国天主教会与总统间长期的紧张关系，特别是自20世纪60年代关于避孕和堕胎的争议以来。保守的主教们如今被视为党派策略的易受攻击目标，尤其是在特朗普执政期间。深层原因包括教会在进步运动和公众意见分裂背景下信誉下降。短期内，这可能削弱他们在道德和社会问题上的影响力，中期内，他们可能需要重新评估政治角色。长期来看，这可能加速美国公共辩论的世俗化。主要利益相关者包括分裂的主教（温和派与硬汉派）以及放大这些危机的保守媒体。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Time",
+        "url": "https://time.com/article/2026/10/26/catholic-bishops-apologize-meeting-with-trump-white-house-video/",
+        "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1b1c49d74fcaeb39/6adf56b2ac57f977dd3d2ac8/Trump_pray.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+        "date": "2026-10-26",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des assurances religieuses et éthiques",
+            "hausse": false
+          },
+          {
+            "label": "▼ Fonds d’investissement à impact social",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des assurances religieuses et éthiques",
+            "secteur_en": "Religious and ethical insurance market",
+            "secteur_zh": "宗教和伦理保险市场",
+            "effet_fr": "La perte de confiance envers les institutions religieuses pourrait réduire les souscriptions à des assurances liées à des valeurs morales ou à des engagements ecclésiastiques.",
+            "effet_en": "Declining trust in religious institutions may reduce subscriptions to morally or ecclesiastically tied insurance products.",
+            "effet_zh": "对宗教机构信任度下降可能减少与道德或教会相关的保险产品的订阅。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Fonds d’investissement à impact social",
+            "secteur_en": "Social impact investment funds",
+            "secteur_zh": "社会影响力投资基金",
+            "effet_fr": "Les investisseurs pourraient reconsidérer leur soutien aux projets liés à l’éducation ou à la charité, perçus comme politisés par cette affaire.",
+            "effet_en": "Investors may reconsider support for education or charity-linked projects, seen as politicized by this incident.",
+            "effet_zh": "投资者可能重新考虑对教育或慈善项目的支持，这些项目因此事被视为政治化。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-10-27T19:20:52.536769"
+      },
       {
         "id": "usa_858497",
         "titre": "Trump soutient Netanyahu avant élections israéliennes : « Finir le travail » contre l’Iran",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-22T01:14:38.837108"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_361886",
-        "titre": "Trump annonce 8 milliards pour les agriculteurs",
-        "titre_en": "Trump pledges $8B relief for farmers",
-        "titre_zh": "特朗普承诺为农民提供80亿美元援助",
-        "titre_ru": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
-        "titre_fa": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
-        "titre_ar": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
-        "titre_original": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
-        "resume": "L’administration Trump propose un plan de secours de 8 milliards de dollars pour les agriculteurs américains, frappés par des prix records du diesel. Cette mesure vise à atténuer les coûts logistiques et énergétiques qui menacent la rentabilité des exploitations. Elle intervient dans un contexte de tensions inflationnistes et de pression sur les marges des producteurs.",
-        "resume_en": "The Trump administration offers $8 billion in relief to U.S. farmers struggling with record-high diesel prices. The plan aims to ease logistical and energy costs threatening farm profitability amid inflationary pressures. It reflects broader economic challenges faced by agricultural producers.",
-        "resume_zh": "特朗普政府为受高油价困扰的美国农民提供80亿美元救助计划，旨在缓解农业生产成本压力。此举是在通胀高企和农业利润受损的背景下推出的。救助措施可能影响能源和农业相关市场的稳定性。",
+        "id": "chine_723898",
+        "titre": "Bruxelles vise les importations chinoises face à crise industrielle",
+        "titre_en": "Brussels targets Chinese imports amid industrial crisis",
+        "titre_zh": "布鲁塞尔针对中国进口应对工业危机",
+        "titre_ru": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+        "titre_fa": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+        "titre_ar": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+        "titre_original": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+        "resume": "L’Union européenne adopte des mesures protectionnistes contre les importations chinoises, face à la colère des électeurs et à la montée des partis d’extrême droite. Les élections locales récentes ont révélé un mécontentement croissant envers les politiques globalistes. Cette stratégie s’inscrit dans une lutte pour préserver les industries locales et réduire la dépendance économique.",
+        "resume_en": "The EU adopts protectionist measures against Chinese imports amid voter anger and the rise of far-right parties. Recent local elections exposed growing discontent with globalist policies. This strategy aims to preserve local industries and reduce economic dependence.",
+        "resume_zh": "欧盟采取针对中国进口的保护主义措施，应对选民的不满和右翼政党的崛起。最近的地方选举揭示了对全球化政策日益增长的不满。这一策略旨在保护本土产业并减少经济依赖。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ce plan s’inscrit dans une tradition de subventions agricoles américaines, remontant aux années 1930 avec le *New Deal*. Les enjeux actuels incluent la dépendance énergétique des États-Unis et la volatilité des prix mondiaux des matières premières. Les causes profondes sont la hausse des coûts de production, aggravée par les perturbations géopolitiques (ex. : sanctions contre la Russie). À court terme, les agriculteurs pourraient voir une amélioration de leur trésorerie, mais cela pourrait aussi alimenter les débats sur la dette publique. À moyen terme, cela pourrait renforcer les pressions sur les prix des denrées alimentaires. Long terme, cela interroge la durabilité des modèles agricoles face au changement climatique. Les acteurs clés sont les lobbies agricoles (comme la *American Farm Bureau*), les républicains soutenant les mesures protectionnistes, et les démocrates critiquant leur coût fiscal.",
-        "analyse_en": "This measure follows a long tradition of U.S. agricultural subsidies dating back to the 1930s *New Deal* era. Current stakes include energy dependence and global commodity price volatility. Root causes stem from rising production costs exacerbated by geopolitical disruptions (e.g., Russian sanctions). Short-term, farmers may see cash flow relief, but this could also fuel debates over public debt. Medium-term, it may intensify food price pressures. Long-term, it questions agricultural sustainability amid climate change. Key actors include farm lobbies (like the *American Farm Bureau*), Republican supporters of protectionist policies, and Democrats criticizing fiscal costs.",
-        "analyse_zh": "此举源自上世纪30年代《新政》以来的美国农业补贴传统，当前主要影响涉及能源依赖和全球大宗商品价格波动。深层原因包括生产成本上升和地缘政治动荡（如对俄制裁）。短期内，农民现金流可能改善，但也可能加剧公共债务争议。中期内，可能加剧食品价格压力。长期来看，这将质疑农业在气候变化背景下的可持续性。关键利益相关者包括农业利益集团（如美国农场局）、支持保护主义政策的共和党人，以及批评财政成本的民主党人。",
+        "analyse_detaillee": "Cette décision s’inscrit dans une longue histoire de tensions commerciales entre l’UE et la Chine, remontant aux années 1990 avec l’adhésion de Pékin à l’OMC. Les enjeux principaux incluent la souveraineté industrielle et la compétitivité économique face à la montée de la Chine. Les causes profondes sont la délocalisation massive des industries européennes et la dépendance aux chaînes d’approvisionnement asiatiques. À court terme, cela pourrait déclencher des représailles commerciales de la Chine et une inflation accrue, tandis qu’à moyen terme, une relocalisation partielle des usines est probable. Long terme, cela pourrait redéfinir les alliances économiques en Europe et accélérer une fragmentation des chaînes d’approvisionnement mondiales.",
+        "analyse_en": "This move reflects long-standing trade tensions between the EU and China, dating back to the 1990s with Beijing’s WTO accession. Key stakes involve industrial sovereignty and economic competitiveness against China’s rise. Root causes include massive European industrial offshoring and reliance on Asian supply chains. Short-term, this may trigger Chinese trade retaliation and higher inflation, while medium-term partial factory relocations are likely. Long-term, it could redefine EU economic alliances and accelerate global supply chain fragmentation.",
+        "analyse_zh": "这一决定反映了欧盟和中国自1990年代以来的贸易紧张关系，特别是北京加入世界贸易组织以来。主要影响涉及工业主权和应对中国崛起的经济竞争力。深层原因包括欧洲大规模产业外包和对亚洲供应链的依赖。短期内，这可能引发中国的贸易报复和通胀上升，中期内部分工厂可能重新定位。长期来看，这可能重新定义欧盟的经济同盟并加速全球供应链的分裂。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/20/business/trump-promises-8-billion-in-relief-to-farmers-reeling-from-high-diesel-costs/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145858310.jpg?quality=75&strip=all&w=1200",
-        "date": "2026-10-20",
-        "pays": "usa",
+        "categorie": "Économie",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Brussels-Takes-Aim-at-Chinese-Imports-as-Europes-Industrial-Crisis-Deepens.html",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_mc8avf9ouk.jpg",
+        "date": "2026-10-26",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des matières premières agricoles",
-            "hausse": true
+            "label": "▼ Marché des semi-conducteurs et composants électroniques",
+            "hausse": false
           },
           {
-            "label": "▼ Secteur énergétique (pétrole/diesel)",
-            "hausse": false
+            "label": "▲ Fonds souverains et investissements en infrastructures",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des matières premières agricoles",
-            "secteur_en": "Agricultural commodities market",
-            "secteur_zh": "农产品期货市场",
-            "effet_fr": "Les subventions pourraient temporairement soutenir les prix des céréales et du soja, mais risquent aussi de créer des distorsions commerciales avec l’UE ou le Brésil.",
-            "effet_en": "Subsidies may temporarily prop up grain and soybean prices but risk creating trade distortions with the EU or Brazil.",
-            "effet_zh": "补贴可能暂时提振谷物和大豆价格，但也可能与欧盟或巴西等国形成贸易扭曲。",
-            "hausse": true
+            "secteur_fr": "Marché des semi-conducteurs et composants électroniques",
+            "secteur_en": "Semiconductor and electronic components market",
+            "secteur_zh": "半导体和电子元件市场",
+            "effet_fr": "Les tarifs douaniers pourraient augmenter les coûts pour les fabricants européens dépendants des puces chinoises, poussant vers des alternatives comme les puces taïwanaises ou américaines.",
+            "effet_en": "Tariffs may raise costs for European manufacturers reliant on Chinese chips, pushing toward Taiwanese or U.S. alternatives.",
+            "effet_zh": "关税可能增加依赖中国芯片的欧洲制造商的成本，推动他们转向台湾或美国的芯片。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Secteur énergétique (pétrole/diesel)",
-            "secteur_en": "Energy sector (oil/diesel)",
-            "secteur_zh": "能源行业（石油柴油）",
-            "effet_fr": "La demande en diesel pourrait baisser légèrement si les coûts logistiques diminuent, mais la dépendance aux importations de pétrole persiste.",
-            "effet_en": "Diesel demand may dip slightly if logistics costs drop, but oil import dependence remains.",
-            "effet_zh": "如果物流成本下降，柴油需求可能略有减少，但对石油进口的依赖依然存在。",
-            "hausse": false
+            "secteur_fr": "Fonds souverains et investissements en infrastructures",
+            "secteur_en": "Sovereign wealth funds and infrastructure investments",
+            "secteur_zh": "主权财富基金和基础设施投资",
+            "effet_fr": "Les fonds européens pourraient rediriger leurs investissements vers des projets locaux pour contrer la dépendance aux infrastructures chinoises, comme les ports ou les réseaux 5G.",
+            "effet_en": "EU funds may redirect investments to local projects to counter dependence on Chinese infrastructure, such as ports or 5G networks.",
+            "effet_zh": "欧洲基金可能将投资重新定向到本土项目，以减少对中国基础设施（如港口或5G网络）的依赖。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-21T22:07:53.443111"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-27T19:20:52.536805"
+      },
       {
         "id": "chine_749287",
         "titre": "Casio lance ses montres G-Shock GST-W1000 en Europe : prix et calendrier",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-18T10:26:59.059450"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_68074",
-        "titre": "Taiwan Mask rachète TCK pour étendre en Japon",
-        "titre_en": "Taiwan Mask acquires TCK to expand in Japan",
-        "titre_zh": "台湾面罩收购TCK扩张日本市场",
-        "titre_ru": "Тайваньская компания покупает японскую фирму за 4,75 млн долларов",
-        "titre_fa": "شرکت تایوانی شرکت ژاپنی را برای ۴٫۷۵ میلیون دلار خریداری کرد",
-        "titre_ar": "شركة تايوانية تستحوذ على شركة يابانية بقيمة 4.75 مليون دولار",
-        "titre_original": "Taiwan Mask targets Japan's Kyushu chip expansion with US$4.75 million TCK acquisition",
-        "resume": "Taiwan Mask Corporation (TMC) a finalisé l’acquisition de TCK, un fournisseur japonais de services d’équipements pour semi-conducteurs, pour 4,75 millions de dollars. Cette opération s’inscrit dans une stratégie d’expansion internationale, notamment en Asie, où TMC cherche à renforcer sa présence dans la chaîne d’approvisionnement des puces électroniques. Le rachat de TCK permet à TMC de diversifier ses activités au-delà de la fabrication de photomasques de précision, en intégrant des services logistiques et techniques.",
-        "resume_en": "Taiwan Mask Corporation (TMC) completed the acquisition of TCK, a Japanese provider of semiconductor equipment services, for $4.75 million. This move is part of an international expansion strategy, particularly in Asia, where TMC aims to strengthen its position in the semiconductor supply chain. The acquisition of TCK allows TMC to diversify beyond precision photomask manufacturing into logistics and technical services.",
-        "resume_zh": "台湾面罩公司（TMC）斥资475万美元收购了日本半导体设备服务提供商TCK。这一举措是TMC国际扩张战略的一部分，特别是在亚洲地区，旨在加强其在半导体供应链中的地位。TCK的收购使TMC能够从精密光罩制造业务中多元化，涉足物流和技术服务领域。",
-        "resume_ru": "Компания «Тайвань Маск Корпорейшн» расширяет своё присутствие в Японии, приобретя поставщика оборудования для полупроводников TCK за 4,75 млн долларов. Это шаг за рамками производства точных масок фотолитографических. Новый актив позволит компании укрепить позиции на рынке Японии и расширить спектр услуг.",
-        "resume_fa": "شرکت «تایوان ماسک» حضور خود در ژاپن را با خرید شرکت خدمات تجهیزات نیمه‌هادی TCK به ارزش ۴٫۷۵ میلیون دلار گسترش می‌دهد. این حرکت خارج از تولید ماسک‌های دقیق فتوگرافی است. دارایی جدید به شرکت کمک می‌کند تا در بازار ژاپن تقویت شود و دامنه خدمات خود را گسترش دهد.",
-        "resume_ar": "شركة «تايوان ماسك» توسيع وجودها في اليابان من خلال استحواذها على شركة تسييل معدات أشباه الموصلات TCK بقيمة 4.75 مليون دولار. هذا الخطوة خارج نطاق إنتاج ماسكات الفوتوغرافية الدقة. هذا الأصول الجديد سيساعد الشركة على تقوية موقعها في سوق اليابان وتوسيع نطاق خدماتها.",
-        "analyse_detaillee": "Cette acquisition s’inscrit dans un contexte géopolitique tendu autour des semi-conducteurs, où la Chine et Taïwan s’affrontent indirectement pour le contrôle des technologies critiques. TMC, bien que basée à Taïwan, bénéficie d’un statut ambigu dans les relations sino-américaines, ce qui limite ses opportunités d’investissement direct en Chine continentale. À court terme, le rachat de TCK renforce la résilience de TMC face à la concurrence japonaise (comme ASML) et sud-coréenne (Samsung), tout en lui ouvrant des portes dans la maintenance et l’optimisation des usines de fabrication. À moyen terme, cette diversification pourrait positionner TMC comme un acteur clé dans les services associés aux semi-conducteurs, réduisant sa dépendance à la fabrication pure. Long terme, cela dépendra de la capacité de TMC à naviguer entre les tensions commerciales et technologiques, notamment si les États-Unis ou la Chine imposent des restrictions supplémentaires sur les transferts de technologie.",
-        "analyse_en": "This acquisition occurs in a tense geopolitical context around semiconductors, where China and Taiwan indirectly compete for control of critical technologies. TMC, based in Taiwan, operates in a gray area of Sino-American relations, limiting its direct investment opportunities on mainland China. Short-term, the TCK acquisition strengthens TMC’s resilience against Japanese (ASML) and South Korean (Samsung) competition while opening doors in factory maintenance and optimization services. Medium-term, this diversification could position TMC as a key player in semiconductor-related services, reducing its reliance on pure manufacturing. Long-term prospects depend on TMC’s ability to navigate commercial and technological tensions, especially if the U.S. or China imposes further restrictions on technology transfers.",
-        "analyse_zh": "此收购发生在半导体领域紧张的地缘政治背景下，中国和台湾间接争夺关键技术的控制权。TMC虽然位于台湾，但在中美关系中处于模糊地位，限制了其在大陆直接投资的机会。短期内，TCK的收购增强了TMC抵御日本（ASML）和韩国（三星）竞争的能力，同时为其在半导体厂维护和优化服务开辟了大门。中期内，这种多元化可能使TMC成为半导体相关服务的关键玩家，减少其对纯制造业的依赖。长期前景取决于TMC应对商业和技术紧张局势的能力，特别是如果美国或中国对技术转移施加额外限制。",
-        "analyse_ru": "Приобретение TCK позволяет «Тайвань Маск» диверсифицировать бизнес и войти в новую нишу — обслуживание полупроводниковой промышленности. Япония остаётся ключевым рынком для компании, где конкуренция высока, но потенциал роста значителен. Это шаг к укреплению технологической независимости региона Азии. В будущем подобные сделки могут стать стандартной практикой для компаний, стремящихся к глобальной экспансии. Однако, интеграция нового бизнеса потребует времени и ресурсов.",
-        "analyse_fa": "خرید شرکت TCK به شرکت «تایوان ماسک» امکان تنوع‌بخشی در کسب‌وکار و ورود به یک نیش جدید — خدمات صنایع نیمه‌هادی — را می‌دهد. ژاپن همچنان بازار کلیدی برای شرکت است، جایی که رقابت بالا است اما پتانسیل رشد قابل توجهی دارد. این حرکت یک قدم در جهت تقویت استقلال فناوری منطقه آسیا است. در آینده، چنین معامله‌هایی ممکن است به یک عمل استاندارد برای شرکت‌هایی که به گسترش جهانی می‌پردازند، تبدیل شوند. با این حال، ادغام کسب‌وکار جدید زمان و منابع بیشتری خواهد خواست.",
-        "analyse_ar": "استحواذ على TCK يسمح لشركة «تايوان ماسك» بتنوع أعمالها ودخولها إلى قطاع جديد هو خدمات صناعة أشباه الموصلات. اليابان تظل سوقًا أساسيًا للشركة، حيث تكون المنافسة عالية ولكن إمكانيات النمو كبيرة. هذا الخطوة خطوة نحو تعزيز الاستقلال التكنولوجي لمنطقة آسيا. في المستقبل، قد تصبح مثل هذه المعاملات ممارسة قياسية للشركات التي تسعى للتوسع العالمي. ومع ذلك، سيستغرق دمج الأعمال الجديدة وقتًا وموارد إضافية.",
+        "id": "russie_295454",
+        "titre": "Musk accuse l’Ukraine d’abuser de Starlink pour drones",
+        "titre_en": "Musk accuses Ukraine of Starlink misuse in drone strikes",
+        "titre_zh": "马斯克指责乌克兰滥用星链用于无人机袭击",
+        "titre_ru": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+        "titre_fa": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+        "titre_ar": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+        "titre_original": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+        "resume": "Elon Musk a accusé l’Ukraine d’utiliser illégalement le service Starlink pour des frappes par drones, violant les conditions d’utilisation. Kiev dément toute violation et affirme que le système Starshield fonctionne normalement. Ce conflit illustre les tensions croissantes autour de l’accès aux technologies critiques en temps de guerre.",
+        "resume_en": "Elon Musk accused Ukraine of illegally using Starlink for drone strikes, violating terms of service. Kiev denies misuse and claims Starshield operates normally. This dispute highlights growing tensions over access to critical tech during wartime.",
+        "resume_zh": "埃隆·马斯克指控乌克兰非法使用星链服务进行无人机袭击，违反了使用条款。基辅否认滥用行为，称Starshield系统正常运行。此争端反映了战争期间对关键技术访问权的日益紧张关系。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce litige s’inscrit dans une histoire de dépendance technologique de l’Ukraine envers les États-Unis, notamment depuis 2022 où Starlink a joué un rôle clé dans la résistance face à l’invasion russe. Les enjeux principaux concernent la souveraineté technologique et la sécurité des infrastructures critiques. Les causes profondes incluent la dépendance ukrainienne aux aides occidentales et la volonté de Moscou de limiter l’accès aux technologies étrangères. À court terme, cela pourrait aggraver les tensions diplomatiques et ralentir les livraisons d’aide, tandis qu’à moyen terme, Kiev pourrait chercher des alternatives comme les satellites européens. Long terme, cela pourrait accélérer une autonomie stratégique pour l’Ukraine ou une fragmentation du marché des télécommunications spatiales.",
+        "analyse_en": "This dispute reflects Ukraine’s technological dependence on the U.S., particularly since 2022 when Starlink played a key role in resisting Russia’s invasion. Key stakes involve technological sovereignty and the security of critical infrastructure. Root causes include Ukraine’s reliance on Western aid and Moscow’s efforts to limit access to foreign tech. Short-term, this may escalate diplomatic tensions and slow aid deliveries, while medium-term, Kiev may seek alternatives like European satellites. Long-term, it could accelerate Ukraine’s strategic autonomy or fragment the space telecommunications market.",
+        "analyse_zh": "此争端反映了乌克兰对美国技术的依赖，特别是自2022年以来，星链在抵抗俄罗斯入侵中发挥了关键作用。主要影响涉及技术主权和关键基础设施的安全。深层原因包括乌克兰对西方援助的依赖和俄罗斯限制外国技术访问的意图。短期内，这可能加剧外交紧张局势并减缓援助交付，中期内，基辅可能寻求欧洲卫星等替代方案。长期来看，这可能加速乌克兰的战略自主或导致太空通信市场分裂。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20261016PD244/taiwan-mask-acquisition-equipment-photomask-revenue.html",
-        "image": "https://img.digitimes.com/newsshow/20261016pd244_files/1_b.jpg",
-        "date": "2026-10-17",
-        "pays": "chine",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186465232",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
+        "date": "2026-10-26",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Industrie des semi-conducteurs (Taïwan/Chine)",
-            "hausse": true
+            "label": "▼ Marché des satellites et télécommunications spatiales",
+            "hausse": false
           },
           {
-            "label": "▲ Technologies de lithographie avancée",
+            "label": "▲ Fonds d’investissement en cybersécurité",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Industrie des semi-conducteurs (Taïwan/Chine)",
-            "secteur_en": "Semiconductor industry (Taiwan/China)",
-            "secteur_zh": "半导体产业（台湾/中国）",
-            "effet_fr": "Cette acquisition renforce la position de Taïwan dans la chaîne de valeur des puces, tout en créant une dépendance accrue aux services logistiques japonais, potentiellement vulnérables aux pressions géopolitiques.",
-            "effet_en": "This acquisition strengthens Taiwan’s position in the semiconductor value chain while increasing reliance on Japanese logistics services, potentially vulnerable to geopolitical pressures.",
-            "effet_zh": "此收购增强了台湾在芯片价值链中的地位，但同时加大了对日本物流服务的依赖，后者可能面临地缘政治压力。",
-            "hausse": true
+            "secteur_fr": "Marché des satellites et télécommunications spatiales",
+            "secteur_en": "Satellite and space telecommunications market",
+            "secteur_zh": "卫星和太空通信市场",
+            "effet_fr": "Les tensions pourraient entraîner une hausse des coûts pour les opérateurs ukrainiens et une recherche accrue de solutions alternatives, comme les satellites russes ou chinois.",
+            "effet_en": "Tensions may drive up costs for Ukrainian operators and spur demand for alternatives like Russian or Chinese satellites.",
+            "effet_zh": "紧张局势可能导致乌克兰运营商成本上升，并刺激对俄罗斯或中国卫星等替代方案的需求。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Technologies de lithographie avancée",
-            "secteur_en": "Advanced lithography technologies",
-            "secteur_zh": "先进光刻技术",
-            "effet_fr": "Le rachat de TCK par TMC pourrait accélérer l’innovation dans les services de maintenance des machines de lithographie, réduisant les délais de production pour les usines de TSMC et Intel en Asie.",
-            "effet_en": "TMC’s acquisition of TCK may accelerate innovation in lithography machine maintenance services, reducing production downtime for TSMC and Intel factories in Asia.",
-            "effet_zh": "TMC收购TCK可能加速光刻机维护服务的创新，减少台积电和英特尔亚洲工厂的生产停工时间。",
+            "secteur_fr": "Fonds d’investissement en cybersécurité",
+            "secteur_en": "Cybersecurity investment funds",
+            "secteur_zh": "网络安全投资基金",
+            "effet_fr": "Les conflits technologiques pourraient stimuler les investissements dans la protection des infrastructures critiques contre les cyberattaques, notamment en Europe de l’Est.",
+            "effet_en": "Tech disputes may boost investments in protecting critical infrastructure from cyberattacks, particularly in Eastern Europe.",
+            "effet_zh": "技术冲突可能刺激对关键基础设施网络安全的投资，特别是在东欧地区。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-18T00:40:12.170551"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-27T19:20:52.536798"
+      },
       {
         "id": "russie_113590",
         "titre": "Zelenskiy confirme la reprise des alertes américaines sur les frappes russes",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-21T13:28:10.011209"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_650847",
-        "titre": "Russie frappe infrastructures logistiques et ports ukrainiens",
-        "titre_en": "Russia targets Ukraine’s logistics and ports",
-        "titre_zh": "俄罗斯袭击乌克兰物流和港口设施",
-        "titre_ru": "Russia Continues Hitting Ukraine Logistics, Port Infrastructure Objects - MoD",
-        "titre_fa": "Russia Continues Hitting Ukraine Logistics, Port Infrastructure Objects - MoD",
-        "titre_ar": "Russia Continues Hitting Ukraine Logistics, Port Infrastructure Objects - MoD",
-        "titre_original": "Russia Continues Hitting Ukraine Logistics, Port Infrastructure Objects - MoD",
-        "resume": "Les forces russes ont mené des frappes nocturnes ciblant les infrastructures logistiques et portuaires ukrainiennes, ainsi que des navires militaires ukrainiens. Ces attaques visent à affaiblir la capacité de l’Ukraine à recevoir des approvisionnements et à maintenir ses opérations militaires. Moscou justifie ces actions par la nécessité de protéger ses intérêts stratégiques en mer Noire.",
-        "resume_en": "Russian forces conducted overnight strikes targeting Ukraine’s logistics and port infrastructure, as well as Ukrainian naval vessels. These attacks aim to weaken Ukraine’s ability to receive supplies and maintain military operations. Moscow claims these actions are necessary to protect its strategic interests in the Black Sea.",
-        "resume_zh": "俄罗斯军队对乌克兰物流和港口设施进行了夜间袭击，并目标乌克兰海军舰艇。这些攻击旨在削弱乌克兰接收补给和维持军事行动的能力。莫斯科声称这些行动是为了保护其在黑海的战略利益。",
+        "id": "iran_287932",
+        "titre": "UBS prédit marché boursier post-élections américaines",
+        "titre_en": "UBS forecasts post-U.S. election market trends",
+        "titre_zh": "UBS预测美国大选后市场走势",
+        "titre_ru": "Fed Rate Path, AI Revenue To Drive Markets After Midterms, Says UBS’ Alli McCartney: Iran, Oil Overhang May Remain",
+        "titre_fa": "Fed Rate Path, AI Revenue To Drive Markets After Midterms, Says UBS’ Alli McCartney: Iran, Oil Overhang May Remain",
+        "titre_ar": "Fed Rate Path, AI Revenue To Drive Markets After Midterms, Says UBS’ Alli McCartney: Iran, Oil Overhang May Remain",
+        "titre_original": "Fed Rate Path, AI Revenue To Drive Markets After Midterms, Says UBS’ Alli McCartney: Iran, Oil Overhang May Remain",
+        "resume": "L’analyste Alli McCartney d’UBS anticipe une hausse des marchés actions après les élections de mi-mandat, grâce à un resserrement limité des taux par la Fed. Elle souligne cependant que les tensions géopolitiques, notamment autour du pétrole iranien, pourraient peser sur les cours. Ce scénario dépendra des décisions monétaires et des dynamiques politiques post-élections.",
+        "resume_en": "UBS analyst Alli McCartney forecasts a stock market rally post-midterm elections, driven by a limited Fed rate tightening. She notes, however, that geopolitical tensions—especially over Iranian oil—could weigh on prices. The outlook hinges on monetary decisions and post-election political dynamics.",
+        "resume_zh": "UBS分析师阿莉·麦卡特尼预测美国中期选举后股市可能上涨，由联储有限加息推动。她指出，但地缘政治紧张局势，特别是伊朗石油问题，可能影响价格。前景取决于货币政策和选后政治动态。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ces frappes s’inscrivent dans une stratégie russe de guerre hybride, combinant frappes conventionnelles et cyberattaques pour affaiblir l’Ukraine économiquement et militairement. Les enjeux principaux concernent le contrôle des routes maritimes et la capacité ukrainienne à résister aux sanctions. Les causes profondes incluent la dépendance ukrainienne aux ports pour son commerce et sa logistique militaire. À court terme, ces attaques pourraient paralyser les échanges commerciaux ukrainiens, mais à moyen terme, elles pourraient aussi accélérer la fragmentation territoriale. À long terme, la Russie cherche à isoler l’Ukraine géopolitiquement. Les acteurs clés sont Moscou, Kiev et les partenaires occidentaux, dont les réactions déterminent l’escalade future.",
-        "analyse_en": "These strikes follow a Russian hybrid warfare strategy, combining conventional and cyber attacks to economically and militarily weaken Ukraine. The main stakes involve controlling maritime routes and Ukraine’s ability to resist sanctions. Root causes include Ukraine’s dependence on ports for trade and military logistics. Short-term, these attacks may paralyze Ukrainian trade, but medium-term, they could accelerate territorial fragmentation. Long-term, Russia aims to geopolitically isolate Ukraine. Key actors include Moscow, Kiev, and Western partners, whose reactions will shape future escalation.",
-        "analyse_zh": "这些袭击属于俄罗斯混合战争策略的一部分，结合常规和网络攻击以经济和军事上削弱乌克兰。主要影响在于控制海上通道和乌克兰抵抗制裁的能力。深层原因包括乌克兰对港口的商业和军事物流依赖。短期内，这些攻击可能瘫痪乌克兰的贸易，但中期内可能加速领土分裂。长期来看，俄罗斯试图在外交上孤立乌克兰。主要参与方包括莫斯科、基辅和西方盟友，后者的反应将决定未来升级的走向。",
+        "analyse_detaillee": "Cette analyse s’inscrit dans un contexte historique de volatilité des marchés financiers liés aux cycles électoraux américains, notamment depuis les années 1980 avec les alternances Reagan-Bush. Les enjeux principaux concernent la stabilité monétaire et les anticipations des investisseurs face à l’incertitude politique. Les causes profondes incluent la dépendance des marchés aux décisions de la Fed et la spéculation sur les politiques énergétiques futures. À court terme, une hausse des taux pourrait ralentir la croissance, tandis qu’à moyen terme, les tensions géopolitiques pourraient maintenir une pression à la baisse sur les matières premières. Long terme, cela pourrait accélérer la diversification des portefeuilles vers des actifs refuges comme l’or ou les cryptomonnaies.",
+        "analyse_en": "This analysis reflects historical market volatility tied to U.S. election cycles, particularly since the 1980s with Reagan-Bush alternations. Key stakes involve monetary stability and investor expectations amid political uncertainty. Root causes include market dependence on Fed decisions and speculation on future energy policies. Short-term, rate hikes may slow growth, while medium-term geopolitical tensions could keep downward pressure on commodities. Long-term, this may accelerate portfolio diversification into safe-haven assets like gold or cryptocurrencies.",
+        "analyse_zh": "此分析反映了美国选举周期以来金融市场的历史波动性，特别是自1980年代里根-布什轮替以来。主要影响涉及货币稳定性和投资者在政治不确定性下的预期。深层原因包括市场对联储决策的依赖和对未来能源政策的投机。短期内，加息可能减缓增长，中期内地缘政治紧张局势可能对大宗商品保持下行压力。长期来看，这可能加速投资组合向黄金或加密货币等避险资产的多元化。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20261020/russia-continues-hitting-ukraine-logistics-port-infrastructure-objects---mod-1124904893.html",
-        "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124904893.jpg?11246112111792479780",
-        "date": "2026-10-20",
-        "pays": "russie",
+        "categorie": "Finance",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/64bbd250647dbfc7",
+        "image": "https://biztoc.com/cdn/64bbd250647dbfc7_s.webp",
+        "date": "2026-10-26",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des assurances maritimes et portuaires",
-            "hausse": true
+            "label": "▼ Marché des matières premières énergétiques (pétrole)",
+            "hausse": false
           },
           {
-            "label": "▲ Bourse des matières premières énergétiques",
+            "label": "▲ Fonds indiciels technologiques (IA et cloud)",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des assurances maritimes et portuaires",
-            "secteur_en": "Marine and port insurance market",
-            "secteur_zh": "海运和港口保险市场",
-            "effet_fr": "Les attaques russes pourraient entraîner une hausse des primes d’assurance pour les navires et infrastructures ukrainiennes, rendant les échanges commerciaux plus coûteux et risqués.",
-            "effet_en": "Russian attacks may lead to higher insurance premiums for Ukrainian ships and ports, making trade exchanges more expensive and risky.",
-            "effet_zh": "俄罗斯的袭击可能导致乌克兰船舶和港口保险费用上涨，使贸易交易更加昂贵和风险重重。",
-            "hausse": true
+            "secteur_fr": "Marché des matières premières énergétiques (pétrole)",
+            "secteur_en": "Energy commodities market (oil)",
+            "secteur_zh": "能源大宗商品市场（石油）",
+            "effet_fr": "Les tensions géopolitiques autour de l’Iran pourraient maintenir une volatilité élevée sur le prix du pétrole, affectant les fonds spécialisés dans les énergies fossiles.",
+            "effet_en": "Geopolitical tensions over Iran may keep oil prices volatile, impacting fossil fuel-focused funds.",
+            "effet_zh": "伊朗周边的地缘政治紧张局势可能维持石油价格的高波动性，影响专注于化石能源的基金。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Bourse des matières premières énergétiques",
-            "secteur_en": "Energy commodities futures market",
-            "secteur_zh": "能源大宗商品期货市场",
-            "effet_fr": "Les perturbations logistiques en Ukraine pourraient perturber les chaînes d’approvisionnement en énergie, influençant les prix du pétrole et du gaz sur les marchés internationaux.",
-            "effet_en": "Logistical disruptions in Ukraine may disrupt energy supply chains, affecting oil and gas prices on global markets.",
-            "effet_zh": "乌克兰的物流中断可能干扰能源供应链，影响国际市场上石油和天然气的价格。",
+            "secteur_fr": "Fonds indiciels technologiques (IA et cloud)",
+            "secteur_en": "Tech index funds (AI and cloud)",
+            "secteur_zh": "科技指数基金（人工智能和云计算）",
+            "effet_fr": "Les anticipations de croissance post-élections pourraient soutenir les investissements dans les secteurs technologiques innovants comme l’IA, malgré les risques géopolitiques.",
+            "effet_en": "Post-election growth expectations may boost investments in innovative tech sectors like AI, despite geopolitical risks.",
+            "effet_zh": "选后增长预期可能支持对人工智能等创新科技领域的投资，尽管存在地缘政治风险。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-21T07:06:44.897172"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-27T19:20:52.536812"
+      },
       {
         "id": "iran_405272",
         "titre": "Netanyahu avertit l’Iran : « Ne nous testez pas » avant les élections israéliennes",
@@ -6070,69 +6129,70 @@
           }
         ],
         "created_at": "2026-10-18T14:19:54.922373"
-      },
-      {
-        "id": "iran_710942",
-        "titre": "Énergie solaire explose aux Philippines face à la hausse des coûts",
-        "titre_en": "Solar energy booms in Philippines amid rising energy costs",
-        "titre_zh": "菲律宾太阳能需求激增应对能源成本上涨",
-        "titre_ru": "Солнечная энергия взрывается в Филиппинах при росте цен на энергию из-за войны с Ираном",
-        "titre_fa": "بوم انرژی خورشیدی در فیلیپین با افزایش هزینه‌های انرژی به دلیل جنگ با ایران",
-        "titre_ar": "توسع الطاقة الشمسية في الفلبين مع ارتفاع تكلفة الطاقة بسبب الحرب مع إيران",
-        "titre_original": "Solar power booms in Philippines as war on Iran spikes energy costs",
-        "resume": "Face à la hausse des factures d’électricité, les Philippins investissent massivement dans les panneaux solaires domestiques. Cette transition énergétique s’accélère dans un contexte de tensions géopolitiques affectant les approvisionnements. Les autorités encouragent cette transition pour réduire la dépendance aux énergies fossiles.",
-        "resume_en": "Facing rising electricity bills, Filipinos are heavily investing in rooftop solar panels. This energy transition accelerates amid geopolitical tensions affecting supply chains. Authorities promote this shift to reduce dependence on fossil fuels.",
-        "resume_zh": "面对电费飞涨，菲律宾人大量投资家用太阳能板。这一能源转型在全球供应链紧张背景下加速进行。当局鼓励这一转变以减少对化石燃料的依赖。",
-        "resume_ru": "Счета за электричество в Юго-Восточной Азии растут, и филиппинцы все чаще устанавливают солнечные панели на крышах домов. Это связано с повышением стоимости энергии из-за геополитических конфликтов. Такая тенденция позволяет семьям снизить расходы на коммунальные услуги и стать менее зависимыми от внешних поставщиков.",
-        "resume_fa": "فاکتورهای برق در جنوب شرق آسیا افزایش یافته و فیلیپینی‌ها به‌طور فزاینده‌ای پانل‌های خورشیدی را روی سقف خانه‌های خود نصب می‌کنند. این به دلیل افزایش هزینه انرژی به دلیل تنش‌های جغرافیایی سیاسی است. چنین روندی به خانواده‌ها امکان کاهش هزینه‌های خدمات عمومی و کمتر وابستگی به تامین‌کنندگان خارجی را می‌دهد.",
-        "resume_ar": "فواتير الكهرباء في جنوب شرق آسيا ترتفع، ويزيد الفلبينيون من تثبيت لوحات الطاقة الشمسية على أسقف منازلهم. هذا بسبب ارتفاع تكلفة الطاقة بسبب التوترات الجغرافية السياسية. هذا الاتجاه يسمح للعائلات بتخفيض تكاليف الخدمات العامة والاعتماد أقل على الموردين الخارجيين.",
-        "analyse_detaillee": "Cette dynamique reflète une tendance mondiale vers les énergies renouvelables, accélérée par la crise énergétique et les sanctions contre l’Iran. Les enjeux incluent la souveraineté énergétique et la résilience face aux chocs géopolitiques, avec des causes profondes liées à la volatilité des prix du pétrole et aux politiques climatiques. À court terme, cela pourrait réduire les factures pour les ménages, tandis qu’à moyen terme, cela pourrait transformer le mix énergétique national. À long terme, cela pourrait positionner les Philippines comme un leader régional des énergies vertes. Les acteurs privés et publics collaborent pour soutenir cette transition, avec un soutien croissant de la communauté internationale.",
-        "analyse_en": "This trend reflects a global shift toward renewable energy, accelerated by the energy crisis and sanctions against Iran. Key stakes involve energy sovereignty and resilience against geopolitical shocks, with root causes tied to oil price volatility and climate policies. Short-term, it may lower household bills, while medium-term risks transforming the national energy mix. Long-term, it could position the Philippines as a regional green energy leader. Private and public actors collaborate to support this transition, with growing international backing.",
-        "analyse_zh": "这一趋势反映了全球向可再生能源转型的潮流，在能源危机和对伊朗制裁的背景下加速进行。主要影响涉及能源主权和应对地缘政治冲击的韧性，根本原因与石油价格波动和气候政策相关。短期内，这可能降低家庭电费，中期可能改变国家能源结构。长期来看，这可能将菲律宾打造成地区绿色能源领导者。私营和公共部门合作支持这一转型，并获得国际社会日益增长的支持。",
-        "analyse_ru": "Увеличение популярности солнечной энергии в Филиппинах связано с нестабильностью цен на традиционные источники энергии. Это может способствовать развитию местной энергетической независимости и снижению зависимости от импорта нефти. Однако, для массового внедрения таких технологий требуются государственные субсидии и инфраструктурные инвестиции. В долгосрочной перспективе это может привести к снижению выбросов углекислого газа и улучшению экологической ситуации. Но для этого необходимо преодолеть барьеры в виде высокой начальной стоимости и недостатка квалифицированных специалистов.",
-        "analyse_fa": "افزایش محبوبیت انرژی خورشیدی در فیلیپین به ناپایداری قیمت منابع انرژی سنتی مرتبط است. این می‌تواند به توسعه استقلال انرژی محلی و کاهش وابستگی به واردات نفت کمک کند. با این حال، برای اجرای گسترده چنین فناوری‌هایی، نیاز به حمایت دولت و سرمایه‌گذاری در زیرساخت‌ها است. در بلندمدت، این می‌تواند منجر به کاهش انتشار دی‌اکسید کربن و بهبود وضعیت زیست‌محیطی شود. اما برای این کار باید مانع‌های مانند هزینه اولیه بالا و کمبود کارشناسان متخصص را برطرف کرد.",
-        "analyse_ar": "زيادة شعبية الطاقة الشمسية في الفلبين مرتبطة بعدم استقرار أسعار مصادر الطاقة التقليدية. هذا قد يساهم في تطوير الاستقلال المحلي في الطاقة وتقليل الاعتماد على استيراد النفط. ومع ذلك، يتطلب نشر واسع لهذه التقنيات الدعم الحكومي والاستثمار في البنية التحتية. على المدى الطويل، هذا قد يؤدي إلى انخفاض انبعاثات ثاني أكسيد الكربون وتحسين الوضع البيئي. ولكن من أجل ذلك، يجب التغلب على العقبات مثل التكلفة الأولية العالية ونقص المتخصصين المؤهلين.",
-        "categorie": "Économie",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad32f10ee-1792225040.jpg?resize=1920%2C1440",
-        "date": "2026-10-17",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des panneaux solaires",
-            "hausse": true
-          },
-          {
-            "label": "▼ Banque d’investissement verte",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des panneaux solaires",
-            "secteur_en": "Solar panel market",
-            "secteur_zh": "太阳能板市场",
-            "effet_fr": "La demande explosive pourrait entraîner une hausse des prix des panneaux et des composants, mais aussi une augmentation des emplois locaux dans l’installation.",
-            "effet_en": "Explosive demand may drive up panel and component prices but also boost local jobs in installation.",
-            "effet_zh": "需求激增可能推高太阳能板和组件价格，但也可能增加当地安装就业岗位。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Banque d’investissement verte",
-            "secteur_en": "Green investment bank",
-            "secteur_zh": "绿色投资银行",
-            "effet_fr": "Les financements dédiés pourraient stimuler les projets solaires à grande échelle, mais nécessitent une régulation stricte pour éviter les bulles spéculatives.",
-            "effet_en": "Dedicated funding may boost large-scale solar projects but requires strict regulation to avoid speculative bubbles.",
-            "effet_zh": "专项资金可能推动大型太阳能项目，但需要严格监管以避免投机泡沫。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-18T10:26:59.059440"
       }
     ]
   },
   "politique": [
+    {
+      "id": "pol_femmes_516289",
+      "titre": "Féminicide à Lille : marche blanche pour Noëlla",
+      "titre_en": "Lille femicide: White March for Noëlla",
+      "titre_zh": "法国里尔发生女性被害案 举行悼念游行",
+      "titre_ru": "Лилль: родственники жертвы феминицида устраивают акцию памяти",
+      "titre_fa": "لیل: نزدیکان قربانی قتل زن، راهپیمایی سفید یادبود برگزار می‌کنند",
+      "titre_ar": "ليل: أقارب ضحية féminicide ينظمون مسيرة بيضاء تكريمية",
+      "titre_original": "Lille : Les proches de Noëlla, victime d’un féminicide, organisent une marche blanche d’hommage et de sensibilisation",
+      "resume": "Noëlla, 25 ans, a été retrouvée sans vie dans son logement lillois le 25 décembre 2025, selon *France 3 Hauts-de-France*. Sa famille et ses proches organisent une marche blanche pour rendre hommage à sa mémoire et sensibiliser à la violence conjugale. Cet événement s’inscrit dans une série de féminicides en France, soulignant l’urgence d’agir contre ces crimes.",
+      "resume_en": "Noëlla, a 25-year-old woman, was found dead in her Lille home on December 25, 2025, as reported by *France 3 Hauts-de-France*. Her family and friends are organizing a white march to honor her memory and raise awareness about domestic violence. The event highlights a recurring issue in France, underscoring the need for urgent action against femicides.",
+      "resume_zh": "法国里尔一名25岁女性诺埃拉于2025年12月25日在家中遇害，当地媒体《法国3高地-法兰西》报道称。其家人和亲友将举办白色游行，悼念她并呼吁关注家庭暴力问题。此事件再次凸显法国女性被害案的严峻现实，亟需采取紧急措施。",
+      "resume_ru": "В Лилле близкие убитой женщины Ноэлла организовали акцию памяти и сенсибилизации. Она была найдена мертвой в квартире своего партнера 25 декабря 2025 года, сообщает «Франс 3 О-де-Франс». Мероприятие посвящено борьбе с насилием над женщинами.",
+      "resume_fa": "نزدیکان نویلا، قربانی قتل زن در لیل، راهپیمایی سفید یادبود و آگاهی‌انگیزی برگزار کردند. او در ۲۵ دسامبر ۲۰۲۵ در آپارتمان شریک زندگی‌اش بی‌جان پیدا شد، بر اساس گزارش «فرانس ۳ او-دو-فرانس». این رویداد به مبارزه با خشونت علیه زنان اختصاص دارد.",
+      "resume_ar": "نظمت أقارب نويلا، ضحية féminicide في ليل، مسيرة بيضاء تكريمية و توعية. اكتشفت ميتة في شقة شريك حياتها في 25 ديسمبر 2025، حسب ما ذكرته «فرانس 3 أو-دو-فرانس». هذا الحدث مخصص لمكافحة العنف ضد النساء.",
+      "analyse_detaillee": "La France connaît une hausse alarmante des féminicides, avec 146 victimes en 2023 selon le Défenseur des droits, un chiffre en progression constante depuis 2012. Ce drame à Lille illustre les mécanismes de la violence conjugale, souvent minimisée ou banalisée par les stéréotypes genrés et l’impunité des agresseurs. Les causes profondes incluent l’inégalité structurelle, la précarité économique et l’absence de soutien psychologique pour les victimes. À court terme, la marche blanche pourrait mobiliser l’opinion publique et exiger des mesures législatives renforcées, comme l’extension des ordonnances de protection. À moyen terme, les associations féministes appellent à une refonte des politiques de prévention et de formation des forces de l’ordre. Long terme, une transformation sociale est nécessaire pour briser les normes patriarcales. Les acteurs institutionnels, comme le gouvernement ou les collectivités locales, restent divisés sur les solutions, entre répression et prévention.",
+      "analyse_en": "France faces an alarming rise in femicides, with 146 victims in 2023 according to the French Ombudsman, a steady increase since 2012. This Lille case highlights the mechanisms of domestic violence, often downplayed by gender stereotypes and the impunity of abusers. Root causes include systemic inequality, economic precarity, and lack of psychological support for victims. Short-term, the white march may mobilize public opinion and push for stricter legal measures, such as expanded protection orders. Mid-term, feminist groups demand a reform of prevention policies and police training. Long-term, societal change is needed to break patriarchal norms. Institutional actors, including the government and local authorities, remain divided between repression and prevention strategies.",
+      "analyse_zh": "法国女性被害案数量持续上升，2023年有146名遇害者，自2012年以来呈逐年增长趋势。里尔此案暴露了家庭暴力的运作机制，往往被性别刻板印象和加害者的免责现象掩盖。深层原因包括结构性不平等、经济贫困和缺乏对受害者的心理支持。短期内，白色游行可能激发公众关注并推动更严格的立法措施，如扩大保护令的适用范围。中期内，女性主义组织呼吁改革预防政策和警方培训。长期来看，社会必须改变根深蒂固的男权主义文化。政府和地方当局等机构在打击与预防策略上存在分歧。",
+      "analyse_ru": "Феминицид в Лилле вновь привлек внимание к проблеме насилия в семье, остающейся актуальной во Франции. Такие трагические случаи подчеркивают необходимость усиления мер профилактики и поддержки жертв. Акции памяти помогают обществу осознать масштаб проблемы и сплотиться вокруг защиты прав женщин. Однако критики отмечают, что государственные программы реагирования часто недостаточны. Важно также учитывать психологические и социальные факторы, влияющие на такие преступления, включая культурные стереотипы и экономическую зависимость.",
+      "analyse_fa": "قتل نویلا در لیل دوباره توجه به خشونت خانگی را که در فرانسه همچنان مسئله‌ای فعال است، جلب کرده‌است. این حادثه تراژیک اهمیت تقویت اقدامات پیشگیری و حمایت از قربانیان را برجسته می‌کند. راهپیمایی‌های یادبود به جامعه کمک می‌کنند تا به اندازه واقعی این مشکل پی ببرد و در حمایت از حقوق زنان متحد شود. اما منتقدان اشاره می‌کنند که برنامه‌های دولتی واکنش اغلب کافی نیستند. همچنین باید عوامل روانشناختی و اجتماعی تأثیرگذار بر این جنایات، از جمله استریوتایپ‌های فرهنگی و وابستگی اقتصادی، در نظر گرفته شوند.",
+      "analyse_ar": "فيمينيسيد في ليل مرة أخرى جذب الانتباه إلى مشكلة العنف الأسري، التي ما زالت قائمة في فرنسا. مثل هذه الحوادث الت tragique تبرز أهمية تعزيز التدابير الوقائية والدعم للضحايا. المسيرات التكريمية تساعد المجتمع على فهم حجم المشكلة وتوحيده حول حماية حقوق النساء. ومع ذلك، يشير النقاد إلى أن برامج الحكومة التفاعلية غالبًا ما تكون غير كافية. من المهم أيضًا أخذ العوامل النفسية والاجتماعية التي تؤثر على هذه الجرائم في الاعتبار، بما في ذلك السtereotypes الثقافية والاعتماد الاقتصادي.",
+      "categorie": "Société",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/faits_divers/4257625-20261026-lille-proches-noella-victime-feminicide-organisent-marche-blanche-hommage-sensibilisation",
+      "image": "https://img.20mn.fr/eHNEo6NgQReGhWRYOI_12ik/1444x920_le-collectif-feministe-nous-toutes-a-appele-a-manifester-le-samedi-25-novembre-2023-de-la-place-de-la-nation-a-la-place-de-la-republique-a-paris-avec-des-associations-feministes-et-syndicats-et-en-tete-de-cortege-l-unff-qui-a-represente-les-familles-victimes-de-feminicides-a-l-occasion-de-la-journee-internationale-contre-les-violences-faites-aux-femmes-et-aux-minorites-de-genre-paris-france-25-11-2023-the-feminist-collective-nous-toutes-has-called-for-a-demonstration-on-saturday-25-november-2023-from-the-place-de-la-nation-to-the-place-de-la-republique-in-paris-with-feminist-associations-and-trade-unions-leading-the-way-and-the-unff-representing-families-who-have-been-the-victims-of-feminicide-to-mark-the-international-day-against-violence-against-women-and-gender-minorities-paris-france-25-11-2023-04harsin-manifcontreviolencesfaitesfemmes045-credit-isa-harsin-sipa-2311251923",
+      "date": "2026-10-26",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurances responsabilité civile",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds de solidarité pour les victimes",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances responsabilité civile",
+          "secteur_en": "Civil liability insurance",
+          "secteur_zh": "民事责任保险",
+          "effet_fr": "Les assurances pourraient voir une hausse des réclamations liées aux féminicides, poussant à des augmentations de primes ou à des exclusions de garantie pour les conjoints violents.",
+          "effet_en": "Insurers may face increased claims related to femicides, leading to higher premiums or policy exclusions for abusive partners.",
+          "effet_zh": "保险公司可能面临因女性被害案引发的赔偿索赔增加，导致保费上涨或对暴力伴侣的保障排除。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de solidarité pour les victimes",
+          "secteur_en": "Solidarity funds for victims",
+          "secteur_zh": "受害者互助基金",
+          "effet_fr": "Les fonds publics pourraient être sollicités davantage pour indemniser les proches des victimes, créant une pression financière sur les budgets sociaux.",
+          "effet_en": "Public funds may be increasingly strained to compensate victims' families, putting pressure on social budgets.",
+          "effet_zh": "公共基金可能面临更大压力，用于赔偿受害者家属，增加社会预算负担。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-10-27T19:21:33.453274",
+      "sous_categorie": "femmes"
+    },
     {
       "id": "pol_femmes_669028",
       "titre": "Féminicides conjugaux en hausse en 2025",
@@ -6431,66 +6491,6 @@
         }
       ],
       "created_at": "2026-10-04T02:27:29.816019",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_402715",
-      "titre": "Féminicides : une semaine noire pour les droits des femmes",
-      "titre_en": "Femicides: A Dark Week for Women's Rights",
-      "titre_zh": "女性暴力死亡案件：女性权利黑暗一周",
-      "titre_ru": "Féminicides, Renee Good, Nasrin Sotoudeh… : le récap’ info de la semaine des Grenades",
-      "titre_fa": "Féminicides, Renee Good, Nasrin Sotoudeh… : le récap’ info de la semaine des Grenades",
-      "titre_ar": "Féminicides, Renee Good, Nasrin Sotoudeh… : le récap’ info de la semaine des Grenades",
-      "titre_original": "Féminicides, Renee Good, Nasrin Sotoudeh… : le récap’ info de la semaine des Grenades",
-      "resume": "Alors que les féminicides restent sous-évalués par les statistiques officielles, le blog *Stop Féminicide* a été contraint de fermer temporairement après des pressions. Des figures comme Renée Good ou Nasrin Sotoudeh illustrent la persistance des violences sexistes. Cette semaine a révélé l’urgence d’une mobilisation citoyenne face à l’impunité persistante.",
-      "resume_en": "Despite official underreporting of femicides, the *Stop Femicide* blog was temporarily forced to shut down under pressure. Figures like Renée Good and Nasrin Sotoudeh highlight ongoing sexist violence. This week underscored the urgency of citizen mobilization against persistent impunity.",
-      "resume_zh": "尽管官方统计低估了女性暴力死亡案件，但*Stop Féminicide*博客在压力下暂时关闭。如Renée Good和Nasrin Sotoudeh等人物展现了持续的性别暴力。这一周凸显了公众动员应对长期免责的紧迫性。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France affronte un héritage historique de violences conjugales et sexistes, avec des chiffres officiels souvent contestés (moins de 100 féminicides recensés en 2023, contre 146 par *Stop Féminicide*). Les causes profondes incluent la banalisation des violences, les lacunes juridiques (comme l’absence de définition légale du féminicide) et un système judiciaire saturé. À court terme, cette semaine a révélé l’érosion de la confiance dans les institutions, avec des mobilisations spontanées mais fragmentées. À moyen terme, le risque est une radicalisation des mouvements féministes, tandis que les politiques publiques peinent à intégrer des mesures préventives efficaces. À long terme, l’enjeu est de transformer la société via l’éducation et des lois plus protectrices, mais les lobbies conservateurs freinent ces avancées. Les associations comme *Stop Féminicide* jouent un rôle clé en comblant les vides statistiques, tandis que l’État reste critiqué pour son manque de réactivité. La mobilisation citoyenne, bien que nécessaire, manque encore de coordination nationale.",
-      "analyse_en": "France faces a historical legacy of domestic and sexist violence, with official statistics often disputed (under 100 femicides recorded in 2023, compared to 146 by *Stop Femicide*). Root causes include the normalization of violence, legal gaps (such as the lack of a legal definition of femicide), and an overburdened judicial system. Short-term, this week exposed erosion of trust in institutions, with spontaneous but fragmented mobilizations. Medium-term risks include the radicalization of feminist movements, while public policies struggle to implement effective preventive measures. Long-term, the challenge is societal transformation through education and stronger protective laws, but conservative lobbies hinder progress. Associations like *Stop Femicide* fill statistical gaps, while the state is criticized for its lack of responsiveness. Citizen mobilization, though necessary, still lacks national coordination.",
-      "analyse_zh": "法国面临着家庭暴力和性别歧视暴力的历史遗产，官方统计数据常遭质疑（2023年官方统计不足100起女性暴力死亡案件，而*Stop Féminicide*统计146起）。深层原因包括暴力行为的普遍化、法律漏洞（如缺乏女性暴力死亡案件的法律定义）以及超负荷的司法系统。短期内，这一周暴露了公众对机构信任的下降，民众动员虽然自发但缺乏协调。中期风险包括女性主义运动的激进化，而公共政策难以实施有效的预防措施。长期目标是通过教育和更强的保护性法律改变社会，但保守派利益集团阻碍进展。如*Stop Féminicide*等组织通过填补统计空白发挥关键作用，而政府则因反应迟钝受到批评。公众动员虽然必要，但仍缺乏全国性协调。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Droits humains et société",
-      "source": "RTBF",
-      "url": "https://www.rtbf.be/article/feminicides-renee-good-nasrin-sotoudeh-le-recap-info-de-la-semaine-des-grenades-11794101",
-      "image": "https://static-content.rtbf.be/article/image/1920x1080/e/e/8/a02f260f70b4328769e1aacaf4ca3f3c.jpg",
-      "date": "2026-10-02",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▼ Fonds de lutte contre les violences conjugales",
-          "hausse": false
-        },
-        {
-          "label": "▲ Assurances responsabilité civile (dommages corporels)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Fonds de lutte contre les violences conjugales",
-          "secteur_en": "Funds for combating domestic violence",
-          "secteur_zh": "反家庭暴力基金",
-          "effet_fr": "Les coupes budgétaires récurrentes affaiblissent les dispositifs d’urgence comme les refuges ou les lignes d’écoute, aggravant l’insécurité des victimes.",
-          "effet_en": "Recurring budget cuts weaken emergency measures like shelters and helplines, increasing victims' insecurity.",
-          "effet_zh": "频繁的预算削减削弱了紧急措施如避难所和求助热线，加剧了受害者的不安全感。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurances responsabilité civile (dommages corporels)",
-          "secteur_en": "Civil liability insurance (personal injury)",
-          "secteur_zh": "民事责任保险（人身伤害）",
-          "effet_fr": "Les litiges liés aux féminicides alourdissent les coûts pour les assureurs, poussant certains à durcir les conditions de couverture ou à augmenter les primes.",
-          "effet_en": "Litigations related to femicides increase costs for insurers, leading some to tighten coverage conditions or raise premiums.",
-          "effet_zh": "与女性暴力死亡案件相关的诉讼增加了保险公司的成本，迫使一些公司收紧保险条款或提高保费。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-03T22:43:48.104764",
       "sous_categorie": "femmes"
     },
     {
