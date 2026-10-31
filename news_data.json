@@ -1,7 +1,66 @@
 {
-  "last_updated": "31/10/2026 à 00h24",
+  "last_updated": "31/10/2026 à 06h40",
   "articles": {
     "monde": [
+      {
+        "id": "monde_634323",
+        "titre": "Binance gel des actifs après vol massif",
+        "titre_en": "Binance freezes assets after $6.3B heist",
+        "titre_zh": "币安冻结资产遭63亿美元盗窃",
+        "titre_ru": "Байнанс заморозила активы после кражи $6,3 млрд",
+        "titre_fa": "بایننس دارایی‌ها را پس از دزدی ۶٫۳ میلیارد دلاری مسدود کرد",
+        "titre_ar": "باينانس تجميد الأصول بعد سرقة 6.3 مليار دولار",
+        "titre_original": "Binance freezes assets after US$6.3 billion heist",
+        "resume": "La plateforme Binance a gelé des actifs après un vol estimé à 6,3 milliards de dollars, potentiellement initié par le piratage d’un ordinateur portable d’un seul ingénieur. Cette cyberattaque soulève des questions sur la sécurité des échanges cryptographiques. Les autorités et les utilisateurs scrutent les conséquences de cette faille majeure.",
+        "resume_en": "Binance froze assets after a $6.3 billion heist, possibly triggered by the hacking of a single engineer’s laptop. This cyberattack raises concerns about cryptocurrency exchange security. Authorities and users are examining the fallout from this major breach.",
+        "resume_zh": "币安平台因63亿美元盗窃事件冻结资产，可能起因于一名工程师电脑的黑客攻击。此次网络攻击引发对加密货币交易平台安全性的质疑。当局和用户正密切关注此次重大漏洞带来的后果。",
+        "resume_ru": "Криптовалютная биржа Binance заморозила активы пользователей после крупнейшей в истории кражи — $6,3 млрд. По предварительным данным, атака могла начаться с взлома ноутбука одного инженера. Это вызвало панику среди инвесторов и вопросы о безопасности платформы. Компания обещает вернуть средства, но не исключает судебных исков.",
+        "resume_fa": "بازار دیجیتال ارز بایننس دارایی‌های کاربران را پس از بزرگ‌ترین دزدی تاریخ، به ارزش ۶٫۳ میلیارد دلار، مسدود کرد. بر اساس اطلاعات اولیه، این حمله ممکن است با هک لپ‌تاپ یک مهندس آغاز شده باشد. این اتفاق باعث ترس سرمایه‌گذاران و سؤالاتی در مورد امنیت پلتفرم شده است. شرکت وعده بازگشت پول را داده است، اما از امکانات دعاوی قضایی نیز نمی‌گذراند.",
+        "resume_ar": "منصة باينانس تجميد الأصول بعد من أكبر سرقة في التاريخ بقيمة 6.3 مليار دولار. وفقًا للمعلومات الأولية، قد بدأت الهجوم من خلال اختراق لابتوب مهندس واحد. هذا تسبب في الذعر بين المستثمرين وسؤال حول أمان المنصة. الشركة وعدت بإعادة الأموال، لكن لا تستبعد دعاوى قضائية.",
+        "analyse_detaillee": "Les attaques ciblant les infrastructures cryptographiques s’intensifient, révélant des failles dans la cybersécurité des acteurs majeurs. Ce vol illustre la vulnérabilité des systèmes de stockage et d’authentification, souvent sous-estimée. Les conséquences immédiates incluent une perte de confiance des utilisateurs et une pression réglementaire accrue. À moyen terme, les échanges pourraient renforcer leurs protocoles de sécurité, mais au risque de complexifier l’expérience utilisateur. Long terme : une régulation plus stricte pourrait émerger, avec des impacts sur l’innovation dans le secteur. Les États-Unis et l’UE pourraient durcir leurs positions, tandis que les plateformes comme Binance devront justifier leurs mesures de sécurité. Les hackers, eux, pourraient cibler d’autres cibles de moindre envergure mais tout aussi vulnérables.",
+        "analyse_en": "Attacks on cryptocurrency infrastructure are escalating, exposing security flaws in major players. This heist highlights the vulnerability of storage and authentication systems, often underestimated. Immediate consequences include user distrust and increased regulatory pressure. In the medium term, exchanges may strengthen security protocols, but at the risk of complicating user experience. Long-term: stricter regulation may emerge, impacting innovation in the sector. The US and EU could tighten their stances, while platforms like Binance will need to justify their security measures. Hackers, meanwhile, may target smaller but equally vulnerable targets.",
+        "analyse_zh": "针对加密货币基础设施的攻击日益增多，暴露了主要平台在网络安全方面的漏洞。此次盗窃事件凸显了存储和认证系统的脆弱性，往往被低估。短期影响包括用户信任度下降和监管压力加大。中期内，交易平台可能加强安全协议，但可能会增加用户体验复杂性。长期：可能出现更严格的监管，对行业创新产生影响。美国和欧盟可能加强立场，而像币安这样的平台需要证明其安全措施。黑客则可能转向攻击规模较小但同样脆弱的目标。",
+        "analyse_ru": "Контекст: Кражи на криптовалютных биржах становятся все более частыми и масштабными, что подрывает доверие инвесторов. Причины: Уязвимости в системе безопасности, человеческий фактор (взлом ноутбука) и отсутствие строгих протоколов защиты. Последствия: Паника среди пользователей, падение курсов криптовалют, возможные регуляторные ограничения. Перспективы: Возможно ужесточение требований к биржам и развитие технологий защиты. Позиции сторон: Binance обвиняют в недопустимой халатности, пользователи требуют полного возмещения убытков, регуляторы готовят новые законы.",
+        "analyse_fa": "زمینه: دزدی‌های در بازارهای ارز دیجیتال روز به روز بیشتر و گسترده‌تر می‌شود، که اعتماد سرمایه‌گذاران را زیر سؤال می‌برد. علل: ضعف‌های سیستم امنیتی، عامل انسانی (هک لپ‌تاپ) و عدم وجود پروتکل‌های امنیتی قوی. پیامدها: ترس کاربران، کاهش ارزش ارزهای دیجیتال و محدودیت‌های احتمالی تنظیماتی. چشم‌انداز: ممکن است نیازهای سخت‌گیرانه‌تری برای بازارها وضع شود و فناوری‌های محافظتی توسعه یابد. موضع بازیگران: بایننس را متهم به بی‌توجهی غیرقابل قبول می‌کنند، کاربران از جبران کامل خسارات می‌خواهند و تنظیم‌کنندگان قوانین جدید را آماده می‌کنند.",
+        "analyse_ar": "السياق: أصبحت سرقات المنصات الرقمية أكثر تكرارًا وكبر حجمًا، مما يهدد ثقة المستثمرين. الأسباب: ضعفيات في نظام الأمن، العامل البشري (اختراق لابتوب)، وعدم وجود بروتوكولات حماية صارمة. العواقب: الذعر بين المستخدمين، انخفاض أسعار العملات الرقمية، وتقييدات تنظيمية محتملة. الآفاق: قد يتم فرض متطلبات أكثر صرامة على المنصات وتطوير تقنيات حماية. مواقف الأطراف: تتهم باينانس بالتهور غير المقبول، يطلب المستخدمون تعويض كامل الخسائر، ويعد التنظيمون بقوانين جديدة.",
+        "categorie": "Cybersécurité",
+        "source": "iTnews",
+        "url": "https://www.itnews.com.au/news/binance-freezes-assets-after-us63-billion-heist-630029?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+        "image": "https://i.nextmedia.com.au/News/hashing hash alorgithm encryption crypto.jpg",
+        "date": "2026-10-30",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché des cryptomonnaies (DeFi)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Assurance cyber et réassurance",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des cryptomonnaies (DeFi)",
+            "secteur_en": "Cryptocurrency market (DeFi)",
+            "secteur_zh": "加密货币市场（DeFi）",
+            "effet_fr": "La méfiance accrue envers Binance pourrait entraîner une baisse des volumes d’échange et une fuite des investisseurs vers des plateformes alternatives.",
+            "effet_en": "Increased distrust in Binance may lead to lower trading volumes and investor flight to alternative platforms.",
+            "effet_zh": "对币安的信任下降可能导致交易量减少和投资者转向其他平台。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Assurance cyber et réassurance",
+            "secteur_en": "Cyber insurance and reinsurance",
+            "secteur_zh": "网络保险和再保险",
+            "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse en raison de l’augmentation des risques liés aux cyberattaques ciblées.",
+            "effet_en": "Insurers may increase premiums due to rising risks from targeted cyberattacks.",
+            "effet_zh": "保险公司可能因定向网络攻击风险上升而提高保费。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-31T06:39:55.611319"
+      },
       {
         "id": "monde_142938",
         "titre": "Lagarde quitte la BCE pour s’engager politiquement",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-24T17:14:05.716294"
-      },
-      {
-        "id": "monde_470453",
-        "titre": "Crise républicaine avant élections mi-mandat",
-        "titre_en": "GOP midterm panic turns into infighting",
-        "titre_zh": "共和党中期选举恐慌引发内讧",
-        "titre_ru": "Обзор футбола: Вейбер-Стат против Монтана-Стат 24 октября",
-        "titre_fa": "خلاصه فوتبال: بازی وایبر-استیت در برابر مونتانا-استیت ۲۴ اکتبر",
-        "titre_ar": "ملخص كرة القدم: مباراة وايبر ستات ضد مونتاينا ستات في 24 أكتوبر",
-        "titre_original": "Bobcats football capsule for Oct. 24",
-        "resume": "Avec une vague bleue en perspective, les républicains, dirigés par Donald Trump, s’entredéchirent dans un climat de tensions extrêmes. Les divisions internes au sein du parti, exacerbées par les stratégies divergentes et les accusations mutuelles, menacent la cohésion du GOP. Ce phénomène, qualifié de « Lord of the Flies », reflète une crise de leadership et une polarisation politique sans précédent.",
-        "resume_en": "With a blue wave looming, Trump-led Republicans are tearing each other apart in an escalating climate of hostility. Internal divisions, fueled by conflicting strategies and mutual accusations, threaten GOP unity. This 'Lord of the Flies' dynamic highlights a leadership crisis and unprecedented political polarization.",
-        "resume_zh": "蓝色浪潮即将到来，由特朗普领导的共和党内部正在互相撕咬，气氛极度紧张。党内分裂加剧，策略冲突和相互指控威胁到共和党的团结。这种‘蝇王’局面反映了领导危机和前所未有的政治极化。",
-        "resume_ru": "В субботу, 14:00, команда «Вейбер-Стат» (№22 в рейтинге) примет «Монтана-Стат» (№3). Трансляция пройдет на ESPN+ (Scripps), в приложении Varsity и на радиосети Bobcat Radio Network. Матч состоится на стадионе Bobcat Stadium с вместимостью 17 777 зрителей. На данный момент «Монтана-Стат» одержала 5 побед при 3 поражениях.",
-        "resume_fa": "در شنبه ساعت 1 بعد از ظهر، تیم وایبر-استیت (رتبه 22) میزبان مونتانا-استیت (رتبه 3) خواهد بود. پخش زنده از طریق ESPN+ (Scripps)، اپلیکیشن Varsity و شبکه رادیویی Bobcat Radio Network انجام می‌شود. این بازی در استادیوم Bobcat Stadium با ظرفیت 17777 نفر برگزار می‌شود. تاکنون مونتانا-استیت 5 پیروزی و 3 شکست داشته است.",
-        "resume_ar": "في يوم السبت الساعة 1 ظهرًا، ستاد وايبر ستات (المرتبة 22) ستستضيف مونتاينا ستات (المرتبة 3). ستتم بث المباراة عبر ESPN+ (Scripps)، وتطبيق Varsity، وشبكة إذاعة Bobcat Radio Network. ستقام المباراة في ملعب Bobcat Stadium بقدرة استيعابية 17777 متفرج. حتى الآن، فازت مونتاينا ستات بـ5 مباريات وخسرت 3.",
-        "analyse_detaillee": "Ce phénomène s’inscrit dans une dynamique historique de fragmentation des partis américains, aggravée par les cycles électoraux et les figures polarisantes comme Trump. Les enjeux principaux tournent autour de la survie du GOP face à une opposition démocrate unie, ainsi que de la capacité à maintenir une base électorale fidèle. Les causes profondes incluent le mécontentement des électeurs modérés, la radicalisation des bases et l’absence de leadership alternatif crédible. À court terme, ces divisions pourraient affaiblir la campagne républicaine et favoriser une victoire démocrate. À moyen terme, le parti risque de perdre son influence institutionnelle, tandis qu’à long terme, une refonte idéologique pourrait s’imposer. Les acteurs clés, comme Trump et les figures modérées comme Mitt Romney, adoptent des positions radicalement opposées, exacerbant la crise.",
-        "analyse_en": "This dynamic aligns with a historical trend of U.S. party fragmentation, worsened by electoral cycles and polarizing figures like Trump. Key stakes involve GOP survival against a unified Democratic opposition and maintaining a loyal voter base. Root causes include discontent among moderate voters, base radicalization, and the lack of credible alternative leadership. Short-term, divisions could weaken the Republican campaign and favor Democratic wins. Medium-term, the party risks losing institutional influence, while long-term, an ideological overhaul may be necessary. Key actors like Trump and moderates like Mitt Romney hold opposing stances, deepening the crisis.",
-        "analyse_zh": "这一现象源于美国政党分裂的历史趋势，特朗普等极化人物加剧了这一问题。主要影响在于共和党在面对团结的民主党对手时的生存问题，以及维持忠实选民基础的能力。深层原因包括中间选民的不满、基层激进化和缺乏可信替代领导力。短期内，分裂可能削弱共和党竞选，助长民主党胜利。中期内，该党可能失去制度影响力，长期内可能需要进行意识形态改革。关键人物如特朗普和中间派如罗姆尼立场对立，进一步加剧危机。",
-        "analyse_ru": "Матч между командами из разных дивизионов NCAA может стать интересным испытанием для «Вейбер-Стат», которая показывает нестабильные результаты. «Монтана-Стат» известна агрессивным стилем игры и высокой результативностью, что может создать давление на соперника. Возможные последствия победы для «Монтана-Стат» — укрепление позиции в рейтинге, а для «Вейбер-Стат» — необходимость пересмотра тактики. Перспективы зависят от адаптации команд к условиям игры и физической формы игроков. Фанаты обеих команд ожидают зрелищного противостояния, что может повлиять на посещаемость стадиона.",
-        "analyse_fa": "این بازی بین دو تیم از لیگ‌های مختلف NCAA می‌تواند برای وایبر-استیت که نتایج ناپایداری دارد، یک آزمون جذاب باشد. مونتانا-استیت با سبک بازی تهاجمی و عملکرد بالا می‌تواند فشار زیادی بر رقیب وارد کند. پیروزی مونتانا-استیت ممکن است موقعیت آن در رتبه‌بندی را تقویت کند، در حالی که وایبر-استیت باید تاکتیک خود را بازبینی کند. آینده این بازی به سازگاری تیم‌ها با شرایط مسابقه و وضعیت فیزیکی بازیکنان بستگی دارد. طرفداران هر دو تیم انتظار یک رویداد جذاب دارند که می‌تواند بر حضور تماشاگران در ورزشگاه تأثیر بگذارد.",
-        "analyse_ar": "تواجه فريق وايبر ستات وفريق مونتاينا ستات من مختلفات الدوري NCAA قد يكون اختبارًا مثيرة للفريق الأول الذي يظهر نتائج غير مستقرة. مونتاينا ستات مشهورة بأسلوبها الهجومي والنتائج العالية، مما قد يخلق ضغطًا على الخصم. قد يؤدي فوز مونتاينا ستات إلى تعزيز مكانتها في التصنيف، بينما ستحتاج وايبر ستات إلى مراجعة استراتيجيتها. آفاق المباراة تعتمد على قدرة الفرق على التكيف مع ظروف المباراة وصحة لاعبيها. يتوقع أنصار الفريقين عرضًا مثيرة قد تؤثر على حضور الجمهور في الملعب.",
-        "categorie": "Géopolitique",
-        "source": "Dailyinterlake.com",
-        "url": "https://dailyinterlake.com/news/2026/oct/23/bobcats-football-capsule-for-oct-24/",
-        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-        "date": "2026-10-23",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marchés financiers (actions politiques)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des sondages et data politiques",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marchés financiers (actions politiques)",
-            "secteur_en": "Political equity markets",
-            "secteur_zh": "政治股票市场",
-            "effet_fr": "Les tensions internes au GOP pourraient provoquer une volatilité accrue sur les marchés liés aux élections, affectant les investisseurs sensibles aux risques politiques.",
-            "effet_en": "Internal GOP strife may trigger increased volatility in election-linked markets, impacting politically risk-sensitive investors.",
-            "effet_zh": "共和党内部矛盾可能导致选举相关市场波动加剧，影响对政治风险敏感的投资者。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des sondages et data politiques",
-            "secteur_en": "Political polling and data sector",
-            "secteur_zh": "政治民调和数据行业",
-            "effet_fr": "Les divergences stratégiques pourraient biaiser les prévisions électorales, rendant les données moins fiables pour les acteurs financiers et médiatiques.",
-            "effet_en": "Strategic divergences may skew election forecasts, making data less reliable for financial and media actors.",
-            "effet_zh": "策略分歧可能扭曲选举预测，使数据对金融和媒体行业的可信度降低。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-24T13:08:28.670666"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_509839",
+        "titre": "El-Sayed et Stevens unissent leurs forces",
+        "titre_en": "El-Sayed and Stevens unite for Michigan race",
+        "titre_zh": "埃尔-赛义德与斯蒂文斯联合竞选",
+        "titre_ru": "Эл-Сайед и Стивенс выступят вместе в редком совместном мероприятии перед сенатскими выборами в Мичигане",
+        "titre_fa": "ال-سعيد و استیونز در حضور نادر مشترک برای وحدت دموکرات‌ها در انتخابات سنا میشیگان",
+        "titre_ar": "السيّد وستيفنز يظهران معًا في ظهور نادر مشترك قبل انتخابات مجلس الشيوخ في ميشيغان",
+        "titre_original": "El-Sayed and Stevens to make rare joint appearance as Democrats seek unity in Michigan Senate race",
+        "resume": "Abdul El-Sayed, candidat démocrate au Sénat du Michigan, effectuera une campagne conjointe avec Haley Stevens, son ancienne rivale des primaires. Cette alliance vise à renforcer la cohésion du parti face à la course serrée pour le siège sénatorial. Une stratégie politique pour mobiliser les électeurs progressistes et modérés avant les élections de novembre.",
+        "resume_en": "Michigan Democratic Senate candidate Abdul El-Sayed will campaign alongside former primary rival Rep. Haley Stevens to unify the party ahead of the November race. Their joint effort aims to consolidate support among progressive and moderate voters. A tactical move to counterbalance Republican momentum in the state.",
+        "resume_zh": "美国密歇根州民主党参议员候选人阿卜杜勒-赛义德将与前竞选对手斯蒂文斯代表联合竞选。此举旨在加强民主党在11月参议院选举中的团结。策略性联盟以争取进步派和温和派选民支持，应对共和党在该州的上升势头。",
+        "resume_ru": "Кандидат в сенаторы от Демократической партии Мичигана Абдул Эл-Сайед выступит с кампанией в Детройте вместе с бывшим соперником на выборах в первичных выборах — представителем Хейли Стивенс. Это редкое совместное появление направлено на укрепление единства демократов перед решающим сенатским голосованием. Такое сотрудничество может повлиять на настроения избирателей в ключевом штате.",
+        "resume_fa": "عبدالال-سعيد، نامزد دموکراتان برای سنا در میشیگان، در کمپین در دترویت همراه با هالی استیونز، نماینده سابق و رقیب در انتخابات مقدماتی، حضور خواهد داشت. این حضور نادر مشترک برای تقویت وحدت دموکرات‌ها در انتخابات سنا میشیگان برنامه‌ریزی شده است. همکاری آنها می‌تواند تأثیر قابل توجهی بر نظرسنجی‌های انتخاباتی در این ایالت کلیدی داشته باشد.",
+        "resume_ar": "سيّد عبدالال، مرشح الحزب الديمقراطي لمجلس الشيوخ في ميشيغان، سيشارك في حملة في دترويت مع هالي ستيفنز، عضو سابق في الكونجرس ورقيبه السابقة في الانتخابات الأولية. هذا الظهور المشترك النادر يهدف لتعزيز الوحدة بين الديمقراطيين قبل منافسات مجلس الشيوخ في ميشيغان. قد يؤثر هذا التعاون على آراء الناخبين في ولاية حاسمة.",
+        "analyse_detaillee": "Le Michigan reste un État clé pour les démocrates, où les divisions internes affaiblissent souvent leur campagne. Cette réconciliation entre El-Sayed (progrès) et Stevens (modéré) reflète une stratégie pragmatique pour éviter une scission électorale. Les enjeux incluent la santé, l’éducation et les inégalités économiques, thèmes chers aux deux candidats. Court terme : gain de visibilité médiatique et mobilisation des bases. Moyen terme : possible renforcement du vote démocrate dans les zones urbaines. Long terme : modèle pour d’autres primaires démocrates en 2024. Les républicains pourraient y voir une faiblesse tactique, tandis que les progressistes saluent un compromis nécessaire. Les médias locaux joueront un rôle clé dans la diffusion de ce message unifié.",
+        "analyse_en": "Michigan remains a pivotal state for Democrats, where internal divisions often weaken their campaigns. This reconciliation between El-Sayed (progressive) and Stevens (moderate) reflects a pragmatic strategy to avoid electoral splits. Key issues include healthcare, education, and economic inequality, both candidates’ priorities. Short-term: increased media visibility and voter mobilization. Medium-term: potential strengthening of Democratic votes in urban areas. Long-term: a model for other 2024 Democratic primaries. Republicans may view this as a tactical weakness, while progressives praise the necessary compromise. Local media will play a crucial role in amplifying this unified message.",
+        "analyse_zh": "密歇根州是民主党关键州，内部分裂常常削弱其竞选力。埃尔-赛义德（进步派）与斯蒂文斯（温和派）的和解展示了务实策略，避免选举分裂。主要议题包括医疗保健、教育和经济不平等，两位候选人都高度关注。短期：提升媒体曝光度和选民动员。中期：可能增强城市地区民主党选票。长期：为2024年民主党初选树立模范。共和党可能视此为战术弱点，而进步派称赞这一必要妥协。当地媒体将在传播统一信息中发挥关键作用。",
+        "analyse_ru": "Контекст: Мичиган считается ключевым штатом для демократов на предстоящих выборах в Сенат, где разрыв между кандидатами может быть минимальным. Причины: Эл-Сайед и Стивенс ранее имели разные позиции по ключевым вопросам, но сейчас стремятся объединить усилия для победы над республиканским кандидатом. Последствия: Совместная кампания может повысить явку избирателей и снизить риск раскола внутри партии. Перспективы: Если демократы сохранят единство, это может стать примером для других штатов с тесными выборами. Позиции сторон: Эл-Сайед акцентирует внимание на социальных вопросах, Стивенс — на экономике, но сейчас они согласны на временное примирение ради общей цели.",
+        "analyse_fa": "زمینه: میشیگان به عنوان یک ایالت کلیدی برای دموکرات‌ها در انتخابات سنا در نظر گرفته می‌شود، جایی که اختلاف بین نامزدها ممکن است بسیار کوچک باشد. علل: ال-سعيد و استیونز قبلاً در مورد مسائل کلیدی نظرات متفاوتی داشتند، اما اکنون برای پیروزی مقابل نامزد جمهوری‌خواه تلاش می‌کنند تا متحد شوند. پیامدها: حضور مشترک می‌تواند مشارکت انتخاباتی را افزایش دهد و خطر شکاف در حزب را کاهش دهد. چشم‌انداز: اگر دموکرات‌ها وحدت خود را حفظ کنند، این می‌تواند نمونه‌ای برای ایالت‌های دیگر با انتخابات نزدیک باشد. موضع بازیگران: ال-سعيد تمرکز خود را بر مسائل اجتماعی قرار داده است، در حالی که استیونز بر اقتصاد متمرکز است، اما اکنون برای دستیابی به هدف مشترک موقتاً متحد شده‌اند.",
+        "analyse_ar": "السياق: ميشيغان يُعتبر ولاية حاسمة للديمقراطيين في انتخابات مجلس الشيوخ المقبلة، حيث قد يكون الفارق بين المرشحين ضئيلاً. الأسباب: سيّد عبدالال وستيفنز كانا يختلفان في وجهات نظرهم حول القضايا الرئيسية، لكنهما الآن يسعيان إلى توحيد جهودهما للفوز على المرشح الجمهوري. العواقب: الظهور المشترك قد يزيد من نسبة المشاركة الانتخابية ويقلل من خطر الانقسام داخل الحزب. الآفاق: إذا حافظ الديمقراطيون على وحدتهم، قد يصبح هذا مثالاً للولايات الأخرى التي تتميز بالانتخابات القريبة. مواقف الأطراف: سيّد عبدالال يركز على القضايا الاجتماعية، بينما تستهدف ستيفنز الاقتصاد، لكنهما الآن متحدان مؤقتاً لتحقيق هدف مشترك.",
+        "categorie": "Géopolitique",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/Politics/wireStory/el-sayed-stevens-make-rare-joint-appearance-democrats-137677443",
+        "image": "https://i.abcnewsfe.com/a/2decefa7-3e18-492a-b00e-b70812b8da04/wirestory_bc0c09058cb388f0a64a82a5c53520a9_16x9.jpg?w=1600",
+        "date": "2026-10-30",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché financier des élections américaines",
+            "hausse": true
+          },
+          {
+            "label": "▲ Financement des campagnes politiques",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché financier des élections américaines",
+            "secteur_en": "US election financial markets",
+            "secteur_zh": "美国选举金融市场",
+            "effet_fr": "L’unité apparente des démocrates pourrait réduire les volatilités boursières liées aux incertitudes politiques en Michigan.",
+            "effet_en": "The apparent Democratic unity may reduce stock market volatility tied to Michigan’s political uncertainties.",
+            "effet_zh": "民主党表面上的团结可能减少密歇根州政治不确定性带来的股市波动。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Financement des campagnes politiques",
+            "secteur_en": "Political campaign financing",
+            "secteur_zh": "政治竞选资金",
+            "effet_fr": "Cette alliance pourrait attirer plus de dons de comités d’action politique (PACs) et de donateurs progressistes.",
+            "effet_en": "This alliance may attract more donations from political action committees (PACs) and progressive donors.",
+            "effet_zh": "此联盟可能吸引更多政治行动委员会（PAC）和进步派捐款。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-10-31T06:39:55.611293"
+      },
       {
         "id": "usa_518468",
         "titre": "Administration Trump bloque certification sénatoriale en Alaska",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-24T17:14:05.716274"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_258575",
-        "titre": "Arsenal et Liverpool traquent Batrakov pour 50M£",
-        "titre_en": "Arsenal, Liverpool chase Batrakov for £50M",
-        "titre_zh": "阿森纳和利物浦竞购巴特拉科夫",
-        "titre_ru": "Паника на промежуточных выборах превращает републиканцев в «Лорд Флай»",
-        "titre_fa": "ترس از انتخابات میانی جمهوری‌خواهان را به «لرد فلی» تبدیل می‌کند",
-        "titre_ar": "خوف الانتخابات الوسطى يتحول الجمهوريين إلى «سيد الخنازير»",
-        "titre_original": "Midterm panic turns Trump’s GOP into “Lord of the Flies”",
-        "resume": "Les clubs anglais Arsenal et Liverpool intensifient leur surveillance du milieu de terrain russe Aleksey Batrakov, dont le club turc Galatasaray a activé une clause de départ à 50 millions de livres. Les observateurs ont noté une hausse d’intérêt après des performances en compétitions européennes cette semaine. Ce transfert pourrait marquer un tournant dans la stratégie de recrutement des deux géants du championnat.",
-        "resume_en": "English clubs Arsenal and Liverpool are stepping up their scouting of Russian midfielder Aleksey Batrakov, whose Turkish club Galatasaray has triggered a £50M release clause. Interest surged after his recent European competition performances. This transfer could reshape the recruitment strategies of two Premier League giants.",
-        "resume_zh": "英超球队阿森纳和利物浦加紧关注俄罗斯中场球员巴特拉科夫，其土耳其俱乐部加拉塔萨雷已激活5000万英镑的解约条款。观察员注意到他在本周欧洲赛事中的表现引发了更高的兴趣。这笔转会可能改变两支英超巨头的引援战略。",
-        "resume_ru": "С приближением «синей волны» на горизонте, республиканцы начинают разрывать друг друга на части, и ситуация становится всё более жестокой. Внутренние конфликты в партии Гэрибальдовых, вызванные страхом потерь на выборах, приводят к открытым нападкам и расколам. Такая динамика может подорвать доверие избирателей и усилить позиции демократов на предстоящих выборах.",
-        "resume_fa": "با نزدیک شدن موج آبی در انتخابات میانی، جمهوری‌خواهان شروع به تخریب یکدیگر کرده‌اند و این وضعیت به شدت بدتر می‌شود. درگیری‌های داخلی در حزب ترمپ، ناشی از ترس از شکست در انتخابات، منجر به حمله‌های باز و شکاف‌ها شده‌است. این دینامیک ممکن است اعتماد مردم را زیر سؤال ببرد و موقعیت دموکرات‌ها در انتخابات آینده را تقویت کند.",
-        "resume_ar": "مع اقتراب موج الأزرق في الانتخابات الوسطى، بدأ الجمهوريون في تدمير بعضهم البعض، وتصبح الوضع أكثر شراسة. الصراعات الداخلية في حزب ترمب، التي نشأت من خوف الفشل في الانتخابات، أدت إلى هجمات مفتوحة وشقاقات. قد يؤدي هذا الديناميك إلى تشكيك الثقة لدى الناخبين وتعزيز مكانة الديمقراطيين في الانتخابات القادمة.",
-        "analyse_detaillee": "Ce transfert s’inscrit dans une tradition historique de rachats de talents européens par les clubs anglais, souvent motivés par des enjeux tactiques et financiers. Les enjeux actuels incluent la compétitivité en Premier League et la gestion des coûts salariaux, avec un marché du football en tension. Les causes profondes sont liées à la recherche de jeunes talents prometteurs et à la stratégie de diversification des clubs. À court terme, cela pourrait renforcer les effectifs des deux clubs, mais à moyen terme, la gestion des salaires et des transferts pourrait devenir un défi. Long terme, cela pourrait influencer l’équilibre du championnat et les stratégies des autres clubs. Les acteurs clés sont les dirigeants des clubs, les agents des joueurs et les médias spécialisés.",
-        "analyse_en": "This transfer aligns with a historical trend of English clubs acquiring European talents, driven by tactical and financial motives. Current stakes involve Premier League competitiveness and wage management, amid a strained football market. Root causes include the pursuit of promising young talents and diversification strategies. Short-term, it may strengthen the squads of both clubs, but medium-term, salary and transfer management could become a challenge. Long-term, it may impact league balance and other clubs' strategies. Key actors include club executives, player agents, and specialized media.",
-        "analyse_zh": "这笔转会符合英超俱乐部购买欧洲球员的历史传统，通常由战术和财务动机驱动。当前的影响包括英超竞争力和工资管理，在一个紧张的足球市场上。深层原因包括寻找有前途的年轻球员和俱乐部多元化战略。短期内，这可能增强两支球队的阵容，但中期内，工资和转会管理可能成为挑战。长期内，这可能影响联赛平衡和其他俱乐部的战略。关键人物包括俱乐部高管、球员经纪人和专业媒体。",
-        "analyse_ru": "Конфликт внутри республиканской партии вызван страхом потери контроля над Конгрессом и Сенатом, что может привести к потере власти на ближайшие годы. Такие расколы ослабляют партию и делают её уязвимой для критики со стороны оппонентов. Демократы могут использовать эту ситуацию для продвижения собственных инициатив, в то время как республиканцы теряют единый голос. Перспективы партии зависят от того, смогут ли лидеры найти компромисс или же конфликт перерастет в полный крах. Избиратели, разочарованные внутренними разногласиями, могут переключиться на других кандидатов.",
-        "analyse_fa": "درگیری در حزب جمهوری‌خواه ناشی از ترس از از دست دادن کنترل کنگره و سنا است که ممکن است منجر به از دست دادن قدرت در سال‌های آینده شود. شکاف‌ها حزب را ضعیف می‌کنند و آن را در برابر انتقاد رقبا آسیب‌پذیر می‌سازند. دموکرات‌ها می‌توانند از این موقعیت برای پیشبرد برنامه‌های خود استفاده کنند، در حالی که جمهوری‌خواهان از صدای متحد خود محروم می‌شوند. آینده حزب به این بستگی دارد که آیا رهبران می‌توانند به توافق برسند یا این درگیری به فروپاشی کامل تبدیل شود. مردم، که از اختلافات داخلی خسته شده‌اند، ممکن است به نامزدهای دیگر روی آورند.",
-        "analyse_ar": "الصراع داخل الحزب الجمهوري ناشئ عن خوف فقدان السيطرة على الكونجرس والسنات، مما قد يؤدي إلى فقدان السلطة في السنوات القادمة. هذه الشقاقات تضعف الحزب وتجعله عرضة للهجوم من قبل المنافسين. يمكن للديمقراطيين الاستفادة من هذه الوضعية لتقدم مبادراتهم الخاصة، في حين يفقد الجمهوريون صوتًا متحدًا. آفاق الحزب تعتمد على قدرته على التوصل إلى اتفاق أو تحول الصراع إلى انهيار كامل. قد يتحول الناخبون، الذين استنفدهم الخلاف الداخلي، إلى مرشحين آخرين.",
-        "categorie": "Sport",
-        "source": "Salon",
-        "url": "https://www.salon.com/2026/10/23/midterm-panic-turns-trumps-gop-into-lord-of-the-flies/",
-        "image": "https://www.salon.com/app/uploads/2026/09/Donald-Trump-2296657910.jpg",
-        "date": "2026-10-23",
-        "pays": "usa",
+        "id": "chine_917718",
+        "titre": "Indonésie promeut huiles végétales durables",
+        "titre_en": "Indonesia supports sustainable vegetable oils",
+        "titre_zh": "印尼推动可持续植物油",
+        "titre_ru": "Индонезия поддерживает устойчивые растительные масла на конференции в Китае",
+        "titre_fa": "اندونزی حمایت از روغن‌های گیاهی پایدار در کنفرانس چین را اعلام کرد",
+        "titre_ar": "تؤكد إندونيسيا دعمها للزيوت النباتية المستدامة في مؤتمر الصين",
+        "titre_original": "Indonesia supports sustainable vegetable oils at China conference",
+        "resume": "Le consulat général d’Indonésie à Shanghai a réaffirmé son soutien à la promotion des huiles végétales durables lors d’une conférence en Chine. Cette initiative s’inscrit dans une stratégie plus large pour diversifier les exportations et répondre aux demandes croissantes de produits écologiques. Un partenariat économique et écologique entre les deux pays.",
+        "resume_en": "Indonesia’s Consulate General in Shanghai reaffirmed support for promoting sustainable vegetable oils at a China conference. This initiative aligns with broader efforts to diversify exports and meet growing demand for eco-friendly products. An economic and environmental partnership between the two nations.",
+        "resume_zh": "印尼驻上海总领事馆在上海举办的会议上重申支持推广可持续植物油。这一举措符合印尼多元化出口和满足对生态产品日益增长需求的更广泛战略。两国之间的经济和环保合作伙伴关系。",
+        "resume_ru": "Консулат Индонезии в Шанхае поддержал идею продвижения устойчивых растительных масел в рамках конференции по продовольственной безопасности. Это соответствует глобальным трендам перехода к экологически чистым источникам энергии и снижению зависимости от пальмового масла. Индонезия, как крупнейший производитель пальмового масла, стремится диверсифицировать экспортные возможности.",
+        "resume_fa": "کنسولگری اندونزی در شانگهای حمایت از ترویج روغن‌های گیاهی پایدار را در چارچوب کنفرانس امنیت غذایی اعلام کرد. این اقدام با روند جهانی انتقال به منابع انرژی سبز و کاهش وابستگی به روغن دانه کتان مطابقت دارد. اندونزی، به عنوان بزرگ‌ترین تولیدکننده روغن دانه کتان، سعی در تنوع‌بخشی در امکانات صادراتی خود دارد.",
+        "resume_ar": "تؤكد القنصلية الإندونيسية في شنغهاي دعمها لتسويق الزيوت النباتية المستدامة في إطار مؤتمر الأمن الغذائي. هذا يتوافق مع الاتجاهات العالمية نحو مصادر الطاقة الخضراء وتقليل الاعتماد على زيت النخيل. تبحث إندونيسيا، كأكبر منتج لزيت النخيل، في تنويع خيارات الصادرات.",
+        "analyse_detaillee": "L’Indonésie, premier exportateur mondial de palme, cherche à se repositionner face aux critiques environnementales et aux réglementations internationales. Les huiles végétales durables répondent aux exigences de l’UE et de la Chine en matière de développement durable, tout en ouvrant des marchés pour les produits indonésiens. Les conséquences immédiates incluent une amélioration de l’image de marque et un accès privilégié aux chaînes d’approvisionnement vertes. À moyen terme, cette transition pourrait réduire la dépendance aux cultures à haute intensité carbone. Long terme : l’Indonésie pourrait devenir un leader des énergies renouvelables et des produits agroalimentaires durables en Asie du Sud-Est. La Chine, en tant que partenaire clé, bénéficie d’un approvisionnement stable en matières premières écologiques, tandis que l’UE renforce sa politique de commerce vert. Les petits producteurs locaux pourraient aussi en tirer profit, mais au prix d’une adaptation coûteuse des techniques agricoles.",
+        "analyse_en": "Indonesia, the world’s top palm oil exporter, seeks to reposition itself amid environmental criticism and international regulations. Sustainable vegetable oils meet EU and China’s sustainability demands while opening markets for Indonesian products. Immediate consequences include improved brand image and privileged access to green supply chains. Medium-term: this transition could reduce dependence on high-carbon crops. Long-term: Indonesia may become a leader in renewable energy and sustainable agri-food products in Southeast Asia. China, as a key partner, benefits from stable supplies of eco-friendly raw materials, while the EU strengthens its green trade policy. Local smallholders may also benefit, albeit at the cost of expensive agricultural adaptation.",
+        "analyse_zh": "印尼作为全球最大的棕榈油出口国，试图在面对环保批评和国际监管的压力下重新定位。可持续植物油满足欧盟和中国对可持续发展的需求，同时为印尼产品开辟市场。短期影响包括品牌形象改善和对绿色供应链的优先访问。中期：这一转型可能减少对高碳作物的依赖。长期：印尼可能成为东南亚可再生能源和可持续农产品的领导者。中国作为关键合作伙伴，从稳定的生态原材料供应中受益，而欧盟则加强其绿色贸易政策。当地小农户也可能受益，但需要付出昂贵的农业技术调整成本。",
+        "analyse_ru": "Контекст: Проблема устойчивого развития сельского хозяйства становится приоритетом для многих стран, особенно в контексте изменения климата. Причины: Критика использования пальмового масла из-за дефорестации и негативного влияния на экосистемы. Последствия: Снижение спроса на пальмовое масло, поиск альтернативных культур, возможные изменения в международных торговых соглашениях. Перспективы: Растет интерес к соевому и рапсовому маслу как к более экологичным вариантам. Позиции сторон: Индонезия хочет сохранить свои позиции на рынке, но адаптироваться к новым требованиям, Китай поддерживает инициативы по устойчивому развитию, но также заинтересован в стабильности поставок.",
+        "analyse_fa": "زمینه: مسئله توسعه پایدار کشاورزی برای بسیاری از کشورها، به ویژه در زمینه تغییرات آب و هوایی، به اولویت تبدیل شده است. علل: انتقاد از استفاده از روغن دانه کتان به دلیل قطع درختان و تأثیر منفی بر اکوسیستم‌ها. پیامدها: کاهش تقاضا برای روغن دانه کتان، جستجوی جایگزین‌های کشاورزی، و تغییرات احتمالی در توافق‌نامه‌های تجاری بین‌المللی. چشم‌انداز: علاقه به روغن سویا و کلمه به عنوان جایگزین‌های پایدارتر در حال افزایش است. موضع بازیگران: اندونزی می‌خواهد جایگاه خود در بازار را حفظ کند، اما به نیازهای جدید سازگار شود، چین از اقدامات توسعه پایدار حمایت می‌کند، اما همچنین به ثبات تأمین مواد نیاز دارد.",
+        "analyse_ar": "السياق: أصبحت قضية التنمية المستدامة الزراعية أولوية لدى العديد من الدول، خاصة في سياق تغير المناخ. الأسباب: انتقاد استخدام زيت النخيل بسبب قطع الأشجار وتأثيره السلبي على الأنظمة البيئية. العواقب: انخفاض الطلب على زيت النخيل، بحث عن بدائل زراعية، وتغيرات محتملة في اتفاقيات التجارة الدولية. الآفاق: تزداد اهتمامًا بالزيت الصويا وزيت الكانولا كبدائل أكثر استدامة. مواقف الأطراف: تبحث إندونيسيا في الحفاظ على مكانتها في السوق، ولكن أيضًا التكيف مع المتطلبات الجديدة، وتؤكد الصين على مبادرات التنمية المستدامة، لكنها أيضًا مهتمة باستقرار الإمدادات.",
+        "categorie": "Économie/Environnement",
+        "source": "Antaranews.com",
+        "url": "https://en.antaranews.com/news/438867/indonesia-supports-sustainable-vegetable-oils-at-china-conference",
+        "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/30/Weixin-Image_20261029154819_24_336.jpg",
+        "date": "2026-10-30",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▲ Marché des transferts footballistiques",
+            "label": "▲ Marché des biocarburants",
             "hausse": true
           },
           {
-            "label": "▲ Sponsoring et partenariats sportifs",
+            "label": "▲ Industrie agroalimentaire durable",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des transferts footballistiques",
-            "secteur_en": "Football transfer market",
-            "secteur_zh": "足球转会市场",
-            "effet_fr": "Ce transfert pourrait relancer la spéculation sur les prix des joueurs russes et européens, influençant les négociations futures dans le championnat.",
-            "effet_en": "This transfer may reignite speculation on the valuation of Russian and European players, impacting future negotiations in the league.",
-            "effet_zh": "这笔转会可能重新引发对俄罗斯和欧洲球员估价的猜测，影响未来联赛中的谈判。",
+            "secteur_fr": "Marché des biocarburants",
+            "secteur_en": "Biofuel market",
+            "secteur_zh": "生物燃料市场",
+            "effet_fr": "La demande en huiles végétales durables pourrait stimuler la production de biocarburants de deuxième génération en Asie du Sud-Est.",
+            "effet_en": "Demand for sustainable vegetable oils may boost second-generation biofuel production in Southeast Asia.",
+            "effet_zh": "对可持续植物油的需求可能刺激东南亚第二代生物燃料的生产。",
             "hausse": true
           },
           {
-            "secteur_fr": "Sponsoring et partenariats sportifs",
-            "secteur_en": "Sports sponsorship and partnerships",
-            "secteur_zh": "体育赞助和合作",
-            "effet_fr": "Les clubs pourraient attirer plus de sponsors en misant sur des joueurs à fort potentiel médiatique, comme Batrakov, augmentant ainsi les revenus publicitaires.",
-            "effet_en": "Clubs may attract more sponsors by leveraging high-profile players like Batrakov, boosting advertising revenue.",
-            "effet_zh": "俱乐部可能通过依靠如巴特拉科夫这样的高知名度球员吸引更多赞助商，从而增加广告收入。",
+            "secteur_fr": "Industrie agroalimentaire durable",
+            "secteur_en": "Sustainable agri-food industry",
+            "secteur_zh": "可持续农食产业",
+            "effet_fr": "Les certifications durables pourraient augmenter la valeur ajoutée des exportations indonésiennes vers la Chine et l’UE.",
+            "effet_en": "Sustainable certifications may increase the added value of Indonesia’s exports to China and the EU.",
+            "effet_zh": "可持续认证可能提高印尼对华和对欧出口的附加值。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-24T13:08:28.670693"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-10-31T06:39:55.611341"
+      },
       {
         "id": "chine_182950",
         "titre": "Général promu au Politburo chinois : renforcement militaire",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-20T03:29:25.771804"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_729916",
-        "titre": "Xi 'sinicise' l’Église catholique avec accord vatican",
-        "titre_en": "Xi ‘Sinicizes’ China’s Catholic Church with Vatican approval",
-        "titre_zh": "习近平‘中国化’天主教会获梵蒂冈认可",
-        "titre_ru": "Си Цзинь «синизирует» католическую церковь Китая с одобрения Ватикана",
-        "titre_fa": "سی جین «چینی‌سازی» کلیسای کاتولیک چین با تأیید واتیکان",
-        "titre_ar": "سي جين «تشيينيز» الكنيسة الكاثوليكية الصينية بموافقة الفاتيكان",
-        "titre_original": "Xi ‘Sinicizes’ China’s Catholic Church, with Vatican approval",
-        "resume": "Le président chinois justifie ses règles pour les fidèles catholiques comme une adaptation de la religion au 'socialisme aux caractéristiques chinoises'. Cette 'sinicisation' reçoit l’aval du Vatican, marquant un compromis historique. Le mouvement vise à contrôler les institutions religieuses et à réduire l’influence étrangère.",
-        "resume_en": "China’s president justifies rules for Catholic faithful as adapting religion to 'socialism with Chinese characteristics'. This 'Sinicization' gains Vatican approval, marking a historic compromise. The move aims to control religious institutions and reduce foreign influence.",
-        "resume_zh": "中国主席将对天主教信徒的规则解释为宗教适应‘中国特色社会主义’的举措。这一‘中国化’过程获得梵蒂冈认可，标志着历史性妥协。该举措旨在控制宗教机构并减少外国影响。",
-        "resume_ru": "Лидер Китая утверждает, что его правила для верующих — это просто адаптация религии к «социализму с китайскими особенностями». Ватикан, несмотря на протесты, одобрил эти изменения. Это шаг к интеграции церкви в политическую систему страны.",
-        "resume_fa": "رئیس‌جمهور چین ادعا می‌کند که قوانین او برای مؤمنان، فقط «آدپتاسیون دین به سوسیالیسم با خصوصیات چینی» است. واتیکان با وجود اعتراضات، این تغییرات را تأیید کرد. این یک قدم در راه ادغام کلیسا در سیستم سیاسی کشور است.",
-        "resume_ar": "يدعي زعيم الصين أن قواعده للعباد هي مجرد «تكييف الدين بالاشتراكية ذات الخصائص الصينية». وافق الفاتيكان على هذه التغييرات رغم الاحتجاجات. هذا خطوة نحو دمج الكنيسة في نظام سياسي البلاد.",
-        "analyse_detaillee": "Cette politique s’inscrit dans une tradition de contrôle des religions en Chine, depuis Mao jusqu’à Xi. Les enjeux sont à la fois idéologiques (affirmation du modèle chinois) et sécuritaires (prévention des influences étrangères). Les causes profondes incluent la méfiance historique envers le Vatican et le besoin de légitimer le régime. Court terme : renforcement du Parti sur les institutions religieuses. Moyen terme : possible marginalisation des prêtres étrangers. Long terme : risque de fragmentation de l’Église catholique en Chine. Les acteurs sont le PCC (pour contrôler), le Vatican (pour négocier) et les fidèles (pour s’adapter).",
-        "analyse_en": "This policy aligns with China’s tradition of controlling religions, from Mao to Xi. Stakes involve ideological affirmation of the Chinese model and security concerns over foreign influences. Root causes include historical distrust of the Vatican and the need to legitimize the regime. Short-term: CCP strengthening over religious institutions. Medium-term: possible marginalization of foreign priests. Long-term: risk of fragmentation of the Catholic Church in China. Key actors are the CCP (to control), the Vatican (to negotiate), and the faithful (to adapt).",
-        "analyse_zh": "这一政策源自中国对宗教控制的传统，从毛泽东到习近平。主要影响涉及意识形态（确认中国模式）和安全（防止外国影响）。深层原因包括对梵蒂冈的历史不信任和合法化政权的需求。短期内，中共将加强对宗教机构的控制，中期可能边缘化外籍神父，长期存在中国天主教会分裂风险。关键利益相关方包括中共（控制）、梵蒂冈（谈判）和信徒（适应）。",
-        "analyse_ru": "Си Цзинь стремится подчинить все религиозные организации государству, включая католическую церковь. Ватикан, несмотря на давление, согласился на компромисс, чтобы сохранить диалог. Это может ослабить влияние церкви на общество, но даст ей легальный статус. Критики говорят, что это просто формальный контроль, а не настоящая свобода вероисповедания. В долгосрочной перспективе это может привести к потере духовного влияния церкви. Однако для Китая это шаг к централизации власти и контролю над всеми сферами жизни.",
-        "analyse_fa": "سی جین سعی دارد کلیسای کاتولیک و سایر سازمان‌های مذهبی را تحت کنترل دولت بیاورد. واتیکان با وجود فشار، به تعهد مذاکره‌ای رضایت داد، اما این ممکن است تأثیر کلیسا بر جامعه را کاهش دهد. منتقدان معتقدند که این فقط کنترل رسمی است، نه آزادی واقعی عبادت. در بلندمدت، این ممکن است به از دست دادن تأثیر معنوی کلیسا منجر شود. اما برای چین این یک قدم در راه مرکزی‌سازی قدرت و کنترل بر تمام ابعاد زندگی است.",
-        "analyse_ar": "يريد سي جين خضوع جميع المنظمات الدينية للدولة، بما في ذلك الكنيسة الكاثوليكية. وافق الفاتيكان على تعهد مفاوضي رغم الضغط، لكن هذا قد يضعف تأثير الكنيسة على المجتمع. ينتقد البعض أن هذا مجرد سيطرة رسمية، وليس حرية حقيقية للعبادة. على المدى الطويل، قد يؤدي هذا إلى فقدان تأثير الكنيسة الروحي. ومع ذلك، بالنسبة للصين، هذا خطوة نحو المركزية السلطة والسيطرة على جميع جوانب الحياة.",
-        "categorie": "Religion & Géopolitique",
-        "source": "Wnd.com",
-        "url": "https://www.wnd.com/2026/10/xi-sinicizes-chinas-catholic-church-vatican-approval/",
-        "image": "https://www.wnd.com/wp-content/uploads/2026/10/xi-jinping-china-chinese-white-house-presidents-building-1200x630.jpg",
-        "date": "2026-10-18",
-        "pays": "chine",
+        "id": "russie_875602",
+        "titre": "Mission humanitaire à Oleshky touche finale",
+        "titre_en": "Humanitarian mission in Oleshky nears end",
+        "titre_zh": "乌克兰奥莱什基人道主义行动接近尾声",
+        "titre_ru": "Гуманитарная миссия в оккупированном Олешках входит в финальную фазу",
+        "titre_fa": "میشن گумانیتاری در شهر اشغال شده اوleshky به مرحله نهایی رسیده است",
+        "titre_ar": "مهمة إنسانية في مدينة أوليشكي المحتلة تدخل مرحلة النهائية",
+        "titre_original": "Humanitarian Mission In Russian-Occupied Oleshky Enters Final Phase, Ukraine Says",
+        "resume": "Une mission humanitaire, négociée par les États-Unis, vise à permettre l’entrée d’aide dans la ville ukrainienne d’Oleshky, occupée par la Russie, et à assurer la sortie sécurisée des résidents. Cette dernière phase pourrait marquer un tournant dans les efforts de désescalade. Les autorités ukrainiennes surveillent attentivement les intentions russes.",
+        "resume_en": "A US-brokered humanitarian mission aims to allow aid into Russian-occupied Oleshky and safe resident exits. The final phase could mark a turning point in de-escalation efforts. Ukrainian authorities closely monitor Russian intentions.",
+        "resume_zh": "由美国牵头的人道主义行动旨在让援助物资进入俄罗斯占领的乌克兰奥莱什基市，并确保居民安全撤离。这一最后阶段可能成为缓和努力的转折点。乌克兰当局密切关注俄罗斯的意图。",
+        "resume_ru": "Миссия, организованная при посредничестве США, позволит доставить гуманитарную помощь в оккупированный город Олешки на юге Украины и обеспечить безопасный выход жителей. Киев объявил, что эта операция находится в финальной стадии. Это важный шаг для облегчения страданий местных жителей под контролем российских войск.",
+        "resume_fa": "میشن سازماندهی شده توسط ایالات متحده امکان ارسال کمک‌های انسانی به شهر اشغال شده اوleshky در جنوب اوکراین و امکان خروج امن ساکنان را فراهم می‌کند. کی‌یف اعلام کرده که این عملیات در مرحله نهایی قرار دارد. این گام مهمی برای کاهش رنج ساکنان تحت کنترل نیروهای روسی است.",
+        "resume_ar": "مهمة منظمة من قبل الولايات المتحدة ستسمح بتسليم المساعدات الإنسانية إلى مدينة أوليشكي المحتلة في جنوب أوكرانيا وتسهيل خروج سكانها بأمان. أعلن كييف أن هذه العملية في مرحلة نهائية. هذا خطوة مهمة لتخفيف معاناة السكان تحت سيطرة القوات الروسية.",
+        "analyse_detaillee": "Oleshky, située dans le sud de l’Ukraine, est un symbole des tensions persistantes entre Moscou et Kiev depuis l’invasion de 2022. Cette mission humanitaire s’inscrit dans une stratégie plus large de désengagement, mais reste fragile face aux intérêts russes en Crimée et dans le Donbass. Les conséquences immédiates incluent une amélioration temporaire des conditions de vie pour les civils, mais aussi une possible exploitation politique par Moscou. À moyen terme, cette initiative pourrait servir de modèle pour d’autres villes occupées, tout en renforçant la pression sur la Russie pour des négociations. Long terme : si la mission aboutit, elle pourrait ouvrir la voie à des échanges de prisonniers et à une réduction des hostilités. Cependant, Poutine pourrait y voir une faiblesse et intensifier les opérations militaires. Les États-Unis, en tant que médiateurs, cherchent à éviter une escalade, tandis que l’Ukraine tente de gagner du temps pour préparer une contre-offensive.",
+        "analyse_en": "Oleshky, in southern Ukraine, is a symbol of persistent tensions between Moscow and Kiev since the 2022 invasion. This humanitarian mission fits into a broader disengagement strategy but remains fragile given Russian interests in Crimea and Donbas. Immediate consequences include temporary improvements for civilians, but also potential political exploitation by Moscow. Medium-term: this initiative could serve as a model for other occupied cities while pressuring Russia for negotiations. Long-term: if successful, it may pave the way for prisoner exchanges and reduced hostilities. However, Putin might see it as a weakness and escalate military operations. The US, as mediator, seeks to avoid escalation, while Ukraine aims to buy time for a counteroffensive.",
+        "analyse_zh": "位于乌克兰南部的奥莱什基市是2022年俄罗斯入侵以来莫斯科和基辅之间持续紧张关系的象征。这一人道主义行动属于更广泛的脱离策略，但面对俄罗斯在克里米亚和顿巴斯的利益，仍然脆弱。短期影响包括平民生活条件暂时改善，但俄罗斯可能利用此事进行政治操控。中期：此举可能成为其他占领城市的模范，并加大对俄罗斯施压进行谈判。长期：如果行动成功，可能为战俘交换和减少敌对行动铺平道路。然而，普京可能视此为弱点并加剧军事行动。美国作为中介，试图避免升级，而乌克兰则试图争取时间准备反击。",
+        "analyse_ru": "Контекст: Олешки — один из ключевых городов в зоне активных боевых действий на юге Украины, где российские войска блокируют доступ к гуманитарной помощи. Причины: Россия отказывается признавать оккупацию и не позволяет международным организациям действовать без своего контроля. Последствия: Ухудшение условий жизни местных жителей, рост числа беженцев, давление на Украину для переговоров. Перспективы: Если миссия пройдет успешно, это может стать примером для других оккупированных территорий. Позиции сторон: Украина настаивает на незамедлительном выполнении миссии, Россия требует гарантий безопасности своих войск, США выступают посредником для деэскалации.",
+        "analyse_fa": "زمینه: اوleshky یکی از شهرهای کلیدی در منطقه درگیری‌های فعال در جنوب اوکراین است، جایی که نیروهای روسی دسترسی به کمک‌های انسانی را مسدود کرده‌اند. علل: روسیه نپذیرفت که اشغال را بپذیرد و اجازه نمی‌دهد سازمان‌های بین‌المللی بدون کنترل خود عمل کنند. پیامدها: بدتر شدن شرایط زندگی ساکنان، افزایش تعداد پناهندگان، و فشار بر اوکراین برای مذاکره. چشم‌انداز: اگر میشن با موفقیت انجام شود، می‌تواند نمونه‌ای برای مناطق اشغال شده دیگر باشد. موضع بازیگران: اوکراین بر اجرای فوری میشن اصرار دارد، روسیه از تضمین امنیت نیروهای خود می‌خواهد، و ایالات متحده به عنوان واسطه برای کاهش تنش عمل می‌کند.",
+        "analyse_ar": "السياق: أوليشكي إحدى المدن الرئيسية في منطقة الصراع النشط في جنوب أوكرانيا، حيث تحتل القوات الروسية الوصول إلى المساعدات الإنسانية. الأسباب: رفض روسيا الاعتراف بالاحتلال وتطلبها عدم السماح للمنظمات الدولية بالعمل دون سيطرتها. العواقب: تفاقم ظروف حياة السكان المحليين، زيادة عدد اللاجئين، وضغط على أوكرانيا للتفاوض. الآفاق: إذا نجحت المهمة، قد تصبح مثالاً للمدن المحتلة الأخرى. مواقف الأطراف: تدعو أوكرانيا إلى تنفيذ المهمة فورًا، وتطلب روسيا ضمانات أمن قواتها، وتعمل الولايات المتحدة كوسيط لتخفيف التوتر.",
+        "categorie": "Géopolitique",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html",
+        "image": "https://gdb.rferl.org/f8d9f223-e6c7-41cf-962b-36f1c24d9925_w1200_h630.jpg",
+        "date": "2026-10-30",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Tourisme religieux international",
+            "label": "▼ Marché des assurances politiques",
             "hausse": false
           },
           {
-            "label": "▲ Assurance pour missions religieuses",
-            "hausse": true
+            "label": "▼ Financement des ONG humanitaires",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Tourisme religieux international",
-            "secteur_en": "International religious tourism",
-            "secteur_zh": "国际宗教旅游",
-            "effet_fr": "Les restrictions sur les institutions catholiques pourraient réduire l’afflux de pèlerins étrangers et impacter les revenus liés au tourisme spirituel.",
-            "effet_en": "Restrictions on Catholic institutions may reduce foreign pilgrim flows and affect revenues from spiritual tourism.",
-            "effet_zh": "对天主教机构的限制可能减少外国朝圣者数量，影响灵性旅游收入。",
+            "secteur_fr": "Marché des assurances politiques",
+            "secteur_en": "Political insurance market",
+            "secteur_zh": "政治保险市场",
+            "effet_fr": "Les incertitudes autour de cette mission pourraient inciter les assureurs à revoir leurs couvertures pour les risques géopolitiques en Ukraine.",
+            "effet_en": "Uncertainties around this mission may prompt insurers to review coverage for geopolitical risks in Ukraine.",
+            "effet_zh": "此行动的不确定性可能促使保险公司重新审视乌克兰地缘政治风险的保障。",
             "hausse": false
           },
           {
-            "secteur_fr": "Assurance pour missions religieuses",
-            "secteur_en": "Insurance for religious missions",
-            "secteur_zh": "宗教传教保险",
-            "effet_fr": "Les assurances pour les missionnaires pourraient devenir plus chères en raison des risques politiques et juridiques accrus.",
-            "effet_en": "Insurance for missionaries may become more expensive due to increased political and legal risks.",
-            "effet_zh": "传教士保险可能因政治和法律风险上升而成本增加。",
-            "hausse": true
+            "secteur_fr": "Financement des ONG humanitaires",
+            "secteur_en": "Humanitarian NGO funding",
+            "secteur_zh": "人道主义非政府组织资金",
+            "effet_fr": "Les succès ou échecs de cette mission pourraient influencer les dons et le soutien financier aux organisations travaillant en Ukraine occupée.",
+            "effet_en": "Successes or failures of this mission may influence donations and financial support for NGOs operating in occupied Ukraine.",
+            "effet_zh": "此行动的成败可能影响对在占领区工作的非政府组织的捐款和资金支持。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-10-19T19:02:06.609356"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-10-31T06:39:55.611334"
+      },
       {
         "id": "russie_152949",
         "titre": "Comment l’Ukraine a été reconstituée historiquement",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-23T17:43:49.180492"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_995515",
-        "titre": "Importations indiennes de pétrole ouest-asiatique rebondissent",
-        "titre_en": "India’s West Asia oil imports hit pre-war levels",
-        "titre_zh": "印度西亚原油进口恢复战前水平",
-        "titre_ru": "Импорт нефти Индии из Западной Азии достиг довоенных уровней, а российская сырьевая продукция упала",
-        "titre_fa": "واردات نفت هند از غرب آسیا به سطح قبل جنگ بازگشت، نفت روسیه کاهش یافت",
-        "titre_ar": "ارتفعت واردات الهند من النفط من غرب آسيا إلى مستويات قبل الحرب، وانخفض النفط الروسي",
-        "titre_original": "India's West Asia oil imports hit pre-war levels; Russian crude falls",
-        "resume": "En septembre, les importations indiennes de pétrole en provenance d’Asie de l’Ouest ont atteint 2,8 millions de barils par jour, soit 54 % de ses achats totaux. En parallèle, les livraisons russes ont chuté de 14 % par rapport au mois précédent, à 1,8 million de barils/jour. Ces données reflètent une diversification des approvisionnements indiens et une baisse de la dépendance à la Russie.",
-        "resume_en": "India’s September imports of West Asian oil reached 2.8 million barrels per day, accounting for 54 % of total purchases. Meanwhile, Russian oil shipments fell 14 % month-over-month to 1.8 million bpd. The data highlights India’s supply diversification and reduced reliance on Russia.",
-        "resume_zh": "印度九月从西亚进口的原油达280万桶/日，占其总进口量的54%。同时，俄罗斯原油运输量较上月下降14%，降至180万桶/日。数据显示印度正在多元化能源进口来源，减少对俄罗斯的依赖。",
-        "resume_ru": "В сентябре Индия увеличила импорт нефти из Западной Азии до 2,8 млн баррелей в день, что составляет 54% от всех покупок. В то же время импорт российской нефти снизился на 14% до 1,8 млн баррелей в сутки. Эти данные подтверждаются анализом морских перевозок. Такие изменения связаны с геополитическими факторами и поиском альтернативных поставщиков.",
-        "resume_fa": "هند در سپتامبر واردات نفت خود از غرب آسیا به ۲٫۸ میلیون بشکه در روز افزایش داد که ۵۴ درصد از خریدهای کل را تشکیل می‌دهد. در همین حال، واردات نفت روسیه با کاهش ۱۴ درصدی به ۱٫۸ میلیون بشکه در روز رسید. این داده‌ها بر اساس تحلیل حمل و نقل دریایی تأیید شده‌اند. این تغییرات به دلایل جغرافیایی سیاسی و جستجوی تأمین‌کنندگان جایگزین مرتبط است.",
-        "resume_ar": "ارتفعت واردات الهند من النفط من غرب آسيا في سبتمبر إلى 2.8 مليون برميل يومياً، مما يمثل 54% من جميع الشراء. في الوقت نفسه، انخفضت واردات النفط الروسي بنسبة 14% إلى 1.8 مليون برميل يومياً. هذه البيانات مؤكدة من خلال تحليل النقل البحري. هذه التغييرات مرتبطة بالأسباب الجيوسياسية والبحث عن موردين بدائل.",
-        "analyse_detaillee": "Cette dynamique s’inscrit dans un contexte géopolitique marqué par la guerre en Ukraine et les sanctions occidentales contre Moscou. Les enjeux incluent la sécurisation des approvisionnements énergétiques pour l’Inde, tout en évitant les tensions avec l’Occident. Les causes profondes résident dans la nécessité pour New Delhi de maintenir un équilibre entre relations avec la Russie (partenaire stratégique) et les pays du Golfe (clés pour l’énergie). À court terme, cela pourrait renforcer les liens économiques avec l’Arabie saoudite et les Émirats, tout en réduisant les risques de contre-sanctions. À moyen terme, cela pourrait accélérer la transition énergétique indienne vers des énergies renouvelables, sous pression internationale. Long terme, cette diversification pourrait repositionner l’Inde comme un acteur clé des marchés pétroliers, mais aussi comme un pont entre l’Orient et l’Occident. La Russie, bien que touchée, cherche à compenser via d’autres clients (Chine, Inde), tandis que les pays du Golfe y voient une opportunité de réduire leur dépendance à l’Occident.",
-        "analyse_en": "This trend reflects the geopolitical backdrop of the Ukraine war and Western sanctions on Russia. Key stakes involve securing India’s energy supplies while avoiding Western tensions. Root causes lie in New Delhi’s need to balance relations with Russia (a strategic partner) and Gulf states (critical for energy). Short-term, this could strengthen economic ties with Saudi Arabia and the UAE, reducing sanctions risks. Medium-term, it may accelerate India’s renewable energy transition under international pressure. Long-term, diversification could reposition India as a key oil market player and a bridge between East and West. Russia, though affected, seeks to compensate via other clients (China, India), while Gulf states see this as an opportunity to reduce Western dependence.",
-        "analyse_zh": "这一趋势源于乌克兰战争和西方对俄罗斯的制裁背景。主要影响在于印度确保能源供应安全，同时避免与西方产生摩擦。深层原因在于印度在维持与俄罗斯（战略伙伴）和海湾国家（能源关键供应商）之间的平衡。短期内，这将加强与沙特和阿联酋的经济关系，减少制裁风险。中期内，可能加速印度向可再生能源转型，应对国际压力。长期来看，能源多元化可能让印度成为全球石油市场的关键参与者，并充当东西方之间的桥梁。俄罗斯尽管受到影响，但通过中国和印度等其他客户弥补损失，而海湾国家则将此视为减少对西方依赖的机会。",
-        "analyse_ru": "Рост импорта из Западной Азии показывает, что Индия активно диверсифицирует источники нефти, избегая зависимости от России. Это может ослабить давление на цены и предложение на мировом рынке. Однако, увеличение импорта из регионов с геополитическими рисками (например, Иран) может вызвать новые проблемы. Россия, в свою очередь, теряет ключевого покупателя, что заставляет её искать альтернативные рынки. В долгосрочной перспективе, это может привести к перераспределению сил на рынке, но зависит от стабильности поставок и цен.",
-        "analyse_fa": "افزایش واردات از غرب آسیا نشان می‌دهد که هند در حال Diversification منابع نفت خود است و از وابستگی به روسیه اجتناب می‌کند. این می‌تواند فشار بر قیمت‌ها و عرضه در بازار جهانی را کاهش دهد. اما افزایش واردات از مناطق با ریسک جغرافیایی سیاسی (مانند ایران) می‌تواند مشکلات جدیدی ایجاد کند. روسیه از سوی دیگر، یک خریدار کلیدی را از دست می‌دهد که باعث می‌شود به دنبال بازارهای جایگزین باشد. در بلندمدت، این می‌تواند به تغییر قدرت در بازار منجر شود، اما بستگی به ثبات عرضه و قیمت دارد.",
-        "analyse_ar": "ارتداد واردات الهند من غرب آسيا يوضح أن الهند تسعى إلى تنويع مصادر النفط وتجنب الاعتماد على روسيا. هذا قد يخفف الضغط على الأسعار والعرض في السوق العالمية. ومع ذلك، زيادة الواردات من المناطق ذات المخاطر الجيوسياسية (مثل إيران) قد تسبب مشاكل جديدة. من جانبها، روسيا تفقد مشترٍ رئيسي، مما يدفعها إلى البحث عن أسواق بديلة. في المدى الطويل، هذا قد يؤدي إلى إعادة توزيع القوى في السوق، ولكن ذلك يعتمد على استقرار العرض والأسعار.",
-        "categorie": "Énergie",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/economy/news/india-s-west-asia-oil-imports-hit-pre-war-levels-russian-crude-falls-126102200409_1.html",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/07/thumb/fitandfill/1200X628/1783443178-2291.jpg",
-        "date": "2026-10-22",
-        "pays": "russie",
+        "id": "iran_760247",
+        "titre": "Iran accuse mines dans détroit d’Ormuz",
+        "titre_en": "Iran blames mines in Hormuz Strait",
+        "titre_zh": "伊朗指控霍尔木兹海峡布雷",
+        "titre_ru": "Иран утверждает: четыре танкера в проливе Ормуз подорвались на минах",
+        "titre_fa": "ایران ادعا می‌کند چهار کشتی در تنگه هرمز به مین برخورد کردند",
+        "titre_ar": "تؤكد إيران أن أربعة سفن استهدفت في مضيق هرمز بمضائق",
+        "titre_original": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+        "resume": "L’Iran affirme que quatre navires-citernes ont été endommagés par des mines dans le détroit stratégique d’Ormuz, alors que les tensions montent après les élections de mi-mandat aux États-Unis. Ces accusations surviennent dans un contexte de craintes accrues de frappes, notamment après les attaques des Houthis. Les États-Unis évaluent une nouvelle campagne militaire.",
+        "resume_en": "Iran claims four tankers were damaged by mines in the strategic Hormuz Strait, as tensions rise post-US midterm elections. Accusations follow heightened fears of strikes, including Houthi attacks. The US reportedly weighs a new military campaign.",
+        "resume_zh": "伊朗声称在战略性霍尔木兹海峡内四艘油轮遭到水雷袭击，美国中期选举后紧张局势升级。此指控在胡塞武装发动袭击后，加剧了对军事打击的担忧。美国可能考虑新一轮军事行动。",
+        "resume_ru": "Иран обвинил США в создании напряженности в регионе, заявив, что четыре танкера подорвались на минах в проливе Ормуз. Это произошло на фоне растущих опасений по поводу возможных новых ударов после выборов в США. Хутхи также провели атаки, что усилило тревогу по поводу возможного возобновления военных действий. США, по сообщениям, рассматривают новую военную кампанию.",
+        "resume_fa": "ایران به ایالات متحده در ایجاد تنش در منطقه متهم شده و ادعا می‌کند که چهار کشتی در تنگه هرمز به مین برخورد کردند. این اتفاق در حالی رخ داده که نگرانی‌ها در مورد احتمال حملات جدید پس از انتخابات میانه‌رو در آمریکا افزایش یافته است. هوثیان نیز حملات انجام داده‌اند که نگرانی از احتمال تجدید جنگ را افزایش داده است. گزارش شده که ایالات متحده در نظر دارد یک کمپین نظامی جدید را بررسی کند.",
+        "resume_ar": "تؤكد إيران على أن الولايات المتحدة هي المسؤولة عن ارتفاع التوتر في المنطقة، مشيرة إلى أن أربعة سفن استهدفت بمضائق في مضيق هرمز. هذا حدث في ظل زيادة المخاوف بشأن احتمال حملات جديدة بعد الانتخابات الأمريكية. قام الحوثيون أيضًا بالهجوم، مما زاد من القلق بشأن احتمال تجديد الأعمال العسكرية. يُقال إن الولايات المتحدة تدرس حملة عسكرية جديدة.",
+        "analyse_detaillee": "Le détroit d’Ormuz, cœur des flux pétroliers mondiaux, est un enjeu géostratégique majeur depuis des décennies. Les tensions actuelles s’inscrivent dans une escalade régionale liée à la crise iranienne et aux interventions américaines en Irak et Syrie. Les mines posées pourraient être une réponse iranienne aux sanctions et aux pressions militaires américaines. Court terme : risque accru de blocage du trafic maritime et de hausse des prix de l’énergie. Moyen terme : possible intervention militaire américaine ou israélienne, déclenchant une crise régionale. Long terme : une guerre ouverte pourrait redessiner les alliances au Moyen-Orient, avec un rôle accru de la Chine et de la Russie. L’Iran, isolé diplomatiquement, mise sur la dissuasion, tandis que les États-Unis cherchent à éviter une escalade totale. Les pays du Golfe, dépendants du transit pétrolier, sont particulièrement vulnérables.",
+        "analyse_en": "The Hormuz Strait, the heart of global oil flows, has been a major geostrategic issue for decades. Current tensions stem from regional escalation tied to Iran’s crisis and US interventions in Iraq and Syria. Mines laid could be Iran’s response to sanctions and US military pressure. Short-term: increased risk of maritime traffic blockades and energy price hikes. Medium-term: possible US or Israeli military intervention, sparking a regional crisis. Long-term: open warfare could redraw Middle Eastern alliances, with increased roles for China and Russia. Iran, diplomatically isolated, relies on deterrence, while the US seeks to avoid total escalation. Gulf countries, dependent on oil transit, are particularly vulnerable.",
+        "analyse_zh": "霍尔木兹海峡是全球石油运输的核心，多年来一直是重要的地缘战略要地。目前的紧张局势源于伊朗危机和美国在伊拉克、叙利亚的军事干预引发的地区升级。布雷可能是伊朗对美国制裁和军事压力的回应。短期：海上交通堵塞和能源价格上涨的风险增加。中期：美国或以色列可能进行军事干预，引发地区危机。长期：全面战争可能重新绘制中东盟友关系，中国和俄罗斯的作用增强。伊朗在外交上孤立，依赖威慑，而美国试图避免全面升级。依赖石油运输的海湾国家尤为脆弱。",
+        "analyse_ru": "Контекст: Пролив Ормуз — ключевой маршрут для нефтяных перевозок, его безопасность напрямую влияет на мировые цены на энергоносители. Причины: Эскалация напряженности между США и Ираном, геополитические интересы, месть за предыдущие атаки. Последствия: Возможные санкции против Ирана, рост цен на нефть, увеличение рисков для судоходства. Перспективы: США могут усилить давление на Иран через союзников в регионе. Позиции сторон: Иран отрицает свою причастность, США обвиняют Тегеран в дестабилизации, Хутхи поддерживают Иран, но действуют самостоятельно.",
+        "analyse_fa": "زمینه: تنگه هرمز یکی از مهم‌ترین مسیرهای حمل و نقل نفت است و امنیت آن مستقیماً بر قیمت‌های جهانی انرژی تأثیر می‌گذارد. علل: افزایش تنش بین ایالات متحده و ایران، منافع ژئوپولیتیکی و انتقام از حملات قبلی. پیامدها: ممکن است علیه ایران تحریم‌ها اعمال شود، قیمت نفت افزایش یابد و خطرات حمل و نقل دریایی افزایش یابد. چشم‌انداز: ایالات متحده ممکن است با استفاده از متحدان منطقه‌ای فشار خود را بر ایران افزایش دهد. موضع بازیگران: ایران انکار می‌کند که در این حملات دخیل باشد، ایالات متحده به تهران متهم به ایجاد عدم استقرار می‌کند، هوثیان از ایران حمایت می‌کنند اما مستقلاً عمل می‌کنند.",
+        "analyse_ar": "السياق: مضيق هرمز هو أحد أهم الممرات للنقل النفطي، حيث تؤثر أمنيته مباشرة على أسعار الطاقة العالمية. الأسباب: تصعيد التوتر بين الولايات المتحدة وإيران، المصالح الجيوسياسية، والانتقام من الهجمات السابقة. العواقب: قد تفرض عقوبات جديدة على إيران، وارتفاع أسعار النفط، وزيادة مخاطر الملاحة البحرية. الآفاق: قد تزيد الولايات المتحدة الضغط على إيران عبر حلفائها في المنطقة. مواقف الأطراف: ينكر إيران تورطه في هذه الهجمات، وتتهم الولايات المتحدة طهران بتدبير عدم الاستقرار، بينما يدعم الحوثيون إيران لكنه يعمل بشكل مستقل.",
+        "categorie": "Géopolitique",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793336240&w=1920&h=1080",
+        "date": "2026-10-30",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▼ Marché pétrolier spot (prix et liquidité)",
-            "hausse": false
+            "label": "▲ Marché pétrolier international",
+            "hausse": true
           },
           {
-            "label": "▲ Banques et institutions financières (risque géopolitique)",
+            "label": "▲ Assurance maritime et réassurance",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché pétrolier spot (prix et liquidité)",
-            "secteur_en": "Spot oil market (prices and liquidity)",
-            "secteur_zh": "现货原油市场（价格与流动性）",
-            "effet_fr": "La hausse des importations indiennes depuis l’Asie de l’Ouest pourrait exercer une pression à la baisse sur les prix du pétrole spot, surtout si les livraisons russes se réduisent davantage.",
-            "effet_en": "Increased Indian imports from West Asia could put downward pressure on spot oil prices, especially if Russian shipments continue to decline.",
-            "effet_zh": "印度从西亚进口量增加可能对现货油价施加下行压力，尤其是如果俄罗斯运输量进一步减少。",
-            "hausse": false
+            "secteur_fr": "Marché pétrolier international",
+            "secteur_en": "Global oil market",
+            "secteur_zh": "全球石油市场",
+            "effet_fr": "Les mines dans le détroit d’Ormuz pourraient provoquer une perturbation durable des approvisionnements, entraînant une hausse des prix et une volatilité accrue.",
+            "effet_en": "Mines in the Hormuz Strait could cause sustained supply disruptions, leading to price hikes and increased volatility.",
+            "effet_zh": "霍尔木兹海峡的水雷可能导致供应中断持续，引发价格上涨和市场波动加剧。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Banques et institutions financières (risque géopolitique)",
-            "secteur_en": "Banks and financial institutions (geopolitical risk)",
-            "secteur_zh": "银行和金融机构（地缘政治风险）",
-            "effet_fr": "Les transactions pétrolières diversifiées augmentent les risques pour les banques impliquées dans des échanges avec des pays sous sanctions, nécessitant des mécanismes de contournement complexes.",
-            "effet_en": "Diversified oil transactions increase risks for banks involved in trades with sanctioned countries, requiring complex circumvention mechanisms.",
-            "effet_zh": "多元化石油交易增加了银行参与制裁国贸易的风险，需要复杂的规避机制。",
+            "secteur_fr": "Assurance maritime et réassurance",
+            "secteur_en": "Marine insurance and reinsurance",
+            "secteur_zh": "海运保险和再保险",
+            "effet_fr": "Les assureurs pourraient exiger des primes majorées pour couvrir les risques accrus dans la région, limitant ainsi l’activité maritime commerciale.",
+            "effet_en": "Insurers may demand higher premiums to cover increased regional risks, limiting maritime commercial activity.",
+            "effet_zh": "保险公司可能要求提高保费以覆盖地区风险上升，从而限制海运商业活动。",
             "hausse": true
           }
         ],
-        "created_at": "2026-10-23T06:59:55.280566"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-10-31T06:39:55.611327"
+      },
       {
         "id": "iran_738541",
         "titre": "Houthis attaquent six aéroports et installations pétrolières saoudiennes",
@@ -6070,129 +6129,10 @@
           }
         ],
         "created_at": "2026-10-20T14:41:23.864724"
-      },
-      {
-        "id": "iran_980778",
-        "titre": "IRGC affirme mine frappée dans détroit d'Ormuz",
-        "titre_en": "IRGC claims mine strike in Strait of Hormuz",
-        "titre_zh": "伊朗革命卫队声称在霍尔木兹海峡击沉水雷",
-        "titre_ru": "ИРГА сообщила о столкновении танкера с миной в проливе Ормуз",
-        "titre_fa": "گارد انقلاب ایران اعلام کرد که یک ناوگان نفت با یک مین در تنگه هرمز برخورد کرد",
-        "titre_ar": "أعلنت الحرس الثوري الإيراني عن اصطدام ناقلة نفط بمينة في مضيق هرمز",
-        "titre_original": "IRGC Says Oil Tanker Strikes Mine in Strait of Hormuz - Reports",
-        "resume": "L’IRC (Corps des Gardiens de la Révolution iranienne) affirme qu’un pétrolier a heurté une mine dans le détroit stratégique d’Ormuz, un passage clé pour le commerce mondial. Les médias iraniens, cités par Reuters, évoquent une action de représailles contre les pressions occidentales. Ce nouvel incident pourrait intensifier les tensions avec les États-Unis et leurs alliés dans la région.",
-        "resume_en": "The IRGC claims a tanker struck a mine in the strategic Strait of Hormuz, a key passage for global trade. Iranian media, cited by Reuters, suggest this is a retaliatory action against Western pressures. This new incident could escalate tensions with the US and its regional allies.",
-        "resume_zh": "伊朗革命卫队声称一艘油轮在霍尔木兹海峡触雷，这是全球贸易的关键通道。伊朗媒体称，此举是对西方压力的报复。这一新事件可能加剧与美国及其地区盟友的紧张关系。",
-        "resume_ru": "Исламская революционная гвардия (ИРГ) заявила, что танкер столкнулся с миной в узком проливе Ормуз, сообщают агентства, ссылаясь на иранские СМИ. Инцидент произошел в стратегически важном регионе, где регулярно происходят столкновения между кораблями США и Ирана. По данным Reuters, детали происшествия пока не уточнены, но это может свидетельствовать о продолжающейся эскалации напряженности в регионе.",
-        "resume_fa": "گارد انقلاب اسلامی (گارد انقلاب) اعلام کرد که یک کشتی نفت‌کش با یک مین در تنگه هرمز برخورد کرد، به گزارش خبرگزاری رایتر که به منابع ایرانی استناد کرده است. این حادثه در منطقه‌ای استراتژیک رخ داده که در آن به‌طور مرتب تصادفات بین کشتی‌های آمریکا و ایران رخ می‌دهد. جزئیات دقیق این حادثه هنوز مشخص نشده است، اما ممکن است نشان‌دهنده ادامه افزایش تنش در منطقه باشد.",
-        "resume_ar": "أعلنت الحرس الثوري الإيراني عن اصطدام ناقلة نفط بمينة في مضيق هرمز، حسبما نقلت وكالة رويتر عن مصادر إيرانية. وقع الحادث في منطقة استراتيجية حيث تحدث باستمرار تصادمات بين السفن الأمريكية والإيرانية. لم يتم تحديد تفاصيل الحادث بدقة حتى الآن، لكن قد يشير إلى استمرار تصعيد التوتر في المنطقة.",
-        "analyse_detaillee": "Le détroit d’Ormuz est un point de friction historique entre Téhéran et Washington, marqué par des incidents similaires depuis 2019. Les enjeux incluent la sécurité énergétique mondiale et le contrôle des routes maritimes stratégiques. Les causes profondes sont les sanctions américaines et l’isolement diplomatique de l’Iran, poussant Téhéran à des actions provocatrices. À court terme, cela pourrait déclencher une escalade militaire indirecte et des réactions des pays du Golfe. À moyen terme, les prix du pétrole pourraient fluctuer en raison des incertitudes géopolitiques, tandis qu’à long terme, une guerre ouverte serait à craindre. Les États-Unis et l’UE doivent trouver un équilibre entre pression diplomatique et évitement d’un conflit direct.",
-        "analyse_en": "The Strait of Hormuz is a historical flashpoint between Tehran and Washington, marked by similar incidents since 2019. Key stakes include global energy security and control of strategic maritime routes. Root causes lie in US sanctions and Iran’s diplomatic isolation, pushing Tehran to provocative actions. Short-term, this could trigger an indirect military escalation and Gulf states’ reactions. Medium-term, oil prices could fluctuate due to geopolitical uncertainties, while long-term, an open war is a risk. The US and EU must balance diplomatic pressure and avoid direct conflict.",
-        "analyse_zh": "霍尔木兹海峡自2019年以来一直是美伊之间的紧张点，此前发生过类似事件。主要影响包括全球能源安全和对战略海上通道的控制。深层原因在于美国制裁和伊朗外交孤立，迫使德黑兰采取挑衅行动。短期内，这可能引发间接军事升级和海湾国家的反应。中期内，石油价格可能因地缘政治不确定性而波动，而长期内则可能面临全面战争的风险。美国和欧盟必须在外交施压和避免直接冲突之间寻求平衡。",
-        "analyse_ru": "Столкновение танкера с миной в проливе Ормуз — это очередной шаг в эскалации напряженности между Ираном и Западом, особенно после недавних инцидентов с атаками на корабли в Красном море. ИРГ, вероятно, использует этот инцидент для демонстрации своей способности контролировать ключевые морские пути, что может вынудить США и союзников пересмотреть свою стратегию в регионе. Запад может ответить ужесточением санкций или увеличением военного присутствия в Персидском заливе. В долгосрочной перспективе это может привести к новому раунду переговоров по ядерной программе Ирана, но без гарантий безопасности для судоходства риски столкновений останутся высокими.",
-        "analyse_fa": "برخورد کشتی نفت‌کش با مین در تنگه هرمز یک قدم دیگر در افزایش تنش بین ایران و غرب، به ویژه پس از حوادث اخیر حمله به کشتی‌ها در دریای سرخ، است. گارد انقلاب احتمالاً از این حادثه برای نشان دادن توانایی کنترل مسیرهای دریایی کلیدی استفاده می‌کند، که ممکن است باعث شود آمریکا و متحدان خود استراتژی خود در منطقه را بازبینی کنند. غرب ممکن است با تشدید تحریم‌ها یا افزایش حضور نظامی در خلیج فارس پاسخ دهد. در بلندمدت، این ممکن است منجر به یک دور جدید از مذاکرات در مورد برنامه هسته‌ای ایران شود، اما بدون تضمین امنیت برای کشتی‌ها، خطر تصادفات همچنان بالا خواهد بود.",
-        "analyse_ar": "قد يكون اصطدام ناقلة النفط بمينة في مضيق هرمز خطوة أخرى في تصعيد التوتر بين إيران والغرب، خاصة بعد من حوادث الهجوم على السفن في البحر الأحمر. قد تستخدم الحرس الثوري هذا الحادث لتوضيح قدرتها على السيطرة على الممرات البحرية الحيوية، مما قد يجبر الولايات المتحدة وأليافها على إعادة النظر في استراتيجيتهم في المنطقة. قد يرد الغرب بتشديد العقوبات أو زيادة الوجود العسكري في الخليج العربي. على المدى الطويل، قد يؤدي هذا إلى دور جديد من المفاوضات حول برنامج إيران النووي، لكن بدون ضمانات للأمن الملاحي، سيبقى خطر الاصطدامات مرتفعاً.",
-        "categorie": "Géopolitique",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20261019/irgc-says-oil-tanker-strikes-mine-in-strait-of-hormuz---reports-1124899608.html",
-        "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124899608.jpg?11240097551792385021",
-        "date": "2026-10-19",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché pétrolier brut (Brent, WTI)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurance maritime (P&I Clubs)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier brut (Brent, WTI)",
-            "secteur_en": "Crude oil market (Brent, WTI)",
-            "secteur_zh": "原油市场（布伦特、WTI）",
-            "effet_fr": "Les tensions dans le détroit pourraient provoquer une hausse des prix du pétrole en raison des craintes d’interruptions d’approvisionnement, affectant les économies dépendantes des énergies fossiles.",
-            "effet_en": "Tensions in the strait could drive up oil prices due to fears of supply disruptions, impacting fossil-fuel-dependent economies.",
-            "effet_zh": "海峡紧张局势可能导致石油价格上涨，因为担心供应中断，影响依赖化石能源的经济体。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurance maritime (P&I Clubs)",
-            "secteur_en": "Marine insurance (P&I Clubs)",
-            "secteur_zh": "海运保险（P&I俱乐部）",
-            "effet_fr": "Les assureurs maritimes pourraient augmenter les primes pour couvrir les risques accrus dans la région, notamment pour les navires transitant par le détroit d’Ormuz.",
-            "effet_en": "Marine insurers may raise premiums to cover increased risks in the region, particularly for ships transiting the Strait of Hormuz.",
-            "effet_zh": "海运保险公司可能会提高保费以覆盖地区风险增加，特别是对于通过霍尔木兹海峡的船只。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-20T03:29:25.771790"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_enfants_938383",
-      "titre": "Sénat adopte imprescriptibilité crimes mineurs",
-      "titre_en": "Senate approves non-statute-of-limitation",
-      "titre_zh": "参议院通过未成年人性犯罪无时效",
-      "titre_ru": "Сенат одобрил безсрочность преследования сексуальных преступлений против детей",
-      "titre_fa": "سنات فرانسه بی‌مدت بودن جرایم جنسی علیه کودکان را تصویب کرد",
-      "titre_ar": "المجلس الأعلى الفرنسي يوافق على عدم صلاحية الجرائم الجنسية ضد الأطفال",
-      "titre_original": "Le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
-      "resume": "Le Sénat français a voté mercredi pour rendre imprescriptibles les crimes sexuels commis sur des mineurs, une mesure inspirée du statut déjà appliqué aux crimes contre l’humanité. Cette décision marque une avancée majeure dans la lutte contre l’impunité des agresseurs, mais soulève des questions sur son application pratique et son coût juridique. Le texte doit encore être examiné par l’Assemblée nationale avant une éventuelle promulgation.",
-      "resume_en": "France’s Senate voted Wednesday to make sexual crimes against minors non-statutory, mirroring the existing rule for crimes against humanity. This landmark move aims to end impunity for offenders but raises concerns over legal enforcement and financial burdens. The bill now awaits Assembly review before potential enactment.",
-      "resume_zh": "法国参议院周三通过了对未成年人实施的性犯罪无时效规定，这与现有的针对反人类罪的规定类似。这一重大举措旨在打击加害者的免责，但也引发了执法实施和财政负担的疑问。该法案将提交国民议会进一步审议，才可能生效。",
-      "resume_ru": "В среду сенаторы Франции единогласно проголосовали за отмену сроков давности по преступлениям сексуального насилия над несовершеннолетними. Ранее такое правило применялось только к преступлениям против человечества. Реформа должна облегчить возбуждение дел по давним случаям насилия над детьми.",
-      "resume_fa": "سناتورهای فرانسه در سه‌شنبه با تصویب بی‌مدت بودن جرایم جنسی علیه کودکان موافقت کردند. این قانون پیشتر فقط برای جرایم علیه بشریت اعمال می‌شد. اصلاحیه باید به شکایت از موارد قدیمی خشونت جنسی علیه کودکان کمک کند.",
-      "resume_ar": "أقر مجلس الشيوخ الفرنسي يوم الثلاثاء عدم صلاحية الجرائم الجنسية ضد الأطفال، مما يمتد هذا الاستثناء الذي كان سابقاً مقصوراً على جرائم ضد الإنسانية. تهدف هذه الإصلاحات إلى تسهيل رفع دعاوى ضد حالات قديمة من العنف الجنسي ضد الأطفال.",
-      "analyse_detaillee": "Cette décision s’inscrit dans une dynamique internationale croissante pour protéger les victimes de violences sexuelles, comme en Australie ou au Canada. Les crimes sexuels sur mineurs étaient jusqu’ici soumis à un délai de 20 ans en France, une limite jugée insuffisante par les associations de victimes. Le texte vise à renforcer la confiance dans la justice, mais son application pourrait saturer les tribunaux et augmenter les coûts pour l’État. À moyen terme, cela pourrait inciter d’autres pays à revoir leurs législations. Les associations féministes saluent cette avancée, tandis que les partis de droite craignent un affaiblissement des garanties procédurales. Les avocats spécialisés anticipent une hausse des plaintes retardées, nécessitant des réformes structurelles.",
-      "analyse_en": "This move aligns with a global trend to protect victims of sexual violence, following precedents in Australia and Canada. Previously, France’s statute of limitations for child sexual crimes was 20 years, deemed inadequate by victims’ groups. The law aims to restore trust in justice but risks overwhelming courts and increasing state costs. Mid-term, it may prompt other nations to revise their own laws. Feminist groups praise the progress, while right-wing parties fear procedural safeguards could weaken. Specialized lawyers expect delayed complaints to surge, demanding structural reforms.",
-      "analyse_zh": "此举符合全球保护性暴力受害者的趋势，澳大利亚和加拿大已先行立法。法国此前对未成年人性犯罪设有20年诉讼时效，受害者组织认为不足以应对案件。新法旨在增强司法公信力，但可能导致法庭负担加重和国家支出上升。中期内，其他国家可能效仿修法。女性主义团体称赞这一进步，而右翼政党担忧程序保障可能被削弱。专业律师预计延迟起诉案件将激增，需要体制性改革。",
-      "analyse_ru": "Принятие закона отражает растущую озабоченность обществом проблемой насилия над детьми, которое часто остаётся безнаказанным из-за истечения сроков давности. Критики отмечают, что это шаг к справедливости для жертв, но оппоненты опасаются возможного злоупотребления и увеличения числа ложных обвинений. С другой стороны, эксперты подчёркивают, что безнаказанность насильников над детьми подрывает доверие в обществе. В перспективе закон может повлиять на международные стандарты борьбы с преступлениями против несовершеннолетних. Однако его реализация потребует усиления психологической поддержки для пострадавших и совершенствования механизмов расследования.",
-      "analyse_fa": "تصویب این قانون نشان‌دهنده نگرانی روزافزون جامعه در مورد خشونت علیه کودکان است که اغلب به دلیل منقضی شدن مدت زمان مجازات بدون مجازات باقی می‌ماند. منتقدان این گام را به سوی عدالت برای قربانیان می‌دانند، اما مخالفان از خطر سوءاستفاده و افزایش اتهامات کاذب نگران هستند. از سوی دیگر، متخصصان تأکید می‌کنند که بی‌عدالتی در برابر مجرمین جنسی علیه کودکان اعتماد عمومی را زیر سؤال می‌برد. در آینده، این قانون ممکن است بر استانداردهای بین‌المللی مبارزه با جرایم علیه کودکان تأثیر بگذارد. اما اجرای آن نیاز به تقویت حمایت روانشناختی برای قربانیان و بهبود مکانیسم‌های تحقیق دارد.",
-      "analyse_ar": "تعديل القانون يعكس قلق المجتمع المتزايد بشأن العنف الجنسي ضد الأطفال، الذي غالبًا ما يبقى دون عقاب بسبب انقضاء المواعيد القانونية. يلاحظ النقاد أن هذا الخطوة نحو العدالة للقضاة، لكن المعارضون يخشون من احتمالية الاستغلال والاتهامات الكاذبة. من ناحية أخرى، يؤكد الخبراء أن عدم العقاب للمجرمين ضد الأطفال يهدد الثقة العامة. في المستقبل، قد يؤثر القانون على المعايير الدولية لمكافحة الجرائم ضد الأطفال. ومع ذلك، ستحتاج التنفيذ إلى تعزيز الدعم النفسي للقضاة وتحسين آليات التحقيق.",
-      "categorie": "Droit et Société",
-      "source": "Lalibre.be",
-      "url": "https://www.lalibre.be/international/europe/2026/10/29/le-senat-approuve-limprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs-E2IJOANM5ZDANIQLMQHNSAHESE/",
-      "image": "https://www.lalibre.be/resizer/v2/KCZ5UZVAA5EALDIXIW6ZPLR3IM.jpg?auth=cd6f7efb91568b15c83c108bbe433d17cd856b71fbf7ea48569a775924206d38&width=1200&height=630&quality=85&focal=3569%2C2380",
-      "date": "2026-10-29",
-      "pays": "pol_enfants",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile professionnelle (RC Pro)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Fonds de garantie des victimes (FGV)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile professionnelle (RC Pro)",
-          "secteur_en": "Professional liability insurance (PLI)",
-          "secteur_zh": "专业责任保险（PLI）",
-          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter pour couvrir les risques juridiques accrus liés aux plaintes tardives.",
-          "effet_en": "Insurers may raise premiums to cover heightened legal risks from delayed complaints.",
-          "effet_zh": "保险公司可能提高保费以应对延迟起诉带来的法律风险增加。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de garantie des victimes (FGV)",
-          "secteur_en": "Victims' compensation fund (VCF)",
-          "secteur_zh": "受害者赔偿基金（VCF）",
-          "effet_fr": "Le fonds devra probablement allouer davantage de ressources pour indemniser les victimes dont les délais de prescription ont été prolongés.",
-          "effet_en": "The fund will likely need to allocate more resources to compensate victims whose statute-of-limitation periods have been extended.",
-          "effet_zh": "该基金可能需要额外资源赔偿时效延长后的受害者。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-10-31T00:24:54.662022",
-      "sous_categorie": "enfants"
-    },
     {
       "id": "pol_femmes_709038",
       "titre": "Golino dénonce minimisation des féminicides",
@@ -6552,6 +6492,66 @@
       ],
       "created_at": "2026-10-28T04:05:56.162659",
       "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_enfants_938383",
+      "titre": "Sénat adopte imprescriptibilité crimes mineurs",
+      "titre_en": "Senate approves non-statute-of-limitation",
+      "titre_zh": "参议院通过未成年人性犯罪无时效",
+      "titre_ru": "Сенат одобрил безсрочность преследования сексуальных преступлений против детей",
+      "titre_fa": "سنات فرانسه بی‌مدت بودن جرایم جنسی علیه کودکان را تصویب کرد",
+      "titre_ar": "المجلس الأعلى الفرنسي يوافق على عدم صلاحية الجرائم الجنسية ضد الأطفال",
+      "titre_original": "Le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
+      "resume": "Le Sénat français a voté mercredi pour rendre imprescriptibles les crimes sexuels commis sur des mineurs, une mesure inspirée du statut déjà appliqué aux crimes contre l’humanité. Cette décision marque une avancée majeure dans la lutte contre l’impunité des agresseurs, mais soulève des questions sur son application pratique et son coût juridique. Le texte doit encore être examiné par l’Assemblée nationale avant une éventuelle promulgation.",
+      "resume_en": "France’s Senate voted Wednesday to make sexual crimes against minors non-statutory, mirroring the existing rule for crimes against humanity. This landmark move aims to end impunity for offenders but raises concerns over legal enforcement and financial burdens. The bill now awaits Assembly review before potential enactment.",
+      "resume_zh": "法国参议院周三通过了对未成年人实施的性犯罪无时效规定，这与现有的针对反人类罪的规定类似。这一重大举措旨在打击加害者的免责，但也引发了执法实施和财政负担的疑问。该法案将提交国民议会进一步审议，才可能生效。",
+      "resume_ru": "В среду сенаторы Франции единогласно проголосовали за отмену сроков давности по преступлениям сексуального насилия над несовершеннолетними. Ранее такое правило применялось только к преступлениям против человечества. Реформа должна облегчить возбуждение дел по давним случаям насилия над детьми.",
+      "resume_fa": "سناتورهای فرانسه در سه‌شنبه با تصویب بی‌مدت بودن جرایم جنسی علیه کودکان موافقت کردند. این قانون پیشتر فقط برای جرایم علیه بشریت اعمال می‌شد. اصلاحیه باید به شکایت از موارد قدیمی خشونت جنسی علیه کودکان کمک کند.",
+      "resume_ar": "أقر مجلس الشيوخ الفرنسي يوم الثلاثاء عدم صلاحية الجرائم الجنسية ضد الأطفال، مما يمتد هذا الاستثناء الذي كان سابقاً مقصوراً على جرائم ضد الإنسانية. تهدف هذه الإصلاحات إلى تسهيل رفع دعاوى ضد حالات قديمة من العنف الجنسي ضد الأطفال.",
+      "analyse_detaillee": "Cette décision s’inscrit dans une dynamique internationale croissante pour protéger les victimes de violences sexuelles, comme en Australie ou au Canada. Les crimes sexuels sur mineurs étaient jusqu’ici soumis à un délai de 20 ans en France, une limite jugée insuffisante par les associations de victimes. Le texte vise à renforcer la confiance dans la justice, mais son application pourrait saturer les tribunaux et augmenter les coûts pour l’État. À moyen terme, cela pourrait inciter d’autres pays à revoir leurs législations. Les associations féministes saluent cette avancée, tandis que les partis de droite craignent un affaiblissement des garanties procédurales. Les avocats spécialisés anticipent une hausse des plaintes retardées, nécessitant des réformes structurelles.",
+      "analyse_en": "This move aligns with a global trend to protect victims of sexual violence, following precedents in Australia and Canada. Previously, France’s statute of limitations for child sexual crimes was 20 years, deemed inadequate by victims’ groups. The law aims to restore trust in justice but risks overwhelming courts and increasing state costs. Mid-term, it may prompt other nations to revise their own laws. Feminist groups praise the progress, while right-wing parties fear procedural safeguards could weaken. Specialized lawyers expect delayed complaints to surge, demanding structural reforms.",
+      "analyse_zh": "此举符合全球保护性暴力受害者的趋势，澳大利亚和加拿大已先行立法。法国此前对未成年人性犯罪设有20年诉讼时效，受害者组织认为不足以应对案件。新法旨在增强司法公信力，但可能导致法庭负担加重和国家支出上升。中期内，其他国家可能效仿修法。女性主义团体称赞这一进步，而右翼政党担忧程序保障可能被削弱。专业律师预计延迟起诉案件将激增，需要体制性改革。",
+      "analyse_ru": "Принятие закона отражает растущую озабоченность обществом проблемой насилия над детьми, которое часто остаётся безнаказанным из-за истечения сроков давности. Критики отмечают, что это шаг к справедливости для жертв, но оппоненты опасаются возможного злоупотребления и увеличения числа ложных обвинений. С другой стороны, эксперты подчёркивают, что безнаказанность насильников над детьми подрывает доверие в обществе. В перспективе закон может повлиять на международные стандарты борьбы с преступлениями против несовершеннолетних. Однако его реализация потребует усиления психологической поддержки для пострадавших и совершенствования механизмов расследования.",
+      "analyse_fa": "تصویب این قانون نشان‌دهنده نگرانی روزافزون جامعه در مورد خشونت علیه کودکان است که اغلب به دلیل منقضی شدن مدت زمان مجازات بدون مجازات باقی می‌ماند. منتقدان این گام را به سوی عدالت برای قربانیان می‌دانند، اما مخالفان از خطر سوءاستفاده و افزایش اتهامات کاذب نگران هستند. از سوی دیگر، متخصصان تأکید می‌کنند که بی‌عدالتی در برابر مجرمین جنسی علیه کودکان اعتماد عمومی را زیر سؤال می‌برد. در آینده، این قانون ممکن است بر استانداردهای بین‌المللی مبارزه با جرایم علیه کودکان تأثیر بگذارد. اما اجرای آن نیاز به تقویت حمایت روانشناختی برای قربانیان و بهبود مکانیسم‌های تحقیق دارد.",
+      "analyse_ar": "تعديل القانون يعكس قلق المجتمع المتزايد بشأن العنف الجنسي ضد الأطفال، الذي غالبًا ما يبقى دون عقاب بسبب انقضاء المواعيد القانونية. يلاحظ النقاد أن هذا الخطوة نحو العدالة للقضاة، لكن المعارضون يخشون من احتمالية الاستغلال والاتهامات الكاذبة. من ناحية أخرى، يؤكد الخبراء أن عدم العقاب للمجرمين ضد الأطفال يهدد الثقة العامة. في المستقبل، قد يؤثر القانون على المعايير الدولية لمكافحة الجرائم ضد الأطفال. ومع ذلك، ستحتاج التنفيذ إلى تعزيز الدعم النفسي للقضاة وتحسين آليات التحقيق.",
+      "categorie": "Droit et Société",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/international/europe/2026/10/29/le-senat-approuve-limprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs-E2IJOANM5ZDANIQLMQHNSAHESE/",
+      "image": "https://www.lalibre.be/resizer/v2/KCZ5UZVAA5EALDIXIW6ZPLR3IM.jpg?auth=cd6f7efb91568b15c83c108bbe433d17cd856b71fbf7ea48569a775924206d38&width=1200&height=630&quality=85&focal=3569%2C2380",
+      "date": "2026-10-29",
+      "pays": "pol_enfants",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile professionnelle (RC Pro)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Fonds de garantie des victimes (FGV)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile professionnelle (RC Pro)",
+          "secteur_en": "Professional liability insurance (PLI)",
+          "secteur_zh": "专业责任保险（PLI）",
+          "effet_fr": "Les assureurs pourraient voir leurs primes augmenter pour couvrir les risques juridiques accrus liés aux plaintes tardives.",
+          "effet_en": "Insurers may raise premiums to cover heightened legal risks from delayed complaints.",
+          "effet_zh": "保险公司可能提高保费以应对延迟起诉带来的法律风险增加。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de garantie des victimes (FGV)",
+          "secteur_en": "Victims' compensation fund (VCF)",
+          "secteur_zh": "受害者赔偿基金（VCF）",
+          "effet_fr": "Le fonds devra probablement allouer davantage de ressources pour indemniser les victimes dont les délais de prescription ont été prolongés.",
+          "effet_en": "The fund will likely need to allocate more resources to compensate victims whose statute-of-limitation periods have been extended.",
+          "effet_zh": "该基金可能需要额外资源赔偿时效延长后的受害者。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-10-31T00:24:54.662022",
+      "sous_categorie": "enfants"
     },
     {
       "id": "pol_enfants_549919",
