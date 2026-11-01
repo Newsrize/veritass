@@ -1,7 +1,66 @@
 {
-  "last_updated": "01/11/2026 à 08h45",
+  "last_updated": "01/11/2026 à 15h47",
   "articles": {
     "monde": [
+      {
+        "id": "monde_657123",
+        "titre": "Droits des détenus : victoire pour les hugs familiaux",
+        "titre_en": "Prisoners win right to family hugs",
+        "titre_zh": "监狱囚犯获准家庭拥抱权",
+        "titre_ru": "Incarcerated LA Youth Fought for the Right to Hug Their Parents — and Won",
+        "titre_fa": "Incarcerated LA Youth Fought for the Right to Hug Their Parents — and Won",
+        "titre_ar": "Incarcerated LA Youth Fought for the Right to Hug Their Parents — and Won",
+        "titre_original": "Incarcerated LA Youth Fought for the Right to Hug Their Parents — and Won",
+        "resume": "Des militants ont obtenu la reconnaissance légale du droit des jeunes détenus à embrasser ou serrer leurs parents lors des visites. Cette décision s’inscrit dans une dynamique plus large de réduction des conditions carcérales. Les activistes espèrent désormais étendre ces droits à une décarcération plus large, notamment pour les mineurs.",
+        "resume_en": "Activists secured legal recognition of juveniles’ right to hug or embrace parents during prison visits. This follows broader efforts to improve prison conditions. Advocates now push for broader decarceration, especially for minors.",
+        "resume_zh": "活动家成功争取到青少年囚犯在探视期间与家人拥抱的法律权利。这一决定是缩减监狱条件努力的一部分。活动家现在推动更广泛的减刑，特别是针对未成年人。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette victoire s’inscrit dans un contexte de remise en question des systèmes carcéraux jugés excessivement punitifs, notamment en Amérique du Nord. Les causes profondes incluent une prise de conscience croissante des traumatismes liés à l’incarcération précoce et des études montrant son inefficacité en matière de réinsertion. À court terme, cette décision pourrait inspirer d’autres pays à adopter des mesures similaires, réduisant ainsi les tensions familiales liées à la détention. À moyen terme, cela pourrait accélérer les réformes pénales, comme la réduction des peines pour mineurs ou l’augmentation des alternatives aux prisons. Long terme, une telle approche pourrait contribuer à une refonte globale des politiques de justice pénale, centrée sur la réparation plutôt que la punition.",
+        "analyse_en": "This victory reflects growing criticism of punitive prison systems, particularly in North America. Root causes include rising awareness of the trauma from early incarceration and evidence of its inefficacy in rehabilitation. Short-term, this may inspire other countries to adopt similar measures, easing family tensions from detention. Medium-term, it could accelerate penal reforms, like reduced sentences for minors or expanded prison alternatives. Long-term, this approach may drive a broader overhaul of criminal justice policies, focusing on restitution over punishment.",
+        "analyse_zh": "这一胜利反映了对过度惩罚性监狱体系的批评，特别是在北美地区。深层原因包括对早期监禁造成创伤的认识增加，以及其在复原方面无效性的证据。短期内，这可能鼓励其他国家采取类似措施，减轻监禁带来的家庭紧张。中期内，这可能加速刑事改革，如减少未成年人刑期或扩大监狱替代措施。长期来看，这种方法可能推动刑事司法政策的全面改革，强调赔偿而非惩罚。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Société",
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/incarcerated-la-youth-fought-for-the-right-to-hug-their-parents-and-won/",
+        "image": "https://truthout.org/app/uploads/2026/10/GettyImages-1628181819-scaled.jpg",
+        "date": "2026-10-31",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Fonds de réinsertion sociale",
+            "hausse": true
+          },
+          {
+            "label": "▼ Assurances responsabilité civile",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Fonds de réinsertion sociale",
+            "secteur_en": "Social reintegration funds",
+            "secteur_zh": "社会重返基金",
+            "effet_fr": "Les décisions judiciaires favorisant les contacts familiaux pourraient augmenter les dépenses allouées à ces fonds, renforçant les programmes de prévention de la récidive.",
+            "effet_en": "Judicial decisions favoring family contact may boost spending on these funds, strengthening recidivism prevention programs.",
+            "effet_zh": "支持家庭接触的司法决定可能增加对这些基金的投入，加强预防重犯的项目。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Assurances responsabilité civile",
+            "secteur_en": "Civil liability insurance",
+            "secteur_zh": "民事责任保险",
+            "effet_fr": "Les réformes carcérales pourraient réduire les risques de litiges liés aux conditions de détention, limitant ainsi les primes d’assurance.",
+            "effet_en": "Prison reforms may reduce litigation risks over detention conditions, lowering insurance premiums.",
+            "effet_zh": "监狱改革可能减少与拘留条件相关的诉讼风险，从而降低保险费用。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-01T15:46:45.627874"
+      },
       {
         "id": "monde_18575",
         "titre": "Erdoğan renforce l’unité des États turciques",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-25T14:50:28.100145"
-      },
-      {
-        "id": "monde_543726",
-        "titre": "Démocrates accusés de persister dans leurs positions radicales",
-        "titre_en": "Democrats still cling to far-left positions",
-        "titre_zh": "民主党仍坚持极左立场",
-        "titre_ru": "Как смотреть матч «Ол-Мисс» против «Техаса» по футболу NCAA сегодня вечером",
-        "titre_fa": "چگونه می‌توانید بازی فوتبال دانشگاهی «اول میس» مقابل «تگزاس» امشب را تماشا کنید",
-        "titre_ar": "كيفية مشاهدة مباراة كرة القدم الجامعية بين أول ميس وتكساس الليلة",
-        "titre_original": "Ole Miss vs. Texas: How to watch tonight's NCAA college football game, where to stream and more",
-        "resume": "Lors d’une émission de HBO, Bill Maher a affirmé que les démocrates ne renoncent pas à leurs idéaux de gauche radicale. Il souligne que les républicains n’ont pas de contre-argument solide face à cette ligne politique. Cette déclaration reflète un clivage idéologique persistant aux États-Unis.",
-        "resume_en": "On HBO’s *Real Time*, Bill Maher claimed Democrats haven’t abandoned their far-left stances. He argued Republicans lack effective counterarguments to this ideological stance. The statement underscores deepening political polarization in the U.S.",
-        "resume_zh": "在HBO节目中，比尔·马赫尔表示民主党仍未放弃极左立场。他指出共和党缺乏有效的反驳。这一言论反映了美国政治的深度分裂。",
-        "resume_ru": "Сегодня вечером состоится важный матч NCAA между командой «Ол-Мисс» и «Техасом». Фанаты смогут смотреть трансляцию в прямом эфире через различные платформы стриминга. Подробности о времени и способах просмотра доступны на специализированных сайтах.",
-        "resume_fa": "امشب بازی فوتبال دانشگاهی بین تیم اول میس و تگزاس برگزار می‌شود. علاقه‌مندان می‌توانند این بازی را از طریق پلتفرم‌های مختلف استریم در நேர واقعی تماشا کنند. اطلاعات دقیق در مورد زمان و روش‌های تماشا در سایت‌های تخصصی موجود است.",
-        "resume_ar": "سيتم لعب مباراة كرة القدم الجامعية بين فريق أول ميس وتكساس الليلة. يمكن للمشجعين مشاهدة المباراة مباشرة عبر منصات مختلفة للستريم. تفاصيل الوقت والطرق المتاحة لمشاهدة المباراة متوفرة على مواقع متخصصة.",
-        "analyse_detaillee": "Ce débat s’inscrit dans un contexte de radicalisation politique croissante aux États-Unis, où les deux partis cherchent à définir leur identité face à une base électorale de plus en plus polarisée. Les enjeux portent sur la gouvernance économique (taxes, redistribution) et les valeurs sociétales (avortement, droits LGBTQ+), thèmes souvent instrumentalisés pour mobiliser les électeurs. Les causes profondes incluent la fragmentation médiatique et la montée des réseaux sociaux, qui amplifient les discours extrêmes. À court terme, cette polarisation pourrait bloquer les réformes bipartites, comme les infrastructures ou la santé. À moyen terme, elle risque d’affaiblir la cohésion sociale et d’accélérer la fragmentation partisane. Long terme, elle pourrait mener à une fragmentation électorale durable, avec des candidats de plus en plus marginalisés aux extrêmes. Les démocrates, divisés entre modérés et progressistes, peinent à trouver un consensus, tandis que les républicains misent sur une rhétorique anti-système pour unifier leur base.",
-        "analyse_en": "This debate occurs amid rising political polarization in the U.S., where both parties struggle to define their identity against an increasingly divided electorate. Key issues include economic governance (taxes, redistribution) and societal values (abortion, LGBTQ+ rights), often weaponized to mobilize voters. Root causes involve media fragmentation and the rise of social media, which amplify extremist rhetoric. Short-term, polarization may stall bipartisan reforms like infrastructure or healthcare. Medium-term, it risks eroding social cohesion and accelerating partisan fragmentation. Long-term, it could lead to lasting electoral fragmentation, with candidates increasingly marginalized at the extremes. Democrats, split between moderates and progressives, struggle for consensus, while Republicans rely on anti-establishment rhetoric to unify their base.",
-        "analyse_zh": "此争论发生在美国政治极化日益加剧的背景下，两党都在努力定义自身在日益分裂的选民中的身份。主要议题包括经济治理（税收、再分配）和社会价值观（堕胎、LGBTQ+权利），这些议题经常被用来动员选民。深层原因包括媒体碎片化和社交媒体的兴起，后者放大了极端言论。短期内，极化可能阻碍基础设施和医疗保健等跨党派改革。中期内，它可能削弱社会凝聚力并加速党派分裂。长期来看，可能导致持久的选举分裂，边缘化极端派候选人。民主党在温和派和进步派之间分裂，难以达成共识，而共和党则依赖反体制的言论来团结其基层。",
-        "analyse_ru": "Матч между «Ол-Мисс» и «Техасом» — это ключевой поединок в сезоне NCAA, который может повлиять на турнирную таблицу и шансы команд на выход в плей-офф. «Техас», известный своей агрессивной тактикой, столкнётся с молодой, но амбициозной командой «Ол-Мисс», которая стремится доказать свою состоятельность. Победа здесь может стать катализатором для обоих коллективов, но также подчеркнёт разницу в опыте и подготовке. Спортивные аналитики ожидают напряжённого сражения, где каждая ошибка может решить исход игры. В то время как фанаты «Техаса» надеются на традиционную победу, команда «Ол-Мисс» будет бороться за исторический успех, что добавляет драматизма этому поединку.",
-        "analyse_fa": "این بازی بین اول میس و تگزاس یکی از مهم‌ترین مسابقات فصل فوتبال دانشگاهی است که می‌تواند بر جدول رتبه‌بندی و شانس‌های تیم‌ها برای حضور در مرحله حذفی تأثیر بگذارد. تگزاس با تاکتیک‌های تهاجمی خود با تیم جوان اما پرامید اول میس روبرو خواهد شد که سعی دارد توانایی خود را اثبات کند. پیروزی در این بازی می‌تواند برای هر دو تیم محرک باشد، اما همچنین تفاوت در تجربه و آمادگی تیم‌ها را برجسته می‌کند. تحلیلگران ورزشی یک مسابقه تنش‌انگیز را پیش‌بینی می‌کنند که هر اشتباه ممکن است نتیجه بازی را تعیین کند. در حالی که طرفداران تگزاس به پیروزی سنتی خود امیدوارند، تیم اول میس برای دستیابی به موفقیت تاریخی مبارزه خواهد کرد که این مسابقه را به یک رویداد دراماتیک تبدیل می‌کند.",
-        "analyse_ar": "مباراة أول ميس وتكساس هي مباراة حاسمة في موسم كرة القدم الجامعية التي قد تؤثر على جدول الترتيب وشانس الفريقين في الوصول إلى مرحلة خروج المغلوب. تكساس، معروف بتكتيكه الهجومي، سيواجه فريق أول ميس الشاب ولكن الطموح الذي يسعى لإثبات قدراته. الفوز هنا قد يكون محفزًا لكل من الفريقين، ولكن أيضًا سيبرز الفارق في الخبرة والتجهيز بين الفريقين. يتوقع المحللون الرياضيون مباراة متوتره حيث قد يقرر كل خطأ نتيجة المباراة. بينما يتوقع مشجعي تكساس انتصارًا تقليديًا، سيقاتل فريق أول ميس من أجل نجاح تاريخي، مما يضيف دراما لهذا اللقاء.",
-        "categorie": "Géopolitique",
-        "source": "Yahoo Entertainment",
-        "url": "https://sports.yahoo.com/nfl/article/ole-miss-vs-texas-how-to-watch-tonights-ncaa-college-football-game-where-to-stream-and-more-104500802.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/c98935ca89fa0a39c5e2df82f855718a6682fe1213c23084863ebda7dc54e8a1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5b83ef8a-4a70-4b74-a829-ee39ffb8eb1a",
-        "date": "2026-10-24",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des actions politiques (campagnes électorales)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Financement des médias alternatifs (podcasts, réseaux sociaux)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des actions politiques (campagnes électorales)",
-            "secteur_en": "Political action market (election campaigns)",
-            "secteur_zh": "政治行动市场（选举活动）",
-            "effet_fr": "Les discours radicalisés augmentent les dépenses en communication et en mobilisation électorale, poussant les partis à investir massivement dans des stratégies de polarisation.",
-            "effet_en": "Radicalized rhetoric boosts spending on campaign communication and voter mobilization, forcing parties to heavily invest in polarization strategies.",
-            "effet_zh": "极端言论增加了选举宣传和动员的支出，迫使政党大量投资极化策略。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Financement des médias alternatifs (podcasts, réseaux sociaux)",
-            "secteur_en": "Funding for alternative media (podcasts, social media)",
-            "secteur_zh": "替代媒体的资金（播客、社交媒体）",
-            "effet_fr": "La demande pour des contenus polarisés stimule les revenus publicitaires ciblés sur ces plateformes, mais fragilise les médias traditionnels dépendants de la modération.",
-            "effet_en": "Demand for polarized content drives targeted ad revenue on these platforms but weakens traditional media reliant on moderation.",
-            "effet_zh": "对极化内容的需求推动这些平台的精准广告收入，但削弱了依赖内容审核的传统媒体。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-25T10:46:21.449425"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_647144",
+        "titre": "Juge bloque trois pubs pro-Trump pour propagande",
+        "titre_en": "Judge blocks pro-Trump ads over propaganda law",
+        "titre_zh": "法官阻止亲特朗普广告违反宣传法",
+        "titre_ru": "Judge blocks 3 MAGA ads over concerns they breached taxpayer-funded propaganda law",
+        "titre_fa": "Judge blocks 3 MAGA ads over concerns they breached taxpayer-funded propaganda law",
+        "titre_ar": "Judge blocks 3 MAGA ads over concerns they breached taxpayer-funded propaganda law",
+        "titre_original": "Judge blocks 3 MAGA ads over concerns they breached taxpayer-funded propaganda law",
+        "resume": "Un juge fédéral a ordonné la suspension immédiate de trois publicités pro-Trump financées par l’État, suspectées de violer une loi interdisant la propagande taxpayer-funded. Cette décision intervient dans un climat politique polarisé aux États-Unis. Les critiques accusent l’administration de manipuler les fonds publics pour des fins partisanes.",
+        "resume_en": "A federal judge ordered the immediate suspension of three pro-Trump ads funded by taxpayers, suspected of violating a propaganda law. The move comes amid heightened US political polarization. Critics accuse the administration of using public funds for partisan purposes.",
+        "resume_zh": "联邦法官命令立即暂停三则由纳税人资助的亲特朗普广告，怀疑违反了宣传法。这一举动发生在美国政治极化加剧的背景下。批评者指责政府利用公共资金进行党派目的。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette affaire s’inscrit dans une longue histoire de conflits entre pouvoir exécutif et judiciaire aux États-Unis, notamment sur l’utilisation des fonds publics. Les causes profondes incluent une méfiance croissante envers les médias et la polarisation politique, où chaque camp accuse l’autre de propagande. À court terme, cela pourrait renforcer les tensions entre les deux partis, avec des risques de recours juridiques supplémentaires. À moyen terme, cette décision pourrait encourager d’autres États à adopter des lois similaires pour limiter l’influence des campagnes politiques sur les deniers publics. Long terme, cela pourrait redéfinir les règles de financement des campagnes, avec un possible affaiblissement des partis dominants au profit de mouvements indépendants.",
+        "analyse_en": "This case reflects long-standing conflicts between the US executive and judicial branches over public funding. Root causes include rising distrust in media and political polarization, where each side accuses the other of propaganda. Short-term, this may intensify party tensions, with risks of further legal challenges. Medium-term, it could prompt other states to adopt similar laws to limit political campaign influence over public funds. Long-term, this may redefine campaign financing rules, potentially weakening dominant parties in favor of independent movements.",
+        "analyse_zh": "此案反映了美国行政和司法部门长期以来关于公共资金使用的冲突。深层原因包括对媒体的不信任和政治极化，每一方都指责对方进行宣传。短期内，这可能加剧党派之间的紧张关系，并带来更多的法律挑战。中期内，这可能鼓励其他州采取类似法律，限制政治竞选对公共资金的影响。长期来看，这可能重新定义竞选资金的规则，可能削弱主导党派，有利于独立运动的发展。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Politique",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4401262/posts",
+        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
+        "date": "2026-10-31",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des campagnes électorales",
+            "hausse": false
+          },
+          {
+            "label": "▼ Fonds de communication gouvernementale",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des campagnes électorales",
+            "secteur_en": "Electoral campaign market",
+            "secteur_zh": "选举竞选市场",
+            "effet_fr": "Cette décision pourrait réduire les investissements dans les publicités politiques traditionnelles, favorisant les canaux alternatifs comme les réseaux sociaux.",
+            "effet_en": "This ruling may reduce investments in traditional political ads, favoring alternative channels like social media.",
+            "effet_zh": "这一裁决可能减少对传统政治广告的投资，促进社交媒体等替代渠道的发展。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Fonds de communication gouvernementale",
+            "secteur_en": "Government communication funds",
+            "secteur_zh": "政府宣传基金",
+            "effet_fr": "Les restrictions pourraient entraîner une réallocation des budgets vers des initiatives moins controversées, comme l’éducation civique ou la transparence.",
+            "effet_en": "Restrictions may force budget reallocation to less controversial initiatives, like civic education or transparency.",
+            "effet_zh": "限制可能迫使预算重新分配到更不引争议的项目，如公民教育或透明度。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-01T15:46:45.627885"
+      },
       {
         "id": "usa_735086",
         "titre": "Conflits électoraux avant les midterms",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-10-25T14:50:28.100169"
-      },
-      {
-        "id": "usa_679974",
-        "titre": "Kenya : deuxième mort confirmée par l’ébola en 2024",
-        "titre_en": "Kenya confirms second Ebola death in 2024",
-        "titre_zh": "肯尼亚2024年确认第二例埃博拉死亡病例",
-        "titre_ru": "Махер: демократы всё ещё не отказываются от крайне левых взглядов",
-        "titre_fa": "ماهر: دموکرات‌ها هنوز از دیدگاه‌های چپ افراطی خود دست کشیده نیستند",
-        "titre_ar": "ماهر: الديمقراطيون لا يزالون لا يرفضون أفكارهم اليسارية المتطرفة",
-        "titre_original": "Maher: Democrats Still Aren't 'Renouncing Their Far Left'",
-        "resume": "Le ministère kenyan de la Santé a officiellement confirmé la mort d’une femme de 65 ans, victime de l’épidémie d’Ebola en cours. Ce décès intervient après une première victime signalée plus tôt cette année. Les autorités sanitaires renforcent les mesures de surveillance et de confinement dans les zones touchées.",
-        "resume_en": "Kenya’s Ministry of Health confirmed the death of a 65-year-old woman from the ongoing Ebola outbreak. This follows an earlier fatality reported earlier this year. Health authorities are intensifying surveillance and containment measures in affected areas.",
-        "resume_zh": "肯尼亚卫生部确认一名65岁女性死于当前的埃博拉疫情。这是今年报告的第二例死亡病例。卫生当局正在加强受影响地区的监测和封锁措施。",
-        "resume_ru": "На шоу HBO «Real Time» ведущий Билл Махер заявил, что демократы по-прежнему не отказываются от крайне левых позиций. Он отметил, что республиканцы не имеют реальных аргументов против них. Махер подчеркнул, что внутрипартийные разногласия остаются актуальными и влияют на политическую повестку.",
-        "resume_fa": "در برنامه «ریال تايم» شبکه ایچ‌بی‌او، میزبان بیل ماهر گفت که دموکرات‌ها هنوز از دیدگاه‌های چپ افراطی خود دست کشیده نیستند. او اشاره کرد که جمهوری‌خواهان هیچ دلیل واقعی برای مخالفت با آن‌ها ندارند. ماهر تأکید کرد که اختلافات داخلی همچنان مهم است و بر برنامه سیاسی تأثیر می‌گذارد.",
-        "resume_ar": "في برنامج «ريال تايم» على قناة إتش بي أو، قال المضيف بيل ماهر إن الديمقراطيين لا يزالون لا يرفضون أفكارهم اليسارية المتطرفة. أشار إلى أن الجمهوريين ليس لديهم أي سبب حقيقي للاعتراض عليهم. شدد ماهر على أن الخلافات الداخلية ما زالت مهمة وتؤثر على أجندة سياسية.",
-        "analyse_detaillee": "L’Ebola en Afrique de l’Est reste un enjeu de santé publique critique, malgré les progrès vaccinaux récents. Les causes profondes incluent la déforestation, la proximité humaine-animal et les systèmes de santé fragiles, aggravés par les conflits locaux. À court terme, la propagation pourrait perturber les échanges commerciaux régionaux et les flux migratoires. À moyen terme, les coûts sanitaires et économiques pourraient peser sur les budgets nationaux, notamment pour le Kenya, déjà confronté à des crises climatiques. Long terme, une réponse internationale coordonnée est nécessaire pour éviter une résurgence endémique. Les acteurs clés sont l’OMS, les ONG locales et les gouvernements africains, souvent critiqués pour leur lenteur dans la riposte.",
-        "analyse_en": "Ebola in East Africa remains a critical public health issue despite recent vaccine advancements. Root causes include deforestation, human-animal proximity, and fragile healthcare systems exacerbated by local conflicts. Short-term, spread could disrupt regional trade and migration flows. Medium-term, healthcare and economic costs may strain national budgets, particularly for Kenya, already facing climate crises. Long-term, a coordinated international response is needed to prevent endemic resurgence. Key actors include WHO, local NGOs, and African governments, often criticized for slow response times.",
-        "analyse_zh": "非洲东部的埃博拉疫情仍然是一个公共卫生关键问题，尽管最近有疫苗进展。深层原因包括森林砍伐、人畜接触和脆弱的卫生系统，后者因当地冲突而恶化。短期内，疫情传播可能扰乱地区贸易和移民流动。中期内，卫生和经济成本可能加重国家预算压力，特别是肯尼亚，已经面临气候危机。长期来看，需要国际协调回应以避免内生性复发。关键利益相关者包括世卫组织、当地非政府组织和非洲政府，后者常因响应迟缓而受到批评。",
-        "analyse_ru": "Высказывания Махера отражают растущее недовольство внутри демократической партии по поводу её левого крыла, которое, по мнению многих, слишком радикально и негибко. В то время как республиканцы активно используют эти разногласия для мобилизации своей базы, демократы продолжают делиться на фракции, что ослабляет их позицию в предвыборной борьбе. Критики обвиняют лидера партии в неспособности контролировать крайние взгляды, что может привести к поражению на выборах. В то же время, левые активисты считают, что Махер просто пытается дискредитировать их идеи для привлечения внимания к собственной персоне. Контекст этих заявлений также связан с нарастающим политическим полярным разделением в США, где обе стороны стремятся подчеркнуть слабости противника.",
-        "analyse_fa": "عبارات ماهر نشان‌دهنده نارضایتی درونی در حزب دموکرات در مورد جناح چپ افراطی آن است که بسیاری آن را بیش از حد رادیکال و غیرقابل انعطاف می‌دانند. در حالی که جمهوری‌خواهان به‌طور فعال از این اختلافات برای بسیج پایه خود استفاده می‌کنند، دموکرات‌ها همچنان به گروه‌بندی در فракسیون‌ها ادامه می‌دهند که این امر قدرت سیاسی آن‌ها در رقابت‌های انتخاباتی را کاهش می‌دهد. منتقدان از رهبر حزب در کنترل ناکام دیدگاه‌های افراطی متهم هستند که ممکن است منجر به شکست در انتخابات شود. از سوی دیگر، فعالان چپ معتقدند که ماهر فقط سعی دارد ایده‌های آن‌ها را برای جلب توجه به خود بی‌اعتبار کند. زمینه این اظهارات نیز با افزایش تقسیم سیاسی قطبی در ایالات متحده مرتبط است، جایی که هر دو طرف سعی در برجسته کردن ضعف طرف مقابل دارند.",
-        "analyse_ar": "قوله ماهر تعكس عدم الرضا الداخلي داخل الحزب الديمقراطي تجاه جناحه اليساري المتطرف الذي يعتبره الكثيرون أكثر من حد الراديكالية والصلابة. بينما يستخدم الجمهوريون هذه الخلافات بشكل نشط لتعبئة قاعدةهم، يستمر الديمقراطيون في الانقسام إلى فصائل، مما يضعف موقفهم في المعركة الانتخابية. يتهم critics زعيم الحزب بعدم قدرته على السيطرة على الأفكار المتطرفة، مما قد يؤدي إلى هزيمة في الانتخابات. من ناحية أخرى، يعتقد نشطاء اليسار أن ماهر يحاول فقط إفساد سمعة أفكارهم لجذب الانتباه إلى نفسه. السياق لهذه التعليقات مرتبط أيضًا بزيادة التقسيم السياسي القطبي في الولايات المتحدة، حيث تحاول كل طرفين تسليط الضوء على ضعف الخصم.",
-        "categorie": "Santé publique",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/clips/2026/10/24/maher-democrats-still-arent-renouncing-their-far-left/",
-        "image": "https://media.breitbart.com/media/2026/03/Maher-313-Thumbnail-640x335.jpg",
-        "date": "2026-10-24",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▲ Assurance maladie internationale (vaccins et traitements)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Tourisme médical et sécurité sanitaire",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance maladie internationale (vaccins et traitements)",
-            "secteur_en": "International health insurance (vaccines and treatments)",
-            "secteur_zh": "国际医疗保险（疫苗和治疗）",
-            "effet_fr": "La demande accrue en vaccins et traitements contre l’Ebola pourrait faire monter les prix des stocks globaux et réduire l’accès pour les pays à faible revenu.",
-            "effet_en": "Increased demand for Ebola vaccines and treatments may drive up global stock prices and limit access for low-income countries.",
-            "effet_zh": "对埃博拉疫苗和治疗的需求增加可能推高全球库存价格，并限制低收入国家的获取。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Tourisme médical et sécurité sanitaire",
-            "secteur_en": "Medical tourism and health security",
-            "secteur_zh": "医疗旅游和卫生安全",
-            "effet_fr": "Les craintes liées à l’Ebola pourraient décourager les voyageurs et réduire les revenus du tourisme médical dans la région, déjà fragilisés par les pandémies passées.",
-            "effet_en": "Fear of Ebola could deter travelers and reduce medical tourism revenue in the region, already weakened by past pandemics.",
-            "effet_zh": "对埃博拉的担忧可能会劝阻旅行者，并减少地区医疗旅游收入，该收入已经因过去的疫情而削弱。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-25T10:46:21.449450"
       }
     ],
     "chine": [
@@ -3769,6 +3769,65 @@
     ],
     "russie": [
       {
+        "id": "russie_33517",
+        "titre": "Ambassade US alerte sur menace mortelle à Moscou",
+        "titre_en": "US Embassy warns of deadly threat in Moscow",
+        "titre_zh": "美驻俄大使馆警告莫斯科致命威胁",
+        "titre_ru": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
+        "titre_fa": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
+        "titre_ar": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
+        "titre_original": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
+        "resume": "L’ambassade américaine à Moscou a émis un avertissement concernant une menace crédible d’événement à haute mortalité dans un site touristique populaire. Les autorités locales ont été informées, et les visiteurs sont invités à éviter la zone. Ce type d’alerte reflète une escalade des tensions sécuritaires en Russie, notamment depuis l’invasion de l’Ukraine.",
+        "resume_en": "The US Embassy in Moscow issued a warning about a credible threat of a high-casualty event at a popular tourist site. Local authorities have been notified, and visitors are advised to avoid the area. Such alerts reflect heightened security tensions in Russia, particularly since the Ukraine invasion.",
+        "resume_zh": "美国驻莫斯科大使馆发布警告，称在一处热门旅游景点存在致命威胁。当地当局已被通知，游客被建议避开该区域。此类警告反映了俄罗斯安全紧张局势的升级，特别是自乌克兰入侵以来。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette alerte intervient dans un contexte de montée des risques terroristes en Russie, où les tensions géopolitiques et les répressions internes créent un terreau favorable aux attaques. Les causes profondes incluent la radicalisation de certains groupes en réaction aux politiques gouvernementales, ainsi que l’affaiblissement des services de sécurité face à des menaces hybrides. À court terme, cela pourrait entraîner une mobilisation accrue des forces de l’ordre et une surveillance renforcée des sites sensibles. À moyen terme, les autorités pourraient durcir les lois antiterroristes, limitant les libertés individuelles au nom de la sécurité. Long terme, cette situation pourrait accélérer une crise de confiance dans les institutions russes, déjà fragilisées par la guerre en Ukraine et les sanctions internationales.",
+        "analyse_en": "This warning comes amid rising terrorist risks in Russia, where geopolitical tensions and internal crackdowns create fertile ground for attacks. Root causes include the radicalization of certain groups in response to government policies, and the weakening of security services against hybrid threats. Short-term, this may lead to increased police mobilization and heightened surveillance of sensitive sites. Medium-term, authorities could tighten anti-terror laws, limiting individual freedoms in the name of security. Long-term, this situation may accelerate a crisis of trust in Russian institutions, already weakened by the Ukraine war and international sanctions.",
+        "analyse_zh": "此警告发生在俄罗斯恐怖风险上升的背景下，地区紧张局势和内部镇压为袭击提供了肥沃土壤。深层原因包括某些群体对政府政策的反应导致的激进化，以及安全机构面对混合威胁的削弱。短期内，这可能导致警方加强部署和对敏感场所的监控加强。中期内，当局可能加严反恐法规，以安全为由限制个人自由。长期来看，这种局势可能加速俄罗斯制度信任危机，该危机已因乌克兰战争和国际制裁而进一步削弱。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sécurité",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction",
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Tsaritsyno_Museum_Reserve.jpg",
+        "date": "2026-10-31",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Assurance voyage et santé internationale",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des assurances terroristes",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Assurance voyage et santé internationale",
+            "secteur_en": "International travel and health insurance",
+            "secteur_zh": "国际旅游和健康保险",
+            "effet_fr": "Les alertes sécuritaires pourraient entraîner une hausse des primes pour les assurances couvrant la Russie, en raison des risques accrus d’événements imprévus.",
+            "effet_en": "Security alerts may lead to higher premiums for insurers covering Russia due to increased risks of unforeseen events.",
+            "effet_zh": "安全警告可能导致保险公司覆盖俄罗斯的保费上涨，因为不可预见事件的风险增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des assurances terroristes",
+            "secteur_en": "Terrorism insurance market",
+            "secteur_zh": "恐怖袭击保险市场",
+            "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques terroristes en Russie, réduisant ainsi l’accessibilité de ces polices.",
+            "effet_en": "Insurers may increase rates to cover terrorism risks in Russia, reducing the accessibility of such policies.",
+            "effet_zh": "保险公司可能提高恐怖袭击风险的保费，从而降低这些保单的可及性。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-01T15:46:45.627895"
+      },
+      {
         "id": "russie_507933",
         "titre": "Vétérans ukrainiens amputés défient l’adversité",
         "titre_en": "Ukrainian amputee veterans conquer HYROX",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-10-24T17:14:05.716308"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_196216",
-        "titre": "Robot PICKINGMAN trié déchets en direct mondial",
-        "titre_en": "PICKINGMAN robot sorts waste live globally",
-        "titre_zh": "拾选机器人全球直播分拣垃圾",
-        "titre_ru": "Арсенал и Ливерпуль усиливают преследование звезды Галатасарая Батракова",
-        "titre_fa": "آرسنال و لیورپول تعقیب ستاره گالاتاسرای باتراکوف را تشدید می‌کنند",
-        "titre_ar": "أرسنال وليفربول يثبطان مطاردة نجمة غالatasaray باتراكوف",
-        "titre_original": "Arsenal and Liverpool step up pursuit of Galatasaray star Aleksey Batrakov as £50m release clause emerges",
-        "resume": "La société DataBeyond a présenté son robot PICKINGMAN, équipé d’IA embarquée, lors d’un premier direct mondial depuis une usine de tri de déchets municipaux à Dongguan. Ce système automatisé vise à optimiser la gestion des déchets en Chine, un enjeu majeur face à la pollution et à la surconsommation. L’événement marque une avancée technologique dans le secteur de la recyclerie intelligente.",
-        "resume_en": "DataBeyond showcased its AI-powered PICKINGMAN robot during a global livestream from a waste-sorting facility in Dongguan, China. The automated system aims to improve municipal waste management amid pollution and overconsumption challenges. This event highlights technological progress in smart recycling.",
-        "resume_zh": "数据超越公司在东莞市政垃圾分拣厂首次全球直播展示其搭载嵌入式人工智能的拾选机器人PICKINGMAN。该自动化系统旨在优化中国面临污染和过度消费问题的市政垃圾管理。此次活动标志着智能回收领域的技术进步。",
-        "resume_ru": "Клубы Премьер-лиги «Арсенал» и «Ливерпуль» усилили разведку российского полузащитника Алексея Батракова из «Галатасарая», после того как отправили своих специалистов на его игру в европейских соревнованиях этой недели. По данным СМИ, у Батракова появился фиксированный контракт на сумму 50 миллионов фунтов стерлингов. Это привлекает внимание ведущих европейских клубов, которые стремятся усилить свои составы перед новым сезоном.",
-        "resume_fa": "تیم‌های لیگ برتر انگلیسی آرسنال و لیورپول تعقیب نیمه‌حافظ روسی الکسی باتراکوف از گالاتاسرای را با ارسال کارشناسان خود به دیدار او در مسابقات اروپایی این هفته تشدید کرده‌اند. بر اساس گزارش‌ها، باتراکوف دارای قرارداد آزاد با ارزش 50 میلیون پوند است. این موضوع توجه باشگاه‌های بزرگ اروپایی را به خود جلب کرده که سعی در تقویت ترکیب تیم‌های خود برای فصل جدید دارند.",
-        "resume_ar": "فريقي من دوري الممتاز الإنجليزي أرسنال وليفربول زادتا من تتبع الوسطي الروسي أليكسى باتراكوف من غالatasaray بعد أن أرسلوا خبراءهم لمشاهدة مباراة له في مسابقات أوروبية هذه الأسبوع. وفقًا للأنباء، باتراكوف لديه عقد تحريري بقيمة 50 مليون جنيه إسترليني. هذا الجذب انتباه أندية أوروبية بارزة تسعى لتقوية تشكيلاتها قبل بداية الموسم الجديد.",
-        "analyse_detaillee": "Ce projet s’inscrit dans une dynamique historique de Chine à moderniser ses infrastructures face à la pollution, avec des investissements massifs dans les technologies vertes depuis les années 2000. Les enjeux actuels incluent la réduction des déchets plastiques et la circularité économique, dans un contexte de pression internationale sur les politiques environnementales. Les causes profondes sont liées à la croissance économique rapide et à l’urbanisation, exacerbant les problèmes de gestion des déchets. À court terme, cette innovation pourrait améliorer l’efficacité du tri, mais à moyen terme, son déploiement massif dépendra des coûts et de l’adoption par les municipalités. Long terme, cela pourrait positionner la Chine comme leader technologique dans la gestion durable des déchets. Les acteurs clés sont le gouvernement chinois, les entreprises technologiques comme DataBeyond, et les ONG environnementales.",
-        "analyse_en": "This project aligns with China’s historical push to modernize infrastructure amid pollution, with heavy investments in green tech since the 2000s. Current stakes involve plastic waste reduction and circular economy goals, under international pressure on environmental policies. Root causes include rapid economic growth and urbanization, worsening waste management issues. Short-term, this innovation may boost sorting efficiency, but medium-term deployment depends on costs and municipal adoption. Long-term, China could emerge as a leader in sustainable waste tech. Key actors include the Chinese government, tech firms like DataBeyond, and environmental NGOs.",
-        "analyse_zh": "该项目符合中国为应对污染而现代化基础设施的历史趋势，自2000年以来在绿色科技领域投入巨资。当前的影响包括减少塑料垃圾和推动循环经济，在国际环境政策压力下。深层原因包括快速经济增长和城市化加剧的垃圾管理问题。短期内，该创新可能提高分拣效率，但中期内大规模部署取决于成本和市政当局的采纳。长期内，中国可能成为可持续垃圾管理技术的领导者。关键人物包括中国政府、数据超越等科技企业和环保非政府组织。",
-        "analyse_ru": "Интерес к Батракову связан с его высокой результативностью и лидерскими качествами на поле, что делает его ценным игроком для любого клуба. Конкуренция между «Арсеналом» и «Ливерпулем» может привести к рекордным трансферам в Премьер-лиге. Однако, переход Батракова может вызвать недовольство в «Галатасарае», где он является ключевым игроком. Перспективы зависят от готовности клуба заплатить за трансфер и от желания игрока перейти. Также важно учитывать финансовые ограничения и политику трансферов клубов.",
-        "analyse_fa": "اهتمام به باتراکوف به دلیل عملکرد بالا و رهبری او در زمین است که او را بازیکن ارزشمند برای هر باشگاهی می‌کند. رقابت بین آرسنال و لیورپول ممکن است منجر به انتقالات رکوردی در لیگ برتر شود. اما انتقال باتراکوف ممکن است در گالاتاسرای نارضایتی ایجاد کند، جایی که او بازیکن کلیدی است. آینده این موضوع به آمادگی باشگاه برای پرداخت هزینه انتقال و میل بازیکن به تغییر بستگی دارد. همچنین باید محدودیت‌های مالی و سیاست انتقال باشگاه‌ها را در نظر گرفت.",
-        "analyse_ar": "الاهتمام باتراكوف ناشئ عن أدائه العالي وقادته على الملعب، مما يجعله لاعبًا قيمًا لكل فريق. قد يؤدي التنافس بين أرسنال وليفربول إلى انتقالات قياسية في دوري الممتاز. ومع ذلك، قد يؤدي انتقال باتراكوف إلى عدم رضا في غالatasaray، حيث هو لاعب أساسي. آفاق هذا الموضوع تعتمد على استعداد النادي لدفع تكاليف الانتقال وميل اللاعب للتغيير. أيضًا، يجب أخذ القيود المالية والسياسات الانتقالية للنادي في الاعتبار.",
-        "categorie": "Technologie/Environnement",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/en-us/news/arsenal-liverpool-transfer-galatasaray-aleksey-batrakov-50m-release-clause/bltf29347a9da0a7ae6",
-        "image": "https://s.yimg.com/lo/mysterio/api/72af288be1cefb07a50c615e32dda7af4cb956972b0a5cac6f538ecc5d4c006f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_com_505%2F8c9753b8978226e904b8f91473eeca78.jpg",
-        "date": "2026-10-23",
-        "pays": "russie",
+        "id": "iran_673076",
+        "titre": "L’Iran frappe des bases américaines au Moyen-Orient",
+        "titre_en": "Iran strikes US bases in Middle East",
+        "titre_zh": "伊朗袭击中东美军基地",
+        "titre_ru": "Iran targeted US air defences then hit aircraft and buildings on Mideast bases: AP analysis",
+        "titre_fa": "Iran targeted US air defences then hit aircraft and buildings on Mideast bases: AP analysis",
+        "titre_ar": "Iran targeted US air defences then hit aircraft and buildings on Mideast bases: AP analysis",
+        "titre_original": "Iran targeted US air defences then hit aircraft and buildings on Mideast bases: AP analysis",
+        "resume": "Une analyse de l’AP révèle que des frappes iraniennes ont endommagé ou détruit des infrastructures à 26 bases américaines et sites régionaux. Les images satellites et témoignages locaux confirment des attaques ciblées contre les défenses aériennes et des bâtiments stratégiques. Cet événement s’inscrit dans une escalade des tensions post-attaque israélienne contre le consulat iranien à Damas.",
+        "resume_en": "AP analysis shows Iranian strikes damaged or destroyed structures at 26 US military bases and sites in the Middle East. Satellite imagery and regional accounts confirm targeted attacks on air defenses and key buildings. The incident follows heightened tensions after Israel’s strike on Iran’s consulate in Damascus.",
+        "resume_zh": "美联社分析显示，伊朗袭击了中东26个美军基地和设施，卫星图像和地区证词证实对空中防御和关键建筑的针对性打击。此事件发生在以色列袭击叙利亚伊朗领事馆后，地区紧张局势进一步升级。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cet événement s’inscrit dans une dynamique de confrontation régionale depuis la guerre en Ukraine et les tensions Israël-Hamas. Les frappes iraniennes visent à dissuader une intervention directe américaine au Proche-Orient, tout en répondant à des attaques perçues comme des provocations. À court terme, cela pourrait entraîner une escalade militaire ou diplomatique, avec un risque accru de représailles américaines ou israéliennes. À moyen terme, les sanctions économiques pourraient se durcir, affectant le secteur pétrolier iranien déjà fragilisé. Long terme, cela pourrait renforcer les alliances régionales (comme l’Axe de la Résistance) ou accélérer une normalisation partielle avec l’Occident. L’Iran cherche à préserver son influence sans déclencher une guerre ouverte, tandis que les États-Unis doivent éviter une nouvelle guerre par procuration.",
+        "analyse_en": "This incident escalates regional tensions following the Ukraine war and the Israel-Hamas conflict. Iran’s strikes aim to deter direct US intervention in the Middle East while retaliating against perceived provocations. Short-term risks include military escalation or diplomatic fallout, with potential US or Israeli reprisals. Medium-term, economic sanctions could tighten, further straining Iran’s already weakened oil sector. Long-term, this may strengthen regional alliances (like the Resistance Axis) or accelerate partial normalization with the West. Iran seeks to maintain influence without provoking open war, while the US must avoid another proxy conflict.",
+        "analyse_zh": "此事件在乌克兰战争和以色列-哈马斯冲突背景下，进一步升级了地区紧张局势。伊朗袭击旨在遏制美国在中东直接干预，同时对被视为挑衅的袭击进行报复。短期内，可能引发军事升级或外交危机，美国或以色列可能采取报复行动。中期内，经济制裁可能加剧，进一步削弱伊朗已经脆弱的石油行业。长期来看，这可能加强地区联盟（如抵抗轴心），或加速与西方的部分正常化进程。伊朗试图在不引发全面战争的情况下维护影响力，而美国则必须避免再次陷入代理人战争。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-targeted-us-air-defences-then-hit-aircraft-and-buildings-on-mideast-bases-ap-analysis/articleshow/135404615.cms",
+        "image": "https://img.etimg.com/thumb/msid-135405347,width-1200,height-900,imgsize-116764,overlay-etdefence/articleshow.jpg",
+        "date": "2026-10-31",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Technologies vertes et IA appliquée",
+            "label": "▲ Marché pétrolier international",
             "hausse": true
           },
           {
-            "label": "▲ Financement des infrastructures écologiques",
-            "hausse": true
+            "label": "▼ Bourse de Téhéran (TEHRAN)",
+            "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Technologies vertes et IA appliquée",
-            "secteur_en": "Green tech and applied AI",
-            "secteur_zh": "绿色科技和应用人工智能",
-            "effet_fr": "Cette innovation pourrait stimuler les investissements dans les startups spécialisées en IA environnementale et accélérer l’adoption de solutions automatisées dans les villes chinoises.",
-            "effet_en": "This innovation may spur investments in AI-focused environmental startups and accelerate adoption of automated solutions in Chinese cities.",
-            "effet_zh": "该创新可能刺激对环境人工智能初创公司的投资，并加速中国城市对自动化解决方案的采用。",
+            "secteur_fr": "Marché pétrolier international",
+            "secteur_en": "Global oil market",
+            "secteur_zh": "全球石油市场",
+            "effet_fr": "Les tensions pourraient provoquer une volatilité accrue des prix, avec des risques de pénuries locales en cas de perturbations logistiques.",
+            "effet_en": "Tensions may cause increased price volatility, with local supply risks if logistics are disrupted.",
+            "effet_zh": "紧张局势可能导致油价波动加剧，如果物流受到干扰，可能引发局部供应短缺。",
             "hausse": true
           },
           {
-            "secteur_fr": "Financement des infrastructures écologiques",
-            "secteur_en": "Funding for green infrastructure",
-            "secteur_zh": "生态基础设施融资",
-            "effet_fr": "Les succès technologiques comme PICKINGMAN pourraient attirer des fonds publics et privés pour des projets similaires, renforçant ainsi les politiques de recyclage à grande échelle.",
-            "effet_en": "Technological successes like PICKINGMAN may attract public and private funding for similar projects, bolstering large-scale recycling policies.",
-            "effet_zh": "像拾选机器人这样的技术成功可能吸引公私资金用于类似项目，从而加强大规模回收政策。",
-            "hausse": true
+            "secteur_fr": "Bourse de Téhéran (TEHRAN)",
+            "secteur_en": "Tehran Stock Exchange (TEHRAN)",
+            "secteur_zh": "德黑兰证券交易所",
+            "effet_fr": "Les investisseurs pourraient fuir le marché en cas de craintes accrues sur la stabilité géopolitique iranienne.",
+            "effet_en": "Investors may flee the market if concerns over Iran’s geopolitical stability rise.",
+            "effet_zh": "如果对伊朗地缘政治稳定性的担忧加剧，投资者可能撤离市场。",
+            "hausse": false
           }
         ],
-        "created_at": "2026-10-24T13:08:28.670703"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-11-01T15:46:45.627852"
+      },
       {
         "id": "iran_970712",
         "titre": "Pakistan optimiste sur médiation Iran-États-Unis",
@@ -6070,128 +6129,69 @@
           }
         ],
         "created_at": "2026-10-21T13:28:10.011199"
-      },
-      {
-        "id": "iran_651013",
-        "titre": "Hegseth rencontre Netanyahu avant élections israéliennes et possible relance du conflit Iran-Israël",
-        "titre_en": "Hegseth meets Netanyahu ahead of Israeli elections and possible Iran-Israel conflict restart",
-        "titre_zh": "赫格塞特与内塔尼亚胡会晤前以色列大选和可能重启伊朗-以色列冲突",
-        "titre_ru": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
-        "titre_fa": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
-        "titre_ar": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
-        "titre_original": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
-        "resume": "L’ancien conseiller américain Pete Hegseth s’est entretenu avec Benjamin Netanyahu en Israël, alors que les élections législatives israéliennes approchent et que les tensions avec l’Iran restent élevées. Cette rencontre pourrait indiquer une coordination accrue entre Washington et Tel Aviv sur la gestion du conflit régional. Les analystes craignent une escalade en cas de victoire de Netanyahu, connu pour sa ligne dure envers Téhéran.",
-        "resume_en": "Former U.S. advisor Pete Hegseth met with Benjamin Netanyahu in Israel as legislative elections approach and Iran tensions remain high. This meeting may signal increased coordination between Washington and Tel Aviv on regional conflict management. Analysts fear escalation if Netanyahu wins, given his hardline stance toward Tehran.",
-        "resume_zh": "前美国顾问彼得·赫格塞特与以色列总理本杰明·内塔尼亚胡在以色列举行会晤，正值以色列立法选举临近和伊朗紧张局势持续升级之际。这次会晤可能表明华盛顿和特拉维夫在地区冲突管理方面的协调加强。分析师担心，如果内塔尼亚胡当选，可能会导致局势升级，因为他对德黑兰采取强硬立场。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette rencontre s’inscrit dans un contexte géopolitique tendu, marqué par les tensions persistantes entre l’Iran et ses voisins, notamment Israël et les États-Unis. Les enjeux principaux concernent la stabilité régionale et la capacité des acteurs à éviter une guerre ouverte. Les causes profondes incluent les programmes nucléaires controversés de l’Iran et les alliances régionales en mutation. À court terme, cette coordination pourrait apaiser les tensions, mais à moyen terme, elle pourrait aussi accélérer une course aux armements. À long terme, cela pourrait redéfinir les équilibres de pouvoir au Moyen-Orient. Les acteurs clés sont Israël, l’Iran, les États-Unis et les pays du Golfe, dont les stratégies déterminent l’escalade future.",
-        "analyse_en": "This meeting occurs in a tense geopolitical context, marked by persistent tensions between Iran and its neighbors, particularly Israel and the U.S. The main stakes involve regional stability and the ability of actors to avoid open war. Root causes include Iran’s controversial nuclear programs and shifting regional alliances. Short-term, this coordination may ease tensions, but medium-term, it could accelerate an arms race. Long-term, it may redefine power balances in the Middle East. Key actors include Israel, Iran, the U.S., and Gulf states, whose strategies shape future escalation.",
-        "analyse_zh": "这次会晤发生在地区地缘政治紧张局势下，伊朗与其邻国（特别是以色列和美国）的持续紧张关系仍然存在。主要影响在于地区稳定性和各方避免全面战争的能力。深层原因包括伊朗争议性核计划和地区联盟的变化。短期内，这种协调可能缓解紧张局势，但中期内可能加速军备竞赛。长期来看，这可能重新定义中东的权力平衡。主要参与方包括以色列、伊朗、美国和海湾国家，后者的策略决定未来升级的走向。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186381546",
-        "image": "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=800&q=80",
-        "date": "2026-10-20",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Marché des assurances politiques et risques régionaux",
-            "hausse": true
-          },
-          {
-            "label": "▲ Bourse des matières premières énergétiques (pétrole, gaz)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des assurances politiques et risques régionaux",
-            "secteur_en": "Political risk and regional insurance market",
-            "secteur_zh": "政治风险和地区保险市场",
-            "effet_fr": "Les tensions accrues entre Israël et l’Iran pourraient entraîner une hausse des primes d’assurance pour les entreprises opérant dans la région, augmentant les coûts des investissements étrangers.",
-            "effet_en": "Increased tensions between Israel and Iran may lead to higher insurance premiums for businesses operating in the region, increasing costs for foreign investments.",
-            "effet_zh": "以色列和伊朗之间的升级紧张局势可能导致地区企业保险费用上涨，增加外国投资成本。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Bourse des matières premières énergétiques (pétrole, gaz)",
-            "secteur_en": "Energy commodities futures market (oil, gas)",
-            "secteur_zh": "能源大宗商品期货市场（石油、天然气）",
-            "effet_fr": "Une escalade du conflit pourrait perturber les approvisionnements en énergie au Moyen-Orient, influençant les prix mondiaux et les stratégies des pays importateurs.",
-            "effet_en": "Conflict escalation may disrupt Middle Eastern energy supplies, affecting global prices and import strategies of countries.",
-            "effet_zh": "冲突升级可能干扰中东能源供应，影响全球价格和进口国的战略。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-21T07:06:44.897188"
       }
     ]
   },
   "politique": [
     {
-      "id": "pol_env_739519",
-      "titre": "Nouveau PFAS controversé autorisé en France",
-      "titre_en": "Controversial New PFAS Approved in France",
-      "titre_zh": "法国新批准争议PFAS化学物质",
-      "titre_ru": "Новый опасный PFAS R-1234yf может появиться в французской химической долине",
-      "titre_fa": "ماده شیمیایی خطرناک R-1234yf در دره شیمیایی فرانسه",
-      "titre_ar": "المادة الكيميائية الخطرة الجديدة R-1234yf ستُدخل قريبًا في وادي الكيمياء الفرنسي",
-      "titre_original": "Quel est ce nouveau PFAS bientôt introduit dans la vallée de la chimie française ?",
-      "resume": "L’association Notre Affaire à Tous et d’autres groupes environnementaux demandent l’annulation de l’autorisation du R-1234yf, un PFAS (substance per- et polyfluoroalkylée) jugé dangereux pour la santé et l’environnement. Ce composé, utilisé dans les systèmes de climatisation, pourrait s’ajouter aux centaines de PFAS déjà présents dans la vallée de la chimie française. Les risques de contamination des sols et de l’eau soulèvent des inquiétudes majeures pour les populations locales.",
-      "resume_en": "The environmental group Notre Affaire à Tous and others are calling for the cancellation of the approval for R-1234yf, a PFAS chemical deemed harmful to health and the environment. This compound, used in air conditioning systems, could join hundreds of existing PFAS in France’s chemical valley, raising concerns about soil and water contamination for local populations.",
-      "resume_zh": "环保组织‘我们的事’及其他团体要求撤销R-1234yf（一种PFAS化学物质）的批准，该物质被认为对健康和环境有害。这种用于空调系统的化学物质可能加入法国化学谷中已有的数百种PFAS中，引发当地居民对土壤和水污染的担忧。",
-      "resume_ru": "Жанна Флери, президент организации «Наше дело — все», рассказала в интервью «20 Minutes», почему она и другие группы требуют отмены разрешения на использование R-1234yf — вещества из группы PFAS, считающегося опасным для здоровья. Активисты опасаются негативных последствий для экологии и населения региона. Вопрос вызывает широкий общественный резонанс и критику со стороны экологов.",
-      "resume_fa": "ژان فلیری، رئیس سازمان «کار ما همه است»، در مصاحبه با «۲۰ دقیقه»، دلیل درخواست خود و دیگران برای لغو مجوز ماده شیمیایی R-1234yf را که از گروه PFAS خطرناک است، توضیح داد. فعالان نگران اثرات منفی بر محیط زیست و ساکنان منطقه هستند. این موضوع واکنش‌های گسترده‌ای از سوی اکولوگ‌ها و منتقدان به همراه داشته است.",
-      "resume_ar": "فصحت جان فليوري، رئيس منظمة «شأننا الجميع»، شرحت في مقابلة مع «20 دقيقة» سبب طلبها من نفسها ومنظمات أخرى لإلغاء ترخيص المادة الكيميائية R-1234yf، التي تعتبر من المواد الخطرة من فئة PFAS. يخشون من الآثار السلبية على البيئة والسكان في المنطقة. هذا الموضوع أثار ردود فعل واسعة من قبل البيئيةين والمعارضين.",
-      "analyse_detaillee": "Les PFAS, surnommés les ‘substances éternelles’ en raison de leur persistance dans l’environnement, sont depuis des décennies au cœur de controverses sanitaires et écologiques. Leur utilisation croissante dans l’industrie, notamment pour leurs propriétés antiadhésives et résistantes à la chaleur, aggrave les risques de bioaccumulation et de pollution diffuse. L’autorisation du R-1234yf, malgré des études limitées sur ses effets à long terme, reflète une régulation insuffisante face à l’urgence climatique et sanitaire. À court terme, les associations craignent une exposition accrue des travailleurs et riverains aux particules toxiques, tandis que les collectivités locales pourraient devoir assumer des coûts sanitaires élevés. À moyen terme, cette décision pourrait accélérer la pression pour un moratoire européen sur les PFAS, comme le réclament déjà plusieurs États membres. À long terme, l’industrie chimique devra repenser ses modèles pour éviter une crise de légitimité similaire à celle des perturbateurs endocriniens. Les ONG, comme Notre Affaire à Tous, jouent un rôle clé en mobilisant l’opinion publique et en exigeant une transparence totale sur les études toxicologiques.",
-      "analyse_en": "PFAS, nicknamed ‘forever chemicals’ due to their persistence in the environment, have been at the center of health and ecological controversies for decades. Their growing use in industry—particularly for their anti-adhesive and heat-resistant properties—exacerbates risks of bioaccumulation and diffuse pollution. The approval of R-1234yf, despite limited long-term studies on its effects, highlights insufficient regulation amid climate and health emergencies. Short-term, environmental groups fear increased exposure of workers and residents to toxic particles, while local authorities may face high healthcare costs. Medium-term, this decision could accelerate pressure for a European moratorium on PFAS, as already demanded by several member states. Long-term, the chemical industry will need to rethink its models to avoid a legitimacy crisis akin to that of endocrine disruptors. NGOs like Notre Affaire à Tous are pivotal in mobilizing public opinion and demanding full transparency on toxicological studies.",
-      "analyse_zh": "PFAS化学物质因其在环境中的持久性而被称为‘永久化学物质’，多年来一直是健康和生态争议的焦点。其在工业中的广泛应用，特别是其防粘和耐高温特性，加剧了生物累积和扩散污染的风险。R-1234yf的批准，尽管缺乏长期效应的充分研究，反映了在气候和健康危机下的监管不足。短期内，环保组织担忧工人和居民暴露在有毒颗粒中的风险增加，而地方政府可能需要承担高昂的医疗费用。中期内，这一决定可能加速欧洲对PFAS禁令的压力，类似于欧盟成员国已经提出的要求。长期来看，化学行业必须重新思考其模式，以避免类似内分泌干扰物的合法性危机。NGO如‘我们的事’在动员公众舆论和要求透明公布毒理学研究方面发挥关键作用。",
-      "analyse_ru": "R-1234yf относится к группе PFAS — веществ, известных как «вечные загрязнители», поскольку они накапливаются в организме и окружающей среде. Его использование в промышленности может привести к загрязнению почвы и водных ресурсов, что угрожает здоровью жителей региона. Экологи и общественные организации обвиняют власти в недостаточной прозрачности решений, связанных с химической промышленностью. Противники предлагают заменить вещество на более безопасные альтернативы, но производители ссылаются на экономические выгоды и технологическую необходимость. В ближайшее время ожидается обострение дискуссий о регулировании PFAS в Европе.",
-      "analyse_fa": "R-1234yf از گروه PFAS است که به عنوان «ملوثات ابدی» شناخته می‌شوند، زیرا در بدن و محیط زیست تجمع می‌یابند. استفاده از این ماده در صنایع ممکن است به آلودگی خاک و منابع آب منجر شود که به سلامت ساکنان منطقه تهدید می‌کند. اکولوگ‌ها و سازمان‌های اجتماعی از دولت انتقاد می‌کنند که در تصمیم‌گیری‌های مربوط به صنعت شیمیایی شفافیت کافی ندارد. مخالفان پیشنهاد جایگزینی این ماده با جایگزین‌های امن‌تر را داده‌اند، اما تولیدکنندگان به مزایای اقتصادی و ضرورت فنی آن اشاره می‌کنند. در آینده نزدیک انتظار می‌رود بحث‌های در مورد تنظیم PFAS در اروپا تشدید شود.",
-      "analyse_ar": "R-1234yf ينتمي إلى فئة PFAS، المعروفة باسم «اللوثات الدائمة» بسبب تراكمها في الجسم والبيئة. استخدامه في الصناعة قد يؤدي إلى تلوث التربة والموارد المائية، ما الذي يهدد صحة سكان المنطقة. بيئيوون ومجموعات المجتمع ينتقدون الحكومة بسبب عدم الشفافية في قراراتها المتعلقة بالصناعة الكيميائية. يقترح المعارضون استبدال هذه المادة بمواد بديلة أكثر أمانًا، لكن المنتجون يرجعون إلى الفوائد الاقتصادية والضرورة التقنية لها. في المستقبل القريب، من المتوقع تشديد المناقشات حول تنظيم PFAS في أوروبا.",
-      "categorie": "Environnement et Santé Publique",
-      "source": "20 Minutes",
-      "url": "https://www.20minutes.fr/planete/4258709-20261031-nouveau-pfas-bientot-introduit-vallee-chimie-francaise",
-      "image": "https://img.20mn.fr/7nNbvNViTYG-raUb5QQpiSk/1444x920_les-mots-i-dont-play-my-life-heads-or-pfas-sont-inscrits-sur-une-pancarte-lors-d-un-rassemblement-contre-l-extension-de-l-usine-pierre-benite-de-daikin-et-l-utilisation-de-pfas-a-lyon-en-france-le-30-septembre-2024-photo-de-matthieu-delaty-hans-lucas-via-afp",
-      "date": "2026-10-31",
-      "pays": "pol_env",
+      "id": "pol_femmes_16505",
+      "titre": "Belgique : État en retard sur recensement féminicides",
+      "titre_en": "Belgium delays official femicide census",
+      "titre_zh": "比利时延误女性谋杀案统计",
+      "titre_ru": "В Бельгии нет официальной статистики по убийствам женщин",
+      "titre_fa": "در بلژیک ثبت رسمی قتل زنان هنوز انجام نشده است",
+      "titre_ar": "لم يتم تسجيل قتل النساء رسميًا في بلجيكا",
+      "titre_original": "Féminicides : le recensement n'est toujours pas assuré par l'État belge, \"ces difficultés ne peuvent servir d'explication sans fin à l'inaction\"",
+      "resume": "La Plateforme féministe belge critique l’absence de recensement officiel des féminicides, malgré des engagements répétés. Les difficultés administratives ne justifient pas l’inaction persistante des autorités. Cette carence aggrave l’impunité et limite les politiques de prévention.",
+      "resume_en": "Belgian feminist platform condemns the lack of an official femicide census despite repeated promises. Administrative hurdles do not excuse ongoing inaction by authorities. This gap fuels impunity and weakens prevention policies.",
+      "resume_zh": "比利时女性主义平台批评政府未能建立女性谋杀案官方统计，尽管多次承诺。行政困难不能成为拖延的借口，此缺陷加剧了免责现象并削弱预防措施。",
+      "resume_ru": "Платформа феминисток против насилия над женщинами обвиняет государство в задержке создания официального учета убийств женщин. Отсутствие данных не должно служить оправданием бездействия властей. Активистки требуют принятия мер для защиты жертв насилия.",
+      "resume_fa": "پلتفرم ضد خشونت علیه زنان در بلژیک از تأخیر در ثبت رسمی قتل زنان انتقاد می‌کند. عدم وجود آمار نمی‌تواند بهانه‌ای برای بی‌توجهی دولت باشد. فعالان خواستار اقدامات فوری برای حمایت از قربانیان خشونت هستند.",
+      "resume_ar": "نادت منصة ضد العنف ضد النساء في بلجيكا بتأخير تسجيل قتل النساء رسميًا. عدم وجود بيانات لا يمكن أن يكون عذرًا لغياب العمل الحكومي. تطلبت النشطاء اتخاذ تدابير لحماية ضحايا العنف.",
+      "analyse_detaillee": "En Belgique, les féminicides restent sous-déclarés depuis des décennies, malgré des alertes récurrentes depuis les années 1990. L’absence de données fiables empêche une réponse ciblée aux violences conjugales et aux crimes sexistes. Les causes profondes incluent un système judiciaire lent, une sous-représentation des victimes dans les statistiques officielles, et un manque de coordination interinstitutionnelle. À court terme, cette carence retarde les réformes législatives comme la loi sur les féminicides adoptée en 2023. À moyen terme, elle affaiblit les campagnes de sensibilisation et les budgets alloués aux associations. À long terme, elle risque de normaliser l’impunité et de décourager les victimes de signaler les agressions. Les ONG dénoncent l’hypocrisie politique, tandis que le gouvernement invoque des ‘difficultés techniques’ pour justifier son inaction.",
+      "analyse_en": "In Belgium, femicides have been underreported for decades despite recurring warnings since the 1990s. The lack of reliable data prevents targeted responses to domestic violence and sexist crimes. Root causes include a slow judicial system, underrepresentation of victims in official statistics, and poor inter-institutional coordination. Short-term, this delay hinders legislative reforms like the 2023 femicide law. Medium-term, it weakens awareness campaigns and funding for women’s associations. Long-term, it risks normalizing impunity and discouraging victims from reporting abuse. NGOs condemn political hypocrisy, while the government cites ‘technical difficulties’ to justify inaction.",
+      "analyse_zh": "比利时多年来女性谋杀案统计不完整，尽管自上世纪90年代以来反复警告。缺乏可靠数据阻碍了针对家庭暴力和性别犯罪的精准回应。深层原因包括司法程序缓慢、官方统计中受害者代表性不足，以及机构间协调不力。短期内，这推迟了2023年女性谋杀案立法等改革。中期内，它削弱了公众宣传和对女性组织的资金支持。长期来看，可能会使免责合法化，并让受害者不敢报案。非政府组织谴责政客虚伪，而政府则以‘技术困难’为借口推脱责任。",
+      "analyse_ru": "В Бельгии отсутствует система мониторинга убийств женщин, что ставит под угрозу борьбу с насилием. Причинами являются бюрократические барьеры и недостаток ресурсов для сбора данных. Это создает риск для жертв, так как отсутствие статистики мешает выявлению тенденций и разработке эффективных законов. Активистки обвиняют правительство в игнорировании проблемы, несмотря на международные обязательства. В будущем без официальных данных сложно оценить эффективность мер по защите женщин, что ослабляет позиции феминисток в диалоге с властями.",
+      "analyse_fa": "در بلژیک سیستم ثبت رسمی قتل زنان وجود ندارد که مبارزه با خشونت را در خطر قرار می‌دهد. دلایل این تأخیر شامل مانع‌های اداری و کمبود منابع برای جمع‌آوری داده‌ها است. این وضعیت خطر قربانیان را افزایش می‌دهد، زیرا عدم وجود آمار مانع شناسایی الگوها و طراحی قوانین مؤثر می‌شود. فعالان دولت را متهم به نادیده گرفتن این مشکل می‌کنند، در حالی که کشور موظف به رعایت تعهدات بین‌المللی است. بدون آمار رسمی، ارزیابی اثربخشی اقدامات حمایت از زنان دشوار خواهد بود و این موقعیت فعالان را در گفتگو با مقامات ضعیف می‌کند.",
+      "analyse_ar": "في بلجيكا لا يوجد نظام متابعة رسمي لقتل النساء، مما يهدد جهود مكافحة العنف. أسباب التأخير تشمل الحواجز البيروقراطية ونقص الموارد لجمع البيانات. هذا يهدد ضحايا، حيث أن عدم وجود إحصاءات يعيق اكتشاف الأنماط وتطوير قوانين فعالة. تتهم النشطات الحكومة بإهمال المشكلة، رغم التزامات بلجيكا الدولية. بدون بيانات رسمية، من الصعب تقييم فعالية التدابير لحماية النساء، مما يضع نشطاء في وضعية ضعيفة في الحوار مع السلطات.",
+      "categorie": "Droits humains",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/belgique/judiciaire/2026/10/29/feminicides-le-recensement-nest-toujours-pas-assure-par-letat-belge-ces-difficultes-ne-peuvent-servir-dexplication-sans-fin-a-linaction-RAE7JKLN5VGKNK2LTXW6BRFKJM/",
+      "image": "https://www.lalibre.be/resizer/v2/TW5HP6DQBBETNIOU3A5LKV7PBU.jpg?auth=091af57aa80d8540750eb12635a9c2a2fd805f46317b85cc0fc3b0a3d50903a3&width=1200&height=630&quality=85&focal=1536%2C1022",
+      "date": "2026-10-29",
+      "pays": "pol_femmes",
       "badges": [
         {
-          "label": "▲ Industrie chimique (secteur des fluides frigorigènes)",
-          "hausse": true
+          "label": "▼ Fonds européens pour l'égalité femmes-hommes",
+          "hausse": false
         },
         {
-          "label": "▲ Assurance responsabilité environnementale",
+          "label": "▲ Assurances responsabilité civile (RC) des ménages",
           "hausse": true
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Industrie chimique (secteur des fluides frigorigènes)",
-          "secteur_en": "Chemical industry (refrigerant fluids sector)",
-          "secteur_zh": "化学工业（制冷剂行业）",
-          "effet_fr": "L’autorisation du R-1234yf pourrait relancer la demande pour des alternatives moins toxiques, poussant les acteurs à investir dans des recherches sur des substituts durables.",
-          "effet_en": "Approval of R-1234yf may revive demand for less toxic alternatives, prompting industry players to invest in research for sustainable substitutes.",
-          "effet_zh": "R-1234yf的批准可能刺激对更环保替代品的需求，推动行业投资于可持续替代品的研发。",
-          "hausse": true
+          "secteur_fr": "Fonds européens pour l'égalité femmes-hommes",
+          "secteur_en": "European Equality Fund for Women",
+          "secteur_zh": "欧盟女性平等基金",
+          "effet_fr": "Le manque de données fiables limite l’allocation optimale de ce fonds, réduisant son impact sur les victimes et les associations locales.",
+          "effet_en": "Lack of reliable data restricts optimal allocation of this fund, weakening its impact on victims and local organizations.",
+          "effet_zh": "缺乏可靠数据限制了该基金的最佳分配，削弱了对受害者和地方组织的帮助。",
+          "hausse": false
         },
         {
-          "secteur_fr": "Assurance responsabilité environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les assureurs pourraient renforcer leurs exigences en matière de conformité PFAS pour les entreprises de la vallée de la chimie, augmentant les coûts d’assurance.",
-          "effet_en": "Insurers may tighten PFAS compliance requirements for chemical valley companies, increasing insurance costs.",
-          "effet_zh": "保险公司可能对化学谷企业的PFAS合规性提出更严格要求，导致保险费用上升。",
+          "secteur_fr": "Assurances responsabilité civile (RC) des ménages",
+          "secteur_en": "Homeowners' Liability Insurance",
+          "secteur_zh": "家庭责任保险",
+          "effet_fr": "Les assureurs pourraient augmenter les primes ou restreindre les couvertures en cas de hausse des déclarations de violences domestiques non recensées.",
+          "effet_en": "Insurers may raise premiums or limit coverage if undocumented domestic violence claims rise.",
+          "effet_zh": "保险公司可能因未统计的家庭暴力报案增加而提高保费或限制保障范围。",
           "hausse": true
         }
       ],
-      "created_at": "2026-11-01T08:45:41.183346",
-      "sous_categorie": "environnement"
+      "created_at": "2026-11-01T15:47:25.032230",
+      "sous_categorie": "femmes"
     },
     {
       "id": "pol_femmes_82986",
@@ -6491,66 +6491,6 @@
         }
       ],
       "created_at": "2026-10-31T13:20:53.645064",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_709038",
-      "titre": "Golino dénonce minimisation des féminicides",
-      "titre_en": "Golino: Politics Downplays Female Homicides",
-      "titre_zh": "戈利诺抨击政治轻视女性谋杀",
-      "titre_ru": "Валерия Голино: «Политическая сфера постоянно минимизирует убийства женщин»",
-      "titre_fa": "والریا گولینو: «مجال سیاسی همواره قتل زنان را کوچک می‌کند»",
-      "titre_ar": "فاليريا جولينو: «المجال السياسي باستمرار يقلل من جرائم قتل النساء»",
-      "titre_original": "Valeria Golino : « La sphère politique semble sans cesse minimiser les féminicides »",
-      "resume": "L’actrice Valeria Golino critique dans une interview la sous-estimation systématique des féminicides par la sphère politique, illustrée par son rôle dans *La Tentazione*. Le film explore les mécanismes de l’emprise à travers une relation toxique entre une enseignante et son élève. Ce débat s’inscrit dans une dynamique plus large de lutte contre les violences faites aux femmes en Italie.",
-      "resume_en": "Actress Valeria Golino criticizes politics for systematically downplaying femicides in an interview, highlighted by her role in *La Tentazione*. The film examines coercive dynamics through a toxic teacher-student relationship. This discussion fits broader efforts to combat gender-based violence in Italy.",
-      "resume_zh": "女演员瓦莱丽亚·戈利诺在采访中批评政治领域长期轻视女性谋杀案，其在《诱惑》中的角色体现了这一问题。该片通过教师与学生的毒性关系探讨控制机制。此讨论与意大利反对针对女性暴力的更广泛努力相关。",
-      "resume_ru": "С помощью фильма «Искушение» о связи преподавательницы французского языка и её молодого ученика режиссёр Николанжело Джелормини исследует механизмы психологического давления. Валерия Голино подчеркнула, что общество и власть часто игнорируют масштабы насилия над женщинами. Картина раскрывает трагические последствия неравноправных отношений в современном обществе.",
-      "resume_fa": "با فیلم «تemptation» که داستان رابطه‌ای بین یک معلم فرانسوی و دانش‌آموز جوانش است، کارگردان نیکولانژلو ژلورمینی به مکانیسم‌های کنترل روانی می‌پردازد. والریا گولینو تأکید کرد که جامعه و قدرت اغلب از حجم خشونت علیه زنان چشم‌پوشی می‌کنند. این فیلم پیامدهای تلخ نابرابری در روابط امروزی را آشکار می‌کند.",
-      "resume_ar": "من خلال فيلم «الت tentation» الذي يروي قصة علاقة بين معلمة لغة فرنسية وشاب تلميذها، يستكشف المخرج نيكولانجيلو جيلورميني آليات السيطرة النفسية. أكدت فاليريا جولينو أن المجتمع والسياسة غالبًا ما يقللون من حجم جرائم قتل النساء. الفيلم يكشف عن عواقب قاسية عدم المساواة في العلاقات الحديثة.",
-      "analyse_detaillee": "En Italie, les féminicides restent un sujet tabou malgré des chiffres alarmants (126 cas en 2022 selon l’Observatoire national). La minimisation politique reflète une culture patriarcale persistante, où les violences conjugales sont souvent étiquetées comme des ‘drames personnels’. *La Tentazione* révèle comment l’emprise psychologique normalise ces actes, souvent impunis. Court terme : une mobilisation médiatique ponctuelle, mais sans réforme législative concrète. À moyen terme, les associations comme *D.i.Re* poussent pour des peines plus lourdes, mais rencontrent des résistances institutionnelles. Long terme, une prise de conscience progressive émerge, notamment via des campagnes comme *#NonUnaDiMeno*. Les partis de gauche soutiennent ces causes, tandis que la droite reste divisée entre modération et conservatisme.",
-      "analyse_en": "In Italy, femicides remain a taboo despite alarming figures (126 cases in 2022 per the National Observatory). Political downplaying mirrors persistent patriarchal culture, where domestic violence is often framed as ‘personal dramas’. *La Tentazione* exposes how psychological coercion normalizes these acts, frequently unpunished. Short-term: media outcry without concrete legislative reforms. Mid-term: NGOs like *D.i.Re* push for harsher penalties but face institutional resistance. Long-term: gradual awareness grows, fueled by campaigns like *#NonUnaDiMeno*. Left-wing parties back these causes, while the right remains divided between moderation and conservatism.",
-      "analyse_zh": "意大利女性谋杀案长期被忽视，尽管2022年有126起案件（国家观察所数据）。政治轻视反映出根深蒂固的男权文化，家庭暴力往往被归类为‘个人悲剧’。《诱惑》揭示心理控制如何正常化这些行为，且大多得不到惩罚。短期内，媒体短暂关注但缺乏立法改革。中期内，NGO如*D.i.Re*推动更严厉刑罚，但遭遇制度阻力。长期内，公众意识逐渐提高，如#NonUnaDiMeno运动推动。左翼政党支持这些运动，右翼党则在温和与保守之间分裂。",
-      "analyse_ru": "Фильм «Искушение» актуализирует проблему насилия в современных отношениях, где жертвы часто остаются незащищёнными. Голино указывает на то, что политическая сфера не только не реагирует на убийства женщин, но и нормализует их в общественном дискурсе. Это отражает системные проблемы гендерного неравенства, где мужчины сохраняют доминирующую роль. Критики отмечают, что подобные истории остаются незамеченными из-за культурных стереотипов. В будущем требуется усиление законодательной защиты и просветительских программ для изменения ситуации.",
-      "analyse_fa": "فیلم «تemptation» مسئله خشونت در روابط امروزی را به روز می‌کند، جایی که قربانیان اغلب بدون حمایت باقی می‌مانند. گولینو به این اشاره می‌کند که حوزه سیاسی نه تنها به قتل زنان واکنش نشان نمی‌دهد، بلکه آن را در گفتگوهای عمومی نرمال می‌کند. این نشان‌دهنده مشکلات سیستماتیک نابرابری جنسیتی است، جایی که مردان نقش غالب را حفظ می‌کنند. منتقدان اشاره می‌کنند که چنین داستان‌هایی به دلیل استریوتایپ‌های فرهنگی نادیده گرفته می‌شوند. در آینده، تقویت قوانین حفاظتی و برنامه‌های آموزشی برای تغییر این وضعیت ضروری است.",
-      "analyse_ar": "فيلم «الت tentation» يعيد طرح مشكلة العنف في العلاقات الحديثة، حيث تظل الضحايا غير محمية. أكدت جولينو على أن المجال السياسي لا يتفاعل مع جرائم قتل النساء بل ويطبيعها في النقاش العام. هذا يعكس مشاكل نظامية عدم المساواة بين الجنسين، حيث يحتفظ الرجال بالسلطة السائدة. يشير النقاد إلى أن مثل هذه القصص تُهمل بسبب السtereotypes الثقافية. في المستقبل، يتطلب الأمر تعزيز القوانين الحامية وبرامج التوعية لتغيير هذه الواقع.",
-      "categorie": "Droits humains/Gender",
-      "source": "L'Obs",
-      "url": "https://www.nouvelobs.com/culture/20261029.OBS119655/valeria-golino-la-sphere-politique-semble-sans-cesse-minimiser-les-feminicides.html",
-      "image": "https://focus.nouvelobs.com/2026/10/29/23/0/5524/3682/1200/800/0/0/962a061_upload-1-sfyfua2avcel-020-2294177258.jpg",
-      "date": "2026-10-29",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurances responsabilité civile (RC) des entreprises",
-          "hausse": true
-        },
-        {
-          "label": "▼ Fonds d’investissement éthiques (ESG)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances responsabilité civile (RC) des entreprises",
-          "secteur_en": "Corporate liability insurance sector",
-          "secteur_zh": "企业责任保险行业",
-          "effet_fr": "Les affaires de féminicides liés à l’emprise pourraient entraîner une hausse des réclamations contre les assurances couvrant les risques psychologiques en milieu professionnel.",
-          "effet_en": "Cases of femicide tied to coercion may lead to increased claims against insurers covering workplace psychological risks.",
-          "effet_zh": "与控制相关的女性谋杀案可能导致对职场心理风险保险的索赔增加。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds d’investissement éthiques (ESG)",
-          "secteur_en": "Ethical investment funds (ESG)",
-          "secteur_zh": "ESG责任投资基金",
-          "effet_fr": "Les débats sur les violences genrées pourraient inciter les fonds ESG à exclure les entreprises accusées de normaliser ces comportements via leurs politiques RH.",
-          "effet_en": "Discussions on gender-based violence may prompt ESG funds to exclude companies accused of normalizing such behaviors through HR policies.",
-          "effet_zh": "性别暴力讨论可能促使ESG基金排除在人力资源政策中正常化此类行为的企业。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-10-30T20:27:21.297363",
       "sous_categorie": "femmes"
     },
     {
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-10-25T14:51:39.411468",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_739519",
+      "titre": "Nouveau PFAS controversé autorisé en France",
+      "titre_en": "Controversial New PFAS Approved in France",
+      "titre_zh": "法国新批准争议PFAS化学物质",
+      "titre_ru": "Новый опасный PFAS R-1234yf может появиться в французской химической долине",
+      "titre_fa": "ماده شیمیایی خطرناک R-1234yf در دره شیمیایی فرانسه",
+      "titre_ar": "المادة الكيميائية الخطرة الجديدة R-1234yf ستُدخل قريبًا في وادي الكيمياء الفرنسي",
+      "titre_original": "Quel est ce nouveau PFAS bientôt introduit dans la vallée de la chimie française ?",
+      "resume": "L’association Notre Affaire à Tous et d’autres groupes environnementaux demandent l’annulation de l’autorisation du R-1234yf, un PFAS (substance per- et polyfluoroalkylée) jugé dangereux pour la santé et l’environnement. Ce composé, utilisé dans les systèmes de climatisation, pourrait s’ajouter aux centaines de PFAS déjà présents dans la vallée de la chimie française. Les risques de contamination des sols et de l’eau soulèvent des inquiétudes majeures pour les populations locales.",
+      "resume_en": "The environmental group Notre Affaire à Tous and others are calling for the cancellation of the approval for R-1234yf, a PFAS chemical deemed harmful to health and the environment. This compound, used in air conditioning systems, could join hundreds of existing PFAS in France’s chemical valley, raising concerns about soil and water contamination for local populations.",
+      "resume_zh": "环保组织‘我们的事’及其他团体要求撤销R-1234yf（一种PFAS化学物质）的批准，该物质被认为对健康和环境有害。这种用于空调系统的化学物质可能加入法国化学谷中已有的数百种PFAS中，引发当地居民对土壤和水污染的担忧。",
+      "resume_ru": "Жанна Флери, президент организации «Наше дело — все», рассказала в интервью «20 Minutes», почему она и другие группы требуют отмены разрешения на использование R-1234yf — вещества из группы PFAS, считающегося опасным для здоровья. Активисты опасаются негативных последствий для экологии и населения региона. Вопрос вызывает широкий общественный резонанс и критику со стороны экологов.",
+      "resume_fa": "ژان فلیری، رئیس سازمان «کار ما همه است»، در مصاحبه با «۲۰ دقیقه»، دلیل درخواست خود و دیگران برای لغو مجوز ماده شیمیایی R-1234yf را که از گروه PFAS خطرناک است، توضیح داد. فعالان نگران اثرات منفی بر محیط زیست و ساکنان منطقه هستند. این موضوع واکنش‌های گسترده‌ای از سوی اکولوگ‌ها و منتقدان به همراه داشته است.",
+      "resume_ar": "فصحت جان فليوري، رئيس منظمة «شأننا الجميع»، شرحت في مقابلة مع «20 دقيقة» سبب طلبها من نفسها ومنظمات أخرى لإلغاء ترخيص المادة الكيميائية R-1234yf، التي تعتبر من المواد الخطرة من فئة PFAS. يخشون من الآثار السلبية على البيئة والسكان في المنطقة. هذا الموضوع أثار ردود فعل واسعة من قبل البيئيةين والمعارضين.",
+      "analyse_detaillee": "Les PFAS, surnommés les ‘substances éternelles’ en raison de leur persistance dans l’environnement, sont depuis des décennies au cœur de controverses sanitaires et écologiques. Leur utilisation croissante dans l’industrie, notamment pour leurs propriétés antiadhésives et résistantes à la chaleur, aggrave les risques de bioaccumulation et de pollution diffuse. L’autorisation du R-1234yf, malgré des études limitées sur ses effets à long terme, reflète une régulation insuffisante face à l’urgence climatique et sanitaire. À court terme, les associations craignent une exposition accrue des travailleurs et riverains aux particules toxiques, tandis que les collectivités locales pourraient devoir assumer des coûts sanitaires élevés. À moyen terme, cette décision pourrait accélérer la pression pour un moratoire européen sur les PFAS, comme le réclament déjà plusieurs États membres. À long terme, l’industrie chimique devra repenser ses modèles pour éviter une crise de légitimité similaire à celle des perturbateurs endocriniens. Les ONG, comme Notre Affaire à Tous, jouent un rôle clé en mobilisant l’opinion publique et en exigeant une transparence totale sur les études toxicologiques.",
+      "analyse_en": "PFAS, nicknamed ‘forever chemicals’ due to their persistence in the environment, have been at the center of health and ecological controversies for decades. Their growing use in industry—particularly for their anti-adhesive and heat-resistant properties—exacerbates risks of bioaccumulation and diffuse pollution. The approval of R-1234yf, despite limited long-term studies on its effects, highlights insufficient regulation amid climate and health emergencies. Short-term, environmental groups fear increased exposure of workers and residents to toxic particles, while local authorities may face high healthcare costs. Medium-term, this decision could accelerate pressure for a European moratorium on PFAS, as already demanded by several member states. Long-term, the chemical industry will need to rethink its models to avoid a legitimacy crisis akin to that of endocrine disruptors. NGOs like Notre Affaire à Tous are pivotal in mobilizing public opinion and demanding full transparency on toxicological studies.",
+      "analyse_zh": "PFAS化学物质因其在环境中的持久性而被称为‘永久化学物质’，多年来一直是健康和生态争议的焦点。其在工业中的广泛应用，特别是其防粘和耐高温特性，加剧了生物累积和扩散污染的风险。R-1234yf的批准，尽管缺乏长期效应的充分研究，反映了在气候和健康危机下的监管不足。短期内，环保组织担忧工人和居民暴露在有毒颗粒中的风险增加，而地方政府可能需要承担高昂的医疗费用。中期内，这一决定可能加速欧洲对PFAS禁令的压力，类似于欧盟成员国已经提出的要求。长期来看，化学行业必须重新思考其模式，以避免类似内分泌干扰物的合法性危机。NGO如‘我们的事’在动员公众舆论和要求透明公布毒理学研究方面发挥关键作用。",
+      "analyse_ru": "R-1234yf относится к группе PFAS — веществ, известных как «вечные загрязнители», поскольку они накапливаются в организме и окружающей среде. Его использование в промышленности может привести к загрязнению почвы и водных ресурсов, что угрожает здоровью жителей региона. Экологи и общественные организации обвиняют власти в недостаточной прозрачности решений, связанных с химической промышленностью. Противники предлагают заменить вещество на более безопасные альтернативы, но производители ссылаются на экономические выгоды и технологическую необходимость. В ближайшее время ожидается обострение дискуссий о регулировании PFAS в Европе.",
+      "analyse_fa": "R-1234yf از گروه PFAS است که به عنوان «ملوثات ابدی» شناخته می‌شوند، زیرا در بدن و محیط زیست تجمع می‌یابند. استفاده از این ماده در صنایع ممکن است به آلودگی خاک و منابع آب منجر شود که به سلامت ساکنان منطقه تهدید می‌کند. اکولوگ‌ها و سازمان‌های اجتماعی از دولت انتقاد می‌کنند که در تصمیم‌گیری‌های مربوط به صنعت شیمیایی شفافیت کافی ندارد. مخالفان پیشنهاد جایگزینی این ماده با جایگزین‌های امن‌تر را داده‌اند، اما تولیدکنندگان به مزایای اقتصادی و ضرورت فنی آن اشاره می‌کنند. در آینده نزدیک انتظار می‌رود بحث‌های در مورد تنظیم PFAS در اروپا تشدید شود.",
+      "analyse_ar": "R-1234yf ينتمي إلى فئة PFAS، المعروفة باسم «اللوثات الدائمة» بسبب تراكمها في الجسم والبيئة. استخدامه في الصناعة قد يؤدي إلى تلوث التربة والموارد المائية، ما الذي يهدد صحة سكان المنطقة. بيئيوون ومجموعات المجتمع ينتقدون الحكومة بسبب عدم الشفافية في قراراتها المتعلقة بالصناعة الكيميائية. يقترح المعارضون استبدال هذه المادة بمواد بديلة أكثر أمانًا، لكن المنتجون يرجعون إلى الفوائد الاقتصادية والضرورة التقنية لها. في المستقبل القريب، من المتوقع تشديد المناقشات حول تنظيم PFAS في أوروبا.",
+      "categorie": "Environnement et Santé Publique",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/planete/4258709-20261031-nouveau-pfas-bientot-introduit-vallee-chimie-francaise",
+      "image": "https://img.20mn.fr/7nNbvNViTYG-raUb5QQpiSk/1444x920_les-mots-i-dont-play-my-life-heads-or-pfas-sont-inscrits-sur-une-pancarte-lors-d-un-rassemblement-contre-l-extension-de-l-usine-pierre-benite-de-daikin-et-l-utilisation-de-pfas-a-lyon-en-france-le-30-septembre-2024-photo-de-matthieu-delaty-hans-lucas-via-afp",
+      "date": "2026-10-31",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Industrie chimique (secteur des fluides frigorigènes)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité environnementale",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Industrie chimique (secteur des fluides frigorigènes)",
+          "secteur_en": "Chemical industry (refrigerant fluids sector)",
+          "secteur_zh": "化学工业（制冷剂行业）",
+          "effet_fr": "L’autorisation du R-1234yf pourrait relancer la demande pour des alternatives moins toxiques, poussant les acteurs à investir dans des recherches sur des substituts durables.",
+          "effet_en": "Approval of R-1234yf may revive demand for less toxic alternatives, prompting industry players to invest in research for sustainable substitutes.",
+          "effet_zh": "R-1234yf的批准可能刺激对更环保替代品的需求，推动行业投资于可持续替代品的研发。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité environnementale",
+          "secteur_en": "Environmental liability insurance",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "Les assureurs pourraient renforcer leurs exigences en matière de conformité PFAS pour les entreprises de la vallée de la chimie, augmentant les coûts d’assurance.",
+          "effet_en": "Insurers may tighten PFAS compliance requirements for chemical valley companies, increasing insurance costs.",
+          "effet_zh": "保险公司可能对化学谷企业的PFAS合规性提出更严格要求，导致保险费用上升。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-01T08:45:41.183346",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_533631",
