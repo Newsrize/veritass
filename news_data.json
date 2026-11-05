@@ -1,5 +1,5 @@
 {
-  "last_updated": "05/11/2026 à 11h54",
+  "last_updated": "05/11/2026 à 19h33",
   "articles": {
     "monde": [
       {
@@ -6134,66 +6134,6 @@
   },
   "politique": [
     {
-      "id": "pol_env_912982",
-      "titre": "Betteraves sucrières : conversion bio défie les producteurs",
-      "titre_en": "Sugar beets: Bio conversion challenges farmers",
-      "titre_zh": "甜菜种植转向有机农业面临挑战",
-      "titre_ru": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
-      "titre_fa": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
-      "titre_ar": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
-      "titre_original": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
-      "resume": "Des agriculteurs français convertissent leurs champs de betteraves sucrières au bio, malgré une transition dix fois plus complexe. Ils soulignent une passion renouvelée pour une agriculture plus respectueuse de l’environnement. Cette mutation s’inscrit dans un contexte de pression réglementaire et de demande croissante pour des produits sans pesticides.",
-      "resume_en": "French sugar beet farmers are switching to organic farming, despite a tenfold increase in complexity. They highlight renewed passion for environmentally friendly agriculture. This shift reflects regulatory pressure and growing consumer demand for pesticide-free products.",
-      "resume_zh": "法国甜菜种植者转向有机农业，尽管转型难度加倍。他们表示对环保农业的热情倍增。这一转变源于监管压力和消费者对无农药产品的需求增长。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La conversion au bio des betteraves sucrières s’inscrit dans une tendance mondiale de transition agroécologique, accélérée en France depuis les lois sur l’agroécologie (2018). Les enjeux sont à la fois environnementaux (réduction des pesticides) et économiques, avec des coûts initiaux élevés mais des subventions européennes (PAC) pour soutenir les conversions. Les causes profondes incluent la perte de biodiversité et la méfiance croissante des consommateurs envers les OGM et les intrants chimiques. À court terme, les rendements peuvent baisser, mais les producteurs misent sur une meilleure résilience climatique et une valorisation premium des produits. À moyen terme, cette transition pourrait redéfinir les filières sucrières locales, avec des défis logistiques pour les coopératives. Long terme, elle pourrait devenir un modèle pour d’autres cultures intensives, si les rendements se stabilisent. Les acteurs comme les coopératives agricoles (Coop de France) soutiennent cette évolution, tandis que les industriels sucriers (Tereos, Cristal Union) restent prudents face aux coûts de transformation.",
-      "analyse_en": "The conversion of sugar beets to organic farming aligns with a global agroecological shift, accelerated in France since the 2018 agroecology laws. The stakes are environmental (pesticide reduction) and economic, with high initial costs offset by EU subsidies (CAP). Root causes include biodiversity loss and growing consumer distrust of GMOs and chemical inputs. Short-term yields may decline, but farmers bet on climate resilience and premium pricing. Mid-term, this transition could reshape local sugar industries, with logistical challenges for cooperatives. Long-term, it may set a model for other intensive crops if yields stabilize. Cooperatives (Coop de France) back this shift, while sugar processors (Tereos, Cristal Union) remain cautious about transformation costs.",
-      "analyse_zh": "甜菜转向有机农业符合全球生态农业转型潮流，法国自2018年农业生态法案以来加速推进。环境（减少农药）和经济（初期成本高但欧盟补贴支持转型）是主要挑战。深层原因包括生物多样性丧失和消费者对转基因和化学投入的不信任。短期内产量可能下降，但种植者依赖气候韧性和高端产品溢价。中期内，这一转变可能重塑当地糖业链，合作社面临物流挑战。长期来看，如果产量稳定，可能成为其他高强度作物的转型模式。农业合作社（法国合作社联盟）支持这一变革，而糖业加工商（泰瑞奥斯、克里斯塔联）对转型成本持谨慎态度。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement & Agriculture",
-      "source": "Basta.media",
-      "url": "https://basta.media/dix-fois-plus-complique-mais-dix-fois-plus-passionnant-producteurs-betteraves-passent-au-bio",
-      "image": "https://basta.media/local/cache-gd2/d2/6726367df624886b442fdf53da03b9.jpg",
-      "date": "2026-11-04",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance agricole et réassurance",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des intrants agricoles (engrais, pesticides)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance agricole et réassurance",
-          "secteur_en": "Agricultural insurance and reinsurance",
-          "secteur_zh": "农业保险和再保险",
-          "effet_fr": "Les primes pourraient augmenter en raison des risques accrus liés aux méthodes bio moins prévisibles et plus vulnérables aux aléas climatiques.",
-          "effet_en": "Premiums may rise due to higher risks from less predictable organic methods and greater climate vulnerability.",
-          "effet_zh": "保费可能上涨，因为有机种植方法不确定性增大且对气候变化更敏感。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des intrants agricoles (engrais, pesticides)",
-          "secteur_en": "Agricultural inputs market (fertilizers, pesticides)",
-          "secteur_zh": "农业投入品市场（肥料、农药）",
-          "effet_fr": "La demande en pesticides conventionnels devrait chuter, tandis que le marché des alternatives bio (compost, purins) pourrait se développer, bien que moins rentable à court terme.",
-          "effet_en": "Demand for conventional pesticides will likely decline, while the organic alternatives market (compost, manure) may grow, though less profitable in the short term.",
-          "effet_zh": "常规农药需求下降，有机替代品（堆肥、液肥）市场可能扩大，但短期内利润较低。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-11-05T11:54:22.615657",
-      "sous_categorie": "environnement"
-    },
-    {
       "id": "pol_femmes_537939",
       "titre": "Féminicide à Grigny : procès historique",
       "titre_en": "Grigny femicide trial begins in court",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-10-25T14:51:39.411468",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_912982",
+      "titre": "Betteraves sucrières : conversion bio défie les producteurs",
+      "titre_en": "Sugar beets: Bio conversion challenges farmers",
+      "titre_zh": "甜菜种植转向有机农业面临挑战",
+      "titre_ru": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
+      "titre_fa": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
+      "titre_ar": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
+      "titre_original": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
+      "resume": "Des agriculteurs français convertissent leurs champs de betteraves sucrières au bio, malgré une transition dix fois plus complexe. Ils soulignent une passion renouvelée pour une agriculture plus respectueuse de l’environnement. Cette mutation s’inscrit dans un contexte de pression réglementaire et de demande croissante pour des produits sans pesticides.",
+      "resume_en": "French sugar beet farmers are switching to organic farming, despite a tenfold increase in complexity. They highlight renewed passion for environmentally friendly agriculture. This shift reflects regulatory pressure and growing consumer demand for pesticide-free products.",
+      "resume_zh": "法国甜菜种植者转向有机农业，尽管转型难度加倍。他们表示对环保农业的热情倍增。这一转变源于监管压力和消费者对无农药产品的需求增长。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La conversion au bio des betteraves sucrières s’inscrit dans une tendance mondiale de transition agroécologique, accélérée en France depuis les lois sur l’agroécologie (2018). Les enjeux sont à la fois environnementaux (réduction des pesticides) et économiques, avec des coûts initiaux élevés mais des subventions européennes (PAC) pour soutenir les conversions. Les causes profondes incluent la perte de biodiversité et la méfiance croissante des consommateurs envers les OGM et les intrants chimiques. À court terme, les rendements peuvent baisser, mais les producteurs misent sur une meilleure résilience climatique et une valorisation premium des produits. À moyen terme, cette transition pourrait redéfinir les filières sucrières locales, avec des défis logistiques pour les coopératives. Long terme, elle pourrait devenir un modèle pour d’autres cultures intensives, si les rendements se stabilisent. Les acteurs comme les coopératives agricoles (Coop de France) soutiennent cette évolution, tandis que les industriels sucriers (Tereos, Cristal Union) restent prudents face aux coûts de transformation.",
+      "analyse_en": "The conversion of sugar beets to organic farming aligns with a global agroecological shift, accelerated in France since the 2018 agroecology laws. The stakes are environmental (pesticide reduction) and economic, with high initial costs offset by EU subsidies (CAP). Root causes include biodiversity loss and growing consumer distrust of GMOs and chemical inputs. Short-term yields may decline, but farmers bet on climate resilience and premium pricing. Mid-term, this transition could reshape local sugar industries, with logistical challenges for cooperatives. Long-term, it may set a model for other intensive crops if yields stabilize. Cooperatives (Coop de France) back this shift, while sugar processors (Tereos, Cristal Union) remain cautious about transformation costs.",
+      "analyse_zh": "甜菜转向有机农业符合全球生态农业转型潮流，法国自2018年农业生态法案以来加速推进。环境（减少农药）和经济（初期成本高但欧盟补贴支持转型）是主要挑战。深层原因包括生物多样性丧失和消费者对转基因和化学投入的不信任。短期内产量可能下降，但种植者依赖气候韧性和高端产品溢价。中期内，这一转变可能重塑当地糖业链，合作社面临物流挑战。长期来看，如果产量稳定，可能成为其他高强度作物的转型模式。农业合作社（法国合作社联盟）支持这一变革，而糖业加工商（泰瑞奥斯、克里斯塔联）对转型成本持谨慎态度。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Agriculture",
+      "source": "Basta.media",
+      "url": "https://basta.media/dix-fois-plus-complique-mais-dix-fois-plus-passionnant-producteurs-betteraves-passent-au-bio",
+      "image": "https://basta.media/local/cache-gd2/d2/6726367df624886b442fdf53da03b9.jpg",
+      "date": "2026-11-04",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et réassurance",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des intrants agricoles (engrais, pesticides)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et réassurance",
+          "secteur_en": "Agricultural insurance and reinsurance",
+          "secteur_zh": "农业保险和再保险",
+          "effet_fr": "Les primes pourraient augmenter en raison des risques accrus liés aux méthodes bio moins prévisibles et plus vulnérables aux aléas climatiques.",
+          "effet_en": "Premiums may rise due to higher risks from less predictable organic methods and greater climate vulnerability.",
+          "effet_zh": "保费可能上涨，因为有机种植方法不确定性增大且对气候变化更敏感。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des intrants agricoles (engrais, pesticides)",
+          "secteur_en": "Agricultural inputs market (fertilizers, pesticides)",
+          "secteur_zh": "农业投入品市场（肥料、农药）",
+          "effet_fr": "La demande en pesticides conventionnels devrait chuter, tandis que le marché des alternatives bio (compost, purins) pourrait se développer, bien que moins rentable à court terme.",
+          "effet_en": "Demand for conventional pesticides will likely decline, while the organic alternatives market (compost, manure) may grow, though less profitable in the short term.",
+          "effet_zh": "常规农药需求下降，有机替代品（堆肥、液肥）市场可能扩大，但短期内利润较低。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-05T11:54:22.615657",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_363697",
