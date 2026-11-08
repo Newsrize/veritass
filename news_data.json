@@ -1,7 +1,66 @@
 {
-  "last_updated": "07/11/2026 à 23h27",
+  "last_updated": "08/11/2026 à 04h33",
   "articles": {
     "monde": [
+      {
+        "id": "monde_625478",
+        "titre": "Commanders privés de deux receveurs pour Week 9",
+        "titre_en": "Commanders missing two receivers for Week 9",
+        "titre_zh": "勇士队第9周缺两名接球手",
+        "titre_ru": "Commanders rule two receivers out for Week 9 vs Rams",
+        "titre_fa": "Commanders rule two receivers out for Week 9 vs Rams",
+        "titre_ar": "Commanders rule two receivers out for Week 9 vs Rams",
+        "titre_original": "Commanders rule two receivers out for Week 9 vs Rams",
+        "resume": "Les Washington Commanders devront affronter les Rams en Week 9 avec seulement deux receveurs disponibles, en raison d’inaptitudes ou de blessures. Cette situation limite leurs options offensives et pourrait impacter leur performance dans un match crucial. Les fans et analystes s’interrogent sur les conséquences tactiques de cette pénurie de joueurs clés.",
+        "resume_en": "The Washington Commanders will face the Rams in Week 9 with only two receivers available due to ineligibility or injuries. This limits their offensive options and may impact performance in a key match. Fans and analysts question the tactical consequences of this key-player shortage.",
+        "resume_zh": "华盛顿勇士队将在第9周对阵公羊队，但只有两名接球手可用，因不合格或受伤。这限制了他们的进攻选择，可能影响关键比赛的表现。球迷和分析师质疑缺少关键球员的战术影响。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette situation illustre les aléas du sport professionnel, où les blessures ou suspensions peuvent déséquilibrer une équipe en quelques heures. Les Commanders, en reconstruction, voient leur offensive fragilisée, ce qui pourrait renforcer leur dépendance à leur quarterback, Jaycee Horn. À court terme, cela pourrait mener à des ajustements tactiques (plus de passes courtes, moins de jeux aériens risqués). À moyen terme, cela pourrait accélérer les transferts ou les échanges pour renforcer le groupe. Long terme, cela rappelle l’importance de la gestion des blessures et de la résilience organisationnelle. Les acteurs clés sont l’équipe (management, coaching), les joueurs blessés, et les rivaux (Rams) qui pourraient exploiter cette faiblesse. Les médias amplifient l’impact psychologique sur les supporters.",
+        "analyse_en": "This highlights the unpredictability of professional sports, where injuries or suspensions can disrupt a team’s balance in hours. The Commanders, in rebuilding mode, face weakened offense, potentially increasing reliance on quarterback Jaycee Horn. Short-term, tactical adjustments (shorter passes, fewer risky air plays) may emerge. Mid-term, this could accelerate trades or transfers to bolster the roster. Long-term, it underscores the need for injury management and organizational resilience. Key actors include the team (management, coaching), injured players, and rivals (Rams) who may exploit the weakness. Media amplify the psychological impact on fans.",
+        "analyse_zh": "这展示了职业体育的不确定性，伤病或停赛可能在几小时内打乱球队的平衡。正在重建的勇士队面临进攻薄弱，可能进一步依赖四分卫杰西·霍恩。短期内，可能采取战术调整（更短距离传球，减少冒险空传）。中期内，这可能加速交易或引援以增强阵容。长期来看，这突显了伤病管理和组织韧性的重要性。关键角色包括球队管理层、教练、受伤球员，以及可能利用弱点的对手（公羊队）。媒体放大了对球迷心理的影响。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "USA Today",
+        "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2026/11/06/commanders-rule-out-treylon-burks-dyami-brown-rams/92648773007/",
+        "image": "https://s.yimg.com/lo/mysterio/api/7ef87fd804ebbbabfa1a4e1d52dc01818dcf080c8d23598d65d6818827470559/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_football_wire_usa_today_sports_articles_166%2Fc4232ae7e1203e404baea9673beac208.jpg",
+        "date": "2026-11-07",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marché des paris sportifs (betting)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Assurances sportives (injury insurance)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des paris sportifs (betting)",
+            "secteur_en": "Sports betting market",
+            "secteur_zh": "体育赌博市场",
+            "effet_fr": "Les cotes pourraient se modifier en faveur des Rams ou des sous-cotes des Commanders, attirant plus de parieurs sur des résultats moins risqués.",
+            "effet_en": "Odds may shift in favor of the Rams or underdog Commanders, drawing more bettors to safer outcomes.",
+            "effet_zh": "赔率可能向公羊队或勇士队的弱势赔率倾斜，吸引更多赌徒选择更安全的结果。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Assurances sportives (injury insurance)",
+            "secteur_en": "Sports injury insurance",
+            "secteur_zh": "体育伤害保险",
+            "effet_fr": "Les assureurs pourraient voir une hausse des réclamations liées aux blessures, incitant à réévaluer leurs primes ou couvertures pour les joueurs clés.",
+            "effet_en": "Insurers may face increased claims for injuries, prompting reviews of premiums or coverage for key players.",
+            "effet_zh": "保险公司可能面临伤害理赔增加，促使其重新评估关键球员的保费或保障范围。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-08T04:32:57.841917"
+      },
       {
         "id": "monde_657156",
         "titre": "Pakistan: répression sanglante dans le PoK contre la hausse des coûts",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-27T23:30:36.235830"
-      },
-      {
-        "id": "monde_88943",
-        "titre": "Skydance lance rachat d’employés et retour au bureau",
-        "titre_en": "Skydance introduces employee buyout and office return",
-        "titre_zh": "斯凯达ンス推出员工购买计划和办公室返程",
-        "titre_ru": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
-        "titre_fa": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
-        "titre_ar": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
-        "titre_original": "David Ellison’s Skydance unveils employee buyout program, orders five-day return to office",
-        "resume": "La société Skydance, dirigée par David Ellison, a annoncé un programme de rachat pour ses employés et un retour progressif au bureau après des années de télétravail. Ce changement s’inscrit dans une stratégie de recentrage sur la collaboration physique, malgré les résistances syndicales. La décision reflète une tendance plus large dans l’industrie du divertissement à redéfinir les normes post-pandémie.",
-        "resume_en": "Skydance, led by David Ellison, announced an employee buyout program and a gradual return to the office after years of remote work. This shift aims to prioritize in-person collaboration, despite union pushback. The move aligns with broader trends in the entertainment industry to redefine post-pandemic norms.",
-        "resume_zh": "由戴维·埃利森领导的斯凯达恩斯公司宣布了一项员工购买计划和逐步返办公室的政策，结束了多年的远程工作。这一变化旨在优先考虑面对面合作，尽管工会提出了反对。这与娱乐行业重新定义疫情后工作规范的趋势一致。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Cette annonce s’inscrit dans un contexte historique de remise en question des modèles hybrides post-Covid, où les entreprises cherchent à restaurer la cohésion d’équipe. Les enjeux principaux incluent la productivité, la rétention des talents et la satisfaction des employés face à un retour imposé. Les causes profondes sont la crise économique de 2020 et la nécessité pour les studios de réduire les coûts tout en maintenant leur compétitivité. À court terme, cela pourrait provoquer des conflits sociaux et une baisse de moral, tandis qu’à moyen terme, une restructuration des effectifs est probable. Long terme, cela pourrait accélérer l’automatisation des tâches non créatives dans le secteur. Les acteurs clés sont les syndicats, les employés et les concurrents comme Netflix ou Disney, qui pourraient suivre cette tendance.",
-        "analyse_en": "This move reflects a broader post-Covid reevaluation of hybrid models, where companies seek to restore team cohesion. Key stakes include productivity, talent retention, and employee satisfaction amid an imposed return. Root causes stem from the 2020 economic crisis and the need for studios to cut costs while staying competitive. Short-term, this may spark labor conflicts and morale decline, while medium-term restructuring of staff is likely. Long-term, it could accelerate automation of non-creative tasks in the industry. Key actors include unions, employees, and competitors like Netflix or Disney, which may follow suit.",
-        "analyse_zh": "这一决定反映了疫情后对混合工作模式的重新审视，企业试图恢复团队凝聚力。主要影响包括生产力、人才留存和员工满意度，面对被强制返岗。深层原因是2020年的经济危机和工作室在保持竞争力同时降低成本的需求。短期内，这可能引发劳资冲突和士气下降，中期内可能进行员工结构调整。长期来看，这可能加速行业中非创意任务的自动化。主要利益相关者包括工会、员工和竞争对手如Netflix或迪士尼，后者可能效仿。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Économie",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/10/26/media/david-ellisons-skydance-unveils-employee-buyout-program-orders-five-day-return-to-office/",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/david-ellisons-skydance-unveils-employee-146556595.jpg?quality=75&strip=all&w=1200",
-        "date": "2026-10-26",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des actions du divertissement (Hollywood)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Fonds de pension et assurances santé",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des actions du divertissement (Hollywood)",
-            "secteur_en": "Entertainment stocks market (Hollywood)",
-            "secteur_zh": "娱乐业股票市场（好莱坞）",
-            "effet_fr": "Un retour au bureau pourrait stimuler la demande pour les espaces de coworking et les infrastructures liées aux studios, soutenant ainsi les valeurs boursières.",
-            "effet_en": "A return to the office may boost demand for coworking spaces and studio-related infrastructure, supporting stock valuations.",
-            "effet_zh": "返办公可能刺激共享办公空间和工作室相关基础设施的需求，从而支持股票估值。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Fonds de pension et assurances santé",
-            "secteur_en": "Pension funds and health insurance",
-            "secteur_zh": "养老基金和健康保险",
-            "effet_fr": "Les employés en télétravail pourraient voir leurs avantages santé réduits, impactant les portefeuilles des fonds de pension liés aux assurances.",
-            "effet_en": "Remote workers may see reduced health benefits, affecting pension funds tied to insurance portfolios.",
-            "effet_zh": "远程员工可能看到健康福利减少，影响与保险相关的养老基金组合。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-27T19:20:52.536788"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_540563",
+        "titre": "DOJ promet soutien à Miller face aux menaces démocrates",
+        "titre_en": "DOJ backs Miller amid Democratic threats",
+        "titre_zh": "司法部支持米勒面对民主党威胁",
+        "titre_ru": "‘Lawyer Up’? Todd Blanche Vows DOJ Support for Stephen Miller After Robert Garcia Threatens Trump Allies With…",
+        "titre_fa": "‘Lawyer Up’? Todd Blanche Vows DOJ Support for Stephen Miller After Robert Garcia Threatens Trump Allies With…",
+        "titre_ar": "‘Lawyer Up’? Todd Blanche Vows DOJ Support for Stephen Miller After Robert Garcia Threatens Trump Allies With…",
+        "titre_original": "‘Lawyer Up’? Todd Blanche Vows DOJ Support for Stephen Miller After Robert Garcia Threatens Trump Allies With…",
+        "resume": "Todd Blanche, avocat de l’administration Trump, a affirmé que le ministère de la Justice (DOJ) soutiendrait Stephen Miller, un conseiller clé de Donald Trump, après que le procureur Robert Garcia ait menacé d’enquêter sur ses alliés. Cette annonce intervient dans un contexte de tensions croissantes entre les deux partis avant les élections de 2024. Les démocrates accusent l’équipe Trump de corruption et d’abus de pouvoir, tandis que les républicains dénoncent une chasse aux sorcières politique.",
+        "resume_en": "Todd Blanche, a Trump administration lawyer, stated the Department of Justice (DOJ) would support Stephen Miller, a key Trump advisor, after prosecutor Robert Garcia threatened investigations into his allies. The move comes amid escalating tensions ahead of the 2024 U.S. elections. Democrats accuse the Trump team of corruption and abuse of power, while Republicans call it a politically motivated witch hunt.",
+        "resume_zh": "特朗普团队律师托德·布兰什表示，司法部将支持特朗普的核心顾问史蒂芬·米勒，在加西亚检察官威胁调查其盟友后作出承诺。这一举动发生在2024年美国大选前两党关系紧张之际。民主党指控特朗普团队腐败和滥用权力，而共和党则称这是政治迫害。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce conflit s’inscrit dans une dynamique de polarisation politique aux États-Unis, où les enquêtes judiciaires sont souvent instrumentalisées pour affaiblir l’adversaire. Stephen Miller, figure controversée de l’ère Trump, incarne les divisions autour de l’immigration et des politiques sécuritaires. Les démocrates exploitent ces tensions pour discréditer l’administration sortante, tandis que les républicains y voient une manœuvre électorale. À court terme, cela pourrait intensifier les divisions judiciaires et médiatisées, avec un risque de paralysie institutionnelle. À moyen terme, cela pourrait influencer les stratégies de campagne, notamment via des appels au vote comme forme de résistance. Long terme, cela renforce la défiance envers les institutions, surtout si les enquêtes se multiplient. Le DOJ, traditionnellement neutre, voit ici son rôle biaisé par la politique, ce qui pourrait éroder sa crédibilité. Les acteurs clés sont les démocrates (Garcia), les républicains (Trump/Miller) et les médias, qui amplifient les récits opposés.",
+        "analyse_en": "This conflict reflects deepening U.S. political polarization, where judicial investigations are often weaponized to undermine opponents. Stephen Miller, a polarizing figure from the Trump era, embodies divisions over immigration and security policies. Democrats leverage these tensions to discredit the outgoing administration, while Republicans see it as an electoral tactic. Short-term, this could escalate judicial and media-driven divisions, risking institutional paralysis. Mid-term, it may shape campaign strategies, with calls to vote framed as resistance. Long-term, it erodes trust in institutions if investigations proliferate. The DOJ, traditionally neutral, now faces politicization, undermining its credibility. Key actors include Democrats (Garcia), Republicans (Trump/Miller), and media outlets amplifying opposing narratives.",
+        "analyse_zh": "此冲突反映了美国政治极化加剧，司法调查经常被用作打击对手的武器。史蒂芬·米勒作为特朗普时代的争议人物，代表了移民和安全政策上的分歧。民主党利用这些紧张局势来贬低现任政府，而共和党则视之为选举策略。短期内，这可能加剧司法和媒体的对立，导致机构瘫痪风险。中期内，这将影响竞选策略，投票被视为抵抗形式。长期来看，如果调查增多，可能进一步破坏对机构的信任。司法部作为传统中立者，现在面临政治化，损害其公信力。关键角色包括民主党（加西亚）、共和党（特朗普/米勒）和放大对立叙事的媒体。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3f2c22e1a690584f",
+        "image": "https://biztoc.com/cdn/3f2c22e1a690584f_s.webp",
+        "date": "2026-11-07",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des obligations souveraines américaines",
+            "hausse": false
+          },
+          {
+            "label": "▼ Sector financier des fonds spéculatifs (hedge funds)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des obligations souveraines américaines",
+            "secteur_en": "U.S. sovereign bond market",
+            "secteur_zh": "美国主权债券市场",
+            "effet_fr": "Les annonces de tensions politiques pourraient accroître l’incertitude sur la stabilité économique future, poussant les investisseurs à privilégier la sécurité des obligations plutôt que les actifs risqués.",
+            "effet_en": "Political tensions may increase uncertainty about future economic stability, driving investors toward the safety of bonds over riskier assets.",
+            "effet_zh": "政治紧张局势可能增加对未来经济稳定性的不确定性，推动投资者选择安全的债券而非风险资产。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Sector financier des fonds spéculatifs (hedge funds)",
+            "secteur_en": "Hedge fund sector",
+            "secteur_zh": "对冲基金行业",
+            "effet_fr": "Les hedge funds pourraient augmenter leurs positions sur des actifs refuges ou des paris contre les actifs politiques sensibles, anticipant des volatilités réglementaires ou électorales.",
+            "effet_en": "Hedge funds may boost positions in safe-haven assets or bet against politically sensitive stocks, anticipating regulatory or electoral volatility.",
+            "effet_zh": "对冲基金可能增加对避险资产的持仓，或对政治敏感股票进行空头操作，预期监管或选举波动。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-08T04:32:57.841896"
+      },
       {
         "id": "usa_277528",
         "titre": "Tiger Woods et Vanessa Trump : nouvelle vie post-divorce",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-27T23:30:36.235796"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_300954",
-        "titre": "Échec diplomatique des évêques catholiques face à Trump",
-        "titre_en": "Catholic bishops face Trump’s diplomatic backlash",
-        "titre_zh": "天主教主教因特朗普会议遭批评",
-        "titre_ru": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
-        "titre_fa": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
-        "titre_ar": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
-        "titre_original": "Why Catholic Bishops Are Apologizing Over 'Exploited' Trump Meeting",
-        "resume": "Des évêques catholiques américains ont exprimé des regrets après une rencontre avec Donald Trump, accusés d’avoir été manipulés à des fins politiques. Un évêque a reconnu une naïveté dans leur approche, révélant des tensions internes au sein de l’Église. Ce revirement intervient dans un contexte de polarisation croissante aux États-Unis, où les institutions religieuses sont de plus en plus instrumentalisées.",
-        "resume_en": "U.S. Catholic bishops apologized after a meeting with Donald Trump, accused of being exploited for political purposes. One bishop admitted naivety in their approach, highlighting internal tensions within the Church. This shift occurs amid rising polarization in the U.S., where religious institutions are increasingly politicized.",
-        "resume_zh": "美国天主教主教因与特朗普会面后遭批评，指控他们被用于政治目的。一位主教承认自己过于天真，暴露了教会内部的紧张关系。此举发生在美国极化加剧的背景下，宗教机构越来越被政治化。",
+        "id": "chine_23924",
+        "titre": "Les élites mondiales sortent de l’ombre pour un sommet secret en Chine",
+        "titre_en": "Global elites emerge from shadows for secret China summit",
+        "titre_zh": "全球精英秘密在华举行峰会",
+        "titre_ru": "The Globalists Just Came Out of Hiding for a Secretive Summit in China",
+        "titre_fa": "The Globalists Just Came Out of Hiding for a Secretive Summit in China",
+        "titre_ar": "The Globalists Just Came Out of Hiding for a Secretive Summit in China",
+        "titre_original": "The Globalists Just Came Out of Hiding for a Secretive Summit in China",
+        "resume": "Ces derniers mois, des changements étranges dans le comportement des institutions mondialistes ont été observés, notamment avant les élections américaines de 2024. Les élites semblent avoir adopté une posture plus visible, comme si elles préparaient une coordination stratégique face aux défis géopolitiques actuels. Cette dynamique pourrait refléter une alliance informelle pour contrer les tensions croissantes entre les États-Unis et la Chine.",
+        "resume_en": "Over recent months, strange shifts in behavior among globalist institutions have been noted, particularly ahead of the 2024 U.S. elections. Elites appear to have adopted a more visible stance, suggesting preparation for strategic coordination amid rising U.S.-China tensions. This could signal an informal alliance to counter escalating geopolitical challenges.",
+        "resume_zh": "近几个月来，全球主义机构的行为异常变化备受关注，特别是在2024年美国大选前。精英似乎采取了更公开的立场，似乎在为应对美国和中国日益升级的地缘政治挑战做准备。这可能反映了一个非正式联盟，以应对日益严峻的全球挑战。",
         "resume_ru": "",
         "resume_fa": "",
         "resume_ar": "",
-        "analyse_detaillee": "Ce scandale s’inscrit dans une longue histoire de tensions entre l’Église catholique et les présidents américains, notamment depuis les années 1960 avec les débats sur la contraception et l’avortement. Les évêques, traditionnellement conservateurs, sont aujourd’hui perçus comme des cibles faciles pour les stratégies partisanes, surtout sous une administration Trump. Les causes profondes incluent une perte de crédibilité de l’institution face à la montée des mouvements progressistes et une fragmentation de l’opinion publique. À court terme, cela pourrait affaiblir leur influence sur les questions morales et sociales, tandis qu’à moyen terme, une réévaluation de leur rôle politique est probable. À long terme, cela pourrait accélérer une sécularisation accrue des débats publics aux États-Unis. Les acteurs clés sont les évêques eux-mêmes, divisés entre modérés et intransigeants, ainsi que les médias conservateurs qui amplifient ces crises.",
-        "analyse_en": "This scandal reflects long-standing tensions between the Catholic Church and U.S. presidents, particularly since the 1960s debates on contraception and abortion. Bishops, traditionally conservative, are now seen as easy targets for partisan strategies, especially under Trump’s administration. Root causes include a loss of credibility for the institution amid rising progressive movements and public opinion fragmentation. Short-term, this could weaken their moral and social influence, while medium-term, a reevaluation of their political role is likely. Long-term, it may accelerate secularization in public debates in the U.S. Key actors include divided bishops between moderates and hardliners, as well as conservative media amplifying these crises.",
-        "analyse_zh": "此事件源于美国天主教会与总统间长期的紧张关系，特别是自20世纪60年代关于避孕和堕胎的争议以来。保守的主教们如今被视为党派策略的易受攻击目标，尤其是在特朗普执政期间。深层原因包括教会在进步运动和公众意见分裂背景下信誉下降。短期内，这可能削弱他们在道德和社会问题上的影响力，中期内，他们可能需要重新评估政治角色。长期来看，这可能加速美国公共辩论的世俗化。主要利益相关者包括分裂的主教（温和派与硬汉派）以及放大这些危机的保守媒体。",
+        "analyse_detaillee": "Ce phénomène s’inscrit dans une dynamique de rééquilibrage des pouvoirs mondiaux, où la Chine cherche à renforcer son influence via des forums alternatifs aux institutions occidentales dominées par Washington. Les élites mondialistes, souvent critiquées pour leur opacité, pourraient ici chercher à légitimer leurs actions en les rendant plus transparentes, tout en évitant les pressions médiatiques ou politiques. À court terme, cela pourrait accélérer les alliances économiques ou technologiques entre la Chine et des acteurs non-alignés (Russie, pays du BRICS). À moyen terme, cela pourrait affaiblir l’hégémonie américaine en offrant des alternatives aux normes occidentales, notamment en matière de commerce ou de gouvernance numérique. Long terme, cela renforce la multipolarité et pourrait mener à une fragmentation des alliances traditionnelles (OTAN, G7). Les acteurs clés sont la Chine (dirigeants, think tanks), les élites mondialistes (FMI, Forum de Davos), et les États-Unis, qui pourraient percevoir cela comme une menace à leur leadership.",
+        "analyse_en": "This reflects a global power realignment, where China seeks to bolster influence through alternative forums to Western-dominated institutions led by Washington. Globalist elites, often criticized for opacity, may here aim to legitimize actions by making them more transparent while avoiding media or political pressure. Short-term, this could accelerate economic or technological alliances between China and non-aligned actors (Russia, BRICS nations). Mid-term, it may weaken U.S. hegemony by offering alternatives to Western norms, especially in trade or digital governance. Long-term, this strengthens multipolarity and could fragment traditional alliances (NATO, G7). Key actors include China (leaders, think tanks), globalist elites (IMF, Davos Forum), and the U.S., which may view this as a threat to its leadership.",
+        "analyse_zh": "这一现象反映了全球权力重新平衡，中国试图通过替代西方主导机构的论坛来增强影响力。全球主义精英，经常因不透明受到批评，可能在此试图通过更公开的行动合法化其行为，同时避免媒体或政治压力。短期内，这可能加速中国与非西方盟友（俄罗斯、金砖国家）的经济或技术联盟。中期内，这可能削弱美国的霸权地位，通过提供西方规范的替代方案，特别是在贸易或数字治理领域。长期来看，这加强了多极格局，可能导致传统联盟（北约、七国集团）的分裂。关键角色包括中国（领导人、智库）、全球主义精英（国际货币基金组织、达沃斯论坛）和美国，后者可能将此视为对其领导地位的威胁。",
         "analyse_ru": "",
         "analyse_fa": "",
         "analyse_ar": "",
         "categorie": "Géopolitique",
-        "source": "Time",
-        "url": "https://time.com/article/2026/10/26/catholic-bishops-apologize-meeting-with-trump-white-house-video/",
-        "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt1b1c49d74fcaeb39/6adf56b2ac57f977dd3d2ac8/Trump_pray.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
-        "date": "2026-10-26",
-        "pays": "usa",
+        "source": "Lewrockwell.com",
+        "url": "https://www.lewrockwell.com/2026/11/brandon-smith/the-globalists-just-came-out-of-hiding-for-a-secretive-summit-in-china/",
+        "image": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+        "date": "2026-11-07",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché des assurances religieuses et éthiques",
-            "hausse": false
+            "label": "▲ Marché des obligations d'État chinoises (renminbi)",
+            "hausse": true
           },
           {
-            "label": "▼ Fonds d’investissement à impact social",
-            "hausse": false
+            "label": "▲ Finance de projet (infrastructures) en Asie du Sud-Est",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des assurances religieuses et éthiques",
-            "secteur_en": "Religious and ethical insurance market",
-            "secteur_zh": "宗教和伦理保险市场",
-            "effet_fr": "La perte de confiance envers les institutions religieuses pourrait réduire les souscriptions à des assurances liées à des valeurs morales ou à des engagements ecclésiastiques.",
-            "effet_en": "Declining trust in religious institutions may reduce subscriptions to morally or ecclesiastically tied insurance products.",
-            "effet_zh": "对宗教机构信任度下降可能减少与道德或教会相关的保险产品的订阅。",
-            "hausse": false
+            "secteur_fr": "Marché des obligations d'État chinoises (renminbi)",
+            "secteur_en": "Chinese state bond market (renminbi)",
+            "secteur_zh": "中国国债市场（人民币）",
+            "effet_fr": "Une coordination élitiste pourrait renforcer la confiance dans le yuan et les obligations chinoises, attirant des investisseurs à la recherche de diversification hors du dollar, surtout si les tensions commerciales avec les États-Unis persistent.",
+            "effet_en": "Elite coordination may boost confidence in the yuan and Chinese bonds, drawing investors seeking diversification away from the dollar, especially if U.S.-China trade tensions persist.",
+            "effet_zh": "精英协调可能增强对人民币和中国债券的信心，吸引寻求多元化避开美元的投资者，特别是如果中美贸易紧张局势持续。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Fonds d’investissement à impact social",
-            "secteur_en": "Social impact investment funds",
-            "secteur_zh": "社会影响力投资基金",
-            "effet_fr": "Les investisseurs pourraient reconsidérer leur soutien aux projets liés à l’éducation ou à la charité, perçus comme politisés par cette affaire.",
-            "effet_en": "Investors may reconsider support for education or charity-linked projects, seen as politicized by this incident.",
-            "effet_zh": "投资者可能重新考虑对教育或慈善项目的支持，这些项目因此事被视为政治化。",
-            "hausse": false
+            "secteur_fr": "Finance de projet (infrastructures) en Asie du Sud-Est",
+            "secteur_en": "Project finance in Southeast Asia",
+            "secteur_zh": "东南亚项目融资",
+            "effet_fr": "Les investisseurs pourraient reconsidérer leurs partenariats avec la Chine pour des projets d’infrastructures, anticipant un soutien politique accru et une réduction des risques géopolitiques via ces alliances élitistes.",
+            "effet_en": "Investors may reassess partnerships with China for infrastructure projects, anticipating increased political backing and reduced geopolitical risks through these elite alliances.",
+            "effet_zh": "投资者可能重新考虑与中国在基础设施项目的合作，预期通过这些精英联盟获得更多政治支持和减少地缘政治风险。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-27T19:20:52.536769"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-11-08T04:32:57.841935"
+      },
       {
         "id": "chine_780797",
         "titre": "Documentaire révèle l’ombre cachée de l’IA : mines et travailleurs clics",
@@ -3706,65 +3765,6 @@
           }
         ],
         "created_at": "2026-10-24T08:40:47.775464"
-      },
-      {
-        "id": "chine_350858",
-        "titre": "Église catholique chinoise : Vatican accepte épiscopat sous contrôle communiste",
-        "titre_en": "Chinese Catholic Church: Vatican approves bishop appointments under Communist control",
-        "titre_zh": "中国天主教会：梵蒂冈接受共产党控制主教任命",
-        "titre_ru": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
-        "titre_fa": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
-        "titre_ar": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
-        "titre_original": "Who Needs a Papal Mandate? Mandate From Communist Bishops’ Conference Read at Consecration of Latest Chinese Bishop; Leo Approves It Anyway!",
-        "resume": "Le Vatican a validé la consécration d’un nouvel évêque en Chine, malgré une mandature lue lors de la cérémonie par une conférence épiscopale sous contrôle communiste. Ce geste marque une nouvelle étape dans la normalisation des relations entre le Vatican et Pékin, après des décennies de tensions. Les implications incluent une possible marginalisation des catholiques traditionnels et une influence accrue du Parti communiste sur les affaires religieuses.",
-        "resume_en": "The Vatican validated the consecration of a new bishop in China despite a mandate read by a Communist-controlled bishops’ conference. This move marks a new step in Vatican-Peking normalization after decades of tensions. Implications include marginalization of traditional Catholics and increased CCP influence over religious affairs.",
-        "resume_zh": "梵蒂冈批准了中国一位新主教的任命，尽管仪式上由共产党控制的主教会议宣读了委任状。这一举动标志着梵蒂冈与北京关系正常化的新阶段，结束了数十年的紧张关系。影响包括天主教传统派的边缘化和中国共产党对宗教事务的更大控制。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "Ce développement s’inscrit dans un contexte historique de tensions entre le Vatican et la Chine depuis la révolution communiste de 1949, avec des périodes de rapprochement et de rupture. Les enjeux principaux concernent la souveraineté de l’Église catholique en Chine et le respect des libertés religieuses. Les causes profondes incluent la volonté du Parti communiste de contrôler toutes les institutions sociales, y compris religieuses, ainsi que la recherche par le Vatican de stabilité diplomatique. À court terme, cela pourrait renforcer la répression contre les églises indépendantes. À moyen terme, cela pourrait accélérer la sinisation des pratiques religieuses. À long terme, cela pourrait redéfinir le rôle de l’Église en Chine et son rapport au pouvoir politique.",
-        "analyse_en": "This development fits into a historical context of Vatican-China tensions since the 1949 Communist revolution, with periods of rapprochement and rupture. Key stakes involve Catholic Church sovereignty in China and religious freedom. Root causes include the CCP’s desire to control all social institutions, including religion, and the Vatican’s quest for diplomatic stability. Short-term, this may strengthen repression against independent churches. Medium-term, it could accelerate sinicization of religious practices. Long-term, it may redefine the Church’s role in China and its relationship with political power.",
-        "analyse_zh": "这一进展源于自1949年中国共产党革命以来梵蒂冈与中国之间的历史紧张关系，包括接近和断交的阶段。主要影响涉及中国天主教会的主权和宗教自由。深层原因包括中国共产党试图控制所有社会机构（包括宗教）以及梵蒂冈寻求外交稳定的需求。短期内，这将加强对独立教会的镇压；中期内，可能加速宗教实践的中国化；长期内，可能重塑中国教会的角色和与政治权力的关系。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-religion/4400228/posts",
-        "image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=800&q=80",
-        "date": "2026-10-22",
-        "pays": "chine",
-        "badges": [
-          {
-            "label": "▼ Financement des institutions religieuses",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché des assurances religieuses",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Financement des institutions religieuses",
-            "secteur_en": "Funding of religious institutions",
-            "secteur_zh": "宗教机构资金",
-            "effet_fr": "Les dons internationaux aux églises chinoises pourraient diminuer, tandis que les subventions gouvernementales chinoises pourraient augmenter pour les institutions sous contrôle.",
-            "effet_en": "International donations to Chinese churches may decline, while Chinese government subsidies for controlled institutions may rise.",
-            "effet_zh": "国际捐款可能减少，而中国政府对受控宗教机构的补贴可能增加。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché des assurances religieuses",
-            "secteur_en": "Religious insurance market",
-            "secteur_zh": "宗教保险市场",
-            "effet_fr": "Les assureurs pourraient exclure les risques liés aux conflits entre institutions religieuses et l’État chinois.",
-            "effet_en": "Insurers may exclude risks from conflicts between religious institutions and the Chinese state.",
-            "effet_zh": "保险公司可能排除宗教机构与中国政府冲突的风险。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-23T23:50:39.194252"
       }
     ],
     "russie": [
@@ -4951,6 +4951,65 @@
     ],
     "iran": [
       {
+        "id": "iran_385351",
+        "titre": "États-Unis offrent 20 millions pour renseignement sur programme nucléaire iranien",
+        "titre_en": "U.S. offers $20M for intel on Iran’s nuclear program",
+        "titre_zh": "美方悬赏2000万美元寻找伊朗核计划情报",
+        "titre_ru": "US offers $20 million reward for information on Iran's nuclear programme",
+        "titre_fa": "US offers $20 million reward for information on Iran's nuclear programme",
+        "titre_ar": "US offers $20 million reward for information on Iran's nuclear programme",
+        "titre_original": "US offers $20 million reward for information on Iran's nuclear programme",
+        "resume": "Le département d’État américain propose une récompense allant jusqu’à 20 millions de dollars pour toute information utile sur les installations, équipements et personnel liés au programme nucléaire iranien, y compris les scientifiques. Cette offre inclut également une possible relocalisation pour les informateurs. Cette mesure s’inscrit dans un contexte de tensions accrues entre Washington et Téhéran, notamment après les attaques récentes contre des navires commerciaux.",
+        "resume_en": "The U.S. State Department offers up to $20 million for intelligence on Iran’s nuclear facilities, equipment, and personnel—including scientists—as part of its Rewards for Justice program. Informants may also receive relocation assistance. This move follows heightened tensions between Washington and Tehran, including recent attacks on commercial ships.",
+        "resume_zh": "美国国务院通过“正义奖励”计划，提供最高2000万美元悬赏，寻找关于伊朗核设施、设备和人员（包括核科学家）的情报。提供情报者可能还能获得重新安置。这一举动发生在华盛顿和德黑兰关系紧张背景下，特别是在最近对商船的袭击后。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Cette offre s’inscrit dans une stratégie de pression diplomatique et économique de Washington pour freiner les ambitions nucléaires iraniennes, malgré les accords internationaux comme le JCPOA. Les États-Unis cherchent à exploiter les divisions internes en Iran, où une partie de l’élite nucléaire pourrait être vulnérable à la corruption ou aux pressions externes. À court terme, cela pourrait inciter des scientifiques ou techniciens à fournir des informations sous la menace ou la promesse de gains financiers. À moyen terme, cela pourrait affaiblir la crédibilité du programme iranien et forcer Téhéran à justifier ses actions devant la communauté internationale. Long terme, cela renforce la course aux armements régionaux, avec un risque d’escalade militaire si l’Iran répond par des représailles. Les acteurs clés sont les États-Unis (DOJ, CIA), l’Iran (Gardiens de la révolution, scientifiques), et les alliés régionaux (Arabie saoudite, Israël) qui pourraient instrumentaliser cette tension.",
+        "analyse_en": "This offer reflects U.S. diplomatic and economic pressure to curb Iran’s nuclear ambitions, despite international agreements like the JCPOA. Washington aims to exploit internal Iranian divisions, where parts of the nuclear elite may be vulnerable to corruption or external pressure. Short-term, this could prompt scientists or technicians to provide intel under threat or financial incentives. Mid-term, it may undermine Iran’s program credibility, forcing Tehran to justify actions to the international community. Long-term, this fuels regional arms races, risking military escalation if Iran retaliates. Key actors include the U.S. (DOJ, CIA), Iran (IRGC, scientists), and regional allies (Saudi Arabia, Israel) who may exploit the tension.",
+        "analyse_zh": "这一悬赏措施体现了美国通过外交和经济压力遏制伊朗核野心，尽管有国际协议如全面协议。美国试图利用伊朗内部分裂，其中部分核精英可能对腐败或外部压力敏感。短期内，这可能促使科学家或技术人员在威胁或金钱诱惑下提供情报。中期内，这可能削弱伊朗计划的可信度，迫使德黑兰向国际社会解释其行动。长期来看，这加剧了地区军备竞赛，伊朗报复可能引发军事升级风险。关键角色包括美国（司法部、CIA）、伊朗（革命卫队、科学家）和地区盟友（沙特、以色列）可能利用这一紧张局势。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Business Standard",
+        "url": "https://www.business-standard.com/world-news/us-offers-20-million-reward-for-information-on-iran-s-nuclear-programme-126110700073_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/thumb/fitandfill/1200X628/1789788854-3658.jpg",
+        "date": "2026-11-07",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▼ Marché des sanctions financières contre l'Iran",
+            "hausse": false
+          },
+          {
+            "label": "▲ Assurance-crédit pour les entreprises exportatrices vers l'Iran",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des sanctions financières contre l'Iran",
+            "secteur_en": "Iran financial sanctions market",
+            "secteur_zh": "伊朗金融制裁市场",
+            "effet_fr": "Cette offre pourrait renforcer les pressions sur les banques et entreprises évitant les sanctions, les poussant à adopter des protocoles plus stricts pour se protéger des risques juridiques ou financiers.",
+            "effet_en": "This offer may intensify pressure on banks and firms evading sanctions, driving them to adopt stricter protocols to avoid legal or financial risks.",
+            "effet_zh": "这一悬赏可能加大对规避制裁的银行和企业的压力，促使它们采用更严格的协议以避免法律或金融风险。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Assurance-crédit pour les entreprises exportatrices vers l'Iran",
+            "secteur_en": "Export credit insurance for Iran-bound firms",
+            "secteur_zh": "向伊朗出口企业的信用保险",
+            "effet_fr": "Les assureurs pourraient augmenter les primes ou refuser les couvertures pour les transactions avec l’Iran, anticipant un risque accru de gel des actifs ou de poursuites judiciaires.",
+            "effet_en": "Insurers may hike premiums or deny coverage for Iran transactions, anticipating higher risks of asset freezes or legal action.",
+            "effet_zh": "保险公司可能提高保费或拒绝向伊朗交易提供保障，预期资产冻结或法律诉讼风险增加。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-08T04:32:57.841927"
+      },
+      {
         "id": "iran_578766",
         "titre": "Les Gardiens de la révolution iraniens menacent-ils à l’étranger ?",
         "titre_en": "Can Iran’s Revolutionary Guard operate abroad?",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-10-24T08:40:47.775473"
-      },
-      {
-        "id": "iran_846222",
-        "titre": "Retour des importations indiennes de pétrole à niveaux pré-guerre",
-        "titre_en": "India’s West Asia oil imports return to pre-war levels",
-        "titre_zh": "印度西亚原油进口恢复战前水平",
-        "titre_ru": "Импорт нефти Индией из Западной Азии вернулся к довоенным уровням в сентябре",
-        "titre_fa": "واردات نفت هند از غرب آسیا در سپتامبر به سطح قبل جنگ بازگشت",
-        "titre_ar": "ارتدت واردات الهند من النفط من غرب آسيا إلى مستويات قبل الحرب في سبتمبر",
-        "titre_original": "India's West Asia oil imports return to pre-war levels in September",
-        "resume": "Les raffineurs indiens ont massivement acheté des cargaisons spot via le détroit d’Ormuz, compensant les contraintes d’approvisionnement liées à la guerre en Iran. Cette dynamique reflète une reprise des échanges avec les producteurs de la région, malgré les tensions persistantes. Les livraisons ont été facilitées par l’augmentation des capacités de transit dans le détroit.",
-        "resume_en": "Indian refiners snapped up spot cargoes through the Strait of Hormuz, offsetting supply constraints caused by the Iran war. This trend reflects renewed trade with regional producers, despite ongoing tensions. Shipments were enabled by increased transit capacity in the strait.",
-        "resume_zh": "印度炼油厂通过霍尔木兹海峡大量购买现货原油，弥补了伊朗战争导致的供应短缺。这一趋势反映了印度与地区产油国交易的复苏，尽管地区紧张局势依然存在。运输得以顺利进行，得益于霍尔木兹海峡通行能力的提升。",
-        "resume_ru": "Индийские перерабатывающие заводы активно закупали нефть на спотовом рынке, так как производители и торговцы из Западной Азии увеличили поставки через пролив Ормуз. Это позволило снять напряжение в снабжении, вызванное войной в Иране. Такие действия способствуют диверсификации источников сырья для Индии.",
-        "resume_fa": "صنایع پالایشی هند به خرید نفت در بازار اسپات پرداختند، زیرا تولیدکنندگان و بازرگانان غرب آسیا افزایش دادند ارسال کالا از طریق تنگه هرمز. این اقدام باعث شد تنش‌های تأمین ناشی از جنگ ایران کاهش یابد. این اقدامات به تنوع منابع مواد اولیه هند کمک می‌کند.",
-        "resume_ar": "ارتدت مصانع التكرير الهندية إلى شراء النفط في السوق السعري، حيث زادت المنتجين والتجار من غرب آسيا عن إمداداتهم عبر مضيق هرمز. هذا ساعد على تخفيف التوتر في الإمداد الناجم عن الحرب في إيران. هذه الخطوات تساهم في تنويع مصادر المواد الخام للهند.",
-        "analyse_detaillee": "Cette résilience des importations indiennes s’inscrit dans une stratégie de diversification énergétique face aux crises géopolitiques récurrentes. Les enjeux incluent la stabilité des approvisionnements pour l’Inde, tout en naviguant entre les alliances régionales et les pressions internationales. Les causes profondes résident dans la dépendance énergétique de l’Inde et sa volonté de réduire les risques liés aux conflits dans le Golfe. À court terme, cela pourrait renforcer les liens économiques avec l’Arabie saoudite et les Émirats, tout en réduisant la vulnérabilité aux sanctions ciblant l’Iran. À moyen terme, cela pourrait accélérer la construction d’infrastructures alternatives (pipelines, terminaux) pour sécuriser les flux. Long terme, cette approche pourrait positionner l’Inde comme un acteur clé dans la gestion des crises pétrolières, mais aussi comme un partenaire indispensable pour les pays du Golfe cherchant à diversifier leurs débouchés. L’Iran, bien que marginalisé, pourrait chercher à contourner les sanctions via des canaux informels, tandis que les États-Unis et l’Europe surveillent ces dynamiques avec méfiance.",
-        "analyse_en": "India’s import resilience reflects a diversification strategy amid recurring geopolitical crises. Key stakes involve securing energy supplies while navigating regional alliances and international pressures. Root causes lie in India’s energy dependence and its desire to reduce Gulf conflict risks. Short-term, this could strengthen economic ties with Saudi Arabia and the UAE, reducing vulnerability to Iran-targeted sanctions. Medium-term, it may accelerate the construction of alternative infrastructure (pipelines, terminals) to secure flows. Long-term, this approach could position India as a key player in oil crisis management and an indispensable partner for Gulf states diversifying their markets. Iran, though marginalized, may seek to bypass sanctions via informal channels, while the U.S. and Europe monitor these dynamics with caution.",
-        "analyse_zh": "印度进口的韧性反映了其应对地区地缘政治危机的能源多元化战略。主要影响在于确保印度能源供应稳定，同时在地区联盟和国际压力之间寻求平衡。深层原因在于印度对能源的依赖和减少海湾冲突风险的意愿。短期内，这将加强与沙特和阿联酋的经济关系，降低对针对伊朗制裁的脆弱性。中期内，可能加速建设替代基础设施（管道、码头）以确保能源流通。长期来看，这一策略可能让印度成为全球石油危机管理的关键参与者，同时成为海湾国家多元化市场的必需合作伙伴。伊朗尽管被边缘化，但可能通过非正式渠道规避制裁，而美国和欧洲则对这些动态保持警惕。",
-        "analyse_ru": "Возврат импорта к довоенным уровням свидетельствует о том, что Индия успешно адаптируется к новым геополитическим реалиям. Увеличение поставок через Ормуз показывает, что страны региона стремятся укрепить экономические связи, несмотря на конфликты. Однако, зависимость от Западной Азии может создать новые риски, особенно если ситуация в регионе ухудшится. Для России это означает потерю одного из ключевых рынков сбыта. В будущем Индия может стать ещё более независимой от российской нефти, если найдёт надёжные альтернативы.",
-        "analyse_fa": "بازگشت واردات به سطح قبل جنگ نشان می‌دهد که هند موفق به سازگاری با واقعیت‌های جغرافیایی سیاسی جدید شده است. افزایش ارسال از طریق تنگه هرمز نشان می‌دهد که کشورهای منطقه سعی در تقویت روابط اقتصادی دارند، حتی با وجود درگیری‌ها. اما وابستگی به غرب آسیا می‌تواند ریسک‌های جدیدی ایجاد کند، به ویژه اگر وضعیت منطقه بدتر شود. برای روسیه این معنای از دست دادن یکی از بازارهای اصلی فروش است. در آینده، هند ممکن است از نفت روسیه مستقل‌تر شود، اگر جایگزین‌های قابل اعتماد پیدا کند.",
-        "analyse_ar": "ارتداد الواردات إلى مستويات قبل الحرب يوضح أن الهند تنجح في التكيف مع الواقع الجيوسياسي الجديد. زيادة الإمدادات عبر مضيق هرمز تشير إلى أن البلدان في المنطقة تسعى إلى تعزيز العلاقات الاقتصادية، رغم الصراعات. ومع ذلك، الاعتماد على غرب آسيا قد يخلق مخاطر جديدة، خاصة إذا تفاقم الوضع في المنطقة. بالنسبة لروسيا، هذا يعني فقدان أحد الأسواق الرئيسية للبيع. في المستقبل، قد تصبح الهند أكثر استقلالاً عن النفط الروسي إذا وجدت بدائل موثوقة.",
-        "categorie": "Énergie",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/commodities/indias-west-asia-oil-imports-return-to-pre-war-levels-in-september/article71610330.ece",
-        "image": "https://bl-i.thgim.com/public/incoming/xpzj38/article71595691.ece/alternates/LANDSCAPE_1200/IMG_PO26_Crude_oil_2_1_R5F2RO5G.jpg",
-        "date": "2026-10-22",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Détroit d’Ormuz (sécurité maritime)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des assurances maritimes (coûts et risques)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Détroit d’Ormuz (sécurité maritime)",
-            "secteur_en": "Strait of Hormuz (maritime security)",
-            "secteur_zh": "霍尔木兹海峡（海上安全）",
-            "effet_fr": "L’augmentation des transit via le détroit pourrait attirer les tensions régionales, notamment si les tensions Iran-Israël s’intensifient, risquant des attaques contre les navires commerciaux.",
-            "effet_en": "Increased transit through the strait may draw regional tensions, particularly if Iran-Israel hostilities escalate, risking attacks on commercial vessels.",
-            "effet_zh": "通过霍尔木兹海峡运输量增加可能引发地区紧张局势，特别是如果伊朗-以色列冲突升级，可能对商船构成威胁。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des assurances maritimes (coûts et risques)",
-            "secteur_en": "Marine insurance market (costs and risks)",
-            "secteur_zh": "海上保险市场（成本与风险）",
-            "effet_fr": "Les flux accrus dans une zone instable pourraient faire grimper les primes d’assurance pour les cargaisons pétrolières, rendant les échanges plus coûteux pour les raffineurs indiens.",
-            "effet_en": "Increased flows in an unstable zone could drive up insurance premiums for oil cargoes, making trades more expensive for Indian refiners.",
-            "effet_zh": "在不稳定地区增加运输量可能导致石油货物保险费用上涨，使印度炼油厂的交易成本增加。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-10-23T06:59:55.280586"
       }
     ]
   },
@@ -6192,66 +6192,6 @@
       ],
       "created_at": "2026-11-07T23:27:50.042803",
       "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_env_365146",
-      "titre": "Betteraves bio : un pari audacieux",
-      "titre_en": "Bio beets: a bold agricultural shift",
-      "titre_zh": "有机甜菜种植：农业转型",
-      "titre_ru": "Переход на био-сахарную свеклу: «Десять раз сложнее, но десять раз интереснее»",
-      "titre_fa": "انتقال به تولید قند بیو از شکرخاک: «ده برابر سخت‌تر، اما ده برابر هیجان‌انگیزتر»",
-      "titre_ar": "التحول إلى إنتاج السكر الحيوي من البترول: «عشرة أضعاف الصعوبة، ولكن عشرة أضعاف الإثارة»",
-      "titre_original": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
-      "resume": "Des producteurs français abandonnent les pesticides pour cultiver des betteraves sucrières en bio, malgré des défis techniques et économiques. Ils soulignent les bénéfices environnementaux et la demande croissante des consommateurs. Cette transition illustre une tendance plus large vers l’agriculture durable en Europe.",
-      "resume_en": "French producers are switching to organic sugar beet farming, ditching pesticides despite technical and economic hurdles. They highlight environmental benefits and rising consumer demand. This shift reflects a broader trend toward sustainable agriculture in Europe.",
-      "resume_zh": "法国农民放弃农药种植有机甜菜，尽管面临技术和经济挑战，但强调环保优势和消费者需求增长。这一转型反映了欧洲可持续农业的趋势。",
-      "resume_ru": "В разгар уборки сахарной свеклы фермеры делятся причинами перехода на экологически чистые методы. Они отмечают, что отказ от пестицидов требует больших усилий, но приносит высокую прибыль и улучшает качество почвы. Процесс адаптации к органическому земледелию занимает годы, но результаты оправдывают ожидания. Производители подчеркивают, что спрос на органическую продукцию растёт, что делает переход выгодным.",
-      "resume_fa": "در حین جمع‌آوری شکرخاک، کشاورزان دلیل انتقال به روش‌های زیست‌محیطی را توضیح می‌دهند. آن‌ها اشاره می‌کنند که ترک پست‌سیدان‌ها نیاز به تلاش بیشتری دارد، اما درآمد بالایی و بهبود کیفیت خاک را به همراه دارد. فرآیند سازگاری با کشاورزی بیو چند سال طول می‌کشد، اما نتایج انتظار را برآورده می‌سازد. تولیدکنندگان تأکید می‌کنند که تقاضا برای محصولات بیو در حال افزایش است، که این انتقال را سودمند می‌کند.",
-      "resume_ar": "في ذروة حصاد البترول، يشارك المزارعون أسباب انتقالهم إلى أساليب بيئية. يلاحظون أن отказа عن المبيدات الحشرية يتطلب مجهودًا أكبر، ولكن يجلب أرباحًا عالية ويحسن جودة التربة. عملية التكيف مع الزراعة العضوية تستغرق سنوات، ولكن النتائج تبرر التوقعات. يؤكد المنتجون أن الطلب على المنتجات العضوية في زيادة، مما يجعل الانتقال مربحًا",
-      "analyse_detaillee": "La conversion au bio des betteraves sucrières s’inscrit dans une dynamique européenne de réduction des intrants chimiques, accélérée par les réglementations comme le Pacte vert. Les producteurs français font face à des coûts initiaux élevés et à des rendements parfois inférieurs, mais misent sur la valorisation des labels bio. Les enjeux environnementaux incluent la préservation des sols et la biodiversité, cruciale pour l’agriculture future. À court terme, les prix des betteraves bio pourraient rester volatils en raison de la demande limitée. À moyen terme, l’UE pourrait renforcer les subventions pour les conversions, comme le prévoit la PAC 2023-2027. Long terme, cette transition pourrait redéfinir les chaînes d’approvisionnement sucrières et inciter d’autres cultures à suivre. Les coopératives agricoles soutiennent ce modèle, tandis que les industriels du sucre craignent des perturbations logistiques.",
-      "analyse_en": "The shift to organic sugar beets aligns with Europe’s push to reduce chemical inputs, driven by regulations like the Green Deal. French producers face high initial costs and sometimes lower yields but bet on the value of organic labels. Environmental stakes include soil preservation and biodiversity, critical for future farming. Short-term, organic beet prices may remain volatile due to limited demand. Medium-term, the EU could boost subsidies for conversions under the 2023-2027 CAP. Long-term, this transition may reshape sugar supply chains and prompt other crops to follow. Agricultural cooperatives back this model, while sugar industry players fear logistical disruptions.",
-      "analyse_zh": "有机甜菜种植符合欧洲减少化学投入的趋势，欧盟绿色协议进一步推动这一转型。法国农民初期成本高昂，产量有时不及常规种植，但依赖有机认证的溢价效应。环境影响包括土壤保护和生物多样性，对未来农业至关重要。短期内，有机甜菜价格可能因需求有限而波动。中期内，欧盟可能加大对转型的补贴力度，如2023-2027年共同农业政策。长期来看，这一转型可能重塑糖业供应链，并带动其他作物跟进。农业合作社支持此模式，而糖业企业则担忧物流中断风险。",
-      "analyse_ru": "Переход на органическое производство сахарной свеклы демонстрирует растущую осознанность фермеров в вопросах экологии и здоровья. Отказ от химических удобрений и пестицидов улучшает качество продукции и сохраняет биоразнообразие. Однако переход требует значительных инвестиций и знаний, что может отпугнуть мелких производителей. Спрос на органическую продукцию растёт, что делает такие инициативы перспективными. В будущем подобные практики могут стать стандартом для сельского хозяйства, особенно с учётом климатических изменений.",
-      "analyse_fa": "انتقال به تولید بیو شکرخاک نشان‌دهنده افزایش آگاهی کشاورزان در مورد مسائل زیست‌محیطی و سلامت است. ترک کودهای شیمیایی و پست‌سیدان‌ها کیفیت محصول را بهبود می‌بخشد و تنوع زیستی را حفظ می‌کند. با این حال، این انتقال نیاز به سرمایه‌گذاری و دانش قابل توجهی دارد که ممکن است تولیدکنندگان کوچک را دور کند. تقاضا برای محصولات بیو در حال افزایش است، که این اقدامات را آینده‌دار می‌کند. در آینده، چنین روش‌هایی ممکن است استاندارد برای کشاورزی شوند، به ویژه با توجه به تغییرات آب و هوایی.",
-      "analyse_ar": "التحول إلى إنتاج السكر الحيوي من البترول يوضح زيادة الوعي لدى المزارعين بشأن القضايا البيئية والصحة. отказа عن الأسمدة الكيميائية والمبيدات الحشرية تحسين جودة المنتج والحفاظ على التنوع البيولوجي. ومع ذلك، يتطلب هذا الانتقال استثمارات كبيرة ومعرفة كبيرة قد تبعد المزارعين الصغار. الطلب على المنتجات العضوية في زيادة، مما يجعل مثل هذه المبادرات مستقبلية. في المستقبل، قد تصبح مثل هذه الممارسات المعيار للزراعة، خاصة مع تغير المناخ",
-      "categorie": "Environnement et économie",
-      "source": "Basta.media",
-      "url": "https://basta.media/dix-fois-plus-complique-mais-dix-fois-plus-passionnant-producteurs-betteraves-passent-au-bio",
-      "image": "https://basta.media/local/cache-gd2/d2/6726367df624886b442fdf53da03b9.jpg",
-      "date": "2026-11-04",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Marché des sucres bio certifiés",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurance récolte agricole",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Marché des sucres bio certifiés",
-          "secteur_en": "Certified organic sugar market",
-          "secteur_zh": "有机认证糖市场",
-          "effet_fr": "La demande en sucres bio pourrait croître de 15 % d’ici 2025, tirée par les consommateurs écoresponsables et les restrictions commerciales.",
-          "effet_en": "Demand for organic sugar may rise by 15 % by 2025, driven by eco-conscious consumers and trade restrictions.",
-          "effet_zh": "有机糖需求到2025年可能增长15%，由环保消费者和贸易限制拉动。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurance récolte agricole",
-          "secteur_en": "Agricultural crop insurance",
-          "secteur_zh": "农作物保险",
-          "effet_fr": "Les primes pourraient augmenter pour les cultures bio en raison de risques accrus (maladies, parasites) et de coûts de gestion plus élevés.",
-          "effet_en": "Premiums may rise for organic crops due to higher risks (diseases, pests) and increased management costs.",
-          "effet_zh": "有机作物保险费用可能上涨，因病虫害风险和管理成本增加。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-07T23:27:50.042829",
-      "sous_categorie": "environnement"
     },
     {
       "id": "pol_femmes_774247",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-10-25T14:51:39.411468",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_365146",
+      "titre": "Betteraves bio : un pari audacieux",
+      "titre_en": "Bio beets: a bold agricultural shift",
+      "titre_zh": "有机甜菜种植：农业转型",
+      "titre_ru": "Переход на био-сахарную свеклу: «Десять раз сложнее, но десять раз интереснее»",
+      "titre_fa": "انتقال به تولید قند بیو از شکرخاک: «ده برابر سخت‌تر، اما ده برابر هیجان‌انگیزتر»",
+      "titre_ar": "التحول إلى إنتاج السكر الحيوي من البترول: «عشرة أضعاف الصعوبة، ولكن عشرة أضعاف الإثارة»",
+      "titre_original": "« Dix fois plus compliqué, mais dix fois plus passionnant » : quand des producteurs de betteraves passent au bio",
+      "resume": "Des producteurs français abandonnent les pesticides pour cultiver des betteraves sucrières en bio, malgré des défis techniques et économiques. Ils soulignent les bénéfices environnementaux et la demande croissante des consommateurs. Cette transition illustre une tendance plus large vers l’agriculture durable en Europe.",
+      "resume_en": "French producers are switching to organic sugar beet farming, ditching pesticides despite technical and economic hurdles. They highlight environmental benefits and rising consumer demand. This shift reflects a broader trend toward sustainable agriculture in Europe.",
+      "resume_zh": "法国农民放弃农药种植有机甜菜，尽管面临技术和经济挑战，但强调环保优势和消费者需求增长。这一转型反映了欧洲可持续农业的趋势。",
+      "resume_ru": "В разгар уборки сахарной свеклы фермеры делятся причинами перехода на экологически чистые методы. Они отмечают, что отказ от пестицидов требует больших усилий, но приносит высокую прибыль и улучшает качество почвы. Процесс адаптации к органическому земледелию занимает годы, но результаты оправдывают ожидания. Производители подчеркивают, что спрос на органическую продукцию растёт, что делает переход выгодным.",
+      "resume_fa": "در حین جمع‌آوری شکرخاک، کشاورزان دلیل انتقال به روش‌های زیست‌محیطی را توضیح می‌دهند. آن‌ها اشاره می‌کنند که ترک پست‌سیدان‌ها نیاز به تلاش بیشتری دارد، اما درآمد بالایی و بهبود کیفیت خاک را به همراه دارد. فرآیند سازگاری با کشاورزی بیو چند سال طول می‌کشد، اما نتایج انتظار را برآورده می‌سازد. تولیدکنندگان تأکید می‌کنند که تقاضا برای محصولات بیو در حال افزایش است، که این انتقال را سودمند می‌کند.",
+      "resume_ar": "في ذروة حصاد البترول، يشارك المزارعون أسباب انتقالهم إلى أساليب بيئية. يلاحظون أن отказа عن المبيدات الحشرية يتطلب مجهودًا أكبر، ولكن يجلب أرباحًا عالية ويحسن جودة التربة. عملية التكيف مع الزراعة العضوية تستغرق سنوات، ولكن النتائج تبرر التوقعات. يؤكد المنتجون أن الطلب على المنتجات العضوية في زيادة، مما يجعل الانتقال مربحًا",
+      "analyse_detaillee": "La conversion au bio des betteraves sucrières s’inscrit dans une dynamique européenne de réduction des intrants chimiques, accélérée par les réglementations comme le Pacte vert. Les producteurs français font face à des coûts initiaux élevés et à des rendements parfois inférieurs, mais misent sur la valorisation des labels bio. Les enjeux environnementaux incluent la préservation des sols et la biodiversité, cruciale pour l’agriculture future. À court terme, les prix des betteraves bio pourraient rester volatils en raison de la demande limitée. À moyen terme, l’UE pourrait renforcer les subventions pour les conversions, comme le prévoit la PAC 2023-2027. Long terme, cette transition pourrait redéfinir les chaînes d’approvisionnement sucrières et inciter d’autres cultures à suivre. Les coopératives agricoles soutiennent ce modèle, tandis que les industriels du sucre craignent des perturbations logistiques.",
+      "analyse_en": "The shift to organic sugar beets aligns with Europe’s push to reduce chemical inputs, driven by regulations like the Green Deal. French producers face high initial costs and sometimes lower yields but bet on the value of organic labels. Environmental stakes include soil preservation and biodiversity, critical for future farming. Short-term, organic beet prices may remain volatile due to limited demand. Medium-term, the EU could boost subsidies for conversions under the 2023-2027 CAP. Long-term, this transition may reshape sugar supply chains and prompt other crops to follow. Agricultural cooperatives back this model, while sugar industry players fear logistical disruptions.",
+      "analyse_zh": "有机甜菜种植符合欧洲减少化学投入的趋势，欧盟绿色协议进一步推动这一转型。法国农民初期成本高昂，产量有时不及常规种植，但依赖有机认证的溢价效应。环境影响包括土壤保护和生物多样性，对未来农业至关重要。短期内，有机甜菜价格可能因需求有限而波动。中期内，欧盟可能加大对转型的补贴力度，如2023-2027年共同农业政策。长期来看，这一转型可能重塑糖业供应链，并带动其他作物跟进。农业合作社支持此模式，而糖业企业则担忧物流中断风险。",
+      "analyse_ru": "Переход на органическое производство сахарной свеклы демонстрирует растущую осознанность фермеров в вопросах экологии и здоровья. Отказ от химических удобрений и пестицидов улучшает качество продукции и сохраняет биоразнообразие. Однако переход требует значительных инвестиций и знаний, что может отпугнуть мелких производителей. Спрос на органическую продукцию растёт, что делает такие инициативы перспективными. В будущем подобные практики могут стать стандартом для сельского хозяйства, особенно с учётом климатических изменений.",
+      "analyse_fa": "انتقال به تولید بیو شکرخاک نشان‌دهنده افزایش آگاهی کشاورزان در مورد مسائل زیست‌محیطی و سلامت است. ترک کودهای شیمیایی و پست‌سیدان‌ها کیفیت محصول را بهبود می‌بخشد و تنوع زیستی را حفظ می‌کند. با این حال، این انتقال نیاز به سرمایه‌گذاری و دانش قابل توجهی دارد که ممکن است تولیدکنندگان کوچک را دور کند. تقاضا برای محصولات بیو در حال افزایش است، که این اقدامات را آینده‌دار می‌کند. در آینده، چنین روش‌هایی ممکن است استاندارد برای کشاورزی شوند، به ویژه با توجه به تغییرات آب و هوایی.",
+      "analyse_ar": "التحول إلى إنتاج السكر الحيوي من البترول يوضح زيادة الوعي لدى المزارعين بشأن القضايا البيئية والصحة. отказа عن الأسمدة الكيميائية والمبيدات الحشرية تحسين جودة المنتج والحفاظ على التنوع البيولوجي. ومع ذلك، يتطلب هذا الانتقال استثمارات كبيرة ومعرفة كبيرة قد تبعد المزارعين الصغار. الطلب على المنتجات العضوية في زيادة، مما يجعل مثل هذه المبادرات مستقبلية. في المستقبل، قد تصبح مثل هذه الممارسات المعيار للزراعة، خاصة مع تغير المناخ",
+      "categorie": "Environnement et économie",
+      "source": "Basta.media",
+      "url": "https://basta.media/dix-fois-plus-complique-mais-dix-fois-plus-passionnant-producteurs-betteraves-passent-au-bio",
+      "image": "https://basta.media/local/cache-gd2/d2/6726367df624886b442fdf53da03b9.jpg",
+      "date": "2026-11-04",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Marché des sucres bio certifiés",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance récolte agricole",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des sucres bio certifiés",
+          "secteur_en": "Certified organic sugar market",
+          "secteur_zh": "有机认证糖市场",
+          "effet_fr": "La demande en sucres bio pourrait croître de 15 % d’ici 2025, tirée par les consommateurs écoresponsables et les restrictions commerciales.",
+          "effet_en": "Demand for organic sugar may rise by 15 % by 2025, driven by eco-conscious consumers and trade restrictions.",
+          "effet_zh": "有机糖需求到2025年可能增长15%，由环保消费者和贸易限制拉动。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance récolte agricole",
+          "secteur_en": "Agricultural crop insurance",
+          "secteur_zh": "农作物保险",
+          "effet_fr": "Les primes pourraient augmenter pour les cultures bio en raison de risques accrus (maladies, parasites) et de coûts de gestion plus élevés.",
+          "effet_en": "Premiums may rise for organic crops due to higher risks (diseases, pests) and increased management costs.",
+          "effet_zh": "有机作物保险费用可能上涨，因病虫害风险和管理成本增加。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-07T23:27:50.042829",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_488489",
