@@ -1,7 +1,66 @@
 {
-  "last_updated": "09/11/2026 à 09h10",
+  "last_updated": "09/11/2026 à 20h26",
   "articles": {
     "monde": [
+      {
+        "id": "monde_985893",
+        "titre": "Nvidia enquête sur espionnage après aveu Huang",
+        "titre_en": "Nvidia probes espionage after Huang’s infidelity",
+        "titre_zh": "Nvidia调查黄仁勋背叛后的间谍案",
+        "titre_ru": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
+        "titre_fa": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
+        "titre_ar": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
+        "titre_original": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
+        "resume": "Le conseil d’administration de Nvidia lance une enquête après qu’Jensen Huang ait admis une infidélité à ses employés. Les soupçons portent sur une possible ingérence étrangère dans sa vie privée. Cette affaire pourrait affecter la réputation de l’entreprise et son écosystème technologique.",
+        "resume_en": "Nvidia’s board is investigating foreign espionage suspicions after CEO Jensen Huang admitted infidelity to employees. The probe may impact the company’s reputation and tech ecosystem.",
+        "resume_zh": "Nvidia董事会在黄仁勋向员工坦承婚外情后，展开对外国间谍活动的调查。此事可能影响公司声誉和技术生态系统。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les scandales de césarisme et d’espionnage sont rares dans le secteur tech, mais soulèvent des questions sur la gouvernance et la sécurité des données. Huang’s admission pourrait être un aveu stratégique pour détourner l’attention d’un vrai problème géopolitique. À court terme, les actionnaires pourraient perdre confiance, tandis que les concurrents (AMD, Intel) pourraient exploiter cette faiblesse. Les régulateurs chinois ou américains pourraient intensifier les audits, surtout si des liens avec Pékin sont suspectés. Long terme, cela pourrait renforcer les protocoles de cybersécurité dans les entreprises tech, mais aussi accélérer la délocalisation des talents sensibles. Les investisseurs institutionnels pourraient réduire leurs positions, tandis que les médias amplifient le récit de la 'chute d’un génie'.",
+        "analyse_en": "Scandals of CEO infidelity and espionage are uncommon in tech, but raise governance and data security questions. Huang’s admission may be a strategic deflection from deeper geopolitical issues. Short-term, shareholders may lose confidence, while competitors (AMD, Intel) could exploit the weakness. Chinese or U.S. regulators may ramp up audits if Beijing ties are suspected. Long-term, this could boost cybersecurity protocols in tech firms but also accelerate offshoring of sensitive talent. Institutional investors may trim positions, while media amplifies the narrative of a 'falling genius'.",
+        "analyse_zh": "科技行业CEO的婚外情和间谍丑闻罕见，但引发了对公司治理和数据安全的质疑。黄仁勋的坦白可能是策略性转移视线，避开更深层的地缘政治问题。短期内，股东可能失去信心，而竞争对手（AMD、英特尔）可能利用这一弱点。如果与北京有关联，中国或美国监管机构可能加强审计。长期来看，这可能加强科技公司的网络安全协议，但也可能加速敏感人才的海外迁移。机构投资者可能减持股份，而媒体则放大‘天才崩溃’的故事。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Affaires",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/companies/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity-11794169375335.html",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+        "date": "2026-11-08",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché des actions tech (NASDAQ)",
+            "hausse": false
+          },
+          {
+            "label": "▲ Assurance cyber (cybersecurity insurance)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des actions tech (NASDAQ)",
+            "secteur_en": "Tech stock market (NASDAQ)",
+            "secteur_zh": "科技股市场（纳斯达克）",
+            "effet_fr": "Les doutes sur la gestion de Nvidia pourraient entraîner une correction des actions, affectant l’indice NASDAQ-100 dominé par les géants tech.",
+            "effet_en": "Doubts over Nvidia’s leadership may trigger a correction in tech stocks, impacting the NASDAQ-100 index.",
+            "effet_zh": "对Nvidia管理层的质疑可能导致科技股下跌，影响由科技巨头主导的纳斯达克-100指数。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Assurance cyber (cybersecurity insurance)",
+            "secteur_en": "Cybersecurity insurance",
+            "secteur_zh": "网络安全保险",
+            "effet_fr": "L’enquête pourrait accélérer la demande en assurances cyber pour les entreprises craignant des fuites de données ou des cyberattaques ciblées.",
+            "effet_en": "The probe may spur demand for cyber insurance as firms fear data leaks or targeted cyberattacks.",
+            "effet_zh": "调查可能加速企业对网络安全保险的需求，以防数据泄露或针对性网络攻击。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-09T20:26:08.988889"
+      },
       {
         "id": "monde_139356",
         "titre": "Mercedes R63 AMG rare à 31 000 km",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-10-30T20:25:42.937077"
-      },
-      {
-        "id": "monde_50929",
-        "titre": "Obama aurait enquêté sur Omar et son frère",
-        "titre_en": "Obama investigated Omar’s brother marriage",
-        "titre_zh": "奥巴马调查奥马尔与兄弟结婚事件",
-        "titre_ru": "Раскрыто: администрация Обамы расследовала Ильхан Омар и нашла доказательства брака с братом",
-        "titre_fa": "شواهد ازدواج ایلان عمر با برادرش توسط دولت اوباما کشف شد، اما اقدامی انجام نشد",
-        "titre_ar": "كشف: إدارة أوباما استقصت إيلهان عمر ووجدت أدلة على زواجها من أخيها",
-        "titre_original": "REVEALED: The OBAMA ADMINISTRATION Investigated Ilhan Omar and Found Evidence She Married Her Brother – Here’s Why They Ultimately Did Not Take Action",
-        "resume": "L’administration Obama aurait mené une enquête sur Ilhan Omar, révélant des preuves de mariage avec son frère, mais n’a pas pris de mesures. Ce scandale, lié à des accusations de fraude migratoire, a resurgi dans un contexte politique tendu. Les détails restent flous, mais soulèvent des questions sur la transparence et les priorités judiciaires.",
-        "resume_en": "The Obama administration allegedly investigated Ilhan Omar, uncovering evidence she married her brother, but took no action. The scandal, tied to immigration fraud allegations, resurfaced amid political tensions. Details remain murky, but raise questions about transparency and judicial priorities.",
-        "resume_zh": "奥巴马政府据报道调查了伊尔汉·奥马尔，发现她与兄弟结婚的证据，但最终未采取行动。此事件与移民欺诈指控相关，在政治紧张局势下重新浮出水面。细节模糊，但引发了对透明度和司法优先事项的质疑。",
-        "resume_ru": "Документальные данные показывают, что администрация Обамы провела расследование в отношении конгрессмена Ильхан Омар, обнаружив доказательства брака с родным братом. Однако несмотря на наличие улик, власти не предприняли никаких действий. Причины такого решения остаются неясными и вызывают вопросы о политико-этических мотивах.",
-        "resume_fa": "دستاوردهای جدید نشان می‌دهد که دولت اوباما در مورد ایلان عمر تحقیق کرد و شواهد ازدواج او با برادرش را پیدا کرد. با وجود این شواهد، اقدامی انجام نشد. دلیل این تصمیم هنوز روشن نیست و سؤالاتی در مورد دلایل سیاسی و اخلاقی ایجاد می‌کند.",
-        "resume_ar": "كشف وثائق أن إدارة أوباما استقصت عضو الكونغرس إيلهان عمر ووجدت أدلة على زواجها من أخيها. ومع وجود هذه الأدلة، لم تتخذ أي إجراءات. أسباب عدم اتخاذ إجراء ما زالت غير واضحة وتثير أسئلة حول الدوافع السياسية والعقائدية.",
-        "analyse_detaillee": "Ce scandale s’inscrit dans une histoire de controverses autour des origines d’Ilhan Omar, souvent ciblée pour ses prises de position critiques envers Israël. Les enjeux portent sur la légitimité des enquêtes gouvernementales et leur utilisation politique, notamment avant les élections. Les causes profondes incluent des tensions communautaires et une polarisation croissante aux États-Unis. À court terme, cela pourrait alimenter les débats sur l’immigration et la loyauté des élus. À moyen terme, cela pourrait renforcer les divisions partisanes, tandis qu’à long terme, cela interroge la crédibilité des institutions. Les démocrates pourraient minimiser l’affaire, tandis que les républicains l’utiliseront pour discréditer Omar.",
-        "analyse_en": "This scandal fits into a history of controversies surrounding Ilhan Omar’s background, often targeted for her critical stance on Israel. The stakes involve the legitimacy of government investigations and their political use, especially pre-election. Root causes include community tensions and growing U.S. polarization. Short-term, this could fuel debates on immigration and elected officials' loyalty. Medium-term, it may deepen partisan divisions, while long-term, it questions institutional credibility. Democrats may downplay the issue, while Republicans will use it to discredit Omar.",
-        "analyse_zh": "此事件背景是伊尔汉·奥马尔因批评以色列而频繁成为争议焦点。核心问题涉及政府调查的合法性及其政治利用，特别是在选举前夕。深层原因包括社区矛盾和美国日益严重的两极分化。短期内，这可能会加剧关于移民和政客忠诚度的辩论。中期内，可能加深党派分裂，长期内则质疑机构的可信度。民主党可能会回避此事，而共和党则会利用它来抹黑奥马尔。",
-        "analyse_ru": "Раскрытие этого факта вызывает споры о том, почему власти не воспользовались уликами для возбуждения уголовного дела, учитывая общественную реакцию на подобные скандалы. Возможно, это связано с давлением на администрацию Обамы со стороны мусульманских организаций или страхом перед политическими последствиями. С другой стороны, некоторые эксперты считают, что это может быть частью стратегии по защите интересов определенных групп. В будущем подобные случаи могут стать предметом более тщательного анализа в контексте иммиграционной политики США. Позиции сторон разделились: одни обвиняют власти в бездействии, другие — в попытке скрыть правду.",
-        "analyse_fa": "کشف این واقعه سوال‌هایی در مورد این که چرا دولت از شواهد برای آغاز یک پرونده کیفری استفاده نکرد، به وجود آورده است، به خصوص در حالی که واکنش عمومی به این گونه اسکاندال‌ها معمولاً شدید است. شاید این تصمیم تحت تأثیر سازمان‌های اسلامی یا ترس از پیامدهای سیاسی بوده باشد. برخی از تحلیلگران معتقدند این ممکن است بخشی از استراتژی برای حمایت از منافع گروه‌های خاص باشد. در آینده، چنین مواردی ممکن است در تحلیل سیاست مهاجرت آمریکا مورد بررسی دقیق‌تر قرار گیرند. مواضع طرفین تقسیم شده است: برخی دولت را به بی‌اعتنایی متهم می‌کنند، برخی دیگر معتقدند که دولت سعی در پنهان کردن حقیقت داشته است.",
-        "analyse_ar": "كشف هذا الأمر يثير تساؤلات حول سبب عدم استخدام السلطات للأدلة لفتح قضية جنائية، خاصة مع ردود الفعل العامة الشديدة تجاه مثل هذه الفسادات. قد يكون هذا القرار تحت تأثير المنظمات الإسلامية أو خوفًا من النتائج السياسية. يعتقد بعض الخبراء أن هذا قد يكون جزءًا من استراتيجية لحماية مصالح مجموعات معينة. في المستقبل، قد يتم تحليل مثل هذه الحالات بشكل أكثر دقة في سياق سياسة الهجرة الأمريكية. انقسمت مواقف الأطراف: بعضهم يتهم السلطات بالعدم، بينما يعتقد آخرون أن السلطات حاولت إخفاء الحقيقة.",
-        "categorie": "Géopolitique",
-        "source": "Thegatewaypundit.com",
-        "url": "https://www.thegatewaypundit.com/2026/10/revealed-obama-administration-investigated-ilhan-omar-found-evidence/",
-        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/08/49517510593_9be376c765_c-1200x630.jpg",
-        "date": "2026-10-29",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▼ Marchés financiers des valeurs politiques",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur des médias sociaux et désinformation",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marchés financiers des valeurs politiques",
-            "secteur_en": "Political values financial markets",
-            "secteur_zh": "",
-            "effet_fr": "Les accusations pourraient déstabiliser les investisseurs sensibles aux risques géopolitiques et aux controverses médiatiques.",
-            "effet_en": "Accusations may destabilize investors sensitive to geopolitical risks and media controversies.",
-            "effet_zh": "指控可能动摇对地缘政治风险和媒体争议敏感的投资者。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur des médias sociaux et désinformation",
-            "secteur_en": "Social media and disinformation sector",
-            "secteur_zh": "社交媒体和虚假信息行业",
-            "effet_fr": "Les réseaux sociaux pourraient amplifier les théories du complot autour de cette affaire, exacerbant la polarisation.",
-            "effet_en": "Social media may amplify conspiracy theories about this case, worsening polarization.",
-            "effet_zh": "社交媒体可能放大此事件的阴谋论，加剧分裂。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-30T15:33:53.858330"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_487130",
+        "titre": "Blanc-Haut maintient la pression migratoire",
+        "titre_en": "White House tightens immigration enforcement",
+        "titre_zh": "白宫加强移民执法力度",
+        "titre_ru": "White House vows to keep up immigration crackdown after midterms defeat",
+        "titre_fa": "White House vows to keep up immigration crackdown after midterms defeat",
+        "titre_ar": "White House vows to keep up immigration crackdown after midterms defeat",
+        "titre_original": "White House vows to keep up immigration crackdown after midterms defeat",
+        "resume": "Malgré la défaite aux élections de mi-mandat, le département de la Sécurité intérieure (DHS) affirme poursuivre sa politique de répression migratoire. Les opérations de rafle restent actives, selon les déclarations officielles. Cette stratégie s’inscrit dans une logique de fermeté envers les flux migratoires illégaux, malgré les critiques politiques.",
+        "resume_en": "Despite midterm election losses, the Department of Homeland Security insists on continuing its immigration crackdown. Round-up operations remain active, according to official statements. This policy reflects a hardline stance on illegal migration, amid political backlash.",
+        "resume_zh": "尽管中间选举失利，美国白宫仍坚持加强移民执法。安全内阁声称继续实施严厉的移民打击措施，并表示收容行动仍在进行。这一政策反映了对非法移民的强硬立场，尽管面临政治反弹。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les États-Unis ont historiquement oscillé entre politiques d’accueil et de contrôle migratoire, avec des pics sous les administrations républicaines. Ce durcissement s’explique par une rhétorique populiste et une pression électorale sur les thèmes de la sécurité frontalière. À court terme, cela pourrait aggraver les tensions avec les pays d’origine et les ONG, tout en renforçant l’influence des lobbies sécuritaires. À moyen terme, une crise humanitaire pourrait émerger avec des expulsions massives, tandis que les partis démocrates pourraient exploiter ce sujet pour les prochaines élections. Long terme, une normalisation progressive est possible si les flux migratoires se stabilisent, mais le climat politique reste clivant. Les républicains défendent cette ligne comme un marqueur idéologique, tandis que les démocrates y voient une mesure contre-productive.",
+        "analyse_en": "The U.S. has historically alternated between open-door and restrictive immigration policies, with peaks under Republican administrations. This crackdown stems from populist rhetoric and electoral pressure on border security. Short-term, it may escalate tensions with origin countries and NGOs while boosting the influence of security lobbies. Medium-term, mass deportations could trigger a humanitarian crisis, while Democrats may weaponize the issue for future elections. Long-term, a gradual normalization is possible if migration flows stabilize, but political polarization remains. Republicans frame this as an ideological stance, while Democrats see it as counterproductive.",
+        "analyse_zh": "美国移民政策历来波动，共和党政府时期往往采取更严厉的措施。此次加强执法源于民粹主义言论和边境安全的选举压力。短期内，可能加剧与原籍国和人道组织的紧张关系，同时增强安全利益集团的影响力。中期内，大规模驱逐可能引发人道危机，民主党可能利用这一议题为未来选举服务。长期来看，如果移民流量稳定，可能逐步回归正常，但政治分裂依然严重。共和党将此视为意识形态标志，民主党则认为措施效果不佳。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28ee/live/18b61b60-dbb4-11f1-b35d-8ff000e4934a.jpg",
+        "date": "2026-11-08",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des visas et permis de travail",
+            "hausse": false
+          },
+          {
+            "label": "▲ Bourse des obligations souveraines (dette publique)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des visas et permis de travail",
+            "secteur_en": "Visa and work permit market",
+            "secteur_zh": "签证和工作许可市场",
+            "effet_fr": "Les restrictions accrues pourraient réduire la demande de visas temporaires et augmenter les coûts pour les entreprises recrutant à l’étranger.",
+            "effet_en": "Stricter rules may reduce demand for temporary visas while increasing hiring costs for foreign labor.",
+            "effet_zh": "加严的签证政策可能减少临时签证需求，同时提高企业招聘外籍员工的成本。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Bourse des obligations souveraines (dette publique)",
+            "secteur_en": "Sovereign bond market (public debt)",
+            "secteur_zh": "主权债券市场（公债）",
+            "effet_fr": "Les craintes sur l’immigration pourraient peser sur la confiance des investisseurs et faire monter les rendements des obligations américaines.",
+            "effet_en": "Immigration concerns may weigh on investor confidence, pushing up U.S. bond yields.",
+            "effet_zh": "移民问题可能影响投资者信心，推高美国国债收益率。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-09T20:26:08.988867"
+      },
       {
         "id": "usa_563837",
         "titre": "Trump accuse les enquêtes de 'lawfare'",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-10-30T20:25:42.937098"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_531632",
-        "titre": "Barkley accuse James de mépris pour l’hymne",
-        "titre_en": "Barkley accuses James of anthem disrespect",
-        "titre_zh": "巴克利指责詹姆斯不尊重国歌",
-        "titre_ru": "Чарльз Баркли обвинил Леброна Джеймса в неуважении к национальному гимну",
-        "titre_fa": "چارلز بارکلی از لبرون جیمز به دلیل عدم احترام به سرود ملی انتقاد کرد",
-        "titre_ar": "تهمت تشارلز باركلي لبرون جيمس بعدم الاحترام للهيمن الوطني",
-        "titre_original": "Charles Barkley accuses LeBron James of disrespecting the national anthem",
-        "resume": "Charles Barkley, ancien joueur NBA, a critiqué LeBron James pour son geste pendant l’hymne national, rejoignant indirectement Donald Trump. Ce débat reflète les divisions culturelles autour du patriotisme et du sport aux États-Unis. Les réactions ont été vives, entre soutien et condamnation.",
-        "resume_en": "Charles Barkley, former NBA player, criticized LeBron James for his anthem gesture, indirectly aligning with Donald Trump. This debate highlights cultural divisions over patriotism and sports in the U.S. Reactions ranged from support to condemnation.",
-        "resume_zh": "NBA前球员查尔斯·巴克利批评勒布朗·詹姆斯在国歌期间的举动，间接站在唐纳德·特朗普一边。此争议反映了美国关于爱国主义和体育的文化分歧。反应从支持到谴责不等。",
-        "resume_ru": "Чарльз Баркли, известный баскетболист и комментатор, выступил с критикой Леброна Джеймса за его жесты во время исполнения гимна США. Баркли поддержал позицию Дональда Трампа, назвав действия Джеймса неуважительными. Этот скандал вновь подогрел дискуссии о свободе слова и политической активности спортсменов.",
-        "resume_fa": "چارلز بارکلی، بازیکن و تحلیلگر بسکتبال، از لبرون جیمز به دلیل حرکات او در هنگام اجرای سرود ملی آمریکا انتقاد کرد. بارکلی با دیدگاه دونالد ترامپ موافق بود و رفتار جیمز را بی‌احترامی توصیف کرد. این اسکاندال دوباره بحث دربارهٔ آزادی بیان و فعالیت سیاسی ورزشکاران را گرم کرد.",
-        "resume_ar": "انتقد تشارلز باركلي لبرون جيمس بسبب تصرفاته أثناء أداء الهيمن الوطني الأمريكي. وافق باركلي مع موقف دونالد ترامب، ووصف تصرفات جيمس بأنها عدم الاحترام. هذا الفضيحة أعادت تسخين المناقشات حول حرية التعبير والنشاط السياسي للأثرياء الرياضيين.",
-        "analyse_detaillee": "Ce conflit s’inscrit dans une longue histoire de tensions raciales et politiques autour de l’hymne national, remontant aux années 1960 avec Muhammad Ali. Les enjeux actuels mêlent identité nationale, activisme social et instrumentalisation politique par Trump. Les causes profondes incluent un sentiment de marginalisation des minorités et une polarisation accrue. À court terme, cela pourrait relancer les débats sur le rôle des athlètes dans la société. À moyen terme, cela pourrait renforcer les clivages entre conservateurs et progressistes. Long terme, cela interroge la cohésion sociale américaine et le futur du sport comme espace de dialogue.",
-        "analyse_en": "This conflict stems from decades of racial and political tensions around the national anthem, dating back to the 1960s with Muhammad Ali. Current stakes blend national identity, social activism, and political weaponization by Trump. Root causes include minority marginalization and heightened polarization. Short-term, this could reignite debates on athletes' societal role. Medium-term, it may deepen conservative-progressive divides. Long-term, it questions U.S. social cohesion and the future of sports as a dialogue space.",
-        "analyse_zh": "此冲突源于上世纪60年代穆罕默德·阿里以来关于国歌的种族和政治紧张局势。当前的核心问题涉及国家认同、社会活动主义和特朗普的政治操控。深层原因包括少数族裔的边缘化和日益严重的两极分化。短期内，这可能会重新点燃关于运动员社会角色的辩论。中期内，可能加深保守派与进步派的分歧。长期内，这将质疑美国的社会凝聚力以及体育作为对话空间的未来。",
-        "analyse_ru": "Скандал вокруг Леброна Джеймса стал очередным примером того, как спорт может использоваться в политических дебатах. Баркли, как сторонник Трампа, вероятно, стремился подчеркнуть разницу в ценностях между поколениями. Однако его критика может быть воспринята как попытка дискредитации Джеймса, который активно поддерживает социальные движения. В будущем подобные ситуации могут усилить поляризацию общественного мнения. Позиции сторон остаются противоположными: одни видят в действиях Джеймса протест, другие — неуважение к символам страны. Контекст также включает растущую роль спортсменов в общественной жизни США.",
-        "analyse_fa": "این اسکاندال در مورد لبرون جیمز مثال دیگری از استفاده از ورزش در مناقشات سیاسی است. بارکلی، که طرفدار ترامپ است، احتمالاً سعی در برجسته کردن تفاوت ارزش‌های نسل‌ها داشت. اما انتقاد او ممکن است به عنوان تلاش برای بی‌اعتمادی به جیمز، که فعالانه از جنبش‌های اجتماعی حمایت می‌کند، دیده شود. در آینده، چنین موقعیت‌هایی ممکن است قطبش عمومی را افزایش دهند. مواضع طرفین همچنان مخالف هستند: برخی رفتار جیمز را اعتراض و برخی دیگر بی‌احترامی به نمادهای کشور می‌دانند. زمینه این موضوع نیز شامل نقش روزافزون ورزشکاران در زندگی اجتماعی آمریکا است.",
-        "analyse_ar": "كانت هذه الفضيحة حول لبرون جيمس مثالًا آخر على استخدام الرياضة في المناقشات السياسية. كان باركلي، الذي يدعم ترامب، قد حاول بالتأكيد الفروقات بين أجيال القيم. ومع ذلك، قد يُرى انتقاده كإ attempt لتخريب سمعة جيمس، الذي يدعم نشطاء الحركات الاجتماعية بفعالية. في المستقبل، قد تزيد مثل هذه المواقف قطبية الرأي العام. انقسمت مواقف الأطراف: بعضهم يرون في تصرفات جيمس احتجاجًا، بينما يراه آخرون عدم الاحترام للرموز الوطنية. السياق يشمل أيضًا دور الرياضيين المتزايد في الحياة الاجتماعية الأمريكية.",
-        "categorie": "Société",
-        "source": "Awful Announcing",
-        "url": "https://awfulannouncing.com/nba/charles-barkley-lebron-james-disresepcting.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/60fc25290d2ba69296705c2e043cde617839bcf20e00651236c91274abe56d10/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2F70fec910158c55629d772721cbd0bd8e.jpg",
-        "date": "2026-10-29",
-        "pays": "usa",
+        "id": "chine_673649",
+        "titre": "Micron suspend construction usine Taïwan",
+        "titre_en": "Micron halts Taiwan plant construction",
+        "titre_zh": "美光暂停台湾厂房建设",
+        "titre_ru": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+        "titre_fa": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+        "titre_ar": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+        "titre_original": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+        "resume": "Micron Technology suspend les travaux d’une usine de puces mémoire à Taïwan en raison d’un conflit syndical non résolu. Les négociations avec les travailleurs locaux bloquent le projet, retardant les plans de capacité de l’entreprise. Ce retard pourrait impacter la chaîne d’approvisionnement mondiale des semi-conducteurs.",
+        "resume_en": "Micron Technology halts construction of a memory chip plant in Taiwan due to unresolved labor disputes. Contract negotiations with local workers stall the project, delaying capacity plans. This delay may disrupt the global semiconductor supply chain.",
+        "resume_zh": "美光科技因与当地工人未达成劳动合同而暂停台湾记忆芯片厂房建设。这一延误可能影响全球半导体供应链。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Taïwan est un hub stratégique pour l’industrie des semi-conducteurs, avec une dépendance historique aux investissements étrangers. Les conflits sociaux y sont rares mais graves, souvent liés à des conditions de travail ou des réorganisations industrielles. Ce retard s’inscrit dans un contexte de tensions géopolitiques accrues entre les États-Unis et la Chine, où Taïwan est un enjeu clé. À court terme, les actionnaires de Micron pourraient exiger des compensations pour les retards, tandis que les concurrents (Samsung, SK Hynix) pourraient profiter de la situation pour capter des parts de marché. Les autorités taïwanaises, déjà sous pression, pourraient durcir les règles pour les investisseurs étrangers. Long terme, cela pourrait accélérer la diversification des chaînes d’approvisionnement, avec un risque de délocalisation vers le Vietnam ou l’Inde. Les États-Unis, via le CHIPS Act, pourraient subventionner des projets alternatifs pour réduire la dépendance à Taïwan. Les syndicats taïwanais, bien que faibles, pourraient gagner en influence si ce conflit devient un symbole de la lutte pour les droits des travailleurs.",
+        "analyse_en": "Taiwan is a strategic hub for the semiconductor industry, historically reliant on foreign investment. Labor disputes there are rare but severe, often tied to working conditions or industrial restructuring. This delay occurs amid heightened U.S.-China geopolitical tensions, with Taiwan as a key battleground. Short-term, Micron shareholders may demand compensation for delays, while competitors (Samsung, SK Hynix) could seize market share. Taiwanese authorities, already under pressure, may tighten rules for foreign investors. Long-term, this could accelerate supply chain diversification, with risks of offshoring to Vietnam or India. The U.S., via the CHIPS Act, may subsidize alternative projects to reduce Taiwan dependence. Taiwanese unions, though weak, could gain leverage if this dispute becomes a symbol of workers' rights struggles.",
+        "analyse_zh": "台湾是半导体产业的战略枢纽，长期依赖外资投资。当地的劳资纠纷虽然罕见但严重，通常与工作条件或产业重组相关。此次延误发生在美中地缘政治紧张加剧背景下，台湾成为关键争夺点。短期内，美光股东可能要求赔偿延误损失，而竞争对手（三星、SK海力士）可能抓住机会扩大市场份额。台湾当局，已面临压力，可能对外资投资者采取更严格的规则。长期来看，这可能加速供应链多元化，但风险包括向越南或印度转移生产。美国通过《芯片法案》可能资助替代项目，减少对台湾的依赖。台湾工会虽然实力较弱，但如果此次纠纷成为工人权益斗争的象征，可能获得更大影响力。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie/Technologie",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bbc99223c9f239a9",
+        "image": "https://biztoc.com/cdn/bbc99223c9f239a9_s.webp",
+        "date": "2026-11-08",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marchés des sponsors sportifs",
-            "hausse": false
+            "label": "▲ Marché des semi-conducteurs (mémoire DRAM/NAND)",
+            "hausse": true
           },
           {
-            "label": "▼ Industrie des médias et droits TV",
+            "label": "▼ Bourse des matières premières (cuivre, gaz naturel)",
             "hausse": false
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marchés des sponsors sportifs",
-            "secteur_en": "Sports sponsorship markets",
-            "secteur_zh": "",
-            "effet_fr": "Les sponsors pourraient réduire leurs investissements dans la NBA en raison des controverses politiques.",
-            "effet_en": "Sponsors may reduce investments in the NBA due to political controversies.",
-            "effet_zh": "体育赞助商市场可能因政治争议而减少对NBA的投资。",
-            "hausse": false
+            "secteur_fr": "Marché des semi-conducteurs (mémoire DRAM/NAND)",
+            "secteur_en": "Semiconductor market (DRAM/NAND memory)",
+            "secteur_zh": "半导体市场（DRAM/NAND存储器）",
+            "effet_fr": "Le retard de Micron pourrait créer une pénurie temporaire de puces mémoire, faisant monter les prix et bénéficiant à ses concurrents directs (Samsung, SK Hynix).",
+            "effet_en": "Micron’s delay may create a temporary DRAM/NAND chip shortage, driving up prices and benefiting direct rivals (Samsung, SK Hynix).",
+            "effet_zh": "美光的延误可能导致暂时性DRAM/NAND芯片短缺，推高价格并惠及直接竞争对手（三星、SK海力士）。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Industrie des médias et droits TV",
-            "secteur_en": "Media industry and TV rights",
-            "secteur_zh": "媒体行业和电视转播权",
-            "effet_fr": "Les chaînes de télévision pourraient revoir leurs contrats avec la NBA pour éviter les polémiques.",
-            "effet_en": "TV networks may renegotiate NBA contracts to avoid controversies.",
-            "effet_zh": "电视台可能重新谈判NBA转播权合同以避免争议。",
+            "secteur_fr": "Bourse des matières premières (cuivre, gaz naturel)",
+            "secteur_en": "Commodities market (copper, natural gas)",
+            "secteur_zh": "大宗商品市场（铜、天然气）",
+            "effet_fr": "Les retards dans les projets industriels pourraient réduire la demande en métaux et énergies, pesant sur les cours à moyen terme.",
+            "effet_en": "Industrial project delays may cut demand for metals and energy, weighing on medium-term commodity prices.",
+            "effet_zh": "工业项目延误可能减少对金属和能源的需求，中期内压低大宗商品价格。",
             "hausse": false
           }
         ],
-        "created_at": "2026-10-30T15:33:53.858352"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-11-09T20:26:08.988907"
+      },
       {
         "id": "chine_884219",
         "titre": "Football américain : prédictions pour la semaine 10",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-10-24T17:14:05.716302"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_512994",
-        "titre": "Match de football Weber vs Montana State",
-        "titre_en": "Football match: Weber vs Montana State",
-        "titre_zh": "足球赛：韦伯对蒙大拿州立",
-        "titre_ru": "DataBeyond демонстрирует робота PICKINGMAN на глобальном стриме из сортировочного завода",
-        "titre_fa": "دیتا بیند ربات پیکینگمن را در پخش جهانی از کارخانه مرتب‌سازی زباله نمایش می‌دهد",
-        "titre_ar": "داتا بيوند تعرض روبوت بيكينغمان في بث عالمي من مصنع تصنيف النفايات",
-        "titre_original": "DataBeyond Showcases PICKINGMAN in Global Livestream from Operating Waste-Sorting Facility",
-        "resume": "Le 24 octobre, l’équipe de football de Weber State (No. 22) affronte celle de Montana State (No. 3/3) lors d’un match crucial en Division I. Le rendez-vous, diffusé en direct sur ESPN+, marque un défi pour les Bobcats, en pleine saison régulière (5-3). L’événement, organisé au Bobcat Stadium, attire l’attention des fans et des médias sportifs.",
-        "resume_en": "On October 24, Weber State (No. 22) faces Montana State (No. 3/3) in a key Division I football match. The game, broadcast live on ESPN+, is a challenge for the Bobcats, currently at 5-3 in the regular season. The event at Bobcat Stadium draws fan and media attention.",
-        "resume_zh": "10月24日，排名第22的韦伯州立大学足球队将与排名第3/3的蒙大拿州立大学足球队在一场重要的NCAA一级联赛中对决。这场比赛将通过ESPN+直播，对目前战绩为5胜3负的Bobcats队来说是一个挑战。该活动在Bobcat Stadium举行，吸引了球迷和体育媒体的关注。",
-        "resume_ru": "Компания DataBeyond продемонстрировала робота PICKINGMAN, оснащенного искусственным интеллектом для сортировки бытовых отходов, во время первого глобального публичного стрима из сортировочного завода в Дунгуане. Трансляция состоялась 23 октября 2026 года. Робот предназначен для повышения эффективности переработки мусора и снижения ручного труда. Технология может найти применение в городах с высокой плотностью населения и проблемами с утилизацией отходов.",
-        "resume_fa": "شرکت دیتا بیند ربات پیکینگمن، که با هوش مصنوعی برای مرتب‌سازی زباله‌های خانگی مجهز شده، را در طول اولین پخش جهانی عمومی از کارخانه مرتب‌سازی زباله در دونگگوان نمایش داد. این پخش در ۲۳ اکتبر ۲۰۲۶ انجام شد. این ربات برای افزایش کارایی بازیافت زباله و کاهش کار دستی طراحی شده‌است. این فناوری می‌تواند در شهرهای پرجمعیت با مشکلات مدیریت زباله کاربرد داشته باشد.",
-        "resume_ar": "شركة داتا بيوند عرضت روبوت بيكينغمان، مزود بالذكاء الاصطناعي لتصنيف النفايات المنزلية، خلال أول بث عالمي عام من مصنع تصنيف النفايات في دونغوان. تم بث هذا الحدث في 23 أكتوبر 2026. هذا الروبوت مصمم لتحسين كفاءة إعادة التدوير وتقليل العمل اليدوي. يمكن أن تجد هذه التكنولوجيا تطبيقها في المدن ذات الكثافة السكانية العالية والمشاكل في إدارة النفايات.",
-        "analyse_detaillee": "Ce match s’inscrit dans une tradition historique de rivalités universitaires aux États-Unis, où les confrontations sportives reflètent souvent des dynamiques régionales et économiques. Les enjeux actuels incluent la quête de titres régionaux et la pression des classements NCAA, avec des implications pour les carrières des joueurs et les budgets des universités. Les causes profondes sont liées à la compétitivité accrue dans le football universitaire, où les petites universités comme Weber State doivent rivaliser avec des institutions mieux financées. À court terme, la performance de Weber State pourrait influencer son classement et ses opportunités de recrutement. À moyen terme, une victoire pourrait renforcer son image et attirer des talents, tandis qu’à long terme, cela pourrait consolider sa place dans la conférence Big Sky. Les acteurs clés sont les entraîneurs, les joueurs, les universités et les médias sportifs.",
-        "analyse_en": "This match fits into a historical tradition of U.S. college rivalries, where sporting clashes often mirror regional and economic dynamics. Current stakes involve regional title pursuits and NCAA ranking pressures, impacting player careers and university budgets. Root causes include heightened competition in college football, where smaller schools like Weber State must compete with better-funded institutions. Short-term, Weber State’s performance may affect its ranking and recruitment opportunities. Medium-term, a win could boost its reputation and attract talent, while long-term, it may solidify its place in the Big Sky conference. Key actors include coaches, players, universities, and sports media.",
-        "analyse_zh": "这场比赛符合美国大学体育对抗的历史传统，其中体育较量往往反映区域和经济动态。当前的影响包括争夺地区冠军和NCAA排名压力，对球员职业和大学预算有影响。深层原因包括大学足球竞争加剧，小型大学如韦伯州立大学必须与资金更充足的机构竞争。短期内，韦伯州立大学的表现可能影响其排名和招募机会。中期内，胜利可能提升其声誉并吸引人才，长期内，这可能巩固其在Big Sky联盟的地位。关键人物包括教练、球员、大学和体育媒体。",
-        "analyse_ru": "Технология PICKINGMAN может революционизировать отрасль переработки отходов, снизив затраты и повысив точность сортировки. Однако, внедрение роботов требует значительных инвестиций и обучения персонала. Перспективы зависят от готовности городов и компаний к внедрению инноваций. Также важно учитывать экологические и социальные последствия автоматизации процессов. Конкуренция на рынке робототехники может ускорить развитие подобных решений.",
-        "analyse_fa": "فناوری پیکینگمن می‌تواند صنعت بازیافت زباله را انقلاب دهد و هزینه‌ها را کاهش و دقت مرتب‌سازی را افزایش دهد. اما پیاده‌سازی ربات‌ها نیاز به سرمایه‌گذاری قابل توجه و آموزش کارکنان دارد. آینده این موضوع به آمادگی شهرهای و شرکت‌ها برای پذیرش نوآوری بستگی دارد. همچنین باید پیامدهای زیست‌محیطی و اجتماعی خودکارسازی فرآیندها را در نظر گرفت. رقابت در بازار رباتیک می‌تواند توسعه چنین راه‌حل‌هایی را تسریع کند.",
-        "analyse_ar": "قد تتحول تقنية بيكينغمان إلى ثورة في صناعة إعادة التدوير، وتقليل التكاليف وتحسين دقة التصنيف. ومع ذلك، يتطلب تنفيذ الروبوتات استثمارات كبيرة وتدريب الموظفين. آفاق هذا الموضوع تعتمد على استعداد المدن والشركات لاستقبال الابتكارات. أيضًا، يجب أخذ العواقب البيئية والاجتماعية للتمكين الآلي للعمليات في الاعتبار. قد تسارع المنافسة في سوق الروبوتات من تطوير مثل هذه الحلول.",
-        "categorie": "Sport",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/databeyond-showcases-pickingman-in-global-livestream-from-operating-waste-sorting-facility-302918041.html",
-        "image": "https://i.ytimg.com/vi/nssj3g2HNP4/hqdefault.jpg",
-        "date": "2026-10-23",
-        "pays": "chine",
+        "id": "russie_595051",
+        "titre": "Couple écossais taxé pour appartement ukrainien",
+        "titre_en": "Scottish couple taxed for Kyiv flat",
+        "titre_zh": "苏格兰夫妇因基辅公寓被征税",
+        "titre_ru": "Orkney couple face £9k second home tax on... 'shrapnel-hit' Kyiv flat",
+        "titre_fa": "Orkney couple face £9k second home tax on... 'shrapnel-hit' Kyiv flat",
+        "titre_ar": "Orkney couple face £9k second home tax on... 'shrapnel-hit' Kyiv flat",
+        "titre_original": "Orkney couple face £9k second home tax on... 'shrapnel-hit' Kyiv flat",
+        "resume": "Un couple installé en Écosse depuis trois ans doit payer 9 000 £ de taxe sur un appartement en Ukraine, endommagé par des éclats d’obus. Cette décision soulève des questions sur la fiscalité des biens à l’étranger pour les réfugiés. Les autorités écossaises justifient cette mesure par la législation locale, malgré l’urgence humanitaire.",
+        "resume_en": "A couple living in Scotland for three years faces a £9,000 tax on a Kyiv flat hit by shrapnel. The move raises questions about taxing foreign properties for refugees. Scottish authorities justify it under local laws, amid humanitarian concerns.",
+        "resume_zh": "一对在苏格兰居住三年的夫妇，因基辅一处受弹片损毁的公寓，面临9000英镑的税收。这一决定引发了对海外财产对难民征税的质疑。苏格兰当局以当地法律为由，尽管面临人道主义危机。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La fiscalité des biens à l’étranger pour les réfugiés est un sujet complexe, souvent négligé dans les politiques d’accueil. L’Ukraine, en guerre depuis 2014, voit ses infrastructures détruites, rendant la propriété des logements incertaine. À court terme, cette taxe pourrait pousser les réfugiés à vendre leurs biens ou à quitter l’Écosse, aggravant leur précarité. Les ONG dénoncent une mesure inhumaine, tandis que les autorités écossaises invoquent la cohérence fiscale. À moyen terme, cela pourrait encourager d’autres pays à adopter des règles similaires, créant un précédent néfaste. Long terme, une réforme des conventions fiscales internationales sur les biens des déplacés serait nécessaire pour éviter ces abus. Le Royaume-Uni, déjà critiqué pour son traitement des réfugiés, pourrait voir son image internationale s’éroder davantage. Les partis écossais indépendantistes pourraient utiliser ce sujet pour critiquer Westminster.",
+        "analyse_en": "Taxing foreign properties for refugees is a complex issue often overlooked in asylum policies. Ukraine, at war since 2014, has destroyed infrastructure, making property ownership uncertain. Short-term, this tax may force refugees to sell assets or leave Scotland, worsening their precarity. NGOs condemn the measure as inhumane, while Scottish authorities cite fiscal consistency. Medium-term, this could prompt other countries to adopt similar rules, setting a harmful precedent. Long-term, reforming international tax conventions on displaced persons’ assets would be needed to prevent such abuses. The UK, already criticized for its refugee treatment, may face further reputational damage. Scottish independence parties could use this issue to criticize Westminster.",
+        "analyse_zh": "对难民海外财产征税是一个复杂问题，通常在避难政策中被忽视。自2014年以来处于战争状态的乌克兰，基础设施严重破坏，房产所有权变得不确定。短期内，这笔税可能迫使难民出售资产或离开苏格兰，加剧他们的贫困。人道组织谴责这一措施不人道，而苏格兰当局则以财政一致性为由。中期内，其他国家可能效仿，形成有害的先例。长期来看，需要改革国际税收协议，以避免对流离失所者财产的滥征滥税。英国已因难民政策受到批评，这一决定可能进一步损害其国际形象。苏格兰独立党可能利用此事批评伦敦政府。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Droit/Immigration",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-16276535/Orkney-couple-face-9k-second-home-tax-shrapnel-hit-Kyiv-flat.html",
+        "image": "https://i.dailymail.com/1s/2026/11/08/19/112382605-0-image-a-83_1794167058797.jpg",
+        "date": "2026-11-08",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▼ Marché des droits TV et sponsoring sportif",
+            "label": "▼ Marché immobilier britannique (Londres-Écosse)",
             "hausse": false
           },
           {
-            "label": "▼ Économie des universités et bourses sportives",
-            "hausse": false
+            "label": "▲ Assurance habitation pour réfugiés",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des droits TV et sponsoring sportif",
-            "secteur_en": "TV rights and sports sponsorship market",
-            "secteur_zh": "电视版权和体育赞助市场",
-            "effet_fr": "Les matchs de division I génèrent des revenus via les droits TV et les partenariats, mais la concurrence accrue pourrait réduire les marges pour les universités moins médiatisées comme Weber State.",
-            "effet_en": "Division I matches generate revenue through TV rights and sponsorships, but increased competition may shrink margins for less media-savvy universities like Weber State.",
-            "effet_zh": "NCAA一级联赛的比赛通过电视版权和赞助产生收入，但竞争加剧可能缩减像韦伯州立大学这样的较少曝光大学的利润空间。",
+            "secteur_fr": "Marché immobilier britannique (Londres-Écosse)",
+            "secteur_en": "UK property market (London-Scotland)",
+            "secteur_zh": "英国房地产市场（伦敦-苏格兰）",
+            "effet_fr": "Cette décision pourrait décourager les investisseurs étrangers en Écosse, perçue comme un territoire fiscalement instable pour les biens à l’étranger.",
+            "effet_en": "This move may deter foreign investors in Scotland, seen as a fiscally unstable territory for overseas properties.",
+            "effet_zh": "这一决定可能使外国投资者对苏格兰望而却步，认为其对海外房产的税收政策不稳定。",
             "hausse": false
           },
           {
-            "secteur_fr": "Économie des universités et bourses sportives",
-            "secteur_en": "University economics and athletic scholarships",
-            "secteur_zh": "大学经济和体育奖学金",
-            "effet_fr": "Les performances sportives influencent les dons et les subventions, mais les coûts des transferts et des infrastructures pèsent sur les budgets universitaires, notamment pour les équipes moins performantes.",
-            "effet_en": "Sports performance impacts donations and grants, but transfer and infrastructure costs strain university budgets, especially for underperforming teams.",
-            "effet_zh": "体育成绩影响捐款和补助，但转会和基础设施成本加重了大学预算压力，特别是对于表现较差的球队。",
-            "hausse": false
+            "secteur_fr": "Assurance habitation pour réfugiés",
+            "secteur_en": "Refugee housing insurance",
+            "secteur_zh": "难民住房保险",
+            "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques liés aux biens endommagés en zones de conflit.",
+            "effet_en": "Insurers may increase premiums to cover risks of properties damaged in conflict zones.",
+            "effet_zh": "保险公司可能提高保费，以覆盖冲突区域受损房产的风险。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-10-24T13:08:28.670712"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-11-09T20:26:08.988899"
+      },
       {
         "id": "russie_629174",
         "titre": "Allemagne ne peut plus fournir Patriots à l'Ukraine",
@@ -4888,65 +4947,6 @@
           }
         ],
         "created_at": "2026-10-27T01:10:04.412451"
-      },
-      {
-        "id": "russie_218044",
-        "titre": "Ukraine utilise des drones comme répéteurs WiFi",
-        "titre_en": "Ukraine drones act as WiFi repeaters",
-        "titre_zh": "乌克兰无人机充当WiFi中继器",
-        "titre_ru": "Украина использует дроны как ретрансляторы Wi-Fi для дальних атак",
-        "titre_fa": "اوکراین از درون‌ها به‌عنوان تکرارکننده‌های سیگنال برای حمله‌های دورتر استفاده می‌کند",
-        "titre_ar": "تستخدم أوكرانيا درونات مثل محطات تكرير واي فاي لمساعدة الهجمات على مسافة أكبر",
-        "titre_original": "Ukraine is using drones like hovering WiFi repeaters to help attack drones reach farther",
-        "resume": "Les pilotes ukrainiens exploitent des drones relais pour étendre la portée des attaques, compensant les limites de communication. Cette stratégie innovante permet de contourner les restrictions de signal à longue distance. Les forces russes pourraient subir des pertes accrues en raison de cette tactique imprévisible.",
-        "resume_en": "Ukrainian drone pilots use relay drones to extend attack range, overcoming signal limitations. This innovative tactic disrupts Russian operations by extending operational reach unpredictably. The strategy may escalate losses for Russian forces in contested zones.",
-        "resume_zh": "乌克兰无人机驾驶员利用中继无人机扩展攻击范围，克服了信号限制。这种创新策略让俄罗斯军队在争夺区域内面临更大的损失风险。这种不确定性可能加剧战场压力。",
-        "resume_ru": "Пилоты украинских дронов сталкиваются с ограничением дальности полёта из-за потери сигнала. Однако другие дроны выполняют роль подвесных ретрансляторов, продлевая радиус действия атакующих аппаратов. Это позволяет украинской стороне расширять зону поражения без увеличения автономности дронов. Такая тактика требует координации и повышает уязвимость системы перед противодействием противника. В результате возрастает эффективность ударов, но и риски для самих ретрансляторов.",
-        "resume_fa": "ناوگان درون‌های اوکراین با محدودیت فاصله پرواز به دلیل از دست دادن سیگنال مواجه است. اما برخی از درون‌ها به عنوان تکرارکننده‌های هوازی عمل می‌کنند تا محدوده درون‌های حمله‌کننده را افزایش دهند. این تاکتیک امکان افزایش محدوده حمله بدون افزایش خودکفایی درون‌ها را فراهم می‌آورد. این روش نیاز به هماهنگی دارد و در عین حال سیستم را در برابر حمله دشمن آسیب‌پذیرتر می‌کند. به این ترتیب، اثربخشی حملات افزایش می‌یابد اما خطرات برای تکرارکننده‌ها نیز بیشتر می‌شود.",
-        "resume_ar": "تواجه طيارو الدرونات الأوكرانية بمشكلة محدودة لمسافة الطيران بسبب فقدان الإشارة. لكن بعض الدرونات تعمل كمرسلات جوية لتوسيع نطاق الدرونات الهجومية. هذا الاستراتيجية تسمح بتوسيع نطاق الهجمات دون زيادة استقلال الدرونات. يتطلب هذا التكتيك تنسيقًا عاليًا ويزيد من ضعف النظام أمام هجوم الخصم. وبالتالي، تزداد فعالية الهجمات ولكن خطرات على المرسلات تزداد أيضًا.",
-        "analyse_detaillee": "Cette tactique s’inscrit dans l’évolution des conflits modernes où la technologie drone domine. Les Ukrainiens, privés d’avions de combat avancés, innovent pour compenser leur infériorité numérique. Les drones relais réduisent la dépendance aux infrastructures fixes et augmentent la résilience opérationnelle. À court terme, cela pourrait déséquilibrer les échanges de tirs en faveur de Kiev. À moyen terme, cela pourrait inciter Moscou à investir massivement dans les contre-mesures électroniques. Long terme, cette guerre pourrait accélérer l’adoption mondiale de drones autonomes en combat. La Russie, isolée diplomatiquement, voit sa supériorité technologique contestée par une innovation low-cost.",
-        "analyse_en": "This tactic reflects the evolution of modern warfare where drone technology dominates. Ukraine, lacking advanced fighter jets, innovates to offset numerical inferiority. Relay drones reduce reliance on fixed infrastructure and enhance operational resilience. Short-term, this could tilt the balance of firepower in favor of Kyiv. Medium-term, it may force Moscow to heavily invest in electronic countermeasures. Long-term, this conflict could accelerate global adoption of autonomous combat drones. Russia, diplomatically isolated, sees its technological superiority challenged by low-cost innovation.",
-        "analyse_zh": "这种战术反映了现代战争中无人机技术的主导地位。乌克兰缺乏先进战斗机，通过创新弥补数量劣势。中继无人机减少了对固定基础设施的依赖，提升了作战韧性。短期内，这可能使基辅在火力交换中占优。中期内，莫斯科可能大幅投资于电子对抗措施。长期来看，这场冲突可能加速全球自主作战无人机的采用。俄罗斯在外交上孤立，其技术优势受到低成本创新的挑战。",
-        "analyse_ru": "Контекст: Украина активно использует дроны для ведения боевых действий, но их ограниченная дальность требует инновационных решений. Причины: потеря сигнала связана с особенностями радиосвязи и ограниченной мощностью батарей. Последствия: продление радиуса действия позволяет наносить удары по более удалённым целям, но увеличивает риск потери ретрансляторов. Перспективы: если технология будет совершенствоваться, это может стать стандартом в современных войнах. Позиции сторон: Россия, вероятно, будет искать способы противодействия такой тактике, в то время как Украина продолжит её развитие для компенсации недостатков в вооружениях.",
-        "analyse_fa": "زمینه: اوکراین به‌طور فعال از درون‌ها برای جنگ استفاده می‌کند، اما محدودیت فاصله پرواز نیاز به راهکارهای نوآورانه دارد. علل: از دست دادن سیگنال به خصوصیات ارتباط رادیویی و محدودیت توان باتری مربوط است. پیامدها: افزایش محدوده حمله امکان ضربات به اهداف دورتر را فراهم می‌آورد، اما خطر از دست دادن تکرارکننده‌ها را افزایش می‌دهد. چشم‌انداز: اگر این فناوری بهبود یابد، ممکن است به استاندارد جنگ‌های مدرن تبدیل شود. موضع بازیگران: روسیه احتمالاً راه‌هایی برای مقابله با این تاکتیک جستجو خواهد کرد، در حالی که اوکراین ادامه به توسعه آن را برای جبران کمبودهای تسلیحات دنبال می‌کند.",
-        "analyse_ar": "السياق: تستخدم أوكرانيا الدرونات بشكل نشط في العمليات العسكرية، لكن محدودية المسافة تتطلب حلول مبتكرة. الأسباب: فقدان الإشارة مرتبطة بخصائص الاتصال الراديوي وقوة بطاريات محدودة. العواقب: توسيع نطاق الهجوم يسمح بالضربات على أهداف بعيدة، لكن خطر فقدان المرسلات يزداد. الآفاق: إذا تحسنت هذه التكنولوجيا، قد تصبح معيارًا في الحروب الحديثة. مواقف الأطراف: سيعمل الروس على البحث عن وسائل لمواجهة هذه الاستراتيجية، بينما ستستمر أوكرانيا في تطويرها لتعويض نقص الأسلحة.",
-        "categorie": "Géopolitique",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/ukraine-signal-repeater-drones-other-drones-fly-further-relay-2026-10#article",
-        "image": "https://i.insider.com/6ada0088dc67b5b4d01f6599?width=1200&format=jpeg",
-        "date": "2026-10-25",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Cybersécurité et défense électronique",
-            "hausse": true
-          },
-          {
-            "label": "▼ Industrie aérospatiale et drones militaires",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Cybersécurité et défense électronique",
-            "secteur_en": "Cybersecurity and electronic warfare",
-            "secteur_zh": "网络安全与电子对抗",
-            "effet_fr": "Les drones relais obligent Moscou à accélérer ses dépenses en systèmes anti-drone et brouilleurs de signal pour contrer cette menace émergente.",
-            "effet_en": "Relay drones force Moscow to ramp up spending on anti-drone systems and signal jammers to counter this emerging threat.",
-            "effet_zh": "中继无人机迫使莫斯科加快研发反无人机系统和信号干扰器，以应对新兴威胁。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Industrie aérospatiale et drones militaires",
-            "secteur_en": "Aerospace industry and military drones",
-            "secteur_zh": "航空航天产业与军用无人机",
-            "effet_fr": "L’Ukraine pourrait attirer des investissements étrangers dans les technologies de drones autonomes, tandis que la Russie voit sa dépendance aux fournisseurs occidentaux renforcée par les sanctions.",
-            "effet_en": "Ukraine may attract foreign investment in autonomous drone technologies, while Russia’s reliance on Western suppliers is exacerbated by sanctions.",
-            "effet_zh": "乌克兰可能吸引外国对自主无人机技术的投资，而俄罗斯在西方制裁下对供应商的依赖进一步加剧。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-26T09:45:06.679168"
       }
     ],
     "iran": [
