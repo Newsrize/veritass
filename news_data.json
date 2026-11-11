@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/11/2026 à 20h15",
+  "last_updated": "11/11/2026 à 01h03",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_env_112154",
+      "titre": "Dérogations pesticides : hausse alarmante en France",
+      "titre_en": "France sees sharp rise in pesticide exemptions",
+      "titre_zh": "法国农药特许使用量激增",
+      "titre_ru": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
+      "titre_fa": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
+      "titre_ar": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
+      "titre_original": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
+      "resume": "En France, le nombre de dérogations pour l’utilisation de pesticides interdits a connu une augmentation spectaculaire ces dernières années. Ces autorisations temporaires, accordées sous conditions, soulèvent des questions sur l’efficacité des régulations environnementales. Les agriculteurs invoquent souvent des pressions économiques ou des aléas climatiques pour justifier ces exceptions.",
+      "resume_en": "France has seen a dramatic rise in exemptions for banned pesticides, granted under temporary conditions. These derogations raise concerns about environmental regulations' effectiveness. Farmers cite economic pressures and climate-related challenges as key justifications.",
+      "resume_zh": "法国农药禁用许可证数量近年激增，这些临时特许引发了环保监管效果的质疑。农民常以经济压力和气候变化为由，申请这些例外。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France, malgré ses engagements climatiques, maintient un système de dérogations pour pesticides jugés dangereux, hérité de politiques agricoles historiques favorisant la productivité. Les enjeux portent sur la santé publique et la biodiversité, avec des causes profondes liées à la dépendance aux intrants chimiques et à un cadre légal complexe. À court terme, cette hausse aggrave les risques sanitaires et écologiques, tandis que les lobbies agricoles bloquent souvent les réformes. À moyen terme, l’UE pourrait imposer des sanctions pour non-respect des normes environnementales. Long terme, une transition vers l’agroécologie semble inévitable, mais les subventions aux pratiques conventionnelles freinent le changement. Les écologistes dénoncent un laxisme étatique, tandis que les agriculteurs réclament un soutien financier pour la transition.",
+      "analyse_en": "France, despite its climate commitments, retains a system of exemptions for hazardous pesticides, rooted in historical agricultural policies prioritizing productivity. The stakes involve public health and biodiversity, with deep-rooted causes tied to chemical input dependency and a convoluted legal framework. Short-term, this surge worsens health and ecological risks, while agricultural lobbies often block reforms. Medium-term, the EU may impose sanctions for non-compliance with environmental standards. Long-term, a shift toward agroecology seems inevitable, but subsidies for conventional practices slow progress. Environmentalists criticize state laxity, while farmers demand financial support for transition.",
+      "analyse_zh": "法国尽管承诺应对气候变化，但仍保留对危险农药的临时特许制度，源于历史上以产量为导向的农业政策。主要影响涉及公共卫生和生物多样性，深层原因包括对化学投入的依赖和复杂的法规体系。短期内，这种增长加剧了健康和生态风险，而农业利益集团经常阻挠改革。中期内，欧盟可能因未遵守环保标准而对法国施加制裁。长期来看，向生态农业转型势在必行，但对传统农业的补贴阻碍了转变进程。生态主义者谴责政府放任，而农民则要求过渡期的财政支持。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pesticides-des-derogations-qui-deviennent-la-regle_8275121.html",
+      "image": "https://www.franceinfo.fr/pictures/CSKWPJIACe-ePqtJSQSx4VyjS6g/0x0:1920x1080/1500x843/2026/11/09/6af22712da1c0491010676.jpg",
+      "date": "2026-11-09",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et réassurance",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des intrants agricoles (engrais, pesticides)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et réassurance",
+          "secteur_en": "Agricultural insurance and reinsurance",
+          "secteur_zh": "农业保险和再保险",
+          "effet_fr": "Les dérogations accrues pourraient augmenter les coûts des assurances pour les exploitants, en raison de risques sanitaires et réglementaires accrus.",
+          "effet_en": "Increased exemptions may raise insurance costs for farmers due to higher health and regulatory risks.",
+          "effet_zh": "特许增加可能导致农民保费上升，因健康和监管风险加大。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des intrants agricoles (engrais, pesticides)",
+          "secteur_en": "Agricultural inputs market (fertilizers, pesticides)",
+          "secteur_zh": "农业投入品市场（化肥、农药）",
+          "effet_fr": "La demande en pesticides pourrait se stabiliser malgré les dérogations, car les alternatives durables restent coûteuses et peu accessibles.",
+          "effet_en": "Demand for pesticides may stabilize despite exemptions, as sustainable alternatives remain expensive and inaccessible.",
+          "effet_zh": "尽管有特许，农药需求可能趋于稳定，因为可持续替代品价格高昂且难以获取。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-11T01:03:02.157781",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_295928",
+      "titre": "Libération suspect féminicide : colère à Schaerbeek",
+      "titre_en": "Feminicide suspect released: outrage in Schaerbeek",
+      "titre_zh": "杀妻嫌犯获释引发愤怒",
+      "titre_ru": "Incompréhension et colère après la libération de l’ex-compagnon de Diana, victime d’un féminicide en 2024 à Schaerbeek : “Comment pouvons-nous encore faire confiance à la justice ?”",
+      "titre_fa": "Incompréhension et colère après la libération de l’ex-compagnon de Diana, victime d’un féminicide en 2024 à Schaerbeek : “Comment pouvons-nous encore faire confiance à la justice ?”",
+      "titre_ar": "Incompréhension et colère après la libération de l’ex-compagnon de Diana, victime d’un féminicide en 2024 à Schaerbeek : “Comment pouvons-nous encore faire confiance à la justice ?”",
+      "titre_original": "Incompréhension et colère après la libération de l’ex-compagnon de Diana, victime d’un féminicide en 2024 à Schaerbeek : “Comment pouvons-nous encore faire confiance à la justice ?”",
+      "resume": "Un homme accusé de féminicide en 2024 à Schaerbeek a été libéré vendredi après une erreur procédurale, déclenchant une vague d’indignation. Les associations féministes dénoncent un système judiciaire trop clément envers les violences conjugales. La victime, tuée en pleine rue, avait été suivie par les services sociaux avant son meurtre.",
+      "resume_en": "A man accused of femicide in 2024 in Schaerbeek was released Friday due to a procedural error, sparking outrage. Feminist groups condemn a judicial system perceived as too lenient toward domestic violence. The victim, killed in broad daylight, had been monitored by social services before her murder.",
+      "resume_zh": "一名2024年在布鲁塞尔沙勒瓦被控杀妻的嫌犯因程序错误获释，引发公愤。女性主义组织谴责司法系统对家庭暴力过于宽容。遇害者在被杀前曾接受社会服务机构跟踪。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Ce cas s’inscrit dans une série de féminicides en Belgique, révélant des failles structurelles dans la prévention et la répression des violences faites aux femmes. Les causes profondes incluent un manque de moyens pour les services sociaux et une culture judiciaire minimisant ces crimes. À court terme, la libération du suspect a exacerbé la défiance envers l’État, tandis que les associations appellent à des réformes urgentes. À moyen terme, le gouvernement pourrait être contraint d’adopter des lois plus strictes sur les peines planchers pour violences conjugales. Long terme, une refonte globale de la prise en charge des victimes et de la formation des magistrats semble nécessaire. Les féministes exigent une réponse politique ferme, tandis que les partis traditionnels tergiversent par peur de l’électorat conservateur.",
+      "analyse_en": "This case follows a series of femicides in Belgium, exposing structural flaws in preventing and prosecuting violence against women. Root causes include underfunded social services and a judicial culture downplaying these crimes. Short-term, the suspect’s release has fueled distrust in the state, while groups demand urgent reforms. Medium-term, the government may be forced to enact stricter laws on mandatory minimum sentences for domestic violence. Long-term, a comprehensive overhaul of victim support and judicial training appears necessary. Feminists demand a firm political response, while traditional parties hesitate due to conservative voter fears.",
+      "analyse_zh": "此案暴露了比利时预防和打击针对女性暴力的结构性漏洞，属于一系列杀妻案件中的典型。深层原因包括社会服务资金不足和司法系统轻视此类犯罪的文化。短期内，嫌犯获释加剧了对政府的不信任，而女性主义组织呼吁紧急改革。中期内，政府可能被迫通过更严格的家庭暴力最低刑期法案。长期来看，全面改革受害者救助和法官培训体系势在必行。女性主义者要求政府采取坚决措施，而传统政党则因担忧保守选民反对而犹豫不决。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/bruxelles/2026/11/09/incomprehension-et-colere-apres-la-liberation-de-lex-compagnon-de-diana-victime-dun-feminicide-en-2024-a-schaerbeek-comment-pouvons-nous-encore-faire-confiance-a-la-justice-GOSNP3CQ5FFFFLPFA2CMMH4ECU/",
+      "image": "https://www.dhnet.be/resizer/v2/4DHYLD4NIVECJFV4XGAGLQLJDY.JPG?auth=2c7da30f074371f7af9fc124997985508600f7f6350f9b6f1edd6668e165a1d7&width=1200&height=630&quality=85&focal=2690%2C1793",
+      "date": "2026-11-09",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile (violences domestiques)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Fonds de solidarité pour victimes",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile (violences domestiques)",
+          "secteur_en": "Civil liability insurance (domestic violence)",
+          "secteur_zh": "民事责任保险（家庭暴力）",
+          "effet_fr": "Les erreurs judiciaires pourraient entraîner une hausse des réclamations et des coûts pour les assureurs, en cas de condamnation ultérieure du suspect.",
+          "effet_en": "Judicial errors may lead to increased claims and costs for insurers if the suspect is later convicted.",
+          "effet_zh": "司法错误可能导致保险公司在嫌犯最终被判有罪后，面临更多索赔和成本上升。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de solidarité pour victimes",
+          "secteur_en": "Solidarity funds for victims",
+          "secteur_zh": "受害者互助基金",
+          "effet_fr": "Les cas de libération injustifiée pourraient réduire la confiance des victimes dans ces fonds, limitant leur participation financière.",
+          "effet_en": "Cases of unjustified release may reduce victims' trust in these funds, limiting their financial contributions.",
+          "effet_zh": "不公正释放案例可能减少受害者对基金的信任，限制其财务参与度。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-11T01:03:02.157803",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_393885",
       "titre": "Libération controversée d’un meurtrier de femme",
       "titre_en": "Controversial release of a femicide suspect",
@@ -6431,66 +6551,6 @@
         }
       ],
       "created_at": "2026-11-08T11:43:51.465553",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_478394",
-      "titre": "Relâché pour vice de procédure",
-      "titre_en": "Suspect released due to procedural flaw",
-      "titre_zh": "嫌疑人因程序瑕疵获释",
-      "titre_ru": "Подозреваемый в убийстве Дианы освобождён из-за ошибки процедуры",
-      "titre_fa": "مرد متهم به قتل دیانا به دلیل نقص در فرایند آزاد شد",
-      "titre_ar": "المتهم بقتل ديانا أطلق سراحه بسبب عيب في الإجراءات",
-      "titre_original": "Féminicide à Schaerbeek : le principal suspect du meurtre de Diana relâché à cause d’un vice de procédure",
-      "resume": "Un ex-compagnon de Diana, victime d’un féminicide à Schaerbeek, a été libéré sous contrainte en raison d’une erreur judiciaire. La détention provisoire, initialement justifiée, a été annulée pour un défaut de forme. Ce cas relance le débat sur les garanties procédurales et la protection des victimes.",
-      "resume_en": "The ex-partner of Diana, a femicide victim in Schaerbeek, was released due to a procedural error. His preventive detention was overturned for a formal flaw. This case reignites discussions on judicial safeguards and victim protection.",
-      "resume_zh": "比利时布鲁塞尔的女性遇害案嫌疑人因程序瑕疵获释，原本被关押待审。此案再次引发对司法保障和受害者权益的讨论。",
-      "resume_ru": "Бывший партнёр жертвы, ранее содержавшийся под стражей, будет освобождён из-за нарушения процедуры. Об этом сообщается в связи с убийством Дианы в Шарлеруа. Суд признал ошибку в ходе следствия, что повлияло на решение о задержании подозреваемого. Это вызывает вопросы о справедливости и эффективности правоохранительных органов. Семья пострадавшей выразила недовольство решением.",
-      "resume_fa": "همسر سابق قربانی که تا به حال در بازداشت بود، به دلیل نقص در فرایند آزاد شد. این در رابطه با قتل دیانا در شارلروآ اعلام شد. دادگاه خطای در جریان تحقیقات را تأیید کرد که بر تصمیم نگهداری متهم تأثیر گذاشت. این موضوع سؤالاتی در مورد عدالت و کارایی نهادهای اجرایی ایجاد کرده است. خانواده قربانی از این تصمیم ناراضی هستند.",
-      "resume_ar": "شريك سابق الضحية الذي كان تحت الاحتجاز سابقا، أطلق سراحه بسبب عيب في الإجراءات. هذا في إطار مقتل ديانا في شارلروا. قضاة اعترفوا بخطأ في التحقيقات الذي أثر على قرار احتجاز المتهم. هذا يثير أسئلة حول العدالة وكفاءة المؤسسات الأمنية. عائلة الضحية أعربت عن عدم رضاها عن هذا القرار",
-      "analyse_detaillee": "Ce féminicide s’inscrit dans une série de violences conjugales en Belgique, où les chiffres restent alarmants malgré les politiques de prévention. Les causes profondes incluent souvent un manque de soutien psychologique pour les victimes et une sous-estimation des risques par les autorités. La libération du suspect soulève des questions sur l’efficacité des contrôles judiciaires et la rapidité des enquêtes. À court terme, cela pourrait renforcer les critiques envers la justice belge, déjà fragilisée par des affaires similaires. À moyen terme, cela pourrait accélérer les réformes des procédures pénales, notamment en renforçant les audits internes. Long terme, une meilleure coordination entre police, procureurs et associations pourrait réduire les récidives. Les associations féministes dénoncent un système trop clément envers les agresseurs, tandis que les magistrats invoquent des contraintes légales strictes.",
-      "analyse_en": "This femicide follows a series of domestic violence cases in Belgium, where statistics remain high despite prevention policies. Root causes often include insufficient psychological support for victims and underestimation of risks by authorities. The suspect’s release raises questions about the effectiveness of judicial oversight and the speed of investigations. Short-term, this could intensify criticism of Belgian justice, already weakened by similar cases. Medium-term, it may accelerate reforms in penal procedures, particularly through internal audits. Long-term, better coordination between police, prosecutors, and NGOs could reduce recidivism. Feminist groups condemn a system too lenient toward abusers, while judges cite strict legal constraints.",
-      "analyse_zh": "此案属于比利时连续发生的家庭暴力事件之一，尽管有预防政策，但数据依然严峻。深层原因包括受害者缺乏心理支持和执法机构低估风险。嫌疑人获释引发对司法监督效率和调查速度的质疑。短期内，这将加剧对比利时司法体系的批评，尤其是在类似案件频发的背景下。中期内，可能推动刑事程序改革，特别是加强内部审计。长期来看，警方、检察机关和NGO之间的协作加强，可减少重犯率。女性主义组织指责司法体系对加害者过于宽容，而法官则强调法律限制严格。",
-      "analyse_ru": "Убийство Дианы в Бельгии выявило слабые места в системе правосудия, где формальные ошибки могут привести к освобождению опасных преступников. Такие случаи подрывают доверие общества к правоохранительным органам и судебной системе. Причины могут крыться в перегрузке судов и недостаточном контроле за соблюдением процедур. Семья жертвы требует пересмотра дела и наказания виновного, что указывает на необходимость реформ. В будущем важно усилить проверку на этапе следствия, чтобы избежать подобных инцидентов.",
-      "analyse_fa": "قتل دیانا در بلژیک ضعف‌های سیستم عدالت را آشکار کرد، جایی که خطاهای فرمالیستی می‌تواند منجر به آزادی مجرمین خطرناک شود. چنین مواردی اعتماد عمومی به نهادهای اجرایی و سیستم قضایی را زیر سؤال می‌برد. علل ممکن است در بارگذاری بیش از حد دادگاه‌ها و عدم کنترل کافی بر رعایت فرایندها نهفته باشد. خانواده قربانی درخواست بازبینی مجدد پرونده و مجازات مجرم را دارند، که نشان‌دهنده نیاز به اصلاحات است. در آینده، تقویت بررسی در مرحله تحقیقات ضروری است تا از چنین حوادثی جلوگیری شود.",
-      "analyse_ar": "قتل ديانا في بلجيكا كشف عن نقاط ضعف في نظام العدالة، حيث يمكن أن يؤدي الخطأ الإجرائي إلى إطلاق سراح مجرمين خطيرين. مثل هذه الحالات تضر بالثقة العامة في المؤسسات الأمنية والقضائية. الأسباب قد تكمن في تحمّل المحاكم على نحو مفرط وعدم مراقبة كافية لتطبيق الإجراءات. عائلة الضحية تطلب مراجعة القضية مرة أخرى وتعديد عقوبة المجرم، مما يشير إلى الحاجة إلى إصلاحات. في المستقبل، من الضروري تعزيز المراجعة في مرحلة التحقيقات لتجنب مثل هذه الحوادث",
-      "categorie": "Justice et société",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/regions/bruxelles/2026/11/06/feminicide-a-schaerbeek-le-principal-suspect-du-meurtre-de-diana-relache-a-cause-dun-vice-de-procedure-4ZXWV7JESBBLVHHTV22MI723EY/",
-      "image": "https://www.dhnet.be/resizer/v2/QORPWC2IFFERFP2FCZELRBZB5A.jpg?auth=32d0688edcf15c9511692972e299dceb19e48e6ac467c01e2342f64640028b91&width=1200&height=630&quality=85&focal=800%2C448",
-      "date": "2026-11-06",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▼ Assurances responsabilité civile (dommages-intérêts)",
-          "hausse": false
-        },
-        {
-          "label": "▲ Fonds de prévention des violences conjugales",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances responsabilité civile (dommages-intérêts)",
-          "secteur_en": "Civil liability insurance (compensation)",
-          "secteur_zh": "民事责任保险（赔偿）",
-          "effet_fr": "Les familles de victimes pourraient voir leurs demandes d’indemnisation ralenties par des recours juridiques prolongés liés à la procédure.",
-          "effet_en": "Victims' families may face delayed compensation claims due to prolonged legal appeals tied to procedural flaws.",
-          "effet_zh": "受害者家属可能因程序瑕疵导致的长期法律诉讼，而推迟获得赔偿。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Fonds de prévention des violences conjugales",
-          "secteur_en": "Domestic violence prevention funds",
-          "secteur_zh": "家庭暴力预防基金",
-          "effet_fr": "Ce cas pourrait inciter les pouvoirs publics à reconsidérer les budgets alloués à la prévention et à la protection des victimes.",
-          "effet_en": "This case may prompt authorities to re-evaluate budgets for prevention and victim protection programs.",
-          "effet_zh": "此案可能促使政府重新审视预防和保护受害者的预算分配。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-07T23:27:50.042803",
       "sous_categorie": "femmes"
     },
     {
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-07T19:54:55.349836",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_447208",
-      "titre": "Père-Lachaise : un cimetière vert",
-      "titre_en": "Père-Lachaise: A Green Cemetery",
-      "titre_zh": "巴黎公墓成为绿色生态岛",
-      "titre_ru": "Кладбище Пер-Лашез стало дикой природой с 4134 деревьями",
-      "titre_fa": "قبرستان پرلاشه با ۴۱۳۴ درخت و نزدیک به ۱۴۰ گونه جانوری به پناهگاه وحشی تبدیل شد",
-      "titre_ar": "قبرستان بير لاشيز يضم 4134 شجرة و أكثر من 140 نوع حيواني",
-      "titre_original": "Le Père-Lachaise abrite 4 134 arbres et près de 140 espèces animales, la nécropole est devenue un refuge sauvage",
-      "resume": "Le cimetière parisien du Père-Lachaise compte désormais 4 134 arbres et abrite près de 140 espèces animales, grâce à l’abandon des pesticides et une gestion plus naturelle des espaces. Cette transformation reflète une volonté municipale de concilier mémoire funéraire et biodiversité. Les inventaires récents révèlent une résurgence de la faune et de la flore spontanées, créant un écosystème urbain méconnu.",
-      "resume_en": "Paris’s Père-Lachaise cemetery now hosts 4,134 trees and nearly 140 animal species, thanks to the cessation of pesticides and a more flexible management of pathways. This shift embodies the city’s effort to balance funerary heritage with biodiversity. Recent surveys highlight the return of wildlife and wild flora, revealing an unexpected urban ecosystem.",
-      "resume_zh": "巴黎公墓现在拥有4134棵树木和近140种动物物种，得益于停止使用农药和更灵活的管理方式。这一转变体现了城市平衡殡葬遗产与生物多样性的努力。最近的调查显示野生动植物回归，揭示了一个意外的城市生态系统。",
-      "resume_ru": "На кладбище Пер-Лашез после отказа от пестицидов и более мягкого управления дорожками вернулись дикие растения, птицы и лисы. Городские инвентаризации показали, что экосистема восстанавливается. Это стало результатом изменения подхода к уходу за территорией.",
-      "resume_fa": "در قبرستان پرلاشه پس از قطع استفاده از آفت‌کش‌ها و مدیریت نرم‌تر راهروها، گیاهان وحشی، پرندگان و گرازها بازگشتند. بررسی‌های شهری نشان می‌دهند که این مکان به پناهگاهی برای طبیعت تبدیل شده است.",
-      "resume_ar": "في مقبرة بير لاشيز، بعد منهي استخدام المبيدات الحشرية وإدارة أكثر مرونة للطرقات، عاد النباتات البرية والطيور والذئاب. سجلات المدينة توضح أن هذا المكان أصبح ملاذًا طبيعيًا.",
-      "analyse_detaillee": "Le Père-Lachaise, ouvert en 1804 sous Napoléon Ier, incarne depuis deux siècles un lieu de mémoire et de paix, mais aussi un espace urbanisé souvent perçu comme artificiel. La décision municipale d’abandonner les pesticides en 2018 s’inscrit dans une tendance plus large de « naturalisation » des espaces publics parisiens, comme au Jardin des Plantes. Les causes profondes incluent la prise de conscience écologique post-2015 et la pression des associations de protection de la nature, qui dénonçaient l’artificialité des cimetières. À court terme, cette mesure a favorisé l’émergence d’écosystèmes locaux, avec des observations de renards et de rapaces, tout en réduisant les coûts d’entretien grâce à une végétation moins contrôlée. À moyen terme, cela pourrait inspirer d’autres nécropoles européennes à adopter des pratiques durables, tout en posant la question de la coexistence entre patrimoine funéraire et biodiversité. À long terme, le Père-Lachaise pourrait devenir un modèle de « cimetière-jardin », combinant éducation environnementale et respect des défunts. Les acteurs clés, comme la Ville de Paris et la Société des Amis du Père-Lachaise, soutiennent cette évolution, bien que certains héritiers craignent une perte de contrôle sur l’esthétique des allées.",
-      "analyse_en": "Opened in 1804 under Napoleon I, Père-Lachaise has long symbolized a place of memory and tranquility, but also an urbanized space often seen as artificial. The city’s 2018 decision to stop using pesticides aligns with broader trends of ‘naturalizing’ public spaces in Paris, like the Jardin des Plantes. Root causes include post-2015 ecological awareness and pressure from nature conservation groups, which criticized the artificiality of cemeteries. Short-term, this shift has encouraged local ecosystems, with sightings of foxes and raptors, while reducing maintenance costs through less controlled vegetation. In the medium term, this could inspire other European cemeteries to adopt sustainable practices, raising questions about balancing funerary heritage with biodiversity. Long-term, Père-Lachaise might become a model of ‘garden cemetery,’ merging environmental education and respect for the dead. Key actors like the City of Paris and the Société des Amis du Père-Lachaise support this change, though some heirs worry about losing control over the aesthetics of pathways.",
-      "analyse_zh": "1804年由拿破仑一世开放的巴黎公墓，长期以来既是纪念和平静的场所，也是被视为人工化空间的城市遗迹。巴黎市政府2018年停止使用农药的决定，符合巴黎公共空间「自然化」的更广泛趋势，如植物园的改造。深层原因包括2015年后的生态意识提升和自然保护组织的压力，后者批评公墓过于人工化。短期内，这一措施促进了局部生态系统的形成，观察到狐狸和猛禽的踪迹，同时通过减少人工管理降低了维护成本。中期内，这可能鼓励欧洲其他公墓采用可持续措施，并引发殡葬遗产与生物多样性共存的问题。长期来看，巴黎公墓可能成为「花园公墓」的典范，结合环境教育和对逝者的尊重。关键利益相关者如巴黎市政府和巴黎公墓友好协会支持这一转变，但部分继承人担忧失去对林荫道美学的控制。",
-      "analyse_ru": "Кладбище Пер-Лашез, одно из самых известных в Париже, демонстрирует, как даже городские территории могут стать экологическими оазисами. Отказ от химических обработок способствовал восстановлению биоразнообразия, что подтверждают данные о 140 видах животных. Однако такой подход требует баланса между сохранением природы и удобством посетителей. Экологи приветствуют инициативу, в то время как некоторые жители опасаются за порядок на территории. Перспективы развития включают расширение подобных практик на другие кладбища и парки города.",
-      "analyse_fa": "قبرستان پرلاشه، یکی از معروف‌ترین قبرستان‌های پاریس، نشان می‌دهد که حتی مناطق شهری می‌توانند به زیستگاه‌های طبیعی تبدیل شوند. قطع استفاده از مواد شیمیایی باعث بازگرداندن تنوع زیستی شده است، که این موضوع با وجود ۱۴۰ گونه جانوری تأیید می‌شود. اما این رویکرد نیاز به تعادل بین حفظ طبیعت و راحتی بازدیدکنندگان دارد. اکولوگ‌ها این اقدام را تحسین می‌کنند، در حالی که برخی از ساکنان نگران نظم در این مکان هستند. چشم‌انداز آینده شامل گسترش چنین اقداماتی به قبرستان‌های و پارک‌های دیگر شهر است.",
-      "analyse_ar": "مقبرة بير لاشيز، واحدة من أشهر المقابر في باريس، تبين كيف يمكن أن تصبح المناطق الحضرية أوهاما بيئية. الإقلاع عن استخدام المبيدات الكيميائية ساعد في استعادة التنوع البيولوجي، كما تؤكد ذلك البيانات المتعلقة بـ 140 نوع حيواني. ومع ذلك، يتطلب هذا النهج توازنًا بين حفظ الطبيعة و راحة الزوار. يدعم البيولوجيون هذه المبادرة بينما يخاف بعض السكان من الفوضى في الموقع. الآفاق المستقبلية تشمل توسيع مثل هذه الممارسات إلى مقابر وأراضي أخرى في المدينة.",
-      "categorie": "Environnement",
-      "source": "Daily Geek Show",
-      "url": "https://dailygeekshow.com/?p=1018650",
-      "image": "https://dailygeekshow.com/wp-content/uploads/2026/11/pere-lachaise-biodiversite-renards.webp",
-      "date": "2026-11-03",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Écotourisme urbain",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurances funéraires écoresponsables",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Écotourisme urbain",
-          "secteur_en": "Urban ecotourism",
-          "secteur_zh": "城市生态旅游",
-          "effet_fr": "Cette biodiversité accrue pourrait attirer des visiteurs sensibles à l’écologie, dynamisant les circuits touristiques autour des cimetières parisiens.",
-          "effet_en": "Increased biodiversity may attract eco-conscious visitors, boosting tourism circuits around Parisian cemeteries.",
-          "effet_zh": "生物多样性的增加可能吸引生态旅游爱好者，推动巴黎公墓周边旅游线路的发展。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances funéraires écoresponsables",
-          "secteur_en": "Eco-friendly funeral insurance",
-          "secteur_zh": "绿色殡葬保险",
-          "effet_fr": "Les familles pourraient privilégier des contrats incluant des pratiques durables, comme des cercueils biodégradables, en réponse à cette tendance.",
-          "effet_en": "Families may opt for insurance policies including sustainable practices, such as biodegradable coffins, in response to this trend.",
-          "effet_zh": "家庭可能会选择包含可持续实践（如生物降解棺材）的保险合同，回应这一趋势。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-07T15:28:15.923837",
       "sous_categorie": "environnement"
     }
   ]
