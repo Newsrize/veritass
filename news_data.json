@@ -1,7 +1,66 @@
 {
-  "last_updated": "13/11/2026 à 17h32",
+  "last_updated": "13/11/2026 à 23h16",
   "articles": {
     "monde": [
+      {
+        "id": "monde_806532",
+        "titre": "Cramer accuse Huang de trahison envers Nvidia",
+        "titre_en": "Cramer accuses Huang of betraying Nvidia shareholders",
+        "titre_zh": "克莱默指责黄仁勋背叛英伟达股东",
+        "titre_ru": "Крэмер утверждает, что Дженсен Хуан предал акционеров Nvidia",
+        "titre_fa": "کرمر می‌گوید هوانگ جنسن سهامداران انویدیا را خیانت کرد",
+        "titre_ar": "يقول كريمر: هوانج جنسن خائن لأصحاب أسهم إنفيديا",
+        "titre_original": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+        "resume": "Jim Cramer, analyste financier, a déclaré que sans Jensen Huang, Nvidia ne retrouvera pas son niveau d’excellence, mais évoluera différemment. Ses propos reflètent une crise de confiance dans la gouvernance et la vision stratégique de l’entreprise. Cette déclaration survient après des tensions internes et une chute des cours boursiers.",
+        "resume_en": "Financial analyst Jim Cramer stated that without Jensen Huang, Nvidia won’t achieve the same level of excellence, but will become a different company. His remarks highlight a trust crisis in the company’s leadership and strategic direction. The comments follow internal tensions and a stock market decline.",
+        "resume_zh": "金融分析师克莱默表示，没有黄仁勋，英伟达将无法达到同等水平的卓越，但会变成一个不同的公司。他的言论反映了公司领导层和战略方向的信任危机。这些言论出现在内部紧张和股价下跌之后。",
+        "resume_ru": "По словам Крэмера, без Хуана Nvidia не станет лучше, а только изменится. Инвесторы и аналитики обсуждают последствия ухода основателя компании. Возникают вопросы о будущем стратегии развития и лидерстве в сфере искусственного интеллекта.",
+        "resume_fa": "کرمر گفت بدون هوانگ، انویدیا بهتر نخواهد شد، بلکه یک نسخه متفاوت خواهد بود. سهامداران و تحلیلگران به پیامدهای خروج بنیانگذار شرکت فکر می‌کنند. سؤالاتی در مورد آینده استراتژی توسعه و رهبری در زمینه هوش مصنوعی مطرح شده است.",
+        "resume_ar": "قال كريمر إن بدون هوانج لن تكون إنفيديا أفضل، بل مختلفة. يتساءل المستثمرون والمحللون عن عواقب مغادرة مؤسس الشركة. يطرحون أسئلة حول مستقبل استراتيجية التنمية والرئاسة في مجال الذكاء الاصطناعي.",
+        "analyse_detaillee": "Nvidia, leader des puces graphiques et IA, dépend fortement de Huang, son PDG charismatique et visionnaire depuis 1993. Les tensions actuelles révèlent des fractures entre actionnaires institutionnels et direction, exacerbées par des promesses non tenues en R&D. Une succession chaotique pourrait fragiliser son avance technologique face à AMD ou Intel. Court terme : volatilité boursière et ralentissement des investissements en R&D. Moyen terme : risque de perte de parts de marché si l’innovation s’essouffle. Long terme : dépendance accrue aux talents externes et dilution de l’identité technologique historique. Les actionnaires minoritaires, mécontents, pourraient exiger un changement radical, tandis que les investisseurs institutionnels privilégient la stabilité financière.",
+        "analyse_en": "Nvidia, a leader in GPUs and AI chips, heavily relies on Huang, its charismatic and visionary CEO since 1993. Current tensions expose fractures between institutional shareholders and management, worsened by unfulfilled R&D promises. A chaotic succession could weaken its technological edge against AMD or Intel. Short-term: stock volatility and slowed R&D investments. Medium-term: risk of market share loss if innovation stalls. Long-term: increased reliance on external talent and dilution of its historic tech identity. Dissatisfied minority shareholders may demand radical change, while institutional investors prioritize financial stability.",
+        "analyse_zh": "英伟达作为图形处理器和人工智能芯片领导者，自1993年以来一直依赖黄仁勋这一富有魅力和远见的CEO。目前的紧张局势揭示了机构投资者和管理层之间的裂痕，这些裂痕因未能兑现研发承诺而加剧。一场混乱的接班危机可能削弱其在AMD或英特尔面前的技术优势。短期内：股票波动和研发投资放缓。中期：如果创新停滞，可能失去市场份额。长期：对外部人才的依赖加深，以及其历史技术身份的稀释。不满的少数股东可能要求进行根本性变革，而机构投资者则更注重财务稳定性。",
+        "analyse_ru": "Ким Крэмер, известный аналитик, резко раскритиковал Дженсена Хуана, обвинив его в нелояльности по отношению к акционерам. Его заявление стало реакцией на недавние изменения в управлении Nvidia, где Хуан перестал занимать ключевую роль. Такое развитие событий может ослабить доверие инвесторов к компании, особенно в условиях нестабильности на рынке ИИ. С одной стороны, критики считают, что Хуан не смог предотвратить падение акций, с другой — сторонники утверждают, что его уход открывает возможности для новых стратегий. В перспективе это может повлиять на позиции Nvidia среди конкурентов, таких как AMD и Intel, которые уже активно развивают собственные технологии.",
+        "analyse_fa": "کیم کرمر، تحلیلگر معروف، به شدت به جنسن هوانگ انتقاد کرد و او را متهم به عدم وفاداری نسبت به سهامداران کرد. این اظهارنظر واکنش به تغییرات اخیر در مدیریت انویدیا بود، جایی که هوانگ دیگر نقش کلیدی ای نداشت. این رویداد ممکن است اعتماد سرمایه‌گذاران به شرکت را کاهش دهد، به ویژه در شرایط ناپایداری بازار هوش مصنوعی. منتقدان معتقدند که هوانگ نتوانست از سقوط سهام جلوگیری کند، در حالی که طرفداران او ادعا می‌کنند که خروج او فرصت‌های جدیدی برای استراتژی‌های جدید باز می‌کند. در آینده، این ممکن است بر جایگاه انویدیا در مقابل رقبا مانند AMD و اینتل که فناوری‌های خود را توسعه می‌دهند، تأثیر بگذارد.",
+        "analyse_ar": "قال كيم كريمر، محلل معروف، إن جنسن هوانج خائن لأصحاب الأسهم، حيث انتقده بشدة. كان هذا التعليق ردًا على التغييرات الأخيرة في إدارة إنفيديا، حيث لم يعد هوانج يلعب دورًا حاسمًا. قد يؤدي هذا التطور إلى ضعف ثقة المستثمرين في الشركة، خاصة في ظل عدم الاستقرار في سوق الذكاء الاصطناعي. من جانب واحد، يعتبر النقاد أن هوانج لم يستطع منع انهيار الأسهم، بينما يؤكد مؤيدوه أنه مغادرته فتحت فرصًا جديدة للاستراتيجيات. في المستقبل، قد يؤثر هذا على وضع إنفيديا بين المنافسين مثل AMD و إنتل، اللذين يتطوران تقنياتهم الخاصة.",
+        "categorie": "Géopolitique",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+        "image": "https://image.cnbcfm.com/api/v1/image/108548917-1794403467908-gettyimages-2299493352-AFP_D36R6ZK.jpeg?v=1794512804&w=1920&h=1080",
+        "date": "2026-11-12",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché des actions technologiques (NASDAQ)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur des semi-conducteurs (ASIC/GPU)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des actions technologiques (NASDAQ)",
+            "secteur_en": "Technology stock market (NASDAQ)",
+            "secteur_zh": "科技股市场（纳斯达克）",
+            "effet_fr": "Les doutes sur Nvidia, poids lourd du NASDAQ, pourraient déclencher une correction sectorielle et une méfiance accrue envers les valeurs high-tech.",
+            "effet_en": "Doubt over Nvidia, a heavyweight on NASDAQ, could trigger a sectoral correction and increased skepticism toward high-tech stocks.",
+            "effet_zh": "对英伟达的质疑可能引发纳斯达克科技股的调整和对高科技股的更大怀疑。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur des semi-conducteurs (ASIC/GPU)",
+            "secteur_en": "Semiconductor sector (ASIC/GPU)",
+            "secteur_zh": "半导体行业（ASIC/GPU）",
+            "effet_fr": "L’incertitude sur la gouvernance de Nvidia pourrait ralentir les investissements en R&D dans les puces spécialisées, affectant l’innovation globale du secteur.",
+            "effet_en": "Uncertainty over Nvidia’s leadership could slow R&D investments in specialized chips, impacting the sector’s overall innovation.",
+            "effet_zh": "英伟达治理的不确定性可能减缓对专用芯片的研发投资，影响整个行业的创新。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-13T23:16:41.958555"
+      },
       {
         "id": "monde_476432",
         "titre": "Panthers vs Red Wings : guide pour regarder",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-11-04T08:39:36.704311"
-      },
-      {
-        "id": "monde_79951",
-        "titre": "Fox News prépare sa couverture électorale 2024 avec des interviews choc",
-        "titre_en": "Fox News plans 2024 election coverage with explosive interviews",
-        "titre_zh": "福克斯新闻准备2024选举报道及爆炸性采访",
-        "titre_ru": "Эксклюзив: Брет Бейер и Марта МакКаллам о планах Фокс на ночь выборов",
-        "titre_fa": "اخبار ویژه: برت بیئر و مارثا مک‌کالم در مورد برنامه‌های شب انتخابات فاکس",
-        "titre_ar": "حصرية: بريت باير ومارثا ماككالم حول خطط شب الانتخابات في فوكس",
-        "titre_original": "EXCLUSIVE: Bret Baier and Martha MacCallum on Fox’s Big Election Night Plans, Their Splashy Interviews With Paxton and El-Sayed, and More!",
-        "resume": "L’exclusive révèle les stratégies de Fox News pour la nuit électorale, incluant des interviews marquantes avec des figures politiques comme Paxton et El-Sayed. Bret Baier et Martha MacCallum détaillent leurs plans médiatiques pour couvrir les résultats. Cette initiative reflète une tactique agressive pour capter l’attention des électeurs et influencer le débat public.",
-        "resume_en": "The exclusive outlines Fox News’ plans for Election Night coverage, featuring high-profile interviews with politicians like Paxton and El-Sayed. Bret Baier and Martha MacCallum discuss their media strategies to dominate the narrative. This move underscores Fox’s aggressive approach to swaying public opinion and securing viewer engagement.",
-        "resume_zh": "独家曝光福克斯新闻计划如何覆盖2024年选举夜，并采访了帕克斯顿和埃尔-赛义德等政治人物。布雷特·贝尔和玛莎·麦卡洛姆详细介绍了其媒体策略。这一举动反映了福克斯新闻试图影响公众舆论并吸引观众的激进手段。",
-        "resume_ru": "Медиаит сообщило об эксклюзивном интервью с ведущими Фокс-ньюс Бретом Бейером и Мартой МакКаллам. Они обсудили подготовку канала к ночи выборов, включая яркие интервью с Пакстоном и Эл-Сейдом. Новый ведущий шоу Press Club Джулигрейс Бруфке выступила модератором беседы.",
-        "resume_fa": "میدیایت در مورد مصاحبه ویژه با برت بیئر و مارثا مک‌کالم از شبکه فاکس خبر داد. آن‌ها در مورد برنامه‌های شب انتخابات و مصاحبه‌های چشمگیر با پاکستون و ال-ساید صحبت کردند. جولیاگریس بروفک، میزبان جدید باشگاه مطبوعاتی، در این گفتگو حضور داشت.",
-        "resume_ar": "أعلنت ميديايت عن مقابلة حصرية مع بريت باير ومارثا ماككالم من قناة فوكس. ناقشتا خطط القناة لليلة الانتخابات، بما في ذلك المقابلات الملفتة مع باكستون وإل-سعيد. جوليا جريس بروفك، المضيفة الجديدة لبرنامج Press Club، كانت مديرة الحوار.",
-        "analyse_detaillee": "Ce sujet s’inscrit dans une dynamique médiatique américaine où les chaînes d’information cherchent à maximiser leur audience via des formats spectaculaires. Les interviews avec des figures controversées comme Paxton (accusé de corruption) ou El-Sayed (candidat progressiste) visent à polariser l’opinion. Fox News exploite ainsi une stratégie de polarisation politique pour renforcer son audience fidèle. À court terme, cela pourrait renforcer son influence sur les débats électoraux, tandis qu’à moyen terme, cela pourrait accentuer la fragmentation médiatique. Les conséquences à long terme dépendront de la crédibilité perçue par les électeurs, notamment face à des accusations de désinformation. Les acteurs clés incluent les candidats interviewés, Fox News pour son positionnement conservateur, et les régulateurs médiatiques surveillant les dérives.",
-        "analyse_en": "This story fits into a broader trend of U.S. news networks using sensational formats to boost viewership. Interviews with controversial figures like Paxton (accused of corruption) or El-Sayed (progressive candidate) aim to polarize public opinion. Fox News leverages political polarization to solidify its loyal audience base. Short-term, this could amplify its influence on election debates, while medium-term effects may deepen media fragmentation. Long-term impacts hinge on perceived credibility among voters, especially regarding accusations of misinformation. Key actors include the interviewed candidates, Fox News for its conservative stance, and media regulators monitoring potential abuses.",
-        "analyse_zh": "此报道反映了美国媒体通过炫目节目形式争夺收视率的趋势。采访涉嫌腐败的帕克斯顿或进步派候选人埃尔-赛义德等争议人物，旨在极化公众舆论。福克斯新闻利用政治极化策略巩固其忠实观众群体。短期内，这可能增强其在选举辩论中的影响力，中期则可能加剧媒体分裂。长期影响取决于选民对其可信度的认知，特别是面对误导信息的指控。关键利益相关者包括被采访的候选人、持保守立场的福克斯新闻以及监管媒体行为的监管机构。",
-        "analyse_ru": "Эксклюзивные интервью Бейера и МакКаллам демонстрируют стратегию Фокс-ньюс по привлечению внимания к ключевым фигурам предвыборной кампании. Их разговоры с Пакстоном и Эл-Сейдом подчеркивают попытку канала позиционировать себя как независимого наблюдателя за выборами. Однако критики отмечают, что такие интервью могут быть использованы для манипуляции аудиторией. В контексте текущей политической поляризации США подобные инициативы Фокс-ньюс могут усилить разделённость общества. В перспективе, если канал продолжит подобную линию, это может повлиять на доверие к медиа в целом.",
-        "analyse_fa": "مصاحبه‌های ویژه بیئر و مک‌کالم نشان‌دهنده استراتژی شبکه فاکس برای جلب توجه به شخصیت‌های کلیدی کمپین انتخاباتی است. گفتگوی آن‌ها با پاکستون و ال-ساید نشان می‌دهد که شبکه سعی در معرفی خود به عنوان یک ناظر مستقل در انتخابات دارد. اما منتقدان معتقدند این مصاحبه‌ها می‌توانند برای کنترل مخاطبان استفاده شوند. در زمینه حال حاضر تقسیمات سیاسی آمریکا، چنین اقداماتی می‌تواند به افزایش شکاف اجتماعی کمک کند. اگر شبکه فاکس به این خط ادامه دهد، ممکن است اعتماد عمومی به رسانه‌ها تحت تأثیر قرار گیرد.",
-        "analyse_ar": "تحدثت المقابلة الحصرية لباير وماككالم عن استراتيجية قناة فوكس لجذب الانتباه إلى الشخصيات الرئيسية في حملة الانتخابات. نقاشهما مع باكستون وإل-سعيد يبرز محاولة القناة تقديم نفسها كمشاهد مستقل للانتخابات. ومع ذلك، يلاحظ النقاد أن هذه المقابلات قد تستخدم لتوجيه الجمهور. في سياق التجزئة السياسية الحالية في الولايات المتحدة، قد تزيد مثل هذه المبادرات من الانقسام الاجتماعي. إذا استمرت قناة فوكس على هذا المسار، فقد تؤثر على ثقة الجمهور بالوسائل الإعلامية بشكل عام.",
-        "categorie": "Médias & Politique",
-        "source": "Mediaite",
-        "url": "https://www.mediaite.com/media/podcasts/exclusive-bret-baier-and-martha-maccallum-on-foxs-big-election-night-plans-their-splashy-interviews-with-paxton-and-el-sayed-and-more/",
-        "image": "https://www.mediaite.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-1-12-00-PM-scaled.jpg",
-        "date": "2026-11-02",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Médias traditionnels (chaînes d'information)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché publicitaire politique",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Médias traditionnels (chaînes d'information)",
-            "secteur_en": "Traditional media (news networks)",
-            "secteur_zh": "传统媒体（新闻频道）",
-            "effet_fr": "La stratégie de Fox News pourrait renforcer sa domination sur le marché des médias politiques, au détriment de concurrents perçus comme moins engagés.",
-            "effet_en": "Fox News’ strategy may solidify its dominance in political media, undermining competitors seen as less committed to sensationalism.",
-            "effet_zh": "福克斯新闻的策略可能巩固其在政治媒体市场的主导地位，削弱被视为不够炫目的竞争对手。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché publicitaire politique",
-            "secteur_en": "Political advertising market",
-            "secteur_zh": "政治广告市场",
-            "effet_fr": "Les interviews controversées pourraient attirer plus de sponsors engagés dans des campagnes polarisantes, dynamisant ce segment.",
-            "effet_en": "Controversial interviews may attract more sponsors aligned with polarizing campaigns, boosting this niche market.",
-            "effet_zh": "争议性采访可能吸引更多支持极化政治的赞助商，推动这一细分市场发展。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-11-03T21:30:10.354381"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_350148",
+        "titre": "Krach boursier US : S&P 500 et Dow Jones en chute",
+        "titre_en": "US stock market crash: S&P 500, Dow Jones plunge",
+        "titre_zh": "美国股市暴跌：标普500和道指下挫",
+        "titre_ru": "Биржевые индексы США упали: почему S&P 500, Dow Jones, Nasdaq, Russell 2000 рухнули",
+        "titre_fa": "بازار بورس آمریکا افت کرد: چرا S&P 500، داو جونز، ناسداک و راسل 2000 سقوط کردند؟",
+        "titre_ar": "أسهم وول ستريت تنخفض: لماذا انخفضت مؤشرات S&P 500، داو جونز، ناسداك، راسل 2000؟",
+        "titre_original": "US Stock market down: Why did S&P 500, Dow Jones, Nasdaq, Russell 2000 fall? List of hit, flop Wall Street stocks",
+        "resume": "Les indices boursiers américains ont chuté sous l’effet d’une hausse brutale des prix du pétrole, liée à l’annulation par Trump d’un accord avec l’Iran. Les secteurs énergétiques et industriels ont été les plus touchés, tandis que les valeurs refuges comme l’or ont bénéficié de la volatilité. Cette réaction illustre la sensibilité des marchés aux tensions géopolitiques et aux décisions politiques imprévisibles.",
+        "resume_en": "US stock indices fell sharply due to a sudden spike in oil prices, triggered by Trump’s abandonment of an Iran deal. Energy and industrial sectors were hardest hit, while safe-haven assets like gold gained from the volatility. The reaction highlights market sensitivity to geopolitical tensions and unpredictable political decisions.",
+        "resume_zh": "美国股指因石油价格暴涨而大幅下跌，该涨幅由特朗普放弃与伊朗的协议引发。能源和工业板块受到最严重影响，而避险资产如黄金则从波动中受益。这种反应展示了市场对地缘政治紧张局势和政治决定不确定性的敏感性。",
+        "resume_ru": "Фондовые индексы США пострадали из-за роста цен на нефть после заявления бывшего президента Дональда Трампа. Он заявил, что больше не заинтересован в договоре с Ираном по прекращению войны. Аналитики связывают падение с повышением геополитических рисков и нестабильностью на рынке. В числе пострадавших оказались акции энергетических компаний и технологических гигантов.",
+        "resume_fa": "اندکس‌های بورس آمریکا تحت تأثیر افزایش قیمت نفت قرار گرفتند، پس از اظهارنظر دونالد ترامپ، رئیس‌جمهور سابق، مبنی بر عدم علاقه‌اش به توافق با ایران برای پایان جنگ. تحلیلگران این سقوط را با افزایش ریسک‌های ژئوپولیتیکی و ناپایداری بازار مرتبط می‌دانند. از جمله شرکت‌هایی که آسیب دیدند، شرکت‌های انرژی و فناوری بزرگ بودند.",
+        "resume_ar": "انخفضت مؤشرات بورصة الولايات المتحدة نتيجة ارتفاع أسعار النفط بعد من إعلان الرئيس السابق دونالد ترامب عدم اهتمامه باتفاق مع إيران لإنهاء الحرب. ربط المحللون هذا الانخفاض مع زيادة المخاطر الجيوسياسية وعدم الاستقرار في السوق. من بين الشركات التي تأثرت، شركات الطاقة والريادة التكنولوجية الكبرى.",
+        "analyse_detaillee": "Les marchés financiers américains sont historiquement sensibles aux chocs pétroliers, comme en 1973 ou 2008, où les tensions géopolitiques avaient provoqué des crises. L’annulation unilatérale d’un accord par Trump reflète une approche transactionnelle des relations internationales, priorisant les intérêts économiques à court terme. Les conséquences immédiates incluent une hausse des coûts pour les industries lourdes et une inflation accrue, pesant sur la consommation. À moyen terme, les entreprises dépendantes du pétrole pourraient réduire leurs investissements, aggravant une récession potentielle. Long terme : une relance des tensions au Moyen-Orient pourrait ancrer une dynamique de volatilité durable, affectant les flux d’investissements globaux. Les États-Unis, dépendants des importations pétrolières, subissent un double impact : économique et diplomatique. Les marchés émergents, déjà fragiles, pourraient aussi ressentir les répercussions via une dépréciation du dollar.",
+        "analyse_en": "US financial markets are historically sensitive to oil shocks, as seen in 1973 or 2008, when geopolitical tensions triggered crises. Trump’s unilateral abandonment of an Iran deal reflects a transactional approach to international relations, prioritizing short-term economic interests. Immediate consequences include higher costs for heavy industries and rising inflation, pressuring consumption. Medium-term: oil-dependent companies may cut investments, deepening potential recession risks. Long-term: renewed Middle East tensions could anchor a lasting volatility dynamic, affecting global investment flows. The US, reliant on oil imports, faces a dual impact: economic and diplomatic. Emerging markets, already fragile, may also feel repercussions through dollar depreciation.",
+        "analyse_zh": "美国金融市场在历史上对石油冲击非常敏感，如1973年和2008年地缘政治紧张局势引发的危机所示。特朗普单方面放弃与伊朗的协议反映了对国际关系的交易主义态度，将短期经济利益放在首位。近期影响包括重工业成本上升和通胀加剧，压制消费。中期：依赖石油的企业可能减少投资，加剧潜在的衰退风险。长期：中东地区紧张局势的再次升级可能固化持久的波动动态，影响全球投资流动。美国作为石油进口依赖国，面临经济和外交的双重影响。脆弱的新兴市场也可能通过美元贬值感受到连带影响。",
+        "analyse_ru": "Рост цен на нефть стал катализатором для падения индексов, так как повышение стоимости сырья напрямую влияет на инфляцию и стоимость перевозок. Отказ Трампа от переговоров с Ираном усилил неопределенность на рынке, так как геополитические напряжения часто приводят к волатильности. Компании, связанные с энергетикой и логистикой, особенно уязвимы в таких условиях. С другой стороны, технологические гиганты, такие как Apple и Microsoft, также пострадали из-за общего снижения доверия инвесторов. В перспективе это может привести к ужесточению условий кредитования и замедлению экономического роста.",
+        "analyse_fa": "افزایش قیمت نفت عامل اصلی سقوط اندکس‌ها بود، زیرا افزایش هزینه مواد اولیه به‌طور مستقیم بر تورم و هزینه حمل و نقل تأثیر می‌گذارد. انصراف ترامپ از مذاکرات با ایران نگرانی بازار را افزایش داد، زیرا تنش‌های ژئوپولیتیکی معمولاً منجر به نوسانات می‌شوند. شرکت‌هایی که به انرژی و لجستیک وابسته هستند، در چنین شرایطی بسیار آسیب‌پذیر هستند. از سوی دیگر، شرکت‌های فناوری مانند اپل و مایکروسافت نیز به دلیل کاهش اعتماد سرمایه‌گذاران آسیب دیدند. در آینده، این ممکن است منجر به سخت‌گیری در شرایط قرض گرفتن و کند شدن رشد اقتصادی شود.",
+        "analyse_ar": "ارتفاع سعر النفط كان المحرك الرئيسي لانهيار المؤشرات، حيث يؤثر ارتفاع تكلفة المواد الخام مباشرة على التضخم وتكلفة النقل. رفض ترامب المفاوضات مع إيران زاد من عدم اليقين في السوق، حيث يؤدي التوتر الجيوسياسي عادة إلى عدم الاستقرار. الشركات المرتبطة بالطاقة والنقل أكثر عرضة للخطر في مثل هذه الظروف. من ناحية أخرى، تأثرت الشركات التكنولوجية الكبرى مثل آبل وميكروسوفت أيضًا بسبب انخفاض ثقة المستثمرين. قد يؤدي هذا في المستقبل إلى تشديد شروط القروض وتSlowdown في النمو الاقتصادي.",
+        "categorie": "Géopolitique",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-down-why-did-sp-500-dow-jones-nasdaq-russell-2000-fall-list-of-hit-flop-wall-street-stocks/articleshow/135784926.cms",
+        "image": "https://img.etimg.com/thumb/msid-135784952,width-1200,height-900,imgsize-185706,overlay-economictimes/articleshow.jpg",
+        "date": "2026-11-12",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Marché pétrolier (Brent/WTI)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Secteur industriel (logistique/transport)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché pétrolier (Brent/WTI)",
+            "secteur_en": "Oil market (Brent/WTI)",
+            "secteur_zh": "石油市场（布伦特/WTI）",
+            "effet_fr": "La rupture des négociations avec l’Iran a provoqué une flambée des cours, pénalisant les économies importatrices et stimulant les pays producteurs comme l’Arabie saoudite.",
+            "effet_en": "The breakdown of Iran talks caused oil prices to surge, hurting import-dependent economies and boosting producers like Saudi Arabia.",
+            "effet_zh": "与伊朗谈判的破裂导致油价飙升，损害进口依赖型经济并刺激沙特等产油国。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Secteur industriel (logistique/transport)",
+            "secteur_en": "Industrial sector (logistics/transport)",
+            "secteur_zh": "工业部门（物流/运输）",
+            "effet_fr": "L’envolée des prix de l’énergie a alourdi les coûts logistiques, réduisant les marges des entreprises et ralentissant les chaînes d’approvisionnement globales.",
+            "effet_en": "The surge in energy prices has increased logistics costs, squeezing corporate margins and slowing global supply chains.",
+            "effet_zh": "能源价格的飙升加重了物流成本，压缩了企业利润并减缓了全球供应链。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-13T23:16:41.958583"
+      },
       {
         "id": "usa_501147",
         "titre": "Les tarifs de Trump nuisent à l’économie américaine",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-11-04T08:39:36.704342"
-      },
-      {
-        "id": "usa_69839",
-        "titre": "Trump tente une dernière fois influencer la Cour suprême avant les midterms",
-        "titre_en": "Trump makes last bid to sway Supreme Court ahead of midterms",
-        "titre_zh": "特朗普再次试图在中期选举前影响最高法院",
-        "titre_ru": "Трамп пытается вмешаться в выборы через Верховный суд",
-        "titre_fa": "ترمپ آخرین تلاش برای دخالت در انتخابات با دادگاه عالی",
-        "titre_ar": "ترمب يحاول آخر محاولة لتدخل في الانتخابات عبر المحكمة العليا",
-        "titre_original": "Trump makes one last attempt to get the Supreme Court to interfere with the midterms",
-        "resume": "Donald Trump cherche à mobiliser la Cour suprême pour interférer dans les élections de mi-mandat de 2026, une manœuvre jugée hautement improbable par les analystes. Son approche repose sur des pressions juridiques et politiques pour contester les résultats. Cette tentative reflète une stratégie désespérée pour maintenir son influence post-présidentielle.",
-        "resume_en": "Donald Trump is attempting to rally the Supreme Court to interfere with the 2026 midterm elections, a move analysts deem highly unlikely. His strategy involves legal and political pressure to challenge election outcomes. This bid reflects a desperate effort to sustain his post-presidential influence.",
-        "resume_zh": "特朗普试图动员最高法院干预2026年中期选举，分析师认为这一举动极不可能成功。他的策略依赖于法律和政治压力来质疑选举结果。这一尝试反映了他维持前总统影响力的绝望举动。",
-        "resume_ru": "Президент Трамп предпринял последнюю попытку повлиять на исход средних выборов 2026 года через Верховный суд. Калифорния не является ключевым штатом для этих выборов, так как там нет конкурентных расингов на уровне штата. Однако его действия могут быть восприняты как попытка подрыва легитимности процесса.",
-        "resume_fa": "ترمپ آخرین تلاش خود را برای تأثیرگذاری بر نتیجه انتخابات میانه‌رو ۲۰۲۶ از طریق دادگاه عالی انجام داد. کالیفرنیا یکی از ایالت‌های کلیدی نیست، زیرا در آن هیچ مسابقه‌ای در سطح ایالت وجود ندارد. اما اقدامات او ممکن است به عنوان تلاش برای زیر سؤال بردن مشروعیت فرایند انتخابات تفسیر شود.",
-        "resume_ar": "جاء آخر محاولة من قبل الرئيس ترمب لتأثير على نتائج الانتخابات الوسطى لعام 2026 عبر المحكمة العليا. كاليفورنيا ليست ولاية حاسمة لهذه الانتخابات، حيث لا يوجد فيها سباقات تنافسية على مستوى الولاية. ومع ذلك، قد يُفسر أفعاله كAttempt لتخريب شرعية العملية الانتخابية.",
-        "analyse_detaillee": "Cette tentative s’inscrit dans une série de manœuvres judiciaires et politiques menées par Trump depuis 2020 pour contester les élections. Historiquement, la Cour suprême a rarement intervenu dans les processus électoraux, sauf en cas de violations claires de la Constitution. Les causes profondes incluent la frustration de Trump face à sa défaite en 2020 et son refus d’accepter les résultats. À court terme, cela pourrait renforcer les tensions politiques et alimenter les théories du complot. À moyen terme, cela pourrait affaiblir la confiance dans les institutions judiciaires. Les perspectives à long terme dépendent de la capacité des républicains à maintenir leur contrôle sur la Cour, mais les risques de polarisation persistent. Les acteurs clés sont Trump, les juges conservateurs de la Cour, et les démocrates cherchant à limiter son influence.",
-        "analyse_en": "This move follows a series of legal and political maneuvers by Trump since 2020 to challenge election outcomes. Historically, the Supreme Court rarely intervenes in electoral processes unless constitutional violations are clear. Root causes include Trump’s frustration over his 2020 loss and his refusal to accept results. Short-term, this could escalate political tensions and fuel conspiracy theories. Medium-term, it may erode trust in judicial institutions. Long-term prospects hinge on Republicans’ ability to retain control of the Court, but polarization risks remain. Key actors include Trump, conservative Supreme Court justices, and Democrats seeking to curb his influence.",
-        "analyse_zh": "这一举动属于特朗普自2020年以来一系列质疑选举结果的法律和政治策略的一部分。历史上，最高法院很少干预选举过程，除非存在明显的宪法违规。深层原因包括特朗普对2020年失败的不满和拒绝接受结果。短期内，这可能加剧政治紧张局势并助长阴谋论。中期内，可能削弱对司法机构的信任。长期前景取决于共和党维持对法院的控制能力，但极化风险依然存在。关键利益相关者包括特朗普、法院的保守派大法官以及试图限制其影响力的民主党人。",
-        "analyse_ru": "Попытка Трампа вмешаться через Верховный суд отражает его стратегию постоянного оспаривания результатов выборов. Калифорния, как синий штат, не является приоритетом для его усилий, но его действия могут подорвать доверие к судебной системе. Это может усилить политическую нестабильность и вызвать новые споры о легитимности выборов. В перспективе, если подобные инициативы продолжатся, это может привести к кризису доверия к институтам власти. Оппозиция видит в этом попытку дискредитации судебной власти и подрыва демократических процессов.",
-        "analyse_fa": "سعی ترمپ برای دخالت از طریق دادگاه عالی نشان‌دهنده استراتژی او در زیر سؤال بردن نتایج انتخابات است. کالیفرنیا به عنوان یک ایالت آبی، اولویت اصلی او نیست، اما اقدامات او می‌تواند اعتماد به سیستم قضایی را کاهش دهد. این می‌تواند به افزایش ناپایداری سیاسی و ایجاد اختلافات جدید در مورد مشروعیت انتخابات کمک کند. اگر چنین اقداماتی ادامه یابد، ممکن است به بحران اعتماد به نهادهای قدرت منجر شود. مخالفان این اقدام را تلاش برای زیر سؤال بردن قدرت قضایی و زیر پا گذاشتن فرآیندهای دموکراتیک می‌دانند.",
-        "analyse_ar": "تجربة ترمب التدخل عبر المحكمة العليا تعكس استراتيجيته المستمرة في تحدي نتائج الانتخابات. كاليفورنيا، كولاية زرقاء، ليست أولوية لأفعاله، لكن هذه الخطوات قد تخدش ثقة النظام القضائي. هذا قد يزيد من عدم الاستقرار السياسي ويؤدي إلى نقاشات جديدة حول شرعية الانتخابات. في المستقبل، إذا استمرت مثل هذه المبادرات، قد تؤدي إلى أزمة ثقة في المؤسسات الحكومية. ترى المعارضة في ذلك محاولة لتخريب السلطة القضائية وتخريب العمليات الديمقراطية.",
-        "categorie": "Géopolitique",
-        "source": "Vox",
-        "url": "https://www.vox.com/politics/508667/trump-supreme-court-california-ballots",
-        "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/gettyimages-2263411585.jpg?quality=90&strip=all&crop=0%2C10.709518884023%2C100%2C78.580962231955&w=1200",
-        "date": "2026-11-02",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Système judiciaire fédéral américain",
-            "hausse": false
-          },
-          {
-            "label": "▼ Campagne électorale républicaine",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Système judiciaire fédéral américain",
-            "secteur_en": "U.S. federal judicial system",
-            "secteur_zh": "美国联邦司法体系",
-            "effet_fr": "Cette pression pourrait affaiblir la légitimité de la Cour suprême aux yeux des électeurs modérés et renforcer les divisions partisanes.",
-            "effet_en": "Such pressure may undermine the Supreme Court’s legitimacy among moderate voters and deepen partisan divisions.",
-            "effet_zh": "这种压力可能削弱最高法院在中间选民眼中的合法性，并加剧党派分裂。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Campagne électorale républicaine",
-            "secteur_en": "Republican election campaign",
-            "secteur_zh": "共和党选举营销",
-            "effet_fr": "Cette stratégie pourrait mobiliser une base électorale radicalisée, mais risquerait d’aliéner les électeurs indépendants et modérés.",
-            "effet_en": "This strategy may energize a radicalized base but risks alienating independent and moderate voters.",
-            "effet_zh": "这种策略可能激励激进的选民基础，但可能会疏远独立和中间派选民。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-11-03T21:30:10.354411"
       }
     ],
     "chine": [
@@ -4951,6 +4951,65 @@
     ],
     "iran": [
       {
+        "id": "iran_141177",
+        "titre": "Arabie saoudite pousse l’UE à classer Houthis comme terroristes",
+        "titre_en": "Saudi Arabia urges EU to designate Houthis as terrorists",
+        "titre_zh": "沙特推动欧盟将胡塞武装列为恐怖组织",
+        "titre_ru": "Саудовская Аравия просит ЕС признать хуситов террористами",
+        "titre_fa": "عربستان سعودی از اتحادیه اروپا می‌خواهد هوثی‌ها را تروریست اعلام کند",
+        "titre_ar": "تطلب السعودية من الاتحاد الأوروبي اعتباره هوثيين إرهابيين",
+        "titre_original": "Saudi Arabia urges EU to designate Houthis as terrorists amid renewed attacks",
+        "resume": "Riyad exige que Bruxelles reconnaisse les Houthis, soutenus par Téhéran, comme organisation terroriste, alors que ces derniers multiplient les attaques au Yémen. Les États membres de l’UE hésitent, craignant que cette mesure n’entrave les efforts de paix et n’aggrave les tensions régionales. Cette demande s’inscrit dans une stratégie saoudienne plus large pour isoler l’Iran diplomatiquement.",
+        "resume_en": "Riyadh demands that Brussels recognize the Iran-backed Houthis as a terrorist organization, as they escalate attacks in Yemen. EU member states hesitate, fearing the move could undermine peace efforts and escalate regional tensions. The request is part of Saudi Arabia’s broader strategy to diplomatically isolate Iran.",
+        "resume_zh": "利雅得要求布鲁塞尔将由伊朗支持的胡塞武装认定为恐怖组织，因为后者在也门加剧了袭击活动。欧盟成员国犹豫不决，担心这一举措会破坏和平努力并加剧地区紧张局势。这一要求是沙特更广泛隔离伊朗外交战略的一部分。",
+        "resume_ru": "Саудовская Аравия настаивает на признании иранских подопечных хуситов террористической организацией. Европейские чиновники опасаются, что такое решение может подорвать будущие усилия по миру в Йемене. Дипломатические переговоры по этому вопросу продолжаются, но прогресса пока нет. Конфликт в Йемене остается одним из самых кровопролитных в мире.",
+        "resume_fa": "عربستان سعودی از اتحادیه اروپا می‌خواهد که هوثی‌ها که تحت حمایت ایران هستند را سازمان تروریستی اعلام کنند. مقامات اروپایی نگران هستند که این تصمیم ممکن است تلاش‌های آینده برای صلح در یمن را زیر سؤال ببرد. مذاکرات دیپلماتیک در مورد این موضوع ادامه دارد، اما پیشرفت چندانی نشده است. جنگ یمن همچنان یکی از خونین‌ترین جنگ‌های جهان است.",
+        "resume_ar": "تطلب السعودية من الاتحاد الأوروبي اعتباره هوثيين، الذين يدعمهم إيران، منظمة إرهابية. يخشى المسؤولون الأوروبيون أن يؤدي هذا القرار إلى إضعاف جهود السلام المستقبلية في اليمن. تستمر المفاوضات الدبلوماسية حول هذا الموضوع، ولكن لا يوجد تقدم كبير. لا يزال الصراع في اليمن من أكثر الصراعات دموية في العالم.",
+        "analyse_detaillee": "Le conflit yéménite, déclenché en 2014 par une coalition dirigée par l’Arabie saoudite, oppose depuis des forces pro-iraniennes (Houthis) à un gouvernement soutenu par Riyad. La demande saoudienne s’inscrit dans une rivalité régionale plus large, dite de la « guerre froide » du Golfe, où Téhéran et Riyad s’affrontent pour l’hégémonie. Les conséquences immédiates incluent une polarisation accrue des positions européennes, avec certains pays (comme la France) soutenant une approche nuancée. À moyen terme, le risque est une escalade militaire indirecte via des cyberattaques ou des frappes ciblées. Long terme : une fragmentation accrue des alliances en Europe, avec des divisions entre ceux qui privilégient la stabilité régionale et ceux qui soutiennent une ligne dure contre l’Iran. Les Houthis, bien que militarement affaiblis, conservent un levier diplomatique via leur soutien populaire au Yémen, compliquant toute solution pacifique.",
+        "analyse_en": "The Yemeni conflict, sparked in 2014 by a Saudi-led coalition, has pitted Iran-backed Houthis against a government supported by Riyadh. Saudi Arabia’s demand reflects a broader regional rivalry, dubbed the ‘Gulf Cold War,’ where Tehran and Riyadh compete for hegemony. Immediate consequences include heightened EU polarization, with some countries (like France) favoring a nuanced approach. Medium-term: risk of indirect military escalation via cyberattacks or targeted strikes. Long-term: increased fragmentation of European alliances, with divisions between those prioritizing regional stability and those supporting a hardline against Iran. Despite military weakness, the Houthis retain a diplomatic leverage through popular support in Yemen, complicating any peaceful solution.",
+        "analyse_zh": "也门冲突自2014年由沙特领导的联盟发起以来，一直对抗由伊朗支持的胡塞武装与沙特支持的政府。沙特的这一要求反映了更广泛的地区对抗，即所谓的“波斯湾冷战”，其中德黑兰和利雅得为霸权地位而争夺。近期影响包括欧洲立场的极化，一些国家（如法国）倾向于采取更灵活的态度。中期：间接军事升级的风险增加，通过网络攻击或针对性打击。长期：欧洲联盟的分裂加剧，在强调地区稳定与坚持对伊朗强硬路线之间出现分歧。尽管军事上处于劣势，胡塞武装仍凭借在也门的民众支持保持外交筹码，使任何和平解决方案变得复杂。",
+        "analyse_ru": "Саудовская Аравия стремится усилить международное давление на хуситов, используя террористическую этикетку как инструмент изоляции. Признание хуситов террористами может облегчить санкции против них, но риск осложнения переговоров о мире в Йемене высок. Европейские страны, как правило, осторожны в таких вопросах, так как любые шаги могут быть восприняты как вмешательство в региональные конфликты. Хуситы, в свою очередь, обвиняют Саудовскую Аравию в эскалации насилия и блокировке гуманитарной помощи. В долгосрочной перспективе это может привести к дальнейшей поляризации в регионе и усилению роли Ирана как регионального игрока.",
+        "analyse_fa": "عربستان سعودی سعی دارد با استفاده از برچسب تروریستی، فشار بین‌المللی بر هوثی‌ها را افزایش دهد و آن‌ها را از نظر بین‌المللی عزل کند. اعلام هوثی‌ها به عنوان تروریست‌ها ممکن است به تسهیل تحریم‌ها علیه آن‌ها کمک کند، اما خطر پیچیده شدن مذاکرات صلح در یمن بسیار بالا است. کشورهای اروپایی معمولاً در این نوع مسائل احتیاط می‌کنند، زیرا هر گام ممکن است به عنوان مداخله در درگیری‌های منطقه‌ای تفسیر شود. هوثی‌ها از سوی دیگر، عربستان سعودی را متهم به تشدید خشونت و مسدود کردن کمک‌های انسانی می‌کنند. در بلندمدت، این ممکن است به افزایش قطبی شدن در منطقه و تقویت نقش ایران به عنوان بازیگر منطقه‌ای منجر شود.",
+        "analyse_ar": "تريد السعودية زيادة الضغط الدولي على هوثيين باستخدام صفة الإرهاب كآلية عزل. قد يؤدي اعتباره هوثيين إرهابيين إلى تسهيل فرض العقوبات عليهم، ولكن خطر تعقيد مفاوضات السلام في اليمن مرتفع. عادة ما تكون الدول الأوروبية حذرًا في مثل هذه القضايا، حيث قد يُفهم أي خطوة كتدخل في الصراعات الإقليمية. من ناحية أخرى، يتهم هوثيون السعودية بتشديد العنف وتجميد المساعدات الإنسانية. قد يؤدي هذا في المدى الطويل إلى زيادة التقطيع في المنطقة وتعزيز دور إيران كقوة إقليمية.",
+        "categorie": "Géopolitique",
+        "source": "Israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/news/436118",
+        "image": "https://2.a7.org/files/pictures/000/1225790.jpg",
+        "date": "2026-11-12",
+        "pays": "iran",
+        "badges": [
+          {
+            "label": "▲ Secteur des énergies fossiles (pétrole/gaz)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Marché des armements (exportations européennes)",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Secteur des énergies fossiles (pétrole/gaz)",
+            "secteur_en": "Fossil energy sector (oil/gas)",
+            "secteur_zh": "化石能源部门（石油/天然气）",
+            "effet_fr": "L’escalade des tensions au Yémen pourrait perturber les routes maritimes du golfe d’Aden, impactant les prix et les flux d’hydrocarbures vers l’Europe.",
+            "effet_en": "Escalation in Yemen tensions could disrupt the Gulf of Aden maritime routes, affecting oil and gas prices and flows to Europe.",
+            "effet_zh": "也门紧张局势的升级可能扰乱亚丁湾海上通道，影响欧洲进口的石油和天然气价格及流量。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Marché des armements (exportations européennes)",
+            "secteur_en": "Arms market (European exports)",
+            "secteur_zh": "军火市场（欧洲出口）",
+            "effet_fr": "La désignation des Houthis comme terroristes pourrait accélérer les ventes d’armes à l’Arabie saoudite, malgré les critiques éthiques et juridiques en Europe.",
+            "effet_en": "Designating Houthis as terrorists could accelerate arms sales to Saudi Arabia, despite ethical and legal criticisms in Europe.",
+            "effet_zh": "将胡塞武装认定为恐怖组织可能加速向沙特出售军火，尽管欧洲在伦理和法律上存在批评。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-13T23:16:41.958592"
+      },
+      {
         "id": "iran_911337",
         "titre": "Deux Iraniens condamnés pour espionnage au Royaume-Uni",
         "titre_en": "Two Iranians Convicted of UK Journalists Espionage",
@@ -6070,65 +6129,6 @@
           }
         ],
         "created_at": "2026-10-30T01:34:00.241612"
-      },
-      {
-        "id": "iran_827793",
-        "titre": "Iran face à une crise énergétique et chaos politique",
-        "titre_en": "Iran braces for energy crisis amid political turmoil",
-        "titre_zh": "伊朗应对能源危机与政治动荡",
-        "titre_ru": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
-        "titre_fa": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
-        "titre_ar": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
-        "titre_original": "Iran Braces For Nightmare Energy Crisis As Deepening Political Chaos Threatens To Boil Over",
-        "resume": "L’Iran, déjà en difficulté économique, fait face à un effondrement énergétique imminent avec l’hiver, aggravé par les tensions internes et les sanctions américaines. Les coupures de courant et le manque de carburant pourraient déclencher des manifestations massives, exacerbant l’instabilité. La situation rappelle les crises de 2019–2020, où les protestations avaient été réprimées dans le sang.",
-        "resume_en": "Economically strained Iran faces an impending energy collapse this winter, worsened by internal turmoil and U.S. sanctions. Power cuts and fuel shortages may trigger mass protests, deepening instability reminiscent of 2019–2020 crackdowns.",
-        "resume_zh": "经济困难的伊朗面临冬季到来时的能源崩溃风险，加剧了内部动荡和美国制裁。停电和燃料短缺可能引发大规模示威，加深不稳定局势，类似于2019–2020年血腥镇压的回忆。",
-        "resume_ru": "",
-        "resume_fa": "",
-        "resume_ar": "",
-        "analyse_detaillee": "La crise énergétique iranienne s’enracine dans une dépendance historique au pétrole, aggravée par les sanctions américaines depuis 2018 et la chute des revenus d’exportation. Les enjeux principaux incluent la survie du régime face à une population exsangue, avec un risque de soulèvement populaire si les services publics s’effondrent. Les causes profondes sont la corruption endémique, l’inefficacité des institutions et la division au sein du Guide suprême et du Conseil des gardiens. À court terme, les coupures de courant pourraient paralyser les industries clés (pétrochimie, agriculture) et provoquer des émeutes. À moyen terme, le régime pourrait recourir à des mesures autoritaires (comme en 2019) ou à des négociations avec les puissances régionales (Arabie saoudite, Russie) pour contourner les sanctions. Long terme, une transition politique semble improbable sans intervention extérieure, mais les sanctions pourraient forcer une réforme économique forcée. Les acteurs clés sont le Guide suprême Ali Khamenei cherchant à maintenir sa légitimité, les Gardiens de la révolution (IRGC) contrôlant les ressources, et les factions modérées du Parlement tentant de négocier avec Washington.",
-        "analyse_en": "Iran’s energy crisis stems from historical oil dependence, worsened by U.S. sanctions since 2018 and plummeting export revenues. Key stakes involve regime survival amid a starving population, with a risk of popular uprising if public services collapse. Root causes include endemic corruption, institutional inefficiency, and divisions within the Supreme Leader and Guardian Council. Short-term, power cuts may paralyze key industries (petrochemicals, agriculture) and trigger riots. Medium-term, the regime may resort to authoritarian crackdowns (like in 2019) or regional negotiations with Saudi Arabia/Russia to bypass sanctions. Long-term, political transition seems unlikely without external intervention, but sanctions may force economic reforms. Key actors include Supreme Leader Ali Khamenei seeking to preserve legitimacy, the IRGC controlling resources, and moderate parliamentary factions negotiating with Washington.",
-        "analyse_zh": "伊朗的能源危机源于对石油的历史依赖，自2018年以来美国制裁和出口收入骤减进一步恶化了局面。主要影响在于在民众贫困的背景下，政权生存面临风险，如果公共服务崩溃，可能引发民众起义。深层原因包括根深蒂固的腐败、机构效率低下以及最高领袖和守护者委员会内部的分裂。短期内，停电可能会瘫痪关键产业（石油化工、农业）并引发骚乱。中期内，政权可能采取2019年式的高压镇压，或与沙特阿拉伯/俄罗斯等地区大国进行谈判以绕过制裁。长期来看，没有外部干预，政治转型似乎不太可能，但制裁可能迫使经济改革。关键利益相关者包括试图维护合法性的最高领袖哈梅内伊、控制资源的伊斯兰革命卫队（IRGC），以及与华盛顿谈判的议会温和派。",
-        "analyse_ru": "",
-        "analyse_fa": "",
-        "analyse_ar": "",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e2dc0bd85c9791d5",
-        "image": "https://biztoc.com/cdn/e2dc0bd85c9791d5_s.webp",
-        "date": "2026-10-26",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▼ Marché pétrolier et revenus d’exportation (OPEP+)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Secteur bancaire iranien et sanctions financières (SWIFT)",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché pétrolier et revenus d’exportation (OPEP+)",
-            "secteur_en": "Oil market and export revenues (OPEC+)",
-            "secteur_zh": "石油市场和出口收入（OPEC+）",
-            "effet_fr": "La chute des prix du pétrole et les sanctions réduisent drastiquement les revenus de Téhéran, forçant le régime à puiser dans les réserves ou à emprunter à des taux prohibitifs.",
-            "effet_en": "Falling oil prices and sanctions slashed Tehran’s revenues, forcing the regime to deplete reserves or borrow at prohibitive rates.",
-            "effet_zh": "石油价格下跌和制裁严重削减了德黑兰的收入，迫使政权耗尽储备或以高昂利率借款。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Secteur bancaire iranien et sanctions financières (SWIFT)",
-            "secteur_en": "Iranian banking sector and financial sanctions (SWIFT)",
-            "secteur_zh": "伊朗银行业和金融制裁（SWIFT）",
-            "effet_fr": "L’exclusion progressive du système SWIFT limite les transactions internationales et augmente les coûts de change, étouffant les importations critiques (médicaments, pièces détachées).",
-            "effet_en": "Gradual SWIFT exclusion restricts international transactions and raises exchange costs, strangling critical imports (medicine, spare parts).",
-            "effet_zh": "逐步退出SWIFT系统限制了国际交易并提高了汇率成本，窒息了关键进口（药品、零部件）。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-10-27T23:30:36.235840"
       }
     ]
   },
