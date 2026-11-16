@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026 à 10h41",
+  "last_updated": "16/11/2026 à 20h51",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,66 @@
   },
   "politique": [
     {
+      "id": "pol_env_301613",
+      "titre": "Parkinson en hausse : causes et disparités territoriales",
+      "titre_en": "Parkinson surge: causes and regional disparities",
+      "titre_zh": "帕金森病上升：原因与区域差异",
+      "titre_ru": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "titre_fa": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "titre_ar": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "titre_original": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "resume": "La maladie de Parkinson touche désormais près de 300 000 Français, avec une progression accélérée due au vieillissement démographique et à des facteurs environnementaux comme l’exposition aux métaux lourds. Certains départements, notamment industriels ou agricoles, enregistrent des taux plus élevés, soulignant un lien possible avec les pollutions locales. Les experts alertent sur l’urgence d’étudier ces corrélations pour mieux prévenir et soigner cette pathologie neurodégénérative.",
+      "resume_en": "Parkinson now affects nearly 300,000 French people, with rapid growth driven by population aging and environmental factors like exposure to heavy metals. Certain regions, particularly industrial or agricultural, show higher rates, suggesting a link to local pollution. Experts warn of the need to investigate these correlations to better prevent and treat this neurodegenerative disease.",
+      "resume_zh": "帕金森病目前影响法国近30万人，增长加速主要由人口老龄化和重金属暴露等环境因素引起。某些工业或农业密集地区病例更多，暗示与当地污染相关。专家警告需研究这些关联，以更好预防和治疗这种神经退行性疾病。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La maladie de Parkinson, décrite dès le XIXe siècle par James Parkinson, connaît aujourd’hui une résurgence liée à la longévité accrue des populations occidentales. Les disparités géographiques en France révèlent des clusters dans des zones industrielles ou agricoles, où l’exposition aux pesticides, solvants ou métaux lourds (comme le manganèse) est suspectée d’aggraver les risques. À court terme, la pression sur les systèmes de santé locaux s’intensifie, avec des besoins croissants en soins spécialisés et en accompagnement des patients. À moyen terme, les coûts socio-économiques pourraient exploser, notamment pour les familles et les assurances maladie, déjà fragilisées par la crise sanitaire. Longtemps sous-financée, la recherche sur les neurotoxines environnementales peine à obtenir des fonds prioritaires, malgré son urgence scientifique. Les associations de patients, comme France Parkinson, appellent à une politique publique intégrant prévention et dépistage précoce, tandis que les industriels restent réticents à assumer une responsabilité environnementale élargie. L’État, divisé entre santé publique et développement économique, doit trancher entre régulation stricte et croissance industrielle.",
+      "analyse_en": "Parkinson’s disease, first described in the 19th century by James Parkinson, is now resurging due to increased life expectancy in Western populations. Geographic disparities in France highlight clusters in industrial or agricultural regions, where exposure to pesticides, solvents, or heavy metals (like manganese) is suspected of increasing risks. Short-term, local healthcare systems face growing pressure, with rising demand for specialized care and patient support. Medium-term, socio-economic costs could surge, particularly for families and health insurers, already strained by the pandemic. Long underfunded, research on environmental neurotoxins struggles to secure priority funding, despite its scientific urgency. Patient associations like France Parkinson advocate for public policies combining prevention and early detection, while industries remain reluctant to expand environmental accountability. The state, torn between public health and economic growth, must decide between strict regulation and industrial development.",
+      "analyse_zh": "帕金森病由詹姆斯·帕金森于19世纪首次描述，现今因西方人口老龄化而复燃。法国地区差异显示工业或农业区病例集中，怀疑与农药、溶剂或重金属（如锰）暴露相关。短期内，当地医疗系统承压加剧，对专科护理和患者陪护需求激增。中期内，社会经济成本可能暴涨，特别是对家庭和医保系统，后者已因疫情而脆弱。长期以来，环境神经毒素研究资金短缺，尽管科学紧迫性高。患者协会如法国帕金森协会呼吁政府政策结合预防和早期筛查，而工业界则对扩大环境责任持观望态度。政府在公共卫生与经济发展间犹豫，需在严格监管与工业发展间做出抉择。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Santé publique",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html",
+      "image": "https://www.franceinfo.fr/pictures/_hQ9hFWuQdwBaPmECC49iZgRexE/0x234:4500x2765/1500x843/2026/11/12/6af617bb67f2f775111105.jpg",
+      "date": "2026-11-15",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance maladie (branche dépendance et maladies chroniques)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité civile des entreprises industrielles",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (branche dépendance et maladies chroniques)",
+          "secteur_en": "Health insurance (dependency and chronic illness branch)",
+          "secteur_zh": "医疗保险（依赖和慢性病分支）",
+          "effet_fr": "L’augmentation des cas de Parkinson alourdit les dépenses liées aux traitements coûteux (L-Dopa, kinésithérapie) et aux aides humaines, déjà sous tension après la pandémie.",
+          "effet_en": "The rise in Parkinson cases increases costs for expensive treatments (L-Dopa, physiotherapy) and human care, already strained post-pandemic.",
+          "effet_zh": "帕金森病例增加加重了昂贵治疗（左旋多巴、理疗）和人工护理的支出，疫情后医保系统已承压。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité civile des entreprises industrielles",
+          "secteur_en": "Industrial companies' civil liability insurance",
+          "secteur_zh": "工业企业民事责任保险",
+          "effet_fr": "Les liens entre pollution industrielle et épidémies locales pourraient entraîner des réclamations accrues et des hausses de primes pour les secteurs exposés (chimie, sidérurgie).",
+          "effet_en": "Links between industrial pollution and local outbreaks may lead to increased claims and higher premiums for exposed sectors (chemistry, steel).",
+          "effet_zh": "工业污染与局部疫情关联可能导致索赔增加，化工和钢铁等行业保费上涨。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-16T20:51:10.275516",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_337101",
       "titre": "Féminicide : garde à vue après meurtre",
       "titre_en": "Femicide: Arrest After Murder Case",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-08T17:39:50.484510",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_755482",
-      "titre": "Simplification pesticides: ONG et syndicats en colère",
-      "titre_en": "Pesticide simplification sparks NGOs and unions",
-      "titre_zh": "农药简化措施引发NGO和工会抗议",
-      "titre_ru": "Европейское упрощение регулирования пестицидов вызывает критику экологов",
-      "titre_fa": "ساده‌سازی قانونی سموم در اتحادیه اروپا مورد انتقاد فعالان محیط‌زیست است",
-      "titre_ar": "تسهيل التشريعات الأوروبية بشأن المبيدات الكيميائية يثير انتقادات منظمات البيئة",
-      "titre_original": "Pesticides : une simplification européenne décriée par les associations",
-      "resume": "Le « pack Omnibus X » simplifie l’homologation des pesticides en Europe, une mesure critiquée par les associations écologistes et le syndicat agricole FUGEA. Les ONG dénoncent une menace pour la biodiversité et la santé publique. Les débats sur les normes environnementales s’intensifient dans l’UE.",
-      "resume_en": "The ‘Omnibus X’ pack simplifies pesticide approval in Europe, sparking criticism from environmental NGOs and the FUGEA agricultural union. NGOs warn of risks to biodiversity and public health. Environmental standards debates are heating up in the EU.",
-      "resume_zh": "欧盟「Omnibus X」包简化了农药注册程序，遭到生态组织和农业工会FUGEA的强烈批评。NGO警告称，此举威胁生物多样性和公众健康。欧盟环保标准辩论日益升温。",
-      "resume_ru": "Новый пакет законодательных изменений «Omnibus X» упрощает процедуру регистрации пестицидов в Европейском союзе, что вызывает возмущение у экологических организаций и профсоюзов, включая сельскохозяйственный союз FUGEA. Критики утверждают, что это может привести к увеличению использования опасных химикатов. Обсуждается риск для здоровья людей и окружающей среды.",
-      "resume_fa": "پاکت قانونی جدید «امبوس X» فرآیند ثبت سموم در اتحادیه اروپا را ساده‌تر می‌کند که باعث نارضایتی سازمان‌های محیط‌زیست و اتحادیه‌های کارگری، از جمله اتحادیه کشاورزی FUGEA شده است. منتقدان ادعا می‌کنند این ممکن است منجر به افزایش استفاده از مواد شیمیایی خطرناک شود. خطرات احتمالی برای سلامت انسان و محیط زیست مورد بحث است.",
-      "resume_ar": "أدى حزمة التغييرات التشريعية الجديدة «أومنيبوس X» إلى تبسيط إجراءات تسجيل المبيدات الكيميائية في الاتحاد الأوروبي، ما أثار غضب منظمات البيئة والاتحادات العمالية، بما في ذلك اتحاد الزراعة FUGEA. يدعون أن هذا قد يؤدي إلى زيادة استخدام المواد الكيميائية الخطرة، مع مخاطر صحية للإنسان والبيئة.",
-      "analyse_detaillee": "L’UE affiche depuis des décennies une politique agricole ambivalente, oscillant entre productivité et protection environnementale. Le « pack Omnibus X » accélère une dérégulation déjà critiquée, sous pression des lobbies agro-industriels. Les causes profondes incluent la dépendance économique à l’agriculture intensive et un manque de cohérence dans les politiques climatiques. À court terme, les agriculteurs pourraient voir leurs coûts baisser, mais au prix d’une dégradation accélérée des sols. À moyen terme, les conflits juridiques avec les États membres et la Cour de justice pourraient s’intensifier. Long terme, cette tendance pourrait affaiblir la crédibilité de l’UE sur la scène internationale. Les ONG appellent à un moratoire, tandis que les États membres restent divisés entre pragmatisme économique et exigences écologiques.",
-      "analyse_en": "The EU has long balanced agricultural productivity with environmental protection, but the ‘Omnibus X’ pack accelerates deregulation under pressure from agribusiness lobbies. Root causes include economic dependence on intensive farming and inconsistent climate policies. Short-term, farmers may see lower costs, but at the expense of accelerated soil degradation. Medium-term, legal conflicts with member states and the Court of Justice could escalate. Long-term, this trend may undermine the EU’s global environmental credibility. NGOs demand a moratorium, while member states remain divided between economic pragmatism and ecological demands.",
-      "analyse_zh": "欧盟多年来在农业生产力与环境保护之间摇摆不定，此次「Omnibus X」包加速了已受批评的放宽监管。农业工业集团的压力是主要推动力，深层原因包括对集约化农业的经济依赖和气候政策不一致。短期内，农民可能降低成本，但土壤退化加速。中期内，欧盟成员国与司法机构的法律冲突可能升级。长期来看，这一趋势可能削弱欧盟在国际环保议程中的信誉。NGO呼吁暂停实施，而成员国则在经济实用主义与生态需求间分歧严重。",
-      "analyse_ru": "Упрощение процедуры регистрации пестицидов может привести к снижению стандартов безопасности и увеличению использования токсичных химикатов, что угрожает здоровью людей и биоразнообразию. Критики указывают на то, что такие изменения часто продиктованы интересами сельскохозяйственных лоббистов, а не защитой окружающей среды. Это может усугубить проблемы с загрязнением почвы и воды, а также ускорить развитие резистентности вредителей к пестицидам. В будущем необходимо ужесточить контроль за безопасностью химикатов и учитывать долгосрочные экологические последствия. Альтернативные методы борьбы с вредителями, такие как биологические способы, должны получать больше поддержки.",
-      "analyse_fa": "ساده‌سازی ثبت سموم ممکن است به کاهش استانداردهای ایمنی و افزایش استفاده از مواد شیمیایی سمی منجر شود که به سلامت انسان و تنوع زیستی تهدید می‌کند. منتقدان اشاره می‌کنند که چنین تغییراتی اغلب تحت تأثیر گروه‌های فشار کشاورزی و نه حفاظت از محیط زیست انجام می‌شود. این می‌تواند مشکلات آلودگی خاک و آب را تشدید کند و همچنین سرعت مقاومت آفات به سموم را افزایش دهد. در آینده، باید کنترل سخت‌گیرانه‌تری بر ایمنی مواد شیمیایی اعمال شود و پیامدهای زیست‌محیطی بلندمدت در نظر گرفته شود. روش‌های جایگزین مانند روش‌های زیستی باید حمایت بیشتری دریافت کنند.",
-      "analyse_ar": "قد يؤدي تبسيط إجراءات تسجيل المبيدات الكيميائية إلى خفض معايير السلامة و زيادة استخدام المواد الكيميائية السامة، ما يهدد صحة الإنسان والتنوع البيولوجي. يدعون أن مثل هذه التغييرات غالبًا ما تكون مدفوعة بمصالح اللوبيات الزراعية وليس حماية البيئة. هذا قد يزداد من مشاكل التلوث للتربة والمياه، ويسرع من تطور مقاومة الآفات للمبيدات. في المستقبل، يجب تطبيق رقابة أكثر صرامة على سلامة المواد الكيميائية وت consideration العواقب البيئية طويلة الأجل. يجب دعم الأساليب البديلة مثل الطرق البيولوجية أكثر.",
-      "categorie": "Environnement et économie",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/actu/belgique/2026/11/05/pesticides-une-simplification-europeenne-decriee-par-les-associations-SSLTK6IDD5AKRDZ635A2BYF4RI/",
-      "image": "https://www.lavenir.net/resizer/v2/VSW25GPQR5G5BE3Z5R2HNJNZ6I.jpg?auth=2416a98b911a7403e8041ca7d007605e657e68b8e4d1407604c8173e99e61feb&width=1200&height=630&quality=85&focal=549%2C365",
-      "date": "2026-11-05",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Marché des biocides et pesticides",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurances agricoles (responsabilité environnementale)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Marché des biocides et pesticides",
-          "secteur_en": "Biocides and pesticides market",
-          "secteur_zh": "",
-          "effet_fr": "La simplification pourrait stimuler la demande pour des produits moins régulés, boostant temporairement les ventes dans ce secteur.",
-          "effet_en": "Simplification may drive demand for less-regulated products, temporarily boosting sales in this market.",
-          "effet_zh": "简化措施可能刺激对管制较少产品的需求，暂时推动该市场销售增长。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances agricoles (responsabilité environnementale)",
-          "secteur_en": "Agricultural insurance (environmental liability)",
-          "secteur_zh": "",
-          "effet_fr": "Les assureurs pourraient voir une hausse des réclamations liées à la pollution et aux dommages écologiques, augmentant les coûts de couverture.",
-          "effet_en": "Insurers may face higher claims for pollution and environmental damage, increasing coverage costs.",
-          "effet_zh": "保险公司可能面临更多污染和生态损害索赔，导致保费成本上升。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-08T11:43:51.465579",
       "sous_categorie": "environnement"
     }
   ]
