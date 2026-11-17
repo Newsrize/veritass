@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/11/2026 à 20h51",
+  "last_updated": "17/11/2026 à 03h25",
   "articles": {
     "monde": [
       {
@@ -6134,66 +6134,6 @@
   },
   "politique": [
     {
-      "id": "pol_env_301613",
-      "titre": "Parkinson en hausse : causes et disparités territoriales",
-      "titre_en": "Parkinson surge: causes and regional disparities",
-      "titre_zh": "帕金森病上升：原因与区域差异",
-      "titre_ru": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-      "titre_fa": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-      "titre_ar": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-      "titre_original": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-      "resume": "La maladie de Parkinson touche désormais près de 300 000 Français, avec une progression accélérée due au vieillissement démographique et à des facteurs environnementaux comme l’exposition aux métaux lourds. Certains départements, notamment industriels ou agricoles, enregistrent des taux plus élevés, soulignant un lien possible avec les pollutions locales. Les experts alertent sur l’urgence d’étudier ces corrélations pour mieux prévenir et soigner cette pathologie neurodégénérative.",
-      "resume_en": "Parkinson now affects nearly 300,000 French people, with rapid growth driven by population aging and environmental factors like exposure to heavy metals. Certain regions, particularly industrial or agricultural, show higher rates, suggesting a link to local pollution. Experts warn of the need to investigate these correlations to better prevent and treat this neurodegenerative disease.",
-      "resume_zh": "帕金森病目前影响法国近30万人，增长加速主要由人口老龄化和重金属暴露等环境因素引起。某些工业或农业密集地区病例更多，暗示与当地污染相关。专家警告需研究这些关联，以更好预防和治疗这种神经退行性疾病。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La maladie de Parkinson, décrite dès le XIXe siècle par James Parkinson, connaît aujourd’hui une résurgence liée à la longévité accrue des populations occidentales. Les disparités géographiques en France révèlent des clusters dans des zones industrielles ou agricoles, où l’exposition aux pesticides, solvants ou métaux lourds (comme le manganèse) est suspectée d’aggraver les risques. À court terme, la pression sur les systèmes de santé locaux s’intensifie, avec des besoins croissants en soins spécialisés et en accompagnement des patients. À moyen terme, les coûts socio-économiques pourraient exploser, notamment pour les familles et les assurances maladie, déjà fragilisées par la crise sanitaire. Longtemps sous-financée, la recherche sur les neurotoxines environnementales peine à obtenir des fonds prioritaires, malgré son urgence scientifique. Les associations de patients, comme France Parkinson, appellent à une politique publique intégrant prévention et dépistage précoce, tandis que les industriels restent réticents à assumer une responsabilité environnementale élargie. L’État, divisé entre santé publique et développement économique, doit trancher entre régulation stricte et croissance industrielle.",
-      "analyse_en": "Parkinson’s disease, first described in the 19th century by James Parkinson, is now resurging due to increased life expectancy in Western populations. Geographic disparities in France highlight clusters in industrial or agricultural regions, where exposure to pesticides, solvents, or heavy metals (like manganese) is suspected of increasing risks. Short-term, local healthcare systems face growing pressure, with rising demand for specialized care and patient support. Medium-term, socio-economic costs could surge, particularly for families and health insurers, already strained by the pandemic. Long underfunded, research on environmental neurotoxins struggles to secure priority funding, despite its scientific urgency. Patient associations like France Parkinson advocate for public policies combining prevention and early detection, while industries remain reluctant to expand environmental accountability. The state, torn between public health and economic growth, must decide between strict regulation and industrial development.",
-      "analyse_zh": "帕金森病由詹姆斯·帕金森于19世纪首次描述，现今因西方人口老龄化而复燃。法国地区差异显示工业或农业区病例集中，怀疑与农药、溶剂或重金属（如锰）暴露相关。短期内，当地医疗系统承压加剧，对专科护理和患者陪护需求激增。中期内，社会经济成本可能暴涨，特别是对家庭和医保系统，后者已因疫情而脆弱。长期以来，环境神经毒素研究资金短缺，尽管科学紧迫性高。患者协会如法国帕金森协会呼吁政府政策结合预防和早期筛查，而工业界则对扩大环境责任持观望态度。政府在公共卫生与经济发展间犹豫，需在严格监管与工业发展间做出抉择。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Santé publique",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html",
-      "image": "https://www.franceinfo.fr/pictures/_hQ9hFWuQdwBaPmECC49iZgRexE/0x234:4500x2765/1500x843/2026/11/12/6af617bb67f2f775111105.jpg",
-      "date": "2026-11-15",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance maladie (branche dépendance et maladies chroniques)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurance responsabilité civile des entreprises industrielles",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance maladie (branche dépendance et maladies chroniques)",
-          "secteur_en": "Health insurance (dependency and chronic illness branch)",
-          "secteur_zh": "医疗保险（依赖和慢性病分支）",
-          "effet_fr": "L’augmentation des cas de Parkinson alourdit les dépenses liées aux traitements coûteux (L-Dopa, kinésithérapie) et aux aides humaines, déjà sous tension après la pandémie.",
-          "effet_en": "The rise in Parkinson cases increases costs for expensive treatments (L-Dopa, physiotherapy) and human care, already strained post-pandemic.",
-          "effet_zh": "帕金森病例增加加重了昂贵治疗（左旋多巴、理疗）和人工护理的支出，疫情后医保系统已承压。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurance responsabilité civile des entreprises industrielles",
-          "secteur_en": "Industrial companies' civil liability insurance",
-          "secteur_zh": "工业企业民事责任保险",
-          "effet_fr": "Les liens entre pollution industrielle et épidémies locales pourraient entraîner des réclamations accrues et des hausses de primes pour les secteurs exposés (chimie, sidérurgie).",
-          "effet_en": "Links between industrial pollution and local outbreaks may lead to increased claims and higher premiums for exposed sectors (chemistry, steel).",
-          "effet_zh": "工业污染与局部疫情关联可能导致索赔增加，化工和钢铁等行业保费上涨。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-16T20:51:10.275516",
-      "sous_categorie": "environnement"
-    },
-    {
       "id": "pol_femmes_337101",
       "titre": "Féminicide : garde à vue après meurtre",
       "titre_en": "Femicide: Arrest After Murder Case",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-10-28T11:01:13.931479",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_301613",
+      "titre": "Parkinson en hausse : causes et disparités territoriales",
+      "titre_en": "Parkinson surge: causes and regional disparities",
+      "titre_zh": "帕金森病上升：原因与区域差异",
+      "titre_ru": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "titre_fa": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "titre_ar": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "titre_original": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
+      "resume": "La maladie de Parkinson touche désormais près de 300 000 Français, avec une progression accélérée due au vieillissement démographique et à des facteurs environnementaux comme l’exposition aux métaux lourds. Certains départements, notamment industriels ou agricoles, enregistrent des taux plus élevés, soulignant un lien possible avec les pollutions locales. Les experts alertent sur l’urgence d’étudier ces corrélations pour mieux prévenir et soigner cette pathologie neurodégénérative.",
+      "resume_en": "Parkinson now affects nearly 300,000 French people, with rapid growth driven by population aging and environmental factors like exposure to heavy metals. Certain regions, particularly industrial or agricultural, show higher rates, suggesting a link to local pollution. Experts warn of the need to investigate these correlations to better prevent and treat this neurodegenerative disease.",
+      "resume_zh": "帕金森病目前影响法国近30万人，增长加速主要由人口老龄化和重金属暴露等环境因素引起。某些工业或农业密集地区病例更多，暗示与当地污染相关。专家警告需研究这些关联，以更好预防和治疗这种神经退行性疾病。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La maladie de Parkinson, décrite dès le XIXe siècle par James Parkinson, connaît aujourd’hui une résurgence liée à la longévité accrue des populations occidentales. Les disparités géographiques en France révèlent des clusters dans des zones industrielles ou agricoles, où l’exposition aux pesticides, solvants ou métaux lourds (comme le manganèse) est suspectée d’aggraver les risques. À court terme, la pression sur les systèmes de santé locaux s’intensifie, avec des besoins croissants en soins spécialisés et en accompagnement des patients. À moyen terme, les coûts socio-économiques pourraient exploser, notamment pour les familles et les assurances maladie, déjà fragilisées par la crise sanitaire. Longtemps sous-financée, la recherche sur les neurotoxines environnementales peine à obtenir des fonds prioritaires, malgré son urgence scientifique. Les associations de patients, comme France Parkinson, appellent à une politique publique intégrant prévention et dépistage précoce, tandis que les industriels restent réticents à assumer une responsabilité environnementale élargie. L’État, divisé entre santé publique et développement économique, doit trancher entre régulation stricte et croissance industrielle.",
+      "analyse_en": "Parkinson’s disease, first described in the 19th century by James Parkinson, is now resurging due to increased life expectancy in Western populations. Geographic disparities in France highlight clusters in industrial or agricultural regions, where exposure to pesticides, solvents, or heavy metals (like manganese) is suspected of increasing risks. Short-term, local healthcare systems face growing pressure, with rising demand for specialized care and patient support. Medium-term, socio-economic costs could surge, particularly for families and health insurers, already strained by the pandemic. Long underfunded, research on environmental neurotoxins struggles to secure priority funding, despite its scientific urgency. Patient associations like France Parkinson advocate for public policies combining prevention and early detection, while industries remain reluctant to expand environmental accountability. The state, torn between public health and economic growth, must decide between strict regulation and industrial development.",
+      "analyse_zh": "帕金森病由詹姆斯·帕金森于19世纪首次描述，现今因西方人口老龄化而复燃。法国地区差异显示工业或农业区病例集中，怀疑与农药、溶剂或重金属（如锰）暴露相关。短期内，当地医疗系统承压加剧，对专科护理和患者陪护需求激增。中期内，社会经济成本可能暴涨，特别是对家庭和医保系统，后者已因疫情而脆弱。长期以来，环境神经毒素研究资金短缺，尽管科学紧迫性高。患者协会如法国帕金森协会呼吁政府政策结合预防和早期筛查，而工业界则对扩大环境责任持观望态度。政府在公共卫生与经济发展间犹豫，需在严格监管与工业发展间做出抉择。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Santé publique",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html",
+      "image": "https://www.franceinfo.fr/pictures/_hQ9hFWuQdwBaPmECC49iZgRexE/0x234:4500x2765/1500x843/2026/11/12/6af617bb67f2f775111105.jpg",
+      "date": "2026-11-15",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance maladie (branche dépendance et maladies chroniques)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurance responsabilité civile des entreprises industrielles",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance maladie (branche dépendance et maladies chroniques)",
+          "secteur_en": "Health insurance (dependency and chronic illness branch)",
+          "secteur_zh": "医疗保险（依赖和慢性病分支）",
+          "effet_fr": "L’augmentation des cas de Parkinson alourdit les dépenses liées aux traitements coûteux (L-Dopa, kinésithérapie) et aux aides humaines, déjà sous tension après la pandémie.",
+          "effet_en": "The rise in Parkinson cases increases costs for expensive treatments (L-Dopa, physiotherapy) and human care, already strained post-pandemic.",
+          "effet_zh": "帕金森病例增加加重了昂贵治疗（左旋多巴、理疗）和人工护理的支出，疫情后医保系统已承压。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurance responsabilité civile des entreprises industrielles",
+          "secteur_en": "Industrial companies' civil liability insurance",
+          "secteur_zh": "工业企业民事责任保险",
+          "effet_fr": "Les liens entre pollution industrielle et épidémies locales pourraient entraîner des réclamations accrues et des hausses de primes pour les secteurs exposés (chimie, sidérurgie).",
+          "effet_en": "Links between industrial pollution and local outbreaks may lead to increased claims and higher premiums for exposed sectors (chemistry, steel).",
+          "effet_zh": "工业污染与局部疫情关联可能导致索赔增加，化工和钢铁等行业保费上涨。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-16T20:51:10.275516",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_307710",
