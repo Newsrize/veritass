@@ -1,5 +1,5 @@
 {
-  "last_updated": "18/11/2026 à 03h20",
+  "last_updated": "18/11/2026 à 12h42",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_env_559589",
+      "titre": "Europe et pesticides : un paradoxe post-Octobre Rose",
+      "titre_en": "Europe’s pesticide vote post-October Rose: a contradiction?",
+      "titre_zh": "欧洲化学农药投票后的双重标准",
+      "titre_ru": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
+      "titre_fa": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
+      "titre_ar": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
+      "titre_original": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
+      "resume": "Alors que le mois d’Octobre Rose sensibilise à la lutte contre le cancer du sein, l’Union européenne s’apprête à voter sur une réforme controversée des pesticides. Cette contradiction soulève des questions sur les priorités environnementales et sanitaires. Les associations craignent une détérioration des politiques de protection face aux lobbies agrochimiques.",
+      "resume_en": "While October Rose raises awareness for breast cancer prevention, the EU is preparing to vote on a controversial pesticide reform. This contradiction highlights tensions between environmental and health priorities. NGOs fear weakened protection policies due to agrochemical lobbying.",
+      "resume_zh": "在乳腺癌防治月期间，欧盟即将就化学农药改革进行投票，这引发了环保与健康优先权的矛盾。非政府组织担忧，面对农化行业游说，环保政策可能被削弱。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "L’Union européenne a historiquement oscillé entre régulation stricte et concessions aux lobbies agricoles, comme en témoignent les scandales successifs (glyphosate, néonicotinoïdes). Le vote actuel sur les pesticides reflète cette tension, avec des États membres divisés entre protection sanitaire (Allemagne, France) et intérêts économiques (Pologne, Hongrie). Les causes profondes incluent la dépendance européenne aux exportations agricoles et la lenteur des institutions à adapter les normes. À court terme, une libéralisation des pesticides pourrait aggraver les risques de cancers et de pollution des sols, déjà documentés par l’EFSA. À moyen terme, les coûts sanitaires et environnementaux pourraient peser sur les budgets publics, tandis que les agriculteurs subissent des pressions économiques. Long terme, une normalisation des pratiques toxiques pourrait compromettre les objectifs climatiques (accords de Paris) et la souveraineté alimentaire. Les acteurs clés sont les États membres, la Commission européenne (divisée), et les ONG (Greenpeace, WWF) qui dénoncent un ‘tapis rouge’ aux industries polluantes.",
+      "analyse_en": "The EU has long oscillated between strict regulation and concessions to agricultural lobbies, as seen in past scandals (glyphosate, neonicotinoids). The upcoming pesticide vote mirrors this tension, with member states split between health protection (Germany, France) and economic interests (Poland, Hungary). Root causes include Europe’s reliance on agricultural exports and institutional sluggishness in updating standards. Short-term, liberalizing pesticides could worsen cancer and soil pollution risks, already highlighted by EFSA. Medium-term, health and environmental costs may strain public budgets, while farmers face economic pressures. Long-term, normalizing toxic practices could undermine climate goals (Paris Agreement) and food sovereignty. Key actors include member states, the divided European Commission, and NGOs (Greenpeace, WWF) criticizing a ‘red carpet’ for polluting industries.",
+      "analyse_zh": "欧盟在农药监管上长期在严格规制与农业利益集团妥协之间摇摆，如近期的“草甘膦”和“衣虫威”事件所显示。即将到来的农药投票反映了这种矛盾，成员国在健康保护（德国、法国）与经济利益（波兰、匈牙利）上分歧明显。深层原因包括欧盟对农产品出口的依赖以及机构更新标准的缓慢。短期内，放宽农药限制可能加剧癌症和土壤污染风险，欧盟食品安全局（EFSA）已有相关报告。中期内，健康和环境成本可能加重公共财政压力，而农民则面临经济压力。长期来看，正常化使用有毒农药可能破坏《巴黎协定》的气候目标和粮食主权。关键利益相关者包括成员国、分裂的欧盟委员会以及环保组织（绿色和平、世界自然基金会），后者批评欧盟为污染产业铺红毯。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement et santé publique",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/debats/opinions/2026/11/17/apres-octobre-rose-leurope-va-t-elle-derouler-le-tapis-rouge-aux-pesticides-PINIH3IT2BHBZKAGFPJYPETUWM/",
+      "image": "https://www.lalibre.be/resizer/v2/YJ2A6TKEZBD4ZJJBQCL4QL64EA.png?auth=4432130a29ecbff6b1651a1348155b2b24112feac991c30eb568e6cf7fe13daf&width=1620&height=1620&quality=85&focal=750%2C500",
+      "date": "2026-11-17",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Agrochimie et biotechnologies",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurances agricoles et réassurance",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Agrochimie et biotechnologies",
+          "secteur_en": "Agrochemicals and biotechnology",
+          "secteur_zh": "农药及生物技术行业",
+          "effet_fr": "Les entreprises agrochimiques pourraient voir leurs marges bénéficiaires augmenter grâce à une libéralisation des substances actives, malgré les risques juridiques accrus pour les fabricants.",
+          "effet_en": "Agrochemical firms may see profit margins rise due to relaxed active substance regulations, despite increased legal risks for manufacturers.",
+          "effet_zh": "农药企业可能因活性成分放宽而提升利润空间，尽管面临更高的法律风险。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances agricoles et réassurance",
+          "secteur_en": "Agricultural insurance and reinsurance",
+          "secteur_zh": "农业保险和再保险",
+          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des risques sanitaires et environnementaux liés aux pesticides, poussant les assureurs à revoir leurs modèles de couverture.",
+          "effet_en": "Premiums may rise due to increased health and environmental risks from pesticides, forcing insurers to adjust their coverage models.",
+          "effet_zh": "由于农药相关健康和环境风险上升，保费可能增加，迫使保险公司调整理赔模式。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-18T12:42:10.572761",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_368884",
+      "titre": "Tournai rend hommage aux victimes féminicides en chansons",
+      "titre_en": "Tournai honors femicide victims through music",
+      "titre_zh": "图尔奈用歌曲纪念女性遇害者",
+      "titre_ru": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
+      "titre_fa": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
+      "titre_ar": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
+      "titre_original": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
+      "resume": "À Tournai, une série d’actions culturelles et associatives marque la fin novembre pour sensibiliser aux violences faites aux femmes. Un spectacle musical rendra hommage aux victimes de féminicides, en partenariat avec des associations locales. Ces initiatives visent à briser le silence autour de ces crimes et à renforcer la solidarité féminine.",
+      "resume_en": "In Tournai, a series of cultural and associative events mark the end of November to raise awareness about violence against women. A musical show will honor femicide victims, in partnership with local NGOs. These initiatives aim to break the silence around these crimes and strengthen female solidarity.",
+      "resume_zh": "图尔奈在11月底举办多项文化和社会活动，以提高公众对针对女性暴力的认识。一场音乐演出将纪念女性遇害者，并与当地非政府组织合作。这些活动旨在打破对这些犯罪的沉默，并增强女性团结。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les féminicides en Belgique, comme en Europe, restent un fléau sous-estimé malgré des chiffres alarmants (1 femme tuée toutes les 3 jours en France). Tournai, ville symbolique des luttes féministes historiques, choisit ici un langage artistique pour toucher un public plus large. Les causes profondes incluent la persistance des stéréotypes de genre et l’impunité des agresseurs, aggravée par des procédures judiciaires lentes. À court terme, ces événements pourraient renforcer la mobilisation citoyenne et la pression sur les pouvoirs publics pour des lois plus strictes. À moyen terme, une prise de conscience accrue pourrait influencer les politiques locales de prévention et d’accompagnement des victimes. Long terme, une culture de l’égalité réelle pourrait émerger si les institutions intègrent systématiquement une approche intersectionnelle. Les acteurs clés sont les associations féministes (Plan International, 119), les collectivités locales et les artistes engagés, tandis que les médias jouent un rôle crucial dans la visibilité des victimes.",
+      "analyse_en": "Femicides in Belgium, like in Europe, remain an underestimated scourge despite alarming statistics (1 woman killed every 3 days in France). Tournai, a historically symbolic city for feminist struggles, uses art to reach a broader audience. Root causes include persistent gender stereotypes and the impunity of attackers, worsened by slow judicial procedures. Short-term, these events may boost citizen mobilization and pressure on authorities for stricter laws. Medium-term, increased awareness could influence local prevention policies and victim support. Long-term, a real culture of equality could emerge if institutions adopt an intersectional approach. Key actors include feminist NGOs (Plan International, 119), local authorities, and engaged artists, while media play a crucial role in highlighting victims.",
+      "analyse_zh": "比利时的女性遇害案件（如欧洲其他国家）仍然是一个被低估的灾难，尽管法国每3天就有一名女性遇害。图尔奈作为历史上女性主义斗争的象征城市，此次选择艺术语言来触及更广泛的受众。深层原因包括性别刻板印象的持续存在以及加害者的免责，后者被缓慢的司法程序所加剧。短期内，这些活动可能增强公众动员和对政府更严格法律的压力。中期内，公众意识的提高可能影响当地预防和帮助受害者的政策。长期来看，如果机构系统性地采用交叉性别视角，真正的平等文化可能会出现。关键利益相关者包括女性主义组织（国际计划、119）、地方政府和参与的艺术家，而媒体在提高受害者的知名度方面扮演着关键角色。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains et genre",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2026/11/17/a-tournai-plusieurs-actions-contre-les-violences-faites-aux-femmes-un-hommage-en-chansons-sera-rendu-aux-victimes-de-feminicides-P7HM2P25XRGXTPRY4TSOQOQUEU/",
+      "image": "https://www.dhnet.be/resizer/v2/GGECKL4DJJDPRMDAFAC5537RR4.jpg?auth=b8feb19c5509fa3c53390a94345bfe85ac3d0a3223c10aab8b2686de3cfdc1d7&width=1620&height=1620&quality=85&focal=2016%2C1512",
+      "date": "2026-11-17",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Fonds européens pour l’égalité femmes-hommes",
+          "hausse": true
+        },
+        {
+          "label": "▲ Assurances responsabilité civile et prévoyance",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Fonds européens pour l’égalité femmes-hommes",
+          "secteur_en": "European funds for gender equality",
+          "secteur_zh": "欧盟女性平等基金",
+          "effet_fr": "Ces initiatives locales pourraient stimuler les demandes de financement européen pour des projets similaires, renforçant ainsi la pression sur les institutions pour une allocation plus généreuse des budgets dédiés.",
+          "effet_en": "Local initiatives may boost demands for EU funding for similar projects, increasing pressure on institutions to allocate more generous budgets for gender equality.",
+          "effet_zh": "当地活动可能刺激对欧盟资金的需求，用于类似项目，从而增加对机构更大力度分配女性平等预算的压力。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances responsabilité civile et prévoyance",
+          "secteur_en": "Civil liability insurance and provident funds",
+          "secteur_zh": "民事责任保险和储蓄保障",
+          "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques accrus liés aux violences conjugales, en particulier dans les zones où les campagnes de sensibilisation sont moins visibles.",
+          "effet_en": "Insurers may increase rates to cover higher risks of domestic violence, particularly in areas where awareness campaigns are less visible.",
+          "effet_zh": "保险公司可能提高费率以应对家庭暴力风险上升，特别是在公众宣传较少的地区。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-18T12:42:10.572782",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_319582",
       "titre": "Tournai mobilisée contre violences faites aux femmes",
       "titre_en": "Tournai mobilizes against gender-based violence",
@@ -6431,66 +6551,6 @@
         }
       ],
       "created_at": "2026-11-11T15:53:38.505322",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_547526",
-      "titre": "Fils de la reine norvégienne : libération possible après condamnation",
-      "titre_en": "Norway’s Crown Prince’s Son Faces Potential Early Release After Conviction",
-      "titre_zh": "挪威王室子女获刑后可能提前释放",
-      "titre_ru": "Сын норвежской принцессы приговорён к 4 годам за изнасилования и домашнее насилие, но может быть освобождён",
-      "titre_fa": "پسر شاهزاده ارثی نروژ به ۴ سال زندان محکوم شد، ممکن است آزاد شود",
-      "titre_ar": "ابن ولي عهد النرويج محكوم على 4 سنوات سجن بسبب اغتصاب وعنف الزوجي، قد يُطلق سراحه",
-      "titre_original": "Coup de théâtre pour le fils de la reine de Norvège: condamné à 4 ans de prison pour viols et violence conjugale, il pourrait être libéré",
-      "resume": "Marius Borg Høiby, fils de la princesse héritière de Norvège, a été condamné à quatre ans de prison pour deux viols et violences conjugales. Une décision controversée a été prise concernant sa libération anticipée, suscitant des débats sur la justice et la monarchie. Ce cas met en lumière les tensions entre privilège social et application stricte des lois en Norvège.",
-      "resume_en": "Marius Borg Høiby, son of Norway’s Crown Princess, was sentenced to four years in prison for two rapes and domestic violence. A controversial decision may allow his early release, sparking debates on justice and monarchy. The case highlights tensions between social privilege and strict law enforcement in Norway.",
-      "resume_zh": "挪威王储女儿的儿子马里乌斯·博格·霍伊比因强奸和家庭暴力被判四年监禁。一项引发争议的决定可能使其提前获释，引发对司法和王室的讨论。此案凸显了挪威社会特权与严格执法之间的矛盾。",
-      "resume_ru": "Мариус Борг Хойби, сын наследной принцессы Норвегии, получил четырехлетний тюремный срок за два изнасилования и домашнее насилие. Судья учел его молодость и возможность исправления, что вызвало споры в обществе. Возможно, через несколько месяцев он сможет выйти на свободу под условием соблюдения определенных ограничений.",
-      "resume_fa": "ماریوس بورگ هویبی، پسر شاهزاده ارثی نروژ، به چهار سال زندان محکوم شد به دلیل دو مورد تجاوز و خشونت خانگی. قاضی جوانی او و امکان اصلاح را در نظر گرفت، که باعث بحث در جامعه شد. احتمال دارد که در چند ماه آینده با رعایت شرایط خاص، آزاد شود.",
-      "resume_ar": "محكوم ابن ولي عهد النرويج على 4 سنوات سجن بسبب ارتكاب جريمة اغتصاب وعنف الزوجي. أخذ القاضي في الاعتبار صغر سنه وإمكانية إصلاحه، ما أثار نقاشًا في المجتمع. قد يُطلق سراحه خلال أشهر القريبة تحت شروط محددة",
-      "analyse_detaillee": "Ce cas révèle les failles d’un système judiciaire norvégien souvent perçu comme équitable, mais confronté à des dilemmes moraux face aux figures royales. Les violences conjugales et les crimes sexuels, bien que criminalisés, restent entourés de tabous, surtout quand les victimes sont des partenaires ou des proches. La Norvège, pays pionnier en égalité de genre, voit ici son modèle ébranlé par une affaire impliquant un membre de la famille royale, symbole de stabilité. Les associations féministes dénoncent une forme de protection implicite accordée aux élites, tandis que les autorités judiciaires insistent sur l’indépendance de la justice. À court terme, cette affaire pourrait renforcer les critiques contre les privilèges sociaux, poussant à des réformes sur la transparence des procédures. À moyen terme, elle pourrait influencer les débats sur la place de la monarchie dans une société de plus en plus exigeante en matière de responsabilité. Long terme, ce cas pourrait servir de leçon pour d’autres monarchies européennes sur la nécessité de concilier tradition et modernité. Les médias norvégiens, traditionnellement modérés, adoptent un ton plus critique, reflétant une fracture générationnelle sur la perception de la justice royale.",
-      "analyse_en": "This case exposes the flaws in Norway’s judicial system, often seen as fair but facing moral dilemmas when dealing with royal figures. Domestic violence and sexual crimes, though criminalized, remain shrouded in taboos, especially when victims are partners or close relatives. Norway, a pioneer in gender equality, sees its model challenged by an affair involving a member of the royal family, a symbol of stability. Feminist groups condemn implicit protection granted to elites, while judicial authorities emphasize the independence of justice. Short-term, this case may intensify criticism of social privileges, pushing for reforms in procedural transparency. Medium-term, it could influence debates on the role of monarchy in a society increasingly demanding accountability. Long-term, this case may serve as a lesson for other European monarchies on balancing tradition and modernity. Norwegian media, traditionally moderate, adopt a more critical tone, reflecting a generational divide over perceptions of royal justice.",
-      "analyse_zh": "此案揭示了挪威司法体系的缺陷，尽管被视为公正，但在处理王室成员案件时面临道德困境。家庭暴力和性犯罪尽管被刑事化，但仍然包裹在禁忌中，尤其是当受害者是伴侣或亲密关系时。挪威作为性别平等的先驱，其模式因涉及王室成员的案件而受到挑战，王室成员象征着稳定。女性主义组织谴责对精英的隐形保护，而司法当局强调司法独立。短期内，此案可能加剧对社会特权的批评，推动程序透明度的改革。中期内，它可能影响王室在一个越来越要求问责的社会中的角色辩论。长期来看，此案可能成为其他欧洲王室的教训，如何平衡传统与现代性。挪威媒体，传统上保守，采取更加批评的语调，反映了对王室司法认知的代际分歧。",
-      "analyse_ru": "Скандал вокруг приговора к сыну наследной принцессы Норвегии выявил противоречия между строгостью закона и социальными ожиданиями. В Норвегии, где семейные ценности традиционно высоко ценятся, такое решение вызвало шок у части общества, считающей, что принц должен был получить более мягкий приговор. Однако судья мотивировал решение необходимостью наказания за тяжкие преступления, подчеркнув, что даже представители королевской семьи не застрахованы от ответственности. Возможное освобождение через несколько лет может быть связано с давлением общественности или политическими факторами. Критики отмечают, что это прецедент, который может повлиять на будущие дела с участием известных личностей. В то же время, сторонники приговора считают, что закон должен применяться одинаково ко всем, независимо от статуса.",
-      "analyse_fa": "اسکاندال در مورد محکومیت پسر شاهزاده ارثی نروژ نشان‌دهنده تضاد بین سختی قانون و انتظارات اجتماعی است. در نروژ، که ارزش‌های خانوادگی سنتاً بسیار مهم است، این تصمیم در بخش‌هایی از جامعه شوک ایجاد کرده است که معتقدند شاهزاده باید مجازات سبک‌تری دریافت می‌کرده‌است. اما قاضی دلیل خود را در نیاز به مجازات برای جرایم شدید بیان کرد و تأکید کرد که حتی اعضای خانواده سلطنتی نیز از مسئولیت معاف نیستند. آزادی احتمالی پس از چند سال ممکن است به دلیل فشار عمومی یا عوامل سیاسی باشد. منتقدان این را یک پیش‌دستگاه می‌دانند که می‌تواند بر موارد آینده با حضور شخصیت‌های مشهور تأثیر بگذارد. در حالی که طرفداران محکومیت معتقدند که قانون باید به‌طور یکسان برای همه اعمال شود، بدون توجه به وضعیت اجتماعی.",
-      "analyse_ar": "أثار حكم ابن ولي عهد النرويج على 4 سنوات سجن جدلاً حول التوتر بين صرامة القانون والتوقعات الاجتماعية. في النرويج، حيث تُقدّر القيم العائلية تقليديًا، أثار هذا القرار Shock في جزء من المجتمع الذي يعتقد أن الأمير يجب أن يُحكم عليه بمجازاة أخف. لكن القاضي تبرّر قراره بحاجة إلى عقاب جرائم خطيرة، مشيراً إلى أن حتى أفراد العائلة المالكة غير محصنين من المسؤولية. قد يكون إطلاق سراحه المحتمل بعد سنوات قليلة نتيجة لضغط عام أو عوامل سياسية. يراها النقاد مثالاً سابقاً قد يؤثر على القضايا المستقبلية المتعلقة بشخصيات مشهورة. بينما يدافع المدافعون عن الحكم بأن القانون يجب أن ينفذ بالتساوي لكل الناس، بغض النظر عن وضعهم.",
-      "categorie": "Société & Justice",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/lifestyle/people/2026/11/07/coup-de-theatre-pour-le-fils-de-la-reine-de-norvege-condamne-a-4-ans-de-prison-pour-viols-et-violence-conjugale-il-pourrait-etre-libere-VQQSTRPAVFFILGW7EPLDT4SRBE/",
-      "image": "https://www.dhnet.be/resizer/v2/UG7PXVAPYFCGFD7F5235FUXX6M.jpg?auth=738d674cd9df1c2e5b7d76471ba651978d31c4679e08fdb995ee6f9e7daebdfb&width=1200&height=630&quality=85&focal=1260%2C893",
-      "date": "2026-11-07",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Fonds d'investissement éthiques (Norvège)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Assurances responsabilité civile (secteur juridique)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Fonds d'investissement éthiques (Norvège)",
-          "secteur_en": "Ethical Investment Funds (Norway)",
-          "secteur_zh": "挪威伦理投资基金",
-          "effet_fr": "L’affaire pourrait inciter ces fonds à revoir leurs critères de sélection des entreprises, en exigeant une transparence accrue sur les politiques de prévention des violences conjugales et sexuelles.",
-          "effet_en": "This case may prompt ethical funds to reassess their company selection criteria, demanding greater transparency on policies preventing domestic and sexual violence.",
-          "effet_zh": "此案可能促使这些基金重新审视企业选择标准，要求在家庭暴力和性暴力预防政策上更加透明。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances responsabilité civile (secteur juridique)",
-          "secteur_en": "Civil Liability Insurance (Legal Sector)",
-          "secteur_zh": "民事责任保险（法律行业）",
-          "effet_fr": "Les assureurs pourraient renforcer leurs contrôles sur les dossiers impliquant des personnalités publiques, anticipant une hausse des réclamations liées à la négligence dans la prévention des risques sociaux.",
-          "effet_en": "Insurers may tighten controls on cases involving public figures, anticipating increased claims related to negligence in preventing social risks.",
-          "effet_zh": "保险公司可能加强对涉及公众人物案件的审查，预计将面临更多与社会风险预防疏忽相关的索赔。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-11-11T07:43:41.534197",
       "sous_categorie": "femmes"
     },
     {
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-12T12:13:24.086886",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_112154",
-      "titre": "Dérogations pesticides : hausse alarmante en France",
-      "titre_en": "France sees sharp rise in pesticide exemptions",
-      "titre_zh": "法国农药特许使用量激增",
-      "titre_ru": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
-      "titre_fa": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
-      "titre_ar": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
-      "titre_original": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
-      "resume": "En France, le nombre de dérogations pour l’utilisation de pesticides interdits a connu une augmentation spectaculaire ces dernières années. Ces autorisations temporaires, accordées sous conditions, soulèvent des questions sur l’efficacité des régulations environnementales. Les agriculteurs invoquent souvent des pressions économiques ou des aléas climatiques pour justifier ces exceptions.",
-      "resume_en": "France has seen a dramatic rise in exemptions for banned pesticides, granted under temporary conditions. These derogations raise concerns about environmental regulations' effectiveness. Farmers cite economic pressures and climate-related challenges as key justifications.",
-      "resume_zh": "法国农药禁用许可证数量近年激增，这些临时特许引发了环保监管效果的质疑。农民常以经济压力和气候变化为由，申请这些例外。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France, malgré ses engagements climatiques, maintient un système de dérogations pour pesticides jugés dangereux, hérité de politiques agricoles historiques favorisant la productivité. Les enjeux portent sur la santé publique et la biodiversité, avec des causes profondes liées à la dépendance aux intrants chimiques et à un cadre légal complexe. À court terme, cette hausse aggrave les risques sanitaires et écologiques, tandis que les lobbies agricoles bloquent souvent les réformes. À moyen terme, l’UE pourrait imposer des sanctions pour non-respect des normes environnementales. Long terme, une transition vers l’agroécologie semble inévitable, mais les subventions aux pratiques conventionnelles freinent le changement. Les écologistes dénoncent un laxisme étatique, tandis que les agriculteurs réclament un soutien financier pour la transition.",
-      "analyse_en": "France, despite its climate commitments, retains a system of exemptions for hazardous pesticides, rooted in historical agricultural policies prioritizing productivity. The stakes involve public health and biodiversity, with deep-rooted causes tied to chemical input dependency and a convoluted legal framework. Short-term, this surge worsens health and ecological risks, while agricultural lobbies often block reforms. Medium-term, the EU may impose sanctions for non-compliance with environmental standards. Long-term, a shift toward agroecology seems inevitable, but subsidies for conventional practices slow progress. Environmentalists criticize state laxity, while farmers demand financial support for transition.",
-      "analyse_zh": "法国尽管承诺应对气候变化，但仍保留对危险农药的临时特许制度，源于历史上以产量为导向的农业政策。主要影响涉及公共卫生和生物多样性，深层原因包括对化学投入的依赖和复杂的法规体系。短期内，这种增长加剧了健康和生态风险，而农业利益集团经常阻挠改革。中期内，欧盟可能因未遵守环保标准而对法国施加制裁。长期来看，向生态农业转型势在必行，但对传统农业的补贴阻碍了转变进程。生态主义者谴责政府放任，而农民则要求过渡期的财政支持。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pesticides-des-derogations-qui-deviennent-la-regle_8275121.html",
-      "image": "https://www.franceinfo.fr/pictures/CSKWPJIACe-ePqtJSQSx4VyjS6g/0x0:1920x1080/1500x843/2026/11/09/6af22712da1c0491010676.jpg",
-      "date": "2026-11-09",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance agricole et réassurance",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des intrants agricoles (engrais, pesticides)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance agricole et réassurance",
-          "secteur_en": "Agricultural insurance and reinsurance",
-          "secteur_zh": "农业保险和再保险",
-          "effet_fr": "Les dérogations accrues pourraient augmenter les coûts des assurances pour les exploitants, en raison de risques sanitaires et réglementaires accrus.",
-          "effet_en": "Increased exemptions may raise insurance costs for farmers due to higher health and regulatory risks.",
-          "effet_zh": "特许增加可能导致农民保费上升，因健康和监管风险加大。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des intrants agricoles (engrais, pesticides)",
-          "secteur_en": "Agricultural inputs market (fertilizers, pesticides)",
-          "secteur_zh": "农业投入品市场（化肥、农药）",
-          "effet_fr": "La demande en pesticides pourrait se stabiliser malgré les dérogations, car les alternatives durables restent coûteuses et peu accessibles.",
-          "effet_en": "Demand for pesticides may stabilize despite exemptions, as sustainable alternatives remain expensive and inaccessible.",
-          "effet_zh": "尽管有特许，农药需求可能趋于稳定，因为可持续替代品价格高昂且难以获取。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-11-11T01:03:02.157781",
       "sous_categorie": "environnement"
     }
   ]
