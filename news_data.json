@@ -1,7 +1,66 @@
 {
-  "last_updated": "20/11/2026 à 09h45",
+  "last_updated": "20/11/2026 à 18h22",
   "articles": {
     "monde": [
+      {
+        "id": "monde_524287",
+        "titre": "Internet en crise : la route numérique s’effondre",
+        "titre_en": "Internet infrastructure collapse: digital roads breaking down",
+        "titre_zh": "互联网基础设施崩溃：数字道路瓦解",
+        "titre_ru": "Интернет-дороги рушатся: приветствуем «Софтвар-Бейрут»",
+        "titre_fa": "به «سافتور بایروت» خوش آمدید: جاده‌های اینترنت در حال خراب شدن است",
+        "titre_ar": "مرحبا ب«بروتوكولات بيروت».. الطرقات الإلكترونية تنهار",
+        "titre_original": "Welcome to Software Beirut",
+        "resume": "La dégradation des infrastructures internet mondiales menace la connectivité globale, avec des conséquences majeures pour les économies et les sociétés. Les cyberattaques, la saturation des réseaux et les failles techniques s’aggravent, créant des risques systémiques. Cette crise interroge la résilience des États et des entreprises face aux dépendances technologiques croissantes.",
+        "resume_en": "The global degradation of internet infrastructure threatens worldwide connectivity, with severe economic and societal impacts. Cyberattacks, network saturation, and technical failures are worsening, posing systemic risks. This crisis questions the resilience of states and corporations against growing technological dependencies.",
+        "resume_zh": "全球互联网基础设施的恶化威胁着全球连接性，对经济和社会造成重大影响。网络攻击、网络拥堵和技术漏洞日益严重，带来系统性风险。这一危机质疑了国家和企业在日益增长的技术依赖下的韧性。",
+        "resume_ru": "Инфраструктура интернета в мире испытывает кризис, напоминающий коллапс дорожной сети. Проблемы с подключением, задержки и сбои становятся все более частыми. Это может привести к серьезным последствиям для бизнеса, образования и повседневной жизни пользователей. Необходимы срочные меры для восстановления стабильности сетевых ресурсов.",
+        "resume_fa": "اینترنت در حال تجربه بحران شبیه به خرابی شبکه جاده‌ها است. مشکلات اتصال، تأخیرها و خرابی‌ها روز به روز بیشتر می‌شوند. این می‌تواند برای کسب و کارها، آموزش و زندگی روزمره کاربران پیامدهای جدی داشته باشد. اقدامات فوری برای بازسازی پایداری منابع شبکه ضروری است.",
+        "resume_ar": "الإنترنت يعاني من أزمة تشبه انهيار شبكة الطرق. مشاكل الاتصال والتأخيرات والانهيارات أصبحت أكثر تكرارا. هذا قد يؤدي إلى عواقب خطيرة على الأعمال التجارية والتعليم والحياة اليومية للمستخدمين. هناك حاجة إلى تدابير فورية لاستعادة استقرار الموارد الشبكية.",
+        "analyse_detaillee": "Cette crise s’inscrit dans une dynamique de surcharge des réseaux due à l’explosion des usages numériques (télétravail, streaming, IoT). Les États-Unis et la Chine dominent encore les infrastructures critiques, mais leur vulnérabilité aux cybermenaces révèle des failles géopolitiques. À court terme, les pannes pourraient paralyser les services essentiels (banques, santé), tandis qu’à moyen terme, cela pourrait accélérer la fragmentation des écosystèmes numériques. Les acteurs privés (GAFAM) et publics (ISPs) devront investir massivement pour moderniser les réseaux, sous peine de perdre leur hégémonie. Les pays en développement, déjà marginalisés, pourraient subir des coupures prolongées, exacerbant les inégalités numériques. Les cyberarmes deviennent un enjeu de pouvoir, avec des risques de conflits indirects entre grandes puissances.",
+        "analyse_en": "This crisis stems from network overload due to the explosion of digital uses (remote work, streaming, IoT). The U.S. and China still dominate critical infrastructure, but their cybervulnerabilities expose geopolitical flaws. Short-term, outages could paralyze essential services (banks, healthcare), while medium-term, it may accelerate digital ecosystem fragmentation. Private (GAFAM) and public (ISPs) actors must invest heavily to modernize networks or risk losing dominance. Developing nations, already marginalized, could face prolonged outages, worsening digital divides. Cyberweapons are becoming a power play, with risks of indirect conflicts between major powers.",
+        "analyse_zh": "这一危机源于数字用户（远程办公、流媒体、物联网）激增导致的网络超负荷问题。美国和中国仍主导关键基础设施，但其在网络安全方面的脆弱性暴露了地缘政治漏洞。短期内，停机可能瘫痪核心服务（银行、医疗），中期则可能加速数字生态系统的分裂。私营（GAFAM）和公共（ISP）机构必须大规模投资升级网络，否则将失去主导地位。发展中国家，已被边缘化，可能面临长期断网，加剧数字鸿沟。网络武器正成为权力博弈的工具，大国间可能爆发间接冲突。",
+        "analyse_ru": "Контекст: современный мир зависит от интернета для работы, обучения и коммуникаций. Причины кризиса могут быть связаны с увеличением трафика, кибератаками или устаревшей инфраструктурой. Последствия включают потерю доходов для компаний, снижение качества образования и рост социальной изоляции. Перспективы зависят от инвестиций в новые технологии и международного сотрудничества. Позиции сторон разделились: правительства должны инвестировать в инфраструктуру, а пользователи — требовать ответственности от провайдеров.",
+        "analyse_fa": "زمینه: جهان مدرن به اینترنت برای کار، آموزش و ارتباطات وابسته است. علل بحران ممکن است شامل افزایش ترافیک، حملات سایبری یا زیرساخت‌های قدیمی باشد. پیامدهای این بحران شامل کاهش درآمد شرکت‌ها، کاهش کیفیت آموزش و افزایش انزوای اجتماعی است. چشم‌انداز بستگی به سرمایه‌گذاری در فناوری‌های جدید و همکاری بین‌المللی دارد. مواضع بازیگران متفاوت است: دولت‌ها باید در زیرساخت‌ها سرمایه‌گذاری کنند و کاربران باید از ارائه‌دهندگان خدمات پاسخگویی بخواهند.",
+        "analyse_ar": "السياق: العالم الحديث يعتمد على الإنترنت في العمل والتعليم والاتصال. أسباب الأزمة قد ترتبط بزيادة حركة المرور، الهجمات الإلكترونية أو البنية التحتية القديمة. العواقب تشمل خسارة الأرباح للشركات، انخفاض جودة التعليم وزيادة العزلة الاجتماعية. الآفاق تعتمد على الاستثمار في التكنولوجيا الجديدة والتعاون الدولي. مواقف الأطراف متضاربة: يجب على الحكومات الاستثمار في البنية التحتية، بينما يجب على المستخدمين مطالبة مزودي الخدمات بالمسؤولية.",
+        "categorie": "Technologie & Société",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/?utm_source=feed",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+        "date": "2026-11-19",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Fournisseurs d’accès internet (FAI)",
+            "hausse": true
+          },
+          {
+            "label": "▲ Cybersécurité et assurance numérique",
+            "hausse": true
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Fournisseurs d’accès internet (FAI)",
+            "secteur_en": "Internet service providers (ISPs)",
+            "secteur_zh": "互联网服务提供商（ISP）",
+            "effet_fr": "Les FAI pourraient voir leurs marges compressées par les coûts de maintenance accrus et les indemnisations pour pannes, forçant une hausse des tarifs ou des restrictions d’accès.",
+            "effet_en": "ISPs may face squeezed margins due to higher maintenance costs and outage compensations, leading to price hikes or access restrictions.",
+            "effet_zh": "ISP可能因维护成本上升和停机赔偿而利润压缩，迫使其提高价格或限制接入。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Cybersécurité et assurance numérique",
+            "secteur_en": "Cybersecurity and digital insurance",
+            "secteur_zh": "网络安全和数字保险",
+            "effet_fr": "La demande en solutions de cybersécurité devrait exploser, mais les assureurs pourraient refuser de couvrir les risques systémiques, laissant les entreprises sans protection.",
+            "effet_en": "Demand for cybersecurity solutions will surge, but insurers may refuse to cover systemic risks, leaving businesses unprotected.",
+            "effet_zh": "网络安全解决方案需求将激增，但保险公司可能拒绝承保系统性风险，使企业失去保护。",
+            "hausse": true
+          }
+        ],
+        "created_at": "2026-11-20T18:20:55.066468"
+      },
       {
         "id": "monde_754530",
         "titre": "Californie face à un déficit budgétaire alarmant",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-11-11T15:52:55.082122"
-      },
-      {
-        "id": "monde_58927",
-        "titre": "États-Unis évacuent avions de base aérienne britannique",
-        "titre_en": "US evacuates aircraft from UK airbase amid Iran threat",
-        "titre_zh": "美国因伊朗威胁撤离英国空军基地飞机",
-        "titre_ru": "Как добавить мох в аквариум: пошаговое руководство",
-        "titre_fa": "چگونه به آکواریوم خود موشک اضافه کنیم: راهنما کامل",
-        "titre_ar": "كيف أضيف العفن إلى حوض السمك: دليل شامل",
-        "titre_original": "How do I add moss to my tank?",
-        "resume": "Deux avions-citernes et trois hélicoptères Osprey de l’US Air Force ont été retirés de la base aérienne britannique de Mildenhall en raison de menaces présumées émanant de l’Iran. Cette décision s’inscrit dans un contexte de tensions accrues au Moyen-Orient, notamment après les attaques récentes contre des navires marchands. Les autorités américaines évoquent une mesure préventive pour protéger leurs personnels et équipements.",
-        "resume_en": "Two US Air Force tankers and three V-22 Ospreys were withdrawn from RAF Mildenhall in Suffolk due to alleged threats from Iran. This move follows heightened tensions in the Middle East, including recent attacks on commercial ships. US authorities describe it as a precautionary measure to protect personnel and equipment.",
-        "resume_zh": "美国空军从英国苏福克郡的RAF Mildenhall空军基地撤离了两架空中加油机和三架V-22奥斯普雷直升机，原因是伊朗的威胁。这一举动发生在中东紧张局势加剧的背景下，特别是在最近对商船的袭击事件后。美国当局将其描述为预防性措施，以保护人员和设备。",
-        "resume_ru": "Добавление мха в аквариум улучшает его внешний вид и создаёт благоприятную среду для рыб. Для этого нужно подготовить аквариум, выбрать подходящий вид мха и правильно закрепить его. Важно учитывать освещение и состав воды для успешного роста.",
-        "resume_fa": "اضافه کردن موشک به آکواریوم زیبایی آن را افزایش می‌دهد و محیطی مناسب برای ماهی‌ها فراهم می‌کند. برای این کار باید آکواریوم را آماده کنید، نوع مناسب موشک را انتخاب کنید و آن را به درستی ثابت کنید. توجه به نورپردازی و ترکیب آب برای رشد موفق موشک ضروری است.",
-        "resume_ar": "إضافة العفن إلى حوض السمك يعزز جماله ويخلق بيئة مناسبة للسمك. يجب إعداد الحوض بشكل صحيح، اختيار نوع العفن المناسب، وتثبيته بشكل صحيح. من المهم مراعاة الإضاءة ومحتوى الماء لضمان نمو ناجح.",
-        "analyse_detaillee": "Cette évacuation survient dans un contexte historique de tensions persistantes entre les États-Unis et l’Iran depuis la révolution de 1979, avec des pics de violence en 2019-2020 (abattage du drone américain) et 2023 (attaques sur des bases irakiennes). Les enjeux principaux concernent la sécurité des forces américaines au Moyen-Orient et la stabilité régionale, notamment après les attaques récentes contre des navires dans le golfe d’Oman. Les causes profondes incluent la rivalité entre Washington et Téhéran pour l’hégémonie régionale, ainsi que les sanctions américaines et les cyberattaques mutuelles. À court terme, cette mesure pourrait renforcer les tensions avec l’Iran et ses alliés (Hezbollah, Houthis), tout en affaiblissant la présence militaire américaine dans la région. À moyen terme, cela pourrait accélérer les préparatifs de riposte américaine ou israélienne, tandis que l’Iran pourrait intensifier ses actions asymétriques (drones, missiles). À long terme, cette escalade pourrait relancer des négociations indirectes via des intermédiaires (Chine, Russie), mais aussi approfondir la fragmentation du Moyen-Orient. Les acteurs clés sont les États-Unis (stratégie militaire), l’Iran (doctrine de résistance), et les alliés régionaux (Arabie saoudite, Israël).",
-        "analyse_en": "This evacuation occurs in a historical context of persistent US-Iran tensions since the 1979 revolution, with peaks in violence in 2019-2020 (downing of a US drone) and 2023 (attacks on Iraqi bases). Key stakes involve US military security in the Middle East and regional stability, particularly after recent attacks on ships in the Gulf of Oman. Root causes include US-Iran rivalry for regional hegemony and mutual sanctions/cyberattacks. Short-term, this move may escalate tensions with Iran and its allies (Hezbollah, Houthis), while weakening US military presence in the region. Medium-term, it could accelerate US or Israeli retaliation preparations, while Iran may intensify asymmetric actions (drones, missiles). Long-term, this escalation could restart indirect negotiations via intermediaries (China, Russia), but also deepen Middle East fragmentation. Key actors include the US (military strategy), Iran (resistance doctrine), and regional allies (Saudi Arabia, Israel).",
-        "analyse_zh": "这一撤离发生在美伊自1979年革命以来持续紧张的背景下，特别是在2019-2020年（美军无人机被击落）和2023年（袭击伊拉克基地）的暴力高峰期。主要影响涉及美国在中东的军事安全和地区稳定，特别是在最近在霍尔木兹海峡对商船的袭击事件后。深层原因包括华盛顿和德黑兰在地区霸权上的竞争，以及双方的制裁和网络攻击。短期内，这一举动可能加剧与伊朗及其盟友（真主党、胡塞武装）的紧张关系，同时削弱美国在该地区的军事存在。中期内，这可能加速美国或以色列的报复准备，而伊朗可能加强非对称作战（无人机、导弹）。长期来看，这种升级可能重新启动通过中介（中国、俄罗斯）进行的间接谈判，但也可能加深中东的分裂。关键利益相关者包括美国（军事战略）、伊朗（抵抗主义意识形态）和地区盟友（沙特阿拉伯、以色列）。",
-        "analyse_ru": "Мох в аквариуме выполняет экологическую функцию, поглощая нитраты и улучшая качество воды. Его использование снижает необходимость в частой подмене воды и уменьшает риск заболеваний рыб. Разнообразие видов мха позволяет подобрать оптимальный вариант для конкретных условий аквариума. Однако неправильное освещение или состав воды могут привести к гибели мха. Эксперты рекомендуют начинать с простых видов, таких как яванский мох, для накопления опыта.",
-        "analyse_fa": "موشک در آکواریوم نقش اکولوژیکی دارد و نیترات‌ها را جذب کرده و کیفیت آب را بهبود می‌بخشد. استفاده از موشک نیاز به تعویض مکرر آب را کاهش می‌دهد و خطر بیماری ماهی‌ها را کاهش می‌دهد. تنوع گونه‌های موشک امکان انتخاب بهترین نوع برای شرایط خاص آکواریوم را فراهم می‌کند. اما نورپردازی یا ترکیب آب نامناسب می‌تواند باعث مرگ موشک شود. متخصصان توصیه می‌کنند با گونه‌های ساده مانند موشک جاوا شروع کنید تا تجربه کسب کنید.",
-        "analyse_ar": "العفن في حوض السمك يلعب دورًا بيئيًا، حيث يمتص النترات ويحسن جودة الماء. استخدامه يقلل من الحاجة إلى تغيير الماء بانتظام ويقلل من خطر الإصابة بالمرض لدى السمك. تنوع أنواع العفن يسمح باختيار النوع الأمثل للظروف المحددة للحوض. ومع ذلك، قد يؤدي الإضاءة أو تركيب الماء غير المناسب إلى موت العفن. يوصي الخبراء بالبدء بأشكال بسيطة مثل العفن الجاوي لتجربة عملية.",
-        "categorie": "Géopolitique",
-        "source": "Lifesciencesworld.com",
-        "url": "https://www.lifesciencesworld.com/how-do-i-add-moss-to-my-tank/",
-        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-        "date": "2026-11-10",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Sécurité maritime et assurance transport",
-            "hausse": true
-          },
-          {
-            "label": "▼ Marché pétrolier et géopolitique énergétique",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Sécurité maritime et assurance transport",
-            "secteur_en": "Maritime security and transport insurance",
-            "secteur_zh": "海上安全和运输保险",
-            "effet_fr": "Les tensions accrues avec l’Iran pourraient entraîner une hausse des primes d’assurance pour les navires transitant par le golfe Persique, tout en incitant les compagnies à renforcer leurs mesures de sécurité.",
-            "effet_en": "Increased tensions with Iran may lead to higher insurance premiums for ships transiting the Persian Gulf, while prompting companies to bolster security measures.",
-            "effet_zh": "与伊朗紧张关系的加剧可能导致霍尔木兹海峡航行船只的保险费用上涨，并促使公司加强安全措施。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché pétrolier et géopolitique énergétique",
-            "secteur_en": "Oil market and energy geopolitics",
-            "secteur_zh": "石油市场和能源地缘政治",
-            "effet_fr": "Les incertitudes liées aux actions iraniennes pourraient perturber les flux pétroliers et faire fluctuer les prix, affectant les économies dépendantes des hydrocarbures comme l’Europe ou la Chine.",
-            "effet_en": "Uncertainties over Iranian actions may disrupt oil flows and cause price volatility, impacting hydrocarbon-dependent economies like Europe or China.",
-            "effet_zh": "伊朗行动带来的不确定性可能扰乱石油流通并导致价格波动，影响依赖化石燃料的经济体如欧洲或中国。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-11-11T07:42:56.436389"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_869708",
+        "titre": "Retour possible de Gor à la Maison-Blanche après départ de Wiles",
+        "titre_en": "Gor plots White House comeback post-Wiles exit",
+        "titre_zh": "戈尔谋求白宫回归后维尔斯离任",
+        "titre_ru": "Бывший «змеиный» советник Трампа готовится к возвращению на пост в Кабинете",
+        "titre_fa": "سرویس‌دار سابق ترامپ در هند، پس از خروج وایلز، برای بازگشت و سمت مهم در کابینه آماده است",
+        "titre_ar": "المستشار السابق لبيت الأبيض «الثعبان» يخطط للعودة بعد مغادرة ويلز لوزارة رئيسية",
+        "titre_original": "White House 'snake' plots post-Wiles return with eyes on major Cabinet job: report",
+        "resume": "Sergio Gor, ancien porte-parole de Donald Trump, tente un retour discret après son expulsion vers l'Inde en raison de conflits avec Susie Wiles. Son ambition visée semble cibler un poste ministériel clé dans l’administration actuelle. Les sources évoquent une stratégie de repositionnement politique post-Wiles, malgré les tensions passées.",
+        "resume_en": "Sergio Gor, former Trump White House gatekeeper, is quietly plotting a comeback after being sent to India over clashes with Susie Wiles. His ambitions reportedly target a high-ranking Cabinet position. Sources suggest a post-Wiles political realignment strategy amid lingering tensions.",
+        "resume_zh": "塞尔吉奥·戈尔，特朗普前白宫发言人，在与苏西·维尔斯冲突后被送往印度，现正谋求回归。其野心似乎瞄准现任政府的高级内阁职位。消息称，戈尔正利用维尔斯离任的时机重新布局政治地位。",
+        "resume_ru": "Серхио Гор, бывший «сторож» Дональда Трампа, отправленный в Индию после конфликта с Сузи Уайлз, теперь тайно готовится к возвращению, поскольку она покинула пост. Источники сообщают о его амбициях занять ключевую должность в Кабинете министров. Возвращение Гора может вызвать напряжение в политической среде США.",
+        "resume_fa": "سرویس‌دار سابق دونالد ترامپ که پس از اختلاف با سوزی وایلز به هند فرستاده شد، حالا در حال آماده‌سازی برای بازگشت است. منابع می‌گویند او در حال تلاش برای کسب یک سمت مهم در کابینه پس از خروج وایلز است. این بازگشت ممکن است در محیط سیاسی آمریکا تنش ایجاد کند.",
+        "resume_ar": "المستشار السابق لبيت الأبيض سيرجيو غور، الذي تم إرساله إلى الهند بعد خلافته مع سوزي ويلز، الآن يخطط للعودة سرا بعد أن تركت ويلز منصبها. مصادر تشير إلى أنه يسعى للحصول على منصب وزاري رئيسي. قد يؤدي عودته إلى زيادة التوتر السياسي في الولايات المتحدة.",
+        "analyse_detaillee": "Ce retour s’inscrit dans une dynamique de rotation des élites politiques américaines, où les figures marginalisées cherchent à capitaliser sur les failles institutionnelles. Les tensions entre Gor et Wiles reflètent des luttes internes pour le contrôle des flux d’information et des priorités stratégiques. À court terme, cela pourrait fragiliser la cohésion de l’équipe dirigeante, tandis qu’à moyen terme, cela pourrait accélérer une recomposition des alliances au sein du parti républicain. Les perspectives à long terme dépendent de la capacité de Gor à surmonter son image controversée et à s’allier avec des figures influentes. Trump, bien que silencieux, pourrait soit encourager ce retour pour affaiblir ses rivaux, soit le bloquer pour éviter des scandales supplémentaires. Les médias et les lobbies pourraient amplifier ou minimiser cette rumeur selon leurs intérêts géopolitiques.",
+        "analyse_en": "This comeback fits into a pattern of U.S. political elite turnover, where sidelined figures exploit institutional cracks for leverage. Gor’s clashes with Wiles highlight internal power struggles over information control and strategic priorities. Short-term, this could destabilize the administration’s cohesion, while medium-term, it may accelerate Republican factional realignment. Long-term prospects hinge on Gor’s ability to rehabilitate his tarnished image and ally with influential figures. Trump, though silent, may either endorse this move to weaken rivals or block it to avoid further scandals. Media and lobbying groups will amplify or downplay the rumors based on geopolitical interests.",
+        "analyse_zh": "戈尔的回归符合美国政治精英轮替的趋势，被边缘化的人物利用制度漏洞谋求影响力。戈尔与维尔斯的冲突反映了内部权力斗争，特别是信息控制和战略优先权的争夺。短期内，这可能削弱行政团队的凝聚力，中期则可能加速共和党派系重组。长期前景取决于戈尔是否能够恢复其受损形象并与有影响力的人物结盟。特朗普虽然保持沉默，但可能会支持或阻止这一动向，以避免进一步的丑闻。媒体和利益集团将根据地缘政治利益放大或缩小此类谣言。",
+        "analyse_ru": "Контекст: Гор был ключевой фигурой в администрации Трампа до конфликта с Уайлз, которая отвечала за коммуникации. Причины возвращения могут быть связаны с желанием восстановить влияние в Белом доме или получить вознаграждение за лояльность. Последствия могут включать политическую нестабильность, если Гор начнёт манипулировать информацией в своих интересах. Перспективы зависят от реакции нового руководства и общественного мнения. Позиции сторон разделились: сторонники Трампа могут поддержать Гора, в то время как критики опасаются его влияния на политику США.",
+        "analyse_fa": "زمینه: سرویس‌دار سابق ترامپ در ارتباطات و مدیریت اطلاعات مهم بود و پس از اختلاف با وایلز، جایگاه خود را از دست داد. علل بازگشت او ممکن است شامل تلاش برای بازسازی نفوذ در کابینه یا جبران وفاداری قبلی باشد. پیامدهای این بازگشت ممکن است شامل افزایش تنش سیاسی و استفاده از اطلاعات برای منافع شخصی باشد. چشم‌انداز بستگی به واکنش رهبران جدید و نظر عمومی دارد. مواضع بازیگران متفاوت است: طرفداران ترامپ ممکن است او را حمایت کنند، در حالی که منتقدان از نفوذ او در سیاست آمریکا نگران هستند.",
+        "analyse_ar": "السياق: كان سيرجيو غور شخصية رئيسية في إدارة ترامب قبل خلافته مع ويلز، التي كانت مسؤولة عن الاتصالات. أسباب عودته قد ترتبط بالرغبة في استعادة النفوذ في البيت الأبيض أو الحصول على مكافأة على الولاء السابق. العواقب قد تشمل عدم الاستقرار السياسي إذا بدأ غور في التلاعب بالمعلومات لصالحه. الآفاق تعتمد على رد فعل القيادة الجديدة و الرأي العام. مواقف الأطراف متضاربة: قد يدعمه مؤيدو ترامب، بينما يخشى critics من تأثيره على سياسة الولايات المتحدة.",
+        "categorie": "Géopolitique",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/sergio-gor-trump-2678457958/",
+        "image": "https://www.rawstory.com/media-library/u-s-president-donald-trump-shakes-hands-sergio-gor-during-the-swearing-in-ceremony-for-gor-as-u-s-ambassador-to-india-at-the.jpg?id=62137799&width=1200&height=1200&coordinates=1364%2C0%2C1364%2C0",
+        "date": "2026-11-19",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▲ Médias et communication politique",
+            "hausse": true
+          },
+          {
+            "label": "▼ Lobbying et influence politique",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Médias et communication politique",
+            "secteur_en": "Political media and communications",
+            "secteur_zh": "政治媒体和公关行业",
+            "effet_fr": "Les rumeurs de retour de Gor pourraient relancer une guerre médiatique entre factions républicaines et affaiblir la crédibilité des institutions.",
+            "effet_en": "Rumors of Gor’s comeback may reignite media warfare between Republican factions and undermine institutional credibility.",
+            "effet_zh": "戈尔回归的传闻可能重启共和党派系之间的媒体战，并削弱机构的公信力。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Lobbying et influence politique",
+            "secteur_en": "Lobbying and political influence",
+            "secteur_zh": "游说和政治影响力",
+            "effet_fr": "Les groupes d’influence pourraient financer des campagnes pour promouvoir ou discréditer Gor selon leurs alliances stratégiques.",
+            "effet_en": "Lobbying groups may fund campaigns to either promote or discredit Gor based on strategic alliances.",
+            "effet_zh": "游说团体可能根据战略利益，资助推广或诋毁戈尔的活动。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-20T18:20:55.066438"
+      },
       {
         "id": "usa_638687",
         "titre": "Cornyn bloque dernière nomination judiciaire de Trump",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-11-11T15:52:55.082146"
-      },
-      {
-        "id": "usa_927482",
-        "titre": "Nvidia accusée de lien avec espionnage chinois",
-        "titre_en": "Nvidia sued over Huang’s alleged spy ties",
-        "titre_zh": "NVIDIA因黄仁勋涉嫌间谍案被起诉",
-        "titre_ru": "Иск против Нвидиа из-за связи Дженсена Хуанга с подозреваемым китайским шпионом",
-        "titre_fa": "دادرسی علیه Nvidia به دلیل رابطه جنسن هوانگ با شایعه شpieون چینی",
-        "titre_ar": "مطالبات قضائية ضد إنفيديا بسبب علاقة جنسن هوانغ مع مرشح شبيح صيني",
-        "titre_original": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
-        "resume": "Un actionnaire de Nvidia a déposé une plainte contre l’entreprise et son PDG, Jensen Huang, accusant ce dernier d’entretenir des relations avec un suspecté d’espionnage pour le compte de la Chine. Cette affaire s’inscrit dans un contexte de tensions croissantes entre Washington et Pékin sur la sécurité technologique. Les médias évoquent une possible implication dans des affaires sensibles, notamment liées à l’IA et aux semi-conducteurs.",
-        "resume_en": "A Nvidia shareholder has filed a lawsuit against the company and its CEO, Jensen Huang, accusing him of maintaining ties with a suspected Chinese spy. This case stems from escalating tensions between Washington and Beijing over tech security. Reports suggest potential involvement in sensitive matters, particularly AI and semiconductors.",
-        "resume_zh": "NVIDIA的一名股东对公司和CEO黄仁勋提起诉讼，指控后者与一名涉嫌为中国从事间谍活动的嫌疑人有联系。此案发生在美中在技术安全领域紧张关系加剧的背景下。媒体报道称，黄仁勋可能涉及敏感事务，特别是人工智能和半导体领域。",
-        "resume_ru": "Акционеры подали иск против Нвидиа, обвиняя основателя компании Дженсена Хуанга в связях с подозреваемым китайским шпионом. Скандал угрожает репутации компании и может повлиять на её стратегические партнёрства. В центре внимания — возможное влияние на безопасность США и геополитические отношения.",
-        "resume_fa": "اعضا شرکت Nvidia دعوی علیه جنسن هوانگ را به دلیل ارتباط احتمالی او با یک شایعه شpieون چینی مطرح کردند. این اسکاندال به اعتبار شرکت آسیب می‌زند و ممکن است بر شراکت‌های استراتژیک آن تأثیر بگذارد. در مرکز توجه، تأثیر احتمالی بر امنیت آمریکا و روابط جغرافیایی سیاسی است.",
-        "resume_ar": "قدمت مستثمرون دعوى قضائية ضد إنفيديا، متهمين مؤسسها جنسن هوانغ بعلاقة مع مرشح شبيح صيني. هذا الفضيحة تهدد سمعة الشركة وتؤثر على شراكاتها الاستراتيجية. في مركز الاهتمام، تأثيرها المحتمل على أمن الولايات المتحدة والعلاقات الجيوسياسية.",
-        "analyse_detaillee": "Cette affaire s’inscrit dans un contexte historique de rivalité technologique entre les États-Unis et la Chine, où les semi-conducteurs et l’IA sont des enjeux majeurs depuis les années 2010. Les enjeux principaux concernent la sécurité nationale américaine et la crédibilité des géants tech comme Nvidia, dont les technologies sont critiques pour la défense et l’économie. Les causes profondes incluent les lois américaines sur les exportations (comme le *Foreign Subsidies Act*) et les soupçons de collusion entre entreprises chinoises et acteurs américains. À court terme, cette plainte pourrait nuire à l’image de Nvidia et freiner les investissements institutionnels, tout en renforçant les pressions réglementaires. À moyen terme, cela pourrait accélérer les restrictions américaines sur les transferts technologiques vers la Chine. À long terme, cela pourrait relancer une course aux innovations défensives entre les deux pays. Les acteurs clés sont le gouvernement américain (sanctions), les régulateurs financiers (SEC), et les concurrents chinois (Huawei, SMIC).",
-        "analyse_en": "This case fits within the historical context of US-China tech rivalry, where semiconductors and AI have been key stakes since the 2010s. Main stakes involve US national security and the credibility of tech giants like Nvidia, whose technologies are critical for defense and the economy. Root causes include US export laws (such as the *Foreign Subsidies Act*) and suspicions of collusion between Chinese firms and US actors. Short-term, this lawsuit could damage Nvidia’s reputation and deter institutional investments, while intensifying regulatory pressures. Medium-term, it may accelerate US restrictions on tech transfers to China. Long-term, this could reignite a defensive innovation race between the two nations. Key actors include the US government (sanctions), financial regulators (SEC), and Chinese rivals (Huawei, SMIC).",
-        "analyse_zh": "此案发生在美中技术竞争的历史背景下，自2010年代以来，半导体和人工智能一直是主要竞争焦点。主要影响涉及美国的国家安全和科技巨头如NVIDIA的信誉，其技术对国防和经济至关重要。深层原因包括美国的出口法规（如《外国补贴法》）以及对中美企业之间可能勾结的怀疑。短期内，此诉讼可能损害NVIDIA的声誉，并减少机构投资者的投资热情，同时加剧监管压力。中期内，这可能加速美国对向中国转移技术的限制。长期来看，这可能重新点燃两国在防御性创新领域的竞争。关键利益相关者包括美国政府（制裁）、金融监管机构（SEC）和中国竞争对手（华为、中芯国际）。",
-        "analyse_ru": "Иск акционеров связан с растущими подозрениями в адрес Хуанга, который ранее был обвинен в недопустимых контактах с китайскими официальными лицами. Это может укрепить позиции критиков, считающих, что Нвидиа слишком зависит от китайского рынка. Скандал может ускорить ужесточение американских правил контроля за экспортом технологий. Хуанг, ранее поддерживаемый Трампом, теперь стал мишенью для политических противников. В долгосрочной перспективе это может повлиять на инвестиции в ИИ и полупроводники.",
-        "analyse_fa": "دادرسی اعضا شرکت با افزایش شکوک نسبت به جنسن هوانگ که پیشتر به دلیل ارتباطات غیرمجاز با مقامات چینی متهم شده بود، مرتبط است. این ممکن است موقعیت منتقدان را که معتقدند Nvidia به شدت به بازار چین وابسته است، تقویت کند. این اسکاندال می‌تواند سرعت سخت‌گیری بیشتر قوانین آمریکایی در کنترل صادرات فناوری را افزایش دهد. هوانگ که پیشتر توسط ترامپ حمایت می‌شد، اکنون هدف مخالفان سیاسی شده است. در بلندمدت، این ممکن است بر سرمایه‌گذاری در حوزه هوش مصنوعی و چیپ‌ها تأثیر بگذارد.",
-        "analyse_ar": "تتمم دعوى المستثمرين مع زيادة الشكوك حول جنسن هوانغ، الذي سبق أن اتهم بعلاقات غير قانونية مع مسؤولين صينيين. هذا قد يعزز موقف المعارضين الذين يعتقدون أن إنفيديا تعتمد بشدة على السوق الصينية. الفضيحة قد تسارع إلى تشديد قوانين الولايات المتحدة في مراقبة تصدير التكنولوجيا. هوانغ، الذي كان سابقا مدعومًا من قبل ترامب، أصبح الآن هدف للمعارضين السياسيين. على المدى الطويل، هذا قد يؤثر على الاستثمار في مجال الذكاء الاصطناعي والشيبات.",
-        "categorie": "Géopolitique",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0d6e3a3a5663ea05",
-        "image": "https://biztoc.com/cdn/0d6e3a3a5663ea05_s.webp",
-        "date": "2026-11-10",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Marché des actions technologiques (NVIDIA)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Régulation financière et cybersécurité",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des actions technologiques (NVIDIA)",
-            "secteur_en": "Tech stock market (NVIDIA)",
-            "secteur_zh": "科技股市场（NVIDIA）",
-            "effet_fr": "La plainte pourrait provoquer une chute des cours de Nvidia et une méfiance accrue des investisseurs envers les entreprises liées à la Chine, affectant la valorisation du secteur tech.",
-            "effet_en": "The lawsuit may trigger a drop in Nvidia’s stock and increased investor skepticism toward China-linked firms, impacting the valuation of the tech sector.",
-            "effet_zh": "此诉讼可能导致NVIDIA股价下跌，并加剧投资者对与中国相关企业的不信任，影响科技行业的估值。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Régulation financière et cybersécurité",
-            "secteur_en": "Financial regulation and cybersecurity",
-            "secteur_zh": "金融监管和网络安全",
-            "effet_fr": "Cette affaire pourrait accélérer les audits financiers sur les entreprises américaines liées à des partenaires chinois, renforçant les contrôles sur les flux d’investissements et les transferts technologiques sensibles.",
-            "effet_en": "This case may accelerate financial audits on US firms linked to Chinese partners, tightening controls over investment flows and transfers of sensitive technologies.",
-            "effet_zh": "此案可能加速对与中国合作的美国企业进行金融审计，从而加强对投资流和敏感技术转移的监管。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-11-11T07:42:56.436364"
       }
     ],
     "chine": [
@@ -3769,6 +3769,65 @@
     ],
     "russie": [
       {
+        "id": "russie_295388",
+        "titre": "Ambassade autrichienne à Kiev endommagée : choc et réactions internationales",
+        "titre_en": "Austria’s Kyiv embassy hit: shock and global reactions",
+        "titre_zh": "奥地利驻基辅大使馆受损：震惊与国际反应",
+        "titre_ru": "Австрийский канцлер шокирован после атаки на посольство в Киеве",
+        "titre_fa": "کانتسر اتریش از حمله به سفارت در کی‌یف شوک خورده است",
+        "titre_ar": "وزير الخارجية النمساوي Shocked بعد هجوم على السفارة في كييف",
+        "titre_original": "Austria's Stocker 'shocked' as strike damages embassy in Kyiv",
+        "resume": "L’attaque contre l’ambassade autrichienne à Kiev, qui a blessé du personnel diplomatique, a provoqué une vive indignation en Europe. Le chancelier Stocker a dénoncé un acte « choquant » et exigé des explications de Kiev. Cette escalade interroge la sécurité des missions diplomatiques en Ukraine, déjà fragilisées par la guerre. Les réactions internationales pourraient influencer les dynamiques géopolitiques autour du conflit.",
+        "resume_en": "The attack on Austria’s embassy in Kyiv, injuring diplomatic staff, sparked outrage in Europe. Chancellor Stocker called it a ‘shocking’ act and demanded explanations from Kyiv. This escalation questions the safety of diplomatic missions in Ukraine, already strained by war. International reactions may shape geopolitical dynamics around the conflict.",
+        "resume_zh": "驻基辅奥地利大使馆遭袭击，伤及外交人员，在欧洲引发强烈谴责。施托克尔取消称此举“震惊”，并要求基辅解释。这一升级质疑了乌克兰境内外交使团的安全，该国已因战争而处于脆弱状态。国际反应可能影响围绕冲突的地缘政治局势。",
+        "resume_ru": "Канцлер Австрии Кристиан Штокер выразил шок после атаки на посольство в Киеве, которая угрожала жизни сотрудников. Он заявил, что это событие вызывает глубокую озабоченность и требует немедленного расследования. Атака может ухудшить дипломатические отношения между странами. Международное сообщество призывает к деэскалации ситуации.",
+        "resume_fa": "کانتسر اتریش گفت که از حمله به سفارت در کی‌یف شوک خورده و این حمله به زندگی کارکنان تهدید می‌کند. او بیان کرد که این رویداد نگرانی عمیقی ایجاد کرده و نیاز به بررسی فوری دارد. این حمله ممکن است روابط دیپلماتیک بین دو کشور را بدتر کند. جامعه بین‌المللی از کاهش تنش در این وضعیت دعوت می‌کند.",
+        "resume_ar": "قال وزير الخارجية النمساوي كريستيان ستوكر إنه Shocked بعد هجوم على السفارة في كييف، والذي يشكل تهديدًا على حياة الموظفين. أكد أن هذا الحدث يثير قلقًا عميقًا ويحتاج إلى تحقيق فوري. قد تفاقم الهجوم العلاقات الدبلوماسية بين البلدين. يدعو المجتمع الدولي إلى تخفيف التوتر في هذه الحالة.",
+        "analyse_detaillee": "Cet incident survient dans un contexte de multiplication des attaques contre les infrastructures civiles et diplomatiques en Ukraine, reflétant une escalade indirecte du conflit. L’Ukraine, sous pression militaire, pourrait être tentée de minimiser l’événement pour éviter une intervention occidentale accrue, tandis que la Russie pourrait exploiter ce prétexte pour justifier des actions futures. À court terme, cela pourrait renforcer les tensions entre Kiev et Moscou, avec un risque accru de représailles. Les pays européens, divisés sur leur soutien à l’Ukraine, pourraient durcir leur position pour montrer leur unité face à la Russie. À long terme, cette attaque pourrait accélérer la demande de protection accrue pour les missions diplomatiques, ou au contraire, discréditer les efforts de médiation internationale. Les États-Unis et l’OTAN devront évaluer si cette escalade justifie une réponse militaire ou diplomatique renforcée.",
+        "analyse_en": "This incident occurs amid a surge in attacks on civilian and diplomatic infrastructure in Ukraine, signaling an indirect escalation of the conflict. Ukraine, under military pressure, may downplay the event to avoid further Western intervention, while Russia could use it as a pretext for future actions. Short-term, this could heighten tensions between Kyiv and Moscow, with increased retaliation risks. Divided European nations may harden their stance to show unity against Russia. Long-term, this attack could accelerate demands for enhanced diplomatic protection or undermine international mediation efforts. The U.S. and NATO must assess whether this escalation warrants a stronger military or diplomatic response.",
+        "analyse_zh": "此事件发生在乌克兰境内对民用和外交基础设施频繁袭击的背景下，反映了冲突的间接升级。乌克兰在军事压力下可能会低调处理此事，以避免西方进一步干预，而俄罗斯可能利用此事作为未来行动的借口。短期内，这可能加剧基辅和莫斯科之间的紧张关系，并增加报复风险。欧洲国家在对乌克兰支持问题上意见分歧，可能会采取更强硬立场以展示团结。长期来看，此次袭击可能加速对外交使团保护需求的提升，或动摇国际调解努力。美国和北约需要评估此次升级是否需要采取更强有力的军事或外交回应。",
+        "analyse_ru": "Контекст: атака на дипломатическое представительство в Киеве — редкое явление, но свидетельствует о нарастании напряженности в регионе. Причины могут быть связаны с геополитическими конфликтами или ошибками в безопасности. Последствия включают риск эскалации конфликта и возможные санкции против агрессора. Перспективы зависят от реакции России и международного сообщества. Позиции сторон разделились: Украина обвиняет Россию, в то время как Москва отрицает свою причастность.",
+        "analyse_fa": "زمینه: حمله به سفارت در کی‌یف یک رویداد نادر است، اما نشان‌دهنده افزایش تنش در منطقه است. علل ممکن است شامل درگیری‌های ژئوپولیتیکی یا اشتباهات امنیتی باشد. پیامدهای این حمله شامل خطر افزایش تنش و اعمال تحریم‌ها علیه متهم است. چشم‌انداز بستگی به واکنش روسیه و جامعه بین‌المللی دارد. مواضع بازیگران متفاوت است: اوکراین روسیه را متهم می‌کند، در حالی که مسکو انکار می‌کند.",
+        "analyse_ar": "السياق: الهجوم على السفارة في كييف هو حدث نادر، لكنه يشير إلى ارتفاع التوتر في المنطقة. الأسباب قد ترتبط بالصراعات الجيوسياسية أو أخطاء في الأمن. العواقب تشمل خطر تصعيد الصراع وإمكانية فرض عقوبات على المهاجم. الآفاق تعتمد على رد فعل روسيا والمجتمع الدولي. مواقف الأطراف متضاربة: أوكرانيا تتهم روسيا، بينما ينكر موسكو تورطه.",
+        "categorie": "Géopolitique",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/de58bf4ab53f3ec3",
+        "image": "https://cdn.biztoc.com/de58bf4ab53f3ec3_s.webp",
+        "date": "2026-11-19",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Sécurité diplomatique et assurances politiques",
+            "hausse": true
+          },
+          {
+            "label": "▼ Énergie et relations gazières Russie-Europe",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Sécurité diplomatique et assurances politiques",
+            "secteur_en": "Diplomatic security and political insurance",
+            "secteur_zh": "外交安全和政治保险",
+            "effet_fr": "Les États pourraient renforcer leurs protocoles de protection pour les missions diplomatiques en Ukraine, augmentant les coûts logistiques et les primes d’assurance.",
+            "effet_en": "States may bolster security protocols for diplomatic missions in Ukraine, raising logistical costs and insurance premiums.",
+            "effet_zh": "国家可能加强驻乌克兰外交使团的保护措施，提高后勤成本和保险费用。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Énergie et relations gazières Russie-Europe",
+            "secteur_en": "Energy and Russia-Europe gas relations",
+            "secteur_zh": "能源和俄罗斯-欧洲天然气关系",
+            "effet_fr": "L’escalade pourrait inciter l’Europe à accélérer sa diversification énergétique, réduisant sa dépendance au gaz russe et affaiblissant les négociations en cours.",
+            "effet_en": "The escalation may push Europe to speed up energy diversification, reducing reliance on Russian gas and weakening ongoing negotiations.",
+            "effet_zh": "升级可能促使欧洲加速能源多元化，减少对俄罗斯天然气的依赖，并削弱当前谈判的力度。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-20T18:20:55.066477"
+      },
+      {
         "id": "russie_894404",
         "titre": "Musk accuse Zelensky de mensonge sur Starlink",
         "titre_en": "Musk accuses Zelensky of Starlink misinformation",
@@ -4888,65 +4947,6 @@
           }
         ],
         "created_at": "2026-11-08T21:42:43.852309"
-      },
-      {
-        "id": "russie_283905",
-        "titre": "Kyiv plonge dans le noir et le manque d’eau après frappes russes",
-        "titre_en": "Kyiv faces blackouts and water shortages after Russian strikes",
-        "titre_zh": "基辅遭俄军袭击后遭遇停电和断水",
-        "titre_ru": "В Киеве после ударов по энергосистеме — черные выключения и нехватка воды",
-        "titre_fa": "قطع برق و کمبود آب در کیيف پس از حمله روسیه به شبکه انرژی",
-        "titre_ar": "فقدان الكهرباء ومشاكل في المياه في كييف بعد هجمات روسيا على شبكات الطاقة",
-        "titre_original": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid - The Guardian",
-        "resume": "Des frappes russes sur le réseau énergétique ukrainien ont provoqué des coupures de courant et des pénuries d’eau à Kyiv, selon *The Guardian*. Neuf personnes ont été blessées lors d’attaques par drones et missiles. Pendant ce temps, Kiev prépare des négociations avec Moscou et Washington sur la paix, tandis que Zelenskyy réaffirme sa détermination.",
-        "resume_en": "Russian strikes on Ukraine’s energy grid have caused blackouts and water shortages in Kyiv, per *The Guardian*. Nine people were injured in drone and missile attacks. Meanwhile, Kyiv prepares peace talks with Moscow and Washington, with Zelenskyy reaffirming his resolve.",
-        "resume_zh": "俄军袭击乌克兰能源网络导致基辅停电和断水，据《卫报》报道。九人受伤于无人机和导弹袭击。同时，基辅准备与莫斯科和华盛顿举行和平谈判，泽连斯基重申决心。",
-        "resume_ru": "Дроны и ракеты российских войск нанесли удары по энергосистеме Украины, что привело к массовым отключениям электричества и водоснабжения в Киеве. По данным «Гардиан», пострадало девять человек. Президент Зеленский готовится к переговорам с Россией и США.",
-        "resume_fa": "دروپوش‌های و موشک‌های نیروهای روسیه به شبکه انرژی اوکراین حمله کردند که منجر به قطع برق و آب در کییف شد. بر اساس گزارش گاردین، نه نفر زخمی شدند. زلنسکی برای مذاکرات با روسیه و آمریکا آماده شده است.",
-        "resume_ar": "هاجمات درونات ورockets القوات الروسية على شبكات الطاقة الأوكرانية أدت إلى انقطاع الكهرباء والمياه في كييف. حسب ما ذكرته صحيفة «الجارديان»، أصيب تسعة أشخاص. يستعد الرئيس زيلينسكي للحوار مع روسيا والولايات المتحدة.",
-        "analyse_detaillee": "La guerre en Ukraine, déclenchée en 2022, vise à contrôler les infrastructures critiques comme l’énergie et l’eau, stratégiques pour le moral et la survie civile. Les frappes russes ciblent systématiquement les réseaux électriques pour affaiblir l’État ukrainien et forcer une reddition. À court terme, les coupures prolongées aggravent les souffrances civiles et pourraient déclencher des émeutes. À moyen terme, cela accélère la dépendance ukrainienne à l’aide occidentale et renforce les divisions internes en Russie. Long terme, une escalade pourrait transformer le conflit en guerre prolongée, avec des risques de fragmentation territoriale.",
-        "analyse_en": "The Ukraine war, sparked in 2022, targets critical infrastructure like energy and water, vital for civilian morale and survival. Russian strikes systematically hit power grids to weaken Ukraine’s state and force surrender. Short-term, prolonged outages worsen civilian suffering and could spark riots. Mid-term, this accelerates Ukraine’s dependence on Western aid and deepens internal Russian divisions. Long-term, escalation risks turning the conflict into a prolonged war with territorial fragmentation risks.",
-        "analyse_zh": "2022年爆发的乌克兰战争旨在控制能源和水等关键基础设施，对民众士气和生存至关重要。俄军系统性袭击电网以削弱乌克兰国家并迫使其投降。短期内，持续停电加剧平民苦难，可能引发骚乱。中期内，这加速乌克兰对西方援助的依赖，并加深俄罗斯内部分裂。长期来看，升级可能将冲突转化为持久战争，并带来领土分裂的风险。",
-        "analyse_ru": "Эскалация военных действий в Украине привела к критической ситуации с инфраструктурой, что демонстрирует уязвимость страны перед российскими ударами. Атаки на энергосистему могут вызвать массовые протесты и социальное недовольство, особенно в условиях зимы. Украина пытается сохранить стабильность перед переговорами, но зависимость от внешней помощи остаётся ключевым фактором. Россия, вероятно, рассчитывает на психологическое давление, чтобы ускорить уступки Киева. Международное сообщество должно реагировать на нарушения прав человека и гуманитарные кризисы.",
-        "analyse_fa": "تصاعد جنگ در اوکراین به وضعیت بحرانی در زیرساخت‌ها منجر شده که آسیب‌پذیری کشور در برابر حملات روسیه را نشان می‌دهد. حمله به شبکه انرژی ممکن است منجر به اعتراضات گسترده و نارضایتی اجتماعی شود، به ویژه در فصل زمستان. اوکراین سعی در حفظ استقرار قبل از مذاکرات دارد، اما وابستگی به کمک خارجی همچنان عامل کلیدی است. روسیه احتمالاً به فشار روانی برای تسریع در تسلیم کیف حساب می‌کند. جامعه بین‌المللی باید به نقض حقوق بشر و بحران‌های انسانی واکنش نشان دهد.",
-        "analyse_ar": "تصعيد الأعمال العسكرية في أوكرانيا أدى إلى وضع حرجة في البنية التحتية، مما يبين ضعف البلاد أمام الهجمات الروسية. الهجمات على شبكات الطاقة قد تسبب في احتجاجات جماعية و عدم رضا اجتماعي، خاصة في فصل الشتاء. تحاول أوكرانيا الحفاظ على الاستقرار قبل المفاوضات، ولكن الاعتماد على المساعدات الخارجية يبقى عاملاً رئيسياً. قد تعتمد روسيا على الضغط النفسي لتسريع تسليم كييف. يجب على المجتمع الدولي رد فعل تجاه انتهاكات حقوق الإنسان والأزمات الإنسانية.",
-        "categorie": "Géopolitique",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186639251",
-        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?w=800&q=80",
-        "date": "2026-11-07",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▲ Marché des énergies fossiles (gaz naturel ukrainien)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Assurance catastrophe (réassurance européenne)",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des énergies fossiles (gaz naturel ukrainien)",
-            "secteur_en": "Fossil fuel market (Ukrainian natural gas)",
-            "secteur_zh": "化石能源市场（乌克兰天然气）",
-            "effet_fr": "Les destructions d’infrastructures énergétiques ukrainiennes perturbent les exportations de gaz vers l’Europe, faisant monter les prix et réduisant les réserves stratégiques.",
-            "effet_en": "Destruction of Ukrainian energy infrastructure disrupts gas exports to Europe, driving up prices and depleting strategic reserves.",
-            "effet_zh": "乌克兰能源基础设施破坏干扰了向欧洲的天然气出口，推高价格并耗尽战略储备。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Assurance catastrophe (réassurance européenne)",
-            "secteur_en": "Catastrophe insurance (European reinsurance)",
-            "secteur_zh": "灾害保险（欧洲再保险）",
-            "effet_fr": "Les dommages causés par les frappes augmentent les coûts de réassurance pour les pays européens, avec des répercussions sur les primes des assurances habitation et industrielles.",
-            "effet_en": "Strike-related damages raise reinsurance costs for European countries, impacting home and industrial insurance premiums.",
-            "effet_zh": "袭击造成的损害增加了欧洲国家的再保险成本，进而影响住房和工业保险的保费。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-11-08T17:38:47.384474"
       }
     ],
     "iran": [
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_env_29213",
+      "titre": "Belgique : Camille Étienne révèle l’ampleur des Pfas",
+      "titre_en": "Belgium’s PFAS Pollution Crisis Highlighted by Activist",
+      "titre_zh": "比利时PFA斯污染严重曝光",
+      "titre_ru": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
+      "titre_fa": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
+      "titre_ar": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
+      "titre_original": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
+      "resume": "L’activiste Camille Étienne publie les résultats de deux ans d’enquête sur les polluants éternels (Pfas) en Belgique, classant le pays parmi les plus contaminés au monde. Son livre *Facteur X* révèle des niveaux alarmants de ces substances toxiques, liées à des industries chimiques et militaires. Ces données soulignent un problème environnemental et sanitaire majeur, nécessitant des mesures urgentes.",
+      "resume_en": "Environmental activist Camille Étienne reveals Belgium’s severe PFAS pollution after two years of investigation, ranking the country as the most contaminated globally. Her book *Factor X* exposes alarming levels of these toxic chemicals, tied to chemical and military industries. The findings highlight a critical environmental and health crisis requiring immediate action.",
+      "resume_zh": "环保活动家卡米尔·埃蒂安公布两年调查结果，揭示比利时PFA斯污染严重，该国可能位居全球首位。其新书《因子X》曝光高水平的永久性污染物，与化工和军工业相关。这些发现凸显严重的环境和健康危机，亟需紧急应对。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les Pfas, surnommés ‘polluants éternels’, persistent dans l’environnement pendant des décennies sans se dégrader, posant un défi historique aux politiques environnementales. Leur contamination massive en Belgique s’explique par des décennies d’industrialisation non régulée, notamment dans les zones industrielles et militaires comme la région de Liège. À court terme, ces substances menacent la santé publique via l’eau potable et les sols, aggravant des maladies comme le cancer. À moyen terme, les coûts de dépollution pourraient peser sur les budgets publics et les assurances, avec des répercussions économiques sur les secteurs liés à l’eau et à l’agriculture. Long terme, une prise de conscience internationale est nécessaire pour encadrer ces industries, mais les lobbies chimiques freinent souvent les régulations strictes. Les associations écologistes appellent à une transparence totale, tandis que l’État belge doit arbitrer entre pression industrielle et protection citoyenne.",
+      "analyse_en": "PFAS, dubbed ‘forever chemicals’, persist in the environment for decades without breaking down, presenting a historic challenge to environmental policies. Belgium’s severe contamination stems from decades of unregulated industrialization, particularly in industrial and military zones like Liège. Short-term, these substances threaten public health through contaminated water and soil, exacerbating diseases like cancer. Medium-term, depollution costs could strain public budgets and insurance sectors, impacting water and agriculture industries. Long-term, global awareness is needed to regulate these industries, but chemical lobbies often block strict regulations. Environmental groups demand full transparency, while Belgium’s government must balance industrial pressure with citizen protection.",
+      "analyse_zh": "PFA斯污染物因难降解而被称为‘永久性污染物’，对环境政策提出长期挑战。比利时污染严重源于多年未监管的工业化，特别是利日地区的化工和军工业。短期内，这些污染物通过饮用水和土壤威胁公众健康，加剧癌症等疾病风险。中期内，清理成本可能压垮公共预算和保险行业，影响水资源和农业产业。长期来看，需要国际社会共同应对，但化工行业利益集团往往阻碍严格法规。环保组织要求全面透明，而比利时政府必须在产业压力与民众保护之间权衡。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/planete/2026/11/19/camille-etienne-la-belgique-est-la-premiere-ou-la-deuxieme-en-termes-de-contamination-aux-pfas-NFYTZEFFSFBN7ETRBVKA5OCUAM/",
+      "image": "https://www.lalibre.be/resizer/v2/MFXEG4GXRZALVGPWKQNITY5UTY.jpg?auth=135ae91e8b234ef97303f123d3253b0f98a041d81baec34717bbeefdd529eebe&width=1620&height=1620&quality=85&focal=2500%2C2000",
+      "date": "2026-11-19",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurances environnementales et santé publique",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des technologies de dépollution",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances environnementales et santé publique",
+          "secteur_en": "Environmental insurance and public health",
+          "secteur_zh": "环境保险和公共卫生",
+          "effet_fr": "Les assureurs pourraient voir une hausse des sinistres liés aux maladies liées aux Pfas, entraînant des réévaluations des primes et des exclusions de couverture pour les zones contaminées.",
+          "effet_en": "Insurers may face increased claims for PFAS-related illnesses, leading to premium adjustments and coverage exclusions for contaminated areas.",
+          "effet_zh": "保险公司可能面临因PFA斯相关疾病导致的赔偿增加，导致保费调整和对污染区域的理赔排除。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des technologies de dépollution",
+          "secteur_en": "Depollution technology market",
+          "secteur_zh": "污染治理技术市场",
+          "effet_fr": "La demande en solutions innovantes pour traiter les Pfas pourrait dynamiser ce secteur, avec des investissements accrus dans la R&D et les partenariats public-privé.",
+          "effet_en": "Demand for innovative PFAS treatment solutions may boost this sector, with increased R&D investments and public-private partnerships.",
+          "effet_zh": "对PFA斯治理技术的需求可能推动该行业发展，带来研发投资和公私合作的增加。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-20T18:22:04.436269",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_142815",
+      "titre": "Féminicide en Seine-Saint-Denis : garagiste écroué",
+      "titre_en": "Garage Owner Jailed for Feminicide in Seine-Saint-Denis",
+      "titre_zh": "塞纳-圣但尼女性被害案男子入狱",
+      "titre_ru": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
+      "titre_fa": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
+      "titre_ar": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
+      "titre_original": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
+      "resume": "Un garagiste de 51 ans a été mis en examen et écroué pour le féminicide d’une femme découverte morte dans sa camionnette. Lors de son audition, il a reconnu être l’auteur du crime, confirmant une violence conjugale ou intrafamiliale. Ce cas illustre la persistance des violences sexistes en France, malgré les dispositifs de protection existants.",
+      "resume_en": "A 51-year-old garage owner was jailed for the feminicide of a woman found dead in his truck. During his hearing, he admitted to the crime, confirming domestic or intimate partner violence. This case highlights the ongoing issue of sexist violence in France, despite existing protection measures.",
+      "resume_zh": "一名51岁的汽修工因在卡车内发现女性尸体而被起诉并关押，他承认犯罪。此案暴露了法国家庭暴力或伴侣暴力的严重问题，尽管有保护措施。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les féminicides en France, souvent liés à des violences conjugales, reflètent un problème structurel de patriarcat et de normalisation de la domination masculine. Les mécanismes de protection comme les ordonnances de protection ou les bracelets anti-rapprochement peinent à dissuader les agresseurs, faute de moyens humains et financiers suffisants. Les conséquences immédiates incluent un traumatisme familial et une médiatisation qui peut stigmatiser les victimes ou leurs proches. À moyen terme, ce cas pourrait relancer les débats sur le renforcement des peines et la formation des forces de l’ordre. Long terme, une transformation sociale profonde est nécessaire pour éduquer aux égalités et briser les cycles de violence. Les associations féministes appellent à une mobilisation politique, tandis que l’État doit garantir des ressources adéquates pour les services d’aide aux victimes.",
+      "analyse_en": "Feminicides in France, often tied to domestic violence, reflect a structural issue of patriarchy and the normalization of male dominance. Protection measures like restraining orders or anti-approach bracelets fail to deter abusers due to insufficient human and financial resources. Immediate consequences include family trauma and media exposure that may stigmatize victims or their relatives. Medium-term, this case could reignite debates on harsher penalties and police training. Long-term, a deep social transformation is needed to educate for equality and break violence cycles. Feminist groups call for political mobilization, while the state must ensure adequate resources for victim support services.",
+      "analyse_zh": "法国女性被害案多与家庭暴力相关，反映出男权制度和男性主导文化的根深蒂固问题。保护措施如禁令或反接近警戒器因资源不足难以有效阻止加害者。短期内，案件带来家庭创伤和媒体曝光，可能加剧对受害者的歧视。中期内，此案可能推动加强刑罚和警方培训的讨论。长期来看，需要社会深层变革，通过教育促进性别平等并打破暴力循环。女性主义组织呼吁政治行动，而政府必须为受害者服务提供足够资源。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Société",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html",
+      "image": "https://www.franceinfo.fr/pictures/QLJIINjX3Kj6Bpops3UWVbnte3k/1200x675/2026/11/18/6afe140abd861038622527.jpg",
+      "date": "2026-11-18",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurances responsabilité civile",
+          "hausse": true
+        },
+        {
+          "label": "▲ Fonds d’aide aux victimes",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances responsabilité civile",
+          "secteur_en": "Civil liability insurance",
+          "secteur_zh": "民事责任保险",
+          "effet_fr": "Les assureurs pourraient subir une hausse des réclamations pour négligence ou manquement à la protection des victimes, renforçant les contrôles sur les contrats liés aux violences domestiques.",
+          "effet_en": "Insurers may face increased claims for negligence or failure to protect victims, leading to stricter controls on domestic violence-related insurance policies.",
+          "effet_zh": "保险公司可能面临因疏忽或未能保护受害者而导致的赔偿增加，加强对家庭暴力相关保险合同的监管。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds d’aide aux victimes",
+          "secteur_en": "Victim support funds",
+          "secteur_zh": "受害者援助基金",
+          "effet_fr": "La pression médiatique et politique pourrait inciter à une augmentation des budgets alloués à ces fonds, mais leur efficacité dépendra de la rapidité et de la qualité des interventions locales.",
+          "effet_en": "Media and political pressure may lead to increased budgets for victim support funds, but their effectiveness will depend on the speed and quality of local interventions.",
+          "effet_zh": "媒体和政治压力可能推动受害者援助基金预算增加，但其效果取决于当地干预的速度和质量。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-20T18:22:04.436291",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_307782",
       "titre": "Féminicide en Seine-et-Marne : double drame",
       "titre_en": "Femicide in Seine-et-Marne: double tragedy",
@@ -6192,126 +6312,6 @@
       ],
       "created_at": "2026-11-20T09:45:00.573033",
       "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_enfants_335147",
-      "titre": "Enfants placés : inégalités scolaires criantes",
-      "titre_en": "Foster children face severe school inequalities",
-      "titre_zh": "被收养儿童面临严重教育不平等",
-      "titre_ru": "Дети из приемных семей сталкиваются с неравными образовательными шансами",
-      "titre_fa": "کودکان تحت مراقبت دولتی با نابرابری‌های آموزشی روبرو هستند",
-      "titre_ar": "الطفلون المعولون على الدولة يواجهون عدم المساواة في الفرص التعليمية",
-      "titre_original": "Protection de l'enfance : les parcours scolaires condamnés des enfants placés",
-      "resume": "Problematik révèle les écarts scolaires abyssaux entre enfants placés et leurs pairs non placés. Ces enfants, souvent en situation de précarité, subissent des ruptures éducatives et des parcours instables. Les conséquences se répercutent sur leur insertion future dans la société.",
-      "resume_en": "Problematik highlights the stark educational gaps between foster children and their non-foster peers. Often in precarious situations, these children face educational disruptions and unstable pathways. The consequences affect their future societal integration.",
-      "resume_zh": "Problematik揭示被收养儿童与非被收养儿童之间的教育鸿沟。这些孩子通常处于贫困状态，面临教育中断和不稳定的学习轨迹。后果影响他们未来的社会融入。",
-      "resume_ru": "Исследование «Проблематик» выявляет серьезные неравенства в образовательных траекториях детей, находящихся под опекой. Они чаще меняют школы, испытывают трудности с адаптацией и отстают в учебе. Такие дети сталкиваются с социальными барьерами, которые ограничивают их будущие возможности.",
-      "resume_fa": "مقاله «پروبلماتیک» نابرابری‌های آموزشی قابل توجهی را در مسیر تحصیلی کودکان تحت مراقبت دولتی نشان می‌دهد. این کودکان بیشتر مدارس را تغییر می‌دهند، با مشکل سازگاری و عقب ماندگی در تحصیل روبرو هستند. آنها با مانع‌های اجتماعی روبرو هستند که آینده‌شان را محدود می‌کند.",
-      "resume_ar": "تظهر دراسة «المشاكل» عدم المساواة التعليمية الكبيرة في مسارات الأطفال المعولون على الدولة. هؤلاء الأطفال يتغيرون المدارس أكثر، يواجهون صعوبات في التكيف والتراجع في الدراسة. يواجهون عقبات اجتماعية تقيد بآفاقهم المستقبلية.",
-      "analyse_detaillee": "Les enfants placés sont souvent victimes de mobilités répétées, de changements d’écoles et de ruptures relationnelles, perturbant leur parcours scolaire. Les causes profondes incluent un système de protection de l’enfance sous-financé et une coordination insuffisante entre acteurs sociaux et éducatifs. À court terme, ces inégalités aggravent les risques de décrochage scolaire et d’exclusion. À moyen terme, elles limitent leurs chances d’accès à l’enseignement supérieur. Long terme, elles perpétuent les cycles de pauvreté et de marginalisation. Les associations plaident pour un renforcement des moyens alloués à l’éducation des enfants placés, tandis que l’État promet des réformes structurelles.",
-      "analyse_en": "Foster children often face repeated relocations, school changes, and relational disruptions, disrupting their educational paths. Root causes include underfunded child protection systems and poor coordination between social and educational actors. Short-term, these inequalities increase dropout risks and exclusion. Medium-term, they limit access to higher education. Long-term, they perpetuate cycles of poverty and marginalization. NGOs advocate for increased funding for foster children’s education, while the government pledges structural reforms.",
-      "analyse_zh": "被收养儿童经常面临频繁搬迁、学校变更和关系中断，扰乱了他们的学习轨迹。深层原因包括儿童保护系统资金不足和社会教育部门协调不力。短期内，这些不平等加剧了辍学和排斥的风险。中期内，它们限制了进入高等教育的机会。长期来看，它们会延续贫困和边缘化的循环。非政府组织呼吁增加被收养儿童教育的资金投入，而政府承诺进行结构性改革。",
-      "analyse_ru": "Система опеки часто не учитывает образовательные потребности детей, что приводит к частым переездам и сменам школ. Это создает стресс, снижает успеваемость и ограничивает доступ к качественному образованию. Последствия проявляются в трудностях с трудоустройством и социальной интеграцией во взрослой жизни. Перспективы улучшения требуют координации усилий между органами опеки, школами и психологами. Позиции сторон разделились: педагоги настаивают на стабильности, а эксперты предлагают индивидуальные программы поддержки.",
-      "analyse_fa": "سیستم مراقبت اغلب نیازهای آموزشی کودکان را در نظر نمی‌گیرد، که منجر به تغییرات مکرر مدرسه و استرس می‌شود. این امر باعث کاهش عملکرد تحصیلی و محدودیت دسترسی به آموزش با کیفیت می‌شود. پیامدهای این وضعیت در مشکلات استخدام و ادغام اجتماعی در بزرگسالی ظاهر می‌شود. بهبود وضعیت نیازمند هماهنگی بین سازمان‌های مراقبت، مدارس و روانشناسان است. معلمان بر پایداری تأکید می‌کنند، در حالی که متخصصان برنامه‌های حمایت فردی را پیشنهاد می‌دهند.",
-      "analyse_ar": "نظام الرعاية غالبًا ما لا يأخذ احتياجات التعليم للأطفال في الاعتبار، مما يؤدي إلى تغييرات متكررة للمدارس وتسبب في التوتر. هذا يقلل من مستوى الأداء الدراسي ويقيّد الوصول إلى التعليم الجيد الجودة. تظهر العواقب في صعوبات التوظيف والتكامل الاجتماعي في الحياة الكبار. تحسين الوضع يتطلب تنسيق جهود بين مؤسسات الرعاية والمدارس والاختصاصيين النفسيين. يدعو المعلمون إلى الاستقرار، بينما يقترح الخبراء برامج دعم فردية.",
-      "categorie": "Éducation",
-      "source": "Basta.media",
-      "url": "https://portail.basta.media/articles/protection-de-l-enfance-les-parcours-scolaires-condamnes-des-enfants-places",
-      "image": "https://portail.basta.media/local/cache-vignettes/L1200xH630/123ca980a8ebe672208e77d5a00a64-61b09.webp",
-      "date": "2026-11-19",
-      "pays": "pol_enfants",
-      "badges": [
-        {
-          "label": "▼ Fonds d’investissement éducatif (FIE)",
-          "hausse": false
-        },
-        {
-          "label": "▲ Assurance scolaire (responsabilité civile)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Fonds d’investissement éducatif (FIE)",
-          "secteur_en": "Educational investment funds (EIF)",
-          "secteur_zh": "教育投资基金",
-          "effet_fr": "Les fonds pourraient se rediriger vers des programmes ciblant les enfants placés, réduisant les investissements traditionnels dans l’éducation publique.",
-          "effet_en": "Funds may shift toward programs targeting foster children, reducing traditional investments in public education.",
-          "effet_zh": "资金可能转向针对被收养儿童的项目，减少对公共教育的传统投资。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurance scolaire (responsabilité civile)",
-          "secteur_en": "School liability insurance (CLI)",
-          "secteur_zh": "学校责任保险",
-          "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques liés aux ruptures éducatives et aux problèmes de comportement chez les enfants placés.",
-          "effet_en": "Insurers may raise premiums to cover risks related to educational disruptions and behavioral issues among foster children.",
-          "effet_zh": "保险公司可能提高保费以覆盖被收养儿童教育中断和行为问题带来的风险。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-20T09:45:00.573062",
-      "sous_categorie": "enfants"
-    },
-    {
-      "id": "pol_env_704143",
-      "titre": "Polluants éternels : TFA détecté chez salariés",
-      "titre_en": "Forever chemicals: TFA found in workers",
-      "titre_zh": "永久性污染物：工人体内检测到TFA",
-      "titre_ru": "В Солидре впервые измерено содержание TFA в крови работников завода Solvay",
-      "titre_fa": "در سالندرس برای اولین بار میزان TFA در خون کارگران کارخانه سولوا اندازه‌گیری شد",
-      "titre_ar": "تم قياس مستوى TFA في دماء عمال مصنع سولفاي في ساليندر لأول مرة",
-      "titre_original": "A Salindres dans le Gard, le TFA mesuré pour la première fois dans le sang de salariés de l'usine Solvay qui produisait des PFAS",
-      "resume": "Une étude indépendante a mesuré pour la première fois le TFA (acide perfluorooctane sulfonique) dans le sang de salariés de l’usine Solvay à Salindres. Les niveaux relevés dépassent les données scientifiques disponibles, soulignant un risque sanitaire majeur. Ce polluant, classé comme cancérigène probable, pose des questions sur la responsabilité de l’industrie chimique.",
-      "resume_en": "An independent study measured TFA (perfluorooctane sulfonic acid) for the first time in the blood of Solvay workers at Salindres. Levels exceed available scientific data, highlighting a major health risk. This probable carcinogen raises questions about the chemical industry’s responsibility.",
-      "resume_zh": "独立研究首次在索尔维公司萨林德工厂工人血液中检测到TFA（全氟辛磺酸）。检测水平超出现有科学数据，凸显重大健康风险。此类可能致癌物质引发对化工行业责任的质疑。",
-      "resume_ru": "Независимое исследование впервые выявило уровень «вечного загрязнителя» TFA в крови сотрудников завода Solvay в Солидре (Гар). Данные превышают редкие научные показатели, что вызывает обеспокоенность по поводу долгосрочных последствий для здоровья. Это открытие требует дальнейшего изучения и принятия мер по снижению воздействия.",
-      "resume_fa": "یک مطالعه مستقل برای اولین بار میزان آلاینده «مستمر» TFA را در خون کارگران کارخانه سولوا در سالندرس (گارد) اندازه‌گیری کرد. این داده‌ها از اندازهٔ کمیاب داده‌های علمی موجود فراتر می‌رود و نگرانی‌هایی در مورد پیامدهای بلندمدت بر سلامت ایجاد می‌کند. این کشف نیاز به بررسی بیشتر و اقدامات کاهش تأثیر دارد.",
-      "resume_ar": "أجرى بحث مستقل قياسًا لأول مرة لمستوى الملوث «الدائم» TFA في دماء عمال مصنع سولفاي في ساليندر (غارد). هذه البيانات تتجاوز القليل من البيانات العلمية المتاحة، مما يثير قلقًا بشأن العواقب طويلة الأمد على الصحة. هذا الاكتشاف يتطلب مزيدًا من الدراسة واتخاذ تدابير لتقليل التأثير.",
-      "analyse_detaillee": "Le TFA, ou acide perfluorooctane sulfonique, est un polluant persistant classé comme cancérigène probable par l’OMS. Son utilisation massive dans les industries chimiques et textiles depuis les années 1950 a contaminé sols et eaux, avec des effets sanitaires encore mal évalués. Les conséquences à court terme incluent des risques accrus de cancers et de troubles hormonaux pour les travailleurs exposés. À moyen terme, la contamination des écosystèmes pourrait aggraver les crises sanitaires locales. Long terme, sans régulation stricte, ces polluants pourraient devenir un fardeau environnemental et économique pour les générations futures. Les associations environnementales exigent une responsabilité légale de Solvay, tandis que l’État promet des enquêtes et des mesures de dépollution.",
-      "analyse_en": "TFA, or perfluorooctane sulfonic acid, is a persistent pollutant classified as a probable carcinogen by the WHO. Its widespread use in chemical and textile industries since the 1950s has contaminated soils and waters, with health impacts still poorly understood. Short-term consequences include increased cancer and hormonal disorder risks for exposed workers. Medium-term, ecosystem contamination could worsen local health crises. Long-term, without strict regulation, these pollutants may become an environmental and economic burden for future generations. Environmental groups demand legal accountability from Solvay, while the government pledges investigations and decontamination measures.",
-      "analyse_zh": "TFA（全氟辛磺酸）是一种持久性污染物，世界卫生组织将其列为可能致癌物。自20世纪50年代以来，化工和纺织行业广泛使用该物质，导致土壤和水体污染，但健康影响尚未全面评估。短期内，暴露工人面临癌症和内分泌紊乱风险增加。中期内，生态系统污染可能加剧当地健康危机。长期来看，若缺乏严格监管，这些污染物将成为后代的环境和经济负担。环保组织要求索尔维公司承担法律责任，而政府承诺进行调查和污染治理。",
-      "analyse_ru": "Наличие TFA в крови работников указывает на хроническое воздействие опасных химических веществ, что может привести к серьезным заболеваниям. Это подтверждает необходимость строгого контроля за производством и использованием PFAS. Последствия для здоровья могут проявиться через десятилетия, поэтому важно разработать программы мониторинга и профилактики. Перспективы включают ужесточение экологических норм и поиск альтернативных технологий. Позиции сторон разделились: экологи требуют полного запрета PFAS, а производители настаивают на дальнейших исследованиях.",
-      "analyse_fa": "وجود TFA در خون کارگران نشان‌دهنده تأثیر مداوم مواد شیمیایی خطرناک است که می‌تواند منجر به بیماری‌های جدی شود. این موضوع نیاز به کنترل سختگیرانه بر تولید و استفاده از PFAS را تأیید می‌کند. پیامدهای سلامتی ممکن است پس از دهه‌ها ظاهر شوند، بنابراین برنامه‌های نظارت و پیشگیری ضروری است. چشم‌اندازها شامل تشدید استانداردهای زیست‌محیطی و جستجوی فناوری‌های جایگزین است. اکولوژیست‌ها از ممنوعیت کامل PFAS حمایت می‌کنند، در حالی که تولیدکنندگان بر تحقیقات بیشتر تأکید می‌کنند.",
-      "analyse_ar": "وجود TFA في دماء العمال يشير إلى تأثير دائمي للمواد الكيميائية الخطرة، والتي قد تؤدي إلى أمراض خطيرة. هذا يؤكد الحاجة إلى تحكم صارم في إنتاج واستخدام PFAS. قد تظهر العواقب الصحية بعد عقود، لذلك من الضروري تطوير برامج مراقبة وقائية. الآفاق تشمل تشديد المعايير البيئية والبحث عن تقنيات بديلة. يدعو البيئيةون إلى حظر كامل لـ PFAS، بينما يصر المنتجون على مزيد من الأبحاث.",
-      "categorie": "Environnement",
-      "source": "Franceinfo.fr",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/info-france-3-a-salindres-le-tfa-mesure-pour-la-premiere-fois-dans-le-sang-de-salaries-de-l-usine-solvay-qui-produisait-des-pfas-3451992.html",
-      "image": "https://france3-regions.franceinfo.fr/image/TYUklC5smFIXUXjl2-iC68YyGXQ/930x620/regions/2026/11/18/6afddaf1f00b0808341720.jpg",
-      "date": "2026-11-19",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance environnementale (pollution)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Marché des obligations vertes",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance environnementale (pollution)",
-          "secteur_en": "Environmental insurance (pollution)",
-          "secteur_zh": "环境污染保险",
-          "effet_fr": "Les primes pourraient exploser en raison de l’augmentation des risques liés aux polluants persistants et aux litiges environnementaux.",
-          "effet_en": "Premiums may skyrocket due to increased risks of persistent pollutants and environmental lawsuits.",
-          "effet_zh": "保费可能因持久性污染物和环境诉讼风险上升而大幅上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des obligations vertes",
-          "secteur_en": "Green bond market",
-          "secteur_zh": "绿色债券市场",
-          "effet_fr": "Les investisseurs pourraient se détourner des entreprises polluantes, réduisant la demande en obligations vertes liées à ces secteurs.",
-          "effet_en": "Investors may shun polluting companies, reducing demand for green bonds tied to these sectors.",
-          "effet_zh": "投资者可能避开污染企业，减少与这些行业相关的绿色债券需求。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-11-20T09:45:00.573113",
-      "sous_categorie": "environnement"
     },
     {
       "id": "pol_femmes_918610",
@@ -6554,64 +6554,64 @@
       "sous_categorie": "femmes"
     },
     {
-      "id": "pol_femmes_337101",
-      "titre": "Féminicide : garde à vue après meurtre",
-      "titre_en": "Femicide: Arrest After Murder Case",
-      "titre_zh": "女性谋杀案：嫌犯被拘留",
-      "titre_ru": "Убийство женщины в Шарлевиль-Мезьере: мужчина задержан",
-      "titre_fa": "قتل همسر سابق: مرد ۴۰ ساله در شارلویل به دستگیری در آمده است",
-      "titre_ar": "قتل امرأة: رجل في الأربعينيات تحت الحجز بعد قتل زوجته السابقة",
-      "titre_original": "Féminicide. Charleville-Mézières : un quadragénaire en garde à vue après avoir tué son ex-conjointe",
-      "resume": "Vendredi soir, une femme de 40 ans a été retrouvée morte dans une cave des Ardennes, étranglée par son ex-conjoint. Le suspect, également quadragénaire, a été placé en garde à vue. Ce drame s’inscrit dans une série de féminicides en hausse en France, soulignant des tensions persistantes dans les relations conjugales.",
-      "resume_en": "Last Friday evening, a 40-year-old woman was found dead in a basement in the Ardennes, strangled by her ex-partner. The suspect, also in his 40s, was placed under arrest. This tragedy follows a rise in femicides in France, highlighting ongoing tensions in marital relationships.",
-      "resume_zh": "周五晚上，一名40岁女性在阿登地区地下室被发现死于他杀，系被前夫勒死。嫌犯也是40岁左右，已被拘留。此案加剧了法国女性谋杀案上升趋势，反映出婚姻关系中长期存在的紧张局势。",
-      "resume_ru": "В пятницу вечером в подвале дома, где проживала пара в Арденнах, было обнаружено тело женщины. По предварительным данным, она была задушена. Мужчина в возрасте около сорока лет находится под стражей по подозрению в совершении преступления.",
-      "resume_fa": "جمعه شب، جسد یک زن در زیرزمین آپارتمان در آردن‌ها پیدا شد. وی به دلیل خفگی کشته شده بود. مردی در حدود چهل سالگی به دلیل مشکوک بودن به این جنایت تحت بازداشت قرار گرفته است.",
-      "resume_ar": "في مساء يوم الجمعة، اكتُشف جثة امرأة في الخزانة في المبنى الذي كان يعيش فيه الزوجان في أروندن. توفيت بسبب الاختناق. رجل في الأربعينيات من عمره تحت الحجز بتهمة هذا الجريمة.",
-      "analyse_detaillee": "La France enregistre une augmentation alarmante des féminicides depuis plusieurs années, avec 146 victimes en 2022 selon les chiffres officiels. Ce cas de Charleville-Mézières illustre les mécanismes violents de la rupture conjugale, souvent aggravés par des facteurs socio-économiques comme le chômage ou l’isolement. Les associations féministes dénoncent un manque de prévention et de protection des victimes, malgré les plans gouvernementaux. Les conséquences psychologiques pour les enfants témoins sont sous-estimées, aggravant les cycles de violence. À moyen terme, la pression médiatique pourrait accélérer les réformes législatives, comme la généralisation des bracelets anti-rapprochement. Long terme, une approche globale (éducation, emploi des femmes) est nécessaire pour briser ce cercle vicieux. Les acteurs comme le gouvernement et les associations restent divisés sur les priorités : répression vs prévention.",
-      "analyse_en": "France has seen an alarming rise in femicides over the past years, with 146 victims recorded in 2022. This case in Charleville-Mézières highlights the violent dynamics of marital breakups, often exacerbated by socio-economic factors like unemployment or isolation. Feminist groups criticize insufficient prevention and victim protection despite government plans. The psychological impact on children exposed to such violence is often overlooked, perpetuating cycles of abuse. Short-term, media pressure may push for legislative reforms like mandatory anti-approach bracelets. Long-term, a comprehensive approach (women’s education, employment) is essential to break this cycle. Government and advocacy groups remain divided between enforcement and prevention strategies.",
-      "analyse_zh": "法国近年女性谋杀案持续上升，2022年官方统计有146例受害者。此起阿登地区案件暴露了婚姻破裂时暴力机制，往往因失业或孤立等社会经济因素恶化。女性主义组织批评防范措施不足，尽管政府有相关计划。暴力见证者的心理影响被忽视，加剧暴力循环。短期内，媒体压力可能推动立法改革，如普及反接近警戒器。长期来看，需要全面措施（女性教育、就业支持）打破恶性循环。政府和NGO在“打击”与“预防”优先级上意见分歧。",
-      "analyse_ru": "Трагическое убийство женщины в Шарлевиль-Мезьере вновь вызвало общественный резонанс в связи с ростом числа женских убийств во Франции. Такие преступления часто связаны с насильственными отношениями в семье, где мужчины используют физическую силу для подавления партнерш. Последствия для общества включают травмы близких, а также усиление страхов среди женщин перед возможностью повторения подобных случаев. Позиция властей остается неизменной: необходимо ужесточение наказаний и улучшение системы поддержки жертв насилия. Однако, по мнению экспертов, без изменения культурных стереотипов и гендерных отношений ситуация не изменится кардинально.",
-      "analyse_fa": "قتل این زن در شارلویل مجدداً موجی از توجه عمومی در فرانسه به جنایات علیه زنان ایجاد کرده است. این جنایات اغلب با خشونت خانگی مرتبط هستند که مردان برای سرکوب همسران خود از خشونت فیزیکی استفاده می‌کنند. پیامدهای اجتماعی این جنایات شامل آسیب روانی به خانواده و افزایش ترس زنان از احتمال تکرار چنین حوادثی است. دولت همچنان بر این باور است که باید مجازات‌ها تشدید و سیستم حمایت از قربانیان خشونت تقویت شود. اما متخصصان معتقدند که بدون تغییر استراتژی‌های فرهنگی و روابط جنسیتی، وضعیت به‌طور اساسی تغییر نخواهد کرد.",
-      "analyse_ar": "قتل هذه المرأة في شارلفيلي مرة أخرى أثار موجًا من الاهتمام العام في فرنسا بشأن جرائم قتل النساء. هذه الجريمة غالبًا ما ترتبط بالعنف المنزلي، حيث يستخدم الرجال القوة البدنية لإذلال زوجاتهم. العواقب الاجتماعية تشمل الصدمة النفسية للعائلة والأقارب، بالإضافة إلى زيادة الخوف لدى النساء من احتمال تكرار مثل هذه الحوادث. موقف السلطات لا يزال ثابتًا: يجب تشديد العقوبات وتحسين نظام دعم الضحايا. ومع ذلك، يعتقد الخبراء أن بدون تغيير في السtereotypes الثقافية والعلاقات الجندرية، لن تتغير الوضعية بشكل جذري.",
-      "categorie": "Société",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/14/charleville-mezieres-un-quadragenaire-en-garde-a-vue-apres-avoir-tue-son-ex-conjointe",
-      "image": "https://cdn-s-www.ledauphine.com/images/57E2AC1E-7376-4765-96CD-2CB0FEF28CB2/FB1200/photo-1794659975.jpg",
-      "date": "2026-11-14",
-      "pays": "pol_femmes",
+      "id": "pol_enfants_335147",
+      "titre": "Enfants placés : inégalités scolaires criantes",
+      "titre_en": "Foster children face severe school inequalities",
+      "titre_zh": "被收养儿童面临严重教育不平等",
+      "titre_ru": "Дети из приемных семей сталкиваются с неравными образовательными шансами",
+      "titre_fa": "کودکان تحت مراقبت دولتی با نابرابری‌های آموزشی روبرو هستند",
+      "titre_ar": "الطفلون المعولون على الدولة يواجهون عدم المساواة في الفرص التعليمية",
+      "titre_original": "Protection de l'enfance : les parcours scolaires condamnés des enfants placés",
+      "resume": "Problematik révèle les écarts scolaires abyssaux entre enfants placés et leurs pairs non placés. Ces enfants, souvent en situation de précarité, subissent des ruptures éducatives et des parcours instables. Les conséquences se répercutent sur leur insertion future dans la société.",
+      "resume_en": "Problematik highlights the stark educational gaps between foster children and their non-foster peers. Often in precarious situations, these children face educational disruptions and unstable pathways. The consequences affect their future societal integration.",
+      "resume_zh": "Problematik揭示被收养儿童与非被收养儿童之间的教育鸿沟。这些孩子通常处于贫困状态，面临教育中断和不稳定的学习轨迹。后果影响他们未来的社会融入。",
+      "resume_ru": "Исследование «Проблематик» выявляет серьезные неравенства в образовательных траекториях детей, находящихся под опекой. Они чаще меняют школы, испытывают трудности с адаптацией и отстают в учебе. Такие дети сталкиваются с социальными барьерами, которые ограничивают их будущие возможности.",
+      "resume_fa": "مقاله «پروبلماتیک» نابرابری‌های آموزشی قابل توجهی را در مسیر تحصیلی کودکان تحت مراقبت دولتی نشان می‌دهد. این کودکان بیشتر مدارس را تغییر می‌دهند، با مشکل سازگاری و عقب ماندگی در تحصیل روبرو هستند. آنها با مانع‌های اجتماعی روبرو هستند که آینده‌شان را محدود می‌کند.",
+      "resume_ar": "تظهر دراسة «المشاكل» عدم المساواة التعليمية الكبيرة في مسارات الأطفال المعولون على الدولة. هؤلاء الأطفال يتغيرون المدارس أكثر، يواجهون صعوبات في التكيف والتراجع في الدراسة. يواجهون عقبات اجتماعية تقيد بآفاقهم المستقبلية.",
+      "analyse_detaillee": "Les enfants placés sont souvent victimes de mobilités répétées, de changements d’écoles et de ruptures relationnelles, perturbant leur parcours scolaire. Les causes profondes incluent un système de protection de l’enfance sous-financé et une coordination insuffisante entre acteurs sociaux et éducatifs. À court terme, ces inégalités aggravent les risques de décrochage scolaire et d’exclusion. À moyen terme, elles limitent leurs chances d’accès à l’enseignement supérieur. Long terme, elles perpétuent les cycles de pauvreté et de marginalisation. Les associations plaident pour un renforcement des moyens alloués à l’éducation des enfants placés, tandis que l’État promet des réformes structurelles.",
+      "analyse_en": "Foster children often face repeated relocations, school changes, and relational disruptions, disrupting their educational paths. Root causes include underfunded child protection systems and poor coordination between social and educational actors. Short-term, these inequalities increase dropout risks and exclusion. Medium-term, they limit access to higher education. Long-term, they perpetuate cycles of poverty and marginalization. NGOs advocate for increased funding for foster children’s education, while the government pledges structural reforms.",
+      "analyse_zh": "被收养儿童经常面临频繁搬迁、学校变更和关系中断，扰乱了他们的学习轨迹。深层原因包括儿童保护系统资金不足和社会教育部门协调不力。短期内，这些不平等加剧了辍学和排斥的风险。中期内，它们限制了进入高等教育的机会。长期来看，它们会延续贫困和边缘化的循环。非政府组织呼吁增加被收养儿童教育的资金投入，而政府承诺进行结构性改革。",
+      "analyse_ru": "Система опеки часто не учитывает образовательные потребности детей, что приводит к частым переездам и сменам школ. Это создает стресс, снижает успеваемость и ограничивает доступ к качественному образованию. Последствия проявляются в трудностях с трудоустройством и социальной интеграцией во взрослой жизни. Перспективы улучшения требуют координации усилий между органами опеки, школами и психологами. Позиции сторон разделились: педагоги настаивают на стабильности, а эксперты предлагают индивидуальные программы поддержки.",
+      "analyse_fa": "سیستم مراقبت اغلب نیازهای آموزشی کودکان را در نظر نمی‌گیرد، که منجر به تغییرات مکرر مدرسه و استرس می‌شود. این امر باعث کاهش عملکرد تحصیلی و محدودیت دسترسی به آموزش با کیفیت می‌شود. پیامدهای این وضعیت در مشکلات استخدام و ادغام اجتماعی در بزرگسالی ظاهر می‌شود. بهبود وضعیت نیازمند هماهنگی بین سازمان‌های مراقبت، مدارس و روانشناسان است. معلمان بر پایداری تأکید می‌کنند، در حالی که متخصصان برنامه‌های حمایت فردی را پیشنهاد می‌دهند.",
+      "analyse_ar": "نظام الرعاية غالبًا ما لا يأخذ احتياجات التعليم للأطفال في الاعتبار، مما يؤدي إلى تغييرات متكررة للمدارس وتسبب في التوتر. هذا يقلل من مستوى الأداء الدراسي ويقيّد الوصول إلى التعليم الجيد الجودة. تظهر العواقب في صعوبات التوظيف والتكامل الاجتماعي في الحياة الكبار. تحسين الوضع يتطلب تنسيق جهود بين مؤسسات الرعاية والمدارس والاختصاصيين النفسيين. يدعو المعلمون إلى الاستقرار، بينما يقترح الخبراء برامج دعم فردية.",
+      "categorie": "Éducation",
+      "source": "Basta.media",
+      "url": "https://portail.basta.media/articles/protection-de-l-enfance-les-parcours-scolaires-condamnes-des-enfants-places",
+      "image": "https://portail.basta.media/local/cache-vignettes/L1200xH630/123ca980a8ebe672208e77d5a00a64-61b09.webp",
+      "date": "2026-11-19",
+      "pays": "pol_enfants",
       "badges": [
         {
-          "label": "▲ Assurance responsabilité civile (dommages corporels)",
-          "hausse": true
+          "label": "▼ Fonds d’investissement éducatif (FIE)",
+          "hausse": false
         },
         {
-          "label": "▼ Fonds de solidarité pour les victimes d’agressions",
-          "hausse": false
+          "label": "▲ Assurance scolaire (responsabilité civile)",
+          "hausse": true
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance responsabilité civile (dommages corporels)",
-          "secteur_en": "Civil liability insurance (bodily harm)",
-          "secteur_zh": "人身损害责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de la hausse des risques liés aux violences conjugales et des litiges familiaux complexes.",
-          "effet_en": "Premiums may rise due to increased risks of domestic violence and complex family litigation.",
-          "effet_zh": "由于家庭暴力和复杂家庭纠纷风险上升，保费可能上涨。",
-          "hausse": true
+          "secteur_fr": "Fonds d’investissement éducatif (FIE)",
+          "secteur_en": "Educational investment funds (EIF)",
+          "secteur_zh": "教育投资基金",
+          "effet_fr": "Les fonds pourraient se rediriger vers des programmes ciblant les enfants placés, réduisant les investissements traditionnels dans l’éducation publique.",
+          "effet_en": "Funds may shift toward programs targeting foster children, reducing traditional investments in public education.",
+          "effet_zh": "资金可能转向针对被收养儿童的项目，减少对公共教育的传统投资。",
+          "hausse": false
         },
         {
-          "secteur_fr": "Fonds de solidarité pour les victimes d’agressions",
-          "secteur_en": "Solidarity funds for victims of assaults",
-          "secteur_zh": "受暴力侵害者救助基金",
-          "effet_fr": "Les demandes d’indemnisation pourraient s’intensifier, mettant sous pression les budgets publics et les associations.",
-          "effet_en": "Compensation claims may surge, straining public budgets and NGO resources.",
-          "effet_zh": "赔偿申请可能激增，加重公共预算和NGO负担。",
-          "hausse": false
+          "secteur_fr": "Assurance scolaire (responsabilité civile)",
+          "secteur_en": "School liability insurance (CLI)",
+          "secteur_zh": "学校责任保险",
+          "effet_fr": "Les assureurs pourraient augmenter les primes pour couvrir les risques liés aux ruptures éducatives et aux problèmes de comportement chez les enfants placés.",
+          "effet_en": "Insurers may raise premiums to cover risks related to educational disruptions and behavioral issues among foster children.",
+          "effet_zh": "保险公司可能提高保费以覆盖被收养儿童教育中断和行为问题带来的风险。",
+          "hausse": true
         }
       ],
-      "created_at": "2026-11-15T17:36:28.750466",
-      "sous_categorie": "femmes"
+      "created_at": "2026-11-20T09:45:00.573062",
+      "sous_categorie": "enfants"
     },
     {
       "id": "pol_enfants_512506",
@@ -6914,6 +6914,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_704143",
+      "titre": "Polluants éternels : TFA détecté chez salariés",
+      "titre_en": "Forever chemicals: TFA found in workers",
+      "titre_zh": "永久性污染物：工人体内检测到TFA",
+      "titre_ru": "В Солидре впервые измерено содержание TFA в крови работников завода Solvay",
+      "titre_fa": "در سالندرس برای اولین بار میزان TFA در خون کارگران کارخانه سولوا اندازه‌گیری شد",
+      "titre_ar": "تم قياس مستوى TFA في دماء عمال مصنع سولفاي في ساليندر لأول مرة",
+      "titre_original": "A Salindres dans le Gard, le TFA mesuré pour la première fois dans le sang de salariés de l'usine Solvay qui produisait des PFAS",
+      "resume": "Une étude indépendante a mesuré pour la première fois le TFA (acide perfluorooctane sulfonique) dans le sang de salariés de l’usine Solvay à Salindres. Les niveaux relevés dépassent les données scientifiques disponibles, soulignant un risque sanitaire majeur. Ce polluant, classé comme cancérigène probable, pose des questions sur la responsabilité de l’industrie chimique.",
+      "resume_en": "An independent study measured TFA (perfluorooctane sulfonic acid) for the first time in the blood of Solvay workers at Salindres. Levels exceed available scientific data, highlighting a major health risk. This probable carcinogen raises questions about the chemical industry’s responsibility.",
+      "resume_zh": "独立研究首次在索尔维公司萨林德工厂工人血液中检测到TFA（全氟辛磺酸）。检测水平超出现有科学数据，凸显重大健康风险。此类可能致癌物质引发对化工行业责任的质疑。",
+      "resume_ru": "Независимое исследование впервые выявило уровень «вечного загрязнителя» TFA в крови сотрудников завода Solvay в Солидре (Гар). Данные превышают редкие научные показатели, что вызывает обеспокоенность по поводу долгосрочных последствий для здоровья. Это открытие требует дальнейшего изучения и принятия мер по снижению воздействия.",
+      "resume_fa": "یک مطالعه مستقل برای اولین بار میزان آلاینده «مستمر» TFA را در خون کارگران کارخانه سولوا در سالندرس (گارد) اندازه‌گیری کرد. این داده‌ها از اندازهٔ کمیاب داده‌های علمی موجود فراتر می‌رود و نگرانی‌هایی در مورد پیامدهای بلندمدت بر سلامت ایجاد می‌کند. این کشف نیاز به بررسی بیشتر و اقدامات کاهش تأثیر دارد.",
+      "resume_ar": "أجرى بحث مستقل قياسًا لأول مرة لمستوى الملوث «الدائم» TFA في دماء عمال مصنع سولفاي في ساليندر (غارد). هذه البيانات تتجاوز القليل من البيانات العلمية المتاحة، مما يثير قلقًا بشأن العواقب طويلة الأمد على الصحة. هذا الاكتشاف يتطلب مزيدًا من الدراسة واتخاذ تدابير لتقليل التأثير.",
+      "analyse_detaillee": "Le TFA, ou acide perfluorooctane sulfonique, est un polluant persistant classé comme cancérigène probable par l’OMS. Son utilisation massive dans les industries chimiques et textiles depuis les années 1950 a contaminé sols et eaux, avec des effets sanitaires encore mal évalués. Les conséquences à court terme incluent des risques accrus de cancers et de troubles hormonaux pour les travailleurs exposés. À moyen terme, la contamination des écosystèmes pourrait aggraver les crises sanitaires locales. Long terme, sans régulation stricte, ces polluants pourraient devenir un fardeau environnemental et économique pour les générations futures. Les associations environnementales exigent une responsabilité légale de Solvay, tandis que l’État promet des enquêtes et des mesures de dépollution.",
+      "analyse_en": "TFA, or perfluorooctane sulfonic acid, is a persistent pollutant classified as a probable carcinogen by the WHO. Its widespread use in chemical and textile industries since the 1950s has contaminated soils and waters, with health impacts still poorly understood. Short-term consequences include increased cancer and hormonal disorder risks for exposed workers. Medium-term, ecosystem contamination could worsen local health crises. Long-term, without strict regulation, these pollutants may become an environmental and economic burden for future generations. Environmental groups demand legal accountability from Solvay, while the government pledges investigations and decontamination measures.",
+      "analyse_zh": "TFA（全氟辛磺酸）是一种持久性污染物，世界卫生组织将其列为可能致癌物。自20世纪50年代以来，化工和纺织行业广泛使用该物质，导致土壤和水体污染，但健康影响尚未全面评估。短期内，暴露工人面临癌症和内分泌紊乱风险增加。中期内，生态系统污染可能加剧当地健康危机。长期来看，若缺乏严格监管，这些污染物将成为后代的环境和经济负担。环保组织要求索尔维公司承担法律责任，而政府承诺进行调查和污染治理。",
+      "analyse_ru": "Наличие TFA в крови работников указывает на хроническое воздействие опасных химических веществ, что может привести к серьезным заболеваниям. Это подтверждает необходимость строгого контроля за производством и использованием PFAS. Последствия для здоровья могут проявиться через десятилетия, поэтому важно разработать программы мониторинга и профилактики. Перспективы включают ужесточение экологических норм и поиск альтернативных технологий. Позиции сторон разделились: экологи требуют полного запрета PFAS, а производители настаивают на дальнейших исследованиях.",
+      "analyse_fa": "وجود TFA در خون کارگران نشان‌دهنده تأثیر مداوم مواد شیمیایی خطرناک است که می‌تواند منجر به بیماری‌های جدی شود. این موضوع نیاز به کنترل سختگیرانه بر تولید و استفاده از PFAS را تأیید می‌کند. پیامدهای سلامتی ممکن است پس از دهه‌ها ظاهر شوند، بنابراین برنامه‌های نظارت و پیشگیری ضروری است. چشم‌اندازها شامل تشدید استانداردهای زیست‌محیطی و جستجوی فناوری‌های جایگزین است. اکولوژیست‌ها از ممنوعیت کامل PFAS حمایت می‌کنند، در حالی که تولیدکنندگان بر تحقیقات بیشتر تأکید می‌کنند.",
+      "analyse_ar": "وجود TFA في دماء العمال يشير إلى تأثير دائمي للمواد الكيميائية الخطرة، والتي قد تؤدي إلى أمراض خطيرة. هذا يؤكد الحاجة إلى تحكم صارم في إنتاج واستخدام PFAS. قد تظهر العواقب الصحية بعد عقود، لذلك من الضروري تطوير برامج مراقبة وقائية. الآفاق تشمل تشديد المعايير البيئية والبحث عن تقنيات بديلة. يدعو البيئيةون إلى حظر كامل لـ PFAS، بينما يصر المنتجون على مزيد من الأبحاث.",
+      "categorie": "Environnement",
+      "source": "Franceinfo.fr",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/info-france-3-a-salindres-le-tfa-mesure-pour-la-premiere-fois-dans-le-sang-de-salaries-de-l-usine-solvay-qui-produisait-des-pfas-3451992.html",
+      "image": "https://france3-regions.franceinfo.fr/image/TYUklC5smFIXUXjl2-iC68YyGXQ/930x620/regions/2026/11/18/6afddaf1f00b0808341720.jpg",
+      "date": "2026-11-19",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance environnementale (pollution)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marché des obligations vertes",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance environnementale (pollution)",
+          "secteur_en": "Environmental insurance (pollution)",
+          "secteur_zh": "环境污染保险",
+          "effet_fr": "Les primes pourraient exploser en raison de l’augmentation des risques liés aux polluants persistants et aux litiges environnementaux.",
+          "effet_en": "Premiums may skyrocket due to increased risks of persistent pollutants and environmental lawsuits.",
+          "effet_zh": "保费可能因持久性污染物和环境诉讼风险上升而大幅上涨。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des obligations vertes",
+          "secteur_en": "Green bond market",
+          "secteur_zh": "绿色债券市场",
+          "effet_fr": "Les investisseurs pourraient se détourner des entreprises polluantes, réduisant la demande en obligations vertes liées à ces secteurs.",
+          "effet_en": "Investors may shun polluting companies, reducing demand for green bonds tied to these sectors.",
+          "effet_zh": "投资者可能避开污染企业，减少与这些行业相关的绿色债券需求。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-20T09:45:00.573113",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_616205",
       "titre": "PFAS en UE : rapport dénonce failles réglementaires",
       "titre_en": "EU PFAS regulations face major flaws",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-18T21:08:08.506097",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_559589",
-      "titre": "Europe et pesticides : un paradoxe post-Octobre Rose",
-      "titre_en": "Europe’s pesticide vote post-October Rose: a contradiction?",
-      "titre_zh": "欧洲化学农药投票后的双重标准",
-      "titre_ru": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
-      "titre_fa": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
-      "titre_ar": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
-      "titre_original": "Après Octobre Rose, l’Europe va-t-elle dérouler le tapis rouge aux pesticides?",
-      "resume": "Alors que le mois d’Octobre Rose sensibilise à la lutte contre le cancer du sein, l’Union européenne s’apprête à voter sur une réforme controversée des pesticides. Cette contradiction soulève des questions sur les priorités environnementales et sanitaires. Les associations craignent une détérioration des politiques de protection face aux lobbies agrochimiques.",
-      "resume_en": "While October Rose raises awareness for breast cancer prevention, the EU is preparing to vote on a controversial pesticide reform. This contradiction highlights tensions between environmental and health priorities. NGOs fear weakened protection policies due to agrochemical lobbying.",
-      "resume_zh": "在乳腺癌防治月期间，欧盟即将就化学农药改革进行投票，这引发了环保与健康优先权的矛盾。非政府组织担忧，面对农化行业游说，环保政策可能被削弱。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "L’Union européenne a historiquement oscillé entre régulation stricte et concessions aux lobbies agricoles, comme en témoignent les scandales successifs (glyphosate, néonicotinoïdes). Le vote actuel sur les pesticides reflète cette tension, avec des États membres divisés entre protection sanitaire (Allemagne, France) et intérêts économiques (Pologne, Hongrie). Les causes profondes incluent la dépendance européenne aux exportations agricoles et la lenteur des institutions à adapter les normes. À court terme, une libéralisation des pesticides pourrait aggraver les risques de cancers et de pollution des sols, déjà documentés par l’EFSA. À moyen terme, les coûts sanitaires et environnementaux pourraient peser sur les budgets publics, tandis que les agriculteurs subissent des pressions économiques. Long terme, une normalisation des pratiques toxiques pourrait compromettre les objectifs climatiques (accords de Paris) et la souveraineté alimentaire. Les acteurs clés sont les États membres, la Commission européenne (divisée), et les ONG (Greenpeace, WWF) qui dénoncent un ‘tapis rouge’ aux industries polluantes.",
-      "analyse_en": "The EU has long oscillated between strict regulation and concessions to agricultural lobbies, as seen in past scandals (glyphosate, neonicotinoids). The upcoming pesticide vote mirrors this tension, with member states split between health protection (Germany, France) and economic interests (Poland, Hungary). Root causes include Europe’s reliance on agricultural exports and institutional sluggishness in updating standards. Short-term, liberalizing pesticides could worsen cancer and soil pollution risks, already highlighted by EFSA. Medium-term, health and environmental costs may strain public budgets, while farmers face economic pressures. Long-term, normalizing toxic practices could undermine climate goals (Paris Agreement) and food sovereignty. Key actors include member states, the divided European Commission, and NGOs (Greenpeace, WWF) criticizing a ‘red carpet’ for polluting industries.",
-      "analyse_zh": "欧盟在农药监管上长期在严格规制与农业利益集团妥协之间摇摆，如近期的“草甘膦”和“衣虫威”事件所显示。即将到来的农药投票反映了这种矛盾，成员国在健康保护（德国、法国）与经济利益（波兰、匈牙利）上分歧明显。深层原因包括欧盟对农产品出口的依赖以及机构更新标准的缓慢。短期内，放宽农药限制可能加剧癌症和土壤污染风险，欧盟食品安全局（EFSA）已有相关报告。中期内，健康和环境成本可能加重公共财政压力，而农民则面临经济压力。长期来看，正常化使用有毒农药可能破坏《巴黎协定》的气候目标和粮食主权。关键利益相关者包括成员国、分裂的欧盟委员会以及环保组织（绿色和平、世界自然基金会），后者批评欧盟为污染产业铺红毯。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement et santé publique",
-      "source": "Lalibre.be",
-      "url": "https://www.lalibre.be/debats/opinions/2026/11/17/apres-octobre-rose-leurope-va-t-elle-derouler-le-tapis-rouge-aux-pesticides-PINIH3IT2BHBZKAGFPJYPETUWM/",
-      "image": "https://www.lalibre.be/resizer/v2/YJ2A6TKEZBD4ZJJBQCL4QL64EA.png?auth=4432130a29ecbff6b1651a1348155b2b24112feac991c30eb568e6cf7fe13daf&width=1620&height=1620&quality=85&focal=750%2C500",
-      "date": "2026-11-17",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Agrochimie et biotechnologies",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurances agricoles et réassurance",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Agrochimie et biotechnologies",
-          "secteur_en": "Agrochemicals and biotechnology",
-          "secteur_zh": "农药及生物技术行业",
-          "effet_fr": "Les entreprises agrochimiques pourraient voir leurs marges bénéficiaires augmenter grâce à une libéralisation des substances actives, malgré les risques juridiques accrus pour les fabricants.",
-          "effet_en": "Agrochemical firms may see profit margins rise due to relaxed active substance regulations, despite increased legal risks for manufacturers.",
-          "effet_zh": "农药企业可能因活性成分放宽而提升利润空间，尽管面临更高的法律风险。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances agricoles et réassurance",
-          "secteur_en": "Agricultural insurance and reinsurance",
-          "secteur_zh": "农业保险和再保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des risques sanitaires et environnementaux liés aux pesticides, poussant les assureurs à revoir leurs modèles de couverture.",
-          "effet_en": "Premiums may rise due to increased health and environmental risks from pesticides, forcing insurers to adjust their coverage models.",
-          "effet_zh": "由于农药相关健康和环境风险上升，保费可能增加，迫使保险公司调整理赔模式。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-18T12:42:10.572761",
       "sous_categorie": "environnement"
     }
   ]
