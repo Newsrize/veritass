@@ -1,7 +1,66 @@
 {
-  "last_updated": "19/11/2026 à 20h00",
+  "last_updated": "20/11/2026 à 01h45",
   "articles": {
     "monde": [
+      {
+        "id": "monde_754530",
+        "titre": "Californie face à un déficit budgétaire alarmant",
+        "titre_en": "California faces alarming budget deficit",
+        "titre_zh": "加州面临严重财政赤字",
+        "titre_ru": "California faces horrifying budget hole as Xavier Becerra gets grim warning: “Dangerous stage”",
+        "titre_fa": "California faces horrifying budget hole as Xavier Becerra gets grim warning: “Dangerous stage”",
+        "titre_ar": "California faces horrifying budget hole as Xavier Becerra gets grim warning: “Dangerous stage”",
+        "titre_original": "California faces horrifying budget hole as Xavier Becerra gets grim warning: “Dangerous stage”",
+        "resume": "Des analystes ont alerté sur un déficit budgétaire potentiel de 15 milliards de dollars ou plus pour la Californie, si des mesures correctives ne sont pas prises rapidement. Xavier Becerra, gouverneur, a été prévenu que la situation est à un « stade dangereux ». Les causes incluent une croissance économique ralentie et des dépenses publiques mal maîtrisées. Les conséquences pourraient être graves pour les services publics et les infrastructures.",
+        "resume_en": "Analysts warned of a potential $15 billion or more budget deficit for California if corrective measures aren’t taken soon. Governor Xavier Becerra was alerted that the situation is at a 'dangerous stage.' Causes include slowed economic growth and poorly managed public spending. Consequences could be severe for public services and infrastructure.",
+        "resume_zh": "分析师警告称，如果不采取及时的纠正措施，加州可能面临150亿美元或以上的财政赤字。州长贝塞拉被告知情况已经达到“危险阶段”。原因包括经济增长放缓和公共开支失控。后果可能对公共服务和基础设施造成严重影响。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce déficit s’inscrit dans un contexte de ralentissement économique post-pandémie et de pression fiscale accrue sur les États américains. Les enjeux principaux concernent la viabilité des services sociaux et la capacité de l’État à financer ses obligations. Les causes profondes incluent une dépendance excessive aux revenus fiscaux volatils et une mauvaise gestion des fonds structurels. À court terme, des coupes budgétaires ou des hausses d’impôts sont probables. À moyen terme, cela pourrait entraîner une baisse de la note souveraine de l’État. Les perspectives à long terme dépendent de la capacité de la Californie à diversifier ses sources de revenus et à moderniser son administration fiscale.",
+        "analyse_en": "This deficit reflects post-pandemic economic slowdown and increased fiscal pressure on U.S. states. Key stakes involve the sustainability of social services and the state’s ability to fund its obligations. Root causes include over-reliance on volatile tax revenues and poor management of structural funds. Short-term, budget cuts or tax hikes are likely. Medium-term, this could lead to a downgrade of California’s sovereign rating. Long-term prospects depend on the state’s ability to diversify revenue sources and modernize its tax administration.",
+        "analyse_zh": "这一赤字反映了疫情后经济放缓和美国各州财政压力加大的现实。主要影响在于社会服务的可持续性和州政府履行义务的能力。深层原因包括过度依赖波动性税收和结构性资金管理不善。短期内，预算削减或税收上调可能成为现实。中期内，这可能导致加州主权评级下调。长期前景取决于该州多元化收入来源和现代化税收管理的能力。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Économie",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/18/us-news/analysts-warn-xavier-becerra-of-15b-california-budget-deficits/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-h5xahasm6-1795052176746.jpg?quality=75&strip=all&1795034376&w=1200",
+        "date": "2026-11-19",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▼ Marché obligataire souverain de l’État de Californie",
+            "hausse": false
+          },
+          {
+            "label": "▼ Secteur immobilier résidentiel",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché obligataire souverain de l’État de Californie",
+            "secteur_en": "California state sovereign bond market",
+            "secteur_zh": "加州主权债券市场",
+            "effet_fr": "Un déficit non résolu pourrait entraîner une hausse des taux d’intérêt sur les emprunts d’État et une baisse de la demande pour les obligations californiennes.",
+            "effet_en": "An unresolved deficit may lead to higher interest rates on state bonds and reduced demand for California’s debt instruments.",
+            "effet_zh": "未解决的赤字可能导致州债利率上升和对加州债券需求下降。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Secteur immobilier résidentiel",
+            "secteur_en": "Residential real estate sector",
+            "secteur_zh": "住房房地产行业",
+            "effet_fr": "Des coupes dans les subventions aux logements sociaux pourraient provoquer une baisse des prix et une augmentation des expulsions locatives.",
+            "effet_en": "Cuts in housing subsidies may trigger a drop in prices and an increase in evictions.",
+            "effet_zh": "削减住房补贴可能导致房价下跌和房屋拆迁增加。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-20T01:43:58.147466"
+      },
       {
         "id": "monde_385900",
         "titre": "Rôle gouvernemental de Lutnick : où s’arrêtent ses intérêts commerciaux ?",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-11-11T07:42:56.436389"
-      },
-      {
-        "id": "monde_495454",
-        "titre": "Cote record pour le duel Bengals-Steelers en Week 10",
-        "titre_en": "Bengals vs Steelers odds soar for Week 10 clash",
-        "titre_zh": "本周十场比赛中鹰队对钢人队的赔率飙升",
-        "titre_ru": "Одиссеи против Стилерз: котировки на грандиозный матч 10-го тура",
-        "titre_fa": "قیمت‌های آغازین بازی بین بنگالز و استیلرز در هفته دهم",
-        "titre_ar": "أعداد البدء لمبارزة العملاقة بين بنغالز وستيلرز في الأسبوع العاشر",
-        "titre_original": "Bengals vs. Steelers opening odds for massive Week 10 showdown",
-        "resume": "Le match entre les Bengals et les Steelers, prévu le dimanche soir, est présenté comme un affrontement historique par les bookmakers. Les cotes reflètent une rivalité intense et une incertitude sur le favori. Ce duel pourrait attirer des millions de téléspectateurs et dynamiser les paris sportifs.",
-        "resume_en": "The Bengals vs Steelers match, scheduled for Sunday night, is framed as a historic clash by bookmakers. Odds highlight intense rivalry and uncertainty over the favorite. This showdown could draw millions of viewers and boost sports betting.",
-        "resume_zh": "本周十场比赛中鹰队对钢人队被书记员描述为历史性对决，赔率显示双方实力相当且不确定谁是赢家。这场比赛可能吸引数百万观众并推动体育赌博市场活跃。",
-        "resume_ru": "В воскресенье вечером состоится захватывающий матч между Бенгалз и Стилерз в «Джунгле». Фанаты ожидают от этой встречи высокого уровня игры и драматизма. Котировки на победу одной из команд уже высоки, что говорит о предстоящем эпическом противостоянии.",
-        "resume_fa": "بازی شب یکشنبه بین بنگالز و استیلرز در «جنگل» یک مسابقه هیجان‌انگیز خواهد بود. طرفداران انتظار بازی با سطح بالایی و درام را دارند. اعداد آغازین پیروزی یکی از تیم‌ها بالا است که نشان‌دهنده یک رویداد اپیک پیش رو است.",
-        "resume_ar": "سيتم لعب مباراة مثيرة بين بنغالز وستيلرز في «الjungle» في ليلة الأحد. يتوقع المشجعون مستوى عالٍ من اللعب والدراما. اعداد البدء للفوز بأحد الفريقين مرتفعة، مما يشير إلى مواجهة إبيكية قادمة.",
-        "analyse_detaillee": "Cette rencontre s’inscrit dans une rivalité historique entre deux franchises de la NFL, avec des légendes comme Ben Roethlisberger (Steelers) et Andy Dalton (Bengals) ayant marqué l’histoire. Les enjeux sont à la fois sportifs (classement de la AFC North) et économiques (sponsors, droits TV). Les causes profondes incluent une concurrence accrue pour les talents et une stratégie de marque axée sur l’audience. À court terme, le résultat pourrait influencer les cotes pour les playoffs. À moyen terme, cela pourrait renforcer l’attrait des deux équipes pour les investisseurs. Long terme, cette dynamique pourrait redéfinir l’équilibre de la conférence AFC. Les deux équipes, bien que différentes en culture, misent sur leur jeunesse et leur résilience.",
-        "analyse_en": "This match falls within a historic rivalry between two NFL franchises, with legends like Ben Roethlisberger (Steelers) and Andy Dalton (Bengals) shaping their legacies. The stakes are both sporting (AFC North standings) and economic (sponsorships, TV rights). Root causes include fierce talent competition and brand strategies centered on audience appeal. Short-term, the outcome may shift playoff odds. Medium-term, it could boost investor interest in both teams. Long-term, this dynamic could reshape AFC balance. Despite differing cultures, both teams rely on youth and resilience.",
-        "analyse_zh": "这场比赛发生在两支NFL传统强队之间，本·鲁斯利斯伯格（钢人队）和安迪·达尔顿（鹰队）都是球队历史上的传奇人物。赛季关键在于AFC北区排名和商业利益（赞助、电视版权）。深层原因包括球员竞争加剧和品牌策略的观众导向。短期内，结果可能影响季后赛赔率。中期内，可能吸引更多投资者关注。长期来看，这种竞争可能重塑AFC的平衡。尽管两队文化不同，但都依赖年轻球员和韧性。",
-        "analyse_ru": "Матч между Бенгалз и Стилерз всегда привлекает внимание из-за высокого уровня игры и истории соперничества. В этом сезоне обе команды демонстрируют стабильность, но у Стилерз есть преимущество в атаке, а Бенгалз сильнее в защите. Такие противостояния часто становятся ключевыми в сезоне и могут повлиять на итоговые позиции в турнирной таблице. Фанаты ждут от этой встречи не только развлечения, но и важных тактических решений, которые могут изменить ход чемпионата. В то же время, риск травм и ошибок остается высоким, что делает прогнозирование результата сложной задачей.",
-        "analyse_fa": "بازی بین بنگالز و استیلرز همیشه توجه را به خود جلب می‌کند به دلیل سطح بازی بالا و تاریخچه رقابت. این فصل، هر دو تیم ثبات نشان داده‌اند، اما استیلرز در حمله و بنگالز در دفاع قوی‌تر هستند. این رویدادها اغلب در فصل کلیدی هستند و می‌توانند بر جایگاه نهایی در جدول تأثیر بگذارند. طرفداران انتظار بازی هیجان‌انگیز و تصمیمات تاکتیکی مهم را دارند که می‌تواند جریان لیگ را تغییر دهد. با این حال، خطر آسیب‌دیدگی و اشتباهات همچنان بالا است، که پیش‌بینی نتیجه را به چالش می‌کشد.",
-        "analyse_ar": "تواجه بنغالز وستيلرز دائمًا يجذب الانتباه بسبب مستوى اللعب العالي والتاريخ المنافس بينهما. في هذا الموسم، كلا الفريقين يظهران استقرارًا، لكن ستيلرز أقوى في الهجوم بينما بنغالز أقوى في الدفاع. هذه المواجهات غالبًا ما تكون حاسمة في الموسم وتؤثر على المراكز النهائية في الجدول. يتوقع المشجعون من هذه المباراة أكثر من الترفيه، بل وتقريرات استراتيجية مهمة قد تغير مجرى البطولة. ومع ذلك، فإن خطر الإصابة والخطأ مرتفعًا، مما يجعل التنبؤ بنتائجها مهمة صعبة.",
-        "categorie": "Sport",
-        "source": "Cincy Jungle",
-        "url": "https://www.cincyjungle.com/cincinnati-bengals-odds/204954/bengals-vs-steelers-odds-week-10-opening-lines-point-spread-total",
-        "image": "https://s.yimg.com/lo/mysterio/api/88aaf523aed55625293c78b46155c91b9a84f08ddd8f62bc8cad341dbc516c6d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fa42c9dee6b3b5a97411e9fe426955bed.jpg",
-        "date": "2026-11-09",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Marché des paris sportifs (NFL)",
-            "hausse": true
-          },
-          {
-            "label": "▲ Droits télévisuels et partenariats médias",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Marché des paris sportifs (NFL)",
-            "secteur_en": "Sports betting market (NFL)",
-            "secteur_zh": "NFL体育赌博市场",
-            "effet_fr": "Les cotes élevées pour ce match stimulent les mises et les volumes d’échange, mais aussi les risques de fraude ou de manipulation.",
-            "effet_en": "High odds for this match drive betting volumes and exchanges but also increase risks of fraud or manipulation.",
-            "effet_zh": "高赔率推动了赌注交易量，但也增加了欺诈或操纵的风险。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Droits télévisuels et partenariats médias",
-            "secteur_en": "TV rights and media partnerships",
-            "secteur_zh": "电视版权和媒体合作",
-            "effet_fr": "Un tel affrontement renforce l’attrait des chaînes pour diffuser ces matchs, augmentant ainsi les enchères pour les droits.",
-            "effet_en": "Such a clash boosts the appeal for networks to broadcast the game, driving up bidding for TV rights.",
-            "effet_zh": "这类对决提升了电视台播放的吸引力，推高了版权竞拍价格。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-11-10T12:08:00.642935"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_638687",
+        "titre": "Cornyn bloque dernière nomination judiciaire de Trump",
+        "titre_en": "Cornyn blocks Trump’s last judicial nomination",
+        "titre_zh": "康尼阻挠特朗普最后一项法官任命",
+        "titre_ru": "RINO Cornyn Blocks Trump’s Last-Minute Nomination to Northern District Court in Texas",
+        "titre_fa": "RINO Cornyn Blocks Trump’s Last-Minute Nomination to Northern District Court in Texas",
+        "titre_ar": "RINO Cornyn Blocks Trump’s Last-Minute Nomination to Northern District Court in Texas",
+        "titre_original": "RINO Cornyn Blocks Trump’s Last-Minute Nomination to Northern District Court in Texas",
+        "resume": "L’ex-sénateur républicain John Cornyn, désormais qualifié de « RINO » (Républicain modéré), a bloqué une nomination judiciaire de Donald Trump dans le district nord du Texas. Cet acte s’inscrit dans sa campagne anti-Trump après sa défaite aux primaires sénatoriales face à Ken Paxton. Ce blocage illustre les tensions persistantes au sein du Parti républicain sur les nominations judiciaires.",
+        "resume_en": "Former Republican Senator John Cornyn, now labeled a 'RINO,' blocked a Trump judicial nomination in Texas's Northern District. This move follows his anti-Trump crusade after losing the Texas Senate primary to Ken Paxton. It highlights ongoing GOP divisions over judicial appointments.",
+        "resume_zh": "前共和党参议员约翰·科尼恩（现被视为‘温和派’）阻挠了特朗普在德州北区法院的最后一项任命提名。这一举动发生在科尼恩在德州参议院初选中败给肯·帕克斯顿之后，他继续发起反特朗普运动。此举反映了共和党内部在司法任命问题上的持续分裂。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le contexte historique montre une escalade des conflits internes au GOP depuis 2016, où les divisions sur les nominations judiciaires ont atteint un paroxysme. Les enjeux principaux tournent autour du contrôle des tribunaux fédéraux et de l’alignement idéologique avec la base conservatrice. Les causes profondes incluent la radicalisation des primaires et la stratégie de Trump de nommer des juges alignés avec sa vision politique. À court terme, ce blocage pourrait retarder des nominations clés et affaiblir la cohésion républicaine. À moyen terme, cela pourrait renforcer les factions anti-Trump au sein du parti. Les perspectives à long terme dépendent de l’évolution des dynamiques électorales et de la capacité de Trump à mobiliser ses soutiens. Cornyn, désormais isolé, joue un rôle de modérateur critique, tandis que Paxton incarne une ligne plus dure.",
+        "analyse_en": "Historically, GOP internal conflicts over judicial appointments have intensified since 2016, peaking with Trump’s judicial nominations. Key stakes involve federal court control and ideological alignment with the conservative base. Root causes include primary radicalization and Trump’s strategy of appointing judges aligned with his political vision. Short-term, this blockage may delay critical nominations and weaken GOP unity. Medium-term, it could empower anti-Trump factions within the party. Long-term prospects hinge on electoral dynamics and Trump’s ability to mobilize his base. Cornyn, now isolated, plays a critical moderator role, while Paxton embodies a harder line.",
+        "analyse_zh": "历史上，共和党内部关于司法任命的冲突自2016年以来日益加剧，特朗普的司法任命提名达到了顶点。主要影响在于联邦法院的控制权和与保守派基层的意识形态对齐。深层原因包括初选的激进化以及特朗普策划司法人员与其政治理念对齐的策略。短期内，这一阻挠可能推迟关键任命并削弱共和党的团结。中期内，它可能加强党内反特朗普派系的力量。长期前景取决于选举动态和特朗普动员其支持者的能力。科尼恩现已孤立，扮演着关键的温和派角色，而帕克斯顿则代表更强硬的立场。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Thegatewaypundit.com",
+        "url": "https://www.thegatewaypundit.com/2026/11/cornyn-blocks-trumps-nomination-northern-district-court-texas/",
+        "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/05/img_2589-1200x630.jpeg",
+        "date": "2026-11-19",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des nominations judiciaires fédérales",
+            "hausse": false
+          },
+          {
+            "label": "▼ Financement des campagnes politiques",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des nominations judiciaires fédérales",
+            "secteur_en": "Federal judicial appointment market",
+            "secteur_zh": "联邦司法任命市场",
+            "effet_fr": "Ce blocage pourrait réduire la confiance des investisseurs dans la stabilité des nominations judiciaires sous une future administration Trump.",
+            "effet_en": "This blockage may reduce investor confidence in judicial appointment stability under a potential future Trump administration.",
+            "effet_zh": "这一阻挠可能降低投资者对特朗普执政期间司法任命稳定性的信心。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Financement des campagnes politiques",
+            "secteur_en": "Political campaign financing",
+            "secteur_zh": "政治竞选资金",
+            "effet_fr": "Les divisions au sein du GOP pourraient inciter les donateurs à diversifier leurs soutiens, réduisant les flux financiers vers les candidats modérés comme Cornyn.",
+            "effet_en": "GOP divisions may prompt donors to diversify support, reducing financial flows to moderate candidates like Cornyn.",
+            "effet_zh": "共和党内部的分裂可能促使捐助者多元化支持，减少流向像科尼恩这样的温和派候选人的资金。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-20T01:43:58.147434"
+      },
       {
         "id": "usa_72552",
         "titre": "Trump accepte cadeau artistique indien après l’avoir qualifié de « pays infernal »",
@@ -2524,68 +2583,68 @@
           }
         ],
         "created_at": "2026-11-11T07:42:56.436364"
-      },
+      }
+    ],
+    "chine": [
       {
-        "id": "usa_179193",
-        "titre": "Daniels critique ouvertement la défaite contre les Giants",
-        "titre_en": "Daniels harshly assesses Week 10 loss to Giants",
-        "titre_zh": "丹尼尔斯严厉评价对巨人队的失利",
-        "titre_ru": "Кваркендэлс: Джейден Дэниэлс честен о матче против Джайентс в 10-м туре",
-        "titre_fa": "بررسی شریفی جایدن دنیلز در مورد بازی هفته دهم با جاینتس",
-        "titre_ar": "قائد واشنطن جايدن دانيالز يقدّم تقييمًا صريحًا لمباراة الأسبوع العاشر ضد الجايانتس",
-        "titre_original": "Commanders' Jayden Daniels offers blunt assessment of Week 10 vs Giants",
-        "resume": "Le quart-arrière des Commanders, Jayden Daniels, a livré une analyse sans filtre de la défaite en Week 10 contre les Giants. Ses déclarations reflètent les frustrations internes et les attentes élevées autour de sa performance. Ce commentaire pourrait influencer la dynamique d’équipe avant le prochain match.",
-        "resume_en": "Washington QB Jayden Daniels delivered a blunt assessment of the Week 10 loss to the Giants. His remarks highlight internal frustrations and high expectations surrounding his performance. Such comments may impact team morale ahead of the next game.",
-        "resume_zh": "华盛顿四分卫丹尼尔斯严厉评价了对巨人队的第十周失利。他的言论反映了球队内部的挫折感和对他的高期望。此类评论可能会影响球队在下一场比赛前的士气。",
-        "resume_ru": "Кварбек команды Вашингтон Джейден Дэниэлс откровенно высказался о предстоящем матче против Джайентс. Он поделился своими впечатлениями о слабых моментах команды и необходимости улучшений. Его комментарии вызвали интерес у болельщиков и аналитиков.",
-        "resume_fa": "جایدن دنیلز، کوارکب واشینگتن، در مورد بازی هفته دهم با جاینتس نظر صریحی داد. او نقاط ضعف تیم و نیاز به بهبود را بیان کرد. نظرات او توجه مخاطبان و تحلیلگران را به خود جلب کرد.",
-        "resume_ar": "قدم قائد واشنطن جايدن دانيالز تقييمًا صريحًا لمباراة الأسبوع العاشر ضد الجايانتس. أشار إلى نقاط الضعف في الفريق واحتياجه للتحسين. أثارت تعليقاته اهتمام المشجعين والمحللين.",
-        "analyse_detaillee": "Ce match s’inscrit dans une saison 2023 marquée par des transitions douloureuses pour les Commanders, avec un départ de Taylor Heinicke et une adaptation difficile de Daniels. Les enjeux sont à la fois sportifs (qualification pour les playoffs) et médiatiques, car Daniels est une recrue prometteuse sous pression. Les causes profondes incluent un recrutement risqué et une gestion tactique encore perfectible. À court terme, cette défaite pourrait renforcer les critiques sur la préparation défensive. À moyen terme, cela pourrait accélérer les changements au sein de l’encadrement technique. Long terme, la performance de Daniels déterminera la viabilité de ce projet sportif. Les Giants, en revanche, capitalisent sur leur cohésion et leur expérience pour dominer cette conférence.",
-        "analyse_en": "This game falls within a 2023 season marked by painful transitions for the Commanders, following Taylor Heinicke’s departure and Daniels’ difficult adjustment. The stakes are both sporting (playoff qualification) and media-driven, as Daniels is a high-profile rookie under scrutiny. Root causes include risky recruitment and ongoing tactical shortcomings. Short-term, this loss may intensify criticism of the defensive preparation. Medium-term, it could accelerate coaching changes. Long-term, Daniels’ performance will dictate the team’s future viability. Meanwhile, the Giants leverage their cohesion and experience to dominate the conference.",
-        "analyse_zh": "这场比赛发生在2023赛季华盛顿队艰难过渡期，泰勒·海尼克离队和丹尼尔斯适应不良是主要背景。赛季的关键在于是否能够进入季后赛，以及媒体对丹尼尔斯的高期望。深层原因包括冒险招募和战术调整不足。短期内，这场失利可能加剧对防守准备的批评。中期内，可能会加速教练团队的变动。长期来看，丹尼尔斯的表现将决定球队的未来。巨人队则利用团结和经验优势主导联盟。",
-        "analyse_ru": "Джейден Дэниэлс, несмотря на молодость, демонстрирует уверенность в своих силах, но его оценка игры против Джайентс показывает, что команда столкнулась с серьезными проблемами. Ошибки в защите и нестабильность в атаке могут стать причиной поражения, что уже наблюдалось в предыдущих матчах. Такие откровенные комментарии помогают фанатам понять реальное положение дел, но также подстегивают тренерский штаб к изменениям. В то же время, критика может демотивировать игроков, если не будет сопровождаться конкретными шагами по улучшению. Перспективы команды зависят от того, как быстро удастся исправить эти недочеты и восстановить доверие к себе.",
-        "analyse_fa": "جایدن دنیلز، با وجود جوانی، از خودمندی خود اطمینان دارد، اما نظرات او در مورد بازی با جاینتس نشان می‌دهد که تیم با چالش‌های جدی روبرو است. اشتباهات در دفاع و عدم ثبات در حمله ممکن است دلیل شکست باشد، که در بازی‌های قبلی نیز دیده شده‌است. این نظرات صریح به مخاطبان کمک می‌کند تا وضعیت واقعی تیم را درک کنند، اما همچنین تیم مربیگری را به تغییرات تشویق می‌کند. با این حال، انتقاد ممکن است اگر همراه با اقدامات مشخص برای بهبود نباشد، روحیه بازیکنان را کاهش دهد. آینده تیم به سرعت اصلاح این نقاط ضعف و بازسازی اعتماد به نفس بستگی دارد.",
-        "analyse_ar": "على الرغم من شباب جايدن دانيالز، فإن تقييمه لمباراة ضد الجايانتس يوضّح أن الفريق يواجه تحديات كبيرة. أخطاء في الدفاع وانعدام الاستقرار في الهجوم قد تكون سببا في الهزيمة، كما لوحظ في المباريات السابقة. هذه التعليقات الصريحة تساعد المشجعين على فهم الوضع الحقيقي للفريق، ولكنها قد تدفع فريق التدريب على اتخاذ تغييرات. ومع ذلك، قد يؤدي النقد إلى خفض معنويات اللاعبين إذا لم يرافقها إجراءات محددة لتحسين الأداء. مستقبل الفريق يعتمد على سرعة تصحيح هذه العيوب وإعادة بناء الثقة.",
-        "categorie": "Sport",
-        "source": "USA Today",
-        "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2026/11/09/commanders-jayden-daniels-blunt-assessment-week-10/92686890007/",
-        "image": "https://s.yimg.com/lo/mysterio/api/a7e0882adc4b7a25faa7a2bf9a244fd602e2452ef87f8cd7ae1e5c8fb378848c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_football_wire_usa_today_sports_articles_166%2Fe0d538b4b2bf2de46d8b30a0f41f13f0.jpg",
-        "date": "2026-11-09",
-        "pays": "usa",
+        "id": "chine_624431",
+        "titre": "Discours de Xi Jinping au sommet APEC 2026",
+        "titre_en": "Xi Jinping’s keynote at APEC 2026 summit",
+        "titre_zh": "习近平在2026年APEC峰会上的主旨演讲",
+        "titre_ru": "Keynote speech by Chinese President Xi Jinping at the APEC CEO Summit 2026",
+        "titre_fa": "Keynote speech by Chinese President Xi Jinping at the APEC CEO Summit 2026",
+        "titre_ar": "Keynote speech by Chinese President Xi Jinping at the APEC CEO Summit 2026",
+        "titre_original": "Keynote speech by Chinese President Xi Jinping at the APEC CEO Summit 2026",
+        "resume": "Xi Jinping a prononcé un discours clé lors du sommet des chefs d’entreprise APEC 2026 à Shenzhen, où il a probablement abordé les priorités économiques chinoises et les relations internationales. Ce sommet marque une opportunité pour la Chine de promouvoir son modèle de développement et son influence géopolitique. Les détails du discours, bien que partiels, suggèrent une stratégie de leadership économique asiatique.",
+        "resume_en": "Xi Jinping delivered a keynote speech at the APEC 2026 CEO Summit in Shenzhen, likely outlining China’s economic priorities and international relations. The summit offers China a platform to promote its development model and geopolitical influence. Partial excerpts suggest a strategy of Asian economic leadership.",
+        "resume_zh": "习近平在2026年APEC首脑峰会上发表了主旨演讲，可能阐述了中国的经济优先事项和国际关系。此次峰会为中国提供了推广其发展模式和地缘政治影响力的平台。部分演讲摘要表明中国正在推行亚洲经济领导力的战略。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce discours s’inscrit dans une dynamique de renforcement de l’influence chinoise en Asie-Pacifique, où Pékin cherche à contrer l’hégémonie américaine et à promouvoir une intégration économique régionale. Les enjeux principaux concernent la souveraineté technologique, les chaînes d’approvisionnement et la transition énergétique. Les causes profondes incluent la volonté de la Chine de réduire sa dépendance aux technologies occidentales et de positionner le yuan comme monnaie de réserve. À court terme, ce discours pourrait renforcer les alliances économiques avec les pays asiatiques. À moyen terme, il pourrait accélérer la création d’une zone de libre-échange asiatique. Les perspectives à long terme dépendent de la capacité de la Chine à concilier ouverture économique et contrôle politique.",
+        "analyse_en": "This speech reflects China’s push for greater influence in the Asia-Pacific, where Beijing aims to counter U.S. hegemony and promote regional economic integration. Key stakes involve technological sovereignty, supply chains, and energy transition. Root causes include China’s efforts to reduce dependence on Western technologies and position the yuan as a reserve currency. Short-term, this speech may strengthen economic alliances with Asian nations. Medium-term, it could accelerate the creation of an Asian free trade zone. Long-term prospects depend on China’s ability to balance economic openness with political control.",
+        "analyse_zh": "这一演讲反映了中国在亚太地区加强影响力的努力，北京试图遏制美国的霸权并推动区域经济一体化。主要影响在于技术主权、供应链和能源转型。深层原因包括中国减少对西方技术依赖的努力以及将人民币定位为储备货币的意图。短期内，这一演讲可能加强与亚洲国家的经济同盟。中期内，它可能加速亚洲自由贸易区的建立。长期前景取决于中国平衡经济开放与政治控制的能力。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/11/19/keynote-speech-by-chinese-president-xi-jinping-at-the-apec-ceo-summit-2026/",
+        "image": "https://peoplesreview.com.np/wp-content/uploads/2026/11/image-32.png",
+        "date": "2026-11-19",
+        "pays": "chine",
         "badges": [
           {
-            "label": "▼ Marché des actions NFL (ligue professionnelle américaine)",
-            "hausse": false
+            "label": "▲ Marché des changes et yuan numérique",
+            "hausse": true
           },
           {
-            "label": "▲ Assurances sportives et paris en ligne",
+            "label": "▲ Secteur des technologies vertes",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des actions NFL (ligue professionnelle américaine)",
-            "secteur_en": "NFL stock market (US professional league)",
-            "secteur_zh": "美国职业足球联盟股票市场",
-            "effet_fr": "Les performances individuelles comme celle de Daniels influencent la valorisation des franchises et les paris sportifs liés aux Commanders.",
-            "effet_en": "Individual performances like Daniels’ impact franchise valuations and betting markets tied to the Commanders.",
-            "effet_zh": "丹尼尔斯等球员的表现会影响华盛顿队的市值和相关赌博市场。",
-            "hausse": false
+            "secteur_fr": "Marché des changes et yuan numérique",
+            "secteur_en": "Foreign exchange market and digital yuan",
+            "secteur_zh": "外汇市场与数字人民币",
+            "effet_fr": "Une promotion accrue du yuan pourrait réduire la domination du dollar et stimuler l’adoption de la monnaie numérique chinoise, impactant les banques centrales et les fintechs.",
+            "effet_en": "Greater promotion of the yuan may reduce the dollar’s dominance and boost adoption of China’s digital currency, affecting central banks and fintechs.",
+            "effet_zh": "人民币的推广可能减少美元的主导地位，并促进中国数字货币的采用，影响中央银行和金融科技公司。",
+            "hausse": true
           },
           {
-            "secteur_fr": "Assurances sportives et paris en ligne",
-            "secteur_en": "Sports insurance and online betting",
-            "secteur_zh": "体育保险和在线赌博",
-            "effet_fr": "Les résultats imprévisibles comme celui-ci stimulent les cotes et les volumes de paris, mais augmentent aussi les risques pour les assureurs.",
-            "effet_en": "Unpredictable outcomes like this drive betting odds and volumes but also increase risks for insurers.",
-            "effet_zh": "这种不可预测的结果推动了赌注的波动和交易量，但也增加了保险公司的风险。",
+            "secteur_fr": "Secteur des technologies vertes",
+            "secteur_en": "Green technology sector",
+            "secteur_zh": "绿色技术行业",
+            "effet_fr": "Les investissements dans les énergies renouvelables pourraient bénéficier des annonces de Xi, renforçant les positions de Huawei et BYD dans les infrastructures durables.",
+            "effet_en": "Investments in renewables may benefit from Xi’s announcements, strengthening Huawei and BYD’s positions in sustainable infrastructure.",
+            "effet_zh": "对可再生能源的投资可能从习近平的宣布中受益，增强华为和比亚迪在可持续基础设施中的地位。",
             "hausse": true
           }
         ],
-        "created_at": "2026-11-10T12:08:00.642908"
-      }
-    ],
-    "chine": [
+        "created_at": "2026-11-20T01:43:58.147474"
+      },
       {
         "id": "chine_441723",
         "titre": "Déploiement aérien russe en Asie envoie message fort",
@@ -3706,68 +3765,68 @@
           }
         ],
         "created_at": "2026-11-09T20:26:08.988907"
-      },
+      }
+    ],
+    "russie": [
       {
-        "id": "chine_884219",
-        "titre": "Football américain : prédictions pour la semaine 10",
-        "titre_en": "College football week 10 predictions",
-        "titre_zh": "大学美式足球第十周预测",
-        "titre_ru": "Кубок Китая: Моне Чиба удерживает лидерство, Александра Игнатьева делает историю как мать",
-        "titre_fa": "کاس چین: مونه چیبا رهبری را حفظ می‌کند، الکساندرا ایگناتووا به عنوان مادر تاریخ می‌سازد",
-        "titre_ar": "كأس الصين: مونيه تشيبا تحافظ على الرئاسة، ألكسندرا إغناتوفا تكتب التاريخ كأم",
-        "titre_original": "Cup of China: Mone Chiba holds off Alexandra Ignatova, who makes history in return as a mom",
-        "resume": "Veritass.fr propose ses analyses et pronostics pour les matchs clés de la semaine 10 du football américain universitaire, incluant des confrontations comme Rutgers vs Wisconsin ou Arkansas vs Auburn. Ces prévisions s’appuient sur des statistiques et des tendances récentes pour anticiper les résultats des équipes en lice pour les titres régionaux. Les enjeux sont élevés, avec des implications directes sur les classements et les sélections pour le tournoi national.",
-        "resume_en": "Veritass.fr offers analyses and predictions for key Week 10 college football games, including matchups like Rutgers vs Wisconsin or Arkansas vs Auburn. These forecasts rely on statistics and recent trends to predict outcomes for teams vying for regional titles. Stakes are high, with direct implications for rankings and selections for the national tournament.",
-        "resume_zh": "Veritass.fr提供大学美式足球第十周的分析和预测，包括如鲁格斯对威斯康星大学或阿肯色对奥本大学等关键比赛。这些预测基于统计数据和近期趋势，预测争夺地区冠军的球队结果。赌注很高，直接影响排名和全国锦标赛的选拔。",
-        "resume_ru": "Финал мужского свободного катания Кубка Китая прошел ночью с субботы на воскресенье. Японская фигуристка Моне Чиба удержала лидерство, а российская спортсменка Александра Игнатьева стала первой матерью, выигравшей соревнование в этой дисциплине. Трансляция проходила в прямом эфире на платформе Peacock. Этот турнир стал важным этапом в сезоне фигурного катания, демонстрируя рост популярности женских соревнований.",
-        "resume_fa": "فینال آزاد مردان کاس چین از شب شنبه به روز یکشنبه پخش شد. مونه چیبا، اسکیت‌باز ژاپنی، رهبری خود را حفظ کرد و الکساندرا ایگناتووا، اسکیت‌باز روسی، اولین مادر شد که در این رشته مسابقات را برنده شد. پخش زنده این رویداد در پیکاک انجام شد. این تورنمنت یک مرحله مهم در فصل اسکیت روی یخ بود و نشان‌دهنده رشد محبوبیت مسابقات زنان است.",
-        "resume_ar": "نهائي التزلج الحر للرجال في كأس الصين تم بثه مباشرة من ليلة السبت إلى يوم الأحد. حافظت التزلجة اليابانية مونيه تشيبا على الرئاسة، بينما أصبحت ألكسندرا إغناتوفا الروسية أول أم تفوز بالمباريات في هذه الفئة. تم بث الحدث مباشرة على منصة بيكاك. كان هذا البطولة مرحلة مهمة في موسم التزلج على الجليد، مما يظهر زيادة شعبية مسابقات النساء.",
-        "analyse_detaillee": "Le football américain universitaire reste un miroir des dynamiques sociales et économiques des États-Unis, où les budgets des universités et les attentes médiatiques jouent un rôle clé. Les enjeux principaux tournent autour de la compétitivité inter-conférences (SEC vs Big Ten) et de la visibilité des équipes moins médiatisées. Les causes profondes incluent la professionnalisation croissante du sport étudiant, avec des contrats lucratifs pour les joueurs et une pression accrue sur les entraîneurs. À court terme, les résultats de cette semaine pourraient influencer les recrutements pour la saison 2024. À moyen terme, cela pourrait renforcer les inégalités entre conférences riches et pauvres. Long terme, cela interroge sur la pérennité du modèle amateur dans un contexte de commercialisation croissante. Les acteurs clés sont les conférences sportives (SEC, Big Ten), les médias (ESPN, CBS) et les sponsors, qui dictent en partie l’agenda compétitif.",
-        "analyse_en": "College football remains a reflection of U.S. social and economic dynamics, where university budgets and media expectations are key drivers. Main stakes involve inter-conference competitiveness (SEC vs Big Ten) and the visibility of underrepresented teams. Root causes include the growing professionalization of student sports, with lucrative player contracts and increased pressure on coaches. Short-term, this week’s results may influence 2024 recruiting. Medium-term, it could widen gaps between rich and poor conferences. Long-term, this questions the sustainability of the amateur model amid rising commercialization. Key actors include sports conferences (SEC, Big Ten), media (ESPN, CBS), and sponsors, which partly dictate the competitive agenda.",
-        "analyse_zh": "大学美式足球反映了美国社会和经济动态，其中大学预算和媒体期望扮演关键角色。主要争议在于不同联盟（SEC对抗Big Ten）的竞争力和较少曝光球队的可见度。深层原因包括学生体育日益职业化，运动员签订丰厚合同和对教练施加的压力增加。短期内，本周的结果可能影响2024年的招募。中期内，这可能加剧富联盟和贫联盟之间的差距。长期来看，这质疑在商业化加剧背景下，业余模式的可持续性。关键利益相关者包括体育联盟（SEC、Big Ten）、媒体（ESPN、CBS）和赞助商，后者在很大程度上决定了竞技日程。",
-        "analyse_ru": "Победа Александры Игнатьевой как матери стала историческим событием, подчеркнувшим, что семейные обязанности не мешают достижению спортивных высот. Ее успех может вдохновить других женщин, балансирующих между карьерой и материнством, продолжать тренировки и участвовать в соревнованиях. В то же время, Моне Чиба продемонстрировала стабильность и профессионализм, что важно для поддержания лидерства в сложном спорте. Кубок Китая остается ключевым турниром, привлекающим внимание к женскому фигурному катанию, но для дальнейшего роста нужно больше поддержки и ресурсов. Платформы, такие как Peacock, играют важную роль в популяризации спорта, но необходимо расширять доступ к трансляциям для глобальной аудитории.",
-        "analyse_fa": "فوز الکساندرا ایگناتووا به عنوان مادر رویدادی تاریخی شد که نشان داد مسئولیت‌های خانوادگی مانع از رسیدن به قله‌های ورزشی نیست. موفقیت او می‌تواند دیگر زنان را که بین کار و مادر بودن تعادل برقرار می‌کنند، برای ادامه تمرینات و شرکت در مسابقات الهام ببیند. از سوی دیگر، مونه چیبا ثابت کرد که ثبات و حرفه‌ای بودن برای حفظ رهبری در ورزش پیچیده‌ای مانند اسکیت روی یخ ضروری است. کاس چین همچنان یک تورنمنت کلیدی است که توجه به اسکیت زنان را جلب می‌کند، اما برای رشد بیشتر، نیاز به حمایت و منابع بیشتر است. پلتفرم‌هایی مانند پیکاک نقش مهمی در محبوبیت ورزش دارند، اما باید دسترسی به پخش زنده را برای مخاطبان جهانی گسترش داد.",
-        "analyse_ar": "فوز ألكسندرا إغناتوفا كأم كان حدثًا تاريخيًا، حيث أكد أن المسؤوليات العائلية لا تمنع تحقيق القمم الرياضية. قد يشجع نجاحها النساء الأخريات اللاتي يتوازنن بين العمل والوالدات على الاستمرار في التدريب والمشاركة في المنافسات. من ناحية أخرى، أظهرت مونيه تشيبا الاستقرار والمهنية اللازمين للحفاظ على الرئاسة في هذا الرياضة المعقدة. يظل كأس الصين بطولة رئيسية تجذب الانتباه إلى التزلج النسائي، ولكن من أجل النمو المستقبلي، هناك حاجة إلى دعم وموارد إضافية. تلعب المنصات مثل بيكاك دورًا هامًا في شعبية الرياضة، ولكن يجب توسيع الوصول إلى البث المباشر للمشاهدين العالميين.",
-        "categorie": "Sports & Médias",
-        "source": "NBCSports.com",
-        "url": "https://www.nbcsports.com/olympics/news/cup-of-china-figure-skating-2026-grand-prix-mone-chiba-alexandra-ignatova",
-        "image": "https://s.yimg.com/lo/mysterio/api/a654162ad2ed9eba7c6286da200b8ea2996605eb717492cbf880509ca78a85c3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2F4a1d3d05a5ae1819d1874ca592ac8f6f.jpg",
-        "date": "2026-11-07",
-        "pays": "chine",
+        "id": "russie_894404",
+        "titre": "Musk accuse Zelensky de mensonge sur Starlink",
+        "titre_en": "Musk accuses Zelensky of Starlink misinformation",
+        "titre_zh": "马斯克指责泽连斯基关于星链的谎言",
+        "titre_ru": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+        "titre_fa": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+        "titre_ar": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+        "titre_original": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+        "resume": "Elon Musk a contesté les allégations ukrainiennes selon lesquelles Starlink serait perturbé en Ukraine, affirmant que Volodymyr Zelensky cherche à détourner le service pour un usage militaire. Cette déclaration s’inscrit dans un contexte de tensions croissantes autour de l’utilisation des technologies spatiales par l’Ukraine. Musk a également évoqué des risques de détournement de la technologie civile pour des fins militaires.",
+        "resume_en": "Elon Musk disputed Ukrainian claims that Starlink is disrupted in Ukraine, stating that Volodymyr Zelensky is misusing the service for military purposes. This follows escalating tensions over Ukraine’s use of space technologies. Musk also warned about the risk of civilian tech being diverted for military use.",
+        "resume_zh": "埃隆·马斯克否认乌克兰关于星链在乌克兰受到干扰的说法，声称泽连斯基试图将该服务用于军事目的。这一声明发生在乌克兰利用太空技术的紧张局势加剧之际。马斯克还警告称，民用技术可能被转用于军事目的。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Ce conflit s’inscrit dans une dynamique géopolitique plus large où les États-Unis et la Russie s’affrontent pour le contrôle des technologies spatiales et des infrastructures critiques. Les enjeux principaux concernent la souveraineté technologique ukrainienne et l’équilibre des pouvoirs entre acteurs privés et États. Les causes profondes incluent la dépendance ukrainienne aux systèmes de communication occidentaux et la volonté de Moscou de limiter cette influence. À court terme, cette dispute pourrait aggraver les tensions entre Kiev et Washington. À moyen terme, elle pourrait accélérer les efforts de diversification technologique de l’Ukraine. Les perspectives à long terme dépendent de la capacité de l’Ukraine à développer ses propres infrastructures spatiales indépendantes.",
+        "analyse_en": "This dispute fits into a broader geopolitical dynamic where the U.S. and Russia compete for control of space technologies and critical infrastructure. Key stakes involve Ukrainian technological sovereignty and the balance of power between private actors and states. Root causes include Ukraine’s dependence on Western communication systems and Russia’s efforts to limit this influence. Short-term, this conflict may escalate tensions between Kiev and Washington. Medium-term, it could accelerate Ukraine’s technological diversification efforts. Long-term prospects hinge on Ukraine’s ability to develop independent space infrastructure.",
+        "analyse_zh": "这一争端属于更广泛的地缘政治动态，美国和俄罗斯争夺太空技术和关键基础设施的控制权。主要影响在于乌克兰的技术主权和私营部门与国家之间的权力平衡。深层原因包括乌克兰对西方通信系统的依赖以及俄罗斯限制这种影响的努力。短期内，这一冲突可能加剧基辅和华盛顿之间的紧张关系。中期内，它可能加速乌克兰技术多元化的努力。长期前景取决于乌克兰发展独立太空基础设施的能力。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "date": "2026-11-19",
+        "pays": "russie",
         "badges": [
           {
-            "label": "▲ Marché des paris sportifs (betting)",
-            "hausse": true
+            "label": "▼ Secteur des télécommunications par satellite",
+            "hausse": false
           },
           {
-            "label": "▲ Publicité et sponsoring sportif",
+            "label": "▲ Marché des technologies de défense",
             "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des paris sportifs (betting)",
-            "secteur_en": "Sports betting market",
-            "secteur_zh": "体育赌博市场",
-            "effet_fr": "Les pronostics de Veritass.fr pourraient influencer les cotes et les mises des bookmakers, surtout pour les matchs à enjeux élevés comme Arkansas vs Auburn.",
-            "effet_en": "Veritass.fr’s predictions may influence betting odds and wagers, particularly for high-stakes matches like Arkansas vs Auburn.",
-            "effet_zh": "Veritass.fr的预测可能影响赌场的赔率和下注，特别是对于如阿肯色对奥本大学这样的高赌注比赛。",
-            "hausse": true
+            "secteur_fr": "Secteur des télécommunications par satellite",
+            "secteur_en": "Satellite telecommunications sector",
+            "secteur_zh": "卫星通信行业",
+            "effet_fr": "Les tensions pourraient entraîner une baisse de la confiance des investisseurs dans les projets spatiaux civils en Ukraine et une hausse des coûts de sécurité pour SpaceX.",
+            "effet_en": "Tensions may reduce investor confidence in Ukraine’s civilian space projects and increase security costs for SpaceX.",
+            "effet_zh": "紧张局势可能降低投资者对乌克兰民用太空项目的信心，并增加SpaceX的安全成本。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Publicité et sponsoring sportif",
-            "secteur_en": "Sports advertising and sponsorship",
-            "secteur_zh": "体育广告和赞助",
-            "effet_fr": "Les performances des équipes et les résultats imprévus attirent l’attention des marques, qui cherchent à associer leur image à des histoires de résilience ou de rebond.",
-            "effet_en": "Team performances and unexpected results draw brand attention, seeking to link their image with stories of resilience or comeback.",
-            "effet_zh": "球队的表现和意外结果吸引了品牌的关注，后者试图将其形象与韧性或逆袭的故事联系起来。",
+            "secteur_fr": "Marché des technologies de défense",
+            "secteur_en": "Defense technology market",
+            "secteur_zh": "国防技术市场",
+            "effet_fr": "Les accusations de détournement pourraient stimuler la demande en technologies de contre-mesures spatiales et en cyberdéfense, bénéficiant aux acteurs comme Lockheed Martin ou Raytheon.",
+            "effet_en": "Accusations of diversion may boost demand for space countermeasures and cybersecurity tech, benefiting firms like Lockheed Martin or Raytheon.",
+            "effet_zh": "被指控滥用技术可能刺激对太空反制和网络安全技术的需求，洛克希德·马丁和雷神等公司将受益。",
             "hausse": true
           }
         ],
-        "created_at": "2026-11-08T11:43:03.334575"
-      }
-    ],
-    "russie": [
+        "created_at": "2026-11-20T01:43:58.147456"
+      },
       {
         "id": "russie_916040",
         "titre": "France envoie soldats en Ukraine : réponse russe sans équivoque",
@@ -4888,65 +4947,6 @@
           }
         ],
         "created_at": "2026-11-08T17:38:47.384474"
-      },
-      {
-        "id": "russie_394661",
-        "titre": "Sanctions américaines ciblent firmes canadiennes liées à l’Iran",
-        "titre_en": "U.S. sanctions Canadian firms over Iran ties",
-        "titre_zh": "美国制裁与伊朗相关的加拿大金融机构",
-        "titre_ru": "Россия испытывает ракету-крылатую с вертолета Ми-28: атакующие машины получают дальний боекомплект",
-        "titre_fa": "روسیه از هلیکوپتر می-۲۸ موشک کروز پرتاب می‌کند: هواپیماهای حمله به ذخیره طولانی‌مدت سلاح دست می‌یابند",
-        "titre_ar": "روسيا تستهدف صاروخًا كروزًا من مروحية مي-28: طائرات الهجوم تحصل على ذخيرة بعيدة المدى",
-        "titre_original": "Russia's Mi-28 fires a cruise missile: Attack helicopters are getting longer punch",
-        "resume": "Les États-Unis ont imposé des sanctions à deux firmes canadiennes d’échange de devises, accusées de faciliter des transactions avec l’Iran. En parallèle, Washington offre jusqu’à 20 millions de dollars et une possible relocalisation pour toute information sur le programme nucléaire iranien. Cette mesure s’inscrit dans une stratégie de pression économique accrue contre Téhéran.",
-        "resume_en": "The U.S. imposed sanctions on two Canadian currency exchange firms, accused of facilitating transactions with Iran. Washington also offers up to $20 million and possible relocation for information on Iran’s nuclear program. This move fits into a strategy of intensified economic pressure against Tehran.",
-        "resume_zh": "美国对两家与伊朗有业务往来的加拿大外汇兑换公司实施制裁，并承诺最高2000万美元奖金和可能的移民安置，以换取关于伊朗核计划的情报。这一举措是对德黑兰施加更大经济压力的战略一部分。",
-        "resume_ru": "Россия, США и Индия активно разрабатывают возможности удара на дальние дистанции для своих ударных вертолетов. По данным источников, российский Ми-28НМ «Хаос» успешно испытал крылатую ракету в ходе операций на Украине. Это расширяет тактические возможности вертолетов, позволяя наносить удары с большего расстояния. Такие технологии могут изменить баланс сил в современных конфликтах.",
-        "resume_fa": "روسیه، آمریکا و هند در حال توسعه توانایی‌های حمله با برد دور برای هلیکوپترهای حمله خود هستند. بر اساس منابع، هلیکوپتر می-۲۸ ان ام «خائوس» روسی موفق به آزمایش موشک کروز در عملیات در اوکراین شده‌است. این توانایی‌های تاکتیکی هلیکوپترها را گسترش می‌دهد و امکان حمله از فاصله‌های بیشتر را فراهم می‌آورد. چنین فناوری‌هایی می‌توانند تعادل نیروهای موجود در کنفرانس‌های مدرن را تغییر دهند.",
-        "resume_ar": "روسيا والأمريكيون والهند يعملون جاهدين على تطوير قدرات الضرب على مسافات بعيدة لطائراتهم الهجومية. وفقًا للمصادر، نجحت مروحية مي-28 ان إم «الخائوس» الروسية في اختبار صاروخ كروز خلال عمليات في أوكرانيا. هذا يوسع قدرات الهجمات التكتيكية للمروحيات، مما يسمح بضربات من مسافات أكبر. قد تغير هذه التقنيات توازن القوى في الصراع الحديث.",
-        "analyse_detaillee": "Cette escalade s’inscrit dans une chronologie géopolitique marquée par l’accord de Vienne (2015) et son abandon unilatéral par Trump en 2018, suivi d’une série de sanctions ciblées. Les enjeux principaux tournent autour de la dissuasion iranienne et de la réduction de ses revenus pétroliers, essentiels pour financer son programme nucléaire et ses actions régionales (Hezbollah, Houthis). Les causes profondes incluent la méfiance mutuelle entre Washington et Téhéran, exacerbée par les tensions au Moyen-Orient (Yémen, Syrie, Golfe). À court terme, ces sanctions pourraient accélérer la fuite des capitaux vers des paradis fiscaux ou des réseaux informels. À moyen terme, elles pourraient pousser l’Iran à renforcer ses partenariats avec la Chine ou la Russie pour contourner les restrictions. Long terme, cela pourrait relancer les négociations internationales ou mener à une confrontation directe. Les acteurs clés sont les États-Unis (Trump/Biden), l’Iran (Gardiens de la révolution), et les alliés régionaux (Arabie saoudite, Israël).",
-        "analyse_en": "This escalation fits into a geopolitical timeline marked by the 2015 Vienna Agreement and its unilateral abandonment by Trump in 2018, followed by targeted sanctions. Key stakes involve deterring Iran and reducing its oil revenues, critical for funding its nuclear program and regional actions (Hezbollah, Houthis). Root causes include mutual distrust between Washington and Tehran, exacerbated by tensions in the Middle East (Yemen, Syria, Gulf). Short-term, sanctions may accelerate capital flight to tax havens or informal networks. Medium-term, they could push Iran to strengthen ties with China or Russia to bypass restrictions. Long-term, this could reignite international negotiations or lead to direct confrontation. Key actors include the U.S. (Trump/Biden), Iran (IRGC), and regional allies (Saudi Arabia, Israel).",
-        "analyse_zh": "这一升级事件源于2015年维也纳协议及特朗普2018年单方面撤出协议后的一系列制裁。主要争议在于遏制伊朗并减少其石油收入，后者是资助核计划和地区行动（真主党、胡塞武装）的关键。深层原因包括华盛顿和德黑兰之间的互不信任，以及中东地区（也门、叙利亚、波斯湾）的紧张局势加剧。短期内，制裁可能加速资金外流至避税天堂或非正式渠道。中期内，伊朗可能加强与中国或俄罗斯的合作以绕过限制。长期来看，这可能重启国际谈判或导致直接对抗。关键利益相关者包括美国（特朗普/拜登）、伊朗（革命卫队）和地区盟友（沙特、以色列）。",
-        "analyse_ru": "Развитие крылатых ракет для вертолетов — это логичный шаг в эволюции военной авиации, так как позволяет наносить удары с большей дистанции, минимизируя риски для экипажей. Россия, опережая конкурентов, демонстрирует новые возможности в области вооружений, что может повлиять на тактику ведения боевых действий. Однако такие технологии требуют высокоточного наведения и защиты от систем ПВО, что усложняет их внедрение. США и Индия, вероятно, ускорят свои программы, чтобы не отставать. В долгосрочной перспективе это может привести к новой волне гонки вооружений, особенно в регионах с высокой напряженностью.",
-        "analyse_fa": "توسعه موشک‌های کروز برای هلیکوپترها یک قدم منطقی در تکامل هواپیماهای نظامی است، زیرا امکان حمله از فاصله‌های بیشتر را با کاهش خطرات برای خدمه فراهم می‌آورد. روسیه با پیشی گرفتن از رقبا، توانایی‌های جدیدی در زمینه تسلیحات نشان می‌دهد که می‌تواند بر تاکتیک‌های جنگ تأثیر بگذارد. اما چنین فناوری‌هایی نیاز به هدایت دقیق و محافظت در برابر سیستم‌های دفاع هوایی دارند که پیچیدگی‌های بیشتری را در پی دارد. آمریکا و هند احتمالاً برنامه‌های خود را برای پیشی گرفتن از روسیه تسریع می‌کنند. در بلندمدت، این می‌تواند به موج جدید رقابت تسلیحاتی، به ویژه در مناطق با تنش بالا، منجر شود.",
-        "analyse_ar": "تطوير الصواريخ الكروز لمروحيات هو خطوة منطقية في تطور الطيران العسكري، حيث يسمح بضربات من مسافات بعيدة، وتقليل المخاطر على الطواقم. روسيا، التي تتقدم على المنافسين، تعرض قدرات جديدة في مجال الأسلحة، والتي قد تؤثر على تكتيكات القتال. ومع ذلك، تتطلب هذه التقنيات توجيهًا دقيقًا وحماية من أنظمة الدفاع الجوي، مما يزيد من تعقيد تطبيقها. ستسارع الولايات المتحدة والهند في برامجها لتجنب التخلف عن روسيا. في المدى الطويل، قد يؤدي هذا إلى موجة جديدة من سباق التسلح، خاصة في المناطق ذات التوتر العالي.",
-        "categorie": "Géopolitique",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/defence/international/russias-mi-28-fires-a-cruise-missile-attack-helicopters-are-getting-longer-punch/articleshow/135635007.cms",
-        "image": "https://static.toiimg.com/thumb/msid-135635133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "date": "2026-11-07",
-        "pays": "russie",
-        "badges": [
-          {
-            "label": "▼ Secteur financier canadien (échange de devises)",
-            "hausse": false
-          },
-          {
-            "label": "▼ Marché pétrolier international",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Secteur financier canadien (échange de devises)",
-            "secteur_en": "Canadian financial sector (currency exchange)",
-            "secteur_zh": "加拿大外汇兑换金融行业",
-            "effet_fr": "Ces sanctions pourraient entraîner des pertes financières pour les firmes visées et une méfiance accrue des institutions canadiennes envers les transactions avec l’Iran.",
-            "effet_en": "Sanctions may lead to financial losses for targeted firms and increased skepticism among Canadian institutions toward Iranian transactions.",
-            "effet_zh": "制裁可能导致目标公司遭受财务损失，并加剧加拿大机构对伊朗交易的不信任。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Marché pétrolier international",
-            "secteur_en": "Global oil market",
-            "secteur_zh": "全球石油市场",
-            "effet_fr": "La réduction des revenus pétroliers iraniens pourrait influencer les prix du baril et les stratégies des pays exportateurs, comme l’Arabie saoudite ou les pays de l’OPEP.",
-            "effet_en": "Reduced Iranian oil revenues may impact oil prices and strategies of exporters like Saudi Arabia or OPEC countries.",
-            "effet_zh": "伊朗石油收入减少可能影响原油价格和出口国（如沙特、OPEC成员国）的策略。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-11-08T11:43:03.334558"
       }
     ],
     "iran": [
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_918610",
+      "titre": "Féminicide en Seine-Saint-Denis : garagiste écroué",
+      "titre_en": "Garage owner jailed for femicide in Seine-Saint-Denis",
+      "titre_zh": "塞纳圣但尼女性遇害案：修理厂老板被拘留",
+      "titre_ru": "В Сене-Сен-Дени найден труп женщины в фургоне, механик обвиняется в убийстве по мотивам ненависти к женщинам",
+      "titre_fa": "در ساین سن دنیشه، جسد یک زن ۵۱ ساله در یک کامیون کوچک پیدا شد، مکانیک به دلیل قتل زنانه به زندان افتاد",
+      "titre_ar": "جسد امرأة تبلغ من العمر 51 عامًا اكتُشف ملفوفًا في شاحنة في سين سان دوني، ميكانيكي يُحاكم بتهمة قتل نسوي",
+      "titre_original": "Seine-Saint-Denis. Un corps retrouvé dans une camionnette, un garagiste mis en examen pour féminicide",
+      "resume": "Le corps d’une femme de 51 ans a été découvert enroulé dans des bâches près d’un garage automobile en Seine-Saint-Denis. Le garagiste, mis en examen pour féminicide, a été écroué, révélant une nouvelle tragédie dans une région déjà marquée par les violences conjugales. Ce cas souligne l’urgence d’une réponse judiciaire et sociale renforcée contre ces crimes.",
+      "resume_en": "The body of a 51-year-old woman was found wrapped in tarps near an auto garage in Seine-Saint-Denis. The garage owner was charged and jailed for femicide, highlighting another tragedy in a region already plagued by domestic violence. This case underscores the need for stronger judicial and social responses to such crimes.",
+      "resume_zh": "51岁女性尸体被发现卷在防水布中，位于塞纳圣但尼的一家汽车修理厂附近。该修理厂老板因女性遇害罪被起诉并拘留，暴露出该地区家庭暴力问题严重。此案再次凸显加强司法和社会应对女性暴力犯罪的紧迫性。",
+      "resume_ru": "В районе Сене-Сен-Дени был обнаружен труп женщины 51 года, завернутой в брезент возле автомастерской. Механик, владелец гаража, был задержан и обвинен в убийстве по мотивам ненависти к женщинам. Обстоятельства дела остаются под следствием, но версия о насильственной смерти подтверждается экспертизой.",
+      "resume_fa": "جسد یک زن ۵۱ ساله در نزدیکی یک کارگاه خودرو در ساین سن دنیشه پیدا شد که در زیر بامبوهای بزرگ پیچیده شده بود. مکانیک کارگاه به دلیل قتل زنانه به زندان افتاد و در حال بررسی است. دلیل دقیق و شرایط این حادثه هنوز مشخص نیست اما شواهد نشان می‌دهد که این قتل عمدی بوده است.",
+      "resume_ar": "اكتُشف جُثَّة امرأة تبلغ من العمر 51 عامًا ملفوفة في بطانيَّة بلاستيكية بالقرب من ورشة سيارات في سين سان دوني. ميكانيكي الورشة يُحاكم بتهمة قتلها بسبب كراهية النساء. التفاصيل الدقيقة للحادثة ما زالت تحت التحقيق، لكن الأدلة تشير إلى أن القتل كان عمديًا.",
+      "analyse_detaillee": "La Seine-Saint-Denis, département historiquement marqué par les inégalités sociales et économiques, concentre des taux élevés de violences faites aux femmes, souvent liées à des dynamiques de précarité et de marginalisation. Ce féminicide s’inscrit dans une série de cas récents où les mécanismes de protection des victimes restent insuffisants, malgré les alertes répétées des associations féministes. Les causes profondes incluent un manque de moyens pour les enquêtes judiciaires et une culture du silence autour des violences domestiques. À court terme, l’écrou du garagiste pourrait apaiser une partie de l’opinion publique, mais sans réforme structurelle, les risques de récidive ou d’impunité persistent. À moyen terme, les politiques publiques devront intégrer des dispositifs de prévention ciblés, comme des cellules d’écoute renforcées ou des formations obligatoires pour les professionnels. À long terme, une transformation sociale est nécessaire pour briser les stéréotypes genrés et promouvoir l’égalité réelle. Les acteurs comme le parquet ou les associations féministes (comme le Planning Familial) appellent à une mobilisation accrue, tandis que les élus locaux peinent à allouer des ressources adaptées.",
+      "analyse_en": "Seine-Saint-Denis, a department historically marked by social and economic inequalities, has high rates of violence against women, often linked to dynamics of precarity and marginalization. This femicide follows a series of recent cases where victim protection mechanisms remain inadequate, despite repeated warnings from feminist organizations. Root causes include insufficient judicial resources and a culture of silence around domestic violence. In the short term, the jail sentence for the garage owner may temporarily ease public opinion, but without structural reforms, risks of recidivism or impunity remain. In the medium term, public policies must include targeted prevention measures, such as strengthened listening cells or mandatory training for professionals. Long-term, a social transformation is needed to break gender stereotypes and promote real equality. Actors like the prosecutor’s office and feminist associations (such as Planning Familial) call for increased mobilization, while local officials struggle to allocate adequate resources.",
+      "analyse_zh": "塞纳圣但尼作为长期存在社会经济不平等的地区，女性暴力犯罪率居高不下，与贫困和边缘化问题密切相关。此案属于近期一系列女性遇害事件，暴露出司法保护机制严重不足，尽管女性主义组织多次发出警告。深层原因包括司法调查资源短缺和家庭暴力沉默文化。短期内，修理厂老板被拘留可能暂时缓解公众情绪，但缺乏结构性改革，再犯或逍遥法外的风险依然存在。中期内，公共政策需加强针对性预防措施，如增设咨询热线或强制专业培训。长期来看，社会变革是关键，以打破性别刻板印象并促进真正的平等。相关机构如检察院和女性主义组织（如计划生育协会）呼吁加强动员，而地方官员则难以分配足够资源。",
+      "analyse_ru": "Случай в Сене-Сен-Дени вновь поднимает вопрос о насилии над женщинами во Франции, где за последние годы зафиксировано множество подобных преступлений. Механик, обвиняемый в убийстве, ранее не привлекался к ответственности, что вызывает вопросы о профилактике насилия и контроле за потенциально опасными лицами. Такие дела часто становятся предметом общественного резонанса, особенно если жертва — женщина, что подчеркивает актуальность борьбы с гендерным насилием. Власти региона обещают ужесточить меры мониторинга за местами, где могут скрываться преступники. Однако эксперты отмечают, что без системных изменений в социальной политике ситуация не изменится.",
+      "analyse_fa": "این حادثه در ساین سن دنیشه بار دیگر به مسئله خشونت علیه زنان در فرانسه اشاره دارد که در سال‌های اخیر تعداد زیادی از این نوع جرایم ثبت شده است. مکانیک متهم به قتل زنانه، پیش از این به هیچ جرمی محکوم نشده بود که این سوال را ایجاد می‌کند که چرا چنین افراد بدون نظارت باقی می‌مانند. این موارد معمولاً باعث ایجاد واکنش‌های عمومی می‌شوند، به ویژه اگر قربانی زن باشد، که اهمیت مبارزه با خشونت جنسیتی را بیشتر نشان می‌دهد. مقامات منطقه وعده داده‌اند که اقدامات نظارتی را در مکان‌های احتمالی پنهان شدن مجرمان تشدید کنند. اما متخصصان معتقدند که بدون تغییرات سیستماتیک در سیاست اجتماعی، وضعیت تغییر نخواهد کرد.",
+      "analyse_ar": "هذا الحادث في سين سان دوني يثير مرة أخرى مسألة العنف ضد النساء في فرنسا، حيث سجلت العديد من الجرائم المماثلة في السنوات الأخيرة. الميكانيكي المتهم بقتلها لم يُحاكم من قبل، ما يثير تساؤلات حول عدم وجود نظام مراقبة للأفراد الخطرة. هذه الحالات عادة ما تسبب ردود أفعال عامة، خاصة إذا كانت الضحية امرأة، مما يبرز أهمية مكافحة العنف الجنسي. وعدت السلطات الإقليمية بتشديد المراقبة في أماكن قد يختبئ فيها المجرمون. ومع ذلك، يشير الخبراء إلى أن بدون تغييرات نظامية في السياسات الاجتماعية، لن تتغير الوضعية.",
+      "categorie": "Société",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/18/un-corps-retrouve-dans-une-camionnette-un-garagiste-mis-en-examen-pour-feminicide",
+      "image": "https://cdn-s-www.ledauphine.com/images/9F696B30-374D-4B99-A97B-9EE0E59C9C27/MF_contenu/un-corps-retrouve-dans-une-camionnette-un-garagiste-mis-en-examen-pour-feminicide-1795036987.jpg",
+      "date": "2026-11-18",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile professionnelle",
+          "hausse": true
+        },
+        {
+          "label": "▲ Fonds de prévention des violences conjugales",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile professionnelle",
+          "secteur_en": "Professional liability insurance",
+          "secteur_zh": "职业责任保险",
+          "effet_fr": "Les assureurs pourraient augmenter les primes pour les garagistes en raison des risques accrus liés aux violences domestiques et aux enquêtes judiciaires prolongées.",
+          "effet_en": "Insurers may raise premiums for garage owners due to increased risks of domestic violence and prolonged judicial investigations.",
+          "effet_zh": "保险公司可能因家庭暴力风险和司法调查延长而提高汽车修理厂的保费。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de prévention des violences conjugales",
+          "secteur_en": "Domestic violence prevention funds",
+          "secteur_zh": "家庭暴力预防基金",
+          "effet_fr": "Ce cas pourrait inciter les collectivités à reconsidérer leur budget alloué à ces fonds, en priorisant les zones à risque comme la Seine-Saint-Denis.",
+          "effet_en": "This case may prompt local authorities to re-evaluate budgets for these funds, prioritizing high-risk areas like Seine-Saint-Denis.",
+          "effet_zh": "此案可能促使地方政府重新审视对该基金的预算分配，优先资助如塞纳圣但尼等高风险地区。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-20T01:45:01.571779",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_616205",
+      "titre": "PFAS en UE : rapport dénonce failles réglementaires",
+      "titre_en": "EU PFAS regulations face major flaws",
+      "titre_zh": "欧盟PFAS法规遭质疑存在漏洞",
+      "titre_ru": "Европейский суд признал слабыми меры ЕС против «вечных загрязнителей» PFAS",
+      "titre_fa": "دادگاه اروپا ضعف قوانین اتحادیه اروپا در برابر «ملوثات ابدی» PFAS را تأیید کرد",
+      "titre_ar": "حُكمت المحكمة الأوروبية بأن «الدروع التنظيمية» للاتحاد الأوروبي ضد «الملوثات الأبدية» PFAS «تفتقر إلى العديد من الثغرات»",
+      "titre_original": "\"Désamorcer cette bombe à retardement\" : le bouclier réglementaire de l'UE contre les PFAS présente \"de nombreuses failles\", alerte un rapport",
+      "resume": "La Cour des comptes européenne pointe les lacunes du 'bouclier réglementaire' de l’UE contre les PFAS, surnommés 'polluants éternels'. Les procédures actuelles ne seraient pas adaptées pour encadrer ces substances persistantes et toxiques. Ce rapport met en lumière un retard critique dans la protection de l’environnement et de la santé publique.",
+      "resume_en": "The European Court of Auditors highlights flaws in the EU’s 'regulatory shield' against PFAS, dubbed 'eternal pollutants'. Current procedures are deemed inadequate to control these persistent and toxic substances. The report exposes a critical delay in environmental and public health protection.",
+      "resume_zh": "欧洲审计院指出欧盟对PFAS（永久性污染物）的‘法规防护屏障’存在严重漏洞。现行程序无法有效管控这些持久性和有毒化学物质。报告揭示了环境和公共卫生保护领域的严重滞后问题。",
+      "resume_ru": "Европейский суд финансов выявил серьезные пробелы в регулировании химических веществ в ЕС, особенно в отношении «вечных загрязнителей» PFAS. Эти соединения накапливаются в окружающей среде и организмах, представляя угрозу для здоровья. Отчет подчеркивает неэффективность текущих процедур и необходимость их срочного пересмотра.",
+      "resume_fa": "دادگاه حساب‌های اروپا ضعف روش‌های تنظیم مواد شیمیایی در اتحادیه اروپا را در برابر «مواد آلاینده ابدی» PFAS تأیید کرد. این ترکیبات در محیط زیست و بدن‌ها تجمع می‌یابند و خطرات جدی برای سلامتی ایجاد می‌کنند. گزارش نشان می‌دهد که روش‌های فعلی ناکارآمد هستند و نیاز به بازبینی فوری دارند.",
+      "resume_ar": "أكدت محكمة الحسابات الأوروبية على وجود «ثغرات عديدة» في إجراءات تنظيم المواد الكيميائية في الاتحاد الأوروبي، خاصة فيما يتعلق بـ«الملوثات الأبدية» PFAS. هذه المركبات تتراكم في البيئة والجسم البشري، وتشكل تهديدًا للصحة العامة. تقرير المحكمة يشير إلى عدم كفاءة الإجراءات الحالية وضرورة مراجعتها على وجه السرعة.",
+      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950 dans des produits industriels et grand public, sont aujourd’hui reconnus comme une menace majeure pour les écosystèmes et la santé humaine en raison de leur persistance et bioaccumulation. L’UE a tenté de répondre à ce défi avec des directives comme REACH, mais leur application reste fragmentaire, notamment face à la complexité des chaînes d’approvisionnement et à l’inertie des lobbies chimiques. Les failles réglementaires soulignées par la Cour des comptes incluent des délais d’évaluation trop longs et un manque de coordination entre États membres. À court terme, cette critique pourrait accélérer des propositions législatives en cours, comme le projet de restriction des PFAS. À moyen terme, les acteurs industriels devront investir dans des alternatives moins toxiques, sous peine de sanctions accrues. À long terme, une refonte globale des politiques environnementales sera nécessaire pour aligner l’UE sur des standards internationaux stricts. Les ONG environnementales (Greenpeace, ClientEarth) appellent à une interdiction totale, tandis que l’industrie chimique résiste, invoquant des coûts économiques et des transitions technologiques coûteuses.",
+      "analyse_en": "PFAS, used since the 1950s in industrial and consumer products, are now recognized as a major threat to ecosystems and human health due to their persistence and bioaccumulation. The EU has attempted to address this challenge with directives like REACH, but their implementation remains fragmented, particularly due to supply chain complexities and chemical lobby inertia. The regulatory gaps highlighted by the Court of Auditors include overly long assessment delays and a lack of coordination among member states. In the short term, this criticism may speed up pending legislative proposals, such as the PFAS restriction project. In the medium term, industrial actors will need to invest in less toxic alternatives or face increased sanctions. Long-term, a comprehensive overhaul of environmental policies will be necessary to align the EU with strict international standards. Environmental NGOs (Greenpeace, ClientEarth) call for a total ban, while the chemical industry resists, citing economic costs and expensive technological transitions.",
+      "analyse_zh": "PFAS自上世纪50年代以来广泛应用于工业和消费品中，现已被认定为对生态系统和人类健康构成严重威胁，因其持久性和生物富集特性。欧盟通过REACH指令等尝试应对，但执行存在碎片化问题，特别是面对复杂的供应链和化学行业利益集团的阻力。审计院指出的法规漏洞包括评估周期过长和成员国间缺乏协调。短期内，此批评可能加速现有立法提案（如PFAS限制项目）的进程。中期内，工业界将不得不投资于低毒替代品，否则面临更严厉的惩罚。长期来看，欧盟需要全面改革环境政策，以符合国际严格标准。环保组织（绿色和平、客观地球）呼吁全面禁用PFAS，而化学行业则以经济成本和技术转型高昂为由抵制。",
+      "analyse_ru": "Проблема PFAS — это глобальная экологическая угроза, которая требует скоординированных действий на уровне ЕС и национальных правительств. Отсутствие строгих стандартов и медленное принятие решений позволяют химическим компаниям продолжать выпуск опасных веществ, несмотря на известные риски. Европейский суд подчеркивает, что текущая система регулирования не соответствует масштабу проблемы и нуждается в кардинальных изменениях. Экологи и общественные организации призывают к ужесточению контроля и введению полного запрета на PFAS. Однако бизнес-интересы могут замедлить процесс, что требует политической воли для защиты здоровья граждан.",
+      "analyse_fa": "مسئله PFAS یک تهدید زیست‌محیطی جهانی است که نیاز به اقدامات هماهنگ در سطح اتحادیه اروپا و دولت‌های ملی دارد. عدم وجود استانداردهای سختگیرانه و کندی در تصمیم‌گیری باعث می‌شود که شرکت‌های شیمیایی همچنان مواد خطرناک را تولید کنند، در حالی که خطرات آن شناخته شده است. دادگاه اروپا نشان می‌دهد که سیستم فعلی تنظیم نتوانسته است به اندازه کافی به این مشکل پاسخ دهد و نیاز به تغییرات اساسی دارد. فعالان زیست‌محیطی و سازمان‌های اجتماعی به تشدید نظارت و ممنوعیت کامل PFAS می‌خوانند. اما منافع تجاری ممکن است این فرآیند را کند کند، که نیاز به اراده سیاسی برای حفاظت از سلامت شهروندان دارد.",
+      "analyse_ar": "تعدي PFAS تهديدًا بيئيًا عالميًا يتطلب إجراءات متزامنة على مستوى الاتحاد الأوروبي والحكومات الوطنية. غياب معايير صارمة وتأخير في اتخاذ القرارات يسمح للشركات الكيميائية بإنتاج هذه المواد الخطرة رغم المخاطر المعروفة. أكدت المحكمة الأوروبية على أن النظام التنظيمي الحالي غير قادر على مواجهة حجم المشكلة، ويحتاج إلى تغييرات جذرية. يدعو البيئيةون والمنظمات الاجتماعية إلى تشديد الرقابة وإصدار حظر شامل على PFAS. ومع ذلك، قد يبطئ المصالح التجارية هذا العملية، مما يتطلب إرادة سياسية لحماية صحة المواطنين.",
+      "categorie": "Environnement",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/environnement/pollution/pfas/desamorcer-la-bombe-a-retardement-des-pfas-le-bouclier-reglementaire-de-l-ue-contre-les-polluants-eternels-presente-de-nombreuses-failles-alerte-un-rapport_8288825.html",
+      "image": "https://www.franceinfo.fr/pictures/ehqDteZLQgQ0DJUUIvboOgs_8hA/1200x675/2026/11/18/6afdf9dfa86dc139842086.jpg",
+      "date": "2026-11-18",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Marché des assurances environnementales",
+          "hausse": true
+        },
+        {
+          "label": "▲ Fonds de recherche en chimie verte",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des assurances environnementales",
+          "secteur_en": "Environmental insurance market",
+          "secteur_zh": "环境保险市场",
+          "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques liés aux PFAS, en raison de l’augmentation des litiges et des coûts de dépollution.",
+          "effet_en": "Insurers may increase premiums to cover PFAS-related risks, given rising litigation and cleanup costs.",
+          "effet_zh": "保险公司可能因PFAS相关风险增加而提高保费，包括诉讼和污染清理成本。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de recherche en chimie verte",
+          "secteur_en": "Green chemistry research funds",
+          "secteur_zh": "绿色化学研究基金",
+          "effet_fr": "Ce rapport pourrait inciter les États membres à renforcer leurs investissements dans la R&D pour développer des alternatives non toxiques aux PFAS, dynamisant ce secteur émergent.",
+          "effet_en": "This report may prompt member states to increase investments in R&D for non-toxic PFAS alternatives, boosting this emerging sector.",
+          "effet_zh": "此报告可能促使成员国加大对非毒性PFAS替代品的研发投资，推动这一新兴领域发展。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-20T01:45:01.571803",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_358825",
       "titre": "Collectif 8 Mars exige plus de moyens",
       "titre_en": "8 March Collective Demands More Resources",
@@ -6431,66 +6551,6 @@
         }
       ],
       "created_at": "2026-11-12T20:42:16.184813",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_892469",
-      "titre": "Libération suspect féminicide Schaerbeek: colère familiale",
-      "titre_en": "Femicide suspect released: family outrage",
-      "titre_zh": "布鲁塞尔女性被害案嫌犯获释引发家属愤怒",
-      "titre_ru": "Le cri de colère de la sœur de Diana suite à la libération pour vice de procédure du suspect du féminicide à Schaerbeek : “Une insulte inacceptable”",
-      "titre_fa": "Le cri de colère de la sœur de Diana suite à la libération pour vice de procédure du suspect du féminicide à Schaerbeek : “Une insulte inacceptable”",
-      "titre_ar": "Le cri de colère de la sœur de Diana suite à la libération pour vice de procédure du suspect du féminicide à Schaerbeek : “Une insulte inacceptable”",
-      "titre_original": "Le cri de colère de la sœur de Diana suite à la libération pour vice de procédure du suspect du féminicide à Schaerbeek : “Une insulte inacceptable”",
-      "resume": "Le 3 décembre 2024, Diana Andreaa Gramma, 36 ans, a été assassinée à Schaerbeek par son ex-compagnon. Ibrahim E. a été libéré pour un vice de procédure, déclenchant l’indignation de sa sœur. Les associations féministes dénoncent une nouvelle faille judiciaire dans la lutte contre les violences conjugales en Belgique.",
-      "resume_en": "On December 3, 2024, Diana Andreaa Gramma, 36, was fatally stabbed in Schaerbeek by her ex-partner. Ibrahim E. was released due to a procedural error, sparking outrage from her sister. Feminist groups condemn another judicial flaw in Belgium’s fight against domestic violence.",
-      "resume_zh": "2024年12月3日，布鲁塞尔的迪安娜·安德烈亚·格拉马（36岁）被前男友刺杀身亡。嫌犯伊布拉希姆·E因程序瑕疵获释，引发其姐姐的强烈愤怒。女性主义组织谴责此案再次暴露比利时司法系统在反对家庭暴力方面的漏洞。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Ce féminicide s’inscrit dans une série de cas récents en Belgique où les procédures judiciaires sont critiquées pour leur lenteur ou leur laxisme. Les violences conjugales y restent un fléau sous-estimé, avec près de 100 femmes tuées annuellement depuis 2020. La libération d’Ibrahim E. révèle des failles structurelles dans l’enquête et la protection des victimes, aggravées par des ressources policières insuffisantes. À court terme, cela risque d’alimenter la défiance envers la justice et d’encourager les agresseurs à tester les limites légales. À moyen terme, les associations appellent à des réformes urgentes des lois sur les peines planchers et la protection des témoins. Long terme, une refonte globale de la réponse judiciaire aux violences sexistes semble indispensable pour restaurer la confiance. Les familles de victimes, comme celle de Diana, deviennent des porte-paroles incontournables, tandis que les partis politiques hésitent à prendre des mesures radicales par crainte électorale.",
-      "analyse_en": "This femicide follows a series of recent cases in Belgium where judicial procedures are criticized for their slowness or laxity. Domestic violence remains an underrated scourge, with nearly 100 women killed annually since 2020. Ibrahim E.’s release exposes structural flaws in investigations and victim protection, worsened by insufficient police resources. Short-term, this may fuel distrust in the justice system and embolden abusers to test legal boundaries. In the medium term, advocacy groups demand urgent reforms to mandatory sentences and witness protection laws. Long-term, a comprehensive overhaul of the judicial response to gender-based violence appears necessary to restore public trust. Victims’ families, like Diana’s, are becoming key advocates, while political parties hesitate to enact radical measures due to electoral fears.",
-      "analyse_zh": "此案发生在比利时近年多起司法程序受质疑的背景下，暴力家庭案件长期被低估，2020年以来每年近100名女性遇害。嫌犯伊布拉希姆·E的获释暴露了侦查和受害者保护体系的结构性漏洞，加剧了警力资源不足的问题。短期内，这将加剧公众对司法机构的不信任，并可能鼓励加害者挑战法律底线。中期内，女性主义组织呼吁紧急修订量刑法和证人保护法。长期来看，需要全面改革针对性别暴力的司法应对机制，才能重建公众信心。受害者家属如迪安娜家人成为关键发声者，而政党则因选举顾虑而犹豫推行激进改革。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Société",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/actu/faits/2026/11/10/le-cri-de-colere-de-la-soeur-de-diana-suite-a-la-liberation-pour-vice-de-procedure-du-suspect-du-feminicide-a-schaerbeek-une-insulte-inacceptable-O4QOI3C6O5GSBBOMUU6VRQPZYM/",
-      "image": "https://www.dhnet.be/resizer/v2/IOZ5GMQ755BALKQYM4KG4OLNBY.jpg?auth=8295666065eebd728f8ba2dbb8e1769523344f1df968a2460e3e358fbc15b16d&width=1200&height=630&quality=85&focal=1000%2C587",
-      "date": "2026-11-10",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurances responsabilité civile",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des avocats spécialisés en droit pénal",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances responsabilité civile",
-          "secteur_en": "Civil liability insurance",
-          "secteur_zh": "民事责任保险",
-          "effet_fr": "Les primes pourraient augmenter en raison de l’augmentation des risques liés aux procédures judiciaires contestées et aux indemnisations potentielles accrues pour les familles de victimes.",
-          "effet_en": "Premiums may rise due to increased risks from contested judicial procedures and higher potential payouts for victims' families.",
-          "effet_zh": "由于司法程序争议增加和对受害者家属赔偿金额上升，保费可能上涨。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des avocats spécialisés en droit pénal",
-          "secteur_en": "Specialized criminal law legal market",
-          "secteur_zh": "刑事律师专业市场",
-          "effet_fr": "La demande en recours contre les décisions judiciaires pourrait stimuler la demande en expertise juridique, mais aussi créer une sursaturation du secteur avec des honoraires en hausse.",
-          "effet_en": "Demand for appeals against judicial decisions may boost legal expertise demand, but also create market oversaturation with rising fees.",
-          "effet_zh": "对司法决定的上诉需求可能刺激法律专业需求，但也可能导致市场饱和和律师费用上涨。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-12T03:38:23.264675",
       "sous_categorie": "femmes"
     },
     {
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-17T21:32:15.282719",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_562601",
-      "titre": "PFAS : ALS renforce surveillance",
-      "titre_en": "ALS expands PFAS monitoring",
-      "titre_zh": "ALS扩大PFAS监测范围",
-      "titre_ru": "Mieux connaître la contamination aux PFAS est indispensable pour agir efficacement",
-      "titre_fa": "Mieux connaître la contamination aux PFAS est indispensable pour agir efficacement",
-      "titre_ar": "Mieux connaître la contamination aux PFAS est indispensable pour agir efficacement",
-      "titre_original": "Mieux connaître la contamination aux PFAS est indispensable pour agir efficacement",
-      "resume": "Le laboratoire ALS étend ses capacités pour surveiller les PFAS, des polluants persistants, afin d'aider industriels, collectivités et services de l'eau à respecter leurs obligations légales. Cette initiative s'inscrit dans un contexte de renforcement des réglementations européennes et nationales sur ces substances toxiques. Une meilleure connaissance de la contamination permettra des actions plus ciblées et efficaces contre ces polluants émergents.",
-      "resume_en": "ALS laboratory expands its capabilities to monitor PFAS, persistent pollutants, assisting industries, municipalities, and water services in complying with legal obligations. This move aligns with stricter EU and national regulations on these toxic substances. Enhanced contamination knowledge will enable more targeted and effective actions against emerging pollutants.",
-      "resume_zh": "ALS实验室扩大对PFAS（持久性污染物）的监测能力，帮助工业、地方政府和水务部门履行法规义务。此举与欧盟和法国加强对这些有毒物质的监管相符。更全面的污染数据将支持精准、高效的应对措施。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, surnommés ‘polluants éternels’, sont apparus massivement dans les années 1950 avec l’industrialisation des produits chimiques. Leur persistance dans l’environnement et leur accumulation dans les organismes vivants en font une menace croissante pour la santé publique et les écosystèmes. Les causes profondes incluent l’usage historique dans les textiles, mousses anti-incendie et revêtements antiadhésifs, ainsi que des défaillances dans leur gestion en fin de cycle. À court terme, les collectivités locales subissent des coûts élevés pour dépolluer les sols et les nappes phréatiques, tandis que les industriels font face à des pressions réglementaires accrues. À moyen terme, les normes européennes (comme le REACH) et les directives françaises pourraient imposer des restrictions plus strictes, impactant la compétitivité de certains secteurs. Long terme, une transition vers des alternatives non toxiques semble inévitable, mais son déploiement dépendra des investissements et de l’innovation technologique. Les acteurs publics, comme l’ANSES, et privés, comme ALS, jouent un rôle clé en combinant expertise scientifique et solutions opérationnelles pour limiter les risques.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, emerged prominently in the 1950s with the industrialization of chemicals. Their persistence in the environment and bioaccumulation in living organisms pose an escalating threat to public health and ecosystems. Root causes include historical use in textiles, firefighting foams, and non-stick coatings, alongside poor end-of-life management. Short-term, municipalities face high costs for soil and groundwater remediation, while industries endure increased regulatory pressure. Medium-term, EU norms (like REACH) and French directives may enforce stricter restrictions, affecting sector competitiveness. Long-term, a shift toward non-toxic alternatives seems inevitable, but its implementation hinges on investment and technological innovation. Public actors like ANSES and private entities like ALS are pivotal in merging scientific expertise with operational solutions to mitigate risks.",
-      "analyse_zh": "PFAS（持久性污染物）于20世纪50年代随着化学工业发展而大量出现，因其在环境中难降解且在生物体内富集，对公众健康和生态系统构成日益严重威胁。其深层原因包括历史上在纺织品、灭火泡沫和防粘涂层中的广泛应用，以及末端处置不当。短期内，地方政府承担高昂的土壤和地下水修复成本，而工业企业面临日益严格的监管压力。中期内，欧盟（如REACH法规）和法国的指令可能进一步限制PFAS的使用，影响相关行业的竞争力。长期来看，向非毒性替代品转型势在必行，但实施依赖于投资和技术创新。公共机构如ANSES和私营企业如ALS在结合科学研究与实际解决方案方面发挥关键作用，以减少风险。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Actu-environnement.com",
-      "url": "https://www.actu-environnement.com/ae/pdt/laboratoire-als-wessling-pfas-contamination-surveillance-eau-reglementation-1509.php4",
-      "image": "https://www.actu-environnement.com/images/illustrations/publireportages/1509-fb.jpg",
-      "date": "2026-11-16",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance environnementale",
-          "hausse": true
-        },
-        {
-          "label": "▼ Financement des collectivités locales",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance environnementale",
-          "secteur_en": "Environmental insurance",
-          "secteur_zh": "环境保险业",
-          "effet_fr": "Les assureurs doivent adapter leurs couvertures pour intégrer les risques liés aux PFAS, augmentant les primes et les exclusions pour les zones contaminées.",
-          "effet_en": "Insurers must adjust their policies to include PFAS-related risks, raising premiums and excluding contaminated areas from coverage.",
-          "effet_zh": "保险公司需调整保单以涵盖PFAS风险，导致保费上涨并排除污染区域的理赔。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Financement des collectivités locales",
-          "secteur_en": "Local government funding",
-          "secteur_zh": "地方政府融资",
-          "effet_fr": "Les budgets des municipalités sont sous pression pour financer la dépollution, réduisant les marges pour d’autres projets sociaux ou infrastructures.",
-          "effet_en": "Municipal budgets face strain to fund remediation, shrinking funds for other social or infrastructure projects.",
-          "effet_zh": "地方政府预算承压用于污染治理，减少了其他社会或基础设施项目的资金。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-11-17T12:48:49.159483",
       "sous_categorie": "environnement"
     }
   ]
