@@ -1,7 +1,66 @@
 {
-  "last_updated": "21/11/2026 à 16h06",
+  "last_updated": "21/11/2026 à 22h03",
   "articles": {
     "monde": [
+      {
+        "id": "monde_603903",
+        "titre": "USC football : espoir CFP malgré crise",
+        "titre_en": "USC football’s CFP hopes amid turmoil",
+        "titre_zh": "USC足球CFP希望在危机中",
+        "titre_ru": "USC football’s CFP hopes among 5 things to watch vs Maryland",
+        "titre_fa": "USC football’s CFP hopes among 5 things to watch vs Maryland",
+        "titre_ar": "USC football’s CFP hopes among 5 things to watch vs Maryland",
+        "titre_original": "USC football’s CFP hopes among 5 things to watch vs Maryland",
+        "resume": "Les Trojans de l'USC, dirigés par un entraîneur contesté, restent classés 18e dans le classement du College Football Playoff, suscitant l’espoir d’une possible sélection. Cette position stable pourrait être interprétée comme un signe de soutien de la part du comité de sélection. Cependant, la situation reste incertaine dans un contexte de tensions internes et de pression médiatique.",
+        "resume_en": "USC Trojans, led by a controversial coach, remain at No. 18 in the College Football Playoff rankings, raising hopes for a potential selection. This stable position may be seen as a lifeline from the selection committee amid internal turmoil and media scrutiny. Yet, uncertainty persists in a volatile environment.",
+        "resume_zh": "USC橄榄球队在一位备受争议的教练带领下，在大学橄榄球锦标赛排名中稳居第18位，引发了可能入选的希望。这一稳定的排名可能被视为选择委员会给予的支持信号，但内部动荡和媒体压力使得局势依然不确定。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Le College Football Playoff (CFP) est un système de sélection controversé depuis sa création en 2014, souvent critiqué pour son manque de transparence et son élitisme. Les Trojans, malgré leurs performances inégales cette saison, bénéficient d’un contexte favorable avec une saison régulière moins compétitive que d’habitude. Les tensions autour du coach Allen, accusé de gestion opaque, pourraient cependant nuire à leur crédibilité. À court terme, une sélection renforcerait leur image, mais à long terme, cela soulève des questions sur la légitimité du système. Les fans et médias américains attendent une clarification sur les critères objectifs, tandis que les universités rivales pourraient exploiter cette opportunité pour critiquer le CFP.",
+        "analyse_en": "The College Football Playoff (CFP) system, established in 2014, has long been criticized for its lack of transparency and elitism. USC Trojans, despite inconsistent performances this season, benefit from a relatively less competitive regular season. However, tensions around coach Allen, accused of opaque management, may undermine their credibility. Short-term, a selection would boost their image, but long-term, it raises questions about the CFP’s legitimacy. American fans and media demand clearer objective criteria, while rival universities could use this opportunity to criticize the CFP.",
+        "analyse_zh": "大学橄榄球锦标赛（CFP）自2014年成立以来，因缺乏透明度和精英主义而备受争议。USC橄榄球队尽管本赛季表现不稳定，但因常规赛竞争相对较弱而受益。然而，教练艾伦因管理不透明而面临指责，可能损害队伍的公信力。短期内，入选将提升队伍形象，但长期来看，这也质疑CFP的合理性。美国球迷和媒体要求更明确的客观标准，而竞争对手学校可能会利用这个机会批评CFP。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Sport",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/20/sports/usc-football-cfp-life-support-maryland-lincoln-riley/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-agsnxpoi1-1795209488364.jpg?quality=75&strip=all&1795191532&w=1200",
+        "date": "2026-11-20",
+        "pays": "monde",
+        "badges": [
+          {
+            "label": "▲ Marchés des paris sportifs (CFP)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Sponsoring des universités (marketing sportif)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marchés des paris sportifs (CFP)",
+            "secteur_en": "Sports betting markets (CFP)",
+            "secteur_zh": "体育赌博市场（CFP）",
+            "effet_fr": "Les fluctuations du classement USC pourraient provoquer des mouvements brutaux sur les cotes des paris concernant le CFP, avec des gains potentiels pour les bookmakers exploitant l’incertitude.",
+            "effet_en": "USC’s ranking shifts may trigger sharp movements in CFP betting odds, offering potential gains for bookmakers capitalizing on uncertainty.",
+            "effet_zh": "USC排名的波动可能导致CFP赌博市场的激烈波动，书房机构可利用不确定性获取潜在利润。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Sponsoring des universités (marketing sportif)",
+            "secteur_en": "University sponsorship (sports marketing)",
+            "secteur_zh": "大学赞助（体育营销）",
+            "effet_fr": "Une sélection en CFP pourrait attirer davantage de partenariats commerciaux pour USC, mais aussi inciter les sponsors à réévaluer leurs engagements face aux controverses autour du coach.",
+            "effet_en": "A CFP selection could attract more commercial partnerships for USC, but sponsors may also reassess commitments amid coach-related controversies.",
+            "effet_zh": "入选CFP可能吸引USC更多商业合作伙伴，但赞助商也可能因教练争议重新评估承诺。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-21T22:02:48.559162"
+      },
       {
         "id": "monde_978904",
         "titre": "Dodgers évitent arbitrage avec accord sur Call",
@@ -1122,65 +1181,6 @@
           }
         ],
         "created_at": "2026-11-12T12:12:40.742746"
-      },
-      {
-        "id": "monde_603352",
-        "titre": "DHS : détenu illégal tente cockpit United",
-        "titre_en": "DHS: Twice-deported suspect storms cockpit",
-        "titre_zh": "移民局：双重驱逐犯试图闯入联合航空驾驶舱",
-        "titre_ru": "ДХС: повторно депортированный нелегал пытался штурмовать кабину самолёта",
-        "titre_fa": "دپارتمان امنیت داخلی: مهاجمی غیرقانونی دو بار اخراج شده به کابین هواپیما حمله کرد",
-        "titre_ar": "وزارة الأمن الداخلي: مهاجر غير شرعي مرتان تم رفضه يحاول اقتحام كابينة طائرة",
-        "titre_original": "DHS Says Twice-Deported Illegal Alien Tried to Storm United Cockpit",
-        "resume": "Un individu deux fois expulsé des États-Unis est accusé d’avoir tenté de prendre d’assaut le cockpit d’un vol Newark-New Orleans de United Airlines en brandissant une bombe. Les autorités soulignent son statut de détenu illégal récurrent, posant des questions sur la sécurité aérienne et les failles migratoires. Ce cas relance le débat sur les contrôles aux frontières et la gestion des criminels récidivistes.",
-        "resume_en": "A twice-deported individual is accused of storming the cockpit of a Newark-to-New Orleans United Airlines flight, claiming to have a bomb. Authorities highlight his repeated illegal re-entry, raising concerns about aviation security and border enforcement failures. The incident reignites debates on immigration controls and the handling of repeat criminal offenders.",
-        "resume_zh": "一名两次被驱逐的美国非法移民被指控试图闯入联合航空驾驶舱，声称携带炸弹。美国当局强调其多次非法入境的记录，引发航空安全和边境管理漏洞的担忧。此事件再次引发关于移民管控和处理累犯的争议。",
-        "resume_ru": "Департамент госбезопасности США заявил, что подозреваемый в штурме кабины рейса «Юнайтед Эйрлайнз» из Ньюарка в Новый Орлеан, утверждавший, что у него бомба, был дважды депортирован. Инцидент произошёл во вторник. Данные о его прошлых нарушениях иммиграционного законодательства стали известны только сейчас. Обстоятельства попытки вторжения остаются неясными.",
-        "resume_fa": "دپارتمان امنیت داخلی آمریکا اعلام کرد که مردی که متهم به حمله به کابین هواپیما در پرواز نیوارک به نوآرلئانز شرکت یونایتد ایرلاینز است و ادعا می‌کرد بمب دارد، دو بار اخراج شده بود. این اتفاق روز دوشنبه رخ داد. اطلاعات مربوط به نقض‌های قبلی وی در قوانین مهاجرت اکنون آشکار شده است. جزئیات دقیق این حمله هنوز مشخص نیست.",
-        "resume_ar": "أعلنت وزارة الأمن الداخلي الأمريكية أن الرجل المتهم بالاعتداء على كابينة طائرة شركة يونايتد إيرلاينز من نيوارك إلى نيو أورليانز، الذي ادعى أن لديه قنبلة، كان مرتان تم رفضه وإعادة ترحيله. حدث هذا الحادث يوم الثلاثاء. لم يتم الكشف عن تفاصيل السابقة القانونية له فيما يتعلق بالجرائم الهجرة إلا الآن. لا تزال ظروف محاولة الاعتداء غير واضحة.",
-        "analyse_detaillee": "Ce cas s’inscrit dans une série d’incidents récents mettant en lumière les failles du système migratoire américain, marqué par des expulsions inefficaces et une surveillance frontalière fragmentée. Les enjeux incluent la crédibilité du DHS, la sécurité aérienne et la pression politique sur les réformes migratoires. Les causes profondes résident dans un manque de coordination entre agences et une priorisation insuffisante des criminels récidivistes. À court terme, cela pourrait renforcer les contrôles aux frontières, mais à moyen terme, une réforme législative semble inévitable. Les acteurs clés—Congrès, DHS et médias—seront sous pression pour agir, tandis que les États conservateurs pourraient exploiter l’affaire pour durcir les politiques.",
-        "analyse_en": "This incident falls within a series of recent cases exposing flaws in the U.S. immigration system, marked by ineffective deportations and fragmented border surveillance. Key stakes include the credibility of DHS, aviation security, and political pressure for immigration reforms. Root causes lie in inter-agency coordination failures and underprioritization of repeat offenders. Short-term, this may tighten border controls, but medium-term legislative reform appears inevitable. Key actors—Congress, DHS, and media—will face pressure to act, while conservative states may use the case to harden policies.",
-        "analyse_zh": "此事件属于美国移民体系近期暴露的多起漏洞案例之一，包括驱逐不力和边境监管分散。主要影响包括移民局的公信力、航空安全和对移民改革的政治压力。深层原因在于各机构协调不足和对累犯的重视不够。短期内可能加强边境管控，但中期内立法改革势在必行。关键利益相关者—国会、移民局和媒体—将面临压力采取行动，而保守派州可能利用此事进一步强化移民政策。",
-        "analyse_ru": "Инцидент поднимает вопросы о слабостях системы безопасности авиакомпаний и контроля миграции в США. Повторные депортации не всегда означают полное исключение из системы, что позволяет нелегалам возвращаться и совершать новые преступления. Такие случаи могут подорвать доверие пассажиров к авиакомпаниям и усилить давление на законодателей для ужесточения правил. С другой стороны, обвинения в террористической угрозе требуют тщательной проверки, чтобы избежать паники. Перспективы: возможно ужесточение проверок пассажиров с подозрительным поведением.",
-        "analyse_fa": "این حادثه سوال‌هایی در مورد ضعف سیستم امنیت شرکت‌های هواپیمایی و کنترل مهاجرت در آمریکا ایجاد می‌کند. دو بار اخراج شدن همیشه به معنای حذف کامل از سیستم نیست و این امکان را به مهاجران غیرقانونی می‌دهد تا دوباره بازگشت کرده و جرم جدیدی مرتکب شوند. چنین مواردی می‌توانند اعتماد مسافران به شرکت‌های هواپیمایی را زیر سؤال ببرند و فشار بیشتری بر قانونگذاران برای تشدید قوانین وارد کنند. از سوی دیگر، اتهامات مربوط به تهدید تروریستی نیاز به بررسی دقیق دارند تا از ایجاد پانیک جلوگیری شود. چشم‌انداز: احتمالاً بررسی‌های بیشتر برای مسافران با رفتار مشکوک افزایش خواهد یافت.",
-        "analyse_ar": "يعد هذا الحادث تساؤلات حول ضعف نظام أمن شركات الطيران والسيطرة على الهجرة في الولايات المتحدة. لا يعني إعادة ترحيل مرتان بالضرورة إزالة الشخص تمامًا من النظام، مما يسمح للمهاجرين غير الشرعيين بالعودة وإرتكاب جرائم جديدة. قد يؤدي مثل هذه الحالات إلى تشكيك الثقة لدى الركاب في شركات الطيران وزيادة الضغط على التشريعين لتشديد القوانين. من ناحية أخرى، تتطلب التهم المتعلقة بالتهديد الإرهابي فحصًا دقيقًا لتجنب انتشار الذعر. الآفاق: من المحتمل زيادة الفحوصات للمسافرين المشبوهين.",
-        "categorie": "Sécurité intérieure",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/immigration/2026/11/10/dhs-says-twice-deported-illegal-alien-tried-to-storm-united-cockpit/",
-        "image": "https://media.breitbart.com/media/2026/11/Rony-Alexander-Gomez-Alberto-34-was-arrested-on-three-separate-occasions-by-Border-Patrol-for-illegally-entering-the-United-States.-640x335.jpeg",
-        "date": "2026-11-11",
-        "pays": "monde",
-        "badges": [
-          {
-            "label": "▲ Assurance responsabilité civile aérienne",
-            "hausse": true
-          },
-          {
-            "label": "▲ Marché des visas et permis de travail",
-            "hausse": true
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance responsabilité civile aérienne",
-            "secteur_en": "Aviation liability insurance",
-            "secteur_zh": "",
-            "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse en raison de l’augmentation des risques terroristes et criminels liés aux vols commerciaux.",
-            "effet_en": "Insurers may raise premiums due to heightened risks of terrorist or criminal incidents on commercial flights.",
-            "effet_zh": "保险公司可能因商业航班恐怖或犯罪风险上升而提高保费。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Marché des visas et permis de travail",
-            "secteur_en": "Visa and work permit market",
-            "secteur_zh": "",
-            "effet_fr": "Les exigences accrues en matière de vérification des dossiers pourraient ralentir les délais d’obtention et augmenter les coûts pour les employeurs.",
-            "effet_en": "Stricter background checks may slow processing times and increase costs for employers seeking foreign workers.",
-            "effet_zh": "更严格的背景调查可能延长签证办理时间并增加雇主成本。",
-            "hausse": true
-          }
-        ],
-        "created_at": "2026-11-12T03:37:44.421886"
       }
     ],
     "france": [
@@ -1404,6 +1404,65 @@
       }
     ],
     "usa": [
+      {
+        "id": "usa_654869",
+        "titre": "Rencontre Trump-Xi : tensions sino-japonaises persistantes",
+        "titre_en": "Trump-Xi meeting: China-Japan tensions persist",
+        "titre_zh": "特朗普与习近平会晤：中日紧张局势持续",
+        "titre_ru": "Sharp China: Trump and Xi in Shenzhen; PRC-Japan Tensions Persist; Profound Anxiety for Chinese AI; More on the Nvidia Mess",
+        "titre_fa": "Sharp China: Trump and Xi in Shenzhen; PRC-Japan Tensions Persist; Profound Anxiety for Chinese AI; More on the Nvidia Mess",
+        "titre_ar": "Sharp China: Trump and Xi in Shenzhen; PRC-Japan Tensions Persist; Profound Anxiety for Chinese AI; More on the Nvidia Mess",
+        "titre_original": "Sharp China: Trump and Xi in Shenzhen; PRC-Japan Tensions Persist; Profound Anxiety for Chinese AI; More on the Nvidia Mess",
+        "resume": "Donald Trump et Xi Jinping se sont rencontrés à Shenzhen, tandis que les tensions entre la Chine et le Japon persistent, notamment autour des îles Senkaku/Diaoyu. Les inquiétudes autour de l’IA chinoise et les répercussions de la crise Nvidia dominent les discussions économiques. Ces rencontres soulignent les défis géopolitiques persistants dans la région Asie-Pacifique.",
+        "resume_en": "Donald Trump and Xi Jinping met in Shenzhen, as China-Japan tensions over the Senkaku/Diaoyu islands persist. Concerns over Chinese AI advancements and the fallout from Nvidia’s crisis dominate economic discussions. These meetings highlight ongoing geopolitical challenges in the Asia-Pacific region.",
+        "resume_zh": "特朗普和习近平在深圳会晤，同时中日围绕钓鱼岛/尖阁诸岛的紧张局势持续升温。中国人工智能发展带来的担忧以及Nvidia危机的影响成为经济讨论的焦点。这些会晤凸显了亚太地区持续的地缘政治挑战。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions sino-japonaises remontent aux années 1970, avec des conflits récurrents sur les îles Senkaku, exacerbés par les revendications territoriales et la militarisation des eaux. La Chine, sous pression économique et technologique, cherche à renforcer son influence en Asie via des initiatives comme la Belt and Road Initiative (BRI). Trump, en visite, tente de rééquilibrer les alliances en Asie-Pacifique, mais ses déclarations imprévisibles peuvent aggraver les tensions. À court terme, les tensions commerciales et technologiques (comme le cas Nvidia) pourraient s’intensifier, tandis qu’à long terme, la Chine pourrait consolider son leadership en IA, marginalisant les États-Unis. Les États-Unis et le Japon restent alignés sur la défense des droits souverains, mais leur capacité à contrer la Chine dépendra de leur cohésion stratégique.",
+        "analyse_en": "China-Japan tensions date back to the 1970s, with recurring conflicts over the Senkaku islands, fueled by territorial claims and militarization of waters. China, under economic and technological pressure, seeks to expand its influence in Asia through initiatives like the Belt and Road Initiative (BRI). Trump’s visit aims to rebalance alliances in the Asia-Pacific, but his unpredictable statements may escalate tensions. Short-term, trade and tech tensions (like Nvidia’s crisis) could worsen, while long-term, China may solidify its AI leadership, marginalizing the U.S. The U.S. and Japan remain aligned on sovereignty issues, but their ability to counter China depends on strategic cohesion.",
+        "analyse_zh": "中日紧张关系可追溯到20世纪70年代，围绕尖阁诸岛的冲突反复发生，由领土主张和海域军事化加剧。中国在经济和技术压力下，通过“一带一路”倡议等扩大亚洲影响力。特朗普的访问试图重新平衡亚太盟友关系，但其不稳定言论可能加剧紧张局势。短期内，贸易和科技摩擦（如Nvidia危机）可能加剧，而长期来看，中国可能巩固其人工智能领导地位，边缘化美国。美国和日本在主权问题上保持一致，但其抵制中国的能力取决于战略合作力度。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/sharp-china-trump-and-xi-in-shenzhen",
+        "image": "https://substack-video.s3.amazonaws.com/video_upload/post/225849746/d03aacbc-4809-4d53-85c8-853595500c52/transcoded-1795211909.png",
+        "date": "2026-11-20",
+        "pays": "usa",
+        "badges": [
+          {
+            "label": "▼ Marché des technologies chinoises (semiconducteurs)",
+            "hausse": false
+          },
+          {
+            "label": "▼ Exportations japonaises (électronique)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des technologies chinoises (semiconducteurs)",
+            "secteur_en": "Chinese tech market (semiconductors)",
+            "secteur_zh": "中国半导体技术市场",
+            "effet_fr": "Les tensions géopolitiques pourraient ralentir les investissements étrangers dans les semi-conducteurs chinois, affectant la croissance du secteur malgré les subventions gouvernementales.",
+            "effet_en": "Geopolitical tensions may slow foreign investments in Chinese semiconductors, impacting sector growth despite government subsidies.",
+            "effet_zh": "地缘政治紧张局势可能减缓外资对中国半导体行业的投资，影响该行业的增长，尽管政府提供补贴。",
+            "hausse": false
+          },
+          {
+            "secteur_fr": "Exportations japonaises (électronique)",
+            "secteur_en": "Japanese exports (electronics)",
+            "secteur_zh": "日本电子产品出口",
+            "effet_fr": "Les tensions sino-japonaises pourraient réduire les chaînes d’approvisionnement pour les exportateurs japonais, notamment dans l’électronique, en cas d’escalade des sanctions commerciales.",
+            "effet_en": "China-Japan tensions may disrupt supply chains for Japanese exporters, particularly in electronics, if trade sanctions escalate.",
+            "effet_zh": "中日紧张局势可能在贸易制裁升级时打断日本电子产品出口的供应链。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-21T22:02:48.559183"
+      },
       {
         "id": "usa_559558",
         "titre": "Senate républicain accélère loi infrastructures énergétiques",
@@ -2524,65 +2583,6 @@
           }
         ],
         "created_at": "2026-11-12T12:12:40.742737"
-      },
-      {
-        "id": "usa_971357",
-        "titre": "Baris : Millennials et Hispaniques affaiblissent FOX",
-        "titre_en": "Baris: Millennials, Hispanics weaken FOX News",
-        "titre_zh": "巴里斯：千禧一代和西班牙裔观众削弱福克斯新闻",
-        "titre_ru": "Рич Барис: миллениалы и латиноамериканцы «показали мышцы» против фокс-новостей бумеров",
-        "titre_fa": "ریچ باریس: میلینیال‌ها و هیسپانیک‌ها قدرت خود را در برابر بومرهای فاکس نیوز نشان دادند",
-        "titre_ar": "ريتش باريس: الملاديون والهسبانيات «أظهروا عضلاتهم» ضد بويمرز فوكس نيوز",
-        "titre_original": "Rich Baris: Millennials and Hispanics Flexed Their Muscles, Smoked FOX News Boomers",
-        "resume": "L’animateur Rich Baris attribue la baisse d’audience de FOX News aux jeunes électeurs et à la communauté hispanique, qu’il qualifie de « grande baleine blanche » pour les démocrates. Ses propos, jugés provocateurs, reflètent une polarisation croissante et une stratégie médiatique ciblant les électeurs conservateurs. Ce discours divise les analystes entre ceux qui y voient une tactique électorale et ceux qui dénoncent un racisme latent.",
-        "resume_en": "Host Rich Baris blames FOX News’ audience decline on millennials and Hispanic voters, calling them the ‘great white whale’ for Democrats. His inflammatory remarks highlight growing polarization and a media strategy targeting conservative voters. Analysts are divided between seeing it as an electoral tactic or latent racism.",
-        "resume_zh": "主持人里奇·巴里斯将福克斯新闻收视下滑归咎于千禧一代和西班牙裔选民，称他们是民主党的「大白鲸」。其言论引发争议，反映出日益严重的两极分化和针对保守派选民的媒体策略。分析师对其动机存在分歧，有人认为是选举策略，有人指责其隐含种族主义。",
-        "resume_ru": "Рич Барис, комментатор из Техаса, заявил, что молодые избиратели и латиноамериканцы стали ключевым фактором в победе демократов на выборах. Он назвал это «большой белой китом» для республиканцев, который теперь должен заплатить цену. По его словам, это событие важнее, чем просто победа в Техасе. Барис подчеркнул, что такие изменения требуют пересмотра стратегий политических партий.",
-        "resume_fa": "ریچ باریس، تحلیلگر تگزاس، گفت که جوانان و هیسپانیک‌ها عامل کلیدی در پیروزی دموکرات‌ها در انتخابات بودند. او این را «کوسه سفید بزرگ» برای جمهوری‌خواهان نامید که اکنون باید هزینه آن را بپردازد. بر اساس گفته‌های او، این رویداد مهم‌تر از تنها پیروزی در تگزاس است. باریس تأکید کرد که چنین تغییراتی نیاز به بازبینی استراتژی‌های سیاسی حزب‌ها دارد.",
-        "resume_ar": "قال ريتش باريس، محلل من تكساس، إن الشباب والهسبانيات كانوا العامل الرئيسي في فوز الديمقراطيين في الانتخابات. وصفه هذا بأنه «الأسد الأبيض الكبير» الذي يجب على الجمهوريين الآن دفع ثمنه. وفقًا له، هذا الحدث أكثر أهمية من مجرد فوز في تكساس. شدد باريس على أن مثل هذه التغييرات تتطلب مراجعة استراتيجيات الأحزاب السياسية.",
-        "analyse_detaillee": "Les propos de Baris s’inscrivent dans un contexte de guerre culturelle aux États-Unis, où les médias conservateurs cherchent à mobiliser leur base face à une montée de l’influence démocrate. Les causes profondes incluent la fragmentation des audiences traditionnelles et la radicalisation des discours politiques. À court terme, cela pourrait renforcer l’audience des chaînes alternatives comme Newsmax ou OAN, tandis que FOX pourrait durcir son positionnement. Les Hispaniques, en tant que groupe démographique en croissance, deviennent une cible stratégique pour les deux camps. Les réseaux sociaux amplifient ces dynamiques en viralisant les déclarations controversées.",
-        "analyse_en": "Baris’ remarks reflect a cultural war in the U.S., where conservative media seeks to mobilize its base against rising Democratic influence. Root causes include the fragmentation of traditional audiences and the radicalization of political discourse. Short-term, this may boost audiences for alternatives like Newsmax or OAN, while FOX could harden its stance. Hispanics, as a growing demographic, are becoming a strategic target for both sides. Social media amplifies these dynamics by viralizing controversial statements.",
-        "analyse_zh": "巴里斯的言论反映了美国文化战的背景，保守派媒体试图在民主党影响力上升时动员其支持者。深层原因包括传统受众的分裂和政治言论的极端化。短期内，这可能推动像Newsmax或OAN这样的替代媒体收视上升，而福克斯可能进一步强化立场。西班牙裔群体作为快速增长的民主力量，成为两党争夺的战略目标。社交媒体通过病毒式传播放大了这些争议言论。",
-        "analyse_ru": "Высказывания Бариса отражают растущее недовольство традиционными медиа и политическими элитами среди молодёжи. Миллениалы и латиноамериканцы всё чаще становятся движущей силой прогрессивных изменений, что заставляет консервативные круги искать новые подходы. Такие комментарии могут усилить поляризацию в обществе, но также стимулируют демократические силы к активным действиям. С другой стороны, республиканцы могут попытаться дискредитировать молодых избирателей, обвиняя их в «идеологической незрелости». Перспективы: возможно усиление медийной войны и поиск новых союзников среди среднего класса.",
-        "analyse_fa": "اعلامیات باریس نشان‌دهنده نارضایتی روزافزون جوانان و الیت سیاسی در برابر رسانه‌های سنتی است. میلینیال‌ها و هیسپانیک‌ها به تدریج به عنوان نیروی محرکه تغییرات پیشرو تبدیل شده‌اند، که این امر باعث می‌شود گروه‌های محافظه‌کار به دنبال رویکردهای جدید باشند. چنین اظهارنظرهایی می‌توانند به افزایش قطبی‌سازی در جامعه کمک کنند، اما همچنین تشویق نیروهای دموکراتیک به اقدامات فعالتر می‌کند. از سوی دیگر، جمهوری‌خواهان ممکن است سعی کنند جوانان را با اتهاماتی مانند «نارسایی ایدئولوژیک» بی‌اعتبار کنند. چشم‌انداز: احتمالاً افزایش جنگ رسانه‌ای و جستجوی متحدین جدید در میان طبقه متوسط.",
-        "analyse_ar": "تحدثات باريس تعكس عدم الرضا المتزايد لدى الشباب والأحزاب السياسية التقليدية تجاه وسائل الإعلام. أصبح الملاديون والهسبانيات قوة دافعة للتغييرات التقدمية، مما يجبر الدوائر المحافظة على البحث عن طرق جديدة. قد يؤدي مثل هذه التعليقات إلى زيادة التقطيب في المجتمع، ولكن أيضًا تحفيز القوى الديمقراطية على اتخاذ إجراءات أكثر نشاطًا. من ناحية أخرى، قد يحاول الجمهوريون إفساد سمعة الناخبين الشباب بتهمهم بال«انعدام النضج الأيديولوجي». الآفاق: من المحتمل زيادة حرب الإعلام والبحث عن حلفاء جدد ضمن الطبقة الوسطى.",
-        "categorie": "Médias et politique",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-news/4402587/posts",
-        "image": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800&q=80",
-        "date": "2026-11-11",
-        "pays": "usa",
-        "badges": [
-          {
-            "label": "▼ Publicité ciblée sur les réseaux sociaux",
-            "hausse": false
-          },
-          {
-            "label": "▼ Bourse des médias traditionnels",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Publicité ciblée sur les réseaux sociaux",
-            "secteur_en": "Targeted social media advertising",
-            "secteur_zh": "",
-            "effet_fr": "Les plateformes comme Facebook et Twitter pourraient ajuster leurs algorithmes pour limiter la diffusion de contenus polarisants, réduisant les revenus publicitaires des médias conservateurs.",
-            "effet_en": "Platforms like Facebook and Twitter may tweak algorithms to curb polarizing content, reducing ad revenue for conservative media outlets.",
-            "effet_zh": "Facebook和Twitter等平台可能调整算法限制极端内容传播，减少保守派媒体的广告收入。",
-            "hausse": false
-          },
-          {
-            "secteur_fr": "Bourse des médias traditionnels",
-            "secteur_en": "Traditional media stock market",
-            "secteur_zh": "",
-            "effet_fr": "Les actions de chaînes comme FOX pourraient chuter en Bourse en raison de la perte d’audience et de la pression réglementaire accrue sur les discours politiques.",
-            "effet_en": "Stocks of networks like FOX may drop due to declining audiences and increased regulatory pressure on political commentary.",
-            "effet_zh": "福克斯等媒体股票可能因收视下滑和政治言论监管加强而下跌。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-11-12T03:37:44.421910"
       }
     ],
     "chine": [
@@ -3769,6 +3769,65 @@
     ],
     "russie": [
       {
+        "id": "russie_901385",
+        "titre": "Danemark expulse attaché militaire russe",
+        "titre_en": "Denmark expels Russian military attaché",
+        "titre_zh": "丹麦驱逐俄罗斯军事附随",
+        "titre_ru": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "titre_fa": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "titre_ar": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "titre_original": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+        "resume": "Le Danemark a accusé la Russie de comploter pour assassiner un rappeur d’origine ukrainienne et américaine, déclenchant l’expulsion de l’attaché militaire russe. Moscou a démenti ces accusations, qualifiant la mesure de provocation. Cet incident s’inscrit dans un contexte de tensions accrues entre l’OTAN et la Russie depuis l’invasion de l’Ukraine en 2022.",
+        "resume_en": "Denmark accused Russia of plotting to assassinate a Ukrainian-American rapper, leading to the expulsion of the Russian military attaché. Moscow denied the allegations, calling the move a provocation. This incident escalates tensions between NATO and Russia since the 2022 Ukraine invasion.",
+        "resume_zh": "丹麦指控俄罗斯策划暗杀一名乌克兰裔美国 rapper，导致俄罗斯军事附随被驱逐。莫斯科否认指控，称这一举动是挑衅。此事发生在北约和俄罗斯自2022年入侵乌克兰以来关系紧张的背景下。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "Les tensions entre la Russie et l’OTAN remontent à la guerre froide, avec des pics récurrents depuis l’annexion de la Crimée en 2014. L’invasion de l’Ukraine en 2022 a radicalisé ces relations, transformant la Russie en paria géopolitique. Les accusations d’assassinat ciblé reflètent une escalade des opérations de renseignement et de désinformation, typiques des conflits hybrides modernes. À court terme, cette expulsion pourrait entraîner des représailles russes, comme des expulsions diplomatiques ou des cyberattaques ciblées. À moyen terme, cela pourrait affaiblir les canaux de communication entre Moscou et l’OTAN, rendant toute négociation plus difficile. À long terme, la Russie pourrait renforcer ses alliances avec des acteurs comme la Chine ou l’Iran pour contourner les pressions occidentales. L’OTAN et les pays européens, comme le Danemark, maintiennent une ligne ferme contre Moscou, tandis que la Russie, isolée diplomatiquement, cherche à justifier ses actions par des narratives de sécurité nationale.",
+        "analyse_en": "Tensions between Russia and NATO date back to the Cold War, with recurring peaks since Russia’s annexation of Crimea in 2014. The 2022 Ukraine invasion radicalized these relations, turning Russia into a geopolitical pariah. Accusations of targeted assassination reflect an escalation in intelligence and disinformation operations, typical of modern hybrid conflicts. Short-term, this expulsion could trigger Russian retaliation, such as diplomatic expulsions or targeted cyberattacks. Medium-term, it may weaken communication channels between Moscow and NATO, making negotiations harder. Long-term, Russia could strengthen alliances with actors like China or Iran to bypass Western pressures. NATO and European countries like Denmark maintain a firm stance against Moscow, while Russia, diplomatically isolated, seeks to justify its actions through narratives of national security.",
+        "analyse_zh": "俄美北约关系可追溯到冷战时期，自2014年克里米亚被占领以来，关系反复紧张。2022年入侵乌克兰进一步激化了这一对立，使俄罗斯成为地缘政治上的孤立者。针对性暗杀指控反映了情报和虚假信息战的升级，这是现代杂交战争的典型特征。短期内，这一驱逐可能导致俄罗斯采取报复措施，如驱逐外交人员或针对性的网络攻击。中期内，这可能削弱莫斯科与北约之间的沟通渠道，使谈判变得更加困难。长期来看，俄罗斯可能加强与中国或伊朗等国家的联盟，以规避西方压力。北约和欧洲国家如丹麦坚持对莫斯科的强硬立场，而俄罗斯在外交上孤立的情况下，试图通过国家安全的叙事来为其行动辩护。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Géopolitique",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+        "date": "2026-11-20",
+        "pays": "russie",
+        "badges": [
+          {
+            "label": "▲ Marché des cyberdéfenses (Russie/OTAN)",
+            "hausse": true
+          },
+          {
+            "label": "▼ Tourisme et relations culturelles (sanctions)",
+            "hausse": false
+          }
+        ],
+        "impact_marches": [
+          {
+            "secteur_fr": "Marché des cyberdéfenses (Russie/OTAN)",
+            "secteur_en": "Cybersecurity market (Russia/NATO)",
+            "secteur_zh": "网络安全市场（俄罗斯/北约）",
+            "effet_fr": "Les tensions accrues pourraient stimuler les investissements dans les technologies de cyberdéfense pour les deux camps, avec une hausse des dépenses militaires dans ce secteur.",
+            "effet_en": "Escalating tensions may boost investments in cybersecurity technologies for both sides, leading to increased military spending in this sector.",
+            "effet_zh": "升级的紧张局势可能刺激双方在网络安全技术上的投资，导致该领域军事开支增加。",
+            "hausse": true
+          },
+          {
+            "secteur_fr": "Tourisme et relations culturelles (sanctions)",
+            "secteur_en": "Tourism and cultural relations (sanctions)",
+            "secteur_zh": "旅游和文化关系（制裁）",
+            "effet_fr": "Les expulsions diplomatiques et accusations pourraient réduire les échanges culturels et touristiques entre la Russie et les pays occidentaux, affectant les secteurs liés aux visas et aux partenariats.",
+            "effet_en": "Diplomatic expulsions and accusations may reduce cultural and tourist exchanges between Russia and Western countries, impacting visa-related and partnership sectors.",
+            "effet_zh": "外交驱逐和指控可能减少俄罗斯与西方国家之间的文化和旅游交流，影响签证相关和合作伙伴行业。",
+            "hausse": false
+          }
+        ],
+        "created_at": "2026-11-21T22:02:48.559204"
+      },
+      {
         "id": "russie_826886",
         "titre": "Missiles russes s’écrasent en Pologne près frontière ukrainienne",
         "titre_en": "Russian missiles crash in Poland near Ukraine border",
@@ -4888,68 +4947,68 @@
           }
         ],
         "created_at": "2026-11-10T12:08:00.642954"
-      },
+      }
+    ],
+    "iran": [
       {
-        "id": "russie_725886",
-        "titre": "Støre avertit : Poutine pourrait ne pas vouloir la paix",
-        "titre_en": "Støre warns Putin may not want peace",
-        "titre_zh": "斯托雷警告普京可能不想要和平",
-        "titre_ru": "Сторё предупреждает: Путин, возможно, не хочет мира",
-        "titre_fa": "استوره هشدار می‌دهد: ممکن است پوتین به صلح علاقه نداشته باشد",
-        "titre_ar": "يستره يحذر: قد لا يريد بوتين السلام",
-        "titre_original": "Putin may not want peace, warns Norwegian leader who spoke to him",
-        "resume": "Dans une interview exclusive avec POLITICO, le Premier ministre norvégien Jonas Gahr Støre déclare ne pas s’attendre à un progrès majeur lors des prochaines négociations à Abu Dhabi. Il met en garde contre une possible absence de volonté de paix de la part de Moscou. Cette déclaration intervient après des mois de stalemate dans la guerre en Ukraine.",
-        "resume_en": "Norwegian Prime Minister Jonas Gahr Støre, in an exclusive POLITICO interview, says he does not expect major breakthroughs at upcoming Abu Dhabi talks. He warns of possible lack of peace intent from Moscow. This comes after months of stalemate in the Ukraine war.",
-        "resume_zh": "挪威总理约纳斯·加尔·斯托雷在POLITICO独家采访中表示，他不期望在阿布扎比即将举行的谈判中取得重大突破。他警告称，莫斯科可能缺乏和平意愿。这一声明发生在乌克兰战争僵持数月之后。",
-        "resume_ru": "В эксклюзивном интервью для POLITICO норвежский премьер-министр Йонас Гahr Стёре заявил, что не ожидает значительных прорывов на переговорах в Абу-Даби. Он выразил опасения, что Путин может не стремиться к миру. Эти слова подчеркивают сложность текущих переговорных процессов.",
-        "resume_fa": "در مصاحبه‌ای انحصاری با POLITICO، نخست‌وزیر نروژ، یونس گهر استوره، گفت که انتظار ندارد مذاکرات در ابودhabi به یک پیشرفت بزرگ منجر شود. او نگرانی خود را در مورد این که پوتین ممکن است به صلح علاقه نداشته باشد، ابراز کرد. این سخنان پیچیدگی فرایند مذاکرات کنونی را برجسته می‌کند.",
-        "resume_ar": "في مقابلة حصرية مع POLITICO، قال رئيس وزراء النرويج يوناس غار ستوره إنه لا يتوقع أي تقدم كبير في مفاوضات أبوظبي. عبّر عن مخاوفه من أن بوتين قد لا يرغب في السلام. هذه الكلمات تبرز تعقيد عملية المفاوضات الحالية.",
-        "analyse_detaillee": "Cette déclaration survient dans un contexte de guerre en Ukraine entrée dans sa deuxième année, marquée par des positions figées et une escalade des violences. Les enjeux incluent la souveraineté ukrainienne, la sécurité européenne et le rôle de la Russie en tant qu’acteur géopolitique. Les causes profondes sont les ambitions expansionnistes de Poutine, la dépendance énergétique de l’Europe et les divisions au sein de l’OTAN. À court terme, cela pourrait renforcer les divisions au sein de la coalition pro-ukrainienne et accélérer les livraisons d’armes occidentales. À moyen terme, cela pourrait pousser l’Ukraine à chercher des alliances alternatives (Chine, Turquie) et affaiblir le moral des populations russes. À long terme, le risque d’une guerre prolongée persiste, avec des conséquences économiques et démographiques majeures pour l’Europe et la Russie.",
-        "analyse_en": "This statement comes amid Ukraine’s second-year war, marked by frozen positions and escalating violence. Stakes include Ukrainian sovereignty, European security, and Russia’s role as a geopolitical actor. Root causes involve Putin’s expansionist ambitions, Europe’s energy dependence, and NATO divisions. Short-term, this may deepen divisions within the pro-Ukraine coalition and accelerate Western arms deliveries. Medium-term, it could push Ukraine to seek alternative alliances (China, Turkey) and weaken Russian public morale. Long-term, the risk of prolonged war persists, with major economic and demographic consequences for Europe and Russia.",
-        "analyse_zh": "这一声明发生在乌克兰战争进入第二年，战线僵持且暴力升级的背景下。主要影响包括乌克兰主权、欧洲安全和俄罗斯作为地缘政治行为体的角色。深层原因是普京的扩张野心、欧洲对能源的依赖和北约内部的分歧。短期内，这可能加剧亲乌克兰联盟内部的分裂，并加速西方武器的交付。中期内，这可能推动乌克兰寻求替代盟友（中国、土耳其）并削弱俄罗斯公众士气。长期来看，持续战争的风险依然存在，对欧洲和俄罗斯造成重大经济和人口影响。",
-        "analyse_ru": "Заявление Стёре отражает растущее недоверие к намерениям России в переговорах по урегулированию конфликта. Норвегия, как нейтральная страна, играет важную роль в посредничестве, но её оценки могут быть восприняты как сигнал о возможной неудаче дипломатии. Путин, вероятно, воспримет такие комментарии как давление, но в то же время это может подтолкнуть его к более жесткой позиции. Международное сообщество, включая страны ЕС, уже давно критикует Россию за отсутствие конструктивного подхода к миру. В долгосрочной перспективе, такие заявления могут усилить изоляцию России, но также подчеркнуть необходимость поиска альтернативных путей для деэскалации.",
-        "analyse_fa": "اعلامات استوره نشان‌دهنده افزایش عدم اعتماد به نیت روسیه در مذاکرات برای حل و فصل درگیری است. نروژ، به عنوان یک کشور خنثی، نقش مهمی در واسطگی دارد، اما ارزیابی‌هایش ممکن است به عنوان نشانه‌ای از احتمال شکست دیپلماسی تلقی شود. پوتین احتمالاً این اظهارات را به عنوان فشار درک خواهد کرد، اما در عین حال ممکن است این را به یک موقعیت سخت‌گیرانه تر تشویق کند. جامعه بین‌المللی، از جمله کشورهای اتحادیه اروپا، از مدت‌ها است روسیه را به دلیل عدم رویکرد سازنده به صلح انتقاد می‌کند. در بلندمدت، چنین اظهاراتی می‌تواند عزلت روسیه را تقویت کند، اما همچنین نیاز به جستجوی راه‌های جایگزین برای کاهش تنش‌ها را برجسته می‌کند.",
-        "analyse_ar": "تحدث ستوره يعكس عدم الثقة المتزايد في نوايا روسيا في مفاوضات حل الصراع. النرويج، كدولة محايدة، تلعب دورًا هامًا في الوساطة، ولكن تقييماتها قد تُفهم كإشارة إلى احتمال فشل الدبلوماسية. قد يرى بوتين هذه التعليقات كضغط، ولكن في نفس الوقت قد يدفعه ذلك إلى موقف أكثر قسوة. المجتمع الدولي، بما في ذلك دول الاتحاد الأوروبي، كان منذ فترة طويلة ي критиق روسيا بسبب عدم اعتمادها على نهج بناء للسلام. على المدى الطويل، قد تقوي مثل هذه التعليقات عزلة روسيا، ولكن قد تبرز أيضًا الحاجة إلى البحث عن طرق بديلة لتخفيف التوتر.",
-        "categorie": "Géopolitique",
-        "source": "POLITICO.eu",
-        "url": "https://www.politico.eu/article/vladimir-putin-peace-norway-jonas-gahr-store-russia-ukraine-war/",
-        "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/08/Putin-may-not-want-peace-feat01-scaled.jpg",
-        "date": "2026-11-09",
-        "pays": "russie",
+        "id": "iran_828709",
+        "titre": "Cour suprême iranienne confirme peines de mort",
+        "titre_en": "Iran’s Supreme Court upholds death sentences",
+        "titre_zh": "伊朗最高法院维持死刑判决",
+        "titre_ru": "Iran’s Supreme Court Upholds Death Sentences of two protesters",
+        "titre_fa": "Iran’s Supreme Court Upholds Death Sentences of two protesters",
+        "titre_ar": "Iran’s Supreme Court Upholds Death Sentences of two protesters",
+        "titre_original": "Iran’s Supreme Court Upholds Death Sentences of two protesters",
+        "resume": "La Cour suprême iranienne a confirmé les peines de mort de deux jeunes manifestants, Navid Najjaran et Milad Armoon, accusés de crimes liés aux protestations de 2022-2023. Ces condamnations interviennent dans un contexte de répression croissante contre les opposants politiques et les défenseurs des droits humains. Les sources humanitaires soulignent une escalade inquiétante des violations des droits fondamentaux en Iran.",
+        "resume_en": "Iran’s Supreme Court upheld the death sentences of two young protesters, Navid Najjaran and Milad Armoon, accused of crimes linked to 2022-2023 protests. These convictions come amid rising repression against political opponents and human rights defenders. Humanitarian sources warn of an alarming escalation in human rights violations in Iran.",
+        "resume_zh": "伊朗最高法院维持了两名年轻抗议者纳维德·纳杰拉尼和米拉德·阿尔穆恩的死刑判决，他们被指控在2022-2023年抗议活动中犯罪。这些判决发生在伊朗对政治反对派和人权捍卫者日益升级的镇压背景下。人道主义来源警告称，伊朗的人权侵犯正在加剧。",
+        "resume_ru": "",
+        "resume_fa": "",
+        "resume_ar": "",
+        "analyse_detaillee": "La peine de mort en Iran, héritée de la révolution islamique de 1979, est un outil récurrent pour écraser les dissidences, notamment depuis les manifestations de 2009 et 2019. Les protestations de 2022-2023, déclenchées par la mort de Mahsa Amini, ont révélé une répression systémique contre les femmes et les minorités. Les condamnations à mort de Najjaran et Armoon s’inscrivent dans cette logique de terreur judiciaire, visant à dissuader toute opposition future. À court terme, cela pourrait provoquer des vagues de protestations internationales et des sanctions supplémentaires de l’UE ou des États-Unis. À moyen terme, la communauté internationale pourrait renforcer son isolement diplomatique de Téhéran, tandis qu’à long terme, la radicalisation du régime pourrait s’accentuer, marginalisant encore davantage les réformistes. Les ayatollahs et le pouvoir judiciaire iranien maintiennent une ligne dure, tandis que l’opposition en exil et les ONG appellent à une pression accrue sur le régime.",
+        "analyse_en": "Iran’s death penalty, inherited from the 1979 Islamic Revolution, is a recurring tool to suppress dissent, particularly since the 2009 and 2019 protests. The 2022-2023 protests, sparked by Mahsa Amini’s death, exposed systemic repression against women and minorities. Najjaran and Armoon’s death sentences fit this pattern of judicial terror, aiming to deter future opposition. Short-term, this could trigger international protest waves and additional EU or U.S. sanctions. Medium-term, the international community may further isolate Tehran diplomatically, while long-term, regime radicalization could intensify, further marginalizing reformists. Iranian ayatollahs and the judiciary maintain a hardline stance, while exiled opposition and NGOs call for increased pressure on the regime.",
+        "analyse_zh": "伊朗死刑制度源自1979年伊斯兰革命，是镇压异见的常用手段，特别是自2009年和2019年的抗议活动以来。2022-2023年的抗议活动，由马赫萨·阿米尼之死引发，揭露了对妇女和少数民族的系统性镇压。纳杰拉尼和阿尔穆恩的死刑判决符合这种司法恐怖的模式，旨在遏制未来的反对。短期内，这可能引发国际抗议浪潮和欧盟或美国的额外制裁。中期内，国际社会可能进一步孤立德黑兰，而长期来看，政权的激进化可能加剧，进一步边缘化改革派。伊朗的宗教领袖和司法部门坚持强硬立场，而流亡反对派和人权组织则呼吁对政权施加更大压力。",
+        "analyse_ru": "",
+        "analyse_fa": "",
+        "analyse_ar": "",
+        "categorie": "Droits humains",
+        "source": "VOA News",
+        "url": "https://www.voanews.com/a/irans-supreme-court-upholds-death-sentences-of-two-protesters/8226187.html",
+        "image": "https://gdb.voanews.com/3EEA02D4-F9E4-4476-9F2E-58A196FAB5B0_w1200_r1.jpg",
+        "date": "2026-11-20",
+        "pays": "iran",
         "badges": [
           {
-            "label": "▲ Marché des armes et sécurité européenne",
-            "hausse": true
+            "label": "▼ Investissements étrangers en Iran (pétrole/gaz)",
+            "hausse": false
           },
           {
-            "label": "▼ Énergie et dépendance gazière européenne",
-            "hausse": false
+            "label": "▲ Cryptomonnaies et sanctions (évasion financière)",
+            "hausse": true
           }
         ],
         "impact_marches": [
           {
-            "secteur_fr": "Marché des armes et sécurité européenne",
-            "secteur_en": "Arms market and European security",
-            "secteur_zh": "军火市场和欧洲安全",
-            "effet_fr": "Les doutes sur la volonté de paix de Moscou pourraient relancer les dépenses militaires européennes et les investissements dans les systèmes de défense anti-aérienne.",
-            "effet_en": "Doubt over Moscow’s peace intent may restart European military spending and investments in air defense systems.",
-            "effet_zh": "对莫斯科和平意愿的质疑可能重新启动欧洲军事开支和防空系统的投资。",
-            "hausse": true
+            "secteur_fr": "Investissements étrangers en Iran (pétrole/gaz)",
+            "secteur_en": "Foreign investments in Iran (oil/gas)",
+            "secteur_zh": "伊朗外资投资（石油/天然气）",
+            "effet_fr": "Les peines de mort et la répression politique pourraient dissuader les investisseurs étrangers dans les secteurs énergétiques, malgré les réserves pétrolières et gazières abondantes du pays.",
+            "effet_en": "Death sentences and political repression may deter foreign investors in Iran’s energy sectors, despite the country’s abundant oil and gas reserves.",
+            "effet_zh": "死刑和政治镇压可能阻止外国投资者进入伊朗能源领域，尽管该国拥有丰富的石油和天然气储量。",
+            "hausse": false
           },
           {
-            "secteur_fr": "Énergie et dépendance gazière européenne",
-            "secteur_en": "Energy and European gas dependence",
-            "secteur_zh": "能源和欧洲天然气依赖",
-            "effet_fr": "La guerre prolongée pourrait maintenir ou accentuer la pression sur les prix de l’énergie en Europe, retardant la diversification des approvisionnements.",
-            "effet_en": "Prolonged war may maintain or intensify pressure on European energy prices, delaying supply diversification.",
-            "effet_zh": "持续的战争可能维持或加剧欧洲能源价格压力，推迟供应多元化进程。",
-            "hausse": false
+            "secteur_fr": "Cryptomonnaies et sanctions (évasion financière)",
+            "secteur_en": "Cryptocurrencies and sanctions (financial evasion)",
+            "secteur_zh": "加密货币与制裁（金融逃避）",
+            "effet_fr": "Les sanctions internationales pourraient inciter l’Iran à utiliser les cryptomonnaies pour contourner les restrictions financières, affectant la stabilité des marchés virtuels et attirant l’attention des régulateurs.",
+            "effet_en": "International sanctions may push Iran to use cryptocurrencies to bypass financial restrictions, impacting virtual market stability and drawing regulator scrutiny.",
+            "effet_zh": "国际制裁可能推动伊朗使用加密货币规避金融限制，影响虚拟市场的稳定性，并吸引监管机构的关注。",
+            "hausse": true
           }
         ],
-        "created_at": "2026-11-10T03:11:32.969426"
-      }
-    ],
-    "iran": [
+        "created_at": "2026-11-21T22:02:48.559195"
+      },
       {
         "id": "iran_220173",
         "titre": "Guerre en Iran redessine priorités énergétiques mondiales",
@@ -6070,129 +6129,10 @@
           }
         ],
         "created_at": "2026-11-08T21:42:43.852303"
-      },
-      {
-        "id": "iran_642084",
-        "titre": "Opération 'Porte de Fer' bloque les routes d’armes iraniennes",
-        "titre_en": "CENTCOM’s ‘Iron Gate’ targets Iran’s weapons routes",
-        "titre_zh": "美军‘铁门’行动阻断伊朗武器运输路线",
-        "titre_ru": "«Железная дверь» ЦЕНТКОМ блокирует пути поставок оружия из Ирана",
-        "titre_fa": "عملیات «درپوش آهن» برای مسدود کردن مسیرهای تسلیحاتی ایران",
-        "titre_ar": "عملية «باب الحديد» تهدف لتعطيل طرق تسليح إيران",
-        "titre_original": "CENTCOM’s ‘Iron Gate’ targets Iran’s weapons routes",
-        "resume": "La Task Force Iron Gate, dirigée par le CENTCOM, coordonne les efforts américains pour interdire les livraisons d’armes iraniennes via ses frontières terrestres et le détroit de Caspienne. Cette opération s’inscrit dans la stratégie de containment de Téhéran, après des livraisons suspectées vers des groupes comme les Houthis au Yémen.",
-        "resume_en": "Task Force Iron Gate, led by CENTCOM, coordinates US efforts to block Iran’s weapons shipments via land borders and the Caspian Sea strait. The operation is part of a strategy to contain Tehran, following suspected deliveries to groups like the Houthis in Yemen.",
-        "resume_zh": "由美军中东司令部领导的‘铁门’特遣队协调美方阻断伊朗通过陆地边境和里海海峡运输武器的行动。此举属于遏制伊朗的战略，在伊朗被指向也门胡塞武装运送武器后采取。",
-        "resume_ru": "Коалиция ЦЕНТКОМ запустила операцию «Железная дверь» для координации усилий США по блокированию поставок оружия через сухопутные границы и Каспийское море. Цель — ограничить доступ Ирана к вооружениям для региональных конфликтов. Это часть стратегии сдерживания экспансии Тегерана.",
-        "resume_fa": "کمیته مرکزی (CENTCOM) عملیات «درپوش آهن» را برای هماهنگی تلاش‌های آمریکا در مسدود کردن ارسال سلاح از طریق مرزهای زمینی و دریای خزر راه‌اندازی کرده است. هدف محدود کردن دسترسی ایران به تسلیحات برای درگیری‌های منطقه‌ای است. این بخشی از استراتژی کنترل گسترش ایران است.",
-        "resume_ar": "قوة «المركز» (CENTCOM) أطلق عملية «باب الحديد» لتكثيف جهود الولايات المتحدة في تعطيل تسليم الأسلحة عبر الحدود البرية والبحر الأسود. الهدف هو الحد من وصول إيران إلى الأسلحة لمواجهة التوترات الإقليمية. هذا جزء من استراتيجية الحظر على توسع إيران.",
-        "analyse_detaillee": "Les livraisons d’armes iraniennes alimentent des conflits régionaux depuis les années 2000, notamment au Yémen, en Syrie et au Liban. L’opération Iron Gate répond à une escalade récente des tensions, avec des preuves accablantes de soutien iranien aux milices. À court terme, cela pourrait provoquer des représailles iraniennes sur les bases américaines en Irak ou au Golfe. À moyen terme, cela renforce les alliances régionales (Saoudite, Israël) contre Téhéran et affaiblit son influence en Irak. Long terme, une guerre ouverte risquerait de déstabiliser toute la région, avec des conséquences économiques majeures (hausse des primes d’assurance maritime).",
-        "analyse_en": "Iran’s arms shipments fuel regional conflicts since the 2000s, notably in Yemen, Syria, and Lebanon. Operation Iron Gate responds to recent escalation, with overwhelming evidence of Iranian support for militias. Short-term, this could trigger Iranian retaliation against US bases in Iraq or the Gulf. Mid-term, it strengthens regional alliances (Saudi, Israel) against Tehran and weakens its influence in Iraq. Long-term, open war risks destabilizing the entire region, with major economic consequences (rising maritime insurance premiums).",
-        "analyse_zh": "伊朗自20世纪20年代以来通过武器运输助长地区冲突，特别是在也门、叙利亚和黎巴嫩。‘铁门’行动应对近期紧张局势升级，并有大量证据证明伊朗支持武装分子。短期内，这可能引发伊朗对伊拉克或波斯湾美军基地的报复。中期内，这加强了沙特和以色列等地区盟友对抗伊朗，并削弱其在伊拉克的影响力。长期来看，全面战争可能动摇整个地区稳定，并带来重大经济后果（如海运保险费用上涨）。",
-        "analyse_ru": "Операция «Железная дверь» направлена на пресечение каналов поставок оружия, которые Иран использует для поддержки проиранских группировок в Сирии, Йемене и других регионах. США опасаются, что Тегеран может усилить свою военную активность в ответ на санкции и давление. Блокировка путей поставок может привести к экономическим потерям для Ирана, но также спровоцировать новые дипломатические кризисы. Россия и Китай могут поддержать Иран в обход санкций, что усложнит задачу. В перспективе это может усилить напряжённость в регионе и увеличить риск прямого военного столкновения.",
-        "analyse_fa": "عملیات «درپوش آهن» هدف دارد کانال‌های ارسال سلاح را که ایران برای حمایت از گروه‌های پرورای خود در سوریه و یمن و مناطق دیگر استفاده می‌کند، قطع کند. آمریکا نگران است که ایران ممکن است در پاسخ به تحریم‌ها و فشار، فعالیت نظامی خود را افزایش دهد. مسدود کردن مسیرهای تسلیحاتی ممکن است به زیان اقتصادی ایران منجر شود، اما همچنین می‌تواند به بحران‌های دیپلماتیک جدیدی منجر شود. روسیه و چین ممکن است ایران را در دور زدن تحریم‌ها حمایت کنند، که این کار را پیچیده‌تر می‌کند. در آینده، این ممکن است تنش منطقه‌ای را افزایش دهد و خطر درگیری نظامی مستقیم را افزایش دهد.",
-        "analyse_ar": "تهدف عملية «باب الحديد» إلى تعطيل قنوات تسليم الأسلحة التي تستخدمها إيران لدعم المجموعات المؤيدة لها في سوريا واليمن والمناطق الأخرى. تخشى الولايات المتحدة أن قد تزيد إيران من نشاطها العسكري رداً على العقوبات والضغط. قد يؤدي تعطيل طرق التسليم إلى خسائر اقتصادية لإيران، ولكن قد يؤدي أيضًا إلى أزمات دبلوماسية جديدة. قد تدعم روسيا والصين إيران في تجاوزه العقوبات، مما يصعب المهمة. في المستقبل، قد يزيد هذا من التوتر في المنطقة ويزيد من خطر المواجهة العسكرية المباشرة.",
-        "categorie": "Géopolitique",
-        "source": "Israelnationalnews.com",
-        "url": "https://www.israelnationalnews.com/news/435795",
-        "image": "https://2.a7.org/files/pictures/000/1223841.jpg",
-        "date": "2026-11-07",
-        "pays": "iran",
-        "badges": [
-          {
-            "label": "▲ Assurance maritime (Lloyd’s de Londres)",
-            "hausse": true
-          },
-          {
-            "label": "▼ Bourse de Téhéran (TEHRON) – Secteur défense",
-            "hausse": false
-          }
-        ],
-        "impact_marches": [
-          {
-            "secteur_fr": "Assurance maritime (Lloyd’s de Londres)",
-            "secteur_en": "Maritime insurance (Lloyd’s of London)",
-            "secteur_zh": "海运保险（伦敦劳合社）",
-            "effet_fr": "Les tensions accrues autour des routes maritimes iraniennes augmentent les primes d’assurance pour les navires transportant du pétrole ou des marchandises, rendant les échanges plus coûteux.",
-            "effet_en": "Escalating tensions around Iranian maritime routes raise insurance premiums for ships transporting oil or goods, making trade more expensive.",
-            "effet_zh": "伊朗海运路线紧张局势升级导致运输石油或货物的船舶保险费用上涨，使贸易成本增加。",
-            "hausse": true
-          },
-          {
-            "secteur_fr": "Bourse de Téhéran (TEHRON) – Secteur défense",
-            "secteur_en": "Tehran Stock Exchange (TEHRON) – Defense Sector",
-            "secteur_zh": "德黑兰证券交易所（TEHRON）——国防板块",
-            "effet_fr": "Les sanctions américaines et les opérations militaires ciblées pourraient faire chuter les actions des entreprises iraniennes liées à l’armement, réduisant les investissements étrangers.",
-            "effet_en": "US sanctions and targeted military operations could drive down stocks of Iranian defense-linked firms, reducing foreign investments.",
-            "effet_zh": "美国制裁和针对性军事行动可能导致伊朗军工企业股价下跌，减少外资投入。",
-            "hausse": false
-          }
-        ],
-        "created_at": "2026-11-08T17:38:47.384483"
       }
     ]
   },
   "politique": [
-    {
-      "id": "pol_env_261767",
-      "titre": "Parents de Gironde et Charente attaquent l’État sur pesticides",
-      "titre_en": "Gironde, Charente Parents Sue State Over Pesticide Spraying",
-      "titre_zh": "吉伦特和夏朗德家长控告政府农药喷洒",
-      "titre_ru": "Родители учеников из Жиронды и Шаранты требуют запрета пестицидов возле школ",
-      "titre_fa": "مادرسالاران از ژیروند و شارانت از دولت می‌خواهند اسپری سموم در اطراف مدارس ممنوع شود",
-      "titre_ar": "يطلب الآباء والأمهات في جيروند وشارانت حظر رش المبيدات حول المدارس",
-      "titre_original": "Des parents d'élèves de Gironde et de Charente mettent en demeure l’État d’interdire l’épandage de pesticides autour des écoles",
-      "resume": "Les associations de parents d’élèves en Gironde et Charente ont assigné l’État pour exiger une interdiction des épandages de pesticides dans un rayon de 500 mètres autour des écoles. Elles invoquent les risques sanitaires accrus pour les enfants, notamment en lien avec des études scientifiques sur les effets néfastes des perturbateurs endocriniens. Cette action s’inscrit dans un mouvement plus large de pression citoyenne contre l’agriculture intensive en France.",
-      "resume_en": "Parent associations in Gironde and Charente have sued the French state to ban pesticide spraying within 500 meters of schools. They cite health risks for children, backed by studies on endocrine disruptors. This follows a broader citizen push against intensive agriculture in France.",
-      "resume_zh": "吉伦特和夏朗德的家长协会起诉法国政府，要求在学校周围500米内禁止农药喷洒。他们援引儿童健康风险，并引用内分泌干扰物研究。此举是法国民众反对集约化农业运动的一部分。",
-      "resume_ru": "Федерации советов родителей учащихся из Жиронды и Шаранты обратились с требованием запретить применение пестицидов в радиусе 500 метров вокруг школ. Они аргументируют свою позицию рисками для здоровья детей. В обращении подчеркивается необходимость защиты несовершеннолетних от потенциального воздействия химикатов.",
-      "resume_fa": "فدراسیون‌های شورای والدین دانش‌آموزان ژیروند و شارانت از دولت خواسته‌اند تا استفاده از سموم شیمیایی در ۵۰۰ متری مدارس ممنوع شود. این درخواست به دلیل خطرات احتمالی برای سلامت کودکان مطرح شده است. والدین نگران اثرات سموم شیمیایی بر روی فرزندان خود هستند.",
-      "resume_ar": "طلبت اتحادات مجلس الآباء والأمهات في جيروند وشارانت من الحكومة حظر رش المبيدات الكيميائية في دائرة نصف قطرها 500 متر حول المدارس. هذا الطلب جاء بسبب المخاطر المحتملة على صحة الأطفال. الآباء والأمهات قلقون بشأن تأثيرات المبيدات الكيميائية على أبنائهم.",
-      "analyse_detaillee": "Le débat sur les pesticides en France s’inscrit dans une crise environnementale et sanitaire chronique, aggravée par des décennies de politiques agricoles favorisant la productivité au détriment de la santé publique. Les parents d’élèves mobilisent ici un argument juridique fort : la responsabilité de l’État en matière de protection des mineurs, alors que des études comme celles de l’Anses confirment les liens entre pesticides et troubles développementaux. Les conséquences à court terme pourraient inclure des mesures locales d’interdiction, mais le gouvernement pourrait opposer des arguments économiques (emplois agricoles) et techniques (alternatives coûteuses). À moyen terme, cette affaire pourrait accélérer des réformes comme la loi Labbé, déjà partielle, ou relancer les débats sur le zonage des cultures. Les perspectives long terme dépendent de la pression médiatique et associative, mais aussi de l’alignement avec les directives européennes sur les produits chimiques. Les acteurs clés sont les fédérations de parents (FCPE, PEGC), les associations écologistes (Greenpeace, Générations Futures) et les lobbies agricoles (FNSEA), divisés entre défense des pratiques traditionnelles et transition agroécologique.",
-      "analyse_en": "The pesticide debate in France stems from a chronic environmental and health crisis, worsened by decades of agricultural policies prioritizing productivity over public health. Parents are using a strong legal argument: state responsibility for child protection, backed by studies linking pesticides to developmental disorders. Short-term consequences may include local bans, but the government could counter with economic (agricultural jobs) and technical (costly alternatives) arguments. Medium-term, this case could push reforms like the incomplete Labbé Law or reignite debates on crop zoning. Long-term prospects hinge on media and activist pressure, as well as alignment with EU chemical directives. Key actors include parent federations (FCPE, PEGC), environmental groups (Greenpeace, Générations Futures), and agricultural lobbies (FNSEA), split between defending traditional practices and agroecological transition.",
-      "analyse_zh": "法国农药争议源于长期的环境和卫生危机，多年来的农业政策偏向生产力而忽视公众健康。家长们此次以国家对儿童保护的法律责任为由发起诉讼，科学研究证明农药与儿童发育障碍相关。短期内可能出现局部禁令，但政府可能以农业就业和技术替代成本为由反驳。中期内，此案可能推动类似拉贝法案的改革，或重新激发作物区划辩论。长期前景取决于媒体和公众组织的压力，以及与欧盟化学品指令的对齐程度。关键利益相关者包括家长联合会（FCPE、PEGC）、环保组织（绿色和平、未来世代）和农业利益集团（法国农民联合会），后者在传统实践与生态农业转型上存在分歧。",
-      "analyse_ru": "Экологическая проблема пестицидов возле школ актуальна в условиях роста заболеваемости детей онкологией и аллергиями. Родители обоснованно опасаются хронического воздействия химикатов на организм ребёнка, особенно в период активного роста. Государство должно принять меры по мониторингу и ограничению применения пестицидов вблизи учебных заведений. Однако, сельскохозяйственные лобби могут сопротивляться таким инициативам, ссылаясь на экономические потери. В долгосрочной перспективе, решение проблемы требует комплексного подхода с участием учёных, властей и общественности.",
-      "analyse_fa": "مسئله زیست‌محیطی اسپری سموم در اطراف مدارس در شرایط افزایش بیماری‌های سرطان و آلرژی در کودکان بسیار مهم است. والدین به دلیل نگرانی از اثرات طولانی‌مدت سموم شیمیایی بر روی بدن کودکان، این اقدام را توجیه می‌کنند. دولت باید اقداماتی برای نظارت و محدودسازی استفاده از سموم در نزدیکی مدارس انجام دهد. با این حال، گروه‌های فشار کشاورزی ممکن است به این اقدامات مقاومت کنند، زیرا ممکن است به ضرر اقتصادی آن‌ها منجر شود. در بلندمدت، حل این مشکل نیاز به رویکردی جامع با مشارکت دانشمندان، مقامات و جامعه دارد.",
-      "analyse_ar": "تعدي المشكلة البيئية لرش المبيدات حول المدارس حادة في ظل زيادة معدلات الإصابة بالأورام والتهابات الحساسية لدى الأطفال. الآباء والأمهات يبررون مخاوفهم من تأثيرات طويلة الأمد للمبيدات الكيميائية على أجسام الأطفال، خاصة في فترة النمو النشط. يجب على الحكومة اتخاذ تدابير لمراقبة وتقييد استخدام المبيدات بالقرب من المؤسسات التعليمية. ومع ذلك، قد يرفض قطاع الزراعة هذه المبادرات، مدعيًا أنها ستؤدي إلى خسائر اقتصادية. في المدى الطويل، يتطلب حل هذه المشكلة نهجًا شامل يشارك فيه العلماء والسلطات والمجتمع.",
-      "categorie": "Environnement et Santé Publique",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/des-parents-d-eleves-de-gironde-et-de-charente-mettent-en-demeure-l-etat-d-interdire-l-epandage-de-pesticides-autour-des-ecoles_8292149.html",
-      "image": "https://www.franceinfo.fr/pictures/ULkAg3VFdBosYSMUr3-ZYWlSQZo/1200x675/2026/11/20/6b002cc9dde75392826075.jpg",
-      "date": "2026-11-20",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile (secteur agricole)",
-          "hausse": true
-        },
-        {
-          "label": "▲ Fonds de recherche environnementale (ANR, UE)",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile (secteur agricole)",
-          "secteur_en": "Agricultural liability insurance sector",
-          "secteur_zh": "",
-          "effet_fr": "Les contentieux accrus pourraient entraîner une hausse des primes pour les agriculteurs, déjà sous pression financière, en raison de l’extension des zones à risque juridiques.",
-          "effet_en": "Increased lawsuits may drive up premiums for farmers, already financially strained, due to expanded legal risk zones.",
-          "effet_zh": "频繁的诉讼可能导致农民保费上涨，他们已经面临财务压力，因为法律风险区域扩大。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de recherche environnementale (ANR, UE)",
-          "secteur_en": "Environmental research funds (ANR, EU)",
-          "secteur_zh": "",
-          "effet_fr": "Cette affaire pourrait stimuler les financements publics pour des études sur les alternatives aux pesticides, renforçant les budgets dédiés à l’agroécologie.",
-          "effet_en": "This case may boost public funding for research on pesticide alternatives, strengthening budgets for agroecology.",
-          "effet_zh": "此案可能刺激公共资金用于农药替代品研究，增强生态农业预算。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-21T16:06:50.318560",
-      "sous_categorie": "environnement"
-    },
     {
       "id": "pol_femmes_302627",
       "titre": "Procès du féminicide de Karen Baldi en Savoie",
@@ -6912,6 +6852,66 @@
       ],
       "created_at": "2026-10-30T20:27:21.297386",
       "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_261767",
+      "titre": "Parents de Gironde et Charente attaquent l’État sur pesticides",
+      "titre_en": "Gironde, Charente Parents Sue State Over Pesticide Spraying",
+      "titre_zh": "吉伦特和夏朗德家长控告政府农药喷洒",
+      "titre_ru": "Родители учеников из Жиронды и Шаранты требуют запрета пестицидов возле школ",
+      "titre_fa": "مادرسالاران از ژیروند و شارانت از دولت می‌خواهند اسپری سموم در اطراف مدارس ممنوع شود",
+      "titre_ar": "يطلب الآباء والأمهات في جيروند وشارانت حظر رش المبيدات حول المدارس",
+      "titre_original": "Des parents d'élèves de Gironde et de Charente mettent en demeure l’État d’interdire l’épandage de pesticides autour des écoles",
+      "resume": "Les associations de parents d’élèves en Gironde et Charente ont assigné l’État pour exiger une interdiction des épandages de pesticides dans un rayon de 500 mètres autour des écoles. Elles invoquent les risques sanitaires accrus pour les enfants, notamment en lien avec des études scientifiques sur les effets néfastes des perturbateurs endocriniens. Cette action s’inscrit dans un mouvement plus large de pression citoyenne contre l’agriculture intensive en France.",
+      "resume_en": "Parent associations in Gironde and Charente have sued the French state to ban pesticide spraying within 500 meters of schools. They cite health risks for children, backed by studies on endocrine disruptors. This follows a broader citizen push against intensive agriculture in France.",
+      "resume_zh": "吉伦特和夏朗德的家长协会起诉法国政府，要求在学校周围500米内禁止农药喷洒。他们援引儿童健康风险，并引用内分泌干扰物研究。此举是法国民众反对集约化农业运动的一部分。",
+      "resume_ru": "Федерации советов родителей учащихся из Жиронды и Шаранты обратились с требованием запретить применение пестицидов в радиусе 500 метров вокруг школ. Они аргументируют свою позицию рисками для здоровья детей. В обращении подчеркивается необходимость защиты несовершеннолетних от потенциального воздействия химикатов.",
+      "resume_fa": "فدراسیون‌های شورای والدین دانش‌آموزان ژیروند و شارانت از دولت خواسته‌اند تا استفاده از سموم شیمیایی در ۵۰۰ متری مدارس ممنوع شود. این درخواست به دلیل خطرات احتمالی برای سلامت کودکان مطرح شده است. والدین نگران اثرات سموم شیمیایی بر روی فرزندان خود هستند.",
+      "resume_ar": "طلبت اتحادات مجلس الآباء والأمهات في جيروند وشارانت من الحكومة حظر رش المبيدات الكيميائية في دائرة نصف قطرها 500 متر حول المدارس. هذا الطلب جاء بسبب المخاطر المحتملة على صحة الأطفال. الآباء والأمهات قلقون بشأن تأثيرات المبيدات الكيميائية على أبنائهم.",
+      "analyse_detaillee": "Le débat sur les pesticides en France s’inscrit dans une crise environnementale et sanitaire chronique, aggravée par des décennies de politiques agricoles favorisant la productivité au détriment de la santé publique. Les parents d’élèves mobilisent ici un argument juridique fort : la responsabilité de l’État en matière de protection des mineurs, alors que des études comme celles de l’Anses confirment les liens entre pesticides et troubles développementaux. Les conséquences à court terme pourraient inclure des mesures locales d’interdiction, mais le gouvernement pourrait opposer des arguments économiques (emplois agricoles) et techniques (alternatives coûteuses). À moyen terme, cette affaire pourrait accélérer des réformes comme la loi Labbé, déjà partielle, ou relancer les débats sur le zonage des cultures. Les perspectives long terme dépendent de la pression médiatique et associative, mais aussi de l’alignement avec les directives européennes sur les produits chimiques. Les acteurs clés sont les fédérations de parents (FCPE, PEGC), les associations écologistes (Greenpeace, Générations Futures) et les lobbies agricoles (FNSEA), divisés entre défense des pratiques traditionnelles et transition agroécologique.",
+      "analyse_en": "The pesticide debate in France stems from a chronic environmental and health crisis, worsened by decades of agricultural policies prioritizing productivity over public health. Parents are using a strong legal argument: state responsibility for child protection, backed by studies linking pesticides to developmental disorders. Short-term consequences may include local bans, but the government could counter with economic (agricultural jobs) and technical (costly alternatives) arguments. Medium-term, this case could push reforms like the incomplete Labbé Law or reignite debates on crop zoning. Long-term prospects hinge on media and activist pressure, as well as alignment with EU chemical directives. Key actors include parent federations (FCPE, PEGC), environmental groups (Greenpeace, Générations Futures), and agricultural lobbies (FNSEA), split between defending traditional practices and agroecological transition.",
+      "analyse_zh": "法国农药争议源于长期的环境和卫生危机，多年来的农业政策偏向生产力而忽视公众健康。家长们此次以国家对儿童保护的法律责任为由发起诉讼，科学研究证明农药与儿童发育障碍相关。短期内可能出现局部禁令，但政府可能以农业就业和技术替代成本为由反驳。中期内，此案可能推动类似拉贝法案的改革，或重新激发作物区划辩论。长期前景取决于媒体和公众组织的压力，以及与欧盟化学品指令的对齐程度。关键利益相关者包括家长联合会（FCPE、PEGC）、环保组织（绿色和平、未来世代）和农业利益集团（法国农民联合会），后者在传统实践与生态农业转型上存在分歧。",
+      "analyse_ru": "Экологическая проблема пестицидов возле школ актуальна в условиях роста заболеваемости детей онкологией и аллергиями. Родители обоснованно опасаются хронического воздействия химикатов на организм ребёнка, особенно в период активного роста. Государство должно принять меры по мониторингу и ограничению применения пестицидов вблизи учебных заведений. Однако, сельскохозяйственные лобби могут сопротивляться таким инициативам, ссылаясь на экономические потери. В долгосрочной перспективе, решение проблемы требует комплексного подхода с участием учёных, властей и общественности.",
+      "analyse_fa": "مسئله زیست‌محیطی اسپری سموم در اطراف مدارس در شرایط افزایش بیماری‌های سرطان و آلرژی در کودکان بسیار مهم است. والدین به دلیل نگرانی از اثرات طولانی‌مدت سموم شیمیایی بر روی بدن کودکان، این اقدام را توجیه می‌کنند. دولت باید اقداماتی برای نظارت و محدودسازی استفاده از سموم در نزدیکی مدارس انجام دهد. با این حال، گروه‌های فشار کشاورزی ممکن است به این اقدامات مقاومت کنند، زیرا ممکن است به ضرر اقتصادی آن‌ها منجر شود. در بلندمدت، حل این مشکل نیاز به رویکردی جامع با مشارکت دانشمندان، مقامات و جامعه دارد.",
+      "analyse_ar": "تعدي المشكلة البيئية لرش المبيدات حول المدارس حادة في ظل زيادة معدلات الإصابة بالأورام والتهابات الحساسية لدى الأطفال. الآباء والأمهات يبررون مخاوفهم من تأثيرات طويلة الأمد للمبيدات الكيميائية على أجسام الأطفال، خاصة في فترة النمو النشط. يجب على الحكومة اتخاذ تدابير لمراقبة وتقييد استخدام المبيدات بالقرب من المؤسسات التعليمية. ومع ذلك، قد يرفض قطاع الزراعة هذه المبادرات، مدعيًا أنها ستؤدي إلى خسائر اقتصادية. في المدى الطويل، يتطلب حل هذه المشكلة نهجًا شامل يشارك فيه العلماء والسلطات والمجتمع.",
+      "categorie": "Environnement et Santé Publique",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/des-parents-d-eleves-de-gironde-et-de-charente-mettent-en-demeure-l-etat-d-interdire-l-epandage-de-pesticides-autour-des-ecoles_8292149.html",
+      "image": "https://www.franceinfo.fr/pictures/ULkAg3VFdBosYSMUr3-ZYWlSQZo/1200x675/2026/11/20/6b002cc9dde75392826075.jpg",
+      "date": "2026-11-20",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance responsabilité civile (secteur agricole)",
+          "hausse": true
+        },
+        {
+          "label": "▲ Fonds de recherche environnementale (ANR, UE)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance responsabilité civile (secteur agricole)",
+          "secteur_en": "Agricultural liability insurance sector",
+          "secteur_zh": "",
+          "effet_fr": "Les contentieux accrus pourraient entraîner une hausse des primes pour les agriculteurs, déjà sous pression financière, en raison de l’extension des zones à risque juridiques.",
+          "effet_en": "Increased lawsuits may drive up premiums for farmers, already financially strained, due to expanded legal risk zones.",
+          "effet_zh": "频繁的诉讼可能导致农民保费上涨，他们已经面临财务压力，因为法律风险区域扩大。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de recherche environnementale (ANR, UE)",
+          "secteur_en": "Environmental research funds (ANR, EU)",
+          "secteur_zh": "",
+          "effet_fr": "Cette affaire pourrait stimuler les financements publics pour des études sur les alternatives aux pesticides, renforçant les budgets dédiés à l’agroécologie.",
+          "effet_en": "This case may boost public funding for research on pesticide alternatives, strengthening budgets for agroecology.",
+          "effet_zh": "此案可能刺激公共资金用于农药替代品研究，增强生态农业预算。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-21T16:06:50.318560",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_29213",
