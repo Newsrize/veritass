@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026 à 02h51",
+  "last_updated": "22/11/2026 à 10h46",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_env_643291",
+      "titre": "Dérèglement agricole : l’illusion des dérogations",
+      "titre_en": "Agricultural backtracking: the illusion of exemptions",
+      "titre_zh": "农业松绑：违规的迷思",
+      "titre_ru": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "titre_fa": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "titre_ar": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "titre_original": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "resume": "Les ONG critiquent une politique agricole française contradictoire, combinant lois environnementales strictes et réautorisations massives de pratiques interdites, comme les pesticides ou les dérogations pour le bien-être animal. Ce « en même temps » aggrave les tensions entre écologie et productivité, tout en sapant la crédibilité des engagements climatiques. Le gouvernement justifie ces revirements par des pressions économiques, mais les associations y voient une trahison des promesses écologiques.",
+      "resume_en": "NGOs condemn France’s contradictory agricultural policy, enforcing strict environmental laws while mass-reauthorizing banned practices like pesticides and animal welfare exemptions. This « en même temps » approach deepens conflicts between ecology and productivity, undermining climate commitments. The government cites economic pressures, but activists see it as a betrayal of green promises.",
+      "resume_zh": "环保组织批评法国农业政策前后矛盾，一边严格执行环保法规，一边大规模恢复禁用的农药和动物福利豁免。这种「一边倒」政策加剧了生态与产量之间的冲突，削弱了气候承诺的可信度。政府以经济压力为由，但环保人士认为这是对绿色承诺的背叛。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France a historiquement oscillé entre protectionnisme agricole et réformes environnementales, avec des cycles de régulations renforcées suivis de dérogations sous pression lobbyste. Les enjeux actuels reposent sur la tension entre souveraineté alimentaire et transition écologique, exacerbée par la dépendance aux intrants chimiques et la résistance des filières traditionnelles. Les causes profondes incluent le manque de cohérence politique, la priorité donnée aux lobbies agro-industriels, et l’absence de mécanismes de substitution crédibles pour les agriculteurs. À court terme, ces dérogations fragilisent la confiance des consommateurs et des partenaires européens, tout en alimentant les critiques sur le greenwashing. À moyen terme, elles pourraient entraîner des sanctions de la Commission européenne ou des contentieux juridiques, comme ceux liés aux nitrates ou aux OGM. Long terme, sans changement structurel, la France risque de perdre son leadership dans l’agroécologie au profit de modèles plus stricts (UE, Scandinavie). Les acteurs clés sont divisés : le gouvernement cède sous les pressions des chambres d’agriculture, tandis que les ONG (Greenpeace, WWF) et les scientifiques (INRAE) dénoncent une « dérive autoritaire ».",
+      "analyse_en": "France has historically oscillated between agricultural protectionism and environmental reforms, with cycles of strengthened regulations followed by lobby-driven exemptions. Current stakes revolve around the conflict between food sovereignty and ecological transition, worsened by chemical input dependency and resistance from traditional farming sectors. Root causes include political incoherence, prioritization of agro-industrial lobbies, and lack of credible substitution mechanisms for farmers. Short-term, these exemptions erode consumer and EU partner trust, fueling greenwashing accusations. Medium-term, they risk EU sanctions or legal battles over nitrates or GMOs. Long-term, without structural change, France may lose its agroecology leadership to stricter models (EU, Scandinavia). Key actors are divided: the government yields to agricultural chambers’ pressure, while NGOs (Greenpeace, WWF) and scientists (INRAE) condemn an « authoritarian drift ».",
+      "analyse_zh": "法国农业政策长期在保护主义与环保改革之间摇摆，先是加强法规，后因利益集团压力而大量豁免。当前矛盾集中在粮食主权与生态转型之间，化学投入依赖和传统农业抵触加剧了冲突。深层原因包括政策不连贯、优先满足农业产业集团利益，以及缺乏替代农业的可信解决方案。短期内，这些豁免动摇了消费者和欧盟伙伴的信任，助长了绿色洗牌的批评。中期内，可能面临欧盟制裁或硝酸盐/转基因相关的法律诉讼。长期来看，若无结构性变革，法国可能在生态农业领域落后于欧盟或北欧模式。关键利益相关者分化：政府屈服于农民协会压力，而环保组织（绿色和平、WWF）和科研机构（INRAE）则指责「权力滥用」。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Politique",
+      "source": "Challenges",
+      "url": "https://www.challenges.fr/politique/on-met-en-place-des-derogations-pour-reautoriser-ce-que-lon-avait-interdit-le-bluff-francais-sur-lagriculture_647009",
+      "image": "https://www.challenges.fr/_ipx/f_jpg&enlarge_true&s_1200x630/cha/static/2026-11/64709.HR_1.jpeg%3FVersionId=f95zm9ylsfLEohdCzdpRCtz6_E5bUELG",
+      "date": "2026-11-21",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et réassurance climatique",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des intrants agricoles (pesticides, engrais)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et réassurance climatique",
+          "secteur_en": "Agricultural insurance and climate reinsurance",
+          "secteur_zh": "农业保险与气候再保险",
+          "effet_fr": "Les dérogations environnementales augmentent les risques de sinistres climatiques (sécheresses, inondations) pour les assureurs agricoles, poussant à des hausses de primes ou des exclusions de contrats.",
+          "effet_en": "Environmental exemptions increase climate-related risk exposure for agricultural insurers, driving premium hikes or policy exclusions.",
+          "effet_zh": "环保豁免增加了农业保险面临的气候灾害风险（旱灾、洪水），导致保费上涨或合同退出。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des intrants agricoles (pesticides, engrais)",
+          "secteur_en": "Agricultural input market (pesticides, fertilizers)",
+          "secteur_zh": "农业投入品市场（农药、化肥）",
+          "effet_fr": "La réautorisation de substances interdites relance la demande en pesticides et engrais, bénéficiant temporairement aux géants comme Bayer ou Yara, mais au prix d’une dégradation des sols et de la santé publique.",
+          "effet_en": "Reauthorizing banned substances boosts pesticide and fertilizer demand, temporarily aiding giants like Bayer or Yara, at the cost of soil degradation and public health.",
+          "effet_zh": "重新批准禁用物质刺激了农药和化肥需求，暂时惠及拜耳或亚拉等巨头，但以土壤退化和公共健康为代价。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-22T10:46:36.861695",
+      "sous_categorie": "environnement"
+    },
+    {
+      "id": "pol_femmes_587287",
+      "titre": "Féminicide de Karen Baldi : un mari brisé",
+      "titre_en": "Karen Baldi’s murder: a shattered husband",
+      "titre_zh": "卡伦·巴尔迪遇害：丈夫的悲痛",
+      "titre_ru": "Témoignage. « Mon combat, c’est mes enfants et l’honneur de Karen » : le mari de la policière assassinée en Savoie se confie avant le procès",
+      "titre_fa": "Témoignage. « Mon combat, c’est mes enfants et l’honneur de Karen » : le mari de la policière assassinée en Savoie se confie avant le procès",
+      "titre_ar": "Témoignage. « Mon combat, c’est mes enfants et l’honneur de Karen » : le mari de la policière assassinée en Savoie se confie avant le procès",
+      "titre_original": "Témoignage. « Mon combat, c’est mes enfants et l’honneur de Karen » : le mari de la policière assassinée en Savoie se confie avant le procès",
+      "resume": "Laurent Baldi, mari de la policière assassinée en Savoie, s’exprime pour la première fois avant le procès du féminicide de sa femme, Karen, ouvert ce lundi. Son témoignage révèle une douleur intime et une quête de justice, tout en soulignant l’honneur de sa femme et son engagement pour leurs enfants. Ce procès marque un tournant dans la lutte contre les violences conjugales en France, où les féminicides restent trop fréquents.",
+      "resume_en": "Laurent Baldi, husband of the murdered Chambéry police officer Karen, speaks for the first time before the trial of his wife’s femicide, opening this Monday. His testimony exposes deep grief and a quest for justice, while honoring Karen’s legacy and commitment to their children. The trial signals a turning point in France’s fight against domestic violence, where femicides remain alarmingly frequent.",
+      "resume_zh": "卡伦·巴尔迪的丈夫劳伦特首次在妻子遇害案开庭前发声，描述了深切的悲痛和对正义的追求，同时纪念妻子的荣誉和为孩子们的承诺。此案开审标志着法国反家庭暴力斗争的转折点，但女性遇害案依然频发。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Le féminicide de Karen Baldi s’inscrit dans une série de violences conjugales en France, où les femmes sont victimes d’une culture patriarcale persistante et d’un système judiciaire parfois lent à condamner les agresseurs. Les enjeux principaux portent sur la prévention des violences, la protection des victimes et la répression des auteurs, avec des causes profondes liées à l’impunité des violences masculines et au manque de moyens pour les associations d’aide. À court terme, ce procès pourrait renforcer la pression médiatique et politique sur les peines encourues, mais risque aussi de reléguer d’autres affaires au second plan. À moyen terme, il pourrait accélérer des réformes comme le renforcement des bracelets électroniques ou des ordonnances de protection. Long terme, une prise de conscience collective est nécessaire pour briser le cycle de la violence, avec des perspectives dépendantes de l’engagement des institutions et de la société civile. Les acteurs clés incluent les associations féministes (Osez le Féminisme), les syndicats de police (Synthèse), et les partis politiques (LREM, LFI) qui doivent concilier fermeté judiciaire et prévention sociale.",
+      "analyse_en": "Karen Baldi’s femicide fits into a series of domestic violence cases in France, where women suffer from persistent patriarchal culture and a judicial system sometimes slow to convict abusers. Key stakes involve preventing violence, protecting victims, and punishing perpetrators, with root causes tied to male violence impunity and insufficient resources for support associations. Short-term, this trial may intensify media and political pressure on sentencing but could overshadow other cases. Medium-term, it might accelerate reforms like electronic bracelets or protective orders. Long-term, a societal shift is needed to break the cycle of violence, with prospects dependent on institutional and civil society engagement. Key actors include feminist groups (Osez le Féminisme), police unions (Synthèse), and political parties (LREM, LFI) balancing judicial toughness with social prevention.",
+      "analyse_zh": "卡伦·巴尔迪遇害案属于法国家庭暴力系列案件之一，反映了根深蒂固的男权文化和司法系统对加害者判决不力的问题。主要矛盾在于暴力预防、受害者保护和加害者惩罚，深层原因包括男性暴力的免责和救援组织资源不足。短期内，此案可能加大媒体和政治对刑罚的压力，但也可能忽视其他案件。中期内，可能推动电子监控或保护令等改革。长期来看，需要全社会觉醒才能打破暴力循环，前景取决于机构和民间力量的参与。关键利益相关者包括女性主义组织（敢说女性主义）、警察工会（综合）、政党（共和党、法国左翼）等，他们需要平衡司法严厉性与社会预防。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Droits humains & Justice",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/21/mon-combat-c-est-mes-enfants-et-l-honneur-de-karen-le-mari-de-la-policiere-assassinee-en-savoie-se-confie-avant-le-proces",
+      "image": "https://cdn-s-www.ledauphine.com/images/4DC988DB-F8A0-4F08-A66D-DF259792C30A/MF_contenu/mon-combat-c-est-mes-enfants-et-l-honneur-de-karen-le-mari-de-la-policiere-assassinee-en-savoie-se-confie-avant-le-proces-1795203316.jpg",
+      "date": "2026-11-21",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurance-vie et couverture des risques familiaux",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des services funéraires et obsèques",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance-vie et couverture des risques familiaux",
+          "secteur_en": "Life insurance and family risk coverage",
+          "secteur_zh": "人寿保险与家庭风险保障",
+          "effet_fr": "Les féminicides augmentent les primes d’assurance-vie pour les conjoints et les héritiers, avec des exclusions possibles pour les cas de violence domestique non déclarée.",
+          "effet_en": "Femicides drive up life insurance premiums for spouses and heirs, with potential exclusions for undocumented domestic violence cases.",
+          "effet_zh": "女性遇害案导致配偶和继承人人寿保险费用上涨，未申报家庭暴力的案例可能被排除在外。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des services funéraires et obsèques",
+          "secteur_en": "Funeral services and burial market",
+          "secteur_zh": "殡葬服务市场",
+          "effet_fr": "L’augmentation des féminicides crée une demande accrue pour les services funéraires haut de gamme, profitant aux entreprises spécialisées comme Dignity ou Cérémonies & Funérailles.",
+          "effet_en": "Rising femicides drive demand for premium funeral services, benefiting firms like Dignity or Cérémonies & Funérailles.",
+          "effet_zh": "女性遇害案增加了对高端殡葬服务的需求，惠及迪格尼蒂或典礼与殡葬等企业。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-22T10:46:36.861718",
+      "sous_categorie": "femmes"
+    },
+    {
       "id": "pol_femmes_302627",
       "titre": "Procès du féminicide de Karen Baldi en Savoie",
       "titre_en": "Savoie Trial for Karen Baldi’s Feminicide",
@@ -6431,66 +6551,6 @@
         }
       ],
       "created_at": "2026-11-19T11:14:44.766795",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_368884",
-      "titre": "Tournai rend hommage aux victimes féminicides en chansons",
-      "titre_en": "Tournai honors femicide victims through music",
-      "titre_zh": "图尔奈用歌曲纪念女性遇害者",
-      "titre_ru": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
-      "titre_fa": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
-      "titre_ar": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
-      "titre_original": "À Tournai, plusieurs actions contre les violences faites aux femmes : “Un hommage en chansons sera rendu aux victimes de féminicides”",
-      "resume": "À Tournai, une série d’actions culturelles et associatives marque la fin novembre pour sensibiliser aux violences faites aux femmes. Un spectacle musical rendra hommage aux victimes de féminicides, en partenariat avec des associations locales. Ces initiatives visent à briser le silence autour de ces crimes et à renforcer la solidarité féminine.",
-      "resume_en": "In Tournai, a series of cultural and associative events mark the end of November to raise awareness about violence against women. A musical show will honor femicide victims, in partnership with local NGOs. These initiatives aim to break the silence around these crimes and strengthen female solidarity.",
-      "resume_zh": "图尔奈在11月底举办多项文化和社会活动，以提高公众对针对女性暴力的认识。一场音乐演出将纪念女性遇害者，并与当地非政府组织合作。这些活动旨在打破对这些犯罪的沉默，并增强女性团结。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les féminicides en Belgique, comme en Europe, restent un fléau sous-estimé malgré des chiffres alarmants (1 femme tuée toutes les 3 jours en France). Tournai, ville symbolique des luttes féministes historiques, choisit ici un langage artistique pour toucher un public plus large. Les causes profondes incluent la persistance des stéréotypes de genre et l’impunité des agresseurs, aggravée par des procédures judiciaires lentes. À court terme, ces événements pourraient renforcer la mobilisation citoyenne et la pression sur les pouvoirs publics pour des lois plus strictes. À moyen terme, une prise de conscience accrue pourrait influencer les politiques locales de prévention et d’accompagnement des victimes. Long terme, une culture de l’égalité réelle pourrait émerger si les institutions intègrent systématiquement une approche intersectionnelle. Les acteurs clés sont les associations féministes (Plan International, 119), les collectivités locales et les artistes engagés, tandis que les médias jouent un rôle crucial dans la visibilité des victimes.",
-      "analyse_en": "Femicides in Belgium, like in Europe, remain an underestimated scourge despite alarming statistics (1 woman killed every 3 days in France). Tournai, a historically symbolic city for feminist struggles, uses art to reach a broader audience. Root causes include persistent gender stereotypes and the impunity of attackers, worsened by slow judicial procedures. Short-term, these events may boost citizen mobilization and pressure on authorities for stricter laws. Medium-term, increased awareness could influence local prevention policies and victim support. Long-term, a real culture of equality could emerge if institutions adopt an intersectional approach. Key actors include feminist NGOs (Plan International, 119), local authorities, and engaged artists, while media play a crucial role in highlighting victims.",
-      "analyse_zh": "比利时的女性遇害案件（如欧洲其他国家）仍然是一个被低估的灾难，尽管法国每3天就有一名女性遇害。图尔奈作为历史上女性主义斗争的象征城市，此次选择艺术语言来触及更广泛的受众。深层原因包括性别刻板印象的持续存在以及加害者的免责，后者被缓慢的司法程序所加剧。短期内，这些活动可能增强公众动员和对政府更严格法律的压力。中期内，公众意识的提高可能影响当地预防和帮助受害者的政策。长期来看，如果机构系统性地采用交叉性别视角，真正的平等文化可能会出现。关键利益相关者包括女性主义组织（国际计划、119）、地方政府和参与的艺术家，而媒体在提高受害者的知名度方面扮演着关键角色。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Droits humains et genre",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2026/11/17/a-tournai-plusieurs-actions-contre-les-violences-faites-aux-femmes-un-hommage-en-chansons-sera-rendu-aux-victimes-de-feminicides-P7HM2P25XRGXTPRY4TSOQOQUEU/",
-      "image": "https://www.dhnet.be/resizer/v2/GGECKL4DJJDPRMDAFAC5537RR4.jpg?auth=b8feb19c5509fa3c53390a94345bfe85ac3d0a3223c10aab8b2686de3cfdc1d7&width=1620&height=1620&quality=85&focal=2016%2C1512",
-      "date": "2026-11-17",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Fonds européens pour l’égalité femmes-hommes",
-          "hausse": true
-        },
-        {
-          "label": "▲ Assurances responsabilité civile et prévoyance",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Fonds européens pour l’égalité femmes-hommes",
-          "secteur_en": "European funds for gender equality",
-          "secteur_zh": "欧盟女性平等基金",
-          "effet_fr": "Ces initiatives locales pourraient stimuler les demandes de financement européen pour des projets similaires, renforçant ainsi la pression sur les institutions pour une allocation plus généreuse des budgets dédiés.",
-          "effet_en": "Local initiatives may boost demands for EU funding for similar projects, increasing pressure on institutions to allocate more generous budgets for gender equality.",
-          "effet_zh": "当地活动可能刺激对欧盟资金的需求，用于类似项目，从而增加对机构更大力度分配女性平等预算的压力。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances responsabilité civile et prévoyance",
-          "secteur_en": "Civil liability insurance and provident funds",
-          "secteur_zh": "民事责任保险和储蓄保障",
-          "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques accrus liés aux violences conjugales, en particulier dans les zones où les campagnes de sensibilisation sont moins visibles.",
-          "effet_en": "Insurers may increase rates to cover higher risks of domestic violence, particularly in areas where awareness campaigns are less visible.",
-          "effet_zh": "保险公司可能提高费率以应对家庭暴力风险上升，特别是在公众宣传较少的地区。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-18T12:42:10.572782",
       "sous_categorie": "femmes"
     },
     {
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-19T11:14:44.766819",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_260521",
-      "titre": "William honore député anti-PFAS",
-      "titre_en": "Prince William awards PFAS lawmaker",
-      "titre_zh": "威廉王子表彰反PFAS议员",
-      "titre_ru": "Le prince William décerne le prix Earthshot au député Nicolas Thierry pour sa défense de l’environnement",
-      "titre_fa": "Le prince William décerne le prix Earthshot au député Nicolas Thierry pour sa défense de l’environnement",
-      "titre_ar": "Le prince William décerne le prix Earthshot au député Nicolas Thierry pour sa défense de l’environnement",
-      "titre_original": "Le prince William décerne le prix Earthshot au député Nicolas Thierry pour sa défense de l’environnement",
-      "resume": "Le député écologiste Nicolas Thierry a reçu le prix Earthshot pour son rôle clé dans l’interdiction progressive des PFAS en France, substances chimiques toxiques surnommées ‘polluants éternels’. Son initiative législative de 2023 a marqué une avancée majeure dans la lutte contre la pollution industrielle. Cette reconnaissance internationale souligne l’engagement croissant des élus français contre les polluants persistants.",
-      "resume_en": "Eco-deputy Nicolas Thierry won the Earthshot Prize for his pivotal role in France’s phased ban on PFAS, toxic ‘forever chemicals’. His 2023 legislative proposal represented a major step in combating industrial pollution. The international award highlights growing French political commitment against persistent pollutants.",
-      "resume_zh": "生态党议员蒂耶里因在推动法国逐步禁止PFAS（化学‘永久污染物’）中发挥关键作用，获得Earthshot奖。其2023年的立法提案标志着工业污染治理的重大进展。此国际殊荣凸显法国政界对持久性污染物日益增长的承诺。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, surnommés ‘polluants éternels’, sont des substances chimiques persistantes depuis leur invention dans les années 1950 pour des usages industriels variés (mousses anti-incendie, revêtements antiadhésifs). Leur interdiction progressive en France s’inscrit dans une dynamique européenne post-2020, accélérée par des scandales sanitaires comme celui de la commune de Saint-Leu-la-Forêt. Thierry a capitalisé sur cette prise de conscience collective pour faire adopter une loi ciblant 4000 molécules, avec des effets immédiats sur les fabricants et distributeurs. À moyen terme, cette mesure devrait réduire les coûts sanitaires liés aux cancers et maladies rénales, mais son application complète dépendra des budgets alloués aux contrôles. Long terme, elle pourrait inspirer d’autres pays, tout en créant un précédent juridique pour les litiges transfrontaliers. Les industriels, bien que critiques, commencent à s’adapter sous la pression des investisseurs ESG, tandis que les ONG saluent une victoire symbolique mais appellent à des mesures plus strictes sur les alternatives.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, are persistent substances developed since the 1950s for industrial uses (fire-fighting foams, non-stick coatings). France’s phased ban aligns with post-2020 EU momentum, triggered by health scandals like Saint-Leu-la-Forêt. Thierry leveraged public awareness to pass a law targeting 4,000 molecules, immediately impacting manufacturers and retailers. Medium-term, this should reduce healthcare costs from cancers and kidney diseases, but full implementation hinges on control budgets. Long-term, it may inspire other nations while setting legal precedents for cross-border disputes. While industry critics adapt under ESG investor pressure, NGOs celebrate symbolic progress but demand stricter alternatives regulation.",
-      "analyse_zh": "PFAS（‘永久污染物’）自1950年代发明以来用于消防泡沫、防粘涂层等工业领域，其持久性导致全球关注。法国逐步禁令源于2020年后的欧盟动向，并受到圣勒乌拉福雷污染事件的推动。蒂耶里利用公众意识成功推动针对4000种分子的立法，对生产商和销售商造成即时影响。中期内，该措施将减少癌症和肾病等医疗成本，但全面实施需依赖监管预算。长期来看，可能激励其他国家跟进，并为跨境法律纠纷树立先例。虽然产业界在ESG投资者压力下逐步适应，环保组织虽称赞象征性胜利，但呼吁更严格的替代品监管。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement & Santé publique",
-      "source": "Le HuffPost",
-      "url": "https://www.huffingtonpost.fr/politique/article/le-prince-william-decerne-le-prix-earthshot-au-depute-nicolas-thierry-pour-sa-defense-de-l-environnement_359999.html",
-      "image": "https://focus.huffingtonpost.fr/2026/11/17/311/0/6048/3402/1820/1023/75/0/9ba9b9c_upload-1-lm5k1sip0yzj-afp-20250220-hl-bdoudaine-2672600-v1-highres-francepariseternalpollutionnicolas.jpg",
-      "date": "2026-11-17",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▼ Industrie chimique française",
-          "hausse": false
-        },
-        {
-          "label": "▲ Assurance environnementale et responsabilité civile",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Industrie chimique française",
-          "secteur_en": "French chemical industry",
-          "secteur_zh": "法国化学工业",
-          "effet_fr": "Les fabricants de PFAS devront réorienter leurs investissements vers des alternatives moins toxiques, entraînant des coûts de R&D immédiats et une possible baisse de rentabilité à court terme.",
-          "effet_en": "PFAS producers must redirect investments to less toxic alternatives, incurring immediate R&D costs and potential short-term profitability declines.",
-          "effet_zh": "PFAS生产商将不得不将投资转向低毒替代品，导致即时研发成本上升和短期利润下滑。",
-          "hausse": false
-        },
-        {
-          "secteur_fr": "Assurance environnementale et responsabilité civile",
-          "secteur_en": "Environmental insurance & liability",
-          "secteur_zh": "环境保险与民事责任",
-          "effet_fr": "Les assureurs pourraient augmenter les primes pour les entreprises exposées aux risques PFAS, tout en développant des polices spécialisées pour couvrir les coûts de décontamination post-2025.",
-          "effet_en": "Insurers may raise premiums for PFAS-exposed firms while developing specialized policies to cover post-2025 decontamination costs.",
-          "effet_zh": "保险公司可能提高暴露于PFAS风险企业的保费，同时开发专业保单以覆盖2025年后的去污成本。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-19T02:58:14.820372",
       "sous_categorie": "environnement"
     }
   ]
