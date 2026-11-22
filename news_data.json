@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026 à 10h46",
+  "last_updated": "22/11/2026 à 18h15",
   "articles": {
     "monde": [
       {
@@ -6134,63 +6134,123 @@
   },
   "politique": [
     {
-      "id": "pol_env_643291",
-      "titre": "Dérèglement agricole : l’illusion des dérogations",
-      "titre_en": "Agricultural backtracking: the illusion of exemptions",
-      "titre_zh": "农业松绑：违规的迷思",
-      "titre_ru": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
-      "titre_fa": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
-      "titre_ar": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
-      "titre_original": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
-      "resume": "Les ONG critiquent une politique agricole française contradictoire, combinant lois environnementales strictes et réautorisations massives de pratiques interdites, comme les pesticides ou les dérogations pour le bien-être animal. Ce « en même temps » aggrave les tensions entre écologie et productivité, tout en sapant la crédibilité des engagements climatiques. Le gouvernement justifie ces revirements par des pressions économiques, mais les associations y voient une trahison des promesses écologiques.",
-      "resume_en": "NGOs condemn France’s contradictory agricultural policy, enforcing strict environmental laws while mass-reauthorizing banned practices like pesticides and animal welfare exemptions. This « en même temps » approach deepens conflicts between ecology and productivity, undermining climate commitments. The government cites economic pressures, but activists see it as a betrayal of green promises.",
-      "resume_zh": "环保组织批评法国农业政策前后矛盾，一边严格执行环保法规，一边大规模恢复禁用的农药和动物福利豁免。这种「一边倒」政策加剧了生态与产量之间的冲突，削弱了气候承诺的可信度。政府以经济压力为由，但环保人士认为这是对绿色承诺的背叛。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "La France a historiquement oscillé entre protectionnisme agricole et réformes environnementales, avec des cycles de régulations renforcées suivis de dérogations sous pression lobbyste. Les enjeux actuels reposent sur la tension entre souveraineté alimentaire et transition écologique, exacerbée par la dépendance aux intrants chimiques et la résistance des filières traditionnelles. Les causes profondes incluent le manque de cohérence politique, la priorité donnée aux lobbies agro-industriels, et l’absence de mécanismes de substitution crédibles pour les agriculteurs. À court terme, ces dérogations fragilisent la confiance des consommateurs et des partenaires européens, tout en alimentant les critiques sur le greenwashing. À moyen terme, elles pourraient entraîner des sanctions de la Commission européenne ou des contentieux juridiques, comme ceux liés aux nitrates ou aux OGM. Long terme, sans changement structurel, la France risque de perdre son leadership dans l’agroécologie au profit de modèles plus stricts (UE, Scandinavie). Les acteurs clés sont divisés : le gouvernement cède sous les pressions des chambres d’agriculture, tandis que les ONG (Greenpeace, WWF) et les scientifiques (INRAE) dénoncent une « dérive autoritaire ».",
-      "analyse_en": "France has historically oscillated between agricultural protectionism and environmental reforms, with cycles of strengthened regulations followed by lobby-driven exemptions. Current stakes revolve around the conflict between food sovereignty and ecological transition, worsened by chemical input dependency and resistance from traditional farming sectors. Root causes include political incoherence, prioritization of agro-industrial lobbies, and lack of credible substitution mechanisms for farmers. Short-term, these exemptions erode consumer and EU partner trust, fueling greenwashing accusations. Medium-term, they risk EU sanctions or legal battles over nitrates or GMOs. Long-term, without structural change, France may lose its agroecology leadership to stricter models (EU, Scandinavia). Key actors are divided: the government yields to agricultural chambers’ pressure, while NGOs (Greenpeace, WWF) and scientists (INRAE) condemn an « authoritarian drift ».",
-      "analyse_zh": "法国农业政策长期在保护主义与环保改革之间摇摆，先是加强法规，后因利益集团压力而大量豁免。当前矛盾集中在粮食主权与生态转型之间，化学投入依赖和传统农业抵触加剧了冲突。深层原因包括政策不连贯、优先满足农业产业集团利益，以及缺乏替代农业的可信解决方案。短期内，这些豁免动摇了消费者和欧盟伙伴的信任，助长了绿色洗牌的批评。中期内，可能面临欧盟制裁或硝酸盐/转基因相关的法律诉讼。长期来看，若无结构性变革，法国可能在生态农业领域落后于欧盟或北欧模式。关键利益相关者分化：政府屈服于农民协会压力，而环保组织（绿色和平、WWF）和科研机构（INRAE）则指责「权力滥用」。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement & Politique",
-      "source": "Challenges",
-      "url": "https://www.challenges.fr/politique/on-met-en-place-des-derogations-pour-reautoriser-ce-que-lon-avait-interdit-le-bluff-francais-sur-lagriculture_647009",
-      "image": "https://www.challenges.fr/_ipx/f_jpg&enlarge_true&s_1200x630/cha/static/2026-11/64709.HR_1.jpeg%3FVersionId=f95zm9ylsfLEohdCzdpRCtz6_E5bUELG",
+      "id": "pol_femmes_359250",
+      "titre": "Charleroi commémore 220 féminicides depuis 2017",
+      "titre_en": "Charleroi honors 220 femicides since 2017",
+      "titre_zh": "比利时夏洛莱纪念2017年以来220起杀妻案",
+      "titre_ru": "Гражданское собрание и выставка в Шарлеруа в память о 220 жертвах феминицида в Бельгии с 2017 года",
+      "titre_fa": "جمع عمومی و نمایشگاه در شارلروآ به یاد ۲۲۰ قربانی قتل زنان در بلژیک از سال ۲۰۱۷",
+      "titre_ar": "التجمع المدني والتعرض في شارلروا تكريما لـ220 ضحية قتل النساء في بلجيكا منذ 2017",
+      "titre_original": "Rassemblement citoyen et exposition à Charleroi en mémoire des 220 victimes de féminicide en Belgique depuis 2017",
+      "resume": "Un rassemblement citoyen et une exposition sous le signe du « Ruban Blanc » s’installent à Charleroi pour deux semaines, à partir de lundi. L’événement vise à sensibiliser à l’ampleur des féminicides en Belgique, avec 220 victimes recensées depuis 2017. Cette initiative, portée par des associations locales, s’inscrit dans une dynamique de mobilisation contre les violences faites aux femmes.",
+      "resume_en": "A citizen gathering and exhibition under the ‘White Ribbon’ banner will occupy Charleroi’s city center for two weeks, starting Monday. The event aims to raise awareness about the scale of femicides in Belgium, with 220 victims recorded since 2017. Led by local associations, this initiative is part of a broader movement against gender-based violence.",
+      "resume_zh": "夏洛莱市中心将于周一起举办为期两周的公民集会和白丝带展览，纪念2017年以来220起杀妻案。此活动旨在提高公众对比利时女性暴力犯罪的认识，由当地组织发起，属于反对性别暴力的运动之一。",
+      "resume_ru": "Платформа «Белый ленточный» организует в течение двух недель мероприятия в центре Шарлеруа, начиная с понедельника. Мероприятие посвящено памяти жертв насилия над женщинами. В рамках акции планируются выставки, лекции и дискуссии о проблеме феминицида.",
+      "resume_fa": "پلتفرم «نوار سفید» در طول دو هفته مرکز شهر شارلروآ را با شروع از یکشنبه فعال خواهد کرد. این رویداد به یاد ۲۲۰ قربانی قتل زنان در بلژیک از سال ۲۰۱۷ برگزار می‌شود. در این رویداد نمایشگاه‌ها، سخنرانی‌ها و بحث‌هایی در مورد این موضوع برگزار خواهد شد.",
+      "resume_ar": "سترت «الشريط الأبيض» ستنظم خلال أسبوعين في وسط شارلروا، ابتداء من الاثنين. هذا الحدث مخصص لتكريم 220 ضحية قتل النساء في بلجيكا منذ عام 2017. ستشمل فعاليات المعارضات والندوات والمحاضرات حول هذه المشكلة.",
+      "analyse_detaillee": "La Belgique, comme d’autres pays européens, affronte une crise persistante des féminicides, souvent sous-médiatisée malgré son caractère systémique. Les causes profondes incluent des inégalités structurelles, une culture du silence autour des violences conjugales et un manque de moyens pour les victimes. À court terme, l’exposition de Charleroi pourrait renforcer la pression politique pour des lois plus strictes, mais les résultats dépendront de l’engagement des institutions. À moyen terme, une prise de conscience accrue pourrait réduire les cas, mais les racines culturelles et économiques resteront un défi. À long terme, une approche globale (prévention, éducation, soutien aux victimes) serait nécessaire pour inverser la tendance. Les associations féministes jouent un rôle clé, tandis que l’État doit assumer sa responsabilité en renforçant les services publics.",
+      "analyse_en": "Belgium, like other European countries, faces an ongoing crisis of femicides, often underreported despite its systemic nature. Deep-rooted causes include structural inequalities, a culture of silence around domestic violence, and insufficient resources for victims. In the short term, Charleroi’s exhibition may increase political pressure for stricter laws, but outcomes will depend on institutional commitment. In the medium term, heightened awareness could reduce cases, but cultural and economic roots will remain challenges. Long-term, a comprehensive approach (prevention, education, victim support) would be needed to reverse the trend. Feminist associations play a key role, while the state must take responsibility by strengthening public services.",
+      "analyse_zh": "比利时与其他欧洲国家一样，面临持续的杀妻案危机，尽管其系统性问题严重，但往往被低估。深层原因包括结构性不平等、家庭暴力沉默文化以及对受害者支持不足。短期内，夏洛莱展览可能推动政府加强法律，但成效取决于机构承诺。中期内，公众意识提升可能减少案件，但文化和经济根源仍是障碍。长期来看，综合性解决方案（预防、教育、受害者援助）才能扭转局面。女性主义组织发挥关键作用，而政府必须通过加强公共服务承担责任。",
+      "analyse_ru": "Феминицид остаётся одной из самых острых социальных проблем в Бельгии, несмотря на усилия властей и общественных организаций. Акция в Шарлеруа призвана привлечь внимание к масштабу насилия и необходимости системных изменений. Организаторы надеются, что выставка и дискуссии станут платформой для обсуждения законопроектов и мер поддержки пострадавших. Однако критики отмечают, что подобные инициативы часто остаются разовыми, не влияя на долгосрочные реформы. Позиция властей остаётся противоречивой: с одной стороны, они поддерживают акции, с другой — затягивают с принятием жёстких законов против насилия.",
+      "analyse_fa": "قتل زنان همچنان یکی از مهم‌ترین مشکلات اجتماعی بلژیک است، در حالی که دولت و سازمان‌های اجتماعی تلاش می‌کنند این مشکل را حل کنند. این تجمع در شارلروآ سعی دارد توجه عمومی را به گستردگی خشونت و نیاز به تغییرات سیستماتیک جلب کند. سازمان‌دهندگان امیدوارند که نمایشگاه و بحث‌ها به عنوان پلتفرمی برای بحث در مورد طرح‌های قانونی و حمایت از قربانیان عمل کنند. اما منتقدان این اقدامات را یکباره و بی‌تاثیر بر اصلاحات بلندمدت می‌دانند. موضع دولت دوگانه است: از یک سو، این اقدامات را حمایت می‌کند، اما از سوی دیگر، در تصویب قوانین سختگیرانه علیه خشونت تأخیر می‌کند.",
+      "analyse_ar": "قتل النساء لا يزال من أكثر المشاكل الاجتماعية حدة في بلجيكا، رغم جهود الحكومة والمنظمات الاجتماعية. هذا التجمع في شارلروا يهدف إلى جذب الانتباه إلى نطاق العنف وتطلب التغييرات النظامية. ينوي المنظمة أن تكون المعارضات والندوات منصة للبحث في مشاريع القوانين والدعم للمتضررات. ومع ذلك، يلاحظ النقاد أن مثل هذه المبادرات غالبًا ما تكون مؤقتة ولا تؤثر على الإصلاحات طويلة الأمد. موقف الحكومة متضارب: من ناحية، يدعم هذه المبادرات، ومن ناحية أخرى، يتأخر في اعتماد قوانين صارمة ضد العنف.",
+      "categorie": "Société",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/regions/charleroi/charleroi/2026/11/21/rassemblement-citoyen-et-exposition-a-charleroi-en-memoire-des-220-victimes-de-feminicide-en-belgique-depuis-2017-74N6NHXUAZGYJL4DE4ZUSW436U/",
+      "image": "https://www.lavenir.net/resizer/v2/WENJVLEGFREDHKD655VM5LDCJY.jpg?auth=e22d1fbae8371049d79b7de81a8940796e70fb414b1a58de1b19f6ac8098e3e8&width=1620&height=1620&quality=85&focal=2016%2C1512",
       "date": "2026-11-21",
-      "pays": "pol_env",
+      "pays": "pol_femmes",
       "badges": [
         {
-          "label": "▲ Assurance agricole et réassurance climatique",
+          "label": "▲ Assurances responsabilité civile (dommages corporels)",
           "hausse": true
         },
         {
-          "label": "▲ Marché des intrants agricoles (pesticides, engrais)",
-          "hausse": true
+          "label": "▼ Fonds de prévention des violences conjugales (subventions publiques)",
+          "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance agricole et réassurance climatique",
-          "secteur_en": "Agricultural insurance and climate reinsurance",
-          "secteur_zh": "农业保险与气候再保险",
-          "effet_fr": "Les dérogations environnementales augmentent les risques de sinistres climatiques (sécheresses, inondations) pour les assureurs agricoles, poussant à des hausses de primes ou des exclusions de contrats.",
-          "effet_en": "Environmental exemptions increase climate-related risk exposure for agricultural insurers, driving premium hikes or policy exclusions.",
-          "effet_zh": "环保豁免增加了农业保险面临的气候灾害风险（旱灾、洪水），导致保费上涨或合同退出。",
+          "secteur_fr": "Assurances responsabilité civile (dommages corporels)",
+          "secteur_en": "Civil liability insurance (bodily harm)",
+          "secteur_zh": "人身损害责任保险",
+          "effet_fr": "Les rassemblements contre les féminicides pourraient entraîner une hausse des réclamations pour violences domestiques, augmentant les coûts pour les assureurs.",
+          "effet_en": "Gatherings against femicides may lead to increased claims for domestic violence, raising costs for insurers.",
+          "effet_zh": "反杀妻案集会可能导致家庭暴力索赔增加，提高保险公司成本。",
           "hausse": true
         },
         {
-          "secteur_fr": "Marché des intrants agricoles (pesticides, engrais)",
-          "secteur_en": "Agricultural input market (pesticides, fertilizers)",
-          "secteur_zh": "农业投入品市场（农药、化肥）",
-          "effet_fr": "La réautorisation de substances interdites relance la demande en pesticides et engrais, bénéficiant temporairement aux géants comme Bayer ou Yara, mais au prix d’une dégradation des sols et de la santé publique.",
-          "effet_en": "Reauthorizing banned substances boosts pesticide and fertilizer demand, temporarily aiding giants like Bayer or Yara, at the cost of soil degradation and public health.",
-          "effet_zh": "重新批准禁用物质刺激了农药和化肥需求，暂时惠及拜耳或亚拉等巨头，但以土壤退化和公共健康为代价。",
-          "hausse": true
+          "secteur_fr": "Fonds de prévention des violences conjugales (subventions publiques)",
+          "secteur_en": "Conjugal violence prevention funds (public grants)",
+          "secteur_zh": "家庭暴力预防基金（公共补贴）",
+          "effet_fr": "L’exposition pourrait inciter les pouvoirs publics à reconsidérer les budgets alloués à la prévention, avec un risque de réallocation des fonds existants.",
+          "effet_en": "The exhibition may prompt public authorities to re-evaluate prevention budgets, risking reallocation of existing funds.",
+          "effet_zh": "展览可能促使政府重新审视预防预算，但可能导致现有资金重新分配。",
+          "hausse": false
         }
       ],
-      "created_at": "2026-11-22T10:46:36.861695",
+      "created_at": "2026-11-22T18:15:51.666253",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_977527",
+      "titre": "Apple dépasse tous en gestion des PFAS toxiques",
+      "titre_en": "Apple leads in toxic PFAS plastic management",
+      "titre_zh": "苹果公司在处理有毒PFAS塑料上领先",
+      "titre_ru": "Apple превосходит всех в борьбе с токсичными ПФАС и пластиком",
+      "titre_fa": "آپل در کاهش مواد سمی PFAS و پلاستیک بهتر از همه است",
+      "titre_ar": "أبل تفوق الجميع في مكافحة المواد السامة PFAS والبلاستيك",
+      "titre_original": "PFAS, substances toxiques, plastiques : Apple fait mieux que tout le monde",
+      "resume": "Apple se distingue par ses efforts pour éliminer les substances PFAS, toxiques et persistantes, de ses produits et emballages. Cette initiative s’inscrit dans une stratégie globale de réduction des plastiques polluants, face à la pression croissante des régulateurs et des consommateurs. Le géant technologique mise sur l’innovation pour concilier performance et durabilité environnementale.",
+      "resume_en": "Apple stands out for its efforts to remove toxic, persistent PFAS substances from its products and packaging. This initiative is part of a broader strategy to reduce polluting plastics, amid growing pressure from regulators and consumers. The tech giant relies on innovation to balance performance and environmental sustainability.",
+      "resume_zh": "苹果公司在其产品和包装中去除有毒持久性PFAS物质方面表现突出，这是其应对监管和消费者压力的全面减塑策略的一部分。该科技巨头依靠创新平衡性能和环境可持续性。",
+      "resume_ru": "Новые данные подтверждают, что Apple продолжает лидировать в экологических инициативах, особенно в утилизации токсичных ПФАС и пластика. Компания активно внедряет инновационные технологии для снижения вредного воздействия на окружающую среду. Это подтверждает реальность её обещаний по устойчивому развитию.",
+      "resume_fa": "داده‌های جدید نشان می‌دهد که اپل همچنان در زمینه اقدامات زیست‌محیطی، به ویژه در کاهش مواد سمی PFAS و پلاستیک، پیشتاز است. این شرکت به‌طور فعال از فناوری‌های نوین برای کاهش تأثیرات زیانبار بر محیط زیست استفاده می‌کند. این موضوع واقعیت وعده‌های توسعه پایدار شرکت را تأیید می‌کند.",
+      "resume_ar": "بيانات جديدة تؤكد أن أبل لا تزال رائدة في المبادرات البيئية، خاصة في التخلص من المواد السامة PFAS والبلاستيك. الشركة تستخدم تقنيات مبتكرة لتقليل التأثيرات الضارة على البيئة. هذا يؤكد جدية وعداتها بالتنمية المستدامة.",
+      "analyse_detaillee": "Les PFAS, surnommées « substances éternelles » en raison de leur persistance dans l’environnement, posent un défi majeur pour l’industrie technologique et les consommateurs. Apple agit dans un contexte de réglementations européennes et américaines de plus en plus strictes, comme le REACH ou les lois californiennes. Ses progrès s’appuient sur des investissements R&D massifs et une pression des ONG, mais les coûts restent un frein pour les concurrents. À court terme, cette stratégie renforce son image RSE, mais à moyen terme, elle pourrait devenir un standard du secteur. À long terme, une généralisation des solutions alternatives dépendra de la coopération industrielle et des politiques publiques. Les acteurs comme Greenpeace saluent l’initiative, tandis que les lobbies plastiques critiquent son approche radicale.",
+      "analyse_en": "PFAS, nicknamed ‘forever chemicals’ due to their persistence in the environment, pose a major challenge for the tech industry and consumers. Apple acts in a context of increasingly strict European and American regulations, such as REACH or California laws. Its progress relies on massive R&D investments and pressure from NGOs, but costs remain a barrier for competitors. In the short term, this strategy strengthens its CSR image, but in the medium term, it could set a sector standard. Long-term, the widespread adoption of alternative solutions will depend on industrial cooperation and public policies. Actors like Greenpeace praise the initiative, while plastic lobbies criticize its radical approach.",
+      "analyse_zh": "PFAS被称作‘永久化学物质’，因其在环境中持久存在而成为科技行业和消费者的重大挑战。苹果公司在欧美日益严格的监管（如REACH法规或加州法律）下采取行动。其进展依赖于大规模研发投资和NGO压力，但成本仍是竞争对手的障碍。短期内，该策略增强其ESG形象，中期可能成为行业标准。长期内，替代解决方案的普及需依赖产业合作和公共政策。环保组织如绿色和平称赞其举措，而塑料行业利益集团批评其过于激进。",
+      "analyse_ru": "Apple демонстрирует, что может сочетать инновации с ответственным подходом к экологии, что является редкостью среди крупных технологических корпораций. Использование альтернативных материалов и переработка отходов показывают, что компания готова идти дальше декларативных заявлений. Однако критики отмечают, что даже такие лидеры, как Apple, не могут полностью решить проблему пластикового загрязнения без участия всей отрасли. Конкуренты, такие как Samsung или Google, всё ещё отстают в этих показателях, что подчеркивает необходимость более строгих экологических стандартов. Позиция Apple как «зелёного лидера» может повлиять на изменение политики других компаний, но пока это остаётся исключением, а не правилом.",
+      "analyse_fa": "اپل نشان می‌دهد که می‌تواند نوآوری را با رویکرد مسئولانه به زیست‌محیطی ترکیب کند، چیزی که در میان شرکت‌های بزرگ فناوری نادر است. استفاده از مواد جایگزین و بازیافت زباله نشان می‌دهد که این شرکت حاضر است فراتر از اظهارات تبلیغاتی پیش برود. اما منتقدان می‌گویند که حتی شرکت‌هایی مانند اپل نمی‌توانند به‌طور کامل مشکل آلودگی پلاستیکی را بدون مشارکت کل صنعت حل کنند. رقبا مانند سامسونگ یا گوگل هنوز در این شاخص‌ها عقب هستند، که این موضوع نیاز به استانداردهای زیست‌محیطی سخت‌گیرانه‌تر را برجسته می‌کند. موضع اپل به عنوان رهبر «سبز» می‌تواند بر سیاست شرکت‌های دیگر تأثیر بگذارد، اما تاکنون این یک استثنا و نه یک قانون است.",
+      "analyse_ar": "أبل تثبت أنها يمكن أن تجمع بين الابتكار والنهج المسؤول تجاه البيئة، وهو أمر نادر بين الشركات الكبرى في مجال التكنولوجيا. استخدام مواد بديلة وإعادة تدوير النفايات يظهر أن الشركة مستعدة للذهاب أبعد من مجرد التزامات إعلامية. ومع ذلك، يلاحظ النقاد أن حتى قادة مثل أبل لا يمكنهم حل مشكلة تلوث البلاستيك بالكامل دون مشاركة كل القطاع. المنافسون مثل سامسونج أو جوجل لا يزالون خلفون في هذه المؤشرات، مما يبرز الحاجة إلى معايير بيئية أكثر صرامة. موقف أبل كقائد «أخضر» قد يؤثر على سياسة الشركات الأخرى، لكن حتى الآن هذا استثناء وليس قاعدة.",
+      "categorie": "Environnement",
+      "source": "Iphon.fr",
+      "url": "https://www.iphon.fr/post/pfas-toxiques-platiques-apple-monde",
+      "image": "https://www.iphon.fr/app/uploads/2026/11/pollution-plastique-1600x900.jpg",
+      "date": "2026-11-21",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Marché des plastiques biosourcés (innovation verte)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Assurances environnementales (responsabilité écologique)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des plastiques biosourcés (innovation verte)",
+          "secteur_en": "Bioplastic market (green innovation)",
+          "secteur_zh": "生物塑料市场（绿色创新）",
+          "effet_fr": "Les avancées d’Apple pourraient stimuler la demande en alternatives sans PFAS, dynamisant un marché encore émergent mais en croissance rapide.",
+          "effet_en": "Apple’s progress may boost demand for PFAS-free alternatives, driving growth in an emerging but rapidly expanding market.",
+          "effet_zh": "苹果的进展可能刺激无PFAS替代品的需求，推动一个尚处起步但快速增长的市场。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances environnementales (responsabilité écologique)",
+          "secteur_en": "Environmental insurance (ecological liability)",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "La réduction des PFAS par Apple pourrait réduire les risques de litiges liés à la pollution, limitant les primes pour les assureurs spécialisés.",
+          "effet_en": "Apple’s reduction of PFAS may lower risks of pollution-related lawsuits, capping premiums for environmental insurers.",
+          "effet_zh": "苹果减少PFAS使用可能降低污染索赔风险，限制环境保险公司的保费。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-22T18:15:51.666281",
       "sous_categorie": "environnement"
     },
     {
@@ -6491,66 +6551,6 @@
         }
       ],
       "created_at": "2026-11-20T01:45:01.571779",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_358825",
-      "titre": "Collectif 8 Mars exige plus de moyens",
-      "titre_en": "8 March Collective Demands More Resources",
-      "titre_zh": "8月8日集体要求更多资源",
-      "titre_ru": "Коллектив 8 Марта требует больше средств против насилия над женщинами",
-      "titre_fa": "جمعیت ۸ مارس از افزایش بودجه و اعتراض در مونس برای خشونت علیه زنان می‌خواهد",
-      "titre_ar": "جمعية 8 مارس تطلب المزيد من الموارد لمكافحة العنف ضد النساء وتدعو إلى مظاهرة في مونس",
-      "titre_original": "Violences faites aux femmes : Le Collectif 8 Mars réclame davantage de moyens et appelle à manifester à Mons",
-      "resume": "Le Collectif 8 Mars organise une manifestation le 25 novembre à Mons pour dénoncer les violences faites aux femmes et réclamer des moyens accrus pour les associations et services d’aide. Cette mobilisation s’inscrit dans une dynamique annuelle de sensibilisation, alors que les chiffres des violences conjugales et sexistes restent alarmants en Belgique. Les organisateurs soulignent l’urgence d’agir face à l’insuffisance des politiques publiques et des budgets alloués.",
-      "resume_en": "The 8 March Collective is organizing a protest on November 25th in Mons to condemn violence against women and demand more resources for support associations. This annual mobilization highlights persistent alarming statistics on domestic and gender-based violence in Belgium. Organizers emphasize the urgency of addressing insufficient public policies and budgets.",
-      "resume_zh": "8月8日集体将于11月25日在蒙斯举行游行，谴责针对妇女的暴力并要求为援助机构提供更多资源。这一年度活动反映了比利时家庭暴力和性别暴力统计数据依然严峻。组织者强调迫切需要解决公共政策和预算不足的问题。",
-      "resume_ru": "Коллектив 8 Марта призвал к увеличению финансирования мер по борьбе с насилием над женщинами. В центре Монса 25 ноября запланирована акция протеста. Организаторы настаивают на более активной государственной политике в этой сфере.",
-      "resume_fa": "جمعیت ۸ مارس افزایش بودجه برای مقابله با خشونت علیه زنان را خواستار شد. در ۲۵ نوامبر آینده در مرکز شهر مونس اقدامی برگزار خواهد شد. سازمان‌دهندگان تأکید دارند که دولت باید سیاست‌های فعال‌تری در این زمینه داشته باشد.",
-      "resume_ar": "طالبت مجموعة 8 مارس بزيادة الموارد لمكافحة العنف ضد النساء. ستقام مظاهرة في وسط مونس في 25 نوفمبر المقبل. يدعو المنظمة إلى سياسة حكومية أكثر نشاطًا في هذا المجال.",
-      "analyse_detaillee": "Les violences faites aux femmes en Belgique, comme en Europe, s’inscrivent dans une tradition historique de sous-représentation politique et sociale des femmes, aggravée par des normes patriarcales persistantes. Les causes profondes incluent l’absence de sanctions effectives contre les agresseurs, ainsi qu’un système judiciaire souvent lent et désorganisé. À court terme, les manifestations comme celle de Mons visent à médiatiser le problème et à exercer une pression sur les décideurs politiques, mais leur impact reste limité sans engagement concret. À moyen terme, l’absence de réformes structurelles pourrait maintenir un cycle de violences, tandis que les associations locales, saturées, peinent à répondre à la demande croissante. À long terme, une approche globale intégrant éducation, prévention et protection juridique serait nécessaire pour briser ce cycle. Les acteurs comme le Collectif 8 Mars jouent un rôle clé en mobilisant l’opinion publique, mais leur efficacité dépendra de la volonté politique de transformer ces revendications en actions concrètes.",
-      "analyse_en": "Violence against women in Belgium, like in Europe, stems from a historical pattern of political and social underrepresentation of women, exacerbated by persistent patriarchal norms. Root causes include ineffective sanctions against abusers and a slow, disorganized judicial system. Short-term, protests like those in Mons aim to raise awareness and pressure policymakers, but their impact is limited without concrete commitments. Without structural reforms, medium-term risks include maintaining cycles of violence, while overburdened local associations struggle to meet growing demand. Long-term, a comprehensive approach combining education, prevention, and legal protection is needed to break this cycle. Actors like the 8 March Collective play a crucial role in mobilizing public opinion, but their effectiveness depends on political will to turn demands into action.",
-      "analyse_zh": "比利时针对妇女的暴力问题与欧洲其他地区一样，根源在于女性在政治和社会上的长期边缘化，加剧了根深蒂固的男权主义文化。深层原因包括对加害者缺乏有效惩罚以及缓慢、混乱的司法体系。短期内，蒙斯的游行旨在提高公众关注度并施压决策者，但缺乏具体承诺其影响有限。中长期内，若缺乏结构性改革，暴力循环可能持续，而资源饱和的地方组织难以应对日益增长的需求。长期来看，需要综合性解决方案，包括教育、预防和法律保护，才能打破暴力循环。8月8日集体等组织通过动员公众发挥关键作用，但其成效取决于政府将诉求转化为实际行动的意愿。",
-      "analyse_ru": "Насилие над женщинами остаётся актуальной проблемой в Бельгии, несмотря на рост осведомлённости о правах человека. Коллектив 8 Марта объединяет активистов, которые ссылаются на статистику, показывающую, что каждая третья женщина сталкивалась с физическим или психологическим насилием. Отсутствие достаточного финансирования мешает эффективной работе правоохранительных органов и социальных служб. Манифестация в Монсе призвана привлечь внимание общественности и политиков к этой проблеме. Однако, для реальных изменений требуется системный подход, включая законодательные инициативы и международное сотрудничество.",
-      "analyse_fa": "خشونت علیه زنان همچنان یک مشکل مهم در بلژیک باقی مانده است، در حالی که آگاهی از حقوق بشر افزایش یافته است. جمعیت ۸ مارس از فعالان تشکیل شده است که به آمارهای نشان‌دهنده این واقعیت استناد می‌کنند که هر سوم زنان با خشونت فیزیکی یا روانی روبرو شده‌اند. عدم وجود بودجه کافی مانع از کارآمدی سازمان‌های اجرایی و خدمات اجتماعی می‌شود. تجمع در مونس هدف دارد توجه عمومی و سیاستمداران را به این مشکل جلب کند. اما برای تغییرات واقعی، نیاز به رویکرد سیستماتیک، از جمله اقدامات قانونی و همکاری بین‌المللی است.",
-      "analyse_ar": "العنف ضد النساء لا يزال مشكلة حادة في بلجيكا، رغم زيادة الوعي بحقوق الإنسان. مجموعة 8 مارس تضمن منظمي يرجعون إلى الإحصائيات التي تشير إلى أن كل امرأة من كل ثلاث نساء تعرضت للعنف الجسدي أو النفسي. عدم وجود تمويل كافٍ يعيق فعالية أجهزة الأمن والخدمات الاجتماعية. تهدف المظاهرة في مونس إلى جذب انتباه الرأي العام والسياسيين لهذه المشكلة. ومع ذلك، يتطلب التغييرات الحقيقية نهجًا شاملًا، بما في ذلك المبادرات التشريعية والتعاون الدولي.",
-      "categorie": "Société",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/regions/mons/2026/11/18/violences-faites-aux-femmes-le-collectif-8-mars-reclame-davantage-de-moyens-et-appelle-a-manifester-a-mons-NA3HQOE7FVC4JLUWZPJWMECFKY/",
-      "image": "https://www.dhnet.be/resizer/v2/MKZL3LENIZFNVK5B5X37MSL5RU.jpg?auth=3729b26d119110ab38cd95bebc6827eaba630137d258624aea30b4d7f5e7a4c0&width=1620&height=1620&quality=85&focal=3360%2C2240",
-      "date": "2026-11-18",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Fonds publics alloués aux politiques sociales",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché de l’assurance responsabilité civile",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Fonds publics alloués aux politiques sociales",
-          "secteur_en": "Public funds allocated to social policies",
-          "secteur_zh": "分配给社会政策的公共资金",
-          "effet_fr": "Les revendications du Collectif 8 Mars pourraient entraîner une réallocation des budgets vers des programmes de prévention et de soutien aux victimes, mais leur impact dépendra des priorités gouvernementales.",
-          "effet_en": "The 8 March Collective’s demands may lead to reallocating budgets toward prevention programs and victim support, but their impact hinges on government priorities.",
-          "effet_zh": "8月8日集体的诉求可能促使政府将预算重新分配到预防和援助项目，但其影响取决于政府的优先事项。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché de l’assurance responsabilité civile",
-          "secteur_en": "Civil liability insurance market",
-          "secteur_zh": "民事责任保险市场",
-          "effet_fr": "Une augmentation des plaintes pour violences domestiques pourrait inciter les assureurs à revoir leurs tarifs ou conditions, augmentant les coûts pour les ménages et entreprises concernées.",
-          "effet_en": "An increase in domestic violence claims may prompt insurers to adjust rates or terms, raising costs for affected households and businesses.",
-          "effet_zh": "家庭暴力投诉增加可能促使保险公司调整费率或条款，提高相关家庭和企业的成本。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-19T11:14:44.766795",
       "sous_categorie": "femmes"
     },
     {
@@ -6914,6 +6914,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_643291",
+      "titre": "Dérèglement agricole : l’illusion des dérogations",
+      "titre_en": "Agricultural backtracking: the illusion of exemptions",
+      "titre_zh": "农业松绑：违规的迷思",
+      "titre_ru": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "titre_fa": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "titre_ar": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "titre_original": "« On met en place des dérogations pour réautoriser ce que l’on avait interdit » : le bluff français sur l’agriculture",
+      "resume": "Les ONG critiquent une politique agricole française contradictoire, combinant lois environnementales strictes et réautorisations massives de pratiques interdites, comme les pesticides ou les dérogations pour le bien-être animal. Ce « en même temps » aggrave les tensions entre écologie et productivité, tout en sapant la crédibilité des engagements climatiques. Le gouvernement justifie ces revirements par des pressions économiques, mais les associations y voient une trahison des promesses écologiques.",
+      "resume_en": "NGOs condemn France’s contradictory agricultural policy, enforcing strict environmental laws while mass-reauthorizing banned practices like pesticides and animal welfare exemptions. This « en même temps » approach deepens conflicts between ecology and productivity, undermining climate commitments. The government cites economic pressures, but activists see it as a betrayal of green promises.",
+      "resume_zh": "环保组织批评法国农业政策前后矛盾，一边严格执行环保法规，一边大规模恢复禁用的农药和动物福利豁免。这种「一边倒」政策加剧了生态与产量之间的冲突，削弱了气候承诺的可信度。政府以经济压力为由，但环保人士认为这是对绿色承诺的背叛。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La France a historiquement oscillé entre protectionnisme agricole et réformes environnementales, avec des cycles de régulations renforcées suivis de dérogations sous pression lobbyste. Les enjeux actuels reposent sur la tension entre souveraineté alimentaire et transition écologique, exacerbée par la dépendance aux intrants chimiques et la résistance des filières traditionnelles. Les causes profondes incluent le manque de cohérence politique, la priorité donnée aux lobbies agro-industriels, et l’absence de mécanismes de substitution crédibles pour les agriculteurs. À court terme, ces dérogations fragilisent la confiance des consommateurs et des partenaires européens, tout en alimentant les critiques sur le greenwashing. À moyen terme, elles pourraient entraîner des sanctions de la Commission européenne ou des contentieux juridiques, comme ceux liés aux nitrates ou aux OGM. Long terme, sans changement structurel, la France risque de perdre son leadership dans l’agroécologie au profit de modèles plus stricts (UE, Scandinavie). Les acteurs clés sont divisés : le gouvernement cède sous les pressions des chambres d’agriculture, tandis que les ONG (Greenpeace, WWF) et les scientifiques (INRAE) dénoncent une « dérive autoritaire ».",
+      "analyse_en": "France has historically oscillated between agricultural protectionism and environmental reforms, with cycles of strengthened regulations followed by lobby-driven exemptions. Current stakes revolve around the conflict between food sovereignty and ecological transition, worsened by chemical input dependency and resistance from traditional farming sectors. Root causes include political incoherence, prioritization of agro-industrial lobbies, and lack of credible substitution mechanisms for farmers. Short-term, these exemptions erode consumer and EU partner trust, fueling greenwashing accusations. Medium-term, they risk EU sanctions or legal battles over nitrates or GMOs. Long-term, without structural change, France may lose its agroecology leadership to stricter models (EU, Scandinavia). Key actors are divided: the government yields to agricultural chambers’ pressure, while NGOs (Greenpeace, WWF) and scientists (INRAE) condemn an « authoritarian drift ».",
+      "analyse_zh": "法国农业政策长期在保护主义与环保改革之间摇摆，先是加强法规，后因利益集团压力而大量豁免。当前矛盾集中在粮食主权与生态转型之间，化学投入依赖和传统农业抵触加剧了冲突。深层原因包括政策不连贯、优先满足农业产业集团利益，以及缺乏替代农业的可信解决方案。短期内，这些豁免动摇了消费者和欧盟伙伴的信任，助长了绿色洗牌的批评。中期内，可能面临欧盟制裁或硝酸盐/转基因相关的法律诉讼。长期来看，若无结构性变革，法国可能在生态农业领域落后于欧盟或北欧模式。关键利益相关者分化：政府屈服于农民协会压力，而环保组织（绿色和平、WWF）和科研机构（INRAE）则指责「权力滥用」。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement & Politique",
+      "source": "Challenges",
+      "url": "https://www.challenges.fr/politique/on-met-en-place-des-derogations-pour-reautoriser-ce-que-lon-avait-interdit-le-bluff-francais-sur-lagriculture_647009",
+      "image": "https://www.challenges.fr/_ipx/f_jpg&enlarge_true&s_1200x630/cha/static/2026-11/64709.HR_1.jpeg%3FVersionId=f95zm9ylsfLEohdCzdpRCtz6_E5bUELG",
+      "date": "2026-11-21",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurance agricole et réassurance climatique",
+          "hausse": true
+        },
+        {
+          "label": "▲ Marché des intrants agricoles (pesticides, engrais)",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurance agricole et réassurance climatique",
+          "secteur_en": "Agricultural insurance and climate reinsurance",
+          "secteur_zh": "农业保险与气候再保险",
+          "effet_fr": "Les dérogations environnementales augmentent les risques de sinistres climatiques (sécheresses, inondations) pour les assureurs agricoles, poussant à des hausses de primes ou des exclusions de contrats.",
+          "effet_en": "Environmental exemptions increase climate-related risk exposure for agricultural insurers, driving premium hikes or policy exclusions.",
+          "effet_zh": "环保豁免增加了农业保险面临的气候灾害风险（旱灾、洪水），导致保费上涨或合同退出。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marché des intrants agricoles (pesticides, engrais)",
+          "secteur_en": "Agricultural input market (pesticides, fertilizers)",
+          "secteur_zh": "农业投入品市场（农药、化肥）",
+          "effet_fr": "La réautorisation de substances interdites relance la demande en pesticides et engrais, bénéficiant temporairement aux géants comme Bayer ou Yara, mais au prix d’une dégradation des sols et de la santé publique.",
+          "effet_en": "Reauthorizing banned substances boosts pesticide and fertilizer demand, temporarily aiding giants like Bayer or Yara, at the cost of soil degradation and public health.",
+          "effet_zh": "重新批准禁用物质刺激了农药和化肥需求，暂时惠及拜耳或亚拉等巨头，但以土壤退化和公共健康为代价。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-22T10:46:36.861695",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_261767",
       "titre": "Parents de Gironde et Charente attaquent l’État sur pesticides",
       "titre_en": "Gironde, Charente Parents Sue State Over Pesticide Spraying",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-20T01:45:01.571803",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_958323",
-      "titre": "Député français primé pour lutte PFAS",
-      "titre_en": "French MP Awarded for PFAS Pollution Fight",
-      "titre_zh": "法国议员获奖抗击PFAS污染",
-      "titre_ru": "Депутат Франции получил награду принца Уильяма за борьбу с вечными загрязнителями",
-      "titre_fa": "یک نماینده فرانسوی برای مبارزه با آلاینده‌های ابدی جایزه‌ای از سوی شاهزاده ویلیام دریافت کرد",
-      "titre_ar": "نائب فرنسي يحصل على جائزة من الأمير ويليام لمكافحة الملوثات الدائمة",
-      "titre_original": "Environnement. Engagé contre les polluants éternels, un député français reçoit un prix décerné par le prince William",
-      "resume": "Nicolas Thierry, député écologiste de Gironde, a reçu un prix décerné par le prince William pour son engagement contre les polluants éternels (PFAS), depuis son élection en 2022. Ce prix souligne son rôle dans la sensibilisation et la régulation des substances toxiques, souvent appelées « polluants éternels » en raison de leur persistance dans l’environnement. Son action s’inscrit dans une dynamique européenne croissante pour limiter ces contaminants, mais reste confrontée à des lobbies industriels puissants.",
-      "resume_en": "French MP Nicolas Thierry from Gironde received an award from Prince William for his fight against ‘forever chemicals’ (PFAS) since his election in 2022. The prize highlights his role in raising awareness and regulating toxic substances, often dubbed ‘forever chemicals’ due to their environmental persistence. His efforts align with a growing European push to limit these contaminants, but face strong industrial lobbying.",
-      "resume_zh": "法国吉伦特省生态议员蒂耶里·尼古拉斯因其自2022年当选以来抗击‘永久污染物’（PFAS）的努力，获得了威廉王子颁发的奖项。该奖项突显了他提高公众意识和监管有毒物质的作用，这些物质因其在环境中的持久性被称为‘永久污染物’。他的行动与欧洲日益增长的限制这些污染物的努力一致，但面临强大的工业利益集团的反对。",
-      "resume_ru": "Николя Тиери, депутат от партии «Зелёные» из Жиронды, получил премию за борьбу с PFAS и другими вечными загрязнителями. Награду учредил в 2020 году принц Уильям, чтобы поддержать усилия по охране окружающей среды. Депутат активно работает над законодательными инициативами по ограничению использования опасных химикатов.",
-      "resume_fa": "نیکلاس تیری، نماینده اکولوژیک از ژیروند، جایزه‌ای برای مبارزه با آلاینده‌های PFAS و ابدی دریافت کرد. این جایزه در سال ۲۰۲۰ توسط شاهزاده ویلیام برای حمایت از تلاش‌های محیط‌زیستی تأسیس شد. این نماینده به‌طور فعال در زمینه اقدامات قانونی برای محدود کردن استفاده از مواد شیمیایی خطرناک فعالیت می‌کند.",
-      "resume_ar": "حصل نائب فرنسي نيكولاس تييري على جائزة لمكافحة الملوثات الدائمة PFAS. أسست هذه الجائزة عام 2020 الأمير ويليام لدعم الجهود البيئية. يعمل النائب بشكل نشط على مبادرات تشريعية لتقليل استخدام المواد الكيميائية الخطرة.",
-      "analyse_detaillee": "Les PFAS, ou polluants éternels, sont apparus massivement depuis les années 1950 avec l’industrialisation de produits chimiques utilisés dans les textiles, emballages alimentaires et mousses anti-incendie. Leur persistance dans l’environnement et leur toxicité pour la santé humaine en font un enjeu majeur de santé publique et écologique, avec des liens établis à des cancers et troubles hormonaux. Les causes profondes incluent l’absence de réglementation stricte avant les années 2000 et la pression des lobbies industriels pour retarder les restrictions. À court terme, des initiatives comme celle de Thierry pourraient accélérer les débats parlementaires et médiatiser le problème, mais leur efficacité reste limitée sans cadre juridique contraignant. À moyen terme, l’UE avance sur des directives strictes, mais leur application dépendra des États membres, notamment la France, souvent en retard sur ces questions. Long-termement, une transition vers des alternatives non toxiques et une gestion globale des déchets chimiques sera cruciale pour limiter leur impact. Les acteurs comme Thierry jouent un rôle de catalyseur, mais leur succès dépendra de la capacité des institutions à concilier innovation industrielle et protection environnementale.",
-      "analyse_en": "PFAS, or ‘forever chemicals,’ have proliferated since the 1950s with the industrialization of chemicals used in textiles, food packaging, and firefighting foams. Their persistence in the environment and human health toxicity make them a major public health and ecological issue, linked to cancers and hormonal disorders. Root causes include weak pre-2000 regulations and industrial lobbying to delay restrictions. Short-term, initiatives like Thierry’s may accelerate parliamentary debates and raise awareness, but their impact is limited without binding legal frameworks. Medium-term, the EU advances strict directives, but their enforcement depends on member states, often lagging behind. Long-term, a shift to non-toxic alternatives and global chemical waste management will be critical. Actors like Thierry act as catalysts, but their success hinges on institutions balancing industrial innovation with environmental protection.",
-      "analyse_zh": "PFAS（永久污染物）自20世纪50年代以来随着化学品工业化而大量出现，广泛应用于纺织品、食品包装和灭火泡沫中。其在环境中的持久性和对人类健康的毒性使其成为公共卫生和生态的重大问题，已与癌症和内分泌紊乱等疾病建立联系。深层原因包括2000年前缺乏严格监管以及工业利益集团推迟限制措施的压力。短期内，蒂耶里的倡议可能加速议会辩论并提高公众关注度，但缺乏约束性法律框架其影响有限。中期内，欧盟推进严格指令，但执行取决于成员国，法国在这些问题上常常落后。长期来看，向非毒性替代品转型和全球化学废物管理将至关重要。蒂耶里等人作为催化剂发挥作用，但其成功取决于机构能否平衡工业创新与环境保护。",
-      "analyse_ru": "Проблема PFAS (вечных загрязнителей) становится всё более актуальной в Европе, так как эти химические вещества накапливаются в окружающей среде и организмах живых существ. Депутат Тиери выделяется среди коллег своей активной позицией и конкретными предложениями по регулированию использования PFAS. Награждение принца Уильяма подчеркивает международное значение этой темы и необходимость скоординированных усилий. Однако, для реальных изменений требуется участие бизнеса и общественного контроля. В будущем ожидается усиление давления на правительства для принятия строгих законов по ограничению этих загрязнителей.",
-      "analyse_fa": "مسئله آلاینده‌های PFAS (آلاینده‌های ابدی) در اروپا به تدریج اهمیت بیشتری پیدا می‌کند، زیرا این مواد شیمیایی در محیط زیست و بدن موجودات زنده تجمع می‌یابند. نماینده تیری با توجه به فعالیت‌های فعالانه و پیشنهادات خاص در زمینه تنظیم استفاده از PFAS، از همکارانش متمایز است. دریافت جایزه از سوی شاهزاده ویلیام اهمیت بین‌المللی این موضوع و نیاز به تلاش‌های هماهنگ را برجسته می‌کند. اما برای تغییرات واقعی، نیاز به مشارکت صنعت و نظارت عمومی است. در آینده، انتظار می‌رود فشار بر دولت‌ها برای تصویب قوانین سختگیرانه در محدود کردن این آلاینده‌ها افزایش یابد.",
-      "analyse_ar": "تعتبر مشكلة الملوثات الدائمة PFAS أكثر أهمية في أوروبا، حيث تتراكم هذه المواد الكيميائية في البيئة والأجسام الحية. يميز النائب تييري نفسه بين زملائه بوقوفته النشطة ومقترحات محددة لتنظيم استخدام PFAS. تحصل جائزة الأمير ويليام على أهمية هذه الموضوع على المستوى الدولي وتطلب جهود متكاملة. ومع ذلك، يتطلب التغييرات الحقيقية مشاركة الصناعة والمراقبة العامة. في المستقبل، يتوقع زيادة الضغط على الحكومات لت passage قوانين صارمة لتقييد هذه الملوثات.",
-      "categorie": "Environnement",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/environnement/2026/11/17/engage-contre-les-polluants-eternels-un-depute-francais-recoit-un-prix-decerne-par-le-prince-william",
-      "image": "https://cdn-s-www.ledauphine.com/images/D3BEE60D-BE48-432C-84AF-A35D23295A60/MF_contenu/engage-contre-les-polluants-eternels-un-depute-francais-recoit-un-prix-decerne-par-le-prince-william-1794933705.jpg",
-      "date": "2026-11-17",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité environnementale",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des alternatives chimiques vertes",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité environnementale",
-          "secteur_en": "Environmental liability insurance",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "Les restrictions accrues sur les PFAS pourraient augmenter les coûts d’assurance pour les industries concernées, poussant certaines à investir dans des technologies de dépollution ou à modifier leurs processus de production.",
-          "effet_en": "Stricter PFAS restrictions may raise insurance costs for affected industries, prompting some to invest in pollution control technologies or alter production processes.",
-          "effet_zh": "对PFAS的更严格限制可能提高相关行业的保险成本，迫使一些企业投资于污染控制技术或改变生产流程。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des alternatives chimiques vertes",
-          "secteur_en": "Green chemical alternatives market",
-          "secteur_zh": "绿色化学替代品市场",
-          "effet_fr": "La prise de conscience accrue sur les PFAS pourrait stimuler la demande pour des substituts écologiques, dynamisant un marché en croissance mais encore fragmenté, notamment pour les entreprises innovantes.",
-          "effet_en": "Growing awareness of PFAS may boost demand for eco-friendly substitutes, driving a growing but still fragmented market, particularly for innovative firms.",
-          "effet_zh": "对PFAS的关注增加可能刺激对生态替代品的需求，推动一个正在增长但仍不成熟的市场，特别是对于创新型企业。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-19T11:14:44.766819",
       "sous_categorie": "environnement"
     }
   ]
