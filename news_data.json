@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/11/2026 à 18h15",
+  "last_updated": "23/11/2026 à 00h01",
   "articles": {
     "monde": [
       {
@@ -6134,6 +6134,126 @@
   },
   "politique": [
     {
+      "id": "pol_femmes_804519",
+      "titre": "Charleroi lance campagne Ruban Blanc",
+      "titre_en": "Charleroi relaunches White Ribbon campaign",
+      "titre_zh": "夏尔勒罗瓦发起白丝带运动",
+      "titre_ru": "La campagne \"Ruban Blanc\" contre les violences faites aux femmes se relance à Charleroi",
+      "titre_fa": "La campagne \"Ruban Blanc\" contre les violences faites aux femmes se relance à Charleroi",
+      "titre_ar": "La campagne \"Ruban Blanc\" contre les violences faites aux femmes se relance à Charleroi",
+      "titre_original": "La campagne \"Ruban Blanc\" contre les violences faites aux femmes se relance à Charleroi",
+      "resume": "Depuis 2017, la Belgique a enregistré 220 féminicides, un chiffre alarmant qui pousse les organisateurs à intensifier la campagne « Ruban Blanc » dans le centre-ville de Charleroi. Cette initiative vise à sensibiliser le public aux violences faites aux femmes et à promouvoir l’égalité des genres. Les actions dureront deux semaines, mobilisant citoyens et institutions locales.",
+      "resume_en": "Since 2017, Belgium has recorded 220 femicides, prompting organizers to escalate the White Ribbon campaign in Charleroi’s city center. The initiative aims to raise awareness about gender-based violence and advocate for gender equality. The actions will last two weeks, engaging citizens and local institutions.",
+      "resume_zh": "自2017年以来，比利时已记录220起女性谋杀案，组织者因此在夏尔勒罗瓦市中心加强白丝带运动。该倡议旨在提高公众对针对女性暴力的认识，并倡导性别平等。活动将持续两周，动员市民和当地机构参与。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "La campagne Ruban Blanc s’inscrit dans une tradition internationale de lutte contre les violences conjugales, lancée en 1991 au Canada. En Belgique, les féminicides restent un fléau structurel, lié à des inégalités persistantes et à une culture du silence autour des violences domestiques. Les conséquences immédiates incluent une visibilité accrue des victimes, mais aussi des tensions avec des groupes conservateurs opposés aux politiques de genre. À moyen terme, l’impact dépendra de l’adhésion des pouvoirs locaux et de la médiatisation des cas. Long terme, une réduction durable nécessitera des réformes juridiques et éducatives systémiques. Les associations féministes y voient un outil de pression, tandis que les autorités locales cherchent à apaiser les tensions sociales.",
+      "analyse_en": "The White Ribbon campaign stems from an international movement against domestic violence, launched in 1991 in Canada. In Belgium, femicides persist as a structural issue, rooted in enduring gender inequalities and a culture of silence around domestic abuse. Short-term effects include heightened visibility of victims but also friction with conservative groups opposing gender policies. Medium-term success hinges on local authorities’ engagement and media coverage. Long-term reduction will require systemic legal and educational reforms. Feminist groups view it as a pressure tool, while local authorities aim to mitigate social tensions.",
+      "analyse_zh": "白丝带运动起源于1991年加拿大发起的反家庭暴力国际运动。在比利时，女性谋杀案仍然是一个结构性问题，根源在于持续的性别不平等和家庭暴力沉默文化。短期影响包括受害者曝光度提高，但也可能与反性别政策的保守派产生冲突。中期成效取决于地方政府的参与和媒体报道。长期减少需要系统性的法律和教育改革。女性主义组织视其为施压工具，而地方当局则试图缓解社会紧张局势。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Société",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/regions/charleroi/2026/11/21/la-campagne-ruban-blanc-contre-les-violences-faites-aux-femmes-se-relance-a-charleroi-5O3AQ7BA5JFCRAJNZHL7VIG7F4/",
+      "image": "https://www.dhnet.be/resizer/v2/BQUH5FFUONFABOSQHYIDBT7IU4.jpg?auth=6d0ba6c087da24c64b1b1c78f7da29479a5ba482d259b6db79296e739f0f2249&width=1620&height=1620&quality=85&focal=572%2C383",
+      "date": "2026-11-21",
+      "pays": "pol_femmes",
+      "badges": [
+        {
+          "label": "▲ Assurances responsabilité civile familiale",
+          "hausse": true
+        },
+        {
+          "label": "▲ Fonds de prévention des violences conjugales",
+          "hausse": true
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances responsabilité civile familiale",
+          "secteur_en": "Family civil liability insurance",
+          "secteur_zh": "家庭责任保险",
+          "effet_fr": "Les campagnes de sensibilisation pourraient augmenter les demandes d’indemnisation pour violences domestiques, poussant les assureurs à revoir leurs tarifs et couvertures.",
+          "effet_en": "Awareness campaigns may boost claims for domestic violence, forcing insurers to adjust premiums and coverage policies.",
+          "effet_zh": "提高公众意识可能增加家庭暴力索赔需求，迫使保险公司调整保费和理赔政策。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Fonds de prévention des violences conjugales",
+          "secteur_en": "Conjugal violence prevention funds",
+          "secteur_zh": "家庭暴力预防基金",
+          "effet_fr": "Les mobilisations locales pourraient stimuler les financements publics pour les associations et services d’aide aux victimes, mais aussi générer des débats sur l’allocation des ressources.",
+          "effet_en": "Local mobilizations may spur public funding for victim support associations, while also sparking debates over resource allocation.",
+          "effet_zh": "当地行动可能刺激公共资金流向受害者援助机构，但也会引发资源分配的辩论。",
+          "hausse": true
+        }
+      ],
+      "created_at": "2026-11-23T00:01:47.336816",
+      "sous_categorie": "femmes"
+    },
+    {
+      "id": "pol_env_465537",
+      "titre": "Cancer colère attaque commissaire santé UE",
+      "titre_en": "Cancer colère protests EU health commissioner",
+      "titre_zh": "癌症愤怒抗议欧盟卫生委员",
+      "titre_ru": "Les activistes de Cancer colère déversent des cendres sur le commissaire européen à la santé",
+      "titre_fa": "Les activistes de Cancer colère déversent des cendres sur le commissaire européen à la santé",
+      "titre_ar": "Les activistes de Cancer colère déversent des cendres sur le commissaire européen à la santé",
+      "titre_original": "Les activistes de Cancer colère déversent des cendres sur le commissaire européen à la santé",
+      "resume": "Quatre militants de l’association Cancer colère ont été placés en garde à vue après avoir déversé des cendres sur le commissaire européen à la santé, dénonçant les risques sanitaires liés à un texte européen controversé. Leur action radicale, qualifiée de « coup de poing », a suscité des réactions politiques et médiatiques immédiates. Les enjeux portent sur la santé publique et les dérives possibles des lobbies industriels dans l’Union européenne.",
+      "resume_en": "Four activists from Cancer colère were detained after dumping ashes on the EU health commissioner, criticizing health risks linked to a controversial EU text. Their bold action sparked immediate political and media reactions. The stakes involve public health and potential industrial lobbying influence within the EU.",
+      "resume_zh": "癌症愤怒协会四名激进分子因向欧盟卫生委员倾倒灰烬而被拘留，批评欧盟争议文件对公众健康的风险。这一激进行动立即引发政治和媒体反响。争议涉及公共卫生和欧盟内工业利益集团的可能影响。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les actions directes de Cancer colère s’inscrivent dans une tradition d’écologistes et de militants de santé publique utilisant la désobéissance civile pour alerter sur des dérives institutionnelles. Le texte européen en question, lié à des normes industrielles ou environnementales, révèle les tensions entre croissance économique et protection sanitaire. Les conséquences immédiates incluent une médiatisation accrue du dossier, mais aussi un risque de criminalisation des militants. À moyen terme, cela pourrait accélérer les débats parlementaires sur les lobbies. Long terme, une victoire des associations dépendra de leur capacité à mobiliser l’opinion publique et à faire pression sur les institutions. Les commissaires européens y voient une menace pour leur légitimité, tandis que les lobbies industriels dénoncent une ingérence dans leurs activités.",
+      "analyse_en": "Cancer colère’s direct actions follow a tradition of environmental and public health activists using civil disobedience to expose institutional failures. The contested EU text, tied to industrial or environmental standards, highlights tensions between economic growth and health protection. Immediate consequences include heightened media coverage but also a risk of criminalizing activists. Medium-term, this could accelerate parliamentary debates on lobbying. Long-term success for associations hinges on their ability to mobilize public opinion and pressure institutions. EU commissioners see this as a threat to their legitimacy, while industrial lobbies denounce interference in their operations.",
+      "analyse_zh": "癌症愤怒的直接行动延续了生态和公共卫生活动家使用民间不服从来揭露制度弊端的传统。争议欧盟文件与工业或环境标准相关，凸显了经济增长与健康保护之间的紧张关系。短期影响包括媒体对议题的关注度提升，但也可能将激进分子边缘化。中期内，这可能加速议会对利益集团的辩论。长期内，协会的胜利取决于其动员公众舆论和施压机构的能力。欧盟委员会视此为对其合法性的威胁，而工业利益集团则谴责干预其运营。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement",
+      "source": "Mediapart",
+      "url": "https://www.mediapart.fr/journal/ecologie/201126/les-activistes-de-cancer-colere-deversent-des-cendres-sur-le-commissaire-europeen-la-sante",
+      "image": "https://static.mediapart.fr/etmagine/og/journal/files/2026/11/20/261120-img-cancer-colere-bruxelles-1.jpg",
+      "date": "2026-11-20",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Assurances responsabilité civile des entreprises",
+          "hausse": true
+        },
+        {
+          "label": "▼ Marchés financiers des ESG",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Assurances responsabilité civile des entreprises",
+          "secteur_en": "Corporate civil liability insurance",
+          "secteur_zh": "企业责任保险",
+          "effet_fr": "Les actions radicales pourraient inciter les assureurs à renforcer les clauses de couverture pour les risques sanitaires liés aux activités industrielles, augmentant les coûts pour les entreprises.",
+          "effet_en": "Radical actions may prompt insurers to tighten coverage clauses for industrial health risks, raising costs for corporations.",
+          "effet_zh": "激进行动可能促使保险公司加强工业健康风险的理赔条款，增加企业成本。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Marchés financiers des ESG",
+          "secteur_en": "ESG financial markets",
+          "secteur_zh": "ESG金融市场",
+          "effet_fr": "Les controverses sur la santé publique pourraient affecter la valorisation des entreprises cotées en Bourse avec des engagements ESG, réduisant l’attractivité des fonds verts.",
+          "effet_en": "Public health controversies may impact the valuation of ESG-committed listed companies, reducing the appeal of green funds.",
+          "effet_zh": "公共卫生争议可能影响上市公司ESG承诺的市值，降低绿色基金的吸引力。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-23T00:01:47.336837",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_femmes_359250",
       "titre": "Charleroi commémore 220 féminicides depuis 2017",
       "titre_en": "Charleroi honors 220 femicides since 2017",
@@ -6192,66 +6312,6 @@
       ],
       "created_at": "2026-11-22T18:15:51.666253",
       "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_env_977527",
-      "titre": "Apple dépasse tous en gestion des PFAS toxiques",
-      "titre_en": "Apple leads in toxic PFAS plastic management",
-      "titre_zh": "苹果公司在处理有毒PFAS塑料上领先",
-      "titre_ru": "Apple превосходит всех в борьбе с токсичными ПФАС и пластиком",
-      "titre_fa": "آپل در کاهش مواد سمی PFAS و پلاستیک بهتر از همه است",
-      "titre_ar": "أبل تفوق الجميع في مكافحة المواد السامة PFAS والبلاستيك",
-      "titre_original": "PFAS, substances toxiques, plastiques : Apple fait mieux que tout le monde",
-      "resume": "Apple se distingue par ses efforts pour éliminer les substances PFAS, toxiques et persistantes, de ses produits et emballages. Cette initiative s’inscrit dans une stratégie globale de réduction des plastiques polluants, face à la pression croissante des régulateurs et des consommateurs. Le géant technologique mise sur l’innovation pour concilier performance et durabilité environnementale.",
-      "resume_en": "Apple stands out for its efforts to remove toxic, persistent PFAS substances from its products and packaging. This initiative is part of a broader strategy to reduce polluting plastics, amid growing pressure from regulators and consumers. The tech giant relies on innovation to balance performance and environmental sustainability.",
-      "resume_zh": "苹果公司在其产品和包装中去除有毒持久性PFAS物质方面表现突出，这是其应对监管和消费者压力的全面减塑策略的一部分。该科技巨头依靠创新平衡性能和环境可持续性。",
-      "resume_ru": "Новые данные подтверждают, что Apple продолжает лидировать в экологических инициативах, особенно в утилизации токсичных ПФАС и пластика. Компания активно внедряет инновационные технологии для снижения вредного воздействия на окружающую среду. Это подтверждает реальность её обещаний по устойчивому развитию.",
-      "resume_fa": "داده‌های جدید نشان می‌دهد که اپل همچنان در زمینه اقدامات زیست‌محیطی، به ویژه در کاهش مواد سمی PFAS و پلاستیک، پیشتاز است. این شرکت به‌طور فعال از فناوری‌های نوین برای کاهش تأثیرات زیانبار بر محیط زیست استفاده می‌کند. این موضوع واقعیت وعده‌های توسعه پایدار شرکت را تأیید می‌کند.",
-      "resume_ar": "بيانات جديدة تؤكد أن أبل لا تزال رائدة في المبادرات البيئية، خاصة في التخلص من المواد السامة PFAS والبلاستيك. الشركة تستخدم تقنيات مبتكرة لتقليل التأثيرات الضارة على البيئة. هذا يؤكد جدية وعداتها بالتنمية المستدامة.",
-      "analyse_detaillee": "Les PFAS, surnommées « substances éternelles » en raison de leur persistance dans l’environnement, posent un défi majeur pour l’industrie technologique et les consommateurs. Apple agit dans un contexte de réglementations européennes et américaines de plus en plus strictes, comme le REACH ou les lois californiennes. Ses progrès s’appuient sur des investissements R&D massifs et une pression des ONG, mais les coûts restent un frein pour les concurrents. À court terme, cette stratégie renforce son image RSE, mais à moyen terme, elle pourrait devenir un standard du secteur. À long terme, une généralisation des solutions alternatives dépendra de la coopération industrielle et des politiques publiques. Les acteurs comme Greenpeace saluent l’initiative, tandis que les lobbies plastiques critiquent son approche radicale.",
-      "analyse_en": "PFAS, nicknamed ‘forever chemicals’ due to their persistence in the environment, pose a major challenge for the tech industry and consumers. Apple acts in a context of increasingly strict European and American regulations, such as REACH or California laws. Its progress relies on massive R&D investments and pressure from NGOs, but costs remain a barrier for competitors. In the short term, this strategy strengthens its CSR image, but in the medium term, it could set a sector standard. Long-term, the widespread adoption of alternative solutions will depend on industrial cooperation and public policies. Actors like Greenpeace praise the initiative, while plastic lobbies criticize its radical approach.",
-      "analyse_zh": "PFAS被称作‘永久化学物质’，因其在环境中持久存在而成为科技行业和消费者的重大挑战。苹果公司在欧美日益严格的监管（如REACH法规或加州法律）下采取行动。其进展依赖于大规模研发投资和NGO压力，但成本仍是竞争对手的障碍。短期内，该策略增强其ESG形象，中期可能成为行业标准。长期内，替代解决方案的普及需依赖产业合作和公共政策。环保组织如绿色和平称赞其举措，而塑料行业利益集团批评其过于激进。",
-      "analyse_ru": "Apple демонстрирует, что может сочетать инновации с ответственным подходом к экологии, что является редкостью среди крупных технологических корпораций. Использование альтернативных материалов и переработка отходов показывают, что компания готова идти дальше декларативных заявлений. Однако критики отмечают, что даже такие лидеры, как Apple, не могут полностью решить проблему пластикового загрязнения без участия всей отрасли. Конкуренты, такие как Samsung или Google, всё ещё отстают в этих показателях, что подчеркивает необходимость более строгих экологических стандартов. Позиция Apple как «зелёного лидера» может повлиять на изменение политики других компаний, но пока это остаётся исключением, а не правилом.",
-      "analyse_fa": "اپل نشان می‌دهد که می‌تواند نوآوری را با رویکرد مسئولانه به زیست‌محیطی ترکیب کند، چیزی که در میان شرکت‌های بزرگ فناوری نادر است. استفاده از مواد جایگزین و بازیافت زباله نشان می‌دهد که این شرکت حاضر است فراتر از اظهارات تبلیغاتی پیش برود. اما منتقدان می‌گویند که حتی شرکت‌هایی مانند اپل نمی‌توانند به‌طور کامل مشکل آلودگی پلاستیکی را بدون مشارکت کل صنعت حل کنند. رقبا مانند سامسونگ یا گوگل هنوز در این شاخص‌ها عقب هستند، که این موضوع نیاز به استانداردهای زیست‌محیطی سخت‌گیرانه‌تر را برجسته می‌کند. موضع اپل به عنوان رهبر «سبز» می‌تواند بر سیاست شرکت‌های دیگر تأثیر بگذارد، اما تاکنون این یک استثنا و نه یک قانون است.",
-      "analyse_ar": "أبل تثبت أنها يمكن أن تجمع بين الابتكار والنهج المسؤول تجاه البيئة، وهو أمر نادر بين الشركات الكبرى في مجال التكنولوجيا. استخدام مواد بديلة وإعادة تدوير النفايات يظهر أن الشركة مستعدة للذهاب أبعد من مجرد التزامات إعلامية. ومع ذلك، يلاحظ النقاد أن حتى قادة مثل أبل لا يمكنهم حل مشكلة تلوث البلاستيك بالكامل دون مشاركة كل القطاع. المنافسون مثل سامسونج أو جوجل لا يزالون خلفون في هذه المؤشرات، مما يبرز الحاجة إلى معايير بيئية أكثر صرامة. موقف أبل كقائد «أخضر» قد يؤثر على سياسة الشركات الأخرى، لكن حتى الآن هذا استثناء وليس قاعدة.",
-      "categorie": "Environnement",
-      "source": "Iphon.fr",
-      "url": "https://www.iphon.fr/post/pfas-toxiques-platiques-apple-monde",
-      "image": "https://www.iphon.fr/app/uploads/2026/11/pollution-plastique-1600x900.jpg",
-      "date": "2026-11-21",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Marché des plastiques biosourcés (innovation verte)",
-          "hausse": true
-        },
-        {
-          "label": "▼ Assurances environnementales (responsabilité écologique)",
-          "hausse": false
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Marché des plastiques biosourcés (innovation verte)",
-          "secteur_en": "Bioplastic market (green innovation)",
-          "secteur_zh": "生物塑料市场（绿色创新）",
-          "effet_fr": "Les avancées d’Apple pourraient stimuler la demande en alternatives sans PFAS, dynamisant un marché encore émergent mais en croissance rapide.",
-          "effet_en": "Apple’s progress may boost demand for PFAS-free alternatives, driving growth in an emerging but rapidly expanding market.",
-          "effet_zh": "苹果的进展可能刺激无PFAS替代品的需求，推动一个尚处起步但快速增长的市场。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Assurances environnementales (responsabilité écologique)",
-          "secteur_en": "Environmental insurance (ecological liability)",
-          "secteur_zh": "环境责任保险",
-          "effet_fr": "La réduction des PFAS par Apple pourrait réduire les risques de litiges liés à la pollution, limitant les primes pour les assureurs spécialisés.",
-          "effet_en": "Apple’s reduction of PFAS may lower risks of pollution-related lawsuits, capping premiums for environmental insurers.",
-          "effet_zh": "苹果减少PFAS使用可能降低污染索赔风险，限制环境保险公司的保费。",
-          "hausse": false
-        }
-      ],
-      "created_at": "2026-11-22T18:15:51.666281",
-      "sous_categorie": "environnement"
     },
     {
       "id": "pol_femmes_587287",
@@ -6491,66 +6551,6 @@
         }
       ],
       "created_at": "2026-11-20T09:45:00.573033",
-      "sous_categorie": "femmes"
-    },
-    {
-      "id": "pol_femmes_918610",
-      "titre": "Féminicide en Seine-Saint-Denis : garagiste écroué",
-      "titre_en": "Garage owner jailed for femicide in Seine-Saint-Denis",
-      "titre_zh": "塞纳圣但尼女性遇害案：修理厂老板被拘留",
-      "titre_ru": "В Сене-Сен-Дени найден труп женщины в фургоне, механик обвиняется в убийстве по мотивам ненависти к женщинам",
-      "titre_fa": "در ساین سن دنیشه، جسد یک زن ۵۱ ساله در یک کامیون کوچک پیدا شد، مکانیک به دلیل قتل زنانه به زندان افتاد",
-      "titre_ar": "جسد امرأة تبلغ من العمر 51 عامًا اكتُشف ملفوفًا في شاحنة في سين سان دوني، ميكانيكي يُحاكم بتهمة قتل نسوي",
-      "titre_original": "Seine-Saint-Denis. Un corps retrouvé dans une camionnette, un garagiste mis en examen pour féminicide",
-      "resume": "Le corps d’une femme de 51 ans a été découvert enroulé dans des bâches près d’un garage automobile en Seine-Saint-Denis. Le garagiste, mis en examen pour féminicide, a été écroué, révélant une nouvelle tragédie dans une région déjà marquée par les violences conjugales. Ce cas souligne l’urgence d’une réponse judiciaire et sociale renforcée contre ces crimes.",
-      "resume_en": "The body of a 51-year-old woman was found wrapped in tarps near an auto garage in Seine-Saint-Denis. The garage owner was charged and jailed for femicide, highlighting another tragedy in a region already plagued by domestic violence. This case underscores the need for stronger judicial and social responses to such crimes.",
-      "resume_zh": "51岁女性尸体被发现卷在防水布中，位于塞纳圣但尼的一家汽车修理厂附近。该修理厂老板因女性遇害罪被起诉并拘留，暴露出该地区家庭暴力问题严重。此案再次凸显加强司法和社会应对女性暴力犯罪的紧迫性。",
-      "resume_ru": "В районе Сене-Сен-Дени был обнаружен труп женщины 51 года, завернутой в брезент возле автомастерской. Механик, владелец гаража, был задержан и обвинен в убийстве по мотивам ненависти к женщинам. Обстоятельства дела остаются под следствием, но версия о насильственной смерти подтверждается экспертизой.",
-      "resume_fa": "جسد یک زن ۵۱ ساله در نزدیکی یک کارگاه خودرو در ساین سن دنیشه پیدا شد که در زیر بامبوهای بزرگ پیچیده شده بود. مکانیک کارگاه به دلیل قتل زنانه به زندان افتاد و در حال بررسی است. دلیل دقیق و شرایط این حادثه هنوز مشخص نیست اما شواهد نشان می‌دهد که این قتل عمدی بوده است.",
-      "resume_ar": "اكتُشف جُثَّة امرأة تبلغ من العمر 51 عامًا ملفوفة في بطانيَّة بلاستيكية بالقرب من ورشة سيارات في سين سان دوني. ميكانيكي الورشة يُحاكم بتهمة قتلها بسبب كراهية النساء. التفاصيل الدقيقة للحادثة ما زالت تحت التحقيق، لكن الأدلة تشير إلى أن القتل كان عمديًا.",
-      "analyse_detaillee": "La Seine-Saint-Denis, département historiquement marqué par les inégalités sociales et économiques, concentre des taux élevés de violences faites aux femmes, souvent liées à des dynamiques de précarité et de marginalisation. Ce féminicide s’inscrit dans une série de cas récents où les mécanismes de protection des victimes restent insuffisants, malgré les alertes répétées des associations féministes. Les causes profondes incluent un manque de moyens pour les enquêtes judiciaires et une culture du silence autour des violences domestiques. À court terme, l’écrou du garagiste pourrait apaiser une partie de l’opinion publique, mais sans réforme structurelle, les risques de récidive ou d’impunité persistent. À moyen terme, les politiques publiques devront intégrer des dispositifs de prévention ciblés, comme des cellules d’écoute renforcées ou des formations obligatoires pour les professionnels. À long terme, une transformation sociale est nécessaire pour briser les stéréotypes genrés et promouvoir l’égalité réelle. Les acteurs comme le parquet ou les associations féministes (comme le Planning Familial) appellent à une mobilisation accrue, tandis que les élus locaux peinent à allouer des ressources adaptées.",
-      "analyse_en": "Seine-Saint-Denis, a department historically marked by social and economic inequalities, has high rates of violence against women, often linked to dynamics of precarity and marginalization. This femicide follows a series of recent cases where victim protection mechanisms remain inadequate, despite repeated warnings from feminist organizations. Root causes include insufficient judicial resources and a culture of silence around domestic violence. In the short term, the jail sentence for the garage owner may temporarily ease public opinion, but without structural reforms, risks of recidivism or impunity remain. In the medium term, public policies must include targeted prevention measures, such as strengthened listening cells or mandatory training for professionals. Long-term, a social transformation is needed to break gender stereotypes and promote real equality. Actors like the prosecutor’s office and feminist associations (such as Planning Familial) call for increased mobilization, while local officials struggle to allocate adequate resources.",
-      "analyse_zh": "塞纳圣但尼作为长期存在社会经济不平等的地区，女性暴力犯罪率居高不下，与贫困和边缘化问题密切相关。此案属于近期一系列女性遇害事件，暴露出司法保护机制严重不足，尽管女性主义组织多次发出警告。深层原因包括司法调查资源短缺和家庭暴力沉默文化。短期内，修理厂老板被拘留可能暂时缓解公众情绪，但缺乏结构性改革，再犯或逍遥法外的风险依然存在。中期内，公共政策需加强针对性预防措施，如增设咨询热线或强制专业培训。长期来看，社会变革是关键，以打破性别刻板印象并促进真正的平等。相关机构如检察院和女性主义组织（如计划生育协会）呼吁加强动员，而地方官员则难以分配足够资源。",
-      "analyse_ru": "Случай в Сене-Сен-Дени вновь поднимает вопрос о насилии над женщинами во Франции, где за последние годы зафиксировано множество подобных преступлений. Механик, обвиняемый в убийстве, ранее не привлекался к ответственности, что вызывает вопросы о профилактике насилия и контроле за потенциально опасными лицами. Такие дела часто становятся предметом общественного резонанса, особенно если жертва — женщина, что подчеркивает актуальность борьбы с гендерным насилием. Власти региона обещают ужесточить меры мониторинга за местами, где могут скрываться преступники. Однако эксперты отмечают, что без системных изменений в социальной политике ситуация не изменится.",
-      "analyse_fa": "این حادثه در ساین سن دنیشه بار دیگر به مسئله خشونت علیه زنان در فرانسه اشاره دارد که در سال‌های اخیر تعداد زیادی از این نوع جرایم ثبت شده است. مکانیک متهم به قتل زنانه، پیش از این به هیچ جرمی محکوم نشده بود که این سوال را ایجاد می‌کند که چرا چنین افراد بدون نظارت باقی می‌مانند. این موارد معمولاً باعث ایجاد واکنش‌های عمومی می‌شوند، به ویژه اگر قربانی زن باشد، که اهمیت مبارزه با خشونت جنسیتی را بیشتر نشان می‌دهد. مقامات منطقه وعده داده‌اند که اقدامات نظارتی را در مکان‌های احتمالی پنهان شدن مجرمان تشدید کنند. اما متخصصان معتقدند که بدون تغییرات سیستماتیک در سیاست اجتماعی، وضعیت تغییر نخواهد کرد.",
-      "analyse_ar": "هذا الحادث في سين سان دوني يثير مرة أخرى مسألة العنف ضد النساء في فرنسا، حيث سجلت العديد من الجرائم المماثلة في السنوات الأخيرة. الميكانيكي المتهم بقتلها لم يُحاكم من قبل، ما يثير تساؤلات حول عدم وجود نظام مراقبة للأفراد الخطرة. هذه الحالات عادة ما تسبب ردود أفعال عامة، خاصة إذا كانت الضحية امرأة، مما يبرز أهمية مكافحة العنف الجنسي. وعدت السلطات الإقليمية بتشديد المراقبة في أماكن قد يختبئ فيها المجرمون. ومع ذلك، يشير الخبراء إلى أن بدون تغييرات نظامية في السياسات الاجتماعية، لن تتغير الوضعية.",
-      "categorie": "Société",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/11/18/un-corps-retrouve-dans-une-camionnette-un-garagiste-mis-en-examen-pour-feminicide",
-      "image": "https://cdn-s-www.ledauphine.com/images/9F696B30-374D-4B99-A97B-9EE0E59C9C27/MF_contenu/un-corps-retrouve-dans-une-camionnette-un-garagiste-mis-en-examen-pour-feminicide-1795036987.jpg",
-      "date": "2026-11-18",
-      "pays": "pol_femmes",
-      "badges": [
-        {
-          "label": "▲ Assurance responsabilité civile professionnelle",
-          "hausse": true
-        },
-        {
-          "label": "▲ Fonds de prévention des violences conjugales",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurance responsabilité civile professionnelle",
-          "secteur_en": "Professional liability insurance",
-          "secteur_zh": "职业责任保险",
-          "effet_fr": "Les assureurs pourraient augmenter les primes pour les garagistes en raison des risques accrus liés aux violences domestiques et aux enquêtes judiciaires prolongées.",
-          "effet_en": "Insurers may raise premiums for garage owners due to increased risks of domestic violence and prolonged judicial investigations.",
-          "effet_zh": "保险公司可能因家庭暴力风险和司法调查延长而提高汽车修理厂的保费。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de prévention des violences conjugales",
-          "secteur_en": "Domestic violence prevention funds",
-          "secteur_zh": "家庭暴力预防基金",
-          "effet_fr": "Ce cas pourrait inciter les collectivités à reconsidérer leur budget alloué à ces fonds, en priorisant les zones à risque comme la Seine-Saint-Denis.",
-          "effet_en": "This case may prompt local authorities to re-evaluate budgets for these funds, prioritizing high-risk areas like Seine-Saint-Denis.",
-          "effet_zh": "此案可能促使地方政府重新审视对该基金的预算分配，优先资助如塞纳圣但尼等高风险地区。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-20T01:45:01.571779",
       "sous_categorie": "femmes"
     },
     {
@@ -6914,6 +6914,66 @@
       "sous_categorie": "enfants"
     },
     {
+      "id": "pol_env_977527",
+      "titre": "Apple dépasse tous en gestion des PFAS toxiques",
+      "titre_en": "Apple leads in toxic PFAS plastic management",
+      "titre_zh": "苹果公司在处理有毒PFAS塑料上领先",
+      "titre_ru": "Apple превосходит всех в борьбе с токсичными ПФАС и пластиком",
+      "titre_fa": "آپل در کاهش مواد سمی PFAS و پلاستیک بهتر از همه است",
+      "titre_ar": "أبل تفوق الجميع في مكافحة المواد السامة PFAS والبلاستيك",
+      "titre_original": "PFAS, substances toxiques, plastiques : Apple fait mieux que tout le monde",
+      "resume": "Apple se distingue par ses efforts pour éliminer les substances PFAS, toxiques et persistantes, de ses produits et emballages. Cette initiative s’inscrit dans une stratégie globale de réduction des plastiques polluants, face à la pression croissante des régulateurs et des consommateurs. Le géant technologique mise sur l’innovation pour concilier performance et durabilité environnementale.",
+      "resume_en": "Apple stands out for its efforts to remove toxic, persistent PFAS substances from its products and packaging. This initiative is part of a broader strategy to reduce polluting plastics, amid growing pressure from regulators and consumers. The tech giant relies on innovation to balance performance and environmental sustainability.",
+      "resume_zh": "苹果公司在其产品和包装中去除有毒持久性PFAS物质方面表现突出，这是其应对监管和消费者压力的全面减塑策略的一部分。该科技巨头依靠创新平衡性能和环境可持续性。",
+      "resume_ru": "Новые данные подтверждают, что Apple продолжает лидировать в экологических инициативах, особенно в утилизации токсичных ПФАС и пластика. Компания активно внедряет инновационные технологии для снижения вредного воздействия на окружающую среду. Это подтверждает реальность её обещаний по устойчивому развитию.",
+      "resume_fa": "داده‌های جدید نشان می‌دهد که اپل همچنان در زمینه اقدامات زیست‌محیطی، به ویژه در کاهش مواد سمی PFAS و پلاستیک، پیشتاز است. این شرکت به‌طور فعال از فناوری‌های نوین برای کاهش تأثیرات زیانبار بر محیط زیست استفاده می‌کند. این موضوع واقعیت وعده‌های توسعه پایدار شرکت را تأیید می‌کند.",
+      "resume_ar": "بيانات جديدة تؤكد أن أبل لا تزال رائدة في المبادرات البيئية، خاصة في التخلص من المواد السامة PFAS والبلاستيك. الشركة تستخدم تقنيات مبتكرة لتقليل التأثيرات الضارة على البيئة. هذا يؤكد جدية وعداتها بالتنمية المستدامة.",
+      "analyse_detaillee": "Les PFAS, surnommées « substances éternelles » en raison de leur persistance dans l’environnement, posent un défi majeur pour l’industrie technologique et les consommateurs. Apple agit dans un contexte de réglementations européennes et américaines de plus en plus strictes, comme le REACH ou les lois californiennes. Ses progrès s’appuient sur des investissements R&D massifs et une pression des ONG, mais les coûts restent un frein pour les concurrents. À court terme, cette stratégie renforce son image RSE, mais à moyen terme, elle pourrait devenir un standard du secteur. À long terme, une généralisation des solutions alternatives dépendra de la coopération industrielle et des politiques publiques. Les acteurs comme Greenpeace saluent l’initiative, tandis que les lobbies plastiques critiquent son approche radicale.",
+      "analyse_en": "PFAS, nicknamed ‘forever chemicals’ due to their persistence in the environment, pose a major challenge for the tech industry and consumers. Apple acts in a context of increasingly strict European and American regulations, such as REACH or California laws. Its progress relies on massive R&D investments and pressure from NGOs, but costs remain a barrier for competitors. In the short term, this strategy strengthens its CSR image, but in the medium term, it could set a sector standard. Long-term, the widespread adoption of alternative solutions will depend on industrial cooperation and public policies. Actors like Greenpeace praise the initiative, while plastic lobbies criticize its radical approach.",
+      "analyse_zh": "PFAS被称作‘永久化学物质’，因其在环境中持久存在而成为科技行业和消费者的重大挑战。苹果公司在欧美日益严格的监管（如REACH法规或加州法律）下采取行动。其进展依赖于大规模研发投资和NGO压力，但成本仍是竞争对手的障碍。短期内，该策略增强其ESG形象，中期可能成为行业标准。长期内，替代解决方案的普及需依赖产业合作和公共政策。环保组织如绿色和平称赞其举措，而塑料行业利益集团批评其过于激进。",
+      "analyse_ru": "Apple демонстрирует, что может сочетать инновации с ответственным подходом к экологии, что является редкостью среди крупных технологических корпораций. Использование альтернативных материалов и переработка отходов показывают, что компания готова идти дальше декларативных заявлений. Однако критики отмечают, что даже такие лидеры, как Apple, не могут полностью решить проблему пластикового загрязнения без участия всей отрасли. Конкуренты, такие как Samsung или Google, всё ещё отстают в этих показателях, что подчеркивает необходимость более строгих экологических стандартов. Позиция Apple как «зелёного лидера» может повлиять на изменение политики других компаний, но пока это остаётся исключением, а не правилом.",
+      "analyse_fa": "اپل نشان می‌دهد که می‌تواند نوآوری را با رویکرد مسئولانه به زیست‌محیطی ترکیب کند، چیزی که در میان شرکت‌های بزرگ فناوری نادر است. استفاده از مواد جایگزین و بازیافت زباله نشان می‌دهد که این شرکت حاضر است فراتر از اظهارات تبلیغاتی پیش برود. اما منتقدان می‌گویند که حتی شرکت‌هایی مانند اپل نمی‌توانند به‌طور کامل مشکل آلودگی پلاستیکی را بدون مشارکت کل صنعت حل کنند. رقبا مانند سامسونگ یا گوگل هنوز در این شاخص‌ها عقب هستند، که این موضوع نیاز به استانداردهای زیست‌محیطی سخت‌گیرانه‌تر را برجسته می‌کند. موضع اپل به عنوان رهبر «سبز» می‌تواند بر سیاست شرکت‌های دیگر تأثیر بگذارد، اما تاکنون این یک استثنا و نه یک قانون است.",
+      "analyse_ar": "أبل تثبت أنها يمكن أن تجمع بين الابتكار والنهج المسؤول تجاه البيئة، وهو أمر نادر بين الشركات الكبرى في مجال التكنولوجيا. استخدام مواد بديلة وإعادة تدوير النفايات يظهر أن الشركة مستعدة للذهاب أبعد من مجرد التزامات إعلامية. ومع ذلك، يلاحظ النقاد أن حتى قادة مثل أبل لا يمكنهم حل مشكلة تلوث البلاستيك بالكامل دون مشاركة كل القطاع. المنافسون مثل سامسونج أو جوجل لا يزالون خلفون في هذه المؤشرات، مما يبرز الحاجة إلى معايير بيئية أكثر صرامة. موقف أبل كقائد «أخضر» قد يؤثر على سياسة الشركات الأخرى، لكن حتى الآن هذا استثناء وليس قاعدة.",
+      "categorie": "Environnement",
+      "source": "Iphon.fr",
+      "url": "https://www.iphon.fr/post/pfas-toxiques-platiques-apple-monde",
+      "image": "https://www.iphon.fr/app/uploads/2026/11/pollution-plastique-1600x900.jpg",
+      "date": "2026-11-21",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Marché des plastiques biosourcés (innovation verte)",
+          "hausse": true
+        },
+        {
+          "label": "▼ Assurances environnementales (responsabilité écologique)",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des plastiques biosourcés (innovation verte)",
+          "secteur_en": "Bioplastic market (green innovation)",
+          "secteur_zh": "生物塑料市场（绿色创新）",
+          "effet_fr": "Les avancées d’Apple pourraient stimuler la demande en alternatives sans PFAS, dynamisant un marché encore émergent mais en croissance rapide.",
+          "effet_en": "Apple’s progress may boost demand for PFAS-free alternatives, driving growth in an emerging but rapidly expanding market.",
+          "effet_zh": "苹果的进展可能刺激无PFAS替代品的需求，推动一个尚处起步但快速增长的市场。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances environnementales (responsabilité écologique)",
+          "secteur_en": "Environmental insurance (ecological liability)",
+          "secteur_zh": "环境责任保险",
+          "effet_fr": "La réduction des PFAS par Apple pourrait réduire les risques de litiges liés à la pollution, limitant les primes pour les assureurs spécialisés.",
+          "effet_en": "Apple’s reduction of PFAS may lower risks of pollution-related lawsuits, capping premiums for environmental insurers.",
+          "effet_zh": "苹果减少PFAS使用可能降低污染索赔风险，限制环境保险公司的保费。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-22T18:15:51.666281",
+      "sous_categorie": "environnement"
+    },
+    {
       "id": "pol_env_643291",
       "titre": "Dérèglement agricole : l’illusion des dérogations",
       "titre_en": "Agricultural backtracking: the illusion of exemptions",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-20T09:45:00.573113",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_616205",
-      "titre": "PFAS en UE : rapport dénonce failles réglementaires",
-      "titre_en": "EU PFAS regulations face major flaws",
-      "titre_zh": "欧盟PFAS法规遭质疑存在漏洞",
-      "titre_ru": "Европейский суд признал слабыми меры ЕС против «вечных загрязнителей» PFAS",
-      "titre_fa": "دادگاه اروپا ضعف قوانین اتحادیه اروپا در برابر «ملوثات ابدی» PFAS را تأیید کرد",
-      "titre_ar": "حُكمت المحكمة الأوروبية بأن «الدروع التنظيمية» للاتحاد الأوروبي ضد «الملوثات الأبدية» PFAS «تفتقر إلى العديد من الثغرات»",
-      "titre_original": "\"Désamorcer cette bombe à retardement\" : le bouclier réglementaire de l'UE contre les PFAS présente \"de nombreuses failles\", alerte un rapport",
-      "resume": "La Cour des comptes européenne pointe les lacunes du 'bouclier réglementaire' de l’UE contre les PFAS, surnommés 'polluants éternels'. Les procédures actuelles ne seraient pas adaptées pour encadrer ces substances persistantes et toxiques. Ce rapport met en lumière un retard critique dans la protection de l’environnement et de la santé publique.",
-      "resume_en": "The European Court of Auditors highlights flaws in the EU’s 'regulatory shield' against PFAS, dubbed 'eternal pollutants'. Current procedures are deemed inadequate to control these persistent and toxic substances. The report exposes a critical delay in environmental and public health protection.",
-      "resume_zh": "欧洲审计院指出欧盟对PFAS（永久性污染物）的‘法规防护屏障’存在严重漏洞。现行程序无法有效管控这些持久性和有毒化学物质。报告揭示了环境和公共卫生保护领域的严重滞后问题。",
-      "resume_ru": "Европейский суд финансов выявил серьезные пробелы в регулировании химических веществ в ЕС, особенно в отношении «вечных загрязнителей» PFAS. Эти соединения накапливаются в окружающей среде и организмах, представляя угрозу для здоровья. Отчет подчеркивает неэффективность текущих процедур и необходимость их срочного пересмотра.",
-      "resume_fa": "دادگاه حساب‌های اروپا ضعف روش‌های تنظیم مواد شیمیایی در اتحادیه اروپا را در برابر «مواد آلاینده ابدی» PFAS تأیید کرد. این ترکیبات در محیط زیست و بدن‌ها تجمع می‌یابند و خطرات جدی برای سلامتی ایجاد می‌کنند. گزارش نشان می‌دهد که روش‌های فعلی ناکارآمد هستند و نیاز به بازبینی فوری دارند.",
-      "resume_ar": "أكدت محكمة الحسابات الأوروبية على وجود «ثغرات عديدة» في إجراءات تنظيم المواد الكيميائية في الاتحاد الأوروبي، خاصة فيما يتعلق بـ«الملوثات الأبدية» PFAS. هذه المركبات تتراكم في البيئة والجسم البشري، وتشكل تهديدًا للصحة العامة. تقرير المحكمة يشير إلى عدم كفاءة الإجراءات الحالية وضرورة مراجعتها على وجه السرعة.",
-      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950 dans des produits industriels et grand public, sont aujourd’hui reconnus comme une menace majeure pour les écosystèmes et la santé humaine en raison de leur persistance et bioaccumulation. L’UE a tenté de répondre à ce défi avec des directives comme REACH, mais leur application reste fragmentaire, notamment face à la complexité des chaînes d’approvisionnement et à l’inertie des lobbies chimiques. Les failles réglementaires soulignées par la Cour des comptes incluent des délais d’évaluation trop longs et un manque de coordination entre États membres. À court terme, cette critique pourrait accélérer des propositions législatives en cours, comme le projet de restriction des PFAS. À moyen terme, les acteurs industriels devront investir dans des alternatives moins toxiques, sous peine de sanctions accrues. À long terme, une refonte globale des politiques environnementales sera nécessaire pour aligner l’UE sur des standards internationaux stricts. Les ONG environnementales (Greenpeace, ClientEarth) appellent à une interdiction totale, tandis que l’industrie chimique résiste, invoquant des coûts économiques et des transitions technologiques coûteuses.",
-      "analyse_en": "PFAS, used since the 1950s in industrial and consumer products, are now recognized as a major threat to ecosystems and human health due to their persistence and bioaccumulation. The EU has attempted to address this challenge with directives like REACH, but their implementation remains fragmented, particularly due to supply chain complexities and chemical lobby inertia. The regulatory gaps highlighted by the Court of Auditors include overly long assessment delays and a lack of coordination among member states. In the short term, this criticism may speed up pending legislative proposals, such as the PFAS restriction project. In the medium term, industrial actors will need to invest in less toxic alternatives or face increased sanctions. Long-term, a comprehensive overhaul of environmental policies will be necessary to align the EU with strict international standards. Environmental NGOs (Greenpeace, ClientEarth) call for a total ban, while the chemical industry resists, citing economic costs and expensive technological transitions.",
-      "analyse_zh": "PFAS自上世纪50年代以来广泛应用于工业和消费品中，现已被认定为对生态系统和人类健康构成严重威胁，因其持久性和生物富集特性。欧盟通过REACH指令等尝试应对，但执行存在碎片化问题，特别是面对复杂的供应链和化学行业利益集团的阻力。审计院指出的法规漏洞包括评估周期过长和成员国间缺乏协调。短期内，此批评可能加速现有立法提案（如PFAS限制项目）的进程。中期内，工业界将不得不投资于低毒替代品，否则面临更严厉的惩罚。长期来看，欧盟需要全面改革环境政策，以符合国际严格标准。环保组织（绿色和平、客观地球）呼吁全面禁用PFAS，而化学行业则以经济成本和技术转型高昂为由抵制。",
-      "analyse_ru": "Проблема PFAS — это глобальная экологическая угроза, которая требует скоординированных действий на уровне ЕС и национальных правительств. Отсутствие строгих стандартов и медленное принятие решений позволяют химическим компаниям продолжать выпуск опасных веществ, несмотря на известные риски. Европейский суд подчеркивает, что текущая система регулирования не соответствует масштабу проблемы и нуждается в кардинальных изменениях. Экологи и общественные организации призывают к ужесточению контроля и введению полного запрета на PFAS. Однако бизнес-интересы могут замедлить процесс, что требует политической воли для защиты здоровья граждан.",
-      "analyse_fa": "مسئله PFAS یک تهدید زیست‌محیطی جهانی است که نیاز به اقدامات هماهنگ در سطح اتحادیه اروپا و دولت‌های ملی دارد. عدم وجود استانداردهای سختگیرانه و کندی در تصمیم‌گیری باعث می‌شود که شرکت‌های شیمیایی همچنان مواد خطرناک را تولید کنند، در حالی که خطرات آن شناخته شده است. دادگاه اروپا نشان می‌دهد که سیستم فعلی تنظیم نتوانسته است به اندازه کافی به این مشکل پاسخ دهد و نیاز به تغییرات اساسی دارد. فعالان زیست‌محیطی و سازمان‌های اجتماعی به تشدید نظارت و ممنوعیت کامل PFAS می‌خوانند. اما منافع تجاری ممکن است این فرآیند را کند کند، که نیاز به اراده سیاسی برای حفاظت از سلامت شهروندان دارد.",
-      "analyse_ar": "تعدي PFAS تهديدًا بيئيًا عالميًا يتطلب إجراءات متزامنة على مستوى الاتحاد الأوروبي والحكومات الوطنية. غياب معايير صارمة وتأخير في اتخاذ القرارات يسمح للشركات الكيميائية بإنتاج هذه المواد الخطرة رغم المخاطر المعروفة. أكدت المحكمة الأوروبية على أن النظام التنظيمي الحالي غير قادر على مواجهة حجم المشكلة، ويحتاج إلى تغييرات جذرية. يدعو البيئيةون والمنظمات الاجتماعية إلى تشديد الرقابة وإصدار حظر شامل على PFAS. ومع ذلك، قد يبطئ المصالح التجارية هذا العملية، مما يتطلب إرادة سياسية لحماية صحة المواطنين.",
-      "categorie": "Environnement",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/environnement/pollution/pfas/desamorcer-la-bombe-a-retardement-des-pfas-le-bouclier-reglementaire-de-l-ue-contre-les-polluants-eternels-presente-de-nombreuses-failles-alerte-un-rapport_8288825.html",
-      "image": "https://www.franceinfo.fr/pictures/ehqDteZLQgQ0DJUUIvboOgs_8hA/1200x675/2026/11/18/6afdf9dfa86dc139842086.jpg",
-      "date": "2026-11-18",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Marché des assurances environnementales",
-          "hausse": true
-        },
-        {
-          "label": "▲ Fonds de recherche en chimie verte",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Marché des assurances environnementales",
-          "secteur_en": "Environmental insurance market",
-          "secteur_zh": "环境保险市场",
-          "effet_fr": "Les assureurs pourraient revoir leurs tarifs à la hausse pour couvrir les risques liés aux PFAS, en raison de l’augmentation des litiges et des coûts de dépollution.",
-          "effet_en": "Insurers may increase premiums to cover PFAS-related risks, given rising litigation and cleanup costs.",
-          "effet_zh": "保险公司可能因PFAS相关风险增加而提高保费，包括诉讼和污染清理成本。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Fonds de recherche en chimie verte",
-          "secteur_en": "Green chemistry research funds",
-          "secteur_zh": "绿色化学研究基金",
-          "effet_fr": "Ce rapport pourrait inciter les États membres à renforcer leurs investissements dans la R&D pour développer des alternatives non toxiques aux PFAS, dynamisant ce secteur émergent.",
-          "effet_en": "This report may prompt member states to increase investments in R&D for non-toxic PFAS alternatives, boosting this emerging sector.",
-          "effet_zh": "此报告可能促使成员国加大对非毒性PFAS替代品的研发投资，推动这一新兴领域发展。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-20T01:45:01.571803",
       "sous_categorie": "environnement"
     }
   ]
