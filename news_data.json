@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/11/2026 à 07h20",
+  "last_updated": "23/11/2026 à 19h53",
   "articles": {
     "monde": [
       {
@@ -6134,63 +6134,123 @@
   },
   "politique": [
     {
-      "id": "pol_env_467474",
-      "titre": "PFAS dans vêtements enfants : alerte européenne",
-      "titre_en": "PFAS in kids' clothing: EU alert",
-      "titre_zh": "儿童服装PFAS超标：欧盟警示",
-      "titre_ru": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
-      "titre_fa": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
-      "titre_ar": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
-      "titre_original": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
-      "resume": "Des contrôles en Belgique révèlent que 32 % des vêtements pour enfants contiennent des niveaux excessifs de PFAS, des substances toxiques surnommées ‘polluants éternels’. Ces résultats s’alignent sur les données européennes, soulignant un problème systémique dans l’industrie textile. Les autorités appellent à une régulation renforcée face aux risques sanitaires et environnementaux.",
-      "resume_en": "Belgian checks reveal 32% of children’s clothing contains excessive PFAS levels, dubbed ‘forever chemicals’. These findings mirror EU-wide data, exposing a systemic issue in the textile industry. Authorities urge stricter regulations to address health and environmental risks.",
-      "resume_zh": "比利时检测显示32%的儿童服装含有过量PFAS，被称作‘永久性污染物’。数据与欧盟一致，揭示纺织业系统性问题。当局呼吁加强监管以应对健康和环境风险。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950 pour leurs propriétés antiadhésives et imperméabilisantes, sont aujourd’hui pointés comme une menace majeure pour la santé humaine et les écosystèmes. Leur persistance dans l’environnement et leur accumulation dans les organismes vivants en font un enjeu sanitaire critique, notamment pour les enfants, plus vulnérables aux toxines. Les causes profondes incluent un manque de transparence des fabricants et une régulation insuffisante au niveau européen, malgré des alertes répétées depuis 2010. À court terme, ces révélations pourraient déclencher des rappels de produits et des amendes pour les marques non conformes, comme déjà observé en Norvège. À moyen terme, l’industrie textile devra repenser ses matériaux, avec un coût potentiellement élevé pour les PME. À long terme, une interdiction totale des PFAS semble inévitable, poussant vers des alternatives durables, mais leur adoption reste lente en raison des coûts. Les acteurs comme l’UE et les ONG environnementales (Greenpeace, Zero Waste Europe) poussent pour une harmonisation des normes, tandis que les lobbies industriels résistent, invoquant la compétitivité économique.",
-      "analyse_en": "PFAS, used since the 1950s for their anti-stick and waterproof properties, are now a major health and environmental threat. Their persistence in the environment and bioaccumulation in living organisms make them a critical public health issue, especially for children. Root causes include manufacturers’ lack of transparency and insufficient EU regulation, despite repeated warnings since 2010. Short-term, these findings may trigger product recalls and fines for non-compliant brands, as seen in Norway. Mid-term, the textile industry will need to redesign materials, with potentially high costs for SMEs. Long-term, a total ban on PFAS seems inevitable, driving toward sustainable alternatives—though adoption remains slow due to economic concerns. Actors like the EU and environmental NGOs (Greenpeace, Zero Waste Europe) advocate for unified standards, while industry lobbies resist, citing economic competitiveness.",
-      "analyse_zh": "PFAS自上世纪50年代以来因其防粘防水性能被广泛使用，现已成为严重的健康和环境威胁。其在环境中的持久性和在生物体内的累积使其成为儿童等易感群体的重大公共卫生问题。深层原因包括制造商缺乏透明度和欧盟监管不足，尽管自2010年以来多次警告。短期内，这些发现可能导致产品召回和对不合规品牌的罚款，如挪威已观察到的情况。中期内，纺织业将不得不重新设计材料，小型企业可能面临高昂成本。长期来看，PFAS全面禁令似乎不可避免，推动向可持续替代品转型，但由于经济因素，转型进程缓慢。欧盟和环保组织（绿色和平、零废弃欧洲）推动统一标准，而行业利益集团则以经济竞争力为由抵制改革。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement/Santé publique",
-      "source": "Lalibre.be",
-      "url": "https://www.lalibre.be/planete/sante/2026/11/20/des-vetements-pour-enfants-contiennent-trop-de-pfas-ce-que-revelent-les-controles-menes-en-belgique-QVOXXR7ZG5AX7O2K3VCF3XEKMM/",
-      "image": "https://www.lalibre.be/resizer/v2/FY3J6CH4BNDBZA533MJ7DTHUOM.jpg?auth=5438223f6cb8b7bd7ed6cb9dbc4c23318b7b2bb03a3c3c93e927c9267cfda042&width=1620&height=1620&quality=85&focal=2944%2C1963",
-      "date": "2026-11-20",
-      "pays": "pol_env",
+      "id": "pol_enfants_632804",
+      "titre": "Acquittement d’un jeune pour abus sur mineure",
+      "titre_en": "Teen acquitted for sexual abuse of minor",
+      "titre_zh": "青少年性侵未成年人案获无罪判决",
+      "titre_ru": "Подозреваемый в изнасиловании 11-летней девочки оправдан",
+      "titre_fa": "مرد ۱۹ ساله متهم به تجاوز به دختر ۱۱ ساله تبرئه شد",
+      "titre_ar": "المرء البالغ من العمر 19 عامًا المتهم بالاغتصاب لفتاة بعمر 11 عامًا تبرئته",
+      "titre_original": "La Lincentoise assurait avoir 16 ans, mais n’en avait que 11 : son petit ami nivellois de 19 ans est acquitté",
+      "resume": "Un Nivellois de 19 ans, accusé d’atteinte à l’intégrité sexuelle sur une Lincentoise mineure, a été acquitté après qu’il fut révélé que la victime n’avait que 11 ans. Le procès a soulevé des questions sur les procédures judiciaires et la protection des mineurs. Ce cas illustre les défis liés à la vérification de l’âge dans les affaires criminelles impliquant des jeunes.",
+      "resume_en": "A 19-year-old from Nivelles was acquitted of sexual assault charges against a minor from Lincent, after it was revealed the victim was only 11. The trial raised concerns about judicial procedures and child protection. This case highlights challenges in age verification in youth-related criminal cases.",
+      "resume_zh": "比利时尼韦勒的一名19岁男子因性侵未成年人被控告，但法庭发现受害者仅11岁，最终获无罪判决。此案曝光了司法程序和儿童保护中的漏洞。案件凸显了涉及青少年犯罪案件中年龄验证的难题。",
+      "resume_ru": "Подозреваемый из Нивело, обвиняемый в сексуальном насилии и вовлечении несовершеннолетней в распутство, был оправдан после того, как выяснилось, что жертва на самом деле была 11-летней девочкой, а не 16-летней, как утверждала. Суд признал отсутствие состава преступления из-за ошибки в возрасте потерпевшей. Это вызвало споры о надежности систем проверки возраста несовершеннолетних в подобных делах.",
+      "resume_fa": "یک جوان ۱۹ ساله از شهر نیولو که متهم به تجاوز جنسی و تشویق دختر زیر ۱۶ سال به فاحشه‌گری بود، تبرئه شد. پس از بررسی، مشخص شد که دختر ۱۱ ساله بوده و نه ۱۶ ساله که ادعا می‌کرد. دادگاه عدم وجود جرم را به دلیل اشتباه در سن قربانی تأیید کرد. این تصمیم بحث‌هایی در مورد دقت سیستم‌های بررسی سن نوجوانان در این نوع موارد ایجاد کرد.",
+      "resume_ar": "تم تبرئة رجل يبلغ من العمر 19 عامًا من مدينة نيفلو، الذي اتهم بتهمتي الاغتصاب الجنسي وإغراء فتاة تحت سن 16 عامًا للزنا. بعد من التحقيقات، تبين أن الفتى كانت بعمر 11 عامًا فقط، وليس 16 عامًا كما ادعت. قضاة قضوا بعدم وجود جريمة بسبب خطأ في عمر الضحية. هذا القرار أثار نقاشًا حول دقة أنظمة التحقق من عمر المراهقين في مثل هذه الحالات.",
+      "analyse_detaillee": "Ce cas reflète une faille dans la vérification systématique de l’âge des victimes dans les affaires judiciaires belges, souvent sous-estimée malgré les risques. Les enjeux portent sur la crédibilité des témoignages et la vulnérabilité des mineurs face à des prédateurs exploitant leur immaturité. Les conséquences immédiates incluent une remise en question de la confiance dans la justice, tandis que les associations de protection de l’enfance appellent à des réformes strictes. À moyen terme, une augmentation des contrôles d’identité pourrait surcharger les tribunaux, retardant les procédures. Long terme, une culture de prévention et d’éducation sexuelle est nécessaire pour réduire les risques. Les acteurs comme le SPJ (Syndicat des magistrats) et les ONG plaident pour des lois plus protectrices, mais les partis politiques restent divisés sur les mesures concrètes.",
+      "analyse_en": "This case highlights systemic flaws in age verification for victims in Belgian judicial proceedings, often overlooked despite the risks involved. Key issues revolve around the credibility of testimonies and the vulnerability of minors exploited by predators. Immediate consequences include a loss of trust in the justice system, while child protection organizations demand stricter reforms. In the medium term, increased identity checks could overwhelm courts, delaying trials. Long-term, a culture of prevention and sex education is essential to reduce risks. Actors like the SPJ (Syndicate of Magistrates) and NGOs advocate for stronger laws, but political parties remain divided on concrete measures.",
+      "analyse_zh": "此案暴露了比利时司法程序中对未成年受害者年龄验证的系统性漏洞，尽管风险显著但常被忽视。核心问题在于证词的可信度以及未成年人面对利用其幼稚性的预谋者的脆弱性。短期内，公众对司法机构的信任受到质疑，而儿童保护组织呼吁加强法律改革。中期内，更严格的身份验证可能导致法庭负担加重，延误审理进程。长期来看，需要建立预防和性教育文化以减少风险。司法工作者协会（SPJ）和非政府组织呼吁更严格的法律，但政党在具体措施上意见分歧。",
+      "analyse_ru": "Инцидент поднимает вопрос о слабостях правовой системы в определении возраста несовершеннолетних, особенно в случаях, когда жертвы скрывают реальные данные. Такие ошибки могут привести к оправданию преступников, что подрывает доверие к правосудию. В будущем необходимо внедрить более строгие проверки документов и медицинские экспертизы для уточнения возраста. Позиция обвинения была обоснована, но суд учел технические нюансы. Общество должно обсудить, как защитить детей от подобных ситуаций без ущемления прав подозреваемых.",
+      "analyse_fa": "این حادثه به ضعف‌های سیستم حقوقی در تعیین سن نوجوانان، به ویژه در مواردی که قربانیان اطلاعات واقعی خود را پنهان می‌کنند، اشاره دارد. چنین اشتباهاتی می‌تواند منجر به تبرئه مجرمان شود که اعتماد عمومی به عدالت را زیر سؤال می‌برد. در آینده، باید سیستم‌های دقیق‌تری برای بررسی اسناد و آزمایش‌های پزشکی برای تعیین سن دقیق نوجوانان پیاده‌سازی شود. موضع دادستان منطقی بود، اما دادگاه به جزئیات فنی توجه کرد. جامعه باید بحث کند که چگونه کودکان را از چنین موقعیت‌هایی محافظت کند بدون اینکه حقوق متهمان زیر پا گذاشته شود.",
+      "analyse_ar": "هذا الحادث يسلط الضوء على ضعفات النظام القانوني في تحديد عمر المراهقين، خاصة عندما تخفي الضحايا بياناتهم الحقيقية. مثل هذه الأخطاء قد تؤدي إلى تبرئة المجرمين، مما يهدد الثقة بالعدالة. في المستقبل، يجب أن يتم تنفيذ أنظمة أكثر دقة للتحقق من الوثائق والاختبارات الطبية لتحديد عمر المراهقين بدقة. كانت موقف النيابة مبررة، لكن المحكمة اعتمدت على التفاصيل التقنية. يجب على المجتمع أن يناقش كيفية حماية الأطفال من مثل هذه المواقف دون المساس بحقوق المتهمين.",
+      "categorie": "Justice et protection sociale",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/regions/huy-waremme/lincent/2026/11/22/la-lincentoise-assurait-avoir-16-ans-mais-nen-avait-que-11-son-petit-ami-nivellois-de-19-ans-est-acquitte-RBVXRCLQ45FPXCQJX2LUS7YFEU/",
+      "image": "https://www.lavenir.net/resizer/v2/ICR6OPU3IVDGVKGPO5W7BSDNRE.jpg?auth=095b9b2a9c96b0db64915b563352be2dc0254a103e8b7c00ef0098a3c9e669bb&width=1620&height=1620&quality=85&focal=2500%2C1666",
+      "date": "2026-11-22",
+      "pays": "pol_enfants",
       "badges": [
         {
-          "label": "▲ Assurance responsabilité civile (secteur textile)",
+          "label": "▲ Assurances et mutuelles pédiatriques",
           "hausse": true
         },
         {
-          "label": "▼ Fonds d’investissement verts (ESG)",
+          "label": "▼ Fonds européens pour la protection de l’enfance",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Assurance responsabilité civile (secteur textile)",
-          "secteur_en": "Product liability insurance (textile sector)",
-          "secteur_zh": "纺织业产品责任保险",
-          "effet_fr": "Les marques exposées à des poursuites pour PFAS verront leurs primes d’assurance exploser, avec des exclusions de couverture pour les risques liés aux substances chimiques.",
-          "effet_en": "Brands facing PFAS lawsuits will see insurance premiums skyrocket, with coverage exclusions for chemical-related risks becoming commonplace.",
-          "effet_zh": "面临PFAS诉讼的品牌将面临保费暴涨，化学相关风险的保险覆盖可能被排除。",
+          "secteur_fr": "Assurances et mutuelles pédiatriques",
+          "secteur_en": "Pediatric insurance and health mutuals",
+          "secteur_zh": "儿童保险和互助医疗机构",
+          "effet_fr": "Les acquittements pour abus sur mineurs pourraient inciter les assureurs à renforcer les vérifications préventives, augmentant les coûts administratifs pour ces acteurs.",
+          "effet_en": "Acquittals in child abuse cases may push insurers to tighten preventive checks, raising administrative costs for these entities.",
+          "effet_zh": "未成年人性侵案件无罪判决可能促使保险公司加强预防性检查，增加这些机构的行政成本。",
           "hausse": true
         },
         {
-          "secteur_fr": "Fonds d’investissement verts (ESG)",
-          "secteur_en": "Green investment funds (ESG)",
-          "secteur_zh": "绿色投资基金（ESG）",
-          "effet_fr": "Les fonds ESG pourraient réduire leurs allocations vers les entreprises textiles non conformes, accélérant leur transition vers des matériaux sans PFAS sous peine de désinvestissement.",
-          "effet_en": "ESG funds may cut allocations to non-compliant textile firms, pushing them toward PFAS-free materials or risk divestment.",
-          "effet_zh": "ESG基金可能减少对不合规纺织企业的投资，推动其转向无PFAS材料，否则面临退出投资。",
+          "secteur_fr": "Fonds européens pour la protection de l’enfance",
+          "secteur_en": "European funds for child protection",
+          "secteur_zh": "欧洲儿童保护基金",
+          "effet_fr": "Les cas médiatisés pourraient accélérer les demandes de financements supplémentaires pour les programmes de prévention, mais la bureaucratie européenne ralentit souvent ces processus.",
+          "effet_en": "High-profile cases may speed up requests for additional funding for prevention programs, though EU bureaucracy often slows these processes down.",
+          "effet_zh": "媒体曝光的案件可能加速申请额外资金用于预防项目，但欧洲联盟的官僚程序通常会延缓这些进程。",
           "hausse": false
         }
       ],
-      "created_at": "2026-11-23T07:20:54.248532",
+      "created_at": "2026-11-23T19:53:35.678249",
+      "sous_categorie": "enfants"
+    },
+    {
+      "id": "pol_env_439160",
+      "titre": "PFAS dans vêtements enfants : alerte sanitaire",
+      "titre_en": "PFAS in children’s clothing: health alert",
+      "titre_zh": "儿童服饰PFAS污染引警示",
+      "titre_ru": "В Бельгии обнаружены опасные вещества в детской одежде и обуви",
+      "titre_fa": "پوشاک و کفش کودکان در بلژیک آلوده به مواد PFAS: کنترل‌های نگران‌کننده",
+      "titre_ar": "الملابس والأحذية للأطفال ملوثة بمواد PFAS في بلجيكا: نتائج التحقق المخيفة",
+      "titre_original": "Des vêtements et chaussures pour enfants contaminés aux PFAS vendus en Belgique : un contrôle révèle des résultats inquiétants",
+      "resume": "Un tiers des vêtements et chaussures pour enfants testés en Belgique contiennent des niveaux excessifs de PFAS, des substances toxiques surnommées « polluants éternels ». L’Inspection fédérale de l’environnement a révélé ces résultats inquiétants, soulignant un risque sanitaire pour les plus jeunes. Les autorités appellent à un retrait immédiat des produits concernés et à des contrôles renforcés.",
+      "resume_en": "One-third of tested children’s clothing and shoes in Belgium contain excessive levels of PFAS, toxic substances nicknamed ‘forever chemicals’. The Federal Environment Inspection revealed alarming results, highlighting health risks for young children. Authorities urge immediate withdrawal of affected products and stricter controls.",
+      "resume_zh": "比利时检测发现三分之一儿童服饰和鞋类含有过量的PFAS「永久性污染物」，这些有毒物质对儿童健康构成风险。联邦环境检查机构公布的结果引发警觉，当局要求立即召回污染产品并加强监管。",
+      "resume_ru": "Контрольные проверки в Бельгии выявили высокий уровень опасных веществ PFAS в 30% детских товаров — одежде и обуви. Эти химические соединения, известные как «вечные загрязнители», накапливаются в организме и могут вызывать серьезные заболевания. Власти призывают производителей усилить контроль за качеством продукции и избегать использования токсичных материалов.",
+      "resume_fa": "کنترل‌های انجام شده در بلژیک نشان داد که ۳۰ درصد از محصولات کودکان شامل پوشاک و کفش، دارای میزان بالای مواد شیمیایی خطرناک PFAS هستند. این مواد شیمیایی که به عنوان «ملوثات دائمی» شناخته می‌شوند، در بدن تجمع می‌یابند و می‌توانند بیماری‌های جدی ایجاد کنند. مقامات از تولیدکنندگان می‌خواهند کنترل کیفیت محصولات را تقویت کنند و از استفاده از مواد سمی خودداری نمایند.",
+      "resume_ar": "أظهر التحقق في بلجيكا أن 30% من المنتجات الأطفالية، بما في ذلك الملابس والأحذية، تحتوي على مستويات عالية من المواد الكيميائية الخطيرة PFAS. هذه المركبات الكيميائية، المعروفة باسم «الملوثات الدائمة»، تتراكم في الجسم وتسبب أمراضًا خطيرة. يدعو المسؤولون المنتجين إلى تعزيز مراقبة جودة المنتجات وتجنب استخدام مواد سامة.",
+      "analyse_detaillee": "Les PFAS, utilisés dans les textiles pour leurs propriétés imperméables, posent un problème environnemental et sanitaire depuis les années 2000, avec des retards dans leur réglementation européenne. Les enjeux actuels concernent la protection des enfants, particulièrement vulnérables aux toxines, et la responsabilité des fabricants. Les conséquences immédiates incluent des rappels coûteux et une perte de confiance des consommateurs envers les marques. À moyen terme, les normes européennes pourraient se durcir, poussant les entreprises à innover dans des alternatives moins toxiques. Long terme, une transition vers des matériaux durables est nécessaire pour éviter des crises similaires. Les associations écologistes (Greenpeace, Zero Waste) exigent des sanctions contre les industriels, tandis que les lobbies textiles résistent aux restrictions jugées trop strictes.",
+      "analyse_en": "PFAS, used in textiles for their waterproof properties, have posed environmental and health risks since the 2000s, with delays in EU regulation. Current stakes involve protecting children, highly vulnerable to toxins, and holding manufacturers accountable. Immediate consequences include costly recalls and loss of consumer trust in brands. In the medium term, EU standards may tighten, pushing companies to innovate with less toxic alternatives. Long-term, a shift to sustainable materials is needed to prevent similar crises. Environmental groups (Greenpeace, Zero Waste) demand sanctions against industries, while textile lobbies resist regulations deemed too strict.",
+      "analyse_zh": "PFAS自20世纪20年代以来因其防水性能被广泛应用于纺织品，但其环境和健康风险长期存在，欧洲立法进程缓慢。当前主要影响是儿童健康保护，他们对毒素尤为敏感，以及生产商的责任问题。短期内，召回成本高昂且消费者信任度下降。中期内，欧洲标准可能加严，迫使企业研发更环保的替代材料。长期来看，必须过渡到可持续材料以避免类似危机。环保组织（绿色和平、零废物）要求对工业企业施以处罚，而纺织业行业协会则抵制他们认为过于严格的限制。",
+      "analyse_ru": "Наличие PFAS в детских товарах — серьезная проблема экологической безопасности, так как эти вещества проникают в организм через кожу и могут вызвать рак, нарушения гормонального фона и другие хронические заболевания. Бельгия присоединяется к ряду стран, где подобные случаи уже фиксировались, что указывает на глобальный характер проблемы. Регуляторы должны ужесточить нормы по содержанию PFAS в продукции, а производители — искать альтернативные материалы. Общественное давление может ускорить изменения в законодательстве. В долгосрочной перспективе необходимо разработать международные стандарты для контроля этих веществ.",
+      "analyse_fa": "وجود PFAS در محصولات کودکان یک مشکل جدی در زمینه ایمنی محیطی است، زیرا این مواد شیمیایی از طریق پوست به بدن نفوذ می‌کنند و می‌توانند سرطان، اختلال در هورمون‌ها و بیماری‌های مزمن دیگر ایجاد کنند. بلژیک به فهرست کشورهای دیگری که چنین مواردی را ثبت کرده‌اند، اضافه شده که نشان‌دهنده طبیعت جهانی این مشکل است. تنظیم‌کنندگان باید استانداردهای سخت‌گیرانه‌تری برای میزان PFAS در محصولات تعیین کنند و تولیدکنندگان باید به جستجوی مواد جایگزین بپردازند. فشار عمومی می‌تواند تغییرات قانونی را تسریع کند. در بلندمدت، لازم است استانداردهای بین‌المللی برای کنترل این مواد طراحی شود.",
+      "analyse_ar": "وجود المواد PFAS في المنتجات الأطفالية هو مشكلة خطيرة في مجال السلامة البيئية، حيث أن هذه المواد الكيميائية تدخل الجسم عبر الجلد وتسبب السرطان، اضطرابات الهرمونية والأمراض المزمنة الأخرى. انضم بلجيكا إلى قائمة البلدان التي سجلت مثل هذه الحالات، مما يشير إلى طبيعة عالمية للمشكلة. يجب على التنظيميين تشديد المعايير بشأن محتوى PFAS في المنتجات، بينما يجب على المنتجين البحث عن مواد بديلة. يمكن أن تسارع الضغوط العامة التغييرات في التشريعات. على المدى الطويل، يجب تطوير معايير دولية للتحكم في هذه المواد.",
+      "categorie": "Environnement et santé publique",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/actu/belgique/2026/11/20/des-vetements-et-chaussures-pour-enfants-contamines-aux-pfas-vendus-en-belgique-un-controle-revele-des-resultats-inquietants-XFQJG725N5BMTGMSTTT56PZO74/",
+      "image": "https://www.dhnet.be/resizer/v2/5VTQ7G77WBAKTCFXBW2RGSNZ2Q.jpeg?auth=3c31421ba89b2d6c441d18c6f0e1a16eebc2caecff1469a8f170f063495e0b0a&width=1620&height=1620&quality=85&focal=3008%2C2008",
+      "date": "2026-11-20",
+      "pays": "pol_env",
+      "badges": [
+        {
+          "label": "▲ Marché des textiles bio et éco-responsables",
+          "hausse": true
+        },
+        {
+          "label": "▼ Assurances responsabilité civile des fabricants",
+          "hausse": false
+        }
+      ],
+      "impact_marches": [
+        {
+          "secteur_fr": "Marché des textiles bio et éco-responsables",
+          "secteur_en": "Bio-textile and eco-responsible market",
+          "secteur_zh": "生态纺织品和可持续市场",
+          "effet_fr": "La crise des PFAS pourrait booster la demande en textiles sans produits chimiques toxiques, dynamisant ce secteur en croissance, notamment pour les vêtements enfants.",
+          "effet_en": "The PFAS crisis may drive demand for textiles free of toxic chemicals, boosting this growing market, especially for children’s clothing.",
+          "effet_zh": "PFAS危机可能刺激无毒化学品纺织品的需求，推动这一快速增长的市场，特别是儿童服装领域。",
+          "hausse": true
+        },
+        {
+          "secteur_fr": "Assurances responsabilité civile des fabricants",
+          "secteur_en": "Manufacturers’ liability insurance sector",
+          "secteur_zh": "制造商责任保险行业",
+          "effet_fr": "Les rappels massifs pourraient entraîner une hausse des sinistres pour les assureurs spécialisés, augmentant leurs primes et réduisant leur appétence pour les risques industriels.",
+          "effet_en": "Mass recalls may lead to higher claims for liability insurers, increasing premiums and reducing their appetite for industrial risks.",
+          "effet_zh": "大规模召回可能导致责任保险公司理赔增加，提高保费并降低其对工业风险的承保意愿。",
+          "hausse": false
+        }
+      ],
+      "created_at": "2026-11-23T19:53:35.678273",
       "sous_categorie": "environnement"
     },
     {
@@ -6854,64 +6914,64 @@
       "sous_categorie": "enfants"
     },
     {
-      "id": "pol_enfants_549919",
-      "titre": "Child Focus alerte sur prédateurs numériques",
-      "titre_en": "Child Focus Warns of Digital Predators",
-      "titre_zh": "儿童关注组织警告网络预警",
-      "titre_ru": "Child Focus: защита детей в эпоху цифровых хищников",
-      "titre_fa": "Child Focus: حفاظت از کودکان در عصر شکارگران دیجیتال",
-      "titre_ar": "Child Focus: حماية الأطفال في عصر المفترسين الرقمي",
-      "titre_original": "Child Focus : protéger les mineurs à l'ère des prédateurs numériques",
-      "resume": "Créée après l’affaire Dutroux, Child Focus lutte aujourd’hui contre les abus sur mineurs via le numérique, un fléau en croissance exponentielle. L’ONG mobilise des outils technologiques pour traquer les prédateurs et sensibiliser les familles. Ses actions s’inscrivent dans un contexte où 1 enfant sur 5 en Europe est exposé à des contenus illicites en ligne.",
-      "resume_en": "Founded after the Dutroux case, Child Focus now combats child abuse via digital platforms, an exponentially growing threat. The NGO uses tech tools to track predators and educate families, amid a European context where 1 in 5 children is exposed to illicit online content.",
-      "resume_zh": "在杜特鲁瓦案后成立的儿童关注组织，如今致力于打击网络针对儿童的虐待，这一问题呈指数增长。该NGO利用技术工具追踪预警者并教育家庭，在欧洲1/5儿童面临网络非法内容暴露的背景下。",
-      "resume_ru": "Организация Child Focus, созданная после дела Дутруа, стала ключевым ресурсом для защиты детей от онлайн-преступников. Она объединяет усилия правоохранительных органов и общественных активистов для борьбы с киберпреступностью. За годы работы удалось спасти тысячи детей от эксплуатации и насилия в интернете.",
-      "resume_fa": "سازمان Child Focus پس از حادثه دوتروآ تأسیس شد و به یک منبع اصلی برای حفاظت از کودکان در برابر مجرمین آنلاین تبدیل شده‌است. این سازمان تلاش‌های نهادهای اجرایی و فعالان اجتماعی را برای مبارزه با جرم‌های دیجیتالی متحد می‌کند. طی سال‌ها فعالیت، هزاران کودک از بهره‌برداری و خشونت در اینترنت نجات یافتند.",
-      "resume_ar": "منظمة Child Focus تأسست بعد من قضية دوتروآ، وأصبحت موردًا أساسيًا لحماية الأطفال من المجرمين الرقمي. تجمع هذه المنظمة بين جهود السلطات الأمنية والناشطين الاجتماعيين لمكافحة الجريمة الإلكترونية. خلال سنوات العمل، نجت آلاف الأطفال من الاستغلال والعنف عبر الإنترنت.",
-      "analyse_detaillee": "La cybercriminalité contre les mineurs a explosé avec l’essor des réseaux sociaux et des jeux en ligne, exploitant la vulnérabilité psychologique des enfants. Child Focus combine données forensiques et partenariats policiers pour identifier les réseaux pédophiles, mais manque encore de moyens pour couvrir l’ensemble du territoire. Les conséquences immédiates incluent une hausse des cas de grooming (20% en 5 ans), tandis que les plateformes comme Meta peinent à appliquer les régulations européennes (DSA). À moyen terme, l’UE pourrait renforcer les sanctions contre les hébergeurs négligents, mais les États membres restent divisés sur la censure préventive. Long terme, l’éducation aux médias et la détection algorithmique pourraient réduire les victimes, à condition d’investir massivement. Les associations comme Child Focus bénéficient du soutien des ONG internationales, mais critiquent l’insuffisance des budgets nationaux.",
-      "analyse_en": "Cybercrime against children surged with social media and online gaming, exploiting minors’ psychological vulnerabilities. Child Focus combines forensic data and police partnerships to track pedophile networks, but lacks resources to cover the entire country. Immediate consequences include a 20% rise in grooming cases over 5 years, while platforms like Meta struggle to enforce EU regulations (DSA). Mid-term, the EU may toughen sanctions on negligent hosts, but member states remain divided on preemptive censorship. Long-term, media literacy and algorithmic detection could reduce victims if massive investment is made. NGOs like Child Focus gain international support but criticize national budget shortages.",
-      "analyse_zh": "儿童网络犯罪随着社交媒体和在线游戏的兴起急剧增加，利用儿童的心理脆弱性。儿童关注组织结合法医数据和警方合作追踪儿童色情网络，但缺乏覆盖全国的资源。短期内，监护诱导案件（5年内增长20%）增加，而Meta等平台难以执行欧盟数字服务法规。中期内，欧盟可能加大对疏忽平台的惩罚，但成员国在预防性审查上意见分歧。长期内，媒体素养和算法检测可能减少受害者，前提是大力投资。该NGO获得国际组织支持，但批评国家预算不足。",
-      "analyse_ru": "Создание Child Focus стало ответом на растущую угрозу цифровых преступлений против детей, которая обостряется с развитием технологий. Организация играет ключевую роль в координации усилий между полицией и экспертами по безопасности, что позволяет оперативно реагировать на угрозы. Однако остаются проблемы с международным сотрудничеством, где многие страны не имеют достаточных механизмов защиты. Критики отмечают необходимость увеличения финансирования и обучения специалистов. В будущем требуется расширение программы мониторинга и просвещения родителей. Успешность Child Focus зависит от взаимодействия с технологическими компаниями для блокировки опасных контента.",
-      "analyse_fa": "تأسیس Child Focus پاسخ به تهدید روزافزون جرائم دیجیتالی علیه کودکان بود که با پیشرفت فناوری شدت گرفته‌است. این سازمان نقش کلیدی در هماهنگی تلاش‌های پلیس و متخصصان امنیت دارد، که امکان واکنش سریع به تهدیدات را فراهم می‌کند. اما مشکلاتی در همکاری بین‌المللی وجود دارد، جایی که بسیاری از کشورها مکانیسم‌های کافی حفاظتی ندارند. منتقدان به افزایش بودجه و آموزش کارشناسان اشاره می‌کنند. در آینده، گسترش برنامه‌های نظارت و آموزش والدین ضروری است. موفقیت Child Focus به همکاری با شرکت‌های فناوری برای مسدودسازی محتوای خطرناک بستگی دارد.",
-      "analyse_ar": "تأسيس Child Focus كان ردًا على التهديد المتزايد للجرائم الرقمية ضد الأطفال، الذي تفاقم مع تطور التكنولوجيا. تلعب المنظمة دورًا حاسمًا في التنسيق بين الشرطة والخبراء الأمنيين، مما يسمح بالرد السريع على التهديدات. ومع ذلك، هناك مشاكل في التعاون الدولي حيث لا تملك العديد من الدول آليات حماية كافية. يشير النقاد إلى ضرورة زيادة التمويل وتدريب المتخصصين. في المستقبل، يتطلب الأمر توسيع برامج المراقبة والتعليم للأهل. نجاح Child Focus يعتمد على التعاون مع شركات التكنولوجيا لسدّ مسارات المحتوى الخطير.",
-      "categorie": "Cybersécurité/Sécurité publique",
-      "source": "RTBF",
-      "url": "https://www.rtbf.be/article/child-focus-proteger-les-mineurs-a-l-ere-des-predateurs-numeriques-11807474",
-      "image": "https://static-content.rtbf.be/article/image/1920x1080/1/c/f/5399a8d613bc4e11d314d5461d75ea06.jpg",
-      "date": "2026-10-29",
-      "pays": "pol_enfants",
+      "id": "pol_env_467474",
+      "titre": "PFAS dans vêtements enfants : alerte européenne",
+      "titre_en": "PFAS in kids' clothing: EU alert",
+      "titre_zh": "儿童服装PFAS超标：欧盟警示",
+      "titre_ru": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
+      "titre_fa": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
+      "titre_ar": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
+      "titre_original": "Des vêtements pour enfants contiennent trop de PFAS : ce que révèlent les contrôles menés en Belgique",
+      "resume": "Des contrôles en Belgique révèlent que 32 % des vêtements pour enfants contiennent des niveaux excessifs de PFAS, des substances toxiques surnommées ‘polluants éternels’. Ces résultats s’alignent sur les données européennes, soulignant un problème systémique dans l’industrie textile. Les autorités appellent à une régulation renforcée face aux risques sanitaires et environnementaux.",
+      "resume_en": "Belgian checks reveal 32% of children’s clothing contains excessive PFAS levels, dubbed ‘forever chemicals’. These findings mirror EU-wide data, exposing a systemic issue in the textile industry. Authorities urge stricter regulations to address health and environmental risks.",
+      "resume_zh": "比利时检测显示32%的儿童服装含有过量PFAS，被称作‘永久性污染物’。数据与欧盟一致，揭示纺织业系统性问题。当局呼吁加强监管以应对健康和环境风险。",
+      "resume_ru": "",
+      "resume_fa": "",
+      "resume_ar": "",
+      "analyse_detaillee": "Les PFAS, utilisés depuis les années 1950 pour leurs propriétés antiadhésives et imperméabilisantes, sont aujourd’hui pointés comme une menace majeure pour la santé humaine et les écosystèmes. Leur persistance dans l’environnement et leur accumulation dans les organismes vivants en font un enjeu sanitaire critique, notamment pour les enfants, plus vulnérables aux toxines. Les causes profondes incluent un manque de transparence des fabricants et une régulation insuffisante au niveau européen, malgré des alertes répétées depuis 2010. À court terme, ces révélations pourraient déclencher des rappels de produits et des amendes pour les marques non conformes, comme déjà observé en Norvège. À moyen terme, l’industrie textile devra repenser ses matériaux, avec un coût potentiellement élevé pour les PME. À long terme, une interdiction totale des PFAS semble inévitable, poussant vers des alternatives durables, mais leur adoption reste lente en raison des coûts. Les acteurs comme l’UE et les ONG environnementales (Greenpeace, Zero Waste Europe) poussent pour une harmonisation des normes, tandis que les lobbies industriels résistent, invoquant la compétitivité économique.",
+      "analyse_en": "PFAS, used since the 1950s for their anti-stick and waterproof properties, are now a major health and environmental threat. Their persistence in the environment and bioaccumulation in living organisms make them a critical public health issue, especially for children. Root causes include manufacturers’ lack of transparency and insufficient EU regulation, despite repeated warnings since 2010. Short-term, these findings may trigger product recalls and fines for non-compliant brands, as seen in Norway. Mid-term, the textile industry will need to redesign materials, with potentially high costs for SMEs. Long-term, a total ban on PFAS seems inevitable, driving toward sustainable alternatives—though adoption remains slow due to economic concerns. Actors like the EU and environmental NGOs (Greenpeace, Zero Waste Europe) advocate for unified standards, while industry lobbies resist, citing economic competitiveness.",
+      "analyse_zh": "PFAS自上世纪50年代以来因其防粘防水性能被广泛使用，现已成为严重的健康和环境威胁。其在环境中的持久性和在生物体内的累积使其成为儿童等易感群体的重大公共卫生问题。深层原因包括制造商缺乏透明度和欧盟监管不足，尽管自2010年以来多次警告。短期内，这些发现可能导致产品召回和对不合规品牌的罚款，如挪威已观察到的情况。中期内，纺织业将不得不重新设计材料，小型企业可能面临高昂成本。长期来看，PFAS全面禁令似乎不可避免，推动向可持续替代品转型，但由于经济因素，转型进程缓慢。欧盟和环保组织（绿色和平、零废弃欧洲）推动统一标准，而行业利益集团则以经济竞争力为由抵制改革。",
+      "analyse_ru": "",
+      "analyse_fa": "",
+      "analyse_ar": "",
+      "categorie": "Environnement/Santé publique",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/planete/sante/2026/11/20/des-vetements-pour-enfants-contiennent-trop-de-pfas-ce-que-revelent-les-controles-menes-en-belgique-QVOXXR7ZG5AX7O2K3VCF3XEKMM/",
+      "image": "https://www.lalibre.be/resizer/v2/FY3J6CH4BNDBZA533MJ7DTHUOM.jpg?auth=5438223f6cb8b7bd7ed6cb9dbc4c23318b7b2bb03a3c3c93e927c9267cfda042&width=1620&height=1620&quality=85&focal=2944%2C1963",
+      "date": "2026-11-20",
+      "pays": "pol_env",
       "badges": [
         {
-          "label": "▲ Cybersécurité (assurance cyber)",
+          "label": "▲ Assurance responsabilité civile (secteur textile)",
           "hausse": true
         },
         {
-          "label": "▼ Fintech (paiements en ligne sécurisés)",
+          "label": "▼ Fonds d’investissement verts (ESG)",
           "hausse": false
         }
       ],
       "impact_marches": [
         {
-          "secteur_fr": "Cybersécurité (assurance cyber)",
-          "secteur_en": "Cybersecurity insurance sector",
-          "secteur_zh": "网络安全保险行业",
-          "effet_fr": "L’augmentation des attaques ciblant les mineurs pourrait entraîner une hausse des primes pour les assurances cyber couvrant les écoles et associations, déjà sous pression depuis les cyberattaques massives.",
-          "effet_en": "Rising attacks targeting minors may lead to higher premiums for cyber insurance covering schools and NGOs, already strained by large-scale cyberattacks.",
-          "effet_zh": "针对儿童的网络攻击增加可能导致学校和NGO网络安全保险费用上涨，这些机构已因大规模网络攻击而承压。",
+          "secteur_fr": "Assurance responsabilité civile (secteur textile)",
+          "secteur_en": "Product liability insurance (textile sector)",
+          "secteur_zh": "纺织业产品责任保险",
+          "effet_fr": "Les marques exposées à des poursuites pour PFAS verront leurs primes d’assurance exploser, avec des exclusions de couverture pour les risques liés aux substances chimiques.",
+          "effet_en": "Brands facing PFAS lawsuits will see insurance premiums skyrocket, with coverage exclusions for chemical-related risks becoming commonplace.",
+          "effet_zh": "面临PFAS诉讼的品牌将面临保费暴涨，化学相关风险的保险覆盖可能被排除。",
           "hausse": true
         },
         {
-          "secteur_fr": "Fintech (paiements en ligne sécurisés)",
-          "secteur_en": "Fintech (secure online payments)",
-          "secteur_zh": "金融科技（在线安全支付）",
-          "effet_fr": "Les régulateurs pourraient exiger des fintechs des protocoles renforcés pour vérifier l’âge des utilisateurs, impactant leur modèle économique basé sur la rapidité des transactions.",
-          "effet_en": "Regulators may require fintechs to implement stricter age-verification protocols, affecting their transaction-speed-based business models.",
-          "effet_zh": "监管机构可能要求金融科技公司实施更严格的用户年龄验证协议，影响其基于交易速度的商业模式。",
+          "secteur_fr": "Fonds d’investissement verts (ESG)",
+          "secteur_en": "Green investment funds (ESG)",
+          "secteur_zh": "绿色投资基金（ESG）",
+          "effet_fr": "Les fonds ESG pourraient réduire leurs allocations vers les entreprises textiles non conformes, accélérant leur transition vers des matériaux sans PFAS sous peine de désinvestissement.",
+          "effet_en": "ESG funds may cut allocations to non-compliant textile firms, pushing them toward PFAS-free materials or risk divestment.",
+          "effet_zh": "ESG基金可能减少对不合规纺织企业的投资，推动其转向无PFAS材料，否则面临退出投资。",
           "hausse": false
         }
       ],
-      "created_at": "2026-10-30T20:27:21.297386",
-      "sous_categorie": "enfants"
+      "created_at": "2026-11-23T07:20:54.248532",
+      "sous_categorie": "environnement"
     },
     {
       "id": "pol_env_465537",
@@ -7151,66 +7211,6 @@
         }
       ],
       "created_at": "2026-11-21T16:06:50.318560",
-      "sous_categorie": "environnement"
-    },
-    {
-      "id": "pol_env_29213",
-      "titre": "Belgique : Camille Étienne révèle l’ampleur des Pfas",
-      "titre_en": "Belgium’s PFAS Pollution Crisis Highlighted by Activist",
-      "titre_zh": "比利时PFA斯污染严重曝光",
-      "titre_ru": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
-      "titre_fa": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
-      "titre_ar": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
-      "titre_original": "Camille Etienne : “La Belgique est la première ou la deuxième en termes de contamination aux Pfas”",
-      "resume": "L’activiste Camille Étienne publie les résultats de deux ans d’enquête sur les polluants éternels (Pfas) en Belgique, classant le pays parmi les plus contaminés au monde. Son livre *Facteur X* révèle des niveaux alarmants de ces substances toxiques, liées à des industries chimiques et militaires. Ces données soulignent un problème environnemental et sanitaire majeur, nécessitant des mesures urgentes.",
-      "resume_en": "Environmental activist Camille Étienne reveals Belgium’s severe PFAS pollution after two years of investigation, ranking the country as the most contaminated globally. Her book *Factor X* exposes alarming levels of these toxic chemicals, tied to chemical and military industries. The findings highlight a critical environmental and health crisis requiring immediate action.",
-      "resume_zh": "环保活动家卡米尔·埃蒂安公布两年调查结果，揭示比利时PFA斯污染严重，该国可能位居全球首位。其新书《因子X》曝光高水平的永久性污染物，与化工和军工业相关。这些发现凸显严重的环境和健康危机，亟需紧急应对。",
-      "resume_ru": "",
-      "resume_fa": "",
-      "resume_ar": "",
-      "analyse_detaillee": "Les Pfas, surnommés ‘polluants éternels’, persistent dans l’environnement pendant des décennies sans se dégrader, posant un défi historique aux politiques environnementales. Leur contamination massive en Belgique s’explique par des décennies d’industrialisation non régulée, notamment dans les zones industrielles et militaires comme la région de Liège. À court terme, ces substances menacent la santé publique via l’eau potable et les sols, aggravant des maladies comme le cancer. À moyen terme, les coûts de dépollution pourraient peser sur les budgets publics et les assurances, avec des répercussions économiques sur les secteurs liés à l’eau et à l’agriculture. Long terme, une prise de conscience internationale est nécessaire pour encadrer ces industries, mais les lobbies chimiques freinent souvent les régulations strictes. Les associations écologistes appellent à une transparence totale, tandis que l’État belge doit arbitrer entre pression industrielle et protection citoyenne.",
-      "analyse_en": "PFAS, dubbed ‘forever chemicals’, persist in the environment for decades without breaking down, presenting a historic challenge to environmental policies. Belgium’s severe contamination stems from decades of unregulated industrialization, particularly in industrial and military zones like Liège. Short-term, these substances threaten public health through contaminated water and soil, exacerbating diseases like cancer. Medium-term, depollution costs could strain public budgets and insurance sectors, impacting water and agriculture industries. Long-term, global awareness is needed to regulate these industries, but chemical lobbies often block strict regulations. Environmental groups demand full transparency, while Belgium’s government must balance industrial pressure with citizen protection.",
-      "analyse_zh": "PFA斯污染物因难降解而被称为‘永久性污染物’，对环境政策提出长期挑战。比利时污染严重源于多年未监管的工业化，特别是利日地区的化工和军工业。短期内，这些污染物通过饮用水和土壤威胁公众健康，加剧癌症等疾病风险。中期内，清理成本可能压垮公共预算和保险行业，影响水资源和农业产业。长期来看，需要国际社会共同应对，但化工行业利益集团往往阻碍严格法规。环保组织要求全面透明，而比利时政府必须在产业压力与民众保护之间权衡。",
-      "analyse_ru": "",
-      "analyse_fa": "",
-      "analyse_ar": "",
-      "categorie": "Environnement",
-      "source": "Lalibre.be",
-      "url": "https://www.lalibre.be/planete/2026/11/19/camille-etienne-la-belgique-est-la-premiere-ou-la-deuxieme-en-termes-de-contamination-aux-pfas-NFYTZEFFSFBN7ETRBVKA5OCUAM/",
-      "image": "https://www.lalibre.be/resizer/v2/MFXEG4GXRZALVGPWKQNITY5UTY.jpg?auth=135ae91e8b234ef97303f123d3253b0f98a041d81baec34717bbeefdd529eebe&width=1620&height=1620&quality=85&focal=2500%2C2000",
-      "date": "2026-11-19",
-      "pays": "pol_env",
-      "badges": [
-        {
-          "label": "▲ Assurances environnementales et santé publique",
-          "hausse": true
-        },
-        {
-          "label": "▲ Marché des technologies de dépollution",
-          "hausse": true
-        }
-      ],
-      "impact_marches": [
-        {
-          "secteur_fr": "Assurances environnementales et santé publique",
-          "secteur_en": "Environmental insurance and public health",
-          "secteur_zh": "环境保险和公共卫生",
-          "effet_fr": "Les assureurs pourraient voir une hausse des sinistres liés aux maladies liées aux Pfas, entraînant des réévaluations des primes et des exclusions de couverture pour les zones contaminées.",
-          "effet_en": "Insurers may face increased claims for PFAS-related illnesses, leading to premium adjustments and coverage exclusions for contaminated areas.",
-          "effet_zh": "保险公司可能面临因PFA斯相关疾病导致的赔偿增加，导致保费调整和对污染区域的理赔排除。",
-          "hausse": true
-        },
-        {
-          "secteur_fr": "Marché des technologies de dépollution",
-          "secteur_en": "Depollution technology market",
-          "secteur_zh": "污染治理技术市场",
-          "effet_fr": "La demande en solutions innovantes pour traiter les Pfas pourrait dynamiser ce secteur, avec des investissements accrus dans la R&D et les partenariats public-privé.",
-          "effet_en": "Demand for innovative PFAS treatment solutions may boost this sector, with increased R&D investments and public-private partnerships.",
-          "effet_zh": "对PFA斯治理技术的需求可能推动该行业发展，带来研发投资和公私合作的增加。",
-          "hausse": true
-        }
-      ],
-      "created_at": "2026-11-20T18:22:04.436269",
       "sous_categorie": "environnement"
     }
   ]
